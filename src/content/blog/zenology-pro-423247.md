@@ -1,6 +1,6 @@
 ---
 title: "57% Off ZENOLOGY PRO"
-description: "ZENOLOGY PRO, Roland's expandable software synth built on the ZEN-Core Synthesis System, is $19 at Plugin Boutique — 57% off, against a $229 regular price..."
+description: "ZENOLOGY PRO, Roland's expandable software synth built on the ZEN-Core Synthesis System, is $99 at Plugin Boutique — 57% off, against a $229 regular price..."
 pubDate: "2026-09-21T15:19:35Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=ZENOLOGY+PRO&a_aid=69cb95abe1763&chan=art&data1=zenology-pro-423247&utm_source=plugindrop&utm_medium=article&utm_campaign=zenology-pro-423247"
@@ -13,7 +13,7 @@ saleExpiry: "2026-10-21"
 saleExpirySource: "fallback"
 draft: false
 ---
-**TL;DR:** ZENOLOGY PRO, Roland's expandable software synth built on the ZEN-Core Synthesis System, is $19 at Plugin Boutique — 57% off, against a ~~$229~~ regular price tracked by PluginDrop. It's a multi-synthesis engine with dual LFOs, flexible filtering, and built-in effects per voice, designed to grow through additional Roland Cloud expansions. [Grab it at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/15308-ZENOLOGY-PRO?a_aid=69cb95abe1763&chan=art&data1=zenology-pro-423247&utm_source=plugindrop&utm_medium=article&utm_campaign=zenology-pro-423247).
+**TL;DR:** ZENOLOGY PRO, Roland's expandable software synth built on the ZEN-Core Synthesis System, is $99 at Plugin Boutique — 57% off, against a ~~$229~~ regular price tracked by PluginDrop. It's a multi-synthesis engine with dual LFOs, flexible filtering, and built-in effects per voice, designed to grow through additional Roland Cloud expansions. [Grab it at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/15308-ZENOLOGY-PRO?a_aid=69cb95abe1763&chan=art&data1=zenology-pro-423247&utm_source=plugindrop&utm_medium=article&utm_campaign=zenology-pro-423247).
 
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="57% Off ZENOLOGY PRO — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1469927848&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
@@ -39,11 +39,11 @@ Because it mixes synthesis types inside one engine, it also works as a consolida
 
 ## Pricing and deal details
 
-- Deal price: **$19** at Plugin Boutique
+- Deal price: **$99** at Plugin Boutique
 - Regular price tracked by PluginDrop: ~~$229~~
 - Discount: **57% off**
 
-No end date is listed for this specific $19 listing, so treat the window as time-limited rather than open-ended. [See the current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/15308-ZENOLOGY-PRO?a_aid=69cb95abe1763&chan=art&data1=zenology-pro-423247&utm_source=plugindrop&utm_medium=article&utm_campaign=zenology-pro-423247) to confirm the listing is still live before buying.
+No end date is listed for this specific $99 listing, so treat the window as time-limited rather than open-ended. [See the current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/15308-ZENOLOGY-PRO?a_aid=69cb95abe1763&chan=art&data1=zenology-pro-423247&utm_source=plugindrop&utm_medium=article&utm_campaign=zenology-pro-423247) to confirm the listing is still live before buying.
 
 ## Skip it if
 
@@ -73,8 +73,8 @@ A: It's Roland's expandable software synth plugin built on the ZEN-Core Synthesi
 **Q: How is ZENOLOGY PRO licensed?**
 A: Roland Cloud instruments including ZENOLOGY PRO are authorized through a Roland Cloud account and the Roland Cloud Manager application rather than a third-party iLok dongle.
 
-**Q: Is $19 the lowest price ZENOLOGY PRO has ever sold for?**
-A: PluginDrop tracks a regular price of $229 for ZENOLOGY PRO, making the current $19 listing a 57% discount. Community posts have referenced other pricing at different times through Roland's own promotions and Plugin Boutique sales, but PluginDrop cannot confirm those are the all-time low.
+**Q: Is $99 the lowest price ZENOLOGY PRO has ever sold for?**
+A: PluginDrop tracks a regular price of $229 for ZENOLOGY PRO, making the current $99 listing a 57% discount. Community posts have referenced other pricing at different times through Roland's own promotions and Plugin Boutique sales, but PluginDrop cannot confirm those are the all-time low.
 
 **Q: Can ZENOLOGY PRO be expanded later?**
 A: Yes. It's built as an expandable engine designed to accept additional Roland Cloud instrument and sound content over time, rather than a fixed, closed preset library.
