@@ -1119,14 +1119,18 @@ const featuredDeals = isEvergreen ? allPosts
 						<div class="pb-deals-box">
 							<div class="pb-deals-header">This week's top deals on Plugin Boutique</div>
 							<ul class="pb-deals-list">
-								{featuredDeals.map(deal => (
+								{featuredDeals.map(deal => {
+									const dealsBoxUrl = new URL(deal.data.affiliate);
+									dealsBoxUrl.searchParams.set('chan', 'home');
+									dealsBoxUrl.searchParams.set('data1', `${currentSlug}-deals-box`);
+									return (
 									<li class="pb-deal-item">
-										<a href={`${deal.data.affiliate}&utm_source=plugindrop&utm_medium=deals-box`} target="_blank" rel="noopener sponsored" class="pb-deal-link">
+										<a href={dealsBoxUrl.toString()} target="_blank" rel="noopener sponsored" class="pb-deal-link">
 											<span class="pb-deal-title">{deal.data.title}</span>
 											{deal.data.dealPrice && <span class="pb-deal-price">{deal.data.dealPrice}</span>}
 										</a>
 									</li>
-								))}
+								);})}
 							</ul>
 							<a href={`https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=deals-box&utm_campaign=see-all&chan=home&data1=${currentSlug}-deals-box`} class="pb-deals-more" target="_blank" rel="noopener sponsored">See all current deals →</a>
 						</div>

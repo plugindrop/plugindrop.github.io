@@ -50,7 +50,12 @@ export function formatPrice(val: number | null): string {
 export function pbLink(path: string, extraParams = ''): string {
   if (!path) return '#';
   if (path.startsWith('http')) {
-    if (!path.includes('pluginboutique.com') || path.includes('a_aid=')) return path;
+    if (!path.includes('pluginboutique.com')) return path;
+    if (path.includes('a_aid=')) {
+      if (!extraParams) return path;
+      const sep = path.includes('?') ? '&' : '?';
+      return `${path}${sep}${extraParams}`;
+    }
     const sep = path.includes('?') ? '&' : '?';
     return `${path}${sep}${AFF}${extraParams ? `&${extraParams}` : ''}`;
   }

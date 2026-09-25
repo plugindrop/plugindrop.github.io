@@ -7,7 +7,7 @@ import { SITE_TITLE } from '../consts';
 const AFF = "a_aid=69cb95abe1763";
 const UTM = (campaign: string) => `utm_source=plugindrop&utm_medium=bundle-comparison&utm_campaign=${campaign}`;
 const pb = (path: string, campaign: string) =>
-  `https://www.pluginboutique.com${path}?${AFF}&${UTM(campaign)}`;
+  `https://www.pluginboutique.com${path}?${AFF}&${UTM(campaign)}&chan=trk&data1=bundle-comparison-${campaign}`;
 
 interface Bundle {
   name: string;

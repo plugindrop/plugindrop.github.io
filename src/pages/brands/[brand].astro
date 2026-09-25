@@ -346,7 +346,7 @@ const itemListLD = {
                 <td>{r.onSale && r.off > 0 ? <span class="off-badge">-{r.off}%</span> : '—'}</td>
                 <td class="mono">{formatPrice(r.allTimeLow)}</td>
                 <td>
-                  <a href={pbLink(r.pbUrl, 'chan=brand')} class="cta-btn" target="_blank" rel="noopener sponsored">See deal</a>
+                  <a href={pbLink(r.pbUrl, 'chan=trk')} class="cta-btn" target="_blank" rel="noopener sponsored">See deal</a>
                 </td>
               </tr>
             ))}
