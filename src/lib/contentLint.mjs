@@ -56,10 +56,4 @@ export function publishedDealBodyTooThin(markdown) {
  * PR that will actually fix it. Keep this empty by default — an entry here
  * is a known, tracked exception, not a place to quietly suppress a new hit.
  */
-export const ALLOWLIST = {
-  'jd-800-42d0d3': {
-    reason: 'stub deal article with no real body content (video embed + one link)',
-    check: 'publishedDealBodyTooThin',
-    trackedIn: 'PR-14',
-  },
-};
+export const ALLOWLIST = {};
