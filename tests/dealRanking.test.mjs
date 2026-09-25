@@ -1,5 +1,6 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
+import { findTrackerEntryForPost } from '../src/lib/articleDeal.mjs';
 
 import {
   pbProductId,
@@ -183,6 +184,19 @@ test('rankBiggestDiscounts: excludes PB IDs, small savings, and search URLs', ()
     Search: entry({ pb_url: '/search?q=test', history: [auto('2026-09-24', 100, 1)] }),
   };
   assert.deepEqual(rankBiggestDiscounts(entries, NOW, { excludeIds: new Set(['61001']) }).map(d => d.name), ['Included']);
+});
+
+test('rankBiggestDiscounts: excludes an article-matched tracker product by PB ID', () => {
+  const entries = {
+    'AMBER 2': liveEntry(61101, 100, 10),
+    'Other Plugin': liveEntry(61102, 100, 30),
+  };
+  const post = { data: { title: 'AMBER 2 sale', priceTrack: ['AMBER 2'] } };
+  const match = findTrackerEntryForPost(post, entries, 'AMBER 2 is on sale');
+  assert.ok(match);
+  const excludeIds = new Set([pbProductId(match.entry.pb_url)]);
+  assert.ok(rankBiggestDiscounts(entries, NOW, { limit: 2 }).some(d => d.name === 'AMBER 2'));
+  assert.ok(rankBiggestDiscounts(entries, NOW, { limit: 2, excludeIds }).every(d => d.name !== 'AMBER 2'));
 });
 
 test('rankBiggestDiscounts: caps same-category and price SOLID/PHAT/HEAVY series at one', () => {
