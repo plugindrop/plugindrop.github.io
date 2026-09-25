@@ -10,7 +10,18 @@ import Header from '../components/Header.astro';
 import NewsletterForm from '../components/NewsletterForm.astro';
 import PriceTracker from '../components/PriceTracker.astro';
 import TopDeals from '../components/TopDeals.astro';
+import DealFactBox from '../components/DealFactBox.astro';
 import { SITE_TITLE } from '../consts';
+import priceDataRaw from '../data/price_history.json';
+import { type PriceEntry, formatPrice } from '../lib/priceUtils';
+import {
+	findTrackerEntryForPost,
+	buildFactBox,
+	productNameOf,
+	ctaHref as buildCtaHref,
+	ctaLabel,
+	ctaShortLabel,
+} from '../lib/articleDeal.mjs';
 
 type Props = CollectionEntry<'blog'>['data'] & { readingTime?: string; rawBody?: string; slug?: string };
 
