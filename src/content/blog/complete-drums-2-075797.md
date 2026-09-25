@@ -35,7 +35,7 @@ The tape and vinyl-processed variants are useful when a track needs vintage char
 
 ## Pricing and deal details
 
-Plugin Boutique lists Complete Drums 2 at $525 regularly, and the current deal cuts that by 92%, bringing it to roughly $42. Sale-tracking history on this title has also shown it at $44 (through October 5) and separately at £39 (through September 12) via the Wave Alchemy site directly, so the exact price and end date can shift between promotions. Given that variance, verify current pricing on the product page before buying.
+Plugin Boutique lists Complete Drums 2 at $525 regularly, and the current deal cuts that by 92%, bringing it to $44. Sale-tracking history on this title has also shown it at $44 (through October 5) and separately at £39 (through September 12) via the Wave Alchemy site directly, so the exact price and end date can shift between promotions. Given that variance, verify current pricing on the product page before buying.
 
 ## Skip it if
 
@@ -52,7 +52,6 @@ A separate community post tracked the same "34,000 production ready drum and per
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements
-- Formats: CLAP
 - Source: pluginboutique.com product page, retrieved 2026-09-22
 <!-- deal-context-formats:end -->
 
@@ -72,7 +71,7 @@ A: Complete Drums 2 has appeared in multiple separate promotions at different pr
 
 ## Should you buy now?
 
-At 92% off its $525 regular price, this deal brings Complete Drums 2 down to roughly $42, which lines up with the lower end of prices this library has hit during past promotions. For producers who want a large, layered drum and percussion sample source with tape and vinyl-processed variants included, the current discount represents a substantial cut from full price. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Complete+Drums+2&a_aid=69cb95abe1763&chan=art&data1=complete-drums-2-075797&utm_source=plugindrop&utm_medium=article&utm_campaign=complete-drums-2-075797) while the promotional pricing is active.
+At 92% off its $525 regular price, this deal brings Complete Drums 2 down to $44, which lines up with the lower end of prices this library has hit during past promotions. For producers who want a large, layered drum and percussion sample source with tape and vinyl-processed variants included, the current discount represents a substantial cut from full price. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Complete+Drums+2&a_aid=69cb95abe1763&chan=art&data1=complete-drums-2-075797&utm_source=plugindrop&utm_medium=article&utm_campaign=complete-drums-2-075797) while the promotional pricing is active.
 
 *Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
 
