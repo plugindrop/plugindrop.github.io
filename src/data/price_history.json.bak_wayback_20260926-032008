@@ -10205,42 +10205,6 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
-        },
-        {
-          "date": "2023-11-19",
-          "regular": 45.38,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-02-07",
-          "regular": 46.5,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-04-04",
-          "regular": 49.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-09-20",
-          "regular": 49.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-03-18",
-          "regular": 39.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-05-16",
-          "regular": 49.0,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/cherry-audio-harmonia.jpg"
@@ -10332,12 +10296,6 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
-        },
-        {
-          "date": "2025-03-12",
-          "regular": 54.0,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/cherry-audio-kr-55c-drum-machine.jpg"
@@ -14505,12 +14463,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2025-08-10",
-          "regular": 106.11,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/d-50.jpg"
