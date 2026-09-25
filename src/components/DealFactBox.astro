@@ -1,0 +1,103 @@
+---
+/**
+ * Price-tracker fact-box shown on article pages, right above the CTA.
+ * Every number here comes straight from articleDeal.buildFactBox() (which
+ * only reads confirmed observations in price_history.json) — no adjectives,
+ * no "great deal" framing, just what was actually observed and when.
+ */
+interface FactBox {
+  current: number | null;
+  regular: number | null;
+  lowest: number | null;
+  typicalSale: number | null;
+  trackedSince: string;
+  observations: number;
+  lastChecked: string;
+  state: 'live' | 'ended' | 'unknown';
+  everyday: { since: string; count: number } | null;
+  recentDrop: { since: string; prevPrice: number; current: number } | null;
+}
+
+export interface Props {
+  fact: FactBox | null;
+  productName: string | null;
+}
+
+const { fact, productName } = Astro.props;
+const subject = productName ?? 'it';
+
+function fmt(v: number | null): string {
+  return v === null ? '—' : `$${v}`;
+}
+
+function shortDate(dateStr: string): string {
+  return new Date(`${dateStr}T00:00:00Z`).toLocaleDateString('en-US', {
+    month: 'short',
+    day: 'numeric',
+    timeZone: 'UTC',
+  });
+}
+
+let stateLine: string | null = null;
+let anchorLine: string | null = null;
+let noteLine: string | null = null;
+
+if (fact) {
+  if (fact.state === 'ended') {
+    stateLine = `Our last check on ${shortDate(fact.lastChecked)} found ${subject} back at its regular price (${fmt(fact.regular)}).`;
+  } else if (fact.state === 'live') {
+    stateLine = `Last confirmed at ${fmt(fact.current)} on ${shortDate(fact.lastChecked)}.`;
+  } else {
+    stateLine = `Last observed at ${fmt(fact.current)} on ${shortDate(fact.lastChecked)}.`;
+  }
+
+  const anchorParts: string[] = [];
+  if (fact.regular !== null) anchorParts.push(`Regular ${fmt(fact.regular)}`);
+  if (fact.lowest !== null) anchorParts.push(`Lowest we've seen ${fmt(fact.lowest)}`);
+  if (fact.typicalSale !== null) anchorParts.push(`Typical sale ${fmt(fact.typicalSale)}`);
+  anchorParts.push(
+    `${fact.observations} price check${fact.observations === 1 ? '' : 'es'} since ${shortDate(fact.trackedSince)}`,
+  );
+  anchorLine = anchorParts.join(' · ');
+
+  if (fact.everyday) {
+    noteLine = `This has been the price at every check since ${shortDate(fact.everyday.since)}.`;
+  } else if (fact.recentDrop) {
+    noteLine = `Dropped from ${fmt(fact.recentDrop.prevPrice)} on ${shortDate(fact.recentDrop.since)}.`;
+  }
+}
+---
+
+{fact && (
+  <div class="deal-fact-box">
+    <p class="deal-fact-state">{stateLine}</p>
+    {anchorLine && <p class="deal-fact-anchor">{anchorLine}</p>}
+    {noteLine && <p class="deal-fact-note">{noteLine}</p>}
+  </div>
+)}
+
+<style>
+  .deal-fact-box {
+    margin: 0.75rem 0;
+    padding: 0.6rem 0.85rem;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    font-size: 0.85rem;
+    line-height: 1.5;
+  }
+  .deal-fact-state {
+    margin: 0 0 0.3rem;
+    color: var(--text);
+    font-weight: 500;
+  }
+  .deal-fact-anchor {
+    margin: 0;
+    color: var(--text-muted);
+  }
+  .deal-fact-note {
+    margin: 0.3rem 0 0;
+    color: var(--text-muted);
+    font-style: italic;
+  }
+</style>

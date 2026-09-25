@@ -114,7 +114,9 @@ const railTitle = watchMode
               <span class="deals-rail-cur mono">{formatPrice(d.current)}</span>
             </div>
             {d.checkedLabel && <span class="deals-rail-checked">checked {d.checkedLabel}</span>}
-            <a href={pbLink(d.entry.pb_url)} class="deals-rail-cta" target="_blank" rel="noopener sponsored">See deal →</a>
+            <a href={pbLink(d.entry.pb_url)} class="deals-rail-cta" target="_blank" rel="noopener sponsored">
+              {d.regular - d.current >= 5 ? `Save ${formatPrice(d.regular - d.current)} →` : `Get it for ${formatPrice(d.current)} →`}
+            </a>
           </li>
         ))}
       </ul>
