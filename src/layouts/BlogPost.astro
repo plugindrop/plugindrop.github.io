@@ -258,40 +258,11 @@ const productLD = (affiliate && dealPrice && !saleExpired && !_trackerSaysEnded 
 	},
 } : null;
 
-// Review schema — editorial rating for review articles (shows stars in SERP)
-const isReview = tags.includes('review') && score > 0;
-const reviewItemName = isReview
-	? title.replace(/ Review\b.*$/i, '').replace(/:.*/,'').trim()
-	: '';
-const reviewLD = isReview ? {
-	"@context": "https://schema.org",
-	"@type": "Review",
-	"itemReviewed": {
-		"@type": "SoftwareApplication",
-		"name": reviewItemName,
-		"applicationCategory": "MultimediaApplication",
-		"operatingSystem": "Windows, macOS",
-	},
-	"reviewRating": {
-		"@type": "Rating",
-		"ratingValue": String((score / 2).toFixed(1)),
-		"bestRating": "5",
-		"worstRating": "1",
-	},
-	"author": {
-		"@type": "Organization",
-		"name": "PluginDrop",
-		"url": "https://plugindrop.net",
-	},
-	"publisher": {
-		"@type": "Organization",
-		"name": "PluginDrop",
-		"url": "https://plugindrop.net",
-	},
-	...(resolvedImage ? { "image": String(resolvedImage) } : {}),
-	"name": title,
-	"description": description,
-} : null;
+// Review schema removed (PR-7, 2026-09-25): `score` is an internal ranking
+// value, not an actual editorial review score — same reason the
+// AggregateRating above is disabled. There is no reviewer or test rig
+// behind these articles, so a "Review"/"Rating" claim here would be exactly
+// the kind of fabricated claim this pass is removing from the article text.
 
 // VideoObject schema — extract first YouTube embed for video search results
 const _videoMatch = rawBody ? rawBody.match(/youtube(?:-nocookie)?\.com\/embed\/([A-Za-z0-9_-]{11})/) : null;
