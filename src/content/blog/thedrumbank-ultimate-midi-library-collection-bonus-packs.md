@@ -11,8 +11,6 @@ originalPrice: "$110.00"
 discount: "68% OFF"
 draft: false
 ---
-If you only need one MIDI starter kit this month, make it this one — the bonus packs alone add extra value on top of the base collection at no added cost.
-
 **TL;DR:** TheDrumBank's Ultimate MIDI Library Collection is priced at $35 and ships with bonus MIDI packs bundled in for free. There's no separate charge for the extras, so the per-dollar value goes up the moment they're added to your cart. [Grab it at ADSR Sounds](https://www.adsrsounds.com/product/presets/thedrumbank-ultimate-midi-library-collection-bonus-packs/?a_aid=plugindrop&data1=thedrumbank-ultimate-midi-library-collection-bonus-packs&utm_source=plugindrop&utm_medium=article&utm_campaign=thedrumbank-ultimate-midi-library-collection-bonus-packs).
 
 <div class="audio-embed">
