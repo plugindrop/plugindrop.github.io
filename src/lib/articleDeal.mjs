@@ -286,3 +286,20 @@ export function ctaShortLabel({ priceText, isFree, state }) {
   if (priceText) return `Get for ${priceText}`;
   return 'See deal';
 }
+
+/**
+ * True only when `data.saleExpiry` is an actual known expiry date, not the
+ * generator's fallback guess (PR-8, 2026-09-25). A `saleExpiry` older than
+ * `pubDate` is never trusted either way — that shape is the "tracked_since
+ * value copied into saleExpiry" bug from the AMBER 2 incident (pub 9/23,
+ * expiry 8/16), not a real countdown target.
+ */
+export function hasTrustedExpiry(data) {
+  if (!data?.saleExpiry) return false;
+  if (data.saleExpirySource === 'fallback') return false;
+  const expiry = new Date(data.saleExpiry);
+  const pubDate = data.pubDate ? new Date(data.pubDate) : null;
+  if (Number.isNaN(expiry.getTime())) return false;
+  if (pubDate && !Number.isNaN(pubDate.getTime()) && expiry <= pubDate) return false;
+  return true;
+}

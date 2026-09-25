@@ -21,12 +21,16 @@ import {
 	ctaHref as buildCtaHref,
 	ctaLabel,
 	ctaShortLabel,
+	hasTrustedExpiry,
 } from '../lib/articleDeal.mjs';
 
 type Props = CollectionEntry<'blog'>['data'] & { readingTime?: string; rawBody?: string; slug?: string };
 
-const { title, description, pubDate, updatedDate, heroImage, tags = [], affiliate, dealPrice, originalPrice, discount, saleExpiry, score, allTimeLow, evergreen, onSaleNow, bundleValue, noindex, priceTrack = [], readingTime = '3 min read', rawBody = '', slug: currentSlug = '' } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, tags = [], affiliate, dealPrice, originalPrice, discount, saleExpiry, saleExpirySource, score, allTimeLow, evergreen, onSaleNow, bundleValue, noindex, priceTrack = [], readingTime = '3 min read', rawBody = '', slug: currentSlug = '' } = Astro.props;
 const imageStr = typeof heroImage === 'string' ? heroImage : undefined;
+// PR-8 (2026-09-25): a fallback-guessed saleExpiry is not a real deadline —
+// only show the countdown / "Ends" date / priceValidUntil when it's trusted.
+const _hasTrustedExpiry = hasTrustedExpiry({ saleExpiry, saleExpirySource, pubDate });
 
 // Check if sale has expired
 const saleExpired = saleExpiry && !evergreen
@@ -254,7 +258,7 @@ const productLD = (affiliate && dealPrice && !saleExpired && !_trackerSaysEnded 
 		"price": _numericPrice,
 		"availability": "https://schema.org/InStock",
 		"seller": { "@type": "Organization", "name": dealSource || "PluginDrop" },
-		...(saleExpiry ? { "priceValidUntil": new Date(saleExpiry).toISOString().split('T')[0] } : {}),
+		...(saleExpiry && _hasTrustedExpiry ? { "priceValidUntil": new Date(saleExpiry).toISOString().split('T')[0] } : {}),
 	},
 } : null;
 
@@ -1040,7 +1044,7 @@ const featuredDeals = isEvergreen ? allPosts
 							) : (
 								<>
 									{/* score は内部ランキング用 — UI非表示 */}
-									{saleExpiry && (
+									{saleExpiry && _hasTrustedExpiry && (
 										<div class="deal-countdown" id="deal-countdown" data-expiry={new Date(saleExpiry).toISOString()}>
 											<span class="countdown-label">Deal ends in</span>
 											<div class="countdown-time">

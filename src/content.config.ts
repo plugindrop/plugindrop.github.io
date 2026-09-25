@@ -20,6 +20,7 @@ const blog = defineCollection({
 			originalPrice: z.string().optional(),
 			discount: z.string().optional(),
 			saleExpiry: z.string().optional(),
+			saleExpirySource: z.string().optional(),
 			xText: z.string().optional(),
 			evergreen: z.boolean().optional(),
 			allTimeLow: z.boolean().optional(),

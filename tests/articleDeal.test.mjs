@@ -11,6 +11,7 @@ import {
   ctaHref,
   ctaLabel,
   ctaShortLabel,
+  hasTrustedExpiry,
 } from '../src/lib/articleDeal.mjs';
 
 const NOW = new Date('2026-09-25T00:00:00Z').getTime();
@@ -372,4 +373,30 @@ test('ctaShortLabel: short variants, never a store name', () => {
   assert.equal(ctaShortLabel({ priceText: '$29', isFree: false, state: 'ended' }), 'Check price');
   assert.equal(ctaShortLabel({ priceText: '$29', isFree: false, state: 'live' }), 'Get for $29');
   assert.equal(ctaShortLabel({ priceText: null, isFree: false, state: 'unknown' }), 'See deal');
+});
+
+test('hasTrustedExpiry: fallback source -> false', () => {
+  assert.equal(
+    hasTrustedExpiry({ saleExpiry: '2026-10-04', saleExpirySource: 'fallback', pubDate: '2026-09-04' }),
+    false,
+  );
+});
+
+test('hasTrustedExpiry: no source set, expiry after pubDate -> true', () => {
+  assert.equal(
+    hasTrustedExpiry({ saleExpiry: '2026-10-05', pubDate: '2026-09-22T14:56:40Z' }),
+    true,
+  );
+});
+
+test('hasTrustedExpiry: expiry before pubDate (AMBER 2 type: pub 9/23, expiry 8/16) -> false', () => {
+  assert.equal(
+    hasTrustedExpiry({ saleExpiry: '2026-08-16', pubDate: '2026-09-23T03:40:53Z' }),
+    false,
+  );
+});
+
+test('hasTrustedExpiry: no saleExpiry at all -> false', () => {
+  assert.equal(hasTrustedExpiry({ pubDate: '2026-09-22' }), false);
+  assert.equal(hasTrustedExpiry({}), false);
 });
