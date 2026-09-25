@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24",
+  "generated_at": "2026-09-25",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-09",
       "label": "September 2026",
       "is_current": true,
-      "generated_at": "2026-09-24",
-      "observations": 2761,
+      "generated_at": "2026-09-25",
+      "observations": 2877,
       "products_tracked": 506,
-      "products_on_sale": 260,
-      "on_sale_pct": 51.4,
-      "avg_discount_pct": 57.3,
-      "median_discount_pct": 54.0,
+      "products_on_sale": 261,
+      "on_sale_pct": 51.6,
+      "avg_discount_pct": 57.4,
+      "median_discount_pct": 54,
       "discount_buckets": {
         "1-19": 13,
         "20-39": 40,
         "40-59": 80,
-        "60+": 127
+        "60+": 128
       },
-      "all_time_low_hits": 226,
+      "all_time_low_hits": 227,
       "deepest_discounts": [
         {
           "name": "Platinum",
@@ -287,9 +287,9 @@
         {
           "category": "Other",
           "tracked": 348,
-          "on_sale": 198,
-          "on_sale_pct": 56.9,
-          "avg_discount_pct": 59.8
+          "on_sale": 199,
+          "on_sale_pct": 57.2,
+          "avg_discount_pct": 59.9
         },
         {
           "category": "Synth",
@@ -331,7 +331,7 @@
           "tracked": 11,
           "on_sale": 7,
           "on_sale_pct": 63.6,
-          "avg_discount_pct": 60.1
+          "avg_discount_pct": 60.7
         },
         {
           "category": "Saturation",
@@ -373,7 +373,7 @@
           "tracked": 5,
           "on_sale": 2,
           "on_sale_pct": 40.0,
-          "avg_discount_pct": 42.5
+          "avg_discount_pct": 46
         },
         {
           "category": "Drums",
@@ -394,9 +394,9 @@
         {
           "category": "Other",
           "tracked": 157,
-          "on_sale": 108,
-          "on_sale_pct": 68.8,
-          "avg_discount_pct": 60.1
+          "on_sale": 109,
+          "on_sale_pct": 69.4,
+          "avg_discount_pct": 60.2
         },
         {
           "category": "Universal Audio",
@@ -452,7 +452,7 @@
           "tracked": 14,
           "on_sale": 13,
           "on_sale_pct": 92.9,
-          "avg_discount_pct": 77.5
+          "avg_discount_pct": 78.4
         },
         {
           "category": "Baby Audio",
@@ -632,8 +632,8 @@
       ],
       "vs_previous_month": {
         "month": "2026-08",
-        "on_sale_pct_delta": -9.3,
-        "avg_discount_pct_delta": 3.9,
+        "on_sale_pct_delta": -9.1,
+        "avg_discount_pct_delta": 4.0,
         "products_tracked_delta": 81
       }
     },
@@ -641,7 +641,7 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-09-24",
+      "generated_at": "2026-09-25",
       "observations": 3587,
       "products_tracked": 425,
       "products_on_sale": 258,
@@ -1237,7 +1237,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-09-24",
+      "generated_at": "2026-09-25",
       "observations": 1968,
       "products_tracked": 289,
       "products_on_sale": 142,
