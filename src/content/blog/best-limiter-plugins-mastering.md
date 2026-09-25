@@ -35,7 +35,7 @@ priceTrack:
 
 ## best limiter plugins mastering 2026
 
-If you only read one section of this guide, read this one. Across every price tier we tested against — free, budget, mid-range, and premium — three names come up again and again when producers ask which mastering limiter to actually buy in 2026:
+If you only read one section of this guide, read this one. Comparing every price tier — free, budget, mid-range, and premium — on algorithm count, true peak handling, and price, three names come up again and again when producers ask which mastering limiter to actually buy in 2026:
 
 - **Best overall:** FabFilter Pro-L 2 (~$199) — eight algorithms, true peak limiting, and the widest genre coverage of any limiter on the market.
 - **Best budget pick:** Limiter 6 GE (~$49) — five-stage limiting chain that outperforms plugins two to three times its price.
