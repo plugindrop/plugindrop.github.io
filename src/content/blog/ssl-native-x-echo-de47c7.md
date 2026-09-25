@@ -21,7 +21,6 @@ If you only grab one delay plugin from SSL's catalog this week, make it Echo —
 - Tracked since 2022-08-08 (7 observations)
 - Lowest we've tracked: $15 · Typical sale: $15 · Regular: $99
 - Verdict: **BUY NOW** — the current $15 price is within 5% of the $15 lowest tracked price.
-- Sale pattern: auto-crawl 2026-08-30
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/nOJB3mo6x34" title="85% Off SSL Native X Echo — Tape-Style Delay for Mixes ($15) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

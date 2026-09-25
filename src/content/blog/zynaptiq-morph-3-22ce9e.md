@@ -19,7 +19,6 @@ saleExpirySource: "fallback"
 - Tracked since 2024-12-03 (5 observations)
 - Lowest we've tracked: $69 · Typical sale: $69 · Regular: $149
 - Verdict: **BUY NOW** — the current $69 price is within 5% of the $69 lowest tracked price.
-- Sale pattern: auto-crawl 2026-08-30
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/beGMKVpEjqQ" title="53% Off Zynaptiq Morph 3 — Spectral Sound Morphing Plugin ($69) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

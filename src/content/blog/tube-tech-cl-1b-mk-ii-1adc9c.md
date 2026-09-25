@@ -19,7 +19,6 @@ saleExpirySource: "fallback"
 - Tracked since 2026-08-02 (33 observations)
 - Lowest we've tracked: $69 · Typical sale: $69 · Regular: $199
 - Verdict: **BUY NOW** — the current $69 price is within 5% of the $69 lowest tracked price.
-- Sale pattern: auto-crawl 2026-08-02
 
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="65% Off Tube Tech CL 1B Mk II — Classic Tube Compression ($69) — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A912468763&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
