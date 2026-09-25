@@ -238,6 +238,20 @@ export function buildFactBox(entry, now) {
   };
 }
 
+/** A home-card verdict backed by tracked observations. */
+export function homeVerdictChip(fact, dealScore, onSale) {
+  if (!fact) return null;
+  if (fact.everyday) return { label: 'EVERYDAY PRICE', cls: 'vchip-avg' };
+  if (fact.recentDrop) return { label: 'PRICE DROP', cls: 'vchip-buy' };
+  if (!dealScore || dealScore.verdict === 'none') return null;
+
+  const { verdict } = dealScore;
+  if (verdict === 'good') return { label: 'BUY NOW', cls: 'vchip-buy' };
+  if (verdict === 'ok') return { label: 'FAIR SALE', cls: 'vchip-fair' };
+  if (verdict === 'bad') return { label: onSale ? 'AVERAGE' : 'WAIT', cls: 'vchip-avg' };
+  return null;
+}
+
 /** Builds the CTA href. Priority: the matched tracker entry's PB product
  * page (never a search URL), then the first PB product link found in the
  * article body, then the frontmatter affiliate link as-is. Never builds a

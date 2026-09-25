@@ -8,6 +8,7 @@ import {
   dealState,
   everydayPrice,
   buildFactBox,
+  homeVerdictChip,
   ctaHref,
   ctaLabel,
   ctaShortLabel,
@@ -238,6 +239,57 @@ test('everydayPrice: price actually varies -> null', () => {
     ],
   });
   assert.equal(everydayPrice(e, NOW), null);
+});
+
+// --- homeVerdictChip ---
+
+test('homeVerdictChip: stable observed price is EVERYDAY PRICE', () => {
+  const e = entry({ history: [
+    auto('2026-07-01', 99, 49),
+    auto('2026-07-20', 99, 49),
+    auto('2026-08-10', 99, 49),
+    auto('2026-09-01', 99, 49),
+    auto('2026-09-20', 99, 49),
+  ] });
+  const fact = buildFactBox(e, NOW);
+  assert.ok(fact.everyday);
+  assert.deepEqual(homeVerdictChip(fact, { verdict: 'good' }, true),
+    { label: 'EVERYDAY PRICE', cls: 'vchip-avg' });
+});
+
+test('homeVerdictChip: recent observed drop is PRICE DROP', () => {
+  const e = entry({ history: [auto('2026-09-18', 99, 79), auto('2026-09-22', 99, 49)] });
+  const fact = buildFactBox(e, NOW);
+  assert.ok(fact.recentDrop);
+  assert.deepEqual(homeVerdictChip(fact, { verdict: 'good' }, true),
+    { label: 'PRICE DROP', cls: 'vchip-buy' });
+});
+
+test('homeVerdictChip: unmatched article has no chip', () => {
+  assert.equal(homeVerdictChip(null, null, true), null);
+});
+
+test('homeVerdictChip: no supported verdict has no chip', () => {
+  const fact = buildFactBox(entry({ history: [auto('2026-09-20', 99, 49)] }), NOW);
+  assert.equal(fact.everyday, null);
+  assert.equal(fact.recentDrop, null);
+  assert.equal(homeVerdictChip(fact, { verdict: 'none' }, true), null);
+});
+
+test('homeVerdictChip: good verdict uses existing BUY NOW label', () => {
+  const fact = buildFactBox(entry({ history: [auto('2026-09-20', 99, 49)] }), NOW);
+  assert.deepEqual(homeVerdictChip(fact, { verdict: 'good' }, true),
+    { label: 'BUY NOW', cls: 'vchip-buy' });
+});
+
+test('homeVerdictChip: ok and bad verdicts retain existing labels', () => {
+  const fact = buildFactBox(entry({ history: [auto('2026-09-20', 99, 49)] }), NOW);
+  assert.deepEqual(homeVerdictChip(fact, { verdict: 'ok' }, true),
+    { label: 'FAIR SALE', cls: 'vchip-fair' });
+  assert.deepEqual(homeVerdictChip(fact, { verdict: 'bad' }, true),
+    { label: 'AVERAGE', cls: 'vchip-avg' });
+  assert.deepEqual(homeVerdictChip(fact, { verdict: 'bad' }, false),
+    { label: 'WAIT', cls: 'vchip-avg' });
 });
 
 // --- buildFactBox ---
