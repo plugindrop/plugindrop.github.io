@@ -81,7 +81,7 @@ A: Yes. It's built as an expandable engine designed to accept additional Roland 
 
 ## Should you buy now?
 
-At $19 against a $229 regular price tracked by PluginDrop, this is a 57% discount on an expandable, multi-synthesis-type engine — a straightforward buy for anyone who doesn't already own it through a Roland Cloud subscription. With no confirmed end date on this listing, waiting risks the price reverting before you act.
+At $99 against a $229 regular price tracked by PluginDrop, this is a 57% discount on an expandable, multi-synthesis-type engine — a straightforward buy for anyone who doesn't already own it through a Roland Cloud subscription. With no confirmed end date on this listing, waiting risks the price reverting before you act.
 
 *Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
 
