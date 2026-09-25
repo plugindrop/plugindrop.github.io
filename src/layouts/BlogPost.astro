@@ -59,6 +59,22 @@ function getDealSource(url: string): string {
 }
 const dealSource = affiliate ? getDealSource(affiliate) : '';
 
+// Article-to-price-DB linking (PR-5): connects this post to its tracker
+// entry so the CTA/fact-box can show real observed prices instead of only
+// static frontmatter copy. Exact-match only — see articleDeal.mjs.
+const priceData = priceDataRaw as { last_updated: string; bundles: Record<string, PriceEntry>; plugins?: Record<string, PriceEntry> };
+const _allTrackerEntries = { ...priceData.bundles, ...(priceData.plugins ?? {}) };
+const _postForMatch = { data: { title, priceTrack, affiliate } };
+const _trackerMatch = findTrackerEntryForPost(_postForMatch, _allTrackerEntries, rawBody);
+const _fact = _trackerMatch ? buildFactBox(_trackerMatch.entry, Date.now()) : null;
+const productName = productNameOf(_postForMatch);
+// The tracker's own observation wins over stale frontmatter: if the last
+// actual store check found the sale ended but saleExpiry hasn't caught up
+// yet, treat this as ended everywhere the CTA/fact-box/Product schema look.
+const _trackerSaysEnded = _fact?.state === 'ended' && !saleExpired;
+const _ctaState = (saleExpired || _trackerSaysEnded) ? 'ended' : (_fact?.state ?? 'unknown');
+const _ctaPriceText = _isFreePrice0 ? null : (dealPrice || (_fact?.current != null ? formatPrice(_fact.current) : null));
+
 // Brand is only derivable when the affiliate URL is the manufacturer's own site
 const BRAND_DOMAINS: Record<string, string> = {
 	'waves.com': 'Waves',
