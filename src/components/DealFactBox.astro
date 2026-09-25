@@ -56,7 +56,7 @@ if (fact) {
   if (fact.lowest !== null) anchorParts.push(`Lowest we've seen ${fmt(fact.lowest)}`);
   if (fact.typicalSale !== null) anchorParts.push(`Typical sale ${fmt(fact.typicalSale)}`);
   anchorParts.push(
-    `${fact.observations} price check${fact.observations === 1 ? '' : 'es'} since ${shortDate(fact.trackedSince)}`,
+    `${fact.observations} price check${fact.observations === 1 ? '' : 's'} since ${shortDate(fact.trackedSince)}`,
   );
   anchorLine = anchorParts.join(' · ');
 

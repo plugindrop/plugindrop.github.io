@@ -1084,20 +1084,27 @@ const featuredDeals = isEvergreen ? allPosts
 									)}
 									{(dealPrice || _displayDiscount) && (
 										<div class="deal-price-row">
-											{(bundleValue || originalPrice) && !_isFreePrice && (
-												<span class="deal-value-label">Over <span class="deal-price-original">{bundleValue ?? originalPrice}</span> value</span>
+											{bundleValue && !_isFreePrice && (
+												<span class="deal-value-label">Over <span class="deal-price-original">{bundleValue}</span> value</span>
+											)}
+											{!bundleValue && originalPrice && !_isFreePrice && (
+												<span class="deal-price-original">{originalPrice}</span>
+											)}
+											{!bundleValue && originalPrice && !_isFreePrice && !_trackerSaysEnded && _saveAmount !== null && (
+												<span class="deal-save-badge">Save {formatPrice(_saveAmount)}</span>
 											)}
 											{!bundleValue && originalPrice && _isFreePrice && <span class="deal-price-original">{originalPrice}</span>}
-											{dealPrice && <span class={`deal-price-current${_isFreePrice ? ' is-free' : ''}`}>{_isFreePrice ? 'FREE' : `→ ${dealPrice}`}</span>}
-											{_displayDiscount && (
+											{dealPrice && !_trackerSaysEnded && <span class={`deal-price-current${_isFreePrice ? ' is-free' : ''}`}>{_isFreePrice ? 'FREE' : `→ ${dealPrice}`}</span>}
+											{_displayDiscount && !_trackerSaysEnded && (
 												<span class={`deal-save-badge${_isFreePrice ? ' is-free' : ''}`}>{_displayDiscount}</span>
 											)}
-											{allTimeLow && <span class="atl-badge">Lowest price we’ve tracked</span>}
+											{allTimeLow && !_trackerSaysEnded && <span class="atl-badge">Lowest price we’ve tracked</span>}
 										</div>
 									)}
+									<DealFactBox fact={_fact} productName={productName} />
 									{dealSource && <div class="deal-source">Available via {dealSource}</div>}
-									<a href={affiliate} class="deal-cta-btn" target="_blank" rel="noopener sponsored" data-slug={currentSlug}>
-										{_isFreePrice ? 'Get It Free \u2192' : 'Get This Deal \u2192'}
+									<a href={_ctaHref} class="deal-cta-btn" target="_blank" rel="noopener sponsored" data-slug={currentSlug}>
+										{_ctaLabel}
 									</a>
 								</>
 							)}
@@ -1190,8 +1197,8 @@ const featuredDeals = isEvergreen ? allPosts
 		{affiliate ? (
 			<div class="sticky-cta" id="sticky-cta">
 				<span class="sticky-title">{saleExpired ? title : (dealPrice ? `${_isFreePrice ? 'FREE' : dealPrice} — ${title}` : title)}</span>
-				<a href={affiliate} class="deal-cta-btn sticky-cta-link" target="_blank" rel="noopener sponsored" data-slug={currentSlug}>
-					{saleExpired ? 'View Price' : (_isFreePrice ? 'Get Free' : 'Get Deal')}
+				<a href={_ctaHref} class="deal-cta-btn sticky-cta-link" target="_blank" rel="noopener sponsored" data-slug={currentSlug}>
+					{_ctaShortLabel}
 				</a>
 				<button class="sticky-cta-close" id="sticky-cta-close" aria-label="Dismiss">✕</button>
 			</div>
