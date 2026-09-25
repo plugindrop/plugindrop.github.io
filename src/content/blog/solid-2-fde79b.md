@@ -18,8 +18,7 @@ saleExpirySource: "fallback"
 ## Price Context (tracked by PluginDrop)
 - Tracked since 2026-07-12 (55 observations)
 - Lowest we've tracked: $9 · Typical sale: $9 · Regular: $119
-- Verdict: **BUY NOW** — the current $9 price is within 5% of the $9 lowest tracked price.
-- Sale pattern: auto-crawl 2026-07-12
+- It has been $9 at every one of our 55 checks since 2026-07-12.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/-gnDUns41-o" title="92% Off SOLID 2 — Virtual Instrument for Faster Workflows ($9) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -51,8 +50,6 @@ Plugin Boutique's own listing is the authoritative source for a full feature bre
 | ~~$119.00~~ | $9.00 | ~$110 (92%) |
 
 Plugin Boutique runs frequent site-wide and per-product sales, so steep percentage cuts like this one do surface periodically across their catalog.
-
-pluginboutique.com/search?q=SOLID+2&a_aid=69cb95abe1763&chan=art&data1=solid-2-fde79b&utm_source=plugindrop&utm_medium=article&utm_campaign=solid-2-fde79b).
 
 ## Alternatives at a Glance
 
