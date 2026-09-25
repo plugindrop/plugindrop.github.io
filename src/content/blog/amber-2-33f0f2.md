@@ -10,7 +10,7 @@ dealPrice: "$29.00"
 originalPrice: "$129.00"
 discount: "78% OFF"
 saleExpiry: "2026-08-16"
-draft: false
+draft: true
 ---
 **TL;DR:** UJAM's AMBER 2 is tracked at $29 on Plugin Boutique, down from a regular price of $129 — a 78% discount. That $29 price sits within 5% of the $29 low PluginDrop has recorded since tracking began on 2026-08-16 across 8 observations, which is why the current call is **BUY NOW**. [Grab AMBER 2 at Plugin Boutique.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10597-AMBER-2?a_aid=69cb95abe1763&chan=art&data1=amber-2-33f0f2&utm_source=plugindrop&utm_medium=article&utm_campaign=amber-2-33f0f2)
 
