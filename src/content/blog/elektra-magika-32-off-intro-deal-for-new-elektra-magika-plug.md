@@ -67,9 +67,9 @@ For future price tracking on this plugin specifically, bookmark [When Does Elekt
 
 | Name | Approx. 2026 Price | Key Difference |
 |---|---|---|
-| [FabFilter Pro-Q 3](https://www.pluginboutique.com/search?searchterm=FabFilter+Pro-Q+3&a_aid=69cb95abe1763) | ~$179 (rarely discounted below ~$140) | Industry-standard precision EQ with dynamic modes and spectrum analyzer |
-| [TDR Nova (GE)](https://www.pluginboutique.com/search?searchterm=TDR+Nova&a_aid=69cb95abe1763) | Free / ~$59 for GE | Dynamic EQ with parallel processing; free tier covers core functionality |
-| [iZotope Ozone EQ](https://www.pluginboutique.com/search?searchterm=iZotope+Ozone&a_aid=69cb95abe1763) | Part of Ozone suite (~$199+) | AI-assisted EQ built around mastering workflows |
+| [FabFilter Pro-Q 3](https://www.pluginboutique.com/search?q=FabFilter%20Pro-Q%203&a_aid=69cb95abe1763&chan=art&data1=elektra-magika-32-off-intro-deal-for-new-elektra-magika-plug) | ~$179 (rarely discounted below ~$140) | Industry-standard precision EQ with dynamic modes and spectrum analyzer |
+| [TDR Nova (GE)](https://www.pluginboutique.com/search?q=TDR%20Nova%20%28GE%29&a_aid=69cb95abe1763&chan=art&data1=elektra-magika-32-off-intro-deal-for-new-elektra-magika-plug) | Free / ~$59 for GE | Dynamic EQ with parallel processing; free tier covers core functionality |
+| [iZotope Ozone EQ](https://www.pluginboutique.com/search?q=iZotope%20Ozone%20EQ&a_aid=69cb95abe1763&chan=art&data1=elektra-magika-32-off-intro-deal-for-new-elektra-magika-plug) | Part of Ozone suite (~$199+) | AI-assisted EQ built around mastering workflows |
 | Elektra Magika MultiLayerEQ | Intro price, 32% off | Interval-based band layering — the only tool here built on this concept |
 
 FabFilter Pro-Q 3 is the established benchmark — proven, deeply supported, and the default recommendation in most mixing communities. If you want to check whether it's currently discounted before buying, see [When Does FabFilter Pro-Q 4 Go On Sale?](/posts/when-does-fabfilter-pro-q-4-go-on-sale) (Pro-Q 3 pricing tends to move alongside Pro-Q 4 sale cycles). TDR Nova remains the strongest free-tier dynamic EQ option. MultiLayerEQ isn't trying to unseat either — it occupies a distinct niche, and it's the only option here worth buying specifically for the interval-based concept.

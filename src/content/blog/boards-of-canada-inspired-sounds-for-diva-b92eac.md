@@ -56,11 +56,11 @@ If CMYK stays offline, here's where to actually spend money right now for the sa
 
 | Product | Price (2026) | Best For |
 |---|---|---|
-| [u-he Diva](https://www.pluginboutique.com/search?search_query=u-he+diva&a_aid=69cb95abe1763) | ~$179 full / ~$99–129 on sale | The synth engine itself — required foundation for any Diva presets |
+| [u-he Diva](https://www.pluginboutique.com/search?q=u-he%20Diva&a_aid=69cb95abe1763&chan=art&data1=boards-of-canada-inspired-sounds-for-diva-b92eac) | ~$179 full / ~$99–129 on sale | The synth engine itself — required foundation for any Diva presets |
 | Diva Factory Presets | Included with Diva | Free starting point while CMYK availability is unconfirmed |
-| [Arturia Pigments 6](https://www.pluginboutique.com/search?search_query=arturia+pigments&a_aid=69cb95abe1763) | ~$199 full / ~$99 on flash sale | Analog-modeled alternative synth with its own vintage/ambient preset libraries |
+| [Arturia Pigments 6](https://www.pluginboutique.com/search?q=Arturia%20Pigments%206&a_aid=69cb95abe1763&chan=art&data1=boards-of-canada-inspired-sounds-for-diva-b92eac) | ~$199 full / ~$99 on flash sale | Analog-modeled alternative synth with its own vintage/ambient preset libraries |
 | KVR Marketplace Diva packs | ~$10–30 per pack | Community-made ambient/IDM patches, actively maintained |
-| [Puremagnetik](https://www.pluginboutique.com/search?search_query=puremagnetik&a_aid=69cb95abe1763) sample libraries | ~$20–50 per pack | Cross-DAW tape/analog textures if you're not locked to Diva |
+| [Puremagnetik](https://www.pluginboutique.com/search?q=Puremagnetik%20sample%20libraries&a_aid=69cb95abe1763&chan=art&data1=boards-of-canada-inspired-sounds-for-diva-b92eac) sample libraries | ~$20–50 per pack | Cross-DAW tape/analog textures if you're not locked to Diva |
 
 ## Best Ways to Get BOC-Style Sounds in Diva Right Now
 

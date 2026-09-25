@@ -32,7 +32,7 @@ priceTrack:
 | Rough Rider 3 | Free | Aggressive drums, sidechain pump | [Free Download](https://www.audiodamage.com/pages/free-and-legacy) |
 | Waves SSL G-Master Buss | ~$29–$49 | Bus glue, SSL console tone | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | Waves API 2500 | ~$29–$49 | Punchy, forward bus compression | [Get It](https://www.waves.com/plugins/api-2500-compressor) |
-| Cytomic The Glue | ~$75 | SSL 4000G mix bus accuracy | [Plugin Boutique](https://www.pluginboutique.com/search?q=Best%20Compressor%20Plugins%202026%20%E2%80%94%20Ranked&a_aid=69cb95abe1763&chan=art&data1=best-compressor-plugins-2026) |
+| Cytomic The Glue | ~$75 | SSL 4000G mix bus accuracy | [Plugin Boutique](https://www.pluginboutique.com/search?q=Cytomic%20The%20Glue&a_aid=69cb95abe1763&chan=art&data1=best-compressor-plugins-2026) |
 
 ---
 

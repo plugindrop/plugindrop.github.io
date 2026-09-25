@@ -22,9 +22,9 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | FabFilter Pro-MB | $199 | All-around mixing & mastering | [Official Site](https://www.pluginboutique.com/product/2-Effects/8-Compressor/919-FabFilter-Pro-MB?a_aid=69cb95abe1763&chan=art&data1=best-multiband-compressor-plugins) |
-| iZotope Ozone Dynamics | Incl. in Ozone | AI-assisted mastering | [Plugin Boutique](https://www.pluginboutique.com/search?q=10%20Best%20Multiband%20Compressor%20Plugins%20in%202026%2C%20Ranked%20%28Mixing%20%26%20Mastering%29&a_aid=69cb95abe1763&chan=art&data1=best-multiband-compressor-plugins) |
-| Waves C6 | ~$29–$49 | Mixing workhorse | [Plugin Boutique](https://www.pluginboutique.com/search?q=10%20Best%20Multiband%20Compressor%20Plugins%20in%202026%2C%20Ranked%20%28Mixing%20%26%20Mastering%29&a_aid=69cb95abe1763&chan=art&data1=best-multiband-compressor-plugins) |
-| Waves Linear Phase Multiband | ~$29–$49 | Phase-transparent mastering | [Plugin Boutique](https://www.pluginboutique.com/search?q=10%20Best%20Multiband%20Compressor%20Plugins%20in%202026%2C%20Ranked%20%28Mixing%20%26%20Mastering%29&a_aid=69cb95abe1763&chan=art&data1=best-multiband-compressor-plugins) |
+| iZotope Ozone Dynamics | Incl. in Ozone | AI-assisted mastering | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%20Dynamics&a_aid=69cb95abe1763&chan=art&data1=best-multiband-compressor-plugins) |
+| Waves C6 | ~$29–$49 | Mixing workhorse | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20C6&a_aid=69cb95abe1763&chan=art&data1=best-multiband-compressor-plugins) |
+| Waves Linear Phase Multiband | ~$29–$49 | Phase-transparent mastering | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20Linear%20Phase%20Multiband&a_aid=69cb95abe1763&chan=art&data1=best-multiband-compressor-plugins) |
 | TDR Nova | Free | Transparent dynamic EQ/compression | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | OTT | Free | Aggressive upward compression | [Free Download](https://xferrecords.com/freeware) |
 | MMultiBandDynamics | Free | Comprehensive free dynamics | [Free Download](https://www.meldaproduction.com/MFreeFXBundle) |

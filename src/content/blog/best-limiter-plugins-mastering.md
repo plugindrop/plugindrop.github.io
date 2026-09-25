@@ -26,7 +26,7 @@ priceTrack:
 | Plugin | Price | Best For | Free Trial? | Plugin Boutique Link |
 |--------|-------|----------|--------------|----------------------|
 | FabFilter Pro-L 2 | ~$199 | Transparent mastering, all genres | Yes (30-day) | [Official Site](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-limiter-plugins-mastering) |
-| iZotope Ozone Maximizer | Included in Ozone (~$249+) | AI-assisted loudness maximizing | Yes | [Plugin Boutique](https://www.pluginboutique.com/search?q=10%20Best%20Mastering%20Limiter%20Plugins%202026&a_aid=69cb95abe1763&chan=art&data1=best-limiter-plugins-mastering) |
+| iZotope Ozone Maximizer | Included in Ozone (~$249+) | AI-assisted loudness maximizing | Yes | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%20Maximizer&a_aid=69cb95abe1763&chan=art&data1=best-limiter-plugins-mastering) |
 | Limiter 6 GE | ~$49 | Multi-stage limiting on a tight budget | Yes (demo) | [Official Site](https://www.tokyodawn.net/tdr-limiter6-ge/) |
 | W1 Limiter | Free | Zero-cost brickwall, beginners | N/A — free | [Plugin Boutique](https://www.pluginboutique.com/search?q=10%20Best%20Mastering%20Limiter%20Plugins%202026&a_aid=69cb95abe1763&chan=art&data1=best-limiter-plugins-mastering) |
 | Youlean Loudness Meter 2 | Free | LUFS targeting alongside any limiter | N/A — free | [Free Download](https://youlean.co/youlean-loudness-meter/) |
