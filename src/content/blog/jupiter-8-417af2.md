@@ -3,7 +3,7 @@ title: "50% Off JUPITER 8"
 description: "Plugin Boutique has JUPITER-8 at $199 $99, a straight 50% cut off the regular price. It's a software recreation of Roland's classic Jupiter-8..."
 pubDate: "2026-08-05T03:29:01Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?q=JUPITER+8&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=jupiter-8-417af2"
+affiliate: "https://www.pluginboutique.com/search?q=JUPITER%208&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=jupiter-8-417af2&chan=art&data1=jupiter-8-417af2"
 heroImage: "/images/jupiter-8-417af2.jpg"
 score: 7.88
 dealPrice: "$99.00"
@@ -11,7 +11,7 @@ originalPrice: "$199.00"
 discount: "50% OFF"
 draft: true
 ---
-**TL;DR:** Plugin Boutique has JUPITER-8 at ~~$199~~ **$99**, a straight 50% cut off the regular price. It's a software recreation of Roland's classic Jupiter-8 polysynth, officially licensed and built for producers who want that vintage analog character without hunting down hardware. [Grab the deal here](https://www.pluginboutique.com/search?q=JUPITER+8&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=jupiter-8-417af2).
+**TL;DR:** Plugin Boutique has JUPITER-8 at ~~$199~~ **$99**, a straight 50% cut off the regular price. It's a software recreation of Roland's classic Jupiter-8 polysynth, officially licensed and built for producers who want that vintage analog character without hunting down hardware. [Grab the deal here](https://www.pluginboutique.com/search?q=JUPITER%208&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=jupiter-8-417af2&chan=art&data1=jupiter-8-417af2).
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/rjDKmy8NREU" title="50% Off JUPITER 8 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -46,7 +46,7 @@ JUPITER-8 is a software synthesizer built around the sound and architecture of t
 
 Plugin Boutique regularly runs promotions on instrument plugins, and a 50% cut is a substantial markdown for a synth in this price bracket. Verify current pricing on the product page — deals can change, and end dates aren't always listed in advance.
 
-[Check current price and availability](https://www.pluginboutique.com/search?q=JUPITER+8&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=jupiter-8-417af2).
+[Check current price and availability](https://www.pluginboutique.com/search?q=JUPITER%208&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=jupiter-8-417af2&chan=art&data1=jupiter-8-417af2).
 
 ## Alternatives at a Glance
 
@@ -74,7 +74,7 @@ A: Check the official product page for current Mac/PC system requirements before
 
 ## Get the Deal
 
-$100 off a licensed Jupiter-8 recreation brings it down to $99 for a limited time. [Get JUPITER-8 at 50% off here](https://www.pluginboutique.com/search?q=JUPITER+8&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=jupiter-8-417af2).
+$100 off a licensed Jupiter-8 recreation brings it down to $99 for a limited time. [Get JUPITER-8 at 50% off here](https://www.pluginboutique.com/search?q=JUPITER%208&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=jupiter-8-417af2&chan=art&data1=jupiter-8-417af2).
 
 ## Is This Deal Worth It?
 

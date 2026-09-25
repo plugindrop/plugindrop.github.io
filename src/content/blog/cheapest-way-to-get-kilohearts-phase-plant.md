@@ -18,7 +18,7 @@ We track Kilohearts Phase Plant's price history directly, so this is what buying
 | Typical sale (recurring) | $119 | Achievable on a normal sale cycle |
 | All-time low (rare) | $92 | Lowest price we have ever recorded |
 
-[Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=Phase+Plant&a_aid=69cb95abe1763).
+[Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=Phase%20Plant&a_aid=69cb95abe1763&chan=art&data1=cheapest-way-to-get-kilohearts-phase-plant).
 
 ## Data source
 

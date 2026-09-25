@@ -3,7 +3,7 @@ title: "34% Off Hive 2 — Wavetable Synth for Electronic Music ($99)"
 description: "Hive 2, the wavetable synth from u-he, is $149 $99 at Plugin Boutique right now — a 34% discount that saves you $50. It's a perpetual license..."
 pubDate: "2026-08-19T18:49:41Z"
 tags: ["sale", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?q=Hive+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hive-2-3b171c"
+affiliate: "https://www.pluginboutique.com/search?q=Hive%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hive-2-3b171c&chan=art&data1=hive-2-3b171c"
 heroImage: "/images/hive-2-3b171c.jpg"
 score: 8.92
 dealPrice: "$99.00"
@@ -12,7 +12,7 @@ discount: "34% OFF"
 draft: true
 saleExpiry: "2021-09-26"
 ---
-**TL;DR:** Hive 2, the wavetable synth from u-he, is ~~$149~~ $99 at Plugin Boutique right now — a 34% discount that saves you $50. It's a perpetual license, cross-platform, and built for producers who want fast wavetable sound design without heavy CPU load. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Hive+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hive-2-3b171c).
+**TL;DR:** Hive 2, the wavetable synth from u-he, is ~~$149~~ $99 at Plugin Boutique right now — a 34% discount that saves you $50. It's a perpetual license, cross-platform, and built for producers who want fast wavetable sound design without heavy CPU load. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Hive%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hive-2-3b171c&chan=art&data1=hive-2-3b171c).
 
 ## Price Context (tracked by PluginDrop)
 - Tracked since 2021-09-26 (25 observations)
@@ -60,7 +60,7 @@ Producers who specifically need Serum's wavetable-editing workflow or granular s
 
 u-he plugins go on sale periodically through Plugin Boutique, often around Black Friday and other seasonal promotions. A 34% discount is a meaningful markdown for a u-he product, though exact frequency and depth of past sales can vary.
 
-[Get Hive 2 at Plugin Boutique](https://www.pluginboutique.com/search?q=Hive+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hive-2-3b171c).
+[Get Hive 2 at Plugin Boutique](https://www.pluginboutique.com/search?q=Hive%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hive-2-3b171c&chan=art&data1=hive-2-3b171c).
 
 ## Alternatives at a Glance
 
@@ -88,7 +88,7 @@ A: u-he typically offers time-limited demos of its plugins.
 
 ## Get the Deal
 
-Hive 2 is $50 off its regular price right now at Plugin Boutique, bringing it down to $99. [Check the current deal here](https://www.pluginboutique.com/search?q=Hive+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hive-2-3b171c).
+Hive 2 is $50 off its regular price right now at Plugin Boutique, bringing it down to $99. [Check the current deal here](https://www.pluginboutique.com/search?q=Hive%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=hive-2-3b171c&chan=art&data1=hive-2-3b171c).
 
 ## Is This Deal Worth It?
 

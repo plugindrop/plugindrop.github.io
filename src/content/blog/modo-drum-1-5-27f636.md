@@ -3,7 +3,7 @@ title: "80% Off MODO DRUM 1.5 — Drum Synthesis for Producers ($39.99)"
 description: "IK Multimedia's MODO DRUM is currently $199.99 $39.99 at Plugin Boutique, an 80% discount on the physically modeled drum instrument. If you've..."
 pubDate: "2026-08-21T03:17:35Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "drums", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?q=MODO+DRUM+1+5&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=modo-drum-1-5-27f636"
+affiliate: "https://www.pluginboutique.com/search?q=MODO%20DRUM%201%205&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=modo-drum-1-5-27f636&chan=art&data1=modo-drum-1-5-27f636"
 heroImage: "/images/modo-drum-1-5-27f636.jpg"
 score: 7.88
 dealPrice: "$39.99"
@@ -13,7 +13,7 @@ draft: false
 saleExpiry: "2026-09-20"
 saleExpirySource: "fallback"
 ---
-**TL;DR:** IK Multimedia's MODO DRUM is currently ~~$199.99~~ **$39.99** at Plugin Boutique, an 80% discount on the physically modeled drum instrument. If you've been curious about modeling-based drums instead of sample libraries, this is a rare price point to try it. [Get the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=MODO+DRUM+1+5&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=modo-drum-1-5-27f636).
+**TL;DR:** IK Multimedia's MODO DRUM is currently ~~$199.99~~ **$39.99** at Plugin Boutique, an 80% discount on the physically modeled drum instrument. If you've been curious about modeling-based drums instead of sample libraries, this is a rare price point to try it. [Get the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=MODO%20DRUM%201%205&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=modo-drum-1-5-27f636&chan=art&data1=modo-drum-1-5-27f636).
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $199.99
@@ -80,7 +80,7 @@ A: Trial availability varies by promotion.
 
 ## Get the Deal
 
-An 80% discount brings MODO DRUM down to $39.99 from $199.99, a $160 savings. [Grab it at Plugin Boutique](https://www.pluginboutique.com/search?q=MODO+DRUM+1+5&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=modo-drum-1-5-27f636) while the deal is live.
+An 80% discount brings MODO DRUM down to $39.99 from $199.99, a $160 savings. [Grab it at Plugin Boutique](https://www.pluginboutique.com/search?q=MODO%20DRUM%201%205&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=modo-drum-1-5-27f636&chan=art&data1=modo-drum-1-5-27f636) while the deal is live.
 
 ## Is This Deal Worth It?
 

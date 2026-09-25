@@ -3,7 +3,7 @@ title: "60% Off Fabric Vintage Synths Vol 2 — Vintage Synth Sounds ($119)"
 description: "Fabric Vintage Synths Vol 2 is $299 $119 at Plugin Boutique right now, a 60% cut off the regular price. It's a sample/instrument bundle built..."
 pubDate: "2026-08-23T14:50:28Z"
 tags: ["sale", "bundle", "effects", "synth", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?q=Fabric+Vintage+Synths+Vol+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabric-vintage-synths-vol-2-90bbb5"
+affiliate: "https://www.pluginboutique.com/search?q=Fabric%20Vintage%20Synths%20Vol%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabric-vintage-synths-vol-2-90bbb5&chan=art&data1=fabric-vintage-synths-vol-2-90bbb5"
 heroImage: "/images/fabric-vintage-synths-vol-2-90bbb5.jpg"
 score: 9.31
 dealPrice: "$119.00"

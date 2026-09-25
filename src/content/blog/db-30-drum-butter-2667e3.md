@@ -3,7 +3,7 @@ title: "30% Off DB 30 Drum Butter — Punch & Weight for Drum Busses ($90)"
 description: "DB 30 Drum Butter is $129 $90 at Plugin Boutique right now, a 30% discount. It's a drum-focused processing plugin aimed at adding punch, weight..."
 pubDate: "2026-08-20T03:03:38Z"
 tags: ["sale", "vst-plugin", "effects", "drums", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?q=DB+30+Drum+Butter&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=db-30-drum-butter-2667e3"
+affiliate: "https://www.pluginboutique.com/search?q=DB%2030%20Drum%20Butter&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=db-30-drum-butter-2667e3&chan=art&data1=db-30-drum-butter-2667e3"
 heroImage: "/images/db-30-drum-butter-2667e3.jpg"
 score: 8.77
 dealPrice: "$90.00"
@@ -14,7 +14,7 @@ saleExpiry: "2026-08-23"
 ---
 If you only pick up one drum processor this month, DB 30 Drum Butter is worth a look at 30% off — it's built specifically for shaping punch and weight on drum busses, not a general-purpose channel strip you're stretching to fit the job.
 
-**TL;DR:** DB 30 Drum Butter is ~~$129~~ **$90** at Plugin Boutique right now, a 30% discount. It's a drum-focused processing plugin aimed at adding punch, weight, and character to individual drums or full drum busses. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=DB+30+Drum+Butter&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=db-30-drum-butter-2667e3) while the sale is live.
+**TL;DR:** DB 30 Drum Butter is ~~$129~~ **$90** at Plugin Boutique right now, a 30% discount. It's a drum-focused processing plugin aimed at adding punch, weight, and character to individual drums or full drum busses. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=DB%2030%20Drum%20Butter&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=db-30-drum-butter-2667e3&chan=art&data1=db-30-drum-butter-2667e3) while the sale is live.
 
 ## Price Context (tracked by PluginDrop)
 - Tracked since 2026-08-23 (7 observations)
@@ -82,7 +82,7 @@ A: Plugin Boutique deals can change or expire without notice.
 
 $39 off a drum-specific processing plugin is a straightforward saving if drum bus work is part of your regular routine. The deal is live now at Plugin Boutique.
 
-[Get DB 30 Drum Butter at 30% off](https://www.pluginboutique.com/search?q=DB+30+Drum+Butter&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=db-30-drum-butter-2667e3)
+[Get DB 30 Drum Butter at 30% off](https://www.pluginboutique.com/search?q=DB%2030%20Drum%20Butter&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=db-30-drum-butter-2667e3&chan=art&data1=db-30-drum-butter-2667e3)
 
 ## Is This Deal Worth It?
 

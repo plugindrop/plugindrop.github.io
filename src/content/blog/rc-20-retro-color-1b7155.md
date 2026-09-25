@@ -3,7 +3,7 @@ title: "40% Off RC 20 Retro Color — Lo-Fi Texture Effects ($59)"
 description: "RC 20 Retro Color is currently $59.00 at Plugin Boutique, down from $99.00, for a $40.00 saving. It combines six character-focused effect modules for..."
 pubDate: "2026-08-02T05:28:16Z"
 tags: ["sale", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?q=RC+20+Retro+Color&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-retro-color-1b7155"
+affiliate: "https://www.pluginboutique.com/search?q=RC%2020%20Retro%20Color&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-retro-color-1b7155&chan=art&data1=rc-20-retro-color-1b7155"
 heroImage: "/images/rc-20-retro-color-1b7155.jpg"
 score: 7.71
 dealPrice: "$59.00"
@@ -13,7 +13,7 @@ draft: true
 ---
 If you only install one, make it RC 20 Retro Color if your tracks need controllable wear, movement, and vintage-style character from one multi-effect plug-in.
 
-**TL;DR:** RC 20 Retro Color is currently $59.00 at Plugin Boutique, down from ~~$99.00~~, for a $40.00 saving. It combines six character-focused effect modules for adding noise, wobble, distortion, digital artifacts, reverb, and magnetic-style coloration. [Check the current RC 20 Retro Color deal at Plugin Boutique](https://www.pluginboutique.com/search?q=RC+20+Retro+Color&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-retro-color-1b7155).
+**TL;DR:** RC 20 Retro Color is currently $59.00 at Plugin Boutique, down from ~~$99.00~~, for a $40.00 saving. It combines six character-focused effect modules for adding noise, wobble, distortion, digital artifacts, reverb, and magnetic-style coloration. [Check the current RC 20 Retro Color deal at Plugin Boutique](https://www.pluginboutique.com/search?q=RC%2020%20Retro%20Color&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-retro-color-1b7155&chan=art&data1=rc-20-retro-color-1b7155).
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/A_DaDhfglE0" title="40% Off RC 20 Retro Color — Lo-Fi Texture Effects ($59) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -66,7 +66,7 @@ This Plugin Boutique offer reduces RC 20 Retro Color from $99.00 to $59.00. No e
 
 Specific sale-frequency data for this exact offer is not provided here. Verify current pricing on the product page — deals can change.
 
-[See the $59.00 RC 20 Retro Color offer at Plugin Boutique](https://www.pluginboutique.com/search?q=RC+20+Retro+Color&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-retro-color-1b7155).
+[See the $59.00 RC 20 Retro Color offer at Plugin Boutique](https://www.pluginboutique.com/search?q=RC%2020%20Retro%20Color&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-retro-color-1b7155&chan=art&data1=rc-20-retro-color-1b7155).
 
 ## Alternatives at a Glance
 
@@ -95,7 +95,7 @@ A: Check the official product page for the current supported formats, operating 
 
 ## Get the Deal
 
-RC 20 Retro Color is $40.00 off, bringing the listed price to $59.00 from ~~$99.00~~. [Get the current Plugin Boutique deal here](https://www.pluginboutique.com/search?q=RC+20+Retro+Color&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-retro-color-1b7155).
+RC 20 Retro Color is $40.00 off, bringing the listed price to $59.00 from ~~$99.00~~. [Get the current Plugin Boutique deal here](https://www.pluginboutique.com/search?q=RC%2020%20Retro%20Color&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-retro-color-1b7155&chan=art&data1=rc-20-retro-color-1b7155).
 
 ## Is This Deal Worth It?
 

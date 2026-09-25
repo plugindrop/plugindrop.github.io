@@ -3,7 +3,7 @@ title: "66% Off InstaComposer 3 — AI-Assisted MIDI Composition Tool ($40)"
 description: "InstaComposer 3, the AI-driven chord and melody generation plugin from XHUN Audio, is $119 $40 at Plugin Boutique — a 66% discount. If you write or..."
 pubDate: "2026-08-03T17:27:07Z"
 tags: ["sale", "vst-plugin", "synth", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?q=InstaComposer+3&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=instacomposer-3-cfecdc"
+affiliate: "https://www.pluginboutique.com/search?q=InstaComposer%203&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=instacomposer-3-cfecdc&chan=art&data1=instacomposer-3-cfecdc"
 heroImage: "/images/instacomposer-3-cfecdc.jpg"
 score: 7.07
 dealPrice: "$40.00"
@@ -11,7 +11,7 @@ originalPrice: "$119.00"
 discount: "66% OFF"
 draft: true
 ---
-**TL;DR:** InstaComposer 3, the AI-driven chord and melody generation plugin from XHUN Audio, is ~~$119~~ $40 at Plugin Boutique — a 66% discount. If you write or arrange music and want a faster way to sketch chord progressions and melodic ideas, this is a straightforward price-to-value call. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=InstaComposer+3&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=instacomposer-3-cfecdc).
+**TL;DR:** InstaComposer 3, the AI-driven chord and melody generation plugin from XHUN Audio, is ~~$119~~ $40 at Plugin Boutique — a 66% discount. If you write or arrange music and want a faster way to sketch chord progressions and melodic ideas, this is a straightforward price-to-value call. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=InstaComposer%203&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=instacomposer-3-cfecdc&chan=art&data1=instacomposer-3-cfecdc).
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/qGhJWlYjXYU" title="66% Off InstaComposer 3 — AI-Assisted MIDI Composition Tool ($40) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -47,7 +47,7 @@ For exact version details, supported DAWs, and full feature specs, check the pro
 
 Verify current pricing on the product page — deals can change. Plugin Boutique and XHUN Audio run periodic promotions on InstaComposer, so discounts do appear from time to time, though the discount depth varies by sale event.
 
-[Check current pricing and get the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=InstaComposer+3&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=instacomposer-3-cfecdc).
+[Check current pricing and get the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=InstaComposer%203&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=instacomposer-3-cfecdc&chan=art&data1=instacomposer-3-cfecdc).
 
 ## Alternatives at a Glance
 
@@ -77,7 +77,7 @@ A: Check Plugin Boutique's official refund policy on their site for details.
 
 $79 off a MIDI composition tool is a meaningful discount if chord and melody generation fits your workflow. At $40 instead of $119, the entry cost is low enough to try it without a major commitment.
 
-[Get InstaComposer 3 at Plugin Boutique](https://www.pluginboutique.com/search?q=InstaComposer+3&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=instacomposer-3-cfecdc).
+[Get InstaComposer 3 at Plugin Boutique](https://www.pluginboutique.com/search?q=InstaComposer%203&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=instacomposer-3-cfecdc&chan=art&data1=instacomposer-3-cfecdc).
 
 ## Is This Deal Worth It?
 

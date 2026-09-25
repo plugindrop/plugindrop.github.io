@@ -3,7 +3,7 @@ title: "30% Off SubBoomBass 2 — Deep Bass Sounds for Tracks ($69)"
 description: "SubBoomBass 2 is discounted to $69 from $99 at Plugin Boutique, a 30% saving on this bass-focused synth plugin. If you produce hip-hop, trap, EDM, or..."
 pubDate: "2026-08-13T16:30:38Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?q=SubBoomBass+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=subboombass-2-cec3c4"
+affiliate: "https://www.pluginboutique.com/search?q=SubBoomBass%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=subboombass-2-cec3c4&chan=art&data1=subboombass-2-cec3c4"
 heroImage: "/images/subboombass-2-cec3c4.jpg"
 score: 7.13
 dealPrice: "$69.00"
@@ -13,7 +13,7 @@ draft: true
 saleExpiry: "2026-09-12"
 saleExpirySource: "fallback"
 ---
-**TL;DR:** SubBoomBass 2 is discounted to $69 from ~~$99~~ at Plugin Boutique, a 30% saving on this bass-focused synth plugin. If you produce hip-hop, trap, EDM, or any genre that leans on low end, this is worth a look while the deal is live. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=SubBoomBass+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=subboombass-2-cec3c4).
+**TL;DR:** SubBoomBass 2 is discounted to $69 from ~~$99~~ at Plugin Boutique, a 30% saving on this bass-focused synth plugin. If you produce hip-hop, trap, EDM, or any genre that leans on low end, this is worth a look while the deal is live. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=SubBoomBass%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=subboombass-2-cec3c4&chan=art&data1=subboombass-2-cec3c4).
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $99
@@ -81,7 +81,7 @@ A: No end date was listed with this deal.
 
 $69 instead of $99 is a straightforward 30% saving on a bass-focused synth plugin. If sub-heavy bass sounds are part of your workflow, now is a reasonable time to check it out.
 
-[Get SubBoomBass 2 at Plugin Boutique](https://www.pluginboutique.com/search?q=SubBoomBass+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=subboombass-2-cec3c4).
+[Get SubBoomBass 2 at Plugin Boutique](https://www.pluginboutique.com/search?q=SubBoomBass%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=subboombass-2-cec3c4&chan=art&data1=subboombass-2-cec3c4).
 
 ## Is This Deal Worth It?
 

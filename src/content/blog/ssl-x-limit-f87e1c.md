@@ -3,7 +3,7 @@ title: "69% Off SSL X Limit — Mastering-Grade Limiting for Mixes ($15)"
 description: "Solid State Logic's X Limit plugin is $49 $15 at Plugin Boutique right now, a 69% discount. It's a straightforward limiter built for peak control..."
 pubDate: "2026-08-18T08:53:24Z"
 tags: ["sale", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?q=SSL+X+Limit&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-limit-f87e1c"
+affiliate: "https://www.pluginboutique.com/search?q=SSL%20X%20Limit&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-limit-f87e1c&chan=art&data1=ssl-x-limit-f87e1c"
 heroImage: "/images/ssl-x-limit-f87e1c.jpg"
 score: 6.84
 dealPrice: "$15.00"
@@ -12,7 +12,7 @@ discount: "69% OFF"
 draft: true
 saleExpiry: "2023-02-26"
 ---
-**TL;DR:** Solid State Logic's X Limit plugin is ~~$49~~ **$15** at Plugin Boutique right now, a 69% discount. It's a straightforward limiter built for peak control on mixes and masters, and at this price it's one of the cheaper ways to add an SSL-branded processor to your chain. [Grab the deal here](https://www.pluginboutique.com/search?q=SSL+X+Limit&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-limit-f87e1c).
+**TL;DR:** Solid State Logic's X Limit plugin is ~~$49~~ **$15** at Plugin Boutique right now, a 69% discount. It's a straightforward limiter built for peak control on mixes and masters, and at this price it's one of the cheaper ways to add an SSL-branded processor to your chain. [Grab the deal here](https://www.pluginboutique.com/search?q=SSL%20X%20Limit&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-limit-f87e1c&chan=art&data1=ssl-x-limit-f87e1c).
 
 ## Price Context (tracked by PluginDrop)
 - Tracked since 2023-02-26 (12 observations)
@@ -53,7 +53,7 @@ Producers who need multiple limiting algorithms, detailed true-peak controls, or
 
 Plugin Boutique runs sales across its catalog regularly, and SSL's X-Series plugins have shown up in discounted bundles and promotions before. A 69% cut on a single plugin is a substantial markdown, so if X Limit fits your workflow, this is a reasonable price point to act on.
 
-[Get SSL X Limit at Plugin Boutique](https://www.pluginboutique.com/search?q=SSL+X+Limit&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-limit-f87e1c).
+[Get SSL X Limit at Plugin Boutique](https://www.pluginboutique.com/search?q=SSL%20X%20Limit&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-x-limit-f87e1c&chan=art&data1=ssl-x-limit-f87e1c).
 
 ## Alternatives at a Glance
 

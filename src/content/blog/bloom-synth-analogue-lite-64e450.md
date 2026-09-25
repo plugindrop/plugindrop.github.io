@@ -3,7 +3,7 @@ title: "34% Off Bloom Synth Analogue Lite — Warm Analog Tones ($19)"
 description: "Bloom Synth Analogue Lite is currently $29 $19 at Plugin Boutique, a 34% discount on the analog-style synth instrument. If you're after affordable..."
 pubDate: "2026-08-04T16:37:21Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "synth", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?q=Bloom+Synth+Analogue+Lite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-synth-analogue-lite-64e450"
+affiliate: "https://www.pluginboutique.com/search?q=Bloom%20Synth%20Analogue%20Lite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-synth-analogue-lite-64e450&chan=art&data1=bloom-synth-analogue-lite-64e450"
 heroImage: "/images/bloom-synth-analogue-lite-64e450.jpg"
 score: 7.20
 dealPrice: "$19.00"
@@ -11,7 +11,7 @@ originalPrice: "$29.00"
 discount: "34% OFF"
 draft: true
 ---
-**TL;DR:** Bloom Synth Analogue Lite is currently ~~$29~~ **$19** at Plugin Boutique, a 34% discount on the analog-style synth instrument. If you're after affordable analog character without committing to the full Bloom Synth lineup, this is a low-cost entry point. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Bloom+Synth+Analogue+Lite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-synth-analogue-lite-64e450).
+**TL;DR:** Bloom Synth Analogue Lite is currently ~~$29~~ **$19** at Plugin Boutique, a 34% discount on the analog-style synth instrument. If you're after affordable analog character without committing to the full Bloom Synth lineup, this is a low-cost entry point. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Bloom%20Synth%20Analogue%20Lite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-synth-analogue-lite-64e450&chan=art&data1=bloom-synth-analogue-lite-64e450).
 
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="34% Off Bloom Synth Analogue Lite — Warm Analog Tones ($19) — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%3Aplaylists%3A2274355076%3Fsecret_token%3Ds-Sa5NEnOrl5L&color=%23ee753c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
@@ -46,7 +46,7 @@ Check the product page for the complete and current spec list, including exact p
 
 The current listing puts Bloom Synth Analogue Lite at $19, down from $29. Verify current pricing on the product page — deals can change, and Plugin Boutique regularly rotates discounts across its catalog.
 
-[Check the price at Plugin Boutique](https://www.pluginboutique.com/search?q=Bloom+Synth+Analogue+Lite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-synth-analogue-lite-64e450).
+[Check the price at Plugin Boutique](https://www.pluginboutique.com/search?q=Bloom%20Synth%20Analogue%20Lite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-synth-analogue-lite-64e450&chan=art&data1=bloom-synth-analogue-lite-64e450).
 
 ## Alternatives at a Glance
 
@@ -74,7 +74,7 @@ A: No. This is the Lite version, which typically means a reduced feature set com
 
 ## Get the Deal
 
-$19 instead of $29 is a straightforward 34% saving on an analog-style synth instrument. [Get Bloom Synth Analogue Lite at Plugin Boutique](https://www.pluginboutique.com/search?q=Bloom+Synth+Analogue+Lite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-synth-analogue-lite-64e450).
+$19 instead of $29 is a straightforward 34% saving on an analog-style synth instrument. [Get Bloom Synth Analogue Lite at Plugin Boutique](https://www.pluginboutique.com/search?q=Bloom%20Synth%20Analogue%20Lite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-synth-analogue-lite-64e450&chan=art&data1=bloom-synth-analogue-lite-64e450).
 
 ## Is This Deal Worth It?
 

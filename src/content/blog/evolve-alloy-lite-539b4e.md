@@ -3,7 +3,7 @@ title: "34% Off Evolve Alloy Lite — Evolving Sound Design Textures ($19)"
 description: "Evolve Alloy Lite is on sale at Plugin Boutique for $19, down from $29 — a 34% discount. It's a lighter, more affordable entry point into the Evolve..."
 pubDate: "2026-08-05T17:05:56Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?q=Evolve+Alloy+Lite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-alloy-lite-539b4e"
+affiliate: "https://www.pluginboutique.com/search?q=Evolve%20Alloy%20Lite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-alloy-lite-539b4e&chan=art&data1=evolve-alloy-lite-539b4e"
 heroImage: "/images/evolve-alloy-lite-539b4e.jpg"
 score: 6.23
 dealPrice: "$19.00"
@@ -11,7 +11,7 @@ originalPrice: "$29.00"
 discount: "34% OFF"
 draft: true
 ---
-**TL;DR:** Evolve Alloy Lite is on sale at Plugin Boutique for $19, down from ~~$29~~ — a 34% discount. It's a lighter, more affordable entry point into the Evolve Alloy sound design library for producers who want evolving textures without the full-library price tag. [Get the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Evolve+Alloy+Lite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-alloy-lite-539b4e).
+**TL;DR:** Evolve Alloy Lite is on sale at Plugin Boutique for $19, down from ~~$29~~ — a 34% discount. It's a lighter, more affordable entry point into the Evolve Alloy sound design library for producers who want evolving textures without the full-library price tag. [Get the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Evolve%20Alloy%20Lite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-alloy-lite-539b4e&chan=art&data1=evolve-alloy-lite-539b4e).
 
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="34% Off Evolve Alloy Lite — Evolving Sound Design Textures ($19) — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/2058711687%3Fsecret_token%3Ds-A0sH3p2kyG5&color=%23a85155&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
@@ -46,7 +46,7 @@ Check the product page for the exact patch count, file size, and any bundled eff
 
 Verify current pricing on the product page — deals can change. Plugin Boutique frequently runs discounts on instrument libraries, so this price point is worth comparing against the product's typical sale range if you've seen it discounted before.
 
-[Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=Evolve+Alloy+Lite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-alloy-lite-539b4e).
+[Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=Evolve%20Alloy%20Lite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-alloy-lite-539b4e&chan=art&data1=evolve-alloy-lite-539b4e).
 
 ## Alternatives at a Glance
 
@@ -74,7 +74,7 @@ A: Check the official product page for current system requirements, since these 
 
 ## Get the Deal
 
-$19 instead of $29 is a 34% saving on Evolve Alloy Lite while the deal is active at Plugin Boutique. [Grab it here](https://www.pluginboutique.com/search?q=Evolve+Alloy+Lite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-alloy-lite-539b4e) before the price reverts.
+$19 instead of $29 is a 34% saving on Evolve Alloy Lite while the deal is active at Plugin Boutique. [Grab it here](https://www.pluginboutique.com/search?q=Evolve%20Alloy%20Lite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-alloy-lite-539b4e&chan=art&data1=evolve-alloy-lite-539b4e) before the price reverts.
 
 ## Is This Deal Worth It?
 

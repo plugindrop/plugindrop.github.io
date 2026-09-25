@@ -91,7 +91,7 @@ A: Yes. CMYK is a native preset pack for u-he Diva — it requires a licensed co
 A: The Like No Orange website is currently offline. Availability is unconfirmed — check the YouTube video description and community forums for updated links, and treat any third-party resale claims with caution.
 
 **Q: Is Diva itself free?**
-A: No. u-he Diva is a paid synthesizer plugin, regularly priced around $179 with periodic sales bringing it down to roughly $99–$129. Check the [u-he Diva page](https://www.pluginboutique.com/search?search_query=u-he+diva&a_aid=69cb95abe1763) for current pricing and sale timing.
+A: No. u-he Diva is a paid synthesizer plugin, regularly priced around $179 with periodic sales bringing it down to roughly $99–$129. Check the [u-he Diva page](https://www.pluginboutique.com/search?search_query=u-he%20diva&a_aid=69cb95abe1763&chan=art&data1=boards-of-canada-inspired-sounds-for-diva-b92eac) for current pricing and sale timing.
 
 **Q: Where can I hear the CMYK patches before buying?**
 A: The [official promo video on YouTube](https://youtu.be/T0Crlzlb1H8) is currently the clearest available demo of these sounds.
@@ -108,7 +108,7 @@ A: Start with Diva's factory bank plus KVR Marketplace ambient packs — both ar
 
 ## Get the Deal
 
-CMYK offered a rare focused take on BOC-style synthesis inside one of the most analog-accurate soft synths ever made. Watch the [promo video here](https://youtu.be/T0Crlzlb1H8) and verify current availability directly — this niche gem is worth tracking down. In the meantime, [u-he Diva](https://www.pluginboutique.com/search?search_query=u-he+diva&a_aid=69cb95abe1763) plus a KVR Marketplace ambient pack is the most reliable way to get playing today.
+CMYK offered a rare focused take on BOC-style synthesis inside one of the most analog-accurate soft synths ever made. Watch the [promo video here](https://youtu.be/T0Crlzlb1H8) and verify current availability directly — this niche gem is worth tracking down. In the meantime, [u-he Diva](https://www.pluginboutique.com/search?search_query=u-he%20diva&a_aid=69cb95abe1763&chan=art&data1=boards-of-canada-inspired-sounds-for-diva-b92eac) plus a KVR Marketplace ambient pack is the most reliable way to get playing today.
 
 ## Related Guides
 

@@ -3,7 +3,7 @@ title: "69% Off Unfiltered Audio BYOME — Modular Effects ($40)"
 description: "Unfiltered Audio's semi-modular multi-effect BYOME is $128 $40 at Plugin Boutique, a 69% discount. It's built for producers who want to design custom..."
 pubDate: "2026-08-12T03:39:42Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?q=Unfiltered+Audio+BYOME&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=unfiltered-audio-byome-0328c2"
+affiliate: "https://www.pluginboutique.com/search?q=Unfiltered%20Audio%20BYOME&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=unfiltered-audio-byome-0328c2&chan=art&data1=unfiltered-audio-byome-0328c2"
 heroImage: "/images/unfiltered-audio-byome-0328c2.jpg"
 score: 6.71
 dealPrice: "$40.00"
@@ -13,7 +13,7 @@ draft: true
 saleExpiry: "2026-09-11"
 saleExpirySource: "fallback"
 ---
-**TL;DR:** Unfiltered Audio's semi-modular multi-effect BYOME is ~~$128~~ $40 at Plugin Boutique, a 69% discount. It's built for producers who want to design custom distortion, modulation, and filter chains instead of reaching for stock effects. [Get BYOME at Plugin Boutique](https://www.pluginboutique.com/search?q=Unfiltered+Audio+BYOME&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=unfiltered-audio-byome-0328c2) while the deal is live.
+**TL;DR:** Unfiltered Audio's semi-modular multi-effect BYOME is ~~$128~~ $40 at Plugin Boutique, a 69% discount. It's built for producers who want to design custom distortion, modulation, and filter chains instead of reaching for stock effects. [Get BYOME at Plugin Boutique](https://www.pluginboutique.com/search?q=Unfiltered%20Audio%20BYOME&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=unfiltered-audio-byome-0328c2&chan=art&data1=unfiltered-audio-byome-0328c2) while the deal is live.
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $128
@@ -53,7 +53,7 @@ Unfiltered Audio's plugin line, including BYOME, comes up regularly in sound des
 
 Unfiltered Audio plugins do appear in Plugin Boutique promotions periodically, but a 69% discount is a substantial markdown relative to typical list pricing.
 
-[Check the deal price on Plugin Boutique](https://www.pluginboutique.com/search?q=Unfiltered+Audio+BYOME&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=unfiltered-audio-byome-0328c2)
+[Check the deal price on Plugin Boutique](https://www.pluginboutique.com/search?q=Unfiltered%20Audio%20BYOME&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=unfiltered-audio-byome-0328c2&chan=art&data1=unfiltered-audio-byome-0328c2)
 
 ## Alternatives at a Glance
 
@@ -81,7 +81,7 @@ A: Refund eligibility depends on Plugin Boutique's store policy. Check the offic
 
 $88 off a modular effects plugin is a meaningful saving for anyone building out a sound design toolkit. The deal is live now at Plugin Boutique.
 
-[Grab BYOME at 69% off](https://www.pluginboutique.com/search?q=Unfiltered+Audio+BYOME&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=unfiltered-audio-byome-0328c2)
+[Grab BYOME at 69% off](https://www.pluginboutique.com/search?q=Unfiltered%20Audio%20BYOME&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=unfiltered-audio-byome-0328c2&chan=art&data1=unfiltered-audio-byome-0328c2)
 
 ## Is This Deal Worth It?
 

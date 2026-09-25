@@ -53,7 +53,7 @@ If Supermassive makes you want more control — real-time-adjustable early refle
 ## Where to Buy
 
 - **Direct from [Valhalla DSP](https://valhalladsp.com)** — the only place price will ever be $50; no reseller runs a lower price since Valhalla doesn't authorize discounting.
-- **Plugin Boutique** also carries the Valhalla lineup at the same $50 price point if you'd rather consolidate purchases and licenses in one account: [browse Valhalla plugins on Plugin Boutique](https://www.pluginboutique.com/search?search=valhalla&a_aid=69cb95abe1763). Price parity is enforced, so you're not losing anything by buying there instead of direct.
+- **Plugin Boutique** also carries the Valhalla lineup at the same $50 price point if you'd rather consolidate purchases and licenses in one account: [browse Valhalla plugins on Plugin Boutique](https://www.pluginboutique.com/search?search=valhalla&a_aid=69cb95abe1763&chan=art&data1=does-valhalla-dsp-ever-go-on-sale). Price parity is enforced, so you're not losing anything by buying there instead of direct.
 
 ## Free Alternatives Worth Considering
 

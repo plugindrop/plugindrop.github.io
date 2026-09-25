@@ -3,7 +3,7 @@ title: "34% Off Bloom Synth Analogue — Warm Analog Pads & Leads ($39)"
 description: "Bloom Synth Analogue is discounted from $59 to $39 at Plugin Boutique, a 34% saving. The deal is live now, but Plugin Boutique sales windows can close..."
 pubDate: "2026-08-12T03:39:39Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "synth", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?q=Bloom+Synth+Analogue&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-synth-analogue-0a797a"
+affiliate: "https://www.pluginboutique.com/search?q=Bloom%20Synth%20Analogue&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-synth-analogue-0a797a&chan=art&data1=bloom-synth-analogue-0a797a"
 heroImage: "/images/bloom-synth-analogue-0a797a.jpg"
 score: 7.38
 dealPrice: "$39.00"
@@ -13,7 +13,7 @@ draft: true
 saleExpiry: "2026-09-11"
 saleExpirySource: "fallback"
 ---
-**TL;DR:** Bloom Synth Analogue is discounted from ~~$59~~ to $39 at Plugin Boutique, a 34% saving. The deal is live now, but Plugin Boutique sales windows can close without much notice, so lock in pricing before checking out. [Grab Bloom Synth Analogue at $39 →](https://www.pluginboutique.com/search?q=Bloom+Synth+Analogue&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-synth-analogue-0a797a)
+**TL;DR:** Bloom Synth Analogue is discounted from ~~$59~~ to $39 at Plugin Boutique, a 34% saving. The deal is live now, but Plugin Boutique sales windows can close without much notice, so lock in pricing before checking out. [Grab Bloom Synth Analogue at $39 →](https://www.pluginboutique.com/search?q=Bloom%20Synth%20Analogue&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-synth-analogue-0a797a&chan=art&data1=bloom-synth-analogue-0a797a)
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $59
@@ -55,7 +55,7 @@ If you need exact oscillator counts, modulation routing, or preset numbers, veri
 
 Plugin Boutique runs frequent promotions across its instrument and effects catalog, and individual product discounts like this one typically run for a limited window rather than indefinitely.
 
-[Get Bloom Synth Analogue for $39 →](https://www.pluginboutique.com/search?q=Bloom+Synth+Analogue&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-synth-analogue-0a797a)
+[Get Bloom Synth Analogue for $39 →](https://www.pluginboutique.com/search?q=Bloom%20Synth%20Analogue&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-synth-analogue-0a797a&chan=art&data1=bloom-synth-analogue-0a797a)
 
 ## Alternatives at a Glance
 
@@ -83,7 +83,7 @@ A: Refund policies are set by Plugin Boutique and the developer. Check the offic
 
 ## Get the Deal
 
-$20 off a $59 instrument brings Bloom Synth Analogue down to $39 at Plugin Boutique. [Claim the 34% discount here →](https://www.pluginboutique.com/search?q=Bloom+Synth+Analogue&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-synth-analogue-0a797a)
+$20 off a $59 instrument brings Bloom Synth Analogue down to $39 at Plugin Boutique. [Claim the 34% discount here →](https://www.pluginboutique.com/search?q=Bloom%20Synth%20Analogue&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-synth-analogue-0a797a&chan=art&data1=bloom-synth-analogue-0a797a)
 
 ## Is This Deal Worth It?
 

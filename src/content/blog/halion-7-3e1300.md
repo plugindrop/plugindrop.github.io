@@ -3,7 +3,7 @@ title: "60% Off HALion 7 — Advanced Sound Design Workstation ($140)"
 description: "Steinberg's flagship sampler-synth workstation, HALion 7, is down to $140 from $349.99 at Plugin Boutique — a $209.99 saving. Get HALion 7 at Plugin..."
 pubDate: "2026-08-06T14:36:53Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?q=HALion+7&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=halion-7-3e1300"
+affiliate: "https://www.pluginboutique.com/search?q=HALion%207&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=halion-7-3e1300&chan=art&data1=halion-7-3e1300"
 heroImage: "/images/halion-7-3e1300.jpg"
 score: 8.33
 dealPrice: "$140.00"
@@ -11,7 +11,7 @@ originalPrice: "$349.99"
 discount: "60% OFF"
 draft: true
 ---
-**TL;DR:** Steinberg's flagship sampler-synth workstation, HALion 7, is down to $140 from ~~$349.99~~ at Plugin Boutique — a $209.99 saving. [Get HALion 7 at Plugin Boutique](https://www.pluginboutique.com/search?q=HALion+7&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=halion-7-3e1300) while the deal is live.
+**TL;DR:** Steinberg's flagship sampler-synth workstation, HALion 7, is down to $140 from ~~$349.99~~ at Plugin Boutique — a $209.99 saving. [Get HALion 7 at Plugin Boutique](https://www.pluginboutique.com/search?q=HALion%207&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=halion-7-3e1300&chan=art&data1=halion-7-3e1300) while the deal is live.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BV3QxT_PXjg" title="60% Off HALion 7 — Advanced Sound Design Workstation ($140) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -50,7 +50,7 @@ HALion has long been discussed alongside Kontakt and Falcon in sample-library an
 
 Steinberg's flagship instruments don't discount as aggressively or as often as boutique developer plugins, so a 60% markdown on a full workstation-tier synth is a notable price point when it appears. Verify current pricing on the product page — deals can change.
 
-[Check the deal price on Plugin Boutique](https://www.pluginboutique.com/search?q=HALion+7&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=halion-7-3e1300)
+[Check the deal price on Plugin Boutique](https://www.pluginboutique.com/search?q=HALion%207&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=halion-7-3e1300&chan=art&data1=halion-7-3e1300)
 
 ## Alternatives at a Glance
 
@@ -78,7 +78,7 @@ A: Check the product page for current license terms before purchasing.
 
 ## Get the Deal
 
-$209.99 off Steinberg's flagship sound design workstation is a meaningful drop for a full-tier instrument. [Grab HALion 7 at Plugin Boutique](https://www.pluginboutique.com/search?q=HALion+7&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=halion-7-3e1300) while the $140 price holds.
+$209.99 off Steinberg's flagship sound design workstation is a meaningful drop for a full-tier instrument. [Grab HALion 7 at Plugin Boutique](https://www.pluginboutique.com/search?q=HALion%207&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=halion-7-3e1300&chan=art&data1=halion-7-3e1300) while the $140 price holds.
 
 ## Is This Deal Worth It?
 

@@ -3,7 +3,7 @@ title: "80% Off MODO BASS 2 — Modeled Electric & Upright Bass ($39.99)"
 description: "IK Multimedia's MODO BASS 2 is down to $39.99 from $199.99 at Plugin Boutique, an 80% discount. It's a physically modeled bass instrument, not a..."
 pubDate: "2026-08-20T13:28:53Z"
 tags: ["sale", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?q=MODO+BASS+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=modo-bass-2-b8b6b2"
+affiliate: "https://www.pluginboutique.com/search?q=MODO%20BASS%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=modo-bass-2-b8b6b2&chan=art&data1=modo-bass-2-b8b6b2"
 heroImage: "/images/modo-bass-2-b8b6b2.jpg"
 score: 7.07
 dealPrice: "$39.99"
@@ -12,7 +12,7 @@ discount: "80% OFF"
 draft: true
 saleExpiry: "2026-08-23"
 ---
-**TL;DR:** IK Multimedia's MODO BASS 2 is down to **$39.99** from ~~$199.99~~ at Plugin Boutique, an 80% discount. It's a physically modeled bass instrument, not a sample library, so you get real-time control over instrument build, playing technique, and tone. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=MODO+BASS+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=modo-bass-2-b8b6b2) while the price holds.
+**TL;DR:** IK Multimedia's MODO BASS 2 is down to **$39.99** from ~~$199.99~~ at Plugin Boutique, an 80% discount. It's a physically modeled bass instrument, not a sample library, so you get real-time control over instrument build, playing technique, and tone. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=MODO%20BASS%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=modo-bass-2-b8b6b2&chan=art&data1=modo-bass-2-b8b6b2) while the price holds.
 
 ## Price Context (tracked by PluginDrop)
 - Tracked since 2026-08-23 (10 observations)
@@ -53,7 +53,7 @@ Check the product page for the full spec list, including exact preset counts and
 
 IK Multimedia runs sales on its catalog fairly regularly across Plugin Boutique and its own store, though discounts of this depth aren't guaranteed to repeat on a fixed schedule.
 
-[See the current MODO BASS 2 price at Plugin Boutique](https://www.pluginboutique.com/search?q=MODO+BASS+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=modo-bass-2-b8b6b2).
+[See the current MODO BASS 2 price at Plugin Boutique](https://www.pluginboutique.com/search?q=MODO%20BASS%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=modo-bass-2-b8b6b2&chan=art&data1=modo-bass-2-b8b6b2).
 
 ## Alternatives at a Glance
 
@@ -81,7 +81,7 @@ A: Check the official site for current OS and DAW compatibility, since requireme
 
 ## Get the Deal
 
-$160 off a modeled bass instrument, down to $39.99 from $199.99, is a straightforward way to add a MIDI-programmable bass to your template. [Get MODO BASS 2 at Plugin Boutique](https://www.pluginboutique.com/search?q=MODO+BASS+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=modo-bass-2-b8b6b2).
+$160 off a modeled bass instrument, down to $39.99 from $199.99, is a straightforward way to add a MIDI-programmable bass to your template. [Get MODO BASS 2 at Plugin Boutique](https://www.pluginboutique.com/search?q=MODO%20BASS%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=modo-bass-2-b8b6b2&chan=art&data1=modo-bass-2-b8b6b2).
 
 ## Is This Deal Worth It?
 
