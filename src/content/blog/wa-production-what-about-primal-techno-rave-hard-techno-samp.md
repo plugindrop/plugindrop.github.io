@@ -1,6 +1,6 @@
 ---
 title: "50% Off Wa Production What About Primal Techno Rave Hard Techno"
-description: "Wa Production's \"What About: Primal Techno, Rave, Hard Techno\" preset pack for Serum is $29.9 $10 at ADSR Sounds, a 50% cut from list price. It's a..."
+description: "Wa Production's \"What About: Primal Techno, Rave, Hard Techno\" preset pack for Serum is $29.9 $14.95 at ADSR Sounds, a 50% cut from list price. It's a..."
 pubDate: "2026-09-08T15:59:29Z"
 tags: ["sale", "preset-pack", "serum", "synth", "sample-pack", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/wa-production-what-about-primal-techno-rave-hard-techno-sample-pack-serum-presets/?a_aid=plugindrop&data1=wa-production-what-about-primal-techno-rave-hard-techno-samp&utm_source=plugindrop&utm_medium=article&utm_campaign=wa-production-what-about-primal-techno-rave-hard-techno-samp"
@@ -12,7 +12,7 @@ saleExpiry: "2026-10-08"
 saleExpirySource: "fallback"
 draft: false
 ---
-**TL;DR:** Wa Production's "What About: Primal Techno, Rave, Hard Techno" preset pack for Serum is ~~$29.9~~ $10 at ADSR Sounds, a 50% cut from list price. It's a Serum-only preset bank built for raw, driving techno and rave-style patches. [Grab it at ADSR Sounds for $10](https://www.adsrsounds.com/product/presets/wa-production-what-about-primal-techno-rave-hard-techno-sample-pack-serum-presets/?a_aid=plugindrop&data1=wa-production-what-about-primal-techno-rave-hard-techno-samp&utm_source=plugindrop&utm_medium=article&utm_campaign=wa-production-what-about-primal-techno-rave-hard-techno-samp).
+**TL;DR:** Wa Production's "What About: Primal Techno, Rave, Hard Techno" preset pack for Serum is ~~$29.9~~ $14.95 at ADSR Sounds, a 50% cut from list price. It's a Serum-only preset bank built for raw, driving techno and rave-style patches. [Grab it at ADSR Sounds for $14.95](https://www.adsrsounds.com/product/presets/wa-production-what-about-primal-techno-rave-hard-techno-sample-pack-serum-presets/?a_aid=plugindrop&data1=wa-production-what-about-primal-techno-rave-hard-techno-samp&utm_source=plugindrop&utm_medium=article&utm_campaign=wa-production-what-about-primal-techno-rave-hard-techno-samp).
 
 <div class="audio-embed">
 <audio controls style="width:100%">
@@ -36,7 +36,7 @@ They're also useful for quick sketching. If you're blocking out a track idea and
 ## Pricing and deal details
 
 - Regular price: $29.9
-- Deal price: $10
+- Deal price: $14.95
 - Discount: 50% off
 - Store: ADSR Sounds
 - Requirement: Xfer Serum, the presets do not work as a standalone instrument
@@ -47,7 +47,7 @@ Check the product page for current pricing and to confirm the offer is still liv
 
 Skip this pack if you don't own Serum, since the presets have no function without the host synth. If your production focus is outside techno and rave (ambient, orchestral, hip-hop), the sound design here likely won't match your workflow.
 
-It's also less useful if you already have a large library of hard techno Serum presets covering similar ground. In that case the overlap may not justify the $10.
+It's also less useful if you already have a large library of hard techno Serum presets covering similar ground. In that case the overlap may not justify the $14.95.
 
 ## FAQ
 
@@ -65,7 +65,7 @@ A: Since this is a preset pack riding on Serum, your system requirements are eff
 
 ## Should you buy now?
 
-At $10 versus a $29.9 regular price, this is a 50% off deal on a genre-specific Serum preset pack. If you're working in hard techno or rave styles and already run Serum, the price point makes it low-risk to add to your patch library.
+At $14.95 versus a $29.9 regular price, this is a 50% off deal on a genre-specific Serum preset pack. If you're working in hard techno or rave styles and already run Serum, the price point makes it low-risk to add to your patch library.
 
 *Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
 
