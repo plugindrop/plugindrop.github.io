@@ -1,6 +1,6 @@
 ---
 title: "29% Off Visco 2.0 — Sample-Modeled Drum Machine ($99)"
-description: "Visco 2.0 from Forever 89 is currently ~29% off its $139 list price, putting it around $99. It's a sample-modeling drum machine built around an 8-track..."
+description: "Visco 2.0 from Forever 89 is currently ~29% off its $139 list price, putting it at $99. It's a sample-modeling drum machine built around an 8-track..."
 pubDate: "2026-09-18T11:56:19Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=Visco+2+0&a_aid=69cb95abe1763&chan=art&data1=visco-2-0-c6acfd&utm_source=plugindrop&utm_medium=article&utm_campaign=visco-2-0-c6acfd"
@@ -13,7 +13,7 @@ saleExpiry: "2026-10-18"
 saleExpirySource: "fallback"
 draft: false
 ---
-**TL;DR:** Visco 2.0 from Forever 89 is currently ~29% off its $139 list price, putting it around $99. It's a sample-modeling drum machine built around an 8-track, 32-voice engine with a modulation matrix and step sequencer. Grab it through [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/12201-Visco-2-0?a_aid=69cb95abe1763&chan=art&data1=visco-2-0-c6acfd&utm_source=plugindrop&utm_medium=article&utm_campaign=visco-2-0-c6acfd) while the discount is live.
+**TL;DR:** Visco 2.0 from Forever 89 is currently ~29% off its $139 list price, putting it at $99. It's a sample-modeling drum machine built around an 8-track, 32-voice engine with a modulation matrix and step sequencer. Grab it through [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/12201-Visco-2-0?a_aid=69cb95abe1763&chan=art&data1=visco-2-0-c6acfd&utm_source=plugindrop&utm_medium=article&utm_campaign=visco-2-0-c6acfd) while the discount is live.
 
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="29% Off Visco 2.0 — Sample-Modeled Drum Machine ($99) — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1790858973&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
@@ -37,7 +37,7 @@ The modulation matrix is where it earns its keep in a mix: automating a single p
 ## Pricing and deal details
 
 - Regular price: $139
-- Current discount: 29% off, bringing the price to roughly $99
+- Current discount: 29% off, bringing the price to $99
 
 Check the product page for exact current pricing and any bundle pairings, since deal windows on Plugin Boutique can shift without notice.
 
