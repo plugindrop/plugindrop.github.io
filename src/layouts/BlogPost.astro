@@ -72,8 +72,6 @@ const productName = productNameOf(_postForMatch);
 // actual store check found the sale ended but saleExpiry hasn't caught up
 // yet, treat this as ended everywhere the CTA/fact-box/Product schema look.
 const _trackerSaysEnded = _fact?.state === 'ended' && !saleExpired;
-const _ctaState = (saleExpired || _trackerSaysEnded) ? 'ended' : (_fact?.state ?? 'unknown');
-const _ctaPriceText = _isFreePrice0 ? null : (dealPrice || (_fact?.current != null ? formatPrice(_fact.current) : null));
 
 // Brand is only derivable when the affiliate URL is the manufacturer's own site
 const BRAND_DOMAINS: Record<string, string> = {
@@ -209,6 +207,20 @@ const howToLD = (isHowTo && howToSteps.length >= 2) ? {
 const _rawPrice = dealPrice?.trim().toUpperCase().replace(/[$€£¥]/g, '') ?? '';
 const _isFreePrice = _rawPrice === 'FREE' || parseFloat(_rawPrice) === 0;
 const _numericPrice = dealPrice ? dealPrice.replace(/[^0-9.]/g, '') : '';
+
+// CTA copy/href (PR-5) — never a store name, never a newly-built search URL.
+const _ctaState = (saleExpired || _trackerSaysEnded) ? 'ended' : (_fact?.state ?? 'unknown');
+const _ctaPriceText = _isFreePrice ? null : (dealPrice || (_fact?.current != null ? formatPrice(_fact.current) : null));
+const _ctaHref = buildCtaHref(_postForMatch, _trackerMatch, rawBody, currentSlug);
+const _ctaLabel = ctaLabel({ productName, priceText: _ctaPriceText, isFree: _isFreePrice, state: _ctaState });
+const _ctaShortLabel = ctaShortLabel({ priceText: _ctaPriceText, isFree: _isFreePrice, state: _ctaState });
+const _saveAmount = (!bundleValue && originalPrice && !_isFreePrice) ? (() => {
+	const orig = parseFloat(originalPrice.replace(/[^0-9.]/g, ''));
+	const deal = parseFloat(_numericPrice);
+	if (!orig || Number.isNaN(deal)) return null;
+	const diff = orig - deal;
+	return diff >= 5 ? diff : null;
+})() : null;
 // Compute discount badge from prices when not explicitly set in frontmatter
 const _computedDiscount = (() => {
 	if (discount) return discount;
