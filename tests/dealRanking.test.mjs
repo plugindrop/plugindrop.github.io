@@ -228,6 +228,14 @@ test('articleRankScore: excluded (null) when the tracker observed the sale ended
   assert.equal(articleRankScore(p, trackerEntries, NOW), null);
 });
 
+test('articleRankScore: excludes AMBER 2 by product-name slug when priceTrack is empty and sale ended', () => {
+  const p = post({ title: '78% Off AMBER 2 — Chord-Based Guitar Tracks Fast ($29)', priceTrack: [], rawScore: 10 });
+  const trackerEntries = {
+    'AMBER 2': entry({ history: [auto('2026-09-20', 99, null)] }),
+  };
+  assert.equal(articleRankScore(p, trackerEntries, NOW), null);
+});
+
 test('articleRankScore: not excluded when the sale-ended observation is older than 7 days', () => {
   const p = post({ title: 'Old Ended Sale Plugin', priceTrack: ['Old Ended Sale Plugin'], rawScore: 10 });
   const trackerEntries = {
