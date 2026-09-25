@@ -191,7 +191,7 @@ test('rankBiggestDiscounts: excludes an article-matched tracker product by PB ID
     'AMBER 2': liveEntry(61101, 100, 10),
     'Other Plugin': liveEntry(61102, 100, 30),
   };
-  const post = { data: { title: 'AMBER 2 sale', priceTrack: ['AMBER 2'] } };
+  const post = { data: { title: '78% Off AMBER 2 — Grab It Before It Ends', priceTrack: [] } };
   const match = findTrackerEntryForPost(post, entries, 'AMBER 2 is on sale');
   assert.ok(match);
   const excludeIds = new Set([pbProductId(match.entry.pb_url)]);

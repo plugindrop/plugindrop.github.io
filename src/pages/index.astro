@@ -191,6 +191,8 @@ const liveFallbackPool: FallbackDeal[] = rankLiveDeals(trackerEntries, now, { li
 const fallbackLiveDrops = liveFallbackPool.slice(0, Math.max(0, 9 - topDeals.length));
 
 const usedFallbackNames = new Set(fallbackLiveDrops.map(deal => deal.name.trim().toLowerCase()));
+const usedFallbackIds = new Set(fallbackLiveDrops.map(deal => pbProductId(deal.entry.pb_url)));
+const seenFallbackWatchIds = new Set<string>();
 const fallbackWatchDrops: FallbackDeal[] = topDeals.length + fallbackLiveDrops.length < 6
 	? Object.entries(trackerEntries)
 		.filter(([, entry]) => !isSearchUrl(entry.pb_url))
@@ -209,7 +211,13 @@ const fallbackWatchDrops: FallbackDeal[] = topDeals.length + fallbackLiveDrops.l
 			} : null;
 		})
 		.filter((deal): deal is FallbackDeal => deal !== null && deal.off > 0)
-		.filter(deal => !normalizedTopDealNames.has(deal.name.trim().toLowerCase()) && !topDealTrackerIds.has(pbProductId(deal.entry.pb_url)) && !usedFallbackNames.has(deal.name.trim().toLowerCase()))
+		.filter(deal => !normalizedTopDealNames.has(deal.name.trim().toLowerCase()) && !topDealTrackerIds.has(pbProductId(deal.entry.pb_url)) && !usedFallbackNames.has(deal.name.trim().toLowerCase()) && !usedFallbackIds.has(pbProductId(deal.entry.pb_url)))
+		.filter(deal => {
+			const id = pbProductId(deal.entry.pb_url);
+			if (seenFallbackWatchIds.has(id)) return false;
+			seenFallbackWatchIds.add(id);
+			return true;
+		})
 		.sort((a, b) => b.off - a.off)
 		.slice(0, Math.max(0, 9 - topDeals.length - fallbackLiveDrops.length))
 	: [];
