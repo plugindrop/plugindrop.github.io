@@ -107,17 +107,21 @@ test('findTrackerEntryForPost: no exact slug match -> falls through to body PB i
 
 test('findTrackerEntryForPost: ambiguous body id across 2+ entries narrows by name, else null', () => {
   const entries = {
-    'Widget A': entry({ pb_url: '/product/x/10000-widget-a' }),
-    'Widget B': entry({ pb_url: '/product/x/10000-widget-b' }),
+    'Widget A Turbo': entry({ pb_url: '/product/x/10000-widget-a-turbo' }),
+    'Widget B Turbo': entry({ pb_url: '/product/x/10000-widget-b-turbo' }),
   };
-  const rawBody = 'https://www.pluginboutique.com/product/x/10000-widget-a';
+  const rawBody = 'https://www.pluginboutique.com/product/x/10000-widget-a-turbo';
+
   const ambiguousTitlePost = post({ title: 'Totally Unrelated Headline' });
   const narrowed = findTrackerEntryForPost(ambiguousTitlePost, entries, rawBody);
   assert.equal(narrowed, null);
 
-  const namedPost = post({ title: 'Widget A Deal' });
+  // "Widget A - ..." -> productNameOf strips to "Widget A", which is a
+  // substring of "Widget A Turbo"'s slug but not an exact match at step 2,
+  // so this exercises the step-3 narrow-by-name path specifically.
+  const namedPost = post({ title: 'Widget A - Some Long Review Title' });
   const match = findTrackerEntryForPost(namedPost, entries, rawBody);
-  assert.equal(match.name, 'Widget A');
+  assert.equal(match.name, 'Widget A Turbo');
 });
 
 test('findTrackerEntryForPost: nothing matches -> null', () => {
