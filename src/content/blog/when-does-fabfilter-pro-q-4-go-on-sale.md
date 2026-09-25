@@ -1,6 +1,6 @@
 ---
 title: "When Does FabFilter Pro-Q 4 Go On Sale? (Updated 2026)"
-description: "FabFilter Pro-Q 4 goes on sale 3-4x per year at 25% off (~$149). Black Friday 2025 lowest ever: ~$104 at Plugin Boutique. Regular price: $199."
+description: "FabFilter Pro-Q 4 goes on sale twice a year (Summer, Black Friday) at 25% off (~$149). Black Friday 2025 lowest ever: ~$104 at Plugin Boutique. Regular price: $199."
 pubDate: "2026-06-29"
 evergreen: true
 tags:
@@ -16,13 +16,12 @@ relatedPosts:
 heroImage: '/images/when-does-fabfilter-pro-q-4-go-on-sale.jpg'
 ---
 
-**Short answer:** FabFilter Pro-Q 4 goes on sale **3-4 times per year**. The typical discount is **25–48% off**, bringing the $199 regular price down to around **$149**. The best times to buy:
+**Short answer:** FabFilter Pro-Q 4 goes on sale **twice a year** (Summer and Black Friday). The typical discount is **25% off**, bringing the $199 regular price down to around **$149** — though Black Friday 2025 saw a deeper discount, around 48% off to ~$104.
 
 ## Price Context (tracked by PluginDrop)
 - Tracked since 2024-11-22 (34 observations)
 - Lowest we've tracked: $105 · Typical sale: $149 · Regular: $199
 - Verdict: **WAIT** — the available history does not include enough comparable price data to support a buy-now verdict.
-- Sale pattern: FabFilter discounts 25% once/year at Black Friday only. ATL $105.25 at Gear4Music (BF Nov 2025). PB BF 2024/2025: 25% off = $149.
 - Latest observed sale: $105 on 2025-11-22
 - Typical observed discount: 25%
 
@@ -37,15 +36,6 @@ heroImage: '/images/when-does-fabfilter-pro-q-4-go-on-sale.jpg'
 | Gear4music (GBP exchange) | ~47% off | ~$105 | Gear4music (GBP favourable rate, Black Friday 2024) |
 
 **Lowest price ever recorded:** ~$104 (Plugin Boutique (Black Friday 2025, confirmed stacked promo))
-
-## When to Buy FabFilter Pro-Q 4: Season-by-Season Guide
-
-- **Summer Sale (June)**
-- **Black Friday (November)**
-- **FabFilter Anniversary (December)**
-
-> **Buying tip:** FabFilter runs highly consistent 25-30% off sales. The Anniversary deal in December is their deepest official discount at 30%. Gear4music in the UK sometimes sells at a favorable GBP/USD exchange rate for even better effective prices.
-
 
 **[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=when-does-fabfilter-pro-q-4-go-on-sale)**
 
