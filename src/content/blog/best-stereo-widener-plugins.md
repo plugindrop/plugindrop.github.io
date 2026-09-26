@@ -21,10 +21,10 @@ draft: false
 | Wider (Polyverse) | Free | All-purpose widening, any DAW | [Free Download](https://polyversemusic.com/products/wider/) |
 | iZotope Ozone Imager 2 | Free | Visual stereo control + mono checking | [Plugin Boutique](https://www.pluginboutique.com/search?q=10%20Best%20Stereo%20Widener%20%26%20Imager%20Plugins%20in%202026%20%E2%80%94%20Ranked&a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins) |
 | Voxengo MSED | Free | M/S routing and side-chain processing | [Free Download](https://www.voxengo.com/product/msed/) |
-| Waves S1 Stereo Imager | ~$29 | Classic transparent stereo shaping | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20S1%20Stereo%20Imager&a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins) |
+| Waves S1 Stereo Imager | ~$29 | Classic transparent stereo shaping | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/13667-S1-Stereo-Imager?a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins) |
 | Brainworx bx_stereomaker | ~$49 | Mono-to-stereo conversion | [Plugin Boutique](https://www.pluginboutique.com/search?q=Brainworx%20bx_stereomaker&a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins) |
-| Nugen Audio Stereoizer | ~$99 | Mastering-grade frequency-selective width | [Plugin Boutique](https://www.pluginboutique.com/search?q=Nugen%20Audio%20Stereoizer&a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins) |
-| Soundtoys MicroShift | ~$99 | Analog-character chorus widening | [Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%20MicroShift&a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins) |
+| Nugen Audio Stereoizer | ~$99 | Mastering-grade frequency-selective width | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/1709-Stereoizer-?a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins) |
+| Soundtoys MicroShift | ~$99 | Analog-character chorus widening | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/1809-MicroShift?a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins) |
 
 ---
 

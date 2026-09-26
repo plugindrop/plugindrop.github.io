@@ -18,11 +18,11 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| SoundToys EchoBoy | ~$99 | All-round tape/BBD/digital | [Plugin Boutique](https://www.pluginboutique.com/search?q=SoundToys%20EchoBoy&a_aid=69cb95abe1763&chan=art&data1=best-delay-vst-plugins-2026) |
+| SoundToys EchoBoy | ~$99 | All-round tape/BBD/digital | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763&chan=art&data1=best-delay-vst-plugins-2026) |
 | Valhalla Delay | $50 | Clean digital + experimental | [Valhalla DSP](https://valhalladsp.com/shop/delay/valhalladelay/) |
 | Waves H-Delay | Variable | Hybrid analog-digital | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20H-Delay&a_aid=69cb95abe1763&chan=art&data1=best-delay-vst-plugins-2026) |
 | D16 Group Repeater | ~€49 | Precise tempo-synced studio delay | [D16 Group](https://d16.pl/repeater) |
-| FabFilter Timeless 3 | ~€169 | Advanced modulated delay | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Timeless%203&a_aid=69cb95abe1763&chan=art&data1=best-delay-vst-plugins-2026) |
+| FabFilter Timeless 3 | ~€169 | Advanced modulated delay | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/10-Delay/7604-FabFilter-Timeless-3?a_aid=69cb95abe1763&chan=art&data1=best-delay-vst-plugins-2026) |
 | TAL-Dub-3 | Free | Dub and lo-fi analog textures | [TAL Software](https://tal-software.com/products/tal-dub) |
 | Valhalla FreqEcho | Free | Pitch-shifted atmospheric effects | [Free Download](https://valhalladsp.com/shop/delay/valhalla-freq-echo/) |
 
@@ -42,11 +42,11 @@ Whether you're mixing electronic music in Ableton, producing hip-hop in FL Studi
 
 | Plugin | Price | Best For | Free Trial? | Plugin Boutique Link |
 |--------|-------|----------|--------------|------------------------|
-| SoundToys EchoBoy | ~$99 | All-in-one tape/BBD/digital workflow | Yes, 14-day trial | [Plugin Boutique](https://www.pluginboutique.com/search?q=SoundToys%20EchoBoy&a_aid=69cb95abe1763&chan=art&data1=best-delay-vst-plugins-2026) |
+| SoundToys EchoBoy | ~$99 | All-in-one tape/BBD/digital workflow | Yes, 14-day trial | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763&chan=art&data1=best-delay-vst-plugins-2026) |
 | Valhalla Delay | $50 | Budget-conscious sound designers | Yes, fully functional demo | [Valhalla DSP](https://valhalladsp.com/shop/delay/valhalladelay/) |
 | Waves H-Delay | Variable | Mix engineers on tight deadlines | Yes, via Waves account | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20H-Delay&a_aid=69cb95abe1763&chan=art&data1=best-delay-vst-plugins-2026) |
 | D16 Group Repeater | ~€49 | Tempo-locked electronic production | Yes, 30-day demo | [D16 Group](https://d16.pl/repeater) |
-| FabFilter Timeless 3 | ~€169 | Sound design and modulation depth | Yes, fully functional demo | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Timeless%203&a_aid=69cb95abe1763&chan=art&data1=best-delay-vst-plugins-2026) |
+| FabFilter Timeless 3 | ~€169 | Sound design and modulation depth | Yes, fully functional demo | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/10-Delay/7604-FabFilter-Timeless-3?a_aid=69cb95abe1763&chan=art&data1=best-delay-vst-plugins-2026) |
 | Arturia Delay BRIGADE | ~$99 | Vintage BBD circuit character | Yes, via Arturia account | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20Delay%20BRIGADE&a_aid=69cb95abe1763&chan=art&data1=best-delay-vst-plugins-2026) |
 | TAL-Dub-3 | Free | Dub, reggae, and lo-fi textures | N/A — free | [TAL Software](https://tal-software.com/products/tal-dub) |
 

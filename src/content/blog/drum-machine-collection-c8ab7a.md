@@ -13,7 +13,7 @@ discount: "60% OFF"
 saleExpiry: "2026-10-31"
 draft: false
 ---
-**TL;DR:** Roland's Drum Machine Collection bundles five classic drum machine emulations — TR-808, TR-606, TR-909, TR-707, and TR-727 — for $199, down from ~~$499~~. PluginDrop has logged that exact $199 price across 13 checks since August 23, 2026, which means it's currently running as a standing price rather than a flash sale. [Grab the Drum Machine Collection at Plugin Boutique](https://www.pluginboutique.com/search?q=Drum+Machine+Collection&a_aid=69cb95abe1763&chan=art&data1=drum-machine-collection-c8ab7a&utm_source=plugindrop&utm_medium=article&utm_campaign=drum-machine-collection-c8ab7a).
+**TL;DR:** Roland's Drum Machine Collection bundles five classic drum machine emulations — TR-808, TR-606, TR-909, TR-707, and TR-727 — for $199, down from ~~$499~~. PluginDrop has logged that exact $199 price across 13 checks since August 23, 2026, which means it's currently running as a standing price rather than a flash sale. [Grab the Drum Machine Collection at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15283-Drum-Machine-Collection?a_aid=69cb95abe1763&chan=art&data1=drum-machine-collection-c8ab7a&utm_source=plugindrop&utm_medium=article&utm_campaign=drum-machine-collection-c8ab7a).
 
 <!-- deal-context-sale-windows:start -->
 ## Last three times this went on sale

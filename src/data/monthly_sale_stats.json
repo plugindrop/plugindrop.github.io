@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25",
+  "generated_at": "2026-09-26",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,16 +10,16 @@
       "month": "2026-09",
       "label": "September 2026",
       "is_current": true,
-      "generated_at": "2026-09-25",
-      "observations": 2877,
+      "generated_at": "2026-09-26",
+      "observations": 3000,
       "products_tracked": 506,
       "products_on_sale": 261,
       "on_sale_pct": 51.6,
-      "avg_discount_pct": 57.4,
+      "avg_discount_pct": 57.5,
       "median_discount_pct": 54,
       "discount_buckets": {
-        "1-19": 13,
-        "20-39": 40,
+        "1-19": 12,
+        "20-39": 41,
         "40-59": 80,
         "60+": 128
       },
@@ -289,7 +289,7 @@
           "tracked": 348,
           "on_sale": 199,
           "on_sale_pct": 57.2,
-          "avg_discount_pct": 59.9
+          "avg_discount_pct": 60.1
         },
         {
           "category": "Synth",
@@ -396,7 +396,7 @@
           "tracked": 157,
           "on_sale": 109,
           "on_sale_pct": 69.4,
-          "avg_discount_pct": 60.2
+          "avg_discount_pct": 60.5
         },
         {
           "category": "Universal Audio",
@@ -633,7 +633,7 @@
       "vs_previous_month": {
         "month": "2026-08",
         "on_sale_pct_delta": -9.1,
-        "avg_discount_pct_delta": 4.0,
+        "avg_discount_pct_delta": 4.1,
         "products_tracked_delta": 81
       }
     },
@@ -641,7 +641,7 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-09-25",
+      "generated_at": "2026-09-26",
       "observations": 3587,
       "products_tracked": 425,
       "products_on_sale": 258,
@@ -1237,7 +1237,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-09-25",
+      "generated_at": "2026-09-26",
       "observations": 1968,
       "products_tracked": 289,
       "products_on_sale": 142,
