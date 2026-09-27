@@ -5,7 +5,7 @@ import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
 import priceData from '../../data/price_history.json';
 import { isBrandPageIndexable, isPricePageIndexable, slugifyProduct } from '../../lib/indexPolicy.mjs';
-import { isSearchUrl, pbLink } from '../../lib/priceUtils';
+import { isSearchUrl, pbLink, formatPrice } from '../../lib/priceUtils';
 import { detectBrand } from '../../lib/brands.mjs';
 
 // --- Shared types ------------------------------------------------------------
@@ -115,10 +115,6 @@ function pctOff(sale: number | null, regular: number | null): number {
   if (sale === null || regular === null || regular <= 0 || sale >= regular) return 0;
   return Math.round((1 - sale / regular) * 100);
 }
-function formatPrice(val: number | null): string {
-  return val === null ? '—' : `$${val}`;
-}
-
 interface Row {
   name: string;
   slug: string;
@@ -136,8 +132,10 @@ const rows: Row[] = products
   .filter((p) => !isSearchUrl(p.entry.pb_url))
   .map((p): Row => {
     const category = p.entry.category ?? (p.kind === 'bundle' ? 'Plugin Bundle' : 'Plugin');
-    const current = currentPrice(p.entry);
-    const onSale = isOnSale(p.entry);
+    const contradictory = p.entry.all_time_low !== null && p.entry.typical_sale !== null
+      && p.entry.all_time_low > p.entry.typical_sale;
+    const current = contradictory ? null : currentPrice(p.entry);
+    const onSale = !contradictory && isOnSale(p.entry);
     return {
       name: p.name,
       slug: slugifyProduct(p.name),
@@ -146,7 +144,7 @@ const rows: Row[] = products
       regular: p.entry.typical_regular,
       onSale,
       off: onSale ? pctOff(p.entry.typical_sale, p.entry.typical_regular) : 0,
-      allTimeLow: p.entry.all_time_low,
+      allTimeLow: contradictory ? null : p.entry.all_time_low,
       pbUrl: p.entry.pb_url,
       indexable: isPricePageIndexable(p.entry),
     };

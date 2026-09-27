@@ -26,6 +26,12 @@ export function slugifyProduct(name) {
     .replace(/^-+|-+$/g, '');
 }
 
+/** @param {unknown} notes */
+export function isMachineStampNote(notes) {
+  return typeof notes === 'string'
+    && /^(auto-crawl \d{4}-\d{2}-\d{2}|Auto-discovered\b.*)$/i.test(notes);
+}
+
 /**
  * @param {string} tag
  * @returns {string}

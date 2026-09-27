@@ -40,7 +40,7 @@ export function slugify(name: string): string {
 
 export function formatPrice(val: number | null): string {
   if (val === null) return '—';
-  return `$${val}`;
+  return `$${Number.isInteger(val) ? val : val.toFixed(2).replace(/\.00$/, '')}`;
 }
 
 // Affiliate link builder. price_history.json sometimes stores a full PB

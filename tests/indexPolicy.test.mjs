@@ -12,6 +12,7 @@ import {
   SALE_EPISODE_MAX_GAP_DAYS,
   MIN_TAG_POSTS,
   indexablePricePagePaths,
+  isMachineStampNote,
   isBrandPageIndexable,
   isProductNameIndexable,
   isPricePageIndexable,
@@ -40,6 +41,17 @@ test('slugifyProduct preserves the existing product URL format', () => {
   assert.equal(slugifyProduct('FabFilter Pro-Q 4'), 'fabfilter-pro-q-4');
   assert.equal(slugifyProduct('  u-he: Diva / Repro  '), 'u-he-diva-repro');
   assert.equal(slugifyProduct('Soundtoys 5.5'), 'soundtoys-5-5');
+});
+
+test('isMachineStampNote recognizes only the two machine note formats', () => {
+  assert.equal(isMachineStampNote('auto-crawl 2026-08-30'), true);
+  assert.equal(isMachineStampNote('AUTO-CRAWL 2026-08-30'), true);
+  assert.equal(isMachineStampNote('Auto-discovered 2026-08-30'), true);
+  assert.equal(isMachineStampNote('auto-discovered from PB'), true);
+  assert.equal(isMachineStampNote('auto-crawl 2026-08-30 checked'), false);
+  assert.equal(isMachineStampNote('auto-crawl 2026-8-30'), false);
+  assert.equal(isMachineStampNote('Manually verified sale'), false);
+  assert.equal(isMachineStampNote(null), false);
 });
 
 test('priceSubstance counts observations, sale observations, and effective price levels', () => {
