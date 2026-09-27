@@ -7,7 +7,9 @@ import priceData from '../../data/price_history.json';
 import { pdAttr } from '../../lib/interestTaxonomy.mjs';
 import productVideosRaw from '../../data/product_videos.json';
 import { latestCheckedDate, formatCheckedDate, dealScoreNumeric, isSearchUrl, pbLink, currentPriceOf, regularPriceOf, formatPrice } from '../../lib/priceUtils';
-import { isPricePageIndexable, slugifyProduct, isMachineStampNote, listSaleEpisodes, saleEpisodeCount, OBSERVED_SOURCES } from '../../lib/indexPolicy.mjs';
+import { isPricePageIndexable, slugifyProduct } from '../../lib/indexPolicy.mjs';
+import { comparablePrices, lowestSeen } from '../../lib/priceBasis.mjs';
+import { buildPageFacts, buildDecisionAnswers, buildResearchNote, buildCoverageLine, summarizeVerdict, alertTarget } from '../../lib/priceInsights.mjs';
 import { getCollection } from 'astro:content';
 
 interface HistoryEntry {
@@ -117,30 +119,11 @@ const current = currentPrice(entry);
 const regular = regularPriceOf(entry);
 const onSale = isOnSale(entry);
 const off = onSale ? pctOff(current, regular) : 0;
-function publicNoteOf(notes: string | undefined): string | null {
-  if (!notes || isMachineStampNote(notes)) return null;
-  const cleaned = notes.replace(/\s*\/\s*(?:auto-crawl \d{4}-\d{2}-\d{2}|Auto-discovered\b[^/]*)(?=\s*\/|$)/gi, '').trim();
-  return cleaned || null;
-}
-const publicNotes = publicNoteOf(entry.notes);
-const hasContradictorySummary = entry.all_time_low !== null && entry.typical_sale !== null && entry.all_time_low > entry.typical_sale;
-const statedLowest = hasContradictorySummary ? null : entry.all_time_low;
-
-// --- Verdict line --------------------------------------------------------
-function verdictLine(e: EntryData): string {
-  if (e.all_time_low === null) {
-    return "No discount on record yet — we're watching for sales.";
-  }
-  if (e.typical_sale !== null && e.typical_regular !== null && e.typical_sale < e.typical_regular) {
-    const p = pctOff(e.typical_sale, e.typical_regular);
-    return `Typically drops to ${formatPrice(e.typical_sale)} (~${p}% off) during sales.`;
-  }
-  const note = publicNoteOf(e.notes);
-  if (note) return note;
-  if (statedLowest === null) return 'A consistent lowest sale price is not available yet.';
-  return `Lowest price we've tracked so far is ${formatPrice(statedLowest)}.`;
-}
-const verdict = verdictLine(entry);
+const facts = buildPageFacts(entry, { buildDate: data.last_updated });
+const seenLow = lowestSeen(entry);
+const verdictCopy = summarizeVerdict(name, facts);
+const researchNote = buildResearchNote(name, facts);
+const coverageLine = buildCoverageLine(facts);
 const dealScore = dealScoreNumeric(entry);
 
 // Fable v4 verdict label
@@ -155,43 +138,10 @@ function fableVerdictLabel(e: EntryData): 'BUY NOW' | 'FAIR SALE' | 'AVERAGE' | 
 const fableVerdict = fableVerdictLabel(entry);
 const verdictIsNone = dealScore.verdict === 'none';
 const showVerdictAlert = fableVerdict === 'WAIT' || verdictIsNone;
-const alertTargetPrice = entry.history.length >= 2 ? entry.typical_sale : entry.all_time_low;
+const alertTargetPrice = alertTarget(facts);
 const alertLabel = alertTargetPrice !== null
   ? `Set alert — under ${formatPrice(alertTargetPrice)}`
   : 'Alert me if it ever drops';
-
-// Deterministic copy sentence (Fable §1-4)
-function buildVerdictCopy(e: EntryData, vLabel: string): string {
-  const salePrices = e.history
-    .map((h) => h.sale)
-    .filter((sale): sale is number => sale !== null);
-  const N = saleEpisodeCount(e);
-  const histLow = statedLowest ?? (salePrices.length > 0 ? Math.min(...salePrices) : null);
-  const cur = currentPrice(e);
-  const reg = regularPriceOf(e);
-  if (!N) return `We've never recorded a discount on ${name}.`;
-  const s1 = histLow !== null
-    ? `${name} has sold for ${formatPrice(histLow)} in ${N} separate sales we've recorded.`
-    : `${name} has ${N} separate sales we've recorded.`;
-  if (cur === null) return s1;
-  let s2 = '';
-  if (histLow !== null && cur <= histLow) s2 = `Today's ${formatPrice(cur)} is the lowest price we've recorded.`;
-  else if (reg !== null && cur < reg) s2 = `Today's ${formatPrice(cur)} is discounted, but above that range.`;
-  else if (reg !== null && reg > 0 && histLow !== null) {
-    const pct = Math.round((reg - histLow) / reg * 100);
-    s2 = `Today's ${formatPrice(cur)} is the regular price. Recorded sales have gone ${pct}% lower.`;
-  }
-  return s2 ? `${s1} ${s2}` : s1;
-}
-const verdictCopy = buildVerdictCopy(entry, fableVerdict);
-
-// --- Lowest tracked price + date ------------------------------------------
-function findLowestDate(e: EntryData): string | null {
-  if (statedLowest === null) return null;
-  const match = e.history.find((h) => (h.sale ?? h.regular) === statedLowest);
-  return match ? match.date : null;
-}
-const lowestDate = findLowestDate(entry);
 
 // --- Provenance: when we actually last scraped this product (D4) --------
 const checkedDate = latestCheckedDate(entry);
@@ -205,16 +155,10 @@ const checkedLabel = checkedDate
     ? `Last updated: ${formatCheckedDate(new Date(`${latestHistoryDate}T00:00:00Z`))}`
     : 'Tracking since 2026 — no price data yet';
 
-const ownChecks = entry.history
-  .filter((h) => OBSERVED_SOURCES.includes(h.source) && /^\d{4}-\d{2}-\d{2}$/.test(h.date))
-  .sort((a, b) => a.date.localeCompare(b.date));
-const firstOwnDate = ownChecks[0]?.date ?? null;
-const hasWayback = entry.history.some((h) => h.source === 'wayback');
-
 // --- Price history chart ---------------------------------------------------
 // Real price-tracker data (Keepa/SteamDB) is a dense daily series. Ours is not:
 // each product only has a handful of logged observations plus a couple of
-// summary reference values (typical_regular / all_time_low). The chart below
+// summary reference values. The chart below
 // is built honestly from exactly what we have — no interpolation, no invented
 // data points — and refuses to render a misleading line when there isn't
 // enough history to plot one (see emptyStateText below).
@@ -222,6 +166,7 @@ const hasWayback = entry.history.some((h) => h.source === 'wayback');
 interface SeriesPoint {
   date: string;
   value: number;
+  kind: 'tracker' | 'archive' | 'archive_confirmed';
   isSale: boolean;
   isLowest: boolean;
 }
@@ -240,38 +185,12 @@ function formatShortDate(d: string): string {
   });
 }
 
-// Build the plotted series from every dated observation we actually have:
-// logged history points, plus today's current price. If the all-time-low
-// happens to match a logged history point, that point is flagged so it can
-// be highlighted — we never fabricate a date for it.
-function buildPriceSeries(e: EntryData, lastUpdated: string): SeriesPoint[] {
-  const byDate = new Map<string, SeriesPoint>();
-
-  for (const h of e.history) {
-    const value = h.sale ?? h.regular;
-    if (value === null) continue;
-    byDate.set(h.date, {
-      date: h.date,
-      value,
-      isSale: h.sale !== null,
-      isLowest: statedLowest !== null && value === statedLowest,
-    });
-  }
-
-  const cur = currentPrice(e);
-  if (cur !== null) {
-    const curDate = lastUpdated || '2026-07-11';
-    if (!byDate.has(curDate)) {
-      byDate.set(curDate, {
-        date: curDate,
-        value: cur,
-        isSale: isOnSale(e),
-        isLowest: statedLowest !== null && cur === statedLowest,
-      });
-    }
-  }
-
-  return [...byDate.values()].sort((a, b) => toTimestamp(a.date) - toTimestamp(b.date));
+// Plot only comparable store-page prices. Never invent a current point.
+function buildPriceSeries(e: EntryData): SeriesPoint[] {
+  return comparablePrices(e).map((p) => ({
+    date: p.date, value: p.price, kind: p.kind, isSale: p.isSale,
+    isLowest: p.price === seenLow?.price,
+  }));
 }
 
 interface PlottedPoint extends SeriesPoint {
@@ -388,66 +307,30 @@ function buildChartGeom(series: SeriesPoint[], regularVal: number | null, lowest
 }
 
 function emptyStateText(e: EntryData): string {
-  let s = 'Not enough price history yet — we started tracking in 2026.';
-  if (e.typical_regular !== null) {
-    s += ` Regular ${formatPrice(e.typical_regular)}`;
-    s += e.typical_sale !== null ? `; typically drops to ${formatPrice(e.typical_sale)} on sale.` : '.';
-  }
-  return s;
+  return `Not enough price history yet.${e.typical_regular !== null ? ` Our reference list price is ${formatPrice(e.typical_regular)}.` : ''}`;
 }
 
-const series = buildPriceSeries(entry, data.last_updated);
-const chartGeom = buildChartGeom(series, entry.typical_regular, statedLowest);
+const series = buildPriceSeries(entry);
+const chartGeom = buildChartGeom(series, entry.typical_regular, seenLow?.price ?? null);
 
-// --- FAQ -------------------------------------------------------------------
-const saleEpisodes = listSaleEpisodes(entry);
-const recordedSaleCount = saleEpisodeCount(entry);
-
-function faqSaleAnswer(): string {
-  if (recordedSaleCount === 0) return `We haven't recorded a sale for ${name} yet.`;
-  if (recordedSaleCount === 1) return `Yes. We've recorded one separate sale for ${name}; there isn't enough history to estimate the interval between sales.`;
-  const chronological = [...saleEpisodes].reverse();
-  const gaps = chronological.slice(1).map((episode, i) =>
-    Math.round((Date.parse(episode.start) - Date.parse(chronological[i].end)) / 86400000));
-  const minGap = Math.min(...gaps);
-  const maxGap = Math.max(...gaps);
-  const interval = minGap === maxGap ? `${minGap} days` : `${minGap} to ${maxGap} days`;
-  return `Yes. We've recorded ${recordedSaleCount} separate sales for ${name}. The observed gaps between sale periods were ${interval}.`;
-}
-
-function faqDurationAnswer(): string | null {
-  if (recordedSaleCount < 2) return null;
-  const days = saleEpisodes.map((episode) => episode.days).sort((a, b) => a - b);
-  const middle = Math.floor(days.length / 2);
-  const median = days.length % 2 ? days[middle] : (days[middle - 1] + days[middle]) / 2;
-  return `Across ${recordedSaleCount} recorded sale periods, the median observed span is ${median} ${median === 1 ? 'day' : 'days'}, measured from the first to last sale observation in each period. Actual start and end times may differ.`;
-}
-
-function faqLowestAnswer(e: EntryData): string {
-  const episodeRows = saleEpisodes.flatMap((episode) => e.history.filter((row) =>
-    row.sale !== null && row.date >= episode.start && row.date <= episode.end));
-  const lowest = episodeRows.sort((a, b) => (a.sale ?? Infinity) - (b.sale ?? Infinity))[0];
-  if (!lowest) return `We haven't recorded a sale price for ${name} yet.`;
-  const source = lowest.source === 'wayback'
-    ? 'an Internet Archive snapshot of the store page'
-    : OBSERVED_SOURCES.includes(lowest.source)
-      ? 'our tracker'
-      : lowest.source === 'research' ? 'a research record' : `a ${lowest.source || 'source-unspecified'} record`;
-  return `The lowest sale price in our recorded sale periods for ${name} is ${formatPrice(lowest.sale)}, observed on ${lowest.date} from ${source}.`;
-}
+// --- Availability ----------------------------------------------------------
 function faqAvailabilityAnswer(e: EntryData): string {
   if (!e.pb_url) return `We don't currently have a Plugin Boutique link for ${name}.`;
   if (isSearchUrl(e.pb_url)) return `We only have a Plugin Boutique search link for ${name}, not a verified product page.`;
   return `Yes — ${name} is sold through Plugin Boutique, currently listed around ${formatPrice(current)}${onSale ? ' (on sale)' : ''}.`;
 }
 
-const durationAnswer = faqDurationAnswer();
-const faqs = [
-  { q: `Does ${name} go on sale?`, a: faqSaleAnswer() },
-  ...(durationAnswer ? [{ q: `How long do ${name} sales usually last?`, a: durationAnswer }] : []),
-  { q: `What's the lowest price for ${name}?`, a: faqLowestAnswer(entry) },
-  { q: `Is ${name} available on Plugin Boutique?`, a: faqAvailabilityAnswer(entry) },
-];
+const decisionAnswers = buildDecisionAnswers(name, facts, faqAvailabilityAnswer(entry));
+const saleRows = [
+  ...facts.sales.map((sale) => ({ ...sale, type: 'tracked', date: sale.end })),
+  ...facts.confirmed.map((sale) => ({ ...sale, type: 'confirmed' })),
+].sort((a, b) => b.date.localeCompare(a.date));
+const todayBasis = facts.state === 'on_sale' ? facts.latestPriced.sale : facts.latestPriced?.regular ?? null;
+function versusToday(price: number): string {
+  if (todayBasis === null) return '';
+  const delta = Math.round((price - todayBasis) * 100) / 100;
+  return delta === 0 ? 'same' : delta < 0 ? `${formatPrice(-delta)} lower` : `${formatPrice(delta)} higher`;
+}
 
 // --- Cheaper alternatives ----------------------------------------------------
 const otherEntries = allStaticEntries().filter((e) => e.name !== name && isPricePageIndexable(e.entry));
@@ -468,7 +351,7 @@ const alternatives = (cheaperThanSelf.length >= 2 ? cheaperThanSelf : withPrices
 // --- Meta / JSON-LD -----------------------------------------------------------
 const pageTitle = `${name} Price History & Best Price 2026 | ${SITE_TITLE}`;
 const pageDescription = current !== null
-  ? `${name} price history: currently ${formatPrice(current)}${regular !== null && onSale ? ` (regular ${formatPrice(regular)})` : ''}${statedLowest !== null ? `, lowest tracked ${formatPrice(statedLowest)}` : ''}. See when ${name} typically goes on sale at Plugin Boutique.`
+  ? `${name} price history: currently ${formatPrice(current)}${regular !== null && onSale ? ` (regular ${formatPrice(regular)})` : ''}${seenLow ? `, lowest seen at Plugin Boutique ${formatPrice(seenLow.price)}` : ''}. Every sale we tracked, with dates.`
   : `Price history and sale tracking for ${name} at Plugin Boutique — updated regularly.`;
 
 const productLD: Record<string, unknown> = {
@@ -501,7 +384,7 @@ if (freshObs !== null && entry.pb_url && !isSearchUrl(entry.pb_url)) {
 const faqLD = {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  "mainEntity": faqs.map((f) => ({
+  "mainEntity": decisionAnswers.map((f) => ({
     "@type": "Question",
     "name": f.q,
     "acceptedAnswer": { "@type": "Answer", "text": f.a },
@@ -639,6 +522,11 @@ const faqLD = {
       }
       .section-sub { font-size: 0.82rem; color: var(--text-muted); margin: 0 0 1.25rem; }
       section.page-section { margin: 3rem 0; }
+      .record-table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+      .record-table { width: 100%; border-collapse: collapse; font-size: 0.85rem; text-align: left; }
+      .record-table th, .record-table td { padding: 0.65rem 0.7rem; border-bottom: 1px solid var(--border); white-space: nowrap; }
+      .record-table th { color: var(--text-muted); font-weight: 700; }
+      .insight-copy { color: var(--text-secondary); line-height: 1.65; }
 
       /* Chart */
       .chart-card {
@@ -984,6 +872,13 @@ const faqLD = {
         </div>
       </section>
 
+      <section class="page-section" id="decision">
+        <h2 class="section-title">Buy now or wait? — what our records show</h2>
+        {decisionAnswers.map(({ q, a }) => (<><h3>{q}</h3><p>{a}</p></>))}
+        {researchNote && <p class="section-sub">{researchNote}</p>}
+        {coverageLine && <p class="section-sub">{coverageLine}</p>}
+      </section>
+
       <section class="page-section">
         <h2 class="section-title">Price History</h2>
         <p class="section-sub">Every price point we've logged for {name} since we started tracking.</p>
@@ -1034,7 +929,7 @@ const faqLD = {
                     class="ref-line ref-lowest"
                   />
                   <text x={chartGeom.width - chartGeom.padX} y={chartGeom.lowestY + 14} class="ref-label ref-lowest-label">
-                    Lowest tracked {formatPrice(statedLowest)}
+                    Lowest seen at Plugin Boutique {formatPrice(seenLow?.price ?? null)}
                   </text>
                 </>
               )}
@@ -1071,7 +966,7 @@ const faqLD = {
             <p class="chart-legend">
               <span class="legend-item"><span class="legend-dot legend-dot-normal"></span>logged price (USD)</span>
               <span class="legend-item"><span class="legend-dot legend-dot-sale"></span>sale / lowest</span>
-              <span class="legend-item"><span class="legend-dash"></span>typical regular &amp; lowest tracked</span>
+              <span class="legend-item"><span class="legend-dash"></span>reference regular &amp; lowest seen</span>
               <span class="legend-item legend-note">Dates are month + year (e.g. Jul 2026)</span>
             </p>
           </div>
@@ -1112,7 +1007,9 @@ const faqLD = {
               };
 
               const labelFor = (p) => {
-                if (p.isLowest) return 'Lowest tracked';
+                if (p.isLowest) return 'Lowest seen';
+                if (p.kind === 'archive') return 'Archived store page';
+                if (p.kind === 'archive_confirmed') return 'Archived store page (sale)';
                 if (p.isSale) return 'On sale';
                 return 'Regular price';
               };
@@ -1190,6 +1087,46 @@ const faqLD = {
         </script>
       </section>
 
+      {saleRows.length > 0 && (
+        <section class="page-section">
+          <h2 class="section-title">Sales we tracked at Plugin Boutique</h2>
+          <p class="section-sub">Dates are our first and last on-sale checks; a sale can start before or end after them.{facts.confirmed.length > 0 && ' Rows marked "archived store page" come from a single saved copy of the Plugin Boutique page.'}</p>
+          <div class="record-table-wrap">
+            <table class="record-table">
+              <thead><tr><th scope="col">Seen on sale</th><th scope="col">Days visible</th><th scope="col">Lowest</th><th scope="col">Off list</th><th scope="col">vs today</th><th scope="col">How we know</th></tr></thead>
+              <tbody>
+                {saleRows.map((row) => row.type === 'tracked' ? (
+                  <tr><td>{row.start === row.end ? row.start : `${row.start} – ${row.end}`}</td>
+                    <td>{row.leftCensored ? '≥' : ''}{row.days} {row.days === 1 ? 'day' : 'days'}</td>
+                    <td>{formatPrice(row.low)}</td><td>{row.depthPct === null ? '' : `${row.depthPct}%`}</td>
+                    <td>{versusToday(row.low)}</td><td>our checks</td></tr>
+                ) : (
+                  <tr><td>{row.date}</td><td>1 snapshot</td><td>{formatPrice(row.price)}</td><td></td>
+                    <td>{versusToday(row.price)}</td><td><a href={row.url} rel="nofollow noopener" target="_blank">archived store page</a></td></tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </section>
+      )}
+
+      {facts.archive && (
+        <section class="page-section">
+          <h2 class="section-title">Prices shown on archived Plugin Boutique pages</h2>
+          <p class="section-sub">The price the store page displayed when the Internet Archive saved it. It may be a sale price or the list price; the archive does not say which.{facts.archive.excluded.length > 0 && ` ${facts.archive.excluded.length} ${facts.archive.excluded.length === 1 ? 'snapshot' : 'snapshots'} in another or unknown currency ${facts.archive.excluded.length === 1 ? 'is' : 'are'} left out.`}</p>
+          <div class="record-table-wrap">
+            <table class="record-table">
+              <thead><tr><th scope="col">Price</th><th scope="col">Pages</th><th scope="col">First seen</th><th scope="col">Last seen</th></tr></thead>
+              <tbody>
+                {facts.archive.levels.map((level) => (
+                  <tr><td>{formatPrice(level.price)}</td><td>{level.count}</td><td>{formatShortDate(level.first)}</td><td>{formatShortDate(level.last)}</td></tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </section>
+      )}
+
       {demoVideo && (
         <section class="page-section">
           <h2 class="section-title">Watch It In Action</h2>
@@ -1205,33 +1142,6 @@ const faqLD = {
           <p class="video-caption">{demoVideo.title} — {demoVideo.channel} (YouTube)</p>
         </section>
       )}
-
-      <section class="page-section">
-        <h2 class="section-title">Past Sales &amp; Lowest Tracked Price</h2>
-        <div class="lowest-card">
-          {statedLowest !== null ? (
-            <div class="lowest-price-row">
-              <span class="lowest-price">{formatPrice(statedLowest)}</span>
-              <span class="lowest-date">Lowest tracked{lowestDate ? ` — ${lowestDate}` : ''}</span>
-            </div>
-          ) : (
-            <p class="lowest-none">No discount recorded for {name} yet — we're watching for sales.</p>
-          )}
-          {publicNotes && <p class="sale-notes">{publicNotes}</p>}
-        </div>
-      </section>
-
-      <section class="page-section">
-        <h2 class="section-title">Pricing FAQ</h2>
-        <div class="faq-list">
-          {faqs.map((f) => (
-            <details class="faq-item">
-              <summary>{f.q}</summary>
-              <p>{f.a}</p>
-            </details>
-          ))}
-        </div>
-      </section>
 
       <section class="page-section">
         <h2 class="section-title">Cheaper Alternatives</h2>
@@ -1262,12 +1172,6 @@ const faqLD = {
         </section>
       )}
 
-      <p class="trust-line">
-        {firstOwnDate
-          ? `Tracked by PluginDrop since ${firstOwnDate} (${ownChecks.length} checks).`
-          : 'PluginDrop has no direct price checks recorded yet.'}
-        {hasWayback && ' Earlier points are Internet Archive snapshots of the store page.'}
-      </p>
     </main>
     <Footer />
     <script is:inline>

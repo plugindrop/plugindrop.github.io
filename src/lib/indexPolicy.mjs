@@ -1,3 +1,6 @@
+import { OBSERVED_SOURCES, comparableHistory } from './priceBasis.mjs';
+export { OBSERVED_SOURCES } from './priceBasis.mjs';
+
 export const MIN_TAG_POSTS = 3;
 export const MIN_PRICE_OBS = 3;
 export const MIN_PRICE_SALE_OBS = 1;
@@ -6,8 +9,6 @@ export const MIN_BRAND_PRODUCTS = 3;
 export const MIN_SALE_EPISODES = 2;
 export const MIN_OWN_TRACKING_DAYS = 45;
 export const SALE_EPISODE_MAX_GAP_DAYS = 14;
-// Keep in sync with monthly_sale_stats.py's observed source set.
-export const OBSERVED_SOURCES = ['auto_check', 'pb_deals_poll', 'live_check', 'deal_intake', 'pb_crawl'];
 
 const DAY_MS = 24 * 60 * 60 * 1000;
 const observedSources = new Set(OBSERVED_SOURCES);
@@ -122,11 +123,12 @@ export function ownTrackingDays(entry) {
  */
 export function isPricePageIndexable(entry) {
   if (typeof entry?.pb_url === 'string' && entry.pb_url.includes('/search?')) return false;
-  const { observations, saleObservations, priceLevels } = priceSubstance(entry);
+  const comparableEntry = { ...entry, history: comparableHistory(entry) };
+  const { observations, saleObservations, priceLevels } = priceSubstance(comparableEntry);
   return observations >= MIN_PRICE_OBS
     && saleObservations >= MIN_PRICE_SALE_OBS
     && priceLevels >= MIN_PRICE_LEVELS
-    && saleEpisodeCount(entry) >= MIN_SALE_EPISODES
+    && saleEpisodeCount(comparableEntry) >= MIN_SALE_EPISODES
     && ownTrackingDays(entry) >= MIN_OWN_TRACKING_DAYS
     && (entry?.all_time_low == null || entry?.typical_sale == null || entry.all_time_low <= entry.typical_sale);
 }

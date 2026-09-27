@@ -4,3 +4,5 @@ import './brands.test.mjs';
 import './dealRanking.test.mjs';
 import './articleDeal.test.mjs';
 import './contentLint.test.mjs';
+import './priceInsights.test.mjs';
+import './priceRemediation.test.mjs';

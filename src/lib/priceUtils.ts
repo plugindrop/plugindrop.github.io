@@ -3,6 +3,7 @@
  * (PriceTracker.astro, TopDeals.astro, plugin-prices.astro,
  * plugin-prices/[slug].astro, brands/[brand].astro).
  */
+import { latestTrackerRow, lowestSeen } from './priceBasis.mjs';
 
 export const AFF = "a_aid=69cb95abe1763";
 
@@ -186,10 +187,10 @@ export function dealScore(
 }
 
 export function dealScoreNumeric(entry: PriceEntry): { score: number; verdict: 'good' | 'ok' | 'bad' | 'none' } {
-  const latest = entry.history.at(-1);
+  const latest = latestTrackerRow(entry);
   const current = latest ? (latest.sale ?? latest.regular) : null;
   const hi = latest?.regular ?? entry.typical_regular;
-  const atl = entry.all_time_low;
+  const atl = lowestSeen(entry)?.price ?? null;
 
   if (atl !== null && hi !== null && atl >= hi * 0.98) {
     return { score: 0, verdict: 'none' };
