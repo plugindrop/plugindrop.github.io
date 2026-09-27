@@ -208,5 +208,61 @@ export const RESEARCH_AUDIT = {
         { snapshot_date: '2023-11-20', snapshot_url: 'https://web.archive.org/web/20231120032939id_/https://www.pluginboutique.com/product/1-Instruments/4-Synth/5392-Hive-2', price: 65.5, currency: 'USD' },
       ],
     },
+    // --- Priority-3 batch (2026-09-28), reviewed with the same nearest-to-date
+    // +/-10% rule; none individually visually opened (see file header re: template reuse).
+    {
+      pb_path: '/product/2-Effects/17-Reverb/11576-FabFilter-Pro-R-2',
+      research_date: '2024-11-18',
+      research_source: 'research_bf2024',
+      research_sale: 127.0,
+      research_regular: 169.0,
+      status: 'contradicted',
+      reviewed: true,
+      note: 'Nearest snapshot 2024-11-22 (4d gap) shows $107.95, -15.0% vs research value — outside +/-10% (exactly 85% of claim). A later snapshot 2024-11-23 (5d gap, not nearest) shows $134.00 (+5.5%), closer to the claim but not the nearest-date reading. Left unconfirmed per the nearest-date rule.',
+      evidence: [
+        { snapshot_date: '2024-11-22', snapshot_url: 'https://web.archive.org/web/20241122015848id_/https://www.pluginboutique.com/product/2-Effects/17-Reverb/11576-FabFilter-Pro-R-2?a_aid=5c2307ad7734c', price: 107.95, currency: 'USD' },
+        { snapshot_date: '2024-11-23', snapshot_url: 'https://web.archive.org/web/20241123113225id_/https://www.pluginboutique.com/product/2-Effects/17-Reverb/11576-FabFilter-Pro-R-2/', price: 134.0, currency: 'USD' },
+      ],
+    },
+    {
+      pb_path: '/product/2-Effects/19-Filter/8389-FabFilter-Volcano-3',
+      research_date: '2023-11-20',
+      research_source: 'research_bf2023',
+      research_sale: 127.0,
+      research_regular: 169.0,
+      status: 'contradicted',
+      reviewed: true,
+      note: 'Same-day snapshot (0d gap) shows $96.76, -23.8% vs research value — well outside +/-10% despite being the closest possible timing. A later snapshot 2023-12-03 (13d gap, not nearest) shows $129.00 (+1.6%). Left unconfirmed.',
+      evidence: [
+        { snapshot_date: '2023-11-20', snapshot_url: 'https://web.archive.org/web/20231120131415id_/https://www.pluginboutique.com/product/2-Effects/19-Filter/8389-FabFilter-Volcano-3', price: 96.76, currency: 'USD' },
+        { snapshot_date: '2023-12-03', snapshot_url: 'https://web.archive.org/web/20231203080924id_/https://www.pluginboutique.com/product/2-Effects/19-Filter/8389-FabFilter-Volcano-3/?a_aid=5cfc204524b25', price: 129.0, currency: 'USD' },
+      ],
+    },
+    {
+      pb_path: '/product/2-Effects/19-Filter/8389-FabFilter-Volcano-3',
+      research_date: '2024-11-18',
+      research_source: 'research_bf2024',
+      research_sale: 127.0,
+      research_regular: 169.0,
+      status: 'contradicted',
+      reviewed: true,
+      note: 'Nearest readable snapshot 2024-11-22 (4d gap) shows $104.00, -18.1% vs research value — outside +/-10%. The only other evidence (2024-11-04, 14d gap) has no readable price. Left unconfirmed.',
+      evidence: [
+        { snapshot_date: '2024-11-22', snapshot_url: 'https://web.archive.org/web/20241122015759id_/https://www.pluginboutique.com/product/2-Effects/19-Filter/8389-FabFilter-Volcano-3?a_aid=5c2307ad7734c', price: 104.0, currency: 'USD' },
+      ],
+    },
+    {
+      pb_path: '/product/1-Instruments/4-Synth/1396-Diva',
+      research_date: '2024-11-28',
+      research_source: 'research_bf2024',
+      research_sale: 152.0,
+      research_regular: 179.0,
+      status: 'confirmed',
+      reviewed: true,
+      note: 'Nearest readable snapshot 2024-12-03 (5d gap) shows $153.00, +0.66% vs research value — well within +/-10%. (2024-12-02, 4d gap, has no readable price; 2024-12-04, 6d gap, shows $179.00 = list price, consistent with the sale having ended by then.)',
+      evidence: [
+        { snapshot_date: '2024-12-03', snapshot_url: 'https://web.archive.org/web/20241203013337id_/https://www.pluginboutique.com/product/1-Instruments/4-Synth/1396-Diva', price: 153.0, currency: 'USD' },
+      ],
+    },
   ],
 };
