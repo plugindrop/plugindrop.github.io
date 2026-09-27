@@ -1,6 +1,6 @@
 import { listSaleEpisodes } from './indexPolicy.mjs';
 import { DEFAULT_AUDIT_INDEX, OBSERVED_SOURCES, confirmedSaleOf, isStandardCents, latestTrackerRow, pbPathOf, sourceKindOf } from './priceBasis.mjs';
-import { formatPrice } from './priceUtils.ts';
+import { currentPriceOf, formatPrice } from './priceUtils.ts';
 
 const observed = new Set(OBSERVED_SOURCES);
 const rows = (e) => Array.isArray(e?.history) ? e.history : [];
@@ -14,6 +14,19 @@ const nums = (a) => a.length <= 4 ? joinList(a.map(String)) : `${Math.min(...a)}
 const ym = (d) => new Date(`${d}T00:00:00Z`).toLocaleDateString('en-US', { month: 'short', year: 'numeric', timeZone: 'UTC' });
 const pct = (lo, hi) => Math.round((1 - lo / hi) * 100);
 const range = (a) => ym(a.first) === ym(a.last) ? `from ${ym(a.first)}` : `from ${ym(a.first)} to ${ym(a.last)}`;
+
+export function sameCategoryPeers(entry, name, candidates) {
+  if (!entry?.category) return [];
+  const withPrices = candidates
+    .filter((candidate) => candidate.name !== name && candidate.entry.category === entry.category)
+    .map((candidate) => ({ ...candidate, price: currentPriceOf(candidate.entry) }))
+    .filter((candidate) => candidate.price !== null)
+    .sort((a, b) => a.price - b.price);
+  if (withPrices.length < 2) return [];
+  const selfPrice = currentPriceOf(entry);
+  const cheaper = selfPrice !== null ? withPrices.filter((candidate) => candidate.price < selfPrice) : [];
+  return (cheaper.length >= 2 ? cheaper : withPrices).slice(0, 3);
+}
 
 export function pricedChecks(entry) {
   return rows(entry).filter((r) => observed.has(r?.source) && (finite(r.sale) || finite(r.regular)))

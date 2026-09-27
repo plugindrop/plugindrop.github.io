@@ -9,7 +9,7 @@ import productVideosRaw from '../../data/product_videos.json';
 import { latestCheckedDate, formatCheckedDate, dealScoreNumeric, isSearchUrl, pbLink, currentPriceOf, regularPriceOf, formatPrice } from '../../lib/priceUtils';
 import { isPricePageIndexable, slugifyProduct } from '../../lib/indexPolicy.mjs';
 import { comparablePrices, lowestSeen } from '../../lib/priceBasis.mjs';
-import { buildPageFacts, buildDecisionAnswers, buildResearchNote, buildCoverageLine, summarizeVerdict, alertTarget } from '../../lib/priceInsights.mjs';
+import { buildPageFacts, buildDecisionAnswers, buildResearchNote, buildCoverageLine, summarizeVerdict, alertTarget, sameCategoryPeers } from '../../lib/priceInsights.mjs';
 import { getCollection } from 'astro:content';
 
 interface HistoryEntry {
@@ -332,21 +332,9 @@ function versusToday(price: number): string {
   return delta === 0 ? 'same' : delta < 0 ? `${formatPrice(-delta)} lower` : `${formatPrice(delta)} higher`;
 }
 
-// --- Cheaper alternatives ----------------------------------------------------
-const otherEntries = allStaticEntries().filter((e) => e.name !== name && isPricePageIndexable(e.entry));
-const selfCategory = entry.category ?? null;
-let pool = otherEntries;
-if (selfCategory) {
-  const sameCategory = otherEntries.filter((e) => (e.entry.category ?? null) === selfCategory);
-  if (sameCategory.length > 0) pool = sameCategory;
-}
-const withPrices = pool
-  .map((e) => ({ ...e, price: currentPrice(e.entry) }))
-  .filter((e): e is StaticEntry & { price: number } => e.price !== null)
-  .sort((a, b) => a.price - b.price);
-
-const cheaperThanSelf = current !== null ? withPrices.filter((e) => e.price < current) : [];
-const alternatives = (cheaperThanSelf.length >= 2 ? cheaperThanSelf : withPrices).slice(0, 3);
+// --- Other tracked products in the same category ----------------------------
+const indexableEntries = allStaticEntries().filter((e) => isPricePageIndexable(e.entry));
+const peers = sameCategoryPeers(entry, name, indexableEntries);
 
 // --- Meta / JSON-LD -----------------------------------------------------------
 const pageTitle = `${name} Price History & Best Price 2026 | ${SITE_TITLE}`;
@@ -1143,21 +1131,19 @@ const faqLD = {
         </section>
       )}
 
-      <section class="page-section">
-        <h2 class="section-title">Cheaper Alternatives</h2>
-        {alternatives.length > 0 ? (
+      {peers.length >= 2 && (
+        <section class="page-section">
+          <h2 class="section-title">Other {entry.category} plugins we track</h2>
           <div class="alt-grid">
-            {alternatives.map((alt) => (
+            {peers.map((alt) => (
               <a href={`/plugin-prices/${slugifyProduct(alt.name)}/`} class="alt-card">
                 <p class="alt-name">{alt.name}</p>
                 <span class="alt-price">{formatPrice(alt.price)}</span>
               </a>
             ))}
           </div>
-        ) : (
-          <p class="alt-empty">No other tracked products to compare yet.</p>
-        )}
-      </section>
+        </section>
+      )}
 
       {guides.length > 0 && (
         <section class="page-section">
