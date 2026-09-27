@@ -1,0 +1,20 @@
+---
+import { OPERATOR_SETUP } from '../consts';
+---
+
+<aside class="author-box" aria-label="About the author">
+	<p>PluginDrop is written and maintained by SignalDrop, an independent music producer.</p>
+	<p>My setup:</p>
+	<ul>
+		{OPERATOR_SETUP.map(({ label, value }) => <li><strong>{label}:</strong> {value}</li>)}
+	</ul>
+	<p><a href="/editorial-policy/">Editorial Policy</a> · <a href="/contact/">Contact</a></p>
+</aside>
+
+<style>
+	.author-box { margin: 2rem 0; padding: 1.25rem; border: 1px solid var(--border); border-radius: var(--radius-sm); color: var(--text-secondary); }
+	.author-box p { margin: 0 0 0.75rem; }
+	.author-box p:last-child { margin-bottom: 0; }
+	.author-box ul { margin: 0 0 0.75rem; padding-left: 1.5rem; }
+	.author-box a { color: var(--accent); }
+</style>

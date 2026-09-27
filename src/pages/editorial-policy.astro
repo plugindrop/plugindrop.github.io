@@ -1,0 +1,38 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { CORRECTION_POLICY_TEXT } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title="Editorial Policy | PluginDrop" description="How PluginDrop makes content and rankings, handles affiliate links and advertising, and corrects errors." />
+		<style>
+			.content { max-width: 640px; margin: 0 auto; padding: 3rem 1rem; }
+			.content h1 { font-size: 2rem; }
+			.content h2 { font-size: 1.25rem; margin-top: 2rem; }
+			.content p, .content li { color: var(--text-secondary); line-height: 1.7; }
+		</style>
+	</head>
+	<body>
+		<a href="#main-content" class="sr-only">Skip to content</a>
+		<Header />
+		<main id="main-content" class="content">
+			<h1>Editorial Policy</h1>
+			<h2>How PluginDrop content is made</h2>
+			<p>PluginDrop does not claim to have personally tested every plugin it lists. Content is based on published specifications, documented prices, and linked community information from forums, subreddits, and developer communications. See <a href="/how-we-track-prices/">how we track prices</a>.</p>
+			<h2>How rankings and “best” lists are made</h2>
+			<p>Rankings and “best” lists consider publicly documented features, linked community information, and PluginDrop’s tracked prices. They do not represent hands-on testing of every listed product.</p>
+			<h2 id="affiliate">Affiliate disclosure</h2>
+			<p>Some links on this site are affiliate links. This means I may earn a small commission if you make a purchase — at <strong>no extra cost to you</strong>. This helps me keep the site running and the deals flowing.</p>
+			<p>My scoring algorithm doesn't factor in commission rates — it's purely based on deal quality and relevance to music producers.</p>
+			<h2>Advertising policy</h2>
+			<p>Advertising is displayed separately from editorial content. Whether an advertiser is present does not affect the prices PluginDrop displays or which deals it selects.</p>
+			<h2>Corrections</h2>
+			<p>{CORRECTION_POLICY_TEXT}. Please <a href="/contact/">report an error</a> with the product and page URL.</p>
+		</main>
+		<Footer />
+	</body>
+</html>

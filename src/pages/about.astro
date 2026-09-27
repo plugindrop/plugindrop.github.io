@@ -2,7 +2,7 @@
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
-import { SITE_TITLE } from '../consts';
+import { CONTACT_EMAIL, CORRECTION_POLICY_TEXT, OPERATOR_SETUP } from '../consts';
 ---
 
 <!doctype html>
@@ -16,7 +16,7 @@ import { SITE_TITLE } from '../consts';
 			"url": "https://plugindrop.net",
 			"logo": "https://plugindrop.net/images/logo-512.png",
 			"description": "SignalDrop operates PluginDrop, a curated VST plugin deal aggregator for music producers.",
-			"email": "signaldrop.biz@gmail.com",
+			"email": CONTACT_EMAIL,
 			"sameAs": ["https://plugindrop.net"]
 		})} />
 		<style>
@@ -79,11 +79,7 @@ import { SITE_TITLE } from '../consts';
 				<h2>My Setup</h2>
 				<p>PluginDrop's data pipeline runs alongside a real studio setup:</p>
 				<ul>
-					<li><strong>DAW:</strong> Steinberg Cubase</li>
-					<li><strong>Audio Interface:</strong> RME Babyface Pro</li>
-					<li><strong>Monitors:</strong> ADAM Audio A3X</li>
-					<li><strong>Headphones:</strong> AKG K812</li>
-					<li><strong>Test Machine:</strong> Windows 11 / Mac mini M4</li>
+					{OPERATOR_SETUP.map(({ label, value }) => <li><strong>{label}:</strong> {value}</li>)}
 				</ul>
 
 				<h2>Methodology</h2>
@@ -100,15 +96,12 @@ import { SITE_TITLE } from '../consts';
 				<ul>
 					<li>Affiliate links are marked with [Ad] where required by law</li>
 					<li>Pricing data is confirmed on the date shown in each article</li>
-					<li>Errors are corrected within 24 hours of being reported</li>
+					<li>{CORRECTION_POLICY_TEXT}</li>
 					<li>Commission rates have no influence on my deal scoring or recommendations</li>
 				</ul>
 
 				<h2>Contact</h2>
-				<p>
-					PluginDrop is operated by <strong>SignalDrop</strong>. For inquiries, reach me at
-					signaldrop.biz@gmail.com.
-				</p>
+				<p>PluginDrop is operated by <strong>SignalDrop</strong>. For inquiries, visit the <a href="/contact/">contact page</a>.</p>
 
 				<h2 id="personalization">Local Personalization</h2>
 				<p>
@@ -119,15 +112,7 @@ import { SITE_TITLE } from '../consts';
 				</p>
 
 				<h2 id="affiliate">Affiliate Disclosure</h2>
-				<p>
-					Some links on this site are affiliate links. This means I may earn a small commission
-					if you make a purchase — at <strong>no extra cost to you</strong>. This helps me keep
-					the site running and the deals flowing.
-				</p>
-				<p>
-					My scoring algorithm doesn't factor in commission rates — it's purely based on
-					deal quality and relevance to music producers.
-				</p>
+				<p>Some links earn PluginDrop a commission at no extra cost to you. Read the full <a href="/editorial-policy/#affiliate">affiliate disclosure</a>.</p>
 			</div>
 		</main>
 		<Footer />

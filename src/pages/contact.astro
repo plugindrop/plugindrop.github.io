@@ -1,0 +1,38 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { CONTACT_EMAIL, CORRECTION_POLICY_TEXT } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title="Contact PluginDrop" description="Contact PluginDrop about price errors, deal submissions, advertising, affiliate inquiries, or content removal." />
+		<style>
+			.content { max-width: 640px; margin: 0 auto; padding: 3rem 1rem; }
+			.content h1 { font-size: 2rem; }
+			.content h2 { font-size: 1.25rem; margin-top: 2rem; }
+			.content p, .content li { color: var(--text-secondary); line-height: 1.7; }
+		</style>
+	</head>
+	<body>
+		<a href="#main-content" class="sr-only">Skip to content</a>
+		<Header />
+		<main id="main-content" class="content">
+			<h1>Contact PluginDrop</h1>
+			<h2>General inquiries</h2>
+			<p>Email <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a> for general questions.</p>
+			<h2>Report a price error</h2>
+			<p>Please email the product name, the PluginDrop page URL, and the price you saw with the date you saw it.</p>
+			<p>{CORRECTION_POLICY_TEXT}</p>
+			<h2>Vendors and deal submissions</h2>
+			<p>Vendors can send deal details and the official product or sale URL to <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.</p>
+			<h2>Advertising and affiliate inquiries</h2>
+			<p>For advertising or affiliate inquiries, email <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>. See our <a href="/editorial-policy/">editorial policy</a>.</p>
+			<h2>Content removal requests</h2>
+			<p>Send the PluginDrop URL and the reason for your request to <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.</p>
+		</main>
+		<Footer />
+	</body>
+</html>
