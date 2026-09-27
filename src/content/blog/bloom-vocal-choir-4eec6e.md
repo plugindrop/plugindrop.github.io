@@ -11,7 +11,7 @@ originalPrice: "$59.00"
 discount: "34% OFF"
 draft: true
 ---
-**TL;DR:** Bloom Vocal Choir is on sale at Plugin Boutique for $39, down from ~~$59~~ — a 34% discount. It's a vocal instrument built for layered, textural choir sounds you can drop into a mix for depth and emotion. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Bloom+Vocal+Choir&a_aid=69cb95abe1763&chan=art&data1=bloom-vocal-choir-4eec6e&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-vocal-choir-4eec6e) while the price holds.
+**TL;DR:** Bloom Vocal Choir is on sale at Plugin Boutique for $39, down from ~~$59~~ — a 34% discount. It's a vocal instrument built for layered, textural choir sounds you can drop into a mix for depth and emotion. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14542-Bloom-Vocal-Choir?a_aid=69cb95abe1763&chan=art&data1=bloom-vocal-choir-4eec6e&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-vocal-choir-4eec6e) while the price holds.
 
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="34% Off Bloom Vocal Choir — Layered Choir Textures ($39) — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/2010587736%3Fsecret_token%3Ds-SvfwQK8xBOu&color=%232e4847&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
@@ -46,7 +46,7 @@ For exact system requirements, host compatibility, and version details, check th
 
 Verify current pricing on the product page — deals can change. Plugin Boutique runs frequent sales across its catalog, so a 34% discount is a reasonable markdown but not necessarily a rock-bottom price for this title. If you've been eyeing it, this is a solid entry point without needing to wait indefinitely.
 
-[Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=Bloom+Vocal+Choir&a_aid=69cb95abe1763&chan=art&data1=bloom-vocal-choir-4eec6e&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-vocal-choir-4eec6e).
+[Check the current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14542-Bloom-Vocal-Choir?a_aid=69cb95abe1763&chan=art&data1=bloom-vocal-choir-4eec6e&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-vocal-choir-4eec6e).
 
 ## Alternatives at a Glance
 
@@ -74,7 +74,7 @@ A: Plugin Boutique deals typically run for limited windows. Check the product pa
 
 ## Get the Deal
 
-$39 instead of $59 is $20 back in your pocket for a layered vocal choir instrument. [Get Bloom Vocal Choir at Plugin Boutique](https://www.pluginboutique.com/search?q=Bloom+Vocal+Choir&a_aid=69cb95abe1763&chan=art&data1=bloom-vocal-choir-4eec6e&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-vocal-choir-4eec6e) before the price reverts.
+$39 instead of $59 is $20 back in your pocket for a layered vocal choir instrument. [Get Bloom Vocal Choir at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14542-Bloom-Vocal-Choir?a_aid=69cb95abe1763&chan=art&data1=bloom-vocal-choir-4eec6e&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-vocal-choir-4eec6e) before the price reverts.
 
 ## Is This Deal Worth It?
 

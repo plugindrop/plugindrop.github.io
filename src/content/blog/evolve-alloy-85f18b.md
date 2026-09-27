@@ -13,7 +13,7 @@ draft: true
 updatedDate: "2026-09-14T12:39:17.597676+00:00"
 saleExpiry: "2026-09-14"
 ---
-**TL;DR:** Save 34% on Evolve Alloy — a synth texture library for DTM producers. ~~$59~~ now $41. [Get the deal here](https://www.pluginboutique.com/search?q=Evolve+Alloy&a_aid=69cb95abe1763&chan=art&data1=evolve-alloy-evolve&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-alloy-evolve).
+**TL;DR:** Save 34% on Evolve Alloy — a synth texture library for DTM producers. ~~$59~~ now $41. [Get the deal here](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15144-Evolve-Alloy?a_aid=69cb95abe1763&chan=art&data1=evolve-alloy-evolve&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-alloy-evolve).
 
 ## What you actually get
 

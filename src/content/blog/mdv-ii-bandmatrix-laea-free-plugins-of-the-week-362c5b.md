@@ -9,7 +9,7 @@ dealPrice: "FREE"
 score: 5.84
 draft: true
 ---
-**TL;DR:** Three free plugins just dropped this week — MDV-II, BandMatrix, and LAEA — all available at no cost. Grab them now before the promo window closes. If you want to round out your toolkit with a premium saturation unit, [SoundToys Decapitator](https://www.pluginboutique.com/search?q=Soundtoys%20Decapitator&a_aid=69cb95abe1763&chan=art&data1=mdv-ii-bandmatrix-laea-free-plugins-of-the-week-362c5b) pairs exceptionally well with any of these.
+**TL;DR:** Three free plugins just dropped this week — MDV-II, BandMatrix, and LAEA — all available at no cost. Grab them now before the promo window closes. If you want to round out your toolkit with a premium saturation unit, [SoundToys Decapitator](https://www.pluginboutique.com/product/2-Effects/44-Saturation/1801-Decapitator?a_aid=69cb95abe1763&chan=art&data1=mdv-ii-bandmatrix-laea-free-plugins-of-the-week-362c5b) pairs exceptionally well with any of these.
 
 ---
 
@@ -76,7 +76,7 @@ These are niche-to-mid-profile releases, so large-scale community threads are st
 
 Free plugins can revert to paid or time-limited status without notice. Verify current availability on each developer's product page — deals can change.
 
-> **Looking for a premium analog saturation plugin to complement this week's free haul?** [SoundToys Decapitator](https://www.pluginboutique.com/search?q=Soundtoys%20Decapitator&a_aid=69cb95abe1763&chan=art&data1=mdv-ii-bandmatrix-laea-free-plugins-of-the-week-362c5b) is a studio-grade tool widely used alongside dynamics and EQ processors in professional mix chains.
+> **Looking for a premium analog saturation plugin to complement this week's free haul?** [SoundToys Decapitator](https://www.pluginboutique.com/product/2-Effects/44-Saturation/1801-Decapitator?a_aid=69cb95abe1763&chan=art&data1=mdv-ii-bandmatrix-laea-free-plugins-of-the-week-362c5b) is a studio-grade tool widely used alongside dynamics and EQ processors in professional mix chains.
 
 ---
 
@@ -88,7 +88,7 @@ Free plugins can revert to paid or time-limited status without notice. Verify cu
 | TDR Nova | Free | Well-established free dynamic EQ with a large user base and forum documentation |
 | Melda MFreeEffectsBundle | Free | Broad multi-plugin bundle covering dynamics, EQ, and modulation in one download |
 
-If you want free spectral or dynamics tools with an extensive community support history, TDR Nova and Melda's free bundle are well-documented starting points. If you're ready to invest in a paid saturation plugin that professional engineers regularly reach for, [SoundToys Decapitator](https://www.pluginboutique.com/search?q=Soundtoys%20Decapitator&a_aid=69cb95abe1763&chan=art&data1=mdv-ii-bandmatrix-laea-free-plugins-of-the-week-362c5b) is worth the upgrade.
+If you want free spectral or dynamics tools with an extensive community support history, TDR Nova and Melda's free bundle are well-documented starting points. If you're ready to invest in a paid saturation plugin that professional engineers regularly reach for, [SoundToys Decapitator](https://www.pluginboutique.com/product/2-Effects/44-Saturation/1801-Decapitator?a_aid=69cb95abe1763&chan=art&data1=mdv-ii-bandmatrix-laea-free-plugins-of-the-week-362c5b) is worth the upgrade.
 
 ---
 
@@ -110,7 +110,7 @@ A: Format availability varies per plugin. Check the official product pages for s
 
 ## Get the Deal
 
-Three free plugins in one week is a solid haul — dynamics, routing, and spectral tools at no cost. Download links and full specs are on each developer's product page. And if you want to add a proven paid saturation plugin to your rack, [SoundToys Decapitator](https://www.pluginboutique.com/search?q=Soundtoys%20Decapitator&a_aid=69cb95abe1763&chan=art&data1=mdv-ii-bandmatrix-laea-free-plugins-of-the-week-362c5b) is one of the most-used tools in professional mixing sessions.
+Three free plugins in one week is a solid haul — dynamics, routing, and spectral tools at no cost. Download links and full specs are on each developer's product page. And if you want to add a proven paid saturation plugin to your rack, [SoundToys Decapitator](https://www.pluginboutique.com/product/2-Effects/44-Saturation/1801-Decapitator?a_aid=69cb95abe1763&chan=art&data1=mdv-ii-bandmatrix-laea-free-plugins-of-the-week-362c5b) is one of the most-used tools in professional mixing sessions.
 
 ---
 

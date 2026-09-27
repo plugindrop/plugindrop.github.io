@@ -13,7 +13,7 @@ draft: true
 saleExpiry: "2026-09-15"
 saleExpirySource: "fallback"
 ---
-**TL;DR:** Native Instruments' Battery 4 drum sampler is ~~$199~~ **$99** at Plugin Boutique right now, a straight 50% cut. If you build beats from your own samples or third-party drum libraries and want a dedicated cell-based instrument instead of stacking samplers in your DAW, this is worth a look. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Battery%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=battery-4-d4428d&chan=art&data1=battery-4-d4428d).
+**TL;DR:** Native Instruments' Battery 4 drum sampler is ~~$199~~ **$99** at Plugin Boutique right now, a straight 50% cut. If you build beats from your own samples or third-party drum libraries and want a dedicated cell-based instrument instead of stacking samplers in your DAW, this is worth a look. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/10990-Battery-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=battery-4-d4428d&chan=art&data1=battery-4-d4428d).
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $199
@@ -78,7 +78,7 @@ A: Yes, the instrument supports drag-and-drop import of your own audio into indi
 
 ## Get the Deal
 
-Battery 4 is $99 instead of $199 at Plugin Boutique, a 50% discount off list price. [Get Battery 4 at Plugin Boutique](https://www.pluginboutique.com/search?q=Battery%204&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=battery-4-d4428d&chan=art&data1=battery-4-d4428d).
+Battery 4 is $99 instead of $199 at Plugin Boutique, a 50% discount off list price. [Get Battery 4 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/10990-Battery-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=battery-4-d4428d&chan=art&data1=battery-4-d4428d).
 
 ## Is This Deal Worth It?
 

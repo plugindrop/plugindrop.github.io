@@ -11,7 +11,7 @@ originalPrice: "$129.00"
 discount: "39% OFF"
 draft: true
 ---
-**TL;DR:** Cableguys' Transit 2 multi-effect plugin is down to $79 from ~~$129~~ at Plugin Boutique, a 39% discount. The plugin combines multiple effect modules on a single timeline for building transitions, risers, and drops. [Grab Transit 2 at the discounted price](https://www.pluginboutique.com/search?q=Transit+2&a_aid=69cb95abe1763&chan=art&data1=transit-2-43f69c&utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-43f69c).
+**TL;DR:** Cableguys' Transit 2 multi-effect plugin is down to $79 from ~~$129~~ at Plugin Boutique, a 39% discount. The plugin combines multiple effect modules on a single timeline for building transitions, risers, and drops. [Grab Transit 2 at the discounted price](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?a_aid=69cb95abe1763&chan=art&data1=transit-2-43f69c&utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-43f69c).
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Nrd7EUyGYA8" title="39% Off Transit 2 — Multi-FX for Buildups & Drops ($79) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -47,7 +47,7 @@ Check the product page for the full, current list of included effect modules and
 
 Cableguys plugins go on sale periodically through Plugin Boutique and other retailers, though the exact cadence varies by product. Verify current pricing on the product page — deals can change.
 
-[Check the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Transit+2&a_aid=69cb95abe1763&chan=art&data1=transit-2-43f69c&utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-43f69c).
+[Check the deal at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?a_aid=69cb95abe1763&chan=art&data1=transit-2-43f69c&utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-43f69c).
 
 ## Alternatives at a Glance
 
@@ -75,7 +75,7 @@ A: Cableguys sells plugins under a perpetual license model rather than subscript
 
 ## Get the Deal
 
-$50 off a multi-effect plugin built for transitions and drops is a straightforward win for anyone doing electronic production. [Get Transit 2 at $79 while the deal is live](https://www.pluginboutique.com/search?q=Transit+2&a_aid=69cb95abe1763&chan=art&data1=transit-2-43f69c&utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-43f69c).
+$50 off a multi-effect plugin built for transitions and drops is a straightforward win for anyone doing electronic production. [Get Transit 2 at $79 while the deal is live](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/13431-Transit-2?a_aid=69cb95abe1763&chan=art&data1=transit-2-43f69c&utm_source=plugindrop&utm_medium=article&utm_campaign=transit-2-43f69c).
 
 ## Is This Deal Worth It?
 

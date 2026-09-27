@@ -12,7 +12,7 @@ draft: true
 saleExpiry: "2026-07-19"
 saleExpirySource: "fallback"
 ---
-**TL;DR:** Tom Wolfe Presets is running a four-day sale on the Complete Collection — every soundbank the brand has ever made, bundled together for $299.99. The sale closes Monday 22nd June 2026 and won't return until Black Friday. [Grab it here before it closes.](https://www.pluginboutique.com/search?q=diva&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tom-wolfe-presets-complete-collection-four-day-sale-for-299-&chan=art&data1=tom-wolfe-presets-complete-collection-four-day-sale-for-299-)
+**TL;DR:** Tom Wolfe Presets is running a four-day sale on the Complete Collection — every soundbank the brand has ever made, bundled together for $299.99. The sale closes Monday 22nd June 2026 and won't return until Black Friday. [Grab it here before it closes.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1396-Diva?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tom-wolfe-presets-complete-collection-four-day-sale-for-299-&chan=art&data1=tom-wolfe-presets-complete-collection-four-day-sale-for-299-)
 
 ---
 
@@ -65,7 +65,7 @@ This is the brand's own statement that this price won't come back until Black Fr
 
 > Verify current pricing on the product page — deals can change.
 
-[Check availability and current pricing here.](https://www.pluginboutique.com/search?q=diva&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tom-wolfe-presets-complete-collection-four-day-sale-for-299-&chan=art&data1=tom-wolfe-presets-complete-collection-four-day-sale-for-299-)
+[Check availability and current pricing here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1396-Diva?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tom-wolfe-presets-complete-collection-four-day-sale-for-299-&chan=art&data1=tom-wolfe-presets-complete-collection-four-day-sale-for-299-)
 
 ---
 
@@ -101,7 +101,7 @@ A: The sale closes on Monday 22nd June 2026. The next confirmed discount opportu
 
 Four days. $299.99. Nearly 5,000 presets. This is the last window before Black Friday — if u-he synths are part of your setup, the timing is straightforward.
 
-[Browse the Tom Wolfe Presets collection and lock in the sale price here.](https://www.pluginboutique.com/search?q=diva&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tom-wolfe-presets-complete-collection-four-day-sale-for-299-&chan=art&data1=tom-wolfe-presets-complete-collection-four-day-sale-for-299-)
+[Browse the Tom Wolfe Presets collection and lock in the sale price here.](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1396-Diva?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tom-wolfe-presets-complete-collection-four-day-sale-for-299-&chan=art&data1=tom-wolfe-presets-complete-collection-four-day-sale-for-299-)
 
 ## Related Guides
 

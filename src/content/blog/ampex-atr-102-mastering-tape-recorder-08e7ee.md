@@ -11,7 +11,7 @@ originalPrice: "$199.00"
 discount: "80% OFF"
 draft: true
 ---
-**TL;DR:** Ampex ATR 102 Mastering Tape Recorder is now 80% off at Plugin Boutique — from ~~$199~~ to just $39. This is a rare opportunity to get a plugin known for its authentic analog tape sound. [Get the deal here](https://www.pluginboutique.com/search?q=Ampex+ATR+102+Mastering+Tape+Recorder&a_aid=69cb95abe1763&chan=art&data1=ampex-atr-102-mastering-tape-recorder-08e7ee&utm_source=plugindrop&utm_medium=article&utm_campaign=ampex-atr-102-mastering-tape-recorder-08e7ee).
+**TL;DR:** Ampex ATR 102 Mastering Tape Recorder is now 80% off at Plugin Boutique — from ~~$199~~ to just $39. This is a rare opportunity to get a plugin known for its authentic analog tape sound. [Get the deal here](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/12716-Ampex-ATR-102-Mastering-Tape-Recorder?a_aid=69cb95abe1763&chan=art&data1=ampex-atr-102-mastering-tape-recorder-08e7ee&utm_source=plugindrop&utm_medium=article&utm_campaign=ampex-atr-102-mastering-tape-recorder-08e7ee).
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/qNkCWJbFDRU" title="80% Off Ampex ATR 102 Mastering Tape Recorder — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -48,7 +48,7 @@ Ampex ATR 102 has been a commonly recommended plugin in discussions about master
 
 This is a rare discount for a plugin that is typically priced around $199. Plugin Boutique occasionally runs sales on high-end plugins, but discounts of this magnitude are uncommon. Verify current pricing on the product page — deals can change.
 
-[Get the deal here](https://www.pluginboutique.com/search?q=Ampex+ATR+102+Mastering+Tape+Recorder&a_aid=69cb95abe1763&chan=art&data1=ampex-atr-102-mastering-tape-recorder-08e7ee&utm_source=plugindrop&utm_medium=article&utm_campaign=ampex-atr-102-mastering-tape-recorder-08e7ee).
+[Get the deal here](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/12716-Ampex-ATR-102-Mastering-Tape-Recorder?a_aid=69cb95abe1763&chan=art&data1=ampex-atr-102-mastering-tape-recorder-08e7ee&utm_source=plugindrop&utm_medium=article&utm_campaign=ampex-atr-102-mastering-tape-recorder-08e7ee).
 
 ## Alternatives at a Glance
 
@@ -75,7 +75,7 @@ A: Plugin Boutique often offers trial versions — check the product page for av
 
 ## Get the Deal
 
-Don’t miss out on this 80% discount on a plugin that delivers authentic analog tape sound. Ampex ATR 102 is now available for just $39 at Plugin Boutique. [Get the deal here](https://www.pluginboutique.com/search?q=Ampex+ATR+102+Mastering+Tape+Recorder&a_aid=69cb95abe1763&chan=art&data1=ampex-atr-102-mastering-tape-recorder-08e7ee&utm_source=plugindrop&utm_medium=article&utm_campaign=ampex-atr-102-mastering-tape-recorder-08e7ee).
+Don’t miss out on this 80% discount on a plugin that delivers authentic analog tape sound. Ampex ATR 102 is now available for just $39 at Plugin Boutique. [Get the deal here](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/12716-Ampex-ATR-102-Mastering-Tape-Recorder?a_aid=69cb95abe1763&chan=art&data1=ampex-atr-102-mastering-tape-recorder-08e7ee&utm_source=plugindrop&utm_medium=article&utm_campaign=ampex-atr-102-mastering-tape-recorder-08e7ee).
 
 ## Is This Deal Worth It?
 

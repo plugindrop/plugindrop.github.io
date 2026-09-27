@@ -12,7 +12,7 @@ discount: "67% OFF"
 draft: true
 saleExpiry: "2026-07-12"
 ---
-**TL;DR:** Owners of a qualifying Total Studio MAX version can upgrade to Total Studio 5 MAX for $99.99, down from ~~$299.99~~. That's 67% off the regular upgrade price on IK Multimedia's full production bundle. Grab the [MAXgrade deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Total%20Studio%205%20MAX%20Upgrade%20from%20any%20qualifying%20MAX%20MAXgrade&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-studio-5-max-upgrade-from-any-qualifying-max-maxgrade&chan=art&data1=total-studio-5-max-upgrade-from-any-qualifying-max-maxgrade) while it's active.
+**TL;DR:** Owners of a qualifying Total Studio MAX version can upgrade to Total Studio 5 MAX for $99.99, down from ~~$299.99~~. That's 67% off the regular upgrade price on IK Multimedia's full production bundle. Grab the [MAXgrade deal at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15172-Total-Studio-5-MAX-Upgrade-from-any-qualifying-MAX-MAXgrade-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-studio-5-max-upgrade-from-any-qualifying-max-maxgrade&chan=art&data1=total-studio-5-max-upgrade-from-any-qualifying-max-maxgrade) while it's active.
 
 ## Price Context (tracked by PluginDrop)
 - Tracked since 2026-07-12 (31 observations)
@@ -55,7 +55,7 @@ IK Multimedia's individual product lines have a long track record in home and pr
 
 This is an upgrade price, not a new-license price — eligibility depends on owning a qualifying prior MAX version.
 
-[Check the current MAXgrade price at Plugin Boutique](https://www.pluginboutique.com/search?q=Total%20Studio%205%20MAX%20Upgrade%20from%20any%20qualifying%20MAX%20MAXgrade&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-studio-5-max-upgrade-from-any-qualifying-max-maxgrade&chan=art&data1=total-studio-5-max-upgrade-from-any-qualifying-max-maxgrade).
+[Check the current MAXgrade price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15172-Total-Studio-5-MAX-Upgrade-from-any-qualifying-MAX-MAXgrade-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-studio-5-max-upgrade-from-any-qualifying-max-maxgrade&chan=art&data1=total-studio-5-max-upgrade-from-any-qualifying-max-maxgrade).
 
 ## Alternatives at a Glance
 
@@ -85,7 +85,7 @@ A: This deal is listed at Plugin Boutique. Use the link on this page to check cu
 
 67% off is a meaningful markdown on an upgrade that normally runs $299.99. If you already own a qualifying MAX version, this is the moment to check eligibility.
 
-[Get the Total Studio 5 MAX upgrade at Plugin Boutique](https://www.pluginboutique.com/search?q=Total%20Studio%205%20MAX%20Upgrade%20from%20any%20qualifying%20MAX%20MAXgrade&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-studio-5-max-upgrade-from-any-qualifying-max-maxgrade&chan=art&data1=total-studio-5-max-upgrade-from-any-qualifying-max-maxgrade).
+[Get the Total Studio 5 MAX upgrade at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15172-Total-Studio-5-MAX-Upgrade-from-any-qualifying-MAX-MAXgrade-?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=total-studio-5-max-upgrade-from-any-qualifying-max-maxgrade&chan=art&data1=total-studio-5-max-upgrade-from-any-qualifying-max-maxgrade).
 
 ## Is This Deal Worth It?
 

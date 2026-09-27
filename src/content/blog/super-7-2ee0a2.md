@@ -12,7 +12,7 @@ discount: "76% OFF"
 saleExpiry: "2026-09-06"
 draft: true
 ---
-**TL;DR:** Super 7 bundles seven effects plugins from Plugin Boutique for one price, down from ~~$79~~ to $19. That's a 76% discount, and it matches the lowest price PluginDrop has tracked for this deal. [Grab Super 7 at Plugin Boutique](https://www.pluginboutique.com/search?q=Super+7&a_aid=69cb95abe1763&chan=art&data1=super-7-2ee0a2&utm_source=plugindrop&utm_medium=article&utm_campaign=super-7-2ee0a2).
+**TL;DR:** Super 7 bundles seven effects plugins from Plugin Boutique for one price, down from ~~$79~~ to $19. That's a 76% discount, and it matches the lowest price PluginDrop has tracked for this deal. [Grab Super 7 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/15978-Super-7?a_aid=69cb95abe1763&chan=art&data1=super-7-2ee0a2&utm_source=plugindrop&utm_medium=article&utm_campaign=super-7-2ee0a2).
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/bC5fN8h_36k" title="76% Off Super 7 — Seven Effects Plugins Bundle ($19) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -68,7 +68,7 @@ A: Check the official site for license and activation details specific to this b
 
 ## Should you buy now?
 
-The verdict from PluginDrop's tracking is buy now. At $19, the price is within 5% of the $19 lowest price recorded across 8 observations since 2026-09-06, so there's little upside to waiting. [Check current availability at Plugin Boutique](https://www.pluginboutique.com/search?q=Super+7&a_aid=69cb95abe1763&chan=art&data1=super-7-2ee0a2&utm_source=plugindrop&utm_medium=article&utm_campaign=super-7-2ee0a2).
+The verdict from PluginDrop's tracking is buy now. At $19, the price is within 5% of the $19 lowest price recorded across 8 observations since 2026-09-06, so there's little upside to waiting. [Check current availability at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/15978-Super-7?a_aid=69cb95abe1763&chan=art&data1=super-7-2ee0a2&utm_source=plugindrop&utm_medium=article&utm_campaign=super-7-2ee0a2).
 
 *Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
 

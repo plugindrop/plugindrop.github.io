@@ -12,7 +12,7 @@ discount: "92% OFF"
 saleExpiry: "2026-07-12"
 draft: true
 ---
-**TL;DR:** PHAT 2 is currently listed at $9 on Plugin Boutique, down from a ~~$119~~ regular price. PluginDrop has tracked this deal since 2026-07-12 across 26 observations, and $9 matches the lowest price recorded in that window. If you want a sound-design instrument at a steep discount, [grab PHAT 2 here](https://www.pluginboutique.com/search?q=PHAT+2&a_aid=69cb95abe1763&chan=art&data1=phat-2-a282a3&utm_source=plugindrop&utm_medium=article&utm_campaign=phat-2-a282a3).
+**TL;DR:** PHAT 2 is currently listed at $9 on Plugin Boutique, down from a ~~$119~~ regular price. PluginDrop has tracked this deal since 2026-07-12 across 26 observations, and $9 matches the lowest price recorded in that window. If you want a sound-design instrument at a steep discount, [grab PHAT 2 here](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/5506-PHAT-2?a_aid=69cb95abe1763&chan=art&data1=phat-2-a282a3&utm_source=plugindrop&utm_medium=article&utm_campaign=phat-2-a282a3).
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/E9sl82VerOM" title="92% Off PHAT 2 — Sound Design Virtual Instrument ($9) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -71,7 +71,7 @@ A: Based on 26 tracked observations, $9 is the lowest price recorded, and the cu
 
 ## Should you buy now?
 
-The tracked verdict is BUY NOW. Current pricing at $9 is within 5% of the $9 lowest price seen across 26 observations since 2026-07-12, so there's no strong historical signal that waiting will get you a better deal. If PHAT 2's sound-design use case fits a gap in your current instrument lineup, this is a reasonable window to [pick it up on Plugin Boutique](https://www.pluginboutique.com/search?q=PHAT+2&a_aid=69cb95abe1763&chan=art&data1=phat-2-a282a3&utm_source=plugindrop&utm_medium=article&utm_campaign=phat-2-a282a3).
+The tracked verdict is BUY NOW. Current pricing at $9 is within 5% of the $9 lowest price seen across 26 observations since 2026-07-12, so there's no strong historical signal that waiting will get you a better deal. If PHAT 2's sound-design use case fits a gap in your current instrument lineup, this is a reasonable window to [pick it up on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/5506-PHAT-2?a_aid=69cb95abe1763&chan=art&data1=phat-2-a282a3&utm_source=plugindrop&utm_medium=article&utm_campaign=phat-2-a282a3).
 
 *Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
 

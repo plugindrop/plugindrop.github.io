@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26",
+  "generated_at": "2026-09-27",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-09",
       "label": "September 2026",
       "is_current": true,
-      "generated_at": "2026-09-26",
-      "observations": 3000,
+      "generated_at": "2026-09-27",
+      "observations": 3122,
       "products_tracked": 506,
-      "products_on_sale": 261,
-      "on_sale_pct": 51.6,
-      "avg_discount_pct": 57.5,
-      "median_discount_pct": 54,
+      "products_on_sale": 267,
+      "on_sale_pct": 52.8,
+      "avg_discount_pct": 58.0,
+      "median_discount_pct": 60,
       "discount_buckets": {
         "1-19": 12,
         "20-39": 41,
         "40-59": 80,
-        "60+": 128
+        "60+": 134
       },
-      "all_time_low_hits": 227,
+      "all_time_low_hits": 232,
       "deepest_discounts": [
         {
           "name": "Platinum",
@@ -86,6 +86,16 @@
           "pb_url": "/product/1-Instruments/64-Virtual-Instruments/5508-HEAVY-2"
         },
         {
+          "name": "MELLOW 2",
+          "slug": "mellow-2",
+          "category": "Other",
+          "regular": 119.0,
+          "sale": 9.0,
+          "pct_off": 92,
+          "date": "2026-09-26",
+          "pb_url": "/product/1-Instruments/64-Virtual-Instruments/6259-MELLOW-2"
+        },
+        {
           "name": "PHAT 2",
           "slug": "phat-2",
           "category": "Other",
@@ -94,6 +104,16 @@
           "pct_off": 92,
           "date": "2026-09-01",
           "pb_url": "/product/1-Instruments/64-Virtual-Instruments/5506-PHAT-2"
+        },
+        {
+          "name": "ROYAL 2",
+          "slug": "royal-2",
+          "category": "Other",
+          "regular": 119.0,
+          "sale": 9.0,
+          "pct_off": 92,
+          "date": "2026-09-26",
+          "pb_url": "/product/1-Instruments/64-Virtual-Instruments/6257-ROYAL-2"
         },
         {
           "name": "SOLID 2",
@@ -154,26 +174,6 @@
           "pct_off": 86,
           "date": "2026-09-01",
           "pb_url": "/product/81-Bundles/89-Complete-Collection/14789-Excite-Audio-Bundle-Crossgrade-From-Any-Excite-Audio-Product"
-        },
-        {
-          "name": "Empirical Labs EL8 Distressor Compressor",
-          "slug": "empirical-labs-el8-distressor-compressor",
-          "category": "Other",
-          "regular": 199.0,
-          "sale": 29.0,
-          "pct_off": 85,
-          "date": "2026-09-01",
-          "pb_url": "/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor"
-        },
-        {
-          "name": "SSL Native X-Echo",
-          "slug": "ssl-native-x-echo",
-          "category": "Other",
-          "regular": 99.0,
-          "sale": 15.0,
-          "pct_off": 85,
-          "date": "2026-09-01",
-          "pb_url": "/product/2-Effects/10-Delay/8674-SSL-Native-X-Echo"
         }
       ],
       "all_time_low_products": [
@@ -213,11 +213,25 @@
           "date": "2026-09-01"
         },
         {
+          "name": "MELLOW 2",
+          "slug": "mellow-2",
+          "sale": 9.0,
+          "all_time_low": 9.0,
+          "date": "2026-09-26"
+        },
+        {
           "name": "PHAT 2",
           "slug": "phat-2",
           "sale": 9.0,
           "all_time_low": 9.0,
           "date": "2026-09-01"
+        },
+        {
+          "name": "ROYAL 2",
+          "slug": "royal-2",
+          "sale": 9.0,
+          "all_time_low": 9.0,
+          "date": "2026-09-26"
         },
         {
           "name": "SOLID 2",
@@ -267,36 +281,22 @@
           "sale": 29.0,
           "all_time_low": 29.0,
           "date": "2026-09-01"
-        },
-        {
-          "name": "SSL Native X-Echo",
-          "slug": "ssl-native-x-echo",
-          "sale": 15.0,
-          "all_time_low": 15.0,
-          "date": "2026-09-01"
-        },
-        {
-          "name": "Zen Delay Virtual",
-          "slug": "zen-delay-virtual",
-          "sale": 14.99,
-          "all_time_low": 14.99,
-          "date": "2026-09-01"
         }
       ],
       "by_category": [
         {
           "category": "Other",
           "tracked": 348,
-          "on_sale": 199,
-          "on_sale_pct": 57.2,
-          "avg_discount_pct": 60.1
+          "on_sale": 204,
+          "on_sale_pct": 58.6,
+          "avg_discount_pct": 60.7
         },
         {
           "category": "Synth",
           "tracked": 27,
-          "on_sale": 8,
-          "on_sale_pct": 29.6,
-          "avg_discount_pct": 48.5
+          "on_sale": 9,
+          "on_sale_pct": 33.3,
+          "avg_discount_pct": 49.8
         },
         {
           "category": "Effects",
@@ -394,9 +394,9 @@
         {
           "category": "Other",
           "tracked": 157,
-          "on_sale": 109,
-          "on_sale_pct": 69.4,
-          "avg_discount_pct": 60.5
+          "on_sale": 114,
+          "on_sale_pct": 72.6,
+          "avg_discount_pct": 61.6
         },
         {
           "category": "Universal Audio",
@@ -618,9 +618,9 @@
         {
           "category": "Reveal Sound",
           "tracked": 1,
-          "on_sale": 0,
-          "on_sale_pct": 0.0,
-          "avg_discount_pct": 0.0
+          "on_sale": 1,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 60
         },
         {
           "category": "Vengeance",
@@ -632,8 +632,8 @@
       ],
       "vs_previous_month": {
         "month": "2026-08",
-        "on_sale_pct_delta": -9.1,
-        "avg_discount_pct_delta": 4.1,
+        "on_sale_pct_delta": -7.9,
+        "avg_discount_pct_delta": 4.6,
         "products_tracked_delta": 81
       }
     },
@@ -641,7 +641,7 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-09-26",
+      "generated_at": "2026-09-27",
       "observations": 3587,
       "products_tracked": 425,
       "products_on_sale": 258,
@@ -654,7 +654,7 @@
         "40-59": 91,
         "60+": 95
       },
-      "all_time_low_hits": 203,
+      "all_time_low_hits": 204,
       "deepest_discounts": [
         {
           "name": "Platinum",
@@ -1237,7 +1237,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-09-26",
+      "generated_at": "2026-09-27",
       "observations": 1968,
       "products_tracked": 289,
       "products_on_sale": 142,

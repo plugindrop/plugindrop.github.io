@@ -12,7 +12,7 @@ discount: "60% OFF"
 saleExpiry: "2026-09-04"
 draft: true
 ---
-**TL;DR:** The Analog Polysynth Collection is currently $149, down from ~~$299~~. PluginDrop has tracked this bundle since 2026-09-04, and $149 is the lowest price recorded so far in that tracking window. If you need warm, analog-style polysynth textures for pads, leads, or basslines, grab it here: [Analog Polysynth Collection at Plugin Boutique](https://www.pluginboutique.com/search?q=Analog+Polysynth+Collection&a_aid=69cb95abe1763&chan=trk&data1=analog-polysynth-collection-e90204&utm_source=plugindrop&utm_medium=article&utm_campaign=analog-polysynth-collection-e90204).
+**TL;DR:** The Analog Polysynth Collection is currently $149, down from ~~$299~~. PluginDrop has tracked this bundle since 2026-09-04, and $149 is the lowest price recorded so far in that tracking window. If you need warm, analog-style polysynth textures for pads, leads, or basslines, grab it here: [Analog Polysynth Collection at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16252-Analog-Polysynth-Collection?a_aid=69cb95abe1763&chan=trk&data1=analog-polysynth-collection-e90204&utm_source=plugindrop&utm_medium=article&utm_campaign=analog-polysynth-collection-e90204).
 
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="60% Off Analog Polysynth Collection — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A986981863&color=ff5a00&hide_related=true&show_comments=false&show_teaser=false&show_user=false"></iframe>

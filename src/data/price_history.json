@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26",
+  "last_updated": "2026-09-27",
   "bundles": {
     "Arturia FX Collection 6 Pro": {
       "pb_url": "/product/81-Bundles/39-Effects-Bundles/16835-FX-Collection-6-PRO",
@@ -2166,6 +2166,15 @@
         },
         {
           "date": "2026-09-26",
+          "sale": 199.0,
+          "regular": 499.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-27",
           "sale": 199.0,
           "regular": 499.0,
           "source": "pb_deals_poll",
@@ -7804,6 +7813,15 @@
         },
         {
           "date": "2026-09-26",
+          "sale": 9.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-27",
           "sale": 9.0,
           "regular": 129.0,
           "source": "pb_deals_poll",
@@ -16332,6 +16350,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-27",
+          "sale": 29.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/empirical-labs-el8-distressor-compressor.jpg"
@@ -22449,6 +22476,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-09-30"
+        },
+        {
+          "date": "2026-09-27",
+          "sale": 379.0,
+          "regular": 758.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/excite-audio-bundle.jpg"
@@ -26648,6 +26684,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-09-30"
+        },
+        {
+          "date": "2026-09-27",
+          "sale": 9.0,
+          "regular": 119.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/heavy-2.jpg"
@@ -27409,6 +27454,24 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-10-11"
+        },
+        {
+          "date": "2026-09-26",
+          "sale": 9.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-27",
+          "sale": 9.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/iron-2.jpg"
@@ -28057,6 +28120,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-27",
+          "sale": 69.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/jd-800.jpg"
@@ -28266,6 +28338,15 @@
         },
         {
           "date": "2026-09-26",
+          "sale": 69.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-27",
           "sale": 69.0,
           "regular": 199.0,
           "source": "pb_deals_poll",
@@ -32765,6 +32846,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-10-11"
+        },
+        {
+          "date": "2026-09-27",
+          "sale": 9.0,
+          "regular": 119.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/mellow-2.jpg"
@@ -32878,6 +32968,15 @@
         },
         {
           "date": "2026-09-26",
+          "sale": 29.99,
+          "regular": 199.99,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-27",
           "sale": 29.99,
           "regular": 199.99,
           "source": "pb_deals_poll",
@@ -34051,6 +34150,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-09-30"
+        },
+        {
+          "date": "2026-09-27",
+          "sale": 99.0,
+          "regular": 344.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ]
     },
@@ -34909,6 +35017,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-09-30"
+        },
+        {
+          "date": "2026-09-27",
+          "sale": 79.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "category": null,
@@ -43232,6 +43349,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-09-30"
+        },
+        {
+          "date": "2026-09-27",
+          "sale": 125.0,
+          "regular": 250.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ]
     },
@@ -46212,6 +46338,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-09-30"
+        },
+        {
+          "date": "2026-09-27",
+          "sale": 9.0,
+          "regular": 119.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/solid-2.jpg"
@@ -49067,6 +49202,15 @@
         },
         {
           "date": "2026-09-26",
+          "sale": 99.0,
+          "regular": 179.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-27",
           "sale": 99.0,
           "regular": 179.0,
           "source": "pb_deals_poll",
@@ -56296,6 +56440,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-27",
+          "sale": 79.99,
+          "regular": 1499.92,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/total-vi-max-2.jpg"
@@ -57423,6 +57576,15 @@
         },
         {
           "date": "2026-09-26",
+          "sale": 149.99,
+          "regular": 599.99,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-27",
           "sale": 149.99,
           "regular": 599.99,
           "source": "pb_deals_poll",
@@ -61622,6 +61784,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-27",
+          "sale": 99.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ]
     },
@@ -61832,6 +62003,15 @@
         },
         {
           "date": "2026-09-26",
+          "sale": 39.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-27",
           "sale": 39.0,
           "regular": 149.0,
           "source": "pb_deals_poll",
@@ -66543,6 +66723,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-27",
+          "sale": 49.0,
+          "regular": 89.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/vision-4x.jpg"
@@ -66753,6 +66942,15 @@
         },
         {
           "date": "2026-09-26",
+          "sale": 124.0,
+          "regular": 249.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-27",
           "sale": 124.0,
           "regular": 249.0,
           "source": "pb_deals_poll",
@@ -71899,6 +72097,15 @@
         },
         {
           "date": "2026-09-26",
+          "sale": 19.0,
+          "regular": 49.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-27",
           "sale": 19.0,
           "regular": 49.0,
           "source": "pb_deals_poll",

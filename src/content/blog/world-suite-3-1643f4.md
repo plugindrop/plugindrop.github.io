@@ -11,7 +11,7 @@ originalPrice: "$299.00"
 discount: "50% OFF"
 draft: true
 ---
-**TL;DR:** World Suite 3 is currently ~~$299~~ **$149** at Plugin Boutique, a 50% discount on this 12-instrument world/ethnic instrument collection. That works out to roughly $12.42 per instrument if you use the full library. [Get World Suite 3 at Plugin Boutique](https://www.pluginboutique.com/search?q=World+Suite+3&a_aid=69cb95abe1763&chan=art&data1=world-suite-3-1643f4&utm_source=plugindrop&utm_medium=article&utm_campaign=world-suite-3-1643f4) while the deal is live.
+**TL;DR:** World Suite 3 is currently ~~$299~~ **$149** at Plugin Boutique, a 50% discount on this 12-instrument world/ethnic instrument collection. That works out to roughly $12.42 per instrument if you use the full library. [Get World Suite 3 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3?a_aid=69cb95abe1763&chan=art&data1=world-suite-3-1643f4&utm_source=plugindrop&utm_medium=article&utm_campaign=world-suite-3-1643f4) while the deal is live.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/0AdVExmHrGE" title="50% Off World Suite 3 — 12 Instruments for Producers ($149) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -46,7 +46,7 @@ For exact plugin formats (VST/AU/AAX), sample rates, and disk space requirements
 
 That's about $12.42 per instrument across the 12-instrument set, if you use all of them. Verify current pricing on the product page — deals can change, and Plugin Boutique regularly rotates instrument bundle discounts, so the exact percentage and end date can shift.
 
-[Check World Suite 3 pricing at Plugin Boutique](https://www.pluginboutique.com/search?q=World+Suite+3&a_aid=69cb95abe1763&chan=art&data1=world-suite-3-1643f4&utm_source=plugindrop&utm_medium=article&utm_campaign=world-suite-3-1643f4)
+[Check World Suite 3 pricing at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3?a_aid=69cb95abe1763&chan=art&data1=world-suite-3-1643f4&utm_source=plugindrop&utm_medium=article&utm_campaign=world-suite-3-1643f4)
 
 ## Alternatives at a Glance
 
@@ -76,7 +76,7 @@ A: Commercial usage terms depend on the license included with the purchase. Revi
 
 $150 off a 12-instrument world sound collection is a straightforward way to add ethnic and world textures to a production or scoring template. The deal is live now at Plugin Boutique.
 
-[Grab World Suite 3 for $149 at Plugin Boutique](https://www.pluginboutique.com/search?q=World+Suite+3&a_aid=69cb95abe1763&chan=art&data1=world-suite-3-1643f4&utm_source=plugindrop&utm_medium=article&utm_campaign=world-suite-3-1643f4)
+[Grab World Suite 3 for $149 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3?a_aid=69cb95abe1763&chan=art&data1=world-suite-3-1643f4&utm_source=plugindrop&utm_medium=article&utm_campaign=world-suite-3-1643f4)
 
 ## Is This Deal Worth It?
 

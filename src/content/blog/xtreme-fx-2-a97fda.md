@@ -15,7 +15,7 @@ saleExpirySource: "fallback"
 ---
 If you only pick up one FX plugin this week, Xtreme FX 2 is worth a look for the price cut alone — a multi-effect processor built for transitions, risers, and sound design at $90 off list.
 
-**TL;DR:** Xtreme FX 2 is down to $59.00 from ~~$149.00~~ at Plugin Boutique, a 60% discount. It's a multi-effect plugin aimed at producers who need fast transition, riser, and glitch-style sound design tools. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Xtreme%20FX%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=xtreme-fx-2-a97fda&chan=art&data1=xtreme-fx-2-a97fda).
+**TL;DR:** Xtreme FX 2 is down to $59.00 from ~~$149.00~~ at Plugin Boutique, a 60% discount. It's a multi-effect plugin aimed at producers who need fast transition, riser, and glitch-style sound design tools. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/16932-Xtreme-FX-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=xtreme-fx-2-a97fda&chan=art&data1=xtreme-fx-2-a97fda).
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $149
@@ -50,7 +50,7 @@ Xtreme FX 2 is a multi-effect plugin listed under Plugin Boutique's Effects cate
 
 Plugin Boutique and its partner developers run promotions across their catalog regularly, though the depth of any single discount varies by title and by season. A 60% cut off a $149 list price is a substantial markdown, so it's worth acting if you were already considering this plugin.
 
-[Get Xtreme FX 2 at Plugin Boutique](https://www.pluginboutique.com/search?q=Xtreme%20FX%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=xtreme-fx-2-a97fda&chan=art&data1=xtreme-fx-2-a97fda).
+[Get Xtreme FX 2 at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/16932-Xtreme-FX-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=xtreme-fx-2-a97fda&chan=art&data1=xtreme-fx-2-a97fda).
 
 ## Alternatives at a Glance
 

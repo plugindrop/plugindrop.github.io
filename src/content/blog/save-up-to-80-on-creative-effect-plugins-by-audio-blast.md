@@ -3,7 +3,7 @@ title: "Save up to 80% on creative effect plugins by Audio Blast"
 description: "Plugin Boutique is running a limited-time \"Creative Effects\" sale on Audio Blast plugins with discounts of up to 80% off regular prices. The current deal..."
 pubDate: "2026-07-02T21:02:14Z"
 tags: ["acid", "audio blast", "delay", "drum machine", "glitch", "looper", "rave", "sale", "music-production"]
-affiliate: "https://www.pluginboutique.com/products/14109-Blast-Delay?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-80-on-creative-effect-plugins-by-audio-blast&chan=art&data1=save-up-to-80-on-creative-effect-plugins-by-audio-blast"
+affiliate: "https://www.pluginboutique.com/product/2-Effects/10-Delay/10478-Blast-Delay?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-80-on-creative-effect-plugins-by-audio-blast&chan=art&data1=save-up-to-80-on-creative-effect-plugins-by-audio-blast"
 heroImage: "/images/save-up-to-80-on-creative-effect-plugins-by-audio-blast.jpg"
 score: 8.76
 dealPrice: "$609.00"
@@ -13,7 +13,7 @@ draft: true
 saleExpiry: "2026-08-01"
 saleExpirySource: "fallback"
 ---
-**TL;DR:** Plugin Boutique is running a limited-time "Creative Effects" sale on Audio Blast plugins with discounts of up to 80% off regular prices. The current deal price starts at $609.00 for the collection — original pricing varies by plugin, so check the product page for exact savings per title. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/products/14109-Blast-Delay?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-80-on-creative-effect-plugins-by-audio-blast&chan=art&data1=save-up-to-80-on-creative-effect-plugins-by-audio-blast)
+**TL;DR:** Plugin Boutique is running a limited-time "Creative Effects" sale on Audio Blast plugins with discounts of up to 80% off regular prices. The current deal price starts at $609.00 for the collection — original pricing varies by plugin, so check the product page for exact savings per title. [Grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/10-Delay/10478-Blast-Delay?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-80-on-creative-effect-plugins-by-audio-blast&chan=art&data1=save-up-to-80-on-creative-effect-plugins-by-audio-blast)
 
 ---
 
@@ -58,7 +58,7 @@ This isn't a generic developer cranking out clones of existing tools. Audio Blas
 
 The "up to 80%" framing means individual plugin discounts vary — some titles in the Audio Blast catalog will be discounted more steeply than others. Always confirm individual plugin pricing directly on the product page before purchasing, as deal percentages shift across a multi-product promotion.
 
-[Check current prices and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/products/14109-Blast-Delay?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-80-on-creative-effect-plugins-by-audio-blast&chan=art&data1=save-up-to-80-on-creative-effect-plugins-by-audio-blast)
+[Check current prices and grab the deal at Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/10-Delay/10478-Blast-Delay?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-80-on-creative-effect-plugins-by-audio-blast&chan=art&data1=save-up-to-80-on-creative-effect-plugins-by-audio-blast)
 
 ---
 
@@ -92,7 +92,7 @@ A: Verify license type on the Plugin Boutique product page before purchasing —
 
 ## Get the Deal
 
-Up to 80% off is a meaningful discount for boutique creative effects plugins, and this sale is explicitly time-limited. [Head to Plugin Boutique now to browse the Audio Blast Creative Effects promotion.](https://www.pluginboutique.com/products/14109-Blast-Delay?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-80-on-creative-effect-plugins-by-audio-blast&chan=art&data1=save-up-to-80-on-creative-effect-plugins-by-audio-blast)
+Up to 80% off is a meaningful discount for boutique creative effects plugins, and this sale is explicitly time-limited. [Head to Plugin Boutique now to browse the Audio Blast Creative Effects promotion.](https://www.pluginboutique.com/product/2-Effects/10-Delay/10478-Blast-Delay?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=save-up-to-80-on-creative-effect-plugins-by-audio-blast&chan=art&data1=save-up-to-80-on-creative-effect-plugins-by-audio-blast)
 
 ---
 

@@ -13,7 +13,7 @@ draft: true
 saleExpiry: "2026-09-09"
 saleExpirySource: "fallback"
 ---
-**TL;DR:** Fiedler Audio Stage is on sale at Plugin Boutique for $30, down from ~~$101~~ — a 70% discount. If you mix or master and want more control over stereo width without phase headaches, this is a solid window to grab it. [Get Stage at Plugin Boutique](https://www.pluginboutique.com/search?q=fiedler%20audio%20stage&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fiedler-audio-stage-3a6761&chan=art&data1=fiedler-audio-stage-3a6761).
+**TL;DR:** Fiedler Audio Stage is on sale at Plugin Boutique for $30, down from ~~$101~~ — a 70% discount. If you mix or master and want more control over stereo width without phase headaches, this is a solid window to grab it. [Get Stage at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/14921-fiedler-audio-stage?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fiedler-audio-stage-3a6761&chan=art&data1=fiedler-audio-stage-3a6761).
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $101
@@ -79,7 +79,7 @@ A: Some Fiedler Audio products offer trial versions.
 
 $30 instead of $101 is a 70% saving on a dedicated stereo imaging plugin. That price point may not hold once the current promotion ends.
 
-[Grab Fiedler Audio Stage at Plugin Boutique](https://www.pluginboutique.com/search?q=fiedler%20audio%20stage&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fiedler-audio-stage-3a6761&chan=art&data1=fiedler-audio-stage-3a6761).
+[Grab Fiedler Audio Stage at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/14921-fiedler-audio-stage?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fiedler-audio-stage-3a6761&chan=art&data1=fiedler-audio-stage-3a6761).
 
 ## Is This Deal Worth It?
 

@@ -13,7 +13,7 @@ draft: true
 updatedDate: "2026-09-14T12:57:07.902059+00:00"
 saleExpiry: "2026-09-11"
 ---
-**TL;DR:** Save 50% on VPS Avenger 2 — a synth plugin designed for DTM and audio production — normally ~~$249~~, now $124. The deal ends 30 September, so grab it before it’s gone. [Get the deal here](https://www.pluginboutique.com/search?q=VPS+Avenger+2&a_aid=69cb95abe1763&chan=art&data1=vps-avenger-2-vps-av&utm_source=plugindrop&utm_medium=article&utm_campaign=vps-avenger-2-vps-av).
+**TL;DR:** Save 50% on VPS Avenger 2 — a synth plugin designed for DTM and audio production — normally ~~$249~~, now $124. The deal ends 30 September, so grab it before it’s gone. [Get the deal here](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11545-VPS-Avenger-2?a_aid=69cb95abe1763&chan=art&data1=vps-avenger-2-vps-av&utm_source=plugindrop&utm_medium=article&utm_campaign=vps-avenger-2-vps-av).
 
 <!-- deal-context-sale-windows:start -->
 ## Last three times this went on sale

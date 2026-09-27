@@ -9,7 +9,7 @@ score: 4.25
 draft: true
 converted: true
 ---
-** [Check the current price here.](https://www.pluginboutique.com/search?q=key%20suite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c&chan=art&data1=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c)
+** [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16200-Key-Suite?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c&chan=art&data1=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c)
 
 ---
 
@@ -88,7 +88,7 @@ A: Head directly to the product page — the current discount is reflected there
 
  If you're building out your sound library, this is a strong window to add serious keys coverage at a fraction of the regular price.
 
-**[Check current price at Plugin Boutique](https://www.pluginboutique.com/search?q=key%20suite&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c&chan=art&data1=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c)**
+**[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16200-Key-Suite?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c&chan=art&data1=uvi-uvi-is-offering-66-off-on-key-suite-virtual-instrument-c)**
 
 ---
 
