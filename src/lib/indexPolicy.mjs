@@ -3,6 +3,14 @@ export const MIN_PRICE_OBS = 3;
 export const MIN_PRICE_SALE_OBS = 1;
 export const MIN_PRICE_LEVELS = 2;
 export const MIN_BRAND_PRODUCTS = 3;
+export const MIN_SALE_EPISODES = 2;
+export const MIN_OWN_TRACKING_DAYS = 45;
+export const SALE_EPISODE_MAX_GAP_DAYS = 14;
+// Keep in sync with monthly_sale_stats.py's observed source set.
+export const OBSERVED_SOURCES = ['auto_check', 'pb_deals_poll', 'live_check', 'deal_intake', 'pb_crawl'];
+
+const DAY_MS = 24 * 60 * 60 * 1000;
+const observedSources = new Set(OBSERVED_SOURCES);
 
 /**
  * Keep product URLs byte-for-byte compatible with the former page-local
@@ -44,7 +52,66 @@ export function priceSubstance(entry) {
 }
 
 /**
- * @param {{ history?: Array<{ regular?: unknown, sale?: unknown }> } | null | undefined} entry
+ * Group all history rows by date and return episodes newest first. A day is a
+ * sale day when any row has a sale. Archive rows remain in the sale history;
+ * ownTrackingDays restricts sources. `days` is the inclusive calendar span.
+ *
+ * @param {{ history?: Array<{ date?: string, sale?: unknown }> } | null | undefined} entry
+ * @returns {Array<{ start: string, end: string, days: number }>}
+ */
+export function listSaleEpisodes(entry) {
+  const saleByDate = new Map();
+  for (const row of Array.isArray(entry?.history) ? entry.history : []) {
+    if (typeof row?.date !== 'string' || !/^\d{4}-\d{2}-\d{2}$/.test(row.date)) continue;
+    saleByDate.set(row.date, (saleByDate.get(row.date) ?? false) || row.sale != null);
+  }
+
+  const episodes = [];
+  let previousSaleDate = null;
+  let previousDayWasSale = false;
+  for (const [date, isSale] of [...saleByDate].sort(([a], [b]) => a.localeCompare(b))) {
+    if (!isSale) {
+      previousDayWasSale = false;
+      continue;
+    }
+    const gapDays = previousSaleDate === null
+      ? Infinity
+      : (Date.parse(date) - Date.parse(previousSaleDate)) / DAY_MS;
+    if (!previousDayWasSale || gapDays > SALE_EPISODE_MAX_GAP_DAYS) {
+      episodes.push({ start: date, end: date, days: 1 });
+    } else {
+      const episode = episodes.at(-1);
+      episode.end = date;
+      episode.days = (Date.parse(date) - Date.parse(episode.start)) / DAY_MS + 1;
+    }
+    previousSaleDate = date;
+    previousDayWasSale = true;
+  }
+  return episodes.reverse();
+}
+
+/** @param {{ history?: Array<{ date?: string, sale?: unknown }> } | null | undefined} entry */
+export function saleEpisodeCount(entry) {
+  return listSaleEpisodes(entry).length;
+}
+
+/**
+ * Elapsed days between the first and last observations from our own sources.
+ *
+ * @param {{ history?: Array<{ date?: string, source?: string }> } | null | undefined} entry
+ * @returns {number}
+ */
+export function ownTrackingDays(entry) {
+  const dates = (Array.isArray(entry?.history) ? entry.history : [])
+    .filter((row) => observedSources.has(row?.source) && typeof row.date === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(row.date))
+    .map((row) => row.date)
+    .sort();
+  if (dates.length < 2) return 0;
+  return (Date.parse(dates.at(-1)) - Date.parse(dates[0])) / DAY_MS;
+}
+
+/**
+ * @param {{ pb_url?: unknown, all_time_low?: number | null, typical_sale?: number | null, history?: Array<{ date?: string, regular?: unknown, sale?: unknown, source?: string }> } | null | undefined} entry
  * @returns {boolean}
  */
 export function isPricePageIndexable(entry) {
@@ -52,7 +119,10 @@ export function isPricePageIndexable(entry) {
   const { observations, saleObservations, priceLevels } = priceSubstance(entry);
   return observations >= MIN_PRICE_OBS
     && saleObservations >= MIN_PRICE_SALE_OBS
-    && priceLevels >= MIN_PRICE_LEVELS;
+    && priceLevels >= MIN_PRICE_LEVELS
+    && saleEpisodeCount(entry) >= MIN_SALE_EPISODES
+    && ownTrackingDays(entry) >= MIN_OWN_TRACKING_DAYS
+    && (entry?.all_time_low == null || entry?.typical_sale == null || entry.all_time_low <= entry.typical_sale);
 }
 
 /**

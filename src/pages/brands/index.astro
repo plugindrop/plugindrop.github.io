@@ -3,7 +3,7 @@ import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
 import priceData from '../../data/price_history.json';
-import { isBrandPageIndexable, slugifyProduct } from '../../lib/indexPolicy.mjs';
+import { isBrandPageIndexable, isPricePageIndexable, slugifyProduct } from '../../lib/indexPolicy.mjs';
 
 interface HistoryEntry {
   date: string;
@@ -139,7 +139,7 @@ interface BrandSummary {
 }
 
 const brandSummaries: BrandSummary[] = [...groups.entries()]
-  .filter(([, products]) => isBrandPageIndexable(products.length))
+  .filter(([, products]) => isBrandPageIndexable(products.filter((p) => isPricePageIndexable(p.entry)).length))
   .map(([brand, products]) => {
     const onSaleCount = products.filter((p) => {
       const e = p.entry;

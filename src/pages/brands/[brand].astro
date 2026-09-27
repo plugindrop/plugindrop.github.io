@@ -202,7 +202,7 @@ const itemListLD = {
 <!doctype html>
 <html lang="en">
   <head>
-    <BaseHead title={pageTitle} description={pageDescription} noindex={!isBrandPageIndexable(products.length)} />
+    <BaseHead title={pageTitle} description={pageDescription} noindex={!isBrandPageIndexable(rows.filter((r) => r.indexable).length)} />
     <script type="application/ld+json" set:html={JSON.stringify(itemListLD)} />
     <style>
       main { max-width: 960px; margin: 0 auto; padding: 2rem 1rem 3rem; }
