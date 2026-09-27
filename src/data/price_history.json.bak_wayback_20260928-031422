@@ -28353,12 +28353,6 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
-        },
-        {
-          "date": "2025-08-07",
-          "regular": 123.95,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/juno-106.jpg"
