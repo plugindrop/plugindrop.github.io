@@ -64,6 +64,11 @@ const priceData = JSON.parse(fs.readFileSync(priceHistoryPath, 'utf8'));
 const noindexPriceUrls = new Set(
 	noindexPricePagePaths(priceData).map((path) => new URL(path, siteUrl).href),
 );
+const compareManifest = JSON.parse(fs.readFileSync(new URL('./src/data/programmatic_pages.json', import.meta.url), 'utf8'));
+const unlistedCompareUrls = new Set(
+	compareManifest.pairs.filter((pair) => pair.status === 'unlisted')
+		.map((pair) => new URL(`/compare/${pair.slug}/`, siteUrl).href),
+);
 
 function outputHtmlUrl(pageUrl) {
 	const pathname = decodeURIComponent(new URL(pageUrl).pathname);
@@ -96,6 +101,7 @@ export default defineConfig({
 		filter(page) {
 			return !redirectUrls.has(page)
 				&& !noindexPriceUrls.has(page)
+				&& !unlistedCompareUrls.has(page)
 				&& !generatedPageHasNoindex(page);
 		},
 		serialize(item) {

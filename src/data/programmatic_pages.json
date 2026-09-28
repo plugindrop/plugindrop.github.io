@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-14T10:09:10Z",
-  "source_last_updated": "2026-09-13",
+  "generated_at": "2026-09-28T00:04:04Z",
+  "source_last_updated": "2026-09-27",
   "policy": {
     "min_observations": 3,
     "require_typical_regular": true,
@@ -170,7 +170,7 @@
   "pairs": [
     {
       "slug": "arturia-augmented-strings-vs-spitfire-albion-colossus",
-      "status": "published",
+      "status": "unlisted",
       "first_published": "2026-09-14",
       "a": "Arturia Augmented STRINGS",
       "b": "Spitfire Albion Colossus",
@@ -189,7 +189,7 @@
     },
     {
       "slug": "arturia-augmented-strings-vs-spitfire-albion-one",
-      "status": "published",
+      "status": "unlisted",
       "first_published": "2026-09-14",
       "a": "Arturia Augmented STRINGS",
       "b": "Spitfire Albion ONE",
@@ -208,7 +208,7 @@
     },
     {
       "slug": "arturia-pigments-vs-fabfilter-twin-3",
-      "status": "published",
+      "status": "unlisted",
       "first_published": "2026-09-14",
       "a": "Arturia Pigments",
       "b": "FabFilter Twin 3",
@@ -227,7 +227,7 @@
     },
     {
       "slug": "arturia-pigments-vs-u-he-bazille",
-      "status": "published",
+      "status": "unlisted",
       "first_published": "2026-09-14",
       "a": "Arturia Pigments",
       "b": "u-he Bazille",
@@ -246,7 +246,7 @@
     },
     {
       "slug": "arturia-pigments-vs-u-he-diva",
-      "status": "published",
+      "status": "unlisted",
       "first_published": "2026-09-14",
       "a": "Arturia Pigments",
       "b": "u-he Diva",
@@ -265,7 +265,7 @@
     },
     {
       "slug": "arturia-pigments-vs-u-he-hive-2",
-      "status": "published",
+      "status": "unlisted",
       "first_published": "2026-09-14",
       "a": "Arturia Pigments",
       "b": "u-he Hive 2",
@@ -284,7 +284,7 @@
     },
     {
       "slug": "arturia-pigments-vs-u-he-repro",
-      "status": "published",
+      "status": "unlisted",
       "first_published": "2026-09-14",
       "a": "Arturia Pigments",
       "b": "u-he Repro",
@@ -303,7 +303,7 @@
     },
     {
       "slug": "arturia-pigments-vs-u-he-zebra-3",
-      "status": "published",
+      "status": "unlisted",
       "first_published": "2026-09-14",
       "a": "Arturia Pigments",
       "b": "u-he Zebra 3",
@@ -322,7 +322,7 @@
     },
     {
       "slug": "fabfilter-pro-ds-vs-izotope-vocalsynth-2",
-      "status": "published",
+      "status": "unlisted",
       "first_published": "2026-09-14",
       "a": "FabFilter Pro-DS",
       "b": "iZotope VocalSynth 2",
@@ -341,7 +341,7 @@
     },
     {
       "slug": "fabfilter-pro-ds-vs-spitfire-eric-whitacre-choir",
-      "status": "published",
+      "status": "unlisted",
       "first_published": "2026-09-14",
       "a": "FabFilter Pro-DS",
       "b": "Spitfire Eric Whitacre Choir",
@@ -360,7 +360,7 @@
     },
     {
       "slug": "fabfilter-pro-g-vs-izotope-insight-2",
-      "status": "published",
+      "status": "unlisted",
       "first_published": "2026-09-14",
       "a": "FabFilter Pro-G",
       "b": "iZotope Insight 2",
@@ -379,7 +379,7 @@
     },
     {
       "slug": "fabfilter-pro-g-vs-izotope-neutron-5",
-      "status": "published",
+      "status": "unlisted",
       "first_published": "2026-09-14",
       "a": "FabFilter Pro-G",
       "b": "iZotope Neutron 5",
@@ -398,7 +398,7 @@
     },
     {
       "slug": "fabfilter-pro-l-2-vs-waves-l1-ultramaximizer",
-      "status": "published",
+      "status": "unlisted",
       "first_published": "2026-09-14",
       "a": "FabFilter Pro-L 2",
       "b": "Waves L1 Ultramaximizer",
@@ -436,7 +436,7 @@
     },
     {
       "slug": "fabfilter-twin-3-vs-u-he-bazille",
-      "status": "published",
+      "status": "unlisted",
       "first_published": "2026-09-14",
       "a": "FabFilter Twin 3",
       "b": "u-he Bazille",
@@ -455,7 +455,7 @@
     },
     {
       "slug": "fabfilter-twin-3-vs-u-he-diva",
-      "status": "published",
+      "status": "unlisted",
       "first_published": "2026-09-14",
       "a": "FabFilter Twin 3",
       "b": "u-he Diva",
@@ -474,7 +474,7 @@
     },
     {
       "slug": "fabfilter-twin-3-vs-u-he-hive-2",
-      "status": "published",
+      "status": "unlisted",
       "first_published": "2026-09-14",
       "a": "FabFilter Twin 3",
       "b": "u-he Hive 2",
@@ -493,7 +493,7 @@
     },
     {
       "slug": "fabfilter-twin-3-vs-u-he-repro",
-      "status": "published",
+      "status": "unlisted",
       "first_published": "2026-09-14",
       "a": "FabFilter Twin 3",
       "b": "u-he Repro",
@@ -512,7 +512,7 @@
     },
     {
       "slug": "fabfilter-twin-3-vs-u-he-zebra-3",
-      "status": "published",
+      "status": "unlisted",
       "first_published": "2026-09-14",
       "a": "FabFilter Twin 3",
       "b": "u-he Zebra 3",
@@ -531,7 +531,7 @@
     },
     {
       "slug": "izotope-vocalsynth-2-vs-spitfire-eric-whitacre-choir",
-      "status": "published",
+      "status": "unlisted",
       "first_published": "2026-09-14",
       "a": "iZotope VocalSynth 2",
       "b": "Spitfire Eric Whitacre Choir",

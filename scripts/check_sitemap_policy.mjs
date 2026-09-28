@@ -3,7 +3,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 import { countSitemapSections, hasRobotsNoindex, isRedirectStub, routeForHtmlPath } from '../src/lib/distAudit.mjs';
-import { noindexPricePagePaths } from '../src/lib/indexPolicy.mjs';
+import { isPricePageIndexable, noindexPricePagePaths } from '../src/lib/indexPolicy.mjs';
 
 const projectRoot = fileURLToPath(new URL('../', import.meta.url));
 const distDir = path.join(projectRoot, 'dist');
@@ -37,6 +37,7 @@ if (!fs.existsSync(sitemapPath)) {
     [...sitemapXml.matchAll(/<loc>(.*?)<\/loc>/g)].map((match) => new URL(match[1], siteUrl).pathname),
   );
   const priceData = JSON.parse(fs.readFileSync(path.join(projectRoot, 'src', 'data', 'price_history.json'), 'utf8'));
+  const manifest = JSON.parse(fs.readFileSync(path.join(projectRoot, 'src', 'data', 'programmatic_pages.json'), 'utf8'));
   const policyNoindexPaths = noindexPricePagePaths(priceData);
   let violations = 0;
 
@@ -44,6 +45,25 @@ if (!fs.existsSync(sitemapPath)) {
     const htmlPath = htmlPathForRoute(route);
     if (!fs.existsSync(htmlPath) || !hasRobotsNoindex(fs.readFileSync(htmlPath, 'utf8'))) {
       fail(`policy noindex not rendered: ${route}`);
+      violations += 1;
+    }
+  }
+
+  const products = { ...priceData.plugins, ...priceData.bundles };
+  for (const pair of manifest.pairs) {
+    const route = `/compare/${pair.slug}/`;
+    const htmlPath = htmlPathForRoute(route);
+    const indexable = isPricePageIndexable(products[pair.a]) && isPricePageIndexable(products[pair.b]);
+    if (!indexable && pair.status === 'published') {
+      fail(`nonindexable compare published: ${route}`);
+      violations += 1;
+    }
+    if (pair.status === 'unlisted' && (!fs.existsSync(htmlPath) || !hasRobotsNoindex(fs.readFileSync(htmlPath, 'utf8')) || sitemapRoutes.has(route))) {
+      fail(`unlisted compare policy mismatch: ${route}`);
+      violations += 1;
+    }
+    if (fs.existsSync(htmlPath) && hasRobotsNoindex(fs.readFileSync(htmlPath, 'utf8')) && sitemapRoutes.has(route)) {
+      fail(`noindex compare in sitemap: ${route}`);
       violations += 1;
     }
   }
