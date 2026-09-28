@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import { pdAttr } from '../../lib/interestTaxonomy.mjs';
+import { isInternalPathIndexable } from '../../lib/linkPolicy.mjs';
 import { hasTrustedExpiry } from '../../lib/articleDeal.mjs';
 import { stripMarkdownEmphasis } from '../../lib/textUtils';
 import BaseHead from '../../components/BaseHead.astro';
@@ -341,9 +342,10 @@ function isSaleDeal(tags: string[], hasPriceOrAffiliate: boolean): boolean {
 					const isSale = isSaleDeal(tags, hasPriceOrAffiliate);
 					const expired = isExpired(post.data.saleExpiry);
 					const saleExpiry: string | undefined = post.data.saleExpiry;
+					const LinkTag = isInternalPathIndexable(`/posts/${post.id}/`) ? 'a' : 'div';
 					return (
-						<a
-							href={`/posts/${post.id}/`}
+						<LinkTag
+							href={LinkTag === 'a' ? `/posts/${post.id}/` : undefined}
 							class={`post-item${expired && isSale ? ' is-expired' : ''}`}
 							data-pd={pdAttr({ title: post.data.title, tags })}
 							data-tags={tagsStr}
@@ -399,7 +401,7 @@ function isSaleDeal(tags: string[], hasPriceOrAffiliate: boolean): boolean {
 									</>
 								)}
 							</div>
-						</a>
+						</LinkTag>
 					);
 				})}
 			</div>

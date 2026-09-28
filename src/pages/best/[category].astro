@@ -6,6 +6,7 @@ import { SITE_TITLE } from '../../consts';
 import manifestRaw from '../../data/programmatic_pages.json';
 import priceData from '../../data/price_history.json';
 import { indexablePricePagePaths } from '../../lib/indexPolicy.mjs';
+import { isInternalPathIndexable } from '../../lib/linkPolicy.mjs';
 import {
   rowsFor,
   sortRows,
@@ -215,7 +216,9 @@ function verdictClass(v: VerdictRow['verdict']): string {
         <section class="page-section">
           <h2 class="section-title">Choosing by features?</h2>
           <ul class="link-list">
-            <li><a href={`/posts/${category.editorial_post}/`}>Our {category.label} plugin guide →</a></li>
+            <li>{isInternalPathIndexable(`/posts/${category.editorial_post}/`)
+              ? <a href={`/posts/${category.editorial_post}/`}>Our {category.label} plugin guide →</a>
+              : <span>Our {category.label} plugin guide →</span>}</li>
           </ul>
         </section>
       )}
@@ -225,7 +228,9 @@ function verdictClass(v: VerdictRow['verdict']): string {
           <h2 class="section-title">When to buy</h2>
           <ul class="link-list">
             {category.when_does_posts.slice(0, 3).map((id) => (
-              <li><a href={`/posts/${id}/`}>{id.replace(/^when-does-/, '').replace(/-go-on-sale$/, '').replace(/-/g, ' ')} — when it goes on sale →</a></li>
+              <li>{isInternalPathIndexable(`/posts/${id}/`)
+                ? <a href={`/posts/${id}/`}>{id.replace(/^when-does-/, '').replace(/-go-on-sale$/, '').replace(/-/g, ' ')} — when it goes on sale →</a>
+                : <span>{id.replace(/^when-does-/, '').replace(/-go-on-sale$/, '').replace(/-/g, ' ')} — when it goes on sale →</span>}</li>
             ))}
           </ul>
         </section>
