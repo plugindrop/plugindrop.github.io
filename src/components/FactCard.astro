@@ -1,0 +1,37 @@
+---
+import pluginFacts from '../data/plugin_facts.json';
+import priceData from '../data/price_history.json';
+import { comparisonPriceFacts } from '../lib/priceInsights.mjs';
+import { isPricePageIndexable, slugifyProduct } from '../lib/indexPolicy.mjs';
+import { pbLink, formatPrice, isSearchUrl } from '../lib/priceUtils.ts';
+
+interface Props { product: string; slug: string }
+const { product, slug } = Astro.props;
+const vendorFiles = import.meta.glob('../data/vendor_facts.json', { eager: true, import: 'default' });
+const vendor = ((Object.values(vendorFiles)[0] ?? {}) as Record<string, Record<string, any>>)[product];
+const entry = ({ ...priceData.bundles, ...priceData.plugins } as Record<string, any>)[product];
+const facts = (pluginFacts as Record<string, any>)[product];
+const price = comparisonPriceFacts(entry);
+const display = (value: unknown) => value === null || value === undefined || value === '' ? 'not published' : Array.isArray(value) ? value.join(', ') : String(value);
+const money = (value: number | null | undefined) => value == null ? 'not published' : formatPrice(value);
+const fields = [
+  ['Formats', display(facts?.formats)], ['macOS', display(facts?.mac_req)], ['Windows', display(facts?.win_req)],
+  ...([['apple_silicon', 'Apple Silicon'], ['copy_protection', 'Copy protection'], ['trial', 'Trial']] as const)
+    .filter(([key]) => vendor?.[key]?.value != null).map(([key, label]) => [label, display(vendor[key].value)]),
+  ['Typical regular', money(price?.regular)], ['Typical sale', money(price?.sale)],
+  ['Sales recorded', price?.salesRecorded ?? 'not published'], ['Today', money(price?.today)],
+  ['Verdict', price?.verdict.label ?? 'not published'],
+];
+---
+{price?.hasPrice && <div class="fact-card" data-fact-card>
+  <p class="fact-card-name">{entry && isPricePageIndexable(entry) ? <a href={`/plugin-prices/${slugifyProduct(product)}/`}>{product}</a> : product}</p>
+  <dl>{fields.map(([label, value]) => <div><dt>{label}</dt><dd>{value}</dd></div>)}</dl>
+  {entry?.pb_url && !isSearchUrl(entry.pb_url) && <p><a href={pbLink(entry.pb_url, `chan=art&data1=${slug}-facts`)} target="_blank" rel="noopener sponsored">View at Plugin Boutique →</a></p>}
+</div>}
+<style>
+  .fact-card { margin: 1.5rem 0; padding: 1rem; border: 1px solid var(--border); border-radius: .5rem; }
+  .fact-card-name { font-weight: 700; }
+  dl { display: grid; grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr)); gap: .6rem 1rem; }
+  dt { font-size: .75rem; color: var(--text-muted); }
+  dd { margin: .15rem 0 0; overflow-wrap: anywhere; }
+</style>

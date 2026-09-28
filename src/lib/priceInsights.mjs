@@ -1,6 +1,6 @@
 import { listSaleEpisodes } from './indexPolicy.mjs';
 import { DEFAULT_AUDIT_INDEX, OBSERVED_SOURCES, confirmedSaleOf, isStandardCents, latestTrackerRow, pbPathOf, sourceKindOf } from './priceBasis.mjs';
-import { currentPriceOf, formatPrice } from './priceUtils.ts';
+import { currentPriceOf, formatPrice, dealScore } from './priceUtils.ts';
 
 const observed = new Set(OBSERVED_SOURCES);
 const rows = (e) => Array.isArray(e?.history) ? e.history : [];
@@ -207,3 +207,16 @@ export function summarizeVerdict(name, f) {
   return `${money(p)} on ${d}; ${diff(p, m)} above ${ref} (${money(m)}).`;
 }
 export const alertTarget = (f) => f.sales.length ? lowOf(f.sales) : null;
+
+export function comparisonPriceFacts(entry) {
+  if (!entry) return null;
+  const facts = buildPageFacts(entry);
+  const today = currentPriceOf(entry);
+  const regular = entry.typical_regular ?? null;
+  const sale = entry.typical_sale ?? null;
+  return {
+    regular, sale, today, salesRecorded: facts.sales.length,
+    verdict: dealScore(today, regular, sale, entry.all_time_low ?? null),
+    hasPrice: [regular, sale, today].some((value) => value !== null),
+  };
+}

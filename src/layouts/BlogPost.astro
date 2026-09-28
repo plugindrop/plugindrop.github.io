@@ -12,6 +12,10 @@ import NewsletterForm from '../components/NewsletterForm.astro';
 import PriceTracker from '../components/PriceTracker.astro';
 import TopDeals from '../components/TopDeals.astro';
 import DealFactBox from '../components/DealFactBox.astro';
+import FactsTable from '../components/FactsTable.astro';
+import FactCard from '../components/FactCard.astro';
+import postCatalogMap from '../data/post_catalog_map.json';
+import { comparisonPriceFacts } from '../lib/priceInsights.mjs';
 import { SITE_TITLE } from '../consts';
 import priceDataRaw from '../data/price_history.json';
 import { type PriceEntry, formatPrice } from '../lib/priceUtils';
@@ -69,6 +73,11 @@ const dealSource = affiliate ? getDealSource(affiliate) : '';
 // static frontmatter copy. Exact-match only — see articleDeal.mjs.
 const priceData = priceDataRaw as { last_updated: string; bundles: Record<string, PriceEntry>; plugins?: Record<string, PriceEntry> };
 const _allTrackerEntries = { ...priceData.bundles, ...(priceData.plugins ?? {}) };
+const _catalog = (postCatalogMap as Record<string, { kind: string; products: string[] }>)[currentSlug];
+const _catalogProducts = _catalog?.products ?? [];
+const _pricedCatalogCount = _catalogProducts.filter((name) => comparisonPriceFacts(_allTrackerEntries[name])?.hasPrice).length;
+const _showFactsTable = !noindex && !(Astro.props as any).draft && ['list', 'comparison'].includes(_catalog?.kind ?? '') && _catalogProducts.length >= 2 && _pricedCatalogCount >= 2;
+const _showFactCard = !noindex && !(Astro.props as any).draft && _catalog?.kind === 'review' && _catalogProducts.length === 1 && _pricedCatalogCount === 1;
 const _postForMatch = { data: { title, priceTrack, affiliate } };
 const _trackerMatch = findTrackerEntryForPost(_postForMatch, _allTrackerEntries, rawBody);
 const _fact = _trackerMatch ? buildFactBox(_trackerMatch.entry, Date.now()) : null;
@@ -1098,6 +1107,10 @@ const featuredDeals = isEvergreen ? allPosts
 					)}
 
 					<!-- Article content (from markdown) -->
+					{(_showFactsTable || _showFactCard) && <section id="compare-table">
+						<h2>Compare the plugins in this guide</h2>
+						{_showFactsTable ? <FactsTable products={_catalogProducts} slug={currentSlug} /> : <FactCard product={_catalogProducts[0]} slug={currentSlug} />}
+					</section>}
 					<slot />
 
 					{priceTrack.length > 0 && (

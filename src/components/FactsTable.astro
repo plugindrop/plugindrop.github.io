@@ -1,0 +1,75 @@
+---
+import pluginFacts from '../data/plugin_facts.json';
+import priceData from '../data/price_history.json';
+import { comparisonPriceFacts } from '../lib/priceInsights.mjs';
+import { isPricePageIndexable, slugifyProduct } from '../lib/indexPolicy.mjs';
+import { pbLink, formatPrice, isSearchUrl } from '../lib/priceUtils.ts';
+
+interface Props { products: string[]; slug: string }
+const { products, slug } = Astro.props;
+const vendorFiles = import.meta.glob('../data/vendor_facts.json', { eager: true, import: 'default' });
+const vendorFacts = (Object.values(vendorFiles)[0] ?? {}) as Record<string, Record<string, any>>;
+const entries = { ...priceData.bundles, ...priceData.plugins } as Record<string, any>;
+const rows = products.map((name) => ({ name, entry: entries[name], facts: (pluginFacts as Record<string, any>)[name], vendor: vendorFacts[name], price: comparisonPriceFacts(entries[name]) }));
+const showTable = rows.filter((row) => row.price?.hasPrice).length >= 2;
+const vendorValue = (row: typeof rows[number], key: string) => row.vendor?.[key]?.value ?? null;
+const columns = [
+  ['apple_silicon', 'Apple Silicon'], ['copy_protection', 'Copy protection'], ['trial', 'Trial'],
+].filter(([key]) => rows.some((row) => vendorValue(row, key) !== null));
+const display = (value: unknown) => value === null || value === undefined || value === '' ? 'not published' : Array.isArray(value) ? value.join(', ') : String(value);
+const money = (value: number | null | undefined) => value == null ? 'not published' : formatPrice(value);
+---
+{showTable && <div class="facts-table-block" data-facts-table>
+  {columns.length > 0 && <div class="facts-filters">
+    <label>Filter <select data-facts-filter><option value="all">All products</option>
+      {columns.some(([key]) => key === 'apple_silicon') && <option value="apple">Apple Silicon</option>}
+      {columns.some(([key]) => key === 'copy_protection') && <option value="no-ilok">No iLok</option>}
+      {columns.some(([key]) => key === 'trial') && <option value="trial">Trial available</option>}
+    </select></label>
+  </div>}
+  <div class="facts-scroll"><table><thead><tr>
+    {['Product', 'Formats', 'macOS', 'Windows', ...columns.map(([, label]) => label), 'Typical regular', 'Typical sale', 'Sales recorded', 'Today', 'Verdict', 'Plugin Boutique'].map((label, index) => <th scope="col"><button type="button" data-facts-sort={index}>{label} <span aria-hidden="true">↕</span></button></th>)}
+  </tr></thead><tbody>
+    {rows.map((row) => <tr data-apple={String(Boolean(vendorValue(row, 'apple_silicon')))} data-no-ilok={String(typeof vendorValue(row, 'copy_protection') === 'string' && !/ilok/i.test(vendorValue(row, 'copy_protection')))} data-trial={String(Boolean(vendorValue(row, 'trial')))}>
+      <th scope="row">{row.entry && isPricePageIndexable(row.entry) ? <a href={`/plugin-prices/${slugifyProduct(row.name)}/`}>{row.name}</a> : row.name}</th>
+      <td>{display(row.facts?.formats)}</td><td>{display(row.facts?.mac_req)}</td><td>{display(row.facts?.win_req)}</td>
+      {columns.map(([key]) => <td>{display(vendorValue(row, key))}</td>)}
+      <td>{money(row.price?.regular)}</td><td>{money(row.price?.sale)}</td><td>{row.price?.hasPrice ? row.price.salesRecorded : 'not published'}</td><td>{money(row.price?.today)}</td>
+      <td>{row.price?.hasPrice ? <span class={`facts-badge ${row.price.verdict.cls}`}>{row.price.verdict.label}</span> : 'not published'}</td>
+      <td>{row.entry?.pb_url && !isSearchUrl(row.entry.pb_url) ? <a href={pbLink(row.entry.pb_url, `chan=art&data1=${slug}-facts`)} target="_blank" rel="noopener sponsored">View at PB →</a> : 'not published'}</td>
+    </tr>)}
+  </tbody></table></div>
+</div>}
+<script>
+  document.querySelectorAll<HTMLElement>('[data-facts-table]').forEach((block) => {
+    const body = block.querySelector('tbody');
+    const rows = Array.from(body?.rows ?? []);
+    block.querySelector<HTMLSelectElement>('[data-facts-filter]')?.addEventListener('change', (event) => {
+      const filter = (event.target as HTMLSelectElement).value;
+      rows.forEach((row) => { row.hidden = filter !== 'all' && row.dataset[filter === 'no-ilok' ? 'noIlok' : filter] !== 'true'; });
+    });
+    block.querySelectorAll<HTMLButtonElement>('[data-facts-sort]').forEach((button) => button.addEventListener('click', () => {
+      const index = Number(button.dataset.factsSort);
+      const descending = button.dataset.descending !== 'true';
+      button.dataset.descending = String(descending);
+      rows.sort((a, b) => {
+        const left = a.cells[index]?.textContent?.trim() ?? '';
+        const right = b.cells[index]?.textContent?.trim() ?? '';
+        const ln = Number(left.replace(/[^\d.]/g, '')), rn = Number(right.replace(/[^\d.]/g, ''));
+        const result = left !== 'not published' && right !== 'not published' && /\d/.test(left) && /\d/.test(right) && Number.isFinite(ln) && Number.isFinite(rn) ? ln - rn : left.localeCompare(right);
+        return descending ? -result : result;
+      }).forEach((row) => body?.appendChild(row));
+    }));
+  });
+</script>
+<style>
+  .facts-table-block { margin: 1.5rem 0; }
+  .facts-scroll { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: .82rem; }
+  th, td { padding: .55rem .7rem; border-bottom: 1px solid var(--border); text-align: left; vertical-align: top; min-width: 6rem; }
+  th:first-child { min-width: 10rem; }
+  th button { border: 0; background: none; color: inherit; font: inherit; font-weight: 700; cursor: pointer; white-space: nowrap; }
+  .facts-filters { margin-bottom: .7rem; }
+  .facts-badge { display: inline-block; padding: .12rem .4rem; border-radius: .3rem; background: var(--bg-highest); white-space: nowrap; }
+  tr[hidden] { display: none; }
+</style>
