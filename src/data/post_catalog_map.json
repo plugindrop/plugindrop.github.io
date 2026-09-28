@@ -44,10 +44,12 @@
     "products": []
   },
   "arturia-vs-native-instruments-komplete": {
-    "category": null,
+    "category": "Bundle",
     "confidence": "exact",
     "kind": "comparison",
-    "products": []
+    "products": [
+      "NI Komplete 15 Ultimate"
+    ]
   },
   "beam-2-0-d14542": {
     "category": "Effects",
@@ -1178,22 +1180,28 @@
     ]
   },
   "is-native-instruments-komplete-worth-it": {
-    "category": null,
+    "category": "Bundle",
     "confidence": "pb_id",
     "kind": "review",
-    "products": []
+    "products": [
+      "NI Komplete 15 Ultimate"
+    ]
   },
   "is-omnisphere-worth-it-2026": {
-    "category": null,
+    "category": "Synth",
     "confidence": "exact",
     "kind": "review",
-    "products": []
+    "products": [
+      "Spectrasonics Omnisphere"
+    ]
   },
   "is-serum-worth-it": {
-    "category": null,
+    "category": "Synth",
     "confidence": "pb_id",
     "kind": "review",
-    "products": []
+    "products": [
+      "Serum 2"
+    ]
   },
   "izotope-neutron-4-review": {
     "category": null,
@@ -1205,21 +1213,23 @@
     "category": "Mastering",
     "confidence": "explicit",
     "kind": "review",
-    "products": []
+    "products": [
+      "iZotope Ozone 12 Advanced"
+    ]
   },
   "izotope-ozone-vs-fabfilter-mastering": {
-    "category": "Limiter",
+    "category": "Mastering",
     "confidence": "explicit",
     "kind": "comparison",
-    "products": [
-      "FabFilter Pro-L 2"
-    ]
+    "products": []
   },
   "izotope-ozone-vs-landr-mastering-2026": {
     "category": "Mastering",
     "confidence": "pb_id",
     "kind": "comparison",
-    "products": []
+    "products": [
+      "iZotope Ozone 12 Advanced"
+    ]
   },
   "izotope-rx-review": {
     "category": null,
@@ -1248,10 +1258,12 @@
     "products": []
   },
   "kontakt-vs-decent-sampler": {
-    "category": null,
+    "category": "Instrument",
     "confidence": "exact",
     "kind": "comparison",
-    "products": []
+    "products": [
+      "Native Instruments Kontakt 8"
+    ]
   },
   "landr-mastering-worth-it-2026": {
     "category": "Mastering",
@@ -1307,22 +1319,30 @@
     "products": []
   },
   "omnisphere-vs-keyscape-2026": {
-    "category": null,
+    "category": "Instrument",
     "confidence": "exact",
     "kind": "comparison",
-    "products": []
+    "products": [
+      "Spectrasonics Keyscape",
+      "Spectrasonics Omnisphere"
+    ]
   },
   "phase-plant-review": {
-    "category": null,
+    "category": "Synth",
     "confidence": "pb_id",
     "kind": "review",
-    "products": []
+    "products": [
+      "Kilohearts Phase Plant"
+    ]
   },
   "phase-plant-vs-serum": {
     "category": "Synth",
     "confidence": "pb_id",
     "kind": "comparison",
-    "products": []
+    "products": [
+      "Kilohearts Phase Plant",
+      "Serum 2"
+    ]
   },
   "plugin-boutique-vs-splice": {
     "category": null,
@@ -1436,14 +1456,17 @@
     "confidence": "explicit",
     "kind": "comparison",
     "products": [
+      "Serum 2",
       "Vital"
     ]
   },
   "serum-vst-review": {
-    "category": null,
+    "category": "Synth",
     "confidence": "explicit",
     "kind": "review",
-    "products": []
+    "products": [
+      "Serum 2"
+    ]
   },
   "softube-flow-studio-powerful-macro-mixing-with-a-hardware-tw": {
     "category": "Mastering",
@@ -1523,7 +1546,9 @@
     "category": "Synth",
     "confidence": "pb_id",
     "kind": "review",
-    "products": []
+    "products": [
+      "u-he Diva"
+    ]
   },
   "u-he-plugins-worth-buying-2026": {
     "category": null,
@@ -1544,7 +1569,8 @@
     "confidence": "explicit",
     "kind": "comparison",
     "products": [
-      "Valhalla Room"
+      "Valhalla Room",
+      "Valhalla VintageVerb"
     ]
   },
   "valhalla-vintageverb-review": {
@@ -1565,7 +1591,9 @@
     "category": "Synth",
     "confidence": "pb_id",
     "kind": "review",
-    "products": []
+    "products": [
+      "Vital"
+    ]
   },
   "vocal-processing-chain-plugins": {
     "category": "Bundle",
@@ -1619,14 +1647,6 @@
     "kind": "when_does",
     "products": [
       "UAD Ampex ATR 102 Mastering Tape Recorder"
-    ]
-  },
-  "when-does-soundtoys-5-go-on-sale": {
-    "category": "Bundle",
-    "confidence": "exact",
-    "kind": "when_does",
-    "products": [
-      "Soundtoys 5.5"
     ]
   },
   "when-does-ujam-transit-go-on-sale": {

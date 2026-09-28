@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T03:31:12Z",
+  "generated_at": "2026-09-28T03:50:41Z",
   "source_last_updated": "2026-09-27",
   "policy": {
     "min_observations": 3,
@@ -29,7 +29,7 @@
       "when_does_posts": [],
       "selection": {
         "product_count": 5,
-        "article_count": 21,
+        "article_count": 23,
         "median_observations": 10.0
       }
     },
@@ -164,7 +164,7 @@
       "when_does_posts": [],
       "selection": {
         "product_count": 9,
-        "article_count": 2,
+        "article_count": 4,
         "median_observations": 11.0
       }
     },
@@ -180,7 +180,7 @@
       "when_does_posts": [],
       "selection": {
         "product_count": 1,
-        "article_count": 7,
+        "article_count": 6,
         "median_observations": 16.5
       }
     },
@@ -194,7 +194,7 @@
       "when_does_posts": [],
       "selection": {
         "product_count": 0,
-        "article_count": 7,
+        "article_count": 8,
         "median_observations": 7.5
       }
     },
@@ -268,7 +268,7 @@
       "when_does_posts": [],
       "selection": {
         "product_count": 17,
-        "article_count": 24,
+        "article_count": 28,
         "median_observations": 18.0
       }
     },
