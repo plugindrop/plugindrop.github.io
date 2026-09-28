@@ -1,0 +1,1855 @@
+{
+  "ableton-live-vs-fl-studio-2026": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "comparison",
+    "products": []
+  },
+  "ableton-live-vs-logic-pro-2026": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "comparison",
+    "products": []
+  },
+  "adsr-vs-splice-samples": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "comparison",
+    "products": []
+  },
+  "albino-3-legend-32727c": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "LEGEND"
+    ]
+  },
+  "analog-monosynth-collection-562c43": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "Analog Monosynth Collection"
+    ]
+  },
+  "arturia-augmented-persia-the-sound-of-the-middle-east-reimag": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "arturia-pigments-review": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "review",
+    "products": [
+      "Kilohearts Phase Plant"
+    ]
+  },
+  "arturia-v-collection-review": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "review",
+    "products": []
+  },
+  "arturia-vs-native-instruments-komplete": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "comparison",
+    "products": []
+  },
+  "beam-2-0-d14542": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "BEAM 2.0"
+    ]
+  },
+  "best-acoustic-guitar-vst-plugins": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "list",
+    "products": []
+  },
+  "best-ambient-music-plugins": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-R 2",
+      "Valhalla VintageVerb"
+    ]
+  },
+  "best-arpeggiator-vst-plugins": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "list",
+    "products": []
+  },
+  "best-audio-interface-home-studio-2026": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "list",
+    "products": []
+  },
+  "best-audio-plugin-deals-and-freebies-wednesday-september-16t": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "best-bass-guitar-vst-plugins": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "list",
+    "products": [
+      "MODO BASS 2"
+    ]
+  },
+  "best-bass-synth-vst-plugins": {
+    "category": "Synth",
+    "confidence": "exact",
+    "kind": "list",
+    "products": []
+  },
+  "best-compressor-plugins-2026": {
+    "category": "Compressor",
+    "confidence": "exact",
+    "kind": "list",
+    "products": []
+  },
+  "best-compressor-plugins-drums": {
+    "category": "Drums",
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "best-creative-fx-plugins": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "Output Portal",
+      "Soundtoys 5.5"
+    ]
+  },
+  "best-delay-vst-plugins-2026": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Timeless 3",
+      "Kilohearts Phase Plant",
+      "Soundtoys EchoBoy",
+      "Valhalla Room",
+      "Waves H-Delay"
+    ]
+  },
+  "best-distortion-vst-plugins": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "Black Box Analog Design HG-2",
+      "FabFilter Saturn 2",
+      "Soundtoys 5.5"
+    ]
+  },
+  "best-eq-plugins-2026": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "list",
+    "products": [
+      "FabFilter Pro-Q 4",
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "best-free-alternatives-to-waves": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "list",
+    "products": []
+  },
+  "best-free-bass-synth-vst": {
+    "category": "Synth",
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "best-free-brass-vst-plugins": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "list",
+    "products": []
+  },
+  "best-free-choir-vst-plugins": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "best-free-chorus-flanger-vst": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "best-free-compressor-vst-plugins": {
+    "category": "Compressor",
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "best-free-daw-software-2026": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "best-free-delay-vst-plugins": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "Soundtoys EchoBoy"
+    ]
+  },
+  "best-free-drum-machine-vst": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "best-free-drum-plugins": {
+    "category": "Drums",
+    "confidence": "exact",
+    "kind": "list",
+    "products": []
+  },
+  "best-free-eq-vst-plugins": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-Q 4",
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "best-free-guitar-amp-vst": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "best-free-limiter-vst": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-L 2",
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "best-free-lofi-sample-packs": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "best-free-mastering-plugins": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-L 2",
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "best-free-multiband-compressor-vst": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-MB",
+      "Tokyo Dawn Labs TDR Nova GE",
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "best-free-piano-vst": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "best-free-plugins-ableton": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-L 2",
+      "FabFilter Pro-Q 4",
+      "Vital",
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "best-free-plugins-fl-studio": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-L 2",
+      "FabFilter Pro-Q 4",
+      "Soundtoys 5.5",
+      "Vital",
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "best-free-plugins-hip-hop": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "best-free-reverb-vst-plugins": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "Eventide Blackhole",
+      "Valhalla Room",
+      "Valhalla VintageVerb"
+    ]
+  },
+  "best-free-sample-packs-2026": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "best-free-saturation-vst-plugins": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "FabFilter Saturn 2",
+      "Soundtoys 5.5"
+    ]
+  },
+  "best-free-strings-vst-plugins": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "best-free-synth-plugins": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "Kilohearts Phase Plant",
+      "Native Instruments Massive X",
+      "Serum 2",
+      "Vital",
+      "u-he Hive 2"
+    ]
+  },
+  "best-free-tape-saturation-vst": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "Baby Audio TAIP",
+      "Softube Tape",
+      "Soundtoys 5.5",
+      "Wavesfactory Cassette",
+      "XLN Audio RC-20 Retro Color",
+      "u-he Satin"
+    ]
+  },
+  "best-free-vocal-vst-plugins": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "best-free-vst-plugins-2026": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "list",
+    "products": [
+      "FabFilter Pro-Q 4",
+      "Vital",
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "best-free-vst-plugins-beginners": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "FabFilter Total Bundle",
+      "Vital"
+    ]
+  },
+  "best-free-wavetable-synth-vst": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "Kilohearts Phase Plant",
+      "u-he Hive 2"
+    ]
+  },
+  "best-free-woodwind-vst-plugins": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "list",
+    "products": []
+  },
+  "best-glitch-effect-plugins": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": [
+      "Cableguys ShaperBox 3",
+      "Output Portal",
+      "XLN Audio RC-20 Retro Color"
+    ]
+  },
+  "best-guitar-amp-sim-plugins": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "AmpliTube 5 MAX v2"
+    ]
+  },
+  "best-kontakt-libraries-2026": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": [
+      "Heavyocity Damage 2",
+      "Spitfire Albion ONE"
+    ]
+  },
+  "best-limiter-plugins-2026": {
+    "category": "Mastering",
+    "confidence": "exact",
+    "kind": "list",
+    "products": []
+  },
+  "best-limiter-plugins-mastering": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-L 2",
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "best-mastering-plugins-2026": {
+    "category": "Mastering",
+    "confidence": "exact",
+    "kind": "list",
+    "products": []
+  },
+  "best-mixing-plugins-2026": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-L 2",
+      "FabFilter Pro-Q 4",
+      "Soundtoys 5.5",
+      "iZotope Neutron 5",
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "best-multiband-compressor-plugins": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-MB",
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "best-orchestral-vst-plugins-2026": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "list",
+    "products": []
+  },
+  "best-piano-vst-plugins": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "Arturia Piano V3"
+    ]
+  },
+  "best-plugin-boutique-black-friday-deals-2026": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "list",
+    "products": [
+      "FabFilter Pro-L 2",
+      "FabFilter Pro-Q 4",
+      "Serum 2",
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "best-plugin-bundle-deals": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "list",
+    "products": [
+      "FabFilter Pro-Q 4",
+      "FabFilter Total Bundle"
+    ]
+  },
+  "best-plugins-for-film-scoring": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-Q 4"
+    ]
+  },
+  "best-plugins-for-house-music": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-Q 4",
+      "Native Instruments Massive X",
+      "Soundtoys EchoBoy"
+    ]
+  },
+  "best-plugins-for-lofi-beats": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "best-plugins-for-lofi-production": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "XLN Audio RC-20 Retro Color"
+    ]
+  },
+  "best-plugins-for-mixing-vocals": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-L 2",
+      "FabFilter Pro-Q 4",
+      "Soundtoys 5.5"
+    ]
+  },
+  "best-plugins-for-techno-production": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-Q 4",
+      "Soundtoys Decapitator"
+    ]
+  },
+  "best-plugins-garageband": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-Q 4",
+      "Serum 2",
+      "Valhalla VintageVerb"
+    ]
+  },
+  "best-plugins-logic-pro": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-Q 4",
+      "FabFilter Total Bundle",
+      "Soundtoys 5.5",
+      "Valhalla VintageVerb"
+    ]
+  },
+  "best-plugins-reaper": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-Q 4",
+      "FabFilter Total Bundle",
+      "Valhalla VintageVerb"
+    ]
+  },
+  "best-plugins-studio-one": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-Q 4",
+      "FabFilter Total Bundle",
+      "Soundtoys 5.5",
+      "Valhalla VintageVerb",
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "best-reverb-plugins-2026": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "list",
+    "products": [
+      "Eventide Blackhole",
+      "FabFilter Pro-R 2"
+    ]
+  },
+  "best-reverb-plugins-music-production": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "Eventide Blackhole",
+      "FabFilter Pro-R 2",
+      "Valhalla VintageVerb"
+    ]
+  },
+  "best-saturation-plugins-2026": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "FabFilter Saturn 2",
+      "Soundtoys 5.5",
+      "XLN Audio RC-20 Retro Color"
+    ]
+  },
+  "best-stereo-widener-plugins": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "Eventide MicroPitch",
+      "Soundtoys MicroShift",
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "best-strings-vst-plugins": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "best-synth-vst-plugins-2026": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "Kilohearts Phase Plant",
+      "u-he Hive 2",
+      "u-he Zebra 3"
+    ]
+  },
+  "best-tape-saturation-plugins": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "Slate Digital VTM",
+      "Softube Tape",
+      "Soundtoys 5.5",
+      "Waves Kramer Master Tape",
+      "XLN Audio RC-20 Retro Color"
+    ]
+  },
+  "best-transient-shaper-vst": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "list",
+    "products": []
+  },
+  "best-trap-vst-plugins": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "Serum 2"
+    ]
+  },
+  "best-vintage-eq-plugins": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-Q 4",
+      "FabFilter Total Bundle"
+    ]
+  },
+  "best-vintage-synth-vst-plugins": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "u-he Repro"
+    ]
+  },
+  "best-vinyl-simulation-vst-plugins": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "list",
+    "products": []
+  },
+  "best-vocoder-vst-plugins": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "list",
+    "products": []
+  },
+  "best-vst-plugins-edm-production": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "best-vst-plugins-for-beginners": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "list",
+    "products": [
+      "FabFilter Pro-Q 4"
+    ]
+  },
+  "best-vst-plugins-for-metal-2026": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "list",
+    "products": []
+  },
+  "best-vst-plugins-for-metal-mixing": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-L 2",
+      "FabFilter Pro-Q 4",
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "best-vst-plugins-hip-hop": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": [
+      "Native Instruments Battery 4"
+    ]
+  },
+  "best-vst-plugins-under-100-dollars": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "Baby Audio Comeback Kid",
+      "Kilohearts Snap Heap",
+      "Soundtoys Decapitator",
+      "Valhalla VintageVerb"
+    ]
+  },
+  "best-vst-plugins-under-150-dollars-2026": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-Q 4",
+      "Kilohearts Phase Plant",
+      "Soundtoys 5.5",
+      "Valhalla Room",
+      "Valhalla VintageVerb"
+    ]
+  },
+  "best-vst-plugins-under-200": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-Q 4",
+      "Serum 2",
+      "Soundtoys 5.5",
+      "Valhalla Room",
+      "Valhalla VintageVerb"
+    ]
+  },
+  "best-vst-plugins-under-50-dollars": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "Valhalla Room"
+    ]
+  },
+  "boards-of-canada-inspired-sounds-for-diva-b92eac": {
+    "category": "Synth",
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "bx-console-amek-9099-3e0469": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "chandler-limited-curve-bender-mastering-eq-4785a9": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "review",
+    "products": [
+      "Chandler Limited Curve Bender Mastering EQ"
+    ]
+  },
+  "cheapest-way-to-get-izotope-ozone-11-standard": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "cheapest-way-to-get-serum-2": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "complete-drums-2-075797": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "dexed-free-dx7-emulation": {
+    "category": "Synth",
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "does-serum-ever-go-on-sale": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "Kilohearts Phase Plant"
+    ]
+  },
+  "drum-machine-collection-c8ab7a": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "Drum Machine Collection"
+    ]
+  },
+  "drum-mixing-plugin-chain": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-MB",
+      "FabFilter Pro-Q 4"
+    ]
+  },
+  "edm-production-plugin-chain": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-L 2",
+      "FabFilter Pro-Q 4",
+      "FabFilter Total Bundle"
+    ]
+  },
+  "elpiano-510e1c": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "empirical-labs-el8-distressor-compressor-ff4241": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "review",
+    "products": [
+      "Empirical Labs EL8 Distressor Compressor"
+    ]
+  },
+  "emt-140-classic-plate-reverberator-0c6051": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "UAD EMT 140 Classic Plate Reverberator"
+    ]
+  },
+  "essential-vst-plugins-every-producer-needs": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-C 3",
+      "FabFilter Pro-Q 4",
+      "FabFilter Total Bundle",
+      "Valhalla Room",
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "fabfilter-pro-c-2-review": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "review",
+    "products": [
+      "FabFilter Total Bundle"
+    ]
+  },
+  "fabfilter-pro-l-2-review": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "comparison",
+    "products": [
+      "FabFilter Pro-L 2",
+      "FabFilter Total Bundle",
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "fabfilter-pro-q-3-vs-izotope-neutron": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "comparison",
+    "products": [
+      "FabFilter Pro-Q 4",
+      "FabFilter Total Bundle"
+    ]
+  },
+  "fabfilter-pro-q-4-review": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "review",
+    "products": [
+      "FabFilter Pro-Q 4",
+      "FabFilter Total Bundle"
+    ]
+  },
+  "fabfilter-pro-q-4-vs-izotope-neutron": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "comparison",
+    "products": [
+      "FabFilter Pro-Q 4",
+      "FabFilter Total Bundle"
+    ]
+  },
+  "fabric-vintage-synths-vol-2-90bbb5": {
+    "category": "Bundle",
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "fl-studio-21-review": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "review",
+    "products": []
+  },
+  "free-alternative-to-fabfilter-pro-q": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-Q 4"
+    ]
+  },
+  "free-alternative-to-kontakt": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "free-alternative-to-omnisphere": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "Kilohearts Phase Plant"
+    ]
+  },
+  "free-alternative-to-serum-vst": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "Kilohearts Phase Plant",
+      "u-he Hive 2"
+    ]
+  },
+  "free-alternative-to-valhalla-reverb": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "Valhalla Room",
+      "Valhalla VintageVerb"
+    ]
+  },
+  "free-plugins-vs-paid-worth-upgrading": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "comparison",
+    "products": [
+      "FabFilter Pro-Q 4",
+      "Valhalla VintageVerb"
+    ]
+  },
+  "future-big-room-fl-studio-template-vol-1-327b81": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "guitar-recording-plugin-chain": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-Q 4",
+      "FabFilter Total Bundle"
+    ]
+  },
+  "hip-hop-mixing-plugin-chain": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-Q 4"
+    ]
+  },
+  "how-to-add-stereo-width-mixing": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-Q 4",
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "how-to-compress-drums-plugins": {
+    "category": "Drums",
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "how-to-eq-bass-guitar-plugins": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-Q 4"
+    ]
+  },
+  "how-to-eq-vocals-plugins": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-Q 4"
+    ]
+  },
+  "how-to-get-started-with-vst-plugins": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-Q 4",
+      "Serum 2"
+    ]
+  },
+  "how-to-make-ambient-music-daw": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "how-to-make-lofi-music-plugins": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "how-to-make-trap-beats-2026": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "how-to-master-at-home": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-L 2",
+      "FabFilter Pro-Q 4",
+      "FabFilter Total Bundle",
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "how-to-master-with-izotope-ozone": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-L 2",
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "how-to-mix-drums-plugins": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-Q 4",
+      "FabFilter Total Bundle"
+    ]
+  },
+  "how-to-mix-vocals-2026": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "how-to-mix-vocals-at-home": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "how-to-produce-hip-hop-beats": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "how-to-sidechain-compress-daw": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "how-to-sidechain-compression": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "how-to-use-a-limiter-mastering": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-L 2",
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "how-to-use-compression-mixing": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "how-to-use-delay-mixing": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "Soundtoys EchoBoy"
+    ]
+  },
+  "how-to-use-reverb-in-mixing": {
+    "category": "Reverb",
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "how-to-use-saturation-mixing": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "FabFilter Saturn 2",
+      "Soundtoys Decapitator"
+    ]
+  },
+  "is-it-worth-waiting-for-black-friday-plugins": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-Q 4",
+      "NI Komplete 15 Ultimate",
+      "Plugin Alliance bx_console SSL 4000E",
+      "Valhalla Room",
+      "Waves Platinum Bundle"
+    ]
+  },
+  "is-native-instruments-komplete-worth-it": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "review",
+    "products": [
+      "NI Komplete 15 Ultimate"
+    ]
+  },
+  "is-omnisphere-worth-it-2026": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "review",
+    "products": []
+  },
+  "is-serum-worth-it": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "review",
+    "products": [
+      "Kilohearts Phase Plant"
+    ]
+  },
+  "izotope-neutron-4-review": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "review",
+    "products": [
+      "FabFilter Pro-Q 4"
+    ]
+  },
+  "izotope-ozone-12-review": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "review",
+    "products": [
+      "FabFilter Pro-L 2",
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "izotope-ozone-vs-fabfilter-mastering": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "comparison",
+    "products": [
+      "FabFilter Pro-L 2",
+      "FabFilter Total Bundle",
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "izotope-ozone-vs-landr-mastering-2026": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "comparison",
+    "products": [
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "izotope-rx-review": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "review",
+    "products": []
+  },
+  "izotope-vinyl-free-lofi-plugin": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "juno-106-2c6c67": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "JUNO 106"
+    ]
+  },
+  "kontakt-7-review": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "review",
+    "products": []
+  },
+  "kontakt-vs-decent-sampler": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "comparison",
+    "products": []
+  },
+  "landr-mastering-worth-it-2026": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "review",
+    "products": [
+      "FabFilter Pro-L 2",
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "mastering-chain-plugins": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-L 2",
+      "FabFilter Pro-Q 4",
+      "iZotope Insight 2",
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "melodyne-vs-autotune": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "comparison",
+    "products": []
+  },
+  "modo-drum-1-5-27f636": {
+    "category": "Drums",
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "nap-works-devious-pocket-is-a-standalone-dvs-device-no-more-": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "native-instruments-vs-arturia-2026": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "comparison",
+    "products": []
+  },
+  "news-ik-multimedia-launches-resing-voices-japanese-pack-for-": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "news-izotope-releases-rx-12-audio-editing-and-restoration-su": {
+    "category": "Mastering",
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "news-native-instruments-releases-komplete-26-the-latest-vers": {
+    "category": "Bundle",
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "omnisphere-vs-keyscape-2026": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "comparison",
+    "products": []
+  },
+  "phase-plant-review": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "review",
+    "products": [
+      "Kilohearts Phase Plant",
+      "u-he Hive 2"
+    ]
+  },
+  "phase-plant-vs-serum": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "comparison",
+    "products": [
+      "Kilohearts Phase Plant"
+    ]
+  },
+  "plugin-boutique-vs-splice": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "comparison",
+    "products": []
+  },
+  "plugins-never-pay-full-price": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "Plugin Alliance bx_console SSL 4000E",
+      "Sonnox Oxford Inflator",
+      "Soundtoys 5.5",
+      "UAD 1176 Classic Limiter Collection",
+      "Waves Platinum Bundle",
+      "iZotope Music Production Suite"
+    ]
+  },
+  "plugins-that-never-go-on-sale": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-Q 4",
+      "Klanghelm MJUC",
+      "Native Instruments Kontakt 8",
+      "Serum 2",
+      "Spectrasonics Omnisphere",
+      "Valhalla Room"
+    ]
+  },
+  "poplab-sounds-modern-live-drums-drum-sounds-from-current-pop": {
+    "category": "Drums",
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "pro-tools-vs-reaper-vs-ableton-2026": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "comparison",
+    "products": []
+  },
+  "rave-generation-va-1000-218077": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "real-price-drops-report-2026-08": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": [
+      "Eventide UltraChannel",
+      "Moog Mariana",
+      "Sonnox Oxford EQ",
+      "UAD 1176 Classic Limiter Collection",
+      "Waves CLA-2A"
+    ]
+  },
+  "real-price-drops-report-2026-09": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": [
+      "AIR Legends Pack",
+      "Addictive Drums 2 Custom Collection",
+      "Bloom Bass Impulse",
+      "Bloom Vocal Aether",
+      "CINEDREAM",
+      "Continuum",
+      "DynOne",
+      "Eventide Blackhole",
+      "L4 Ultramaximizer",
+      "Lifeline Bundle",
+      "Output Portal",
+      "Roland Legends Bundle",
+      "SSL Native X-Echo",
+      "TOTAL VI MAX 2",
+      "Tomofon",
+      "Unfiltered Audio TRIAD",
+      "Waves CLA-2A"
+    ]
+  },
+  "safari-audio-soundtoys-and-eastwest-3-plugins-that-bring-fre": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "save-60-on-mirror-reverse-negative-delay-by-united-plugins": {
+    "category": "Delay",
+    "confidence": "exact",
+    "kind": "review",
+    "products": []
+  },
+  "serum-alternatives-paid-2026": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "list",
+    "products": [
+      "Kilohearts Phase Plant",
+      "Serum 2"
+    ]
+  },
+  "serum-vs-vital-comparison": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "comparison",
+    "products": [
+      "Kilohearts Phase Plant",
+      "Serum 2",
+      "Vital"
+    ]
+  },
+  "serum-vst-review": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "review",
+    "products": [
+      "Kilohearts Phase Plant",
+      "Serum 2"
+    ]
+  },
+  "softube-flow-studio-powerful-macro-mixing-with-a-hardware-tw": {
+    "category": "Mastering",
+    "confidence": "exact",
+    "kind": "review",
+    "products": []
+  },
+  "sonuscore-sonuscore-has-released-lux-orchestral-strings-elem": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "soundmorph-soundmorph-has-released-dro1d-a-free-online-synth": {
+    "category": "Synth",
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "soundtoys-5-review": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "review",
+    "products": [
+      "Soundtoys 5.5"
+    ]
+  },
+  "spire-review-2026": {
+    "category": "Synth",
+    "confidence": "exact",
+    "kind": "review",
+    "products": []
+  },
+  "spitfire-labs-free-sample-library": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "splice-review-2026": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "review",
+    "products": []
+  },
+  "splice-vs-adsr-vs-plugin-boutique-2026": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "comparison",
+    "products": []
+  },
+  "splice-vs-loopcloud-2026": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "comparison",
+    "products": []
+  },
+  "ssl-native-x-echo-de47c7": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "SSL Native X-Echo"
+    ]
+  },
+  "surge-xt-free-open-source-synth": {
+    "category": "Synth",
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "thedrumbank-ultimate-midi-library-collection-bonus-packs": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "tr-909-616049": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "TR-909"
+    ]
+  },
+  "tube-tech-cl-1b-mk-ii-1adc9c": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "u-he-diva-review": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "review",
+    "products": [
+      "Kilohearts Phase Plant"
+    ]
+  },
+  "u-he-plugins-worth-buying-2026": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "review",
+    "products": [
+      "u-he Hive 2"
+    ]
+  },
+  "unfiltered-audio-needlepoint-dc8e41": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "guide",
+    "products": [
+      "Unfiltered Audio Needlepoint"
+    ]
+  },
+  "valhalla-room-vs-vintageverb": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "comparison",
+    "products": [
+      "Valhalla Room",
+      "Valhalla VintageVerb"
+    ]
+  },
+  "valhalla-vintageverb-review": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "review",
+    "products": [
+      "Valhalla Room",
+      "Valhalla VintageVerb"
+    ]
+  },
+  "visco-2-0-c6acfd": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "vital-synthesizer-review-2026": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "comparison",
+    "products": [
+      "Kilohearts Phase Plant"
+    ]
+  },
+  "vocal-processing-chain-plugins": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "guide",
+    "products": [
+      "FabFilter Pro-Q 4",
+      "FabFilter Total Bundle",
+      "Waves Tune Real-Time"
+    ]
+  },
+  "vst-plugin-black-friday-guide": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "wa-production-what-about-primal-techno-rave-hard-techno-samp": {
+    "category": "Synth",
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "waves-best-price-guide-2026": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "waves-ssl-bundle-review": {
+    "category": null,
+    "confidence": "explicit",
+    "kind": "review",
+    "products": [
+      "FabFilter Pro-Q 4",
+      "FabFilter Total Bundle"
+    ]
+  },
+  "waves-vs-fabfilter-2026": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "comparison",
+    "products": [
+      "FabFilter Total Bundle"
+    ]
+  },
+  "waves-vs-izotope-2026": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "comparison",
+    "products": [
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "when-does-addictive-drums-2-go-on-sale": {
+    "category": "Drums",
+    "confidence": "exact",
+    "kind": "when_does",
+    "products": []
+  },
+  "when-does-ampex-atr-102-go-on-sale": {
+    "category": "Saturation",
+    "confidence": "exact",
+    "kind": "when_does",
+    "products": []
+  },
+  "when-does-arturia-pigments-go-on-sale": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "when_does",
+    "products": [
+      "Kilohearts Phase Plant"
+    ]
+  },
+  "when-does-arturia-v-collection-go-on-sale": {
+    "category": "Bundle",
+    "confidence": "exact",
+    "kind": "when_does",
+    "products": []
+  },
+  "when-does-cherry-audio-mercury-6-go-on-sale": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "when_does",
+    "products": [
+      "Cherry Audio Mercury 6"
+    ]
+  },
+  "when-does-fabfilter-pro-c-2-go-on-sale": {
+    "category": "Compressor",
+    "confidence": "exact",
+    "kind": "when_does",
+    "products": []
+  },
+  "when-does-fabfilter-pro-l-2-go-on-sale": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "when_does",
+    "products": [
+      "FabFilter Pro-L 2"
+    ]
+  },
+  "when-does-fabfilter-pro-q-4-go-on-sale": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "when_does",
+    "products": [
+      "FabFilter Pro-Q 4"
+    ]
+  },
+  "when-does-fabfilter-total-bundle-go-on-sale": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "when_does",
+    "products": [
+      "FabFilter Total Bundle"
+    ]
+  },
+  "when-does-izotope-ozone-go-on-sale": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "when_does",
+    "products": [
+      "FabFilter Pro-L 2",
+      "iZotope Ozone 12 Advanced"
+    ]
+  },
+  "when-does-little-alterboy-go-on-sale": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "when_does",
+    "products": [
+      "Soundtoys Little AlterBoy"
+    ]
+  },
+  "when-does-modo-bass-go-on-sale": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "when_does",
+    "products": [
+      "MODO BASS 2"
+    ]
+  },
+  "when-does-ni-komplete-go-on-sale": {
+    "category": "Bundle",
+    "confidence": "exact",
+    "kind": "when_does",
+    "products": []
+  },
+  "when-does-phase-plant-go-on-sale": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "when_does",
+    "products": [
+      "Kilohearts Phase Plant"
+    ]
+  },
+  "when-does-scaler-3-go-on-sale": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "when_does",
+    "products": [
+      "Scaler 3"
+    ]
+  },
+  "when-does-smooth-operator-pro-go-on-sale": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "when_does",
+    "products": [
+      "Baby Audio Smooth Operator Pro"
+    ]
+  },
+  "when-does-soundtoys-5-go-on-sale": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "when_does",
+    "products": [
+      "Soundtoys 5.5",
+      "Soundtoys Little AlterBoy"
+    ]
+  },
+  "when-does-ujam-transit-go-on-sale": {
+    "category": null,
+    "confidence": "pb_id",
+    "kind": "when_does",
+    "products": [
+      "Baby Audio Transit 2"
+    ]
+  },
+  "zenology-pro-423247": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  },
+  "zynaptiq-morph-3-22ce9e": {
+    "category": null,
+    "confidence": "exact",
+    "kind": "guide",
+    "products": []
+  }
+}
