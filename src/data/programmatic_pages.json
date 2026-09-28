@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T00:04:04Z",
+  "generated_at": "2026-09-28T01:06:52Z",
   "source_last_updated": "2026-09-27",
   "policy": {
     "min_observations": 3,
     "require_typical_regular": true,
     "max_price_ratio": 3.0,
-    "min_products_per_category": 5,
+    "min_products_per_category": 3,
     "caps": {
       "compare": 20,
       "best": 8
@@ -19,21 +19,19 @@
       "status": "published",
       "first_published": "2026-09-14",
       "products": [
-        "Arturia FX Collection 6 Pro",
-        "Arturia V Collection 11 Pro",
-        "FabFilter Creative Bundle",
-        "FabFilter Total Bundle",
+        "Soundbox Instruments Bundle",
         "Soundtoys 5.5",
+        "Total Studio 5 MAX",
+        "UJAM SELECT 5 Bundle",
         "Waves Gold Bundle",
         "Waves Platinum Bundle"
       ],
       "editorial_post": "best-plugin-boutique-black-friday-deals-2026",
-      "when_does_posts": [
-        "when-does-fabfilter-total-bundle-go-on-sale"
-      ],
+      "when_does_posts": [],
       "selection": {
-        "product_count": 7,
-        "median_observations": 15.0
+        "product_count": 6,
+        "article_count": 35,
+        "median_observations": 10.0
       }
     },
     {
@@ -42,17 +40,54 @@
       "status": "published",
       "first_published": "2026-09-14",
       "products": [
-        "FabFilter Pro-MB",
-        "Native Instruments Supercharger GT",
-        "Soundtoys Devil-Loc Deluxe",
-        "Waves API 2500",
+        "Empirical Labs EL8 Distressor Compressor",
+        "SSL Native X-Comp",
+        "Sonible smart:comp 3",
+        "Tube-Tech CL 1B Mk II",
+        "UAD API 2500 Bus Compressor",
+        "UAD Teletronix LA 2A Leveler Collection",
         "Waves CLA-2A"
       ],
       "editorial_post": "best-compressor-plugins-2026",
       "when_does_posts": [],
       "selection": {
-        "product_count": 5,
-        "median_observations": 18.0
+        "product_count": 7,
+        "article_count": 8,
+        "median_observations": 14.0
+      }
+    },
+    {
+      "slug": "delay",
+      "label": "Delay",
+      "status": "unlisted",
+      "first_published": "2026-09-28",
+      "products": [
+        "FabFilter Timeless 3"
+      ],
+      "editorial_post": "best-delay-vst-plugins-2026",
+      "when_does_posts": [],
+      "selection": {
+        "product_count": 1,
+        "article_count": 6,
+        "median_observations": 15.0
+      }
+    },
+    {
+      "slug": "drums",
+      "label": "Drums",
+      "status": "published",
+      "first_published": "2026-09-28",
+      "products": [
+        "Drumazon 2",
+        "Excite Audio Bloom Drum Machine",
+        "VRAC+"
+      ],
+      "editorial_post": "best-compressor-plugins-drums",
+      "when_does_posts": [],
+      "selection": {
+        "product_count": 3,
+        "article_count": 10,
+        "median_observations": 11.0
       }
     },
     {
@@ -61,22 +96,53 @@
       "status": "published",
       "first_published": "2026-09-14",
       "products": [
+        "AmpliTube 5 MAX v2",
+        "BEAM 2.0",
         "Baby Audio Super VHS",
-        "FabFilter Volcano 3",
-        "Output Portal",
-        "Soundtoys Crystallizer",
-        "Soundtoys FilterFreak",
-        "Soundtoys MicroShift",
-        "Soundtoys PanMan",
-        "Soundtoys Tremolator",
-        "Wavesfactory Trackspacer",
-        "XLN Audio RC-20 Retro Color"
+        "Baby Audio Transit 2",
+        "Eventide MicroPitch",
+        "Eventide MicroPitch Immersive",
+        "Eventide UltraTap",
+        "Melody Sauce 3",
+        "Melody Sauce 3 Upgrade from Melody Sauce 1 2",
+        "Playbeat 4",
+        "SSL Native X-Phase",
+        "SoundID Reference for Headphones",
+        "UAD A Type Multiband Dynamic Enhancer",
+        "UAD LUNA Pro Mk 2",
+        "UAD Little Labs Voice of God",
+        "UAD Sound City Studios Plugin",
+        "Unfiltered Audio SpecOps",
+        "u-he Uhbik 2"
       ],
       "editorial_post": "best-arpeggiator-vst-plugins",
+      "when_does_posts": [
+        "when-does-ujam-transit-go-on-sale"
+      ],
+      "selection": {
+        "product_count": 18,
+        "article_count": 9,
+        "median_observations": 17.0
+      }
+    },
+    {
+      "slug": "eq",
+      "label": "EQ",
+      "status": "published",
+      "first_published": "2026-09-28",
+      "products": [
+        "SSL Native X-EQ 2",
+        "Sonible smart:EQ 4",
+        "Sonnox Oxford EQ",
+        "UAD Helios Type 69 Preamp and EQ Collection",
+        "UAD Manley Massive Passive"
+      ],
+      "editorial_post": "best-eq-plugins-2026",
       "when_does_posts": [],
       "selection": {
-        "product_count": 10,
-        "median_observations": 18.0
+        "product_count": 5,
+        "article_count": 22,
+        "median_observations": 16.5
       }
     },
     {
@@ -85,18 +151,73 @@
       "status": "published",
       "first_published": "2026-09-14",
       "products": [
-        "Arturia Augmented STRINGS",
-        "Spitfire Albion Colossus",
-        "Spitfire Albion ONE",
-        "Spitfire Audio BBC Symphony Orchestra Professional",
-        "Spitfire Symphony Orchestra",
-        "XLN Audio Addictive Keys"
+        "CARBON",
+        "IRON 2",
+        "MELLOW 2",
+        "ROYAL 2",
+        "SUBCRAFT",
+        "UAD Electra 88 Vintage Keyboard Studio",
+        "UAD Moog Minimoog",
+        "UAD Woodrow 55 Instrument Amplifier",
+        "Xpand!2"
       ],
       "editorial_post": null,
       "when_does_posts": [],
       "selection": {
+        "product_count": 9,
+        "article_count": 4,
+        "median_observations": 11.0
+      }
+    },
+    {
+      "slug": "limiter",
+      "label": "Limiter",
+      "status": "unlisted",
+      "first_published": "2026-09-28",
+      "products": [
+        "Sonible smart:limit"
+      ],
+      "editorial_post": "best-free-limiter-vst",
+      "when_does_posts": [],
+      "selection": {
+        "product_count": 1,
+        "article_count": 9,
+        "median_observations": 16.5
+      }
+    },
+    {
+      "slug": "mastering",
+      "label": "Mastering",
+      "status": "unlisted",
+      "first_published": "2026-09-28",
+      "products": [],
+      "editorial_post": "best-compressor-plugins-2026",
+      "when_does_posts": [],
+      "selection": {
+        "product_count": 0,
+        "article_count": 6,
+        "median_observations": 7.5
+      }
+    },
+    {
+      "slug": "reverb",
+      "label": "Reverb",
+      "status": "published",
+      "first_published": "2026-09-28",
+      "products": [
+        "Eventide Blackhole",
+        "Eventide Blackhole Immersive",
+        "Eventide ShimmerVerb",
+        "LX480 Essentials",
+        "Sonible smart:reverb 2",
+        "Waves Abbey Road Reverb Plates"
+      ],
+      "editorial_post": "best-free-alternatives-to-waves",
+      "when_does_posts": [],
+      "selection": {
         "product_count": 6,
-        "median_observations": 9.0
+        "article_count": 12,
+        "median_observations": 17.0
       }
     },
     {
@@ -105,18 +226,19 @@
       "status": "published",
       "first_published": "2026-09-14",
       "products": [
-        "Baby Audio TAIP",
+        "Black Box Analog Design HG-2",
+        "Black Box Analog Design HG-2MS",
         "FabFilter Saturn 2",
-        "Softube Tape",
-        "Soundtoys Decapitator",
-        "Wavesfactory Cassette",
+        "UAD Ampex ATR 102 Mastering Tape Recorder",
+        "UAD Studer A800 Tape Recorder",
         "u-he Satin"
       ],
       "editorial_post": "best-free-saturation-vst-plugins",
       "when_does_posts": [],
       "selection": {
         "product_count": 6,
-        "median_observations": 20.0
+        "article_count": 6,
+        "median_observations": 15.0
       }
     },
     {
@@ -125,45 +247,60 @@
       "status": "published",
       "first_published": "2026-09-14",
       "products": [
-        "Arturia Jup-8 V",
-        "Arturia Mini V",
-        "Arturia Pigments",
-        "FabFilter Twin 3",
-        "Kilohearts Phase Plant",
+        "Iona",
+        "KOMPLETE Synthesizer Collection",
+        "M1",
+        "Model 80 Five Voice Synthesizer",
+        "Moog Mariana",
+        "Native Instruments FM8",
         "Native Instruments Massive",
-        "Native Instruments Massive X",
-        "u-he Bazille",
-        "u-he Diva",
-        "u-he Hive 2",
-        "u-he Repro",
-        "u-he Zebra 3"
+        "Reveal Sound Spire",
+        "SubLab XL",
+        "Synthesizer V Studio 2 Pro",
+        "TRITON / TRITON Extreme",
+        "UAD Anthem Analog Synthesizer",
+        "UAD Opal Morphing Synth",
+        "Usynth Core",
+        "Vengeance Sound Avenger 2",
+        "WAVESTATION",
+        "u-he Repro"
       ],
       "editorial_post": "best-bass-synth-vst-plugins",
-      "when_does_posts": [
-        "when-does-arturia-pigments-go-on-sale"
-      ],
+      "when_does_posts": [],
       "selection": {
-        "product_count": 12,
-        "median_observations": 20.0
+        "product_count": 17,
+        "article_count": 32,
+        "median_observations": 18.0
+      }
+    },
+    {
+      "slug": "utility",
+      "label": "Utility",
+      "status": "unlisted",
+      "first_published": "2026-09-28",
+      "products": [],
+      "editorial_post": null,
+      "when_does_posts": [],
+      "selection": {
+        "product_count": 0,
+        "article_count": 0,
+        "median_observations": 7.0
       }
     },
     {
       "slug": "vocal",
       "label": "Vocal",
-      "status": "published",
+      "status": "unlisted",
       "first_published": "2026-09-14",
       "products": [
-        "FabFilter Pro-DS",
-        "Soundtoys Little AlterBoy",
-        "Spitfire Eric Whitacre Choir",
-        "Waves Renaissance Vox",
-        "iZotope VocalSynth 2"
+        "UAD Manley Tube Preamp"
       ],
       "editorial_post": "best-free-choir-vst-plugins",
       "when_does_posts": [],
       "selection": {
-        "product_count": 5,
-        "median_observations": 18.0
+        "product_count": 1,
+        "article_count": 1,
+        "median_observations": 19.0
       }
     }
   ],

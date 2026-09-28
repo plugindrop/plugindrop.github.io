@@ -16,6 +16,8 @@ import FactsTable from '../components/FactsTable.astro';
 import FactCard from '../components/FactCard.astro';
 import DealMath from '../components/DealMath.astro';
 import postCatalogMap from '../data/post_catalog_map.json';
+import manifestRaw from '../data/programmatic_pages.json';
+import { categoryForProduct } from '../lib/categoryInference.mjs';
 import { comparisonPriceFacts } from '../lib/priceInsights.mjs';
 import { SITE_TITLE } from '../consts';
 import priceDataRaw from '../data/price_history.json';
@@ -76,6 +78,18 @@ const priceData = priceDataRaw as { last_updated: string; bundles: Record<string
 const _allTrackerEntries = { ...priceData.bundles, ...(priceData.plugins ?? {}) };
 const _catalog = (postCatalogMap as Record<string, { kind: string; products: string[] }>)[currentSlug];
 const _catalogProducts = _catalog?.products ?? [];
+const _bundleNames = new Set(Object.keys(priceData.bundles));
+const _categoryCounts = new Map<string, number>();
+for (const name of _catalogProducts) {
+  const entry = _allTrackerEntries[name];
+  if (!entry) continue;
+  const label = categoryForProduct(name, entry, _bundleNames.has(name));
+  _categoryCounts.set(label, (_categoryCounts.get(label) ?? 0) + 1);
+}
+const _catalogCategory = (_catalog as { category?: string | null } | undefined)?.category
+  ?? [..._categoryCounts].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))[0]?.[0];
+const _hub = (manifestRaw as { categories: { slug: string; label: string; status: string }[] }).categories
+  .find((item) => item.status === 'published' && item.label === _catalogCategory);
 const _pricedCatalogCount = _catalogProducts.filter((name) => comparisonPriceFacts(_allTrackerEntries[name])?.hasPrice).length;
 const _showFactsTable = !noindex && !(Astro.props as any).draft && ['list', 'comparison'].includes(_catalog?.kind ?? '') && _catalogProducts.length >= 2 && _pricedCatalogCount >= 2;
 const _showFactCard = !noindex && !(Astro.props as any).draft && _catalog?.kind === 'review' && _catalogProducts.length === 1 && _pricedCatalogCount === 1;
@@ -1014,7 +1028,7 @@ const featuredDeals = isEvergreen ? allPosts
 					<nav class="breadcrumb" aria-label="Breadcrumb">
 						<a href="/">Home</a>
 						<span class="sep" aria-hidden="true">/</span>
-						<a href="/posts">Deals</a>
+						{_hub ? <><a href="/posts">Guides</a><span class="sep" aria-hidden="true">/</span><a href={`/best/${_hub.slug}/`}>{_hub.label}</a></> : <a href="/posts">Deals</a>}
 						<span class="sep" aria-hidden="true">/</span>
 						<span>{title.length > 50 ? title.slice(0, 50) + '...' : title}</span>
 					</nav>

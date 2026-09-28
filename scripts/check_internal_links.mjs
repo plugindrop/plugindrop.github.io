@@ -33,6 +33,9 @@ if (!fs.existsSync(distDir)) {
   const articleViolations = [];
   const jsonLdViolations = [];
   const taxonomyViolations = [];
+  const hubViolations = [];
+  const manifest = JSON.parse(fs.readFileSync(path.join(projectRoot, 'src', 'data', 'programmatic_pages.json'), 'utf8'));
+  const unlistedHubs = new Set(manifest.categories.filter((category) => category.status === 'unlisted').map((category) => `/best/${category.slug}/`));
   for (const htmlPath of listHtmlFiles(distDir)) {
     const html = fs.readFileSync(htmlPath, 'utf8');
     if (hasRobotsNoindex(html) || isRedirectStub(html)) continue;
@@ -41,6 +44,7 @@ if (!fs.existsSync(distDir)) {
       if (to.startsWith('/plugin-prices/') && to !== '/plugin-prices/' && (policyNoindex.has(to) || targetIsNoindex(to))) violations.push({ from, to });
       if (to.startsWith('/posts/') && to !== '/posts/' && targetIsNoindex(to)) articleViolations.push({ from, to });
       if ((to.startsWith('/tags/') || to.startsWith('/brands/')) && targetIsNoindex(to)) taxonomyViolations.push({ from, to });
+      if (unlistedHubs.has(to)) hubViolations.push({ from, to });
     }
     for (const to of extractJsonLdUrls(html)) {
       if (to.startsWith('/plugin-prices/') && to !== '/plugin-prices/' && (policyNoindex.has(to) || targetIsNoindex(to))) {
@@ -52,8 +56,9 @@ if (!fs.existsSync(distDir)) {
   for (const { from, to } of articleViolations) console.error(`FAIL: indexable page links to noindex article: ${from} -> ${to}`);
   for (const { from, to } of jsonLdViolations) console.error(`FAIL: JSON-LD links to noindex product page: ${from} -> ${to}`);
   for (const { from, to } of taxonomyViolations) console.error(`FAIL: indexable page links to noindex tag/brand page: ${from} -> ${to}`);
-  if (violations.length > 0 || articleViolations.length > 0 || jsonLdViolations.length > 0 || taxonomyViolations.length > 0) {
-    console.error(`FAIL: ${violations.length} indexable-to-noindex product link(s), ${articleViolations.length} indexable-to-noindex article link(s), and ${jsonLdViolations.length} JSON-LD violation(s), and ${taxonomyViolations.length} tag/brand link(s) found.`);
+  for (const { from, to } of hubViolations) console.error(`FAIL: indexable page links to unlisted hub: ${from} -> ${to}`);
+  if (violations.length > 0 || articleViolations.length > 0 || jsonLdViolations.length > 0 || taxonomyViolations.length > 0 || hubViolations.length > 0) {
+    console.error(`FAIL: ${violations.length} product, ${articleViolations.length} article, ${jsonLdViolations.length} JSON-LD, ${taxonomyViolations.length} tag/brand, ${hubViolations.length} hub links found.`);
     process.exitCode = 1;
   } else console.log('PASS: 0 indexable-to-noindex product links, article links, and JSON-LD violations found.');
 }

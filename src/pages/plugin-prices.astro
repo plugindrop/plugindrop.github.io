@@ -4,6 +4,7 @@ import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import { SITE_TITLE } from '../consts';
 import priceData from '../data/price_history.json';
+import { inferCategory } from '../lib/categoryInference.mjs';
 import { dealScoreNumeric, isSearchUrl, sparklinePoints, pbLink } from '../lib/priceUtils';
 import { isPricePageIndexable, slugifyProduct } from '../lib/indexPolicy.mjs';
 
@@ -134,38 +135,6 @@ function detectDeveloper(name: string, notes: string | undefined): string | null
   return null;
 }
 
-// Infers a category tag from the entry's own `category` field when present,
-// otherwise from keyword matches against its name, notes and PB catalog URL
-// (which often carries a real category segment, e.g. "/16-EQ/", "/4-Synth/").
-// Falls back to "Bundle" for bundle-section rows or "Effects" otherwise —
-// never guesses more specifically than the data supports.
-function inferCategory(name: string, notes: string | undefined, pbUrl: string, isBundleSection: boolean): string {
-  const haystack = `${name} ${notes ?? ''} ${pbUrl}`.toLowerCase();
-
-  // A handful of well-known naming conventions in this niche (FabFilter's
-  // Pro-X product codes, well-known synth names) that plain keywords miss.
-  if (/\bpro-r\b/.test(haystack)) return 'Reverb';
-  if (/\bpro-c\b/.test(haystack)) return 'Compressor';
-  if (/\bpro-l\b/.test(haystack)) return 'Limiter';
-  if (/\bpro-mb\b/.test(haystack)) return 'Compressor';
-  if (/\bpro-ds\b/.test(haystack)) return 'Vocal';
-  if (/\b(serum|omnisphere|nexus|sylenth1?|vital)\b/.test(haystack)) return 'Synth';
-
-  if (/\breverb\b/.test(haystack)) return 'Reverb';
-  if (/\beq\b/.test(haystack)) return 'EQ';
-  if (/\bcomp(?:ressor)?\b/.test(haystack)) return 'Compressor';
-  if (/synth/.test(haystack)) return 'Synth';
-  if (/tape|saturat/.test(haystack)) return 'Saturation';
-  if (/master|ozone/.test(haystack)) return 'Mastering';
-  if (/\blimit(?:er)?\b/.test(haystack)) return 'Limiter';
-  if (/drum/.test(haystack)) return 'Drums';
-  if (/tune|vocal|melodyne/.test(haystack)) return 'Vocal';
-  if (/bundle|collection/.test(haystack)) return 'Bundle';
-  if (/instrument|orchestral|piano|guitar|\borgan\b|strings|choir|brass/.test(haystack)) return 'Instrument';
-  if (/utility|\bmeter\b|analy[sz]|loudness/.test(haystack)) return 'Utility';
-
-  return isBundleSection ? 'Bundle' : 'Effects';
-}
 
 // Finds the date a bundle's recorded all_time_low actually happened, when it
 // matches a logged history entry. Returns null rather than guessing.

@@ -4,6 +4,8 @@ import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
 import priceData from '../../data/price_history.json';
+import manifestRaw from '../../data/programmatic_pages.json';
+import { categoryForProduct } from '../../lib/categoryInference.mjs';
 import { pdAttr } from '../../lib/interestTaxonomy.mjs';
 import productVideosRaw from '../../data/product_videos.json';
 import { latestCheckedDate, formatCheckedDate, dealScoreNumeric, isSearchUrl, pbLink, currentPriceOf, regularPriceOf, formatPrice } from '../../lib/priceUtils';
@@ -115,6 +117,9 @@ function pctOff(sale: number | null, regular: number | null): number {
   return Math.round((1 - sale / regular) * 100);
 }
 const category = entry.category ?? (kind === 'bundle' ? 'Plugin Bundle' : 'Plugin');
+const hubCategory = categoryForProduct(name, entry, kind === 'bundle');
+const publishedHub = (manifestRaw as { categories: { slug: string; label: string; status: string }[] }).categories
+  .find((item) => item.status === 'published' && item.label === hubCategory);
 const current = currentPrice(entry);
 const regular = regularPriceOf(entry);
 const onSale = isOnSale(entry);
@@ -779,6 +784,7 @@ const faqLD = {
 
       <section class="product-header">
         <span class="category-tag">{category}</span>
+        {publishedHub && <a href={`/best/${publishedHub.slug}/`}>Compare {publishedHub.label} plugins and guides</a>}
         <h1>{name}</h1>
 
         {demoVideo && (
