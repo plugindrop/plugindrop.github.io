@@ -1,0 +1,24 @@
+---
+import { nowVsTypical, topNTotal } from '../lib/dealMath.mjs';
+import { formatPrice } from '../lib/priceUtils.ts';
+
+interface Props { entries: any[]; names: string[] }
+const { entries, names } = Astro.props;
+const rows = entries.map((entry, index) => ({ name: names[index], value: nowVsTypical(entry) })).filter((row) => row.value !== null);
+const total = entries.length >= 3 ? topNTotal(entries, 3) : null;
+---
+{(rows.length > 0 || total) && <div class="price-math" data-price-math>
+  <h3>Price math</h3>
+  <dl>
+    {rows.map((row) => <div><dt>{row.name}: now versus typical sale</dt><dd>{`${formatPrice(row.value.now)} versus ${formatPrice(row.value.typicalSale)} (${formatPrice(Math.abs(row.value.difference))} ${row.value.difference < 0 ? 'below' : row.value.difference > 0 ? 'above' : 'difference'})`}</dd></div>)}
+    {total && <div><dt>First {total.count} products</dt><dd>{formatPrice(total.now)} now versus {formatPrice(total.typicalSale)} at typical sale prices</dd></div>}
+  </dl>
+</div>}
+<style>
+  .price-math { margin-top: .75rem; }
+  .price-math h3 { font-size: 1rem; margin-bottom: .5rem; }
+  .price-math dl { margin: 0; }
+  .price-math dl > div { margin: .35rem 0; }
+  .price-math dt { font-weight: 600; }
+  .price-math dd { margin: 0; }
+</style>

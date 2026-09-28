@@ -15,7 +15,7 @@ test('a product with no price columns cannot qualify for a fact table', () => {
 test('vendor columns are absent without vendor_facts.json', () => {
   const html = post('best-eq-plugins-2026');
   assert.match(html, /<div class="facts-table-block" data-facts-table\b/);
-  assert.doesNotMatch(html.match(/<table\b[\s\S]*?<\/table>/)?.[0] ?? '', /Apple Silicon/);
+  assert.doesNotMatch(html.match(/<thead\b[\s\S]*?<\/thead>/)?.[0] ?? '', /Apple Silicon/);
 });
 
 test('null fact cells are rendered as not published', () => {

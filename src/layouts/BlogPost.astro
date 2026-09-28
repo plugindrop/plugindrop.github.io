@@ -14,6 +14,7 @@ import TopDeals from '../components/TopDeals.astro';
 import DealFactBox from '../components/DealFactBox.astro';
 import FactsTable from '../components/FactsTable.astro';
 import FactCard from '../components/FactCard.astro';
+import DealMath from '../components/DealMath.astro';
 import postCatalogMap from '../data/post_catalog_map.json';
 import { comparisonPriceFacts } from '../lib/priceInsights.mjs';
 import { SITE_TITLE } from '../consts';
@@ -1110,6 +1111,7 @@ const featuredDeals = isEvergreen ? allPosts
 					{(_showFactsTable || _showFactCard) && <section id="compare-table">
 						<h2>Compare the plugins in this guide</h2>
 						{_showFactsTable ? <FactsTable products={_catalogProducts} slug={currentSlug} /> : <FactCard product={_catalogProducts[0]} slug={currentSlug} />}
+						<DealMath names={_catalogProducts} entries={_catalogProducts.map((name) => _allTrackerEntries[name])} />
 					</section>}
 					<slot />
 

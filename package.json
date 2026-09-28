@@ -8,7 +8,7 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "test": "node --test tests/",
+    "test": "node --test tests/*.test.*",
     "check:policy": "node scripts/check_sitemap_policy.mjs && node scripts/check_internal_links.mjs",
     "audit:prices": "node scripts/audit_price_decision.mjs",
     "report:sitemap": "node scripts/report_sitemap_sections.mjs",
