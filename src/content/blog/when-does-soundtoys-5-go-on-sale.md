@@ -1,6 +1,6 @@
 ---
 title: "When Does SoundToys 5 Go On Sale? (Updated 2026)"
-description: "SoundToys 5.5 regular price: $599. Goes on sale primarily at Black Friday (60% off, ~$239 official). Thomann BF lowest ever: $166 (Nov 2024). Black Friday is the only reliable sale window."
+description: "Our Plugin Boutique checks recorded 2 sale periods for Soundtoys 5.5 between 2026-07-12 and 2026-09-25; the lowest observed sale price was $349."
 pubDate: "2026-06-29"
 evergreen: true
 tags:
@@ -15,48 +15,58 @@ relatedPosts:
   - "best-saturation-plugins-2026"
   - "best-delay-vst-plugins-2026"
 heroImage: '/images/when-does-soundtoys-5-go-on-sale.jpg'
+updatedDate: "2026-09-28"
 ---
 
-**Short answer:** SoundToys 5.5 goes on sale **1-2 times per year (Black Friday is the main event)**. The typical discount is **60–72% off**, bringing the $599 regular price down to around **$239**. The best times to buy:
+## Short answer
 
-## Price Context (tracked by PluginDrop)
-- Tracked since 2025-07-22 (22 observations)
-- Lowest we've tracked: $239 · Typical sale: $299 · Regular: $659
-- Verdict: **WAIT** — the available history does not include enough comparable price data to support a buy-now verdict.
-- Sale pattern: Frequent 50% off sales at PB. April 2026 sale was $299 (50% off $599). ATL ~$239 recorded at various retailers. Additional research (2026-07-10): official Soundtoys.com Black Friday 2024 price was $199 (regular was $499 pre-2025 price increase); 2025 summer sale ran $299 (50% off $599) through Aug 5, 2025 — consistent with existing tracked figures.
-- Latest observed sale: $599 on 2026-09-10
-- Typical observed discount: 55%
+Our Plugin Boutique checks recorded 2 sale periods for Soundtoys 5.5 between 2026-07-12 and 2026-09-25; the lowest observed sale price was $349.
 
-## Historical Sale Data
+The latest readable check on 2026-09-25 showed a sale price of $599.
 
-| When | Discount | Approx. Price | Source |
-|------|----------|---------------|--------|
-| Black Friday 2025 (November) | 60% off | ~$239 | SoundToys Official / Plugin Boutique (confirmed) |
-| Black Friday 2024 (Thomann) | ~72% off | ~$166 | Thomann (Nov 26, 2024 — confirmed lowest ever) |
-| Black Friday 2024 (PB/Official) | ~67% off | ~$199 | Plugin Boutique / SoundToys Official |
-| Black Friday 2023 | ~67% off | ~$199 | Plugin Boutique / Official |
-| Spring 2024 | 50% off | ~$299 | SoundToys Official |
+## Every sale we've tracked
 
-**Lowest price ever recorded:** ~$166 (Thomann (Black Friday Nov 26, 2024 — confirmed community reports))
+| First seen | Last seen | Days visible | Lowest sale price | List price in check | Discount |
+|---|---|---:|---:|---:|---:|
+| 2026-07-12 | 2026-08-06 | 26 | $349 | $659 | 47% |
+| 2026-08-10 | 2026-09-25 | 47 | $599 | $659 | 9% |
 
-## When to Buy SoundToys 5.5: Season-by-Season Guide
+These periods reflect prices visible in our Plugin Boutique checks; the first recorded check can fall after a sale began, and an end date is the last check that showed it.
 
-- **Black Friday (November — best deal)**
-- **Spring / Easter (occasional 50% off)**
+## How long sales last and how far apart they are
 
-> **Buying tip:** SoundToys' Black Friday deals are legendary in the production community. If you want the full bundle, Black Friday is definitively the best time. Always check Thomann alongside Plugin Boutique — Thomann has consistently offered an additional $30-70 off on SoundToys vs PB's official price.
+Completed observed periods lasted 26, 47 days. These are spans between checks, not confirmed store start and end dates.
 
+Observed breaks between sale periods were 4 days, measured from the last sale check to the next sale check.
 
-**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=when-does-soundtoys-5-go-on-sale)**
+Only one interval separates these two observed periods; it does not establish a recurring schedule.
 
-Plugin Boutique often matches official sale prices and gives you Virtual Cash back (typically 5%) on every purchase, redeemable on future orders.
+## List price history
 
+| Archived Plugin Boutique page | Displayed price |
+|---|---:|
+| 2025-09-11 | $599 |
 
-## Free Alternatives If You Can't Wait
+These are prices displayed on archived pages. An archived displayed price alone does not establish that a sale was running.
 
-- **[Little AlterBoy (SoundToys)](https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy?a_aid=69cb95abe1763&chan=art&data1=when-does-soundtoys-5-go-on-sale)** — Buy individual SoundToys plugins at 50-66% off instead of waiting for the bundle deal
+## Where today's price sits
 
+The latest readable price, $599 on 2026-09-25, was above the lowest price in our observed sale periods, $349. The difference was $250. This is a last observed price, not a live quote.
 
----
+## Sales reported elsewhere (not observed by our tracker)
 
-*Last updated: 2026-06. Data compiled from Reddit r/audioengineering, KVR Audio forums, Slickdeals, and community-verified sale reports. Prices vary by region and may differ at time of purchase.*
+- Black Friday 2025 (November): approximately $239, reported by SoundToys Official.
+
+- Black Friday 2024 (Thomann): approximately $166, reported by Thomann.
+
+- Black Friday 2024 (PB/Official): approximately $199, reported by Plugin Boutique.
+
+- Black Friday 2023: approximately $199, reported by Plugin Boutique.
+
+- Spring 2024: approximately $299, reported by SoundToys Official.
+
+## Free alternatives
+
+- [Little AlterBoy (SoundToys)](https://www.pluginboutique.com/product/2-effects/5-Chorus-Vibrato/1376-Little-AlterBoy?a_aid=69cb95abe1763): Buy individual SoundToys plugins at 50-66% off instead of waiting for the bundle deal
+
+*Data: PluginDrop price tracker (22 checks since 2026-05-04) and Internet Archive snapshots of the Plugin Boutique product page. Last regenerated 2026-09-28.*
