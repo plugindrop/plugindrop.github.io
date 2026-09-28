@@ -227,10 +227,13 @@ export function comparisonPriceFacts(entry) {
   const facts = buildPageFacts(entry);
   const today = currentPriceOf(entry);
   const regular = entry.typical_regular ?? null;
-  const sale = entry.typical_sale ?? null;
+  // The catalog seeds typical_sale from its first observed sale. Use the
+  // same definition on the checks behind salesRecorded.
+  const sale = facts.checks.find((row) => finite(row.sale))?.sale ?? null;
+  const allTimeLow = facts.sales.length ? Math.min(...facts.sales.map((episode) => episode.low)) : null;
   return {
     regular, sale, today, salesRecorded: facts.sales.length,
-    verdict: dealScore(today, regular, sale, entry.all_time_low ?? null),
+    verdict: dealScore(today, regular, sale, allTimeLow),
     hasPrice: [regular, sale, today].some((value) => value !== null),
   };
 }

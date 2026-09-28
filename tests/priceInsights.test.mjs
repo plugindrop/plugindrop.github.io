@@ -4,7 +4,36 @@ import priceData from '../src/data/price_history.json' with { type: 'json' };
 import { dealScoreNumeric } from '../src/lib/priceUtils.ts';
 import { buildAuditIndex, comparableHistory, lowestSeen, pbPathOf, sourceKindOf } from '../src/lib/priceBasis.mjs';
 import { isPricePageIndexable, priceSubstance, saleEpisodeCount, ownTrackingDays } from '../src/lib/indexPolicy.mjs';
-import { buildPageFacts, buildDecisionAnswers, buildResearchNote, buildCoverageLine, summarizeVerdict, trackedSales, observedSaleBreaks, archivedPrices, confirmedArchiveSales, validUntil, sameCategoryPeers, listPriceChanges } from '../src/lib/priceInsights.mjs';
+import { buildPageFacts, buildDecisionAnswers, buildResearchNote, buildCoverageLine, summarizeVerdict, trackedSales, observedSaleBreaks, archivedPrices, confirmedArchiveSales, validUntil, sameCategoryPeers, listPriceChanges, comparisonPriceFacts } from '../src/lib/priceInsights.mjs';
+
+test('comparison price has no typical sale or wait verdict without a tracked sale', () => {
+  const noSale = { typical_regular: 199, typical_sale: 134, all_time_low: 134, history: [
+    { date: '2026-09-01', regular: 199, sale: 134, source: 'research_bf2024' },
+    { date: '2026-09-02', regular: 199, sale: null, source: 'auto_check' },
+  ] };
+  const result = comparisonPriceFacts(noSale);
+  assert.equal(result.sale, null);
+  assert.equal(result.salesRecorded, 0);
+  assert.notEqual(result.verdict.label, 'Wait for a sale');
+  assert.equal(result.verdict.label, 'Rarely discounts');
+  const noHistorySale = comparisonPriceFacts({ typical_regular: 199, typical_sale: 134, all_time_low: 134,
+    history: [{ date: '2026-09-02', regular: 199, sale: null, source: 'auto_check' }] });
+  assert.equal(noHistorySale.sale, null);
+  assert.notEqual(noHistorySale.verdict.label, 'Wait for a sale');
+});
+
+test('comparison price uses first confirmed tracked sale and tracked low', () => {
+  const product = { typical_regular: 200, typical_sale: 25, all_time_low: 10, history: [
+    { date: '2026-09-01', regular: 200, sale: 40, source: 'research_bf2024' },
+    { date: '2026-09-02', regular: 200, sale: 90, source: 'auto_check' },
+    { date: '2026-09-03', regular: 200, sale: null, source: 'auto_check' },
+    { date: '2026-09-04', regular: 200, sale: 80, source: 'auto_check' },
+  ] };
+  const result = comparisonPriceFacts(product);
+  assert.equal(result.sale, 90);
+  assert.equal(result.salesRecorded, 2);
+  assert.equal(result.verdict.label, 'At its lowest');
+});
 
 test('list price changes require two consecutive observed checks at each level', () => {
   const dates = ['2026-01-01', '2026-01-02', '2026-01-03', '2026-01-04'];
