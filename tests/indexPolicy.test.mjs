@@ -7,10 +7,12 @@ import {
   MIN_PRICE_LEVELS,
   MIN_PRICE_SALE_OBS,
   MIN_SALE_EPISODES,
+  MIN_SALE_DISCOUNT_RATIO,
   MIN_OWN_TRACKING_DAYS,
   OBSERVED_SOURCES,
   SALE_EPISODE_MAX_GAP_DAYS,
   MIN_TAG_POSTS,
+  comparableHistory,
   indexablePricePagePaths,
   isMachineStampNote,
   isBrandPageIndexable,
@@ -189,4 +191,11 @@ test('brand indexability uses three products as the boundary', () => {
   assert.equal(MIN_BRAND_PRODUCTS, 3);
   assert.equal(isBrandPageIndexable(2), false);
   assert.equal(isBrandPageIndexable(3), true);
+});
+
+test('comparable history excludes discounts below ten percent', () => {
+  assert.equal(MIN_SALE_DISCOUNT_RATIO, 0.10);
+  const entry = { history: [91, 90, 89].map((sale, i) => observation(`2026-01-0${i + 1}`, sale, 'auto_check', 100))
+    .concat([observation('2026-01-04', 91, 'auto_check', null)]), };
+  assert.deepEqual(comparableHistory(entry).map((row) => row.sale), [90, 89, 91]);
 });

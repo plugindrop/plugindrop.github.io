@@ -1,5 +1,5 @@
-import { listSaleEpisodes } from './indexPolicy.mjs';
-import { DEFAULT_AUDIT_INDEX, OBSERVED_SOURCES, comparableHistory, confirmedSaleOf, isStandardCents, latestTrackerRow, pbPathOf, sourceKindOf } from './priceBasis.mjs';
+import { comparableHistory, listSaleEpisodes } from './indexPolicy.mjs';
+import { DEFAULT_AUDIT_INDEX, OBSERVED_SOURCES, confirmedSaleOf, isStandardCents, latestTrackerRow, pbPathOf, sourceKindOf } from './priceBasis.mjs';
 import { currentPriceOf, formatPrice, dealScore } from './priceUtils.ts';
 
 const observed = new Set(OBSERVED_SOURCES);

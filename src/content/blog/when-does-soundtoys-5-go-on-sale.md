@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "When Does SoundToys 5 Go On Sale? (Updated 2026)"
 description: "Our Plugin Boutique checks recorded 2 sale periods for Soundtoys 5.5 between 2026-07-12 and 2026-09-25; the lowest observed sale price was $349."
 pubDate: "2026-06-29"

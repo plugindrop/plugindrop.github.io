@@ -1,4 +1,4 @@
-import { OBSERVED_SOURCES, comparableHistory } from './priceBasis.mjs';
+import { OBSERVED_SOURCES, comparableHistory as basisComparableHistory } from './priceBasis.mjs';
 export { OBSERVED_SOURCES } from './priceBasis.mjs';
 
 export const MIN_TAG_POSTS = 10;
@@ -7,11 +7,20 @@ export const MIN_PRICE_SALE_OBS = 1;
 export const MIN_PRICE_LEVELS = 2;
 export const MIN_BRAND_PRODUCTS = 3;
 export const MIN_SALE_EPISODES = 2;
+export const MIN_SALE_DISCOUNT_RATIO = 0.10;
 export const MIN_OWN_TRACKING_DAYS = 45;
 export const SALE_EPISODE_MAX_GAP_DAYS = 14;
 
 const DAY_MS = 24 * 60 * 60 * 1000;
 const observedSources = new Set(OBSERVED_SOURCES);
+
+export function comparableHistory(entry, auditIndex) {
+  return basisComparableHistory(entry, auditIndex).filter((row) => {
+    const { sale, regular } = row;
+    return !(sale != null && typeof regular === 'number' && regular > 0
+      && sale > regular * (1 - MIN_SALE_DISCOUNT_RATIO));
+  });
+}
 
 /**
  * Keep product URLs byte-for-byte compatible with the former page-local
