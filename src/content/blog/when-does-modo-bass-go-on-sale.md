@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "When Does MODO BASS 2 (IK Multimedia) Go On Sale? (Updated 2026)"
 description: "IK Multimedia MODO BASS 2 regular price: $199.99. Goes on sale 4-5 times per year. Lowest confirmed: $45 (Feb 2024 price tracker). Black Friday at PB: $49.99."
 pubDate: "2026-06-29"

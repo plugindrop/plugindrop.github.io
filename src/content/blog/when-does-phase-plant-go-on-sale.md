@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "When Does Phase Plant (Kilohearts) Go On Sale? (Updated 2026)"
 description: "Phase Plant goes on sale 2-3 times per year at 50% off (~$99). Best times: Black Friday and Kilohearts Anniversary. Lowest ever: $91 (BF 2023)."
 pubDate: "2026-06-29"

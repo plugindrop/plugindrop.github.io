@@ -339,7 +339,7 @@ const linkedTags = tags.filter((tag: string) => isTagPageIndexable(publicTagCoun
 // 関連度判定からは除外し、実際にトピックが重なるタグでのみスコアリングする。
 const GENERIC_RELATION_TAGS = new Set(['vst', 'guide']);
 const relatedPosts = allPosts
-	.filter(p => !p.data.draft && p.id !== currentSlug && p.id.replace(/\.mdx?$/, '') !== currentSlug)
+	.filter(p => !p.data.draft && !p.data.noindex && p.id !== currentSlug && p.id.replace(/\.mdx?$/, '') !== currentSlug)
 	.map(p => ({
 		...p,
 		score: p.data.tags?.filter((t: string) => tags.includes(t) && !GENERIC_RELATION_TAGS.has(t)).length ?? 0,

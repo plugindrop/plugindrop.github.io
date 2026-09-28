@@ -6,3 +6,4 @@ import './articleDeal.test.mjs';
 import './contentLint.test.mjs';
 import './priceInsights.test.mjs';
 import './priceRemediation.test.mjs';
+import './when_does_noindex.test.mjs';

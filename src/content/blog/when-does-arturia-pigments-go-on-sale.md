@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "When Does Arturia Pigments Go On Sale? (Updated 2026)"
 description: "Arturia Pigments goes on sale 3-4 times per year at 50% off ($99). Regular price: $199. Best times: Black Friday and Summer Sale. Arturia account holders sometimes get personal deals down to $49-69."
 pubDate: "2026-06-29"

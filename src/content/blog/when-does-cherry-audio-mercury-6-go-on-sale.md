@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "When Does Cherry Audio Mercury-6 Go On Sale? (Updated 2026)"
 description: "Cherry Audio Mercury-6 regular price: $49. Goes on sale 4-5x per year at 20-41% off. Black Friday 2025 lowest confirmed: $29 (per YouTube/community). Official Cherry Audio October sale: $39."
 pubDate: "2026-06-29"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "When Does Native Instruments Komplete Go On Sale? (Updated 2026)"
 description: "NI Komplete 15 goes on sale twice a year at 50% off (~$299). Summer (June) and Black Friday (November) are the two reliable windows. Thomann's lowest: $266."
 pubDate: "2026-06-29"

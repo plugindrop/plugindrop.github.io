@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "When Does FabFilter Total Bundle Go On Sale? (Updated 2026)"
 description: "FabFilter Total Bundle goes on sale 2-3x per year at 25-30% off (down to $659-$615). Lowest ever: ~$548 at Gear4music Black Friday 2024."
 pubDate: "2026-06-29"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "When Does FabFilter Pro-Q 4 Go On Sale? (Updated 2026)"
 description: "FabFilter Pro-Q 4 goes on sale twice a year (Summer, Black Friday) at 25% off (~$149). Black Friday 2025 lowest ever: ~$104 at Plugin Boutique. Regular price: $199."
 pubDate: "2026-06-29"

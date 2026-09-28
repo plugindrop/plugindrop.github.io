@@ -58,7 +58,7 @@ export async function getStaticPaths() {
   const _plugins = _data.plugins ?? {};
   const _bundles = _data.bundles ?? {};
 
-  const allPosts = await getCollection('blog', (p) => !p.data.draft);
+  const allPosts = await getCollection('blog', (p) => !p.data.draft && !p.data.noindex);
 
   function findGuides(productName: string): Array<{ title: string; slug: string }> {
     const words = productName.toLowerCase().split(/[\s\-\/]+/).filter((w) => w.length >= 4);

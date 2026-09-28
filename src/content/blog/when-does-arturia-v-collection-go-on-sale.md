@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "When Does Arturia V Collection Go On Sale? (Updated 2026)"
 description: "Arturia V Collection (current: V10) goes on sale 3-4 times per year at 50% off ($299 for new users). Best times: Summer, Black Friday, Arturia Week (January). Upgrade from 1 Arturia product: $149."
 pubDate: "2026-06-29"

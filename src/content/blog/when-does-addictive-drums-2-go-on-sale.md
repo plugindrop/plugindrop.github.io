@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "When Does XLN Audio Addictive Drums 2 Go On Sale? (Updated 2026)"
 description: "XLN Audio Addictive Drums 2 Custom Collection regular price: $169-179. Goes on sale 3-4x per year at 40-58% off. Lowest ever: $70 (Thomann, Nov 23 2024)."
 pubDate: "2026-06-29"

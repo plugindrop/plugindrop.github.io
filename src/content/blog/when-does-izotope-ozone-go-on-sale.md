@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "When Does iZotope Ozone Go On Sale? (Updated 2026)"
 description: "iZotope Ozone 12 Advanced regular price: $499. Goes on sale 2-3x per year at 40-60% off. Ozone 11 (previous version) has hit $99 at ADSR. Black Friday and NI Summer Sale are the best windows."
 pubDate: "2026-06-29"

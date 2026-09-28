@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "When Does FabFilter Pro-C 2 Go On Sale? (Updated 2026)"
 description: "FabFilter Pro-C 2 goes on sale 3-4x per year at 25-30% off (~$134-$125). Best times: Summer (June), Black Friday (November), FabFilter Anniversary (December)."
 pubDate: "2026-06-29"

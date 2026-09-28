@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "When Does Baby Audio Smooth Operator Pro Go On Sale? (Updated 2026)"
 description: "Baby Audio Smooth Operator Pro regular price: $129. Black Friday lowest: $69 at PB (BF 2025). Lowest ever: $59-66 at Gear4music. Smart spectral balancer on sale 2-3x/year."
 pubDate: "2026-06-29"

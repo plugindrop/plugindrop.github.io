@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "When Does SoundToys Little AlterBoy Go On Sale? (Updated 2026)"
 description: "SoundToys Little AlterBoy regular price: $99. Goes on sale 2-3x per year at 50-65% off. Lowest ever: $34 (Thomann, Dec 2024). Black Friday brings it to $49 at SoundToys direct."
 pubDate: "2026-06-29"
