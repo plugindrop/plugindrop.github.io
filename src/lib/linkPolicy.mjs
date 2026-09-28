@@ -1,12 +1,21 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import yaml from 'js-yaml';
 import { detectBrand } from './brands.mjs';
+import { countIndexableBrandProducts } from './brandIndexability.mjs';
 import {
   indexablePricePagePaths, isBrandPageIndexable, isTagPageIndexable,
   slugifyProduct, slugifyTag,
 } from './indexPolicy.mjs';
 
-const sourceDir = path.resolve(process.cwd(), 'src');
+let moduleDir = path.dirname(fileURLToPath(import.meta.url));
+while (!fs.existsSync(path.join(moduleDir, 'src', 'content', 'blog'))) {
+  const parent = path.dirname(moduleDir);
+  if (parent === moduleDir) throw new Error('Cannot locate site source from linkPolicy.mjs');
+  moduleDir = parent;
+}
+const sourceDir = path.join(moduleDir, 'src');
 const dataDir = path.join(sourceDir, 'data');
 const blogDir = path.join(sourceDir, 'content', 'blog');
 const priceData = JSON.parse(fs.readFileSync(path.join(dataDir, 'price_history.json'), 'utf8'));
@@ -16,33 +25,41 @@ const unlistedCompare = new Set(manifest.pairs.filter(p => p.status === 'unliste
 
 const posts = new Map();
 const tagCounts = new Map();
+export function parsePostFrontmatter(source) {
+  const frontmatter = source.match(/^---\r?\n([\s\S]*?)\r?\n---/)?.[1] ?? '';
+  return yaml.load(frontmatter) ?? {};
+}
 for (const name of fs.readdirSync(blogDir)) {
   if (!/\.mdx?$/.test(name)) continue;
   const source = fs.readFileSync(path.join(blogDir, name), 'utf8');
-  const frontmatter = source.match(/^---\r?\n([\s\S]*?)\r?\n---/)?.[1] ?? '';
-  const hidden = /^(?:noindex|draft):\s*true\s*$/m.test(frontmatter);
+  const metadata = parsePostFrontmatter(source);
+  const hidden = metadata.noindex === true || metadata.draft === true;
   posts.set(name.replace(/\.mdx?$/, ''), !hidden);
   if (hidden) continue;
-  const tags = frontmatter.match(/^tags:\s*\[([^\]]*)\]/m)?.[1];
-  if (tags) for (const tag of tags.split(',').map(s => s.trim().replace(/^['"]|['"]$/g, ''))) {
-    if (!tag) continue;
+  const tags = Array.isArray(metadata.tags) ? metadata.tags : [];
+  for (const tag of tags) {
+    if (typeof tag !== 'string' || !tag) continue;
     const slug = slugifyTag(tag);
     tagCounts.set(slug, (tagCounts.get(slug) ?? 0) + 1);
   }
 }
 
-const brandCounts = new Map();
+const brandProducts = new Map();
 for (const entries of [priceData.plugins ?? {}, priceData.bundles ?? {}]) {
   for (const [name, entry] of Object.entries(entries)) {
     const brand = detectBrand(name, entry.notes);
     if (!brand) continue;
     const slug = slugifyProduct(brand);
-    brandCounts.set(slug, (brandCounts.get(slug) ?? 0) + 1);
+    const products = brandProducts.get(slug) ?? [];
+    products.push({ entry });
+    brandProducts.set(slug, products);
   }
 }
+const brandCounts = new Map([...brandProducts].map(([slug, products]) => [slug, countIndexableBrandProducts(products)]));
 
-/** Return false only for known noindex destinations; leave other URLs untouched. */
-export function isInternalPathIndexable(href) {
+/** Build policy decisions from explicit data for deterministic tests. */
+export function createLinkPolicy({ posts, tagCounts, brandCounts, indexablePrices, unlistedCompare }) {
+  function isInternalPathIndexable(href) {
   if (typeof href !== 'string' || !href.startsWith('/') || href.startsWith('//')) return true;
   const path = href.split(/[?#]/, 1)[0].replace(/\/$/, '') + '/';
   if (path.startsWith('/go/')) return true;
@@ -52,11 +69,15 @@ export function isInternalPathIndexable(href) {
   if (path.startsWith('/brands/') && path !== '/brands/') return isBrandPageIndexable(brandCounts.get(path.slice(8, -1)) ?? 0);
   if (path.startsWith('/compare/') && path !== '/compare/') return !unlistedCompare.has(path);
   return true;
-}
+  }
 
-/** A markdown file with noindex/draft frontmatter keeps all its outgoing links. */
-export function isNoindexMarkdownFile(file) {
+  function isNoindexMarkdownFile(file) {
   if (!file) return false;
   const name = String(file).replaceAll('\\', '/').split('/').at(-1)?.replace(/\.mdx?$/, '');
   return posts.get(name) === false;
+  }
+  return { isInternalPathIndexable, isNoindexMarkdownFile };
 }
+
+const defaultPolicy = createLinkPolicy({ posts, tagCounts, brandCounts, indexablePrices, unlistedCompare });
+export const { isInternalPathIndexable, isNoindexMarkdownFile } = defaultPolicy;
