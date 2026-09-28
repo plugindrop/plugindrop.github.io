@@ -131,3 +131,17 @@ Spire earns its keep in one lane — electro house, big room, and dubstep-adjace
 
 This article brings together publicly available product information and linked community discussions. We have not tested the product hands-on. Prices come from PluginDrop's tracking. See our [editorial policy](/editorial-policy/) for how we assess sources.
 <!-- pd:method:end -->
+
+<!-- pd:price-records:start -->
+## PluginDrop price record for Reveal Sound Spire
+
+Typical regular: $189. Typical sale: $76.
+We recorded 3 sale periods. Most recent observed price: $76 on 2026-09-26. At or below typical sale.
+
+Recorded sale periods:
+- 2026-09-26
+- 2026-08-17 to 2026-08-31
+- 2026-07-11 to 2026-08-01
+
+These are observed checks; dates between checks may be missing.
+<!-- pd:price-records:end -->

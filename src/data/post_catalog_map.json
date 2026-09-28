@@ -38,10 +38,12 @@
     "products": []
   },
   "arturia-v-collection-review": {
-    "category": null,
+    "category": "Bundle",
     "confidence": "exact",
     "kind": "review",
-    "products": []
+    "products": [
+      "Arturia V Collection 11 Pro"
+    ]
   },
   "arturia-vs-native-instruments-komplete": {
     "category": "Bundle",
@@ -1496,7 +1498,9 @@
     "category": "Synth",
     "confidence": "exact",
     "kind": "review",
-    "products": []
+    "products": [
+      "Reveal Sound Spire"
+    ]
   },
   "spitfire-labs-free-sample-library": {
     "category": null,
