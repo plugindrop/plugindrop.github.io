@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T03:50:41Z",
+  "generated_at": "2026-09-28T04:06:51Z",
   "source_last_updated": "2026-09-27",
   "policy": {
     "min_observations": 3,
@@ -30,7 +30,7 @@
       "selection": {
         "product_count": 5,
         "article_count": 23,
-        "median_observations": 10.0
+        "median_observations": 9.5
       }
     },
     {
@@ -68,7 +68,7 @@
       "selection": {
         "product_count": 1,
         "article_count": 6,
-        "median_observations": 15.0
+        "median_observations": 15.5
       }
     },
     {
@@ -86,7 +86,7 @@
       "selection": {
         "product_count": 3,
         "article_count": 8,
-        "median_observations": 11.0
+        "median_observations": 11.5
       }
     },
     {
@@ -99,6 +99,7 @@
         "BEAM 2.0",
         "Baby Audio Super VHS",
         "Baby Audio Transit 2",
+        "Bismuth",
         "Eventide MicroPitch",
         "Eventide MicroPitch Immersive",
         "Eventide UltraTap",
@@ -119,7 +120,7 @@
         "when-does-ujam-transit-go-on-sale"
       ],
       "selection": {
-        "product_count": 18,
+        "product_count": 19,
         "article_count": 7,
         "median_observations": 17.0
       }
@@ -181,7 +182,7 @@
       "selection": {
         "product_count": 1,
         "article_count": 6,
-        "median_observations": 16.5
+        "median_observations": 17.0
       }
     },
     {
@@ -189,11 +190,13 @@
       "label": "Mastering",
       "status": "unlisted",
       "first_published": "2026-09-28",
-      "products": [],
+      "products": [
+        "Weiss MM-1"
+      ],
       "editorial_post": "best-compressor-plugins-2026",
       "when_does_posts": [],
       "selection": {
-        "product_count": 0,
+        "product_count": 1,
         "article_count": 8,
         "median_observations": 7.5
       }
@@ -299,7 +302,7 @@
       "selection": {
         "product_count": 1,
         "article_count": 0,
-        "median_observations": 19.0
+        "median_observations": 18.5
       }
     }
   ],
