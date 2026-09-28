@@ -1,0 +1,28 @@
+---
+import priceData from '../data/price_history.json';
+import { formatPrice } from '../lib/priceUtils.ts';
+
+interface Props { product: string }
+const { product } = Astro.props;
+const entries = { ...priceData.bundles, ...priceData.plugins } as Record<string, any>;
+const entry = entries[product];
+const vendorFiles = import.meta.glob('../data/vendor_facts.json', { eager: true, import: 'default' });
+const vendor = ((Object.values(vendorFiles)[0] ?? {}) as Record<string, Record<string, any>>)[product];
+const latest = vendor?.latest_version?.value ?? null;
+const released = vendor?.release_date?.value ?? null;
+const changes = (entry?.history ?? []).filter((row: any) => typeof row?.regular === 'number' && Number.isFinite(row.regular))
+  .sort((a: any, b: any) => a.date.localeCompare(b.date))
+  .filter((row: any, index: number, rows: any[]) => index > 0 && row.regular !== rows[index - 1].regular);
+const show = latest != null || released != null || changes.length > 0;
+---
+{show && <section class="version-history" data-version-history>
+  <h2>Version history for {product}</h2>
+  {latest != null && <p>Latest version: {latest}</p>}
+  {released != null && <p>Release date: {released}</p>}
+  {changes.length > 0 && <><h3>Recorded list price changes</h3><ul>
+    {changes.map((row: any) => <li><time datetime={row.date}>{row.date}</time>: {formatPrice(row.regular)}</li>)}
+  </ul></>}
+</section>}
+<style>
+  .version-history { margin: 1.5rem 0; }
+</style>

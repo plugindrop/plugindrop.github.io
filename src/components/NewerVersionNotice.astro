@@ -1,0 +1,28 @@
+---
+import priceData from '../data/price_history.json';
+import { isPricePageIndexable, slugifyProduct } from '../lib/indexPolicy.mjs';
+import { currentPriceOf, formatPrice } from '../lib/priceUtils.ts';
+
+interface Props { product: string }
+const { product } = Astro.props;
+const entries = { ...priceData.bundles, ...priceData.plugins } as Record<string, any>;
+const entry = entries[product];
+const price = entry ? currentPriceOf(entry) : null;
+const vendorFiles = import.meta.glob('../data/vendor_facts.json', { eager: true, import: 'default' });
+const vendor = ((Object.values(vendorFiles)[0] ?? {}) as Record<string, Record<string, any>>)[product];
+const change = vendor?.changes ?? vendor?.changelog ?? vendor?.change_log;
+const quote = typeof change?.quote === 'string' ? change.quote : null;
+const source = typeof change?.source_url === 'string' ? change.source_url : typeof change?.url === 'string' ? change.url : null;
+---
+<aside class="newer-version-notice" data-newer-version-notice>
+  <strong>Newer version: {product}</strong>
+  <p>Our price record for {product}: {price === null ? 'No price recorded yet.' : formatPrice(price)}
+    {entry && isPricePageIndexable(entry) && <a href={`/plugin-prices/${slugifyProduct(product)}/`}>View price history</a>}
+  </p>
+  {quote && <p>Manufacturer's changes: <q>{quote}</q>{source && <> <a href={source}>Source</a></>}</p>}
+</aside>
+<style>
+  .newer-version-notice { margin: 1.5rem 0; padding: 1rem; border-left: .25rem solid var(--border); background: var(--bg-highest); }
+  .newer-version-notice p { margin: .5rem 0 0; }
+  .newer-version-notice a { margin-left: .4rem; }
+</style>

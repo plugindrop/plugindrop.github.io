@@ -15,6 +15,9 @@ import DealFactBox from '../components/DealFactBox.astro';
 import FactsTable from '../components/FactsTable.astro';
 import FactCard from '../components/FactCard.astro';
 import DealMath from '../components/DealMath.astro';
+import NewerVersionNotice from '../components/NewerVersionNotice.astro';
+import VersionHistory from '../components/VersionHistory.astro';
+import supersededReviews from '../data/superseded_reviews.json';
 import postCatalogMap from '../data/post_catalog_map.json';
 import manifestRaw from '../data/programmatic_pages.json';
 import { categoryForProduct } from '../lib/categoryInference.mjs';
@@ -78,6 +81,7 @@ const priceData = priceDataRaw as { last_updated: string; bundles: Record<string
 const _allTrackerEntries = { ...priceData.bundles, ...(priceData.plugins ?? {}) };
 const _catalog = (postCatalogMap as Record<string, { kind: string; products: string[] }>)[currentSlug];
 const _catalogProducts = _catalog?.products ?? [];
+const _newerProduct = (supersededReviews as Record<string, string>)[currentSlug];
 const _bundleNames = new Set(Object.keys(priceData.bundles));
 const _categoryCounts = new Map<string, number>();
 for (const name of _catalogProducts) {
@@ -1127,7 +1131,9 @@ const featuredDeals = isEvergreen ? allPosts
 						{_showFactsTable ? <FactsTable products={_catalogProducts} slug={currentSlug} /> : <FactCard product={_catalogProducts[0]} slug={currentSlug} />}
 						<DealMath names={_catalogProducts} entries={_catalogProducts.map((name) => _allTrackerEntries[name])} />
 					</section>}
+					{_newerProduct && <NewerVersionNotice product={_newerProduct} />}
 					<slot />
+					{_catalogProducts.length === 1 && <VersionHistory product={_catalogProducts[0]} />}
 
 					{priceTrack.length > 0 && (
 						<PriceTracker pluginNames={priceTrack} />
