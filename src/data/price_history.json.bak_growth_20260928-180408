@@ -34049,15 +34049,6 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-10-04"
-        },
-        {
-          "date": "2026-09-28",
-          "sale": 79.0,
-          "regular": 99.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/melody-sauce-3.jpg"
@@ -37144,15 +37135,6 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-09-30"
-        },
-        {
-          "date": "2026-09-28",
-          "sale": 39.0,
-          "regular": 99.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/moog-mariana.jpg"
@@ -46232,15 +46214,6 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-10-02"
-        },
-        {
-          "date": "2026-09-28",
-          "sale": 76.0,
-          "regular": 189.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/reveal-sound-spire.jpg"
@@ -49025,15 +48998,6 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-10-04"
-        },
-        {
-          "date": "2026-09-28",
-          "sale": 69.0,
-          "regular": 199.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ],
       "category": "Compressor"
@@ -56504,15 +56468,6 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-09-30"
-        },
-        {
-          "date": "2026-09-28",
-          "sale": 25.0,
-          "regular": 80.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/sublab-xl.jpg"
@@ -58592,15 +58547,6 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-10-04"
-        },
-        {
-          "date": "2026-09-28",
-          "sale": 69.0,
-          "regular": 199.0,
-          "source": "pb_deals_poll",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/tube-tech-cl-1b-mk-ii.jpg"
@@ -77614,38 +77560,6 @@
     },
     "United Plugins Mirror": {
       "pb_url": "/product/2-Effects/10-Delay/8658-Mirror",
-      "typical_regular": null,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "auto-intake 2026-09-28",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-09-28",
-          "regular": null,
-          "sale": null,
-          "source": "deal_intake"
-        }
-      ]
-    },
-    "Ample Sound Ample Guitar M": {
-      "pb_url": "/product/1-Instruments/64-Virtual-Instruments/15078-Ample-Guitar-M",
-      "typical_regular": null,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "auto-intake 2026-09-28",
-      "category": null,
-      "history": [
-        {
-          "date": "2026-09-28",
-          "regular": null,
-          "sale": null,
-          "source": "deal_intake"
-        }
-      ]
-    },
-    "Ample Guitar M Lite II": {
-      "pb_url": "/product/1-Instruments/64-Virtual-Instrument/4520-Ample-Guitar-M-Lite-II",
       "typical_regular": null,
       "typical_sale": null,
       "all_time_low": null,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27",
+  "generated_at": "2026-09-28",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-09",
       "label": "September 2026",
       "is_current": true,
-      "generated_at": "2026-09-27",
-      "observations": 3122,
-      "products_tracked": 506,
-      "products_on_sale": 267,
-      "on_sale_pct": 52.8,
-      "avg_discount_pct": 58.0,
-      "median_discount_pct": 60,
+      "generated_at": "2026-09-28",
+      "observations": 3254,
+      "products_tracked": 513,
+      "products_on_sale": 276,
+      "on_sale_pct": 53.8,
+      "avg_discount_pct": 57.7,
+      "median_discount_pct": 54.5,
       "discount_buckets": {
         "1-19": 12,
-        "20-39": 41,
-        "40-59": 80,
-        "60+": 134
+        "20-39": 42,
+        "40-59": 86,
+        "60+": 136
       },
-      "all_time_low_hits": 232,
+      "all_time_low_hits": 241,
       "deepest_discounts": [
         {
           "name": "Platinum",
@@ -286,10 +286,10 @@
       "by_category": [
         {
           "category": "Other",
-          "tracked": 348,
-          "on_sale": 204,
-          "on_sale_pct": 58.6,
-          "avg_discount_pct": 60.7
+          "tracked": 355,
+          "on_sale": 213,
+          "on_sale_pct": 60.0,
+          "avg_discount_pct": 60.2
         },
         {
           "category": "Synth",
@@ -393,10 +393,10 @@
       "by_brand": [
         {
           "category": "Other",
-          "tracked": 157,
-          "on_sale": 114,
-          "on_sale_pct": 72.6,
-          "avg_discount_pct": 61.6
+          "tracked": 164,
+          "on_sale": 123,
+          "on_sale_pct": 75.0,
+          "avg_discount_pct": 60.6
         },
         {
           "category": "Universal Audio",
@@ -459,7 +459,7 @@
           "tracked": 13,
           "on_sale": 3,
           "on_sale_pct": 23.1,
-          "avg_discount_pct": 46.7
+          "avg_discount_pct": 49.3
         },
         {
           "category": "iZotope",
@@ -632,16 +632,16 @@
       ],
       "vs_previous_month": {
         "month": "2026-08",
-        "on_sale_pct_delta": -7.9,
-        "avg_discount_pct_delta": 4.6,
-        "products_tracked_delta": 81
+        "on_sale_pct_delta": -6.9,
+        "avg_discount_pct_delta": 4.3,
+        "products_tracked_delta": 88
       }
     },
     {
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-09-27",
+      "generated_at": "2026-09-28",
       "observations": 3587,
       "products_tracked": 425,
       "products_on_sale": 258,
@@ -654,7 +654,7 @@
         "40-59": 91,
         "60+": 95
       },
-      "all_time_low_hits": 204,
+      "all_time_low_hits": 203,
       "deepest_discounts": [
         {
           "name": "Platinum",
@@ -1237,7 +1237,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-09-27",
+      "generated_at": "2026-09-28",
       "observations": 1968,
       "products_tracked": 289,
       "products_on_sale": 142,
