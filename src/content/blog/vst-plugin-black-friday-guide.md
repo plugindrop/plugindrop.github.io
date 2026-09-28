@@ -223,3 +223,9 @@ FabFilter typically has a second sale window around the winter holidays. Arturia
 
 **Is there anything that goes deeper than 50% off?**
 Waves routinely hits 80–90% during BF (though they also discount this heavily the rest of the year). Spitfire with the subscriber code gets into the 60–70% range. Beyond that, look for third-party retailers like Audiodeluxe, which occasionally offer site-specific deals that beat the official brand price.
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

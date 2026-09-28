@@ -276,3 +276,9 @@ A: When you need something specific: hardware-accurate machine emulation (EchoBo
 - [Best Reverb Plugins 2026: Pair with Delay for Depth](/posts/best-free-reverb-vst-plugins/)
 - [12 Best Free Compressor VST Plugins in 2026](/posts/best-free-compressor-vst-plugins/)
 - [Best Free EQ VST Plugins 2026](/posts/best-free-eq-vst-plugins/)
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

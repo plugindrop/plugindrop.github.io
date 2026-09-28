@@ -332,3 +332,9 @@ Arturia V Collection 11 remains the most comprehensive and musically credible vi
 ---
 
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
+
+<!-- pd:method:start -->
+## How this article was put together
+
+This article brings together publicly available product information and linked community discussions. We have not tested the product hands-on. Prices come from PluginDrop's tracking. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

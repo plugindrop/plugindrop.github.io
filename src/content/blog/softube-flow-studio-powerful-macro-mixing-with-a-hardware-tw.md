@@ -134,3 +134,9 @@ Softube Flow Studio offers a genuinely different approach to in-the-box mixing â
 ---
 
 *Pricing and availability details in this article are cross-checked against PluginDrop's own price history tracking of Plugin Boutique listings, and are updated as deals and stock change.*
+
+<!-- pd:method:start -->
+## How this article was put together
+
+This article brings together publicly available product information and linked community discussions. We have not tested the product hands-on. Prices come from PluginDrop's tracking. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

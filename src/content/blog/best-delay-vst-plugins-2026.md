@@ -384,3 +384,9 @@ A: For most home studio producers, a combination of free plugins — TAL-Dub-3, 
 
 **Q: Should I buy delay plugins at full price or wait for a sale?**
 A: It depends on the developer. Waves and SoundToys discount frequently enough that waiting almost always pays off unless you need the plugin immediately for an active session. Valhalla DSP and FabFilter rarely discount at all, so their list prices are close to as good as it gets — buy those when you need them rather than waiting indefinitely. See the "When to Buy" section above for a full breakdown by plugin.
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

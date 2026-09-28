@@ -420,6 +420,12 @@ The free plugins above cover most production needs. When you're ready to invest,
 
 ---
 
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->
+
 ## Related Guides
 - [FL Studio vs Ableton Live 2026: Which DAW Should You Buy?](/posts/ableton-live-vs-fl-studio-2026/)
 - [Serum vs Vital 2026: Which Wavetable Synth Should You Buy?](/posts/serum-vs-vital-comparison/)

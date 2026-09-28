@@ -94,3 +94,9 @@ If the sound design angle appeals, now is a reasonable time to move on it.
 - [Best Free Reverb VST Plugins](/posts/best-free-reverb-vst-plugins/)
 - [Best Reverb Plugins 2026](/posts/best-free-reverb-vst-plugins/)
 - [Best Delay VST Plugins 2026](/posts/best-delay-vst-plugins-2026/)
+
+<!-- pd:method:start -->
+## How this article was put together
+
+This article brings together publicly available product information and linked community discussions. We have not tested the product hands-on. Prices come from PluginDrop's tracking. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

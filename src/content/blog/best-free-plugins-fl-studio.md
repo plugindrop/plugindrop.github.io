@@ -457,6 +457,12 @@ The pattern worth remembering: FabFilter and Valhalla almost never move on price
 
 ---
 
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->
+
 ## Related Guides
 - [FL Studio vs Ableton Live 2026: Which DAW Should You Buy?](/posts/ableton-live-vs-fl-studio-2026/)
 - [Mastering Plugin Chain 2026: Complete 6-Step Setup](/posts/mastering-chain-plugins/)

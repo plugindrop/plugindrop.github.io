@@ -356,3 +356,9 @@ A: It depends heavily on the developer. Waves discounts near-continuously, Sound
 - [12 Best Free VST Plugins for Ableton Live in 2026](/posts/best-free-plugins-ableton/)
 - [15 Best Free VST Plugins for FL Studio in 2026](/posts/best-free-plugins-fl-studio/)
 - [14 Best Free Synth VST Plugins in 2026 (Wavetable, FM, Analog)](/posts/best-free-synth-plugins/)
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

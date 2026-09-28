@@ -163,3 +163,9 @@ Ten years in, Serum is still worth buying if you're serious about synthesis — 
 - [Vital Synthesizer Review 2026: The Best Free Alternative](/posts/vital-synthesizer-review-2026/)
 - [Phase Plant vs Serum: Which Wavetable Synth Wins?](/posts/phase-plant-vs-serum/)
 - [Serum vs Vital: Full Comparison](/posts/serum-vs-vital-comparison/)
+
+<!-- pd:method:start -->
+## How this article was put together
+
+This article brings together publicly available product information and linked community discussions. We have not tested the product hands-on. Prices come from PluginDrop's tracking. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

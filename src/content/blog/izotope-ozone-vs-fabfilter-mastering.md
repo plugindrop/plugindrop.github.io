@@ -207,3 +207,20 @@ A: iZotope regularly offers free trials of Ozone and runs significant discounts 
 - [Best Free Mastering Plugins 2026](/posts/best-free-mastering-plugins/)
 - [Mastering Chain Plugins: Step-by-Step Pro Setup](/posts/mastering-chain-plugins/)
 - [Best Limiter Plugins for Mastering 2026](/posts/best-limiter-plugins-mastering/)
+
+<!-- pd:price-records:start -->
+## PluginDrop price records for the products in this list
+
+| Product | Typical regular | Typical sale | Sales recorded | Latest sale period | Today's price position |
+| --- | ---: | ---: | ---: | --- | --- |
+| FabFilter Pro-L 2 | $179 | $134 | 2 | 2024-11-22 | At or above typical regular |
+| FabFilter Total Bundle | $1,176 | $882 | 3 | 2026-07-12 to 2026-09-25 | Between typical sale and regular |
+
+Prices reflect recorded checks, not every day of a sale.
+<!-- pd:price-records:end -->
+
+<!-- pd:method:start -->
+## How this list was made
+
+This comparison brings together publicly available feature information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

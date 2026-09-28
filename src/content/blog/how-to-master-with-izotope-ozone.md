@@ -226,3 +226,9 @@ For most independent producers in 2026, Ozone Standard at $199 with the workflow
 - [iZotope Ozone 12 Review 2026: Best All-in-One Mastering Suite?](/posts/izotope-ozone-12-review/)
 - [10 Best Mastering Limiter Plugins in 2026 (Ranked)](/posts/best-limiter-plugins-mastering/)
 - [15 Best Mixing Plugins in 2026 (Free & Paid, Ranked)](/posts/best-mixing-plugins-2026/)
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

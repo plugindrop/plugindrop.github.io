@@ -77,3 +77,9 @@ If none of that applies to you, stay free. Most producers doing electronic, hip-
 **Wait for a bundle if:** you're eyeing more than just Kontakt — Komplete bundles frequently include Kontakt plus a large library set for less than Kontakt alone at list price. See When Does Komplete Go on Sale? to time it.
 
 **Stay free indefinitely if:** your library sources are SFZ, DecentSampler `.dspreset`, or your own recorded multisamples. There's no upgrade path to chase here — Decent Sampler and sforzando aren't "free trials" of anything, they're the permanent tool for that format.
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

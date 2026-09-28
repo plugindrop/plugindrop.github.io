@@ -242,3 +242,9 @@ Buy it standalone if you're building selectively, or get the Total Bundle if you
 - [Free Alternative to FabFilter Pro-Q 4](/posts/free-alternative-to-fabfilter-pro-q/)
 - [Best EQ Plugins 2026: Top Options Ranked](/posts/best-eq-plugins-2026/)
 - [Best Mixing Plugins 2026: Full Production Suite](/posts/best-mixing-plugins-2026/)
+
+<!-- pd:method:start -->
+## How this article was put together
+
+This article brings together publicly available product information and linked community discussions. We have not tested the product hands-on. Prices come from PluginDrop's tracking. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

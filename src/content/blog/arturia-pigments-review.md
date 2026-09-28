@@ -230,3 +230,9 @@ A: Moderately, depending on the patch. Wavetable and virtual analog patches are 
 - [Arturia vs Native Instruments Komplete: Which Wins?](/posts/arturia-vs-native-instruments-komplete/)
 - [Best Synth VST Plugins 2026](/posts/best-synth-vst-plugins-2026/)
 - [Arturia V Collection Review 2026](/posts/arturia-v-collection-review/)
+
+<!-- pd:method:start -->
+## How this article was put together
+
+This article brings together publicly available product information and linked community discussions. We have not tested the product hands-on. Prices come from PluginDrop's tracking. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

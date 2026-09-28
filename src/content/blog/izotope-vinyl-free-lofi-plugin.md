@@ -82,3 +82,9 @@ The original free lo-fi plugin. Over 20 years of service. Still free. Still rele
 - [Best Tape Saturation Plugins](/posts/best-tape-saturation-plugins/)
 - [Best Free VST Plugins of 2026](/posts/best-free-vst-plugins-2026/)
 - [Best Free Plugins for Ableton Live](/posts/best-free-plugins-ableton/)
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

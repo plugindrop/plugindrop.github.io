@@ -379,6 +379,12 @@ A: Cherry Audio Memorymode at ~$39 — and it lands near ~$25 in seasonal bundle
 
 ---
 
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->
+
 ## Final Thoughts
 
 For most producers, the free tier — OB-Xd, Dexed, and Surge XT — covers enough vintage ground to make serious music without spending anything. When you're ready to invest, u-he Diva is the defensible top pick for producers who need circuit-level accuracy, and Arturia V Collection 11 is the most efficient path to a full vintage keyboard library in one purchase.

@@ -253,3 +253,9 @@ A: Master Assistant is genuinely useful as a starting point generator — it sav
 - [Best Free Mastering Plugins 2026](/posts/best-free-mastering-plugins/)
 - [Mastering Chain Plugins: Step-by-Step Pro Setup](/posts/mastering-chain-plugins/)
 - [Best Limiter Plugins for Mastering 2026](/posts/best-limiter-plugins-mastering/)
+
+<!-- pd:method:start -->
+## How this article was put together
+
+This article brings together publicly available product information and linked community discussions. We have not tested the product hands-on. Prices come from PluginDrop's tracking. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

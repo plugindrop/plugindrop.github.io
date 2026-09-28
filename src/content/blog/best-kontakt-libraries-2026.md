@@ -389,3 +389,9 @@ Usually not immediately. If you only need Kontakt access for a single specific l
 
 **How often do these prices actually change?**
 Spitfire and Native Instruments both run several promotional windows a year (Black Friday, New Year, and at least one mid-year sale), typically in the 25–50% range depending on the product. Boutique developers like Heavyocity and 8Dio run less predictable but often deeper flash sales. ProjectSAM and Strezov Sampling discount less frequently, which is part of why they're listed above as "buy now" rather than "wait for sale" picks.
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

@@ -211,3 +211,9 @@ Neural DSP Archetype does the heaviest lifting in this chain — hardware-accura
 ---
 
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

@@ -351,3 +351,9 @@ A: Yes, and it's common practice on drum buses and lead vocal chains. The differ
 - [15 Best Free VST Plugins for FL Studio in 2026](/posts/best-free-plugins-fl-studio/)
 - [When Does FabFilter Pro-L 2 Go on Sale?](/posts/when-does-fabfilter-pro-l-2-go-on-sale/)
 - [When Does iZotope Ozone Go on Sale?](/posts/when-does-izotope-ozone-go-on-sale/)
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

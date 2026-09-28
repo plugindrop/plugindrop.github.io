@@ -303,3 +303,9 @@ A: Bundles make sense once you know you'll use most of what's included — other
 - [Mastering Chain Plugins: Step-by-Step Pro Setup](/posts/mastering-chain-plugins/)
 - [Best Stereo Widening Plugins](/posts/best-stereo-widener-plugins/)
 - [Best Free Mixing Plugins 2026](/posts/best-free-eq-vst-plugins/)
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

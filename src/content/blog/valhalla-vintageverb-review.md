@@ -205,3 +205,9 @@ Valhalla VintageVerb ships 18 reverb algorithms and three color modes for $50, w
 - [Best Reverb Plugins 2026: Full Paid Comparison](/posts/best-free-reverb-vst-plugins/)
 - [Free Alternative to Valhalla Reverb](/posts/free-alternative-to-valhalla-reverb/)
 - [Best Mixing Plugins 2026: Full Production Suite](/posts/best-mixing-plugins-2026/)
+
+<!-- pd:method:start -->
+## How this article was put together
+
+This article brings together publicly available product information and linked community discussions. We have not tested the product hands-on. Prices come from PluginDrop's tracking. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

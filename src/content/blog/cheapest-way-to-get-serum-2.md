@@ -84,3 +84,9 @@ Given there's no confirmed recurring sale on this title, paying the current $249
 The $99 and $189 figures come from historical research, not our own automated tracker checks, and we have not independently confirmed either price recurs. For the current live price, use the retailer link or the live tracker page linked above.
 
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

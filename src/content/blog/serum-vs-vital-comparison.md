@@ -237,3 +237,9 @@ A: No — Serum does not offer a free trial, though Splice subscribers can acces
 - [Is Serum Worth It in 2026?](/posts/is-serum-worth-it/)
 - [14 Best Free Synth VST Plugins in 2026 (Try Before You Buy)](/posts/best-free-synth-plugins/)
 - [Phase Plant vs Serum: Which Wavetable Synth Wins in 2026?](/posts/phase-plant-vs-serum/)
+
+<!-- pd:method:start -->
+## How this list was made
+
+This comparison brings together publicly available feature information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

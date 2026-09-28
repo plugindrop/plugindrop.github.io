@@ -115,3 +115,9 @@ Free covers 80% of production needs. Upgrade when you hit a specific workflow li
 - [Best Free VST Plugins of 2026](/posts/best-free-vst-plugins-2026/)
 - [Best Free Plugins for Ableton Live](/posts/best-free-plugins-ableton/)
 - [Best Free Synth Plugins of 2026](/posts/best-free-synth-plugins/)
+
+<!-- pd:method:start -->
+## How this list was made
+
+This comparison brings together publicly available feature information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

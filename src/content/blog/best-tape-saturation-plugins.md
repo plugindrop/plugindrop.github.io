@@ -334,3 +334,9 @@ A: Yes, and the use case changes which plugin makes the most sense. On individua
 
 **Q: Is it worth buying more than one tape saturation plugin, or should I pick just one?**
 A: For most bedroom producers, one well-chosen plugin covers 90% of use cases — this is why Chow Tape Model or RC-20 Retro Color, depending on genre, are the most frequently recommended starting points. Buying a second plugin makes sense only when you have a specific gap: for example, starting with RC-20 for lo-fi character but adding Slate VTM or UAD Studer A800 specifically for transparent mix bus glue, since RC-20's modules are tuned for aesthetic effect rather than subtle cohesion. Don't buy a second or third tape plugin before you've spent real time with your first one — most of the "I need another saturation plugin" impulse is solved by learning the parameters on the one you already own.
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

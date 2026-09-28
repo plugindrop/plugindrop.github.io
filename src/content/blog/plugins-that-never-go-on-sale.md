@@ -103,3 +103,9 @@ A: Not on a recurring basis. Xfer's founder has said publicly that the studio do
 ---
 
 Check current prices and full history for any plugin at [PluginDrop's price tracker](/plugin-prices/), or see which plugins go the other way — deep, frequent discounts — in [Plugins You Should Never Pay Full Price For](/posts/plugins-never-pay-full-price/).
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

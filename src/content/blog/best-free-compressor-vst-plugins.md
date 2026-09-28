@@ -416,3 +416,9 @@ When professional work demands more, [FabFilter Pro-C 2 on Plugin Boutique](http
 - [Best Compressor Plugins for Mixing](/posts/best-free-compressor-vst-plugins/)
 - [Best Compressor Plugins for Drums](/posts/best-compressor-plugins-drums/)
 - [Vocal Processing Chain: Best Plugins for Pro Vocals](/posts/vocal-processing-chain-plugins/)
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

@@ -209,3 +209,9 @@ Valhalla Room and VintageVerb are two of the best-value reverb plugins on the ma
 - [Best Reverb Plugins 2026: Full Paid Comparison](/posts/best-free-reverb-vst-plugins/)
 - [Free Alternative to Valhalla Reverb](/posts/free-alternative-to-valhalla-reverb/)
 - [Best Mixing Plugins 2026: Full Production Suite](/posts/best-mixing-plugins-2026/)
+
+<!-- pd:method:start -->
+## How this list was made
+
+This comparison brings together publicly available feature information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

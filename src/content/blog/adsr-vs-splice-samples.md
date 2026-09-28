@@ -183,3 +183,9 @@ A: Community threads that address this question generally land on the same answe
 - [Best Free Lo-Fi Sample Packs 2026](/posts/best-free-lofi-sample-packs/)
 - [Plugin Boutique vs Splice: Which Store Wins?](/posts/plugin-boutique-vs-splice/)
 - [Best VST Plugins for Hip Hop 2026](/posts/best-vst-plugins-hip-hop/)
+
+<!-- pd:method:start -->
+## How this list was made
+
+This comparison brings together publicly available feature information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

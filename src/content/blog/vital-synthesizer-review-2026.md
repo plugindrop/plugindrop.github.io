@@ -200,3 +200,9 @@ A: The paid tiers are content upgrades, not capability unlocks. Producers pay fo
 - [Serum VST Review 2026: Is the Industry Standard Still Worth It?](/posts/serum-vst-review/)
 - [Is Serum Worth It in 2026? Honest Look at the Price](/posts/is-serum-worth-it/)
 - [Best Synth VST Plugins 2026: Top Paid Options Ranked](/posts/best-synth-vst-plugins-2026/)
+
+<!-- pd:method:start -->
+## How this list was made
+
+This comparison brings together publicly available feature information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

@@ -235,3 +235,9 @@ For most producers, iZotope Vinyl and RC-20 Retro Color together cover the full 
 ---
 
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
+
+<!-- pd:method:start -->
+## How this list was made
+
+This list brings together publicly available feature information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

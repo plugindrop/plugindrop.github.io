@@ -180,6 +180,12 @@ The result of this workflow is a mix that sounds genuinely wide on headphones an
 
 ---
 
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->
+
 ## Related Guides
 
 - [iZotope Ozone 12 Review: Is It Worth It for Home Mastering?](/posts/izotope-ozone-12-review/)

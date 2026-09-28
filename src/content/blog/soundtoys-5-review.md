@@ -333,3 +333,22 @@ Soundtoys 5 is not the flashiest release in any given year, but it is one of the
 ---
 
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
+
+<!-- pd:price-records:start -->
+## PluginDrop price record for Soundtoys 5.5
+
+Typical regular: $659. Typical sale: $299.
+We recorded 2 sale periods. Most recent observed price: $599 on 2026-09-25. Between typical sale and regular.
+
+Recorded sale periods:
+- 2026-08-10 to 2026-09-25
+- 2026-07-12 to 2026-08-06
+
+These are observed checks; dates between checks may be missing.
+<!-- pd:price-records:end -->
+
+<!-- pd:method:start -->
+## How this article was put together
+
+This article brings together publicly available product information and linked community discussions. We have not tested the product hands-on. Prices come from PluginDrop's tracking. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

@@ -94,3 +94,9 @@ Based on tracked pricing, this is an everyday price: $199 has held across all 13
 
 - [Complete Drum Mixing Plugin Chain](/posts/drum-mixing-plugin-chain/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

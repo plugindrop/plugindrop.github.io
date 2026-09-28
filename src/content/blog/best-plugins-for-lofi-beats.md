@@ -309,3 +309,9 @@ The starting point for a lo-fi toolkit in 2026 is three downloads: iZotope Vinyl
 - [Best Free Sample Packs 2026](/posts/best-free-sample-packs-2026/)
 - [Best Free Tape Saturation VST 2026](/posts/best-free-tape-saturation-vst/)
 - [How to Mix Vocals at Home: Plugins and Techniques](/posts/how-to-mix-vocals-at-home/)
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

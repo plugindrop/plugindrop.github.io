@@ -213,3 +213,20 @@ Start with Valhalla Supermassive — it's free, it's exceptional, and it will ha
 ---
 
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
+
+<!-- pd:price-records:start -->
+## PluginDrop price records for the products in this list
+
+| Product | Typical regular | Typical sale | Sales recorded | Latest sale period | Today's price position |
+| --- | ---: | ---: | ---: | --- | --- |
+| [Eventide Blackhole](/plugin-prices/eventide-blackhole/) | $99 | $39 | 2 | 2026-08-28 to 2026-09-07 | At or above typical regular |
+| FabFilter Pro-R 2 | $169 | $127 | 3 | 2025-11-15 | At or above typical regular |
+
+Prices reflect recorded checks, not every day of a sale.
+<!-- pd:price-records:end -->
+
+<!-- pd:method:start -->
+## How this list was made
+
+This list brings together publicly available feature information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

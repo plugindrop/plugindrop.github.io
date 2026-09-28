@@ -363,3 +363,9 @@ The best free EQ VST plugin in 2026 is **TDR Nova** — it is dynamic, transpare
 - [iZotope Ozone 12 Review 2026: Best All-in-One Mastering Suite?](/posts/izotope-ozone-12-review/)
 - [10 Best Mastering Limiter Plugins in 2026 (Ranked)](/posts/best-limiter-plugins-mastering/)
 - [Free Alternative to FabFilter Pro-Q 4](/posts/free-alternative-to-fabfilter-pro-q/)
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

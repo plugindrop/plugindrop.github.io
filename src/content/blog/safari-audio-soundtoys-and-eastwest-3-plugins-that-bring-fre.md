@@ -135,3 +135,9 @@ Three respected developers, one convenient place to grab the discounts. Head to 
 ---
 
 *Pricing and availability details in this article are cross-checked against PluginDrop's own price history tracking of Plugin Boutique listings, and are updated as deals and stock change.*
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

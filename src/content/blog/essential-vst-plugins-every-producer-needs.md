@@ -416,3 +416,9 @@ For producers equipping their toolkit in 2026, FabFilter Pro-Q 4 remains the sin
 - [Best Free Compressor VST Plugins 2026](/posts/best-free-compressor-vst-plugins/)
 - [Best Free Reverb VST Plugins 2026](/posts/best-free-reverb-vst-plugins/)
 - [Best VST Plugins Under $50: Great Budget Options](/posts/best-vst-plugins-under-50-dollars/)
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

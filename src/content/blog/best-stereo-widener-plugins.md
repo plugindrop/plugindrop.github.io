@@ -325,3 +325,9 @@ A: For most mixing tasks, yes — Wider (Polyverse) alone is used on commerciall
 
 **Q: When is the best time of year to buy stereo widener plugins?**
 A: Black Friday (late November) is the single best window across nearly every developer on this list — Waves, iZotope, Soundtoys, and Plugin Alliance all run their deepest discounts of the year then. Outside of that, Waves and Eventide run frequent smaller flash sales throughout the year, so if you're not in a rush, checking the relevant "when does it go on sale" page before a purchase is worth the 30 seconds it takes.
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

@@ -359,3 +359,9 @@ Creative effects plugins are one of the most heavily discounted categories in th
 - **Tantra 2** and **Devious Machines Infiltrator 2** — smaller developers with less predictable sale calendars. If you see either discounted 20% or more through a reseller like Plugin Boutique, that's a reasonable moment to buy rather than waiting for a specific recurring event.
 
 The general rule for this category: if a plugin costs more than $75 and comes from a developer with an established sales history (iZotope, Soundtoys, Sugar Bytes, Output, XLN Audio), assume a discount is coming within a few months and plan your purchase around it. The exceptions are true budget tools like Glitch 2, where the list price already reflects fair value, and anything genuinely free, where there's nothing to time.
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

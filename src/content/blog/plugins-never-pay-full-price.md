@@ -90,3 +90,9 @@ A: Sonnox Oxford Inflator, documented at $16 — over 90% off its $185 list pric
 ---
 
 Check live prices and full history for any product above at [PluginDrop's price tracker](/plugin-prices/), or see the opposite list — plugins where waiting for a sale is pointless — in [12 Plugins That Never Go On Sale](/posts/plugins-that-never-go-on-sale/).
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

@@ -210,3 +210,9 @@ The free combination of Klanghelm DC8C and the Waves SSL G-Bus (on sale) covers 
 - [15 Best Mixing Plugins in 2026 (Free & Paid, Ranked)](/posts/best-mixing-plugins-2026/)
 - [10 Best Mastering Limiter Plugins in 2026 (Ranked)](/posts/best-limiter-plugins-mastering/)
 - [Valhalla VintageVerb Review: Still the Best Budget Reverb?](/posts/valhalla-vintageverb-review/)
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

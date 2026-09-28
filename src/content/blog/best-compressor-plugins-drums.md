@@ -352,3 +352,9 @@ Not every plugin in this guide belongs on the same shopping timeline. Here's how
 - **Slate Digital FG-116** — this only makes financial sense if you're using enough of the All-Access catalog to justify ~$15/month on an ongoing basis. If FG-116 is the only plugin drawing you in, a one-time purchase like the CLA-76 will be cheaper within the first year.
 
 The short version: if a plugin is made by FabFilter or Cytomic, buy it when you need it. If it's made by Waves, wait a few weeks and watch for a sale — you'll almost certainly get one.
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

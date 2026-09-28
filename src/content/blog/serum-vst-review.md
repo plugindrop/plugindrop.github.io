@@ -183,3 +183,9 @@ Xfer Serum in 2026 is the rare piece of software that has aged into near-univers
 - [Serum vs Vital: Free vs Paid Wavetable Comparison](/posts/serum-vs-vital-comparison/)
 - [Phase Plant vs Serum: Which Wavetable Synth Wins?](/posts/phase-plant-vs-serum/)
 - [Best Synth VST Plugins 2026: Top Options Ranked](/posts/best-synth-vst-plugins-2026/)
+
+<!-- pd:method:start -->
+## How this article was put together
+
+This article brings together publicly available product information and linked community discussions. We have not tested the product hands-on. Prices come from PluginDrop's tracking. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

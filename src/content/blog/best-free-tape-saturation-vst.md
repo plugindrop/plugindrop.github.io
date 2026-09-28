@@ -290,6 +290,12 @@ A: In physical tape modeling accuracy, the gap has narrowed significantly. The a
 
 ---
 
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->
+
 ## Final Thoughts
 
 Chow Tape Model is the technically grounded anchor of any free tape saturation setup in 2026, and IVGI covers the analog harmonic coloring side with the same no-friction reliability. Between them, Tape Cassette 2 for cassette texture, FERRIC TDS and TesslaSE for bus dynamics and console glue, and the quick saturators from Softube and BPB, you can assemble a complete tape and saturation workflow without spending a cent. When the workflow demands a consolidated lo-fi toolkit or a broader palette of hardware-modeled tonal characters that the free tier can't match, the paid options — [RC-20 Retro Color](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color), or the tape and saturation plugins collected in the [Plugin Boutique upgrade table above](https://www.pluginboutique.com/search?q=Softube%20Tape&a_aid=69cb95abe1763&chan=art&data1=best-free-tape-saturation-vst) — are the upgrades that replace a chain of individual free plugins with one integrated tool.

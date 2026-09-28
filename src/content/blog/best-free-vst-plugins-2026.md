@@ -232,3 +232,9 @@ A: Each plugin is available from its developer's website (linked in the comparis
 These 15 plugins cover synths, effects, mixing, and instruments — enough to produce full tracks without spending anything. Start with Vital and Valhalla Supermassive, add TDR Nova and Youlean for the mix, then fill in the rest as your tracks demand. Bookmark this page — we update it as new free plugins drop.
 
 [Browse Free Plugins on Plugin Boutique](https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-2026&chan=art&data1=best-free-vst-plugins-2026)
+
+<!-- pd:method:start -->
+## How this list was made
+
+This list brings together publicly available feature information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

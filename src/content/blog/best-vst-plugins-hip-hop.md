@@ -396,3 +396,9 @@ A: Every plugin listed here supports VST3 format, which is compatible with both 
 - [Best Trap VST Plugins 2026](/posts/best-trap-vst-plugins/)
 - [Best Free Drum Machine VST Plugins 2026](/posts/best-free-drum-machine-vst/)
 - [Complete Drum Mixing Plugin Chain](/posts/drum-mixing-plugin-chain/)
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

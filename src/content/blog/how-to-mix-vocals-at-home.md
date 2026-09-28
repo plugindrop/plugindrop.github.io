@@ -140,3 +140,9 @@ This chain produces professional results when used correctly. Start here.
 - Any vocal bundle at full price — individual plugins on sale almost always beat bundle pricing
 
 The vocal mixing plugin market in 2026 heavily rewards patience. The free tools are genuinely excellent, the paid upgrades go on sale consistently, and the gap between home studio output and commercial releases has never been smaller for producers who understand the signal chain rather than chasing gear.
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

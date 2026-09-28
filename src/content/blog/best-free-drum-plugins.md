@@ -250,3 +250,9 @@ A: Upgrade when free kits limit you — typically when you need multiple mix-rea
 Ten free drum plugins, zero cost, covering every major genre. SSD5.5 FREE and MT Power Drum Kit 2 for acoustic realism, Sitala and TX16Wx for beat production, Drumatic 4 and MiniSpillage for pure synthesis, and Hydrogen for full pattern-based arrangement. Start with the one that matches your genre, and when free kits stop keeping up, the paid upgrades above are the proven next step.
 
 [Browse Drum Plugins on Plugin Boutique](https://www.pluginboutique.com/categories/1-Instruments/10-Drums?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-drum-plugins&chan=art&data1=best-free-drum-plugins)
+
+<!-- pd:method:start -->
+## How this list was made
+
+This list brings together publicly available feature information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

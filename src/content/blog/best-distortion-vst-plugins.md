@@ -364,3 +364,9 @@ Not every plugin in this guide should be purchased the same way. Distortion and 
 - **Plugin Alliance HG-2 (~$199 standalone)** — If you already subscribe to a Plugin Alliance access tier, the HG-2 may already be included or available for a fraction of standalone cost. If you're buying it as a one-off perpetual license, check the HG-2 sale tracker before committing, since standalone pricing and subscription value shift independently of each other.
 
 The short version: free tools and Klanghelm's paid tier have no real "wait for it" logic — buy or download today. FabFilter is worth paying close to full price for when you have a genuine need. Everything else in this guide — Soundtoys, Waves, iZotope, XLN Audio — rewards patience, sometimes significantly. Check the linked sale-tracking pages before any purchase over $50; in this category, timing is frequently worth more than comparison shopping between plugins.
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

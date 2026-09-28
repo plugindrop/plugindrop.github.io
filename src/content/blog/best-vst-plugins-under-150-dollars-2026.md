@@ -429,3 +429,9 @@ The best VST plugins under $150 in 2026 don't require compromise — they requir
 ---
 
 *Buying a bundle? See our [Best Plugin Bundle Deals 2026](/posts/best-plugin-bundle-deals/) — 12 bundles ranked by cost per plugin.*
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

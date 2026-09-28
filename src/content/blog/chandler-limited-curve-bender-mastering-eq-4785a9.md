@@ -89,3 +89,9 @@ $299 down to **$79** — that's $220 back in your pocket for a plugin with genui
 - [Best EQ Plugins 2026](/posts/best-eq-plugins-2026/)
 - [Best Free EQ VST Plugins](/posts/best-free-eq-vst-plugins/)
 - [Best Mixing Plugins 2026](/posts/best-mixing-plugins-2026/)
+
+<!-- pd:method:start -->
+## How this article was put together
+
+This article brings together publicly available product information and linked community discussions. We have not tested the product hands-on. Prices come from PluginDrop's tracking. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

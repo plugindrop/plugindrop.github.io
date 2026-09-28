@@ -305,3 +305,9 @@ A: Sitala integrates cleanly with Ableton via drag-and-drop for building custom 
 - [Best VST Plugins for Hip Hop Production](/posts/best-vst-plugins-hip-hop/)
 - [Best Trap VST Plugins 2026](/posts/best-trap-vst-plugins/)
 - [Best Free VST Plugins 2026: The Complete Roundup Across All Categories](/posts/best-free-vst-plugins-2026/)
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

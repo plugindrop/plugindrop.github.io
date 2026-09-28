@@ -410,3 +410,9 @@ Start with Valhalla Room — it's the highest-impact purchase available at this 
 - [10 Best Free Delay VST Plugins in 2026 (Tape, Digital, Multi-tap)](/posts/best-free-delay-vst-plugins/)
 - [10 Best Free EQ VST Plugins in 2026 (Mixing & Mastering)](/posts/best-free-eq-vst-plugins/)
 - [12 Best Free VST Plugins for Ableton Live in 2026](/posts/best-free-plugins-ableton/)
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

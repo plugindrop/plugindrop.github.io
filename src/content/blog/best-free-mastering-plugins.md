@@ -301,3 +301,9 @@ A: TBProAudio makes Limiter 6 GE available as a free download from their officia
 - [Mastering Chain Plugins: Step-by-Step Pro Setup](/posts/mastering-chain-plugins/)
 - [Best Limiter Plugins for Mastering 2026](/posts/best-limiter-plugins-mastering/)
 - [Best Free VST Plugins 2026: The Complete Roundup Across All Categories](/posts/best-free-vst-plugins-2026/)
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

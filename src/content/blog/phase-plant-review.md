@@ -166,3 +166,9 @@ A: Snapins are Kilohearts' modular effects format, compatible with Phase Plant, 
 - [Serum VST Review 2026](/posts/serum-vst-review/)
 - [Best Synth VST Plugins 2026](/posts/best-synth-vst-plugins-2026/)
 - [Is Serum Worth It in 2026?](/posts/is-serum-worth-it/)
+
+<!-- pd:method:start -->
+## How this article was put together
+
+This article brings together publicly available product information and linked community discussions. We have not tested the product hands-on. Prices come from PluginDrop's tracking. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

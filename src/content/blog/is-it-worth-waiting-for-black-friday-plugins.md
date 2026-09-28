@@ -106,3 +106,9 @@ A: Not according to our data. For iZotope, UAD, Softube, Arturia, and several ot
 ---
 
 Check live prices for any plugin mentioned here at [PluginDrop's price tracker](/plugin-prices/), or see the full lists this analysis is built from: [12 Plugins That Never Go On Sale](/posts/plugins-that-never-go-on-sale/) and [Plugins You Should Never Pay Full Price For](/posts/plugins-never-pay-full-price/).
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

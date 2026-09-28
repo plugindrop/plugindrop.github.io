@@ -128,3 +128,22 @@ An official plugin from the designers of one of the most respected hardware comp
 ---
 
 *Pricing and availability details in this article are cross-checked against PluginDrop's own price history tracking of Plugin Boutique listings, and are updated as deals and stock change.*
+
+<!-- pd:price-records:start -->
+## PluginDrop price record for Empirical Labs EL8 Distressor Compressor
+
+Typical regular: $199. Typical sale: $39.
+We recorded 2 sale periods. Most recent observed price: $29 on 2026-09-27. At or below typical sale.
+
+Recorded sale periods:
+- 2026-09-01 to 2026-09-27
+- 2026-07-12 to 2026-08-03
+
+These are observed checks; dates between checks may be missing.
+<!-- pd:price-records:end -->
+
+<!-- pd:method:start -->
+## How this article was put together
+
+This article brings together publicly available product information and linked community discussions. We have not tested the product hands-on. Prices come from PluginDrop's tracking. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

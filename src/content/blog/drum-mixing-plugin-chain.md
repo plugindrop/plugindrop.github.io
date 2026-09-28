@@ -258,3 +258,9 @@ If you're starting today, grab the SSL G-Master and OTT first — they're the lo
 - [Best Free Drum Machine VST Plugins 2026](/posts/best-free-drum-machine-vst/)
 - [Best Free Compressor VST Plugins 2026](/posts/best-free-compressor-vst-plugins/)
 - [Best Compressor Plugins for Drums 2026](/posts/best-compressor-plugins-drums/)
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->

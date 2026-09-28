@@ -220,3 +220,9 @@ A: Phase Plant Lite limits which generator and effect modules are available in t
 - [Serum VST Review 2026: Is It Worth the Price?](/posts/serum-vst-review/)
 - [Is Serum Worth It in 2026?](/posts/is-serum-worth-it/)
 - [Serum vs Vital: Full Comparison](/posts/serum-vs-vital-comparison/)
+
+<!-- pd:method:start -->
+## Sources for this guide
+
+This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+<!-- pd:method:end -->
