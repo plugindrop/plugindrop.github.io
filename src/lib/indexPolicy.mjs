@@ -1,7 +1,7 @@
 import { OBSERVED_SOURCES, comparableHistory } from './priceBasis.mjs';
 export { OBSERVED_SOURCES } from './priceBasis.mjs';
 
-export const MIN_TAG_POSTS = 3;
+export const MIN_TAG_POSTS = 10;
 export const MIN_PRICE_OBS = 3;
 export const MIN_PRICE_SALE_OBS = 1;
 export const MIN_PRICE_LEVELS = 2;

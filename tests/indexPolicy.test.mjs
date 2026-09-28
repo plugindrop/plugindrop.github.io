@@ -179,10 +179,10 @@ test('price page path helpers are complementary across plugins and bundles', () 
   assert.equal(isProductNameIndexable(priceData, 'Unknown Product'), false);
 });
 
-test('tag indexability uses three public posts as the boundary', () => {
-  assert.equal(MIN_TAG_POSTS, 3);
-  assert.equal(isTagPageIndexable(1), false);
-  assert.equal(isTagPageIndexable(3), true);
+test('tag indexability uses ten public posts as the boundary', () => {
+  assert.equal(MIN_TAG_POSTS, 10);
+  assert.equal(isTagPageIndexable(9), false);
+  assert.equal(isTagPageIndexable(10), true);
 });
 
 test('brand indexability uses three products as the boundary', () => {

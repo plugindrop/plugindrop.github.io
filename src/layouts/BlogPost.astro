@@ -327,13 +327,13 @@ const bestGuides = tags
 const allPosts = await getCollection('blog');
 const publicTagCounts = new Map<string, number>();
 for (const post of allPosts) {
-	if (post.data.draft) continue;
+	if (post.data.draft || post.data.noindex) continue;
 	for (const tag of (post.data.tags ?? [])) {
 		const tagSlug = slugifyTag(tag);
 		publicTagCounts.set(tagSlug, (publicTagCounts.get(tagSlug) ?? 0) + 1);
 	}
 }
-const linkedTags = tags.filter((tag: string) => isTagPageIndexable(publicTagCounts.get(slugifyTag(tag)) ?? 0));
+const hasTags = tags.length > 0;
 // "vst"/"guide" は公開記事242本中184本/174本(70%超)に付く汎用タグで、これだけで
 // 一致判定すると事実上ランダムな記事が「関連」として出る(2026-09-20実測・ボイラープレート化の一因)。
 // 関連度判定からは除外し、実際にトピックが重なるタグでのみスコアリングする。
@@ -1021,15 +1021,14 @@ const featuredDeals = isEvergreen ? allPosts
 								)}
 							</span>
 							<span class="reading-time">{readingTime}</span>
-							{linkedTags.length > 0 && (
+							{hasTags && (
 								<div class="tags">
-									{linkedTags.map((tag: string) => {
+									{tags.map((tag: string) => {
 										const tagSlug = slugifyTag(tag);
-										return (
-											<a href={`/tags/${tagSlug}/`} class={`tag ${tag === 'free' ? 'free' : tag === 'sale' ? 'sale' : ''}`} style="text-decoration:none">
-												{tag}
-											</a>
-										);
+										const className = `tag ${tag === 'free' ? 'free' : tag === 'sale' ? 'sale' : ''}`;
+										return isTagPageIndexable(publicTagCounts.get(tagSlug) ?? 0)
+											? <a href={`/tags/${tagSlug}/`} class={className} style="text-decoration:none">{tag}</a>
+											: <span class={className}>{tag}</span>;
 									})}
 								</div>
 							)}
