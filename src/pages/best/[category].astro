@@ -11,11 +11,9 @@ import { getCollection } from 'astro:content';
 import manifestRaw from '../../data/programmatic_pages.json';
 import priceData from '../../data/price_history.json';
 import { indexablePricePagePaths } from '../../lib/indexPolicy.mjs';
-import { isInternalPathIndexable } from '../../lib/linkPolicy.mjs';
 import {
   rowsFor,
   sortRows,
-  categoryIntro,
   categoryFaqs,
   type ManifestCategory,
   type ProgrammaticManifest,
@@ -178,7 +176,7 @@ function verdictClass(v: VerdictRow['verdict']): string {
         <h2 class="section-title">Guides for {category.label}</h2>
         <ul class="link-list">{guides.map((post) => <li>
           <a href={`/posts/${post.id}/`}>{post.data.title}</a>
-          <span> ? {new Date(post.data.pubDate).toISOString().slice(0, 10)}</span>
+          <span> · {new Date(post.data.pubDate).toISOString().slice(0, 10)}</span>
           <p>{post.data.description}</p>
         </li>)}</ul>
       </section>

@@ -226,17 +226,6 @@ For pure EQ performance, FabFilter Pro-Q 3 remains the uncontested benchmark in 
 - [15 Best Free Reverb VST Plugins in 2026 (Tested by Producers)](/posts/best-free-reverb-vst-plugins/)
 - [12 Best Free VST Plugins for Ableton Live in 2026](/posts/best-free-plugins-ableton/)
 
-<!-- pd:price-records:start -->
-## PluginDrop price records for the products in this list
-
-| Product | Typical regular | Typical sale | Sales recorded | Latest sale period | Today's price position |
-| --- | ---: | ---: | ---: | --- | --- |
-| FabFilter Pro-Q 4 | $199 | $149 | 2 | 2025-11-22 | At or above typical regular |
-| FabFilter Total Bundle | $1,176 | $882 | 3 | 2026-07-12 to 2026-09-25 | Between typical sale and regular |
-
-Prices reflect recorded checks, not every day of a sale.
-<!-- pd:price-records:end -->
-
 <!-- pd:method:start -->
 ## How this list was made
 

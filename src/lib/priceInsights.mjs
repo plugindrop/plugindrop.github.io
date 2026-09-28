@@ -1,5 +1,5 @@
 import { listSaleEpisodes } from './indexPolicy.mjs';
-import { DEFAULT_AUDIT_INDEX, OBSERVED_SOURCES, confirmedSaleOf, isStandardCents, latestTrackerRow, pbPathOf, sourceKindOf } from './priceBasis.mjs';
+import { DEFAULT_AUDIT_INDEX, OBSERVED_SOURCES, comparableHistory, confirmedSaleOf, isStandardCents, latestTrackerRow, pbPathOf, sourceKindOf } from './priceBasis.mjs';
 import { currentPriceOf, formatPrice, dealScore } from './priceUtils.ts';
 
 const observed = new Set(OBSERVED_SOURCES);
@@ -31,6 +31,20 @@ export function sameCategoryPeers(entry, name, candidates) {
 export function pricedChecks(entry) {
   return rows(entry).filter((r) => observed.has(r?.source) && (finite(r.sale) || finite(r.regular)))
     .sort((a, b) => a.date.localeCompare(b.date));
+}
+export function listPriceChanges(entry) {
+  const checks = comparableHistory(entry).filter((r) => observed.has(r.source) && !finite(r.sale)
+    && finite(r.regular) && r.reg_src === 'page')
+    .sort((a, b) => a.date.localeCompare(b.date));
+  const runs = [];
+  for (const row of checks) {
+    const last = runs.at(-1);
+    if (last?.regular === row.regular) last.count++;
+    else runs.push({ date: row.date, regular: row.regular, count: 1 });
+  }
+  const stable = runs.filter((run) => run.count >= 2);
+  return stable.slice(1).filter((run, i) => run.regular !== stable[i].regular)
+    .map(({ date, regular }) => ({ date, regular }));
 }
 export function trackedSales(checks) {
   return listSaleEpisodes({ history: checks }).reverse().map((ep) => {

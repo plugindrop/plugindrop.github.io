@@ -1,6 +1,7 @@
 ---
 import priceData from '../data/price_history.json';
 import { formatPrice } from '../lib/priceUtils.ts';
+import { listPriceChanges } from '../lib/priceInsights.mjs';
 
 interface Props { product: string }
 const { product } = Astro.props;
@@ -10,9 +11,7 @@ const vendorFiles = import.meta.glob('../data/vendor_facts.json', { eager: true,
 const vendor = ((Object.values(vendorFiles)[0] ?? {}) as Record<string, Record<string, any>>)[product];
 const latest = vendor?.latest_version?.value ?? null;
 const released = vendor?.release_date?.value ?? null;
-const changes = (entry?.history ?? []).filter((row: any) => typeof row?.regular === 'number' && Number.isFinite(row.regular))
-  .sort((a: any, b: any) => a.date.localeCompare(b.date))
-  .filter((row: any, index: number, rows: any[]) => index > 0 && row.regular !== rows[index - 1].regular);
+const changes = listPriceChanges(entry);
 const show = latest != null || released != null || changes.length > 0;
 ---
 {show && <section class="version-history" data-version-history>

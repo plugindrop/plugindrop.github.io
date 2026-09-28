@@ -39,7 +39,7 @@ Observed breaks between sale periods were 19 days, measured from the last sale c
 
 Only one interval separates these two observed periods; it does not establish a recurring schedule.
 
-## List price history
+## Displayed prices we recorded
 
 | Archived Plugin Boutique page | Displayed price |
 |---|---:|
@@ -57,15 +57,5 @@ The latest readable price, $129 on 2026-09-23, was above the lowest price in our
 ## Compared with other Effects plugins we track
 
 The deepest observed discount here was 39%. It ranks 5 of 5 Effects products with at least two tracked sale periods and comparable prices.
-
-## Sales reported elsewhere (not observed by our tracker)
-
-- Black Friday 2025 (November): approximately $69, reported by Baby Audio.
-
-- Launch intro sale (2024): approximately $79, reported by Baby Audio Official.
-
-- Summer 2025 (June): approximately $79, reported by Baby Audio.
-
-- PB Focus Sale 2025: approximately $79, reported by Plugin Boutique.
 
 *Data: PluginDrop price tracker (29 checks since 2026-07-12) and Internet Archive snapshots of the Plugin Boutique product page. Last regenerated 2026-09-28.*

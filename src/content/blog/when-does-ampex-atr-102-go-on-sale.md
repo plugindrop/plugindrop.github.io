@@ -35,13 +35,11 @@ These periods reflect prices visible in our Plugin Boutique checks; the first re
 
 ## How long sales last and how far apart they are
 
-Completed observed periods lasted 25 days. These are spans between checks, not confirmed store start and end dates.
-
 Observed breaks between sale periods were 32 days, measured from the last sale check to the next sale check.
 
 Only one interval separates these two observed periods; it does not establish a recurring schedule.
 
-## List price history
+## Displayed prices we recorded
 
 | Archived Plugin Boutique page | Displayed price |
 |---|---:|
@@ -56,19 +54,5 @@ These are prices displayed on archived pages. An archived displayed price alone 
 ## Where today's price sits
 
 The latest readable price, $39 on 2026-09-25, was equal to the lowest price in our observed sale periods, $39. The difference was $0. This is a last observed price, not a live quote.
-
-## Sales reported elsewhere (not observed by our tracker)
-
-- Thomann (February 3, 2025): approximately $37, reported by Thomann.
-
-- Plugin Alliance / PB 80% off (ongoing BF/Anniversary): approximately $39, reported by Plugin Boutique.
-
-- Black Friday 2024: approximately $69, reported by Plugin Alliance.
-
-- Summer 2024: approximately $69, reported by Plugin Alliance.
-
-## Free alternatives
-
-- [Chow Tape Model](https://chowdsp.com/products.html#tape): Free open-source tape emulation — strong community reputation
 
 *Data: PluginDrop price tracker (21 checks since 2026-07-17) and Internet Archive snapshots of the Plugin Boutique product page. Last regenerated 2026-09-28.*

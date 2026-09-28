@@ -192,17 +192,6 @@ FabFilter Pro-L 2 is not the best mastering limiter because nothing better exist
 
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
 
-<!-- pd:price-records:start -->
-## PluginDrop price records for the products in this list
-
-| Product | Typical regular | Typical sale | Sales recorded | Latest sale period | Today's price position |
-| --- | ---: | ---: | ---: | --- | --- |
-| FabFilter Pro-L 2 | $179 | $134 | 2 | 2024-11-22 | At or above typical regular |
-| FabFilter Total Bundle | $1,176 | $882 | 3 | 2026-07-12 to 2026-09-25 | Between typical sale and regular |
-
-Prices reflect recorded checks, not every day of a sale.
-<!-- pd:price-records:end -->
-
 <!-- pd:method:start -->
 ## How this list was made
 

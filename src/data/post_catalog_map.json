@@ -17,16 +17,8 @@
     "kind": "comparison",
     "products": []
   },
-  "albino-3-legend-32727c": {
-    "category": null,
-    "confidence": "pb_id",
-    "kind": "guide",
-    "products": [
-      "LEGEND"
-    ]
-  },
   "analog-monosynth-collection-562c43": {
-    "category": null,
+    "category": "Synth",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -43,9 +35,7 @@
     "category": null,
     "confidence": "pb_id",
     "kind": "review",
-    "products": [
-      "Kilohearts Phase Plant"
-    ]
+    "products": []
   },
   "arturia-v-collection-review": {
     "category": null,
@@ -60,7 +50,7 @@
     "products": []
   },
   "beam-2-0-d14542": {
-    "category": null,
+    "category": "Effects",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -74,7 +64,7 @@
     "products": []
   },
   "best-ambient-music-plugins": {
-    "category": null,
+    "category": "Reverb",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -101,7 +91,7 @@
     "products": []
   },
   "best-bass-guitar-vst-plugins": {
-    "category": null,
+    "category": "Instrument",
     "confidence": "pb_id",
     "kind": "list",
     "products": [
@@ -127,7 +117,7 @@
     "products": []
   },
   "best-creative-fx-plugins": {
-    "category": null,
+    "category": "Bundle",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -136,7 +126,7 @@
     ]
   },
   "best-delay-vst-plugins-2026": {
-    "category": null,
+    "category": "Delay",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -148,7 +138,7 @@
     ]
   },
   "best-distortion-vst-plugins": {
-    "category": null,
+    "category": "Saturation",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -158,7 +148,7 @@
     ]
   },
   "best-eq-plugins-2026": {
-    "category": null,
+    "category": "EQ",
     "confidence": "explicit",
     "kind": "list",
     "products": [
@@ -209,7 +199,7 @@
     "products": []
   },
   "best-free-delay-vst-plugins": {
-    "category": null,
+    "category": "Delay",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -229,7 +219,7 @@
     "products": []
   },
   "best-free-eq-vst-plugins": {
-    "category": null,
+    "category": "EQ",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -244,7 +234,7 @@
     "products": []
   },
   "best-free-limiter-vst": {
-    "category": null,
+    "category": "Limiter",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -259,7 +249,7 @@
     "products": []
   },
   "best-free-mastering-plugins": {
-    "category": null,
+    "category": "Limiter",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -268,7 +258,7 @@
     ]
   },
   "best-free-multiband-compressor-vst": {
-    "category": null,
+    "category": "Compressor",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -284,7 +274,7 @@
     "products": []
   },
   "best-free-plugins-ableton": {
-    "category": null,
+    "category": "EQ",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -295,7 +285,7 @@
     ]
   },
   "best-free-plugins-fl-studio": {
-    "category": null,
+    "category": "Bundle",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -313,7 +303,7 @@
     "products": []
   },
   "best-free-reverb-vst-plugins": {
-    "category": null,
+    "category": "Reverb",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -329,7 +319,7 @@
     "products": []
   },
   "best-free-saturation-vst-plugins": {
-    "category": null,
+    "category": "Bundle",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -344,7 +334,7 @@
     "products": []
   },
   "best-free-synth-plugins": {
-    "category": null,
+    "category": "Synth",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -356,7 +346,7 @@
     ]
   },
   "best-free-tape-saturation-vst": {
-    "category": null,
+    "category": "Saturation",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -375,7 +365,7 @@
     "products": []
   },
   "best-free-vst-plugins-2026": {
-    "category": null,
+    "category": "EQ",
     "confidence": "pb_id",
     "kind": "list",
     "products": [
@@ -385,7 +375,7 @@
     ]
   },
   "best-free-vst-plugins-beginners": {
-    "category": null,
+    "category": "Bundle",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -394,7 +384,7 @@
     ]
   },
   "best-free-wavetable-synth-vst": {
-    "category": null,
+    "category": "Synth",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -409,7 +399,7 @@
     "products": []
   },
   "best-glitch-effect-plugins": {
-    "category": null,
+    "category": "Effects",
     "confidence": "exact",
     "kind": "guide",
     "products": [
@@ -419,7 +409,7 @@
     ]
   },
   "best-guitar-amp-sim-plugins": {
-    "category": null,
+    "category": "Effects",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -427,7 +417,7 @@
     ]
   },
   "best-kontakt-libraries-2026": {
-    "category": null,
+    "category": "Drums",
     "confidence": "exact",
     "kind": "guide",
     "products": [
@@ -442,7 +432,7 @@
     "products": []
   },
   "best-limiter-plugins-mastering": {
-    "category": null,
+    "category": "Limiter",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -457,7 +447,7 @@
     "products": []
   },
   "best-mixing-plugins-2026": {
-    "category": null,
+    "category": "Bundle",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -469,7 +459,7 @@
     ]
   },
   "best-multiband-compressor-plugins": {
-    "category": null,
+    "category": "Compressor",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -484,7 +474,7 @@
     "products": []
   },
   "best-piano-vst-plugins": {
-    "category": null,
+    "category": "Instrument",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -492,7 +482,7 @@
     ]
   },
   "best-plugin-boutique-black-friday-deals-2026": {
-    "category": null,
+    "category": "EQ",
     "confidence": "explicit",
     "kind": "list",
     "products": [
@@ -503,7 +493,7 @@
     ]
   },
   "best-plugin-bundle-deals": {
-    "category": null,
+    "category": "Bundle",
     "confidence": "explicit",
     "kind": "list",
     "products": [
@@ -512,7 +502,7 @@
     ]
   },
   "best-plugins-for-film-scoring": {
-    "category": null,
+    "category": "EQ",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -520,7 +510,7 @@
     ]
   },
   "best-plugins-for-house-music": {
-    "category": null,
+    "category": "Delay",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -536,7 +526,7 @@
     "products": []
   },
   "best-plugins-for-lofi-production": {
-    "category": null,
+    "category": "Effects",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -544,7 +534,7 @@
     ]
   },
   "best-plugins-for-mixing-vocals": {
-    "category": null,
+    "category": "Bundle",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -554,7 +544,7 @@
     ]
   },
   "best-plugins-for-techno-production": {
-    "category": null,
+    "category": "EQ",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -563,7 +553,7 @@
     ]
   },
   "best-plugins-garageband": {
-    "category": null,
+    "category": "EQ",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -573,7 +563,7 @@
     ]
   },
   "best-plugins-logic-pro": {
-    "category": null,
+    "category": "Bundle",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -584,7 +574,7 @@
     ]
   },
   "best-plugins-reaper": {
-    "category": null,
+    "category": "Bundle",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -594,7 +584,7 @@
     ]
   },
   "best-plugins-studio-one": {
-    "category": null,
+    "category": "Bundle",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -606,7 +596,7 @@
     ]
   },
   "best-reverb-plugins-2026": {
-    "category": null,
+    "category": "Reverb",
     "confidence": "explicit",
     "kind": "list",
     "products": [
@@ -615,7 +605,7 @@
     ]
   },
   "best-reverb-plugins-music-production": {
-    "category": null,
+    "category": "Reverb",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -625,7 +615,7 @@
     ]
   },
   "best-saturation-plugins-2026": {
-    "category": null,
+    "category": "Bundle",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -635,7 +625,7 @@
     ]
   },
   "best-stereo-widener-plugins": {
-    "category": null,
+    "category": "Effects",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -651,7 +641,7 @@
     "products": []
   },
   "best-synth-vst-plugins-2026": {
-    "category": null,
+    "category": "Synth",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -661,7 +651,7 @@
     ]
   },
   "best-tape-saturation-plugins": {
-    "category": null,
+    "category": "Saturation",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -679,7 +669,7 @@
     "products": []
   },
   "best-trap-vst-plugins": {
-    "category": null,
+    "category": "Synth",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -687,7 +677,7 @@
     ]
   },
   "best-vintage-eq-plugins": {
-    "category": null,
+    "category": "Bundle",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -696,7 +686,7 @@
     ]
   },
   "best-vintage-synth-vst-plugins": {
-    "category": null,
+    "category": "Synth",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -722,7 +712,7 @@
     "products": []
   },
   "best-vst-plugins-for-beginners": {
-    "category": null,
+    "category": "EQ",
     "confidence": "explicit",
     "kind": "list",
     "products": [
@@ -736,7 +726,7 @@
     "products": []
   },
   "best-vst-plugins-for-metal-mixing": {
-    "category": null,
+    "category": "EQ",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -746,7 +736,7 @@
     ]
   },
   "best-vst-plugins-hip-hop": {
-    "category": null,
+    "category": "Drums",
     "confidence": "exact",
     "kind": "guide",
     "products": [
@@ -754,7 +744,7 @@
     ]
   },
   "best-vst-plugins-under-100-dollars": {
-    "category": null,
+    "category": "Delay",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -765,7 +755,7 @@
     ]
   },
   "best-vst-plugins-under-150-dollars-2026": {
-    "category": null,
+    "category": "Reverb",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -777,7 +767,7 @@
     ]
   },
   "best-vst-plugins-under-200": {
-    "category": null,
+    "category": "Reverb",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -789,7 +779,7 @@
     ]
   },
   "best-vst-plugins-under-50-dollars": {
-    "category": null,
+    "category": "Reverb",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -809,7 +799,7 @@
     "products": []
   },
   "chandler-limited-curve-bender-mastering-eq-4785a9": {
-    "category": null,
+    "category": "EQ",
     "confidence": "pb_id",
     "kind": "review",
     "products": [
@@ -841,7 +831,7 @@
     "products": []
   },
   "does-serum-ever-go-on-sale": {
-    "category": null,
+    "category": "Synth",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -849,7 +839,7 @@
     ]
   },
   "drum-machine-collection-c8ab7a": {
-    "category": null,
+    "category": "Drums",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -857,7 +847,7 @@
     ]
   },
   "drum-mixing-plugin-chain": {
-    "category": null,
+    "category": "Compressor",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -866,7 +856,7 @@
     ]
   },
   "edm-production-plugin-chain": {
-    "category": null,
+    "category": "Bundle",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -882,7 +872,7 @@
     "products": []
   },
   "empirical-labs-el8-distressor-compressor-ff4241": {
-    "category": null,
+    "category": "Compressor",
     "confidence": "pb_id",
     "kind": "review",
     "products": [
@@ -890,7 +880,7 @@
     ]
   },
   "emt-140-classic-plate-reverberator-0c6051": {
-    "category": null,
+    "category": "Reverb",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -898,7 +888,7 @@
     ]
   },
   "essential-vst-plugins-every-producer-needs": {
-    "category": null,
+    "category": "Bundle",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -910,53 +900,40 @@
     ]
   },
   "fabfilter-pro-c-2-review": {
-    "category": null,
+    "category": "Compressor",
     "confidence": "pb_id",
     "kind": "review",
     "products": []
   },
   "fabfilter-pro-l-2-review": {
-    "category": null,
+    "category": "Limiter",
     "confidence": "explicit",
-    "kind": "comparison",
+    "kind": "review",
     "products": [
-      "FabFilter Pro-L 2",
-      "FabFilter Total Bundle",
-      "iZotope Ozone 12 Advanced"
+      "FabFilter Pro-L 2"
     ]
   },
   "fabfilter-pro-q-3-vs-izotope-neutron": {
     "category": null,
     "confidence": "pb_id",
     "kind": "comparison",
-    "products": [
-      "FabFilter Pro-Q 4",
-      "FabFilter Total Bundle"
-    ]
+    "products": []
   },
   "fabfilter-pro-q-4-review": {
-    "category": null,
+    "category": "EQ",
     "confidence": "explicit",
     "kind": "review",
     "products": [
-      "FabFilter Pro-Q 4",
-      "FabFilter Total Bundle"
+      "FabFilter Pro-Q 4"
     ]
   },
   "fabfilter-pro-q-4-vs-izotope-neutron": {
-    "category": null,
+    "category": "EQ",
     "confidence": "explicit",
     "kind": "comparison",
     "products": [
-      "FabFilter Pro-Q 4",
-      "FabFilter Total Bundle"
+      "FabFilter Pro-Q 4"
     ]
-  },
-  "fabric-vintage-synths-vol-2-90bbb5": {
-    "category": "Bundle",
-    "confidence": "exact",
-    "kind": "guide",
-    "products": []
   },
   "fl-studio-21-review": {
     "category": null,
@@ -965,7 +942,7 @@
     "products": []
   },
   "free-alternative-to-fabfilter-pro-q": {
-    "category": null,
+    "category": "EQ",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -979,7 +956,7 @@
     "products": []
   },
   "free-alternative-to-omnisphere": {
-    "category": null,
+    "category": "Synth",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -987,7 +964,7 @@
     ]
   },
   "free-alternative-to-serum-vst": {
-    "category": null,
+    "category": "Synth",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -996,7 +973,7 @@
     ]
   },
   "free-alternative-to-valhalla-reverb": {
-    "category": null,
+    "category": "Reverb",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -1008,10 +985,7 @@
     "category": null,
     "confidence": "explicit",
     "kind": "comparison",
-    "products": [
-      "FabFilter Pro-Q 4",
-      "Valhalla VintageVerb"
-    ]
+    "products": []
   },
   "future-big-room-fl-studio-template-vol-1-327b81": {
     "category": null,
@@ -1020,7 +994,7 @@
     "products": []
   },
   "guitar-recording-plugin-chain": {
-    "category": null,
+    "category": "Bundle",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -1029,7 +1003,7 @@
     ]
   },
   "hip-hop-mixing-plugin-chain": {
-    "category": null,
+    "category": "EQ",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -1037,7 +1011,7 @@
     ]
   },
   "how-to-add-stereo-width-mixing": {
-    "category": null,
+    "category": "EQ",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -1052,7 +1026,7 @@
     "products": []
   },
   "how-to-eq-bass-guitar-plugins": {
-    "category": null,
+    "category": "EQ",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -1060,7 +1034,7 @@
     ]
   },
   "how-to-eq-vocals-plugins": {
-    "category": null,
+    "category": "EQ",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -1068,7 +1042,7 @@
     ]
   },
   "how-to-get-started-with-vst-plugins": {
-    "category": null,
+    "category": "EQ",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -1095,7 +1069,7 @@
     "products": []
   },
   "how-to-master-at-home": {
-    "category": null,
+    "category": "Bundle",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -1106,7 +1080,7 @@
     ]
   },
   "how-to-master-with-izotope-ozone": {
-    "category": null,
+    "category": "Limiter",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -1115,7 +1089,7 @@
     ]
   },
   "how-to-mix-drums-plugins": {
-    "category": null,
+    "category": "Bundle",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -1154,7 +1128,7 @@
     "products": []
   },
   "how-to-use-a-limiter-mastering": {
-    "category": null,
+    "category": "Limiter",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -1169,7 +1143,7 @@
     "products": []
   },
   "how-to-use-delay-mixing": {
-    "category": null,
+    "category": "Delay",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -1183,7 +1157,7 @@
     "products": []
   },
   "how-to-use-saturation-mixing": {
-    "category": null,
+    "category": "Saturation",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -1192,7 +1166,7 @@
     ]
   },
   "is-it-worth-waiting-for-black-friday-plugins": {
-    "category": null,
+    "category": "Bundle",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -1207,9 +1181,7 @@
     "category": null,
     "confidence": "pb_id",
     "kind": "review",
-    "products": [
-      "NI Komplete 15 Ultimate"
-    ]
+    "products": []
   },
   "is-omnisphere-worth-it-2026": {
     "category": null,
@@ -1221,44 +1193,33 @@
     "category": null,
     "confidence": "pb_id",
     "kind": "review",
-    "products": [
-      "Kilohearts Phase Plant"
-    ]
+    "products": []
   },
   "izotope-neutron-4-review": {
     "category": null,
     "confidence": "explicit",
     "kind": "review",
-    "products": [
-      "FabFilter Pro-Q 4"
-    ]
+    "products": []
   },
   "izotope-ozone-12-review": {
-    "category": null,
+    "category": "Mastering",
     "confidence": "explicit",
     "kind": "review",
-    "products": [
-      "FabFilter Pro-L 2",
-      "iZotope Ozone 12 Advanced"
-    ]
+    "products": []
   },
   "izotope-ozone-vs-fabfilter-mastering": {
-    "category": null,
+    "category": "Limiter",
     "confidence": "explicit",
     "kind": "comparison",
     "products": [
-      "FabFilter Pro-L 2",
-      "FabFilter Total Bundle",
-      "iZotope Ozone 12 Advanced"
+      "FabFilter Pro-L 2"
     ]
   },
   "izotope-ozone-vs-landr-mastering-2026": {
-    "category": null,
+    "category": "Mastering",
     "confidence": "pb_id",
     "kind": "comparison",
-    "products": [
-      "iZotope Ozone 12 Advanced"
-    ]
+    "products": []
   },
   "izotope-rx-review": {
     "category": null,
@@ -1273,7 +1234,7 @@
     "products": []
   },
   "juno-106-2c6c67": {
-    "category": null,
+    "category": "Synth",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -1293,16 +1254,13 @@
     "products": []
   },
   "landr-mastering-worth-it-2026": {
-    "category": null,
+    "category": "Mastering",
     "confidence": "explicit",
     "kind": "review",
-    "products": [
-      "FabFilter Pro-L 2",
-      "iZotope Ozone 12 Advanced"
-    ]
+    "products": []
   },
   "mastering-chain-plugins": {
-    "category": null,
+    "category": "EQ",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -1316,12 +1274,6 @@
     "category": null,
     "confidence": "exact",
     "kind": "comparison",
-    "products": []
-  },
-  "modo-drum-1-5-27f636": {
-    "category": "Drums",
-    "confidence": "exact",
-    "kind": "guide",
     "products": []
   },
   "nap-works-devious-pocket-is-a-standalone-dvs-device-no-more-": {
@@ -1364,18 +1316,13 @@
     "category": null,
     "confidence": "pb_id",
     "kind": "review",
-    "products": [
-      "Kilohearts Phase Plant",
-      "u-he Hive 2"
-    ]
+    "products": []
   },
   "phase-plant-vs-serum": {
-    "category": null,
+    "category": "Synth",
     "confidence": "pb_id",
     "kind": "comparison",
-    "products": [
-      "Kilohearts Phase Plant"
-    ]
+    "products": []
   },
   "plugin-boutique-vs-splice": {
     "category": null,
@@ -1384,7 +1331,7 @@
     "products": []
   },
   "plugins-never-pay-full-price": {
-    "category": null,
+    "category": "Bundle",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -1397,7 +1344,7 @@
     ]
   },
   "plugins-that-never-go-on-sale": {
-    "category": null,
+    "category": "Synth",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -1428,7 +1375,7 @@
     "products": []
   },
   "real-price-drops-report-2026-08": {
-    "category": null,
+    "category": "Compressor",
     "confidence": "exact",
     "kind": "guide",
     "products": [
@@ -1440,7 +1387,7 @@
     ]
   },
   "real-price-drops-report-2026-09": {
-    "category": null,
+    "category": "Effects",
     "confidence": "exact",
     "kind": "guide",
     "products": [
@@ -1476,7 +1423,7 @@
     "products": []
   },
   "serum-alternatives-paid-2026": {
-    "category": null,
+    "category": "Synth",
     "confidence": "explicit",
     "kind": "list",
     "products": [
@@ -1485,12 +1432,10 @@
     ]
   },
   "serum-vs-vital-comparison": {
-    "category": null,
+    "category": "Synth",
     "confidence": "explicit",
     "kind": "comparison",
     "products": [
-      "Kilohearts Phase Plant",
-      "Serum 2",
       "Vital"
     ]
   },
@@ -1498,10 +1443,7 @@
     "category": null,
     "confidence": "explicit",
     "kind": "review",
-    "products": [
-      "Kilohearts Phase Plant",
-      "Serum 2"
-    ]
+    "products": []
   },
   "softube-flow-studio-powerful-macro-mixing-with-a-hardware-tw": {
     "category": "Mastering",
@@ -1525,9 +1467,7 @@
     "category": null,
     "confidence": "pb_id",
     "kind": "review",
-    "products": [
-      "Soundtoys 5.5"
-    ]
+    "products": []
   },
   "spire-review-2026": {
     "category": "Synth",
@@ -1559,14 +1499,6 @@
     "kind": "comparison",
     "products": []
   },
-  "ssl-native-x-echo-de47c7": {
-    "category": null,
-    "confidence": "pb_id",
-    "kind": "guide",
-    "products": [
-      "SSL Native X-Echo"
-    ]
-  },
   "surge-xt-free-open-source-synth": {
     "category": "Synth",
     "confidence": "exact",
@@ -1580,37 +1512,27 @@
     "products": []
   },
   "tr-909-616049": {
-    "category": null,
+    "category": "Drums",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
       "TR-909"
     ]
   },
-  "tube-tech-cl-1b-mk-ii-1adc9c": {
-    "category": null,
-    "confidence": "exact",
-    "kind": "guide",
-    "products": []
-  },
   "u-he-diva-review": {
-    "category": null,
+    "category": "Synth",
     "confidence": "pb_id",
     "kind": "review",
-    "products": [
-      "Kilohearts Phase Plant"
-    ]
+    "products": []
   },
   "u-he-plugins-worth-buying-2026": {
     "category": null,
     "confidence": "pb_id",
     "kind": "review",
-    "products": [
-      "u-he Hive 2"
-    ]
+    "products": []
   },
   "unfiltered-audio-needlepoint-dc8e41": {
-    "category": null,
+    "category": "Saturation",
     "confidence": "pb_id",
     "kind": "guide",
     "products": [
@@ -1618,20 +1540,18 @@
     ]
   },
   "valhalla-room-vs-vintageverb": {
-    "category": null,
+    "category": "Reverb",
     "confidence": "explicit",
     "kind": "comparison",
     "products": [
-      "Valhalla Room",
-      "Valhalla VintageVerb"
+      "Valhalla Room"
     ]
   },
   "valhalla-vintageverb-review": {
-    "category": null,
+    "category": "Reverb",
     "confidence": "explicit",
     "kind": "review",
     "products": [
-      "Valhalla Room",
       "Valhalla VintageVerb"
     ]
   },
@@ -1642,15 +1562,13 @@
     "products": []
   },
   "vital-synthesizer-review-2026": {
-    "category": null,
+    "category": "Synth",
     "confidence": "pb_id",
-    "kind": "comparison",
-    "products": [
-      "Kilohearts Phase Plant"
-    ]
+    "kind": "review",
+    "products": []
   },
   "vocal-processing-chain-plugins": {
-    "category": null,
+    "category": "Bundle",
     "confidence": "explicit",
     "kind": "guide",
     "products": [
@@ -1681,170 +1599,45 @@
     "category": null,
     "confidence": "explicit",
     "kind": "review",
-    "products": [
-      "FabFilter Pro-Q 4",
-      "FabFilter Total Bundle"
-    ]
+    "products": []
   },
   "waves-vs-fabfilter-2026": {
     "category": null,
     "confidence": "pb_id",
     "kind": "comparison",
-    "products": [
-      "FabFilter Total Bundle"
-    ]
+    "products": []
   },
   "waves-vs-izotope-2026": {
     "category": null,
     "confidence": "pb_id",
     "kind": "comparison",
-    "products": [
-      "iZotope Ozone 12 Advanced"
-    ]
-  },
-  "when-does-addictive-drums-2-go-on-sale": {
-    "category": "Drums",
-    "confidence": "exact",
-    "kind": "when_does",
     "products": []
   },
   "when-does-ampex-atr-102-go-on-sale": {
     "category": "Saturation",
     "confidence": "exact",
     "kind": "when_does",
-    "products": []
-  },
-  "when-does-arturia-pigments-go-on-sale": {
-    "category": null,
-    "confidence": "pb_id",
-    "kind": "when_does",
     "products": [
-      "Kilohearts Phase Plant"
-    ]
-  },
-  "when-does-arturia-v-collection-go-on-sale": {
-    "category": "Bundle",
-    "confidence": "exact",
-    "kind": "when_does",
-    "products": []
-  },
-  "when-does-cherry-audio-mercury-6-go-on-sale": {
-    "category": null,
-    "confidence": "pb_id",
-    "kind": "when_does",
-    "products": [
-      "Cherry Audio Mercury 6"
-    ]
-  },
-  "when-does-fabfilter-pro-c-2-go-on-sale": {
-    "category": "Compressor",
-    "confidence": "exact",
-    "kind": "when_does",
-    "products": []
-  },
-  "when-does-fabfilter-pro-l-2-go-on-sale": {
-    "category": null,
-    "confidence": "pb_id",
-    "kind": "when_does",
-    "products": [
-      "FabFilter Pro-L 2"
-    ]
-  },
-  "when-does-fabfilter-pro-q-4-go-on-sale": {
-    "category": null,
-    "confidence": "pb_id",
-    "kind": "when_does",
-    "products": [
-      "FabFilter Pro-Q 4"
-    ]
-  },
-  "when-does-fabfilter-total-bundle-go-on-sale": {
-    "category": null,
-    "confidence": "pb_id",
-    "kind": "when_does",
-    "products": [
-      "FabFilter Total Bundle"
-    ]
-  },
-  "when-does-izotope-ozone-go-on-sale": {
-    "category": null,
-    "confidence": "pb_id",
-    "kind": "when_does",
-    "products": [
-      "FabFilter Pro-L 2",
-      "iZotope Ozone 12 Advanced"
-    ]
-  },
-  "when-does-little-alterboy-go-on-sale": {
-    "category": null,
-    "confidence": "pb_id",
-    "kind": "when_does",
-    "products": [
-      "Soundtoys Little AlterBoy"
-    ]
-  },
-  "when-does-modo-bass-go-on-sale": {
-    "category": null,
-    "confidence": "pb_id",
-    "kind": "when_does",
-    "products": [
-      "MODO BASS 2"
-    ]
-  },
-  "when-does-ni-komplete-go-on-sale": {
-    "category": "Bundle",
-    "confidence": "exact",
-    "kind": "when_does",
-    "products": []
-  },
-  "when-does-phase-plant-go-on-sale": {
-    "category": null,
-    "confidence": "pb_id",
-    "kind": "when_does",
-    "products": [
-      "Kilohearts Phase Plant"
-    ]
-  },
-  "when-does-scaler-3-go-on-sale": {
-    "category": null,
-    "confidence": "pb_id",
-    "kind": "when_does",
-    "products": [
-      "Scaler 3"
-    ]
-  },
-  "when-does-smooth-operator-pro-go-on-sale": {
-    "category": null,
-    "confidence": "pb_id",
-    "kind": "when_does",
-    "products": [
-      "Baby Audio Smooth Operator Pro"
+      "UAD Ampex ATR 102 Mastering Tape Recorder"
     ]
   },
   "when-does-soundtoys-5-go-on-sale": {
-    "category": null,
-    "confidence": "pb_id",
+    "category": "Bundle",
+    "confidence": "exact",
     "kind": "when_does",
     "products": [
-      "Soundtoys 5.5",
-      "Soundtoys Little AlterBoy"
+      "Soundtoys 5.5"
     ]
   },
   "when-does-ujam-transit-go-on-sale": {
-    "category": null,
-    "confidence": "pb_id",
+    "category": "Effects",
+    "confidence": "exact",
     "kind": "when_does",
     "products": [
       "Baby Audio Transit 2"
     ]
   },
   "zenology-pro-423247": {
-    "category": null,
-    "confidence": "exact",
-    "kind": "guide",
-    "products": []
-  },
-  "zynaptiq-morph-3-22ce9e": {
     "category": null,
     "confidence": "exact",
     "kind": "guide",

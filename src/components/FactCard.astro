@@ -4,6 +4,7 @@ import priceData from '../data/price_history.json';
 import { comparisonPriceFacts } from '../lib/priceInsights.mjs';
 import { isPricePageIndexable, slugifyProduct } from '../lib/indexPolicy.mjs';
 import { pbLink, formatPrice, isSearchUrl } from '../lib/priceUtils.ts';
+import { formatOsRequirement } from '../lib/formatOsRequirement.mjs';
 
 interface Props { product: string; slug: string }
 const { product, slug } = Astro.props;
@@ -15,7 +16,7 @@ const price = comparisonPriceFacts(entry);
 const display = (value: unknown) => value === null || value === undefined || value === '' ? 'not published' : Array.isArray(value) ? value.join(', ') : String(value);
 const money = (value: number | null | undefined) => value == null ? 'not published' : formatPrice(value);
 const fields = [
-  ['Formats', display(facts?.formats)], ['macOS', display(facts?.mac_req)], ['Windows', display(facts?.win_req)],
+  ['Formats', display(facts?.formats)], ['macOS', formatOsRequirement(facts?.mac_req)], ['Windows', formatOsRequirement(facts?.win_req)],
   ...([['apple_silicon', 'Apple Silicon'], ['copy_protection', 'Copy protection'], ['trial', 'Trial']] as const)
     .filter(([key]) => vendor?.[key]?.value != null).map(([key, label]) => [label, display(vendor[key].value)]),
   ['Typical regular', money(price?.regular)], ['Typical sale', money(price?.sale)],

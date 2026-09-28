@@ -4,7 +4,15 @@ import priceData from '../src/data/price_history.json' with { type: 'json' };
 import { dealScoreNumeric } from '../src/lib/priceUtils.ts';
 import { buildAuditIndex, comparableHistory, lowestSeen, pbPathOf, sourceKindOf } from '../src/lib/priceBasis.mjs';
 import { isPricePageIndexable, priceSubstance, saleEpisodeCount, ownTrackingDays } from '../src/lib/indexPolicy.mjs';
-import { buildPageFacts, buildDecisionAnswers, buildResearchNote, buildCoverageLine, summarizeVerdict, trackedSales, observedSaleBreaks, archivedPrices, confirmedArchiveSales, validUntil, sameCategoryPeers } from '../src/lib/priceInsights.mjs';
+import { buildPageFacts, buildDecisionAnswers, buildResearchNote, buildCoverageLine, summarizeVerdict, trackedSales, observedSaleBreaks, archivedPrices, confirmedArchiveSales, validUntil, sameCategoryPeers, listPriceChanges } from '../src/lib/priceInsights.mjs';
+
+test('list price changes require two consecutive observed checks at each level', () => {
+  const dates = ['2026-01-01', '2026-01-02', '2026-01-03', '2026-01-04'];
+  const noisy = [82.90, 199, 99, 199].map((price, i) => row(dates[i], price, null, 'auto_check', { reg_src: 'page' }));
+  assert.deepEqual(listPriceChanges(entry(noisy)), []);
+  const stable = [99, 99, 149, 149].map((price, i) => row(dates[i], price, null, 'auto_check', { reg_src: 'page' }));
+  assert.deepEqual(listPriceChanges(entry(stable)), [{ date: '2026-01-03', regular: 149 }]);
+});
 
 const row = (date, regular, sale, source = 'auto_check', extras = {}) => ({ date, regular, sale, source, ...extras });
 const entry = (history, extras = {}) => ({ pb_url: '/product/test', typical_regular: 100, typical_sale: 50, all_time_low: 40, history, ...extras });

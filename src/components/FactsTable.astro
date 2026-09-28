@@ -4,6 +4,7 @@ import priceData from '../data/price_history.json';
 import { comparisonPriceFacts } from '../lib/priceInsights.mjs';
 import { isPricePageIndexable, slugifyProduct } from '../lib/indexPolicy.mjs';
 import { pbLink, formatPrice, isSearchUrl } from '../lib/priceUtils.ts';
+import { formatOsRequirement } from '../lib/formatOsRequirement.mjs';
 
 interface Props { products: string[]; slug: string }
 const { products, slug } = Astro.props;
@@ -32,7 +33,7 @@ const money = (value: number | null | undefined) => value == null ? 'not publish
   </tr></thead><tbody>
     {rows.map((row) => <tr data-apple={String(Boolean(vendorValue(row, 'apple_silicon')))} data-no-ilok={String(typeof vendorValue(row, 'copy_protection') === 'string' && !/ilok/i.test(vendorValue(row, 'copy_protection')))} data-trial={String(Boolean(vendorValue(row, 'trial')))}>
       <th scope="row">{row.entry && isPricePageIndexable(row.entry) ? <a href={`/plugin-prices/${slugifyProduct(row.name)}/`}>{row.name}</a> : row.name}</th>
-      <td>{display(row.facts?.formats)}</td><td>{display(row.facts?.mac_req)}</td><td>{display(row.facts?.win_req)}</td>
+      <td>{display(row.facts?.formats)}</td><td>{formatOsRequirement(row.facts?.mac_req)}</td><td>{formatOsRequirement(row.facts?.win_req)}</td>
       {columns.map(([key]) => <td>{display(vendorValue(row, key))}</td>)}
       <td>{money(row.price?.regular)}</td><td>{money(row.price?.sale)}</td><td>{row.price?.hasPrice ? row.price.salesRecorded : 'not published'}</td><td>{money(row.price?.today)}</td>
       <td>{row.price?.hasPrice ? <span class={`facts-badge ${row.price.verdict.cls}`}>{row.price.verdict.label}</span> : 'not published'}</td>

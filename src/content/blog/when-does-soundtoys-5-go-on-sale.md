@@ -35,13 +35,13 @@ These periods reflect prices visible in our Plugin Boutique checks; the first re
 
 ## How long sales last and how far apart they are
 
-Completed observed periods lasted 26, 47 days. These are spans between checks, not confirmed store start and end dates.
+Completed observed periods lasted 26 days. These are spans between checks, not confirmed store start and end dates.
 
 Observed breaks between sale periods were 4 days, measured from the last sale check to the next sale check.
 
 Only one interval separates these two observed periods; it does not establish a recurring schedule.
 
-## List price history
+## Displayed prices we recorded
 
 | Archived Plugin Boutique page | Displayed price |
 |---|---:|
@@ -52,21 +52,5 @@ These are prices displayed on archived pages. An archived displayed price alone 
 ## Where today's price sits
 
 The latest readable price, $599 on 2026-09-25, was above the lowest price in our observed sale periods, $349. The difference was $250. This is a last observed price, not a live quote.
-
-## Sales reported elsewhere (not observed by our tracker)
-
-- Black Friday 2025 (November): approximately $239, reported by SoundToys Official.
-
-- Black Friday 2024 (Thomann): approximately $166, reported by Thomann.
-
-- Black Friday 2024 (PB/Official): approximately $199, reported by Plugin Boutique.
-
-- Black Friday 2023: approximately $199, reported by Plugin Boutique.
-
-- Spring 2024: approximately $299, reported by SoundToys Official.
-
-## Free alternatives
-
-- [Little AlterBoy (SoundToys)](https://www.pluginboutique.com/product/2-effects/5-Chorus-Vibrato/1376-Little-AlterBoy?a_aid=69cb95abe1763): Buy individual SoundToys plugins at 50-66% off instead of waiting for the bundle deal
 
 *Data: PluginDrop price tracker (22 checks since 2026-05-04) and Internet Archive snapshots of the Plugin Boutique product page. Last regenerated 2026-09-28.*
