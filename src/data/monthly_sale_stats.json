@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28",
+  "generated_at": "2026-09-29",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-09",
       "label": "September 2026",
       "is_current": true,
-      "generated_at": "2026-09-28",
-      "observations": 3254,
-      "products_tracked": 513,
-      "products_on_sale": 276,
-      "on_sale_pct": 53.8,
-      "avg_discount_pct": 57.7,
-      "median_discount_pct": 54.5,
+      "generated_at": "2026-09-29",
+      "observations": 3375,
+      "products_tracked": 516,
+      "products_on_sale": 278,
+      "on_sale_pct": 53.9,
+      "avg_discount_pct": 57.9,
+      "median_discount_pct": 55.5,
       "discount_buckets": {
         "1-19": 12,
         "20-39": 42,
         "40-59": 86,
-        "60+": 136
+        "60+": 138
       },
-      "all_time_low_hits": 241,
+      "all_time_low_hits": 242,
       "deepest_discounts": [
         {
           "name": "Platinum",
@@ -106,6 +106,16 @@
           "pb_url": "/product/1-Instruments/64-Virtual-Instruments/5506-PHAT-2"
         },
         {
+          "name": "ROWDY 2",
+          "slug": "rowdy-2",
+          "category": "Other",
+          "regular": 119.0,
+          "sale": 9.0,
+          "pct_off": 92,
+          "date": "2026-09-28",
+          "pb_url": "/product/1-Instruments/64-Virtual-Instruments/6261-ROWDY-2"
+        },
+        {
           "name": "ROYAL 2",
           "slug": "royal-2",
           "category": "Other",
@@ -164,16 +174,6 @@
           "pct_off": 90,
           "date": "2026-09-18",
           "pb_url": "/product/3-Studio-Tools/22-Sound-Editor/8666-SSL-Native-X-Phase"
-        },
-        {
-          "name": "Excite Audio Bundle Crossgrade From Any Excite Audio Product",
-          "slug": "excite-audio-bundle-crossgrade-from-any-excite-audio-product",
-          "category": "Other",
-          "regular": 1890.0,
-          "sale": 269.0,
-          "pct_off": 86,
-          "date": "2026-09-01",
-          "pb_url": "/product/81-Bundles/89-Complete-Collection/14789-Excite-Audio-Bundle-Crossgrade-From-Any-Excite-Audio-Product"
         }
       ],
       "all_time_low_products": [
@@ -227,6 +227,13 @@
           "date": "2026-09-01"
         },
         {
+          "name": "ROWDY 2",
+          "slug": "rowdy-2",
+          "sale": 9.0,
+          "all_time_low": 9.0,
+          "date": "2026-09-28"
+        },
+        {
           "name": "ROYAL 2",
           "slug": "royal-2",
           "sale": 9.0,
@@ -274,22 +281,15 @@
           "sale": 269.0,
           "all_time_low": 269.0,
           "date": "2026-09-01"
-        },
-        {
-          "name": "Empirical Labs EL8 Distressor Compressor",
-          "slug": "empirical-labs-el8-distressor-compressor",
-          "sale": 29.0,
-          "all_time_low": 29.0,
-          "date": "2026-09-01"
         }
       ],
       "by_category": [
         {
           "category": "Other",
-          "tracked": 355,
-          "on_sale": 213,
-          "on_sale_pct": 60.0,
-          "avg_discount_pct": 60.2
+          "tracked": 358,
+          "on_sale": 215,
+          "on_sale_pct": 60.1,
+          "avg_discount_pct": 60.4
         },
         {
           "category": "Synth",
@@ -393,10 +393,10 @@
       "by_brand": [
         {
           "category": "Other",
-          "tracked": 164,
-          "on_sale": 123,
-          "on_sale_pct": 75.0,
-          "avg_discount_pct": 60.6
+          "tracked": 167,
+          "on_sale": 125,
+          "on_sale_pct": 74.9,
+          "avg_discount_pct": 60.9
         },
         {
           "category": "Universal Audio",
@@ -632,16 +632,16 @@
       ],
       "vs_previous_month": {
         "month": "2026-08",
-        "on_sale_pct_delta": -6.9,
-        "avg_discount_pct_delta": 4.3,
-        "products_tracked_delta": 88
+        "on_sale_pct_delta": -6.8,
+        "avg_discount_pct_delta": 4.5,
+        "products_tracked_delta": 91
       }
     },
     {
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-09-28",
+      "generated_at": "2026-09-29",
       "observations": 3587,
       "products_tracked": 425,
       "products_on_sale": 258,
@@ -1237,7 +1237,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-09-28",
+      "generated_at": "2026-09-29",
       "observations": 1968,
       "products_tracked": 289,
       "products_on_sale": 142,

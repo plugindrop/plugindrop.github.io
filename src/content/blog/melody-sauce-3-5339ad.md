@@ -14,7 +14,7 @@ saleExpiry: "2026-10-28"
 saleExpirySource: "fallback"
 draft: false
 ---
-**TL;DR:** Melody Sauce 3 is $79 at Plugin Boutique, down from a regular price of ~~$99~~. PluginDrop's tracker puts that within 5% of the lowest price it has recorded. [Check the current listing here](https://www.pluginboutique.com/search?q=Melody+Sauce+3&a_aid=69cb95abe1763&chan=trk&data1=melody-sauce-3-5339ad&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-5339ad).
+**TL;DR:** Melody Sauce 3 is $79 at Plugin Boutique, down from a regular price of ~~$99~~. PluginDrop's tracker puts that within 5% of the lowest price it has recorded. [Check the current listing here](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15887-Melody-Sauce-3?a_aid=69cb95abe1763&chan=trk&data1=melody-sauce-3-5339ad&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-5339ad).
 
 <!-- deal-context-sale-windows:start -->
 ## Last three times this went on sale
@@ -46,7 +46,7 @@ Once you like an idea, you take it forward like any other part. From there it go
 
 The current price is $79 against a regular price of $99. PluginDrop has tracked Melody Sauce 3 since 2026-07-26 across 16 observations. In that window the lowest tracked price is $79, and the typical sale price is also $79.
 
-That means $79 is the usual sale level, not a one-off dip. If you have been waiting for it to drop below that, the tracking history gives no sign of it. Check the product page for current pricing before you buy, and grab it through [Plugin Boutique](https://www.pluginboutique.com/search?q=Melody+Sauce+3&a_aid=69cb95abe1763&chan=trk&data1=melody-sauce-3-5339ad&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-5339ad) if it suits your setup.
+That means $79 is the usual sale level, not a one-off dip. If you have been waiting for it to drop below that, the tracking history gives no sign of it. Check the product page for current pricing before you buy, and grab it through [Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15887-Melody-Sauce-3?a_aid=69cb95abe1763&chan=trk&data1=melody-sauce-3-5339ad&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-5339ad) if it suits your setup.
 
 ## Skip it if
 
