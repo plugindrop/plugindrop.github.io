@@ -1977,6 +1977,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 199.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/analog-lab-pro.jpg"
@@ -2311,6 +2320,16 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 499.0,
+          "sale": 199.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD",
+          "until": "2026-09-30"
         }
       ],
       "image": "/images/plugin-prices/analog-polysynth-collection.jpg"
@@ -2476,6 +2495,15 @@
       "history": [
         {
           "date": "2026-09-23",
+          "regular": 199,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": 199,
           "sale": null,
           "source": "auto_check",
@@ -2683,6 +2711,15 @@
       "history": [
         {
           "date": "2026-09-23",
+          "regular": 149,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": 149,
           "sale": null,
           "source": "auto_check",
@@ -3126,6 +3163,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 199,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "category": "Instrument"
@@ -3336,6 +3382,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 149,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "category": "Synth"
@@ -3455,6 +3510,15 @@
         },
         {
           "date": "2026-09-23",
+          "regular": 99.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": 99.0,
           "sale": null,
           "source": "auto_check",
@@ -4198,6 +4262,15 @@
         },
         {
           "date": "2026-09-23",
+          "regular": 199.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": 199.0,
           "sale": null,
           "source": "auto_check",
@@ -5105,6 +5178,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 39,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/baby-audio-i-heart-ny.jpg"
@@ -5233,6 +5315,15 @@
         },
         {
           "date": "2026-09-23",
+          "regular": 99,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": 99,
           "sale": null,
           "source": "auto_check",
@@ -5430,6 +5521,15 @@
         },
         {
           "date": "2026-09-23",
+          "regular": 69,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": 69,
           "sale": null,
           "source": "auto_check",
@@ -6721,6 +6821,15 @@
         },
         {
           "date": "2026-09-23",
+          "regular": 129,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": 129,
           "sale": null,
           "source": "auto_check",
@@ -8223,6 +8332,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 129,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "category": "Effects"
@@ -9223,6 +9341,15 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/cherry-audio-dco-106.jpg"
@@ -9375,6 +9502,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 29,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/cherry-audio-dco-106.jpg"
@@ -9490,6 +9626,15 @@
         },
         {
           "date": "2026-09-23",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -9774,6 +9919,15 @@
         },
         {
           "date": "2026-09-23",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -11260,6 +11414,15 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/cherry-audio-memorymode-2.jpg"
@@ -11754,6 +11917,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 49,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/cherry-audio-mercury-4.jpg"
@@ -11893,6 +12065,15 @@
         },
         {
           "date": "2026-09-23",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -12678,6 +12859,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 29,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/cherry-audio-ps-20.jpg"
@@ -12835,6 +13025,15 @@
         },
         {
           "date": "2026-09-23",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -13077,6 +13276,15 @@
         },
         {
           "date": "2026-09-23",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -13477,6 +13685,15 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/cherry-audio-stardust-201-tape-echo.jpg"
@@ -13780,6 +13997,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 99,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/cherry-audio-voltage-modular-core-electro-drums.jpg"
@@ -13931,6 +14157,15 @@
         },
         {
           "date": "2026-09-23",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -14327,6 +14562,15 @@
         },
         {
           "date": "2026-09-23",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -14962,6 +15206,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-09-28"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 359.99,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/cubase-pro-15-competitive-crossgrade.jpg"
@@ -19706,6 +19959,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 149,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "category": "Effects"
@@ -20341,6 +20603,15 @@
         },
         {
           "date": "2026-09-23",
+          "regular": 99,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": 99,
           "sale": null,
           "source": "auto_check",
@@ -21348,6 +21619,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 149,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/eventide-tverb.jpg"
@@ -21524,6 +21804,15 @@
         },
         {
           "date": "2026-09-23",
+          "regular": 99,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": 99,
           "sale": null,
           "source": "auto_check",
@@ -23580,6 +23869,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 109.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/expanse-3d.jpg"
@@ -23937,6 +24235,15 @@
       "history": [
         {
           "date": "2026-09-23",
+          "regular": 199,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": 199,
           "sale": null,
           "source": "auto_check",
@@ -26702,6 +27009,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 119.99,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "category": "Synth"
@@ -26715,6 +27031,15 @@
       "history": [
         {
           "date": "2026-09-23",
+          "regular": 119.99,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": 119.99,
           "sale": null,
           "source": "auto_check",
@@ -27390,6 +27715,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 229,
+          "sale": 149.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ]
     },
@@ -27598,6 +27932,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 549,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "category": "Instrument"
@@ -27660,6 +28003,16 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 149.0,
+          "sale": 99.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD",
+          "until": "2026-10-04"
         }
       ],
       "image": "/images/plugin-prices/intensity-2.jpg"
@@ -28143,6 +28496,16 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 129.0,
+          "sale": 9.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD",
+          "until": "2026-10-11"
         }
       ],
       "image": "/images/plugin-prices/iron-2.jpg"
@@ -30485,6 +30848,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 79,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/kilohearts-carve-eq.jpg"
@@ -31331,6 +31703,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 49,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/kilohearts-multipass.jpg"
@@ -31912,6 +32293,15 @@
         },
         {
           "date": "2026-09-23",
+          "regular": 79,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": 79,
           "sale": null,
           "source": "auto_check",
@@ -36130,6 +36520,48 @@
       "notes": "Auto-discovered 2026-07-17",
       "history": [
         {
+          "date": "2022-09-03",
+          "regular": 49.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-10-24",
+          "regular": 40.3,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-11-29",
+          "regular": 32.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-01-07",
+          "regular": 34.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-12-09",
+          "regular": 24.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-03-11",
+          "regular": 29.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-06-20",
+          "regular": 49.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
           "date": "2026-07-18",
           "regular": null,
           "sale": null,
@@ -36239,48 +36671,6 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
-        },
-        {
-          "date": "2022-09-03",
-          "regular": 49.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-10-24",
-          "regular": 40.3,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-11-29",
-          "regular": 32.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-01-07",
-          "regular": 34.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-12-09",
-          "regular": 24.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-03-11",
-          "regular": 29.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-06-20",
-          "regular": 49.0,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/minimal-audio-morph-eq.jpg"
@@ -38038,6 +38428,15 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/native-instruments-24k-keys.jpg"
@@ -38215,6 +38614,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 199,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/native-instruments-battery-4.jpg"
@@ -38367,6 +38775,15 @@
         },
         {
           "date": "2026-09-22",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -39045,6 +39462,15 @@
         },
         {
           "date": "2026-09-22",
+          "regular": 189,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": 189,
           "sale": null,
           "source": "auto_check",
@@ -40329,6 +40755,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 199,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "category": "Synth",
@@ -40704,6 +41139,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 99,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/native-instruments-reaktor-6.jpg"
@@ -40886,6 +41330,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 49,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/native-instruments-replika-xt.jpg"
@@ -40971,6 +41424,15 @@
         },
         {
           "date": "2026-09-22",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -41898,6 +42360,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 49,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/native-instruments-supercharger-gt.jpg"
@@ -42050,6 +42521,15 @@
         },
         {
           "date": "2026-09-22",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -42281,6 +42761,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 80.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/notes.jpg"
@@ -42441,6 +42930,15 @@
         },
         {
           "date": "2026-09-22",
+          "regular": 119.99,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": 119.99,
           "sale": null,
           "source": "auto_check",
@@ -42785,6 +43283,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 199,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/output-analog-strings.jpg"
@@ -42997,6 +43504,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 199,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/output-exhale.jpg"
@@ -43173,6 +43689,15 @@
         },
         {
           "date": "2026-09-22",
+          "regular": 149,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": 149,
           "sale": null,
           "source": "auto_check",
@@ -43714,6 +44239,15 @@
         },
         {
           "date": "2026-09-22",
+          "regular": 199,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": 199,
           "sale": null,
           "source": "auto_check",
@@ -45061,6 +45595,15 @@
         },
         {
           "date": "2026-09-22",
+          "regular": 89.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": 89.0,
           "sale": null,
           "source": "auto_check",
@@ -48397,6 +48940,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 49.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/ssl-native-x-saturator.jpg"
@@ -48718,6 +49270,15 @@
         },
         {
           "date": "2026-09-22",
+          "regular": 49.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": 49.0,
           "sale": null,
           "source": "auto_check",
@@ -49470,6 +50031,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 249,
+          "sale": 159.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ]
     },
@@ -50059,6 +50629,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-09-28"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 99,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/sonible-entropy-eq.jpg"
@@ -50199,6 +50778,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-09-28"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/sonible-prime-vocal.jpg"
@@ -50361,6 +50949,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-09-28"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 99,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/sonible-proximity-eq.jpg"
@@ -50740,6 +51337,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-09-28"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/sonible-smart-deess.jpg"
@@ -50904,6 +51510,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-09-28"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/sonible-smart-gate.jpg"
@@ -51221,6 +51836,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-09-28"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 129,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "category": "EQ",
@@ -51384,6 +52008,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-09-28"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 129,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/sonible-smart-comp-3.jpg"
@@ -51618,6 +52251,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-09-28"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 129,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/sonible-smart-limit.jpg"
@@ -51792,6 +52434,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-09-28"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 129,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/sonible-smart-reverb-2.jpg"
@@ -52498,6 +53149,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 280,
+          "sale": 244.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/sonnox-oxford-supresser.jpg"
@@ -52928,6 +53588,15 @@
         },
         {
           "date": "2026-09-22",
+          "regular": 99.99,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": 99.99,
           "sale": null,
           "source": "auto_check",
@@ -54093,6 +54762,15 @@
         },
         {
           "date": "2026-09-22",
+          "regular": 299.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": 299.0,
           "sale": null,
           "source": "auto_check",
@@ -55345,6 +56023,15 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/soundtoys-primaltap.jpg"
@@ -55798,6 +56485,15 @@
         },
         {
           "date": "2026-09-22",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": null,
           "sale": null,
           "source": "auto_check",
@@ -56467,6 +57163,15 @@
           "store": "spitfire_audio",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 449,
+          "sale": null,
+          "source": "auto_check",
+          "store": "spitfire_audio",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/spitfire-albion-colossus.jpg"
@@ -56559,6 +57264,15 @@
         },
         {
           "date": "2026-09-22",
+          "regular": 449,
+          "sale": null,
+          "source": "auto_check",
+          "store": "spitfire_audio",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": 449,
           "sale": null,
           "source": "auto_check",
@@ -56802,6 +57516,15 @@
           "store": "spitfire_audio",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 449,
+          "sale": null,
+          "source": "auto_check",
+          "store": "spitfire_audio",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/spitfire-eric-whitacre-choir.jpg"
@@ -56910,6 +57633,15 @@
         },
         {
           "date": "2026-09-22",
+          "regular": 629,
+          "sale": null,
+          "source": "auto_check",
+          "store": "spitfire_audio",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": 629,
           "sale": null,
           "source": "auto_check",
@@ -57521,6 +58253,15 @@
         },
         {
           "date": "2026-09-22",
+          "regular": 79.0,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": 79.0,
           "sale": null,
           "source": "auto_check",
@@ -62417,6 +63158,15 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": null,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": null,
+          "cur": "USD"
         }
       ]
     },
@@ -63785,6 +64535,16 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 149.0,
+          "sale": 39.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD",
+          "until": "2026-09-30"
         }
       ],
       "image": "/images/plugin-prices/uad-moog-minimoog.jpg"
@@ -67072,6 +67832,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 299,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/uvi-falcon-3.jpg"
@@ -69663,6 +70432,16 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 149.0,
+          "sale": 79.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD",
+          "until": "2026-10-25"
         }
       ],
       "image": "/images/plugin-prices/wormhole.jpg"
@@ -70849,6 +71628,15 @@
           "regular": 109,
           "sale": null,
           "source": "research"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 109,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/waves-vocal-rider.jpg"
@@ -71940,7 +72728,7 @@
       "pb_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/1191-Addictive-Keys-Studio-Grand",
       "typical_regular": 99,
       "typical_sale": 59.4,
-      "all_time_low": null,
+      "all_time_low": 59.0,
       "notes": "XLN Audio. Addictive Keys is sold as individual instruments (e.g. Studio Grand, priced here) as well as a $249 Complete Collection direct from XLN. Plugin Boutique promo documented at $59.40 (40% off $99); no dated all-time-low record was found.",
       "category": "Instrument",
       "history": [
@@ -72096,6 +72884,16 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 99.0,
+          "sale": 59.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD",
+          "until": "2026-10-06"
         }
       ],
       "image": "/images/plugin-prices/xln-audio-addictive-keys.jpg"
@@ -74614,6 +75412,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 199,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/izotope-insight-2.jpg"
@@ -75582,6 +76389,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
+          "regular": 199,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/izotope-vocalsynth-2.jpg"
@@ -76532,6 +77348,15 @@
         },
         {
           "date": "2026-09-22",
+          "regular": 179,
+          "sale": null,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-09-29",
           "regular": 179,
           "sale": null,
           "source": "auto_check",
