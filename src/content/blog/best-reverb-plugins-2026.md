@@ -8,6 +8,7 @@ heroImage: "/images/best-reverb-plugins-2026.jpg"
 evergreen: true
 score: 8.00
 xText: "New guide: Best Reverb Plugins 2026: Free & Paid Options Compared"
+saleExpiry: '2026-08-28'
 draft: false
 priceTrack:
   - "FabFilter Pro-R 2"

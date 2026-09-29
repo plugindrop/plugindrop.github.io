@@ -36239,48 +36239,6 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
-        },
-        {
-          "date": "2022-09-03",
-          "regular": 49.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-10-24",
-          "regular": 40.3,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-11-29",
-          "regular": 32.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-01-07",
-          "regular": 34.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-12-09",
-          "regular": 24.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-03-11",
-          "regular": 29.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-06-20",
-          "regular": 49.0,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/minimal-audio-morph-eq.jpg"

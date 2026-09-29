@@ -9,6 +9,7 @@ score: 8.00
 discount: "70% OFF"
 xText: "New guide: Best Plugin Bundle Deals in 2026: Maximum Value, Minimum Spe..."
 heroImage: "/images/best-plugin-bundle-deals.jpg"
+saleExpiry: '2025-11-22'
 draft: false
 priceTrack:
   - "FabFilter Pro-Q 4"
