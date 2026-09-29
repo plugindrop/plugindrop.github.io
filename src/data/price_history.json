@@ -2302,6 +2302,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-09-30"
+        },
+        {
+          "date": "2026-09-29",
+          "sale": 199.0,
+          "regular": 499.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/analog-polysynth-collection.jpg"
@@ -59113,6 +59122,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-09-30"
+        },
+        {
+          "date": "2026-09-29",
+          "sale": 149.99,
+          "regular": 599.99,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/total-studio-5-max.jpg"
