@@ -233,6 +233,8 @@ The best plugin bundle deals in 2026 are defined by three factors: per-plugin va
 | --- | ---: | ---: | ---: | --- | --- |
 | FabFilter Pro-Q 4 | $199 | $149 | 2 | 2025-11-22 | At or above typical regular |
 | FabFilter Total Bundle | $1,176 | $882 | 3 | 2026-07-12 to 2026-09-25 | Between typical sale and regular |
+| [Waves Gold Bundle](/plugin-prices/waves-gold-bundle/) | $879 | $99 | 5 | 2026-08-18 to 2026-09-27 | Between typical sale and regular |
+| [Waves Platinum Bundle](/plugin-prices/waves-platinum-bundle/) | $1,999 | $99 | 4 | 2026-09-12 to 2026-09-27 | Between typical sale and regular |
 
 Prices reflect recorded checks, not every day of a sale.
 <!-- pd:price-records:end -->

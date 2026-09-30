@@ -23,5 +23,5 @@ test('null fact cells are rendered as not published', () => {
 });
 
 test('a list with fewer than two mapped products has no fact table', () => {
-  assert.doesNotMatch(post('best-bass-guitar-vst-plugins'), /<div class="facts-table-block" data-facts-table\b/);
+  assert.doesNotMatch(post('best-limiter-plugins-2026'), /<div class="facts-table-block" data-facts-table\b/);
 });

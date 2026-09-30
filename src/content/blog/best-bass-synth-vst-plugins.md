@@ -282,3 +282,16 @@ For most producers in 2026, the practical path is: start with Surge XT or Vital'
 
 This list brings together publicly available feature information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
 <!-- pd:method:end -->
+
+<!-- pd:price-records:start -->
+## PluginDrop price records for the products in this list
+
+| Product | Typical regular | Typical sale | Sales recorded | Latest sale period | Today's price position |
+| --- | ---: | ---: | ---: | --- | --- |
+| Arturia Pigments | $199 | $99 | 2 | 2026-07-21 to 2026-08-15 | At or above typical regular |
+| Kilohearts Phase Plant | $199 | $119 | 2 | 2026-02-01 | At or above typical regular |
+| [SubLab XL](/plugin-prices/sublab-xl/) | $80 | $39 | 2 | 2026-08-05 to 2026-09-25 | At or below typical sale |
+| u-he Diva | $179 | $89 | 3 | 2026-08-16 to 2026-09-01 | At or above typical regular |
+
+Prices reflect recorded checks, not every day of a sale.
+<!-- pd:price-records:end -->

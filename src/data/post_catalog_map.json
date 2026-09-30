@@ -50,6 +50,8 @@
     "confidence": "exact",
     "kind": "comparison",
     "products": [
+      "Arturia V Collection 11 Pro",
+      "NI Komplete 15 Standard",
       "NI Komplete 15 Ultimate"
     ]
   },
@@ -99,14 +101,22 @@
     "confidence": "pb_id",
     "kind": "list",
     "products": [
-      "MODO BASS 2"
+      "MODO BASS 2",
+      "Spectrasonics Trilian",
+      "Toontrack EZbass"
     ]
   },
   "best-bass-synth-vst-plugins": {
     "category": "Synth",
-    "confidence": "exact",
+    "confidence": "table",
     "kind": "list",
-    "products": []
+    "products": [
+      "Arturia Pigments",
+      "Kilohearts Phase Plant",
+      "SubLab XL",
+      "Vital",
+      "u-he Diva"
+    ]
   },
   "best-compressor-plugins-2026": {
     "category": "Compressor",
@@ -502,7 +512,10 @@
     "kind": "list",
     "products": [
       "FabFilter Pro-Q 4",
-      "FabFilter Total Bundle"
+      "FabFilter Total Bundle",
+      "Waves Gold Bundle",
+      "Waves Platinum Bundle",
+      "iZotope Music Production Suite"
     ]
   },
   "best-plugins-for-film-scoring": {
@@ -698,10 +711,13 @@
     ]
   },
   "best-vinyl-simulation-vst-plugins": {
-    "category": null,
-    "confidence": "exact",
+    "category": "Effects",
+    "confidence": "table",
     "kind": "list",
-    "products": []
+    "products": [
+      "Baby Audio TAIP",
+      "XLN Audio RC-20 Retro Color"
+    ]
   },
   "best-vocoder-vst-plugins": {
     "category": null,
@@ -720,7 +736,8 @@
     "confidence": "explicit",
     "kind": "list",
     "products": [
-      "FabFilter Pro-Q 4"
+      "FabFilter Pro-Q 4",
+      "Vital"
     ]
   },
   "best-vst-plugins-for-metal-2026": {
@@ -1223,7 +1240,11 @@
     "category": "Mastering",
     "confidence": "explicit",
     "kind": "comparison",
-    "products": []
+    "products": [
+      "FabFilter Pro-L 2",
+      "iZotope Ozone 12 Advanced",
+      "iZotope Ozone 12 Standard"
+    ]
   },
   "izotope-ozone-vs-landr-mastering-2026": {
     "category": "Mastering",
@@ -1555,10 +1576,14 @@
     ]
   },
   "u-he-plugins-worth-buying-2026": {
-    "category": null,
+    "category": "Synth",
     "confidence": "pb_id",
-    "kind": "review",
-    "products": []
+    "kind": "list",
+    "products": [
+      "u-he Diva",
+      "u-he Hive 2",
+      "u-he Repro"
+    ]
   },
   "unfiltered-audio-needlepoint-dc8e41": {
     "category": "Saturation",

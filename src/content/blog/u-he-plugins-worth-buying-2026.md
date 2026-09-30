@@ -211,3 +211,15 @@ u-he's lineup holds up because the developer hasn't chased trends — the circui
 
 This article brings together publicly available product information and linked community discussions. We have not tested the product hands-on. Prices come from PluginDrop's tracking. See our [editorial policy](/editorial-policy/) for how we assess sources.
 <!-- pd:method:end -->
+
+<!-- pd:price-records:start -->
+## PluginDrop price records for the products in this list
+
+| Product | Typical regular | Typical sale | Sales recorded | Latest sale period | Today's price position |
+| --- | ---: | ---: | ---: | --- | --- |
+| u-he Diva | $179 | $89 | 3 | 2026-08-16 to 2026-09-01 | At or above typical regular |
+| u-he Hive 2 | $149 | $104 | 3 | 2026-08-16 to 2026-09-01 | At or above typical regular |
+| [u-he Repro](/plugin-prices/u-he-repro/) | $149 | $99 | 3 | 2026-08-15 to 2026-08-31 | At or above typical regular |
+
+Prices reflect recorded checks, not every day of a sale.
+<!-- pd:price-records:end -->
