@@ -24,7 +24,7 @@ priceTrack:
 | Xfer OTT | Free | Multiband compression | [Plugin Boutique](https://xferrecords.com/freeware) |
 | Klanghelm SDRR | $21 | Saturation & drive | [Plugin Boutique](https://www.pluginboutique.com/search?q=Klanghelm%20SDRR&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | TDR Nova | Free | Dynamic EQ | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
-| Sitala | $20 (v2.1.2); older v1.0.9 free | Drum sampling | [Plugin Boutique](https://www.pluginboutique.com/search?q=Sitala%20drum%20sampler&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
+| Sitala | $20 (v2.1.2); older v1.0.9 free | Drum sampling | [Decomposer](https://decomposer.de/sitala/) |
 | Surge XT | Free | Full hybrid synthesizer | [Free Download](https://surge-synthesizer.github.io/) |
 
 ---
@@ -295,7 +295,6 @@ Sitala is a 16-pad drum sampler built on a simple, focused principle: drag sampl
 
 **Best for:** Drum programming, sample-based beatmaking, quick pad assignments for live performance.
 
-[→ Get Sitala on Plugin Boutique](https://www.pluginboutique.com/search?q=Sitala%20drum%20sampler&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars)
 [→ Sitala at Decomposer (v2 $20, v1 free)](https://decomposer.de/sitala/)
 
 ---
@@ -359,7 +358,7 @@ MFreeFXBundle is the most generous free plugin release in the industry — a lar
 | Chow Tape Model | Free | Tape Emulation | Physically modeled, open-source | [Get](https://www.pluginboutique.com/product/2-Effects/44-Saturation/7318-CHOW-Tape-Model?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | Surge XT | Free | Synthesizer | Hybrid engine, massive preset library | [Get](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17453-Surge-XT?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | u-he Zebralette | Free | Synthesizer | Spectral oscillator, u-he quality | [Get](https://www.pluginboutique.com/search?q=u-he%20Zebralette&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
-| Sitala | $20 (v1 free) | Drum Sampler | 16-pad, no-friction workflow | [Get](https://www.pluginboutique.com/search?q=Sitala%20drum%20sampler&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
+| Sitala | $20 (v1 free) | Drum Sampler | 16-pad, no-friction workflow | [Get](https://decomposer.de/sitala/) |
 | Melda MFreeFXBundle | Free | Bundle | Dozens of processors, no watermarks | [Get](https://www.pluginboutique.com/search?q=Melda%20MFreeFXBundle&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 
 *TDR Limiter 6 GE regularly sells below $50 during Plugin Boutique sales events.
