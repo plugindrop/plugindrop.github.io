@@ -268,7 +268,14 @@
     "plans": null
   },
   "vp-ableton-live": {
-    "price": null,
+    "price": {
+      "value": 14800,
+      "display": "¥14,800",
+      "source_url": "https://www.ableton.com/en/shop/live/?tab=buy-now",
+      "quote": "Live 12 Intro Essentials – 16 tracks and 5+ GB of sounds ¥14,800",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-30"
+    },
     "is_free": null,
     "formats": null,
     "macos_min": {
@@ -276,14 +283,14 @@
       "source_url": "https://www.ableton.com/en/shop/live/?tab=buy-now",
       "quote": "ets created or saved in Live 12 can’t be opened in earlier versions. Have more questions? Browse the Knowledge Base Live 12 System Requirements macOS Windows macOS macOS 11 Big Sur or hi",
       "source_kind": "vendor",
-      "fetched_at": "2026-09-28"
+      "fetched_at": "2026-09-30"
     },
     "windows_min": {
       "value": "Windows 10",
       "source_url": "https://www.ableton.com/en/shop/live/?tab=buy-now",
       "quote": "e basic installation Up to 76 GB disk space for additionally available sound content Windows Windows 10 (Version 22H2) or Windows 11 (version 22H2 or higher) 5th generation Intel® Core™ i5 processor or AMD Ryzen",
       "source_kind": "vendor",
-      "fetched_at": "2026-09-28"
+      "fetched_at": "2026-09-30"
     },
     "apple_silicon": null,
     "copy_protection": null,
@@ -292,7 +299,35 @@
     "release_date": null,
     "library_size": null,
     "requires_player": null,
-    "plans": null
+    "plans": [
+      {
+        "name": "Live 12 Intro",
+        "display": "¥14,800",
+        "period": "one_time",
+        "source_url": "https://www.ableton.com/en/shop/live/?tab=buy-now",
+        "quote": "Live 12 Intro Essentials – 16 tracks and 5+ GB of sounds ¥14,800",
+        "source_kind": "vendor",
+        "fetched_at": "2026-09-30"
+      },
+      {
+        "name": "Live 12 Standard",
+        "display": "¥49,800",
+        "period": "one_time",
+        "source_url": "https://www.ableton.com/en/shop/live/?tab=buy-now",
+        "quote": "Live 12 Standard Expanded features – ... ¥49,800",
+        "source_kind": "vendor",
+        "fetched_at": "2026-09-30"
+      },
+      {
+        "name": "Live 12 Suite",
+        "display": "¥89,800",
+        "period": "one_time",
+        "source_url": "https://www.ableton.com/en/shop/live/?tab=buy-now",
+        "quote": "Live 12 Suite Complete studio – 71+ G ... or Live and all instruments and effects ¥89,800",
+        "source_kind": "vendor",
+        "fetched_at": "2026-09-30"
+      }
+    ]
   },
   "vp-spitfire-audio-bbc-symphony-orchestra": {
     "price": null,
@@ -749,5 +784,142 @@
     "library_size": null,
     "requires_player": null,
     "plans": null
+  },
+  "vp-image-line-fl-studio": {
+    "price": {
+      "value": 99.0,
+      "source_url": "https://www.image-line.com/fl-studio/pricing",
+      "quote": "FL Studio Pricing & Editions – From $99 | Image-Line Features Pricing Try for free Learn Help & Manuals Sign In My Account Try fo",
+      "source_kind": "vendor",
+      "display": "$99",
+      "fetched_at": "2026-09-30"
+    },
+    "is_free": null,
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": [
+      {
+        "name": "Fruity Edition",
+        "display": "¥15,600",
+        "period": "one_time",
+        "source_url": "https://www.image-line.com/fl-studio/pricing",
+        "quote": "Fruity Edition Your Edition ¥ 15,600 Lifetime FL Studio license + 82 instruments and effects, no audio recording, no stem separation.",
+        "source_kind": "vendor",
+        "fetched_at": "2026-09-30"
+      },
+      {
+        "name": "Producer Edition",
+        "display": "¥36,200",
+        "period": "one_time",
+        "source_url": "https://www.image-line.com/fl-studio/pricing",
+        "quote": "Producer Edition Your Edition Most popular ¥ 36,200 Lifetime FL Studio license + 93 instruments and effects, includes audio recording and stem separation.",
+        "source_kind": "vendor",
+        "fetched_at": "2026-09-30"
+      },
+      {
+        "name": "Signature Bundle",
+        "display": "¥50,400",
+        "period": "one_time",
+        "source_url": "https://www.image-line.com/fl-studio/pricing",
+        "quote": "Signature Bundle Your Edition ¥ 50,400 Lifetime FL Studio license + 103 instruments and effects, includes audio recording and stem separation.",
+        "source_kind": "vendor",
+        "fetched_at": "2026-09-30"
+      },
+      {
+        "name": "All Plugins Edition",
+        "display": "¥85,200",
+        "period": "one_time",
+        "source_url": "https://www.image-line.com/fl-studio/pricing",
+        "quote": "All Plugins Edition Your Edition ¥ 85,200 Lifetime FL Studio license + 118 instruments and effects, includes audio recording and stem separation.",
+        "source_kind": "vendor",
+        "fetched_at": "2026-09-30"
+      }
+    ]
+  },
+  "vp-celemony-melodyne-5-editor": {
+    "price": {
+      "value": 399.0,
+      "display": "$399",
+      "source_url": "https://www.celemony.com/en/melodyne/melodyne-5-editions",
+      "quote": "Melodyne 5 editor Melodyne power for vocals, instruments of all kinds, and samples. Melodyne 5 editor contains all the professional vocal functions. Plus the legendary DNA algorithm for polyphonic audio. With it, you can adapt any library sample to the chords of your song. US$399 US$499 Buy now",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-30"
+    },
+    "is_free": null,
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-antares-auto-tune-pro": {
+    "price": {
+      "value": 107514,
+      "display": "¥107,514",
+      "source_url": "https://www.antarestech.com/products/pitch-correction/pro",
+      "quote": "AutoTune Pro 11 ¥107,514 or ¥3,136 /month Buy now Try for free",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-30"
+    },
+    "is_free": null,
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-splice-sounds": {
+    "price": null,
+    "is_free": null,
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": [
+      {
+        "name": "Creator",
+        "display": "$19.99/mo",
+        "period": "month",
+        "source_url": "https://splice.com/splice-plans",
+        "quote": "Creator Best for frequent creators Trial offer $4.99 Regular price: $19.99 /mo for the first month ~200 monthly downloads",
+        "source_kind": "vendor",
+        "fetched_at": "2026-09-30"
+      },
+      {
+        "name": "Sounds",
+        "display": "$12.99/mo",
+        "period": "year",
+        "source_url": "https://splice.com/splice-plans",
+        "quote": "Sounds Best for occasional makers $12.99 /mo billed yearly ~100 monthly downloads",
+        "source_kind": "vendor",
+        "fetched_at": "2026-09-30"
+      }
+    ]
   }
 }

@@ -1,7 +1,10 @@
 {
   "izotope-ozone-vs-fabfilter-mastering": [],
   "u-he-plugins-worth-buying-2026": [],
-  "melodyne-vs-autotune": [],
+  "melodyne-vs-autotune": [
+    "vp-celemony-melodyne-5-editor",
+    "vp-antares-auto-tune-pro"
+  ],
   "best-vocoder-vst-plugins": [],
   "best-arpeggiator-vst-plugins": [
     "vp-sugar-bytes-thesys"
@@ -30,7 +33,8 @@
   "splice-review-2026": [],
   "landr-mastering-worth-it-2026": [],
   "ableton-live-vs-fl-studio-2026": [
-    "vp-ableton-live"
+    "vp-ableton-live",
+    "vp-image-line-fl-studio"
   ],
   "best-orchestral-vst-plugins-2026": [
     "vp-orchestral-tools-berlin-strings"
@@ -47,12 +51,18 @@
   ],
   "soundtoys-5-review": [],
   "izotope-neutron-4-review": [],
-  "fl-studio-21-review": [],
+  "fl-studio-21-review": [
+    "vp-image-line-fl-studio"
+  ],
   "arturia-pigments-review": [],
   "kontakt-7-review": [],
   "fabfilter-pro-c-2-review": [],
   "waves-ssl-bundle-review": [],
   "softube-flow-studio-powerful-macro-mixing-with-a-hardware-tw": [
     "vp-softube-flow-studio"
+  ],
+  "kontakt-vs-decent-sampler": [
+    "vp-decent-samples-decent-sampler",
+    "vp-native-instruments-kontakt-player"
   ]
 }

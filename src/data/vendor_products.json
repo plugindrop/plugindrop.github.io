@@ -66,10 +66,11 @@
     "version": null,
     "superseded_by": null,
     "product_url": "https://www.celemony.com/en/melodyne/melodyne-5-editions",
-    "status": "rejected",
-    "reject_reason": "name_not_on_page",
+    "status": "verified",
+    "reject_reason": null,
     "discovered_via": "perplexity",
-    "verified_at": "2026-09-28"
+    "verified_at": "2026-09-30",
+    "note": "manual: automated name_not_on_page was a false negative (page text is lowercase \"Melodyne 5 editor\", check likely required exact-case \"Editor\")"
   },
   "vp-tal-vocoder": {
     "name": "TAL-Vocoder",
@@ -438,10 +439,11 @@
     "version": null,
     "superseded_by": null,
     "product_url": "https://splice.com/splice-plans",
-    "status": "rejected",
-    "reject_reason": "name_not_on_page",
+    "status": "verified",
+    "reject_reason": null,
     "discovered_via": "perplexity",
-    "verified_at": "2026-09-28"
+    "verified_at": "2026-09-30",
+    "note": "manual: automated name_not_on_page was a false negative; page nav text reads \"Splice Sounds\" verbatim (splice.com/splice-plans)"
   },
   "vp-splice-rent-to-own": {
     "name": "Splice Rent-to-Own",
@@ -510,10 +512,10 @@
     "version": null,
     "superseded_by": null,
     "product_url": "https://www.image-line.com/fl-studio/pricing",
-    "status": "rejected",
-    "reject_reason": "domain_unverified",
+    "status": "verified",
+    "reject_reason": null,
     "discovered_via": "perplexity",
-    "verified_at": "2026-09-28"
+    "verified_at": "2026-09-30"
   },
   "vp-ableton-live": {
     "name": "Ableton Live",
@@ -862,5 +864,17 @@
     "reject_reason": null,
     "discovered_via": "perplexity",
     "verified_at": "2026-09-28"
+  },
+  "vp-antares-auto-tune-pro": {
+    "name": "Auto-Tune Pro 11",
+    "brand": "Antares",
+    "kind": "plugin",
+    "version": "11",
+    "superseded_by": null,
+    "product_url": "https://www.antarestech.com/products/pitch-correction/pro",
+    "status": "verified",
+    "reject_reason": null,
+    "discovered_via": "perplexity",
+    "verified_at": "2026-09-30"
   }
 }
