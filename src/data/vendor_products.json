@@ -716,10 +716,11 @@
     "version": null,
     "superseded_by": null,
     "product_url": "https://www.soundtoys.com/product/soundtoys-5/",
-    "status": "rejected",
-    "reject_reason": "name_not_on_page",
+    "status": "verified",
+    "reject_reason": null,
     "discovered_via": "perplexity",
-    "verified_at": "2026-09-28"
+    "verified_at": "2026-09-30",
+    "note": "manual: automated name_not_on_page was a false negative; product page title/H1 reads \"Soundtoys 5\" verbatim (soundtoys.com/product/soundtoys-5/)"
   },
   "vp-soundtoys-filterfreak-1-2": {
     "name": "FilterFreak 1+2",

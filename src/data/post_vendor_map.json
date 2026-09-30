@@ -49,7 +49,9 @@
     "vp-decomposer-sitala",
     "vp-e-phonic-drumatic-4"
   ],
-  "soundtoys-5-review": [],
+  "soundtoys-5-review": [
+    "vp-soundtoys-5-bundle"
+  ],
   "izotope-neutron-4-review": [],
   "fl-studio-21-review": [
     "vp-image-line-fl-studio"

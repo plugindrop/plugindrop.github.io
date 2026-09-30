@@ -225,7 +225,14 @@
     "plans": null
   },
   "vp-united-plugins-mirror": {
-    "price": null,
+    "price": {
+      "value": 12293,
+      "display": "¥12,293",
+      "source_url": "https://unitedplugins.com/mirror/",
+      "quote": "Mirror Audio Samples by JMG Sound ... Add to Cart ¥12,293",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-30"
+    },
     "is_free": null,
     "formats": null,
     "macos_min": null,
@@ -921,5 +928,27 @@
         "fetched_at": "2026-09-30"
       }
     ]
+  },
+  "vp-soundtoys-5-bundle": {
+    "price": {
+      "value": 599,
+      "display": "$599",
+      "source_url": "https://www.soundtoys.com/product/soundtoys-5/",
+      "quote": "Soundtoys 5 now has 23 Soundtoys plug-ins, including Effect Rack , Decapitator , EchoBoy , and the new SpaceBlender experimental reverb. $599",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-30"
+    },
+    "is_free": null,
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
   }
 }
