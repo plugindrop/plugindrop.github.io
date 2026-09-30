@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29",
+  "generated_at": "2026-09-30",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-09",
       "label": "September 2026",
       "is_current": true,
-      "generated_at": "2026-09-29",
-      "observations": 3375,
-      "products_tracked": 516,
-      "products_on_sale": 278,
-      "on_sale_pct": 53.9,
-      "avg_discount_pct": 57.9,
-      "median_discount_pct": 55.5,
+      "generated_at": "2026-09-30",
+      "observations": 3490,
+      "products_tracked": 517,
+      "products_on_sale": 280,
+      "on_sale_pct": 54.2,
+      "avg_discount_pct": 57.8,
+      "median_discount_pct": 54.5,
       "discount_buckets": {
         "1-19": 12,
         "20-39": 42,
-        "40-59": 86,
+        "40-59": 88,
         "60+": 138
       },
-      "all_time_low_hits": 242,
+      "all_time_low_hits": 244,
       "deepest_discounts": [
         {
           "name": "Platinum",
@@ -308,9 +308,9 @@
         {
           "category": "Instrument",
           "tracked": 19,
-          "on_sale": 4,
-          "on_sale_pct": 21.1,
-          "avg_discount_pct": 37.5
+          "on_sale": 5,
+          "on_sale_pct": 26.3,
+          "avg_discount_pct": 38
         },
         {
           "category": "Compressor",
@@ -341,6 +341,13 @@
           "avg_discount_pct": 40.7
         },
         {
+          "category": "Vocal",
+          "tracked": 9,
+          "on_sale": 3,
+          "on_sale_pct": 33.3,
+          "avg_discount_pct": 47
+        },
+        {
           "category": "Bundle",
           "tracked": 8,
           "on_sale": 6,
@@ -360,13 +367,6 @@
           "on_sale": 3,
           "on_sale_pct": 37.5,
           "avg_discount_pct": 48
-        },
-        {
-          "category": "Vocal",
-          "tracked": 8,
-          "on_sale": 2,
-          "on_sale_pct": 25.0,
-          "avg_discount_pct": 45
         },
         {
           "category": "Delay",
@@ -436,9 +436,9 @@
         {
           "category": "Soundtoys",
           "tracked": 17,
-          "on_sale": 2,
-          "on_sale_pct": 11.8,
-          "avg_discount_pct": 17
+          "on_sale": 3,
+          "on_sale_pct": 17.6,
+          "avg_discount_pct": 28.3
         },
         {
           "category": "FabFilter",
@@ -449,9 +449,9 @@
         },
         {
           "category": "Waves",
-          "tracked": 14,
+          "tracked": 15,
           "on_sale": 13,
-          "on_sale_pct": 92.9,
+          "on_sale_pct": 86.7,
           "avg_discount_pct": 78.4
         },
         {
@@ -506,9 +506,9 @@
         {
           "category": "XLN Audio",
           "tracked": 7,
-          "on_sale": 5,
-          "on_sale_pct": 71.4,
-          "avg_discount_pct": 38
+          "on_sale": 6,
+          "on_sale_pct": 85.7,
+          "avg_discount_pct": 38.3
         },
         {
           "category": "Softube",
@@ -632,16 +632,16 @@
       ],
       "vs_previous_month": {
         "month": "2026-08",
-        "on_sale_pct_delta": -6.8,
-        "avg_discount_pct_delta": 4.5,
-        "products_tracked_delta": 91
+        "on_sale_pct_delta": -6.5,
+        "avg_discount_pct_delta": 4.4,
+        "products_tracked_delta": 92
       }
     },
     {
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-09-29",
+      "generated_at": "2026-09-30",
       "observations": 3587,
       "products_tracked": 425,
       "products_on_sale": 258,
@@ -1237,7 +1237,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-09-29",
+      "generated_at": "2026-09-30",
       "observations": 1968,
       "products_tracked": 289,
       "products_on_sale": 142,
