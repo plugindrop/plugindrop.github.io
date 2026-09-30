@@ -79,10 +79,12 @@
     ]
   },
   "best-arpeggiator-vst-plugins": {
-    "category": null,
-    "confidence": "exact",
+    "category": "Utility",
+    "confidence": "table",
     "kind": "list",
-    "products": []
+    "products": [
+      "Xfer Cthulhu"
+    ]
   },
   "best-audio-interface-home-studio-2026": {
     "category": null,
@@ -120,9 +122,11 @@
   },
   "best-compressor-plugins-2026": {
     "category": "Compressor",
-    "confidence": "exact",
+    "confidence": "table",
     "kind": "list",
-    "products": []
+    "products": [
+      "Waves API 2500"
+    ]
   },
   "best-compressor-plugins-drums": {
     "category": "Drums",
@@ -482,10 +486,12 @@
     ]
   },
   "best-orchestral-vst-plugins-2026": {
-    "category": null,
-    "confidence": "exact",
+    "category": "Instrument",
+    "confidence": "table",
     "kind": "list",
-    "products": []
+    "products": [
+      "EastWest Hollywood Orchestra Opus Edition"
+    ]
   },
   "best-piano-vst-plugins": {
     "category": "Instrument",
@@ -720,10 +726,12 @@
     ]
   },
   "best-vocoder-vst-plugins": {
-    "category": null,
-    "confidence": "exact",
+    "category": "Vocal",
+    "confidence": "table",
     "kind": "list",
-    "products": []
+    "products": [
+      "iZotope VocalSynth 2"
+    ]
   },
   "best-vst-plugins-edm-production": {
     "category": null,

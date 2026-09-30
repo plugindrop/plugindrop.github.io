@@ -310,7 +310,14 @@
     "plans": null
   },
   "vp-orchestral-tools-berlin-strings": {
-    "price": null,
+    "price": {
+      "value": 699.0,
+      "display": "€699",
+      "source_url": "https://www.orchestraltools.com/berlin-strings",
+      "quote": "Flagship string ensembles € 699.00 Add to cart Remove Buy for KONTAKT",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-30"
+    },
     "is_free": null,
     "formats": null,
     "macos_min": {
@@ -318,14 +325,14 @@
       "source_url": "https://www.orchestraltools.com/berlin-strings",
       "quote": "ed) 24 bit / 48 KHz patches SINE system requirements Mac: macOS 10.15 or higher | Intel Core i5 or similar | Apple ARM chipsets supported | At least 8 GB RAM (16 GB+ recommended) Wind",
       "source_kind": "vendor",
-      "fetched_at": "2026-09-28"
+      "fetched_at": "2026-09-30"
     },
     "windows_min": {
       "value": "Windows 10",
       "source_url": "https://www.orchestraltools.com/berlin-strings",
       "quote": "ows: Windows 10 | Intel Core i5 or similar | At least 8 GB RAM (16 GB+ recommended) Formats supported: Standalone, VST, VST3, AU, AAX Kontakt Version Requires Kontakt Player or Full Version 5.5.1 or later Please",
       "source_kind": "vendor",
-      "fetched_at": "2026-09-28"
+      "fetched_at": "2026-09-30"
     },
     "apple_silicon": null,
     "copy_protection": null,
@@ -448,7 +455,14 @@
     "plans": null
   },
   "vp-decomposer-sitala": {
-    "price": null,
+    "price": {
+      "value": 20.0,
+      "display": "$20",
+      "source_url": "https://decomposer.de/sitala/",
+      "quote": "This release requires a license. Buy one for $20 here. Our old version is still available for free.",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-30"
+    },
     "is_free": null,
     "formats": null,
     "macos_min": {
@@ -456,7 +470,7 @@
       "source_url": "https://decomposer.de/sitala/",
       "quote": "kit, Sitala includes the Future Retro Pop and Hip Hop Ultra factory kits. Downloads Version 2.1.2 Build 2.1.2 September 24, 2026 macOS 10.12 or later Standalone / VST / AU / AAX (79 MB) Windows 64 Bit Windows 10",
       "source_kind": "vendor",
-      "fetched_at": "2026-09-28"
+      "fetched_at": "2026-09-30"
     },
     "windows_min": null,
     "apple_silicon": {
@@ -465,7 +479,7 @@
       "quote": "all plugin formats. Apple Silicon Support All plug-in formats and our standalone run natively on Apple Silicon. 4x4 Layout Sitala defaults to an MPC-style 4x4 layout. Instant Missin",
       "source_kind": "vendor",
       "display": "Apple Silicon",
-      "fetched_at": "2026-09-28"
+      "fetched_at": "2026-09-30"
     },
     "copy_protection": null,
     "trial": null,
@@ -474,14 +488,14 @@
       "source_url": "https://decomposer.de/sitala/",
       "quote": "kit, Sitala includes the Future Retro Pop and Hip Hop Ultra factory kits. Downloads Version 2.1.2 Build 2.1.2 September 24, 2026 macOS 10.12 or later Standalone / VST / AU / AAX (79 MB) Windows 64 Bit Windows 10",
       "source_kind": "vendor",
-      "fetched_at": "2026-09-28"
+      "fetched_at": "2026-09-30"
     },
     "release_date": {
       "value": "September 24, 2026",
       "source_url": "https://decomposer.de/sitala/",
       "quote": "knobs. Sixteen pads. Drag and drop. Playable like instrument. New in Sitala 2.1.2 — Released September 24, 2026: Pitch Snapping Tuning now shows note labels and snaps to pitches, so you can tune drum hits precise",
       "source_kind": "vendor",
-      "fetched_at": "2026-09-28"
+      "fetched_at": "2026-09-30"
     },
     "library_size": null,
     "requires_player": null,
@@ -642,7 +656,13 @@
   },
   "vp-tokyo-dawn-labs-tdr-kotelnikov": {
     "price": null,
-    "is_free": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://www.tokyodawn.net/tdr-kotelnikov/",
+      "quote": "the new TDR Kotelnikov is quite possibly the most transparent mastering compressor on the freeware market (and beyond). Bedroom Producers Blog This is one of the first software compressors that doesn't annoy me on program... Very nice! Michael Hynes (mastering engineer) Free Download Binaries can be downloaded using the TDR Collector library manager",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-30"
+    },
     "formats": {
       "value": [
         "VST2",
