@@ -106,7 +106,7 @@ test('basis classifies only reviewed evidence and uses evidence date and price',
   assert.equal(isPricePageIndexable(saturn), true);
 });
 
-test('empty audit index keeps the expected 78 pages and exact 15 removals', () => {
+test('empty audit index keeps the expected 83 pages and exact 15 removals', () => {
   const all = [...Object.entries(priceData.plugins ?? {}), ...Object.entries(priceData.bundles ?? {})];
   const prior = (e) => {
     const s = priceSubstance(e);
@@ -121,15 +121,15 @@ test('empty audit index keeps the expected 78 pages and exact 15 removals', () =
       && s.priceLevels >= 2 && saleEpisodeCount(comparable) >= 2 && ownTrackingDays(e) >= 45
       && (e.all_time_low == null || e.typical_sale == null || e.all_time_low <= e.typical_sale);
   };
-  assert.equal(all.filter(([, e]) => prior(e)).length, 93);
-  assert.equal(all.filter(([, e]) => empty(e)).length, 78);
+  assert.equal(all.filter(([, e]) => prior(e)).length, 98);
+  assert.equal(all.filter(([, e]) => empty(e)).length, 83);
   assert.deepEqual(all.filter(([, e]) => prior(e) && !empty(e)).map(([n]) => n).sort(), [
     'Arturia Augmented STRINGS', 'FabFilter Pro-G', 'FabFilter Pro-L 2', 'FabFilter Pro-MB',
     'FabFilter Pro-Q 4', 'FabFilter Saturn 2', 'FabFilter Timeless 3', 'FabFilter Twin 3',
     'FabFilter Total Bundle', 'Kilohearts Phase Plant', 'Soundtoys Decapitator',
     'u-he Bazille', 'u-he Hive 2', 'u-he Repro', 'u-he Satin',
   ].sort());
-  assert.equal(all.filter(([, e]) => isPricePageIndexable(e)).length, 81);
+  assert.equal(all.filter(([, e]) => isPricePageIndexable(e)).length, 86);
 });
 
 test('priced checks, sale breaks, archive levels, and until date', () => {
@@ -180,7 +180,7 @@ test('research note has months and kinds, never research amounts', () => {
 
 test('all products ignore unconfirmed research price mutations', () => {
   const all = [...Object.values(priceData.plugins ?? {}), ...Object.values(priceData.bundles ?? {})];
-  assert.equal(all.length, 622);
+  assert.equal(all.length, 625);
   for (const product of all) {
     const before = buildPageFacts(product, { buildDate: priceData.last_updated });
     const changed = structuredClone(product);
