@@ -50,10 +50,10 @@ Skaka is a drum machine instrument plugin available exclusively through Plugin B
 | Name | Price | Key Difference |
 |---|---|---|
 | XO by XLN Audio | ~$99 | Sample-based drum explorer with AI-assisted pattern generation |
-| Sitala by Decomposer | Free | Minimal 16-pad sampler, no synthesis, but zero cost |
+| Sitala by Decomposer | $20 (v2.1.2); older v1.0.9 free | Minimal 16-pad sampler, no synthesis |
 | Battery 4 by Native Instruments | ~$199 | Extensive layering and modulation, broader scope than drum machine use alone |
 
-If budget is the deciding factor and you only need a basic 16-pad sampler, Sitala covers entry-level needs for free. If you want a full-featured drum production environment with deep modulation, Battery 4 is the established premium choice. 
+If budget is the deciding factor and you only need a basic 16-pad sampler, Sitala covers entry-level needs at $20 (its older version 1.0.9 is free). If you want a full-featured drum production environment with deep modulation, Battery 4 is the established premium choice. 
 
 ---
 

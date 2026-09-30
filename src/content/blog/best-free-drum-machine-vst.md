@@ -25,7 +25,7 @@ draft: false
 |--------|-------|----------|--------|
 | MT Power Drum Kit 2 | Free | Rock, Metal, Jazz | [Free Download](https://www.powerdrumkit.com/) |
 | Steven Slate Drums 5 Free | Free | Studio Acoustic Drums | [Free Download](https://stevenslatedrums.com/ssd5/) |
-| Sitala | Free | Beat Making & Custom Samples | [Free Download](https://decomposer.de/sitala/) |
+| Sitala | $20 (v2.1.2); older v1.0.9 free | Beat Making & Custom Samples | [Decomposer](https://decomposer.de/sitala/) |
 | Spitfire LABS | Free | Lo-Fi & Vintage Character | [Free Download](https://labs.spitfireaudio.com/) |
 | GetGood Drums One | Free | Metal & Heavy Rock | [Free Download](https://ggd.co/) |
 | Drumatic 4 | Free | Electronic & Synth Drums | [Free Download](https://www.e-phonic.com/) |
@@ -119,20 +119,20 @@ GetGood Drums One is the free entry point to the GGD library, delivering a singl
 
 These plugins are designed for programming beats, loading custom one-shots, or generating electronic drum sounds from synthesis. They suit hip-hop, electronic, lo-fi, and any workflow where you're building a kit rather than simulating a drummer.
 
-### Sitala — The Fastest Free Beat Sampler
+### Sitala — 16-Pad Beat Sampler
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/JmdS0kf5N88" title="Sitala — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Decomposer
-- **Price:** Free
-- **Platforms:** Windows, macOS
-- **Formats:** VST, AU
+- **Price:** $20 for the current version 2.1.2; the older version 1.0.9 is free (per decomposer.de)
+- **Platforms:** Windows 10 or later, macOS 10.12 or later (v2.1.2)
+- **Formats:** Standalone, VST, AAX (Windows); Standalone, VST, AU, AAX (macOS)
 
-Sitala is a 16-pad drum sampler that r/edmproduction consistently recommends as the fastest free tool for loading and triggering custom one-shots. Drag any WAV onto a pad and it's immediately playable — there's no preset hierarchy to navigate, and per-pad pitch, volume, and tune controls handle basic sample shaping without opening a separate editor. It's particularly well-regarded among producers who work from downloaded sample packs rather than pre-built ROM kits, because it puts zero friction between the file system and the playback pad.
+Sitala is a 16-pad drum sampler. Drag any WAV onto a pad and it's immediately playable — there's no preset hierarchy to navigate, and per Decomposer each pad has shape, compression, tuning, tone and volume/pan controls for basic sample shaping. It's particularly well-regarded among producers who work from downloaded sample packs rather than pre-built ROM kits, because it puts zero friction between the file system and the playback pad.
 
 **Best for:** Beatmakers who assemble kits from individual one-shot samples and want the fastest possible path from file to pad.
 
-[→ Download Sitala Free](https://decomposer.de/sitala/)
+[→ Sitala at Decomposer (v2 $20, v1 free)](https://decomposer.de/sitala/)
 
 ---
 
@@ -259,7 +259,7 @@ If you've worked through the free tier and hit consistent friction — inflexibl
 | Steven Slate Drums 5 Free | Free | Acoustic Rompler | SSD5 engine, iLok required, no demo limits | [Download](https://stevenslatedrums.com/ssd5/) |
 | Spitfire LABS | Free | Acoustic / Textured | Vintage Drum Room, tape-saturated samples | [Download](https://labs.spitfireaudio.com/) |
 | GetGood Drums One | Free | Acoustic Rompler | Articulate heavy music kit, GGD player | [Download](https://ggd.co/) |
-| Sitala | Free | Drum Sampler | 16-pad, drag-and-drop, custom WAV loading | [Download](https://decomposer.de/sitala/) |
+| Sitala | $20 (v1 free) | Drum Sampler | 16-pad, drag-and-drop, custom WAV loading | [Download](https://decomposer.de/sitala/) |
 | Drum Pro | Free | Beat Machine | Hip-hop/trap sounds, grid layout | [Download](https://www.studiolinked.com/) |
 | BPB Cassette Drums | Free | Lo-Fi Beat Machine | Cassette-recorded samples, baked degradation | [Download](https://www.bedroomproducersblog.com/) |
 | Drumatic 4 | Free | Drum Synthesizer | Synthesis-based, TR-style, no samples | [Download](https://www.e-phonic.com/) |

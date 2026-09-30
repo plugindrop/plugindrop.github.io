@@ -11,11 +11,11 @@ score: 1.53
 evergreen: true
 ---
 
-**TL;DR:** **If you only install one, make it Steven Slate Drums SSD5.5 FREE** — studio-recorded multi-mic acoustic kits at zero cost cover the widest range of real-world productions. It is the best free drum VST for realistic acoustic kits in 2026 — studio-recorded, multi-mic samples at zero cost, in VST2/VST3/AU/AAX for Windows and macOS. MT Power Drum Kit 2 is the best lightweight acoustic option with a built-in MIDI groove library. Sitala leads for hip-hop and lo-fi beat-making thanks to drag-and-drop pad loading, and Hydrogen covers open-source, pattern-based programming on Windows, macOS, and Linux. Every plugin below is genuinely free with no time limits, no nag screens, and no forced subscription — download links go straight to the developer.
+**TL;DR:** **If you only install one, make it Steven Slate Drums SSD5.5 FREE** — studio-recorded multi-mic acoustic kits at zero cost cover the widest range of real-world productions. It is the best free drum VST for realistic acoustic kits in 2026 — studio-recorded, multi-mic samples at zero cost, in VST2/VST3/AU/AAX for Windows and macOS. MT Power Drum Kit 2 is the best lightweight acoustic option with a built-in MIDI groove library. Sitala leads for hip-hop and lo-fi beat-making thanks to drag-and-drop pad loading, and Hydrogen covers open-source, pattern-based programming on Windows, macOS, and Linux. Every plugin below is free except Sitala, whose current version (2.1.2) requires a $20 license per Decomposer; Decomposer's older Sitala 1.0.9 is still offered for free. Download links go straight to the developer.
 
 ## The 10 Best Free Drum Plugins
 
-> **Quick Answer:** The best free drum VST plugins in 2026 are **Steven Slate Drums SSD5.5 FREE** (studio-recorded multi-mic acoustic kits for rock, pop, and session work), **MT Power Drum Kit 2** (high-quality acoustic drums with a built-in MIDI groove library), and **Sitala** (lightweight 16-pad sampler for hip-hop and lo-fi beat-making with drag-and-drop simplicity). All are free to download with no time limits.
+> **Quick Answer:** The best free drum VST plugins in 2026 are **Steven Slate Drums SSD5.5 FREE** (studio-recorded multi-mic acoustic kits for rock, pop, and session work), **MT Power Drum Kit 2** (high-quality acoustic drums with a built-in MIDI groove library), and **Sitala** (lightweight 16-pad sampler for hip-hop and lo-fi beat-making with drag-and-drop simplicity). SSD5.5 FREE and MT Power Drum Kit 2 are free to download; Sitala's current version is a $20 license, while its older version 1.0.9 is still free from Decomposer.
 
 How we ranked these: picks are based on publicly documented specs, long-running community consensus in producer forums (Reddit r/edmproduction, KVR Audio, Gearspace), and price history. We prioritized plugins that are (1) genuinely free with no expiring trial, (2) actively maintained or stable enough to run in current DAWs, and (3) useful for real productions rather than novelties. Where a plugin has a clear limitation, we say so — free tools involve trade-offs, and knowing them up front saves you a wasted download.
 
@@ -50,11 +50,11 @@ High-quality acoustic drum samples with multiple velocity layers and round-robin
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/wF5LA-M50Rc" title="Sitala by Decomposer — FREE Drum Plugin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 **Type: Sample-based drum machine | Best for: Hip-hop, lo-fi, beat-making**
 
-- **Format:** VST3, AU
-- **OS:** Windows, macOS
-- **Price:** Free
+- **Format:** Standalone, VST, AAX (Windows); Standalone, VST, AU, AAX (macOS)
+- **OS:** Windows 10 or later, macOS 10.12 or later (v2.1.2)
+- **Price:** $20 for the current version 2.1.2; the older version 1.0.9 is free (per decomposer.de)
 
-Lightweight 16-pad drum sampler with per-pad pitch, envelope, and filter controls. Drag-and-drop sample loading with a clean, oversized-pad interface that's fast to read at a glance. Low CPU and no install complexity — it launches instantly and is quick to set up for beat-making sessions.
+16-pad drum sampler with drag-and-drop sample loading. Per Decomposer, each pad has controls for shape (attack, length, sustain), compression, tuning, tone and volume/pan, and it can slice beats into pads.
 
 **Use case:** Chopping a one-shot kit for a hip-hop or lo-fi beat — drop your kick, snare, and hats onto pads, tune them per pad, and you're playing a groove on the keyboard or a pad controller in under a minute.
 
@@ -179,7 +179,7 @@ Mac-only drum synth with six synthesis-based drum voices. Each voice uses physic
 |---|---|---|---|---|
 | SSD5.5 FREE | Sample-based | Rock / Pop | Win / Mac | Studio-recorded multi-mic samples |
 | MT Power Drum Kit 2 | Sample-based | Rock / Pop | Win / Mac | Built-in MIDI groove library |
-| Sitala | Sample pad | Hip-hop / Lo-fi | Win / Mac | Drag-and-drop simplicity |
+| Sitala ($20; v1 free) | Sample pad | Hip-hop / Lo-fi | Win / Mac | Drag-and-drop simplicity |
 | Hydrogen | Drum machine | Any | Win / Mac / Linux | Pattern + song editor |
 | TX16Wx | Software sampler | Any (custom kits) | Win / Mac | Full sampler with effects |
 | BPB Dirty Drums | Sample-based | Lo-fi / Indie | Win / Mac | Pre-saturated vintage kits |
@@ -220,7 +220,7 @@ If nothing is discounted today, wait — in our tracking these titles reliably c
 A: For realistic acoustic drums, Steven Slate Drums SSD5.5 FREE is the top pick — studio-recorded, multi-mic samples with velocity layering in VST2/VST3/AU/AAX. For hip-hop and lo-fi beat-making, Sitala is the fastest to use, and for open-source pattern programming across Windows, macOS, and Linux, Hydrogen leads. The right choice depends on genre: acoustic realism (SSD5.5, MT Power), sample-based beats (Sitala, TX16Wx), or pure synthesis (Drumatic 4, MiniSpillage).
 
 **Q: Can I use these plugins commercially?**
-A: Most of these plugins — including SSD5.5 FREE, MT Power Drum Kit 2, Sitala, and Hydrogen — permit commercial use. Check each developer's EULA for the specific terms. Open-source options like Hydrogen and AVL Drumkits use licenses that explicitly allow commercial work.
+A: Many of these plugins — including SSD5.5 FREE, MT Power Drum Kit 2, and Hydrogen — permit commercial use. Check each developer's EULA for the specific terms. Open-source options like Hydrogen and AVL Drumkits use licenses that explicitly allow commercial work.
 
 **Q: Do these work as VST, AU, or AAX?**
 A: Most support VST2/VST3 and AU. SSD5.5 FREE supports VST2, VST3, AU, and AAX. Hydrogen is a standalone application with MIDI sync rather than a plugin format, and MiniSpillage is AU/macOS only. AVL Drumkits are sample libraries loaded through a compatible sampler rather than a self-contained plugin. Always check each plugin's download page for the current format list before installing.
@@ -247,7 +247,7 @@ A: Upgrade when free kits limit you — typically when you need multiple mix-rea
 
 ## Get Started
 
-Ten free drum plugins, zero cost, covering every major genre. SSD5.5 FREE and MT Power Drum Kit 2 for acoustic realism, Sitala and TX16Wx for beat production, Drumatic 4 and MiniSpillage for pure synthesis, and Hydrogen for full pattern-based arrangement. Start with the one that matches your genre, and when free kits stop keeping up, the paid upgrades above are the proven next step.
+Ten drum plugins, nine of them free (Sitala's current version is $20), covering every major genre. SSD5.5 FREE and MT Power Drum Kit 2 for acoustic realism, Sitala and TX16Wx for beat production, Drumatic 4 and MiniSpillage for pure synthesis, and Hydrogen for full pattern-based arrangement. Start with the one that matches your genre, and when free kits stop keeping up, the paid upgrades above are the proven next step.
 
 [Browse Drum Plugins on Plugin Boutique](https://www.pluginboutique.com/categories/1-Instruments/10-Drums?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-drum-plugins&chan=art&data1=best-free-drum-plugins)
 

@@ -24,7 +24,7 @@ priceTrack:
 | Xfer OTT | Free | Multiband compression | [Plugin Boutique](https://xferrecords.com/freeware) |
 | Klanghelm SDRR | $21 | Saturation & drive | [Plugin Boutique](https://www.pluginboutique.com/search?q=Klanghelm%20SDRR&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | TDR Nova | Free | Dynamic EQ | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
-| Sitala | Free | Drum sampling | [Plugin Boutique](https://www.pluginboutique.com/search?q=Sitala%20drum%20sampler&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
+| Sitala | $20 (v2.1.2); older v1.0.9 free | Drum sampling | [Plugin Boutique](https://www.pluginboutique.com/search?q=Sitala%20drum%20sampler&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | Surge XT | Free | Full hybrid synthesizer | [Free Download](https://surge-synthesizer.github.io/) |
 
 ---
@@ -287,16 +287,16 @@ Zebralette is u-he's free, single-oscillator version of their flagship Zebra2 sy
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/JmdS0kf5N88" title="Sitala — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Decomposer
-- **Price:** Free
-- **Platforms:** Windows, macOS
-- **Formats:** VST, VST3, AU
+- **Price:** $20 for the current version 2.1.2; the older version 1.0.9 is free (per decomposer.de)
+- **Platforms:** Windows 10 or later, macOS 10.12 or later (v2.1.2)
+- **Formats:** Standalone, VST, AAX (Windows); Standalone, VST, AU, AAX (macOS)
 
-Sitala is a 16-pad drum sampler built on a simple, focused principle: drag samples in, assign them, play. Onboard tuning, envelope, and output routing controls handle everything a drum rack needs without burying you in menus. The sign of a great utility plugin is that you stop noticing it — Sitala clears that bar immediately.
+Sitala is a 16-pad drum sampler built on a simple, focused principle: drag samples in, assign them, play. Per Decomposer, each pad has shape, compression, tuning, tone and volume/pan controls, and multi-out is supported with one stereo channel per pad. The sign of a great utility plugin is that you stop noticing it — Sitala clears that bar immediately.
 
 **Best for:** Drum programming, sample-based beatmaking, quick pad assignments for live performance.
 
 [→ Get Sitala on Plugin Boutique](https://www.pluginboutique.com/search?q=Sitala%20drum%20sampler&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars)
-[→ Download Sitala Free](https://decomposer.de/sitala/)
+[→ Sitala at Decomposer (v2 $20, v1 free)](https://decomposer.de/sitala/)
 
 ---
 
@@ -359,7 +359,7 @@ MFreeFXBundle is the most generous free plugin release in the industry — a lar
 | Chow Tape Model | Free | Tape Emulation | Physically modeled, open-source | [Get](https://www.pluginboutique.com/product/2-Effects/44-Saturation/7318-CHOW-Tape-Model?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | Surge XT | Free | Synthesizer | Hybrid engine, massive preset library | [Get](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17453-Surge-XT?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | u-he Zebralette | Free | Synthesizer | Spectral oscillator, u-he quality | [Get](https://www.pluginboutique.com/search?q=u-he%20Zebralette&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
-| Sitala | Free | Drum Sampler | 16-pad, no-friction workflow | [Get](https://www.pluginboutique.com/search?q=Sitala%20drum%20sampler&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
+| Sitala | $20 (v1 free) | Drum Sampler | 16-pad, no-friction workflow | [Get](https://www.pluginboutique.com/search?q=Sitala%20drum%20sampler&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | Melda MFreeFXBundle | Free | Bundle | Dozens of processors, no watermarks | [Get](https://www.pluginboutique.com/search?q=Melda%20MFreeFXBundle&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 
 *TDR Limiter 6 GE regularly sells below $50 during Plugin Boutique sales events.

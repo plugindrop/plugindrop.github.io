@@ -188,7 +188,7 @@ A: It depends on your routing complexity. If you're already running iZotope Viny
 A: Yes. iZotope Vinyl, Valhalla Supermassive, and RC-20 Retro Color all support AU (macOS) and VST3 (Windows/macOS), which covers Logic Pro, Ableton Live, and FL Studio. TAL-Dub-3 supports the same formats and adds Linux compatibility. If you haven't settled on a DAW yet, see our [best free DAW software guide](/posts/best-free-daw-software-2026/) for a rundown of the top zero-cost options.
 
 **Q: What drum plugins work well for lo-fi production?**
-A: Lo-fi beats rely on understated, slightly imperfect drum textures rather than precision acoustic samples. Sitala and BPB Dirty Drums are community favorites at zero cost — see our [best free drum plugins guide](/posts/best-free-drum-plugins/) for a ranked list covering every style from hip-hop samplers to lo-fi drum machines.
+A: Lo-fi beats rely on understated, slightly imperfect drum textures rather than precision acoustic samples. Sitala (current version $20, older v1.0.9 free) and BPB Dirty Drums are options — see our [best free drum plugins guide](/posts/best-free-drum-plugins/) for a ranked list covering every style from hip-hop samplers to lo-fi drum machines.
 
 **Q: What sample rate should I use for lo-fi production?**
 A: 44.1kHz is the standard for lo-fi production. Higher sample rates add processing overhead without contributing to the vintage character — the deliberate degradation applied by these plugins is what defines the sound. Several lo-fi tutorial creators on YouTube also note that saturation algorithms can interact differently at 44.1kHz versus 96kHz, sometimes in ways that affect the character of the lo-fi texture.

@@ -240,22 +240,22 @@ Spitfire Audio's LABS series is an ongoing project that releases curated, high-q
 
 For an extended look at drum instruments beyond the sampler workflow — including acoustic drum romplers and synthesized kits — see our [best free drum plugins guide](/posts/best-free-drum-plugins/).
 
-### Sitala — The No-Fuss Drum Sampler
+### Sitala — 16-Pad Drum Sampler (v1 Free, v2 $20)
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/JmdS0kf5N88" title="Sitala — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Decomposer
-- **Price:** Free
-- **Platforms:** Windows, macOS
-- **Formats:** VST, VST3, AU
+- **Price:** $20 for the current version 2.1.2; the older version 1.0.9 is free (per decomposer.de)
+- **Platforms:** Windows 10 or later, macOS 10.12 or later (v2.1.2)
+- **Formats:** Standalone, VST, AAX (Windows); Standalone, VST, AU, AAX (macOS)
 
-Sitala is a 16-pad drum sampler designed with a single guiding principle: get out of the way and let you work. Drop WAV files onto the pads, adjust the per-voice ADSR envelope and filter, and you're ready to program — the entire workflow takes seconds, not minutes. It integrates cleanly with Ableton's MIDI editor and rack architecture, and for producers who want to build custom drum kits from sample packs without the overhead of a complex sampler interface, it's the most practical free option available.
+Sitala is a 16-pad drum sampler. Drop WAV files onto the pads and adjust each pad's shape (attack, length, sustain), compression, tuning, tone and volume/pan. It integrates cleanly with Ableton's MIDI editor and rack architecture, and for producers who want to build custom drum kits from sample packs without the overhead of a complex sampler interface, it's the most practical free option available.
 
 **Best for:** Custom drum kits, sample-based percussion, and rapid-fire drum pattern prototyping.
 
 **Skip it if:** you need round-robins, velocity layers, time-stretching, or melodic sampling — Sitala is a 16-pad one-shot player and stops exactly there.
 
-[→ Download Sitala Free](https://decomposer.de/sitala/)
+[→ Sitala at Decomposer (v2 $20, v1 free)](https://decomposer.de/sitala/)
 
 ---
 
@@ -354,7 +354,7 @@ Once you've maxed out what the free tier offers, these three commercial plugins 
 | Valhalla Supermassive | Free | Reverb / Delay | Long decay times, WARP parameter, 11 reverb algorithms | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | TAL-Chorus-LX | Free | Chorus | Juno-6 BBD circuit emulation, natural stereo width | [Free Download](https://tal-software.com/products/tal-chorus-lx) |
 | LABS | Free | Sample Instrument | Curated Spitfire samples, growing catalog, all genres covered | [Get It](https://labs.spitfireaudio.com/) |
-| Sitala | Free | Drum Sampler | 16-pad workflow, drag-and-drop loading, per-pad filter and envelope | [Get It](https://decomposer.de/sitala/) |
+| Sitala | $20 (v1 free) | Drum Sampler | 16-pad workflow, drag-and-drop loading, per-pad shape and tone controls | [Get It](https://decomposer.de/sitala/) |
 | SPAN | Free | Spectrum Analyzer | Real-time FFT, near-zero CPU, configurable display modes | [Get It](https://www.voxengo.com/product/span/) |
 | Ozone Imager 2 | Free | Stereo Imager | Lissajous vectorscope, Stereoize function, mono compatibility check | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
 
@@ -366,7 +366,7 @@ Once you've maxed out what the free tier offers, these three commercial plugins 
 - **If you produce electronic, hip-hop, or dance music**, Rough Rider 3 on your drum bus and Valhalla Supermassive on a return track gives you a production-ready effects chain that costs nothing and holds up in any genre.
 - **If you need vintage analog character**, OB-Xd delivers authentic Oberheim warmth for pads and chords that Ableton's built-in synths simply cannot replicate.
 - **If you're mixing a full multi-track session**, TDR Nova and SPAN together give you professional-grade dynamic EQ and spectrum analysis — the two tools a mix engineer reaches for in every session.
-- **If you want to build a complete production toolkit from sample instruments**, LABS covers melodic and textural sounds while Sitala handles custom drum kits, giving you everything you need without touching a paid sampler.
+- **If you want to build a complete production toolkit from sample instruments**, LABS covers melodic and textural sounds while Sitala handles custom drum kits, keeping the toolkit inexpensive (Sitala's older version 1.0.9 is free; the current version is a $20 license).
 
 ---
 

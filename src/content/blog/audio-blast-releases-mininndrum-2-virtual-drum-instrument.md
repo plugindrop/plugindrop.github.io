@@ -62,10 +62,10 @@ Pricing and any active promotions can change frequently. Always verify the curre
 | Name | Price | Key Difference |
 |---|---|---|
 | MT Power Drum Kit 2 | Free | Sample-based, realistic acoustic drums, no step sequencer |
-| Sitala | Free | Simple pad-based sampler, minimal UI, drag-and-drop workflow |
+| Sitala | $20 (v2.1.2); older v1.0.9 free | Simple pad-based sampler, minimal UI, drag-and-drop workflow |
 | XO by XLN Audio | Check store | AI-powered drum discovery engine, large built-in sample library |
 
-If you need a free, no-cost starting point, MT Power Drum Kit 2 or Sitala cover basic needs. If you want a dedicated compact drum machine with Audio Blast's specific design philosophy, MininnDrum 2 targets that more focused use case.
+If you need a free, no-cost starting point, MT Power Drum Kit 2 (free) or Sitala (v2 $20, older v1 free) cover basic needs. If you want a dedicated compact drum machine with Audio Blast's specific design philosophy, MininnDrum 2 targets that more focused use case.
 
 ---
 
