@@ -1,0 +1,733 @@
+{
+  "vp-u-he-zebra2": {
+    "price": null,
+    "is_free": null,
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": {
+      "value": "Version 2.9.4",
+      "source_url": "https://u-he.com/products/plug-ins/zebra2/index.html",
+      "quote": "be downloaded and installed separately. Get the Soundset NKS Previews anchor Zebra2 Version 2.9.4 (rev. 16765) – Released November 11, 2024 Not sold individually. Bundle options Zebra Legacy Download for Windows",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-28"
+    },
+    "release_date": {
+      "value": "November 11, 2024",
+      "source_url": "https://u-he.com/products/plug-ins/zebra2/index.html",
+      "quote": "be downloaded and installed separately. Get the Soundset NKS Previews anchor Zebra2 Version 2.9.4 (rev. 16765) – Released November 11, 2024 Not sold individually. Bundle options Zebra Legacy Download for Windows",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-28"
+    },
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-sugar-bytes-thesys": {
+    "price": null,
+    "is_free": null,
+    "formats": null,
+    "macos_min": {
+      "value": "macOS 10.13",
+      "source_url": "https://sugar-bytes.de/thesys",
+      "quote": ".4 Modulation target recall fix macOS Requires macOS 10.13 or higher Audio Unit, VST2, VST3, AAX, Standalone Download Demo Windows Requires Windows 7 or higher VST2, VST3,",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-28"
+    },
+    "windows_min": {
+      "value": "Windows 7",
+      "source_url": "https://sugar-bytes.de/thesys",
+      "quote": ".4 Modulation target recall fix macOS Requires macOS 10.13 or higher Audio Unit, VST2, VST3, AAX, Standalone Download Demo Windows Requires Windows 7 or higher VST2, VST3,",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-28"
+    },
+    "apple_silicon": {
+      "value": true,
+      "source_url": "https://sugar-bytes.de/thesys",
+      "quote": "on from VST2 to VST3 issues fixed v1.7.0 VST3 plug-in standard support v1.6.9 Native Apple Silicon support v1.6.8 Minor bug fix v1.6.7 32-bit support dropped v1.6.6 GUI resize option added v1.6.5 MIDI FX for Logic v1.6",
+      "source_kind": "vendor",
+      "display": "Apple Silicon",
+      "fetched_at": "2026-09-28"
+    },
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-voxengo-marvel-geq": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://www.voxengo.com/product/marvelgeq/",
+      "quote": "Marvel GEQ - Free Graphic Equalizer Plugin, 16-Band VST, AU, AAX Support Cart / Or",
+      "source_kind": "vendor",
+      "display": "Free",
+      "fetched_at": "2026-09-28"
+    },
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-waves-ssl-g-master-buss-compressor": {
+    "price": null,
+    "is_free": null,
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-cytomic-the-glue": {
+    "price": null,
+    "is_free": null,
+    "formats": null,
+    "macos_min": null,
+    "windows_min": {
+      "value": "Windows 10",
+      "source_url": "https://cytomic.com/product/glue/",
+      "quote": "S 10.13 or above Intel/M1 cpu (64-bit) Windows 10 or above Intel/AMD cpu (64-bit) VST2 VST3 AUv2 AAXv2 Documents TheGlue-Manual.pdf TheGlue-ReleaseNotes.pdf Cytomic-L",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-28"
+    },
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-neural-dsp-archetype-gojira": {
+    "price": null,
+    "is_free": null,
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": {
+      "value": true,
+      "source_url": "https://neuraldsp.com/plugins/archetype-gojira",
+      "quote": "luding Native Apple Silicon. For more information about system requirements visit our support page . Free iLok License Manager and iLok account needed. Quad Cortex Compatibility Archetype: Gojira",
+      "source_kind": "vendor",
+      "display": "Apple Silicon",
+      "fetched_at": "2026-09-28"
+    },
+    "copy_protection": {
+      "value": "iLok",
+      "source_url": "https://neuraldsp.com/plugins/archetype-gojira",
+      "quote": "luding Native Apple Silicon. For more information about system requirements visit our support page . Free iLok License Manager and iLok account needed. Quad Cortex Compatibility Archetype: Gojira",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-28"
+    },
+    "trial": {
+      "value": "14-day free trial",
+      "source_url": "https://neuraldsp.com/plugins/archetype-gojira",
+      "quote": "of metal’s most crushing guitarists - Gojira’s Joe Duplantier. €129.00 i 14-day free trial Add to cart Buy now Watch full video Overview In 2021, we introduced the world to Archetype: Gojira, a plugin that aime",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-28"
+    },
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-steven-slate-drums-free": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://stevenslatedrums.com/ssd5/free",
+      "quote": "Drum Plugins Expansion Packs Store Support Account SSD 5.5 Free Back to SSD Buy Now Try Steven Slate Drums 5.5 Free Get the full",
+      "source_kind": "vendor",
+      "display": "Free",
+      "fetched_at": "2026-09-28"
+    },
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-native-instruments-session-guitarist-strummed-acoustic": {
+    "price": {
+      "value": 99.0,
+      "source_url": "https://www.native-instruments.com/products/session-guitarist-strummed-acoustic",
+      "quote": "me Guitar Session Guitarist - Strummed Acoustic Overview Tutorial video Developer feature $99.00 Add to cart Added Overview Tutorial video Developer feature Session Guitarist - Strummed",
+      "source_kind": "vendor",
+      "display": "$99.00",
+      "fetched_at": "2026-09-28"
+    },
+    "is_free": null,
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": {
+      "value": "8.5 GB",
+      "source_url": "https://www.native-instruments.com/products/session-guitarist-strummed-acoustic",
+      "quote": "trummed Acoustic at a glance Instrument type: KOMPLETE Instrument For use with: Free KONTAKT PLAYER or KONTAKT Sound category: Acoustic Guitar Download size (Mac/PC): 8.5 GB System requirements: Free KONTAKT PLAYER or K",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-28"
+    },
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-native-instruments-session-guitarist-strummed-acoustic-2": {
+    "price": {
+      "value": 99.0,
+      "source_url": "https://www.native-instruments.com/products/session-guitarist-strummed-acoustic-2",
+      "quote": "ing Home Guitar Session Guitarist - Strummed Acoustic 2 Overview Making of Tutorial video $99.00 Add to cart Added Overview Making of Tutorial video Session Guitarist - Strummed Acoustic",
+      "source_kind": "vendor",
+      "display": "$99.00",
+      "fetched_at": "2026-09-28"
+    },
+    "is_free": null,
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-united-plugins-mirror": {
+    "price": null,
+    "is_free": null,
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-izotope-rx-elements": {
+    "price": {
+      "value": 99.0,
+      "source_url": "https://www.izotope.com/products/rx-elements",
+      "quote": "opping Home Audio repair software RX 12 Elements RX 12 Elements Overview Features Compare $99.00 Add to cart Added Try for free Overview Features Compare Clean up your music and content",
+      "source_kind": "vendor",
+      "display": "$99.00",
+      "fetched_at": "2026-09-28"
+    },
+    "is_free": null,
+    "formats": null,
+    "macos_min": null,
+    "windows_min": {
+      "value": "Windows 10",
+      "source_url": "https://www.izotope.com/products/rx-elements",
+      "quote": "equoia (15.7), macOS Tahoe (26.2) * Supported on Intel Macs and Apple silicon (M-series) Macs (Native & Rosetta) Windows: Windows 10 (22H2), Windows 11 (24H2) Plugin Formats RX 12 is available in t",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-28"
+    },
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-ableton-live": {
+    "price": null,
+    "is_free": null,
+    "formats": null,
+    "macos_min": {
+      "value": "macOS 11",
+      "source_url": "https://www.ableton.com/en/shop/live/?tab=buy-now",
+      "quote": "ets created or saved in Live 12 can’t be opened in earlier versions. Have more questions? Browse the Knowledge Base Live 12 System Requirements macOS Windows macOS macOS 11 Big Sur or hi",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-28"
+    },
+    "windows_min": {
+      "value": "Windows 10",
+      "source_url": "https://www.ableton.com/en/shop/live/?tab=buy-now",
+      "quote": "e basic installation Up to 76 GB disk space for additionally available sound content Windows Windows 10 (Version 22H2) or Windows 11 (version 22H2 or higher) 5th generation Intel® Core™ i5 processor or AMD Ryzen",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-28"
+    },
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-spitfire-audio-bbc-symphony-orchestra": {
+    "price": null,
+    "is_free": null,
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-orchestral-tools-berlin-strings": {
+    "price": null,
+    "is_free": null,
+    "formats": null,
+    "macos_min": {
+      "value": "macOS 10.15",
+      "source_url": "https://www.orchestraltools.com/berlin-strings",
+      "quote": "ed) 24 bit / 48 KHz patches SINE system requirements Mac: macOS 10.15 or higher | Intel Core i5 or similar | Apple ARM chipsets supported | At least 8 GB RAM (16 GB+ recommended) Wind",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-28"
+    },
+    "windows_min": {
+      "value": "Windows 10",
+      "source_url": "https://www.orchestraltools.com/berlin-strings",
+      "quote": "ows: Windows 10 | Intel Core i5 or similar | At least 8 GB RAM (16 GB+ recommended) Formats supported: Standalone, VST, VST3, AU, AAX Kontakt Version Requires Kontakt Player or Full Version 5.5.1 or later Please",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-28"
+    },
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-spitfire-audio-bbc-symphony-orchestra-discover": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://www.spitfireaudio.com/products/bbc-symphony-orchestra-discover",
+      "quote": "BBC Symphony Orchestra Discover – Free Orchestra VST | Spitfire Audio Your cart is currently empty. Tot",
+      "source_kind": "vendor",
+      "display": "Free",
+      "fetched_at": "2026-09-28"
+    },
+    "formats": null,
+    "macos_min": null,
+    "windows_min": {
+      "value": "Windows 10",
+      "source_url": "https://www.spitfireaudio.com/products/bbc-symphony-orchestra-discover",
+      "quote": "RAM Both Intel and Apple Silicon/ARM are supported 32-bit systems are not supported. PC requirements Windows 10 or Windows 11 - (Latest Service Pack, 64",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-28"
+    },
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-virtual-playing-orchestra": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://virtualplaying.com/virtual-playing-orchestra/",
+      "quote": "Tube Feed Virtual Playing Orchestra Get Recommended Instruments (free) More ... Virtual Playing Orchestra: “ It covers all the needs ”",
+      "source_kind": "vendor",
+      "display": "free",
+      "fetched_at": "2026-09-28"
+    },
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-dsk-music-dsk-brass": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://www.dskmusic.com/dsk-brass/dsk-brass/",
+      "quote": "l instrument DSK Brass DSK Music January 25th, 2012 8 Comments » free download, free downloads, download, downloads, descargar, descar",
+      "source_kind": "vendor",
+      "display": "free",
+      "fetched_at": "2026-09-28"
+    },
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-spitfire-audio-bbc-symphony-orchestra-core": {
+    "price": {
+      "value": 449.0,
+      "source_url": "https://www.spitfireaudio.com/en-us/products/bbc-symphony-orchestra-core",
+      "quote": "ch our store Reset BBC Symphony Orchestra Core Overview Listen What's included Tech specs $449.00 Save You own this Add to cart Play The broadcast standard In partnership with BBC Studios",
+      "source_kind": "vendor",
+      "display": "$449.00",
+      "fetched_at": "2026-09-28"
+    },
+    "is_free": null,
+    "formats": {
+      "value": [
+        "VST2",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "source_url": "https://www.spitfireaudio.com/en-us/products/bbc-symphony-orchestra-core",
+      "quote": "de an AU, VST2, VST3 and an AAX, so as long as your chosen DAW supports one of those plugin formats, you’re good to go. If I own Core, will I receive Discover for free? Yes, it will automatically appear in your Spitfire",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-28"
+    },
+    "macos_min": null,
+    "windows_min": {
+      "value": "Windows 10",
+      "source_url": "https://www.spitfireaudio.com/en-us/products/bbc-symphony-orchestra-core",
+      "quote": "RAM Both Intel and Apple Silicon/ARM are supported 32-bit systems are not supported. PC requirements Windows 10 or Windows 11 - (Latest Service Pack, 64",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-28"
+    },
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-decomposer-sitala": {
+    "price": null,
+    "is_free": null,
+    "formats": null,
+    "macos_min": {
+      "value": "macOS 10.12",
+      "source_url": "https://decomposer.de/sitala/",
+      "quote": "kit, Sitala includes the Future Retro Pop and Hip Hop Ultra factory kits. Downloads Version 2.1.2 Build 2.1.2 September 24, 2026 macOS 10.12 or later Standalone / VST / AU / AAX (79 MB) Windows 64 Bit Windows 10",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-28"
+    },
+    "windows_min": null,
+    "apple_silicon": {
+      "value": true,
+      "source_url": "https://decomposer.de/sitala/",
+      "quote": "all plugin formats. Apple Silicon Support All plug-in formats and our standalone run natively on Apple Silicon. 4x4 Layout Sitala defaults to an MPC-style 4x4 layout. Instant Missin",
+      "source_kind": "vendor",
+      "display": "Apple Silicon",
+      "fetched_at": "2026-09-28"
+    },
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": {
+      "value": "Version 2.1.2",
+      "source_url": "https://decomposer.de/sitala/",
+      "quote": "kit, Sitala includes the Future Retro Pop and Hip Hop Ultra factory kits. Downloads Version 2.1.2 Build 2.1.2 September 24, 2026 macOS 10.12 or later Standalone / VST / AU / AAX (79 MB) Windows 64 Bit Windows 10",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-28"
+    },
+    "release_date": {
+      "value": "September 24, 2026",
+      "source_url": "https://decomposer.de/sitala/",
+      "quote": "knobs. Sixteen pads. Drag and drop. Playable like instrument. New in Sitala 2.1.2 — Released September 24, 2026: Pitch Snapping Tuning now shows note labels and snaps to pitches, so you can tune drum hits precise",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-28"
+    },
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-e-phonic-drumatic-4": {
+    "price": {
+      "value": null,
+      "source_url": "https://www.e-phonic.com/drumatic.html",
+      "quote": "matic 4: Flexible drum synthesizer E-Phonic Drumatic 4: Flexible drum synthesizer BUY NOW €29,99 + vat Drumatic 4 Drumatic is a 10 channel drum synthesizer. It offers a great variety of",
+      "source_kind": "vendor",
+      "display": "€29,99",
+      "fetched_at": "2026-09-28"
+    },
+    "is_free": null,
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-arturia-v-collection-11": {
+    "price": null,
+    "is_free": null,
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-native-instruments-kontakt-player": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://www.native-instruments.com/products/kontakt-player",
+      "quote": "akt 8 Player vs Kontakt 8 Kontakt Player by Native Instruments A free sample player for Kontakt instruments and official third-party l",
+      "source_kind": "vendor",
+      "display": "free",
+      "fetched_at": "2026-09-28"
+    },
+    "formats": null,
+    "macos_min": {
+      "value": "macOS 14",
+      "source_url": "https://www.native-instruments.com/products/kontakt-player",
+      "quote": "ed. Future updates may prevent installation below macOS 14. Additional information Intel Core i5 or equivalent CPU, or Apple Silicon, 4 GB RAM (6 GB recommended) Graphics hardware support for Direct",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-28"
+    },
+    "windows_min": {
+      "value": "Windows 10",
+      "source_url": "https://www.native-instruments.com/products/kontakt-player",
+      "quote": "download System Requirements System requirements macOS* 14, 15 and 26 (latest update) Windows 10 or 11 (latest Service Pack) *As of Kontakt 8.8, macOS 13 is no longer support",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-28"
+    },
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-waves-ssl-4000-collection": {
+    "price": null,
+    "is_free": null,
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-softube-flow-studio": {
+    "price": {
+      "value": null,
+      "source_url": "https://www.softube.com/us/hardware/flow-studio",
+      "quote": "nifty spatial tool. Flow Studio The ultimate control surface for the busy music producer. USD 399 14-day returns Tech support System Requirements macOS Sonoma 14, Sequoia 15, Tahoe 26 Win",
+      "source_kind": "vendor",
+      "display": "USD 399",
+      "fetched_at": "2026-09-28"
+    },
+    "is_free": null,
+    "formats": null,
+    "macos_min": null,
+    "windows_min": {
+      "value": "Windows 10",
+      "source_url": "https://www.softube.com/us/hardware/flow-studio",
+      "quote": "ate control surface for the busy music producer. USD 399 14-day returns Tech support System Requirements macOS Sonoma 14, Sequoia 15, Tahoe 26 Windows 10 (64-bit), Windows 11 Softube account iLok account Computer with AU, VS",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-28"
+    },
+    "apple_silicon": null,
+    "copy_protection": {
+      "value": "iLok",
+      "source_url": "https://www.softube.com/us/hardware/flow-studio",
+      "quote": "ate control surface for the busy music producer. USD 399 14-day returns Tech support System Requirements macOS Sonoma 14, Sequoia 15, Tahoe 26 Windows 10 (64-bit), Windows 11 Softube account iLok account Computer with AU, VS",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-28"
+    },
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-tokyo-dawn-labs-tdr-nova": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://www.tokyodawn.net/tdr-nova/",
+      "quote": "ited for stereo bus compression and other critical applications. Free Download Learn More Thank you! Have a great time with TDR Nova!",
+      "source_kind": "vendor",
+      "display": "Free",
+      "fetched_at": "2026-09-28"
+    },
+    "formats": {
+      "value": [
+        "VST2",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "source_url": "https://www.tokyodawn.net/tdr-nova/",
+      "quote": "r flexible dynamics processing, equal loudness functions, smart operations and more. Plugin Formats OS 32bit 64bit VST2, VST3 VST2, VST3, AAX VST2, VST3, AU, AAX System requirements Win 7 or above, Mac OS X 10.9 or abov",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-28"
+    },
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-tokyo-dawn-labs-tdr-kotelnikov": {
+    "price": null,
+    "is_free": null,
+    "formats": {
+      "value": [
+        "VST2",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "source_url": "https://www.tokyodawn.net/tdr-kotelnikov/",
+      "quote": "es such as support for equal loudness workflows, frequency dependent ratio and more. Plugin Formats OS 32bit 64bit VST2, VST3 VST2, VST3, AAX VST2, VST3, AU, AAX System requirements Win 7 or above, Mac OS X 10.9 or abov",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-28"
+    },
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-splice-rent-to-own": {
+    "price": null,
+    "is_free": null,
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-splice-studio": {
+    "price": null,
+    "is_free": null,
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": {
+      "value": "7-day trial",
+      "source_url": "https://splice.com/plans/studio-pro/about",
+      "quote": "or $12.99 / month. Must have Studio One Pro 7 or Studio Pro 8. Start your free 7-day trial Drag and drop any sound from Splice’s catalog directly into your project. Use Search with Sound to find top compatible",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-28"
+    },
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-decent-samples-decent-sampler": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://www.decentsamples.com/product/decent-sampler-plugin/",
+      "quote": "Decent Sampler Plugin [FREE] - decent|SAMPLES Skip to navigation Skip to content decent | sa",
+      "source_kind": "vendor",
+      "display": "FREE",
+      "fetched_at": "2026-09-28"
+    },
+    "formats": null,
+    "macos_min": null,
+    "windows_min": {
+      "value": "Windows 10",
+      "source_url": "https://www.decentsamples.com/product/decent-sampler-plugin/",
+      "quote": "plugin that allows you to play sample libraries in the DecentSampler format (files with extensions: dspreset and dslibrary ). It is available in the following formats: Windows 10 and above (32-bi",
+      "source_kind": "vendor",
+      "fetched_at": "2026-09-28"
+    },
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  }
+}
