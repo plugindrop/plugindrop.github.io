@@ -1,18 +1,29 @@
 ---
 import pluginFacts from '../data/plugin_facts.json';
 import priceData from '../data/price_history.json';
+import vendorCatalog from '../data/vendor_products.json';
 import { comparisonPriceFacts } from '../lib/priceInsights.mjs';
 import { isPricePageIndexable, slugifyProduct } from '../lib/indexPolicy.mjs';
 import { pbLink, formatPrice, isSearchUrl } from '../lib/priceUtils.ts';
 import { formatOsRequirement } from '../lib/formatOsRequirement.mjs';
 
-interface Props { product: string; slug: string }
-const { product, slug } = Astro.props;
+interface Props { product?: string; vendorProduct?: string; slug: string }
+const { product, vendorProduct, slug } = Astro.props;
 const vendorFiles = import.meta.glob('../data/vendor_facts.json', { eager: true, import: 'default' });
-const vendor = ((Object.values(vendorFiles)[0] ?? {}) as Record<string, Record<string, any>>)[product];
-const entry = ({ ...priceData.bundles, ...priceData.plugins } as Record<string, any>)[product];
-const facts = (pluginFacts as Record<string, any>)[product];
+const vendorFacts = (Object.values(vendorFiles)[0] ?? {}) as Record<string, Record<string, any>>;
+const catalog = vendorCatalog as Record<string, any>;
+const vp = vendorProduct ? catalog[vendorProduct] : null;
+const isVendor = vp?.status === 'verified' && !vp.superseded_by;
+const vendor = isVendor ? vendorFacts[vendorProduct!] : vendorFacts[product!];
+const entry = ({ ...priceData.bundles, ...priceData.plugins } as Record<string, any>)[product!];
+const facts = (pluginFacts as Record<string, any>)[product!];
 const price = comparisonPriceFacts(entry);
+const validSource = (fact: any) => fact && typeof fact.source_url === 'string' && /^https:\/\//.test(fact.source_url) && URL.canParse(fact.source_url) && typeof fact.quote === 'string' && fact.quote.trim() && typeof fact.fetched_at === 'string' && typeof fact.source_kind === 'string';
+const validFact = (fact: any) => validSource(fact) && fact.value !== null && fact.value !== undefined;
+const vendorPrice = validFact(vendor?.is_free) && vendor.is_free.value === true ? vendor.is_free : validSource(vendor?.price) && typeof vendor.price.display === 'string' && vendor.price.display ? vendor.price : null;
+const officialUrl = (url: string) => { try { const clean = new URL(url); if (clean.protocol !== 'https:') return null; clean.search = ''; clean.hash = ''; return clean.toString(); } catch { return null; } };
+const sourceUrl = (url: string) => { const clean = new URL(url); for (const key of [...clean.searchParams.keys()]) if (/^utm_|^(a_aid|aff|affiliate|ref|referral)$/i.test(key)) clean.searchParams.delete(key); return clean.toString(); };
+const official = isVendor ? officialUrl(vp.product_url) : null;
 const display = (value: unknown) => value === null || value === undefined || value === '' ? 'not published' : Array.isArray(value) ? value.join(', ') : String(value);
 const money = (value: number | null | undefined) => value == null ? 'not published' : formatPrice(value);
 const fields = [
@@ -23,11 +34,22 @@ const fields = [
   ['Sales recorded', price?.salesRecorded ?? 'not published'], ['Today', money(price?.today)],
   ['Verdict', price?.verdict.label ?? 'not published'],
 ];
+const vendorFields = [
+  ['Formats', vendor?.formats], ['macOS', vendor?.macos_min], ['Windows', vendor?.windows_min],
+  ['Apple Silicon', vendor?.apple_silicon], ['Copy protection', vendor?.copy_protection], ['Trial', vendor?.trial],
+  ['Vendor price', vendorPrice],
+].filter(([label, fact]) => label === 'Vendor price' ? Boolean(vendorPrice) : validFact(fact));
 ---
-{price?.hasPrice && <div class="fact-card" data-fact-card>
+{(isVendor ? Boolean(vendorPrice) : price?.hasPrice) && <div class="fact-card" data-fact-card>
+  {isVendor ? <>
+    <p class="fact-card-name">{vp.name}</p>
+    <dl>{vendorFields.map(([label, fact]) => <div><dt>{label}</dt><dd><a href={sourceUrl(fact.source_url)} title={label === 'Vendor price' ? `as listed on the vendor site on ${fact.fetched_at}` : undefined}>{label === 'Vendor price' && fact === vendor?.is_free ? 'Free' : label === 'Vendor price' ? fact.display : display(fact.value)}</a></dd></div>)}</dl>
+    {official && <p><a href={official} target="_blank" rel="noopener">Official page →</a></p>}
+  </> : <>
   <p class="fact-card-name">{entry && isPricePageIndexable(entry) ? <a href={`/plugin-prices/${slugifyProduct(product)}/`}>{product}</a> : product}</p>
   <dl>{fields.map(([label, value]) => <div><dt>{label}</dt><dd>{value}</dd></div>)}</dl>
   {entry?.pb_url && !isSearchUrl(entry.pb_url) && <p><a href={pbLink(entry.pb_url, `chan=art&data1=${slug}-facts`)} target="_blank" rel="noopener sponsored">View at Plugin Boutique →</a></p>}
+  </>}
 </div>}
 <style>
   .fact-card { margin: 1.5rem 0; padding: 1rem; border: 1px solid var(--border); border-radius: .5rem; }

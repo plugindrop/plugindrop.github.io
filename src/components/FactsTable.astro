@@ -1,24 +1,41 @@
 ---
 import pluginFacts from '../data/plugin_facts.json';
 import priceData from '../data/price_history.json';
+import vendorCatalog from '../data/vendor_products.json';
 import { comparisonPriceFacts } from '../lib/priceInsights.mjs';
 import { isPricePageIndexable, slugifyProduct } from '../lib/indexPolicy.mjs';
 import { pbLink, formatPrice, isSearchUrl } from '../lib/priceUtils.ts';
 import { formatOsRequirement } from '../lib/formatOsRequirement.mjs';
 
-interface Props { products: string[]; slug: string }
-const { products, slug } = Astro.props;
+interface Props { products: string[]; vendorProducts?: string[]; order?: string[]; slug: string }
+const { products, vendorProducts = [], order = [], slug } = Astro.props;
 const vendorFiles = import.meta.glob('../data/vendor_facts.json', { eager: true, import: 'default' });
 const vendorFacts = (Object.values(vendorFiles)[0] ?? {}) as Record<string, Record<string, any>>;
 const entries = { ...priceData.bundles, ...priceData.plugins } as Record<string, any>;
-const rows = products.map((name) => ({ name, entry: entries[name], facts: (pluginFacts as Record<string, any>)[name], vendor: vendorFacts[name], price: comparisonPriceFacts(entries[name]) }));
-const showTable = rows.filter((row) => row.price?.hasPrice).length >= 2;
-const vendorValue = (row: typeof rows[number], key: string) => row.vendor?.[key]?.value ?? null;
+const catalog = vendorCatalog as Record<string, any>;
+const validSource = (fact: any) => fact && typeof fact.source_url === 'string' && /^https:\/\//.test(fact.source_url) && URL.canParse(fact.source_url) && typeof fact.quote === 'string' && fact.quote.trim() && typeof fact.fetched_at === 'string' && typeof fact.source_kind === 'string';
+const validFact = (fact: any) => validSource(fact) && fact.value !== null && fact.value !== undefined;
+const vendorPrice = (vendor: Record<string, any> | undefined) => validFact(vendor?.is_free) && vendor?.is_free?.value === true ? vendor.is_free : validSource(vendor?.price) && typeof vendor?.price?.display === 'string' && vendor.price.display ? vendor.price : null;
+const officialUrl = (url: string) => { try { const clean = new URL(url); if (clean.protocol !== 'https:') return null; clean.search = ''; clean.hash = ''; return clean.toString(); } catch { return null; } };
+const sourceUrl = (url: string) => { const clean = new URL(url); for (const key of [...clean.searchParams.keys()]) if (/^utm_|^(a_aid|aff|affiliate|ref|referral)$/i.test(key)) clean.searchParams.delete(key); return clean.toString(); };
+const rows = [
+  ...products.map((name) => ({ key: name, name, entry: entries[name], facts: (pluginFacts as Record<string, any>)[name], vendor: vendorFacts[name], price: comparisonPriceFacts(entries[name]), official: null as string | null })),
+  ...vendorProducts.filter((id) => catalog[id]?.status === 'verified' && !catalog[id]?.superseded_by)
+    .map((id) => ({ key: id, name: catalog[id].name as string, entry: null, facts: null, vendor: vendorFacts[id], price: null, official: officialUrl(catalog[id].product_url) })),
+];
+if (order.length) rows.sort((a, b) => order.indexOf(a.key) - order.indexOf(b.key));
+const showTable = rows.filter((row) => row.price?.hasPrice || vendorPrice(row.vendor)).length >= 2;
+const showVendorPrice = rows.some((row) => row.official || vendorPrice(row.vendor));
+const pbProductUrl = (url: string) => { try { const parsed = new URL(url, 'https://www.pluginboutique.com'); return /(^|\.)pluginboutique\.com$/i.test(parsed.hostname) && /^\/(product|meta_product)\//.test(parsed.pathname); } catch { return false; } };
+const canLinkPb = (url: string) => !isSearchUrl(url) && (!showVendorPrice || pbProductUrl(url));
+const vendorValue = (row: typeof rows[number], key: string) => validFact(row.vendor?.[key]) ? row.vendor[key].value : null;
+const vendorCell = (fact: any) => validFact(fact) ? { value: display(fact.value), url: sourceUrl(fact.source_url) } : null;
 const columns = [
   ['apple_silicon', 'Apple Silicon'], ['copy_protection', 'Copy protection'], ['trial', 'Trial'],
 ].filter(([key]) => rows.some((row) => vendorValue(row, key) !== null));
 const display = (value: unknown) => value === null || value === undefined || value === '' ? 'not published' : Array.isArray(value) ? value.join(', ') : String(value);
 const money = (value: number | null | undefined) => value == null ? 'not published' : formatPrice(value);
+const tracked = (row: typeof rows[number], value: string | number) => row.entry ? value : 'not tracked';
 ---
 {showTable && <div class="facts-table-block" data-facts-table>
   {columns.length > 0 && <div class="facts-filters">
@@ -29,17 +46,19 @@ const money = (value: number | null | undefined) => value == null ? 'not publish
     </select></label>
   </div>}
   <div class="facts-scroll"><table><thead><tr>
-    {['Product', 'Formats', 'macOS', 'Windows', ...columns.map(([, label]) => label), 'Typical regular', 'Typical sale', 'Sales recorded', 'Today', 'Verdict', 'Plugin Boutique'].map((label, index) => <th scope="col"><button type="button" data-facts-sort={index}>{label} <span aria-hidden="true">↕</span></button></th>)}
+    {['Product', 'Formats', 'macOS', 'Windows', ...columns.map(([, label]) => label), ...(showVendorPrice ? ['Vendor price'] : []), 'Typical regular', 'Typical sale', 'Sales recorded', 'Today', 'Verdict', 'Plugin Boutique'].map((label, index) => <th scope="col"><button type="button" data-facts-sort={index}>{label} <span aria-hidden="true">↕</span></button></th>)}
   </tr></thead><tbody>
     {rows.map((row) => <tr data-apple={String(Boolean(vendorValue(row, 'apple_silicon')))} data-no-ilok={String(typeof vendorValue(row, 'copy_protection') === 'string' && !/ilok/i.test(vendorValue(row, 'copy_protection')))} data-trial={String(Boolean(vendorValue(row, 'trial')))}>
       <th scope="row">{row.entry && isPricePageIndexable(row.entry) ? <a href={`/plugin-prices/${slugifyProduct(row.name)}/`}>{row.name}</a> : row.name}</th>
-      <td>{display(row.facts?.formats)}</td><td>{formatOsRequirement(row.facts?.mac_req)}</td><td>{formatOsRequirement(row.facts?.win_req)}</td>
-      {columns.map(([key]) => <td>{display(vendorValue(row, key))}</td>)}
-      <td>{money(row.price?.regular)}</td><td>{money(row.price?.sale)}</td><td>{row.price?.hasPrice ? row.price.salesRecorded : 'not published'}</td><td>{money(row.price?.today)}</td>
-      <td>{row.price?.hasPrice ? <span class={`facts-badge ${row.price.verdict.cls}`}>{row.price.verdict.label}</span> : 'not published'}</td>
-      <td>{row.entry?.pb_url && !isSearchUrl(row.entry.pb_url) ? <a href={pbLink(row.entry.pb_url, `chan=art&data1=${slug}-facts`)} target="_blank" rel="noopener sponsored">View at PB →</a> : 'not published'}</td>
+      <td>{vendorCell(row.vendor?.formats) ? <a href={sourceUrl(row.vendor.formats.source_url)}>{display(row.vendor.formats.value)}</a> : display(row.facts?.formats)}</td><td>{vendorCell(row.vendor?.macos_min) ? <a href={sourceUrl(row.vendor.macos_min.source_url)}>{display(row.vendor.macos_min.value)}</a> : formatOsRequirement(row.facts?.mac_req)}</td><td>{vendorCell(row.vendor?.windows_min) ? <a href={sourceUrl(row.vendor.windows_min.source_url)}>{display(row.vendor.windows_min.value)}</a> : formatOsRequirement(row.facts?.win_req)}</td>
+      {columns.map(([key]) => <td>{vendorCell(row.vendor?.[key]) ? <a href={sourceUrl(row.vendor[key].source_url)}>{display(row.vendor[key].value)}</a> : 'not published'}</td>)}
+      {showVendorPrice && <td>{vendorPrice(row.vendor) ? <a href={sourceUrl(vendorPrice(row.vendor).source_url)} title={`as listed on the vendor site on ${vendorPrice(row.vendor).fetched_at}`}>{vendorPrice(row.vendor) === row.vendor?.is_free ? 'Free' : vendorPrice(row.vendor).display}</a> : 'not published'}</td>}
+      <td>{tracked(row, money(row.price?.regular))}</td><td>{tracked(row, money(row.price?.sale))}</td><td>{tracked(row, row.price?.hasPrice ? row.price.salesRecorded : 'not published')}</td><td>{tracked(row, money(row.price?.today))}</td>
+      <td>{row.entry ? row.price?.hasPrice ? <span class={`facts-badge ${row.price.verdict.cls}`}>{row.price.verdict.label}</span> : 'not published' : 'not tracked'}</td>
+      <td>{row.entry?.pb_url && canLinkPb(row.entry.pb_url) ? <a href={pbLink(row.entry.pb_url, `chan=art&data1=${slug}-facts`)} target="_blank" rel="noopener sponsored">View at PB →</a> : row.official ? <a href={row.official} target="_blank" rel="noopener">Official page →</a> : 'not published'}</td>
     </tr>)}
   </tbody></table></div>
+  {showVendorPrice && <p>Vendor columns quote the official product page on the date shown. Tracked columns come from PluginDrop's price history.</p>}
 </div>}
 <script>
   document.querySelectorAll<HTMLElement>('[data-facts-table]').forEach((block) => {
@@ -63,6 +82,16 @@ const money = (value: number | null | undefined) => value == null ? 'not publish
     }));
   });
 </script>
+{showVendorPrice && <script is:inline>
+  document.querySelectorAll('[data-facts-table]').forEach((block) => {
+    block.querySelectorAll('[data-facts-sort]').forEach((button) => button.addEventListener('click', () => {
+      const body = block.querySelector('tbody');
+      if (!body) return;
+      Array.from(body.rows).filter((row) => ['not tracked', 'not published'].includes(row.cells[Number(button.dataset.factsSort)]?.textContent?.trim()))
+        .forEach((row) => body.appendChild(row));
+    }));
+  });
+</script>}
 <style>
   .facts-table-block { margin: 1.5rem 0; }
   .facts-scroll { overflow-x: auto; }

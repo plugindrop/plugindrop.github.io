@@ -14,11 +14,15 @@ import TopDeals from '../components/TopDeals.astro';
 import DealFactBox from '../components/DealFactBox.astro';
 import FactsTable from '../components/FactsTable.astro';
 import FactCard from '../components/FactCard.astro';
+import PlanTable from '../components/PlanTable.astro';
+import LegacyFactCard from '../components/LegacyFactCard.astro';
 import DealMath from '../components/DealMath.astro';
 import NewerVersionNotice from '../components/NewerVersionNotice.astro';
 import VersionHistory from '../components/VersionHistory.astro';
 import supersededReviews from '../data/superseded_reviews.json';
 import postCatalogMap from '../data/post_catalog_map.json';
+import postVendorMap from '../data/post_vendor_map.json';
+import vendorCatalog from '../data/vendor_products.json';
 import manifestRaw from '../data/programmatic_pages.json';
 import { categoryForProduct } from '../lib/categoryInference.mjs';
 import { comparisonPriceFacts } from '../lib/priceInsights.mjs';
@@ -81,6 +85,33 @@ const priceData = priceDataRaw as { last_updated: string; bundles: Record<string
 const _allTrackerEntries = { ...priceData.bundles, ...(priceData.plugins ?? {}) };
 const _catalog = (postCatalogMap as Record<string, { kind: string; products: string[] }>)[currentSlug];
 const _catalogProducts = _catalog?.products ?? [];
+const _vendorIds = (postVendorMap as Record<string, string[]>)[currentSlug] ?? [];
+const _vendorProducts = vendorCatalog as Record<string, any>;
+const _vendorFiles = import.meta.glob('../data/vendor_facts.json', { eager: true, import: 'default' });
+const _vendorFacts = (Object.values(_vendorFiles)[0] ?? {}) as Record<string, Record<string, any>>;
+const _verifiedVendorIds = _vendorIds.filter((id) => _vendorProducts[id]?.status === 'verified');
+const _currentVendorIds = _verifiedVendorIds.filter((id) => !_vendorProducts[id].superseded_by);
+const _vendorRowOrder = _currentVendorIds.length ? [..._catalogProducts, ..._currentVendorIds].sort((a, b) => {
+  const lines = rawBody.toLowerCase().split(/\r?\n/);
+  const position = (id: string) => {
+    const name = (_vendorProducts[id]?.name ?? id).toLowerCase();
+    const table = lines.findIndex((line) => line.includes('|') && line.includes(name));
+    if (table >= 0) return table;
+    const heading = lines.findIndex((line) => /^#{1,6}\s/.test(line) && line.includes(name));
+    return heading >= 0 ? lines.length + heading : 2 * lines.length + [..._catalogProducts, ..._currentVendorIds].indexOf(id);
+  };
+  return position(a) - position(b);
+}) : [];
+const _validVendorSource = (fact: any) => fact && typeof fact.source_url === 'string' && /^https:\/\//.test(fact.source_url) && URL.canParse(fact.source_url) && typeof fact.quote === 'string' && fact.quote.trim() && typeof fact.fetched_at === 'string' && typeof fact.source_kind === 'string';
+const _validVendorFact = (fact: any) => _validVendorSource(fact) && fact.value !== null && fact.value !== undefined;
+const _hasVendorPrice = (id: string) => (_validVendorFact(_vendorFacts[id]?.is_free) && _vendorFacts[id].is_free.value === true)
+  || (_validVendorSource(_vendorFacts[id]?.price) && typeof _vendorFacts[id].price.display === 'string' && Boolean(_vendorFacts[id].price.display));
+const _validPlan = (plan: any) => plan && typeof plan.name === 'string' && plan.name && typeof plan.display === 'string' && plan.display && ['one_time', 'month', 'year'].includes(plan.period) && typeof plan.source_url === 'string' && /^https:\/\//.test(plan.source_url) && URL.canParse(plan.source_url) && typeof plan.quote === 'string' && plan.quote.trim() && typeof plan.fetched_at === 'string' && typeof plan.source_kind === 'string';
+const _planCount = (id: string) => (Array.isArray(_vendorFacts[id]?.plans) ? _vendorFacts[id].plans : []).filter(_validPlan).length;
+const _isPlanArticle = _currentVendorIds.some((id) => ['daw', 'service'].includes(_vendorProducts[id].kind));
+const _legacyId = _verifiedVendorIds.find((id) => _vendorProducts[id].superseded_by &&
+  ['formats', 'macos_min', 'windows_min', 'apple_silicon', 'copy_protection', 'trial', 'latest_version', 'release_date', 'library_size', 'requires_player']
+    .filter((key) => { const fact = _vendorFacts[id]?.[key]; return _validVendorFact(fact) && ['vendor_docs', 'wayback'].includes(fact.source_kind) && (fact.source_kind !== 'wayback' || /^\d{4}-\d{2}-\d{2}$/.test(fact.archived_at ?? '')); }).length >= 2);
 const _newerProduct = (supersededReviews as Record<string, string>)[currentSlug];
 const _bundleNames = new Set(Object.keys(priceData.bundles));
 const _categoryCounts = new Map<string, number>();
@@ -94,9 +125,14 @@ const _catalogCategory = (_catalog as { category?: string | null } | undefined)?
   ?? [..._categoryCounts].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))[0]?.[0];
 const _hub = (manifestRaw as { categories: { slug: string; label: string; status: string }[] }).categories
   .find((item) => item.status === 'published' && item.label === _catalogCategory);
-const _pricedCatalogCount = _catalogProducts.filter((name) => comparisonPriceFacts(_allTrackerEntries[name])?.hasPrice).length;
-const _showFactsTable = !noindex && !(Astro.props as any).draft && ['list', 'comparison'].includes(_catalog?.kind ?? '') && _catalogProducts.length >= 2 && _pricedCatalogCount >= 2;
-const _showFactCard = !noindex && !(Astro.props as any).draft && _catalog?.kind === 'review' && _catalogProducts.length === 1 && _pricedCatalogCount === 1;
+const _pricedCatalogCount = _catalogProducts.filter((name) => comparisonPriceFacts(_allTrackerEntries[name])?.hasPrice).length + _currentVendorIds.filter(_hasVendorPrice).length;
+const _displayFacts = !noindex && !(Astro.props as any).draft;
+const _showPlanTable = _displayFacts && _isPlanArticle && (_catalog?.kind === 'comparison'
+  ? _currentVendorIds.length === 2 && _currentVendorIds.every((id) => _planCount(id) >= 1)
+  : _catalog?.kind === 'review' && _currentVendorIds.length === 1 && _planCount(_currentVendorIds[0]) >= 2);
+const _showLegacyFactCard = _displayFacts && _catalog?.kind === 'review' && Boolean(_legacyId);
+const _showFactsTable = _displayFacts && !_isPlanArticle && ['list', 'comparison'].includes(_catalog?.kind ?? '') && _catalogProducts.length + _currentVendorIds.length >= 2 && _pricedCatalogCount >= 2;
+const _showFactCard = _displayFacts && !_isPlanArticle && !_newerProduct && _catalog?.kind === 'review' && _catalogProducts.length + _currentVendorIds.length === 1 && _pricedCatalogCount === 1;
 const _postForMatch = { data: { title, priceTrack, affiliate } };
 const _trackerMatch = findTrackerEntryForPost(_postForMatch, _allTrackerEntries, rawBody);
 const _fact = _trackerMatch ? buildFactBox(_trackerMatch.entry, Date.now()) : null;
@@ -1127,9 +1163,9 @@ const featuredDeals = isEvergreen ? allPosts
 					)}
 
 					<!-- Article content (from markdown) -->
-					{(_showFactsTable || _showFactCard) && <section id="compare-table">
-						<h2>Compare the plugins in this guide</h2>
-						{_showFactsTable ? <FactsTable products={_catalogProducts} slug={currentSlug} /> : <FactCard product={_catalogProducts[0]} slug={currentSlug} />}
+					{(_showFactsTable || _showFactCard || _showPlanTable || _showLegacyFactCard) && <section id="compare-table">
+						<h2>{_showPlanTable && currentSlug === 'fl-studio-21-review' ? 'FL Studio editions and prices today' : 'Compare the plugins in this guide'}</h2>
+						{_showPlanTable ? <PlanTable vendorProducts={_currentVendorIds} kind={_catalog?.kind as 'comparison' | 'review'} /> : _showLegacyFactCard ? <LegacyFactCard vendorProduct={_legacyId!} /> : _showFactsTable ? <FactsTable products={_catalogProducts} vendorProducts={_currentVendorIds} order={_vendorRowOrder} slug={currentSlug} /> : _currentVendorIds.length ? <FactCard vendorProduct={_currentVendorIds[0]} slug={currentSlug} /> : <FactCard product={_catalogProducts[0]} slug={currentSlug} />}
 						<DealMath names={_catalogProducts} entries={_catalogProducts.map((name) => _allTrackerEntries[name])} />
 					</section>}
 					{_newerProduct && <NewerVersionNotice product={_newerProduct} />}

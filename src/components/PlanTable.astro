@@ -1,0 +1,29 @@
+---
+import vendorCatalog from '../data/vendor_products.json';
+
+interface Props { vendorProducts: string[]; kind: 'comparison' | 'review' }
+const { vendorProducts, kind } = Astro.props;
+const vendorFiles = import.meta.glob('../data/vendor_facts.json', { eager: true, import: 'default' });
+const facts = (Object.values(vendorFiles)[0] ?? {}) as Record<string, Record<string, any>>;
+const catalog = vendorCatalog as Record<string, any>;
+const validPlan = (plan: any) => plan && typeof plan.name === 'string' && plan.name && typeof plan.display === 'string' && plan.display && ['one_time', 'month', 'year'].includes(plan.period) && typeof plan.source_url === 'string' && /^https:\/\//.test(plan.source_url) && URL.canParse(plan.source_url) && typeof plan.quote === 'string' && plan.quote.trim() && typeof plan.fetched_at === 'string' && typeof plan.source_kind === 'string';
+const products = vendorProducts.filter((id) => catalog[id]?.status === 'verified' && !catalog[id]?.superseded_by)
+  .map((id) => ({ name: catalog[id].name as string, plans: (Array.isArray(facts[id]?.plans) ? facts[id].plans : []).filter(validPlan) }));
+const showTable = kind === 'comparison' ? products.length === 2 && products.every((product) => product.plans.length >= 1)
+  : kind === 'review' && products.length === 1 && products[0].plans.length >= 2;
+const rows = products.flatMap((product) => product.plans.map((plan: any) => ({ name: product.name, plan })));
+const billing = (period: string) => period === 'one_time' ? 'one-time' : period;
+const sourceUrl = (url: string) => { const clean = new URL(url); for (const key of [...clean.searchParams.keys()]) if (/^utm_|^(a_aid|aff|affiliate|ref|referral)$/i.test(key)) clean.searchParams.delete(key); return clean.toString(); };
+---
+{showTable && <div class="plan-table-block" data-plan-table>
+  <div class="plan-scroll"><table><thead><tr><th scope="col">Product</th><th scope="col">Plan</th><th scope="col">Price</th><th scope="col">Billing</th><th scope="col">Source</th></tr></thead>
+    <tbody>{rows.map(({ name, plan }) => <tr><th scope="row">{name}</th><td>{plan.name}</td><td>{plan.display}</td><td>{billing(plan.period)}</td><td><a href={sourceUrl(plan.source_url)}>Vendor page ({plan.fetched_at})</a></td></tr>)}</tbody>
+  </table></div>
+</div>}
+<style>
+  .plan-table-block { margin: 1.5rem 0; }
+  .plan-scroll { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: .82rem; }
+  th, td { padding: .55rem .7rem; border-bottom: 1px solid var(--border); text-align: left; vertical-align: top; min-width: 6rem; }
+  th:first-child { min-width: 10rem; }
+</style>

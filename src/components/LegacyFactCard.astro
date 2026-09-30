@@ -1,0 +1,36 @@
+---
+import vendorCatalog from '../data/vendor_products.json';
+
+interface Props { vendorProduct: string }
+const { vendorProduct } = Astro.props;
+const vendorFiles = import.meta.glob('../data/vendor_facts.json', { eager: true, import: 'default' });
+const facts = ((Object.values(vendorFiles)[0] ?? {}) as Record<string, Record<string, any>>)[vendorProduct];
+const product = (vendorCatalog as Record<string, any>)[vendorProduct];
+const fields = [
+  ['Formats', 'formats'], ['macOS', 'macos_min'], ['Windows', 'windows_min'],
+  ['Apple Silicon', 'apple_silicon'], ['Copy protection', 'copy_protection'], ['Trial', 'trial'],
+  ['Latest version', 'latest_version'], ['Release date', 'release_date'],
+  ['Library size', 'library_size'], ['Requires player', 'requires_player'],
+] as const;
+const validFact = (fact: any) => fact && fact.value !== null && fact.value !== undefined
+  && ['vendor_docs', 'wayback'].includes(fact.source_kind)
+  && typeof fact.source_url === 'string' && /^https:\/\//.test(fact.source_url) && URL.canParse(fact.source_url)
+  && typeof fact.quote === 'string' && fact.quote.trim()
+  && typeof fact.fetched_at === 'string'
+  && (fact.source_kind !== 'wayback' || /^\d{4}-\d{2}-\d{2}$/.test(fact.archived_at ?? ''));
+const rows = fields.map(([label, key]) => ({ label, fact: facts?.[key] })).filter(({ fact }) => validFact(fact));
+const showCard = product?.status === 'verified' && Boolean(product?.superseded_by) && rows.length >= 2;
+const display = (value: unknown) => Array.isArray(value) ? value.join(', ') : String(value);
+const sourceUrl = (url: string) => { const clean = new URL(url); for (const key of [...clean.searchParams.keys()]) if (/^utm_|^(a_aid|aff|affiliate|ref|referral)$/i.test(key)) clean.searchParams.delete(key); return clean.toString(); };
+---
+{showCard && <div class="fact-card" data-fact-card data-legacy>
+  <p class="fact-card-name">{product.name}</p>
+  <dl>{rows.map(({ label, fact }) => <div><dt>{label}</dt><dd>{display(fact.value)} <a href={sourceUrl(fact.source_url)}>{fact.source_kind === 'wayback' ? `Archived vendor page, captured ${fact.archived_at} (Internet Archive)` : `Vendor documentation (${fact.fetched_at})`}</a></dd></div>)}</dl>
+</div>}
+<style>
+  .fact-card { margin: 1.5rem 0; padding: 1rem; border: 1px solid var(--border); border-radius: .5rem; }
+  .fact-card-name { font-weight: 700; }
+  dl { display: grid; grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr)); gap: .6rem 1rem; }
+  dt { font-size: .75rem; color: var(--text-muted); }
+  dd { margin: .15rem 0 0; overflow-wrap: anywhere; }
+</style>
