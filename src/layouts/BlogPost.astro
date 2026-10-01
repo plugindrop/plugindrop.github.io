@@ -417,8 +417,8 @@ const relatedPosts = allPosts
 // 短い記事ほど汎用部品の比率が過剰になるため、本文語数が閾値未満の記事では出さない。
 // 記事固有のCTA(deal-cta-box / sticky CTA / 本文内リンク)はガード対象外。
 const _bodyWords = rawBody.replace(/```[\s\S]*?```/g, ' ').split(/\s+/).filter(Boolean).length;
-const MIN_WORDS_PB_DEALS_BOX = 1200; // pb-deals-box(約5リンク)
-const MIN_WORDS_DEALS_RAIL = 3500; // TopDeals サイドバー(約14リンク)
+const MIN_WORDS_PB_DEALS_BOX = 0; // pb-deals-box(約5リンク)
+const MIN_WORDS_DEALS_RAIL = 0; // TopDeals サイドバー(約14リンク)
 const showGenericDealsBox = _bodyWords >= MIN_WORDS_PB_DEALS_BOX;
 const showDealsRail = _bodyWords >= MIN_WORDS_DEALS_RAIL;
 

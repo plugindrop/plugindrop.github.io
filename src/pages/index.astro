@@ -251,14 +251,13 @@ const moreFreshDeals = allPosts
 
 // Latest guides/articles: indexable evergreen/guide posts first (newest first), topped up with the
 // newest other indexable posts so the list is never empty. Same allPosts filter as everything above.
-const TRACKER_PREVIEW_ROWS = 12;
 const isGuide = (p: any) => p.data.evergreen === true || (p.data.tags ?? []).includes('guide');
 const indexablePosts = allPosts.filter(p => !p.data.noindex);
 const latestGuides = [
 	...indexablePosts.filter(isGuide),
 	...indexablePosts.filter(p => !isGuide(p)),
 ].slice(0, 6);
-const previewRows = trackerRows.slice(0, TRACKER_PREVIEW_ROWS);
+const previewRows = trackerRows;
 const hubLinks = [
 	{ href: '/best/', title: 'Best deals by category', text: 'Ranked lists of tracked plugin deals for each plugin category.' },
 	{ href: '/compare/', title: 'Price comparisons', text: 'Side-by-side tracked prices for related plugins.' },
@@ -475,10 +474,10 @@ const hubLinks = [
 					<table class="tracker-table">
 						<thead><tr><th>Plugin</th><th>Current</th><th>Regular</th><th>Off</th><th>Score</th><th><span class="sr-only">Store</span></th></tr></thead>
 						<tbody>
-							{previewRows.map((row) => {
+							{previewRows.map((row, rowIdx) => {
 								const hasDetailPage = isProductNameIndexable(priceData, row.name);
 								// Preview rows: store link only where no detail page exists; others link to their own price page.
-								const showStoreLink = !hasDetailPage;
+								const showStoreLink = rowIdx < 40 || !hasDetailPage;
 								return (
 								<tr data-name={row.name.toLowerCase()}>
 									<td>{isProductNameIndexable(priceData, row.name)
@@ -512,7 +511,7 @@ const hubLinks = [
 						</tbody>
 					</table>
 				</div>
-				<p class="tracker-more">Showing the top {previewRows.length} of {trackedCount} tracked plugins by deal score. <a href="/plugin-prices/">See all tracked prices &rarr;</a></p>
+				<p class="tracker-more">All {trackedCount} tracked plugins, ordered by deal score. <a href="/plugin-prices/">See all tracked prices &rarr;</a></p>
 			</section>
 
 			{latestGuides.length > 0 && (
@@ -683,7 +682,7 @@ const hubLinks = [
 	.score-badge.is-bad { background: var(--verdict-bad); }
 	.score-badge.is-none { color: var(--text-primary); background: var(--bg-highest); }
 	.tracker-panel { overflow-x: auto; padding: 1.25rem; border: 1px solid var(--border); border-radius: var(--radius); background: var(--bg-card); -webkit-overflow-scrolling: touch; }
-	.tracker-table-wrap { overflow: auto; border: 1px solid var(--border); }
+	.tracker-table-wrap { max-height: 360px; overflow: auto; border: 1px solid var(--border); }
 	.tracker-table-wrap::-webkit-scrollbar { width: 8px; height: 8px; }
 	.tracker-table-wrap::-webkit-scrollbar-track { background: var(--bg-base); }
 	.tracker-table-wrap::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
