@@ -19,8 +19,8 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Soundtoys Decapitator | ~$179 (sales to $49–99) | Analog hardware drive emulation | [Official Site](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-distortion-vst-plugins) |
-| FabFilter Saturn 2 | $199 | Multiband and multimode distortion | [Official Site](https://www.pluginboutique.com/product/2-Effects/30-Distortion/6423-FabFilter-Saturn-2?a_aid=69cb95abe1763&chan=art&data1=best-distortion-vst-plugins) |
+| Soundtoys Decapitator | $199 | Analog hardware drive emulation | [Official Site](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-distortion-vst-plugins) |
+| FabFilter Saturn 2 | $149 | Multiband and multimode distortion | [Official Site](https://www.pluginboutique.com/product/2-Effects/30-Distortion/6423-FabFilter-Saturn-2?a_aid=69cb95abe1763&chan=art&data1=best-distortion-vst-plugins) |
 | Waves J37 Tape | varies ($29–49 on sale) | Tape warmth, classic British character | [Official Site](https://www.waves.com/plugins/j37-tape) |
 | Klanghelm SDRR | ~$19 | Best-value analog saturation | [Official Site](https://klanghelm.com/contents/products/SDRR.php) |
 | Chow Tape Model | Free | Physically modeled tape saturation | [Free Download](https://chowdsp.com/products.html) |
@@ -54,7 +54,7 @@ This guide covers 12 real plugins across the full price spectrum. It is written 
 
 Decapitator models five distinct analog saturation circuits — labeled A, E, N, T, and G — each based on documented hardware units including Ampex, EMI, Neve, API, and Chandler preamp and tape amplifier designs. The "Punish" knob extends drive into hard distortion territory, while the mid-frequency Tone control allows surgical shaping of where harmonic content sits in the frequency spectrum. It moves from barely-there warmth to full-on saturation.
 
-**Purchase decision:** Decapitator's list price of $179 is almost never what anyone actually pays. Soundtoys runs several sitewide promotions a year — Black Friday, a summer sale, and periodic flash discounts — where the plugin (often bundled with the rest of the Soundtoys line) drops to the $49–99 range. Unless you need it for a session this week, this is a plugin worth waiting on. Check current pricing on our When Does Soundtoys Decapitator Go On Sale? tracker before buying at list price.
+**Purchase decision:** Decapitator's list price of $199 is almost never what anyone actually pays. Soundtoys runs several sitewide promotions a year — Black Friday, a summer sale, and periodic flash discounts — where the plugin (often bundled with the rest of the Soundtoys line) drops to the $49–99 range. Unless you need it for a session this week, this is a plugin worth waiting on. Check current pricing on our When Does Soundtoys Decapitator Go On Sale? tracker before buying at list price.
 
 **Best for:** Vocals, drum buses, mix buses, and any source that needs documented hardware analog character.
 
@@ -278,7 +278,7 @@ If you have been working with IVGI, Saturation Knob, Chow Tape Model, or TAL-Sat
 - **Developer:** Soundtoys
 - **Price:** ~$179 (watch for sale pricing at $49–99)
 - **Why upgrade:** Free saturation plugins deliver one generic harmonic character. Decapitator delivers five distinct hardware-modeled circuits — each with documented analog source equipment — plus a Punish knob that pushes drive well past where any free plugin goes cleanly. The gap between IVGI and Decapitator is the gap between "harmonic content" and "hardware character with a specific room and circuit identity."
-- **When to pull the trigger:** Don't buy at $179. Set a price alert or bookmark the Decapitator sale tracker and wait for the next sitewide Soundtoys promotion — historically these arrive multiple times a year and cut the price by more than half.
+- **When to pull the trigger:** Don't buy at $199. Set a price alert or bookmark the Decapitator sale tracker and wait for the next sitewide Soundtoys promotion — historically these arrive multiple times a year and cut the price by more than half.
 
 [→ Get Soundtoys Decapitator (via Plugin Boutique)](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-distortion-vst-plugins)
 
@@ -301,9 +301,9 @@ If you have been working with IVGI, Saturation Knob, Chow Tape Model, or TAL-Sat
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Soundtoys Decapitator | ~$179 | Analog hardware emulation | 5 circuit models, Punish knob, tone control | [Get via Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-distortion-vst-plugins) |
-| FabFilter Saturn 2 | $199 | Multiband distortion | 28 styles, 6 bands, modulation matrix | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/30-Distortion/6423-FabFilter-Saturn-2?a_aid=69cb95abe1763&chan=art&data1=best-distortion-vst-plugins) |
-| Waves J37 Tape | varies | Tape machine emulation | EMI J37 model, bias/flutter controls | [Official Site](https://www.pluginboutique.com/product/2-Effects/30-Distortion/6423-FabFilter-Saturn-2?a_aid=69cb95abe1763&chan=art&data1=best-distortion-vst-plugins) |
+| Soundtoys Decapitator | $199 | Analog hardware emulation | 5 circuit models, Punish knob, tone control | [Get via Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-distortion-vst-plugins) |
+| FabFilter Saturn 2 | $149 | Multiband distortion | 28 styles, 6 bands, modulation matrix | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/30-Distortion/6423-FabFilter-Saturn-2?a_aid=69cb95abe1763&chan=art&data1=best-distortion-vst-plugins) |
+| Waves J37 Tape | varies | Tape machine emulation | EMI J37 model, bias/flutter controls | [Official Site](https://www.pluginboutique.com/search?q=Waves%20J37%20Tape&a_aid=69cb95abe1763&chan=art&data1=best-distortion-vst-plugins) |
 | Klanghelm SDRR | ~$19 | Multi-mode saturation | TUBE/TAPE/DIGI/TRANS, Linux support | [Get It](https://klanghelm.com/contents/products/SDRR.php) |
 | iZotope Trash 2 | $49–99 | Extreme multiband distortion | 60+ algorithms, IR convolution, gate | izotope.com |
 | RC-20 Retro Color | ~$99 | Lo-fi texture suite | 6 modules incl. distortion, vinyl, wobble | xlnaudio.com |
@@ -333,9 +333,9 @@ If you have been working with IVGI, Saturation Knob, Chow Tape Model, or TAL-Sat
 A: Overdrive models the soft, asymmetric clipping of an analog circuit pushed slightly past its clean operating threshold — warm harmonics, limited dynamic range compression, and a character that stays musical even at higher drive settings. Distortion, by contrast, clips the waveform harder and more symmetrically, generates a denser set of harmonics (including harsher upper-order ones), and noticeably compresses transients. In practice, plugins like Klanghelm SDRR and Softube Saturation Knob live mostly in overdrive territory, while iZotope Trash 2 and Soundtoys Devil-Loc Deluxe are built for harder distortion. Many plugins, including Decapitator and Saturn 2, cover both ends of that spectrum within a single interface.
 
 **Q: Should I buy Soundtoys Decapitator or wait for a sale?**
-A: Wait, unless you have an active project that needs it this week. Soundtoys runs sitewide promotions several times a year that bring Decapitator's price down from $179 to roughly $49–99 — a discount too large to ignore for a plugin that isn't time-sensitive. Check the Decapitator sale-tracking page before buying at list price.
+A: Wait, unless you have an active project that needs it this week. Soundtoys runs sitewide promotions several times a year that bring Decapitator's price down from $199 to roughly $49–99 — a discount too large to ignore for a plugin that isn't time-sensitive. Check the Decapitator sale-tracking page before buying at list price.
 
-**Q: Is FabFilter Saturn 2 worth $199 compared to free saturation plugins?**
+**Q: Is FabFilter Saturn 2 worth $149 compared to free saturation plugins?**
 A: Yes, if you specifically need multiband distortion. Free tools like IVGI, TAL-Saturator, and Softube Saturation Knob apply one distortion character across the entire frequency spectrum. Saturn 2's ability to assign different distortion types to up to six independent bands — with a full modulation matrix — is not something any free plugin replicates. If your work is single-band (a synth lead, a vocal, a full drum bus needing uniform color), the free tier likely covers your needs and the upgrade isn't urgent.
 
 **Q: What's the best free distortion plugin in 2026?**
@@ -353,10 +353,10 @@ Not every plugin in this guide should be purchased the same way. Distortion and 
 **Buy now, don't wait:**
 - **Klanghelm SDRR (~$19)** and **IVGI (free)** — SDRR is already priced at sale-tier levels, and there's no meaningful discount cycle to wait for. If you've read this far without owning it, the delay is costing you more in workflow limitations than it's saving you in dollars.
 - **Chow Tape Model, Softube Saturation Knob, TAL-Saturator V2 (all free)** — There's nothing to wait for. Download them today.
-- **FabFilter Saturn 2 ($199)** — If you have a confirmed need for multiband distortion, buy now rather than waiting for a discount that historically doesn't exceed 15–20%. The productivity cost of delaying a tool you already know you need outweighs a modest potential saving.
+- **FabFilter Saturn 2 ($149)** — If you have a confirmed need for multiband distortion, buy now rather than waiting for a discount that historically doesn't exceed 15–20%. The productivity cost of delaying a tool you already know you need outweighs a modest potential saving.
 
 **Wait for a sale:**
-- **Soundtoys Decapitator (~$179 list)** and **Soundtoys Devil-Loc Deluxe (~$99 list)** — Soundtoys' sale cadence is reliable enough that paying list price is close to leaving money on the table. Bookmark the Decapitator and Devil-Loc Deluxe sale trackers and buy during the next promotional window — historically these arrive multiple times per year, including Black Friday and a recurring summer sale.
+- **Soundtoys Decapitator ($199 list)** and **Soundtoys Devil-Loc Deluxe (~$99 list)** — Soundtoys' sale cadence is reliable enough that paying list price is close to leaving money on the table. Bookmark the Decapitator and Devil-Loc Deluxe sale trackers and buy during the next promotional window — historically these arrive multiple times per year, including Black Friday and a recurring summer sale.
 - **Waves J37 Tape (varies)** — Waves plugins are discounted so consistently that "list price" is nearly meaningless. Check the J37 Tape sale tracker and expect to pay somewhere in the $29–49 range rather than full price.
 - **RC-20 Retro Color (~$99)** and **iZotope Trash 2 ($49–99)** — Both see moderate, periodic discounting (typically 20–30%) tied to major sale calendar events. Neither is urgent enough to justify paying full price on a random Tuesday — check the RC-20 and Trash 2 trackers first.
 

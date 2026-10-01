@@ -360,7 +360,7 @@ Ozone 12's Master Assistant analyzes your track and builds a starting mastering 
 | OTT | Free | Multiband Compressor | Upward/downward compression, 3-band | [Free Download](https://xferrecords.com/freeware) |
 | Valhalla Room | $50 | Reverb | 12 algorithms, natural room modeling | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-room/) |
 | Valhalla Supermassive | Free | Reverb/Delay | Massive ambiences, modulated tails | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| Waves SSL E-Channel | $29.99 | Channel Strip | SSL console EQ + dynamics | [→ Get Waves SSL E-Channel](https://www.waves.com/plugins/ssl-e-channel) |
+| Waves SSL E-Channel | $149 list ($39.99 sale on Waves, 2026-10-01) | Channel Strip | SSL console EQ + dynamics | [→ Get Waves SSL E-Channel](https://www.waves.com/plugins/ssl-e-channel) |
 | Serum | $189 | Synthesizer | Wavetable editor, modulation matrix, FX | [Get it](https://xferrecords.com/products/serum-2) |
 | Vital | Free | Synthesizer | Spectral warping, advanced modulation | [Free](https://vital.audio/) |
 | Softube Saturation Knob | Free | Saturation | Single-knob, three modes | [Free Download](https://www.softube.com/saturationknob) |

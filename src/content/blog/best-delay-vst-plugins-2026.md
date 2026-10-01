@@ -18,7 +18,7 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| SoundToys EchoBoy | ~$99 | All-round tape/BBD/digital | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763&chan=art&data1=best-delay-vst-plugins-2026) |
+| SoundToys EchoBoy | $199 | All-round tape/BBD/digital | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763&chan=art&data1=best-delay-vst-plugins-2026) |
 | Valhalla Delay | $50 | Clean digital + experimental | [Valhalla DSP](https://valhalladsp.com/shop/delay/valhalladelay/) |
 | Waves H-Delay | Variable | Hybrid analog-digital | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20H-Delay&a_aid=69cb95abe1763&chan=art&data1=best-delay-vst-plugins-2026) |
 | D16 Group Repeater | ~€49 | Precise tempo-synced studio delay | [D16 Group](https://d16.pl/repeater) |
@@ -42,7 +42,7 @@ Whether you're mixing electronic music in Ableton, producing hip-hop in FL Studi
 
 | Plugin | Price | Best For | Free Trial? | Plugin Boutique Link |
 |--------|-------|----------|--------------|------------------------|
-| SoundToys EchoBoy | ~$99 | All-in-one tape/BBD/digital workflow | Yes, 14-day trial | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763&chan=art&data1=best-delay-vst-plugins-2026) |
+| SoundToys EchoBoy | $199 | All-in-one tape/BBD/digital workflow | Yes, 14-day trial | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763&chan=art&data1=best-delay-vst-plugins-2026) |
 | Valhalla Delay | $50 | Budget-conscious sound designers | Yes, fully functional demo | [Valhalla DSP](https://valhalladsp.com/shop/delay/valhalladelay/) |
 | Waves H-Delay | Variable | Mix engineers on tight deadlines | Yes, via Waves account | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20H-Delay&a_aid=69cb95abe1763&chan=art&data1=best-delay-vst-plugins-2026) |
 | D16 Group Repeater | ~€49 | Tempo-locked electronic production | Yes, 30-day demo | [D16 Group](https://d16.pl/repeater) |
@@ -67,7 +67,7 @@ These plugins model the behavior of tape echo machines and bucket-brigade analog
 
 EchoBoy covers tape, BBD, digital, and studio echo modes with hardware-inspired algorithm design, making it one of the most comprehensive delay tools ever built. The Rhythm Echo mode creates polyrhythmic repeat patterns that would be near-impossible to replicate with a standard delay, while saturation, flutter, and diffusion controls let you dial in exactly how much analog character bleeds into the signal. It's genuinely the one delay plugin professional mix engineers recommend most often — and the reason for that is breadth.
 
-At ~$99, EchoBoy sits mid-pack in price but rarely holds that price for long — SoundToys and its retail partners run sales several times a year. If you're not in a rush, check our When Does SoundToys EchoBoy Go On Sale? page before purchasing at full price.
+Soundtoys lists EchoBoy at $199 on its own site (checked 2026-10-01), which is the upper end of the delay options here; SoundToys and its retail partners run sales from time to time. If you're not in a rush, check our When Does SoundToys EchoBoy Go On Sale? page before purchasing at full price.
 
 **Best for:** Producers and engineers who want a single delay plugin covering slapback, tape warmth, rhythmic patterning, and studio echo without switching tools.
 
@@ -316,7 +316,7 @@ If you've been relying on free delays and want to invest in something that cover
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| SoundToys EchoBoy | ~$99 | Tape / BBD / Digital | Hardware-inspired modes, Rhythm Echo, saturation | [Get It](https://valhalladsp.com/shop/delay/valhalladelay/) |
+| SoundToys EchoBoy | $199 | Tape / BBD / Digital | Hardware-inspired modes, Rhythm Echo, saturation | [Get It](https://valhalladsp.com/shop/delay/valhalladelay/) |
 | Valhalla Delay | $50 | Digital / Experimental | 12 algorithms, Lo-Fi and Ghost modes | [Get It](https://valhalladsp.com/shop/delay/valhalladelay/) |
 | Waves H-Delay | Variable | Hybrid Analog/Digital | HP/LP filters, LFO modulation, tempo sync | [Get It](https://valhalladsp.com/shop/delay/valhalladelay/) |
 | D16 Group Repeater | ~€49 | Digital / Studio | Per-tap filtering, tight tempo sync, stereo spread | [Get It](https://d16.pl/repeater) |
@@ -355,7 +355,7 @@ Not every plugin on this list is worth waiting on, and not every plugin is worth
 
 ### Wait for a sale
 
-- **SoundToys EchoBoy.** SoundToys and its retail partners discount this several times a year, typically around Black Friday, Cyber Monday, and Plugin Boutique's periodic flash sales. Check When Does SoundToys EchoBoy Go On Sale? before paying the full ~$99 unless you need it for a session this week.
+- **SoundToys EchoBoy.** SoundToys and its retail partners discount this several times a year, typically around Black Friday, Cyber Monday, and Plugin Boutique's periodic flash sales. Check When Does SoundToys EchoBoy Go On Sale? before paying the full $199 unless you need it for a session this week.
 - **Waves H-Delay.** Waves plugins are discounted so frequently that full price should be treated as a last resort. Track When Does Waves H-Delay Go On Sale? and you'll likely land it well under half the listed price.
 - **D16 Group Repeater and Arturia Delay BRIGADE.** Both developers run periodic storewide promotions. If you're not on a deadline, watch When Does D16 Group Repeater Go On Sale? and When Does Arturia Delay BRIGADE Go On Sale? rather than buying at list price.
 

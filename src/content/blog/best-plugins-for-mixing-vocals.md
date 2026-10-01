@@ -21,7 +21,7 @@ draft: false
 |--------|-------|----------|--------|
 | iZotope Nectar 4 | $199 | Complete vocal suite | [iZotope](https://www.pluginboutique.com/search?q=iZotope%20Nectar&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-mixing-vocals&chan=art&data1=best-plugins-for-mixing-vocals) |
 | FabFilter Pro-Q 4 | $179 | Surgical EQ | [FabFilter](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-for-mixing-vocals) |
-| Waves Tune Real-Time | from $29 | Real-time pitch correction | [Waves](https://www.waves.com/plugins/waves-tune-real-time) |
+| Waves Tune Real-Time | $199 list ($34.99 sale on Waves, 2026-10-01) | Real-time pitch correction | [Waves](https://www.waves.com/plugins/waves-tune-real-time) |
 | Valhalla Supermassive | Free | Reverb & spatial depth | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Waves Vocal Bundle | varies | Full Waves vocal toolkit | [Official Site](https://www.waves.com/bundles/vocal) |
 
@@ -287,17 +287,17 @@ Developer documentation confirms multiple limiting styles — Transparent, Aggre
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Waves Tune Real-Time | from $29 | Pitch Correction | Real-time, low latency, simple workflow | [Get It](https://www.waves.com/plugins/waves-tune-real-time) |
+| Waves Tune Real-Time | $199 list ($34.99 sale on Waves, 2026-10-01) | Pitch Correction | Real-time, low latency, simple workflow | [Get It](https://www.waves.com/plugins/waves-tune-real-time) |
 | Celemony Melodyne 5 | from $99 | Pitch/Time Editing | DNA technology, ARA2, note-level editing | Developer site |
-| Waves CLA-2A | from $29 | Compressor | LA-2A emulation, program-dependent | Developer site |
-| FabFilter Pro-DS | $99 | De-esser | Wideband & dynamic modes, visual display | Developer site |
+| Waves CLA-2A | $149 list ($34.99 sale on Waves, 2026-10-01) | Compressor | LA-2A emulation, program-dependent | Developer site |
+| FabFilter Pro-DS | $199 | De-esser | Wideband & dynamic modes, visual display | Developer site |
 | FabFilter Pro-Q 4 | $179 | EQ | 24 dynamic bands, inter-plugin spectrum | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-for-mixing-vocals) |
-| Soundtoys Decapitator | $99 | Saturation | 5 analog models, parallel blend | Developer site |
+| Soundtoys Decapitator | $199 | Saturation | 5 analog models, parallel blend | Developer site |
 | iZotope Nectar 4 | $199 | All-in-One Suite | AI assistant, Unmask, full chain coverage | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Nectar&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-mixing-vocals&chan=art&data1=best-plugins-for-mixing-vocals) |
 | Waves Doubler 4 | from $29 | Width/Doubling | 4 voices, pitch/timing/pan per voice | Developer site |
-| Waves Vocal Rider | from $29 | Gain Riding | Auto gain, sidechain mix reference | Developer site |
+| Waves Vocal Rider | $199 list ($29.99 sale on Waves, 2026-10-01) | Gain Riding | Auto gain, sidechain mix reference | Developer site |
 | Valhalla Supermassive | Free | Reverb | 24 modes, dense spatial textures | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| Soundtoys EchoBoy | $99 | Delay | 30+ hardware emulations, Rhythm Echo mode | Developer site |
+| Soundtoys EchoBoy | $199 | Delay | 30+ hardware emulations, Rhythm Echo mode | Developer site |
 | FabFilter Pro-L 2 | $179 | Limiter | Multiple limiting styles, ISP detection | Developer site |
 
 ---

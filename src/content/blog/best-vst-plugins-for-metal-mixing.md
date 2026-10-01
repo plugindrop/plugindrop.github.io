@@ -20,7 +20,7 @@ draft: false
 | FabFilter Pro-Q 4 | $179 | Surgical EQ for dense guitar tracks | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-for-metal-mixing) |
 | FabFilter Pro-C 3 | $199 | Drum bus and parallel compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-for-metal-mixing) |
 | FabFilter Pro-L 2 | $179 | True peak limiting for loud masters | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-for-metal-mixing) |
-| Waves CLA-76 | $29 | Snare and drum channel compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20CLA-76&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-for-metal-mixing&chan=art&data1=best-vst-plugins-for-metal-mixing) |
+| Waves CLA-76 | $149 list ($34.99 sale on Waves, 2026-10-01) | Snare and drum channel compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20CLA-76&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-for-metal-mixing&chan=art&data1=best-vst-plugins-for-metal-mixing) |
 | iZotope Ozone 12 | $99+ | AI-assisted mastering chain | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-for-metal-mixing) |
 | OwnHammer IRs | $15–$45/pack | Cabinet IR library for amp sims | [OwnHammer.com](https://www.ownhammer.com) |
 
@@ -109,7 +109,7 @@ This guide covers the eight most important plugins for metal mixing in 2026. The
 ## Waves CLA-76 — Snare compression with the all-buttons-in character
 
 - **Developer:** Waves
-- **Price:** $29 (frequently on sale for less)
+- **Price:** $149 list; $34.99 sale price on waves.com (2026-10-01)
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 - **Why it matters for metal mixing:** The Urei 1176 compressor has a setting known as "all buttons in" (or "British mode") where all four ratio buttons are engaged simultaneously — a mode not intended by the original design that creates an aggressive, saturating compression response particularly suited to drum transients. The Waves CLA-76 models this response, and the resulting compression character on snare — fast, slightly saturating, with a very specific density in the release — is associated with the snare sounds in many classic and modern metal recordings. At $29 (and often found for much less during Waves sales), it's the most accessible path to this specific character.
@@ -173,7 +173,7 @@ A: The standard approach is four rhythm guitar tracks — two left-panned and tw
 A: Drum replacement involves detecting the original drum hits from a recording and triggering replacement samples in sync. It's used when the original recording has inconsistent attack or tone, or when the drum sound doesn't match the genre's expectations regardless of recording quality. In modern metal, kick and snare replacement or layering is close to universal because the sonic expectations for these sounds are very specific and rarely met by unprocessed recording.
 
 **Q: Is the CLA-76 worth buying separately when it's functionally similar to many other 1176 plugins?**
-A: The CLA-76's value is the "all buttons in" mode's specific character at its price point. If you already own another 1176 emulation with all-buttons-in mode (like the Universal Audio version), the CLA-76 doesn't add much. If you don't own any 1176 emulation, the CLA-76 at $29 (frequently less) is the most accessible path to this specific compression character.
+A: The CLA-76's value is the "all buttons in" mode's specific character at its price point. If you already own another 1176 emulation with all-buttons-in mode (like the Universal Audio version), the CLA-76 doesn't add much. If you don't own any 1176 emulation, the CLA-76 ($34.99 sale price on waves.com on 2026-10-01; $149 list) is the most accessible path to this specific compression character.
 
 ---
 

@@ -312,7 +312,7 @@ Developer documentation confirms dynamic EQ capability on every band — not a l
 | Chow Tape Model | Free | Tape Saturation | Physical model, research-based hysteresis | — |
 | Melda MFreeFXBundle | Free | Multi-FX Bundle | 37 plugins across all processing categories | — |
 | FabFilter Pro-Q 4 | $179 | Parametric / Dynamic EQ | Per-band dynamic EQ, collision detection, linear phase | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-reaper) |
-| FabFilter Total Bundle | $899 | Full Suite | 14 plugins, cohesive GUI, cross-plugin spectrum display | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
+| FabFilter Total Bundle | $1,069 | Full Suite | 14 plugins, cohesive GUI, cross-plugin spectrum display | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 | Valhalla VintageVerb | $50 | Algorithmic Reverb | 18 vintage algorithms, tight rooms to large halls | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 
 ---

@@ -26,7 +26,7 @@ draft: false
 | NI Komplete Start | Free | Kontakt Player + starter instruments | [Official Site](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/) |
 | Spitfire Originals Epic Strings | ~$39 | Budget step up from LABS | [Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026) |
 | Soundiron Olympus Choir Micro | ~$49 | Budget choir texture | [Official Site](https://soundiron.com/products/olympus-micro-choir) |
-| Heavyocity Damage 2 | ~$149 | Cinematic hybrid percussion | [Official Site](https://heavyocity.com/product/damage-2/) |
+| Heavyocity Damage 2 | $399 | Cinematic hybrid percussion | [Official Site](https://heavyocity.com/product/damage-2/) |
 | ProjectSAM Symphobia 1 | ~$199 | Ensemble cinematic scoring | [Official Site](https://projectsam.com/libraries/symphobia/) |
 | Spitfire Albion ONE | ~$399 | Full orchestral palette in one library | [Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026) |
 | Native Instruments Komplete | ~$599 (Standard) | Full Kontakt license + massive bundle | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026) |
@@ -174,7 +174,7 @@ Session Strings Pro 2 is built for pop, R&B, and hybrid production contexts rath
 
 Damage 2 is a hybrid percussion library. It combines orchestral percussion samples with designed synthetic hits and custom sound design into a single Kontakt instrument with deep internal effects processing. It is aimed at trailer, game audio, and hybrid scoring.
 
-**Buy now or wait?** Heavyocity's list price on Damage 2 sits well above what it actually sells for most of the year — the ~$149 figure above is close to the "always on sale" price, not a special deal. Check our When Does Heavyocity Damage Go On Sale? page before paying full list; it's rare that this library isn't discounted at least 40–50% somewhere.
+**Buy now or wait?** Heavyocity's list price on Damage 2 sits well above what it actually sells for most of the year — Heavyocity's own site lists Damage 2 at $399 (checked 2026-10-01). Check our When Does Heavyocity Damage Go On Sale? page before paying full list; it's rare that this library isn't discounted at least 40–50% somewhere.
 
 **Best for:** Film, trailer, and game audio composers who need designed percussion that sounds finished out of the box.
 
@@ -338,7 +338,7 @@ Albion ONE is a first orchestral purchase option. Recorded at Air Studios in Lon
 | Spitfire Originals Epic Strings | ~$39 | Strings | Budget step up from LABS | [Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026) |
 | Soundiron Olympus Choir Micro | ~$49 | Choir | Budget choral texture | [Official Site](https://soundiron.com/products/olympus-micro-choir) |
 | NI Session Strings Pro 2 | ~$149 | Strings | Pop/hybrid workflow, no key-switching | [Official Site](https://www.native-instruments.com/en/products/komplete/cinematic/session-strings-pro-2/) |
-| Heavyocity Damage 2 | ~$149 | Percussion | Broadcast-ready hybrid hits | [Official Site](https://heavyocity.com/product/damage-2/) |
+| Heavyocity Damage 2 | $399 | Percussion | Broadcast-ready hybrid hits | [Official Site](https://heavyocity.com/product/damage-2/) |
 | ProjectSAM Symphobia 1 | ~$199 | Ensemble | Ensemble-played phrases and clusters | [Official Site](https://projectsam.com/libraries/symphobia/) |
 | 8Dio Hybrid Tools 3 | ~$199 | Hybrid/experimental | Deep scripting, non-generic textures | [Plugin Boutique](https://www.pluginboutique.com/search?q=8Dio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026) |
 | Strezov Sampling AFFLATUS Ch. 1 | ~$249 | Choir | High-end results at mid-range price | [Plugin Boutique](https://www.pluginboutique.com/search?q=Strezov%20Sampling&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026) |

@@ -20,7 +20,7 @@ draft: false
 |--------|-------|----------|--------|
 | TDR Nova | Free | Dynamic EQ for transparent vocal correction | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Valhalla Supermassive | Free | Lush, professional-grade reverb and space | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| Waves Tune Real-Time | From $29 | Low-latency pitch correction in the mix | [Developer Site](https://www.waves.com/plugins/waves-tune-real-time) |
+| Waves Tune Real-Time | $199 list ($34.99 sale on Waves, 2026-10-01) | Low-latency pitch correction in the mix | [Developer Site](https://www.waves.com/plugins/waves-tune-real-time) |
 | iZotope Nectar 4 | From $199 | AI-assisted complete vocal production suite | [Developer Site](https://www.pluginboutique.com/search?q=iZotope%20Nectar&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-mix-vocals-at-home&chan=art&data1=how-to-mix-vocals-at-home) |
 | Waves Vocal Bundle | Varies | Full paid vocal toolkit for serious mixing | [Official Site](https://www.waves.com/bundles/vocal) |
 
@@ -58,9 +58,9 @@ Pitch correction is where producers waste the most money relative to need. The r
 
 Logic's Flex Pitch, Melodyne Essential (bundled with many DAWs), and Ableton's audio warping handle correction well for occasional out-of-tune notes. If you're recording your own vocals in a controlled session, these are sufficient for 90% of home studio work.
 
-**Mixing in real-time: Waves Tune Real-Time (~$29 on sale)**
+**Mixing in real-time: Waves Tune Real-Time ($199 list, $34.99 sale price on waves.com on 2026-10-01)**
 
-Waves Tune Real-Time consistently sells for $29–49 during Waves' frequent promotions (which run frequently). At that price, it's the easiest pitch correction recommendation for home producers — low latency, simple interface, effective for both subtle and obvious correction. Don't pay the $99 list price; see when Waves plugins go on sale →.
+Waves lists Tune Real-Time at $199, and waves.com showed a $34.99 sale price on 2026-10-01. At the sale price, it's an easy pitch correction recommendation for home producers — low latency, simple interface, effective for both subtle and obvious correction. See when Waves plugins go on sale →.
 
 **Antares Auto-Tune Pro X (~$399 list, ~$149 on sale)**
 
@@ -86,7 +86,7 @@ If you want more algorithmic control and shorter decay options for tight rooms a
 
 Vocal compression serves one practical purpose: reducing dynamic range so the vocal sits consistently in the mix without riding the fader constantly. You don't need an expensive hardware emulation for this.
 
-Your DAW's stock compressor is adequate for gain control on a home studio vocal. If you want character — the way certain compressors color the transient — the Waves CLA-2A or CLA-76 (frequently available for $19–29 on sale) are accurate emulations that add optical or FET texture respectively. Neither is necessary; both are inexpensive enough to justify when on sale.
+Your DAW's stock compressor is adequate for gain control on a home studio vocal. If you want character — the way certain compressors color the transient — the Waves CLA-2A or CLA-76 ($149 list each; $34.99 sale price on waves.com on 2026-10-01) are accurate emulations that add optical or FET texture respectively. Neither is necessary; both are inexpensive enough to justify when on sale.
 
 ---
 
@@ -115,8 +115,8 @@ See when iZotope Nectar 4 goes on sale →
 This chain produces professional results when used correctly. Start here.
 
 **Under $100 — First Paid Upgrades**
-- Add Waves Tune Real-Time (~$29 on sale) for real-time pitch correction
-- Add Waves CLA-2A or CLA-76 (~$19–29 on sale) for compression character
+- Add Waves Tune Real-Time ($34.99 sale price on 2026-10-01) for real-time pitch correction
+- Add Waves CLA-2A or CLA-76 ($34.99 sale price each on 2026-10-01) for compression character
 - Keep TDR Nova and Valhalla Supermassive
 
 **Under $250 — Complete Paid Chain**
@@ -129,7 +129,7 @@ This chain produces professional results when used correctly. Start here.
 
 **Buy now:**
 - TDR Nova and Valhalla Supermassive — always free, download immediately
-- Waves plugins when they're at their $19–29 sale price, which happens frequently; don't wait more than 4–6 weeks
+- Waves plugins when they're at a sale price (individual Waves plugins showed $29.99–$39.99 on waves.com on 2026-10-01); don't wait more than 4–6 weeks
 
 **Wait for a sale:**
 - iZotope Nectar 4 drops to ~$99 during Black Friday, iZotope anniversary sales (typically May), and Plugin Boutique promotions. The full-price $199 is hard to justify when it reliably goes 50% off multiple times per year

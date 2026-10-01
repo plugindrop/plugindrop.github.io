@@ -23,7 +23,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Soundtoys 5 Bundle | $499 (~$299 on sale) | Complete creative effects suite | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=soundtoys-5-review) |
+| Soundtoys 5 Bundle | $599 (~$299 on sale) | Complete creative effects suite | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=soundtoys-5-review) |
 | Decapitator | $199 standalone | Analog saturation & harmonic grit | [Soundtoys](https://www.soundtoys.com/product/decapitator/) |
 | EchoBoy | $199 standalone | Tape & analog delay/echo | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=soundtoys-5-review) |
 | Little AlterBoy | $99 standalone | Vocal pitch & formant shifting | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=soundtoys-5-review) |
@@ -272,7 +272,7 @@ Both support tempo sync while deliberately avoiding perfect quantization. That h
 
 | Plugin | Price (Standalone) | Type | Highlights | CTA |
 |--------|--------------------|------|------------|-----|
-| Soundtoys 5 Bundle | $499 (~$299 sale) | Bundle | 22 plugins, complete creative suite | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=soundtoys-5-review) |
+| Soundtoys 5 Bundle | $599 (~$299 sale) | Bundle | 22 plugins, complete creative suite | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=soundtoys-5-review) |
 | Decapitator | $199 | Saturation | 5 analog circuits, Punish button | [Soundtoys](https://www.soundtoys.com/product/decapitator/) |
 | EchoBoy | $199 | Delay/Echo | 30 hardware models, Rhythm Echo mode | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=soundtoys-5-review) |
 | Little AlterBoy | $99 | Pitch/Formant | Drive-enhanced pitch shifting | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=soundtoys-5-review) |

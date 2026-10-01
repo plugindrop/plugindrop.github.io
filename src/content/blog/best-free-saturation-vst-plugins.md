@@ -248,16 +248,16 @@ Chris Johnson releases all Airwindows plugins free as part of an ongoing Patreon
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Klanghelm SDRR | Free | Tube / Tape / Clip | 4 modes, bias and symmetry controls | [Download](https://klanghelm.com/contents/products/SDRR.php) |
-| Saturation Knob | Free | Analog modeled | 3 frequency modes, one-knob simplicity | [Get via Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-free-saturation-vst-plugins) |
+| Saturation Knob | Free | Analog modeled | 3 frequency modes, one-knob simplicity | Get via Plugin Boutique |
 | IVGI | Free | Tube preamp model | Transparent, low harshness, parallel blend | [Download](https://klanghelm.com/IVGI.php) |
 | bx_saturator V2 | Free | Mid/Side saturation | Independent M/S control, professional grade | [Download](https://www.plugin-alliance.com) |
 | Tape Cassette 2 | Free | Cassette tape | Wow/flutter, lo-fi degradation | [Download](https://www.caelumaudio.com/CaelumAudio/) |
 | Chow Tape Model | Free | Reel-to-reel physical model | SONY TC-260 model, open source | [Download](https://github.com/jatinchowdhury18/AnalogTapeModel) |
 | Ferric TDS | Free (Win) | Tape dynamics | Glue/compression focus, Windows VST2 | [Download](https://varietyofsound.wordpress.com) |
-| Cyanide 2 | Free | Digital distortion | Hard clipping, waveshaping, grit | [Get via Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-free-saturation-vst-plugins) |
+| Cyanide 2 | Free | Digital distortion | Hard clipping, waveshaping, grit | Get via Plugin Boutique |
 | Caramel | Free | Saturation | Part of MFreeFXBundle, Melda quality | [Download](https://www.meldaproduction.com/) |
 | Airwindows Density | Free | Gain/Saturation | Minimal interface, weight and focus | [Download](https://www.airwindows.com) |
-| FabFilter Saturn 2 | $179 | Multiband saturation | 6 bands, modulation system, per-band control | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/30-Distortion/6423-FabFilter-Saturn-2?a_aid=69cb95abe1763&chan=art&data1=best-free-saturation-vst-plugins) |
+| FabFilter Saturn 2 | $149 | Multiband saturation | 6 bands, modulation system, per-band control | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/30-Distortion/6423-FabFilter-Saturn-2?a_aid=69cb95abe1763&chan=art&data1=best-free-saturation-vst-plugins) |
 | Soundtoys Decapitator | $199 | Hardware circuit emulation | 5 analog circuit models, Punish control | [Get via Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-free-saturation-vst-plugins) |
 
 ---

@@ -27,7 +27,7 @@ priceTrack:
 | FabFilter Pro-Q 4 | $179 | Surgical mastering EQ with dynamic EQ | [FabFilter](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-master-at-home) |
 | FabFilter Pro-L 2 | $179 | Transparent multi-algorithm limiting | [FabFilter](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=how-to-master-at-home) |
 | iZotope Ozone 12 | From $249 | All-in-one AI-assisted mastering suite | [iZotope](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=how-to-master-at-home) |
-| FabFilter Total Bundle | From $899 | Complete FabFilter mastering + mixing suite | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=how-to-master-at-home) |
+| FabFilter Total Bundle | $1,069 | Complete FabFilter mastering + mixing suite | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=how-to-master-at-home) |
 
 ---
 
@@ -153,7 +153,7 @@ The Advanced tier adds two developer-confirmed features that address common home
 
 - **Developer:** FabFilter
 - **Price:** From $899
-- **Why upgrade:** Purchasing Pro-Q 4 and Pro-L 2 individually totals approximately $358. The Total Bundle extends that investment to include Pro-C 3 (compressor), Pro-MB (multiband dynamics), Pro-DS (de-esser), Saturn 2 (saturation and distortion), and the complete FabFilter effects suite. For producers who will apply FabFilter tools across both mastering and mixing — which is the typical progression once the mastering workflow is established — the bundle is the documented value purchase.
+- **Why upgrade:** Purchasing Pro-Q 4 and Pro-L 2 individually totals $398. The Total Bundle extends that investment to include Pro-C 3 (compressor), Pro-MB (multiband dynamics), Pro-DS (de-esser), Saturn 2 (saturation and distortion), and the complete FabFilter effects suite. For producers who will apply FabFilter tools across both mastering and mixing — which is the typical progression once the mastering workflow is established — the bundle is the documented value purchase.
 
 [→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=how-to-master-at-home)
 
@@ -168,7 +168,7 @@ The Advanced tier adds two developer-confirmed features that address common home
 | FabFilter Pro-L 2 | $179 | Limiter | 8 algorithms, ISP metering, true peak limiting, granular lookahead/release | [Buy (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=how-to-master-at-home) |
 | iZotope Ozone 12 Standard | From $249 | All-in-one suite | EQ, dynamics, imager, maximizer, Master Assistant AI | [Buy (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=how-to-master-at-home) |
 | iZotope Ozone 12 Advanced | From $499 | All-in-one suite | All Standard features + Master Rebalance, Low End Focus | [Buy (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=how-to-master-at-home) |
-| FabFilter Total Bundle | From $899 | Full plugin suite | Pro-Q 4, Pro-L 2, Pro-C 3, Pro-MB, Pro-DS, Saturn 2, and more | [Buy](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=how-to-master-at-home) |
+| FabFilter Total Bundle | $1,069 | Full plugin suite | Pro-Q 4, Pro-L 2, Pro-C 3, Pro-MB, Pro-DS, Saturn 2, and more | [Buy](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=how-to-master-at-home) |
 
 ---
 

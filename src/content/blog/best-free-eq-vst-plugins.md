@@ -295,7 +295,7 @@ Voxengo's Overtone GEQ takes a different approach to equalization by working wit
 | Ignite Amps PTEq-X | Free | Passive/vintage | Pultec character, low-end shaping | [Developer Site](https://www.igniteamps.com/) |
 | Voxengo Overtone GEQ | Free | Harmonic graphic | Harmonic partial shaping | [Developer Site](https://www.voxengo.com/) |
 | FabFilter Pro-Q 4 | ~$179 | Dynamic parametric | Industry standard, EQ match | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
-| Waves SSL E-Channel | Varies | Analog emulation | SSL 4000 E console EQ | [→ Get Waves SSL E-Channel](https://www.waves.com/plugins/ssl-e-channel) |
+| Waves SSL E-Channel | $149 list ($39.99 sale on Waves, 2026-10-01) | Analog emulation | SSL 4000 E console EQ | [→ Get Waves SSL E-Channel](https://www.waves.com/plugins/ssl-e-channel) |
 | iZotope Neutron | Varies | AI-assisted | Mix assistant, masking detection | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
 
 ---
@@ -338,11 +338,11 @@ The free tools here cover about 90% of what most producers do. When the remainin
 | Plugin | Approx. 2026 Price | What You Gain Over Free | Get It |
 |--------|--------------------|------------------------|--------|
 | FabFilter Pro-Q 4 | ~$179 | Per-band dynamic EQ, mid/side per band, EQ match, and spectrum collision detection between instances | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
-| Waves SSL E-Channel | ~$30–50 on sale | Official SSL 4000 E channel EQ plus dynamics — the real console curve Baxter only gestures at | [→ Get Waves SSL E-Channel](https://www.waves.com/plugins/ssl-e-channel) |
+| Waves SSL E-Channel | $149 list ($39.99 sale on Waves, 2026-10-01) | Official SSL 4000 E channel EQ plus dynamics — the real console curve Baxter only gestures at | [→ Get Waves SSL E-Channel](https://www.waves.com/plugins/ssl-e-channel) |
 | iZotope Neutron 5 | ~$199 | AI masking detection between tracks, Mix Assistant, and a full channel strip around the EQ | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
 | iZotope Ozone 12 | ~$249 | AI-assisted mastering EQ plus spectrum analysis, imaging, and limiting in one suite | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
 
-**Honest note on timing:** almost nobody pays list for these. FabFilter is the exception — it rarely discounts more than a token 10–15%, and only around Black Friday, so waiting saves little. Waves plugins fall to $30 or less constantly; never pay full price for the SSL E-Channel. iZotope's Neutron and Ozone see their deepest cuts — often 60–80% off — during Black Friday and the summer sale, so buying between those windows is money left on the table.
+**Honest note on timing:** almost nobody pays list for these. FabFilter is the exception — it rarely discounts more than a token 10–15%, and only around Black Friday, so waiting saves little. Waves lists the SSL E-Channel at $149, and waves.com showed a $39.99 sale price on 2026-10-01. iZotope's Neutron and Ozone see their deepest cuts — often 60–80% off — during Black Friday and the summer sale, so buying between those windows is money left on the table.
 
 → Full review: [iZotope Ozone 12: Is It Still the Best Mastering Suite?](/posts/izotope-ozone-12-review/)
 

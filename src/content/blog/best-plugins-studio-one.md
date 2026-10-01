@@ -294,7 +294,7 @@ Kilohearts documents Snap Heap as a modular effects host for their "Snapin" form
 | u-he Tyrell N6 | Free | Analog Synth | Subtractive architecture, u-he filter quality | [Download](https://u-he.com) |
 | iZotope Ozone 12 | From ~$49 | Mastering | Master Assistant, full mastering chain in one plugin | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one) |
 | Slate Digital Fresh Air | Free | Enhancer | Two-control high-freq enhancement, zero setup | [Download](https://slatedigital.com/free-plugins/) |
-| Soundtoys 5 | $499 bundle | Creative FX | 20+ plugins, EchoBoy, Decapitator, Little AlterBoy | [Get via Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one) |
+| Soundtoys 5 | $599 bundle | Creative FX | 20+ plugins, EchoBoy, Decapitator, Little AlterBoy | [Get via Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one) |
 | Kilohearts Snap Heap | Free/Paid | Modular FX | Snapin modular chain, macro control across effects | [Get it](https://kilohearts.com) |
 
 ---
@@ -319,7 +319,7 @@ A: For standard parametric EQ tasks, ProEQ3 performs well. The gap opens around 
 **Q: What's the best free plugin to start with in Studio One?**
 A: Both deliver immediately useful results with no configuration required, which is the most practical test for a free plugin: does it help within the first five minutes, or does it require a tutorial to be worth using?
 
-**Q: Is the Soundtoys 5 bundle worth $499 for a bedroom producer?**
+**Q: Is the Soundtoys 5 bundle worth $599 for a bedroom producer?**
 A: At full price, the answer is genre-dependent. EchoBoy alone justifies the purchase for many workflows. The bundle appears on sale annually at significant discounts; buying at sale price substantially changes the per-plugin cost calculation.
 
 **Q: Should I buy iZotope Neutron 4 or FabFilter Pro-Q 4 first?**

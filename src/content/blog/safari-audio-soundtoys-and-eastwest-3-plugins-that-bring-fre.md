@@ -36,7 +36,7 @@ If you're trying to decide whether to buy today or wait, the short version: Soun
 - **Creative modulation** — LFOs, rhythmic patterns, and envelope followers built into core effects
 - **Broad format support** — AU, VST, VST3, and AAX across Mac and Windows
 - **EchoBoy & Decapitator** — Soundtoys' delay and saturation plugins
-- Soundtoys 5 (the full bundle) typically lists around $499, with individual effects like EchoBoy and Decapitator around $199 each at full price — but this bundle rarely sells at list
+- Soundtoys 5 (the full bundle) typically lists around $599, with individual effects like EchoBoy and Decapitator around $199 each at full price — but this bundle rarely sells at list
 
 ### EastWest
 - **Hollywood-grade sample libraries** — recorded at EastWest Studios with professional session players
@@ -69,7 +69,7 @@ EastWest's Hollywood series offers mic-position options for cinematic mockups. C
 | Plugin | Regular Price | Typical Deal Price | You Save |
 |--------|--------------|------------|----------|
 | Safari Audio (per plugin) | ~$49–$99 | ~$29–$59 | ~30–40% |
-| Soundtoys 5 (bundle) | ~$499 | ~$199–$299 during major sales | Up to 60% |
+| Soundtoys 5 (bundle) | ~$599 | ~$199–$299 during major sales | Up to 60% |
 | EastWest Composer Cloud | ~$19.99–$24.99/mo | Often discounted first month or annual plan | Varies |
 
 Deals change without notice — confirm current pricing before checkout. [Check the current deals on Thomann](https://www.thomann.de/intl/special_downloaddeals.html?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=safari-audio-soundtoys-and-eastwest-3-plugins-that-bring-fre).
@@ -80,7 +80,7 @@ Deals change without notice — confirm current pricing before checkout. [Check 
 
 | Name | Price | Key Difference |
 |------|-------|----------------|
-| FabFilter Saturn 2 | ~$179 (rarely discounted) | Multiband saturation with surgical frequency control |
+| FabFilter Saturn 2 | $149 | Multiband saturation with surgical frequency control |
 | Valhalla DSP (various) | ~$50 each, frequent sales down to ~$40 | Algorithmic reverbs |
 | Spitfire Audio LABS | Free | Free orchestral and instrument samples, narrower scope than EastWest |
 

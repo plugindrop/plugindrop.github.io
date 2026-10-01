@@ -28,7 +28,7 @@ priceTrack:
 | Cytomic The Glue | ~$40 | Analog-modeled SSL bus emulation | cytomic.com |
 | Rough Rider 3 | Free | Character compression & pumping | [Free Download](https://www.audiodamage.com/pages/free-and-legacy) |
 | TDR Kotelnikov | Free | Transparent drum bus | [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
-| Waves CLA-76 | ~$29–49 | FET transients on snare & rooms | waves.com |
+| Waves CLA-76 | $149 list ($34.99 sale on Waves, 2026-10-01) | FET transients on snare & rooms | waves.com |
 | Klanghelm MJUC jr. | Free | Tube warmth on drum bus | klanghelm.com |
 
 ---
@@ -294,7 +294,7 @@ Available through slatedigital.com.
 | Cytomic The Glue | ~$40 | VCA Bus Emulation | Circuit-modeled SSL, basis for Ableton's Glue Compressor | cytomic.com |
 | TDR Kotelnikov | Free | Precision/Transparent | Stereo link control, no coloration | [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Rough Rider 3 | Free | Character/Pumping | Mix knob, drum-focused design | [Free](https://www.audiodamage.com/pages/free-and-legacy) |
-| Waves CLA-76 | ~$29–49 | FET Emulation | 1176 circuit, Blacky/Bluey variants, all-buttons-in mode | waves.com |
+| Waves CLA-76 | $149 list ($34.99 sale on Waves, 2026-10-01) | FET Emulation | 1176 circuit, Blacky/Bluey variants, all-buttons-in mode | waves.com |
 | Klanghelm MJUC | Free/~$24 | Variable-Mu | Three tube circuit modes, parallel compression warmth | klanghelm.com |
 | Klanghelm DC1A | Free | Character | 2-knob simplicity, harmonic character, beginner-friendly | klanghelm.com |
 | NI Supercharger GT | Bundled | Tube/Saturation | Compression + harmonic saturation in one plugin | native-instruments.com |
@@ -345,7 +345,7 @@ Not every plugin in this guide belongs on the same shopping timeline. Here's how
 - **Any free plugin** (Rough Rider 3, TDR Kotelnikov, Klanghelm MJUC jr., Klanghelm DC1A) — there's no financial reason to delay; download them today and start using them.
 
 **Wait for a sale window:**
-- **Waves SSL G-Master Buss Compressor and Waves CLA-76** — Waves runs frequent promotions, and $29–49 pricing shows up regularly enough that paying full list price is usually avoidable. If you're not in a rush, check current pricing against recent history before buying — see When Does Waves SSL G-Master Buss Go On Sale? and When Does Waves CLA-76 Go On Sale?.
+- **Waves SSL G-Master Buss Compressor and Waves CLA-76** — Waves lists both at $149, and waves.com showed $34.99 sale prices on 2026-10-01. If you're not in a rush, check current pricing against recent history before buying — see When Does Waves SSL G-Master Buss Go On Sale? and When Does Waves CLA-76 Go On Sale?.
 - **Native Instruments Supercharger GT / Komplete bundles** — Black Friday and NI's anniversary sales are historically the deepest discount windows for Komplete tiers. Unless you need it for a session this week, it's worth waiting for one of those windows.
 
 **Evaluate the ongoing cost, not just the entry price:**

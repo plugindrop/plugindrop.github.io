@@ -10,14 +10,14 @@ heroImage: "/images/how-to-use-delay-mixing.jpg"
 draft: false
 ---
 
-**TL;DR:** Delay adds depth, rhythm, and space to a mix — but most producers use it as a default effect rather than a deliberate decision. This guide covers the four essential delay techniques: sync vs free delay selection, feedback and mix level control, sidechain ducking to preserve mix clarity, and ping-pong for stereo width. Valhalla Delay ($50) and Soundtoys EchoBoy ($149) are the paid options; TAL-Dub-X (free) and Arturia Tape MELLO-FI cover the free and creative ends.
+**TL;DR:** Delay adds depth, rhythm, and space to a mix — but most producers use it as a default effect rather than a deliberate decision. This guide covers the four essential delay techniques: sync vs free delay selection, feedback and mix level control, sidechain ducking to preserve mix clarity, and ping-pong for stereo width. Valhalla Delay ($50) and Soundtoys EchoBoy ($199) are the paid options; TAL-Dub-X (free) and Arturia Tape MELLO-FI cover the free and creative ends.
 
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Valhalla Delay | $50 | Transparent and vintage delay | [Get It](https://valhalladsp.com/shop/delay/valhalladelay/) |
-| Soundtoys EchoBoy | $149 | Tape delay and groove character | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763&chan=art&data1=how-to-use-delay-mixing) |
+| Soundtoys EchoBoy | $199 | Tape delay and groove character | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763&chan=art&data1=how-to-use-delay-mixing) |
 | TAL-Dub-X | Free | Lo-fi dub delay | [TAL-Software.com](https://tal-software.com/products/tal-dub-x) |
 | Arturia Tape MELLO-FI | $99 | Tape delay and mellotron textures | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20MELLO-FI&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-use-delay-mixing&chan=art&data1=how-to-use-delay-mixing) |
 

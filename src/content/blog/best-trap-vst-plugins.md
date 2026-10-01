@@ -284,7 +284,7 @@ If you are running on free tools like Vital and TAL-NoiseMaker, the paid options
 | iZotope Vinyl | Free | Texture FX | Vinyl simulation, harmonic warmth | [Free Download](https://www.izotope.com/en/products/vinyl) |
 | Vital | Free | Wavetable Synth | Full-featured, modulation matrix, Serum-comparable engine | [Free](https://vital.audio/) |
 | Valhalla Supermassive | Free | Reverb/Delay | Best free reverb, massive atmospheric tails | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| LFO Tool | Free | Sidechain FX | Tempo-sync volume, pumping effect, from Xfer | [Free Download](https://xferrecords.com/products/lfo_tool) |
+| LFO Tool | $49.95 | Sidechain FX | Tempo-sync volume, pumping effect, from Xfer | [Free Download](https://xferrecords.com/products/lfo_tool) |
 | TAL-NoiseMaker | Free | Virtual Analog | Basic subtractive, beginner-accessible | [→ Download TAL-NoiseMaker Free](https://tal-software.com/products/tal-noisemaker) |
 
 ---

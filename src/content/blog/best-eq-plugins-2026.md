@@ -33,7 +33,7 @@ priceTrack:
 | Slate Digital Fresh Air | Free | Vocal air & presence | [Free Download](https://slatedigital.com/free-plugins/) |
 | iZotope Neutron | $99+ | AI-assisted mixing, track analysis | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=best-eq-plugins-2026) |
 | iZotope Ozone 12 | from $249 | Full mastering-chain EQ | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-eq-plugins-2026) |
-| Waves SSL E-Channel | $29–$79 | Analog character, channel strips | [Get it here](https://www.waves.com/plugins/ssl-e-channel) |
+| Waves SSL E-Channel | $149 list ($39.99 sale on Waves, 2026-10-01) | Analog character, channel strips | [Get it here](https://www.waves.com/plugins/ssl-e-channel) |
 
 ---
 
@@ -241,7 +241,7 @@ The honest limitation: it colors by design, so it's the wrong pick when you need
 | Slate Digital Fresh Air | Free | High-Freq Enhancer | Presence + Air bands, vocal-optimized | [Free Download](https://slatedigital.com/free-plugins/) |
 | iZotope Neutron | $99–$249 | AI Channel Strip | Track Assistant, Masking Meter, dynamic EQ | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=best-eq-plugins-2026) |
 | iZotope Ozone 12 | from $249 | Mastering Suite with EQ | Linear phase, M/S, AI Master Assistant | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-eq-plugins-2026) |
-| Waves SSL E-Channel | $29–$79 | Analog / Channel Strip | SSL console character, integrated gate + compressor | [Get it](https://www.waves.com/plugins/ssl-e-channel) |
+| Waves SSL E-Channel | $149 list ($39.99 sale on Waves, 2026-10-01) | Analog / Channel Strip | SSL console character, integrated gate + compressor | [Get it](https://www.waves.com/plugins/ssl-e-channel) |
 
 ---
 
@@ -253,7 +253,7 @@ The honest limitation: it colors by design, so it's the wrong pick when you need
 - **If you just need vocal air or Pultec-style low-end weight**, Slate Digital Fresh Air and Ignite Amps PTEq-X are single-purpose free tools that do those two jobs faster than a general EQ.
 - **If you want one EQ to rule every session** — channel strips, surgical edits, mastering, dynamic EQ, M/S — FabFilter Pro-Q 4 at $179 is the correct answer, and its zero-latency/linear-phase toggle means it covers both mixing and mastering in one instance.
 - **If you're building a mastering chain and want an integrated suite**, iZotope Ozone 12 gives you EQ, limiting, imaging, and metering in one coordinated environment — but if budget is the constraint, Pro-Q 4 in linear phase mode on the master bus is a documented, lower-cost alternative.
-- **If your DAW's stock EQ frustrates you but you're not ready for Pro-Q 4**, the Waves SSL E-Channel on a Waves sale is the most cost-effective analog-flavor upgrade, often under $30.
+- **If your DAW's stock EQ frustrates you but you're not ready for Pro-Q 4**, the Waves SSL E-Channel on a Waves sale is the most cost-effective analog-flavor upgrade ($39.99 sale price on waves.com, 2026-10-01; $149 list).
 - **If you're still learning to spot problem frequencies by ear**, iZotope Neutron's Track Assistant and Masking Meter are genuinely useful — a reference starting point and an ear-training aid, not a set-and-forget fix.
 
 ---

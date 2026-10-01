@@ -23,8 +23,8 @@ draft: false
 | Purchase Route | Best For | Strategy | Get It |
 |----------------|----------|----------|--------|
 | Individual plugins on sale | Targeted needs, tight budgets | Flash sales, 80%+ discounts common ($19.99–$34.99 typical) | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=waves-best-price-guide-2026) |
-| Waves Gold Bundle | First-time bundle buyers | Wait for deep discount cycles; ~$59.99–$79.99 on sale vs. $399 list | No purchase link — check waves.com |
-| Waves Platinum Bundle | Producers wanting a full toolkit | Best per-plugin value in the lineup; ~$99.99–$129.99 on sale vs. $599 list | [Waves.com](https://www.waves.com/bundles/platinum) |
+| Waves Gold Bundle | First-time bundle buyers | Wait for deep discount cycles; $159 on waves.com on 2026-10-01 vs. $799 list | No purchase link — check waves.com |
+| Waves Platinum Bundle | Producers wanting a full toolkit | Best per-plugin value in the lineup; $199 on waves.com on 2026-10-01 vs. $1,999 list | [Waves.com](https://www.waves.com/bundles/platinum) |
 | Plugin Boutique year-round | Stack-savvy shoppers | Combine Waves sales with PB vouchers + Virtual Cash | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=waves-best-price-guide-2026) |
 
 ---
@@ -51,7 +51,7 @@ This guide covers the full picture: how Waves bundles are tiered and what they a
 
 Waves sets list prices high — individual plugins typically $99–$299 — and then runs promotional pricing that drops most of them to $19.99–$39.99. This is not occasional discounting; Waves runs significant sale events roughly 8–12 times per year. The implication is straightforward: if you are not in a rush, you should almost never pay full price for a Waves plugin.
 
-A few specific plugins illustrate the gap well. **CLA-76** (list ~$249) regularly drops to around $29.99. **SSL 4000 Collection** (list ~$399) has been seen near $49.99–$59.99 during major sale windows. **H-Delay Hybrid Delay** (list ~$249) is a frequent flash-sale target around $29.99. If any of these are on your wishlist, treat those sale-price numbers as your real budgeting benchmark — not the list price you'll see on a random Tuesday.
+A few specific plugins illustrate the gap well. **CLA-76** (list $149) was showing $34.99 on waves.com on 2026-10-01. **SSL 4000 Collection** (list $499) was showing $129 on waves.com on 2026-10-01. **H-Delay Hybrid Delay** (list $149) was showing $34.99 on waves.com on 2026-10-01. If any of these are on your wishlist, treat those sale-price numbers as your real budgeting benchmark — not the list price you'll see on a random Tuesday.
 
 The important clarification is that "sale price" should be your mental benchmark, not list price. When evaluating whether a Waves plugin is worth buying, the relevant question is whether it's worth $25–$40, not whether it's worth $149.
 
@@ -69,7 +69,7 @@ The important clarification is that "sale price" should be your mental benchmark
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX
 
-Waves structures its catalog into bundle tiers: Gold, Platinum, Diamond, and Horizon represent the main ladder, with each tier building on the previous. At list price, Gold runs around $399 and Platinum around $599 — but neither is realistically purchased at those numbers. During Waves' regular promotional cycles, Gold has been observed as low as $59.99–$79.99 and Platinum as low as $99.99–$129.99, which is the pricing window most producers should actually wait for.
+Waves structures its catalog into bundle tiers: Gold, Platinum, Diamond, and Horizon represent the main ladder, with each tier building on the previous. Waves lists Gold at $799 and Platinum at $1,999 (waves.com, checked 2026-10-01), and the same pages showed sale prices of $159 for Gold and $199 for Platinum that day.
 
 The choice between bundles and individual purchases comes down to breadth: if you need breadth and don't want to monitor flash sales, a bundle at peak promotional pricing often wins. If you need only two or three specific tools — say, CLA-76 and H-Delay at $29.99 each, totaling under $60 — individual flash-sale purchases frequently beat the per-plugin cost of any bundle.
 
@@ -143,7 +143,7 @@ Waves now manages activation through the Waves License Center application. Hardw
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/9SvW6Kj9b70" title="Waves Gold Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves Audio
-- **Price:** List ~$399; commonly seen at $59.99–$79.99 during promotional windows — check waves.com for current pricing
+- **Price:** List $799; $159 sale price shown on waves.com on 2026-10-01 — check waves.com for current pricing
 - **Why upgrade:** Individual plugin purchases during flash sales make sense for targeted needs, but Gold provides breadth — compression, EQ, limiting, and reverb fundamentals in a single purchase for well under $100 at sale price. The Gold bundle also includes Renaissance-series tools.
 
 *(No purchase link available for this bundle — check waves.com directly for current promotional pricing.)*
@@ -155,7 +155,7 @@ Waves now manages activation through the Waves License Center application. Hardw
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/viAr5hQgl3s" title="Waves Platinum Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Waves Audio
-- **Price:** List ~$599; commonly seen at $99.99–$129.99 during promotional windows — check waves.com/bundles/platinum for current pricing
+- **Price:** List $1,999; $199 sale price shown on waves.com on 2026-10-01 — check waves.com/bundles/platinum for current pricing
 - **Why upgrade:** Gold covers the fundamentals, but Platinum adds the H-series — H-Delay, H-Reverb, H-Comp, and H-EQ — which are the main reason to choose it over Gold. At a typical sale-price difference of $30–$50 over Gold, it's a small premium for a meaningfully larger toolkit. See our When Does Waves Platinum Bundle Go On Sale? page for historical discount timing before you buy.
 
 [→ Get Waves Platinum Bundle](https://www.waves.com/bundles/platinum)
@@ -168,8 +168,8 @@ Waves now manages activation through the Waves License Center application. Hardw
 |--------|---------------------|------|---------------|-----|
 | Individual plugins | $19.99–$39.99 on sale (list $99–$299) | Single tools | Lowest entry, targeted investment | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=waves-best-price-guide-2026) |
 | Plugin Boutique Virtual Cash | Free (accrues on purchases) | Discount layer | Stacks on top of Waves sale pricing | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=waves-best-price-guide-2026) |
-| Waves Gold Bundle | $59.99–$79.99 on sale (list ~$399) | Entry bundle | Renaissance-series fundamentals | No link — check waves.com |
-| Waves Platinum Bundle | $99.99–$129.99 on sale (list ~$599) | Full toolkit bundle | Adds H-series, complete mixing range | [Waves.com](https://www.waves.com/bundles/platinum) |
+| Waves Gold Bundle | $799 list ($159 sale on Waves, 2026-10-01) | Entry bundle | Renaissance-series fundamentals | No link — check waves.com |
+| Waves Platinum Bundle | $1,999 list ($199 sale on Waves, 2026-10-01) | Full toolkit bundle | Adds H-series, complete mixing range | [Waves.com](https://www.waves.com/bundles/platinum) |
 | Black Friday window | Annual peak discounts, often near $19.99 floor | Timing strategy | Deepest documented discount period | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=waves-best-price-guide-2026) |
 
 ---
@@ -234,7 +234,7 @@ A: Black Friday/Cyber Monday. It's the window most likely to bring bundle pricin
 
 ## Final Thoughts
 
-The Waves buying strategy in 2026 is not complicated once you understand the pricing model: list prices are aspirational, sale prices are the real market, and Plugin Boutique is the platform that occasionally lets you beat even the sale price through stacked Virtual Cash and vouchers. For producers building a serious collection, the Waves Platinum Bundle at peak promotional pricing — typically $99.99–$129.99 against a $599 list price — represents the most efficient path to a complete toolkit, and Black Friday is the window most worth waiting for. If you need something narrower right now, individual plugins like CLA-76 or H-Delay at their $29.99 flash-sale price are a low-risk way to fill a specific gap without waiting months.
+The Waves buying strategy in 2026 is not complicated once you understand the pricing model: list prices are aspirational, sale prices are the real market, and Plugin Boutique is the platform that occasionally lets you beat even the sale price through stacked Virtual Cash and vouchers. For producers building a serious collection, the Waves Platinum Bundle at peak promotional pricing — $199 against a $1,999 list price on waves.com (checked 2026-10-01) — represents the most efficient path to a complete toolkit, and Black Friday is the window most worth waiting for. If you need something narrower right now, individual plugins like CLA-76 or H-Delay at their $34.99 sale price on waves.com (checked 2026-10-01) are a low-risk way to fill a specific gap without waiting months.
 
 [→ Start Building Your Waves Collection on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=waves-best-price-guide-2026)
 

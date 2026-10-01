@@ -23,7 +23,7 @@ draft: false
 | Phase Plant Lite | Free | Modular synthesis exploration | [Official Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=free-alternative-to-omnisphere) |
 | ZynAddSubFX | Free | Additive/PADsynth orchestral textures | [Official Site](https://zynaddsubfx.sourceforge.io/) |
 | Phase Plant | $99 | Full modular design, no generator cap | [Free via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=free-alternative-to-omnisphere) |
-| Arturia Pigments 7 | $199 | Premium multi-engine synthesis | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=free-alternative-to-omnisphere) |
+| Arturia Pigments 7 | $199 | Premium multi-engine synthesis | [Official Site](https://www.pluginboutique.com/search?q=Arturia%20Pigments%207&a_aid=69cb95abe1763&chan=art&data1=free-alternative-to-omnisphere) |
 
 ---
 
@@ -157,10 +157,10 @@ ZynAddSubFX does not offer granular audio manipulation, sample import, or a mode
 |--------|-------|------|------------|-----|
 | Surge XT | Free | Hybrid (wavetable, FM, subtractive, resonator) | Per-scene layering, deep mod matrix, large patch library | [Free Download](https://surge-synthesizer.github.io/) |
 | Vital | Free | Spectral wavetable | Drag-drop modulation, spectral morph, wavetable import | [Free](https://vital.audio/) |
-| Phase Plant Lite | Free | Modular (2-generator cap) | Full engine quality, Snapin-compatible, visual routing | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=free-alternative-to-omnisphere) |
-| ZynAddSubFX | Free | Additive / PADsynth | 128-partial additive engine, unique harmonic textures | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=free-alternative-to-omnisphere) |
+| Phase Plant Lite | Free | Modular (2-generator cap) | Full engine quality, Snapin-compatible, visual routing | Official Site |
+| ZynAddSubFX | Free | Additive / PADsynth | 128-partial additive engine, unique harmonic textures | Official Site |
 | Phase Plant | $99 | Modular (full) | No generator limits, complete Snapin ecosystem | [kilohearts.com](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=free-alternative-to-omnisphere) |
-| Arturia Pigments 7 | $199 | Multi-engine (6 synthesis types) | Modal + wavetable + granular + additive + sample + analog | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=free-alternative-to-omnisphere) |
+| Arturia Pigments 7 | $199 | Multi-engine (6 synthesis types) | Modal + wavetable + granular + additive + sample + analog | [Official Site](https://www.pluginboutique.com/search?q=Arturia%20Pigments%207&a_aid=69cb95abe1763&chan=art&data1=free-alternative-to-omnisphere) |
 
 ---
 

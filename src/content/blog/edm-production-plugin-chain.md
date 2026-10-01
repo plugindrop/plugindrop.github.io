@@ -160,7 +160,7 @@ FabFilter's developer documentation for Pro-L 2 lists eight limiting algorithms 
 
 - **Developer:** FabFilter
 - **Price:** ~$899
-- **Why upgrade:** Owning Pro-Q 4 and Pro-L 2 individually costs $378. The Total Bundle adds Pro-C 3 (compressor), Pro-MB (multiband dynamics), Saturn 2 (saturation and distortion), Pro-DS (de-esser), Volcano 3 (filter), and the complete synthesizer suite — meaning every processing stage in this chain can be handled by FabFilter tools with consistent metering, UI behavior, and inter-plugin spectrum sharing. For producers who want to replace OTT with a more transparent multiband compressor and add Saturn 2 as a saturation stage between synthesis and EQ, the bundle is the most cost-efficient path.
+- **Why upgrade:** Owning Pro-Q 4 and Pro-L 2 individually costs $398. The Total Bundle adds Pro-C 3 (compressor), Pro-MB (multiband dynamics), Saturn 2 (saturation and distortion), Pro-DS (de-esser), Volcano 3 (filter), and the complete synthesizer suite — meaning every processing stage in this chain can be handled by FabFilter tools with consistent metering, UI behavior, and inter-plugin spectrum sharing. For producers who want to replace OTT with a more transparent multiband compressor and add Saturn 2 as a saturation stage between synthesis and EQ, the bundle is the most cost-efficient path.
 
 [→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=edm-production-plugin-chain)
 
@@ -175,7 +175,7 @@ FabFilter's developer documentation for Pro-L 2 lists eight limiting algorithms 
 | FabFilter Pro-Q 4 | $179 | EQ | Dynamic EQ per band, linear phase, inter-plugin spectrum | [Get Pro-Q 4 (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=edm-production-plugin-chain) |
 | Valhalla Supermassive | Free | Reverb/Delay | Multiple algorithm modes, extreme room sizes, zero cost | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | FabFilter Pro-L 2 | $199 | Mastering Limiter | 8 algorithms, true peak, built-in LUFS metering | [Get Pro-L 2 (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=edm-production-plugin-chain) |
-| FabFilter Total Bundle | ~$899 | Full Plugin Suite | All FabFilter plugins, unified UI, bundle savings | [Get Bundle](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=edm-production-plugin-chain) |
+| FabFilter Total Bundle | $1,069 | Full Plugin Suite | All FabFilter plugins, unified UI, bundle savings | [Get Bundle](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=edm-production-plugin-chain) |
 
 ---
 

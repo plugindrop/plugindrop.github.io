@@ -343,7 +343,7 @@ Spitfire Audio's LABS series offers an expanding catalogue of individual sample-
 | FabFilter Pro-C 3 | $199 | Compressor | 14 compression styles, real-time visualization | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-200) |
 | iZotope Neutron 4 | Varies | Mixing Suite | AI Track Assistant, 6 integrated processors | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-200) |
 | Arturia Pigments 7 | $199 ($99 on sale) | Multi-Engine Synth | 6 synthesis types, visual modulation matrix | — |
-| Soundtoys Decapitator | ~$99–$149 | Saturation | 5 saturation modes, musical harmonic color | — |
+| Soundtoys Decapitator | $199 | Saturation | 5 saturation modes, musical harmonic color | — |
 | Valhalla VintageVerb | $50 | Algorithmic Reverb | 17 vintage algorithms, wide spatial range | [Get it](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
 | Valhalla Room | $50 | Algorithmic Reverb | Tight rooms, clean early reflections | — |
 | Vital | Free | Wavetable Synth | Full engine, deep modulation, Linux support | — |

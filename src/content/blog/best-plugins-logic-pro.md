@@ -351,9 +351,9 @@ EchoBoy covers 30 delay styles modeled on hardware units from the Echoplex tape 
 | u-he Diva | ~$195 | Analog Synth | Circuit-level filter/oscillator emulation | [Get It](https://www.izotope.com/en/products/music-production-suite) |
 | iZotope Neutron 4 | Superseded by Neutron 5 ($299) | Mix Suite | AI Mix Assistant, EQ + comp + shaper | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=best-plugins-logic-pro) |
 | Soothe2 | ~$160 | Resonance Suppressor | Reactive dynamic notch filtering | [Get It](https://www.izotope.com/en/products/music-production-suite) |
-| Soundtoys Decapitator | $99 | Saturation | 5 analog topologies, macOS only | [Get It](https://www.izotope.com/en/products/music-production-suite) |
+| Soundtoys Decapitator | $199 | Saturation | 5 analog topologies, macOS only | [Get It](https://www.izotope.com/en/products/music-production-suite) |
 | Slate Digital Fresh Air | Free | Enhancer | Two-band air/presence, free w/ account | [Get It](https://www.izotope.com/en/products/music-production-suite) |
-| Soundtoys EchoBoy | $99 | Creative Delay | 30 hardware styles, per-repeat tone | [Get It](https://www.izotope.com/en/products/music-production-suite) |
+| Soundtoys EchoBoy | $199 | Creative Delay | 30 hardware styles, per-repeat tone | [Get It](https://www.izotope.com/en/products/music-production-suite) |
 
 ---
 

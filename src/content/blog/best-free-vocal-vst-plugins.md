@@ -285,7 +285,7 @@ Free plugins cover every individual task in the vocal chain, but at some point a
 | Paid Upgrade | Approx. Price | Why Upgrade | Get It |
 |--------------|---------------|-------------|--------|
 | iZotope Nectar 4 | $199 reg — typically ~$149 on sale, lowest tracked $129 (history) | Full AI-assisted vocal chain in one plugin — tuning, EQ, compression, de-essing, reverb, and harmony from a single interface | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Nectar%204&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins) |
-| Waves Tune Real-Time | $199 reg — typically ~$50 on sale (history) | Ultra-low-latency correction with formant shifting — aimed at live rigs and precise studio tuning | [Plugin Boutique](https://www.waves.com/plugins/waves-tune-real-time) |
+| Waves Tune Real-Time | $199 list ($34.99 sale on Waves, 2026-10-01) | Ultra-low-latency correction with formant shifting — aimed at live rigs and precise studio tuning | [Plugin Boutique](https://www.waves.com/plugins/waves-tune-real-time) |
 | Auto-Tune Pro | $450 reg perpetual — typically ~$250 on sale; subscription available (history) | Graph Mode note-by-note editing that no free plugin matches — the industry-standard pitch tool | [Plugin Boutique](https://www.pluginboutique.com/search?q=Auto-Tune%20Pro&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins) |
 
 The detailed breakdown of each paid option follows below.
@@ -342,7 +342,7 @@ The detailed breakdown of each paid option follows below.
 | Acon Digital Multiply | Free | Chorus/Doubler | Up to 6 layers, independent pitch and pan | [Developer Site](https://acondigital.com/products/multiply/) |
 | Chow Tape Model | Free | Saturation | Physically modeled tape, open source | [Developer Site](https://chowdsp.com/products.html) |
 | iZotope Nectar 4 | ~$149 (sale) | Full Vocal Chain | AI assistant, complete processing suite | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Nectar%204&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins) |
-| Waves Tune Real-Time | Varies | Pitch Correction | Low latency, formant shifting, live-safe | [Plugin Boutique](https://www.waves.com/plugins/waves-tune-real-time) |
+| Waves Tune Real-Time | $199 list ($34.99 sale on Waves, 2026-10-01) | Pitch Correction | Low latency, formant shifting, live-safe | [Plugin Boutique](https://www.waves.com/plugins/waves-tune-real-time) |
 | Auto-Tune Pro | Varies | Pitch Correction | Graph Mode, industry standard, manual editing | [Plugin Boutique](https://www.pluginboutique.com/search?q=Auto-Tune%20Pro&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins) |
 
 ---

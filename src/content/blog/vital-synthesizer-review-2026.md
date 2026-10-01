@@ -26,7 +26,7 @@ draft: false
 | Vital Pro | $80 | Complete official library + priority updates | [Get](https://vital.audio/) |
 | Serum | $189 | Industry-standard preset ecosystem, EDM workflows | [Get Serum](https://xferrecords.com/products/serum-2) |
 | Phase Plant | from $99 | Modular architecture, multi-oscillator patching | [Get Phase Plant (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=vital-synthesizer-review-2026) |
-| Pigments | $199 ($99 on sale) | Multi-engine synthesis, analog warmth | [Get Pigments (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=vital-synthesizer-review-2026) |
+| Pigments | $199 ($99 on sale) | Multi-engine synthesis, analog warmth | [Get Pigments (Plugin Boutique)](https://www.pluginboutique.com/search?q=Pigments&a_aid=69cb95abe1763&chan=art&data1=vital-synthesizer-review-2026) |
 
 ---
 
@@ -158,7 +158,7 @@ The case for moving to a different synthesizer — rather than paying within Vit
 | Vital Pro | $80 | Spectral wavetable | Complete official library, priority updates | [Get](https://vital.audio/) |
 | Serum | $189 | Wavetable | Industry-standard ecosystem, Splice integration, massive preset market | [Get Serum](https://xferrecords.com/products/serum-2) |
 | Phase Plant | from $99 | Modular (wavetable/granular/additive) | Fully modular signal path, Snapin ecosystem, combinable oscillator types | [Get Phase Plant (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=vital-synthesizer-review-2026) |
-| Pigments | $199 ($99 on sale) | Multi-engine | Modal + wavetable + VA + granular + sample + harmonic, analog warmth, Arturia ecosystem | [Get Pigments (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=vital-synthesizer-review-2026) |
+| Pigments | $199 ($99 on sale) | Multi-engine | Modal + wavetable + VA + granular + sample + harmonic, analog warmth, Arturia ecosystem | [Get Pigments (Plugin Boutique)](https://www.pluginboutique.com/search?q=Pigments&a_aid=69cb95abe1763&chan=art&data1=vital-synthesizer-review-2026) |
 
 ---
 

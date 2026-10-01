@@ -152,10 +152,10 @@ The Collector's Edition targets professional composers, sound designers, and stu
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Komplete Select | Free–$49 | Starter bundle | Kontakt Player, curated library, hardware bundle | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
-| Komplete 26 Standard | ~$199–$299 (sale) | Full production bundle | Full Kontakt, Massive X, Battery 4, Reaktor 6, Guitar Rig Pro | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
-| Komplete 26 Ultimate | ~$399–$599 (sale) | Expanded bundle | Everything in Standard + Symphony Series, world instruments, 200GB+ | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
-| Komplete 26 Collector's Edition | ~$999+ (sale) | Complete NI catalog | Full NI library, 400GB+, professional composer tier | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
+| Komplete Select | Free–$49 | Starter bundle | Kontakt Player, curated library, hardware bundle | Official Site |
+| Komplete 26 Standard | ~$199–$299 (sale) | Full production bundle | Full Kontakt, Massive X, Battery 4, Reaktor 6, Guitar Rig Pro | [Official Site](https://www.pluginboutique.com/search?q=Komplete%2026%20Standard&a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
+| Komplete 26 Ultimate | ~$399–$599 (sale) | Expanded bundle | Everything in Standard + Symphony Series, world instruments, 200GB+ | [Official Site](https://www.pluginboutique.com/search?q=Komplete%2026%20Ultimate&a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
+| Komplete 26 Collector's Edition | ~$999+ (sale) | Complete NI catalog | Full NI library, 400GB+, professional composer tier | [Official Site](https://www.pluginboutique.com/search?q=Komplete%2026%20Collector%27s%20Edition&a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
 | Arturia V Collection 11 | ~$299–$499 (sale) | Vintage synth bundle | 40+ emulations, physical modeling, circuit simulation | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
 
 ---

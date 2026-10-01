@@ -31,7 +31,7 @@ priceTrack:
 | OTT (Xfer Records) | Free | Upward compression, EDM, synth layers | [Free Download](https://xferrecords.com/freeware) |
 | Rough Rider 3 | Free | Aggressive drums, sidechain pump | [Free Download](https://www.audiodamage.com/pages/free-and-legacy) |
 | Waves SSL G-Master Buss | ~$29–$49 | Bus glue, SSL console tone | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
-| Waves API 2500 | ~$29–$49 | Punchy, forward bus compression | [Get It](https://www.waves.com/plugins/api-2500-compressor) |
+| Waves API 2500 | $149 list ($39.99 sale on Waves, 2026-10-01) | Punchy, forward bus compression | [Get It](https://www.waves.com/plugins/api-2500-compressor) |
 | Cytomic The Glue | ~$75 | SSL 4000G mix bus accuracy | [Plugin Boutique](https://www.pluginboutique.com/search?q=Cytomic%20The%20Glue&a_aid=69cb95abe1763&chan=art&data1=best-compressor-plugins-2026) |
 
 ---
@@ -216,7 +216,7 @@ It does one job and does not pretend otherwise. Given its design, the release ma
 | Waves SSL G-Master Buss | ~$29–$49 | Bus glue | SSL G console character | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | Cytomic The Glue | ~$75 | Bus glue | SSL 4000G accuracy, analog harmonic content | [Get It](https://www.pluginboutique.com/search?q=Cytomic%20The%20Glue&a_aid=69cb95abe1763&chan=art&data1=best-compressor-plugins-2026) |
 | Rough Rider 3 | Free | Character | Parallel mix blend, HP sidechain, aggressive color | [Download](https://www.audiodamage.com/pages/free-and-legacy) |
-| Waves API 2500 | ~$29–$49 | Bus glue | Thrust circuit, punchy forward character | [Get It](https://www.waves.com/plugins/api-2500-compressor) |
+| Waves API 2500 | $149 list ($39.99 sale on Waves, 2026-10-01) | Bus glue | Thrust circuit, punchy forward character | [Get It](https://www.waves.com/plugins/api-2500-compressor) |
 | Klanghelm DC1A | Free | Simplified character | Minimal controls, smooth coloration, easy parallel use | Free — klanghelm.com |
 | Molot (vladg/sound) | Free | Vintage character | Soviet-style coloration | Free — vladg/sound |
 | TDR Feedback Compressor II | Free | Transparent/feedback | Feedback topology, alternative to Kotelnikov on complex material | Free — tokyodawn.net |

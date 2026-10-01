@@ -230,14 +230,14 @@ The free picks above handle the majority of production scenarios. But when speci
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | TAL-Dub-3 | Free | Tape delay | Wow/flutter, saturation, dub-focused | [TAL Software](https://tal-software.com/products/tal-dub) |
-| CHOW Tape Model | Free | Tape emulation | Physics-based hysteresis modeling | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763&chan=art&data1=best-free-delay-vst-plugins) |
-| Delay Lama | Free | Formant/vocal | Organic vocal textures, experimental | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763&chan=art&data1=best-free-delay-vst-plugins) |
+| CHOW Tape Model | Free | Tape emulation | Physics-based hysteresis modeling | Plugin Boutique |
+| Delay Lama | Free | Formant/vocal | Organic vocal textures, experimental | Plugin Boutique |
 | Valhalla SpaceModulator | Free | Modulated delay/flanger | 11 algorithms, through-zero flanging | [Download](https://valhalladsp.com/shop/modulation/valhalla-space-modulator/) |
-| Valhalla Supermassive | Free | Reverb-delay hybrid | Self-oscillating modes, pitch shifting | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763&chan=art&data1=best-free-delay-vst-plugins) |
+| Valhalla Supermassive | Free | Reverb-delay hybrid | Self-oscillating modes, pitch shifting | Plugin Boutique |
 | Graillon 2 | Free | Pitch-delay utility | Harmonized echoes, pitch shifting | [Download](https://www.auburnsounds.com/products/Graillon.html) |
-| MFreeformAnalyzer | Free | Spectrum analyzer | Visual delay chain feedback | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763&chan=art&data1=best-free-delay-vst-plugins) |
+| MFreeformAnalyzer | Free | Spectrum analyzer | Visual delay chain feedback | Plugin Boutique |
 | Valhalla Delay | $50 | Multi-format delay | Tape/HiFi/Ghost/Pitch/Ratio modes | [Buy](https://valhalladsp.com/shop/delay/valhalladelay/) |
-| Waves H-Delay | ~$29 | Hybrid tape-digital | Analog warmth, BPM sync, Waves reliability | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763&chan=art&data1=best-free-delay-vst-plugins) |
+| Waves H-Delay | $149 list ($34.99 sale on Waves, 2026-10-01) | Hybrid tape-digital | Analog warmth, BPM sync, Waves reliability | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20H-Delay&a_aid=69cb95abe1763&chan=art&data1=best-free-delay-vst-plugins) |
 | SoundToys EchoBoy | $199 | Hardware emulation | Space Echo, Echoplex, Echorec modeling | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763&chan=art&data1=best-free-delay-vst-plugins) |
 
 ---

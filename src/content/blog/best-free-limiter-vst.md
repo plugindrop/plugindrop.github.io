@@ -224,7 +224,7 @@ It is a free loudness meter. Setting a limiter ceiling by ear without loudness m
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Limiter 6 GE | Free | Multi-stage mastering | 6 modules, true peak, clipper | [Download Free](https://www.tokyodawn.net/tdr-limiter6-ge/) |
-| W1 Limiter | Free | Brickwall | Near-L1 transparency, minimal controls | [Official Site](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-free-limiter-vst) |
+| W1 Limiter | Free | Brickwall | Near-L1 transparency, minimal controls | Official Site |
 | LoudMax | Free | Lookahead brickwall | Ultra-simple, beginner-friendly | — |
 | Limiter No6 | Free | Multi-stage | Original multistate design, Windows-only | — |
 | Youlean Loudness Meter 2 | Free | Loudness metering | LUFS metering, streaming targets built-in | [Download Free](https://youlean.co/youlean-loudness-meter/) |

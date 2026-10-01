@@ -24,7 +24,7 @@ priceTrack:
 |--------|-------|----------|--------|
 | **FabFilter Pro-L 2** | $199 | Professional mastering, every genre | [Official Site](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-l-2-review) |
 | iZotope Ozone 12 | $499+ | Full AI-assisted mastering suite | [Official Site](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-l-2-review) |
-| FabFilter Total Bundle | $899 | Every FabFilter tool, best per-plugin value | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-l-2-review) |
+| FabFilter Total Bundle | $1,069 | Every FabFilter tool, best per-plugin value | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-l-2-review) |
 
 ---
 
@@ -139,7 +139,7 @@ The price is also a real consideration. At $199, Pro-L 2 is a professional tool 
 |--------|-------|------|------------|-----|
 | FabFilter Pro-L 2 | $199 | True Peak Limiter | 8 algorithms, 32x oversampling, full LUFS metering, M/S mode | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-l-2-review) |
 | iZotope Ozone 12 | $499+ | Full Mastering Suite | AI Master Assistant, Maximizer, complete chain in one plugin | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-l-2-review) |
-| FabFilter Total Bundle | $899 | Plugin Bundle | All FabFilter tools, best per-plugin value for full-chain users | [Get It](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-l-2-review) |
+| FabFilter Total Bundle | $1,069 | Plugin Bundle | All FabFilter tools, best per-plugin value for full-chain users | [Get It](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-l-2-review) |
 
 ---
 

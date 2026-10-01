@@ -29,7 +29,7 @@ priceTrack:
 | Vital | Free | Spectral warping, modern cinematic textures | [Free](https://vital.audio/) |
 | Eventide SP2016 | $149 | Vintage hardware reverb character | [Official Site](https://www.eventideaudio.com/plug-ins/sp2016-reverb/) |
 | FabFilter Pro-R 2 | $199 | Surgical reverb control for mixing | [Official Site](https://www.pluginboutique.com/product/2-Effects/17-Reverb/11576-FabFilter-Pro-R-2?a_aid=69cb95abe1763&chan=art&data1=best-ambient-music-plugins) |
-| Output Portal | $99 | Granular processing, otherworldly textures | [Official Site](https://output.com/products/portal) |
+| Output Portal | $149 | Granular processing, otherworldly textures | [Official Site](https://output.com/products/portal) |
 | TAL-Reverb-4 | Free | Warm vintage plate reverb | [Free Download](https://tal-software.com/products/tal-reverb-4) |
 
 ---
@@ -201,7 +201,7 @@ These plugins add character, movement, and deliberate degradation — the produc
 - **Platforms:** Windows, macOS
 - **Formats:** VST2, VST3, AU, AAX
 
-Output Portal applies a real-time granular engine to any incoming audio source — stretching, pitching, and fragmenting the signal into evolving textures. Developer documentation confirms pitch control, position scanning, and deep modulation routing as core features. It can transform source audio (a piano note, a field recording, a single synthesizer chord) into atmospheric beds. At $99, it occupies a category most free effects don't reach.
+Output Portal applies a real-time granular engine to any incoming audio source — stretching, pitching, and fragmenting the signal into evolving textures. Developer documentation confirms pitch control, position scanning, and deep modulation routing as core features. It can transform source audio (a piano note, a field recording, a single synthesizer chord) into atmospheric beds. At $149 (Output list price, checked 2026-10-01), it occupies a category most free effects don't reach.
 
 **Best for:** Producers working with field recordings or acoustic sources who want to transform them into synthesized-sounding ambient textures.
 
@@ -283,7 +283,7 @@ These two paid tools address specific limitations in the free options above. Bot
 | Vital | Free | Synthesizer | Spectral warping wavetable, visual interface | [Get](https://vital.audio/) |
 | Odin 2 | Free | Synthesizer | PM oscillators, built-in phaser/chorus | [Download](https://www.thewavewarden.com/odin2) |
 | Dexed | Free | Synthesizer | DX7 FM emulation, SysEx patch compatible | [Download](https://asb2m10.github.io/dexed/) |
-| Output Portal | $99 | Creative Effects | Real-time granular, MIDI-controllable, macro routing | [Official Site](https://output.com/products/portal) |
+| Output Portal | $149 | Creative Effects | Real-time granular, MIDI-controllable, macro routing | [Official Site](https://output.com/products/portal) |
 | iZotope Vinyl | Free | Creative Effects | Vintage degradation, mechanical noise simulation | [Download](https://www.izotope.com/en/products/vinyl.html) |
 | Spitfire LABS | Free | Instruments | Expanding library of free atmospheric instruments | [Download](https://labs.spitfireaudio.com/) |
 | Valhalla VintageVerb | $50 | Reverb | Color modes, hardware-era warmth | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |

@@ -234,7 +234,7 @@ The prices below come from our own daily tracking (regular list price and the ty
 | Saturation Knob | Free | Simple saturation | Three tonal modes, single knob, zero friction | Free — Softube |
 | BPB Saturator | Free | Multi-character saturation | Tape mode included, four distinct characters | Free — BPB |
 | RC-20 Retro Color | ~$44 (sale) | Multi-effect lo-fi processor | Integrated saturation + noise + wobble + reverb | [Get It](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
-| Soundtoys Decapitator | ~$69 (sale) | Hardware-modeled saturation | 5 hardware models, Tone control, clip mode | [Get via Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-free-tape-saturation-vst) |
+| Soundtoys Decapitator | $199 | Hardware-modeled saturation | 5 hardware models, Tone control, clip mode | [Get via Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-free-tape-saturation-vst) |
 
 ---
 

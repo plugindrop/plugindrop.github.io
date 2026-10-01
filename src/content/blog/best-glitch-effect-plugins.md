@@ -19,7 +19,7 @@ draft: false
 | Glitchmachines Fracture | Free | Extreme buffer-based audio destruction | [Free Download](https://glitchmachines.com/products/fracture/) |
 | Glitchmachines Hysteresis | Free | Ambient feedback and drone glitch | [Free Download](https://glitchmachines.com/products/hysteresis/) |
 | iZotope Stutter Edit 2 | ~$149 (often $79–$99 on sale) | MIDI-controlled professional stutter | [Official Site](https://www.native-instruments.com/en/products/izotope/stutter-edit-2/) |
-| Output Portal | ~$99 (often ~$49 on sale) | Granular textures and real-time glitch | [Official Site](https://output.com/products/portal) |
+| Output Portal | $149 | Granular textures and real-time glitch | [Official Site](https://output.com/products/portal) |
 | Sugar Bytes Effectrix | ~$99 (often ~$49 on sale) | Compositional sequenced glitch | — |
 
 ---
@@ -233,7 +233,7 @@ For producers who've built their free workflow around Glitch 2 and the Glitchmac
 | Glitchmachines Fracture | Free | Buffer/Granular | Chaos macros, instant texture | [Download](https://glitchmachines.com/products/fracture/) |
 | Glitchmachines Hysteresis | Free | Feedback/Delay | Ambient, slow-burn deterioration | [Download](https://glitchmachines.com/products/hysteresis/) |
 | iZotope Stutter Edit 2 | ~$149 ($79–$99 on sale) | MIDI Gesture | 400+ presets, AAX, live stutter | [iZotope Site](https://www.native-instruments.com/en/products/izotope/stutter-edit-2/) |
-| Output Portal | ~$99 (~$49 on sale) | Granular | Macros, ambient textures, AAX | [Output Site](https://output.com/products/portal) |
+| Output Portal | $149 | Granular | Macros, ambient textures, AAX | [Output Site](https://output.com/products/portal) |
 | Sugar Bytes Buffer Synth | Paid | Buffer | Real-time loop control | — |
 | Sugar Bytes Effectrix | ~$99 (~$49 on sale) | Sequencer | 64-step, 14 effect types | — |
 | Cableguys ShaperBox 3 | ~$99 ($49–$59 on sale) | Volume Shaper | Beat-locked LFO stutter | — |
@@ -267,7 +267,7 @@ Every paid plugin in this guide follows a fairly predictable discount pattern, s
 
 ### Wait for a sale
 - **iZotope Stutter Edit 2 for non-urgent studio use** — iZotope and Native Instruments run frequent promotional pricing, and $149 routinely drops to $79–$99. Unless you need it immediately, check When Does iZotope Stutter Edit 2 Go On Sale? and set a price alert instead of buying at list.
-- **Output Portal** — Output's own site runs regular site-wide promotions that bring Portal down to roughly half its $99 list price. Because Portal isn't typically an urgent, deadline-driven purchase (it's a texture and sound-design tool, not a live-performance necessity for most producers), waiting almost always pays off. Track it at When Does Output Portal Go On Sale?.
+- **Output Portal** — Output's own site runs regular site-wide promotions that bring Portal below its $149 list price. Because Portal isn't typically an urgent, deadline-driven purchase (it's a texture and sound-design tool, not a live-performance necessity for most producers), waiting almost always pays off. Track it at When Does Output Portal Go On Sale?.
 - **Sugar Bytes Effectrix and Buffer Synth** — Sugar Bytes and Plugin Boutique both discount this catalog on a recurring basis, often to around half price. Effectrix's steep learning curve also means there's no rush to buy before you've confirmed (via the free demo) that the workflow suits you.
 - **Cableguys ShaperBox 3** — Cableguys is one of the more sale-frequent developers in this list, with flash discounts appearing regularly throughout the year. If VolumeShaper is a "nice to have" rather than a blocking need, hold off.
 - **XLN Audio RC-20 Retro Color** — routinely discounted to $49–$59. Given that RC-20's Glitch module is one feature within a larger lo-fi plugin, there's little downside to waiting for a promotional window unless you need the full RC-20 toolkit for an active project right now.

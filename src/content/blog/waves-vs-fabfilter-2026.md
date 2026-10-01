@@ -28,9 +28,9 @@ draft: false
 | FabFilter Pro-C 3 | $199 | Compression with 14 styles | FabFilter.com |
 | FabFilter Pro-L 2 | $199 | True peak limiting with loudness metering | FabFilter.com |
 | FabFilter Saturn 2 | $149 | Multiband harmonic saturation | FabFilter.com |
-| Waves SSL E-Channel | ~$29–$49 on sale | Classic console channel strip | Waves.com |
-| Waves API 2500 | ~$29–$49 on sale | Drum bus glue compression | Waves.com |
-| Waves H-Delay | ~$29–$49 on sale | Workhorse hybrid delay | Waves.com |
+| Waves SSL E-Channel | $149 list ($39.99 sale on Waves, 2026-10-01) | Classic console channel strip | Waves.com |
+| Waves API 2500 | $149 list ($39.99 sale on Waves, 2026-10-01) | Drum bus glue compression | Waves.com |
+| Waves H-Delay | $149 list ($34.99 sale on Waves, 2026-10-01) | Workhorse hybrid delay | Waves.com |
 
 *FabFilter prices are from the FabFilter online shop (USD, checked 2026-10-01). Waves prices are the sale-price range used in this article; Waves list prices are higher, so check Waves.com for the current price.*
 

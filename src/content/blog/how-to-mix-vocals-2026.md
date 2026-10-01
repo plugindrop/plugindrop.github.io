@@ -23,10 +23,10 @@ draft: false
 |--------|-------|----------|--------|
 | FabFilter Pro-Q 3 | €179 | Surgical and dynamic EQ | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
 | TDR Nova | Free | Transparent dynamic EQ | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
-| Waves CLA-76 | ~$29.99* | Fast 1176-style compression | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
+| Waves CLA-76 | $149 list ($34.99 sale on Waves, 2026-10-01) | Fast 1176-style compression | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
 | Klanghelm MJUC jr | Free | Warm variable-mu compression | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
 | FabFilter Pro-DS | €99 | Precise, transparent de-essing | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
-| Soundtoys Decapitator | $149 | Harmonic saturation and presence | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
+| Soundtoys Decapitator | $199 | Harmonic saturation and presence | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
 | Valhalla VintageVerb | $50 | Algorithmic room and hall reverb | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
 
 *Waves pricing fluctuates significantly with their frequent sales promotions.
@@ -221,10 +221,10 @@ Supermassive is ValhallaDSP's free release featuring large, diffuse reverb and d
 | Antares Auto-Tune Pro X | ~$399 | Pitch Correction | Real-time + graphical modes, Flex-Tune | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
 | FabFilter Pro-Q 3 | €179 | EQ | 24 bands, dynamic EQ, M/S, collision detection | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
 | TDR Nova | Free | EQ | Dynamic EQ, parallel compression mode, 4 bands | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
-| Waves CLA-76 | ~$29.99 | Compression | 1176 emulation, fast FET, All-Buttons-In | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
+| Waves CLA-76 | $149 list ($34.99 sale on Waves, 2026-10-01) | Compression | 1176 emulation, fast FET, All-Buttons-In | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
 | Klanghelm MJUC jr | Free | Compression | Variable-mu tube character, 2-control simplicity | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
 | FabFilter Pro-DS | €99 | De-Esser | Wideband + dynamic modes, audition solo, lookahead | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
-| Soundtoys Decapitator | $149 | Saturation | 5 analog-modeled modes, Punish, Mix knob | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
+| Soundtoys Decapitator | $199 | Saturation | 5 analog-modeled modes, Punish, Mix knob | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
 | Valhalla VintageVerb | $50 | Reverb | 18 algorithms, 3 color modes, pure algorithmic | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
 | Valhalla Supermassive | Free | Reverb/Delay | Massive diffuse tails, free | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
 

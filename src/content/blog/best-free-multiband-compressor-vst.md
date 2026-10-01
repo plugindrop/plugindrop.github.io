@@ -234,8 +234,8 @@ If you only buy one, FabFilter Pro-MB is the paid standalone multiband compresso
 |--------|-------|------|------------|-----|
 | TDR Nova | Free | Dynamic EQ / Multiband | Linear phase mode, M/S processing, 4 dynamic bands + shelves | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | OTT | Free | Multiband Up/Down Comp | 3-band, upward + downward comp, signature EDM tone | [Download](https://xferrecords.com/freeware/) |
-| MMultiband | Free | Multiband Compressor | Up to 6 bands, full modulation engine, A/B comparison | [Official Site](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-free-multiband-compressor-vst) |
-| Waves C6 Lite | Free | Multiband Compressor | 6 bands, wideband/multiband modes, broadcast-grade | [Official Site](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-free-multiband-compressor-vst) |
+| MMultiband | Free | Multiband Compressor | Up to 6 bands, full modulation engine, A/B comparison | Official Site |
+| Waves C6 Lite | Free | Multiband Compressor | 6 bands, wideband/multiband modes, broadcast-grade | Official Site |
 | Kilohearts Multiband Comp | Free | Snap Plugin | Clean interface, Kilohearts ecosystem integration | [Download](https://kilohearts.com/products/multipass) |
 | GVST GMulti | Free | Multiband Compressor | Windows-only, utility compression | [Download](https://gvst.uk/gmulti.htm) |
 | Calf Multiband | Free | Multiband Compressor | LV2/Linux native, open source, 5 bands, active development | [Download](https://calf-studio-gear.org/) |

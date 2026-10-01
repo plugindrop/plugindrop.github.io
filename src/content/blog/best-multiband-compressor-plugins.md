@@ -261,14 +261,14 @@ For straightforward compression tasks it can feel like overkill, but for produce
 |--------|-------|------|------------|-----|
 | FabFilter Pro-MB | $199 | Compressor / Dynamic EQ | 6 bands, hybrid mode, zero latency, M/S | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/919-FabFilter-Pro-MB?a_aid=69cb95abe1763&chan=art&data1=best-multiband-compressor-plugins) |
 | iZotope Ozone Dynamics | Incl. in Ozone | Mastering compressor | AI-assisted, M/S, vintage mode | [Get It](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-multiband-compressor-plugins) |
-| Waves C6 | ~$29–$49 | Multiband compressor | 6 bands, side-chain monitoring | [Get It](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-multiband-compressor-plugins) |
-| Waves Lin. Phase MB | ~$29–$49 | Mastering compressor | Linear phase, 5 bands | [Get It](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-multiband-compressor-plugins) |
+| Waves C6 | ~$29–$49 | Multiband compressor | 6 bands, side-chain monitoring | [Get It](https://www.pluginboutique.com/search?q=Waves%20C6&a_aid=69cb95abe1763&chan=art&data1=best-multiband-compressor-plugins) |
+| Waves Lin. Phase MB | ~$29–$49 | Mastering compressor | Linear phase, 5 bands | [Get It](https://www.pluginboutique.com/search?q=Waves%20Lin.%20Phase%20MB&a_aid=69cb95abe1763&chan=art&data1=best-multiband-compressor-plugins) |
 | TDR Nova | Free | Dynamic EQ / compressor | Parallel compression, 4 bands, analyzer | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | OTT | Free | Upward compressor | 3-band, aggressive EDM character | [Get It](https://xferrecords.com/freeware) |
 | MMultiBandDynamics | Free | Multiband dynamics | Deep features, free bundle | [Get It](https://www.meldaproduction.com/MFreeFXBundle) |
-| DMG Audio Multiplicity | ~$149 | Advanced dynamics | Technical, broadcast-grade precision | [Get It](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-multiband-compressor-plugins) |
-| iZotope Neutron 4 | Superseded by Neutron 5 ($299) | Channel strip w/ MB comp | AI-assisted, full strip integration | [Get It](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-multiband-compressor-plugins) |
-| Cableguys MultiPass | ~$59 | Modular multiband | Per-band modulation, creative processing | [Get It](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-multiband-compressor-plugins) |
+| DMG Audio Multiplicity | ~$149 | Advanced dynamics | Technical, broadcast-grade precision | [Get It](https://www.pluginboutique.com/search?q=DMG%20Audio%20Multiplicity&a_aid=69cb95abe1763&chan=art&data1=best-multiband-compressor-plugins) |
+| iZotope Neutron 4 | Superseded by Neutron 5 ($299) | Channel strip w/ MB comp | AI-assisted, full strip integration | [Get It](https://www.pluginboutique.com/search?q=iZotope%20Neutron%204&a_aid=69cb95abe1763&chan=art&data1=best-multiband-compressor-plugins) |
+| Cableguys MultiPass | ~$59 | Modular multiband | Per-band modulation, creative processing | [Get It](https://www.pluginboutique.com/search?q=Cableguys%20MultiPass&a_aid=69cb95abe1763&chan=art&data1=best-multiband-compressor-plugins) |
 
 ---
 

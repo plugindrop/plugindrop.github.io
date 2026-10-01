@@ -26,7 +26,7 @@ priceTrack:
 | Ozone 12 Standard | ~$199 | Independent artists, bedroom producers | [Official Site](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=izotope-ozone-12-review) |
 | Ozone 12 Advanced | ~$499 | Professional engineers, advanced workflows | [Official Site](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=izotope-ozone-12-review) |
 | FabFilter Pro-L 2 | ~$199 | Dedicated limiting alongside Ozone | [Official Site](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=izotope-ozone-12-review) |
-| iZotope Music Production Suite | Bundle | Full iZotope mixing + mastering ecosystem | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=izotope-ozone-12-review) |
+| iZotope Music Production Suite | Bundle | Full iZotope mixing + mastering ecosystem | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Music%20Production%20Suite&a_aid=69cb95abe1763&chan=art&data1=izotope-ozone-12-review) |
 
 *Prices vary. Always verify current pricing at checkout.*
 

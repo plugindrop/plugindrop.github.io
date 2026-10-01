@@ -28,7 +28,7 @@ priceTrack:
 | RC-20 Retro Color | $99 | Lo-fi, bedroom pop, multi-character | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/3016-RC-20-Retro-Color?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
 | UAD Studer A800 | $299 (often $149–$199 on sale) | Studio-grade accuracy | [UA Store](https://www.uaudio.com/products/studer-a800-tape-recorder) |
 | Waves J37 Tape | $29–$149 | British vintage and Abbey Road character | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Tape/981-Waves-J37-Tape?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
-| Soundtoys Decapitator | $99 (rarely discounted standalone) | Flexible harmonic saturation | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
+| Soundtoys Decapitator | $199 | Flexible harmonic saturation | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
 | Chow Tape Model | Free | Best free tape emulation | [Free Download](https://chowdsp.com) |
 | Klanghelm SDRR | $21 | Best-value paid saturation | [Official Site](https://klanghelm.com/contents/products/SDRR.php) |
 | Slate Digital VTM | ~$149 (or $14.99/mo bundle) | Drum bus glue and mixbus processing | [Official Site](https://slatedigital.com/virtual-tape-machines/) |
@@ -159,7 +159,7 @@ Unlike Waves or UA, XLN Audio doesn't run deep discount cycles on RC-20 — you'
 
 Decapitator models five different classes of analog saturation hardware, giving access to tube-style, transformer-style, and tape-style harmonic profiles from a single interface. Its range runs from subtle warmth at minimal drive settings to extreme distortion when pushed. Unlike tape emulators that model one machine, Decapitator provides the harmonic palette of multiple hardware classes in one plugin.
 
-Here's the purchase-decision nuance most guides skip: Soundtoys almost never discounts Decapitator as a standalone $99 purchase, but it discounts the full Soundtoys 5 bundle heavily — sometimes to the low hundreds for the entire suite of 20+ plugins. If you're even moderately likely to want Radiator, Crystallizer, or EchoBoy down the line, buying standalone Decapitator today is very likely the more expensive path in the long run. See When Does Soundtoys Decapitator Go On Sale? for exactly how that bundle math plays out across the year.
+Here's the purchase-decision nuance most guides skip: Soundtoys almost never discounts Decapitator as a standalone $199 purchase, but it discounts the full Soundtoys 5 bundle heavily — sometimes to the low hundreds for the entire suite of 20+ plugins. If you're even moderately likely to want Radiator, Crystallizer, or EchoBoy down the line, buying standalone Decapitator today is very likely the more expensive path in the long run. See When Does Soundtoys Decapitator Go On Sale? for exactly how that bundle math plays out across the year.
 
 **Best for:** Producers and mix engineers who want one saturation tool that works across drums, vocals, synths, and bus processing without mode-specific limitations.
 
@@ -263,7 +263,7 @@ There's no purchasing decision to make here, which is why it belongs near the to
 
 - **Developer:** Soundtoys
 - **Price:** ~$499 list; frequently on sale for $199–$299 during major promotional windows
-- **Why upgrade:** Decapitator alone is $99, but Soundtoys 5 includes the full suite — Radiator, Crystallizer, PanMan, FilterFreq, MicroShift, and more — at a per-plugin cost that makes the individual Decapitator price look inefficient. For producers who use Decapitator regularly, the bundle is the logical next step, and it is almost always worth waiting for one of Soundtoys' periodic 40–60%-off sales rather than paying the $499 list price.
+- **Why upgrade:** Decapitator alone is $199, but Soundtoys 5 includes the full suite — Radiator, Crystallizer, PanMan, FilterFreq, MicroShift, and more — at a per-plugin cost that makes the individual Decapitator price look inefficient. For producers who use Decapitator regularly, the bundle is the logical next step, and it is almost always worth waiting for one of Soundtoys' periodic 40–60%-off sales rather than paying the $599 list price.
 
 [→ Get Soundtoys 5 (via Plugin Boutique)](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins)
 
@@ -278,9 +278,9 @@ There's no purchasing decision to make here, which is why it belongs near the to
 | Klanghelm SDRR | $21 | Multi-mode saturation | Multiple harmonic profiles | [Official Site](https://klanghelm.com/contents/products/SDRR.php) |
 | Softube Tape | $49–$79 | Tape emulation | Transparent, modern-friendly, clean glue | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-Vintage/3689-Softube-Tape?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
 | Waves J37 Tape | $29–$149 | Tape emulation | EMI J37 model, Abbey Road vintage character | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Tape/981-Waves-J37-Tape?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
-| Waves KRAMER MASTER TAPE | $29–$149 | Tape emulation | Eddie Kramer collab, multiple IPS speeds, rock character | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/13679-Kramer-Master-Tape?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
+| Waves KRAMER MASTER TAPE | $149 list ($34.99 sale on Waves, 2026-10-01) | Tape emulation | Eddie Kramer collab, multiple IPS speeds, rock character | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/13679-Kramer-Master-Tape?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
 | RC-20 Retro Color | $99 | Multi-character | Integrated modules, lo-fi/bedroom pop | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/3016-RC-20-Retro-Color?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
-| Soundtoys Decapitator | $99 | Harmonic saturation | 5 saturation modes, extreme range | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
+| Soundtoys Decapitator | $199 | Harmonic saturation | 5 saturation modes, extreme range | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
 | Slate Digital VTM | ~$149 | Tape emulation | Multiple tape configs, drum/mix bus glue, bundle value | [Official Site](https://slatedigital.com/virtual-tape-machines/) |
 | UAD Studer A800 | $299 | Tape emulation | Highest-accuracy emulation, runs Native, studio standard | [UA Store](https://www.uaudio.com/products/studer-a800-tape-recorder) |
 
@@ -304,13 +304,13 @@ Not every plugin on this list should be bought the same way. Some are effectivel
 - **Chow Tape Model** — it's free. There's no sale to wait for.
 - **Klanghelm SDRR ($21)** and **Klevgrand DAW Cassette (~$20)** — both are already priced low enough, and neither developer runs deep or frequent discount cycles. Waiting to save $3–5 isn't worth the delay if you need the tool now.
 - **RC-20 Retro Color ($99)** — XLN Audio's discounts on this plugin rarely exceed 20%, and it's frequently full price. If it's the right tool for your genre, buy it when you need it rather than holding out for a sale that may not materialize.
-- **Soundtoys Decapitator as a standalone** — if you're certain you only want Decapitator and nothing else from Soundtoys, the standalone $99 price barely moves. (But read the next section before committing to standalone.)
+- **Soundtoys Decapitator as a standalone** — if you're certain you only want Decapitator and nothing else from Soundtoys, the standalone $199 price barely moves. (But read the next section before committing to standalone.)
 
 ### Wait for a sale
 - **UAD Studer A800 ($299 list)** — Universal Audio runs some of the most aggressive and frequent promotional pricing in the plugin industry on its Native catalog. Historical discounts of 40–50% are common enough that paying full price should be a last resort, reserved for when you need it for a session immediately. Track the pattern on our When Does UAD Studer A800 Go On Sale? page.
 - **Waves J37 Tape and KRAMER MASTER TAPE** — Waves' pricing model is built around near-constant promotional cycles. Treat the $149 list price as a number that essentially never applies; $29–$49 is a realistic target if you can wait a few weeks. See When Does Waves J37 Tape Go On Sale?.
 - **Softube Tape ($49–$79)** — the mid-tier discount pattern here (roughly 40% off during seasonal promos) makes waiting worthwhile if you're not in a rush.
-- **Soundtoys 5 bundle ($499 list)** — if you want more than just Decapitator, this is a clear wait-for-sale purchase; the bundle regularly appears at $199–$299, which is a dramatically better per-plugin value than buying Decapitator alone. See When Does Soundtoys Decapitator Go On Sale? for how the bundle and standalone pricing interact.
+- **Soundtoys 5 bundle ($599 list)** — if you want more than just Decapitator, this is a clear wait-for-sale purchase; the bundle regularly appears at $199–$299, which is a dramatically better per-plugin value than buying Decapitator alone. See When Does Soundtoys Decapitator Go On Sale? for how the bundle and standalone pricing interact.
 
 ### Subscribe now vs. buy outright
 - **Slate Digital VTM** — unless you're certain you want only the tape emulation and nothing else in Slate's catalog, the $14.99/month Everything Bundle beats the $149 standalone purchase within about 10 months, and periodically drops to $9.99/month for new subscribers. Check When Does Slate Digital VTM Go On Sale? before choosing standalone.
