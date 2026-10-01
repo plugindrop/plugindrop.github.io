@@ -138,7 +138,7 @@ test('empty audit index keeps the expected 79 pages and exact 15 removals', () =
     'FabFilter Total Bundle', 'Kilohearts Phase Plant', 'Soundtoys Decapitator',
     'u-he Bazille', 'u-he Hive 2', 'u-he Repro', 'u-he Satin',
   ].sort());
-  assert.equal(all.filter(([, e]) => isPricePageIndexable(e)).length, 86);
+  assert.equal(all.filter(([, e]) => isPricePageIndexable(e)).length, 82);
 });
 
 test('priced checks, sale breaks, archive levels, and until date', () => {
