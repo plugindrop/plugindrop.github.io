@@ -45,7 +45,7 @@ FabFilter is the most predictable Black Friday deal in the industry. Exactly **2
 | Plugin | Regular | BF Price | Tracker |
 |---|---|---|---|
 | Pro-Q 4 | $199 | $149 | [History](/plugin-prices/fabfilter-pro-q-4) |
-| Pro-L 2 | $179 | $134 | [History](/plugin-prices/fabfilter-pro-l-2) |
+| Pro-L 2 | $179 (now $199) | $134 | [History](/plugin-prices/fabfilter-pro-l-2) |
 | Pro-MB | $179 | $134 | [History](/plugin-prices/fabfilter-pro-mb) |
 | Saturn 2 | $179 | $134 | [History](/plugin-prices/fabfilter-saturn-2) |
 | Timeless 3 | $169 | $127 | [History](/plugin-prices/fabfilter-timeless-3) |

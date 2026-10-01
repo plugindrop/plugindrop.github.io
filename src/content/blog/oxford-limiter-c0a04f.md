@@ -58,7 +58,7 @@ Sales at this depth on Sonnox titles are not an everyday occurrence — their pl
 
 | Name | Price (approx.) | Key Difference |
 |---|---|---|
-| FabFilter Pro-L 2 | ~$179 | More limiting algorithm options (8 modes) and extensive visual metering |
+| FabFilter Pro-L 2 | ~$199 | More limiting algorithm options (8 modes) and extensive visual metering |
 | Waves L2 Ultramaximizer | Often ~$29–49 on sale | Classic look-ahead brick-wall limiter, no ISP detection |
 | A.O.M. Invisible Limiter G2 | ~$89 | Focused on transparent automatic limiting with minimal user controls |
 

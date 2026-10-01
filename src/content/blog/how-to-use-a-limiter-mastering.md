@@ -18,7 +18,7 @@ draft: false
 |--------|-------|----------|--------|
 | W1 Limiter | Free | Transparent brick-wall brick wall limiting for beginners | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=W1%20Limiter&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-use-a-limiter-mastering&chan=art&data1=how-to-use-a-limiter-mastering) |
 | Limiter 6 GE | ~$26 | Multi-stage limiting with per-module metering | [Plugin Boutique](https://www.pluginboutique.com/search?q=Limiter%206%20GE&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-use-a-limiter-mastering&chan=art&data1=how-to-use-a-limiter-mastering) |
-| FabFilter Pro-L 2 | $179 | Transparent or aggressive limiting with ISP metering | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=how-to-use-a-limiter-mastering) |
+| FabFilter Pro-L 2 | $199 | Transparent or aggressive limiting with ISP metering | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=how-to-use-a-limiter-mastering) |
 | iZotope Ozone 11 Maximizer | Part of Ozone | AI-assisted LUFS targeting for streaming platforms | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=how-to-use-a-limiter-mastering) |
 
 ---

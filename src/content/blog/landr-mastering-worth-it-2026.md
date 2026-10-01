@@ -26,7 +26,7 @@ priceTrack:
 | LANDR Mastering (Free) | Free preview only | Testing AI character on your material | [landr.com](https://landr.com/mastering) |
 | LANDR Mastering (Paid) | From $8.25/mo, or $10 per track | High-volume streaming releases, distribution bundle | [landr.com](https://landr.com/mastering) |
 | iZotope Ozone 12 | From $219 (one-time, Standard) | Full-control AI-assisted mastering in your DAW | [iZotope Ozone 12](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15507-Ozone-12-Standard?a_aid=69cb95abe1763&chan=art&data1=landr-mastering-worth-it-2026) |
-| FabFilter Pro-L 2 | $179 (one-time) | Transparent true-peak limiting, surgical final stage | [FabFilter Pro-L 2](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=landr-mastering-worth-it-2026) |
+| FabFilter Pro-L 2 | $199 (one-time) | Transparent true-peak limiting, surgical final stage | [FabFilter Pro-L 2](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=landr-mastering-worth-it-2026) |
 
 ---
 
@@ -159,7 +159,7 @@ If the LANDR subscription math doesn't work for your release volume — or if ge
 | LANDR Mastering (Free) | Free | AI cloud service | Free preview; downloading a master requires purchase | [landr.com](https://landr.com/mastering) |
 | LANDR Mastering (Paid) | From $8.25/mo, or $10 per track | AI cloud service | WAV output, reference matching, distribution pipeline | [landr.com](https://landr.com/mastering) |
 | iZotope Ozone 12 | From $219 | DAW plugin suite | Master Assistant, EQ/dynamics/limiter modules, editable settings | [Get Ozone 12 (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15507-Ozone-12-Standard?a_aid=69cb95abe1763&chan=art&data1=landr-mastering-worth-it-2026) |
-| FabFilter Pro-L 2 | $179 | Limiter plugin | 8 limiting algorithms, true-peak, loudness metering, full parameter control | [Get Pro-L 2 (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=landr-mastering-worth-it-2026) |
+| FabFilter Pro-L 2 | $199 | Limiter plugin | 8 limiting algorithms, true-peak, loudness metering, full parameter control | [Get Pro-L 2 (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=landr-mastering-worth-it-2026) |
 
 ---
 
@@ -168,7 +168,7 @@ If the LANDR subscription math doesn't work for your release volume — or if ge
 - **If you already use LANDR Distribution**, the bundled mastering subscription consolidates distribution and mastering on one bill, which is a workflow reason rather than a sound-quality one.
 - **If you want the lowest cost over a long period**, compare the totals above: at the $8.25/month starting price, Ozone 12 Standard's $219 list price is overtaken after about 27 months, and sooner on higher LANDR tiers.
 - **If you want to edit the processing yourself**, a plugin such as Ozone 12 keeps every setting editable inside your DAW; LANDR returns a finished file.
-- **If you only need a limiter for the final stage**, FabFilter Pro-L 2 at $179 covers that one role without a full suite.
+- **If you only need a limiter for the final stage**, FabFilter Pro-L 2 at $199 covers that one role without a full suite.
 
 ---
 

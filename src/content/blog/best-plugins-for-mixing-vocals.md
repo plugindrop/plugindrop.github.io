@@ -298,7 +298,7 @@ Developer documentation confirms multiple limiting styles — Transparent, Aggre
 | Waves Vocal Rider | $199 list ($29.99 sale on Waves, 2026-10-01) | Gain Riding | Auto gain, sidechain mix reference | Developer site |
 | Valhalla Supermassive | Free | Reverb | 24 modes, dense spatial textures | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Soundtoys EchoBoy | $199 | Delay | 30+ hardware emulations, Rhythm Echo mode | Developer site |
-| FabFilter Pro-L 2 | $179 | Limiter | Multiple limiting styles, ISP detection | Developer site |
+| FabFilter Pro-L 2 | $199 | Limiter | Multiple limiting styles, ISP detection | Developer site |
 
 ---
 

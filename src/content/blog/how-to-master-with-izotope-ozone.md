@@ -27,7 +27,7 @@ draft: false
 | Plugin | Price | Role | Get It |
 |--------|-------|------|--------|
 | iZotope Ozone 12 | $55–$499 (as of 2026-10-01) | Complete mastering suite | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=how-to-master-with-izotope-ozone) |
-| FabFilter Pro-L 2 | $179 | Standalone limiter for comparison | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=how-to-master-with-izotope-ozone) |
+| FabFilter Pro-L 2 | $199 | Standalone limiter for comparison | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=how-to-master-with-izotope-ozone) |
 
 ---
 
