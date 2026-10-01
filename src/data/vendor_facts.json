@@ -964,5 +964,61 @@
     "library_size": null,
     "requires_player": null,
     "plans": null
+  },
+  "vp-tal-vocoder": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://tal-software.com/products",
+      "quote": "FREE Plug-Ins TAL-Filter-2 TAL-Reverb-4 TAL-Chorus-LX TAL-NoiseMaker TAL-Vocoder TAL-Bitcrusher",
+      "source_kind": "vendor",
+      "display": "FREE",
+      "fetched_at": "2026-10-01"
+    },
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": []
+  },
+  "vp-landr-mastering": {
+    "price": null,
+    "is_free": null,
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": [
+      {
+        "name": "Single track mastering",
+        "display": "$10",
+        "period": "one_time",
+        "source_url": "https://www.landr.com/online-audio-mastering",
+        "quote": "It costs $10 to master a single track with LANDR.",
+        "source_kind": "vendor",
+        "fetched_at": "2026-10-01"
+      },
+      {
+        "name": "LANDR Studio (starting price)",
+        "display": "$8.25/mo",
+        "period": "month",
+        "source_url": "https://www.landr.com/plugins",
+        "quote": "starting at just USD $8.25/mo",
+        "source_kind": "vendor",
+        "fetched_at": "2026-10-01"
+      }
+    ]
   }
 }

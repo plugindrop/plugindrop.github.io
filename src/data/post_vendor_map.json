@@ -5,7 +5,9 @@
     "vp-celemony-melodyne-5-editor",
     "vp-antares-auto-tune-pro"
   ],
-  "best-vocoder-vst-plugins": [],
+  "best-vocoder-vst-plugins": [
+    "vp-tal-vocoder"
+  ],
   "best-arpeggiator-vst-plugins": [
     "vp-sugar-bytes-thesys"
   ],
@@ -35,7 +37,9 @@
   "splice-review-2026": [
     "vp-splice-sounds"
   ],
-  "landr-mastering-worth-it-2026": [],
+  "landr-mastering-worth-it-2026": [
+    "vp-landr-mastering"
+  ],
   "ableton-live-vs-fl-studio-2026": [
     "vp-ableton-live",
     "vp-image-line-fl-studio"

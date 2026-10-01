@@ -23,8 +23,8 @@ priceTrack:
 
 | Tool | Price | Best For | Get It |
 |------|-------|----------|--------|
-| LANDR Mastering (Free) | Free | Testing AI character on your material | [landr.com](https://landr.com/mastering) |
-| LANDR Mastering (Paid) | ~$9–$29/mo | High-volume streaming releases, distribution bundle | [landr.com](https://landr.com/mastering) |
+| LANDR Mastering (Free) | Free preview only | Testing AI character on your material | [landr.com](https://landr.com/mastering) |
+| LANDR Mastering (Paid) | From $8.25/mo, or $10 per track | High-volume streaming releases, distribution bundle | [landr.com](https://landr.com/mastering) |
 | iZotope Ozone 12 | From $199 (one-time) | Full-control AI-assisted mastering in your DAW | [iZotope Ozone 12](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=landr-mastering-worth-it-2026) |
 | FabFilter Pro-L 2 | $199 (one-time) | Transparent true-peak limiting, surgical final stage | [FabFilter Pro-L 2](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=landr-mastering-worth-it-2026) |
 
@@ -47,9 +47,9 @@ This guide is for bedroom producers and independent artists evaluating whether L
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/xrsXQLMbU4I" title="The AI Mastering Engine — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** LANDR (MixGenius Inc.)
-- **Price:** Free tier available; paid tiers from approximately $9/month (annual billing) to $29/month
+- **Price:** Free mastering previews; downloading a master requires a LANDR Studio subscription (starting at $8.25/month) or a one-time $10 single-track purchase, per LANDR's pages
 - **Platform:** Web browser, platform-independent — no DAW or local install required
-- **Formats:** Accepts WAV, MP3, AIFF; outputs WAV, MP3, AIFF depending on subscription tier
+- **Formats:** Accepts WAV, MP3, AIFF; outputs MP3 and WAV (per LANDR, WAV mastering is included in LANDR Studio Standard and Pro)
 
 LANDR's core engine accepts a stereo mixdown and applies loudness normalization, multiband compression, EQ shaping, and limiting without any required user input. Developer documentation confirms the platform targets platform-specific LUFS values for Spotify, Apple Music, and other major DSPs. For producers who haven't yet built a mastering chain or learned the underlying signal processing, that friction removal is real.
 
@@ -97,9 +97,9 @@ iZotope Ozone 12 produces a demonstrably more controlled master. It does not sub
 
 ### Free Tier — Accurate for testing, unsuitable for releasing
 
-LANDR's free tier allows unlimited uploads but outputs low-quality or watermarked audio depending on the current plan structure. It is genuinely useful for one specific purpose: evaluating whether LANDR's AI character suits your material and genre before committing to a paid plan. The tonal approach of the AI is consistent across tiers — only output quality and resolution change.
+LANDR's free access is a preview: LANDR says you can hear how your tracks will sound with its mastering preview tool, but downloading a master requires a paid subscription or a one-time purchase. It is genuinely useful for one specific purpose: evaluating whether LANDR's AI character suits your material and genre before committing to a paid plan. The tonal approach of the AI is consistent across tiers — only output quality and resolution change.
 
-Community documentation treats the free tier as a demo gate, not a working tool. For anything submitted to streaming platforms, the output quality makes it unsuitable.
+Community documentation treats the free tier as a demo gate, not a working tool. For anything submitted to streaming platforms, you need a paid download, so the free preview itself cannot be released.
 
 **Best for:** Evaluating LANDR's AI character against your specific genre and mix before deciding whether the subscription is appropriate.
 
@@ -107,9 +107,9 @@ Community documentation treats the free tier as a demo gate, not a working tool.
 
 ### Paid Subscription Tiers — Where the break-even calculation lives
 
-LANDR's paid plans unlock full-resolution WAV output, reference track matching, and distribution access at the higher tiers. Based on LANDR's documented pricing as of 2025–2026, annual billing brings the mid-tier mastering plan to approximately $9–$12/month; higher-tier bundles with unlimited distribution run approximately $19–$29/month.
+LANDR's paid plans unlock full-resolution WAV output, reference track matching, and distribution access at the higher tiers. LANDR's pages list LANDR Studio at "starting at just USD $8.25/mo" (tiers: Essentials, Standard and Pro) and single-track mastering at $10 per track; we could not confirm the other tier prices from LANDR's published pages.
 
-The break-even calculation is the decision: at $9/month annual billing, that's $108/year. iZotope Ozone 12 Standard lists at $199 one-time. After two years of LANDR's mid-tier plan, Ozone 12 would have been cheaper — and based on iZotope's documented promotional history, Ozone 12 regularly discounts to $99–$149 during sales cycles. The subscription model only wins financially for producers releasing at high volume, or those bundling LANDR Distribution into the same plan.
+The break-even calculation is the decision: at the $8.25/month starting price, that's $99 per 12 months. iZotope Ozone 12 Standard lists at $199 one-time. After about two years at that starting price the totals meet ($198 vs $199), and any higher tier costs more — and based on iZotope's documented promotional history, Ozone 12 regularly discounts to $99–$149 during sales cycles. The subscription model only wins financially for producers releasing at high volume, or those bundling LANDR Distribution into the same plan.
 
 **Best for:** Producers releasing 15 or more tracks per year who are also using LANDR's distribution pipeline.
 
@@ -158,8 +158,8 @@ If the LANDR subscription math doesn't work for your release volume — or if ge
 
 | Tool | Price | Type | Highlights | CTA |
 |------|-------|------|------------|-----|
-| LANDR Mastering (Free) | Free | AI cloud service | Unlimited masters, limited/watermarked quality output | [landr.com](https://landr.com/mastering) |
-| LANDR Mastering (Paid) | ~$9–$29/mo | AI cloud service | WAV output, reference matching, distribution pipeline | [landr.com](https://landr.com/mastering) |
+| LANDR Mastering (Free) | Free | AI cloud service | Unlimited free previews; downloading a master requires purchase | [landr.com](https://landr.com/mastering) |
+| LANDR Mastering (Paid) | From $8.25/mo, or $10 per track | AI cloud service | WAV output, reference matching, distribution pipeline | [landr.com](https://landr.com/mastering) |
 | iZotope Ozone 12 | From $199 | DAW plugin suite | AI Master Assistant, transparent EQ/dynamics/limiter, visual feedback | [Get Ozone 12 (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=landr-mastering-worth-it-2026) |
 | FabFilter Pro-L 2 | $199 | Limiter plugin | 8 limiting algorithms, true-peak, loudness metering, full parameter control | [Get Pro-L 2 (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=landr-mastering-worth-it-2026) |
 

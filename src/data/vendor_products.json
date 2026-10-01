@@ -78,11 +78,12 @@
     "kind": "plugin",
     "version": null,
     "superseded_by": null,
-    "product_url": "https://www.tal-software.com/",
-    "status": "rejected",
-    "reject_reason": "domain_unverified",
+    "product_url": "https://tal-software.com/products/tal-vocoder",
+    "status": "verified",
+    "reject_reason": null,
     "discovered_via": "perplexity",
-    "verified_at": "2026-09-28"
+    "verified_at": "2026-10-01",
+    "note": "manual: tal-software.com is bot-protected for plain urlopen (domain verified 2026-09-30 via Playwright); product page https://tal-software.com/products/tal-vocoder fetched with Playwright 2026-10-01 (200, heading TAL-VOCODER)"
   },
   "vp-hy-plugins-hy-arp4-free": {
     "name": "HY-Arp4 Free",
@@ -877,5 +878,18 @@
     "reject_reason": null,
     "discovered_via": "perplexity",
     "verified_at": "2026-09-30"
+  },
+  "vp-landr-mastering": {
+    "name": "LANDR Mastering",
+    "brand": "LANDR",
+    "kind": "service",
+    "version": null,
+    "superseded_by": null,
+    "product_url": "https://www.landr.com/online-audio-mastering",
+    "status": "verified",
+    "reject_reason": null,
+    "discovered_via": "article_link",
+    "verified_at": "2026-10-01",
+    "note": "manual: replaces rejected vp-landr-free-tier / vp-landr-paid-subscription-tiers (generic labels, name_not_on_page). landr.com/online-audio-mastering title 'AI Mastering | Online Audio Mastering - Try Free | LANDR', h1 'Unrivaled AI Mastering'; landr.com domain verified."
   }
 }
