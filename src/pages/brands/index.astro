@@ -205,6 +205,8 @@ const pageDescription = `Browse tracked VST/AU plugin prices and deals by manufa
         We track {brandSummaries.length} plugin manufacturers. Pick a brand to see every product's current price, typical sale price, and lowest price recorded.
       </p>
 
+      <p class="page-intro">This directory groups every plugin in our price tracker by manufacturer. A brand is listed once it has enough tracked products to give a useful picture of its pricing. Each brand page shows list prices, typical sale prices, and the lowest price we have recorded for each product, and the count on each card shows how many products are currently priced below their regular price. The data comes from PluginDrop's own price tracking, which records prices from vendor and manufacturer product pages and sale announcements. Brand listings describe what we track; they are not rankings or recommendations. See <a href="/how-we-track-prices/">how we track prices</a> for the methodology and its limits.</p>
+
       <div class="brand-grid">
         {brandSummaries.map((b) => (
           <a href={`/brands/${b.slug}/`} class="brand-card">

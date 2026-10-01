@@ -9,5 +9,5 @@ export const OPERATOR_SETUP = [
 	{ label: 'Audio Interface', value: 'RME Babyface Pro' },
 	{ label: 'Monitors', value: 'ADAM Audio A3X' },
 	{ label: 'Headphones', value: 'AKG K812' },
-	{ label: 'Test Machine', value: 'Windows 11 / Mac mini M4' },
+	{ label: 'Data Processing', value: 'Windows 11 / Mac mini M4 (runs the price tracker and site build; not used for hands-on plugin testing)' },
 ] as const;

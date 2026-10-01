@@ -108,6 +108,8 @@ const pageDescription = `Browse ${totalTracked} tracked plugin and bundle prices
       <h1>Browse by category</h1>
       <p class="page-intro">{totalTracked} tracked plugins and bundles, sorted by type.</p>
 
+      <p class="page-intro">This page organizes the plugins and bundles in our price tracker by type, so you can browse products relevant to the kind of tool you need. Categories with a published price guide link to that guide; the others link to the filtered price tracker. The counts show how many products we currently track in each category, not how many exist on the market. The data comes from PluginDrop's own price tracking, which records prices from vendor and manufacturer product pages and sale announcements. See <a href="/how-we-track-prices/">how we track prices</a> for the methodology and its limits.</p>
+
       <div class="category-grid">
         {categories.map((category) => (
           <a

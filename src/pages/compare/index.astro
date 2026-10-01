@@ -67,6 +67,8 @@ const pageDescription = `Browse ${pairs.length} head-to-head plugin price compar
       <h1>Plugin price comparisons</h1>
       <p class="page-intro">Head-to-head price, discount depth and discount frequency — recalculated from our own tracker on every update.</p>
 
+      <p class="page-intro">This page lists head-to-head price comparisons between plugins that are similar in function or often considered together. Each pair shows the current price of both products, so you can see which costs less today. A pair is listed only when both products are in our price tracker and have recorded price data. The data comes from PluginDrop's own price tracking, which records prices from vendor and manufacturer product pages and sale announcements. The comparison pages recalculate the figures on each site update and cover price only: current price, the lowest price we have recorded, and how often the product has been discounted. See <a href="/how-we-track-prices/">how we track prices</a> for the methodology and its limits.</p>
+
       <div class="pair-grid">
         {pairs.map(({ pair, rowA, rowB }) => (
           <a href={`/compare/${pair.slug}/`} class="pair-card">

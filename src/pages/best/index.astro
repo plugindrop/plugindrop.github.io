@@ -65,6 +65,8 @@ const pageDescription = `Browse ${categories.length} plugin categories with live
       <h1>Best plugin deals, by category</h1>
       <p class="page-intro">Live price verdicts recalculated from our own tracker on every update — not a one-time "best of" list.</p>
 
+      <p class="page-intro">These guides organize the plugins in each category by price rather than by opinion. For every tracked product they show the current price, the lowest price we have recorded, and whether the product is discounted right now. A category appears here once it has enough tracked products to compare. The data comes from PluginDrop's own price tracking, which records prices from vendor and manufacturer product pages and sale announcements. The verdicts are recalculated on each site update. The guides do not rate sound quality or features, and we have not hands-on tested every product. See <a href="/how-we-track-prices/">how we track prices</a> for the methodology and its limits.</p>
+
       <div class="category-grid">
         {categories.map((category) => {
           const onSaleCount = category.rows.filter((r) => r.hasLiveDrop).length;
