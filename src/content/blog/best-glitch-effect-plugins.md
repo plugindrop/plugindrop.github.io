@@ -172,7 +172,7 @@ Its complexity is a genuine tradeoff — Effectrix requires real time investment
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/SCPWwVZD1XE" title="Cableguys ShaperBox 3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Cableguys
-- **Price:** ~$99 list (full suite), regularly discounted to $49–$59, individual ShaperBox modules priced lower
+- **Price:** ~$99 (full suite, as of 2026-10-01); individual ShaperBox modules priced lower
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX
 
@@ -236,7 +236,7 @@ For producers who've built their free workflow around Glitch 2 and the Glitchmac
 | Output Portal | $149 | Granular | Macros, ambient textures, AAX | [Output Site](https://output.com/products/portal) |
 | Sugar Bytes Buffer Synth | Paid | Buffer | Real-time loop control | — |
 | Sugar Bytes Effectrix | ~$99 (~$49 on sale) | Sequencer | 64-step, 14 effect types | — |
-| Cableguys ShaperBox 3 | ~$99 ($49–$59 on sale) | Volume Shaper | Beat-locked LFO stutter | — |
+| Cableguys ShaperBox 3 | ~$99 | Volume Shaper | Beat-locked LFO stutter | — |
 | XLN Audio RC-20 Retro Color | ~$99 ($49–$59 on sale) | Lo-fi Glitch | Tape dropout, organic character | — |
 
 ---

@@ -30,7 +30,7 @@ Before the full rankings, here's the fast comparison. This table covers price, i
 | Phase Plant | $99 | Modular sound design, maximum flexibility | Yes (full demo) | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=best-synth-vst-plugins-2026) |
 | Arturia Pigments 7 | $199 | Multi-engine exploration, visual patching | Yes (unlimited demo w/ noise) | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20Pigments%207&a_aid=69cb95abe1763&chan=art&data1=best-synth-vst-plugins-2026) |
 | u-he Hive 2 | $149 | Fast workflow, analog warmth | Yes (full, w/ periodic noise burst) | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5392-Hive-2?a_aid=69cb95abe1763&chan=art&data1=best-synth-vst-plugins-2026) |
-| Massive X | $149 | Complex modulation, NI ecosystem | Yes (30-day, via Native Access) | Not on Plugin Boutique — [Native Instruments](https://www.native-instruments.com/en/products/komplete/synths/massive-x/) direct only |
+| Massive X | $199 | Complex modulation, NI ecosystem | Yes (30-day, via Native Access) | Plugin Boutique or [Native Instruments](https://www.native-instruments.com/en/products/komplete/synths/massive-x/) direct |
 | Surge XT | Free | Open-source versatility, modulation depth | N/A — fully free | [Free Download](https://surge-synthesizer.github.io/) |
 
 Every one of these instruments earns its spot for a specific reason, and none of them is a universally "correct" choice — the right pick depends on what you produce and how much workflow speed is worth to you in dollars.
@@ -457,7 +457,7 @@ It depends on the developer. Kilohearts, Arturia, Synapse Audio, and Reveal Soun
 
 ### How much should I expect to pay for a good synth VST plugin in 2026?
 
-You can build a fully capable synth arsenal for $0 using Vital and Surge XT alone. Most professional mid-range synths (Phase Plant, Hive 2, Massive X) sit between $89 and $149. Flagship instruments (Serum, Sylenth1, Spire, Diva) run $149-$189. Omnisphere 2, at $499, is the outlier — an investment-tier purchase for composers and sound designers who need its scale, not a casual buy.
+You can build a fully capable synth arsenal for $0 using Vital and Surge XT alone. Most professional mid-range synths (Phase Plant, Hive 2, Massive X) sit between $89 and $199. Flagship instruments (Serum, Sylenth1, Spire, Diva) run $149-$189. Omnisphere 2, at $499, is the outlier — an investment-tier purchase for composers and sound designers who need its scale, not a casual buy.
 
 ---
 

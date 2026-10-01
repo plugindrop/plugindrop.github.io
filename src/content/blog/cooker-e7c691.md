@@ -58,7 +58,7 @@ The 808 bass — rooted in the Roland TR-808 drum machine — has been central t
 |---|---|---|
 | Free 808 Sample Packs | $0 | Sample-based; no real-time pitch slide or MIDI control |
 | Xfer Serum | ~$189 | Full wavetable synth capable of 808s, but much broader scope and steeper learning curve |
-| Native Instruments Massive X | ~$149 | Powerful synth for bass sound design, not 808-specific |
+| Native Instruments Massive X | ~$199 | Powerful synth for bass sound design, not 808-specific |
 
 If you just need a handful of static 808 hits, free sample packs cover the basics at no cost. For real-time pitch sliding, MIDI-driven performance, and a workflow built entirely around the 808 sound, a dedicated instrument offers meaningfully more control. Serum and Massive X can both produce 808-style bass, but they cost several times more and require substantially more sound design knowledge to get there.
 

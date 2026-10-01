@@ -21,7 +21,7 @@ priceTrack:
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Serum | $249 listed by Xfer (2026-10-01) | 808s, leads, pads — everything | [Serum](https://xferrecords.com/products/serum-2) |
-| Massive X | $149 | Experimental trap bass and synths | [Get Massive X](https://www.native-instruments.com/en/products/komplete/synths/massive-x/) |
+| Massive X | $199 | Experimental trap bass and synths | [Get Massive X](https://www.native-instruments.com/en/products/komplete/synths/massive-x/) |
 | Nexus 4 | $149 | Ready-to-use trap preset library | [Get Nexus 4](https://www.refx.com/nexus/) |
 | Battery 4 | $99 | Professional trap drum programming | [Get Battery 4](https://www.native-instruments.com/en/products/komplete/drums/battery-4/) |
 | Vital | Free | Full-featured free Serum alternative | [Free](https://vital.audio/) |
@@ -275,7 +275,7 @@ If you are running on free tools like Vital and TAL-NoiseMaker, the paid options
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Serum | $249 listed by Xfer (2026-10-01) | Wavetable Synth | Custom wavetables, 808 bass, visual editor | [Serum](https://xferrecords.com/products/serum-2) |
-| Massive X | $149 | Wavetable Synth | Spectral morphing, experimental bass | [Get Massive X](https://www.native-instruments.com/en/products/komplete/synths/massive-x/) |
+| Massive X | $199 | Wavetable Synth | Spectral morphing, experimental bass | [Get Massive X](https://www.native-instruments.com/en/products/komplete/synths/massive-x/) |
 | Nexus 4 | $149 | ROMpler | Trap expansion library, preset-forward workflow | [Get Nexus 4](https://www.refx.com/nexus/) |
 | Battery 4 | $99 | Drum Sampler | 16-pad layout, multi-layer, NI ecosystem | [Get Battery 4](https://www.native-instruments.com/en/products/komplete/drums/battery-4/) |
 | Sylenth1 | ~$189 | Virtual Analog | Warm leads, massive third-party preset banks | [Get Sylenth1](https://www.lennardigital.com/sylenth1/) |

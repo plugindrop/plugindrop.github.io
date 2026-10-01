@@ -67,7 +67,7 @@ A 50% cut on a synth instrument is a meaningful discount — many established sy
 | Name | Price | Key Difference |
 |---|---|---|
 | Serum (Xfer Records) | ~$189 full price | Industry-standard wavetable synth with massive community preset ecosystem |
-| Massive X (Native Instruments) | ~$149 (often on sale) | Phase modulation architecture, deep modulation routing, NI ecosystem integration |
+| Massive X (Native Instruments) | ~$199 | Phase modulation architecture, deep modulation routing, NI ecosystem integration |
 | Vital (Matt Tytel) | Free–$80 | Wavetable synth with a generous free tier, cross-platform, browser-based preset sharing |
 
 If budget is the priority and you want a free starting point, Vital's free tier covers a lot of ground. If you need wavetable sound design with the widest community support, Serum is the benchmark. Rumble at 50% off positions itself as a competitive option for producers who want a dedicated deep-sound tool without the flagship price tag.

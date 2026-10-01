@@ -68,7 +68,7 @@ Check the [official product page](https://www.pluginboutique.com/product/2-Effec
 | Name | Price | Key Difference |
 |---|---|---|
 | Sugar Bytes Effectrix | ~$99 | Grid-based sequencer with 14 onboard effects; longer track record and wider format support |
-| Cableguys ShaperBox | ~$69 | Modulation-focused sequencer suite; better for volume/filter/pan shaping than audio effects sequencing |
+| Cableguys ShaperBox | ~$99 | Modulation-focused sequencer suite; better for volume/filter/pan shaping than audio effects sequencing |
 | Xfer Records LFOTool | ~$20 | Budget-friendly modulation sequencer; narrower scope, no polyphonic effects architecture |
 
 If you need a battle-tested sequencer effects suite with a large effects library, Effectrix covers more ground but costs more than twice the current POLYLLOP price. If your use case is specifically modulation shaping rather than full effects sequencing, ShaperBox or LFOTool may be a tighter fit. POLYLLOP at $39 makes the most sense if its polyphonic loop architecture specifically matches what you're building.

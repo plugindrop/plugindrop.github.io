@@ -67,7 +67,7 @@ Softube plugins typically hold close to full price — deep discounts on their i
 |---|---|---|
 | u-he Diva | ~$179 | Multiple vintage analog circuit modes; the closest direct comparison in terms of analog poly emulation focus |
 | Arturia Pigments | ~$99–$199 | Hybrid engine (wavetable + analog + sampling) with a broader modulation matrix |
-| Native Instruments Massive X | ~$149 | Modern wavetable architecture, more oriented toward contemporary sound design than classic analog |
+| Native Instruments Massive X | ~$199 | Modern wavetable architecture, more oriented toward contemporary sound design than classic analog |
 
 If traditional analog polyphonic character is the priority, Diva is the closest tonal comparison — but it comes in at roughly 3x the current Model 80 price. Pigments covers more synthesis territory if flexibility matters more than analog authenticity. At $59, Model 80 is the most affordable of the three for a specifically analog-focused poly synth.
 

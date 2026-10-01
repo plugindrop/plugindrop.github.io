@@ -348,7 +348,7 @@ EchoBoy covers 30 delay styles modeled on hardware units from the Echoplex tape 
 | ValhallaDelay | $50 | Delay | 16 modes, tape through pitch-shift | [Get It](https://www.izotope.com/en/products/music-production-suite) |
 | Serum | $189 | Wavetable Synth | Custom wavetable editor, massive preset market | [Official Site](https://xferrecords.com/products/serum-2) |
 | Vital | Free | Wavetable Synth | Spectral warping, 3 oscillators | [Get](https://vital.audio/) |
-| u-he Diva | ~$195 | Analog Synth | Circuit-level filter/oscillator emulation | [Get It](https://www.izotope.com/en/products/music-production-suite) |
+| u-he Diva | ~$179 | Analog Synth | Circuit-level filter/oscillator emulation | [Get It](https://www.izotope.com/en/products/music-production-suite) |
 | iZotope Neutron 4 | Superseded by Neutron 5 ($299) | Mix Suite | AI Mix Assistant, EQ + comp + shaper | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=best-plugins-logic-pro) |
 | Soothe2 | ~$160 | Resonance Suppressor | Reactive dynamic notch filtering | [Get It](https://www.izotope.com/en/products/music-production-suite) |
 | Soundtoys Decapitator | $199 | Saturation | 5 analog topologies, macOS only | [Get It](https://www.izotope.com/en/products/music-production-suite) |
