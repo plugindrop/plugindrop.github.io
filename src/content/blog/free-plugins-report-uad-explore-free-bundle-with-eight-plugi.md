@@ -18,7 +18,7 @@ draft: true
 
 ## Free Plugins Report: UAD Explore Bundle, United Plugins, Zebralette 3 & 8Dio Synthetic Shadows
 
-Some free plugin drops are forgettable fillers. Not this batch. This April 2026 roundup includes offerings from Universal Audio, u-he, United Plugins, and 8Dio — developers with serious reputations in the production community. Here's what's available and where to grab each one before expiry dates kick in.
+Some free plugin drops are forgettable fillers. Not this batch. This April 2026 roundup includes offerings from Universal Audio, u-he, United Plugins, and 8Dio — established plugin developers. Here's what's available and where to grab each one before expiry dates kick in.
 
 ---
 
@@ -33,7 +33,7 @@ Universal Audio's Explore Free tier gives producers access to a bundle of eight 
 United Plugins is a Czech-based developer collective that releases plugins under several sub-brands. Their ten-plugin free bundle represents a significant value add for producers who haven't explored the catalog yet. Plugin categories span mixing, effects, and creative tools. Check the United Plugins site directly for which specific titles are included, as bundle contents can rotate.
 
 ### Zebralette 3 (u-he)
-Zebralette 3 is the free, single-oscillator synth from u-he — one of the most respected plugin developers in the industry. It functions as a standalone instrument and a gateway into the Zebra3 ecosystem. Expect spectral and wavetable-style synthesis capabilities in a streamlined interface. u-he plugins are widely regarded for sound quality and CPU efficiency.
+Zebralette 3 is the free, single-oscillator synth from u-he — the developer of the Zebra3 synthesizer. It functions as a standalone instrument and a gateway into the Zebra3 ecosystem. Expect spectral and wavetable-style synthesis capabilities in a streamlined interface.
 
 ### 8Dio Synthetic Shadows
 8Dio is a sample library and instrument developer known for cinematic and experimental sound design tools. Synthetic Shadows falls into the atmospheric and textural category. Verify format compatibility and any required sample player (such as Kontakt) on the 8Dio product page before downloading.

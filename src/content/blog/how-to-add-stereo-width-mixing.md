@@ -25,11 +25,11 @@ draft: false
 
 ## Introduction
 
-Stereo width is one of the most requested qualities in modern productions and one of the most misapplied techniques in home studio mixing. The instinct when a mix sounds narrow is to add width — to apply a stereo widener, increase the side signal, or reach for the Haas effect on key elements. The community's consistent counterargument, documented across KVR Audio and r/mixingmastering, is that indiscriminate width addition creates mono compatibility problems, phase issues, and mixes that sound wide on headphones but collapse or lose impact on mono playback systems — which in 2026 includes smart speakers, phone speakers, club systems in mono check mode, and a significant portion of streaming playback scenarios.
+Stereo width is one of the most requested qualities in modern productions and one of the most misapplied techniques in home studio mixing. The instinct when a mix sounds narrow is to add width — to apply a stereo widener, increase the side signal, or reach for the Haas effect on key elements. The counterargument is that indiscriminate width addition creates mono compatibility problems, phase issues, and mixes that sound wide on headphones but collapse or lose impact on mono playback systems — which in 2026 includes smart speakers, phone speakers, club systems in mono check mode, and a significant portion of streaming playback scenarios.
 
 Stereo width is most effective as contrast. A mix where the low end is tightly focused in the center, the mid-range is well-defined, and width is applied selectively to high-frequency content, pads, and reverb tails creates an immersive, wide-sounding result precisely because the elements that are wide have a focused center image to contrast against. A mix where everything has been widened sounds wide on headphones and flat everywhere else — the contrast is gone, along with the punchy center image.
 
-This guide covers stereo width correctly: starting with mono compatibility verification, moving to mid/side EQ for surgical stereo control, then imaging plugins for intentional widening, and finally the Haas effect as a creative tool with specific caveats about when it's appropriate. The workflow in this guide is the one r/mixingmastering threads consistently recommend for producers who want width that survives mono playback.
+This guide covers stereo width correctly: starting with mono compatibility verification, moving to mid/side EQ for surgical stereo control, then imaging plugins for intentional widening, and finally the Haas effect as a creative tool with specific caveats about when it's appropriate. The workflow in this guide is aimed at producers who want width that survives mono playback.
 
 ---
 
@@ -52,7 +52,7 @@ The specific checks to run in mono:
 - **Platforms:** Windows, macOS
 - **Formats:** VST2, VST3, AU, AAX
 
-Voxengo SPAN is a free real-time FFT spectrum analyzer that includes a stereo correlation meter — a display that shows whether the stereo signal is in phase (correlation approaching +1.0), decorrelated (approaching 0), or out of phase (approaching -1.0). KVR Audio consistently cites SPAN as the first install for any new mix environment because it provides metering information that DAW native meters don't show: frequency spectrum balance, stereo correlation, and peak/RMS level simultaneously.
+Voxengo SPAN is a free real-time FFT spectrum analyzer that includes a stereo correlation meter — a display that shows whether the stereo signal is in phase (correlation approaching +1.0), decorrelated (approaching 0), or out of phase (approaching -1.0). SPAN is a useful first install for a new mix environment because it provides metering information that DAW native meters may not show: frequency spectrum balance, stereo correlation, and peak/RMS level simultaneously.
 
 For stereo width work, the correlation meter is the relevant display. A reading consistently below 0.5 on the master bus indicates significant stereo content that may collapse to mono. A reading below 0 on any sustained material indicates phase inversion problems that will cause audible cancellation in mono.
 
@@ -68,7 +68,7 @@ Mid/side EQ processes the center (mid) and side (difference) channels of a stere
 
 Standard mid/side EQ applications in mixing:
 
-**Narrowing the low end:** Apply a low-shelf or high-pass filter to the side channel below 80–120 Hz, reducing or eliminating side signal in the sub and low-mid range. This focuses the low end in the center without affecting the overall stereo width of mid and high frequencies. A community-standard technique from r/mixingmastering for nearly all genres — it tightens low-end punch and improves translation to mono.
+**Narrowing the low end:** Apply a low-shelf or high-pass filter to the side channel below 80–120 Hz, reducing or eliminating side signal in the sub and low-mid range. This focuses the low end in the center without affecting the overall stereo width of mid and high frequencies. A common technique across genres — it tightens low-end punch and improves translation to mono.
 
 **Widening the high end:** Gentle side-channel boost on a high shelf (6 kHz and above, +1 to +3 dB) adds air and width to a mix without introducing low-frequency phase problems. This is the subtle widening technique that's often more effective than dedicated imaging plugins for natural-sounding results.
 
@@ -81,7 +81,7 @@ Standard mid/side EQ applications in mixing:
 - **Platforms:** Windows, macOS
 - **Formats:** VST2, VST3, AU, AAX
 
-FabFilter Pro-Q 4 includes a dedicated mid/side processing mode where each EQ band can be independently assigned to the mid channel, the side channel, or the full stereo signal. The stereo spectrum display in Pro-Q 4 shows the mid and side frequency content simultaneously, which makes identifying where side signal exists at problematic frequencies straightforward — you can see exactly where the side channel has energy and apply a targeted cut or boost. Developer documentation confirms that Pro-Q 4's M/S mode is a primary feature, with per-band M/S assignment being the workflow that r/mixingmastering threads most frequently cite for stereo field control.
+FabFilter Pro-Q 4 includes a dedicated mid/side processing mode where each EQ band can be independently assigned to the mid channel, the side channel, or the full stereo signal. The stereo spectrum display in Pro-Q 4 shows the mid and side frequency content simultaneously, which makes identifying where side signal exists at problematic frequencies straightforward — you can see exactly where the side channel has energy and apply a targeted cut or boost. Developer documentation confirms that Pro-Q 4's M/S mode is a primary feature, with per-band M/S assignment available for stereo field control.
 
 The linear phase mode in Pro-Q 4 is specifically relevant for M/S work at the mix bus level — linear phase processing avoids the phase shifts that minimum phase EQ introduces in M/S, which is important when applying M/S EQ to the stereo bus where phase accuracy directly affects mono compatibility.
 
@@ -115,9 +115,9 @@ The critical constraint for any imaging plugin application: always verify the re
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX
 
-iZotope Ozone Imager is the free standalone version of the Imager module from iZotope Ozone. It provides mid/side-based stereo widening with a Lissajous (vectorscope) display that shows the stereo field shape in real time — a circular shape indicates fully correlated mono, a figure-eight indicates a wide, decorrelated stereo signal, and diagonal shapes indicate out-of-phase problems. KVR Audio and r/mixingmastering both recommend it as the first free tool to install for stereo width work because the vectorscope makes the stereo field visually intuitive in a way that numerical meters don't.
+iZotope Ozone Imager is the free standalone version of the Imager module from iZotope Ozone. It provides mid/side-based stereo widening with a Lissajous (vectorscope) display that shows the stereo field shape in real time — a circular shape indicates fully correlated mono, a figure-eight indicates a wide, decorrelated stereo signal, and diagonal shapes indicate out-of-phase problems. The vectorscope makes the stereo field visually intuitive in a way that numerical meters don't.
 
-The Width control is a single parameter (0 = full mono, 1.0 = source width, above 1.0 = enhanced width). For mix bus application with verified mono compatibility, a starting width of 1.1–1.3 is a community-standard range for adding subtle enhancement without introducing visible phase problems in the vectorscope. On reverb returns, 1.5–2.0 is appropriate because reverb content is less sensitive to mono cancellation than dry source signals.
+The Width control is a single parameter (0 = full mono, 1.0 = source width, above 1.0 = enhanced width). For mix bus application with verified mono compatibility, a starting width of 1.1–1.3 is a modest range for adding subtle enhancement without introducing visible phase problems in the vectorscope. On reverb returns, 1.5–2.0 is appropriate because reverb content is less sensitive to mono cancellation than dry source signals.
 
 **Setting:** Width 1.1–1.3 on mix bus (after M/S EQ has narrowed the low end). Width 1.5–2.0 on reverb returns. Monitor Lissajous display continuously — stop increasing if the figure-eight shape shows diagonal dominance (phase correlation approaching -0.3).
 
@@ -129,7 +129,7 @@ The Width control is a single parameter (0 = full mono, 1.0 = source width, abov
 
 The Haas effect (also called the precedence effect) is a psychoacoustic phenomenon where a delay of 1–40ms between the left and right channels of a signal causes the brain to perceive a wide stereo image while the two signals still appear fused as a single sound. Applying a short delay to one side of a mono signal creates apparent stereo width that can be dramatic — much wider than standard panning — because the delay-based width is more pronounced than gain-based panning.
 
-The caveat, consistently documented in KVR Audio and r/mixingmastering discussions: Haas effect width collapses to mono as problematic phase cancellation, not as graceful narrowing. When the left and right channels are summed (mono), the 1–40ms delay between them causes comb filtering — a series of frequency cancellations that produce a thin, hollow mono sound. This makes Haas effect widening appropriate for ambient and atmospheric elements where mono translation is less critical, and inappropriate for elements that need to survive mono playback intact — bass, kick, lead vocal, lead synth.
+The caveat: Haas effect width collapses to mono as problematic phase cancellation, not as graceful narrowing. When the left and right channels are summed (mono), the 1–40ms delay between them causes comb filtering — a series of frequency cancellations that produce a thin, hollow mono sound. This makes Haas effect widening appropriate for ambient and atmospheric elements where mono translation is less critical, and inappropriate for elements that need to survive mono playback intact — bass, kick, lead vocal, lead synth.
 
 **Haas effect applications where it's appropriate:**
 - Reverb and delay returns that are already mono-problematic in nature
@@ -157,7 +157,7 @@ The caveat, consistently documented in KVR Audio and r/mixingmastering discussio
 A: This is the most common consequence of over-widening without checking mono compatibility. When width is added via M/S processing or the Haas effect, the side signal increases relative to the mid. In mono, side signals are subtracted from the mid, causing frequency cancellation. The fix is to check SPAN's correlation meter before and after every width adjustment, and to ensure the low end (below 80–120 Hz) is mono-ed via M/S EQ before any widening is applied.
 
 **Q: Should kick, bass, and lead vocals be in the center?**
-A: Community consensus on r/mixingmastering is yes for the sub and low-mid content of kick and bass, and for lead vocal mono or near-center positioning. The reason is practical: mono playback systems (club speakers, phone speakers, smart speakers) are sensitive to phase cancellation in the low end, and lead vocals need to be intelligible on every playback system. This doesn't mean these elements can't have some stereo content — reverb on a vocal can be wide, for example — but the dry source should be centered.
+A: Generally yes for the sub and low-mid content of kick and bass, and for lead vocal mono or near-center positioning. The reason is practical: mono playback systems (club speakers, phone speakers, smart speakers) are sensitive to phase cancellation in the low end, and lead vocals need to be intelligible on every playback system. This doesn't mean these elements can't have some stereo content — reverb on a vocal can be wide, for example — but the dry source should be centered.
 
 **Q: What's the difference between stereo widening and panning?**
 A: Panning shifts a mono signal's position within the stereo field without creating new stereo information — a mono kick panned hard right plays from the right speaker only. Stereo widening (M/S processing, Haas effect, imaging plugins) creates or enhances the difference between the left and right channels of a stereo signal, producing an apparent image wider than the original. They're complementary tools: panning positions elements, widening affects their perceived size and spatial presence.
@@ -183,7 +183,7 @@ The result of this workflow is a mix that sounds genuinely wide on headphones an
 <!-- pd:method:start -->
 ## Sources for this guide
 
-This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
 <!-- pd:method:end -->
 
 ## Related Guides

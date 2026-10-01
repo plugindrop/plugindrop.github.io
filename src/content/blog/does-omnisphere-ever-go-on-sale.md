@@ -31,7 +31,7 @@ Spectrasonics is a small, boutique developer (not a large plugin marketplace bra
 
 - **No subscription, no upsell funnel.** Omnisphere is a perpetual license with lifetime free updates (2.0 → 2.8+), so there's no recurring revenue to protect with intro pricing.
 - **Small team, low volume of SKUs.** Unlike companies running dozens of plugins through constant promo cycles, Spectrasonics has three core products (Omnisphere, Trilian, Keyscape) and doesn't need aggressive discounting to move volume.
-- **Perceived value protection.** A synth widely regarded as an industry standard (used across film scoring, pop, and sound design) has less incentive to discount — scarcity of deals is part of the brand positioning.
+- **Perceived value protection.** A flagship synth with a steady price has less incentive to discount.
 
 The DACH 30% sale in 2023 is the only confirmed crack in that policy, and it was retailer/region-specific rather than a Spectrasonics-wide decision — don't plan a purchase around it recurring.
 
@@ -81,7 +81,7 @@ None of these fully replicate Omnisphere's 60GB+ stock library or its specific g
 No. Spectrasonics does not run Black Friday, Cyber Monday, or holiday promotions on Omnisphere. The price has stayed at $499 through every major sales season since launch.
 
 **Was the 2023 DACH discount a one-time thing?**
-Yes, as far as public records and community reports (including KVR Audio discussion threads) show. It applied only to Germany, Austria, and Switzerland and has not resurfaced in any region since.
+Yes, as far as public records show. It applied only to Germany, Austria, and Switzerland and has not resurfaced in any region since.
 
 **Is there an upgrade or crossgrade discount from other synths to Omnisphere?**
 Spectrasonics does not offer public crossgrade pricing from competing synths. Existing Omnisphere 1 owners historically had upgrade pricing to Omnisphere 2, but that window closed years ago — anyone buying today pays full price for Omnisphere 2.
@@ -96,4 +96,4 @@ Not on the sticker price, but Plugin Boutique's Virtual Cash program returns rou
 - **Don't wait for a US or global Omnisphere sale** — there's no pattern or precedent suggesting one is coming, aside from the unrepeated 2023 DACH exception.
 - **Stack the Plugin Boutique Virtual Cash** regardless of when you buy — it's the only lever available on this particular purchase.
 
-*Last updated: 2026-06. Sale policy sourced from developer public statements and KVR Audio community discussion.*
+*Last updated: 2026-06. Sale policy sourced from developer public statements.*

@@ -62,17 +62,17 @@ Plugin Boutique offers Virtual Cash back (typically 5%) on every purchase — th
 
 Since Xfer Serum 2 never goes on sale:
 
-- **[Vital](https://vital.audio)** — Free wavetable synth — widely considered nearly equal to Serum in capability
+- **[Vital](https://vital.audio)** — Free wavetable synth with a full synthesis engine
 - **[Surge XT](https://surge-synthesizer.github.io)** — Free open-source synth with extensive wavetable and modulation features
 - **[Phase Plant](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=does-serum-ever-go-on-sale)** — Goes 50% off 2-3x/year to ~$99 — modular synth with Serum-comparable sound design
 
 
 ---
 
-*Last updated: 2026-06. Sale policy sourced from developer public statements and KVR Audio community.*
+*Last updated: 2026-06. Sale policy sourced from developer public statements.*
 
 <!-- pd:method:start -->
 ## Sources for this guide
 
-This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
 <!-- pd:method:end -->

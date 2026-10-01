@@ -24,11 +24,11 @@ Dexed is a free, open-source FM synthesizer by Digital Suburban. It's a software
 - **SysEx compatible** — Load original Yamaha DX7 patches directly (thousands available free online)
 - **Modern editor interface** — Visual envelope and operator editing, far easier than the original hardware's membrane buttons
 - **Cartridge manager** — Organize and browse DX7 patch banks
-- **Open source** — Code is available on GitHub, actively maintained by the community
+- **Open source** — Code is available on GitHub, maintained as an open-source project
 
 ## What Producers Are Saying
 
-Dexed is the standard recommendation for DX7 sounds in production forums. On Reddit's r/synthesizers and KVR, it's frequently cited as the best free FM synth plugin. Producers value SysEx compatibility — decades of DX7 patches from the original hardware work directly in Dexed. In "best free synth" threads, it consistently appears alongside Vital and Surge XT.
+Dexed is a free option for DX7-style sounds. SysEx compatibility is a key feature — decades of DX7 patches from the original hardware work directly in Dexed.
 
 ## Who Is It For?
 
@@ -66,13 +66,13 @@ Looking for more free options beyond FM synthesis? See our [best free synth plug
 A: Yes. Dexed is SysEx compatible — load any original DX7 patch bank. Thousands are available for free download online.
 
 **Q: Is it really accurate to the DX7?**
-A: Dexed aims for close emulation of the DX7 engine. Community consensus is that it captures the character of the original hardware faithfully.
+A: Dexed aims for close emulation of the DX7 engine. The project documentation describes it as a DX7 engine emulation.
 
 **Q: What formats does it support?**
 A: VST, VST3, AU, and LV2 on Windows, macOS, and Linux. Check the GitHub repository for current builds.
 
 **Q: Is it still being updated?**
-A: Yes. Dexed is actively maintained on GitHub with community contributions.
+A: Yes. Dexed is maintained on GitHub as an open-source project.
 
 ## Get the Deal
 
@@ -89,5 +89,5 @@ The DX7 defined a decade of music. Dexed brings that engine to your DAW. Free. O
 <!-- pd:method:start -->
 ## Sources for this guide
 
-This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
 <!-- pd:method:end -->
