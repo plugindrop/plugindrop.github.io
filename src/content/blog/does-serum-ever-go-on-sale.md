@@ -53,7 +53,7 @@ At **$249**, here's how to think about it:
 - **Accept the price** — waiting will not get you a better deal
 
 
-**[Xfer Records](https://xferrecords.com/products/serum)**
+**[Xfer Records](https://xferrecords.com/products/serum-2)**
 
 Plugin Boutique offers Virtual Cash back (typically 5%) on every purchase — the only way to soften the cost.
 

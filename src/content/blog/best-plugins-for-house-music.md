@@ -20,7 +20,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Xfer Serum | $189 | Modern plucks, stabs, arps | [Xfer Records](https://xferrecords.com/products/serum) |
+| Xfer Serum | $189 | Modern plucks, stabs, arps | [Xfer Records](https://xferrecords.com/products/serum-2) |
 | Native Instruments Massive X | $199 | Deep bass and evolving textures | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10604-MASSIVE-X?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-house-music&chan=art&data1=best-plugins-for-house-music) |
 | LennarDigital Sylenth1 | $139 | Classic house chord sounds | [Plugin Boutique](https://www.pluginboutique.com/search?q=Sylenth1&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-house-music&chan=art&data1=best-plugins-for-house-music) |
 | FabFilter Pro-Q 4 | $179 | Surgical EQ for DJ-ready mixes | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-for-house-music) |
@@ -51,7 +51,7 @@ This guide ranks the eight most important plugins for house music production in 
 
 **Best for:** Modern house producers who need wavetable-based synthesis for plucks, arps, and processed chord stabs with a current sonic signature.
 
-[Xfer Records](https://xferrecords.com/products/serum)
+[Xfer Records](https://xferrecords.com/products/serum-2)
 
 ---
 

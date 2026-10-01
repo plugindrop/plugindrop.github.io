@@ -21,7 +21,7 @@ priceTrack:
 |--------|-------|----------|--------|
 | FabFilter Pro-Q 4 | $179 | Surgical precision, full pro workflow | [Official Site](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-eq-vocals-plugins) |
 | TDR Nova | Free | Dynamic EQ at no cost | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
-| iZotope Neutron 4 | Superseded by Neutron 5 ($299) | AI-assisted EQ, mix-context shaping | [Official Site](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=how-to-eq-vocals-plugins) |
+| iZotope Neutron 4 | Superseded by Neutron 5 ($299) | AI-assisted EQ, mix-context shaping | [Official Site](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=how-to-eq-vocals-plugins) |
 | iZotope Nectar 4 | $249 | Vocal-dedicated full processing chain | [Official Site](https://www.pluginboutique.com/search?q=iZotope%20Nectar&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-vocals-plugins&chan=art&data1=how-to-eq-vocals-plugins) |
 
 ---
@@ -149,7 +149,7 @@ Neutron 4 is not a standalone EQ — it's a full mixing channel strip where the 
 
 **Best for:** Producers who want AI-assisted starting points, full channel-strip mixing workflow, EQ decisions informed by the full mix context
 
-[→ Get iZotope Neutron 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=how-to-eq-vocals-plugins)
+[→ Get iZotope Neutron 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=how-to-eq-vocals-plugins)
 
 ---
 
@@ -185,7 +185,7 @@ Neutron 4 is not a standalone EQ — it's a full mixing channel strip where the 
 |--------|-------|------|------------|-----|
 | TDR Nova | Free | Dynamic EQ | 4 dynamic bands, HPF, parallel mode, Linux support | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | FabFilter Pro-Q 4 | $179 | Linear/Dynamic EQ | 24 bands, collision detection, linear phase, M/S | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-eq-vocals-plugins) |
-| iZotope Neutron 4 | Superseded by Neutron 5 ($299) | AI Channel Strip | AI Track Assistant, masking meter, Relay system | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=how-to-eq-vocals-plugins) |
+| iZotope Neutron 4 | Superseded by Neutron 5 ($299) | AI Channel Strip | AI Track Assistant, masking meter, Relay system | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=how-to-eq-vocals-plugins) |
 | iZotope Nectar 4 | $249 | Vocal Processing Suite | Vocal Assistant, Unmask, integrated vocal chain | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Nectar&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-vocals-plugins&chan=art&data1=how-to-eq-vocals-plugins) |
 
 ---

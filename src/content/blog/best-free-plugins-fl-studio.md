@@ -342,7 +342,7 @@ If the free toolkit is serving you well and you're ready to invest, these three 
 - **Price:** $249 regular, typically $189 on sale, lowest we've tracked $99. Splice offers rent-to-own.
 - **Why upgrade:** Vital covers much of the same synthesis ground, but Serum's commercial preset ecosystem is unmatched — tens of thousands of professionally designed patches are available. The visual wavetable editor and deep modulation system have become the industry benchmark for sound design workflows. If you're producing commercially or regularly working with preset packs, Serum's ecosystem depth justifies the cost.
 
-[Xfer Records](https://xferrecords.com/products/serum)
+[Xfer Records](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -387,7 +387,7 @@ If the free toolkit is serving you well and you're ready to invest, these three 
 | Ozone Imager 2 | Free | Stereo Processor | Lissajous meter, smooth width control | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) |
 | MFreeFXBundle | Free | FX Bundle (37 plugins) | Comprehensive, one install, consistent UI | [Get It](https://www.meldaproduction.com/MFreeFXBundle) |
 | CHOW Tape Model | Free | Tape Saturation | Physical modeling, harmonic warmth, CLAP support | [Get It](https://chowdsp.com/products.html) |
-| Serum | ~$189 | Wavetable Synth | Industry preset ecosystem, visual wavetable editor | [Get It](https://xferrecords.com/products/serum) |
+| Serum | ~$189 | Wavetable Synth | Industry preset ecosystem, visual wavetable editor | [Get It](https://xferrecords.com/products/serum-2) |
 | Harmor | ~$99 | Additive / Resynthesis | Image resynthesis, deep FL Studio integration | [Get It](https://www.pluginboutique.com/search?q=Harmor&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) |
 | Sytrus | ~$99 | FM Synth | 6-operator FM, native FL workflow, built-in FX | [Get It](https://www.pluginboutique.com/search?q=Sytrus&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio) |
 
@@ -433,7 +433,7 @@ A: All 15 free plugins in this list permit commercial use. Open-source tools lik
 
 Fifteen plugins, zero dollars, and a chain that covers synthesis, mixing, mastering, and effects: that is the state of free software for FL Studio in 2026. The gap between free and paid is now mostly convenience and preset depth, not raw sound quality.
 
-Your next ten minutes: download Vital, drop TDR Nova on your master bus and Valhalla Supermassive on a reverb send, and load one Spitfire LABS instrument for color. That is a professional starting chain before your coffee gets cold. When you eventually hit a wall, [Xfer Records](https://xferrecords.com/products/serum) and the price-intelligence table below tell you exactly what to buy — and when to wait for a sale.
+Your next ten minutes: download Vital, drop TDR Nova on your master bus and Valhalla Supermassive on a reverb send, and load one Spitfire LABS instrument for color. That is a professional starting chain before your coffee gets cold. When you eventually hit a wall, [Xfer Records](https://xferrecords.com/products/serum-2) and the price-intelligence table below tell you exactly what to buy — and when to wait for a sale.
 
 ---
 
@@ -472,6 +472,6 @@ This guide brings together publicly available product information, linked commun
 - [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)
 - [10 Best Free Delay VST Plugins in 2026 (Tape, Digital, Multi-tap)](/posts/best-free-delay-vst-plugins/)
 - [10 Best Free EQ VST Plugins in 2026 (Mixing & Mastering)](/posts/best-free-eq-vst-plugins/)
-- [15 Best Free Reverb VST Plugins in 2026 (Tested by Producers)](/posts/best-free-reverb-vst-plugins/)
+- [15 Best Free Reverb VST Plugins 2026 (Room, Hall, Plate)](/posts/best-free-reverb-vst-plugins/)
 
 - [stereo widening plugins](/posts/best-stereo-widener-plugins/)

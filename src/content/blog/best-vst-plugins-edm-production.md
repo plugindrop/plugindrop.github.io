@@ -19,7 +19,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Serum | $189 | Wavetable synthesis, leads, basses | [Xfer Records](https://xferrecords.com/products/serum) |
+| Serum | $189 | Wavetable synthesis, leads, basses | [Xfer Records](https://xferrecords.com/products/serum-2) |
 | Vital | Free–$80 | Wavetable entry point, free Serum alternative | [Free](https://vital.audio/) |
 | Massive X | Standalone / Komplete | Complex modulation, dark techno textures | [Get Massive X](https://www.native-instruments.com/en/products/komplete/synths/massive-x/) |
 | Sylenth1 | €139 | Trance, big room, festival house | [Get Sylenth1](https://www.lennardigital.com/sylenth1/) |
@@ -63,7 +63,7 @@ Serum's wavetable editor, flexible filter collection, and sub-oscillator routing
 
 **Best for:** Any EDM subgenre requiring detailed wavetable design or immediate access to a deep, professionally curated preset library.
 
-[Xfer Records](https://xferrecords.com/products/serum)
+[Xfer Records](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -354,7 +354,7 @@ If you have exhausted the free options or are ready to invest in tools that will
 - **Why upgrade:** Vital's free tier matches Serum's synthesis engine in raw depth, but Serum's third-party preset ecosystem — spanning commercial packs covering every major EDM subgenre — has no free equivalent. For producers building professional-grade template libraries or working across client-facing sessions, that ecosystem gap is the practical argument.
 - **When to pull the trigger:** As covered above, don't wait for a discount that historically doesn't come. Budget the full $189 and buy when you actually need the preset ecosystem, not when a sale banner shows up.
 
-[Xfer Records](https://xferrecords.com/products/serum)
+[Xfer Records](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -388,7 +388,7 @@ If you have exhausted the free options or are ready to invest in tools that will
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Serum | $189 | Wavetable synth | Industry standard, deep preset ecosystem | [Xfer Records](https://xferrecords.com/products/serum) |
+| Serum | $189 | Wavetable synth | Industry standard, deep preset ecosystem | [Xfer Records](https://xferrecords.com/products/serum-2) |
 | Vital | Free–$80 | Wavetable synth | Spectral warping, full engine on free tier | [Free](https://vital.audio/) |
 | Massive X | Paid | Modulation synth | Phase/FM routing, NI ecosystem, dark character | [Get](https://www.native-instruments.com/en/products/komplete/synths/massive-x/) |
 | Sylenth1 | €139 | Analog-style synth | 16-voice unison, trance/big room reference sound | [Get](https://www.lennardigital.com/sylenth1/) |

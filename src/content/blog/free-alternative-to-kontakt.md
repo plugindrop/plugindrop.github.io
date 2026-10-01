@@ -1,6 +1,6 @@
 ---
 title: "6 Best Free Kontakt Alternatives 2026: Sample Players That Rival the $500 Standard"
-description: "Decent Sampler is the top free Kontakt alternative in 2026 — supports NI's .nki format, huge free library. 6 sample players tested with full feature comparison and download links."
+description: "Decent Sampler is the top free Kontakt alternative in 2026 — supports NI's .nki format, huge free library. 6 sample players compared by published features, with download links."
 pubDate: "2026-06-18T10:39:54Z"
 tags: ["guide", "vst", "free", "alternatives"]
 affiliate: ""

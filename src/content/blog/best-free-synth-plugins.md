@@ -9,7 +9,7 @@ draft: false
 heroImage: "/images/best-free-synth-plugins.jpg"
 evergreen: true
 score: 8.00
-xText: "14 free synth VST plugins in 2026 — Vital, Surge XT, OB-Xd, Dexed, and more. All tested in real sessions."
+xText: "14 free synth VST plugins in 2026 — Vital, Surge XT, OB-Xd, Dexed, and more. Compiled from vendor specs and public information."
 priceTrack:
   - "Serum 2"
 ---
@@ -543,7 +543,7 @@ The free synths above cover most use cases. If you find yourself hitting their l
 
 | Plugin | Best For | Price |
 |---|---|---|
-| [Serum 2](https://xferrecords.com/products/serum) | Sound design, massive preset ecosystem | $249 list · $189 sale · $99 low |
+| [Serum 2](https://xferrecords.com/products/serum-2) | Sound design, massive preset ecosystem | $249 list · $189 sale · $99 low |
 | [Phase Plant](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=best-free-synth-plugins) | Modular architecture, advanced producers | $199 list · $119 sale · $92 low ([track](/plugin-prices/kilohearts-phase-plant/)) |
 
 ---

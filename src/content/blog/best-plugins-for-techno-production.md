@@ -15,7 +15,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Xfer Serum | $189 | Acid basslines, industrial leads | [Xfer Records](https://xferrecords.com/products/serum) |
+| Xfer Serum | $189 | Acid basslines, industrial leads | [Xfer Records](https://xferrecords.com/products/serum-2) |
 | Arturia Pigments | $199 ($99 on sale) | Evolving modular textures | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20Pigments&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-techno-production&chan=art&data1=best-plugins-for-techno-production) |
 | FabFilter Pro-Q 4 | $179 | Surgical EQ on every channel | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-for-techno-production) |
 | FabFilter Pro-C 3 | $199 | Punchy drum bus compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=best-plugins-for-techno-production) |
@@ -46,7 +46,7 @@ In 2026, the plugin landscape covers all of these requirements at multiple price
 
 **Best for:** Techno producers who need precise control over acid basslines, distorted leads, and industrial stabs with a modern sound design workflow.
 
-[Xfer Records](https://xferrecords.com/products/serum)
+[Xfer Records](https://xferrecords.com/products/serum-2)
 
 ---
 

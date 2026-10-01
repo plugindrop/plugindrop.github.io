@@ -27,7 +27,7 @@ priceTrack:
 | FabFilter Pro-Q 4 | $199 | Precision mixing EQ | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
 | Valhalla Room | $50 | Studio reverb | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-room/) |
 | FabFilter Pro-C 3 | $199 | Transparent compression | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
-| Serum | $189 | Wavetable synthesis | [Xfer Records](https://xferrecords.com/products/serum) |
+| Serum | $189 | Wavetable synthesis | [Xfer Records](https://xferrecords.com/products/serum-2) |
 | iZotope Ozone 12 | $249 | AI-assisted mastering | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
 | Valhalla Supermassive | Free | Ambient reverb & delay | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Vital | Free | Wavetable synthesis | [Free](https://vital.audio/) |
@@ -190,7 +190,7 @@ Serum's combination of wavetable oscillators, a flexible modulation matrix, and 
 **Best for:** Electronic bass, leads, pads, and sound design from first principles.
 
 [→ Watch the official demo](https://www.youtube.com/watch?v=TmvzdoEECe8)
-[Xfer Records](https://xferrecords.com/products/serum)
+[Xfer Records](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -361,7 +361,7 @@ Ozone 12's Master Assistant analyzes your track and builds a starting mastering 
 | Valhalla Room | $50 | Reverb | 12 algorithms, natural room modeling | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-room/) |
 | Valhalla Supermassive | Free | Reverb/Delay | Massive ambiences, modulated tails | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Waves SSL E-Channel | $29.99 | Channel Strip | SSL console EQ + dynamics | [→ Get Waves SSL E-Channel](https://www.waves.com/plugins/ssl-e-channel) |
-| Serum | $189 | Synthesizer | Wavetable editor, modulation matrix, FX | [Get it](https://xferrecords.com/products/serum) |
+| Serum | $189 | Synthesizer | Wavetable editor, modulation matrix, FX | [Get it](https://xferrecords.com/products/serum-2) |
 | Vital | Free | Synthesizer | Spectral warping, advanced modulation | [Free](https://vital.audio/) |
 | Softube Saturation Knob | Free | Saturation | Single-knob, three modes | [Free Download](https://www.softube.com/saturationknob) |
 | Slate Digital Fresh Air | Free | Enhancer | Artifact-free high-frequency lift | [Free Download](https://slatedigital.com/fresh-air/) |

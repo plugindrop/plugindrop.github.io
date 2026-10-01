@@ -162,7 +162,7 @@ Neutron's EQ module includes AI-generated band suggestions, session-level maskin
 
 **Best for:** Producers who want AI assistance baked into their EQ and are invested in iZotope's ecosystem.
 
-[→ Get iZotope Neutron on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-3-review)
+[→ Get iZotope Neutron on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-3-review)
 
 ---
 

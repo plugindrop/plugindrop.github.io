@@ -65,7 +65,9 @@ For a versatile Plugin Boutique alternative that covers many genres from a singl
 
 ---
 
-### AmpliTube 5 MAX — The Largest Model Library in a Single Product {#amplitube-5}
+<a id="amplitube-5"></a>
+
+### AmpliTube 5 MAX — The Largest Model Library in a Single Product
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/U9g-2XdYr0U" title="AmpliTube 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -87,7 +89,9 @@ The cabinet simulation and mic placement system, which allows multiple virtual m
 
 ---
 
-### IK Multimedia TONEX MAX — AI Amp & Pedal Capture {#tonex}
+<a id="tonex"></a>
+
+### IK Multimedia TONEX MAX — AI Amp & Pedal Capture
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/U9g-2XdYr0U" title="TONEX MAX — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

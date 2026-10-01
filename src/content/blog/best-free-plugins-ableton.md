@@ -34,7 +34,7 @@ draft: false
 
 In 2026 you can open a blank Ableton Live set and finish an entire release — synth, EQ, compressor, reverb, and master metering — using nothing but free VST3 plugins, and most listeners would never guess the plugin folder cost $0 instead of $2,000. Vital alone bundles a wavetable engine that would have carried a $189 price tag five years ago; Valhalla gives away a reverb from a brand that mix engineers pay for on every other product. The catch isn't quality anymore — it's knowing which dozen downloads actually earn a permanent slot in your rack, and which are one-trick novelties you'll delete by next week.
 
-This guide cuts through the noise with 12 hand-picked plugins covering every core workflow category: synthesis, EQ, compression, reverb, sampling, modulation, and metering. Every plugin here is tested inside Ableton Live 12, fully VST3-compatible, and genuinely free with no time limits or crippled features. No crippleware, no trials that expire after 14 days.
+This guide cuts through the noise with 12 hand-picked plugins covering every core workflow category: synthesis, EQ, compression, reverb, sampling, modulation, and metering. Every plugin here is listed by its developer as VST3-compatible and as free to download, with no time-limited trial. Compatibility and pricing are taken from each developer's page, so check the vendor site for your Ableton Live version and operating system. We have not tested these plugins hands-on in Ableton Live; this guide is compiled from vendor pages and public information.
 
 We've organized the list by workflow stage so you can build a complete, studio-quality signal chain from scratch. At the end, you'll find three paid upgrades worth the investment when you're ready to level up.
 
@@ -313,7 +313,7 @@ Once you've maxed out what the free tier offers, these three commercial plugins 
 - **Price:** ~$189 one-time, or rental-to-own via Splice
 - **Why upgrade:** Vital is genuinely excellent, but Serum has the deeper preset ecosystem, a more refined wavetable editor, and is the de facto standard in electronic music production. That status translates directly into a vastly larger library of tutorials, third-party preset packs, and community support — making it easier to learn and faster to find sounds.
 
-[Xfer Records](https://xferrecords.com/products/serum)
+[Xfer Records](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -337,7 +337,7 @@ Once you've maxed out what the free tier offers, these three commercial plugins 
 - **Price:** ~$249 standard
 - **Why upgrade:** The free Ozone Imager 2 handles stereo width, but Neutron adds a complete AI-assisted mixing suite — EQ, compressor, transient shaper, exciter, and the Mix Assistant, which analyzes your full session and proposes a starting gain and EQ balance for every track. For producers who mix their own records, the time saved per session adds up quickly.
 
-[→ Get iZotope Neutron on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton)
+[→ Get iZotope Neutron on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton)
 
 ---
 
@@ -412,7 +412,7 @@ The free plugins above cover most production needs. When you're ready to invest,
 
 | Plugin | What It Adds | Price |
 |---|---|---|
-| [Serum 2](https://xferrecords.com/products/serum) | Industry-standard wavetable synth, massive preset library | ~$10/mo or ~$189 |
+| [Serum 2](https://xferrecords.com/products/serum-2) | Industry-standard wavetable synth, massive preset library | ~$10/mo or ~$189 |
 | [FabFilter Pro-Q 4](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) | Dynamic EQ, surgical precision, zero-latency | ~$179 |
 | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) | 18 reverb algorithms, $50, beats plugins 3× the price | $50 |
 
@@ -435,6 +435,6 @@ This guide brings together publicly available product information, linked commun
 - [Valhalla VintageVerb Review: Worth the $50?](/posts/valhalla-vintageverb-review/)
 - [10 Best Mastering Limiter Plugins in 2026 (Ranked)](/posts/best-limiter-plugins-mastering/)
 - [10 Best Free EQ VST Plugins in 2026 (Mixing & Mastering)](/posts/best-free-eq-vst-plugins/)
-- [15 Best Free Reverb VST Plugins in 2026 (Tested by Producers)](/posts/best-free-reverb-vst-plugins/)
+- [15 Best Free Reverb VST Plugins 2026 (Room, Hall, Plate)](/posts/best-free-reverb-vst-plugins/)
 
 - [stereo widening plugins](/posts/best-stereo-widener-plugins/)

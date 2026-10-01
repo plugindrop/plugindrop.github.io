@@ -258,7 +258,7 @@ Graillon 2 provides real-time pitch correction alongside a pitch-shifting sectio
 - **Price:** ~$189 (subscription available)
 - **Why upgrade:** Vital's free tier covers basic wavetable synthesis with genuine depth, but Serum's visual wavetable editor, the scale of its community-shared preset library, and its long-standing status as the genre standard give it advantages that compound over years of use. Producers who design 808 basses and leads from scratch on a daily basis will find the workflow difference significant.
 
-[Xfer Records](https://xferrecords.com/products/serum)
+[Xfer Records](https://xferrecords.com/products/serum-2)
 
 ---
 
@@ -332,7 +332,7 @@ A: LABS requires a free Spitfire Audio account. Komplete Start requires a Native
 
 Vital is the first download for any hip-hop producer building a free kit in 2026 — its synthesis depth is unmatched at zero cost, and the community support around it makes learning faster than any other free option. When the free tier stops covering what you need, Serum is the single paid upgrade that producers on r/hiphopproduction point to most consistently.
 
-[Xfer Records](https://xferrecords.com/products/serum)
+[Xfer Records](https://xferrecords.com/products/serum-2)
 
 ---
 

@@ -31,7 +31,7 @@ priceTrack:
 | MEqualizer | Free | Beginners, fast static shaping | [Free Download](https://www.meldaproduction.com/MEqualizer) |
 | Ignite Amps PTEq-X | Free | Pultec-style low-end & air | [Free Download](https://www.igniteamps.com/) |
 | Slate Digital Fresh Air | Free | Vocal air & presence | [Free Download](https://slatedigital.com/free-plugins/) |
-| iZotope Neutron | $99+ | AI-assisted mixing, track analysis | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=best-eq-plugins-2026) |
+| iZotope Neutron | $99+ | AI-assisted mixing, track analysis | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=best-eq-plugins-2026) |
 | iZotope Ozone 12 | from $249 | Full mastering-chain EQ | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-eq-plugins-2026) |
 | Waves SSL E-Channel | $29–$79 | Analog character, channel strips | [Get it here](https://www.waves.com/plugins/ssl-e-channel) |
 
@@ -196,7 +196,7 @@ The honest limitation: two knobs and a fixed focus mean it's a finishing tool, n
 
 The honest limitation: the AI suggests a starting point, not a finished mix — lean on it too hard and you skip the ear-training that makes you faster without it.
 
-[→ Get iZotope Neutron on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=best-eq-plugins-2026)
+[→ Get iZotope Neutron on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=best-eq-plugins-2026)
 
 ---
 
@@ -239,7 +239,7 @@ The honest limitation: it colors by design, so it's the wrong pick when you need
 | MEqualizer | Free | Parametric | 6 bands, spectrum analyzer, low CPU, fast workflow | [Free Download](https://www.meldaproduction.com/MEqualizer) |
 | Ignite Amps PTEq-X | Free | Pultec Passive Emulation | EQP-1A + MEQ-5 circuits, passive boost/cut behavior | [Free Download](https://www.igniteamps.com/) |
 | Slate Digital Fresh Air | Free | High-Freq Enhancer | Presence + Air bands, vocal-optimized | [Free Download](https://slatedigital.com/free-plugins/) |
-| iZotope Neutron | $99–$249 | AI Channel Strip | Track Assistant, Masking Meter, dynamic EQ | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=best-eq-plugins-2026) |
+| iZotope Neutron | $99–$249 | AI Channel Strip | Track Assistant, Masking Meter, dynamic EQ | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=best-eq-plugins-2026) |
 | iZotope Ozone 12 | from $249 | Mastering Suite with EQ | Linear phase, M/S, AI Master Assistant | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-eq-plugins-2026) |
 | Waves SSL E-Channel | $29–$79 | Analog / Channel Strip | SSL console character, integrated gate + compressor | [Get it](https://www.waves.com/plugins/ssl-e-channel) |
 
