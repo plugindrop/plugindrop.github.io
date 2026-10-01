@@ -30,7 +30,7 @@ saleExpiry: "2021-09-26"
 
 ## u-he Hive 2 Synthwave Bundle: What the Deal Actually Includes
 
-u-he Hive 2 is a polyphonic software synthesizer from Cologne-based developer u-he, built around a dual-layer architecture that prioritizes CPU efficiency without sacrificing sound quality. This Plugin Boutique deal bundles the full Hive 2 license with a dedicated Synthwave Expansion — a curated preset library oriented toward retro-futuristic electronic music. The expansion is included at no additional cost compared to buying it alongside Hive 2 separately.
+u-he Hive 2 is a polyphonic software synthesizer from Cologne-based developer u-he, built around a dual-layer architecture with a focus on fast workflow. This Plugin Boutique deal bundles the full Hive 2 license with a dedicated Synthwave Expansion — a curated preset library oriented toward retro-futuristic electronic music. The expansion is included at no additional cost compared to buying it alongside Hive 2 separately.
 
 u-he is one of the more respected independent developers in the plugin space, known for products like Zebra, Repro, and Diva. Hive 2 sits in their lineup as the streamlined, accessible option: faster workflow, lighter CPU draw, and a broad genre range.
 
@@ -49,7 +49,7 @@ u-he is one of the more respected independent developers in the plugin space, kn
 
 ## What Producers Are Saying
 
-u-he has an established reputation across synthesis communities. On KVR Audio, Hive 2 is consistently discussed as a capable, CPU-friendly synthesizer — particularly relevant in sessions that already run resource-heavy instruments. On Reddit's r/synthesizers and r/edmproduction, u-he is regularly cited as a developer whose products punch above their price point, with Hive 2 frequently recommended to producers who want quality without the overhead of Diva or Zebra. The developer's track record of free updates and long-term support is a recurring point in community discussions.
+u-he has an established reputation across synthesis communities. The developer's track record of free updates and long-term support is a recurring point in community discussions.
 
 ---
 

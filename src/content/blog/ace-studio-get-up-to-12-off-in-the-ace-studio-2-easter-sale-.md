@@ -32,7 +32,7 @@ ACE Studio 2.0 is an AI-powered singing voice synthesizer and music production s
 
 ## What Producers Are Saying
 
-ACE Studio has been generating steady discussion in the vocal synthesis and production communities. On Reddit's r/AudioProductionDeals and vocal synth forums, users frequently mention the quality jump from version 1 to 2.0, particularly praising the expanded multilingual voice library and the addition of AI instruments. The voice cloning feature and VoiceMix blending have drawn attention from producers working in genres where hiring session vocalists isn't practical. Check [KVR](https://www.kvraudio.com/) or [Reddit](https://www.reddit.com/r/AudioProductionDeals/) for ongoing impressions.
+ACE Studio has been generating steady discussion in the vocal synthesis and production communities. The voice cloning feature and VoiceMix blending have drawn attention from producers working in genres where hiring session vocalists isn't practical. Check [KVR](https://www.kvraudio.com/) or [Reddit](https://www.reddit.com/r/AudioProductionDeals/) for ongoing impressions.
 
 ## Who Is It For?
 

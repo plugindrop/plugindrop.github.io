@@ -73,7 +73,7 @@ Neural DSP's published trial policy offers 14 days of full plugin access before 
 - **Platforms:** Windows, macOS
 - **Formats:** VST, AU, AAX
 
-Waves IR-L is a CPU-efficient convolution reverb that supports loading custom impulse response files — the workflow guitar producers use when substituting third-party cabinet IRs for an amp sim's native cab section. Waves developer documentation confirms IR-L accepts third-party IR files in standard formats and supports mono, stereo, and true stereo configurations. The "lite" designation refers to computational load, not capability.
+Waves IR-L is a convolution reverb that supports loading custom impulse response files — the workflow guitar producers use when substituting third-party cabinet IRs for an amp sim's native cab section. Waves developer documentation confirms IR-L accepts third-party IR files in standard formats and supports mono, stereo, and true stereo configurations. The "lite" designation refers to computational load, not capability.
 
 In the guitar recording chain, IR-L serves two distinct roles depending on your amp sim setup. If you're running Neural DSP Archetype with its native cab section enabled, IR-L becomes a room ambience layer placed after the cab stage, adding the spatial depth of a real recording space to a signal that otherwise sits dry and forward in the mix. If you're running an amp sim in a "no cab" output mode with access to the raw power-amp signal, IR-L becomes the cab loader.
 
@@ -160,7 +160,7 @@ OTT is genuinely free with no paid upgrade path for this specific plugin. Xfer R
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Neural DSP Archetype | From $99 | Amp Simulation | Neural network modeling, full built-in cab sim, 14-day free trial | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=guitar-recording-plugin-chain) |
-| Waves IR-L Convolution Reverb | Varies | Convolution Reverb / IR Loader | Third-party IR support, mono/stereo/true stereo, CPU-efficient | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=guitar-recording-plugin-chain) |
+| Waves IR-L Convolution Reverb | Varies | Convolution Reverb / IR Loader | Third-party IR support, mono/stereo/true stereo | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=guitar-recording-plugin-chain) |
 | FabFilter Pro-Q 4 | $179 | Parametric EQ | 24 bands, dynamic EQ per band, mid/side processing, EQ match | [FabFilter](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=guitar-recording-plugin-chain) |
 | OTT (Xfer Records) | Free | Multiband Compressor | Upward/downward compression, three bands, Depth control | [Free Download](https://xferrecords.com/freeware) |
 | FabFilter Total Bundle | ~$899 | Full Plugin Suite | Pro-Q 4, Pro-C 3, Pro-L 2, Pro-MB, Saturn 2 + reverb/delay | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=guitar-recording-plugin-chain) |

@@ -28,7 +28,7 @@ Transit 2 is a motion effects plugin from Baby Audio, developed in collaboration
 
 ## What Producers Are Saying
 
-Transit 2 has picked up recognition including "Best Of" awards from Sound On Sound and Computer Music, along with two KVR Readers' Choice awards. On [KVR forums](https://www.kvraudio.com/product/transit-2-by-baby-audio/reviews), users commonly praise the speed of the workflow and the quality of the built-in presets. Some discussions note the quick upgrade cycle from v1 as a point of contention, but the general consensus leans positive — especially for producers who need transitions fast without deep-diving into automation. Check [Reddit's r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) for current impressions on this sale.
+Transit 2 has picked up recognition including "Best Of" awards from Sound On Sound and Computer Music, along with two KVR Readers' Choice awards. Some discussions note the quick upgrade cycle from v1 as a point of contention, but the general consensus leans positive — especially for producers who need transitions fast without deep-diving into automation. Check [Reddit's r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) for current impressions on this sale.
 
 ## Who Is It For?
 

@@ -29,7 +29,7 @@ MIDI Klowd is an online shop specializing in MIDI files and audio sample packs f
 
 ## What Producers Are Saying
 
-MIDI Klowd has built a following largely through its generous free offerings. On [KVR Audio forums](https://www.kvraudio.com/forum/viewtopic.php?t=598963), producers have discussed their free ambient and trance MIDI packs, and [Bedroom Producers Blog](https://bedroomproducersblog.com/2023/07/07/midi-klowd/) featured the site for its wide selection of free MIDI content. Community members commonly mention the quality-to-price ratio as a standout, especially given how many packs are available at no cost. For a niche MIDI pack provider, that kind of organic coverage is notable.
+MIDI Klowd has built a following largely through its generous free offerings. Community members commonly mention the quality-to-price ratio as a standout, especially given how many packs are available at no cost. For a niche MIDI pack provider, that kind of organic coverage is notable.
 
 ## Who Is It For?
 

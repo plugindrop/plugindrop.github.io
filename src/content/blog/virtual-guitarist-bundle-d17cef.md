@@ -27,7 +27,7 @@ The Virtual Guitarist Bundle is a collection of guitar instrument plugins develo
 
 ## What Producers Are Saying
 
-The Virtual Guitarist series has a well-established reputation in producer communities as a practical solution for adding guitar parts without live recording. On forums like KVR and in production subreddits, the series is commonly recommended for **beat makers and keyboard-first producers** who need convincing guitar tracks but don't play the instrument. The chord-triggering workflow is frequently cited as intuitive for non-guitarists. Community discussions often position the Virtual Guitarist lineup as one of the more accessible "just drop in chords and go" guitar tools available.
+The Virtual Guitarist series has a well-established reputation in producer communities as a practical solution for adding guitar parts without live recording. The chord-triggering workflow is frequently cited as intuitive for non-guitarists.
 
 ## Who Is It For?
 

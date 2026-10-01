@@ -32,7 +32,7 @@ Addictive Drums 2 (AD2) is a virtual drum instrument developed by XLN Audio, bui
 
 ## What Producers Are Saying
 
-Addictive Drums 2 has been a consistent recommendation across mixing and production communities for years. On forums like KVR Audio and Reddit's r/WeAreTheMusicMakers, it's regularly cited as one of the more approachable drum plugins for producers who want realistic results without a steep learning curve. The built-in mixer and included MIDI grooves are commonly highlighted as workflow advantages — particularly for producers who don't specialize in drums but need convincing results quickly. It's frequently recommended alongside Superior Drummer 3 as a top-tier sample-based drum solution.
+Addictive Drums 2 has been a consistent recommendation across mixing and production communities for years. The built-in mixer and included MIDI grooves are commonly highlighted as workflow advantages — particularly for producers who don't specialize in drums but need convincing results quickly. It's frequently recommended alongside Superior Drummer 3 as a top-tier sample-based drum solution.
 
 ---
 

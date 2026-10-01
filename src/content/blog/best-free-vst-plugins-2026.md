@@ -47,7 +47,7 @@ Faithful emulation of the Yamaha DX7 — it loads original DX7 SysEx patches, so
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/kcbOGUej_n4" title="HELM - Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
 
-Polyphonic synth with a clean visual interface. Two oscillators, a sub-oscillator, built-in effects, and a step sequencer make it lightweight and straightforward — a great first synth.
+Polyphonic synth with a clean visual interface. Two oscillators, a sub-oscillator, built-in effects, and a step sequencer make it straightforward — a good first synth.
 
 - **Format:** VST, VST3, AU, LV2 · **OS:** Windows, macOS, Linux · **Price:** Free (open-source)
 - **Best for:** Beginners who want a friendly, visual synth to learn subtractive synthesis without menu-diving.
@@ -81,7 +81,7 @@ An EMT 140 plate reverb — three knobs, instant results. Soundtoys periodically
 
 ### 7. TAL-Reverb-4
 
-Plate reverb with a vintage character. Simple controls, low CPU, and a sound that sits well in dense mixes without heavy parameter tweaking.
+Plate reverb with a vintage character. Simple controls and minimal parameter tweaking.
 
 - **Format:** VST, VST3, AU · **OS:** Windows, macOS, Linux · **Price:** Free
 - **Best for:** A quick, always-available plate when Little Plate isn't in a free window — great on backing vocals and pads.
@@ -97,7 +97,7 @@ Lo-fi processor that adds vinyl noise, warp, dust, and electrical hum. A fast wa
 
 ### 9. Kilohearts Essentials
 
-Bundle of small effect modules — distortion, chorus, delay, filter, and more. Each is lightweight, and they integrate into the Kilohearts Snapin ecosystem if you expand later.
+Bundle of small effect modules — distortion, chorus, delay, filter, and more. They integrate into the Kilohearts Snapin ecosystem if you expand later.
 
 - **Format:** VST, VST3, AU, AAX · **OS:** Windows, macOS · **Price:** Free (Essentials bundle)
 - **Best for:** Building a full effects chain from modular building blocks without paying for a bundle up front.

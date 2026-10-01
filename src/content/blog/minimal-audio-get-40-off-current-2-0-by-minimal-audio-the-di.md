@@ -37,7 +37,7 @@ Current 2.0 is a synthesizer plugin developed by Minimal Audio, a company that h
 
 ## What Producers Are Saying
 
-Current 2.0 has generated genuine discussion in synthesis-focused communities. On Reddit's r/synthesizers and r/edmproduction, users commonly mention Minimal Audio as a developer worth watching for their unconventional approach to digital sound design. The plugin tends to come up in threads about "modern software synths with character" — it's not positioned as a bread-and-butter workhorse but rather as a go-to for atmospheric and cinematic textures. Check [KVR Audio](https://www.kvraudio.com) and [r/newplugindeals](https://www.reddit.com/r/newplugindeals/) for ongoing community impressions.
+Current 2.0 has generated genuine discussion in synthesis-focused communities. The plugin tends to come up in threads about "modern software synths with character" — it's not positioned as a bread-and-butter workhorse but rather as a go-to for atmospheric and cinematic textures. Check [KVR Audio](https://www.kvraudio.com) and [r/newplugindeals](https://www.reddit.com/r/newplugindeals/) for ongoing community impressions.
 
 ---
 

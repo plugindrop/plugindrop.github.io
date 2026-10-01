@@ -32,7 +32,7 @@ ChopTones is a developer specializing in guitar amp modeling profiles and impuls
 
 ## What Producers Are Saying
 
-ChopTones has a solid reputation in the guitar profiling community. On forums and subreddits like r/Kemper, r/guitarpedals, and gear-focused Facebook groups, users commonly mention the quality and accuracy of their amp captures — particularly for high-gain tones. Discussions on Reddit's r/newplugindeals suggest this is a brand guitarists return to when they want specific amp flavors for their modeler.
+ChopTones has a solid reputation in the guitar profiling community.
 
 ## Who Is It For?
 

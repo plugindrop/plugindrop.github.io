@@ -46,7 +46,7 @@ That works out to a savings of $175 off the regular price. Discount percentages 
 
 - You already own a bx console plugin covering the same 9098i-derived circuit, since the EQ and dynamics behavior will overlap significantly.
 - You're mixing entirely in the box with a minimal-plugin philosophy and don't want another channel-strip instance per track.
-- You need a plugin with confirmed low-CPU performance for large track counts — check the system requirements before loading it on dozens of channels.
+- You need a plugin with documented CPU requirements for large track counts — check the system requirements before loading it on dozens of channels.
 - Your workflow depends on iLok dongle-based licensing across multiple offline machines; confirm Brainworx's activation method fits your setup first.
 
 ## What producers say (with sources)

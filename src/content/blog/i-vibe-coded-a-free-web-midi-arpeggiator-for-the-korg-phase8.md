@@ -22,7 +22,7 @@ This one flew under the radar on r/synthesizers, but it deserves attention from 
 
 Arp8 is a free, open-source Web MIDI arpeggiator built specifically for the Korg Phase8 synthesizer. It runs entirely in the browser using the Web MIDI API — no downloads, no plugins, no software installation needed.
 
-The tool was created because its developer wanted to experiment with chord progressions on the Phase8 without launching a full DAW session. The result is a lightweight, single-purpose utility that speaks the Phase8's MIDI language from the factory.
+The tool was created because its developer wanted to experiment with chord progressions on the Phase8 without launching a full DAW session. The result is a single-purpose utility that speaks the Phase8's MIDI language from the factory.
 
 ## Key Features
 

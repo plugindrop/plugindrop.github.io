@@ -35,7 +35,7 @@ Airspace is ModeAudio's debut plugin — a hybrid that fuses convolution reverb 
 
 ## What Producers Are Saying
 
-Airspace has been reviewed by several major outlets including Sound On Sound, MusicTech, and Bedroom Producers Blog. The general consensus highlights the quality of the IR library and how immediately usable the presets are across genres. Community discussions on KVR and production forums commonly mention it as a strong sound design tool rather than a basic utility reverb.
+Airspace has been reviewed by several major outlets including Sound On Sound, MusicTech, and Bedroom Producers Blog. The general consensus highlights the quality of the IR library and how immediately usable the presets are across genres.
 
 One frequently noted limitation: Airspace does not support loading custom impulse responses, which some users flag as a missed opportunity. Check [KVR's Airspace listing](https://www.kvraudio.com/news/modeaudio-releases-airspace---hybrid-convolution-reverb-and-stereo-delay-plugin-61829) or [Reddit's r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) for ongoing user impressions.
 

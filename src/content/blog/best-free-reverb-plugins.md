@@ -106,7 +106,7 @@ Three controls — Mix, Decay, Low Cut. EMT 140 plate reverb modeling from Sound
 A: For most production scenarios, yes. Paid reverbs typically offer more detailed control and specific character, but these free options cover the majority of reverb needs. See our guide on [free vs paid plugins](/posts/free-plugins-vs-paid-worth-upgrading/) for a deeper comparison.
 
 **Q: Which one should a beginner install first?**
-A: Valhalla Supermassive and TAL-Reverb-4. Together they cover experimental and classic reverb sounds. Both are simple to use and light on CPU.
+A: Valhalla Supermassive and TAL-Reverb-4. Together they cover experimental and classic reverb sounds. Both are simple to use.
 
 **Q: Do any of these support surround or immersive formats?**
 A: Most are stereo only. Check each plugin's documentation for surround support — it varies by developer and version.

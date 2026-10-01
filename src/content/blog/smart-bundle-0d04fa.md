@@ -42,7 +42,7 @@ All six plugins support VST2, VST3, AU, and AAX formats, and are compatible with
 
 ## What Producers Are Saying
 
-Sonible's smart:EQ has established a consistent presence in mixing discussions on KVR Audio and r/audioengineering, where it's frequently cited as a useful first-pass analytical tool — engineers use it to generate an AI-suggested EQ curve before applying their own judgment. The broader Sonible suite is regularly mentioned alongside iZotope's intelligent processing tools when producers discuss AI-assisted workflows. Community reception centers on the speed advantage for session work rather than as a replacement for manual processing.
+The broader Sonible suite is regularly mentioned alongside iZotope's intelligent processing tools when producers discuss AI-assisted workflows. Community reception centers on the speed advantage for session work rather than as a replacement for manual processing.
 
 ---
 

@@ -35,7 +35,7 @@ The SSL 4000 Series Console Bundle is an official software emulation of Solid St
 
 ## What Producers Are Saying
 
-The SSL 4000 Series has been a fixture in mixing discussions for years. On forums like KVR Audio and Reddit's [r/audioengineering](https://www.reddit.com/r/audioengineering/) and [r/WeAreTheMusicMakers](https://www.reddit.com/r/WeAreTheMusicMakers/), the SSL channel strip emulation is commonly recommended as a foundational mixing tool — particularly for producers working in rock, pop, and hip-hop. Users frequently mention the G-Bus Compressor as one of the most-reached-for bus compressors in DAW-based sessions. The general consensus positions SSL's official plugins as high-fidelity alternatives to third-party emulations from Waves or UAD, largely due to the first-party modeling.
+The SSL 4000 Series has been a fixture in mixing discussions for years. Users frequently mention the G-Bus Compressor as one of the most-reached-for bus compressors in DAW-based sessions. The general consensus positions SSL's official plugins as high-fidelity alternatives to third-party emulations from Waves or UAD, largely due to the first-party modeling.
 
 ---
 

@@ -31,7 +31,7 @@ Ampex ATR 102 Mastering Tape Recorder is a plugin that emulates the sound of a v
 
 ## What Producers Are Saying
 
-Ampex ATR 102 has been a commonly recommended plugin in discussions about mastering and analog emulation. On KVR Audio, users frequently mention its ability to add a "vintage feel" to modern recordings. It is often compared to other tape emulators for its accuracy and ease of use in both mixing and mastering contexts.
+Ampex ATR 102 has been a commonly recommended plugin in discussions about mastering and analog emulation. It is often compared to other tape emulators for its accuracy and ease of use in both mixing and mastering contexts.
 
 ## Who Is It For?
 

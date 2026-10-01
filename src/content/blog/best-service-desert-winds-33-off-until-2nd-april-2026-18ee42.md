@@ -29,7 +29,7 @@ Desert Winds is a virtual instrument library created by sample library designer 
 
 ## What Producers Are Saying
 
-Desert Winds has built a solid reputation in the world/ethnic sample library space over the years. On forums like [KVR](https://www.kvraudio.com/product/desert-winds-by-best-service) and [VI-Control](https://vi-control.net/community/threads/the-big-list-of-true-legato-solo-wind-instruments.41153/), producers commonly mention the quality of its true legato scripting and the expressiveness of the duduk patches in particular. Users frequently note it's a strong entry point for Middle Eastern winds before stepping up to the larger Ancient ERA Persia collection.
+Desert Winds has built a solid reputation in the world/ethnic sample library space over the years. Users frequently note it's a strong entry point for Middle Eastern winds before stepping up to the larger Ancient ERA Persia collection.
 
 ## Who Is It For?
 

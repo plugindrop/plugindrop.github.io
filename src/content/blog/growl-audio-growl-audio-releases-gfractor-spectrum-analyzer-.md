@@ -25,7 +25,6 @@ Check the [official product page](https://growl-audio.com/plugins/gfractor.html)
 - **Real-time frequency display** — Visualizes the frequency spectrum of your audio signal as it plays, updated in real time
 - **High-resolution analysis** — Designed to give producers a detailed, accurate view of spectral content for precise mixing decisions
 
-- **Low CPU overhead** — Spectrum analyzers are generally lightweight; confirm exact system requirements on the product page
 - **Clean visual interface** — Built for readability at a glance, so you can reference it while working without breaking your workflow
 
 ---

@@ -39,7 +39,7 @@ Speedrum BE is a sample-based drum instrument plugin developed by Apisonic Labs 
 
 - **Budget-conscious beat makers** — At $19, Speedrum BE removes the price barrier for producers who need a dedicated drum instrument without committing to a flagship sampler.
 - **Lo-fi and electronic producers** — The sample-centric architecture suits genres where drum character and texture matter as much as realism.
-- **Home studio producers** — A lightweight, focused drum instrument fits naturally into a home studio where simplicity and CPU efficiency are priorities.
+- **Home studio producers** — A focused drum instrument fits naturally into a home studio where simplicity is a priority.
 - **Producers expanding their toolkit** — Even if you already own a primary drum plugin, Speedrum BE at this price makes sense as a secondary sound source for variety.
 
 ## Pricing & Deal Details

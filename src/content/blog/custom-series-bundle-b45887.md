@@ -35,7 +35,7 @@ Slate Digital is a well-established name in the plugin world, known for emulatio
 
 ## What Producers Are Saying
 
-Slate Digital has a long-standing reputation in mixing communities. On forums like [KVR Audio](https://www.kvraudio.com/) and [Reddit's r/audioengineering](https://www.reddit.com/r/audioengineering/), Slate Digital products are commonly mentioned in threads about analog-modeled plugins and mixing chain recommendations. Producers frequently discuss the brand as a go-to for realistic hardware emulation without the hardware price tag. This particular bundle configuration may be newer or more niche — check [KVR](https://www.kvraudio.com/) or [Reddit](https://www.reddit.com/r/AudioProductionDeals/) for the latest community impressions.
+Slate Digital has a long-standing reputation in mixing communities. Producers frequently discuss the brand as a go-to for realistic hardware emulation without the hardware price tag. This particular bundle configuration may be newer or more niche — check [KVR](https://www.kvraudio.com/) or [Reddit](https://www.reddit.com/r/AudioProductionDeals/) for the latest community impressions.
 
 ---
 

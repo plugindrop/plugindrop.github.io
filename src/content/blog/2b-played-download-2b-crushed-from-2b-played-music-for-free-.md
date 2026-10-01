@@ -32,7 +32,6 @@ Free is free. When a paid plugin goes to $0 with a coupon, you grab it first and
 - **Saturation / Crushing Engine** — Core drive circuit designed to add harmonic distortion and thickness to audio signals
 - **Mix-Friendly Controls** — Gain staging and blend controls to dial in subtle warmth or aggressive clipping
 - **Broad Signal Compatibility** — Suited for use on drums, bass, synths, vocals, and full mix busses
-- **Lightweight Plugin Format** — Designed for low CPU overhead; verify exact system requirements on the product page
 - **DAW Compatibility** — Supports standard plugin formats; check the official site for your specific DAW and OS support
 
 ---

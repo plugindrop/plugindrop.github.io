@@ -38,9 +38,9 @@ Audiority doesn't run deep discounts constantly, which makes a 50% event worth p
 
 ## What Producers Are Saying
 
-Audiority has a solid reputation in boutique plugin circles. On KVR Audio forums, their modeling approach draws comparisons to other hardware-faithful developers, and their plugins are commonly recommended in discussions about vintage character effects. Reddit's r/synthesizers and r/audioengineering communities mention Audiority when topics around lo-fi, tape, and analog-textured processing come up.
+Audiority has a solid reputation in boutique plugin circles.
 
-The Space Station UM282 specifically appears in conversations about bucket-brigade and vintage delay units — typically recommended for producers who want character and color rather than pristine, transparent delay. Community discussions are still growing for some of the newer Audiority titles; check [KVR](https://www.kvraudio.com) for the most current user threads.
+The Space Station UM282 specifically appears in conversations about bucket-brigade and vintage delay units — typically recommended for producers who want character and color rather than pristine, transparent delay.
 
 ---
 

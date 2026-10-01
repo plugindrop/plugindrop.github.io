@@ -38,7 +38,7 @@ If you're weighing whether this is a buy-now situation, the practical answer dep
 
 ## What Producers Are Saying
 
-iZotope RX has held a consistent reputation on professional audio forums for years. On Gearspace and Reddit's r/audioengineering, it is routinely cited as the first recommendation for dialogue editing, podcast cleanup, and location recording repair. Users in broadcast and post-production communities commonly describe it as the default starting point when dealing with audio that can't be re-recorded. The source separation tools in recent versions have drawn increased discussion from music producers working with stems and archival recordings.
+iZotope RX has held a consistent reputation on professional audio forums for years. Users in broadcast and post-production communities commonly describe it as the default starting point when dealing with audio that can't be re-recorded. The source separation tools in recent versions have drawn increased discussion from music producers working with stems and archival recordings.
 
 ---
 

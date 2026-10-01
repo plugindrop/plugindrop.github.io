@@ -114,7 +114,7 @@ TAL-NoiseMaker is the ideal grab-and-play analog synth for producers who don't w
 - **Platforms:** Windows, macOS, Linux
 - **Formats:** VST2, VST3, AU
 
-OB-Xd models the classic Oberheim OB-X architecture with impressive accuracy, delivering the lush, detuned polyphonic character that defined '80s pop and synth-wave. Voice detune and drift controls give chords a natural, organic width that modern digital synths often miss. It's lightweight, stable, and plays beautifully with FL Studio's MIDI routing.
+OB-Xd models the classic Oberheim OB-X architecture with impressive accuracy, delivering the lush, detuned polyphonic character that defined '80s pop and synth-wave. Voice detune and drift controls give chords a natural, organic width that modern digital synths often miss. It plays well with FL Studio's MIDI routing.
 
 **Best for:** Lush chord pads, synth-wave leads, warm polyphonic textures.
 
@@ -374,7 +374,7 @@ If the free toolkit is serving you well and you're ready to invest, these three 
 |--------|-------|------|------------|-----|
 | Vital | Free | Wavetable Synth | Spectral warping, visual modulation, built-in FX | [Get It](https://vital.audio) |
 | Surge XT | Free | Multi-algorithm Synth | 12 oscillator modes, CLAP support, open source | [Get It](https://surge-synthesizer.github.io) |
-| TAL-NoiseMaker | Free | Virtual Analog Synth | Lightweight, fast, warm analog sound | [→ Get TAL-NoiseMaker](https://tal-software.com/products/tal-noisemaker) |
+| TAL-NoiseMaker | Free | Virtual Analog Synth | fast, warm analog sound | [→ Get TAL-NoiseMaker](https://tal-software.com/products/tal-noisemaker) |
 | OB-Xd | Free | Analog Poly Emulation | Oberheim-style, voice drift, lush chords | [Free Download](https://www.discodsp.com/obxd/) |
 | Dexed | Free | FM Synthesizer | DX7 compatibility, .syx patch support | [Get It](https://github.com/asb2m10/dexed/releases) |
 | Spitfire LABS | Free | Sample Instrument | 50+ instruments, studio-quality samples | [Get It](https://labs.spitfireaudio.com/) |

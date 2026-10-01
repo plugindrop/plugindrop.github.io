@@ -31,7 +31,7 @@ draft: false
 
 ## Introduction
 
-The most common mistake hip-hop producers make with plugins is overbuying. Producers responsible for some of the most-streamed hip-hop of the past decade consistently work from a tight toolkit — a capable drum sampler, one synth with real 808 design capabilities, a lofi texture plugin, and a handful of reliable mixing tools.
+The most common mistake hip-hop producers make with plugins is overbuying. A tight toolkit is enough for hip-hop — a capable drum sampler, one synth with real 808 design capabilities, a lofi texture plugin, and a handful of reliable mixing tools.
 
 Hip-hop's production landscape now spans trap, boom bap revival, phonk, melodic rap, and drill — each subgenre making different demands on your plugin chain. What unites them is unforgiving low-end: 808s and kick drums expose bad plugin choices faster than any other element. This guide prioritizes plugins that handle low-end honestly, respond naturally to MIDI velocity and pitch envelopes, and stay stable under heavy sessions.
 
@@ -200,7 +200,7 @@ Character effects separate competent hip-hop tracks from memorable ones. This se
 - **Platforms:** Windows, macOS
 - **Formats:** VST2, VST3, AU, AAX
 
-Its massive, swirling reverb algorithms — named "nebula" and "gemini" modes in developer documentation — create the atmospheric space that defines modern trap and melodic rap. It's also CPU-efficient, which matters when a full hip-hop session has multiple sample players active simultaneously.
+Its massive, swirling reverb algorithms — named "nebula" and "gemini" modes in developer documentation — create the atmospheric space that defines modern trap and melodic rap.
 
 **Best for:** Snare reverb tails, 808 spatial depth, pad atmospherics, and any element that needs space.
 
@@ -351,7 +351,7 @@ For hip-hop masters where the 808 creates predictable transient spikes, its look
 | iZotope Vinyl | Free | Character Effect | Vinyl artifact simulation, lofi texture, instant character | [Free](https://www.izotope.com/en/products/vinyl) |
 | Vital | Free | Wavetable Synth | Serum-class engine, custom wavetables, free tier | [Free](https://vital.audio/) |
 | LABS | Free | Sample Library | High-quality instrument samples, released periodically | [Free](https://labs.spitfireaudio.com) |
-| Valhalla Supermassive | Free | Reverb | Lush algorithmic reverb, CPU-efficient, universal pick | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| Valhalla Supermassive | Free | Reverb | Lush algorithmic reverb, universal pick | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Surge XT | Free | Hybrid Synth | Wavetable + FM + analog, open source, deep modulation | [Free](https://surge-synthesizer.github.io) |
 | OB-Xd | Free | Analog Synth | Oberheim emulation, warm character, vintage stabs | [Free Download](https://www.discodsp.com/obxd/) |
 | GlitchMachines Hysteresis | Free | Tape Delay | Wow/flutter/saturation, lo-fi tape character | [Free](https://glitchmachines.com/products/hysteresis/) |
@@ -380,7 +380,7 @@ A: Any wavetable synthesizer can produce 808-style bass, and Vital handles it we
 A: For sample-based programming, your DAW's built-in sampler — Ableton's Drum Rack, FL Studio's FPC — is sufficient if you have quality one-shots. For a standalone drum sampler, both Battery 4 and Addictive Drums 2 offer free trials with enough content to evaluate them. iZotope Vinyl applied to any drum bus is free and adds character that no drum plugin provides on its own.
 
 **Q: How important is bus compression for hip-hop specifically?**
-A: Bus compression is a preference, not a requirement. The SSL G-Master appears consistently in hip-hop mixing discussions because its specific glue character — the way it tightens a drum bus without killing transients at low ratios — suits the genre's dynamics. TDR Nova's free dynamic EQ covers frequency-specific compression needs for producers not yet ready to invest in dedicated bus compression.
+A: Bus compression is a preference, not a requirement. The SSL G-Master suits hip-hop because of its glue character — it tightens a drum bus without killing transients at low ratios. TDR Nova's free dynamic EQ covers frequency-specific compression needs for producers not yet ready to invest in dedicated bus compression.
 
 **Q: Can professional hip-hop be made with only free plugins?**
 A: Vital, Valhalla Supermassive, TDR Nova, iZotope Vinyl, LABS, IVGI, and LoudMax together cover synthesis, reverb, EQ, vinyl texture, sample instruments, saturation, and limiting — a complete hip-hop production and mixing toolkit at zero cost.

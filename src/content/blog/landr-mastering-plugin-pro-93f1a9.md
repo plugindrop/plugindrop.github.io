@@ -35,7 +35,7 @@ LANDR Mastering Plugin PRO is an AI-powered mastering plugin developed by LANDR,
 
 ## What Producers Are Saying
 
-LANDR has been part of the conversation around AI mastering since the early days of the format. On Reddit's r/WeAreTheMusicMakers and r/AudioProductionDeals, the brand consistently appears in threads about fast, automated mastering workflows. The general consensus pattern: producers handling large output volumes find the AI approach a practical fit; those working on complex, detail-heavy projects tend to treat it as a starting point rather than a final solution. The plugin version is frequently noted as a step up from the web-based service for producers who prefer real-time, in-DAW control.
+LANDR has been part of the conversation around AI mastering since the early days of the format. The general consensus pattern: producers handling large output volumes find the AI approach a practical fit; those working on complex, detail-heavy projects tend to treat it as a starting point rather than a final solution. The plugin version is frequently noted as a step up from the web-based service for producers who prefer real-time, in-DAW control.
 
 ---
 

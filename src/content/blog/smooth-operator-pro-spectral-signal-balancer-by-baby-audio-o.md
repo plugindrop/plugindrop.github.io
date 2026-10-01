@@ -27,7 +27,7 @@ Smooth Operator Pro is a spectral signal balancing plugin from Baby Audio, the d
 
 ## What Producers Are Saying
 
-Baby Audio has built a strong reputation in the plugin community, and Smooth Operator (both the original and Pro version) is frequently mentioned in mixing discussions as a go-to for quickly cleaning up tracks. On Reddit's r/AudioProductionDeals and KVR forums, users commonly describe it as a "set-and-forget" tool for taming resonances — particularly on vocals, guitars, and drum buses. The Pro version is generally praised for adding the surgical control that power users felt was missing from the original.
+Baby Audio has built a strong reputation in the plugin community, and Smooth Operator (both the original and Pro version) is frequently mentioned in mixing discussions as a go-to for quickly cleaning up tracks. The Pro version is generally praised for adding the surgical control that power users felt was missing from the original.
 
 ## Who Is It For?
 

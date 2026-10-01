@@ -32,7 +32,7 @@ Syntorial 2 is an interactive synthesizer training application developed by Audi
 
 ## What Producers Are Saying
 
-Syntorial has been a long-running recommendation in synthesis learning discussions. On Reddit's r/synthesizers and r/edmproduction, it's commonly cited as one of the few courses that actually builds practical sound design skills rather than just explaining concepts abstractly. KVR Audio forums have featured it in "learn synthesis" threads for years, with users frequently mentioning the ear-training approach as the standout differentiator. It's positioned as a beginner-to-intermediate tool, though producers at all levels report it filling gaps in their foundational knowledge.
+Syntorial has been a long-running recommendation in synthesis learning discussions. It's positioned as a beginner-to-intermediate tool, though producers at all levels report it filling gaps in their foundational knowledge.
 
 ---
 

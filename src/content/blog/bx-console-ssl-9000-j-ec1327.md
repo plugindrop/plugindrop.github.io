@@ -31,7 +31,7 @@ Bx_console SSL 9000 J is a channel strip plugin by Brainworx (a Plugin Alliance 
 
 ## What Producers Are Saying
 
-The bx_console series from Brainworx has built a solid reputation in mixing communities over the years. Discussions on forums like KVR and groups focused on mixing consistently cite Brainworx's console emulations as a go-to for producers chasing an SSL character without hardware costs. The TMT approach is frequently mentioned as a differentiator — users note it adds a sense of width and depth that static emulations sometimes lack.
+The bx_console series from Brainworx has built a solid reputation in mixing communities over the years. The TMT approach is frequently mentioned as a differentiator — users note it adds a sense of width and depth that static emulations sometimes lack.
 
 ---
 

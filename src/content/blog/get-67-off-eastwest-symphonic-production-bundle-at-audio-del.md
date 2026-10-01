@@ -33,7 +33,7 @@ EastWest is one of the longest-standing names in professional sample library dev
 
 ## What Producers Are Saying
 
-EastWest has been a fixture in professional orchestral sample discussions for years. On forums like KVR Audio and communities like r/composer and r/audioengineering, EastWest regularly appears alongside Spitfire Audio and Vienna Symphonic Library as a reference-tier option for media composers. Their Hollywood-series libraries in particular carry a strong reputation in post-production and broadcast scoring circles. The brand's standing in the professional community makes this bundle an easier recommendation to evaluate — it's not a speculative purchase on an unknown developer.
+EastWest has been a fixture in professional orchestral sample discussions for years. Their Hollywood-series libraries in particular carry a strong reputation in post-production and broadcast scoring circles. The brand's standing in the professional community makes this bundle an easier recommendation to evaluate — it's not a speculative purchase on an unknown developer.
 
 ## Who Is It For?
 

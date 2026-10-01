@@ -36,7 +36,7 @@ Solid State Logic is one of the most recognized names in professional audio — 
 
 ## What Producers Are Saying
 
-SSL's mix bus tools have long-standing credibility in professional circles. On forums like Gearslutz (now Gearspace) and Reddit's r/audioengineering, SSL hardware — particularly its bus compressors — is routinely cited as a reference standard. The Fusion hardware itself launched to strong coverage in pro audio press, with engineers commonly noting its transparency at low settings and character when pushed. The plugin equivalents carry that reputation directly, and SSL-branded software rarely goes unnoticed in bundle deal discussions.
+SSL's mix bus tools have long-standing credibility in professional circles. The Fusion hardware itself launched to strong coverage in pro audio press, with engineers commonly noting its transparency at low settings and character when pushed. The plugin equivalents carry that reputation directly, and SSL-branded software rarely goes unnoticed in bundle deal discussions.
 
 ---
 

@@ -39,7 +39,7 @@ WAVESTATION is Korg's official software recreation of the original WAVESTATION h
 
 ## What Producers Are Saying
 
-WAVESTATION has long-standing credibility in sound design and ambient production circles. On forums like KVR Audio, it's consistently cited as one of the most distinctive-sounding soft synths available — specifically for its wave sequencing capabilities, which remain rare even among modern instruments. Producers working in ambient, cinematic, and retro electronic genres frequently mention it as a go-to for pads that feel genuinely alive rather than static. It's one of those tools that shows up in "desert island plugin" lists regularly.
+WAVESTATION has long-standing credibility in sound design and ambient production circles. Producers working in ambient, cinematic, and retro electronic genres frequently mention it as a go-to for pads that feel genuinely alive rather than static. It's one of those tools that shows up in "desert island plugin" lists regularly.
 
 ---
 

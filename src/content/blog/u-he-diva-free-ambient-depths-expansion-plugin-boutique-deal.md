@@ -38,7 +38,7 @@ u-he Diva is one of the most respected analog-modeled synthesizers in the plugin
 
 ## What Producers Are Saying
 
-Diva has been a long-standing recommendation on synthesis forums like KVR and communities such as Reddit's r/synthesizers and r/edmproduction — users frequently describe it as one of the most convincing analog-sounding software synthesizers available. Free preset expansions for established synths tend to generate quick uptake in deal-focused communities like r/AudioProductionDeals. This particular expansion appears to be a relatively recent or niche release — community discussion is still building. Check [KVR Audio](https://www.kvraudio.com) or [Reddit r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) for early user impressions.
+Free preset expansions for established synths tend to generate quick uptake in deal-focused communities like r/AudioProductionDeals. This particular expansion appears to be a relatively recent or niche release — community discussion is still building. Check [KVR Audio](https://www.kvraudio.com) or [Reddit r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) for early user impressions.
 
 ---
 

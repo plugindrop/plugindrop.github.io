@@ -36,7 +36,7 @@ ENGL is a German boutique amplifier brand with a decades-long reputation in the 
 
 ## What Producers Are Saying
 
-ENGL as a brand carries significant weight in guitar-focused production communities, and the Ampthology series tends to come up in discussions about amp sims that prioritize authenticity over breadth. On forums like KVR Audio and threads in r/guitarlessons and r/audioengineering, ENGL amp simulators are commonly mentioned alongside other high-gain focused tools when producers are specifically chasing that tight European metal tone. The "officially licensed" angle is frequently cited as a meaningful differentiator over unlicensed clones. Community discussion is still growing for this specific volume — check [KVR Audio](https://www.kvraudio.com/) or [r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) for current impressions.
+ENGL as a brand carries significant weight in guitar-focused production communities, and the Ampthology series tends to come up in discussions about amp sims that prioritize authenticity over breadth. The "officially licensed" angle is frequently cited as a meaningful differentiator over unlicensed clones. Community discussion is still growing for this specific volume — check [KVR Audio](https://www.kvraudio.com/) or [r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) for current impressions.
 
 ---
 

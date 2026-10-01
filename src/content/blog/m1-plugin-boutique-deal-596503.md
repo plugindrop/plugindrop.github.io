@@ -32,7 +32,7 @@ The Korg M1 is a software recreation of the iconic 1988 Korg M1 workstation synt
 
 ## What Producers Are Saying
 
-The Korg M1 plugin has been a long-standing recommendation in vintage synthesis discussions across KVR Audio forums and Reddit's r/synthesizers. Producers commonly reference the M1 Piano as an irreplaceable sound — it appears in discussions about classic house, Lo-fi, and cinematic production regularly. On production communities, it's frequently cited as essential for anyone working in retro-influenced genres or seeking that distinctly late-80s harmonic texture.
+The Korg M1 plugin has been a long-standing recommendation in vintage synthesis discussions across KVR Audio forums and Reddit's r/synthesizers. Producers commonly reference the M1 Piano as an irreplaceable sound — it appears in discussions about classic house, Lo-fi, and cinematic production regularly.
 
 ---
 
@@ -77,7 +77,7 @@ A: Based on available product information, it is a perpetual license purchase �
 A: It supports VST, AU, and AAX formats, covering the major DAWs including Ableton Live, Logic Pro, Pro Tools, and Cubase. Check the product page for the full compatibility list and system requirements.
 
 **Q: Does the plugin sound identical to the original hardware?**
-A: The plugin uses the same waveform data and synthesis architecture as the original M1 hardware, aiming for faithful recreation. Community discussions on KVR Audio frequently describe it as highly accurate to the source hardware.
+A: The plugin uses the same waveform data and synthesis architecture as the original M1 hardware, aiming for faithful recreation.
 
 ---
 

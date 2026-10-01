@@ -44,7 +44,7 @@ Neutron 5 is iZotope's flagship AI-assisted channel strip plugin, built for mixi
 
 ## What Producers Are Saying
 
-Neutron has been a recurring recommendation in mixing communities for several years. On forums like Gearslutz (now Gearspace) and Reddit's r/mixingmastering, it's frequently cited as a practical shortcut for producers who need professional results without a deep mixing background. The AI-assisted features in particular get consistent mentions as genuinely useful starting points — not just gimmicks — especially for home studio producers mixing their own material. Community sentiment tends to position it as complementary to manual mixing rather than a replacement for it.
+Neutron has been a recurring recommendation in mixing communities for several years. The AI-assisted features in particular get consistent mentions as genuinely useful starting points — not just gimmicks — especially for home studio producers mixing their own material. Community sentiment tends to position it as complementary to manual mixing rather than a replacement for it.
 
 ---
 

@@ -34,7 +34,7 @@ The four titles in the Quadra lineup are:
 
 ## What Producers Are Saying
 
-The Quadra series has built a steady following among sound designers and composers who value its layered, multi-timbral approach. On forums like KVR and VI-Control, producers commonly mention Quadra as a go-to for quickly generating textured, evolving parts without reaching for multiple plugins. Users frequently highlight the built-in sequencer as a standout feature for sparking creative ideas fast.
+The Quadra series has built a steady following among sound designers and composers who value its layered, multi-timbral approach. Users frequently highlight the built-in sequencer as a standout feature for sparking creative ideas fast.
 
 ## Who Is It For?
 

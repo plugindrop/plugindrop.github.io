@@ -269,7 +269,7 @@ Una Corda is NI's one-string-per-note experimental piano, developed in collabora
 
 - **Developer:** Arturia
 - **Price:** ~$99
-- **Why upgrade:** Piano One delivers one static acoustic grand character with limited pedal modeling and fixed release samples. Arturia Piano V3 delivers a full suite of historically modeled instruments — concert grands, uprights, and tack-piano treatments — with a physics engine that responds to pedaling and dynamics far more convincingly than Piano One's fixed velocity layers. Producers who use Piano One for demos consistently report that Piano V3 handles slow, expressive passages in a way that Piano One noticeably cannot.
+- **Why upgrade:** Piano One delivers one static acoustic grand character with limited pedal modeling and fixed release samples. Arturia Piano V3 delivers a full suite of historically modeled instruments — concert grands, uprights, and tack-piano treatments — with a physics engine that responds to pedaling and dynamics far more convincingly than Piano One's fixed velocity layers. Arturia Piano V3 is aimed at slow, expressive passages where a simpler library may fall short.
 
 [→ Get Arturia Piano V3 (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10611-Piano-V3?a_aid=69cb95abe1763&chan=art&data1=best-piano-vst-plugins)
 
@@ -350,7 +350,7 @@ A: Most support VST3, AU, and AAX — covering Ableton Live, Logic Pro, FL Studi
 A: A felt piano is a standard grand or upright with felt strips inserted between hammers and strings, creating a dry, muted, intimate tone — the same mechanism used for acoustic "silent practice." A toy piano is a physically separate, smaller instrument with metal tines or rods in place of strings, producing a thinner, more metallic, high-register character. Una Corda bridges both categories through prepared-piano recording rather than either pure technique.
 
 **Q: How much CPU and RAM do piano libraries need?**
-A: It splits by engine. Large sampled libraries like Keyscape (70GB-plus) rely on disk streaming and benefit from an SSD plus 16GB of RAM or more, though they stay light on CPU once loaded. Modeled instruments like Pianoteq 8 install in under 100MB and use almost no RAM but lean on the CPU for real-time synthesis. A single piano instance is typically light; the strain appears when you stack many sampled instruments in one project.
+A: It splits by engine. Large sampled libraries like Keyscape (70GB-plus) rely on disk streaming and benefit from an SSD plus 16GB of RAM or more. Modeled instruments like Pianoteq 8 install in under 100MB and use almost no RAM but lean on the CPU for real-time synthesis. A single piano instance is typically light; the strain appears when you stack many sampled instruments in one project.
 
 **Q: Do I need an expensive MIDI controller to get the most from these plugins?**
 A: Velocity sensitivity is the only essential feature for all twelve plugins on this list. Any MIDI keyboard with velocity-sensitive keys works. Aftertouch is used by some Pianoteq and Keyscape articulations but is not required for standard piano playing.

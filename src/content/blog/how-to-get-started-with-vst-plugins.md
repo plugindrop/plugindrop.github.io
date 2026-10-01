@@ -154,7 +154,7 @@ The free stack above covers a complete production workflow. These paid upgrades 
 | Vital | Free | Wavetable Synth | Drag-and-drop modulation, spectral warping, 75 presets | [Download Free (Plugin Boutique)](https://vital.audio/) |
 | Surge XT | Free | Hybrid Synth | 2,800+ presets, multi-synthesis engine, microtonal tuning | [Download Free](https://surge-synthesizer.github.io/) |
 | TDR Nova | Free | Dynamic EQ | 4-band parametric, per-band dynamics, linear phase | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
-| Valhalla Supermassive | Free | Reverb / Delay | 23 modes, infinite decay, low CPU overhead | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| Valhalla Supermassive | Free | Reverb / Delay | 23 modes, infinite decay | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Serum 2 | $189 | Wavetable Synth | Largest third-party preset ecosystem, advanced wavetable editor | [Official Site](https://xferrecords.com/products/serum-2) |
 | FabFilter Pro-Q 4 | $179 | EQ | Natural phase, collision detection, M/S, mastering precision | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-get-started-with-vst-plugins) |
 

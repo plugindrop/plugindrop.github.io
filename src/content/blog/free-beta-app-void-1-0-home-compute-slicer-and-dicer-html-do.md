@@ -16,7 +16,7 @@ draft: true
 
 VOID 1.0 is a free beta-stage audio tool built around slicing and dicing audio on your home computer. What makes it immediately interesting is the delivery format: it ships as a downloadable `.html` file, meaning it runs directly in your browser without a traditional installer. No DAW required to launch it, no account creation, no activation server. Just download, open, and go.
 
-The developer shared the beta via Reddit's r/edmproduction community, positioning it as a lightweight, accessible option for producers who want fast audio manipulation without the overhead of full-featured plugins.
+The developer shared the beta via Reddit's r/edmproduction community, positioning it as an accessible option for producers who want fast audio manipulation without the overhead of full-featured plugins.
 
 ---
 
@@ -32,7 +32,7 @@ The developer shared the beta via Reddit's r/edmproduction community, positionin
 
 ## What Producers Are Saying
 
-VOID 1.0 is a brand-new beta release from an independent developer. Community discussions are still building. Check [r/edmproduction](https://www.reddit.com/r/edmproduction/) or [KVR Audio](https://www.kvraudio.com/) for early impressions as the community explores the tool. Given the unconventional HTML-based format, early threads are likely to focus on compatibility and workflow integration questions.
+VOID 1.0 is a brand-new beta release from an independent developer. Check [r/edmproduction](https://www.reddit.com/r/edmproduction/) or [KVR Audio](https://www.kvraudio.com/) for early impressions as the community explores the tool. Given the unconventional HTML-based format, early threads are likely to focus on compatibility and workflow integration questions.
 
 ---
 
@@ -40,7 +40,7 @@ VOID 1.0 is a brand-new beta release from an independent developer. Community di
 
 - **Beat makers and sample choppers** — the slicer/dicer feature set is directly aimed at chopping breaks and rearranging audio loops
 - **Producers without plugin budgets** — free beta access removes any financial barrier to entry
-- **Experimental and lo-fi producers** — the lightweight, browser-based nature suits producers who prefer minimal-setup tools alongside their main DAW
+- **Experimental and lo-fi producers** — the browser-based nature suits producers who prefer minimal-setup tools alongside their main DAW
 - **Developers and power users** — the HTML format means technically inclined users can inspect and potentially modify the tool's behavior
 
 ---

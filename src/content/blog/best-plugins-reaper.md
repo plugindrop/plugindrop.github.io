@@ -83,7 +83,7 @@ Developer documentation is detailed: three oscillators per voice with selectable
 - **Platforms:** Windows, macOS, Linux
 - **Formats:** VST3, AU, AAX
 
-OB-Xd emulates the Oberheim OB-X architecture. discoDSP's documentation describes the voice implementation as based on the analog circuit behavior of the original hardware, including the filter nonlinearities responsible for the warmth and width that made original Oberheim keyboards sought-after. It is CPU-light enough that stacking multiple instances in Reaper for layered, detuned patches is practical without performance issues.
+OB-Xd emulates the Oberheim OB-X architecture. discoDSP's documentation describes the voice implementation as based on the analog circuit behavior of the original hardware, including the filter nonlinearities responsible for the warmth and width that made original Oberheim keyboards sought-after.
 
 **Best for:** Vintage pads, lush filter sweeps, analog-character leads and brass
 
@@ -208,7 +208,7 @@ TAL-Reverb-4 offers a minimal control set — room size, pre-delay, high and low
 - **Platforms:** Windows
 - **Formats:** VST2
 
-Cockos publishes the Reaper built-in plugin suite as a standalone free download for Windows hosts. The package includes ReaComp, ReaGate, ReaEQ, ReaDelay, ReaVerbate, and several additional processors — the same DSP engines that ship inside Reaper itself. ReaEQ is the standout: a fully parametric equalizer with an unlimited band count, every standard filter type, and CPU efficiency that holds under heavy use. For Windows-based Reaper users, ReaPlugs provides a reliable, well-documented baseline processing suite that will never have compatibility issues with the host.
+Cockos publishes the Reaper built-in plugin suite as a standalone free download for Windows hosts. The package includes ReaComp, ReaGate, ReaEQ, ReaDelay, ReaVerbate, and several additional processors — the same DSP engines that ship inside Reaper itself. ReaEQ is the standout: a fully parametric equalizer with an unlimited band count, every standard filter type. For Windows-based Reaper users, ReaPlugs provides a reliable, well-documented baseline processing suite that will never have compatibility issues with the host.
 
 **Best for:** Windows producers building a reliable zero-cost mixing toolkit; Reaper-native processing reference
 

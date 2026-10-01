@@ -140,7 +140,7 @@ MEqualizer is part of MeldaProduction's free MFreeFXBundle and offers six fully 
 
 The honest limitation: no dynamic EQ and no analog color — it does clean static shaping and nothing else.
 
-**Best for:** Beginners and producers who need a lightweight, reliable parametric EQ for quick static shaping on any track.
+**Best for:** Beginners and producers who need a reliable parametric EQ for quick static shaping on any track.
 
 [→ Download MEqualizer Free](https://www.meldaproduction.com/MEqualizer)
 
@@ -236,7 +236,7 @@ The honest limitation: it colors by design, so it's the wrong pick when you need
 | TDR Nova | Free | Dynamic Parametric | 4 bands dynamic/static, wideband dynamics, analyzer | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | TDR VOS SlickEQ GE | Free | Analog Parametric | 3 EQ models, HPF, saturation stage | [Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/) |
 | Voxengo Marvel GEQ | Free | Graphic (Linear Phase) | 16-band linear phase, M/S support, spectrum display | [Free Download](https://www.voxengo.com/product/marvelgeq/) |
-| MEqualizer | Free | Parametric | 6 bands, spectrum analyzer, low CPU, fast workflow | [Free Download](https://www.meldaproduction.com/MEqualizer) |
+| MEqualizer | Free | Parametric | 6 bands, spectrum analyzer, fast workflow | [Free Download](https://www.meldaproduction.com/MEqualizer) |
 | Ignite Amps PTEq-X | Free | Pultec Passive Emulation | EQP-1A + MEQ-5 circuits, passive boost/cut behavior | [Free Download](https://www.igniteamps.com/) |
 | Slate Digital Fresh Air | Free | High-Freq Enhancer | Presence + Air bands, vocal-optimized | [Free Download](https://slatedigital.com/free-plugins/) |
 | iZotope Neutron | $99–$249 | AI Channel Strip | Track Assistant, Masking Meter, dynamic EQ | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=best-eq-plugins-2026) |

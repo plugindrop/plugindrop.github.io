@@ -34,7 +34,7 @@ Halo Vision is a 3D audio metering and monitoring plugin from NUGEN Audio, a UK-
 
 ## What Producers Are Saying
 
-Halo Vision sits in a specialized corner of the plugin market — it's a professional metering tool aimed at immersive audio engineers rather than the broader beatmaker crowd. On forums like [KVR Audio](https://www.kvraudio.com), it tends to come up in threads about Dolby Atmos mixing and broadcast delivery pipelines. It's not the type of plugin that generates mass hype on r/AudioProductionDeals, but among engineers working in 3D audio, NUGEN's metering tools are commonly referenced as workhorses. Community discussions around this specific update are still building — check [KVR](https://www.kvraudio.com) for early impressions from users who've dug into the new features.
+Halo Vision sits in a specialized corner of the plugin market — it's a professional metering tool aimed at immersive audio engineers rather than the broader beatmaker crowd. It's not the type of plugin that generates mass hype on r/AudioProductionDeals, but among engineers working in 3D audio, NUGEN's metering tools are commonly referenced as workhorses.
 
 ---
 

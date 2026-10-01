@@ -34,7 +34,7 @@ The FG-116 Blue Series is Slate Digital's software emulation of the iconic FET-b
 
 ## What Producers Are Saying
 
-The FG-116 Blue is frequently mentioned in mixing and production communities as a go-to 1176-style option within the VMR ecosystem. On forums like [KVR Audio](https://www.kvraudio.com/) and threads on [r/audioengineering](https://www.reddit.com/r/audioengineering/), Slate Digital's FET compressors are commonly brought up when discussing affordable analog-modeled compression. Users generally describe the VMR compressor lineup as solid performers for drums, bass, and vocals — the Blue variant in particular tends to get flagged for its aggressive transient character.
+The FG-116 Blue is frequently mentioned in mixing and production communities as a go-to 1176-style option within the VMR ecosystem. Users generally describe the VMR compressor lineup as solid performers for drums, bass, and vocals — the Blue variant in particular tends to get flagged for its aggressive transient character.
 
 ---
 

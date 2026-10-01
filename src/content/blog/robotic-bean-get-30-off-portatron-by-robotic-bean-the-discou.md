@@ -33,7 +33,7 @@ Portatron is a virtual instrument by Robotic Bean that emulates the experience o
 
 ## What Producers Are Saying
 
-Portatron occupies a specific niche — it's not trying to be an all-purpose sampler. On the [KVR Audio forums](https://www.kvraudio.com/forum/viewtopic.php?t=579375), users describe it as a "fascinating" tool for cassette-style looping and texture work. Some have noted it's monophonic (you can layer four sounds, but can't play chords), which is by design for that authentic tape-machine feel. Discussions on [Reddit's r/newplugindeals](https://www.reddit.com/r/newplugindeals/) surface when sales like this one hit — worth checking those threads for real-world impressions.
+Portatron occupies a specific niche — it's not trying to be an all-purpose sampler. Some have noted it's monophonic (you can layer four sounds, but can't play chords), which is by design for that authentic tape-machine feel.
 
 ## Who Is It For?
 

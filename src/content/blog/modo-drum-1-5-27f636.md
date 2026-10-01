@@ -36,7 +36,7 @@ MODO DRUM is a virtual acoustic drum instrument from IK Multimedia built on phys
 
 ## What Producers Are Saying
 
-MODO DRUM comes up frequently in producer discussions as IK Multimedia's answer to sample-based drum libraries like Superior Drummer or Addictive Drums. On forums and subreddits like r/WeAreTheMusicMakers and r/edmproduction, it's commonly mentioned as a lighter-weight alternative for producers who want tunable, non-sampled acoustic drums without managing large sample libraries. Community sentiment generally frames it as a niche but capable tool rather than a universal drum-library replacement.
+MODO DRUM comes up frequently in producer discussions as IK Multimedia's answer to sample-based drum libraries like Superior Drummer or Addictive Drums. Community sentiment generally frames it as a niche but capable tool rather than a universal drum-library replacement.
 
 ## Who Is It For?
 

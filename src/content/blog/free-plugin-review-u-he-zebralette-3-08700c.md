@@ -32,7 +32,7 @@ u-he Zebralette 3 is a free synthesizer plugin from u-he, the German developer b
 
 ## What Producers Are Saying
 
-Zebralette has been a staple recommendation on KVR Audio forums for years, consistently cited as one of the best free synths available regardless of price. On Reddit's r/synthesizers and r/edmproduction, users frequently mention it as a go-to starter synth that punches well above its $0 price tag. It's commonly recommended in "best free plugins" threads as proof that free doesn't mean low quality — the u-he name carries serious credibility in those communities.
+It's commonly recommended in "best free plugins" threads as proof that free doesn't mean low quality — the u-he name carries serious credibility in those communities.
 
 ---
 

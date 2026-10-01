@@ -31,7 +31,7 @@ The Very Loud Indeed Co. is a UK-based developer specializing in cinematic sound
 
 ## What Producers Are Saying
 
-The Very Loud Indeed Co. has a dedicated following in the film scoring and sound design community. On forums like VI-Control and KVR, users commonly mention the quality of their Kontakt textures for dark, cinematic work — particularly the Outland and SHIFT series. Their tools are frequently recommended in discussions about atmospheric scoring on a budget. Check [KVR](https://www.kvraudio.com/developer/the-very-loud-indeed-co) or [VI-Control](https://vi-control.net/) for community impressions.
+The Very Loud Indeed Co. has a dedicated following in the film scoring and sound design community. Their tools are frequently recommended in discussions about atmospheric scoring on a budget. Check [KVR](https://www.kvraudio.com/developer/the-very-loud-indeed-co) or [VI-Control](https://vi-control.net/) for community impressions.
 
 ## Who Is It For?
 

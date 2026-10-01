@@ -53,7 +53,7 @@ Applied Acoustics Systems is a Canadian developer that has been a leading name i
 
 ## What Producers Are Saying
 
-AAS has built a loyal following in the physical modeling space over the years. On KVR Audio forums, Chromaphone and String Studio are frequently highlighted as standout instruments for their unique timbral range — users commonly describe Chromaphone as one of the most versatile synths in its class. Lounge Lizard remains a go-to recommendation in electric piano discussions for its dynamic response. Some users note that the modeled approach yields a more organic, playable feel compared to sample libraries. Community discussion threads can be found on [KVR Audio](https://www.kvraudio.com/developer/applied-acoustics-systems) and Reddit's [r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/).
+AAS has built a loyal following in the physical modeling space over the years. Lounge Lizard remains a go-to recommendation in electric piano discussions for its dynamic response. Some users note that the modeled approach yields a more organic, playable feel compared to sample libraries. Community discussion threads can be found on [KVR Audio](https://www.kvraudio.com/developer/applied-acoustics-systems) and Reddit's [r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/).
 
 ## Who Is It For?
 

@@ -33,7 +33,7 @@ Leapwing Audio is a Belgian plugin developer founded in 2015 by Robin, Jeroen, a
 
 ## What Producers Are Saying
 
-Leapwing Audio has built a strong reputation in professional mixing and mastering circles. On KVR forums, users frequently seek out Leapwing licenses in buy/sell threads — a reliable sign of demand. StageOne in particular comes up in stereo imaging discussions, with users on KVR noting it compared favorably to competitors like iZotope Ozone's imaging tools. The brand is more niche than mass-market names like FabFilter or iZotope, so deep community threads are less common. Check [KVR's Leapwing developer page](https://www.kvraudio.com/developer/leapwing-audio) for the latest discussions and user impressions.
+Leapwing Audio has built a strong reputation in professional mixing and mastering circles. StageOne in particular comes up in stereo imaging discussions, with users on KVR noting it compared favorably to competitors like iZotope Ozone's imaging tools. The brand is more niche than mass-market names like FabFilter or iZotope, so deep community threads are less common. Check [KVR's Leapwing developer page](https://www.kvraudio.com/developer/leapwing-audio) for the latest discussions and user impressions.
 
 ## Who Is It For?
 

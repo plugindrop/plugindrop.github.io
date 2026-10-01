@@ -53,7 +53,7 @@ It is particularly relevant for producers who start with chords and want to turn
 
 - **Keyboard-based creators:** Bind to Keyboard can map chord playback to a MIDI keyboard for one-finger chords, melodies, and arpeggios.
 
-Users who only need a basic chord chart or a lightweight MIDI utility may not need Scaler 3’s standalone workflow, multi-lane arrangement tools, or internal sound set. Check the product page for full compatibility details before buying.
+Users who only need a basic chord chart or a basic MIDI utility may not need Scaler 3’s standalone workflow, multi-lane arrangement tools, or internal sound set. Check the product page for full compatibility details before buying.
 
 ## Pricing & Deal Details
 

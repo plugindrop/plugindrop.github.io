@@ -226,7 +226,7 @@ Supermassive is ValhallaDSP's free release featuring large, diffuse reverb and d
 | FabFilter Pro-DS | €99 | De-Esser | Wideband + dynamic modes, audition solo, lookahead | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
 | Soundtoys Decapitator | $149 | Saturation | 5 analog-modeled modes, Punish, Mix knob | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
 | Valhalla VintageVerb | $50 | Reverb | 18 algorithms, 3 color modes, pure algorithmic | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
-| Valhalla Supermassive | Free | Reverb/Delay | Massive diffuse tails, free, low CPU | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
+| Valhalla Supermassive | Free | Reverb/Delay | Massive diffuse tails, free | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
 
 ## How to Choose
 

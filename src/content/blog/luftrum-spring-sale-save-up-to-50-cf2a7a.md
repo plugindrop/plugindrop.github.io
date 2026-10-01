@@ -32,7 +32,7 @@ Luftrum is a boutique sound design studio known for crafting premium preset libr
 
 ## What Producers Are Saying
 
-Luftrum has a loyal following in the ambient and cinematic production community. On KVR forums, producers frequently mention the quality and playability of the presets, particularly for pad-heavy and evolving textures. Discussions on VI-Control highlight Lunaris and Bioscape as go-to tools for soundtrack work. This is a niche brand, so massive Reddit threads are rare — check [KVR](https://www.kvraudio.com/) or [VI-Control](https://vi-control.net/) for the most active user impressions.
+Luftrum has a loyal following in the ambient and cinematic production community. Discussions on VI-Control highlight Lunaris and Bioscape as go-to tools for soundtrack work. This is a niche brand, so massive Reddit threads are rare — check [KVR](https://www.kvraudio.com/) or [VI-Control](https://vi-control.net/) for the most active user impressions.
 
 ## Who Is It For?
 

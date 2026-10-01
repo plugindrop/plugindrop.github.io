@@ -34,7 +34,7 @@ Sonora Cinematic is a UK-based sample library developer focused on cinematic, am
 
 ## What Producers Are Saying
 
-Sonora Cinematic is a smaller, boutique developer — they don't have the massive forum footprint of a Spitfire or Native Instruments. That said, reviewers on [KVR Audio](https://www.kvraudio.com/developer/sonora-cinematic) have been consistently positive, with users noting they've "never given Sonora less than five stars" and describing the libraries as delivering excellent quality and usable sounds. Discussions also pop up on [VI-Control](https://vi-control.net/community/threads/sonora-cinematic-spring-sale-kontakt-and-soundbox-instruments.171273/), where composers share impressions of specific titles. For a niche developer, the reception has been strong — but if you want more firsthand takes, check those threads before buying.
+Sonora Cinematic is a smaller, boutique developer — they don't have the massive forum footprint of a Spitfire or Native Instruments. That said, reviewers on [KVR Audio](https://www.kvraudio.com/developer/sonora-cinematic) have been consistently positive, with users noting they've "never given Sonora less than five stars" and describing the libraries as delivering excellent quality and usable sounds. For a niche developer, the reception has been strong — but if you want more firsthand takes, check those threads before buying.
 
 ## Who Is It For?
 

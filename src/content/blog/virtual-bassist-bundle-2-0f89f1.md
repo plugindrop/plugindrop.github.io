@@ -35,7 +35,7 @@ Virtual Bassist Bundle 2 is a collection of bass instrument plugins from UJAM, t
 
 ## What Producers Are Saying
 
-UJAM's Virtual Bassist line has built a consistent reputation in production communities for its low barrier to professional-sounding results. On forums like Gearslutz (now Gearspace) and Reddit's r/audioProductionDeals, the series is regularly cited by producers who work fast or solo and need convincing bass without tracking a real player. The common throughline in community discussions is that the phrase-triggering approach removes the need for bass programming knowledge while still producing parts that sit well in a mix.
+UJAM's Virtual Bassist line has built a consistent reputation in production communities for its low barrier to professional-sounding results. The common throughline in community discussions is that the phrase-triggering approach removes the need for bass programming knowledge while still producing parts that sit well in a mix.
 
 ---
 

@@ -63,7 +63,7 @@ A 98% discount is well outside the standard discount range for Kirk Hunter Studi
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Spitfire LABS Strings | Free | Single lightweight patches, not a full production ensemble library |
+| Spitfire LABS Strings | Free | Single patches, not a full production ensemble library |
 | Spitfire Chamber Strings | ~$299 | Smaller ensemble focus with multiple mic position blending |
 | 8Dio Adagio Strings | Varies | Cinematic, heavily processed aesthetic versus natural hall sound |
 

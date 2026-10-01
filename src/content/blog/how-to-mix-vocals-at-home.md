@@ -12,7 +12,7 @@ heroImage: "/images/how-to-mix-vocals-at-home.jpg"
 draft: false
 ---
 
-**TL;DR:** Learning how to mix vocals at home in 2026 doesn't require an expensive plugin budget — TDR Nova and Valhalla Supermassive cover EQ and reverb at professional quality for free. If you want a single tool that handles the entire chain intelligently, iZotope Nectar 4 is the community's consistent recommendation for AI-assisted vocal production.
+**TL;DR:** Learning how to mix vocals at home in 2026 doesn't require an expensive plugin budget — TDR Nova and Valhalla Supermassive cover EQ and reverb at professional quality for free. If you want a single tool that handles the entire chain intelligently, iZotope Nectar 4 is an AI-assisted vocal production tool.
 
 ## Quick Picks at a Glance
 
@@ -28,7 +28,7 @@ draft: false
 
 ## Introduction
 
-The single biggest misconception about mixing vocals at home in 2026 is that your quality ceiling is set by your plugin budget. KVR Audio forums and r/edmproduction threads reach the same conclusion repeatedly: TDR Nova, a free dynamic EQ, competes directly with paid parametric EQs costing hundreds of dollars. Valhalla Supermassive — also free — gets recommended by working engineers without caveat. These free tools aren't stepping stones; for many producers, they're the permanent destination.
+The single biggest misconception about mixing vocals at home in 2026 is that your quality ceiling is set by your plugin budget. TDR Nova is a free dynamic EQ with the same core function as paid parametric EQs. Valhalla Supermassive is also free. These free tools aren't stepping stones; for many producers, they're the permanent destination.
 
 That said, there are real scenarios where paid plugins close the gap faster: pitch correction with minimal latency, AI-assisted processing when you're mixing your own vocals and lack objectivity, and saturation character that free tools genuinely can't replicate. This guide will tell you exactly when free is enough and when it isn't — so you can make a purchase decision, not just a list.
 
@@ -60,7 +60,7 @@ Logic's Flex Pitch, Melodyne Essential (bundled with many DAWs), and Ableton's a
 
 **Mixing in real-time: Waves Tune Real-Time (~$29 on sale)**
 
-Waves Tune Real-Time consistently sells for $29–49 during Waves' frequent promotions (which run most months). At that price, it's the easiest pitch correction recommendation for home producers — low latency, simple interface, effective for both subtle and obvious correction. Don't pay the $99 list price; see when Waves plugins go on sale →.
+Waves Tune Real-Time consistently sells for $29–49 during Waves' frequent promotions (which run frequently). At that price, it's the easiest pitch correction recommendation for home producers — low latency, simple interface, effective for both subtle and obvious correction. Don't pay the $99 list price; see when Waves plugins go on sale →.
 
 **Antares Auto-Tune Pro X (~$399 list, ~$149 on sale)**
 

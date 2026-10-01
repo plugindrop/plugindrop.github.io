@@ -30,7 +30,7 @@ Martinic is a developer specializing in high-fidelity emulations of vintage elec
 
 ## What Producers Are Saying
 
-Martinic occupies a niche space in the plugin world — they're not a household name like Arturia or u-he, but producers who discover them tend to appreciate the modeling accuracy. On KVR Audio's product pages, the AX73 carries positive user ratings, with users commonly mentioning its authentic analog character. Community discussions are more scattered than centralized — check the [KVR Forums](https://www.kvraudio.com/forum/) or Reddit's r/AudioProductionDeals for impressions from users who've picked up Martinic plugins during previous sales.
+Martinic occupies a niche space in the plugin world — they're not a household name like Arturia or u-he, but producers who discover them tend to appreciate the modeling accuracy.
 
 ## Who Is It For?
 

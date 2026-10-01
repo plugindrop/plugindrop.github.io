@@ -107,7 +107,7 @@ Analog Obsession's CHANNELSTRIP packs a high-pass filter, EQ, and compressor int
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
-MJUC jr is a stripped-down version of Klanghelm's acclaimed MJUC vari-mu compressor, and it adds a distinctive vintage tube character that sits beautifully on lead vocals. Gain reduction is smooth and organic — it never sounds mechanical or pumping. Even with its simplified controls, it consistently produces the kind of "finished" vocal compression that engineers pay serious money for in hardware.
+MJUC jr is a stripped-down version of Klanghelm's acclaimed MJUC vari-mu compressor, and it adds a distinctive vintage tube character that sits beautifully on lead vocals. Gain reduction is smooth and organic — it never sounds mechanical or pumping. Its simplified controls make vocal compression quick to set up.
 
 **Best for:** Adding vintage warmth and transparent glue to lead vocal tracks.
 
@@ -186,7 +186,7 @@ TDR SlickEQ is a three-band mixing EQ with a saturation mode that gives it a mus
 - **Platforms:** Windows, macOS, Linux
 - **Formats:** VST, VST3, AU, AAX
 
-TAL-Reverb-4 models a vintage plate reverb with pre-delay, a high-pass filter on the reverb return, and an envelope follower that lets the tail duck in response to the dry signal. The result is a lush, diffused tail that sits behind vocals rather than drowning them. It's been a staple in free plugin roundups for years because it consistently sounds good on almost anything routed through it, and the ducking control keeps a busy mix intelligible.
+TAL-Reverb-4 models a vintage plate reverb with pre-delay, a high-pass filter on the reverb return, and an envelope follower that lets the tail duck in response to the dry signal. The result is a lush, diffused tail that sits behind vocals rather than drowning them. The ducking control keeps a busy mix intelligible.
 
 **Best for:** Warm, vintage-inspired vocal reverb that doesn't obscure the lead vocal.
 

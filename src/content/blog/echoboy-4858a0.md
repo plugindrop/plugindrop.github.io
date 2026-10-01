@@ -36,7 +36,7 @@ EchoBoy is a delay and echo plugin developed by Soundtoys. It models the charact
 
 ## What Producers Are Saying
 
-EchoBoy has been a fixture in professional production discussions for well over a decade. On forums like GearSpace and Reddit's r/mixingmastering, it's consistently named alongside Valhalla DSP tools as one of the delay plugins worth paying for. Users frequently cite its saturation character as the differentiator — the ability to add tape grit directly in the delay path rather than chaining a separate saturator. In discussions about "essential Soundtoys plugins," EchoBoy is routinely the first name mentioned.
+EchoBoy has been a fixture in professional production discussions for well over a decade. Users frequently cite its saturation character as the differentiator — the ability to add tape grit directly in the delay path rather than chaining a separate saturator. In discussions about "essential Soundtoys plugins," EchoBoy is routinely the first name mentioned.
 
 ---
 

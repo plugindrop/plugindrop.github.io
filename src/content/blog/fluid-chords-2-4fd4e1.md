@@ -58,7 +58,7 @@ Plugin Boutique regularly runs promotions across its Studio Tools and Music Theo
 | Scaler 2 (Plugini Bakery/Plugin Boutique listing varies) | Check product page | Broader music theory suite including melody and audio-to-MIDI detection |
 | Captain Chords (Mixed In Key) | Check product page | Progression pattern library with genre-based presets |
 
-If you specifically want a lightweight, real-time chord playback tool that's tightly focused on generation and key-awareness, Fluid Chords 2 covers that use case directly. If you need a more expansive theory toolkit with melody generation and audio detection features, a broader suite like Scaler 2 may cover more ground — but check current pricing, since bundle and individual pricing vary by promotion.
+If you specifically want a real-time chord playback tool that's tightly focused on generation and key-awareness, Fluid Chords 2 covers that use case directly. If you need a more expansive theory toolkit with melody generation and audio detection features, a broader suite like Scaler 2 may cover more ground — but check current pricing, since bundle and individual pricing vary by promotion.
 
 ## FAQ
 

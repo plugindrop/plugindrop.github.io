@@ -212,7 +212,7 @@ Developer documentation focuses Room's algorithm set on spatial simulations desi
 - **Platforms:** Windows, macOS, Linux
 - **Formats:** VST3, AU, AAX
 
-TAL's developer documentation describes it as a plate reverb emulation built for usable presets and CPU efficiency over deep parameter editing.
+TAL-Reverb-4 is a plate reverb emulation with usable presets.
 
 **Best for:** Producers who need a warm, usable reverb at no cost before committing to a paid option.
 
@@ -351,7 +351,7 @@ Spitfire Audio's LABS series offers an expanding catalogue of individual sample-
 | TDR Nova | Free | Dynamic EQ | Per-band dynamics, 4-band parametric | — |
 | TDR VOS SlickEQ | Free | Mastering EQ | 3-band, output saturation, auto gain comp | — |
 | Klanghelm DC1A | Free | Compressor | 2-control interface, musical bus compression | — |
-| TAL-Reverb-4 | Free | Plate Reverb | CPU-efficient, warm plate tails | — |
+| TAL-Reverb-4 | Free | Plate Reverb | warm plate tails | — |
 | Valhalla Supermassive | Free | Ambient Reverb/Delay | Massive textures, pitch-spread reverb | — |
 | Spitfire LABS | Free | Sample Library | Professional recordings, expanding catalogue | — |
 

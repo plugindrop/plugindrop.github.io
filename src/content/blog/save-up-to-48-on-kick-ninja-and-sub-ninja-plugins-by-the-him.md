@@ -44,7 +44,7 @@ These are not general-purpose synths or samplers. They are purpose-built instrum
 
 ## What Producers Are Saying
 
-The Him DSP occupies a niche corner of the drum synthesis space, so community discussion is growing rather than massive. On forums like [KVR Audio](https://www.kvraudio.com/) and [Reddit's r/audioProductionDeals](https://www.reddit.com/r/audioProductionDeals/), dedicated kick synths are commonly recommended for producers working in techno, house, and bass music who want more consistent results than sample flipping provides. Kick Ninja tends to come up in threads specifically about synthesis-based drum design as an alternative to general-purpose synths being repurposed for kicks.
+The Him DSP occupies a niche corner of the drum synthesis space, so community discussion is growing rather than massive. Kick Ninja tends to come up in threads specifically about synthesis-based drum design as an alternative to general-purpose synths being repurposed for kicks.
 
 ---
 

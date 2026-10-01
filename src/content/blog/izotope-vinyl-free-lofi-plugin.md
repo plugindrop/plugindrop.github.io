@@ -28,7 +28,7 @@ iZotope Vinyl is a free lo-fi effect plugin that simulates the sound of vinyl re
 
 ## What Producers Are Saying
 
-iZotope Vinyl has been a lo-fi staple for over two decades. On Reddit's r/LofiHipHop and r/edmproduction, it appears in nearly every "how to make lo-fi beats" thread. On KVR, it's one of the most downloaded free plugins of all time. Producers value it for quick lo-fi texture without complex setup — it's a "set and forget" effect that adds character instantly.
+iZotope Vinyl has been a lo-fi staple for over two decades. On KVR, it's one of the most downloaded free plugins of all time. Producers value it for quick lo-fi texture without complex setup — it's a "set and forget" effect that adds character instantly.
 
 ## Who Is It For?
 

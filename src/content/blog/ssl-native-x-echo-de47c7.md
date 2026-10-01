@@ -62,9 +62,9 @@ SSL's Native X plugins don't discount as aggressively or as often as many boutiq
 |---|---|---|
 | SSL Native X Echo | $15.00 (deal) | SSL-branded delay, part of the Native X hardware-emulation series |
 | Soundtoys EchoBoy | Check product page | Widely used tape/analog delay emulation with multiple echo modes |
-| Valhalla Delay | Check product page | Independent developer, known for flexible modulation and low CPU use |
+| Valhalla Delay | Check product page | Independent developer, known for flexible modulation |
 
-If you're already invested in SSL's Native X ecosystem, Echo slots in as a matching delay unit at this price. If you want a delay plugin with a longer track record of forum discussion around tape and analog modeling specifically, EchoBoy is a common reference point. Valhalla Delay is worth a look if CPU efficiency and modulation flexibility matter more than brand lineage.
+If you're already invested in SSL's Native X ecosystem, Echo slots in as a matching delay unit at this price. If you want a delay plugin with a longer track record of forum discussion around tape and analog modeling specifically, EchoBoy is a common reference point. Valhalla Delay is worth a look if modulation flexibility matters more than brand lineage.
 
 ## FAQ
 

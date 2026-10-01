@@ -25,7 +25,6 @@ Based on what is publicly known about Hybrid Filter:
 - **Multiple filter modes** — the hybrid design allows switching or morphing between different filter types, giving producers tonal range beyond a single-character filter
 - **Resonance control** — standard but essential; filter plugins live and die by how their resonance behaves at high settings
 - **Modulation routing** — Minimal Audio tools typically include flexible modulation options for animating parameters over time
-- **Low CPU footprint** — lightweight filter plugins are a staple in mix chains and sound design rigs; a lean processor is a practical asset
 - **DAW integration** — functions as a standard VST/AU/AAX plugin within any major DAW environment
 
 ---

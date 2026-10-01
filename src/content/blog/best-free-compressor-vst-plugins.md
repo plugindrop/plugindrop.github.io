@@ -225,7 +225,7 @@ Density mkIII has appeared on "best free compressor" lists since its release, an
 - **Platforms:** Windows
 - **Formats:** VST
 
-GComp2 doesn't try to be anything other than a reliable, lightweight, predictable compressor — and that makes it invaluable in large sessions where you need consistent dynamics control on background elements, room mics, and supporting layers without adding character or burning CPU. It's the compressor you put on 15 tracks simultaneously without thinking twice about it.
+GComp2 doesn't try to be anything other than a reliable, predictable compressor — useful on background elements, room mics, and supporting layers where you want dynamics control without adding character. It's the compressor you put on 15 tracks simultaneously without thinking twice about it.
 
 **Best for:** Background elements, room microphones, utility compression on supporting layers.
 
@@ -356,13 +356,13 @@ The honest timing rule: none of these is ever urgent. Waves and UAD run sales so
 |--------|-------|------|------------|-----|
 | TDR Kotelnikov | Free | Transparent | Mastering-grade, all platforms | [Plugin Boutique](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | TDR Feedback Compressor II | Free | Feedback topology | Vintage circuit behavior, free | [Get It](https://www.tokyodawn.net/tdr-feedback-compressor-2/) |
-| Cockos ReaComp | Free | Precision utility | Sidechain, ultralow CPU, any DAW | [Get It](https://www.cockos.com/reaper/reaplugs/) |
+| Cockos ReaComp | Free | Precision utility | Sidechain, any DAW | [Get It](https://www.cockos.com/reaper/reaplugs/) |
 | Molot GE | Free | Vintage character | Soviet-era punch, harmonic saturation | [Get It](https://www.pluginboutique.com/search?q=Molot%20GE%20compressor&a_aid=69cb95abe1763&chan=art&data1=best-free-compressor-vst-plugins) |
 | Klanghelm MJUC jr. | Free | Variable-mu | Tube warmth, program-dependent release | [Get It](https://klanghelm.com/contents/products/MJUC.php) |
 | Analog Obsession RNLA | Free | Optical | LA-style leveling, musical on vocals | [Get It](https://www.analogobsession.com/) |
 | DC1A | Free | Simple/musical | 2 controls, always correct | [Plugin Boutique](https://klanghelm.com/contents/products/DC1A) |
 | Density mkIII | Free | Bus compressor | 4 characters, analog glue, Windows | [Get It](https://varietyofsound.wordpress.com/) |
-| GVST GComp2 | Free | Utility | Predictable, lightweight, Windows | [Get It](https://gvst.uk/gcomp.htm) |
+| GVST GComp2 | Free | Utility | Predictable, Windows | [Get It](https://gvst.uk/gcomp.htm) |
 | Rough Rider 3 | Free | Aggressive/drums | Built-in parallel blend, high ratio | [Get It](https://www.pluginboutique.com/product/2-Effects/8-Compressor/6100-Rough-Rider-3?a_aid=69cb95abe1763&chan=art&data1=best-free-compressor-vst-plugins) |
 | Limiter No6 | Free | Multi-stage | Compressor + limiter + clipper chain | [Get It](https://vladgsound.wordpress.com/plugins/limiter6/) |
 | OTT | Free | Multiband upward | EDM standard, Depth control | [Plugin Boutique](https://xferrecords.com/freeware) |

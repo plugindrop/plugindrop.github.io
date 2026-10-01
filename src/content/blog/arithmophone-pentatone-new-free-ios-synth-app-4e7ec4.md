@@ -35,7 +35,7 @@ Pentatone is a free iOS synthesizer app from Arithmophone that takes a different
 - **Beginners and non-musicians** — The pentatonic layout removes the music theory barrier; anyone can sit down and play something that sounds musical immediately.
 - **Mobile producers looking for quick melodic ideas** — A locked-in scale makes it easy to sketch melodic phrases on the go without overthinking note choices.
 - **Educators and music teachers** — A frictionless, free tool well-suited for introducing students to synthesis and melody concepts.
-- **iOS music enthusiasts** — Anyone building out an AUM/Audiobus rig or just wants a lightweight standalone synth app without the usual "freemium" strings attached.
+- **iOS music enthusiasts** — Anyone building out an AUM/Audiobus rig or just wants a standalone synth app without the usual "freemium" strings attached.
 
 ---
 

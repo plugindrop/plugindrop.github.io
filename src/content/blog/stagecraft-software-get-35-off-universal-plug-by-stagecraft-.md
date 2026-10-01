@@ -27,12 +27,12 @@ Universal Plug is a utility plugin made by Stagecraft Software, a developer base
 - **Cross-format plugin loading** — Load 64-bit VST, VST3, and AU plugins inside any host DAW, regardless of its native format support.
 - **Wide DAW compatibility** — Runs as AAX, AU, and VST3, covering Pro Tools, Logic, Bitwig, GarageBand, Luna, Cubase, and more.
 - **Apple Silicon support** — Runs natively on Intel and M1/M2 Macs, plus Windows 7 and newer.
-- **Simple interface** — Designed as a lightweight wrapper with minimal UI so it stays out of the way.
+- **Simple interface** — Designed as a wrapper with minimal UI so it stays out of the way.
 - **30-day trial** — A free trial is available before purchase so you can verify compatibility with your setup.
 
 ## What Producers Are Saying
 
-Universal Plug fills a niche that doesn't generate massive forum hype, but the users who need it *really* need it. On Gearspace and ReasonTalk forums, discussions focus on specific use cases — Logic users wanting VST access and Pro Tools users needing AU plugins. Community reception is generally positive among users who've hit DAW format walls. Check [Gearspace](https://gearspace.com/board/music-computers/1325258-universal-plug-utility-stagecraft.html) or [ReasonTalk](https://forum.reasontalk.com/viewtopic.php?t=7519173) for user impressions.
+Universal Plug fills a niche that doesn't generate massive forum hype, but the users who need it *really* need it. Community reception is generally positive among users who've hit DAW format walls. Check [Gearspace](https://gearspace.com/board/music-computers/1325258-universal-plug-utility-stagecraft.html) or [ReasonTalk](https://forum.reasontalk.com/viewtopic.php?t=7519173) for user impressions.
 
 ## Who Is It For?
 

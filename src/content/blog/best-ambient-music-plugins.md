@@ -278,7 +278,7 @@ These two paid tools address specific limitations in the free options above. Bot
 | Valhalla Supermassive | Free | Reverb | Massive algorithms, infinite tails, modulation | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Eventide SP2016 | $149 | Reverb | Authentic hardware emulation, Room/Plate algorithms | [Official Site](https://www.eventideaudio.com/plug-ins/sp2016-reverb/) |
 | FabFilter Pro-R 2 | $199 | Reverb | Decay Rate EQ, per-frequency decay control | [Official Site](https://www.pluginboutique.com/product/2-Effects/17-Reverb/11576-FabFilter-Pro-R-2?a_aid=69cb95abe1763&chan=art&data1=best-ambient-music-plugins) |
-| TAL-Reverb-4 | Free | Reverb | Smooth plate, low CPU, multi-send friendly | [Free Download](https://tal-software.com/products/tal-reverb-4) |
+| TAL-Reverb-4 | Free | Reverb | Smooth plate, multi-send friendly | [Free Download](https://tal-software.com/products/tal-reverb-4) |
 | Surge XT | Free | Synthesizer | Deep modulation matrix, multiple oscillator types, CLAP | [Download](https://surge-synthesizer.github.io/) |
 | Vital | Free | Synthesizer | Spectral warping wavetable, visual interface | [Get](https://vital.audio/) |
 | Odin 2 | Free | Synthesizer | PM oscillators, built-in phaser/chorus | [Download](https://www.thewavewarden.com/odin2) |

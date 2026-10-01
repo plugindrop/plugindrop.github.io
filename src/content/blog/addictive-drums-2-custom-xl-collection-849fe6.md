@@ -32,7 +32,7 @@ Addictive Drums 2 is a drum production plugin from XLN Audio, built to deliver s
 
 ## What Producers Are Saying
 
-Addictive Drums 2 has been a consistent thread recommendation across production communities for years. On KVR Audio forums and Reddit's r/audioengineering, it's regularly described as a strong middle-ground option — more approachable than Superior Drummer 3's deep sample-editing workflow, yet noticeably more realistic than entry-level drum VSTis. Producers working in pop, rock, and indie frequently mention it when the conversation turns to "sounds great with minimal setup."
+Addictive Drums 2 has been a consistent thread recommendation across production communities for years. Producers working in pop, rock, and indie frequently mention it when the conversation turns to "sounds great with minimal setup."
 
 ## Who Is It For?
 

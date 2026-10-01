@@ -36,7 +36,7 @@ FabFilter is a Dutch audio software company with a long-standing reputation for 
 
 ## What Producers Are Saying
 
-FabFilter has built a durable reputation across production communities. Pro-Q 3 is a recurring recommendation on Gearspace threads and Reddit's r/audioengineering — commonly cited for its accuracy in both surgical and broad tonal applications. The dynamics processors are similarly frequent suggestions in discussions about transparent compression and mastering-grade limiting. The Essentials Bundle is generally discussed as the practical entry point into FabFilter's ecosystem for producers who want core tools without paying for the full Total Bundle price.
+FabFilter has built a durable reputation across production communities. The dynamics processors are similarly frequent suggestions in discussions about transparent compression and mastering-grade limiting. The Essentials Bundle is generally discussed as the practical entry point into FabFilter's ecosystem for producers who want core tools without paying for the full Total Bundle price.
 
 ## Who Is It For?
 

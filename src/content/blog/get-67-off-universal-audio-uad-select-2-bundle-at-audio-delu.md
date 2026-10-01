@@ -38,7 +38,7 @@ Universal Audio (UA) is one of the most recognized names in professional audio �
 
 ## What Producers Are Saying
 
-Universal Audio occupies a well-established position in mixing and production communities. On forums like Gearslutz (now Gearspace) and Reddit's r/audioengineering and r/mixingmastering, UA plugins are consistently referenced when discussions turn to analog emulation quality. Their compressor and EQ emulations in particular are frequently mentioned as benchmarks against which other plugins are measured. At $49 for a bundle, the community sentiment around UA's catalog makes this a deal worth flagging — the brand carries real weight in professional circles.
+Universal Audio occupies a well-established position in mixing and production communities. Their compressor and EQ emulations in particular are frequently mentioned as benchmarks against which other plugins are measured. At $49 for a bundle, the community sentiment around UA's catalog makes this a deal worth flagging — the brand carries real weight in professional circles.
 
 ---
 

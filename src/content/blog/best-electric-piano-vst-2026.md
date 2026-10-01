@@ -11,7 +11,7 @@ score: 8.00
 xText: "New guide: Best Electric Piano VST Plugins 2026 (Rhodes, Wurlitzer and ..."
 draft: true
 ---
-**TL;DR:** For most producers, **Keyscape** is the electric piano library to look at first in 2026 — it covers Rhodes, Wurlitzer, and CP-80 models in a single instrument. If you need a sample library focused on one specific Rhodes model, **Scarbee Mark I** is the standalone option. For a tweakable, CPU-friendly physical modeling alternative that covers both Rhodes and Wurlitzer, **Lounge Lizard EP-4** is the option to consider.
+**TL;DR:** For most producers, **Keyscape** is the electric piano library to look at first in 2026 — it covers Rhodes, Wurlitzer, and CP-80 models in a single instrument. If you need a sample library focused on one specific Rhodes model, **Scarbee Mark I** is the standalone option. For a tweakable physical modeling alternative that covers both Rhodes and Wurlitzer, **Lounge Lizard EP-4** is the option to consider.
 
 ---
 

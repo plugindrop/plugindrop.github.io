@@ -28,7 +28,7 @@ Free Kontakt Alternatives — 6 Sample Players That Actually Replace It
 | TX16Wx | Free | Full-featured, DAW-grade creative sampling | [Official Site](https://www.tx16wx.com/) |
 | HISE | Free | Building and distributing custom sampler instruments | [Official Site](https://hise.dev/) |
 | XT Sampler | Free | Modern UI, accessible SFZ playback for beginners | [Official Site](https://www.tx16wx.com/) |
-| Grace | Free (Win only) | Lightweight, stable playback on older hardware | [Official Site](https://www.onesmallclue.com/plugin/grace/) |
+| Grace | Free (Win only) | stable playback on older hardware | [Official Site](https://www.onesmallclue.com/plugin/grace/) |
 
 The player is free in every case above. What isn't free — for most producers — is the library collection you'll eventually want on top of it. That's the actual buying decision this guide is here to help you make.
 

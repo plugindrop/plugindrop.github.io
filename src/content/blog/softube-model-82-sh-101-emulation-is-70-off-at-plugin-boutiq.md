@@ -32,7 +32,7 @@ Model 82 is Softube's software recreation of the Roland SH-101, the legendary mo
 
 ## What Producers Are Saying
 
-The SH-101 occupies a near-mythic status in electronic music history, so any quality emulation tends to attract serious attention. On forums like KVR Audio, Softube's analog modeling work is generally well-regarded — the company's reputation for circuit-accurate emulations gives Model 82 credibility before producers even load it up. Discussion threads on Reddit's [r/synthesizers](https://www.reddit.com/r/synthesizers) and [r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals) frequently place the SH-101 sound in conversations about classic mono bass and lead tones. Community reception to Softube's modeling approach tends to emphasize authenticity over feature bloat — which lines up with what the SH-101 was always about.
+The SH-101 occupies a near-mythic status in electronic music history, so any quality emulation tends to attract serious attention. Community reception to Softube's modeling approach tends to emphasize authenticity over feature bloat — which lines up with what the SH-101 was always about.
 
 ---
 

@@ -38,7 +38,7 @@ Soundtoys Effect Rack is the complete bundle from Soundtoys, a plugin developer 
 
 ## What Producers Are Saying
 
-Soundtoys has been a go-to name in mixing and production discussions for well over a decade. On forums like Gearslutz (now Gearspace) and Reddit's r/audioengineering and r/WeAreTheMusicMakers, Decapitator in particular is frequently cited as a first-reach saturation plugin. EchoBoy consistently appears in "best delay plugins" threads alongside much pricier hardware alternatives. The Effect Rack bundle is commonly recommended as a high-value entry point for producers looking to acquire the full Soundtoys lineup at once rather than buying individual plugins over time.
+Soundtoys has been a go-to name in mixing and production discussions for well over a decade. EchoBoy consistently appears in "best delay plugins" threads alongside much pricier hardware alternatives. The Effect Rack bundle is commonly recommended as a high-value entry point for producers looking to acquire the full Soundtoys lineup at once rather than buying individual plugins over time.
 
 ---
 

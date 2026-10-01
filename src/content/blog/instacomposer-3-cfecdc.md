@@ -57,7 +57,7 @@ Verify current pricing on the product page — deals can change. Plugin Boutique
 | Scaler 2 (Plugini) | Check product page | Broader chord-set library with scale detection and expression engine |
 | Orb Composer | Check product page | Full arrangement and orchestration generation, not just chord/melody sketches |
 
-If you want a lightweight tool focused specifically on chords, melody, and basslines as a DAW insert, InstaComposer 3 fits that scope. If you need deeper scale-detection and chord-set browsing, Scaler 2 is worth comparing. If your goal is generating full multi-instrument arrangements rather than sketching ideas, Orb Composer covers more ground.
+If you want a tool focused specifically on chords, melody, and basslines as a DAW insert, InstaComposer 3 fits that scope. If you need deeper scale-detection and chord-set browsing, Scaler 2 is worth comparing. If your goal is generating full multi-instrument arrangements rather than sketching ideas, Orb Composer covers more ground.
 
 ## FAQ
 

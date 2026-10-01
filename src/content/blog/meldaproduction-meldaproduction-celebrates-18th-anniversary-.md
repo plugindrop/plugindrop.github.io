@@ -33,7 +33,7 @@ MeldaProduction is a Czech-based audio software developer building plugins since
 
 ## What Producers Are Saying
 
-MeldaProduction has a strong long-term presence on KVR Audio, where their plugins are frequently recommended in threads about feature-rich alternatives to boutique tools. On Reddit's r/AudioProductionDeals and r/edmproduction, the MCompleteBundle is commonly cited as one of the better-value mega-bundles available — particularly when the company runs its periodic sales. Users frequently point to the modulation depth and breadth of included tools as the core selling points.
+MeldaProduction has a strong long-term presence on KVR Audio, where their plugins are frequently recommended in threads about feature-rich alternatives to boutique tools. Users frequently point to the modulation depth and breadth of included tools as the core selling points.
 
 ## Who Is It For?
 

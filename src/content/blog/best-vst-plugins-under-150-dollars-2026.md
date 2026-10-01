@@ -123,7 +123,7 @@ Valhalla Supermassive is a free release from one of the most respected reverb de
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
-Valhalla DSP's published design philosophy prioritizes CPU efficiency and musical results over parameter count, which is why its interface is sparse. That is a deliberate engineering choice, not a budget limitation.
+Valhalla DSP's interface is sparse, with few parameters. That is a deliberate engineering choice, not a budget limitation.
 
 **Best for:** The one algorithmic reverb that works on drums, vocals, synths, and anything else without reading a manual.
 

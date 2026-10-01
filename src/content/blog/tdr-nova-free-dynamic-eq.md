@@ -23,12 +23,11 @@ TDR Nova is a free dynamic equalizer by Tokyo Dawn Records. It combines standard
 - **Per-band dynamics** — Set threshold and ratio per band for frequency-specific compression/expansion
 - **Wideband dynamics** — A built-in broadband compressor section in addition to the per-band dynamics
 - **Real-time spectrum analyzer** — Visual feedback on the frequency spectrum while adjusting
-- **Low CPU usage** — Efficient enough to run on every channel in a mix
 - **Clean, surgical sound** — Transparent processing suited for corrective and creative EQ work
 
 ## What Producers Are Saying
 
-TDR Nova is one of the most recommended free mixing plugins on Reddit and KVR. On r/mixingmastering and r/AudioProductionDeals, it's frequently mentioned as the best free dynamic EQ available. Producers cite it as a capable stand-in for FabFilter Pro-Q's dynamic EQ features at $0. The wideband dynamics section is often highlighted as a bonus that goes beyond typical EQ plugins.
+TDR Nova is a free dynamic EQ from Tokyo Dawn Labs. Producers cite it as a capable stand-in for FabFilter Pro-Q's dynamic EQ features at $0. The wideband dynamics section is often highlighted as a bonus that goes beyond typical EQ plugins.
 
 ## Who Is It For?
 

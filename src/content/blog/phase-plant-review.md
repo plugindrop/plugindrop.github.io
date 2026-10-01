@@ -128,7 +128,7 @@ It's less ideal for producers who need a fast preset-browser workflow and minima
 | Phase Plant (Free) | Free | Modular Semi-Modular | Multi-generator, Snapin effects, free tier | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=phase-plant-review) |
 | Phase Plant (Full) | ~$199 | Modular Semi-Modular | Full generator roster, audio-rate mod, Snapin ecosystem | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=phase-plant-review) |
 | Serum | ~$189 | Wavetable | Wavetable editor, visual modulation, preset community | [Official Site](https://xferrecords.com/products/serum-2) |
-| u-he Hive 2 | ~$149 | Analog/Wavetable Hybrid | Fast workflow, polished presets, low CPU | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5392-Hive-2?a_aid=69cb95abe1763&chan=art&data1=phase-plant-review) |
+| u-he Hive 2 | ~$149 | Analog/Wavetable Hybrid | Fast workflow, polished presets | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5392-Hive-2?a_aid=69cb95abe1763&chan=art&data1=phase-plant-review) |
 
 ---
 

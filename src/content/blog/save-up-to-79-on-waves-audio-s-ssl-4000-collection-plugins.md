@@ -40,7 +40,7 @@ The Waves SSL 4000 Collection is a set of plugins modeled after the Solid State 
 
 ## What Producers Are Saying
 
-The Waves SSL 4000 Collection has been a staple recommendation on mixing forums for well over a decade. On KVR Audio and Reddit's r/audioengineering, the G-Master Buss Compressor in particular is commonly cited as a go-to for mix bus glue, with users frequently pointing to it as one of the more faithful hardware emulations in the Waves lineup. The SSL E-Channel shows up regularly in "starter channel strip" recommendation threads — a sign of its staying power in the community even as newer options have emerged.
+The Waves SSL 4000 Collection has been a staple recommendation on mixing forums for well over a decade. The SSL E-Channel shows up regularly in "starter channel strip" recommendation threads — a sign of its staying power in the community even as newer options have emerged.
 
 ---
 

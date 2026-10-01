@@ -36,7 +36,7 @@ RC-20 Retro Color is a vintage effects plugin by XLN Audio, the studio behind Ad
 
 ## What Producers Are Saying
 
-RC-20 has a well-established presence in lo-fi hip-hop and bedroom pop production communities. On Reddit and music production forums, it's regularly referenced as a go-to for cassette and vinyl aesthetics without having to juggle multiple effect chains. The Wobble and Noise modules are commonly cited as standout features, and the all-in-one workflow is frequently mentioned as its main advantage over piecing together individual effects.
+RC-20 has a well-established presence in lo-fi hip-hop and bedroom pop production communities. The Wobble and Noise modules are commonly cited as standout features, and the all-in-one workflow is frequently mentioned as its main advantage over piecing together individual effects.
 
 ## Who Is It For?
 

@@ -91,7 +91,7 @@ Omnisphere allows any audio file to be loaded as an oscillator source and proces
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/VOgZ1ygl32k" title="Arpeggiator and Modulation System — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Spectrasonics' developer documentation describes Omnisphere's arpeggiator as supporting step-sequenced patterns with individual step parameters, randomization, and deep integration with the modulation matrix. Professional audio press coverage consistently rates the modulation system favorably for its combination of depth and practical usability — a balance that synthesis-heavy tools like UVI Falcon achieve at the cost of a steeper learning curve.
+Spectrasonics' developer documentation describes Omnisphere's arpeggiator as supporting step-sequenced patterns with individual step parameters, randomization, and deep integration with the modulation matrix. Omnisphere's modulation system offers depth, while synthesis-heavy tools like UVI Falcon trade usability for a steeper learning curve.
 
 ---
 
@@ -101,7 +101,7 @@ No plugin at $499 should be purchased without a clear-eyed look at its weaknesse
 
 **CPU and RAM demand is real.** Multiple simultaneous Omnisphere patches, particularly with convolution reverb and complex modulation active, places significant load on system resources.
 
-**It is not a bread-and-butter EDM tool.** Producers primarily making aggressive EDM, hard techno, trance, or drum and bass consistently report that Omnisphere's synthesis engine — despite its technical range — does not compete with dedicated wavetable tools like Serum or Phase Plant for the precise, cutting leads and basses those genres demand.
+**It is not a bread-and-butter EDM tool.** For producers primarily making aggressive EDM, hard techno, trance, or drum and bass, Omnisphere's synthesis engine — despite its technical range — does not compete with dedicated wavetable tools like Serum or Phase Plant for the precise, cutting leads and basses those genres demand.
 
 **The learning curve for sound design is real.** The patch library makes Omnisphere immediately usable without deep synthesis knowledge, but unlocking its full sound design capability requires committed time investment.
 

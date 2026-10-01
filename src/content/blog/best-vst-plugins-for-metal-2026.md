@@ -181,8 +181,6 @@ For metal drum bus work, Pro-C 3's built-in Mix setting removes the need for ext
 
 TDR Nova is a parallel dynamic EQ that combines standard parametric bands with compressor behavior that activates only when a target frequency range exceeds a set threshold. For metal guitar buses, this addresses a specific and common problem: a harsh 3–5 kHz peak that appears only under aggressive playing dynamics. A static EQ cut applied at all times reduces presence during quieter passages; TDR Nova applies the cut only when needed.
 
-Developer documentation confirms a low-CPU-overhead design that makes it practical to use across multiple tracks simultaneously without taxing the session.
-
 **Best for:** Frequency-selective dynamics control on guitar buses, cymbal harshness, or vocal presence peaks where a static EQ cut is too blunt a solution.
 
 [Free Download](https://www.tokyodawn.net/tdr-nova/)
@@ -232,12 +230,12 @@ Developer documentation confirms a low-CPU-overhead design that makes it practic
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Neural DSP Archetype: Gojira | ~$149 | Amp Simulator | Deep-learning modeling, integrated cab + FX chain | — |
-| Ignite Amps Emissary | Free | Amp Simulator | Fully modeled high-gain, low CPU | [Free](https://www.igniteamps.com) |
+| Ignite Amps Emissary | Free | Amp Simulator | Fully modeled high-gain | [Free](https://www.igniteamps.com) |
 | Ignite Amps NadIR | Free | IR Loader | Dual-IR blending, phase-aligned per channel | [Free](https://www.igniteamps.com) |
 | Superior Drummer 3 | ~$179 | Drum Sampler | 350+ GB recorded library, per-mic mixing, MIDI grooves | — |
 | Steven Slate Drums Free | Free | Drum Sampler | Velocity layers, round-robin, no cost | — |
 | FabFilter Pro-C 3 | $199 | Compressor | 14 styles, real-time visual display | [Buy (Plugin Boutique)](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-for-metal-2026) |
-| TDR Nova | Free | Dynamic EQ | Parallel dynamic EQ bands, low CPU, free tier is full-featured | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
+| TDR Nova | Free | Dynamic EQ | Parallel dynamic EQ bands, free tier is full-featured | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 
 ---
 

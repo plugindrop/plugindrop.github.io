@@ -28,7 +28,7 @@ Rhodes — yes, *that* Rhodes — makes official virtual instrument and effects 
 
 ## What Producers Are Saying
 
-The Rhodes V8 generated significant buzz as the first official Rhodes plugin. On forums like [KVR Audio](https://www.kvraudio.com/product/v8-by-rhodes) and [Reddit](https://www.reddit.com/r/AudioProductionDeals/), producers frequently highlight the authenticity of the sampling and the expressive velocity response. The V-Rack has drawn attention as a versatile effects unit that works well beyond just electric piano duties. Community discussions commonly note the large install size (~22 GB) but agree the sonic quality justifies it.
+The Rhodes V8 generated significant buzz as the first official Rhodes plugin. The V-Rack has drawn attention as a versatile effects unit that works well beyond just electric piano duties.
 
 ## Who Is It For?
 

@@ -184,7 +184,7 @@ Compared to Waves H-Reverb, Supermassive trades some room-simulation precision f
 
 ---
 
-### TAL-Reverb-4 — Clean, simple plate reverb with low CPU overhead
+### TAL-Reverb-4 — Clean, simple plate reverb
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/opl6Cz6MzTQ" title="TAL-Reverb-4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -193,7 +193,7 @@ Compared to Waves H-Reverb, Supermassive trades some room-simulation precision f
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
-TAL-Reverb-4 is a plate reverb emulation from TAL Software, a developer with a broad and well-documented free plugin catalog. It has minimal controls, smooth decay tails, and low CPU impact. It does not target a specific hardware unit's exact coloration.
+TAL-Reverb-4 is a plate reverb emulation from TAL Software, a developer with a broad and well-documented free plugin catalog. It has minimal controls and smooth decay tails. It does not target a specific hardware unit's exact coloration.
 
 For producers using Waves TrueVerb primarily for plate reverb on vocals, snares, or guitars, TAL-Reverb-4 covers that use case without licensing overhead or CPU strain.
 
@@ -252,7 +252,7 @@ For producers using Waves TrueVerb primarily for plate reverb on vocals, snares,
 | Klanghelm DC1A | Free | Character Comp | Vari-mu behavior, 4 modes, minimal interface | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves) |
 | Analog Obsession LALA | Free | Optical Comp | LA-2A style, musical release, vocal-tuned | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves) |
 | Valhalla Supermassive | Free | Algorithmic Reverb | 14 algorithms, lush tails, sound design depth | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves) |
-| TAL-Reverb-4 | Free | Plate Reverb | Clean plate character, low CPU, simple controls | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves) |
+| TAL-Reverb-4 | Free | Plate Reverb | Clean plate character, simple controls | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves) |
 | FabFilter Pro-Q 4 | $179 | Dynamic EQ | Per-band dynamics, collision detection, speed | [Developer Site](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | FabFilter Pro-C 3 | $199 | Multi-Style Comp | 14 compression modes, real-time GR display | [Developer Site](https://www.fabfilter.com/products/pro-c-3-compressor-plug-in) |
 | Valhalla Room | $50 | Room Reverb | Realistic rooms, early reflections, natural decay | [Developer Site](https://valhalladsp.com/shop/reverb/valhalla-room/) |

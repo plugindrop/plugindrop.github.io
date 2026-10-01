@@ -43,7 +43,7 @@ The KORG Collection is KORG's official software bundle of precisely recreated ve
 
 ## What Producers Are Saying
 
-These are not niche tools. The M1 has been a fixture in KVR Audio forum discussions for decades — regularly cited as one of the most historically significant synthesizers ever produced, with patches that defined late-1980s pop, R&B, and film scoring. On Reddit's r/synthesizers and r/edmproduction, the MS-20 emulation is a recurring recommendation for producers after aggressive bass tones and distinctive filter textures. The KORG Collection instruments carry a level of community credibility that comes from decades of real-world use, not marketing copy.
+These are not niche tools. The KORG Collection instruments carry a level of community credibility that comes from decades of real-world use, not marketing copy.
 
 ---
 

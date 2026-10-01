@@ -337,7 +337,7 @@ A: Saturation adds harmonics by pushing a signal into soft clipping — the proc
 A: Yes — and many professional mixing engineers do exactly that. Using a subtle saturation plugin like IVGI or Saturation Knob at low drive settings on every channel before the mix bus creates cohesion that simulates the harmonic interaction of an analog summing environment. The key is restraint: if you can clearly identify the saturation on a single channel soloed, the drive is probably too high.
 
 **Q: Is FabFilter Saturn 2 worth $199 in 2026?**
-A: For producers who mix and master regularly, yes. The per-band distortion modes, real-time modulation system, and CPU efficiency mean it replaces multiple single-purpose saturation plugins. If you only need occasional saturation on individual tracks, Klanghelm SDRR at ~$20 offers far better value per use case, and FabFilter rarely discounts deeply enough to change that calculation.
+A: For producers who mix and master regularly, yes. The per-band distortion modes, real-time modulation system, mean it replaces multiple single-purpose saturation plugins. If you only need occasional saturation on individual tracks, Klanghelm SDRR at ~$20 offers far better value per use case, and FabFilter rarely discounts deeply enough to change that calculation.
 
 **Q: What saturation plugin works best on drums?**
 A: Soundtoys Decapitator is one option for drums — the N and A circuit modes add aggressive transient color and tape-style compression that makes drum hits feel physical. For subtler parallel saturation on a drum bus, Saturn 2's multiband control keeps the low end tight while adding harmonics in the high mids independently.

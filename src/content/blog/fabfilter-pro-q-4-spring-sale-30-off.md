@@ -35,7 +35,7 @@ FabFilter Pro-Q is a parametric EQ plugin used widely in professional mixing and
 
 ## What Producers Are Saying
 
-Pro-Q has been a staple recommendation on mixing forums for years. On Reddit's r/AudioProductionDeals and r/mixingmastering, it's one of the most frequently mentioned EQ plugins — users commonly call it an industry standard for visual EQ workflow. On KVR, Pro-Q discussions are some of the most active in the EQ category. The dynamic EQ per band is a frequently cited reason for choosing it over stock DAW options.
+Pro-Q has been a staple recommendation on mixing forums for years. The dynamic EQ per band is a frequently cited reason for choosing it over stock DAW options.
 
 ## Who Is It For?
 

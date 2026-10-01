@@ -56,7 +56,7 @@ This guide covers every major feature, real-world use cases across genres, hones
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
-Pro-Q 4 supports up to 24 EQ bands with an exhaustive list of filter shapes: bell, high and low shelf, high-pass, low-pass, band-pass, notch, and tilt-shelf. Every band can be independently assigned to left/right or mid/side channels without any additional routing steps — a feature that used to require dedicated M/S plugins or complex DAW workarounds. The spectrum analyzer is one of the most readable in the industry: high resolution, low CPU overhead, and it can simultaneously display the spectrum from any other Pro-Q 4 instance open in your session for inter-track frequency management.
+Pro-Q 4 supports up to 24 EQ bands with an exhaustive list of filter shapes: bell, high and low shelf, high-pass, low-pass, band-pass, notch, and tilt-shelf. Every band can be independently assigned to left/right or mid/side channels without any additional routing steps — a feature that used to require dedicated M/S plugins or complex DAW workarounds. The spectrum analyzer is high resolution, and it can simultaneously display the spectrum from any other Pro-Q 4 instance open in your session for inter-track frequency management.
 
 The dynamic EQ functionality is native, not bolted on. Each band can be switched to dynamic mode, where a built-in sidechain triggers gain changes based on incoming level — effectively a frequency-specific compressor or expander operating within your EQ. This alone eliminates the need for a dedicated dynamic EQ plugin in most mixing workflows, which changes the math on the price entirely.
 
@@ -136,7 +136,7 @@ TDR Nova is genuinely strong for a free plugin and the closest free alternative 
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
-EQuality uses analog-modeled filter curves and has a dedicated following among engineers who prefer hardware-influenced processing character. It lacks native dynamic EQ but its filter shapes and CPU efficiency are both competitive. Pro-Q 4 wins on raw flexibility; EQuality is the choice if analog-voiced response matters more than feature breadth.
+EQuality uses analog-modeled filter curves and has a dedicated following among engineers who prefer hardware-influenced processing character. It lacks native dynamic EQ but its filter shapes are competitive. Pro-Q 4 wins on raw flexibility; EQuality is the choice if analog-voiced response matters more than feature breadth.
 
 **Best for:** Engineers who specifically want analog filter character paired with strong CPU performance.
 
@@ -190,7 +190,7 @@ Neutron's EQ module includes AI-generated band suggestions, session-level maskin
 | FabFilter Pro-Q 4 | ~$179 | Parametric + Dynamic EQ | 24 bands, M/S, dynamic EQ, linear phase, collision detection | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-review) |
 | FabFilter Total Bundle | ~$879 | Full plugin suite | Every FabFilter plugin, significant savings vs. individual | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-review) |
 | TDR Nova | Free / €49 | Dynamic EQ | Solid free tier, dynamic EQ, limited M/S depth | — |
-| DMG Audio EQuality | ~$99 | Analog-style parametric EQ | Analog filter character, CPU-efficient | — |
+| DMG Audio EQuality | ~$99 | Analog-style parametric EQ | Analog filter character | — |
 | iZotope Neutron | ~$249 | AI-assisted EQ | AI band suggestions, session-level masking detection | — |
 
 ---

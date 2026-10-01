@@ -41,7 +41,7 @@ UAD Explore is Universal Audio's free software bundle designed to bring UA's ana
 
 ## What Producers Are Saying
 
-UAD plugins are consistently cited as reference-grade on mixing forums. On KVR Audio and Reddit's [r/audioengineering](https://www.reddit.com/r/audioengineering), Universal Audio emulations come up frequently in threads about "most accurate analog modeling" — the SSL channel strips and Neve-style EQs in particular are commonly recommended for mix bus work. The shift to native operation removed a major barrier to entry, and community discussions reflect that — producers who previously skipped UAD due to hardware costs are now actively exploring the ecosystem.
+UAD plugins are consistently cited as reference-grade on mixing forums. The shift to native operation removed a major barrier to entry, and community discussions reflect that — producers who previously skipped UAD due to hardware costs are now actively exploring the ecosystem.
 
 ---
 

@@ -72,7 +72,7 @@ This is the actual decision most people are wrestling with, so it's worth being 
 
 - **Buy the Platinum Bundle** if you're a working mixer/mastering engineer who wants broad coverage (EQ, compression, reverb, restoration) and doesn't want to shop plugin-by-plugin. At $79–$99, it's cheap enough that "will I use all of it" barely matters.
 - **Buy individual plugins** (like CLA Vocals or the SSL Collection) if you already own a strong core toolkit and just want one or two specific classic emulations. At $19–$49 per plugin during sales, there's little reason to overpay for a bundle you won't fully use.
-- **Skip Waves entirely** if you need modern, CPU-efficient, actively-updated tools with cleaner UIs — Waves' codebase and interface design lag behind newer competitors, even if the DSP quality holds up.
+- **Skip Waves entirely** if you need modern, actively-updated tools with cleaner UIs — Waves' codebase and interface design lag behind newer competitors, even if the DSP quality holds up.
 
 ## Free Alternatives If You Can't Wait
 

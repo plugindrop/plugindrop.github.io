@@ -32,7 +32,7 @@ Overloud is an Italian audio software company known for high-fidelity analog har
 
 ## What Producers Are Saying
 
-Overloud's Gems series has built a solid reputation among mixing engineers on forums like KVR and Gearslutz, with users frequently mentioning the Comp76 and EQP as standouts for tracking and bus processing. The TH-U amp sim is commonly recommended in Reddit's r/guitarpedals and r/Guitar communities as a versatile alternative to hardware amp rigs. Discussions on [KVR forums](https://www.kvraudio.com/forum/) often highlight Overloud's attention to analog detail and low CPU usage relative to the sound quality.
+The TH-U amp sim is commonly recommended in Reddit's r/guitarpedals and r/Guitar communities as a versatile alternative to hardware amp rigs.
 
 ## Who Is It For?
 

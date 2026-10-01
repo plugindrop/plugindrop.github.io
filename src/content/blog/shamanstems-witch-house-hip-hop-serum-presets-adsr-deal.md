@@ -44,7 +44,7 @@ Shamanstems Witch House Hip Hop Serum Presets is a sound design pack for Xfer Re
 
 ## What Producers Are Saying
 
-Witch house as a genre occupies a niche but dedicated corner of the production community, and Serum preset packs targeting it are relatively uncommon — which is part of the appeal here. Community discussions around witch house production tools tend to surface on [Reddit's r/WeAreTheMusicMakers](https://www.reddit.com/r/WeAreTheMusicMakers/) and [KVR Audio forums](https://www.kvraudio.com/forum/), where producers frequently discuss the scarcity of genre-specific presets for darker aesthetics. This is a niche product, so broader community reception is still building — check those communities for early impressions from users working in these genres.
+Witch house as a genre occupies a niche but dedicated corner of the production community, and Serum preset packs targeting it are relatively uncommon — which is part of the appeal here. This is a niche product, so broader community reception is still building — check those communities for early impressions from users working in these genres.
 
 ---
 

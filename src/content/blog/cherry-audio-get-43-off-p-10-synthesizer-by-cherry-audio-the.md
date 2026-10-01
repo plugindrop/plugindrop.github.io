@@ -32,7 +32,7 @@ The P-10 is a software synthesizer from Cherry Audio, a developer known for fait
 
 ## What Producers Are Saying
 
-Cherry Audio has developed a loyal following on forums like [KVR Audio](https://www.kvraudio.com/) and Reddit's [r/synthesizers](https://www.reddit.com/r/synthesizers/) for consistently punching above their price point. Their synths are commonly brought up in discussions about affordable alternatives to pricier vintage-inspired plugins. The P-10 specifically has appeared in threads where users look for polyphonic analog-style instruments without the premium cost associated with some competing titles. Community discussions are still building around this title — check KVR or Reddit for the latest early impressions.
+Their synths are commonly brought up in discussions about affordable alternatives to pricier vintage-inspired plugins. The P-10 specifically has appeared in threads where users look for polyphonic analog-style instruments without the premium cost associated with some competing titles.
 
 ---
 

@@ -32,7 +32,7 @@ The Shadow Hills Mastering Compressor Class A is a plugin emulation of the legen
 
 ## What Producers Are Saying
 
-The Shadow Hills Mastering Compressor has a strong reputation in professional mastering circles. The hardware unit has appeared on countless major-label records, and the Plugin Alliance emulation is frequently cited in mastering and mixing forums as a go-to for adding "glue" and character to a stereo bus. On communities like Gearspace and KVR Audio, discussions about mastering compressor plugins regularly surface the Shadow Hills name alongside heavyweights like the SSL Bus Compressor and Neve 33609 emulations. Users commonly describe it as one of the few plugins that convincingly captures the color and dynamics behavior of a true high-end hardware mastering chain.
+The Shadow Hills Mastering Compressor has a strong reputation in professional mastering circles. The hardware unit has appeared on countless major-label records, and the Plugin Alliance emulation is frequently cited in mastering and mixing forums as a go-to for adding "glue" and character to a stereo bus. Users commonly describe it as one of the few plugins that convincingly captures the color and dynamics behavior of a true high-end hardware mastering chain.
 
 ---
 

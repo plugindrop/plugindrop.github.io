@@ -27,7 +27,6 @@ AIR Music Technology has a long history in the plugin world — the company orig
 
 - **Vintage keyboard emulations** — AIR's instrument lineup centers on meticulously modeled classic keyboards, including electric pianos, tonewheel organs, and acoustic piano emulations.
 - **Multiple instrument types in one purchase** — Rather than buying AIR's instruments individually, the Legends Pack consolidates them into a bundle at a reduced effective price per instrument.
-- **Established DSP quality** — AIR plugins were developed for professional DAW integration and are known for low CPU overhead relative to their sound quality.
 - **DAW compatibility** — AIR instruments support VST, AU, and AAX formats, covering the major DAW ecosystems including Pro Tools, Ableton Live, Logic Pro, and Cubase.
 - **Standalone operation** — Each instrument runs standalone in addition to plugin mode, useful for live or template-building workflows.
 

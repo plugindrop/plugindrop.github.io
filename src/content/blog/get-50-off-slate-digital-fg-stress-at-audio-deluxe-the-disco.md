@@ -37,7 +37,7 @@ Slate Digital FG-Stress is a plugin compressor modeled after the Empirical Labs 
 
 ## What Producers Are Saying
 
-The Distressor-style compressor category is one of the most discussed in mixing communities. On forums like Gearslutz (now Gearspace) and r/mixingmastering, hardware Distressor emulations consistently come up when producers ask about "glue compressors" or vocal bus tools. Slate Digital's FG series broadly earns a reputation for punchy, analog-feeling compression — the FG-116 and FG-Red are frequently recommended alongside industry standards. FG-Stress occupies the more aggressive, character-driven end of that lineup.
+The Distressor-style compressor category is one of the most discussed in mixing communities. Slate Digital's FG series broadly earns a reputation for punchy, analog-feeling compression — the FG-116 and FG-Red are frequently recommended alongside industry standards. FG-Stress occupies the more aggressive, character-driven end of that lineup.
 
 ## Who Is It For?
 

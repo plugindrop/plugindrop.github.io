@@ -46,7 +46,7 @@ This is a beat and loop pack from Tkid The Producer, a producer known for crafti
 
 ## What Producers Are Saying
 
-This is a niche, genre-specific pack from an independent producer, so broader forum threads are still building. Community discussions around trap sample packs in this lane tend to happen on [Reddit's r/makinghiphop](https://www.reddit.com/r/makinghiphop/) and [KVR Audio](https://www.kvraudio.com/), where producers in the trap and jerk space frequently look for regionally authentic material. Check those communities for early impressions as more producers pick this up.
+This is a niche, genre-specific pack from an independent producer, so broader forum threads are still building. Check those communities for early impressions as more producers pick this up.
 
 ---
 

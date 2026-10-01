@@ -32,7 +32,7 @@ The BA-1 is a software synthesizer developed by Baby Audio, a plugin company tha
 
 ## What Producers Are Saying
 
-BA-1 has developed a consistent following among producers who gravitate toward the SH-101 aesthetic. On forums like [KVR Audio](https://www.kvraudio.com) and communities like [r/synthesizers](https://www.reddit.com/r/synthesizers/) and [r/audioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/), Baby Audio plugins are commonly recommended for their sound quality and well-considered design. Users frequently describe Baby Audio's catalog as punching above its price point. BA-1 in particular tends to surface in discussions about affordable analog-style monosynths for electronic and lo-fi production.
+BA-1 has developed a consistent following among producers who gravitate toward the SH-101 aesthetic. Users frequently describe Baby Audio's catalog as punching above its price point. BA-1 in particular tends to surface in discussions about affordable analog-style monosynths for electronic and lo-fi production.
 
 ---
 

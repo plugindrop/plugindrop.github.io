@@ -33,7 +33,7 @@ Based on the product listing category and type, here's what to look for on the p
 
 ## What Producers Are Saying
 
-DANDY is a relatively niche listing on Plugin Boutique, so broad community coverage is still building. Discussions around Plugin Boutique's virtual instrument deals tend to surface on [KVR Audio](https://www.kvraudio.com/forum/) and Reddit's [r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/), where users frequently compare instruments on value-per-sound and workflow fit. If you want early impressions or user experiences, those two communities are the best starting points before committing.
+DANDY is a relatively niche listing on Plugin Boutique, so broad community coverage is still building. If you want early impressions or user experiences, those two communities are the best starting points before committing.
 
 ---
 

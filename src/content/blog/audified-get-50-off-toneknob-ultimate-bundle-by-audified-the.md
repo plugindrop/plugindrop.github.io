@@ -35,7 +35,7 @@ The ToneKnob Ultimate Bundle is a collection of tone-shaping effect plugins deve
 
 ## What Producers Are Saying
 
-Audified has a solid reputation in mixing communities for building focused, no-nonsense tools. The ToneKnob series tends to come up in discussions on KVR Audio forums when producers are looking for quick character-adding plugins that don't require deep editing. On Reddit's r/newplugindeals and r/AudioProductionDeals, Audified sales frequently attract attention from users who appreciate the brand's hardware-leaning approach. Community reception for this specific bundle is still building — check [KVR](https://www.kvraudio.com) or [Reddit's plugin deal threads](https://www.reddit.com/r/newplugindeals/) for the latest impressions.
+Audified has a solid reputation in mixing communities for building focused, no-nonsense tools. The ToneKnob series tends to come up in discussions on KVR Audio forums when producers are looking for quick character-adding plugins that don't require deep editing. Community reception for this specific bundle is still building — check [KVR](https://www.kvraudio.com) or [Reddit's plugin deal threads](https://www.reddit.com/r/newplugindeals/) for the latest impressions.
 
 ---
 

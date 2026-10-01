@@ -160,7 +160,7 @@ REAPER occupies a unique position: the free trial has no time limit and no funct
 
 **Concrete use case:** A composer scoring to picture can host hundreds of tracks on a modest laptop thanks to REAPER's tiny CPU/RAM footprint, then write a custom Lua script to batch-render stems — power that costs far more in mainstream DAWs.
 
-The feature set is extraordinary: unlimited tracks, real-time pitch and time manipulation, extremely low CPU and RAM footprint, comprehensive MIDI editing, item-based editing model that handles audio more flexibly than track-based DAWs, and a scripting engine (Lua/EEL2) that lets users automate nearly any workflow. The interface is not beginner-friendly — customization is powerful but requires learning — but for professional use, REAPER is the most capable low-cost DAW available.
+The feature set is extraordinary: unlimited tracks, real-time pitch and time manipulation, comprehensive MIDI editing, item-based editing model that handles audio more flexibly than track-based DAWs, and a scripting engine (Lua/EEL2) that lets users automate nearly any workflow. The interface is not beginner-friendly — customization is powerful but requires learning — but for professional use, REAPER is the most capable low-cost DAW available.
 
 **Pros:** Unlimited-feature free trial, extremely low resource usage, extensive customization, professional-grade on every platform, $60 perpetual license
 **Cons:** Interface requires learning, not truly free long-term, no built-in sound library

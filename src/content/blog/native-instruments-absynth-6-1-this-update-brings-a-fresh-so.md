@@ -38,7 +38,7 @@ Absynth is Native Instruments' long-running semi-modular synthesizer, built for 
 
 ## What Producers Are Saying
 
-Absynth has been a recognized name in sound design communities for well over a decade. On KVR Audio forums, it's commonly mentioned in threads about atmospheric and cinematic synthesis, with users frequently pointing to its morphing envelopes as a standout feature that few competitors match. Reddit's r/synthesizers and r/edmproduction communities tend to recommend it for producers focused on evolving textures and experimental sound design rather than bread-and-butter leads or basses.
+Absynth has been a recognized name in sound design communities for well over a decade.
 
 ---
 

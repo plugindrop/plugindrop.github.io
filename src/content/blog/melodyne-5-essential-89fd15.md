@@ -40,7 +40,7 @@ Melodyne 5 Essential is the entry-level edition of Celemony's industry-standard 
 
 ## What Producers Are Saying
 
-Melodyne has been a reference-level name in pitch editing for well over a decade. On forums like Gearspace and Reddit's r/WeAreTheMusicMakers, it's regularly recommended alongside Auto-Tune as one of the two dominant pitch correction tools in professional audio workflows. The Essential tier in particular comes up frequently in discussions for producers who want Melodyne's signature note-detection quality without committing to the higher-cost Editor or Studio editions. Its reputation for natural-sounding vocal results — when applied with subtlety — is a consistent theme across mixing communities.
+Melodyne has been a reference-level name in pitch editing for well over a decade. The Essential tier in particular comes up frequently in discussions for producers who want Melodyne's signature note-detection quality without committing to the higher-cost Editor or Studio editions. Its reputation for natural-sounding vocal results — when applied with subtlety — is a consistent theme across mixing communities.
 
 ---
 

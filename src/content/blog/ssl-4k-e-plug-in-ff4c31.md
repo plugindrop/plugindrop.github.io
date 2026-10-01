@@ -40,7 +40,7 @@ The SSL 4K E Plug-in is an official channel strip emulation developed by Solid S
 
 ## What Producers Are Saying
 
-The SSL 4000 E console carries significant weight in mixing communities. On Gearspace and Reddit's r/mixingmastering, SSL channel strip emulations are consistently referenced in threads about adding console character to digital mixes. The E-series EQ in particular comes up frequently in discussions about drums and vocal processing. SSL's native plugin line is generally regarded as a credible first-party option, though third-party emulations from Waves and UAD have held more mindshare historically — making the first-party SSL version an interesting alternative in the conversation.
+The SSL 4000 E console carries significant weight in mixing communities. The E-series EQ in particular comes up frequently in discussions about drums and vocal processing. SSL's native plugin line is generally regarded as a credible first-party option, though third-party emulations from Waves and UAD have held more mindshare historically — making the first-party SSL version an interesting alternative in the conversation.
 
 ---
 

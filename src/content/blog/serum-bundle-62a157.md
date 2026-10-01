@@ -40,7 +40,7 @@ The Serum Bundle from ADSR Sounds is a curated collection of preset packs design
 
 ## What Producers Are Saying
 
-Serum itself has been a community staple for years. On Reddit's r/edmproduction and r/synthesizers, it's consistently recommended as a go-to soft synth for electronic music production. ADSR Sounds as a platform also has a strong reputation — their preset packs are frequently discussed on KVR Audio forums and are commonly recommended in beginner-to-intermediate production communities as a reliable, affordable way to fill out a Serum library. Bundled preset deals from ADSR are often highlighted in deal-tracking threads precisely because the per-pack cost drops significantly.
+Serum itself has been a community staple for years. ADSR Sounds as a platform also has a strong reputation — their preset packs are frequently discussed on KVR Audio forums and are commonly recommended in beginner-to-intermediate production communities as a reliable, affordable way to fill out a Serum library. Bundled preset deals from ADSR are often highlighted in deal-tracking threads precisely because the per-pack cost drops significantly.
 
 ---
 

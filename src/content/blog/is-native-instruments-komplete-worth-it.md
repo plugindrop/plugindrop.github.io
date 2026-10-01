@@ -40,7 +40,7 @@ This guide breaks down every Komplete tier honestly, compares it against Arturia
 
 ## What's Inside Each Komplete Tier
 
-Komplete is not a single product — it's a tiered bundle that scales from a lightweight starter kit to one of the largest instrument collections available to any producer. Matching your tier to your actual workflow is the central question.
+Komplete is not a single product — it's a tiered bundle that scales from a starter kit to one of the largest instrument collections available to any producer. Matching your tier to your actual workflow is the central question.
 
 ### Komplete Select — The No-Risk Entry Point
 

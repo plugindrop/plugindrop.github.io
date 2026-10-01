@@ -183,7 +183,7 @@ FabFilter is notorious for almost never discounting — this is one of the few d
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
-TAL-Dub-3 captures the saturated, wobbly character of vintage dub delay units without any cost. The feedback control pushes it to self-oscillation with a naturalness that paid plugins sometimes struggle to achieve, and the analog-modeled signal path keeps the repeats feeling alive rather than sterile. It's a focused tool rather than a versatile one, but within its target — dirty, analog-feeling dub delay — it consistently outperforms expectations.
+TAL-Dub-3 captures the saturated, wobbly character of vintage dub delay units without any cost. The feedback control pushes it to self-oscillation with a naturalness that paid plugins sometimes struggle to achieve, and the analog-modeled signal path keeps the repeats feeling alive rather than sterile. It's a focused tool rather than a versatile one, aimed at dirty, analog-feeling dub delay.
 
 **Best for:** Dub, reggae, lo-fi, and psychedelic producers who want authentic vintage delay character at no cost.
 
@@ -257,11 +257,11 @@ Chow Matrix gives you up to eight delay nodes arranged in a modular matrix where
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX
 
-Kilohearts Delay is included in the free Essentials bundle and handles the fundamentals — tempo sync, ping-pong, feedback, and diffusion — with zero clutter and very low CPU overhead. It's designed as a snapin for Kilohearts Phase Plant and Snap Heap but functions as a standalone effect. The sound is transparent and uncolored, making it ideal for situations where you want echo positioned precisely in a mix without any added character.
+Kilohearts Delay is included in the free Essentials bundle and handles the fundamentals — tempo sync, ping-pong, feedback, and diffusion — with zero clutter. It's designed as a snapin for Kilohearts Phase Plant and Snap Heap but functions as a standalone effect. The sound is transparent and uncolored, making it ideal for situations where you want echo positioned precisely in a mix without any added character.
 
 If you're already invested in the Kilohearts ecosystem, note that Phase Plant itself is one of the more frequently discounted synths on the market — worth tracking if you're building out a full Kilohearts rig around this free delay.
 
-**Best for:** Producers who need a fast, clean utility delay with no coloration and minimal CPU impact.
+**Best for:** Producers who need a fast, clean utility delay with no coloration.
 
 [→ Download Kilohearts Delay Free](https://kilohearts.com/products/delay)
 
@@ -326,7 +326,7 @@ If you've been relying on free delays and want to invest in something that cover
 | Valhalla FreqEcho | Free | BBD / Pitch-Shifted | Frequency-shifted feedback, psychedelic trails | [Download](https://valhalladsp.com/shop/delay/valhalla-freq-echo/) |
 | u-he Colour Copy | Free | BBD / Analog | Physical BBD modeling, vibrato/chorus character | [Download](https://u-he.com/products/colour-copy/) |
 | Chow Matrix | Free | Modular / Creative | 8-node delay matrix, open source, complex routing | [Download](https://github.com/Chowdhury-DSP/ChowMatrix) |
-| Kilohearts Delay | Free | Clean Digital | Tempo sync, ping-pong, minimal CPU | [Download](https://kilohearts.com/products/delay) |
+| Kilohearts Delay | Free | Clean Digital | Tempo sync, ping-pong | [Download](https://kilohearts.com/products/delay) |
 | Glitchmachines Palindrome | Free | Glitch / Experimental | Stutter, buffer glitch, reverse artifacts | [Download](https://glitchmachines.com/products/palindrome/) |
 
 ---

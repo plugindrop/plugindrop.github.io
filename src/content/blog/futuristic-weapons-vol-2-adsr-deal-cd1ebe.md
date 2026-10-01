@@ -40,7 +40,7 @@ Futuristic Weapons Vol 2 is a preset and sound design pack available on ADSR Sou
 
 ## What Producers Are Saying
 
-Futuristic Weapons Vol 2 sits in a niche that's gaining momentum — cinematic and sci-fi sound packs for beatmakers. Community discussions around this type of pack tend to surface on Reddit's [r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) and [KVR Audio](https://www.kvraudio.com/), where producers frequently flag ADSR deals on niche genre packs. This is a relatively specialized release, so broader forum coverage may still be building — checking those communities for early impressions is the best route for peer feedback.
+Futuristic Weapons Vol 2 sits in a niche that's gaining momentum — cinematic and sci-fi sound packs for beatmakers. This is a relatively specialized release, so broader forum coverage may still be building — checking those communities for early impressions is the best route for peer feedback.
 
 ---
 

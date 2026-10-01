@@ -39,7 +39,7 @@ The Roland Boutique SH-01A is a compact hardware synthesizer that recreates the 
 
 ## What Producers Are Saying
 
-The SH-01A has an established reputation in synthesizer communities. On r/synthesizers, it's a common recommendation for producers seeking Roland's classic monosynth character in a current-production unit. The polyphonic capability over the original SH-101 is frequently cited as its most practical upgrade. Opinions on the compact form factor are divided — portability is valued, but some users prefer the tactile response of full-size hardware.
+The SH-01A has an established reputation in synthesizer communities. The polyphonic capability over the original SH-101 is frequently cited as its most practical upgrade. Opinions on the compact form factor are divided — portability is valued, but some users prefer the tactile response of full-size hardware.
 
 ## Who Is It For?
 

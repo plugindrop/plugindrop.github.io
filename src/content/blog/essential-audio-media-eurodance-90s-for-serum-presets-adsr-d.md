@@ -43,7 +43,7 @@ Essential Audio Media Eurodance 90s for Serum is a preset pack designed to recre
 
 ## What Producers Are Saying
 
-Eurodance revival has been gaining momentum in producer communities, with genres like hyperpop and nu-italo keeping that 90s aesthetic relevant. On forums like KVR and subreddits such as [r/synthesizers](https://www.reddit.com/r/synthesizers/) and [r/edmproduction](https://www.reddit.com/r/edmproduction/), Serum preset packs targeting niche retro genres are commonly recommended for producers who want fast, authentic results without deep sound design sessions. This particular pack is relatively niche — early community discussion is still building, so check [KVR Audio](https://www.kvraudio.com/) for any emerging user impressions.
+Eurodance revival has been gaining momentum in producer communities, with genres like hyperpop and nu-italo keeping that 90s aesthetic relevant. This particular pack is relatively niche — early community discussion is still building, so check [KVR Audio](https://www.kvraudio.com/) for any emerging user impressions.
 
 ---
 

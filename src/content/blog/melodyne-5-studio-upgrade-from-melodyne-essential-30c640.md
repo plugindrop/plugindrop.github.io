@@ -36,7 +36,7 @@ Melodyne 5 Studio is the top-tier edition of Celemony's industry-standard pitch 
 
 ## What Producers Are Saying
 
-Melodyne has been a fixture in professional studios for well over a decade. On Gearspace and Reddit's r/WeAreTheMusicMakers, it is consistently cited as the go-to option for natural-sounding pitch correction on vocals and acoustic instruments. The polyphonic DNA feature draws particular attention — producers working with live guitar, piano, or stacked harmonies frequently name it as the core reason to step up beyond the Essential tier. It is the kind of tool that appears in professional workflows regardless of genre.
+Melodyne has been a fixture in professional studios for well over a decade. The polyphonic DNA feature draws particular attention — producers working with live guitar, piano, or stacked harmonies frequently name it as the core reason to step up beyond the Essential tier. It is the kind of tool that appears in professional workflows regardless of genre.
 
 ## Who Is It For?
 

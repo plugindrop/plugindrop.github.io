@@ -30,7 +30,7 @@ Abletonlive.aaf is a standalone desktop utility by XterminatorApps that converts
 
 ## What Producers Are Saying
 
-Abletonlive.aaf is a relatively niche utility targeting a specific post-production workflow, so large-scale community discussion is still limited. On the [KVR Forums](https://www.kvraudio.com/forum/viewtopic.php?t=627360), the developer has been active in responding to user questions and feature requests, and early adopters have discussed workflow improvements for film and TV audio work. There's also a thread on the [Avid DUC forums](https://duc.avid.com/showthread.php?p=2737210) where Pro Tools users have explored this as a solution for collaborating with Ableton-based composers.
+Abletonlive.aaf is a relatively niche utility targeting a specific post-production workflow, so large-scale community discussion is still limited. There's also a thread on the [Avid DUC forums](https://duc.avid.com/showthread.php?p=2737210) where Pro Tools users have explored this as a solution for collaborating with Ableton-based composers.
 
 ## Who Is It For?
 

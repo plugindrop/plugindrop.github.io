@@ -40,7 +40,7 @@ Spire is a polyphonic virtual synthesizer developed by Reveal Sound, built speci
 
 ## What Producers Are Saying
 
-Spire has been a fixture in trance and EDM production circles for years. On forums like KVR Audio and communities such as r/edmproduction, it's consistently recommended for its signature supersaw and pluck sounds. Producers frequently cite it as one of the defining synths of the modern trance sound, and preset packs for Spire are among the most commonly sold on third-party marketplaces — a strong signal of its active user base.
+Spire has been a fixture in trance and EDM production circles for years. Producers frequently cite it as one of the defining synths of the modern trance sound, and preset packs for Spire are among the most commonly sold on third-party marketplaces — a strong signal of its active user base.
 
 ---
 

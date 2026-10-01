@@ -147,7 +147,7 @@ Serum's sound character is precise and clean by default. Bass patches require de
 
 Diva uses circuit simulation rather than wavetable or sample-based approaches to model components from specific vintage synthesizers — including elements drawn from the Minimoog, Roland Juno series, Korg MS-20, and Sequential Prophet-5. It carries higher CPU demands than wavetable synths as a trade-off for circuit-level modeling. Developer documentation confirms the circuit-level simulation approach extends to oscillators, filters, and envelopes alike.
 
-For bass specifically, Diva's filter models deliver the subtle non-linearity and saturation that many analog-emulating synths flatten out in the interest of CPU efficiency. Its "Dirty" accuracy mode increases processing load but tightens simulation fidelity — a meaningful difference for bass tones where filter behavior is the primary sound-shaping element.
+For bass specifically, Diva's filter models deliver the subtle non-linearity and saturation that many analog-emulating synths flatten out. Its "Dirty" accuracy mode increases processing load but tightens simulation fidelity — a meaningful difference for bass tones where filter behavior is the primary sound-shaping element.
 
 **Best for:** Producers building analog-warm bass for indie, funk, soul, krautrock, vintage-influenced electronic music, or any genre where digital precision is a liability.
 

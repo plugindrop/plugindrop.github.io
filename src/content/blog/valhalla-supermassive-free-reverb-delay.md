@@ -33,7 +33,7 @@ Valhalla Supermassive is a free reverb and delay plugin by Valhalla DSP. Valhall
 
 ## What Producers Are Saying
 
-Supermassive dominates "best free plugin" lists on Reddit, KVR, and production YouTube channels. On r/AudioProductionDeals and r/WeAreTheMusicMakers, it's commonly cited as the single best free plugin available. Producers frequently mention the Warp and Hydra modes as standouts for ambient and electronic production. The consensus: it competes with paid reverbs at a $0 price tag.
+Supermassive is a free reverb/delay from Valhalla DSP. Producers frequently mention the Warp and Hydra modes as standouts for ambient and electronic production.
 
 ## Who Is It For?
 
@@ -72,7 +72,7 @@ A: Yes. Valhalla DSP has confirmed Supermassive is permanently free. No trial pe
 A: VST, VST3, AU, and AAX on macOS and Windows. Check the Valhalla DSP site for current OS compatibility.
 
 **Q: Does it work on older machines?**
-A: Yes. Supermassive is well-known for extremely low CPU usage even on older hardware.
+A: Yes.
 
 **Q: How does it compare to the paid Valhalla plugins?**
 A: Different tool, different purpose. The paid Valhalla plugins (VintageVerb, Room, Plate) focus on classic reverb types. Supermassive focuses on massive, experimental reverb and delay hybrids.

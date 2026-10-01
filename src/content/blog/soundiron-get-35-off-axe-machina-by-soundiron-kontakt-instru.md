@@ -37,7 +37,7 @@ Axe Machina is a Kontakt-based sample instrument from Soundiron, a California-ba
 
 ## What Producers Are Saying
 
-Axe Machina is a relatively niche release, so large-scale community discussion is still building. Soundiron as a brand is well-regarded on forums like [KVR Audio](https://www.kvraudio.com/) and Reddit's [r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/), where their libraries are commonly described as imaginative and production-ready. Producers looking for unusual Kontakt instruments frequently mention Soundiron in threads about cinematic and hybrid sound design sources. For early impressions on this specific title, KVR and Reddit are the best places to check current user feedback.
+Axe Machina is a relatively niche release, so large-scale community discussion is still building. Producers looking for unusual Kontakt instruments frequently mention Soundiron in threads about cinematic and hybrid sound design sources. For early impressions on this specific title, KVR and Reddit are the best places to check current user feedback.
 
 ---
 

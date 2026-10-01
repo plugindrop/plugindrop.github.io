@@ -40,7 +40,7 @@ Waves is running a tiered spend-and-get-free promotion layered on top of a broad
 
 ## What Producers Are Saying
 
-Waves has been a fixture in production communities for decades. On forums like Gearspace and subreddits such as r/WeAreTheMusicMakers and r/audioengineering, Waves plugins consistently appear in "go-to plugin" threads — particularly their mixing and dynamics processors. The brand's sales are well-tracked by deal-watchers; Waves runs promotions frequently, but tiered spend-to-get-free structures layer extra value on top of already-discounted pricing, which tends to generate solid community interest when the threshold is achievable.
+Waves has been a fixture in production communities for decades. The brand's sales are well-tracked by deal-watchers; Waves runs promotions frequently, but tiered spend-to-get-free structures layer extra value on top of already-discounted pricing, which tends to generate solid community interest when the threshold is achievable.
 
 ---
 

@@ -77,7 +77,7 @@ Deals in free plugin reports can expire without notice. Confirm availability and
 | Name | Price | Key Difference |
 |---|---|---|
 | Vital (by Matt Tytel) | Free | Spectral wavetable synth, browser-based preset system |
-| TAL-NoiseMaker | Free | Simple VA synthesis, lightweight CPU footprint |
+| TAL-NoiseMaker | Free | Simple VA synthesis |
 | Spitfire LABS | Free | Ongoing rotating sample instrument library, no required sampler |
 
 Zebralette 3 fits producers who want u-he's oscillator design without Zebra3's full complexity. Vital covers a broader wavetable palette at zero cost. LABS is the better pick for acoustic and orchestral textures over 8Dio's cinematic-dark approach.

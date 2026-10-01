@@ -49,7 +49,7 @@ Trap drum architecture is deceptively simple on paper: kick, clap or snare on th
 - **Platforms:** Windows, macOS
 - **Formats:** VST2, AU
 
-MT Power Drum Kit 2 is a free acoustic drum rompler for adding real snare transients on top of electronic claps. Its sample library covers a workable range of snare, rim, and hi-hat hits that blend convincingly when layered under a 707- or 909-style clap. It's not a premium library, but its zero cost and low CPU overhead suit budget trap setups.
+MT Power Drum Kit 2 is a free acoustic drum rompler for adding real snare transients on top of electronic claps. Its sample library covers a workable range of snare, rim, and hi-hat hits that blend convincingly when layered under a 707- or 909-style clap. It's not a premium library, but its zero cost suits budget trap setups.
 
 **Best for:** Adding acoustic snare body and hat realism to programmed trap patterns without spending anything.
 
@@ -129,7 +129,7 @@ For producers already using Serum from Step 2, the same instrument handles melod
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX
 
-LABS is Spitfire Audio's ongoing free library delivered through a lightweight plugin host. Individual instrument packs — including strings, keys, voices, and experimental textures — are each free to download independently. LABS is a free way to add an atmospheric layer behind a trap melody, particularly for emotional or melodic trap subgenres. The low memory overhead and simple interface make it practical on resource-limited systems.
+LABS is Spitfire Audio's ongoing free library delivered through a plugin host. Individual instrument packs — including strings, keys, voices, and experimental textures — are each free to download independently. LABS is a free way to add an atmospheric layer behind a trap melody, particularly for emotional or melodic trap subgenres. The low memory overhead and simple interface make it practical on resource-limited systems.
 
 **Best for:** Atmospheric string and pad layers that add emotional depth behind a lead melody without additional plugin cost.
 
@@ -212,7 +212,7 @@ For mix bus processing, high-pass filtering at 28–32Hz removes sub-rumble befo
 | Superior Drummer 3 | ~$359 | Drum Engine | Mic-level acoustic layering, MIDI grooves, articulation control | — |
 | Neural DSP Archetype: Gojira | ~$99 | Amp/Saturation | Selective harmonic distortion, cabinet modeling | — |
 | Vital | Free | Wavetable Synth | Serum-comparable architecture, active free tier | — |
-| LABS by Spitfire Audio | Free | Sample Library | Cinematic textures, atmospheric pads, low CPU | — |
+| LABS by Spitfire Audio | Free | Sample Library | Cinematic textures, atmospheric pads | — |
 | MT Power Drum Kit 2 | Free | Drum Rompler | Acoustic snare and hat layering at zero cost | — |
 
 ---

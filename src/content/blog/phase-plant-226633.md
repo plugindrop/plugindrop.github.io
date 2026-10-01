@@ -40,7 +40,7 @@ Phase Plant is a modular soft synthesizer developed by **Kilohearts**. It combin
 
 ## What Producers Are Saying
 
-Phase Plant has developed a strong reputation in synthesis-focused communities since its release. On forums and subreddits dedicated to sound design, it's regularly mentioned alongside Serum and Vital as a go-to for complex, evolving patches. Producers frequently point to its Snapin integration as a standout — the ability to process sound at the generator level rather than just at the output is something most competing synths don't offer. It's commonly recommended for producers who've outgrown preset-heavy synths and want more control over signal architecture.
+Phase Plant has developed a strong reputation in synthesis-focused communities since its release. Producers frequently point to its Snapin integration as a standout — the ability to process sound at the generator level rather than just at the output is something most competing synths don't offer. It's commonly recommended for producers who've outgrown preset-heavy synths and want more control over signal architecture.
 
 ---
 

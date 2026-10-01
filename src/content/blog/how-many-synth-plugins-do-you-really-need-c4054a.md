@@ -51,7 +51,6 @@ When evaluating whether a synth can consolidate your workflow, these are the spe
 - **Engine versatility** — Does it handle pads, leads, basses, and textures without switching plugins?
 - **Modulation depth** — Flexible mod routing reduces the need for separate modular tools
 - **Preset library quality** — A strong factory library shortens the learning curve dramatically
-- **CPU efficiency** — A synth you'll use on every track needs to run lean
 - **Workflow integration** — DAW-native formats, drag-and-drop, or MPE support where relevant
 
 Check the product page for confirmed specs on the current deal.

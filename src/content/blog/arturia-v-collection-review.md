@@ -292,7 +292,7 @@ The Yamaha DX7's 6-operator FM architecture is notoriously difficult to program 
 - **If you score for film or TV**, the CS-80 V, Mellotron V4, and CMI V give you authentic textures that modern virtual instruments can't replicate convincingly.
 - **If you need both vintage and modern production tools**, consider NI Komplete — the broader scope covers sampling, drums, and modern synths where Arturia focuses narrowly on vintage hardware accuracy.
 - **If you already own 3+ individual Arturia instruments**, upgrading to the full collection via a crossgrade is almost always cheaper than continuing to buy individually — check Arturia's site for crossgrade pricing.
-- **If CPU efficiency is a concern**, note that running many V Collection instruments simultaneously can be demanding — use Analog Lab V's preset system to load only what you need per project.
+- **If you plan to run many instruments at once**, note that running many V Collection instruments simultaneously can be demanding — use Analog Lab V's preset system to load only what you need per project.
 
 ---
 

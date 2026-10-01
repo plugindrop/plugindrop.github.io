@@ -117,7 +117,7 @@ Where it differentiates most clearly from the other two tools is on non-drum mat
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Transient Master (NI) | Free | 3-knob Attack/Sustain | Transparent, CPU-light, immediate workflow | [Get Free](https://www.native-instruments.com/en/products/komplete/effects/transient-master/) |
+| Transient Master (NI) | Free | 3-knob Attack/Sustain | Transparent, immediate workflow | [Get Free](https://www.native-instruments.com/en/products/komplete/effects/transient-master/) |
 | Smack Attack (Waves) | Paid | Shaped Attack/Sustain | Aggressive drum character, hip-hop/EDM focus | — |
 | Punch (Rob Papen) | Paid | Full envelope designer | Multi-source (drums, bass, synths), detailed control | — |
 
@@ -131,7 +131,7 @@ Where it differentiates most clearly from the other two tools is on non-drum mat
 
 - **If you're shaping transients on non-drum sources** — bass guitar, synthesizer leads, acoustic piano, live room mics — Punch's more detailed envelope controls give you options simpler tools don't. The wider use-case range justifies investment for producers working across diverse source material.
 
-- **If CPU efficiency is a constraint** (large session, older hardware, tracking live): Transient Master has a simple two-control design, so it is a light option.
+- **If you want a simple tool** (tracking live, quick fixes): Transient Master has a simple two-control design.
 
 - **If you're already on a Waves subscription:** Smack Attack may already be available to you. Check your library before purchasing any alternative.
 

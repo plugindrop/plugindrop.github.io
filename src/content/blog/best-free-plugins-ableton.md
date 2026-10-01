@@ -347,7 +347,7 @@ Once you've maxed out what the free tier offers, these three commercial plugins 
 |--------|-------|------|------------|-----|
 | Vital | Free | Wavetable Synth | Spectral warping, drag-and-drop modulation, audio-to-wavetable import | [Plugin Boutique](https://vital.audio/) |
 | Surge XT | Free | Hybrid Synth | Multi-engine synthesis, open source, CLAP support, massive preset library | [Get It](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17453-Surge-XT?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
-| OB-Xd | Free | Analog Poly Synth | Oberheim OB-X emulation, per-voice parameter variation, low CPU | [Free Download](https://www.discodsp.com/obxd/) |
+| OB-Xd | Free | Analog Poly Synth | Oberheim OB-X emulation, per-voice parameter variation | [Free Download](https://www.discodsp.com/obxd/) |
 | Dexed | Free | FM Synth | Yamaha DX7 emulation, SysEx patch loading, visual operator display | [Get It](https://asb2m10.github.io/dexed/) |
 | TDR Nova | Free | Dynamic EQ | Per-band dynamics, parallel EQ architecture, transparent processing | [Plugin Boutique](https://www.tokyodawn.net/tdr-nova/) |
 | Rough Rider 3 | Free | Compressor | Character compression, wet/dry blend, sidechain input | [Get It](https://www.pluginboutique.com/product/2-Effects/8-Compressor/6100-Rough-Rider-3?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |

@@ -34,7 +34,7 @@ Zebra 3 is the next-generation wireless modular synthesizer from German plugin d
 
 ## What Producers Are Saying
 
-Zebra 3 is a fresh release, so community discussion is still in its early stages. Initial chatter is appearing on [KVR Audio forums](https://www.kvraudio.com/) and [Reddit's r/synthesizers](https://www.reddit.com/r/synthesizers/) and [r/edmproduction](https://www.reddit.com/r/edmproduction/), where u-he products consistently draw enthusiastic attention. Zebra 2 has been a long-standing recommendation in film scoring and sound design circles, so the successor is entering with strong brand goodwill. Check KVR and Reddit for early impressions as the community digs in.
+Zebra 3 is a fresh release, so community discussion is still in its early stages. Zebra 2 has been a long-standing recommendation in film scoring and sound design circles, so the successor is entering with strong brand goodwill. Check KVR and Reddit for early impressions as the community digs in.
 
 ---
 

@@ -63,7 +63,7 @@ Dexibell doesn't run deep discounts frequently — this brand is more commonly s
 | Keyscape (Spectrasonics) | ~$399 | Massive sample library with 36+ keyboard models |
 | Addictive Keys (XLN Audio) | ~$79 per instrument | Lighter on resources, more affordable entry point |
 
-If install size and CPU efficiency are priorities, Pianoteq's pure modeling approach keeps things under 1 GB. If you want sheer breadth of keyboard models in one package, Keyscape covers more ground. Dexibell's T2L sits in between — hybrid modeling with sample-quality tone but more dynamic response than pure sample playback.
+If install size is a priority, Pianoteq's pure modeling approach keeps things under 1 GB. If you want sheer breadth of keyboard models in one package, Keyscape covers more ground. Dexibell's T2L sits in between — hybrid modeling with sample-quality tone but more dynamic response than pure sample playback.
 
 ## FAQ
 

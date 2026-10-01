@@ -36,7 +36,7 @@ The SSL G3 MultiBusComp is a bus compressor plugin developed by Solid State Logi
 
 ## What Producers Are Saying
 
-The SSL G-Series bus compressor circuit has been a consistent recommendation across mixing communities for years. On forums like Gearspace and Reddit's r/mixingmastering, the G-Bus topology regularly appears in threads about bus glue and mix cohesion — the hardware version is referenced as a benchmark, and plugin emulations of it are actively discussed as accessible alternatives. SSL-branded plugins tend to carry that recognition, with producers noting the circuit's ability to add density without obvious coloration at moderate settings.
+The SSL G-Series bus compressor circuit has been a consistent recommendation across mixing communities for years. SSL-branded plugins tend to carry that recognition, with producers noting the circuit's ability to add density without obvious coloration at moderate settings.
 
 ---
 

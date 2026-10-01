@@ -32,7 +32,7 @@ Soundtoys 5.5 is the complete bundle from Soundtoys, a company widely recognized
 
 ## What Producers Are Saying
 
-Soundtoys has been a recurring recommendation on mixing and sound design forums for well over a decade. On KVR Audio and Reddit's r/WeAreTheMusicMakers, Decapitator in particular is frequently mentioned as a go-to saturation plugin for both subtle analog warmth and aggressive distortion. EchoBoy consistently appears in "desert island plugin" threads as one of the few delays producers say they'd never give up. The bundle as a whole is commonly described in production communities as a creative effects collection rather than a utility set — the choice when you want your processing to have a distinct personality.
+Soundtoys has been a recurring recommendation on mixing and sound design forums for well over a decade. EchoBoy consistently appears in "desert island plugin" threads as one of the few delays producers say they'd never give up. The bundle as a whole is commonly described in production communities as a creative effects collection rather than a utility set — the choice when you want your processing to have a distinct personality.
 
 ---
 

@@ -24,11 +24,11 @@ Topos is a saturation, amp simulation, and speaker modeling plugin developed by 
 - **Speaker Simulation Section** — Shape tone and perceived space with Fidelity, Size, and Presence controls for detailed speaker design.
 - **Input Filter** — Low/high-pass filtering with adjustable slopes to tailor the tonal range before it hits the amp stage.
 - **Output Stage Controls** — Flux and Dynamics parameters for tightening transients and smoothing peaks after amplification.
-- **Zero-Latency Processing** — CPU-friendly, anti-aliased processing designed for real-time use without system strain.
+- **Zero-Latency Processing** — Anti-aliased processing designed for real-time use.
 
 ## What Producers Are Saying
 
-Topos has been generating positive buzz since its release. On the [KVR Audio forums](https://www.kvraudio.com/forum/viewtopic.php?t=619576), users frequently mention the speed of dialing in usable distortion tones compared to traditional saturation plugins. The interactive map interface is commonly highlighted as a standout feature. KVR reviewers have described it as lightweight, CPU-friendly, and easy to use, with a range from subtle warmth to aggressive drive.
+Topos has been generating positive buzz since its release. The interactive map interface is commonly highlighted as a standout feature. It covers a range from subtle warmth to aggressive drive.
 
 Worth noting: Forever 89 also offers **Topos: Play**, a free version with a reduced feature set — a good way to test the workflow before committing to the full version.
 
@@ -62,7 +62,7 @@ A: Topos is available as VST3 and AU (64-bit). There is no VST2 or AAX version l
 A: Yes. Forever 89 offers Topos: Play as a free download with a reduced feature set. It uses the same core interface but with fewer models and controls.
 
 **Q: What are the system requirements?**
-A: The plugin is described as CPU-friendly with zero-latency processing. For specific OS versions, RAM, and CPU requirements, check the Forever 89 product page.
+A: The plugin is described as offering zero-latency processing. For specific OS versions, RAM, and CPU requirements, check the Forever 89 product page.
 
 **Q: Can I try before I buy?**
 A: Downloading the free Topos: Play version is the best way to test the workflow. For refund policies on the paid version, check Plugin Boutique's terms.

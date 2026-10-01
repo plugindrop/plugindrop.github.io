@@ -39,7 +39,7 @@ The Classic Rock Collection is an expansion pack for XLN Audio's Addictive Drums
 
 ## What Producers Are Saying
 
-Addictive Drums 2 has been a consistent recommendation across production communities for years. On forums like KVR Audio and subreddits such as r/WeAreTheMusicMakers, it's frequently cited for its ease of use and mix-ready output compared to more complex drum engines. Producers who need solid results quickly — without spending hours on drum editing — commonly point to AD2 as their go-to. The platform's reputation for quality and accessibility makes expansion packs like this a lower-risk add-on for existing users.
+Addictive Drums 2 has been a consistent recommendation across production communities for years. Producers who need solid results quickly — without spending hours on drum editing — commonly point to AD2 as their go-to. The platform's reputation for quality and accessibility makes expansion packs like this a lower-risk add-on for existing users.
 
 ---
 

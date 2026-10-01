@@ -37,7 +37,7 @@ The Mercury-6 is Cherry Audio's software emulation of the Roland Jupiter-6, a cl
 
 ## What Producers Are Saying
 
-The Mercury-6 has built a positive reputation in plugin deal communities since its release. On Reddit's r/AudioProductionDeals and r/newplugindeals, it's commonly mentioned alongside other Cherry Audio titles as a strong value-for-money option in the vintage synth emulation space. Cherry Audio as a brand is frequently recommended in discussions about affordable alternatives to higher-priced emulations, and the Mercury-6 specifically comes up when producers talk about Jupiter-6-style sounds. KVR forums are a good place to read more detailed technical impressions from users.
+The Mercury-6 has built a positive reputation in plugin deal communities since its release. Cherry Audio as a brand is frequently recommended in discussions about affordable alternatives to higher-priced emulations, and the Mercury-6 specifically comes up when producers talk about Jupiter-6-style sounds. KVR forums are a good place to read more detailed technical impressions from users.
 
 ---
 

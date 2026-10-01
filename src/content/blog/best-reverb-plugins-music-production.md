@@ -157,7 +157,7 @@ TAL Software also makes the free TAL-U-NO-LX Juno emulation and TAL-Chorus-LX. T
 - **Platforms:** Windows, macOS
 - **Formats:** VST2, VST3, AU
 
-Voxengo is known for technically precise DSP — their paid plugins like SPAN and Correlometer are professional-grade analysis tools. OldSkoolVerb reflects that lineage: a clean, lightweight algorithmic reverb without the heavy modulation of TAL-Reverb-4 or the extreme tail lengths of Supermassive. It is a lightweight, clean free option that doesn't impose heavy color. It suits transparent ambience rather than character.
+Voxengo is known for technically precise DSP — their paid plugins like SPAN and Correlometer are professional-grade analysis tools. OldSkoolVerb reflects that lineage: a clean algorithmic reverb without the heavy modulation of TAL-Reverb-4 or the extreme tail lengths of Supermassive. It is a clean free option that doesn't impose heavy color. It suits transparent ambience rather than character.
 
 **Best for:** Transparent room ambience, light spatial placement, any source where reverb color is unwanted.
 
@@ -288,7 +288,7 @@ Convology XT comes from Impulse Record, a company whose primary business is sell
 | Arturia Rev PLATE-140 | ~$49 | Physical model | EMT 140 plate emulation | [Get It (Official)](https://www.arturia.com/products/software-effects/rev-plate140/overview) |
 | Valhalla Supermassive | Free | Algorithmic | Extreme tails, ambient — free from Valhalla | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | TAL-Reverb-4 | Free | Algorithmic | Dense, lush, Linux support | [Free Download](https://tal-software.com/products/tal-reverb-4) |
-| OldSkoolVerb | Free | Algorithmic | Transparent, low-CPU, Voxengo quality | [Free Download](https://www.voxengo.com/product/oldskoolverb/) |
+| OldSkoolVerb | Free | Algorithmic | Transparent, Voxengo quality | [Free Download](https://www.voxengo.com/product/oldskoolverb/) |
 | Dragonfly Reverb | Free | Algorithmic suite | Room/Hall/Plate/ER, LV2/Linux | [Free Download](https://github.com/michaelwillis/dragonfly-reverb) |
 | Raum | Free | Algorithmic/Spectral | 3 distinct modes, Cosmic for experimental | [Free Download](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/) |
 | Oril River | Free | Algorithmic | Multi-mode, transparent | Free (Denis Tihanov / KVR Audio) |

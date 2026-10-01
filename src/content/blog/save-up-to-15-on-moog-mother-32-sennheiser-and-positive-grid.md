@@ -46,7 +46,7 @@ Unlike fully modular systems that require patch cables to make any sound, the Mo
 
 ### What Producers Are Saying
 
-The Mother-32 has been a consistent recommendation on synthesis forums and communities for years. On Reddit's r/synthesizers and r/modular, it's frequently cited as one of the best entry points into semi-modular and Eurorack territory. Discussions on Gearspace commonly describe it as a long-term keeper that grows with a producer's skills rather than something you outgrow in a year. It's not a niche product — it's a community staple, which is part of why any discount on it draws attention.
+The Mother-32 has been a consistent recommendation on synthesis forums and communities for years. It's not a niche product — it's a community staple, which is part of why any discount on it draws attention.
 
 Since Moog hardware rarely sees discounts of this size, it's worth bookmarking our [When Does Moog Mother-32 Go On Sale?](/posts/when-does-moog-mother-32-go-on-sale) tracker if you want to know whether this is a one-off or the start of a pattern.
 

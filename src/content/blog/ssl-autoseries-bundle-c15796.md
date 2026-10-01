@@ -35,7 +35,7 @@ Solid State Logic is one of the most recognized names in professional audio — 
 
 ## What Producers Are Saying
 
-SSL occupies a specific tier in mixing communities — the brand carries institutional credibility that most plugin developers spend years trying to build. On forums like Gearspace and subreddits focused on mixing and mastering, SSL plugins are consistently cited as benchmark references. The autoSeries is discussed particularly in the context of producers who want SSL's processing approach without manually dialing in every parameter — a practical angle for high-volume production environments.
+SSL occupies a specific tier in mixing communities — the brand carries institutional credibility that most plugin developers spend years trying to build. The autoSeries is discussed particularly in the context of producers who want SSL's processing approach without manually dialing in every parameter — a practical angle for high-volume production environments.
 
 ---
 

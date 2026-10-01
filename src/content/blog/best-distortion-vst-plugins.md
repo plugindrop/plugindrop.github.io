@@ -242,7 +242,7 @@ Softube's Saturation Knob is a single continuous control with three underlying m
 - **Platforms:** Windows, macOS, Linux
 - **Formats:** VST, VST3, AU
 
-IVGI is a free analog saturation plugin from the same developer as SDRR, offering its own distinct harmonic character. IVGI is a free starting point for evaluating Klanghelm's saturation character before considering SDRR. Its harmonic profile is musical and controlled, and its lightweight CPU footprint makes it practical across many channels simultaneously.
+IVGI is a free analog saturation plugin from the same developer as SDRR, offering its own distinct harmonic character. IVGI is a free starting point for evaluating Klanghelm's saturation character before considering SDRR. Its harmonic profile is musical and controlled.
 
 **Best for:** Quick analog color on individual tracks; a natural free entry point into Klanghelm's saturation ecosystem.
 
@@ -259,7 +259,7 @@ IVGI is a free analog saturation plugin from the same developer as SDRR, offerin
 - **Platforms:** Windows, macOS, Linux
 - **Formats:** VST, VST3, AU
 
-TAL-Saturator V2 is a waveshaper with adjustable drive, saturation character, and output level. Saturator V2 handles subtle drive on synthesizers and pads without artifacts, and its minimal CPU overhead makes it a practical supporting-role insert across complex sessions.
+TAL-Saturator V2 is a waveshaper with adjustable drive, saturation character, and output level. Saturator V2 handles subtle drive on synthesizers and pads without artifacts.
 
 **Best for:** Subtle drive and harmonic thickening on polyphonic synthesizers, pads, and chord stacks.
 
@@ -312,7 +312,7 @@ If you have been working with IVGI, Saturation Knob, Chow Tape Model, or TAL-Sat
 | Chow Tape Model | Free | Physical tape model | Physics-based, open source, flutter/wow | [Free](https://chowdsp.com/products.html) |
 | Softube Saturation Knob | Free | Frequency-aware saturation | 3 modes, zero config, fast insert | [Free](https://www.softube.com/plug-ins/saturation-knob) |
 | IVGI by Klanghelm | Free | Analog circuit saturation | Same developer as SDRR, no limitations | [Free](https://klanghelm.com/contents/products/IVGI.php) |
-| TAL-Saturator V2 | Free | Waveshaper | Lightweight, stable, Linux support | [Free](https://tal-software.com/products/tal-effects) |
+| TAL-Saturator V2 | Free | Waveshaper | stable, Linux support | [Free](https://tal-software.com/products/tal-effects) |
 
 ---
 

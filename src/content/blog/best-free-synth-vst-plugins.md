@@ -139,7 +139,7 @@ OB-Xd emulates the Oberheim OB-X and OB-Xa, classic polysynths defined by their 
 
 Helm was Matthew Tytel's main instrument before Vital arrived, and it still earns its place in a plugin folder. Two oscillators, a sub-oscillator, a flexible resonant filter, an onboard step sequencer, and a visual modulation routing system make it an excellent teaching tool and a practical workhorse for lighter sessions. Tytel no longer actively develops it, but it is stable across current DAWs and operating systems.
 
-**Best for:** Learning synthesis fundamentals, lightweight sessions, clean subtractive patches
+**Best for:** Learning synthesis fundamentals, clean subtractive patches
 
 [→ Download Helm Free](https://tytel.org/helm/)
 [→ Download direct from tytel.org](https://tytel.org/helm/)
@@ -227,7 +227,7 @@ Charlatan is a straightforward two-oscillator virtual analog synth with polyphon
 
 Podolski is u-he's minimalist free synth — one oscillator, one filter, one envelope, one arpeggiator — but the filter is the story. It uses u-he's zero-delay feedback circuit modeling, producing a resonant sweep that sounds noticeably more alive than what most freeware offers. CPU usage is negligible. For leads and basses where the filter character matters, it outpunches plugins costing far more.
 
-**Best for:** Filter-driven leads and basses, CPU-light sessions, producers who want u-he filter quality on any machine
+**Best for:** Filter-driven leads and basses, producers who want u-he filter quality
 
 [→ Download Podolski Free](https://u-he.com/products/podolski/)
 
@@ -342,7 +342,7 @@ Magical8bitPlug 2 emulates classic NES and Game Boy sound chips with selectable 
 | TAL-NoiseMaker | Free | Virtual Analog | 3 oscillators, onboard FX, easiest to learn | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/429-TAL-NoiseMaker?a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins) |
 | Synth1 | Free | Virtual Analog | 100,000+ community presets, Nord-inspired | [Free Download](https://www.pluginboutique.com/search?q=Synth1&a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins) |
 | Charlatan | Free | Virtual Analog | Simple, stable, clean two-oscillator patches | [Developer](https://plugins4free.com/plugin/2285/) |
-| Podolski | Free | Virtual Analog | ZDF filter, ultra-low CPU, u-he quality | [Free Download](https://u-he.com/products/podolski/) |
+| Podolski | Free | Virtual Analog | ZDF filter, u-he quality | [Free Download](https://u-he.com/products/podolski/) |
 | Odin2 | Free | Multi-Synthesis | 6 oscillator modes, semi-modular, open source | [Free Download](https://www.pluginboutique.com/search?q=Odin2&a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins) |
 | Pendulate | Free | Chaos / Experimental | Double-pendulum oscillator, Eventide-backed | [Developer](https://www.newfangledaudio.com/pendulate) |
 | Magical8bitPlug 2 | Free | Chiptune | NES/Game Boy chip emulation, duty cycle control | [Free Download](https://ymck.net/app/magical-8bit-plug-en/) |

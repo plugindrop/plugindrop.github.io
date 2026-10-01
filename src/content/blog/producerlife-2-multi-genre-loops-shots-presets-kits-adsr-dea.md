@@ -47,7 +47,7 @@ Producerlife 2 is a comprehensive production toolkit designed for beatmakers and
 
 ## What Producers Are Saying
 
-Producerlife packs have circulated in sample-pack discussions on forums like KVR Audio and Reddit's [r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/), where multi-genre bundles consistently attract attention for their flexibility. Community members in those spaces frequently favor packs that work across hip-hop, electronic, and pop workflows — exactly the positioning Producerlife 2 targets. This is a niche product in a crowded market; check [KVR](https://www.kvraudio.com) or [r/audioengineering](https://www.reddit.com/r/audioengineering/) for early community impressions as discussion builds.
+Community members in those spaces frequently favor packs that work across hip-hop, electronic, and pop workflows — exactly the positioning Producerlife 2 targets. This is a niche product in a crowded market; check [KVR](https://www.kvraudio.com) or [r/audioengineering](https://www.reddit.com/r/audioengineering/) for early community impressions as discussion builds.
 
 ---
 

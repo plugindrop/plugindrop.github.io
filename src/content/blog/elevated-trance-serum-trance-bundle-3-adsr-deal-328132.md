@@ -38,7 +38,7 @@ Elevated Trance Serum Trance Bundle 3 is a preset collection for Xfer Records Se
 
 ## What Producers Are Saying
 
-Elevated Trance has built a following among trance producers who want Serum presets that don't require heavy genre-translation work. On forums like [KVR Audio](https://www.kvraudio.com/) and communities such as [r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/), trance-specific Serum bundles are frequently recommended as time-savers for producers who want authentic genre sounds without building every patch from scratch. This is a niche product in a niche genre — if early community impressions are important to you, check those forums for the latest discussion threads.
+Elevated Trance has built a following among trance producers who want Serum presets that don't require heavy genre-translation work. This is a niche product in a niche genre — if early community impressions are important to you, check those forums for the latest discussion threads.
 
 ---
 

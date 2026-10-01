@@ -47,7 +47,7 @@ The RC-20 XO Bundle is an XLN Audio two-plugin package sold through Plugin Bouti
 
 ## What Producers Are Saying
 
-RC-20 Retro Color has become a go-to recommendation in lo-fi and hip-hop production communities. On forums and subreddits like r/edmproduction and r/WeAreTheMusicMakers, it's commonly cited as one of the easiest ways to add authentic vintage character without extensive routing. XO frequently comes up in discussions about workflow-focused drum tools — its visual browsing approach is often highlighted as a meaningful departure from conventional sample browsers.
+RC-20 Retro Color has become a go-to recommendation in lo-fi and hip-hop production communities. XO frequently comes up in discussions about workflow-focused drum tools — its visual browsing approach is often highlighted as a meaningful departure from conventional sample browsers.
 
 ---
 

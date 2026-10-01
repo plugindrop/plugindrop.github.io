@@ -46,7 +46,7 @@ Wa Production is a well-established name in the sample pack and plugin space, kn
 
 ## What Producers Are Saying
 
-Wa Production's "What About" series has built a solid reputation in producer communities. On forums like KVR and subreddits such as [r/audioProductionDeals](https://www.reddit.com/r/audioProductionDeals) and [r/edmproduction](https://www.reddit.com/r/edmproduction), the brand is commonly recommended for genre-targeted packs that deliver on specificity rather than breadth. Bass house vocal packs in general are a niche that producers frequently discuss as underserved — most vocal libraries skew pop or deep house. Community reception for genre-specific Wa Production packs tends to be positive among producers who want something immediately usable without heavy editing.
+Wa Production's "What About" series has built a solid reputation in producer communities. Bass house vocal packs in general are a niche that producers frequently discuss as underserved — most vocal libraries skew pop or deep house. Community reception for genre-specific Wa Production packs tends to be positive among producers who want something immediately usable without heavy editing.
 
 ---
 

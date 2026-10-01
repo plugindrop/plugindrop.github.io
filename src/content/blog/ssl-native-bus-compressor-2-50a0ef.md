@@ -40,7 +40,7 @@ SSL Native Bus Compressor 2 is Solid State Logic's official software recreation 
 
 ## What Producers Are Saying
 
-The SSL G-Series Bus Compressor is one of the most consistently referenced tools in mixing communities. On KVR Audio forums and Reddit's r/mixingmastering, the SSL bus compressor character — particularly the "glue" it adds at moderate settings — comes up regularly in discussions about 2-bus and stem processing. The Native version is frequently mentioned alongside the hardware as the closest software equivalent, given its origin from the same manufacturer rather than a reverse-engineered emulation.
+The SSL G-Series Bus Compressor is one of the most consistently referenced tools in mixing communities. The Native version is frequently mentioned alongside the hardware as the closest software equivalent, given its origin from the same manufacturer rather than a reverse-engineered emulation.
 
 ---
 

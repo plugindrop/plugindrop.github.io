@@ -40,7 +40,7 @@ Pigments is Arturia's flagship software synthesizer, combining several synthesis
 
 ## What Producers Are Saying
 
-Pigments has built a reputation as one of Arturia's most flexible synths since its original release, frequently coming up in discussions about hybrid or multi-engine synthesis. On forums like KVR Audio and Reddit's r/synthesizers, it's commonly recommended alongside Serum and Vital when producers ask about wavetable synths with strong modulation options. Discussions often focus on its visual interface and how approachable the modulation matrix is compared to more code-like modulation systems in other synths. As with any synth, opinions vary by genre and workflow, so it's worth reading a few threads relevant to your specific use case.
+Pigments has built a reputation as one of Arturia's most flexible synths since its original release, frequently coming up in discussions about hybrid or multi-engine synthesis. Discussions often focus on its visual interface and how approachable the modulation matrix is compared to more code-like modulation systems in other synths. As with any synth, opinions vary by genre and workflow, so it's worth reading a few threads relevant to your specific use case.
 
 ## Who Is It For?
 

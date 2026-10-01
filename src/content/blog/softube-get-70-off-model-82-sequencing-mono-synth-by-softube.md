@@ -36,7 +36,7 @@ Softube's Model 82 is a monophonic synthesizer plugin with a built-in step seque
 
 ## What Producers Are Saying
 
-The Model 82 has attracted attention in communities that follow Softube's catalog closely. On Reddit's r/synthesizers and r/edmproduction, Softube instruments are generally discussed as premium-tier options — well-built but priced accordingly, which makes sales like this a genuine entry point. The sequencing mono synth category has a loyal following on KVR Audio forums, where users frequently compare options across Softube, u-he, and Arturia for acid and techno-adjacent workflows. Community discussion on this specific model is still growing — check [KVR Audio](https://www.kvraudio.com) and [r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals) for current user impressions.
+The Model 82 has attracted attention in communities that follow Softube's catalog closely. Community discussion on this specific model is still growing — check [KVR Audio](https://www.kvraudio.com) and [r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals) for current user impressions.
 
 ---
 

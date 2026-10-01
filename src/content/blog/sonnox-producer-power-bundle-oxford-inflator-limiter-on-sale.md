@@ -37,7 +37,7 @@ Sonnox is a UK-based plugin developer with roots in professional broadcast and r
 
 ## What Producers Are Saying
 
-The Oxford Inflator in particular has a long-standing reputation on mixing and mastering forums. On [KVR Audio](https://www.kvraudio.com), it's commonly referenced in threads about loudness maximization as a go-to tool for adding density without obvious pumping. The Oxford Limiter also gets steady mentions in mastering-focused discussions as a clean, no-fuss peak limiter. Sonnox as a brand tends to attract users who prioritize precision and professional pedigree over visual flair — the community reception for both tools reflects that reputation.
+The Oxford Inflator in particular has a long-standing reputation on mixing and mastering forums. The Oxford Limiter also gets steady mentions in mastering-focused discussions as a clean, no-fuss peak limiter. Sonnox as a brand tends to attract users who prioritize precision and professional pedigree over visual flair — the community reception for both tools reflects that reputation.
 
 ---
 

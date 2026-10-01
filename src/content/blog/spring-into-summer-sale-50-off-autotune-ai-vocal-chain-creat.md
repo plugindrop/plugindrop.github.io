@@ -41,7 +41,7 @@ Prices above are approximate and can shift by product tier and bundle — always
 
 ## What Producers Are Saying
 
-Auto-Tune occupies a rare spot in the plugin world — it's both a professional utility and a cultural touchstone. On forums like KVR Audio and Reddit's r/audioengineering, it consistently shows up in "essential vocal chain" threads, and producers working in hip-hop and R&B frequently cite Auto-Tune Pro as a non-negotiable part of their setup. The plugin has enough industry adoption that it's supported natively or via ReWire in virtually every major DAW, which is part of why it holds its price so well outside of sales like this one.
+Auto-Tune occupies a rare spot in the plugin world — it's both a professional utility and a cultural touchstone. The plugin has enough industry adoption that it's supported natively or via ReWire in virtually every major DAW, which is part of why it holds its price so well outside of sales like this one.
 
 ---
 

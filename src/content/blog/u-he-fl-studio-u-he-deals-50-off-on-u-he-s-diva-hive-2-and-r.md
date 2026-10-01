@@ -31,7 +31,7 @@ u-he doesn't run deep discounts often. When they do, the synthesizer community t
 u-he is a German software developer with a long-standing reputation for building synthesizers that prioritize sound quality and analog authenticity. The three plugins in this deal cover distinct sonic territory:
 
 - **Diva** is a virtual analog synthesizer that models the circuits of classic hardware synths with CPU-intensive accuracy. It's known for warmth and authenticity.
-- **Hive 2** is a streamlined hybrid synthesizer built for speed and CPU efficiency, making it a go-to for producers who need fast workflow without sacrificing sound quality.
+- **Hive 2** is a streamlined hybrid synthesizer built for speed, making it a fit for producers who need fast workflow without sacrificing sound quality.
 - **Repro** is u-he's faithful recreation of the classic Sequential Prophet synthesizers, available in two versions (Repro-1 and Repro-5) that capture the character of those iconic hardware units.
 
 ## Key Features
@@ -53,14 +53,13 @@ u-he is a German software developer with a long-standing reputation for building
 
 ## What Producers Are Saying
 
-Diva has held a consistent reputation on synthesis forums for years. On KVR and Reddit's production communities, it's routinely cited in discussions about the "most realistic-sounding virtual analog" synthesizers available. Users commonly point to its filter behavior as a benchmark for software analog emulation.
+Diva has held a consistent reputation on synthesis forums for years. Users commonly point to its filter behavior as a benchmark for software analog emulation.
 
-Hive 2 frequently comes up in threads about CPU-friendly production tools — producers running dense sessions tend to recommend it for maintaining high instance counts. Repro is a popular recommendation in communities focused on vintage synthesis and classic hardware recreation.
+Repro is a popular recommendation in communities focused on vintage synthesis and classic hardware recreation.
 
 ## Who Is It For?
 
 - **Analog synthesis enthusiasts** — Diva is specifically designed for producers chasing the texture of classic hardware without the maintenance overhead.
-- **Busy session producers** — Hive 2's low CPU demand makes it suited for large projects with many simultaneous instrument tracks.
 - **Vintage and retro sound designers** — Repro targets producers working in styles that call for authentic Prophet-era tonality.
 - **FL Studio users** — this deal is structured through the FL Studio/u-he partnership, making it a natural fit for producers already in that ecosystem.
 

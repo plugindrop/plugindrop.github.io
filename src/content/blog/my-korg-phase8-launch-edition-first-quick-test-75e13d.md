@@ -32,7 +32,7 @@ The Korg Phase8 is an 8-voice acoustic synthesizer developed by Korg Berlin. It'
 
 ## What Producers Are Saying
 
-The Phase8 has sparked a lively debate across the synth community. On Reddit's r/synthesizers, users have shared early demos and first impressions, with ambient and experimental producers praising its unique tactile character and sounds that digital emulations simply can't replicate. Others have questioned the price-to-feature ratio at $1,149. Discussions are also active on [ModWiggler](https://www.modwiggler.com/forum/viewtopic.php?t=296340) and [Synthtopia](https://www.synthtopia.com/content/2026/01/22/korg-phase8-review-demo/), where early adopters are exploring CV integration and creative resonator modifications.
+The Phase8 has sparked a lively debate across the synth community. On Reddit's r/synthesizers, users have shared early demos and first impressions, with ambient and experimental producers praising its unique tactile character and sounds that digital emulations simply can't replicate. Others have questioned the price-to-feature ratio at $1,149.
 
 ## Who Is It For?
 

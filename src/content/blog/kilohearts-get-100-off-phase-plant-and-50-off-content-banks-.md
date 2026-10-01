@@ -37,7 +37,7 @@ Phase Plant is a semi-modular synthesizer by Kilohearts, a Swedish audio softwar
 
 ## What Producers Are Saying
 
-Phase Plant has built consistent traction in synthesis and production communities since its release. On subreddits like r/synthesizers and r/edmproduction, it comes up regularly alongside Serum and Vital as a recommendation for producers who want modular-style depth without a full modular setup. The Snapins ecosystem is a recurring talking point — producers frequently note that owning other Kilohearts tools makes Phase Plant a natural hub rather than just another standalone synth. It's been a community fixture long enough that the positive reception is well-established, not hype-driven.
+Phase Plant has built consistent traction in synthesis and production communities since its release. The Snapins ecosystem is a recurring talking point — producers frequently note that owning other Kilohearts tools makes Phase Plant a natural hub rather than just another standalone synth. It's been a community fixture long enough that the positive reception is well-established, not hype-driven.
 
 ## Who Is It For?
 

@@ -26,7 +26,7 @@ draft: true
 
 ## What Are Diva, Hive 2, and Repro?
 
-u-he is a German audio software developer known for precision analog modeling and exacting sound quality. This promotion covers three distinct synthesizers, each targeting a different workflow. Together they cover a wide range of synthesis approaches — from CPU-intensive analog emulation to lightweight hybrid design.
+u-he is a German audio software developer known for precision analog modeling and exacting sound quality. This promotion covers three distinct synthesizers, each targeting a different workflow. Together they cover a wide range of synthesis approaches — from analog emulation to hybrid design.
 
 - **Diva** (Dinosaur Impersonating Virtual Analogue) is u-he's flagship analog synthesizer emulation, modeling oscillator and filter circuits from several classic hardware synths.
 - **Hive 2** is a hybrid synthesizer built for efficiency and speed — lower CPU overhead, fast patching, and a broad factory preset library.
@@ -53,12 +53,11 @@ u-he is a German audio software developer known for precision analog modeling an
 
 ## What Producers Are Saying
 
-Diva is one of the more consistently recommended analog emulation plugins in synthesis communities. Forum and Reddit discussions covering analog modeling frequently cite it alongside hardware comparisons, with users noting the oscillator and filter accuracy as distinguishing factors. Hive 2 is commonly brought up in threads about CPU-efficient alternatives within the u-he lineup. Repro has a dedicated following among producers focused on vintage analog tones and period-accurate sound design.
+Diva is one of the more consistently recommended analog emulation plugins in synthesis communities. Repro has a dedicated following among producers focused on vintage analog tones and period-accurate sound design.
 
 ## Who Is It For?
 
 - **Sound designers** — Diva's selectable oscillator and filter circuits offer wide tonal range for building patches from scratch
-- **Producers with dense plugin chains** — Hive 2's low CPU overhead makes it practical when track counts and instance loads are high
 - **Vintage synth enthusiasts** — Repro's component-level modeling appeals to players who prioritize hardware-accurate behavior and imperfection
 - **FL Studio users** — this deal runs through Image-Line's partnership page, making it a natural addition to the FL Studio workflow
 

@@ -171,7 +171,7 @@ Same pricing note applies here as with VintageVerb: Valhalla Room sits at $49.99
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Valhalla Supermassive | Free | Algorithmic | 16 delay lines, massive diffuse tails, shimmer modes | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| TAL-Reverb-4 | Free | Plate/Hall | Warm vintage character, shimmer mode, low CPU | [Free Download](https://tal-software.com/products/tal-reverb-4) |
+| TAL-Reverb-4 | Free | Plate/Hall | Warm vintage character, shimmer mode | [Free Download](https://tal-software.com/products/tal-reverb-4) |
 | Dragonfly Reverb | Free | Algorithmic Suite | 4 separate plugins: Room, Hall, Plate, Early Reflections | [Download Free](https://michaelwillis.github.io/dragonfly-reverb/) |
 | OldSkoolVerb | Free | Algorithmic | Vintage warmth, smooth tail, part of MFreeFXBundle | [Download Free](https://www.meldaproduction.com/MCharmVerb) |
 | Valhalla VintageVerb | $49.99 | Algorithmic | 18 hardware-era algorithms | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
@@ -220,7 +220,7 @@ A: For ambient and spatial work specifically: yes, Supermassive is genuinely com
 A: No. Both plugins are priced at $49.99 and Valhalla does not run seasonal discounts on them the way many other developers do. If you've confirmed you need what the paid tier offers, buying now costs the same as buying later. See [Does Valhalla DSP Go On Sale?](/posts/does-valhalla-dsp-ever-go-on-sale/) for the full history.
 
 **Q: What's the difference between algorithmic reverb and convolution reverb?**
-A: Algorithmic reverbs — all the picks in this guide — generate reverb using mathematical models. They are CPU-efficient, highly tweakable, and don't require impulse response files. Convolution reverbs use recordings of real acoustic spaces and can sound more realistic for specific rooms, but require IR files and offer less creative flexibility. For most music production contexts, algorithmic reverbs are the more practical tool.
+A: Algorithmic reverbs — all the picks in this guide — generate reverb using mathematical models. They are highly tweakable and don't require impulse response files. Convolution reverbs use recordings of real acoustic spaces and can sound more realistic for specific rooms, but require IR files and offer less creative flexibility. For most music production contexts, algorithmic reverbs are the more practical tool.
 
 **Q: Is the Melda MFreeFXBundle worth installing just to get OldSkoolVerb?**
 A: The bundle includes over 40 free plugins, so the value proposition is real if you're open to adding Melda tools to your workflow. If you want a single clean reverb install without bundle overhead, TAL-Reverb-4 or Valhalla Supermassive are the simpler options.

@@ -13,7 +13,7 @@ score: 1.68
 
 ## What Is Spitfire Audio LABS?
 
-LABS is Spitfire Audio's free instrument collection. Spitfire is one of the top orchestral and cinematic sample library developers — their paid products (BBC Symphony Orchestra, Albion, Chamber Strings) are used in film, TV, and game scoring worldwide. LABS gives away curated instruments in a lightweight player. New LABS instruments are added regularly.
+LABS is Spitfire Audio's free instrument collection. Spitfire is one of the top orchestral and cinematic sample library developers — their paid products (BBC Symphony Orchestra, Albion, Chamber Strings) are used in film, TV, and game scoring worldwide. LABS gives away curated instruments in a free player. New LABS instruments are added regularly.
 
 ## Key Features
 
@@ -26,7 +26,7 @@ LABS is Spitfire Audio's free instrument collection. Spitfire is one of the top 
 
 ## What Producers Are Saying
 
-LABS is one of the most widely recommended free instrument collections online. On Reddit's r/WeAreTheMusicMakers and r/composer, Soft Piano alone is cited as one of the best free piano sounds available. On KVR, LABS instruments appear in nearly every "best free instruments" thread. Producers across genres — from lo-fi to orchestral to electronic — use LABS sounds in released tracks.
+LABS is one of the most widely recommended free instrument collections online. Producers across genres — from lo-fi to orchestral to electronic — use LABS sounds in released tracks.
 
 ## Who Is It For?
 

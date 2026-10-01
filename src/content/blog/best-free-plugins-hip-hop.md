@@ -278,7 +278,7 @@ Graillon 2 provides real-time pitch correction alongside a pitch-shifting sectio
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| TAL-NoiseMaker | Free | Virtual Analog Synth | 3 oscillators, built-in FX, low CPU | [→ Download TAL-NoiseMaker Free](https://tal-software.com/products/tal-noisemaker) |
+| TAL-NoiseMaker | Free | Virtual Analog Synth | 3 oscillators, built-in FX | [→ Download TAL-NoiseMaker Free](https://tal-software.com/products/tal-noisemaker) |
 | Vital | Free | Wavetable Synth | Wavetable, FM, granular, drag-drop modulation | [Free](https://vital.audio/) |
 | Surge XT | Free | Wavetable/FM Synth | 11 oscillator types, open source, 160+ mod sources | [Free Download](https://surge-synthesizer.github.io) |
 | OB-Xd | Free | Vintage Analog Synth | Oberheim OB-X emulation, warm analog character | [Free Download](https://www.discodsp.com) |
@@ -314,7 +314,7 @@ A: FL Studio supports VST2 and VST3; Ableton Live supports VST3 and AU (AU is ma
 A: Vital's free tier includes the full core synthesis engine. Serum's primary advantages are its visual wavetable editor and the scale of its third-party preset library.
 
 **Q: How heavy are these plugins on CPU and RAM?**
-A: Sample-based plugins — LABS and Komplete Start — carry the most RAM load when their libraries are in use. Pure synthesizers like TAL-NoiseMaker, OB-Xd, and Vital at basic polyphony are lightweight. TDR Nova, Rough Rider 3, and Graillon 2 have negligible CPU impact in typical hip-hop session sizes.
+A: Sample-based plugins — LABS and Komplete Start — carry the most RAM load when their libraries are in use.
 
 **Q: Do any of these plugins require an account or registration?**
 A: LABS requires a free Spitfire Audio account. Komplete Start requires a Native Instruments account and the NI Connect installer. TAL-NoiseMaker, Vital, Rough Rider 3, Graillon 2, Valhalla Supermassive, TDR Nova, Surge XT, OB-Xd, and MT Power Drum Kit 2 are all direct downloads with no account required.

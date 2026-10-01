@@ -40,7 +40,7 @@ PSP VintageWarmer2 is a vintage-style saturation and soft-clipping plugin develo
 
 ## What Producers Are Saying
 
-PSP VintageWarmer2 has been circulating in mixing and mastering discussions for years. On forums like KVR Audio, it's frequently mentioned alongside tape emulators and console saturation plugins as a go-to for adding density to sterile-sounding digital recordings. It's commonly recommended for mix bus and mastering chain use, particularly for producers working in genres where analog warmth matters — indie rock, lo-fi, soul, and vintage-influenced electronic music. The multi-band mode gets specific praise in discussions about transparent saturation on full mixes.
+PSP VintageWarmer2 has been circulating in mixing and mastering discussions for years. It's commonly recommended for mix bus and mastering chain use, particularly for producers working in genres where analog warmth matters — indie rock, lo-fi, soul, and vintage-influenced electronic music. The multi-band mode gets specific praise in discussions about transparent saturation on full mixes.
 
 ---
 

@@ -32,7 +32,7 @@ The Shadow Hills Mastering Compressor is a plugin emulation of the Shadow Hills 
 
 ## What Producers Are Saying
 
-The hardware Shadow Hills Mastering Compressor has been a fixture in high-end mastering studios for years, and the plugin version carries significant recognition in mixing and mastering communities. On forums like Gearslutz (now Gearspace) and KVR, discussions around bus compression frequently include this plugin when producers want the hardware character without the hardware price tag. It's commonly referenced as one of the more authentic-feeling two-stage compressor emulations available, particularly for mix bus and mastering chain applications.
+The hardware Shadow Hills Mastering Compressor has been a fixture in high-end mastering studios for years, and the plugin version carries significant recognition in mixing and mastering communities. It's commonly referenced as one of the more authentic-feeling two-stage compressor emulations available, particularly for mix bus and mastering chain applications.
 
 ---
 

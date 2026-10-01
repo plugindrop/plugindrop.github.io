@@ -33,7 +33,7 @@ Strum GS-2 is a guitar synthesizer developed by Applied Acoustics Systems (AAS),
 
 ## What Producers Are Saying
 
-Strum GS-2 has been around for several years and has built a loyal following among producers who need guitar parts but don't play guitar. On Reddit's r/AudioProductionDeals and KVR forums, users frequently mention it as one of the more convincing MIDI guitar solutions available — particularly for strummed acoustic parts in pop, folk, and singer-songwriter productions. The physical modeling approach is commonly praised for feeling more responsive than sample-based alternatives, though users note that no virtual guitar fully replaces a live recording.
+Strum GS-2 has been around for several years and has built a loyal following among producers who need guitar parts but don't play guitar. The physical modeling approach is commonly praised for feeling more responsive than sample-based alternatives, though users note that no virtual guitar fully replaces a live recording.
 
 ## Who Is It For?
 

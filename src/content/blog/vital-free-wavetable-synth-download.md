@@ -32,7 +32,7 @@ Vital is a wavetable synthesizer created by Matt Tytel. It launched in 2020 and 
 
 ## What Producers Are Saying
 
-Vital is a constant presence in "best free synth" discussions on Reddit and KVR. On r/synthrecipes and r/edmproduction, producers frequently compare it favorably to Serum — citing the visual modulation and free price as major advantages. The community has also built a large library of free presets and wavetables that extend the free tier significantly.
+Vital is a free wavetable synthesizer with visual modulation. The community has also built a large library of free presets and wavetables that extend the free tier significantly.
 
 ## Who Is It For?
 
@@ -49,7 +49,7 @@ Vital is a constant presence in "best free synth" discussions on Reddit and KVR.
 | Vital Plus | $25 | 250+ presets, 100+ wavetables |
 | Vital Pro | $80 | 400+ presets, 150+ wavetables, text-to-wavetable |
 
-The free tier is not a trial. The synth engine is identical across all tiers — you're paying for preset/wavetable packs. Community-made presets and wavetables are widely available online for free.
+The free tier is not a trial. The synth engine is identical across all tiers — you're paying for preset/wavetable packs. Third-party presets and wavetables are available online.
 
 [Download Vital — FREE](https://vital.audio/)
 

@@ -37,7 +37,7 @@ The Epic Fury Bundle is a collection of music production tools created by Filipe
 
 ## What Producers Are Saying
 
-Filipe Leitao's work tends to attract attention in niche production communities rather than mainstream plugin forums. Discussions about his releases occasionally surface on Reddit's [r/newplugindeals](https://www.reddit.com/r/newplugindeals/) and [r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/), where users commonly mention the strong value-to-price ratio of his bundle releases. For deeper community impressions, [KVR Audio](https://www.kvraudio.com/) is worth checking for any developer-specific threads.
+Filipe Leitao's work tends to attract attention in niche production communities rather than mainstream plugin forums. For deeper community impressions, [KVR Audio](https://www.kvraudio.com/) is worth checking for any developer-specific threads.
 
 ---
 

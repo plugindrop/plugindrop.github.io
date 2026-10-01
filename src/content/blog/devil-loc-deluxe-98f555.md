@@ -39,7 +39,7 @@ Devil-Loc Deluxe is a character compression plugin by SoundToys, modeled on the 
 
 ## What Producers Are Saying
 
-Devil-Loc Deluxe has earned a strong reputation in mixing communities over the years. On forums like KVR Audio and Reddit's r/audioengineering, SoundToys plugins are consistently ranked among the top character processors — and Devil-Loc specifically comes up frequently in discussions about drum smashing, lo-fi textures, and parallel compression techniques. Producers commonly mention it as a go-to for adding aggression to drum buses or gluing loops without sounding clinical.
+Devil-Loc Deluxe has earned a strong reputation in mixing communities over the years. Producers commonly mention it as a go-to for adding aggression to drum buses or gluing loops without sounding clinical.
 
 ---
 

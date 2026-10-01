@@ -35,7 +35,7 @@ Devil Loc Deluxe is a character compressor plugin from Soundtoys, designed to de
 
 ## What Producers Are Saying
 
-Soundtoys has a strong standing in production communities. On forums like Gearspace and Reddit's r/audioengineering, Devil Loc comes up regularly in threads about lo-fi drum processing, parallel compression techniques, and "character" compression. Producers commonly cite it for adding that compressed, slightly broken quality to drum buses that programmatic saturation tools don't replicate naturally. The Deluxe version is the recommended pick over the free edition when users want the Mix knob for parallel blending.
+Soundtoys has a strong standing in production communities. Producers commonly cite it for adding that compressed, slightly broken quality to drum buses that programmatic saturation tools don't replicate naturally. The Deluxe version is the recommended pick over the free edition when users want the Mix knob for parallel blending.
 
 ---
 

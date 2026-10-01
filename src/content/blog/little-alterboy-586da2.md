@@ -36,7 +36,7 @@ Little AlterBoy is a vocal pitch and formant shifting plugin developed by Soundt
 
 ## What Producers Are Saying
 
-Little AlterBoy has been a community staple for years. On forums like KVR Audio and Reddit's r/audioengineering, it's frequently cited as a go-to for creative vocal manipulation — particularly for robotic/vocoder-style effects and quick gender-swap transformations. Soundtoys plugins in general carry a strong reputation in production circles, and Little AlterBoy is commonly recommended when producers ask about pitch/formant tools that don't require complex routing.
+Little AlterBoy has been a community staple for years. Soundtoys plugins in general carry a strong reputation in production circles, and Little AlterBoy is commonly recommended when producers ask about pitch/formant tools that don't require complex routing.
 
 ---
 

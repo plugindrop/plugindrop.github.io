@@ -163,7 +163,7 @@ TAL-Flanger follows the same design philosophy as TAL-Chorus-LX: analog-modeled 
 - **Platforms:** Windows
 - **Formats:** VST2
 
-GVST has been publishing free VST plugins since the format's early days. GChorus reflects that lineage: compact, low CPU, and stable in DAW environments where resource efficiency matters. It covers the core chorus parameters and is light on resources, which suits smaller setups. Windows-only, which is the significant constraint — macOS users should go directly to TAL-Chorus-LX or MChorus.
+GVST has been publishing free VST plugins since the format's early days. GChorus reflects that lineage: compact and simple. It covers the core chorus parameters and is light on resources, which suits smaller setups. Windows-only, which is the significant constraint — macOS users should go directly to TAL-Chorus-LX or MChorus.
 
 **Best for:** Windows producers who want the smallest possible chorus footprint without sacrificing basic quality.
 
@@ -226,7 +226,7 @@ Chris Johnson's AirWindows project is a large collection of free, open-source au
 | TAL-Flanger | Free | Flanger | Analog-modeled, simple UI, TAL quality | [Free Download](https://tal-software.com/products/tal-effects) |
 | Valhalla SuperMassive | Free | Modulation/Reverb | Ensemble/chorus modes, ambient focus | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Blue Cat's Chorus | Free | Chorus | Clean and dependable, standard controls | [Free Download](https://www.bluecataudio.com/Products/Product_Chorus/) |
-| GVST GChorus | Free | Chorus | Ultra-lightweight, Windows/VST2 only | [Free Download](https://gvst.uk/gchorus.htm) |
+| GVST GChorus | Free | Chorus | Windows/VST2 only | [Free Download](https://gvst.uk/gchorus.htm) |
 | AirWindows Ensemble | Free | Ensemble/Chorus | Open source, no GUI | [Free Download](https://www.airwindows.com) |
 | Arturia Chorus DIMENSION-D | $49 | Chorus | Roland Dimension D hardware emulation | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=best-free-chorus-flanger-vst) |
 | Valhalla Chorus | $50 | Chorus | Modern algorithmic, studio-grade | [Get It](https://valhalladsp.com/plugins//) |

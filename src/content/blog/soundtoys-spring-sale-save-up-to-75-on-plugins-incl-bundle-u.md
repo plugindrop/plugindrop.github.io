@@ -43,7 +43,7 @@ It sits in Soundtoys' lineup of creative effects processors, a catalog known for
 
 ## What Producers Are Saying
 
-Little AlterBoy has a consistent presence in mixing and production forums. On KVR Audio and Reddit's r/synthesizers and r/WeAreTheMusicMakers, it's commonly recommended for creative vocal work — particularly the formant-shifting capabilities, which users frequently mention as a standout feature at this price tier.
+Little AlterBoy has a consistent presence in mixing and production forums.
 
 It appears regularly in "must-have vocal plugins" discussions alongside more clinical tools, positioned as the go-to option when producers want character rather than transparency. Community reception has remained broadly positive since its release.
 
@@ -63,7 +63,7 @@ It appears regularly in "must-have vocal plugins" discussions alongside more cli
 Soundtoys runs major sales a handful of times per year — typically around seasonal events. A 75% ceiling puts this among their deeper promotional windows. The sale covers individual plugins, the full Soundtoys bundle, and upgrade pricing if you already own part of the lineup.
 
 | Item 
-If you need a lightweight, purpose-built tool with an analog-flavored character and the Soundtoys ecosystem already interests you, Little AlterBoy is purpose-built for that lane. If you need real-time pitch correction alongside transformation, Auto-Tune covers more clinical ground. Graillon 2's free tier is worth trying first if budget is the primary concern.
+If you need a purpose-built tool with an analog-flavored character and the Soundtoys ecosystem already interests you, Little AlterBoy is purpose-built for that lane. If you need real-time pitch correction alongside transformation, Auto-Tune covers more clinical ground. Graillon 2's free tier is worth trying first if budget is the primary concern.
 
 ---
 

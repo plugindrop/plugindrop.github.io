@@ -39,7 +39,7 @@ Exact feature limits between Basic and Pro editions, plus supported voice banks,
 
 ## What Producers Are Saying
 
-Synthesizer V has built a solid reputation in vocal synthesis circles as a modern alternative to older tools like VOCALOID and UTAU. On forums such as KVR Audio and Reddit communities focused on vocal synths, it's commonly cited for producing more natural-sounding results than legacy engines. Discussions frequently center on voice bank quality and how the Pro tier's editing depth compares to free alternatives like UTAU.
+Synthesizer V has built a solid reputation in vocal synthesis circles as a modern alternative to older tools like VOCALOID and UTAU. Discussions frequently center on voice bank quality and how the Pro tier's editing depth compares to free alternatives like UTAU.
 
 ## Who Is It For?
 
