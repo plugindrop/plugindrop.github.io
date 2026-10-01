@@ -188,5 +188,5 @@ A: Ableton offers a 90-day free trial of Live 12 Suite with full functionality. 
 <!-- pd:method:start -->
 ## How this list was made
 
-This comparison brings together publicly available feature information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+This comparison brings together publicly available feature information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
 <!-- pd:method:end -->

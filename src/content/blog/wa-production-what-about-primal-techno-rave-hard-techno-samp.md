@@ -83,5 +83,5 @@ At $14.95 versus a $29.9 regular price, this is a 50% off deal on a genre-specif
 <!-- pd:method:start -->
 ## Sources for this guide
 
-This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
 <!-- pd:method:end -->

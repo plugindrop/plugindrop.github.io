@@ -107,5 +107,5 @@ If you need it now, yes — a confirmed 30-80% drop is still real savings. If yo
 <!-- pd:method:start -->
 ## Sources for this guide
 
-This guide brings together publicly available product information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
 <!-- pd:method:end -->

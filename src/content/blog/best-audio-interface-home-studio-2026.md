@@ -290,5 +290,5 @@ For most bedroom producers setting up or upgrading a home studio in 2026, the Fo
 <!-- pd:method:start -->
 ## How this list was made
 
-This list brings together publicly available feature information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+This list brings together publicly available feature information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
 <!-- pd:method:end -->

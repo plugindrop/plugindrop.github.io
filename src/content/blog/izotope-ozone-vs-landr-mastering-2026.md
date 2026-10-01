@@ -128,5 +128,5 @@ Ozone 12 Standard at $199 one-time costs less than a year of LANDR's mid-tier pl
 <!-- pd:method:start -->
 ## How this list was made
 
-This comparison brings together publicly available feature information, linked community discussions, and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
+This comparison brings together publicly available feature information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
 <!-- pd:method:end -->
