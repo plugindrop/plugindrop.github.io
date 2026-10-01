@@ -24,9 +24,9 @@ draft: false
 | Valhalla Supermassive | Free | Cavernous reverb-delay hybrids | [Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Supermassive&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-delay-vst-plugins&chan=art&data1=best-free-delay-vst-plugins) |
 | Valhalla SpaceModulator | Free | Flanger & modulated delay | [Free Download](https://valhalladsp.com/shop/modulation/valhalla-space-modulator/) |
 | Graillon 2 | Free | Pitch-shifted delay FX | [Free Download](https://www.auburnsounds.com/products/Graillon.html) |
-| CHOW Tape Model | Free | Open-source tape saturation | [Plugin Boutique](https://www.pluginboutique.com/search?q=10%20Best%20Free%20Delay%20VST%20Plugins%20in%202026%2C%20Ranked%20%28Tape%2C%20Digital%2C%20Multi-tap%29&a_aid=69cb95abe1763&chan=art&data1=best-free-delay-vst-plugins) |
-| Delay Lama | Free | Vocal formant delay textures | [Plugin Boutique](https://www.pluginboutique.com/search?q=10%20Best%20Free%20Delay%20VST%20Plugins%20in%202026%2C%20Ranked%20%28Tape%2C%20Digital%2C%20Multi-tap%29&a_aid=69cb95abe1763&chan=art&data1=best-free-delay-vst-plugins) |
-| MFreeformAnalyzer | Free | Delay chain spectrum analysis | [Plugin Boutique](https://www.pluginboutique.com/search?q=10%20Best%20Free%20Delay%20VST%20Plugins%20in%202026%2C%20Ranked%20%28Tape%2C%20Digital%2C%20Multi-tap%29&a_aid=69cb95abe1763&chan=art&data1=best-free-delay-vst-plugins) |
+| CHOW Tape Model | Free | Open-source tape saturation | [Plugin Boutique](https://www.pluginboutique.com/search?q=CHOW%20Tape%20Model&a_aid=69cb95abe1763&chan=art&data1=best-free-delay-vst-plugins) |
+| Delay Lama | Free | Vocal formant delay textures | [Plugin Boutique](https://www.pluginboutique.com/search?q=Delay%20Lama&a_aid=69cb95abe1763&chan=art&data1=best-free-delay-vst-plugins) |
+| MFreeformAnalyzer | Free | Delay chain spectrum analysis | [Plugin Boutique](https://www.pluginboutique.com/search?q=MFreeformAnalyzer&a_aid=69cb95abe1763&chan=art&data1=best-free-delay-vst-plugins) |
 
 ---
 

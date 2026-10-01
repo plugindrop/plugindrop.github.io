@@ -19,7 +19,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Wider (Polyverse) | Free | All-purpose widening, any DAW | [Free Download](https://polyversemusic.com/products/wider/) |
-| iZotope Ozone Imager 2 | Free | Visual stereo control + mono checking | [Plugin Boutique](https://www.pluginboutique.com/search?q=10%20Best%20Stereo%20Widener%20%26%20Imager%20Plugins%20in%202026%20%E2%80%94%20Ranked&a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins) |
+| iZotope Ozone Imager 2 | Free | Visual stereo control + mono checking | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%20Imager%202&a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins) |
 | Voxengo MSED | Free | M/S routing and side-chain processing | [Free Download](https://www.voxengo.com/product/msed/) |
 | Waves S1 Stereo Imager | ~$29 | Classic transparent stereo shaping | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/13667-S1-Stereo-Imager?a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins) |
 | Brainworx bx_stereomaker | ~$49 | Mono-to-stereo conversion | [Plugin Boutique](https://www.pluginboutique.com/search?q=Brainworx%20bx_stereomaker&a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins) |
