@@ -67,7 +67,7 @@ If a dedicated native app experience matters more than bookmarking websites in a
 A: Yes, it is listed as free on the Google Play Store. Check the current listing for any in-app purchase details.
 
 **Q: When is the iOS version coming?**
-A: The developer has confirmed iOS support is planned but has not announced a specific release date. Follow the r/newplugindeals community for updates.
+A: The announcement title says iOS support is coming soon, and no release date is given in the source. Follow the r/newplugindeals community for updates.
 
 **Q: What can I bookmark in the updated app?**
 A: According to the update notes, users can bookmark favourite pages and products. Check the app directly for full details on bookmark categories or any limits.

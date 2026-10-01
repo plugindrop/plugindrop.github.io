@@ -57,7 +57,7 @@ For a plug-and-play solution built around the S-1's specific architecture and PR
 A: Yes. It's a free, open-source community project with no cost, no iLok, and no activation required.
 
 **Q: Does S-1 Utility work on Mac or Linux?**
-A: Currently Windows only. The developer has stated macOS and Linux support are planned — check the project page for the latest status.
+A: The source announcement describes a Windows release. Check the project page for the current platform status.
 
 **Q: Why doesn't the S-1 work with standard SysEx editors?**
 A: The Roland S-1 does not accept SysEx messages and has limited MIDI CC support, which is precisely why S-1 Utility uses a heuristic sync system based on PRM backup files instead of a conventional SysEx handshake.

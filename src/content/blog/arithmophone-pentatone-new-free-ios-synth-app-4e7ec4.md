@@ -25,7 +25,7 @@ Pentatone is a free iOS synthesizer app from Arithmophone that takes a different
 - **Pentatonic keyboard layout** — Replaces the traditional chromatic keyboard with a five-note scale layout, making it nearly impossible to play a "wrong" note.
 - **Built-in synthesizer** — The app includes an onboard synth engine, so no additional hardware or apps are needed to make sound.
 - **No in-app purchases** — The full app is free with no paywalled features, no premium tiers, and no upsells.
-- **No ads or tracking** — Arithmophone has confirmed the app contains zero ads and zero user tracking.
+- **No ads or tracking** — the source announcement describes the app as having no ads and no user tracking.
 - **iPhone and iPad support** — Runs across both form factors on iOS 15 and above.
 
 ---
