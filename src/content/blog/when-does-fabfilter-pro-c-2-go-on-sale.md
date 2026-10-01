@@ -36,7 +36,7 @@ We have no verified Pro-C 3 sale history yet.
 ## Free Alternatives If You Can't Wait
 
 - **[TDR Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov/)** — Free mastering-grade compressor — excellent transparent option
-- **[Rough Rider 3 (Audio Damage)](https://www.audiodamage.com/downloads)** — Free aggressive compressor, great for parallel compression on drums
+- **Rough Rider 3 (Audio Damage)** — Free aggressive compressor, great for parallel compression on drums
 
 
 ---

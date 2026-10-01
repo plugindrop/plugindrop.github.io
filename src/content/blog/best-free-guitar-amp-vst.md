@@ -61,7 +61,7 @@ The 7170 Lead emulates the preamp circuit of a Peavey 5150, the amp most associa
 
 **Best for:** Metal and hard rock rhythm tracks where 5150-style bite and sag is the target sound.
 
-[→ Download Nick Crow Lab 7170 Lead Free (Official)](https://www.kvraudio.com/product/7170-lead-by-nick-crow-lab)
+Nick Crow Lab 7170 Lead Free (search KVR Audio for the current download; the original developer site is offline)
 
 ---
 
@@ -150,7 +150,7 @@ Simulanalog's Guitar Suite is one of the oldest surviving freeware amp sim colle
 
 **Best for:** Vintage clean and crunch tones where classic amp character matters more than modern workflow convenience.
 
-[→ Download Simulanalog Guitar Suite Free (Official)](https://www.kvraudio.com/product/simulanalog-guitar-suite-by-simulanalog)
+[→ Download Simulanalog Guitar Suite Free (Official)](https://www.simulanalog.org/guitarsuite.html)
 
 ---
 
@@ -257,11 +257,11 @@ ML Sound Lab's AMPED Roots was released as a free standalone amp sim and sits in
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | TSE Audio X50 v2.4 | Free | 5150 circuit emulation | Needs IR loader | [Official Site](https://www.tseaudio.com/software/tseX50) |
-| Nick Crow Lab 7170 Lead | Free | 5150-style preamp | Needs IR loader | [Official Site](https://www.kvraudio.com/product/7170-lead-by-nick-crow-lab) |
+| Nick Crow Lab 7170 Lead | Free | 5150-style preamp | Needs IR loader | KVR Audio (search) |
 | LePou Amp Sim Suite | Free | Multi-amp library | LeGion, LeCto, HyBrit, PFlare | [Official Site](https://www.osirisguitar.com/2019/10/14/lepou//) |
 | Ignite Amps Emissary | Free | High-gain original design | Built-in gate and EQ, standalone | [Official Site](https://www.igniteamps.com/) |
 | Ignite Amps TPA-1 | Free | Tube preamp | Clean/crunch, flexible in chains | [Official Site](https://www.igniteamps.com/) |
-| Simulanalog Guitar Suite | Free | Classic Fender/Marshall/Vox | 32-bit only, vintage character | [Official Site](https://www.kvraudio.com/product/simulanalog-guitar-suite-by-simulanalog) |
+| Simulanalog Guitar Suite | Free | Classic Fender/Marshall/Vox | 32-bit only, vintage character | [Official Site](https://www.simulanalog.org/guitarsuite.html) |
 | Voxengo Boogex | Free | Convolution amp processor | Built-in IR loader included | [Official Site](https://www.voxengo.com/product/boogex/) |
 | Guitar Rig 7 Player | Free | Full chain ecosystem | NI ecosystem, expandable | [Official Site](https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-7-player/) |
 | Amplitube Custom Shop | Free | Full chain w/ store | Permanent free gear, AAX support | [Official Site](https://www.ikmultimedia.com/products/amplitube5/) |

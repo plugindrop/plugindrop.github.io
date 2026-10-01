@@ -10,7 +10,7 @@ dealPrice: "FREE"
 xText: "mike dean just dropped a free synth that sounds way more expensive than zero dollars. unison mode is the sleeper feature here. go grab it"
 draft: true
 ---
-**TL;DR:** Mike Dean's "Smoke Mono" synthesizer is completely free — no catch, no trial, no paywall. This is a rare chance to add a plugin from one of hip-hop's most influential producers to your rack at zero cost. [Grab it here.](https://www.youtube.com/watch)
+**TL;DR:** Mike Dean's "Smoke Mono" synthesizer is completely free — no catch, no trial, no paywall. This is a rare chance to add a plugin from one of hip-hop's most influential producers to your rack at zero cost. Grab it here.
 
 ## What Is Smoke Mono?
 <div class="video-embed">
@@ -50,7 +50,7 @@ Smoke Mono is a free software synthesizer created by Mike Dean — the Grammy-wi
 
 This is a free release with no stated expiration date, but free deals from individual artists can be pulled or updated at any time. Verify current availability on the product page — deals can change.
 
-[Get Smoke Mono free here.](https://www.youtube.com/watch)
+Get Smoke Mono free here.
 
 ---
 
@@ -85,7 +85,7 @@ A: Check the official download page for any registration or activation requireme
 
 A free synthesizer from one of hip-hop's most decorated producers is not something to scroll past. Zero cost, zero subscription, just a plugin built by someone who actually uses it at the highest level.
 
-[Download Smoke Mono for free now.](https://www.youtube.com/watch)
+Download Smoke Mono for free now.
 
 ---
 

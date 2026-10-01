@@ -3,7 +3,7 @@ title: "2B Played — Download the updated SLIMVERB from 2B Played Music for FRE
 description: "SLIMVERB from 2B Played Music is currently priced down from $55 to $24.75 — and with coupon code MAY26 at checkout, it drops all the way to..."
 pubDate: "2026-05-05T05:33:45Z"
 tags: ["free", "2b played", "music-production"]
-affiliate: "https://2bplayed.com/product/slimverb/"
+affiliate: "https://2bplayed.com/product/slimverb-2/"
 heroImage: "/images/2b-played-download-the-updated-slimverb-from-2b-played-music.png"
 score: 9.18
 dealPrice: "$24.75"
@@ -13,7 +13,7 @@ saleExpiry: "2026-05-18"
 xText: "slimverb just dropped free (code MAY26). sleeping on free reverbs is leaving clean tones on the table"
 draft: true
 ---
-**TL;DR:** SLIMVERB from 2B Played Music is currently priced down from ~~$55~~ to $24.75 — and with coupon code **MAY26** at checkout, it drops all the way to **FREE**. Grab it now at [2bplayed.com](https://2bplayed.com/product/slimverb/) before the code expires.
+**TL;DR:** SLIMVERB from 2B Played Music is currently priced down from ~~$55~~ to $24.75 — and with coupon code **MAY26** at checkout, it drops all the way to **FREE**. Grab it now at [2bplayed.com](https://2bplayed.com/product/slimverb-2/) before the code expires.
 
 ---
 
@@ -57,7 +57,7 @@ The deal structure here is straightforward: the plugin is already discounted fro
 
 > **Note:** Verify current pricing on the product page — deals can change, and coupon codes have expiry dates.
 
-**[Claim SLIMVERB for FREE →](https://2bplayed.com/product/slimverb/)**
+**[Claim SLIMVERB for FREE →](https://2bplayed.com/product/slimverb-2/)**
 
 ---
 
@@ -92,7 +92,7 @@ A: Coupon expiry is not publicly confirmed. Based on the naming convention, it's
 
 ## Get the Deal
 
-A ~~$55~~ reverb plugin going free is the kind of deal worth acting on immediately — coupon codes like this don't last forever. **[Download SLIMVERB free with code MAY26 →](https://2bplayed.com/product/slimverb/)**
+A ~~$55~~ reverb plugin going free is the kind of deal worth acting on immediately — coupon codes like this don't last forever. **[Download SLIMVERB free with code MAY26 →](https://2bplayed.com/product/slimverb-2/)**
 
 ## Related Guides
 
