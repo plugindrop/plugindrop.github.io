@@ -1482,5 +1482,415 @@
     "library_size": null,
     "requires_player": null,
     "plans": null
+  },
+  "vp-ml-sound-lab-amped-roots": {
+    "price": {
+      "value": null,
+      "source_url": "https://ml-sound-lab.com/products/amped-roots",
+      "quote": "count Facebook Instagram YouTube Search again View cart Amped Roots Free Sale price Price €0,00 Regular price Tax included. FREE AMP SIM! Amped Roots Free is our first amp sim release a",
+      "source_kind": "vendor",
+      "display": "€0,00",
+      "fetched_at": "2026-10-01"
+    },
+    "is_free": {
+      "value": true,
+      "source_url": "https://ml-sound-lab.com/products/amped-roots",
+      "quote": "Amped Roots Free – ML Sound Lab Skip to content Menu MIKKO3 ML DRUMS CAPTURE PACK",
+      "source_kind": "vendor",
+      "display": "Free",
+      "fetched_at": "2026-10-01"
+    },
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-lmms-lmms": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://lmms.io/",
+      "quote": "dest. Show us your creations. We < 3 open source. LMMS is a 100% free, open source, community-driven project. Proudly hosted on GitHub",
+      "source_kind": "vendor",
+      "display": "free",
+      "fetched_at": "2026-10-01"
+    },
+    "formats": {
+      "value": [
+        "VST"
+      ],
+      "source_url": "https://lmms.io/",
+      "quote": "multisample support for SoundFont ® (SF2), Giga (GIG) and Gravis UltraSound ® (GUS) formats for high quality instrument patches and banks Effects Mixing Drop-in LADSPA plug-in support Drop-in VST ® effect plug-i",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-native-instruments-guitar-rig-7-player": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://www.native-instruments.com/products/guitar-rig-player",
+      "quote": "Guitar Rig 7 Player - Free amp simulator and effects rack – Native Instruments Skip to cont",
+      "source_kind": "vendor",
+      "display": "Free",
+      "fetched_at": "2026-10-01"
+    },
+    "formats": null,
+    "macos_min": {
+      "value": "macOS 13",
+      "source_url": "https://www.native-instruments.com/products/guitar-rig-player",
+      "quote": "6 effects and tools. Free download Add to cart Added Download: available immediately System Requirements System requirements Mac Intel Macs (i5 or higher), macOS 13, 14 or 15 (latest update) Apple Silicon Macs (via Rosetta 2",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "windows_min": {
+      "value": "Windows 10",
+      "source_url": "https://www.native-instruments.com/products/guitar-rig-player",
+      "quote": "& natively on ARM in Stand-alone or in hosts that support it): macOS 13, 14 or 15 (latest update) Win Windows 10 or 11 (latest Service Pack), Intel Core i5 or equivalent CPU, 4 GB RAM Grap",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-mt-power-drum-kit-mt-power-drum-kit": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://www.powerdrumkit.com/",
+      "quote": "MT Power Drum Kit AU VST Drums Sampler Plugin Instrument FREE Language English Deutsch Français Español Português Italiano Eng",
+      "source_kind": "vendor",
+      "display": "FREE",
+      "fetched_at": "2026-10-01"
+    },
+    "formats": null,
+    "macos_min": null,
+    "windows_min": {
+      "value": "Windows 11",
+      "source_url": "https://www.powerdrumkit.com/",
+      "quote": "n the right-hand side, you can listen to demo tracks to hear the impressive results. System Requirements: PC: Windows 11 / 10 / 8 / 7 / Vista Mac: OS X 10.5 or higher, Intel or ARM (M1/M2/M3/M4/M5/...) cpu Linux: Ubuntu, Arc",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-freesound-freesound": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://freesound.org/",
+      "quote": "Freesound Project , by soundemote 1 day, 9 hours ago Octav8 - A Free Browser-Based DAW (Community Build Project) in Freesound Project",
+      "source_kind": "vendor",
+      "display": "Free",
+      "fetched_at": "2026-10-01"
+    },
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-looperman-looperman": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://www.looperman.com/",
+      "quote": "Download Free Loops, Samples, Acapellas & Software | Looperman Loops Acapellas",
+      "source_kind": "vendor",
+      "display": "Free",
+      "fetched_at": "2026-10-01"
+    },
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-ardour-ardour": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://ardour.org/",
+      "quote": "Ardour, free and open-source digital audio workstation | Ardour DAW Features",
+      "source_kind": "vendor",
+      "display": "free",
+      "fetched_at": "2026-10-01"
+    },
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-tracktion-waveform-free": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://www.tracktion.com/products/waveform-free",
+      "quote": "Waveform Free audio editing software - mac, pc, linux | Tracktion Waveform Wav",
+      "source_kind": "vendor",
+      "display": "Free",
+      "fetched_at": "2026-10-01"
+    },
+    "formats": null,
+    "macos_min": {
+      "value": "macOS 13",
+      "source_url": "https://www.tracktion.com/products/waveform-free",
+      "quote": "4 built-in audio effects, 8 MIDI effects, 11 utility plugins, 4 built-in instruments System requirements macOS 13 or Later 64-bit Intel or Apple Silicon Windows 10, 11 64-bit Tested on Ubuntu 24.04 64-bit Waveform Linux 14 W",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "windows_min": {
+      "value": "Windows 10",
+      "source_url": "https://www.tracktion.com/products/waveform-free",
+      "quote": "4 built-in audio effects, 8 MIDI effects, 11 utility plugins, 4 built-in instruments System requirements macOS 13 or Later 64-bit Intel or Apple Silicon Windows 10, 11 64-bit Tested on Ubuntu 24.04 64-bit Waveform Linux 14 W",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": {
+      "value": "30-day Trial",
+      "source_url": "https://www.tracktion.com/products/waveform-free",
+      "quote": "tures Included Content Buy & Upgrade Redeem OEM Code Compare Sound Packs Free 30-day Trial Upgrade to W14 Getting Started Instruments BioTek Simplified power, amplified creativity Dan Dean Collection Essential",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-pianobook-pianobook": {
+    "price": null,
+    "is_free": null,
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-gvst-gmulti": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://gvst.uk/Downloads/GMulti",
+      "quote": "GVST GMulti - free multi-band compressor VST plugin Home Basics Downloads Support D",
+      "source_kind": "vendor",
+      "display": "free",
+      "fetched_at": "2026-10-01"
+    },
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-dragonfly-reverb-dragonfly-reverb": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://michaelwillis.github.io/dragonfly-reverb/",
+      "quote": "ownload Manuals Github Donations Dragonfly Reverb is a bundle of free audio effect plugins for Linux, MacOS, and Windows.",
+      "source_kind": "vendor",
+      "display": "free",
+      "fetched_at": "2026-10-01"
+    },
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-loudmax-loudmax": {
+    "price": null,
+    "is_free": null,
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-klanghelm-ivgi": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://klanghelm.com/contents/products/SDRR",
+      "quote": "haracter to your tracks with SDRR. Don't forget to check out the free IVGI, which can be seen as the little brother of SDRR. It is bas",
+      "source_kind": "vendor",
+      "display": "free",
+      "fetched_at": "2026-10-01"
+    },
+    "formats": null,
+    "macos_min": {
+      "value": "macOS 10.13",
+      "source_url": "https://klanghelm.com/contents/products/SDRR",
+      "quote": "ression of how SDRR would perform on your system. SDRR is available in the following formats (all included in one single license): Windows 10 or higher (64bit): VST, VST3, AAX Native macOS 10.13 or higher: AU, VS",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "windows_min": {
+      "value": "Windows 10",
+      "source_url": "https://klanghelm.com/contents/products/SDRR",
+      "quote": "ression of how SDRR would perform on your system. SDRR is available in the following formats (all included in one single license): Windows 10 or higher (64bit): VST, VST3, AAX Native macOS 10.13 or higher: AU, VS",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-tokyo-dawn-records-tdr-feedback-compressor": {
+    "price": null,
+    "is_free": null,
+    "formats": {
+      "value": [
+        "VST"
+      ],
+      "source_url": "https://www.tokyodawn.net/tdr-feedback-compressor/",
+      "quote": "ively suppported. Compatibility with modern systems is not guaranteed. Free Download Windows (No Installer) Documentation User Manual Plugin Formats OS 32bit 64bit VST VST Support How to install Tokyo Dawn Labs a",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-cockos-reaplugs": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://www.reaper.fm/reaplugs/",
+      "quote": "FX that includes many of the plug-ins that come with REAPER, for free! General features of ReaPlugs: Support for Windows 98/ME/2K/XP/V",
+      "source_kind": "vendor",
+      "display": "free",
+      "fetched_at": "2026-10-01"
+    },
+    "formats": {
+      "value": [
+        "VST"
+      ],
+      "source_url": "https://www.reaper.fm/reaplugs/",
+      "quote": "kos Incorporated VST PlugIn Technology by Steinberg Media Technologies GmbH Previous Versions ReaPlugs VST v2.3 32-bit (December 28 2015) ReaPlugs VST v2.3 64-bit (December 28 2015) Update installer to NSIS 2.5.0",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-calf-studio-gear-calf-studio-gear": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://calf-studio-gear.org/",
+      "quote": "sser and finally master your stuff with multiband dynamics - for free! Calf Studio Gear... ...is available exclusively for LINUX-based",
+      "source_kind": "vendor",
+      "display": "free",
+      "fetched_at": "2026-10-01"
+    },
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
   }
 }

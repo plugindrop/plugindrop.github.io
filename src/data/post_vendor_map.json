@@ -98,25 +98,34 @@
     "vp-valhalla-dsp-valhalla-super-massive"
   ],
   "best-free-compressor-vst-plugins": [
-    "vp-tokyo-dawn-labs-tdr-kotelnikov"
+    "vp-tokyo-dawn-labs-tdr-kotelnikov",
+    "vp-cockos-reaplugs"
   ],
-  "best-free-daw-software-2026": [],
+  "best-free-daw-software-2026": [
+    "vp-lmms-lmms",
+    "vp-ardour-ardour",
+    "vp-tracktion-waveform-free"
+  ],
   "best-free-delay-vst-plugins": [
     "vp-valhalla-dsp-valhalla-super-massive",
     "vp-valhalla-dsp-valhalla-space-modulator"
   ],
   "best-free-drum-machine-vst": [
-    "vp-steven-slate-drums-free"
+    "vp-steven-slate-drums-free",
+    "vp-mt-power-drum-kit-mt-power-drum-kit"
   ],
   "best-free-eq-vst-plugins": [
     "vp-tokyo-dawn-labs-tdr-nova",
     "vp-voxengo-marvel-geq"
   ],
   "best-free-guitar-amp-vst": [
-    "vp-voxengo-boogex"
+    "vp-voxengo-boogex",
+    "vp-ml-sound-lab-amped-roots",
+    "vp-native-instruments-guitar-rig-7-player"
   ],
   "best-free-limiter-vst": [
-    "vp-youlean-youlean-loudness-meter"
+    "vp-youlean-youlean-loudness-meter",
+    "vp-calf-studio-gear-calf-studio-gear"
   ],
   "best-free-lofi-sample-packs": [],
   "best-free-mastering-plugins": [
@@ -127,7 +136,8 @@
     "vp-youlean-youlean-loudness-meter"
   ],
   "best-free-multiband-compressor-vst": [
-    "vp-tokyo-dawn-labs-tdr-nova"
+    "vp-tokyo-dawn-labs-tdr-nova",
+    "vp-gvst-gmulti"
   ],
   "best-free-piano-vst": [],
   "best-free-plugins-ableton": [
@@ -150,9 +160,13 @@
     "vp-valhalla-dsp-valhalla-super-massive",
     "vp-impulse-record-convology-xt"
   ],
-  "best-free-sample-packs-2026": [],
+  "best-free-sample-packs-2026": [
+    "vp-freesound-freesound",
+    "vp-looperman-looperman"
+  ],
   "best-free-saturation-vst-plugins": [
-    "vp-softube-saturation-knob"
+    "vp-softube-saturation-knob",
+    "vp-klanghelm-ivgi"
   ],
   "best-free-strings-vst-plugins": [
     "vp-spitfire-audio-bbc-symphony-orchestra-discover",
@@ -164,7 +178,8 @@
     "vp-thewavewarden-odin-2"
   ],
   "best-free-tape-saturation-vst": [
-    "vp-softube-saturation-knob"
+    "vp-softube-saturation-knob",
+    "vp-klanghelm-ivgi"
   ],
   "best-free-vocal-vst-plugins": [
     "vp-tokyo-dawn-labs-tdr-nova",
@@ -189,6 +204,7 @@
   "free-alternative-to-omnisphere": [],
   "free-alternative-to-serum-vst": [],
   "free-alternative-to-valhalla-reverb": [
-    "vp-valhalla-dsp-valhalla-super-massive"
+    "vp-valhalla-dsp-valhalla-super-massive",
+    "vp-dragonfly-reverb-dragonfly-reverb"
   ]
 }
