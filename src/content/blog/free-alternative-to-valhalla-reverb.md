@@ -208,7 +208,7 @@ The short version: free installs are zero-risk and should happen immediately. Va
 
 ## FAQ
 **Q: Is Valhalla Supermassive actually free, or is it a limited trial?**
-A: Supermassive is fully free with no feature limitations and no trial period. Valhalla DSP has stated publicly that it will remain free. The only practical limitation is scope — it's purpose-built for large, diffuse spaces and is not a general-purpose studio reverb.
+A: Supermassive is fully free with no feature limitations and no trial period. Valhalla's official page lists it as free. The only practical limitation is scope — it's purpose-built for large, diffuse spaces and is not a general-purpose studio reverb.
 
 **Q: What's the best free reverb for vocals?**
 A: TAL-Reverb-4 is a free plate and hall reverb that can be used on vocals. For a more transparent plate-style vocal reverb, Dragonfly Plate is a well-documented alternative in the same free tier.

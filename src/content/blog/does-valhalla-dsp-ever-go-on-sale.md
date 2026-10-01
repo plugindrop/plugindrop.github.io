@@ -1,6 +1,6 @@
 ---
 title: "Does Valhalla DSP Ever Go On Sale? (The Honest Answer)"
-description: "Valhalla DSP plugins never go on sale. Founder Sean Costello keeps all plugins at $50 permanently. But at $50, these are already among the best-value plugins available."
+description: "Valhalla DSP plugins never go on sale. Valhalla DSP plugins have shown a flat $50 price in our tracking. But at $50, these are already among the best-value plugins available."
 pubDate: "2026-06-29"
 noindex: true
 tags:
@@ -15,9 +15,9 @@ heroImage: '/images/when-does-valhalla-dsp-go-on-sale.jpg'
 
 ## Why Valhalla DSP Has No Sales
 
-Sean Costello, the DSP engineer behind Valhalla DSP, has said publicly and repeatedly that his plugins will not go on sale — not on Black Friday, not during a "flash sale," not ever. Every Valhalla plugin (VintageVerb, Room, Plate, Delay, ÜberMod, Freq Echo, and Space Modulator) is priced at a flat **$50**, and that price has held since launch. There's no "regular price" being marked down to make $50 feel special — $50 simply *is* the price, permanently.
+In our price tracking, Valhalla DSP plugins have never shown a sale — not on Black Friday, not during a "flash sale." Every Valhalla plugin (VintageVerb, Room, Plate, Delay, ÜberMod, Freq Echo, and Space Modulator) is priced at a flat **$50**, and that price has held throughout our tracking period. There's no "regular price" being marked down to make $50 feel special — $50 simply *is* the price.
 
-The reasoning is philosophical, not marketing: Costello has argued that artificial scarcity and countdown-timer sales pressure people into impulse purchases they don't need, and that a fair, stable price is more respectful of both the product and the customer. So if you're holding out for a Valhalla Black Friday deal, a bundle discount, or a coupon code, stop — it isn't coming.
+So if you're holding out for a Valhalla Black Friday deal, a bundle discount, or a coupon code, our tracking shows none has appeared.
 
 ## Quick Picks
 

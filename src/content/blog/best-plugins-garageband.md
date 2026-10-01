@@ -135,7 +135,7 @@ The free version covers nearly all practical use cases. The Nova GE upgrade adds
 - **Platforms:** macOS, Windows
 - **Formats:** AU, VST, VST3, AAX
 
-Valhalla DSP is among the most respected reverb plugin developers in the industry, and Supermassive represents their deliberate decision to release a genuinely capable plugin with no strings attached. The plugin is designed around massive, evolving reverb tails and complex delay effects — its algorithm modes range from relatively grounded room textures to extreme, cosmic washes that don't correspond to any physical acoustic space. Developer Sean Costello has confirmed there are no feature limitations relative to paid Valhalla products; Supermassive is simply a different creative tool.
+Valhalla DSP is among the most respected reverb plugin developers in the industry, and Supermassive represents their deliberate decision to release a genuinely capable plugin with no strings attached. The plugin is designed around massive, evolving reverb tails and complex delay effects — its algorithm modes range from relatively grounded room textures to extreme, cosmic washes that don't correspond to any physical acoustic space. Supermassive is a different creative tool from the paid Valhalla plugins.
 
 Valhalla Supermassive is a free reverb. It functions as a textural tool as much as a traditional reverb, which makes it particularly valuable for ambient, electronic, and cinematic production styles.
 

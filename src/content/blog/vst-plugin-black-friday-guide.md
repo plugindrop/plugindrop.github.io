@@ -11,7 +11,7 @@ evergreen: true
 draft: false
 ---
 
-**TL;DR:** Plugin Black Friday runs the entire month of November. FabFilter drops exactly 25% every year without fail. Arturia and u-he go 50% off in good years. NI calls theirs "Cyber Season" and starts November 1. Spitfire adds 20% extra for email subscribers. Valhalla and Serum never go on sale — ever. This guide covers what to expect, what the actual prices were in 2023–2024, and how to avoid buying something that will be cheaper in three weeks.
+**TL;DR:** Plugin Black Friday runs the entire month of November. FabFilter drops exactly 25% every year without fail. Arturia and u-he go 50% off in good years. NI calls theirs "Cyber Season" and starts November 1. Spitfire adds 20% extra for email subscribers. Valhalla and Serum show no recorded sales in our tracking. This guide covers what to expect, what the actual prices were in 2023–2024, and how to avoid buying something that will be cheaper in three weeks.
 
 ## The Plugin Sale Calendar
 
@@ -171,7 +171,7 @@ Key caveats with Waves:
 Some plugins have never discounted — not at Black Friday, not at any other time. This isn't a rumor; it's a documented business decision from the developers.
 
 ### Valhalla DSP
-ValhallaRoom ($50), VintageVerb ($50), Delay ($50) — unchanged since launch. The developer has stated publicly that the $50 price point is the sale price. There is no Black Friday discount, no bundle deal, no coupon code. If you want Valhalla plugins, buy them when you need them.
+ValhallaRoom ($50), VintageVerb ($50), Delay ($50) — unchanged since launch. The $50 price has not changed in our tracking. There is no Black Friday discount, no bundle deal, no coupon code. If you want Valhalla plugins, buy them when you need them.
 
 ### Xfer Serum
 Serum sells for $189 and has never been discounted. Serum 2 (the update) continues this policy. No Black Friday, no summer sale, no bundle. The only way to get Serum cheaper than $189 is through a hardware bundle that includes it.

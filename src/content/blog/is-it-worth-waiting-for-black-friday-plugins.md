@@ -34,7 +34,7 @@ priceTrack:
 | Sonnox | $185–$474 | Up to 75–90% off | **No — the deep cuts happen at Sonnox's Summer Sale, not confirmed at BF** |
 | Valhalla DSP | $50/plugin | None, ever | **Doesn't matter — the price never moves** |
 | Spectrasonics | $299–$499 | None (or ~5–7% via resellers) | **No — there's essentially nothing to wait for** |
-| Xfer (Serum 2) | $249 | None | **No — the developer has said publicly there are no promotions** |
+| Xfer (Serum 2) | $249 | None | **No — no promotions recorded in our tracking** |
 
 Live prices for every plugin below at [our plugin price tracker](/plugin-prices/).
 
@@ -88,7 +88,7 @@ Valhalla Room and the rest of the Valhalla line sell at a flat $50 with no disco
 
 ### Spectrasonics and Xfer (Serum 2) — no, there's nothing to wait for
 
-Omnisphere shows no promotional sales at all in our tracking; Keyscape's deepest documented cut is roughly 5% through authorized resellers, not a BF-specific event. Serum 2's developer has stated publicly that Xfer doesn't run promotions on the perpetual license. None of these plugins reward patience — the regular price is the only price.
+Omnisphere shows no promotional sales at all in our tracking; Keyscape's deepest documented cut is roughly 5% through authorized resellers, not a BF-specific event. Serum 2 shows no recorded promotions on the perpetual license in our tracking. None of these plugins reward patience — the regular price is the only price.
 
 ---
 

@@ -14,7 +14,7 @@ priceTrack:
   - "FabFilter Pro-Q 4"
   - "Native Instruments Kontakt 8"
 ---
-**TL;DR:** We track price history on 254 plugins and bundles across every major store. A dozen of them have never shown a documented discount — some by explicit company policy, some because the developer has stated on the record that they don't run sales. If a plugin on this list is on your wishlist, stop waiting for Black Friday. The price you see today is the price you'll see in November.
+**TL;DR:** We track price history on 254 plugins and bundles across every major store. A dozen of them have never shown a documented discount — because no sale shows up anywhere in the price history we've tracked. If a plugin on this list is on your wishlist, stop waiting for Black Friday. The price you see today is the price you'll see in November.
 
 ---
 
@@ -23,7 +23,7 @@ priceTrack:
 | Plugin | Price | Ever Discounted? | Verdict |
 |---|---|---|---|
 | Valhalla Room / VintageVerb / Plate / Delay / Ubermod / Shimmer | $50 each | Never — written company policy | Buy the moment you need it |
-| Serum 2 | $249 | No — Xfer's founder confirmed no promos on the perpetual license | Buy anytime |
+| Serum 2 | $249 | No — no promotions recorded in our tracking | Buy anytime |
 | Spectrasonics Omnisphere | $499 | No promotional sales, ever | Buy anytime |
 | Spectrasonics Keyscape | $399 | Practically never — deepest documented cut is ~5% | Treat $399 as the real price |
 | Klanghelm MJUC | ~$26 | No sales documented | Buy anytime |
@@ -41,15 +41,15 @@ Full price history, sparklines, and buy links for every product below live on [o
 
 ## Why some plugins just don't discount
 
-Most VST developers run the same playbook: list price high, discount 40–80% a few times a year, and let the "sale" become the real price most customers actually pay. The plugins below break that pattern for one of three reasons — a stated no-discount policy, a developer who's said outright they don't run promotions, or simply no sale showing up anywhere in the price history we've tracked. None of that is a knock on the plugin. It just means the wishlist-and-wait strategy that works great on Waves or Plugin Alliance does nothing here.
+Most VST developers run the same playbook: list price high, discount 40–80% a few times a year, and let the "sale" become the real price most customers actually pay. The plugins below break that pattern for one simple reason: no sale shows up anywhere in the price history we've tracked. None of that is a knock on the plugin. It just means the wishlist-and-wait strategy that works great on Waves or Plugin Alliance does nothing here.
 
 ### Valhalla DSP — the entire catalog, $50, forever
 
-Valhalla Room, VintageVerb, Plate, Delay, Ubermod, and Shimmer all sell at a flat $50, and our tracked history shows no deviation from that price on any of them. This isn't an accident — Valhalla's own blog has stated the policy in plain terms: every day is Black Friday at Valhalla, because the price never moves in the first place. If you're waiting for a $50 Valhalla plugin to hit $35 during a November sale, it isn't coming. Buy it whenever you have the $50.
+Valhalla Room, VintageVerb, Plate, Delay, Ubermod, and Shimmer all sell at a flat $50, and our tracked history shows no deviation from that price on any of them. In our tracking the price never moves, so if you're waiting for a $50 Valhalla plugin to hit $35 during a November sale, it isn't coming. Buy it whenever you have the $50.
 
 ### Serum 2 — $249, no promotions
 
-Xfer's official price for Serum 2 sits at $249, and the developer has publicly stated that Xfer doesn't run promotions or sales on the perpetual license. Our history shows a couple of legacy data points — a $99 intro offer in March 2025 and a one-off $189 price in May 2025 — but neither recurred, and neither should be treated as a pattern. As of our most recent check, the regular price is what you'll pay — [Serum 2](https://xferrecords.com/products/serum-2).
+Xfer's official price for Serum 2 sits at $249, and our tracking records no promotions or sales on the perpetual license. Our history shows a couple of legacy data points — a $99 intro offer in March 2025 and a one-off $189 price in May 2025 — but neither recurred, and neither should be treated as a pattern. As of our most recent check, the regular price is what you'll pay — [Serum 2](https://xferrecords.com/products/serum-2).
 
 ### Spectrasonics Omnisphere — $499, direct-only, no sales
 
@@ -98,7 +98,7 @@ A: Yes — that's the one confirmed discount window all year. Our tracked histor
 A: By the company's own public statement, Valhalla holds a single fixed price across all its plugins instead of marking up and then discounting. $50 is both the regular price and the lowest price you'll ever see.
 
 **Q: Is Serum 2 ever on sale?**
-A: Not on a recurring basis. Xfer's founder has said publicly that the studio doesn't run promotions on the perpetual license, and our price history shows only isolated legacy data points, not a pattern you can plan around.
+A: Not on a recurring basis. Our price history shows only isolated legacy data points, not a pattern you can plan around.
 
 ---
 

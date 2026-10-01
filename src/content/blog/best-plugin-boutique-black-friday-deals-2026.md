@@ -38,7 +38,7 @@ These are observed numbers from our price history, not predictions for 2026. A "
 | [FabFilter Pro-Q 4](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugin-boutique-black-friday-deals-2026) | $199 | $149 (Nov 2024); $105.25 at Gear4Music (Nov 2025) | Recorded Black Friday checks |
 | [FabFilter Pro-L 2](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-plugin-boutique-black-friday-deals-2026) | $179 | $134 (Nov 2023 and Nov 2024) | Recorded Black Friday checks |
 | [iZotope Ozone 12 Standard](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15507-Ozone-12-Standard?a_aid=69cb95abe1763&chan=art&data1=best-plugin-boutique-black-friday-deals-2026) | $219 | No Black Friday price recorded yet | Plugin Boutique check, Sept 2026 |
-| [Serum 2](https://xferrecords.com/products/serum-2) | $249 | None recorded | Xfer's founder has stated Xfer does not run promotions on the perpetual license |
+| [Serum 2](https://xferrecords.com/products/serum-2) | $249 | None recorded | No promotions recorded in our tracking for the perpetual license |
 | [Valhalla Room](https://valhalladsp.com/shop/reverb/valhalla-room/) | $50 | None - fixed price | [Valhalla's pricing FAQ](https://valhalladsp.com/faq/pricing/) says prices are the same all year |
 
 For FabFilter, our notes record a 25% Black Friday discount in the years we tracked. We cannot say whether 2026 will repeat it.

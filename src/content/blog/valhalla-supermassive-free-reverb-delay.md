@@ -48,7 +48,7 @@ Supermassive is a free reverb/delay from Valhalla DSP. Producers frequently ment
 |---|---|---|---|
 | Valhalla Supermassive | ~~$50~~ (comparable Valhalla plugins) | **FREE** | **$50 (100%)** |
 
-This is not a limited-time offer. Supermassive has been free since launch and Valhalla has confirmed it stays free. No account required — just download from Valhalla's site or Plugin Boutique.
+This is not a limited-time offer. Valhalla's official page lists Supermassive as free. No account required — just download from Valhalla's site or Plugin Boutique.
 
 [Download Supermassive — FREE](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
 
@@ -66,7 +66,7 @@ Supermassive at $0 handles massive reverbs and delays. If you want more traditio
 ## FAQ
 
 **Q: Is this really free forever?**
-A: Yes. Valhalla DSP has confirmed Supermassive is permanently free. No trial period, no feature limits.
+A: Yes. Valhalla's official page lists Supermassive as free.
 
 **Q: What formats does it support?**
 A: VST, VST3, AU, and AAX on macOS and Windows. Check the Valhalla DSP site for current OS compatibility.

@@ -27,7 +27,7 @@ This matters for your buying decision because most VST shopping advice ("wait fo
 
 ## Why Spectrasonics Refuses to Discount Omnisphere
 
-Spectrasonics is a small, boutique developer (not a large plugin marketplace brand), and its founder Eric Persing has been public about the philosophy: Omnisphere is priced once, fairly, and kept there. A few practical reasons this holds up:
+Spectrasonics is a small, boutique developer (not a large plugin marketplace brand), and our tracking shows Omnisphere priced steadily with no recorded sales. A few practical points:
 
 - **No subscription, no upsell funnel.** Omnisphere is a perpetual license with lifetime free updates (2.0 → 2.8+), so there's no recurring revenue to protect with intro pricing.
 - **Small team, low volume of SKUs.** Unlike companies running dozens of plugins through constant promo cycles, Spectrasonics has three core products (Omnisphere, Trilian, Keyscape) and doesn't need aggressive discounting to move volume.

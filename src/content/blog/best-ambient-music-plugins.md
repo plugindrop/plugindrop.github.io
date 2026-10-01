@@ -36,7 +36,7 @@ priceTrack:
 
 ## Introduction
 
-When producers ask for the best VST plugins for ambient music in 2026, a free option to start with is Valhalla Supermassive — a plugin that costs nothing, from a developer who charges $50 for every other plugin in their catalog. Valhalla DSP has publicly confirmed it will remain free.
+When producers ask for the best VST plugins for ambient music in 2026, a free option to start with is Valhalla Supermassive — a plugin that costs nothing, from a developer who charges $50 for every other plugin in their catalog.
 
 That said, the paid tools here are not redundant. FabFilter Pro-R 2 and the Eventide SP2016 offer specific capabilities — surgical decay control and hardware-era character, respectively — that no free reverb replicates. Output Portal occupies a category most free granular processors don't reach. The best ambient toolkit in 2026 is one where every paid plugin earns its place against a strong free alternative, not one where paid equals better by default.
 
@@ -57,7 +57,7 @@ Reverb is not one of the tools you need for ambient music — it is the tool. Th
 - **Platforms:** Windows, macOS
 - **Formats:** VST2, VST3, AU, AAX
 
-Valhalla DSP has publicly confirmed Supermassive will remain free, and developer documentation confirms its "Massive" reverb algorithms are specifically designed for sustaining reverb tails that can extend for minutes without degrading. The modulation rate and depth controls add subtle pitch movement to the decay — a technique widely documented in ambient sound design tutorials for creating tails that feel alive rather than static.
+Valhalla's official page lists Supermassive as free, and its "Massive" reverb algorithms are specifically designed for sustaining reverb tails that can extend for minutes without degrading. The modulation rate and depth controls add subtle pitch movement to the decay — a technique widely documented in ambient sound design tutorials for creating tails that feel alive rather than static.
 
 **Best for:** Infinite reverb beds, drone music, ambient layers that need to evolve over time.
 
@@ -302,13 +302,13 @@ These two paid tools address specific limitations in the free options above. Bot
 
 ## FAQ
 **Q: What is the best free VST plugin for ambient music in 2026?**
-A: Valhalla Supermassive is the free option to start with for reverb. Its developer has confirmed it will remain free, and its Massive algorithms produce sustaining tails that rival paid reverbs. For synthesis, Surge XT and Vital both offer feature sets that competing paid synthesizers can't easily dismiss.
+A: Valhalla Supermassive is the free option to start with for reverb. It is listed as free on Valhalla's official page, and its Massive algorithms produce sustaining tails that rival paid reverbs. For synthesis, Surge XT and Vital both offer feature sets that competing paid synthesizers can't easily dismiss.
 
 **Q: Do I actually need a paid reverb for ambient music?**
 A: Not necessarily. Valhalla Supermassive handles infinite reverb beds and drone music extremely well. TAL-Reverb-4 covers plate reverb convincingly. The paid options — FabFilter Pro-R 2 and Eventide SP2016 — earn their cost through specific capabilities: surgical decay control and documented hardware character, respectively. Neither is a mandatory upgrade from Supermassive.
 
 **Q: Is Vital's free tier complete enough for ambient production?**
-A: Yes. Matt Tytel has confirmed the free tier includes all core synthesis features in Vital. The paid tiers add preset and wavetable packs. For ambient production specifically, the free tier's spectral warping engine and modulation routing are the relevant capabilities — and both are fully available without payment.
+A: Yes. Vital offers a free version; check vital.audio for exactly what each tier includes. For ambient production, Vital's spectral warping and modulation routing are the capabilities worth looking at.
 
 **Q: What distinguishes Valhalla Supermassive from Valhalla VintageVerb?**
 A: Supermassive is built for infinite, algorithmic tails — enormous sustaining spaces suited to drone and ambient. VintageVerb models the character of specific hardware reverbs from distinct eras (late 1970s through 1990s), producing warmer, more colored results with a different tonal personality. VintageVerb costs $50 — Valhalla's standard price for all paid plugins.
