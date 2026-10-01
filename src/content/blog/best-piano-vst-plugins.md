@@ -51,7 +51,7 @@ This guide covers all four main types — grand, upright, electric, and felt/toy
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU
 
-Piano One is a multi-velocity-sampled 9-foot concert grand with a clean, uncolored tone that sits well under other elements in a mix. KVR's community consistently cites it as the reference-point free acoustic piano for producers who need something functional before committing to a paid library. Its weaknesses are minimal: release samples are basic, and pedal resonance modeling is limited compared to paid options. For demos, sketches, and tracks where piano is supporting rather than featured, it punches far above its price.
+Piano One is a multi-velocity-sampled 9-foot concert grand with a clean, uncolored tone that sits well under other elements in a mix. It is a free acoustic piano for producers who need something functional before committing to a paid library. Its weaknesses are minimal: release samples are basic, and pedal resonance modeling is limited compared to paid options. For demos, sketches, and tracks where piano is supporting rather than featured, it is a no-cost option.
 
 **Best for:** Producers who need a usable neutral acoustic grand before deciding on a paid instrument.
 
@@ -59,7 +59,7 @@ Piano One is a multi-velocity-sampled 9-foot concert grand with a clean, uncolor
 
 ---
 
-### Spitfire LABS Soft Piano — the go-to free felt piano
+### Spitfire LABS Soft Piano — a free felt piano
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/RCtLp_EmJ2s" title="Spitfire LABS Soft Piano — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -68,7 +68,7 @@ Piano One is a multi-velocity-sampled 9-foot concert grand with a clean, uncolor
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU (via free LABS player)
 
-LABS Soft Piano is routinely cited in r/WeAreTheMusicMakers and r/songwriting threads whenever producers ask for free atmospheric piano alternatives. It captures a soft, slightly muffled character — produced with felt dampening on the strings — that makes it immediately useful for ambient, indie, and lo-fi contexts without any EQ work. The free LABS player is required but minimal. Velocity response is gentle, which makes it forgiving for piano parts played on budget MIDI controllers.
+LABS Soft Piano is a free atmospheric piano. It captures a soft, slightly muffled character — produced with felt dampening on the strings — that makes it immediately useful for ambient, indie, and lo-fi contexts without any EQ work. The free LABS player is required but minimal. Velocity response is gentle, which makes it forgiving for piano parts played on budget MIDI controllers.
 
 **Best for:** Atmospheric tracks, lo-fi, ambient, and any context where a full bright grand would be tonally intrusive.
 
@@ -87,7 +87,7 @@ LABS Soft Piano is routinely cited in r/WeAreTheMusicMakers and r/songwriting th
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX
 
-Arturia Piano V3 uses a hybrid physical modeling and sampling engine to deliver multiple historically significant piano types — concert grands, upright variants, and treated tack-piano treatments — in a single plugin. Arturia's developer documentation describes the physics layer as modeling hammer mechanics, string coupling, and soundboard resonance independently. Reddit's r/synthesizers consistently rates it as the top value-per-dollar piano plugin for producers who want more than one instrument archetype without managing multiple large libraries. The modeling engine handles soft pedal and sustain behavior more convincingly than Piano One's fixed-layer sampling. The honest trade-off, per KVR user reports, is that its modeled voicing can read as marginally less organic than a top-tier sampled grand like Ravenscroft 275 on fully exposed solo passages.
+Arturia Piano V3 uses a hybrid physical modeling and sampling engine to deliver multiple historically significant piano types — concert grands, upright variants, and treated tack-piano treatments — in a single plugin. Arturia's developer documentation describes the physics layer as modeling hammer mechanics, string coupling, and soundboard resonance independently. It suits producers who want more than one instrument archetype without managing multiple large libraries. The modeling engine handles soft pedal and sustain behavior more convincingly than Piano One's fixed-layer sampling. The trade-off is that a modeled voicing differs from a sampled grand like Ravenscroft 275 on fully exposed solo passages.
 
 **Best for:** Producers who want one plugin covering multiple piano types and eras without buying separate libraries.
 
@@ -104,7 +104,7 @@ Arturia Piano V3 uses a hybrid physical modeling and sampling engine to deliver 
 - **Platforms:** Windows, macOS, Linux
 - **Formats:** VST3, AU, AAX
 
-Pianoteq 8 contains no sample recordings. Every note is generated in real time through physics simulation of string tension, hammer hardness, soundboard resonance, and room interaction. The resulting install size is approximately 80MB. KVR's Pianoteq forum is one of the longest-running technical instrument discussion threads on the site, documenting how the engine handles sympathetic resonance and velocity-dependent timbral shifts in ways that fixed sample layers cannot replicate. Instrument add-ons (including licensed models of specific high-end grands) are available as paid extensions. The one honest trade-off: Pianoteq has a slightly synthesized quality on isolated slow lines that disappears entirely in a full production mix.
+Pianoteq 8 contains no sample recordings. Every note is generated in real time through physics simulation of string tension, hammer hardness, soundboard resonance, and room interaction. The resulting install size is approximately 80MB. The engine handles sympathetic resonance and velocity-dependent timbral shifts in real time rather than through fixed sample layers. Instrument add-ons (including licensed models of specific high-end grands) are available as paid extensions. The one honest trade-off: Pianoteq has a slightly synthesized quality on isolated slow lines that disappears entirely in a full production mix.
 
 **Best for:** Producers on limited storage, live performers, and anyone who needs true physical behavior across the full dynamic range.
 
@@ -122,7 +122,7 @@ Pianoteq 8 contains no sample recordings. Every note is generated in real time t
 - **Formats:** VST3, AU, AAX (standalone available)
 - **Library size:** ~77GB (full multi-velocity sample content)
 
-Keyscape is the benchmark that most other keyboard plugins are measured against in professional production communities. Spectrasonics' product documentation lists 59 keyboard instruments spanning acoustic grands, historical uprights, Rhodes, Wurlitzers, electric grands, and unusual one-of-a-kind vintage boards. The install footprint exceeds 70GB. The level of multi-velocity sampling is documented as among the most extensive available commercially, and its direct integration with Omnisphere is relevant for producers already in that ecosystem. For anyone who needs acoustic and electric piano covered at a professional level without managing two separate purchases, Keyscape is the single-license answer. The honest trade-offs are the 70GB-plus install with corresponding load times, and a price that only pays off if you actually use its acoustic and electric breadth.
+Keyscape is Spectrasonics' keyboard collection. Spectrasonics' product documentation lists 59 keyboard instruments spanning acoustic grands, historical uprights, Rhodes, Wurlitzers, electric grands, and unusual one-of-a-kind vintage boards. The install footprint exceeds 70GB. Its direct integration with Omnisphere is relevant for producers already in that ecosystem. For anyone who needs acoustic and electric piano covered at a professional level without managing two separate purchases, Keyscape is the single-license answer. The honest trade-offs are the 70GB-plus install with corresponding load times, and a price that only pays off if you actually use its acoustic and electric breadth.
 
 **Best for:** Film composers, pop producers, and anyone who needs a complete acoustic and electric keyboard library from one license.
 
@@ -140,7 +140,7 @@ Keyscape is the benchmark that most other keyboard plugins are measured against 
 - **Formats:** VST3, AU, AAX (via Kontakt Player)
 - **Library size:** ~4.6GB (Kontakt sample content)
 
-The Grandeur is NI's concert grand built on the Kontakt sampling engine, with detailed velocity layering and sympathetic resonance modeling. It runs on the free Kontakt Player, which makes it accessible without a full Kontakt license. Community discussion on KVR and the NI forum consistently describes its tone as bright and projecting — suited for classical, jazz, and pop arrangements where the piano needs to carry the top end of a mix. For solo piano work at the $49 price point, it's the most cost-effective entry into a professional-grade sampled grand. Its honest limitation, per community feedback, is that the bright, forward voicing can crowd dense mixes and offers less tonal shaping than a modeled engine.
+The Grandeur is NI's concert grand built on the Kontakt sampling engine, with detailed velocity layering and sympathetic resonance modeling. It runs on the free Kontakt Player, which makes it accessible without a full Kontakt license. It is a concert grand suited to classical, jazz, and pop arrangements. At the $49 price point it is a low-priced entry into a sampled grand. Its limitation is that a bright, forward voicing can crowd dense mixes and offers less tonal shaping than a modeled engine.
 
 **Best for:** Classical and jazz producers who need a reliable concert grand without the Keyscape price.
 
@@ -158,7 +158,7 @@ The Grandeur is NI's concert grand built on the Kontakt sampling engine, with de
 - **Formats:** VST3, AU, AAX
 - **Library size:** ~6GB (multi-velocity, round-robin samples)
 
-The Ravenscroft 275 is built from an extensively recorded Ravenscroft 275 concert grand — a high-end American-made instrument known for its balanced tone across all registers. VI Labs' documentation details multiple velocity layers and round-robin sampling designed to reduce the repetition artifacts that affect cheaper libraries. The r/audioengineering community specifically praises how the Ravenscroft 275 VST handles the middle register at moderate velocity, where many other sampled pianos smear or feel disconnected. At $149, it sits in the realistic-but-not-Keyscape tier and holds its ground there convincingly. Its honest limit is scope: it is one superbly recorded grand, not a versatile multi-instrument package.
+The Ravenscroft 275 is built from an extensively recorded Ravenscroft 275 concert grand — a high-end American-made instrument known for its balanced tone across all registers. VI Labs' documentation details multiple velocity layers and round-robin sampling designed to reduce the repetition artifacts that affect cheaper libraries. At $149, it sits below Keyscape in price and scope. Its honest limit is scope: it is one superbly recorded grand, not a versatile multi-instrument package.
 
 **Best for:** Producers who want sample realism without Keyscape's price or Pianoteq's modeling learning curve.
 
@@ -178,7 +178,7 @@ The Ravenscroft 275 is built from an extensively recorded Ravenscroft 275 concer
 - **Formats:** VST3, AU, AAX
 - **Library size:** ~2GB per instrument expansion
 
-XLN Audio's Addictive Keys platform separates the player from individual instrument expansions. Modern Upright is the upright-specific expansion, and r/WeAreTheMusicMakers consistently recommends it for indie pop, singer-songwriter, and bedroom acoustic productions where a concert grand reads as too formal. The Addictive Keys interface is deliberately streamlined — microphone placement, basic EQ, and built-in effects without overwhelming options. The proximate, slightly percussive character of the upright source is well-captured and mixes easily without low-end cleanup work. The honest constraint is depth: the deliberately streamlined interface offers fewer deep-editing options than a full Kontakt library.
+XLN Audio's Addictive Keys platform separates the player from individual instrument expansions. Modern Upright is the upright-specific expansion, and it suits indie pop, singer-songwriter, and bedroom acoustic productions where a concert grand reads as too formal. The Addictive Keys interface is deliberately streamlined — microphone placement, basic EQ, and built-in effects without overwhelming options. The proximate, slightly percussive character of the upright source is well-captured and mixes easily without low-end cleanup work. The honest constraint is depth: the deliberately streamlined interface offers fewer deep-editing options than a full Kontakt library.
 
 **Best for:** Indie, folk, singer-songwriter, and any track where an upright piano's intimacy fits better than a concert grand's projection.
 
@@ -197,7 +197,7 @@ XLN Audio's Addictive Keys platform separates the player from individual instrum
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX
 
-Lounge Lizard EP-4 uses AAS's physical modeling engine to simulate the mechanical behavior of tine-based (Rhodes-style) and reed-based (Wurlitzer-style) electric pianos from physical first principles. AAS developer documentation confirms it models tine stiffness, pickup distance, and amplifier response rather than playing back fixed samples. KVR's electric piano threads regularly cite Lounge Lizard for its tweakability: producers who want to design their own electric piano tone rather than accept a sample library's preset character will find it unusually open-ended. Its weakness is that it lacks the specific "baked-in" vintage character of a well-sampled actual Rhodes.
+Lounge Lizard EP-4 uses AAS's physical modeling engine to simulate the mechanical behavior of tine-based (Rhodes-style) and reed-based (Wurlitzer-style) electric pianos from physical first principles. AAS developer documentation confirms it models tine stiffness, pickup distance, and amplifier response rather than playing back fixed samples. Lounge Lizard is tweakable: producers who want to design their own electric piano tone rather than accept a sample library's preset character will find it unusually open-ended. Its weakness is that it lacks the specific "baked-in" vintage character of a well-sampled actual Rhodes.
 
 **Best for:** Producers who want to shape electric piano tone from the ground up rather than work from a fixed sample character.
 
@@ -215,7 +215,7 @@ Lounge Lizard EP-4 uses AAS's physical modeling engine to simulate the mechanica
 - **Formats:** VST3, AU, AAX (via Kontakt Player)
 - **Library size:** ~2.9GB (Kontakt sample content)
 
-Scarbee Mark I is sample-based, built from an extensively recorded Fender Rhodes Mark I, and is consistently cited in producer communities as the most realistic-sounding Rhodes VST for R&B, soul, and neo-soul production. Unlike Lounge Lizard's modeling flexibility, Scarbee Mark I's strength is the character of the source instrument itself — the warmth and body of a well-maintained vintage Rhodes is baked in rather than simulated. Tremolo, amp simulation, and chorus are included as built-in Kontakt effects. For neo-soul and classic R&B applications, the community consensus is clear: Scarbee Mark I is the reference. The honest trade-off against a modeled electric piano is flexibility: you work with the character of one specific recorded Rhodes rather than shaping the tone from scratch.
+Scarbee Mark I is sample-based, built from an extensively recorded Fender Rhodes Mark I, and suits R&B, soul, and neo-soul production. Unlike Lounge Lizard's modeling flexibility, Scarbee Mark I's strength is the character of the source instrument itself — the warmth and body of a well-maintained vintage Rhodes is baked in rather than simulated. Tremolo, amp simulation, and chorus are included as built-in Kontakt effects. The honest trade-off against a modeled electric piano is flexibility: you work with the character of one specific recorded Rhodes rather than shaping the tone from scratch.
 
 **Best for:** R&B, soul, and neo-soul producers who need a realistic vintage Rhodes without sourcing or maintaining a physical instrument.
 
@@ -235,7 +235,7 @@ Scarbee Mark I is sample-based, built from an extensively recorded Fender Rhodes
 - **Formats:** VST3, AU, AAX
 - **Library size:** ~2GB (Air Studios multi-mic samples)
 
-Spitfire Audio Felt Piano delivers the tonal character of a piano with felt strips inserted between hammers and strings — a technique used in film scoring and minimalist composition to create a dry, muted, intimate sound. Spitfire's product documentation describes it as recorded at Air Studios with multiple microphone positions providing tonal variation from close and ambient placements. The sync licensing and soundtrack community consistently recommends it for emotional underscore, music beds, and tracks where a standard grand would be tonally intrusive. It does one specific thing precisely and does not try to be a general-purpose piano.
+Spitfire Audio Felt Piano delivers the tonal character of a piano with felt strips inserted between hammers and strings — a technique used in film scoring and minimalist composition to create a dry, muted, intimate sound. Spitfire's product documentation describes it as recorded at Air Studios with multiple microphone positions providing tonal variation from close and ambient placements. It suits emotional underscore, music beds, and tracks where a standard grand would be tonally intrusive. It does one specific thing precisely and does not try to be a general-purpose piano.
 
 **Best for:** Soundtrack composers, sync writers, and ambient producers who need a consistently intimate piano palette.
 
@@ -253,7 +253,7 @@ Spitfire Audio Felt Piano delivers the tonal character of a piano with felt stri
 - **Formats:** VST3, AU, AAX (via Kontakt Player)
 - **Library size:** ~4.7GB (Kontakt sample content)
 
-Una Corda is NI's one-string-per-note experimental piano, developed in collaboration with composer David Hauschka. It was recorded with unconventional preparations — objects placed on and between strings — giving it a fragile, high-register character that sits somewhere between a prepared piano and a music box. Producer forum discussions describe it as a tool for textural and melodic writing where a conventional piano would sound too resolved and full. Its default patches are immediately useful in ambient, modern classical, and film contexts. It runs on the free Kontakt Player and has no significant CPU overhead. Its honest limitation is range: the fragile, high-register preparation is a specialist color, not a substitute for a full-bodied grand.
+Una Corda is NI's one-string-per-note experimental piano, developed in collaboration with composer David Hauschka. It was recorded with unconventional preparations — objects placed on and between strings — giving it a fragile, high-register character that sits somewhere between a prepared piano and a music box. It suits textural and melodic writing where a conventional piano would sound too resolved and full. Its default patches are immediately useful in ambient, modern classical, and film contexts. It runs on the free Kontakt Player and has no significant CPU overhead. Its honest limitation is range: the fragile, high-register preparation is a specialist color, not a substitute for a full-bodied grand.
 
 **Best for:** Ambient producers, film composers, and tracks where a conventional piano character would be tonally plain.
 
@@ -319,7 +319,7 @@ Una Corda is NI's one-string-per-note experimental piano, developed in collabora
 
 ## Ready for the Next Level?
 
-If you have outgrown the free picks, the paid piano instruments below are all available through Plugin Boutique — the checkout most producers already use for licensing, and where seasonal sales and virtual-cash vouchers tend to stack. Prices are approximate 2026 street prices based on price-history tracking, not fixed retail; watch for regular discount events before buying at full list.
+If you have outgrown the free picks, the paid piano instruments below are all available through Plugin Boutique — where seasonal sales and virtual-cash vouchers tend to stack. Prices are approximate 2026 street prices based on price-history tracking, not fixed retail; watch for regular discount events before buying at full list.
 
 | Plugin | Type | Approx. 2026 Price | Get It |
 |--------|------|--------------------|--------|
@@ -335,7 +335,7 @@ Based on our price tracking and its install size, Pianoteq offers the most futur
 
 ## FAQ
 **Q: What's the best free piano VST plugin in 2026?**
-A: Spitfire LABS Soft Piano for textured, atmospheric work. Piano One by Sound Magic for a neutral acoustic grand. Both are free, both are widely used, and they cover different tonal territory — downloading both costs nothing and takes under ten minutes.
+A: Spitfire LABS Soft Piano for textured, atmospheric work. Piano One by Sound Magic for a neutral acoustic grand. Both are free, and they cover different tonal territory — downloading both costs nothing and takes under ten minutes.
 
 **Q: Sampled piano vs modeled piano — which sounds more realistic?**
 A: It depends on context. Sampled pianos (Keyscape, Ravenscroft 275, The Grandeur) play back the exact tone of a specific recorded instrument, which usually wins on raw realism for exposed solo piano. Modeled pianos (Pianoteq 8, Lounge Lizard EP-4) generate sound in real time from physics, handling continuous dynamics, pedal behavior, and sympathetic resonance more naturally while installing in a fraction of the space. For solo classical or jazz, sampled generally edges ahead; for live playing, expressive dynamics, and small install sizes, modeled wins.
@@ -350,7 +350,7 @@ A: Most support VST3, AU, and AAX — covering Ableton Live, Logic Pro, FL Studi
 A: A felt piano is a standard grand or upright with felt strips inserted between hammers and strings, creating a dry, muted, intimate tone — the same mechanism used for acoustic "silent practice." A toy piano is a physically separate, smaller instrument with metal tines or rods in place of strings, producing a thinner, more metallic, high-register character. Una Corda bridges both categories through prepared-piano recording rather than either pure technique.
 
 **Q: How much CPU and RAM do piano libraries need?**
-A: It splits by engine. Large sampled libraries like Keyscape (70GB-plus) rely on disk streaming and benefit from an SSD plus 16GB of RAM or more, though they stay light on CPU once loaded. Modeled instruments like Pianoteq 8 install in under 100MB and use almost no RAM but lean on the CPU for real-time synthesis. Based on community reports, any modern machine handles a single piano instance comfortably — the strain appears when you stack many sampled instruments in one project.
+A: It splits by engine. Large sampled libraries like Keyscape (70GB-plus) rely on disk streaming and benefit from an SSD plus 16GB of RAM or more, though they stay light on CPU once loaded. Modeled instruments like Pianoteq 8 install in under 100MB and use almost no RAM but lean on the CPU for real-time synthesis. A single piano instance is typically light; the strain appears when you stack many sampled instruments in one project.
 
 **Q: Do I need an expensive MIDI controller to get the most from these plugins?**
 A: Velocity sensitivity is the only essential feature for all twelve plugins on this list. Any MIDI keyboard with velocity-sensitive keys works. Aftertouch is used by some Pianoteq and Keyscape articulations but is not required for standard piano playing.

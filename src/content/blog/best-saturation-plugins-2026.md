@@ -101,7 +101,7 @@ SATUR8 emulates the harmonic behavior of analog tape machines with a drive circu
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU
 
-Tape Cassette 2 goes beyond saturation into full tape emulation — flutter, wow, noise, and speed-dependent treble loss are all modeled. The speed control affecting frequency response is a particularly well-implemented detail. It's the go-to free tool for lo-fi producers who need authentic cassette degradation rather than generic harmonic warmth.
+Tape Cassette 2 goes beyond saturation into full tape emulation — flutter, wow, noise, and speed-dependent treble loss are all modeled. The speed control affecting frequency response is a particularly well-implemented detail. It is a free tool for lo-fi producers who need cassette degradation rather than generic harmonic warmth.
 
 **Best for:** Lo-fi hip-hop, bedroom pop, and any track where authentic imperfection is the aesthetic goal.
 
@@ -128,7 +128,7 @@ Saturn 2 offers 12 distortion types — tube, tape, transformer, bit crusher, an
 
 ---
 
-### Soundtoys Decapitator — The Industry Standard for Analog Grit
+### Soundtoys Decapitator — Analog Saturation Modeling Five Circuits
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_3Q3U-v0pzA" title="Soundtoys Decapitator — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -340,7 +340,7 @@ A: Yes — and many professional mixing engineers do exactly that. Using a subtl
 A: For producers who mix and master regularly, yes. The per-band distortion modes, real-time modulation system, and CPU efficiency mean it replaces multiple single-purpose saturation plugins. If you only need occasional saturation on individual tracks, Klanghelm SDRR at ~$20 offers far better value per use case, and FabFilter rarely discounts deeply enough to change that calculation.
 
 **Q: What saturation plugin works best on drums?**
-A: Soundtoys Decapitator is the community consensus for drums — the N and A circuit modes add aggressive transient color and tape-style compression that makes drum hits feel physical. For subtler parallel saturation on a drum bus, Saturn 2's multiband control keeps the low end tight while adding harmonics in the high mids independently.
+A: Soundtoys Decapitator is one option for drums — the N and A circuit modes add aggressive transient color and tape-style compression that makes drum hits feel physical. For subtler parallel saturation on a drum bus, Saturn 2's multiband control keeps the low end tight while adding harmonics in the high mids independently.
 
 **Q: Are free saturation plugins good enough for professional work?**
 A: IVGI and Analog Obsession SATUR8 appear in professional sessions regularly. The main limitation of free tools is flexibility and character range — they do one or two things exceptionally well, but paid tools offer more modes, better metering, and more predictable behavior across varied source material. Start free, upgrade when you hit a specific wall.

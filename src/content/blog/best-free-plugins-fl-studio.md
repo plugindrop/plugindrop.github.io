@@ -35,7 +35,7 @@ A decade ago, a wavetable synth on par with Serum would have cost you $189. In 2
 
 The freeware and open-source scene has matured to the point where you can build a complete production chain (synthesis, EQ, compression, reverb, saturation, metering) without spending a cent. FL Studio's VST/VST3 architecture loads every plugin here with no friction, so there is no technical barrier to getting started.
 
-This guide ranks 15 of the best free VST plugins for FL Studio, chosen based on specs, developer documentation, and community consensus across genres from trap to ambient to cinematic. Each pick lists its format, OS support, one concrete use case, and, because no free plugin is perfect, one honest limitation so you know exactly where it falls short before you install it.
+This guide ranks 15 of the best free VST plugins for FL Studio, chosen based on specs and developer documentation across genres from trap to ambient to cinematic. Each pick lists its format, OS support, one concrete use case, and, because no free plugin is perfect, one honest limitation so you know exactly where it falls short before you install it.
 
 ---
 
@@ -228,7 +228,7 @@ Rough Rider 3 is not a transparent compressor — it's a character compressor th
 - **Platforms:** Windows, macOS
 - **Formats:** VST2, VST3, AAX, AU
 
-TDR Kotelnikov is widely considered the best free mastering compressor available in 2026. Its wideband detection model responds to program material exceptionally well — adding glue and presence without the pumping artifacts common in cheaper compressors. The free version covers all core controls; the paid GE adds M/S processing and expanded metering for those who need it.
+TDR Kotelnikov is a free mastering compressor built around a wideband detection model, aimed at gentle bus and mastering-style compression. The free version covers all core controls; the paid GE adds M/S processing and expanded metering for those who need it.
 
 **Best for:** Mix bus glue, mastering compression, subtle dynamic control across full arrangements.
 
