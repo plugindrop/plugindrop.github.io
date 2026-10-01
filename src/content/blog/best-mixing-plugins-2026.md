@@ -65,7 +65,7 @@ If you only read one section of this guide, read this one. Across every category
 | Valhalla Vintage Verb | $50 | Budget-friendly studio reverb | No formal trial (demo audio available) | [Search Plugin Boutique](https://www.pluginboutique.com/search?q=Valhalla%20Vintage%20Verb&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-mixing-plugins-2026&chan=art&data1=best-mixing-plugins-2026) |
 | Soundtoys Decapitator | $199 | Analog saturation & harmonic drive | Yes (7-day, via bundle) | [View on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 | FabFilter Pro-L 2 | $179 | Mastering-grade limiting | Yes (30 days) | [View on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
-| iZotope Ozone | $99+ | Complete mastering suite | Yes (10 days) | [View on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
+| iZotope Ozone | $55+ (as of 2026-10-01) | Complete mastering suite | Yes (10 days) | [View on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 
 FabFilter's generous 30-day trial policy is worth calling out specifically — it removes almost all purchase risk on Pro-Q 4, Pro-C 3, and Pro-L 2, which is a big part of why they dominate this list. If you're unsure whether a plugin fits your workflow, always check for a trial before spending. For a deeper look at when these specific FabFilter tools tend to go on sale rather than paying full price, see our dedicated pages: [When Does FabFilter Pro-Q 4 Go On Sale?](/posts/when-does-fabfilter-pro-q-4-go-on-sale/), [When Does FabFilter Pro-C 3 Go On Sale?](/posts/when-does-fabfilter-pro-c-2-go-on-sale/), and [When Does FabFilter Pro-L 2 Go On Sale?](/posts/when-does-fabfilter-pro-l-2-go-on-sale/).
 
@@ -241,7 +241,7 @@ Like the rest of the FabFilter range, Pro-L 2 holds its price well. Check [When 
 | Valhalla Vintage Verb | $50 | Reverb | 18 modes, vintage hardware models, $50 | [Get It](https://www.pluginboutique.com/search?q=Valhalla%20Vintage%20Verb&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 | Soundtoys Decapitator | $199 | Saturation | 5 analog models, harmonic drive, tone shaping | [Get via Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 | FabFilter Pro-L 2 | $179 | Limiter | True peak limiting, 8 algorithms, LUFS metering | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
-| iZotope Ozone | $99+ | Mastering | AI mastering, master rebalance, vintage modules | [Get It](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
+| iZotope Ozone | $55+ (as of 2026-10-01) | Mastering | AI mastering, master rebalance, vintage modules | [Get It](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 
 ## How to Choose
 

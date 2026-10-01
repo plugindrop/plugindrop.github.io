@@ -21,7 +21,7 @@ draft: false
 | FabFilter Pro-C 3 | $199 | Drum bus and parallel compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-for-metal-mixing) |
 | FabFilter Pro-L 2 | $179 | True peak limiting for loud masters | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-for-metal-mixing) |
 | Waves CLA-76 | $149 list ($34.99 sale on Waves, 2026-10-01) | Snare and drum channel compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20CLA-76&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-for-metal-mixing&chan=art&data1=best-vst-plugins-for-metal-mixing) |
-| iZotope Ozone 12 | $99+ | AI-assisted mastering chain | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-for-metal-mixing) |
+| iZotope Ozone 12 | $55+ (as of 2026-10-01) | AI-assisted mastering chain | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-for-metal-mixing) |
 | OwnHammer IRs | $15–$45/pack | Cabinet IR library for amp sims | [OwnHammer.com](https://www.ownhammer.com) |
 
 ---

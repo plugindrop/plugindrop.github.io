@@ -28,7 +28,7 @@ priceTrack:
 | Valhalla Room | $50 | Studio reverb | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-room/) |
 | FabFilter Pro-C 3 | $199 | Transparent compression | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
 | Serum | $189 | Wavetable synthesis | [Xfer Records](https://xferrecords.com/products/serum-2) |
-| iZotope Ozone 12 | $249 | AI-assisted mastering | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
+| iZotope Ozone 12 | $219 (as of 2026-10-01) | AI-assisted mastering | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
 | Valhalla Supermassive | Free | Ambient reverb & delay | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Vital | Free | Wavetable synthesis | [Free](https://vital.audio/) |
 
@@ -368,7 +368,7 @@ Ozone 12's Master Assistant analyzes your track and builds a starting mastering 
 | Kontakt 8 | $299 | Sampler | Industry-standard, thousands of libraries | [Get it](https://www.native-instruments.com/en/products/komplete/samplers/kontakt-8/) |
 | Addictive Drums 2 | $179 | Drums | Realistic kits, built-in channel mixer | [Get it](https://www.xlnaudio.com/products/addictive_drums_2) |
 | RC-20 Retro Color | $99 | Lo-Fi FX | 6 modules, organic texture design | [Get it](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
-| iZotope Ozone 12 | $249 | Mastering | AI Master Assistant, Stabilizer module | [Get it](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
+| iZotope Ozone 12 | $219 (as of 2026-10-01) | Mastering | AI Master Assistant, Stabilizer module | [Get it](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
 
 ---
 

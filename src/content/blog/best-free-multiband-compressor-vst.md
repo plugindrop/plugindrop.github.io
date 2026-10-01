@@ -220,7 +220,7 @@ Free multiband compressors cover the vast majority of mixing and mastering scena
 | Plugin | Approx. 2026 Price | Why It's Worth It | Get It |
 |--------|--------------------|-------------------|--------|
 | FabFilter Pro-MB | ~$199 / EUR 179 | Dynamic phase mode, zero-latency algorithm, best-in-class band-linking and sidechain routing | [View on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/919-FabFilter-Pro-MB?a_aid=69cb95abe1763&chan=art&data1=best-free-multiband-compressor-vst) |
-| iZotope Ozone 12 (Multiband Dynamics) | From ~$249 | AI Mastering Assistant, integrated multiband dynamics inside a full mastering suite | [View on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-free-multiband-compressor-vst) |
+| iZotope Ozone 12 (Multiband Dynamics) | From ~$219 (as of 2026-10-01) | AI Mastering Assistant, integrated multiband dynamics inside a full mastering suite | [View on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-free-multiband-compressor-vst) |
 | Waves C6 (full) | ~$29-$49 on sale | Six-band broadcast-grade compression with two floating sidechain bands; the paid version unlocks the full feature set | [Search Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20C6&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-multiband-compressor-vst&chan=art&data1=best-free-multiband-compressor-vst) |
 | TDR Nova GE | ~$60 (name-your-price) | The Gentleman's Edition of the free standard: expanded processing modes, extra metering, and advanced routing | [Search Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/4656-TDR-Nova-GE?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-multiband-compressor-vst&chan=art&data1=best-free-multiband-compressor-vst) |
 
@@ -241,7 +241,7 @@ If you only buy one, FabFilter Pro-MB is the paid standalone multiband compresso
 | Calf Multiband | Free | Multiband Compressor | LV2/Linux native, open source, 5 bands, active development | [Download](https://calf-studio-gear.org/) |
 | mda Multiband | Free | Multiband Compressor | Open source, 3 bands, educational value | [Download](https://sourceforge.net/projects/mda-vst/) |
 | FabFilter Pro-MB | €179 | Multiband Comp/Exp | Dynamic phase mode, zero-latency algorithm, precision routing | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/919-FabFilter-Pro-MB?a_aid=69cb95abe1763&chan=art&data1=best-free-multiband-compressor-vst) |
-| iZotope Ozone 12 | From $249 | Mastering Suite | AI Mastering Assistant, multiband dynamics, stem mastering | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-free-multiband-compressor-vst) |
+| iZotope Ozone 12 | From $219 (as of 2026-10-01) | Mastering Suite | AI Mastering Assistant, multiband dynamics, stem mastering | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-free-multiband-compressor-vst) |
 
 ---
 

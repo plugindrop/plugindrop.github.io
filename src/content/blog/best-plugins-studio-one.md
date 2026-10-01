@@ -292,7 +292,7 @@ Kilohearts documents Snap Heap as a modular effects host for their "Snapin" form
 | Serum | $189 | Wavetable Synth | Visual modulation matrix, built-in wavetable editor | [Official Site](https://xferrecords.com/products/serum-2) |
 | Arturia Pigments 7 | $199 | Hybrid Synth | 6 synthesis types, deep arpeggiator/sequencer | [Get it](https://www.arturia.com) |
 | u-he Tyrell N6 | Free | Analog Synth | Subtractive architecture, u-he filter quality | [Download](https://u-he.com) |
-| iZotope Ozone 12 | From ~$49 | Mastering | Master Assistant, full mastering chain in one plugin | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one) |
+| iZotope Ozone 12 | From ~$55 (as of 2026-10-01) | Mastering | Master Assistant, full mastering chain in one plugin | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one) |
 | Slate Digital Fresh Air | Free | Enhancer | Two-control high-freq enhancement, zero setup | [Download](https://slatedigital.com/free-plugins/) |
 | Soundtoys 5 | $599 bundle | Creative FX | 20+ plugins, EchoBoy, Decapitator, Little AlterBoy | [Get via Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one) |
 | Kilohearts Snap Heap | Free/Paid | Modular FX | Snapin modular chain, macro control across effects | [Get it](https://kilohearts.com) |

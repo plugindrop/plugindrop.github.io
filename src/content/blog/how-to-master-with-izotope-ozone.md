@@ -26,7 +26,7 @@ draft: false
 
 | Plugin | Price | Role | Get It |
 |--------|-------|------|--------|
-| iZotope Ozone 12 | $99–$499 | Complete mastering suite | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=how-to-master-with-izotope-ozone) |
+| iZotope Ozone 12 | $55–$499 (as of 2026-10-01) | Complete mastering suite | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=how-to-master-with-izotope-ozone) |
 | FabFilter Pro-L 2 | $179 | Standalone limiter for comparison | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=how-to-master-with-izotope-ozone) |
 
 ---
@@ -185,8 +185,8 @@ These modules add analog character — harmonic saturation, high-frequency roll-
 
 ## How to Choose
 
-- **If you are new to mastering**, start with Ozone 12 Elements ($99) — the Master Assistant provides a correct starting framework while you learn what each module is doing and why. The Elements tier is sufficient to produce streaming-ready masters.
-- **If you master your own music regularly**, Ozone Standard ($199) is the correct tier — the Dynamic EQ, Tonal Balance Control, and reference track comparison are all features that are immediately useful in everyday mastering decisions, not just advanced-use additions.
+- **If you are new to mastering**, start with Ozone 12 Elements ($55 as of 2026-10-01) — the Master Assistant provides a correct starting framework while you learn what each module is doing and why. The Elements tier is sufficient to produce streaming-ready masters.
+- **If you master your own music regularly**, Ozone Standard ($219 as of 2026-10-01) is the correct tier — the Dynamic EQ, Tonal Balance Control, and reference track comparison are all features that are immediately useful in everyday mastering decisions, not just advanced-use additions.
 - **If you need to fix mix balance issues at the mastering stage**, Ozone Advanced ($499) with Master Rebalance is the most capable solution and avoids returning to the full mix session for corrections that are within the 3 dB adjustment range.
 - **If you want the best standalone limiter regardless of Ozone tier**, FabFilter Pro-L 2 is worth the investment alongside any Ozone tier for its limiting algorithm flexibility and metering clarity.
 
@@ -217,7 +217,7 @@ iZotope Ozone 12's value is not in automating mastering — it's in giving produ
 
 The five-step process in this guide covers the complete mastering chain: preparation, AI-assisted starting point, EQ correction, stereo imaging, and loudness for delivery. Each step requires judgment rather than rote setting application — the specific values will differ for every mix. But the process itself is consistent, and understanding why each step happens makes the variation in settings logical rather than arbitrary.
 
-For most independent producers in 2026, Ozone Standard at $199 with the workflow in this guide produces commercially competitive masters across all streaming platforms. That outcome was not achievable without a professional mastering engineer at any price point five years ago — the tools have genuinely closed the gap.
+For most independent producers in 2026, Ozone Standard at $219 with the workflow in this guide produces commercially competitive masters across all streaming platforms. That outcome was not achievable without a professional mastering engineer at any price point five years ago — the tools have genuinely closed the gap.
 
 ---
 

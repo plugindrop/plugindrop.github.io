@@ -26,7 +26,7 @@ priceTrack:
 | Plugin | Price | Best For | Free Trial? | Plugin Boutique Link |
 |--------|-------|----------|--------------|----------------------|
 | FabFilter Pro-L 2 | ~$199 | Transparent mastering, all genres | Yes (30-day) | [Official Site](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-limiter-plugins-mastering) |
-| iZotope Ozone Maximizer | Included in Ozone (~$249+) | AI-assisted loudness maximizing | Yes | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%20Maximizer&a_aid=69cb95abe1763&chan=art&data1=best-limiter-plugins-mastering) |
+| iZotope Ozone Maximizer | Included in Ozone (~$219+) | AI-assisted loudness maximizing | Yes | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%20Maximizer&a_aid=69cb95abe1763&chan=art&data1=best-limiter-plugins-mastering) |
 | Limiter 6 GE | ~$49 | Multi-stage limiting on a tight budget | Yes (demo) | [Official Site](https://www.tokyodawn.net/tdr-limiter6-ge/) |
 | W1 Limiter | Free | Zero-cost brickwall, beginners | N/A — free | [Plugin Boutique](https://www.pluginboutique.com/search?q=W1%20Limiter&a_aid=69cb95abe1763&chan=art&data1=best-limiter-plugins-mastering) |
 | Youlean Loudness Meter 2 | Free | LUFS targeting alongside any limiter | N/A — free | [Free Download](https://youlean.co/youlean-loudness-meter/) |
@@ -178,7 +178,7 @@ The Waves L2 Ultramaximizer is both historical and still useful in 2026. It intr
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/chRsQbkLN6w" title="iZotope Ozone Maximizer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
-- **Price:** Included with Ozone Standard (~$249) or Advanced (~$399)
+- **Price:** Included with Ozone Standard (~$219) or Advanced ($499)
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
@@ -283,7 +283,7 @@ The Sonnox Oxford Limiter V3 is a purpose-built tool for scenarios that demand s
 | Voxengo Elephant | ~$49 | Mastering | Flexible limiting with built-in dithering | Yes | [Get It](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Voxengo%20Elephant&a_aid=69cb95abe1763&chan=art&data1=best-limiter-plugins-mastering) |
 | AOM Invisible Limiter G2 | ~$79 | Transparent | Acoustic, classical, jazz | Yes | [Get It](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20AOM%20Invisible%20Limiter%20G2&a_aid=69cb95abe1763&chan=art&data1=best-limiter-plugins-mastering) |
 | Waves L2 Ultramaximizer | ~$29–$99 | Classic brickwall | IDR dithering, classic loud character | Yes | [Get It](https://www.pluginboutique.com/product/2-Effects/9-Limiter/13664-L2-Ultramaximizer?a_aid=69cb95abe1763&chan=art&data1=best-limiter-plugins-mastering) |
-| iZotope Ozone Maximizer | ~$249+ | AI-driven | Ozone ecosystem users | Yes | [Get It](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20iZotope%20Ozone&a_aid=69cb95abe1763&chan=art&data1=best-limiter-plugins-mastering) |
+| iZotope Ozone Maximizer | ~$219+ | AI-driven | Ozone ecosystem users | Yes | [Get It](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20iZotope%20Ozone&a_aid=69cb95abe1763&chan=art&data1=best-limiter-plugins-mastering) |
 | FabFilter Pro-L 2 | ~$199 | Premium | All genres, all delivery targets | Yes (30-day) | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-limiter-plugins-mastering) |
 | DMG Audio Limitless | ~$199 | Multi-band | Per-band and M/S limiting on dense mixes | Yes | [→ Get DMG Audio Limitless](https://dmgaudio.com/products_limitless.php) |
 | Sonnox Oxford Limiter V3 | ~$250 | Broadcast/precision | Broadcast delivery, ISP compliance | Yes | [Get It](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Sonnox%20Oxford%20Limiter%20V3&a_aid=69cb95abe1763&chan=art&data1=best-limiter-plugins-mastering) |

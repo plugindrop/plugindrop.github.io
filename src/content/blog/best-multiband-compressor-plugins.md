@@ -64,7 +64,7 @@ What separates Pro-MB from every alternative is the hybrid architecture — each
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/chRsQbkLN6w" title="iZotope Ozone Dynamics — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
-- **Price:** Included in Ozone Standard ($199) and above
+- **Price:** Included in Ozone Standard ($219) and above
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX
 
