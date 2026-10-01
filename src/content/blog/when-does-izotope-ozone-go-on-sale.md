@@ -1,7 +1,7 @@
 ---
 noindex: true
 title: "When Does iZotope Ozone Go On Sale? (Updated 2026)"
-description: "iZotope Ozone 12 Advanced regular price: $499. Goes on sale 2-3x per year at 40-60% off. Ozone 11 (previous version) has hit $99 at ADSR. Black Friday and NI Summer Sale are the best windows."
+description: "iZotope Ozone 12 Advanced regular price: $499. Goes on sale 2-3x per year at 40-60% off. Ozone 11 (previous version, now discontinued at Plugin Boutique US) hit $99 at ADSR in 2025. Black Friday and NI Summer Sale are the best windows."
 pubDate: "2026-06-29"
 evergreen: true
 tags:
@@ -44,7 +44,7 @@ heroImage: '/images/when-does-izotope-ozone-go-on-sale.jpg'
 - **NI Summer Sale (June-July)**
 - **iZotope / NI Anniversary Sales**
 
-> **Buying tip:** iZotope was acquired by NI in 2022 — sales now align with NI's Summer and BF schedule. The current version is Ozone 12 Advanced ($499). Ozone 11 Advanced (previous version) has hit $99 during major sales — worth checking if Ozone 12 features aren't essential. Best Service, ADSR, and Gear4Music often undercut PB pricing.
+> **Buying tip:** iZotope was acquired by NI in 2022 — sales now align with NI's Summer and BF schedule. The current version is Ozone 12 Advanced ($499). Ozone 11 Advanced (previous version, no longer sold at Plugin Boutique US) hit $99 in 2025 sales; those were historical deals, so check whether any retailer still has stock if Ozone 12 features aren't essential. Best Service, ADSR, and Gear4Music often undercut PB pricing.
 
 
 **[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=when-does-izotope-ozone-go-on-sale)**

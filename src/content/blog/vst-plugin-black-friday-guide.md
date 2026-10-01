@@ -177,7 +177,7 @@ ValhallaRoom ($50), VintageVerb ($50), Delay ($50) — unchanged since launch. T
 Serum sells for $189 and has never been discounted. Serum 2 (the update) continues this policy. No Black Friday, no summer sale, no bundle. The only way to get Serum cheaper than $189 is through a hardware bundle that includes it.
 
 ### iZotope (most products)
-iZotope does run sales, but they're unpredictable in timing and depth. Their Elements tiers (Ozone Elements, etc.) occasionally hit $29 at Black Friday. The full suite products (Ozone 11 Advanced, RX 12 Advanced) discount during specific campaigns but not always at BF.
+iZotope does run sales, but they're unpredictable in timing and depth. Their Elements tiers (Ozone Elements, etc.) occasionally hit $29 at Black Friday. The full suite products (Ozone 12 Advanced, RX 12 Advanced) discount during specific campaigns but not always at BF.
 
 ---
 

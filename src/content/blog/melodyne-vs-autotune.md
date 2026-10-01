@@ -61,7 +61,7 @@ Melodyne treats audio as a collection of individual note "blobs" that you can se
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TNOpFCXBX3M" title="Auto-Tune Pro — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Antares Audio Technologies
-- **Price:** ~$399 perpetual / subscription option (see Antares for current pricing)
+- **Price:** perpetual license or subscription option (see Antares for current pricing)
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX
 
@@ -126,7 +126,7 @@ Auto-Tune Pro is sold as one full-featured product with a perpetual license or s
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/V_FufjeRGfE" title="Auto-Tune Pro — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Antares Audio Technologies
-- **Price:** ~$399 perpetual
+- **Price:** perpetual license (see Antares for current pricing)
 - **Why upgrade:** Entry-level Antares products like Auto-Tune Access offer only Auto mode correction with limited scale and key options. Auto-Tune Pro adds Graph mode for manual editing, ARA2 support for DAW integration, MIDI control, throat modeling (formant manipulation), and Flex-Tune for more transparent correction. If Auto-Tune is your primary pitch correction tool, Pro is the version worth owning.
 
 [→ Get Auto-Tune Pro on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Auto&a_aid=69cb95abe1763&chan=art&data1=melodyne-vs-autotune)
@@ -168,7 +168,7 @@ A: Not in the same sense. Melodyne with ARA2 integration processes audio that's 
 A: For transparent correction where the editing should be inaudible, most engineers give the edge to Melodyne. Its object-based approach tends to produce fewer artifacts on sustained notes and breaths. However, Auto-Tune Pro's Flex-Tune mode is competitive for clean correction on well-performed vocals. The difference matters most when fixing larger pitch deviations.
 
 **Q: Is the Auto-Tune subscription worth it vs. perpetual?**
-A: The subscription includes Auto-Tune Pro and several other Antares products (EFX+, Artist, etc.), which can be good value if you use multiple Antares tools. If you only need Auto-Tune Pro, the perpetual license (~$399) pays for itself within a year or two of subscription fees. For a long-term production setup, perpetual is almost always the better financial decision.
+A: The subscription includes Auto-Tune Pro and several other Antares products (EFX+, Artist, etc.), which can be good value if you use multiple Antares tools. If you only need Auto-Tune Pro, the perpetual license (see Antares for current pricing) can pay for itself within a year or two of subscription fees. For a long-term production setup, perpetual is almost always the better financial decision.
 
 **Q: Does Melodyne work in Ableton Live?**
 A: Yes. Melodyne supports ARA2 in Ableton Live 11 and later (on macOS; Windows ARA2 in Ableton came later — verify your version). In older setups or DAWs without full ARA2 support, Melodyne can still run as a VST/AU plugin using the manual audio transfer method, which is more cumbersome but functional.

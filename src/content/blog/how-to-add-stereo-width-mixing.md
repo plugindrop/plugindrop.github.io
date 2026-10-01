@@ -19,7 +19,7 @@ draft: false
 | SPAN | Free | Stereo field and phase correlation metering | [Plugin Boutique](https://www.pluginboutique.com/search?q=SPAN&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-add-stereo-width-mixing&chan=art&data1=how-to-add-stereo-width-mixing) |
 | iZotope Ozone Imager | Free | Controlled stereo widening with mono compatibility check | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%20Imager&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-add-stereo-width-mixing&chan=art&data1=how-to-add-stereo-width-mixing) |
 | FabFilter Pro-Q 4 | $199 | Mid/side EQ for surgical stereo field shaping | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-add-stereo-width-mixing) |
-| iZotope Ozone 11 Imager (full) | Part of Ozone 11 | Multiband stereo control for mastering | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=how-to-add-stereo-width-mixing) |
+| iZotope Ozone 12 Imager (full) | Part of Ozone 12 | Multiband stereo control for mastering | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=how-to-add-stereo-width-mixing) |
 
 ---
 
@@ -147,7 +147,7 @@ The caveat: Haas effect width collapses to mono as problematic phase cancellatio
 - **If you want transparent widening at the mix or mastering bus**, iZotope Ozone Imager (free) with the vectorscope display is the appropriate starting tool. Monitor the Lissajous display to stay within mono-safe settings.
 - **If you need surgical M/S control** — narrowing specific frequency ranges, processing the side channel independently, or applying high-precision mix bus M/S EQ — FabFilter Pro-Q 4's per-band M/S assignment is the direct solution.
 - **If the Haas effect is the technique you want for wide pads or atmospheric layers**, use it with full awareness of the mono cancellation tradeoff and verify with SPAN that the element remains sufficiently mono-compatible for your release context.
-- **If you're mastering and need multiband stereo control** (narrowing the low bands, widening the high bands independently), the full iZotope Ozone 11 Imager module provides multiband width control that the free standalone version doesn't include.
+- **If you're mastering and need multiband stereo control** (narrowing the low bands, widening the high bands independently), the full iZotope Ozone 12 Imager module provides multiband width control that the free standalone version doesn't include.
 
 ---
 
