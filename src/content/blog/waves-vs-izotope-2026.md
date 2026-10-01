@@ -21,7 +21,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Waves SSL G-Master Buss Compressor | From $29 (on sale) | Mix bus glue compression | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
-| iZotope Neutron 4 | $149 (Standard) | AI-assisted channel mixing | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=waves-vs-izotope-2026) |
+| iZotope Neutron 4 | Superseded by Neutron 5 ($299) | AI-assisted channel mixing | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=waves-vs-izotope-2026) |
 | iZotope Ozone 12 | $249 (Standard) | Home mastering, loudness processing | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=waves-vs-izotope-2026) |
 | Waves Platinum Bundle | From $99 (on sale) | Broad analog-emulation toolkit | [Get It](https://www.waves.com/bundles/platinum) |
 | iZotope Music Production Suite | $499 | Full AI mixing and mastering pipeline | [Get It](https://www.izotope.com/en/products/music-production-suite) |
@@ -149,7 +149,7 @@ The sound quality is not a substitute for a professional mastering engineer at h
 |--------|-------|------|------------|-----|
 | Waves SSL G-Master Buss Compressor | From $29 | Bus Compressor | SSL G hardware emulation, mix bus glue, sidechain HPF | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | Waves H-Delay | From $29 | Delay | Hybrid analog/digital, tempo sync, pitch modulation | No link available |
-| iZotope Neutron 4 | $149 | AI Channel Strip | Track Assistant AI, EQ + compression + transient shaper | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=waves-vs-izotope-2026) |
+| iZotope Neutron 4 | Superseded by Neutron 5 ($299) | AI Channel Strip | Track Assistant AI, EQ + compression + transient shaper | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=waves-vs-izotope-2026) |
 | iZotope Ozone 12 | $249 | AI Mastering Suite | Master Assistant, Stem Focus, multiband dynamics + limiting | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=waves-vs-izotope-2026) |
 | Waves Platinum Bundle | From $99 | Bundle (60+ plugins) | SSL, API, Neve emulations; broad analog toolkit | [Get It](https://www.waves.com/bundles/platinum) |
 | iZotope Music Production Suite | $499 | Bundle (full pipeline) | Neutron + Ozone + RX + Nectar + Relay | [Get It](https://www.izotope.com/en/products/music-production-suite) |

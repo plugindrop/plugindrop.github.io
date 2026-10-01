@@ -26,7 +26,7 @@ priceTrack:
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | FabFilter Pro-Q 4 | $179 | Precision EQ, mastering, surgical cuts | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-vs-izotope-neutron) |
-| iZotope Neutron 4 | $249 | AI-assisted mixing, full channel strip | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-vs-izotope-neutron) |
+| iZotope Neutron 4 | Superseded by Neutron 5 ($299) | AI-assisted mixing, full channel strip | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-vs-izotope-neutron) |
 | FabFilter Total Bundle | ~$899 | Complete FabFilter plugin suite | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-vs-izotope-neutron) |
 
 ---
@@ -125,7 +125,7 @@ FabFilter Pro-Q 4 has a spectrum collision display and EQ Match, but nothing app
 
 FabFilter Pro-Q 4 at $179 is a singular, best-in-class EQ. There's no channel strip, no AI, no extras — just the world's most refined parametric EQ. That singular focus is also its constraint; if you need compression or saturation, you're writing additional checks.
 
-iZotope Neutron 4 at $249 bundles an EQ, compressor, transient shaper, exciter, gate, and limiter with an AI analysis engine. Purchasing equivalent individual plugins from other developers would cost $600–$900 or more. For producers building a plugin collection from scratch, Neutron 4 represents extraordinary value. The trade-off is that no individual module quite reaches the ceiling of a dedicated best-in-class plugin in its specific category.
+iZotope Neutron 4 (superseded by Neutron 5, listed at $299 by iZotope) bundles an EQ, compressor, transient shaper, exciter, gate, and limiter with an AI analysis engine. Purchasing equivalent individual plugins from other developers would cost $600–$900 or more. For producers building a plugin collection from scratch, Neutron 4 represents extraordinary value. The trade-off is that no individual module quite reaches the ceiling of a dedicated best-in-class plugin in its specific category.
 
 **Winner:** iZotope Neutron 4 for overall value per dollar. FabFilter Pro-Q 4 for value if you specifically need only an EQ.
 
@@ -174,7 +174,7 @@ iZotope Neutron 4 at $249 bundles an EQ, compressor, transient shaper, exciter, 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | FabFilter Pro-Q 4 | $179 | Parametric EQ | 24 bands, linear phase, dynamic EQ, M/S, zero latency | [Buy](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-vs-izotope-neutron) |
-| iZotope Neutron 4 | $249 | Channel Strip + AI EQ | Track Assistant, Unmask, 6 modules, inter-plugin comms | [Buy](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-vs-izotope-neutron) |
+| iZotope Neutron 4 | Superseded by Neutron 5 ($299) | Channel Strip + AI EQ | Track Assistant, Unmask, 6 modules, inter-plugin comms | [Buy](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-vs-izotope-neutron) |
 | FabFilter Total Bundle | ~$899 | Full Plugin Suite | All FabFilter plugins: EQ, comp, limiter, saturation, FX | [Buy](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-vs-izotope-neutron) |
 
 ---

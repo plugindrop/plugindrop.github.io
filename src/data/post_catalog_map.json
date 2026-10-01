@@ -1235,10 +1235,12 @@
     ]
   },
   "izotope-neutron-4-review": {
-    "category": null,
-    "confidence": "explicit",
+    "category": "Utility",
+    "confidence": "exact",
     "kind": "review",
-    "products": []
+    "products": [
+      "iZotope Neutron 5"
+    ]
   },
   "izotope-ozone-12-review": {
     "category": "Mastering",

@@ -20,10 +20,10 @@ draft: false
 
 | Edition | Price | What it is | Get It |
 |---------|-------|------------|--------|
-| Neutron 5 Elements | $55 | Mix Assistant plus a reduced set of tools | [Neutron 5 Elements](https://www.izotope.com/en/products/neutron-elements.html) |
-| **Neutron 5** | **$299** | **Full suite: 11 plugins (a mothership plus 10 component modules), Visual Mixer and Relay** | [→ Get Neutron 5](https://www.izotope.com/en/products/neutron.html) |
-| Mix & Master Bundle Advanced | $599 | Includes Ozone 12 Advanced, Neutron 5, Tonal Balance Control 3, Neoverb and Nectar 4 Advanced | [See the bundle on the Neutron 5 page](https://www.izotope.com/en/products/neutron.html) |
-| Music Production Suite 9 | $799 | Bundle with 100+ tools for mixing, mastering, vocal production, audio repair and creative effects | [Music Production Suite](https://www.izotope.com/en/products/music-production-suite.html) |
+| Neutron 5 Elements | $55 | Mix Assistant plus a reduced set of tools | [Neutron 5 Elements](https://www.izotope.com/products/neutron-elements) |
+| **Neutron 5** | **$299** | **Full suite: 11 plugins (a mothership plus 10 component modules), Visual Mixer and Relay** | [→ Get Neutron 5](https://www.izotope.com/products/neutron) |
+| Mix & Master Bundle Advanced | $599 | Includes Ozone 12 Advanced, Neutron 5, Tonal Balance Control 3, Neoverb and Nectar 4 Advanced | [See the bundle on the Neutron 5 page](https://www.izotope.com/products/neutron) |
+| Music Production Suite 9 | $799 | Bundle with 100+ tools for mixing, mastering, vocal production, audio repair and creative effects | [Music Production Suite](https://www.izotope.com/products/music-production-suite) |
 
 Prices are in USD as shown on iZotope's US store at the time of writing. The Neutron 5 page also notes that owners of another version may qualify for a better price once signed in, so we do not quote an upgrade number.
 
@@ -43,7 +43,7 @@ If you searched for Neutron 4, note that iZotope's current Neutron product page 
 - **Formats:** AU, VST3 and AAX, all 64-bit only
 - **Delivery:** Download, available immediately
 
-[→ Get Neutron 5](https://www.izotope.com/en/products/neutron.html)
+[→ Get Neutron 5](https://www.izotope.com/products/neutron)
 
 ---
 
@@ -90,7 +90,7 @@ iZotope's edition chart shows the split clearly:
 
 iZotope says the Elements version gets you to a starting point quickly, while the full version is for going under the hood and tweaking every parameter of every module.
 
-[→ See Neutron 5 Elements](https://www.izotope.com/en/products/neutron-elements.html)
+[→ See Neutron 5 Elements](https://www.izotope.com/products/neutron-elements)
 
 ---
 

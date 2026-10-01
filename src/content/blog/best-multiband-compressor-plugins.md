@@ -267,7 +267,7 @@ For straightforward compression tasks it can feel like overkill, but for produce
 | OTT | Free | Upward compressor | 3-band, aggressive EDM character | [Get It](https://xferrecords.com/freeware) |
 | MMultiBandDynamics | Free | Multiband dynamics | Deep features, free bundle | [Get It](https://www.meldaproduction.com/MFreeFXBundle) |
 | DMG Audio Multiplicity | ~$149 | Advanced dynamics | Technical, broadcast-grade precision | [Get It](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-multiband-compressor-plugins) |
-| iZotope Neutron 4 | ~$199 | Channel strip w/ MB comp | AI-assisted, full strip integration | [Get It](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-multiband-compressor-plugins) |
+| iZotope Neutron 4 | Superseded by Neutron 5 ($299) | Channel strip w/ MB comp | AI-assisted, full strip integration | [Get It](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-multiband-compressor-plugins) |
 | Cableguys MultiPass | ~$59 | Modular multiband | Per-band modulation, creative processing | [Get It](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-multiband-compressor-plugins) |
 
 ---
