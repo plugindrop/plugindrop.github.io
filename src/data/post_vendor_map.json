@@ -139,7 +139,10 @@
     "vp-tokyo-dawn-labs-tdr-nova",
     "vp-gvst-gmulti"
   ],
-  "best-free-piano-vst": [],
+  "best-free-piano-vst": [
+    "vp-native-instruments-kontakt-player",
+    "vp-decent-samples-decent-sampler"
+  ],
   "best-free-plugins-ableton": [
     "vp-tokyo-dawn-labs-tdr-nova",
     "vp-voxengo-span",

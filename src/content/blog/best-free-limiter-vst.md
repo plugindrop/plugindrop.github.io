@@ -157,12 +157,11 @@ The primary advantage MLimiter offers over standalone free limiters is workflow 
 
 - **Developer:** Calf Studio Gear (open source)
 - **Price:** Free
-- **Platforms:** Linux (primary), Windows, macOS
-- **Formats:** LV2, VST, CLAP
+- **Platforms:** Linux only (Calf's official site says it is available exclusively for Linux-based operating systems)
 
-Calf Limiter is part of the Calf Studio Gear open-source plugin suite, which originated as a Linux-native project and has since produced Windows and macOS builds. The plugin implements a lookahead brickwall limiter with a straightforward interface. It is most relevant for producers working in Linux-native DAW environments — Ardour, Bitwig Linux, Reaper on Linux — where LV2 integration is deep and the Calf suite fits natively into the session workflow.
+Calf Limiter is part of the Calf Studio Gear open-source plugin suite, which its official site says is available exclusively for Linux-based operating systems. It does not run on Windows or macOS. The plugin implements a lookahead brickwall limiter with a straightforward interface. It is most relevant for producers working in Linux-native DAW environments — Ardour, Bitwig Linux, Reaper on Linux — where LV2 integration is deep and the Calf suite fits natively into the session workflow.
 
-For macOS and Windows producers, Limiter 6 GE and LoudMax are better-supported and more thoroughly documented alternatives. Calf Limiter's primary differentiation is its open-source foundation and LV2-first design.
+Calf Limiter is not an option for Windows or macOS producers. Its main differentiation is its open-source foundation.
 
 **Best for:** Linux producers using LV2-compatible DAWs who want a natively integrated, open-source limiter.
 
@@ -228,7 +227,7 @@ It is a free loudness meter. Setting a limiter ceiling by ear without loudness m
 | Youlean Loudness Meter 2 | Free | Loudness metering | LUFS metering, streaming targets built-in | [Download Free](https://youlean.co/youlean-loudness-meter/) |
 | Unlimited | Free | Brickwall | Fast in-session deployment | — |
 | MLimiter (MFreeFXBundle) | Free | Brickwall | Part of comprehensive Melda free suite | — |
-| Calf Limiter | Free | Brickwall | Open source, LV2-first, Linux-primary | — |
+| Calf Limiter | Free | Brickwall | Open source, Linux only (not for Windows/macOS) | — |
 | FabFilter Pro-L 2 | $199 | Multi-algorithm | 8 algorithms, mid-side, spectrum display | [FabFilter](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-free-limiter-vst) |
 | iZotope Ozone Maximizer | Varies | IRC adaptive | AI loudness matching, IRC algorithm suite | [Official Site](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-free-limiter-vst) |
 
@@ -240,7 +239,7 @@ It is a free loudness meter. Setting a limiter ceiling by ear without loudness m
 - **If you want the simplest transparent brickwall limiter with no learning curve:** LoudMax or W1 Limiter. Both are simple, low-control brickwall limiters.
 - **If you produce regularly for streaming and are hitting the ceiling of what free limiters provide:** FabFilter Pro-L 2 is a paid option with multiple limiting algorithms for producers mastering professionally.
 - **If your material is transient-heavy (EDM, hip-hop, metal) and inter-modulation distortion is audible:** iZotope's IRC algorithms in the Ozone Maximizer are specifically documented for dense program material and address limitations that single-algorithm free limiters cannot resolve.
-- **If you are on Linux using LV2-compatible DAWs:** Calf Limiter or the Linux build of MLimiter from MFreeFXBundle are the most natively supported options.
+- **If you are on Linux using LV2-compatible DAWs:** Calf Limiter is the option here that is built specifically for Linux.
 
 ---
 

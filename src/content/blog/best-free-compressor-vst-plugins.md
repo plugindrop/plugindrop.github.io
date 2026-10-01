@@ -1,5 +1,5 @@
 ---
-title: "12 Best Free Compressor VST Plugins in 2026, Ranked (Every Style Covered)"
+title: "11 Best Free Compressor VST Plugins in 2026, Ranked (Every Style Covered)"
 description: "TDR Kotelnikov is the best free compressor VST plugin in 2026 — mastering-grade transparency, every major platform, zero cost. If you want character"
 pubDate: "2026-05-04T00:00:00Z"
 tags: ["guide", "vst", "free", "effects", "compressor"]
@@ -8,7 +8,7 @@ evergreen: true
 heroImage: "/images/best-free-compressor-vst-plugins.jpg"
 score: 8.00
 originalPrice: "$29.99"
-xText: "New guide: 12 Best Free Compressor VST Plugins in 2026 (Every Style Cov..."
+xText: "New guide: 11 Best Free Compressor VST Plugins in 2026 (Every Style Cov..."
 draft: false
 priceTrack:
   - "FabFilter Pro-C 3"
@@ -73,25 +73,6 @@ TDR Kotelnikov delivers mastering-grade transparency at a level that genuinely c
 
 ---
 
-### TDR Feedback Compressor II — Vintage feedback topology, zero cost
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/rqp9MSKH2ZA" title="TDR Feedback Compressor II — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-- **Developer:** Tokyo Dawn Records
-- **Price:** Free
-- **Platforms:** Windows, macOS, Linux
-- **Formats:** VST, VST3, AU, AAX
-
-While Kotelnikov uses a feedforward design for predictability, TDR Feedback Compressor II uses a feedback topology that reacts the way vintage hardware units do — chasing the signal rather than anticipating it. This makes it exceptionally musical on program material and full mixes where a slightly organic, self-correcting response is more flattering than surgical precision. It sits quietly in the shadow of its sibling but deserves a permanent spot in any serious session template.
-
-**Best for:** Full-mix program compression, mastering with a touch of vintage character, bus processing.
-
-**Skip it if:** you need fast, surgical peak control — the feedback topology reacts to the signal after the fact, so it is looser on sharp transient material than a feedforward design like Kotelnikov.
-
-[→ Download TDR Feedback Compressor II Free](https://www.tokyodawn.net/tdr-feedback-compressor-2/)
-
----
-
 ### Cockos ReaComp — Zero-frills precision for any DAW
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ZbnPiPjyfXs" title="Cockos ReaComp — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
@@ -121,9 +102,9 @@ When compression should do more than control dynamics — when you want it to ma
 
 - **Developer:** VladG Sound
 - **Price:** Free
-- **Platforms:** Windows, macOS
+- **Platforms:** We could not confirm current platform support on the developer page; check before downloading
 
-Molot is the free compressor by Vladislav Goncharov (Vladg sound), modeled on the character of Soviet-era hardware units. It has a distinctive aggressive quality — a combination of fast transient response and subtle harmonic saturation — that makes drum buses, electric guitars, and room mics sound bigger without feeling processed. Note that "Molot GE" is a separate, paid edition sold by Tokyo Dawn Labs (the TDR Molot GE page lists a license price of €50); this article recommends the free original.
+Note: the original Molot page on the developer's site now says its download page has moved, so check the developer's current download page. Molot is the free compressor by Vladislav Goncharov (Vladg sound), modeled on the character of Soviet-era hardware units. It has a distinctive aggressive quality — a combination of fast transient response and subtle harmonic saturation — that makes drum buses, electric guitars, and room mics sound bigger without feeling processed. Note that "Molot GE" is a separate, paid edition sold by Tokyo Dawn Labs (the TDR Molot GE page lists a license price of €50); this article recommends the free original.
 
 **Best for:** Drum bus, electric guitars, rock and metal mixes, any source that needs an authoritative grip.
 
@@ -354,7 +335,6 @@ The honest timing rule: none of these is ever urgent. Waves and UAD run sales so
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | TDR Kotelnikov | Free | Transparent | Mastering-grade, all platforms | [Plugin Boutique](https://www.tokyodawn.net/tdr-kotelnikov/) |
-| TDR Feedback Compressor II | Free | Feedback topology | Vintage circuit behavior, free | [Get It](https://www.tokyodawn.net/tdr-feedback-compressor-2/) |
 | Cockos ReaComp | Free | Precision utility | Sidechain, any DAW | [Get It](https://www.cockos.com/reaper/reaplugs/) |
 | Molot | Free | Vintage character | Soviet-era punch, harmonic saturation | [Free Download](https://vladgsound.wordpress.com/plugins/molot/) |
 | Klanghelm MJUC jr. | Free | Variable-mu | Tube warmth, program-dependent release | [Get It](https://klanghelm.com/contents/products/MJUC) |
