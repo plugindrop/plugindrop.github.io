@@ -32,10 +32,12 @@
     "products": []
   },
   "arturia-pigments-review": {
-    "category": null,
-    "confidence": "pb_id",
+    "category": "Synth",
+    "confidence": "exact",
     "kind": "review",
-    "products": []
+    "products": [
+      "Pigments 7"
+    ]
   },
   "arturia-v-collection-review": {
     "category": "Bundle",
@@ -930,9 +932,11 @@
   },
   "fabfilter-pro-c-2-review": {
     "category": "Compressor",
-    "confidence": "pb_id",
+    "confidence": "exact",
     "kind": "review",
-    "products": []
+    "products": [
+      "FabFilter Pro-C 3"
+    ]
   },
   "fabfilter-pro-l-2-review": {
     "category": "Limiter",
@@ -1283,10 +1287,12 @@
     ]
   },
   "kontakt-7-review": {
-    "category": null,
+    "category": "Instrument",
     "confidence": "exact",
     "kind": "review",
-    "products": []
+    "products": [
+      "Native Instruments Kontakt 8"
+    ]
   },
   "kontakt-vs-decent-sampler": {
     "category": "Instrument",
