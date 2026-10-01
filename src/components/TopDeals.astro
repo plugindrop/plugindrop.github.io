@@ -24,8 +24,8 @@ import {
 
 const UTM = "utm_source=plugindrop&utm_medium=sidebar&utm_campaign=best-deals&chan=trk";
 const BIGGEST_UTM = "utm_campaign=biggest-discounts&chan=trk&utm_source=plugindrop&utm_medium=sidebar";
-function pbLink(path: string) {
-  return basePbLink(path, UTM);
+function pbLink(path: string, name: string) {
+  return basePbLink(path, UTM, { data1: slugify(name) });
 }
 
 const priceData = priceDataRaw as { last_updated: string; bundles: Record<string, PriceEntry>; plugins?: Record<string, PriceEntry> };
@@ -116,7 +116,7 @@ const railTitle = watchMode
               <span class="deals-rail-cur mono">{formatPrice(d.current)}</span>
             </div>
             {d.checkedLabel && <span class="deals-rail-checked">checked {d.checkedLabel}</span>}
-            <a href={pbLink(d.entry.pb_url)} class="deals-rail-cta" target="_blank" rel="noopener sponsored">
+            <a href={pbLink(d.entry.pb_url, d.name)} class="deals-rail-cta" target="_blank" rel="noopener sponsored">
               {d.regular - d.current >= 5 ? `Save ${formatPrice(d.regular - d.current)} →` : `Get it for ${formatPrice(d.current)} →`}
             </a>
           </li>
@@ -137,7 +137,7 @@ const railTitle = watchMode
                   <span class="deals-rail-cur mono">{formatPrice(d.current)}</span>
                 </div>
                 {d.everyday && <span class="deals-rail-checked">Around this price on most checks since {formatCheckedDate(new Date(`${d.everyday.since}T00:00:00Z`))}</span>}
-                <a href={basePbLink(d.entry.pb_url, BIGGEST_UTM)} class="deals-rail-cta deals-rail-cta--compact" data-rail-section="biggest" target="_blank" rel="noopener sponsored">Save {formatPrice(d.regular - d.current)} →</a>
+                <a href={basePbLink(d.entry.pb_url, BIGGEST_UTM, { data1: slugify(d.name) })} class="deals-rail-cta deals-rail-cta--compact" data-rail-section="biggest" target="_blank" rel="noopener sponsored">Save {formatPrice(d.regular - d.current)} →</a>
               </li>
             ))}
           </ul>

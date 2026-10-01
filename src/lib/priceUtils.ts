@@ -48,20 +48,28 @@ export function formatPrice(val: number | null): string {
 // product-page URL instead of a relative path; those still need the
 // affiliate id appended (previously passed through untouched, losing
 // commission on 19 tracked products). Non-PB full URLs pass through as-is.
-export function pbLink(path: string, extraParams = ''): string {
+export function pbLink(path: string, extraParams = '', ctx?: { medium?: string; campaign?: string; data1?: string }): string {
   if (!path) return '#';
-  if (path.startsWith('http')) {
-    if (!path.includes('pluginboutique.com')) return path;
-    if (path.includes('a_aid=')) {
-      if (!extraParams) return path;
-      const sep = path.includes('?') ? '&' : '?';
-      return `${path}${sep}${extraParams}`;
-    }
-    const sep = path.includes('?') ? '&' : '?';
-    return `${path}${sep}${AFF}${extraParams ? `&${extraParams}` : ''}`;
-  }
-  const sep = path.includes('?') ? '&' : '?';
-  return `https://www.pluginboutique.com${path}${sep}${AFF}${extraParams ? `&${extraParams}` : ''}`;
+  let url: URL;
+  try { url = new URL(path, 'https://www.pluginboutique.com'); } catch { return path; }
+  if (!/(^|\.)pluginboutique\.com$/i.test(url.hostname)) return path;
+  const aid = url.searchParams.get('a_aid');
+  if (aid && aid !== AFF.slice('a_aid='.length)) return path;
+  const extra = new URLSearchParams(extraParams);
+  const chan = url.searchParams.get('chan') ?? extra.get('chan') ?? 'trk';
+  const medium = ctx?.medium ?? ({ trk: 'tracker', home: 'homepage', art: 'article', rail: 'rail' } as Record<string, string>)[chan] ?? 'tracker';
+  const campaign = ctx?.campaign ?? ctx?.data1 ?? 'site';
+  const values = new URLSearchParams();
+  values.set('a_aid', AFF.slice('a_aid='.length));
+  values.set('utm_source', 'plugindrop');
+  values.set('utm_medium', medium);
+  values.set('utm_campaign', campaign);
+  values.set('chan', chan);
+  values.set('data1', ctx?.data1 ?? url.searchParams.get('utm_campaign') ?? extra.get('utm_campaign') ?? campaign);
+  // Existing URL keys win, then the second argument, then inferred defaults.
+  for (const [key, value] of extra) if (!url.searchParams.has(key)) url.searchParams.set(key, value);
+  for (const [key, value] of values) if (!url.searchParams.has(key)) url.searchParams.set(key, value);
+  return url.toString();
 }
 
 // "Current" price for an entry: the most recent tracked snapshot (sale price

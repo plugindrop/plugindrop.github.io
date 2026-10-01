@@ -269,10 +269,11 @@ export function ctaHref(post, match, rawBody, slug) {
 
   if (rawBody) {
     const m = rawBody.match(/https:\/\/(?:www\.)?pluginboutique\.com\/product\/[^\s)\]"'<>]+/);
-    if (m) return m[0];
+    if (m) return basePbLink(m[0], `chan=art&data1=${slug}&utm_source=plugindrop&utm_medium=article-cta&utm_campaign=${slug}`);
   }
 
-  return post?.data?.affiliate ?? '#';
+  const aff = post?.data?.affiliate;
+  return aff ? basePbLink(aff, `chan=art&data1=${slug}&utm_source=plugindrop&utm_medium=article-cta&utm_campaign=${slug}`) : '#';
 }
 
 function truncateAtWordBoundary(str, maxLen) {

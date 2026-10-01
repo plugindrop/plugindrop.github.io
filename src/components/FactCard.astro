@@ -48,7 +48,7 @@ const vendorFields = [
   </> : <>
   <p class="fact-card-name">{entry && isPricePageIndexable(entry) ? <a href={`/plugin-prices/${slugifyProduct(product)}/`}>{product}</a> : product}</p>
   <dl>{fields.map(([label, value]) => <div><dt>{label}</dt><dd>{value}</dd></div>)}</dl>
-  {entry?.pb_url && !isSearchUrl(entry.pb_url) && <p><a href={pbLink(entry.pb_url, `chan=art&data1=${slug}-facts`)} target="_blank" rel="noopener sponsored">View at Plugin Boutique →</a></p>}
+  {entry?.pb_url && !isSearchUrl(entry.pb_url) && <p><a href={pbLink(entry.pb_url, `chan=art&data1=${slug}-facts`, { campaign: `${slug}-facts`, data1: `${slug}-facts` })} target="_blank" rel="noopener sponsored">View at Plugin Boutique →</a></p>}
   </>}
 </div>}
 <style>

@@ -28,7 +28,7 @@ import { categoryForProduct } from '../lib/categoryInference.mjs';
 import { comparisonPriceFacts } from '../lib/priceInsights.mjs';
 import { SITE_TITLE } from '../consts';
 import priceDataRaw from '../data/price_history.json';
-import { type PriceEntry, formatPrice } from '../lib/priceUtils';
+import { type PriceEntry, formatPrice, pbLink } from '../lib/priceUtils';
 import {
 	findTrackerEntryForPost,
 	buildFactBox,
@@ -1201,12 +1201,10 @@ const featuredDeals = isEvergreen ? allPosts
 							<div class="pb-deals-header">This week's top deals on Plugin Boutique</div>
 							<ul class="pb-deals-list">
 								{featuredDeals.map(deal => {
-									const dealsBoxUrl = new URL(deal.data.affiliate);
-									dealsBoxUrl.searchParams.set('chan', 'home');
-									dealsBoxUrl.searchParams.set('data1', `${currentSlug}-deals-box`);
+									const dealsBoxUrl = pbLink(deal.data.affiliate, 'chan=home', { medium: 'deals-box', campaign: 'best-deals', data1: `${currentSlug}-deals-box` });
 									return (
 									<li class="pb-deal-item">
-										<a href={dealsBoxUrl.toString()} target="_blank" rel="noopener sponsored" class="pb-deal-link">
+										<a href={dealsBoxUrl} target="_blank" rel="noopener sponsored" class="pb-deal-link">
 											<span class="pb-deal-title">{deal.data.title}</span>
 											{deal.data.dealPrice && <span class="pb-deal-price">{deal.data.dealPrice}</span>}
 										</a>

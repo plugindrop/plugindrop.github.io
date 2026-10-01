@@ -367,7 +367,7 @@ const hubLinks = [
 								data-pd={pdAttr({ title: deal.name, extra: deal.entry.category ?? '' })}
 							>
 								<a
-									href={pbLink(deal.entry.pb_url, 'utm_source=plugindrop&utm_medium=homepage&utm_campaign=top-deals-fallback&chan=home')}
+									href={pbLink(deal.entry.pb_url, 'utm_source=plugindrop&utm_medium=homepage&utm_campaign=top-deals-fallback&chan=home', { data1: slugify(deal.name) })}
 									class="deal-card"
 									target="_blank"
 									rel="noopener sponsored"
@@ -435,7 +435,7 @@ const hubLinks = [
 									data-pd={pdAttr({ title: deal.name, extra: deal.entry.category ?? '' })}
 								>
 									<a
-										href={pbLink(deal.entry.pb_url, 'utm_source=plugindrop&utm_medium=homepage&utm_campaign=home-biggest&chan=home')}
+										href={pbLink(deal.entry.pb_url, 'utm_source=plugindrop&utm_medium=homepage&utm_campaign=home-biggest&chan=home', { data1: slugify(deal.name) })}
 										class="deal-card"
 										target="_blank"
 										rel="noopener sponsored"
@@ -503,7 +503,7 @@ const hubLinks = [
 										}
 									</td>
 									<td>{showStoreLink
-										? <a class="pb-link" href={pbLink(row.entry.pb_url, 'chan=home')} target="_blank" rel="noopener sponsored">PB &rarr;</a>
+										? <a class="pb-link" href={pbLink(row.entry.pb_url, 'chan=home', { medium: 'homepage', campaign: 'home', data1: slugify(row.name) })} target="_blank" rel="noopener sponsored">PB &rarr;</a>
 										: <a class="pb-link" href={`/plugin-prices/${slugify(row.name)}/`}>Details &rarr;</a>}</td>
 								</tr>
 								);

@@ -55,7 +55,7 @@ const tracked = (row: typeof rows[number], value: string | number) => row.entry 
       {showVendorPrice && <td>{vendorPrice(row.vendor) ? <a href={sourceUrl(vendorPrice(row.vendor).source_url)} title={`as listed on the vendor site on ${vendorPrice(row.vendor).fetched_at}`}>{vendorPrice(row.vendor) === row.vendor?.is_free ? 'Free' : vendorPrice(row.vendor).display}</a> : 'not published'}</td>}
       <td>{tracked(row, money(row.price?.regular))}</td><td>{tracked(row, money(row.price?.sale))}</td><td>{tracked(row, row.price?.hasPrice ? row.price.salesRecorded : 'not published')}</td><td>{tracked(row, money(row.price?.today))}</td>
       <td>{row.entry ? row.price?.hasPrice ? <span class={`facts-badge ${row.price.verdict.cls}`}>{row.price.verdict.label}</span> : 'not published' : 'not tracked'}</td>
-      <td>{row.entry?.pb_url && canLinkPb(row.entry.pb_url) ? <a href={pbLink(row.entry.pb_url, `chan=art&data1=${slug}-facts`)} target="_blank" rel="noopener sponsored">View at PB →</a> : row.official ? <a href={row.official} target="_blank" rel="noopener">Official page →</a> : 'not published'}</td>
+      <td>{row.entry?.pb_url && canLinkPb(row.entry.pb_url) ? <a href={pbLink(row.entry.pb_url, `chan=art&data1=${slug}-facts`, { campaign: `${slug}-facts`, data1: `${slug}-facts` })} target="_blank" rel="noopener sponsored">View at PB →</a> : row.official ? <a href={row.official} target="_blank" rel="noopener">Official page →</a> : 'not published'}</td>
     </tr>)}
   </tbody></table></div>
   {showVendorPrice && <p>Vendor columns quote the official product page on the date shown. Tracked columns come from PluginDrop's price history.</p>}

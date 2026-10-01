@@ -26,8 +26,8 @@ interface Props {
 const { pluginNames } = Astro.props;
 
 const UTM = "utm_source=plugindrop&utm_medium=article&utm_campaign=price-tracker&chan=art";
-function pbLink(path: string) {
-  return basePbLink(path, UTM);
+function pbLink(path: string, name: string) {
+  return basePbLink(path, UTM, { data1: slugify(name) });
 }
 
 const priceData = priceDataRaw as { last_updated: string; bundles: Record<string, PriceEntry>; plugins?: Record<string, PriceEntry> };
@@ -96,7 +96,7 @@ const tracked = pluginNames
             </span>
             {lastUpdated && <span class="pt-checked">checked {lastUpdated}</span>}
           </div>
-          <a href={pbLink(data.pb_url)} class="pt-cta" target="_blank" rel="noopener sponsored">See deal →</a>
+          <a href={pbLink(data.pb_url, name)} class="pt-cta" target="_blank" rel="noopener sponsored">See deal →</a>
         </div>
       ))}
     </div>

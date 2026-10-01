@@ -171,7 +171,7 @@ function verdictClass(v: VerdictRow['verdict']): string {
                 <div><dt>Last checked</dt><dd>{row.checkedLabel ?? '—'}</dd></div>
               </dl>
               {row.pbUrl && (
-                <a href={pbLink(row.pbUrl, 'chan=trk')} class="cta-secondary" target="_blank" rel="noopener sponsored">
+                <a href={pbLink(row.pbUrl, 'chan=trk', { campaign: `compare-${pair.slug}`, data1: row.slug })} class="cta-secondary" target="_blank" rel="noopener sponsored">
                   Check price at Plugin Boutique
                 </a>
               )}

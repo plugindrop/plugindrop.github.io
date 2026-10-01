@@ -369,7 +369,7 @@ if (freshObs !== null && entry.pb_url && !isSearchUrl(entry.pb_url)) {
     "@type": "Offer",
     "price": freshObs,
     "priceCurrency": "USD",
-    "url": pbLink(entry.pb_url),
+    "url": pbLink(entry.pb_url, 'chan=trk', { medium: 'tracker', campaign: 'plugin-prices', data1: slug }),
     "availability": "https://schema.org/InStock",
   };
 }
@@ -832,7 +832,7 @@ const faqLD = {
 
         <div class="cta-row">
           <a
-            href={pbLink(entry.pb_url, 'chan=trk')}
+            href={pbLink(entry.pb_url, 'chan=trk', { medium: 'tracker', campaign: 'plugin-prices', data1: slug })}
             class="cta-primary"
             target="_blank"
             rel="noopener sponsored"

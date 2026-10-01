@@ -724,7 +724,7 @@ const pageLD = {
                 </td>
                 <td>
                   <a
-                    href={pbLink(row.bundle.pb_url, 'chan=trk')}
+                    href={pbLink(row.bundle.pb_url, 'chan=trk', { campaign: 'plugin-prices-index', data1: row.slug })}
                     class="cta-btn-sm"
                     target="_blank"
                     rel="noopener sponsored"
@@ -844,7 +844,7 @@ const pageLD = {
                 </td>
                 <td>
                   <a
-                    href={pbLink(row.bundle.pb_url, 'chan=trk')}
+                    href={pbLink(row.bundle.pb_url, 'chan=trk', { campaign: 'plugin-prices-index', data1: row.slug })}
                     class="cta-btn-sm"
                     target="_blank"
                     rel="noopener sponsored"
