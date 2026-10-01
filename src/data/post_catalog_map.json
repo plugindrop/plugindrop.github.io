@@ -504,15 +504,10 @@
     ]
   },
   "best-plugin-boutique-black-friday-deals-2026": {
-    "category": "EQ",
+    "category": "Bundle",
     "confidence": "explicit",
-    "kind": "list",
-    "products": [
-      "FabFilter Pro-L 2",
-      "FabFilter Pro-Q 4",
-      "Serum 2",
-      "iZotope Ozone 12 Advanced"
-    ]
+    "kind": "guide",
+    "products": []
   },
   "best-plugin-bundle-deals": {
     "category": "Bundle",
@@ -777,11 +772,10 @@
   "best-vst-plugins-under-100-dollars": {
     "category": "Delay",
     "confidence": "explicit",
-    "kind": "guide",
+    "kind": "list",
     "products": [
-      "Baby Audio Comeback Kid",
       "Kilohearts Snap Heap",
-      "Soundtoys Decapitator",
+      "Native Instruments Replika XT",
       "Valhalla VintageVerb"
     ]
   },
@@ -1015,10 +1009,13 @@
     ]
   },
   "free-plugins-vs-paid-worth-upgrading": {
-    "category": null,
+    "category": "EQ",
     "confidence": "explicit",
     "kind": "comparison",
-    "products": []
+    "products": [
+      "FabFilter Pro-Q 4",
+      "Valhalla VintageVerb"
+    ]
   },
   "future-big-room-fl-studio-template-vol-1-327b81": {
     "category": null,
@@ -1675,16 +1672,30 @@
     "products": []
   },
   "waves-vs-fabfilter-2026": {
-    "category": null,
+    "category": "Compressor",
     "confidence": "pb_id",
     "kind": "comparison",
-    "products": []
+    "products": [
+      "FabFilter Pro-C 3",
+      "FabFilter Pro-L 2",
+      "FabFilter Saturn 2",
+      "Waves API 2500",
+      "Waves H-Delay",
+      "Waves Kramer Master Tape",
+      "Waves SSL E-Channel"
+    ]
   },
   "waves-vs-izotope-2026": {
-    "category": null,
+    "category": "Bundle",
     "confidence": "pb_id",
     "kind": "comparison",
-    "products": []
+    "products": [
+      "Waves H-Delay",
+      "Waves Platinum Bundle",
+      "iZotope Music Production Suite",
+      "iZotope Neutron 5",
+      "iZotope Ozone 12 Advanced"
+    ]
   },
   "when-does-ampex-atr-102-go-on-sale": {
     "category": "Saturation",

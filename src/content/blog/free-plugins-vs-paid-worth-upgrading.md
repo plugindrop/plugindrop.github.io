@@ -24,11 +24,11 @@ priceTrack:
 ### TDR Nova — Free
 Four dynamic EQ bands, each switchable between static and dynamic mode. High-pass and low-pass filters. Spectrum analyzer. Handles surgical EQ work and gentle dynamic correction. [Full article here](/posts/best-free-eq-vst-plugins/).
 
-### FabFilter Pro-Q 4 — $189 (often on sale)
+### FabFilter Pro-Q 4 — $199
 Up to 24 bands, per-band mid/side processing, dynamic EQ on every band, linear phase mode, spectrum grab (EQ Match), surround support, and a resizable interface. [Current deal](/posts/fabfilter-pro-q-4-spring-sale-30-off/).
 
 ### What Paid Gets You
-| Feature | TDR Nova (Free) | FabFilter Pro-Q 4 ($189) |
+| Feature | TDR Nova (Free) | FabFilter Pro-Q 4 ($199) |
 |---|---|---|
 | EQ Bands | 4 | Up to 24 |
 | Dynamic EQ | Yes (4 bands) | Yes (all bands) |

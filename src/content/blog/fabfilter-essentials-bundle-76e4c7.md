@@ -1,6 +1,6 @@
 ---
 title: "25% Off FabFilter Essentials Bundle"
-description: "The FabFilter Essentials Bundle is currently 25% off at Plugin Boutique — drop from $419 to $314, saving you $105 on a curated collection of 10..."
+description: "The FabFilter Essentials Bundle was listed at 25% off at Plugin Boutique when this post was written: $419 down to $314. The bundle contains Pro-Q 4, Pro-C 3 and Pro-R 2."
 pubDate: "2026-06-06T08:31:34Z"
 tags: ["sale", "effects", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17434-FabFilter-Essentials-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-essentials-bundle-76e4c7&chan=art&data1=fabfilter-essentials-bundle-76e4c7"
@@ -12,7 +12,7 @@ discount: "25% OFF"
 xText: "fab essentials at 25% off hits that sweet spot where the per-plugin cost is basically a no-brainer. three tools you'll end up buying anyway, might as well grab the bundle and save the cash"
 draft: true
 ---
-**TL;DR:** The FabFilter Essentials Bundle is currently 25% off at Plugin Boutique — drop from ~~$419~~ to **$314**, saving you $105 on a curated collection of 10 professional-grade plugins. If you've been waiting for a FabFilter sale, this is a genuine entry point. [Grab it here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17434-FabFilter-Essentials-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-essentials-bundle-76e4c7&chan=art&data1=fabfilter-essentials-bundle-76e4c7)
+**TL;DR:** The FabFilter Essentials Bundle was listed at 25% off at Plugin Boutique when this post was written: ~~$419~~ to **$314**, a $105 difference. Plugin Boutique describes the bundle as FabFilter's EQ, reverb and compressor: Pro-Q 4, Pro-C 3 and Pro-R 2. This price is not re-checked automatically, so confirm it on the product page. [See it here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17434-FabFilter-Essentials-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-essentials-bundle-76e4c7&chan=art&data1=fabfilter-essentials-bundle-76e4c7)
 
 ---
 
@@ -23,33 +23,24 @@ draft: true
 
 ## What Is the FabFilter Essentials Bundle?
 
-FabFilter is a Dutch plugin developer with a reputation for best-in-class audio processing and some of the most intuitive interfaces in the industry. The Essentials Bundle packages 10 of their core plugins into a single purchase, covering the main areas of a professional mix chain: EQ, compression, limiting, multiband processing, de-essing, and more. It's designed as a complete toolkit rather than a single-purpose purchase — everything you need to take a mix from raw tracks to a polished output.
+The FabFilter Essentials Bundle packages three FabFilter plugins into a single purchase. Plugin Boutique's product page says the bundle gives you "FabFilter's most essential mixing tools: their professional EQ, Reverb and Compressor" and lists Pro-Q 4, Pro-C 3 and Pro-R 2.
 
 ---
 
 ## Key Features
 
-- **Pro-Q 3** — FabFilter's flagship EQ, widely regarded as a reference-grade tool with dynamic EQ capability and a surgical yet musical workflow
-- **Pro-C 2** — A full-featured compressor with multiple compression styles and an exceptionally clear gain reduction display
-- **Pro-L 2** — A true-peak limiter built for mastering, with transparency and loudness metering that meets broadcast standards
-- **Pro-MB** — A multiband compressor and expander for detailed dynamics control across specific frequency ranges
-- **Pro-DS** — A precision de-esser with wideband and dynamic modes for handling sibilance without over-processing
-- **Flexible licensing** — FabFilter uses machine-based activation with no iLok dongle required; check the product page for the current activation limit
+- **Pro-Q 4** — Plugin Boutique's page describes it as a "24-band industry standard EQ" and lists spectral dynamics, the instance list, EQ Sketch and vintage saturation among the version 4 features
+- **Pro-C 3** — The product pages list 14 compression styles in this version, six of them new in version 3
+- **Pro-R 2** — The reverb in the bundle; Plugin Boutique's page lists a ducking control and a thickness control among its new features
 
----
-
-## What Producers Are Saying
-
-FabFilter plugins — Pro-Q 3 in particular — have been a standard recommendation in mixing communities for years. On forums like Gearslutz (now Gearspace) and subreddits like r/audioengineering and r/edmproduction, Pro-Q 3 is routinely described as a "set it and forget it" EQ that works equally well for surgical correction and broad tonal shaping. The brand's reputation for CPU efficiency and workflow clarity comes up consistently in discussions about go-to plugin stacks for professional use.
+Sources: [FabFilter Pro-C 3 product page](https://www.fabfilter.com/products/pro-c-3-compressor-plug-in) and the Plugin Boutique bundle page linked below.
 
 ---
 
 ## Who Is It For?
 
-- **Home studio producers** who want a professional-grade processing chain without assembling it plugin by plugin over years
-- **Mixing engineers** who need reliable, industry-standard tools that translate across different monitoring environments
-- **Music producers moving into mastering** who want a limiter and EQ combination that meets streaming and broadcast loudness specs
-- **Producers upgrading from DAW stock plugins** looking for a single bundle that covers all the core dynamics and EQ needs
+- **Producers who want EQ, compression and reverb from one developer** in a single purchase
+- **Buyers who plan to buy more than one of these three plugins**, since the bundle price can be compared with buying them separately (FabFilter's own shop lists Pro-Q 4, Pro-C 3 and Pro-R 2 at $199 each as of 2026-10-01)
 
 ---
 
@@ -59,7 +50,7 @@ FabFilter plugins — Pro-Q 3 in particular — have been a standard recommendat
 |---|---|---|
 | ~~$419.00~~ | **$314.00** | $105 (25%) |
 
-At $314 for 10 plugins, that works out to roughly **$31.40 per plugin** — a strong per-unit value for tools that individually retail for significantly more. FabFilter does run seasonal sales, but 25% off the full bundle is a meaningful discount worth acting on if any of these plugins are already on your list.
+At $314 for three plugins, that works out to about **$104.67 per plugin**, against $199 each on FabFilter's own shop page (checked 2026-10-01). The $419 and $314 figures were taken from Plugin Boutique when this post was written and are not re-checked automatically.
 
 Verify current pricing on the product page — deals can change.
 
@@ -97,7 +88,7 @@ A: This specific deal is listed at Plugin Boutique. Pricing at other retailers m
 
 ## Get the Deal
 
-$105 off a complete professional plugin chain doesn't come around constantly. At roughly $31 per plugin for tools with FabFilter's track record, this is a practical bundle for producers at any stage.
+If you already planned to buy Pro-Q 4, Pro-C 3 and Pro-R 2, compare the bundle price with the three separate prices before buying.
 
 [Get the FabFilter Essentials Bundle for $314 at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17434-FabFilter-Essentials-Bundle?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-essentials-bundle-76e4c7&chan=art&data1=fabfilter-essentials-bundle-76e4c7)
 

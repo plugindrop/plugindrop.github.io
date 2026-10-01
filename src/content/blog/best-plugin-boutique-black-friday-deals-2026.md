@@ -95,17 +95,6 @@ A: Plugin Boutique's policy doesn't cover post-purchase price drops. Buy only wh
 
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
 
-<!-- pd:price-records:start -->
-## PluginDrop price records for the products in this list
-
-| Product | Typical regular | Typical sale | Sales recorded | Latest sale period | Today's price position |
-| --- | ---: | ---: | ---: | --- | --- |
-| FabFilter Pro-L 2 | $179 | $134 | 2 | 2024-11-22 | At or above typical regular |
-| FabFilter Pro-Q 4 | $199 | $149 | 2 | 2025-11-22 | At or above typical regular |
-
-Prices reflect recorded checks, not every day of a sale.
-<!-- pd:price-records:end -->
-
 <!-- pd:method:start -->
 ## How this list was made
 
