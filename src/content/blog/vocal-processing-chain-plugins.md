@@ -105,7 +105,7 @@ Waves Sibilance uses spectral shaping rather than traditional band-based detecti
 
 **Best for:** Any vocal that needs de-essing without the lispy, over-processed artifacts that older detection designs produce.
 
-[→ Get Waves Sibilance on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/59-De-Esser/13235-De-esser?a_aid=69cb95abe1763&chan=art&data1=vocal-processing-chain-plugins)
+[→ Get Waves Sibilance on Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20Sibilance&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vocal-processing-chain-plugins&chan=art&data1=vocal-processing-chain-plugins)
 
 ---
 

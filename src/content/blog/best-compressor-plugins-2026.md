@@ -27,7 +27,7 @@ priceTrack:
 | FabFilter Pro-C 3 | $199 | All-purpose mixing & mastering | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=best-compressor-plugins-2026) |
 | TDR Kotelnikov | Free | Mastering, mix bus glue | [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Klanghelm DC8C | ~$20 | Analog character, detailed mix work | [Get It](https://klanghelm.com/contents/products/DC8C) |
-| Analog Obsession LALA | Free | Optical warmth on vocals & acoustics | [Plugin Boutique](https://www.pluginboutique.com/search?q=Best%20Compressor%20Plugins%202026%20%E2%80%94%20Ranked&a_aid=69cb95abe1763&chan=art&data1=best-compressor-plugins-2026) |
+| Analog Obsession LALA | Free | Optical warmth on vocals & acoustics | [Plugin Boutique](https://www.pluginboutique.com/search?q=Analog%20Obsession%20LALA&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-compressor-plugins-2026&chan=art&data1=best-compressor-plugins-2026) |
 | OTT (Xfer Records) | Free | Upward compression, EDM, synth layers | [Free Download](https://xferrecords.com/freeware) |
 | Rough Rider 3 | Free | Aggressive drums, sidechain pump | [Free Download](https://www.audiodamage.com/pages/free-and-legacy) |
 | Waves SSL G-Master Buss | ~$29–$49 | Bus glue, SSL console tone | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |

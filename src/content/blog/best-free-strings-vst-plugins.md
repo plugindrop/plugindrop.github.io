@@ -17,7 +17,7 @@ heroImage: "/images/best-free-strings-vst-plugins_collage.jpg"
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Spitfire LABS | Free | Cinematic string texture and modern beds | [Official Site](https://labs.spitfireaudio.com/) |
-| BBC Symphony Orchestra Discover | Free | Realistic full-orchestra writing, all skill levels | [Official Site](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins&chan=art&data1=best-free-strings-vst-plugins) |
+| BBC Symphony Orchestra Discover | Free | Realistic full-orchestra writing, all skill levels | [Official Site](https://www.pluginboutique.com/search?q=BBC%20Symphony%20Orchestra%20Discover&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins&chan=art&data1=best-free-strings-vst-plugins) |
 | VSCO2 Community Edition | Free | Realistic section strings and orchestral arrangements | [Official Site](https://versilian-studios.com/vsco-community/) |
 | ProjectSAM Free Orchestra | Free | Cinematic orchestral textures and evolving pads | [Official Site](https://projectsam.com/libraries/the-free-orchestra/) |
 | Miroslav Philharmonik CE | Free | Warm, vintage full-orchestra character | [Official Site](https://www.ikmultimedia.com/products/philharmonik2ce/) |
@@ -78,7 +78,7 @@ BBC Symphony Orchestra Discover is Spitfire's free tier of their flagship BBC Sy
 
 **Best for:** Producers and composers who need a complete, realistic orchestral palette without spending anything.
 
-[→ Download BBC Symphony Orchestra Discover Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins&chan=art&data1=best-free-strings-vst-plugins)
+[→ Download BBC Symphony Orchestra Discover Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=BBC%20Symphony%20Orchestra%20Discover&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins&chan=art&data1=best-free-strings-vst-plugins)
 
 ---
 
@@ -300,7 +300,7 @@ When the free tier runs out — typically when you need more articulations, high
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Spitfire LABS | Free | Sample library | Real BBC recordings, growing catalog, cinematic character | [Official Site](https://labs.spitfireaudio.com/) |
-| BBC Symphony Orchestra Discover | Free | Full orchestral library | Full BBC SO template, all sections, beginner-friendly UI | [Official Site](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins&chan=art&data1=best-free-strings-vst-plugins) |
+| BBC Symphony Orchestra Discover | Free | Full orchestral library | Full BBC SO template, all sections, beginner-friendly UI | [Official Site](https://www.pluginboutique.com/search?q=BBC%20Symphony%20Orchestra%20Discover&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-strings-vst-plugins&chan=art&data1=best-free-strings-vst-plugins) |
 | VSCO2 Community Edition | Free | Orchestral SFZ library | Section strings, articulation variety, maintained by contributors | [Official Site](https://versilian-studios.com/vsco-community/) |
 | ProjectSAM Free Orchestra | Free | Cinematic textures | Premium developer, pad-focused, layering color | [Official Site](https://projectsam.com/libraries/the-free-orchestra/) |
 | Miroslav Philharmonik CE | Free | Full orchestral library | Warm vintage character, European flavor | [Official Site](https://www.ikmultimedia.com/products/philharmonik2ce/) |

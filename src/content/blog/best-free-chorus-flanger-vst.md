@@ -130,7 +130,7 @@ The UI density is the tradeoff, consistent with all MeldaProduction plugins. Fir
 
 **Best for:** Guitar flanging, synth sweeps, creative sound design — any application where you need precise control over how far the effect goes.
 
-[→ Get MFlanger on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/12-Flanger/86-MFlangerMB?a_aid=69cb95abe1763&chan=art&data1=best-free-chorus-flanger-vst)
+[→ Get MFlanger on Plugin Boutique](https://www.pluginboutique.com/search?q=MFlanger&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-chorus-flanger-vst&chan=art&data1=best-free-chorus-flanger-vst)
 [Watch Demo](https://www.youtube.com/watch?v=icDEDz2_-D0)
 
 ---

@@ -149,7 +149,7 @@ The primary advantage MLimiter offers over standalone free limiters is workflow 
 
 **Best for:** Producers already using the MFreeFXBundle who want a consistent Melda workflow through their mastering chain.
 
-[→ Search MLimiter on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/1103-MLimiterX?a_aid=69cb95abe1763&chan=art&data1=best-free-limiter-vst)
+[→ Search MLimiter on Plugin Boutique](https://www.pluginboutique.com/search?q=MLimiter&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-limiter-vst&chan=art&data1=best-free-limiter-vst)
 
 ---
 

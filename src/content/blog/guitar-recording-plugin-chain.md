@@ -206,7 +206,7 @@ A: DI input → Amp Sim (Neural DSP Archetype) → Cabinet IR if substituting na
 
 Neural DSP Archetype does the heaviest lifting in this chain — neural-network amp and cab simulation, with a free trial that removes the guesswork from buying. FabFilter Pro-Q 4 gives you the surgical precision to shape that tone for the mix, OTT adds density at zero cost, and Waves IR-L covers the cab-loading and room-ambience gap when your workflow needs it. Start with the Neural DSP Archetype trial, build the chain around it, and upgrade to the FabFilter Total Bundle when the production demands a complete environment.
 
-[→ Get Neural DSP Archetype on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=guitar-recording-plugin-chain)
+[→ Get Neural DSP Archetype on Plugin Boutique](https://www.pluginboutique.com/search?q=Neural%20DSP%20Archetype&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=guitar-recording-plugin-chain&chan=art&data1=guitar-recording-plugin-chain)
 
 ---
 
