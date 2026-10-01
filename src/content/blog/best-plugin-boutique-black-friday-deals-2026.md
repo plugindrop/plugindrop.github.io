@@ -1,6 +1,6 @@
 ---
-title: "Best Plugin Boutique Black Friday Deals 2026: Everything Worth Buying (Updated)"
-description: "Plugin Boutique's Black Friday 2026 sale brings the biggest VST discounts of the year — FabFilter, iZotope, Native Instruments, Valhalla, and more. All verified deals listed here."
+title: "Plugin Boutique Black Friday 2026: Past Sale Prices to Compare Against"
+description: "No Black Friday 2026 deals have been announced yet. This page lists the Black Friday prices we recorded in earlier years for FabFilter and others, so you can judge any 2026 offer against them."
 pubDate: "2026-06-08T00:00:00Z"
 updatedDate: "2026-06-08T00:00:00Z"
 tags: ["guide", "vst", "sale", "bundle", "music-production"]
@@ -17,61 +17,46 @@ priceTrack:
   - "Serum 2"
 ---
 
-**TL;DR:** Plugin Boutique's Black Friday sale is the single best time to buy premium VST plugins — discounts regularly hit 75–90% off on plugins that almost never go on sale. FabFilter, iZotope, Valhalla, Native Instruments, and Arturia all participate. This guide tracks every verified deal and tells you which ones are genuinely worth buying.
+**TL;DR:** The 2026 Black Friday sales have not been announced yet, so this page does not list any 2026 deals. What it does have is the Black Friday prices PluginDrop recorded in earlier years, so you can tell a real discount from a marketing number when the sales go live. We update this page once Plugin Boutique publishes its 2026 offers.
 
 ---
 
 ## When Is Plugin Boutique Black Friday 2026?
 
-Plugin Boutique typically launches their Black Friday sale in **mid-to-late November 2026**, with deals running from approximately November 21 through December 2. Some deals begin earlier as "early access" for newsletter subscribers.
-
-**Bookmark this page** — it will be updated in real time as deals go live.
+Plugin Boutique has not published its 2026 Black Friday dates at the time of writing. Black Friday itself falls on **November 27, 2026**, and the sales we recorded in earlier years started around November 20-22. Treat any date range as unconfirmed until Plugin Boutique announces it.
 
 [→ Check current deals at Plugin Boutique](https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=black-friday-2026&chan=art&data1=best-plugin-boutique-black-friday-deals-2026)
 
 ---
 
-## The Short List: Best Buys Every Year
+## Prices We Have Recorded (Regular vs. Past Black Friday)
 
-These plugins almost always appear in Black Friday sales and represent genuine value at discounted prices:
+These are observed numbers from our price history, not predictions for 2026. A "past BF price" is what we recorded in the most recent year we have data for.
 
-| Plugin | Normal Price | BF Target Price | Why Buy |
+| Plugin | Regular price (our last check) | Past Black Friday price we recorded | Source in our price history |
 |---|---|---|---|
-| [FabFilter Pro-Q 4](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugin-boutique-black-friday-deals-2026) | ~$179 | ~$89–$109 | Best EQ plugin available — dynamic EQ mode alone justifies full price |
-| [FabFilter Pro-L 2](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-plugin-boutique-black-friday-deals-2026) | ~$199 | ~$99–$129 | Industry-standard mastering limiter, 8 algorithms, true peak |
-| [iZotope Ozone 12 Standard](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-plugin-boutique-black-friday-deals-2026) | ~$199 | ~$79–$99 | Best all-in-one mastering suite — AI Master Assistant alone worth the price |
-| [Valhalla Room](https://valhalladsp.com/shop/reverb/valhalla-room/) | $50 | $30–$40 | Rarely discounted — grab it if it drops |
-| [Serum 2](https://xferrecords.com/products/serum) | ~$189 | ~$99 | Industry-standard wavetable synth — massive preset ecosystem |
-| [Arturia V Collection](https://www.pluginboutique.com/search?q=Arturia%20V%20Collection&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=black-friday-2026&chan=art&data1=best-plugin-boutique-black-friday-deals-2026) | ~$399 | ~$149–$199 | 33 vintage synth emulations — exceptional value at sale price |
+| [FabFilter Pro-Q 4](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugin-boutique-black-friday-deals-2026) | $199 | $149 (Nov 2024); $105.25 at Gear4Music (Nov 2025) | Recorded Black Friday checks |
+| [FabFilter Pro-L 2](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-plugin-boutique-black-friday-deals-2026) | $179 | $134 (Nov 2023 and Nov 2024) | Recorded Black Friday checks |
+| [iZotope Ozone 12 Standard](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15507-Ozone-12-Standard?a_aid=69cb95abe1763&chan=art&data1=best-plugin-boutique-black-friday-deals-2026) | $219 | No Black Friday price recorded yet | Plugin Boutique check, Sept 2026 |
+| [Serum 2](https://xferrecords.com/products/serum-2) | $249 | None recorded | Xfer's founder has stated Xfer does not run promotions on the perpetual license |
+| [Valhalla Room](https://valhalladsp.com/shop/reverb/valhalla-room/) | $50 | None - fixed price | [Valhalla's pricing FAQ](https://valhalladsp.com/faq/pricing/) says prices are the same all year |
+
+For FabFilter, our notes record a 25% Black Friday discount in the years we tracked. We cannot say whether 2026 will repeat it.
 
 ---
 
-## What to Expect in 2026
+## What We Do Not Know Yet
 
-Based on previous years' patterns:
-
-**Brands that consistently participate:**
-- **FabFilter** — usually 40–50% off their full catalog
-- **iZotope** — up to 70% off, including Music Production Suite bundles
-- **Native Instruments** — Komplete bundles, deep discounts
-- **Plugin Alliance** — bundle builder at steep discounts
-- **Arturia** — V Collection and individual instruments
-- **Valhalla DSP** — rare discounts, worth acting immediately
-
-**Brands that rarely discount:**
-- Waves (has their own perpetual sales — not worth waiting for BF)
-- UAD (no significant BF discounts historically)
-- Celemony Melodyne (occasionally 20–30% off)
+- **Which brands will take part in 2026.** Participation is announced by the stores and developers, usually shortly before the sale.
+- **Valhalla DSP:** the developer states that its prices do not change during the year, so there is no Black Friday price to wait for.
+- **iZotope, Native Instruments, Arturia and Plugin Alliance:** we have no recorded Black Friday prices for these in our price history, so we are not quoting target prices for them.
+- **Waves, UAD, Melodyne:** we have no Black Friday data for these either.
 
 ---
 
-## Should You Buy at Plugin Boutique Black Friday or Elsewhere?
+## Should You Buy at Plugin Boutique or Elsewhere?
 
-Plugin Boutique is generally competitive on price, and purchases through them support this site. However:
-
-- **FabFilter** is the same price through their direct site — buy wherever is convenient
-- **iZotope** bundles are sometimes cheaper direct — check both
-- **Plugin Alliance** bundles are PB-exclusive during BF
+Plugin Boutique is one of several authorized stores, and purchases through our links support this site. Prices can differ by store: in our FabFilter Pro-Q 4 record the lowest Black Friday price (Nov 2025) was at Gear4Music, not Plugin Boutique. Compare the developer's own store and one or two retailers before buying.
 
 ---
 
@@ -80,19 +65,19 @@ Plugin Boutique is generally competitive on price, and purchases through them su
 **Don't stockpile.** The most common Black Friday mistake is buying plugins "just in case." Focus on:
 1. Plugins you've demoed and know you'll use
 2. Plugins on your wishlist for >3 months
-3. Completing a bundle you partially own (e.g., FabFilter Total Bundle)
+3. Completing a bundle you partially own
 
-**Check upgrade pricing** if you own an older version — upgrade paths are often cheaper than new purchases even at full price.
+**Check upgrade pricing** if you own an older version - upgrade paths are sometimes cheaper than new purchases.
 
 ---
 
 ## FAQ
 
-**Q: Will prices drop further after Black Friday?**
-A: Some continue into Cyber Monday and through December. FabFilter and iZotope occasionally extend sales. Generally the first 48 hours have the best availability on limited deals.
+**Q: How long do Black Friday sales last?**
+A: It varies by store and developer. Check the end date shown on the offer itself rather than assuming a fixed window.
 
 **Q: Is Plugin Boutique legit?**
-A: Yes — Plugin Boutique has been operating since 2008. All purchases are authorized by the plugin developer and come with full licensing.
+A: Plugin Boutique is an authorized reseller; purchases are licensed through the plugin developer.
 
 **Q: Can I get a refund if the price drops again?**
 A: Plugin Boutique's policy doesn't cover post-purchase price drops. Buy only what you're committed to.

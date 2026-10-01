@@ -28,7 +28,7 @@ draft: false
 
 ## Introduction
 
-The most persistent misconception in the best piano VST plugins 2026 conversation is that sample size correlates with realism. Pianoteq 8 — a plugin that contains zero sample recordings and installs in roughly 80MB — routinely places at or above $400 sample libraries in blind listening tests documented on r/audioengineering and r/edmproduction. That single data point should recalibrate how you evaluate everything else on this list.
+The most persistent misconception in the best piano VST plugins 2026 conversation is that sample size correlates with realism. Pianoteq 8 — a plugin that contains zero sample recordings and installs in roughly 80MB — shows that a modeled piano can be a fraction of the size of a sampled library. Size and realism are separate questions, and we have not run listening tests, so we do not rank them here.
 
 Piano VSTs in 2026 fall into five distinct categories: sample-based grands (dominant at the high end), physical modeling instruments (smaller footprint, more dynamic behavior at extreme velocities), upright piano libraries (proximate and percussive, suited to indie and singer-songwriter work), electric piano emulations (Rhodes and Wurlitzer modeling versus sampling), and prepared or toy pianos (felt, one-string, and experimental designs used heavily in sync and ambient production). Producers are pulling from all five depending on the project.
 
@@ -329,7 +329,7 @@ If you have outgrown the free picks, the paid piano instruments below are all av
 | e-instruments Session Keys Grand | Production-focused sampled grand | ~$99 | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=Session%20Keys&a_aid=69cb95abe1763&chan=art&data1=best-piano-vst-plugins) |
 | UVI Model D | Sampled concert grand | ~$99 | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=UVI%20Model%20D&a_aid=69cb95abe1763&chan=art&data1=best-piano-vst-plugins) |
 
-Based on price history and community consensus, Pianoteq offers the most future-proof value — free instrument updates and a sub-100MB install — while Addictive Keys is the most flexible single purchase for producers who want acoustic and electric grand tones in one streamlined package. Noire is the pick when you specifically want a modern felt-and-pure concert grand designed for intimate, cinematic writing.
+Based on our price tracking and its install size, Pianoteq offers the most future-proof value — free instrument updates and a sub-100MB install — while Addictive Keys is the most flexible single purchase for producers who want acoustic and electric grand tones in one streamlined package. Noire is the pick when you specifically want a modern felt-and-pure concert grand designed for intimate, cinematic writing.
 
 ---
 
@@ -367,7 +367,7 @@ A: Velocity sensitivity is the only essential feature for all twelve plugins on 
 
 ## Final Thoughts
 
-For most bedroom producers, the practical path is clear: start with LABS Soft Piano and Piano One (both free) to understand what acoustic and textured piano can do in your tracks, then step up to Arturia Piano V3 when you need range beyond a single instrument character. For electric piano, Scarbee Mark I handles vintage Rhodes at a price that removes any barrier to entry. If your work is serious enough to warrant Keyscape or Pianoteq 8, those are self-justifying purchases — the community consensus on both has been consistent for years.
+For most bedroom producers, the practical path is clear: start with LABS Soft Piano and Piano One (both free) to understand what acoustic and textured piano can do in your tracks, then step up to Arturia Piano V3 when you need range beyond a single instrument character. For electric piano, Scarbee Mark I handles vintage Rhodes at a price that removes any barrier to entry. If your work is serious enough to warrant Keyscape or Pianoteq 8, those are the two to compare first: one is a large sampled library, the other a small modeled engine.
 
 [→ Browse all piano VST plugins](https://labs.spitfireaudio.com/)
 

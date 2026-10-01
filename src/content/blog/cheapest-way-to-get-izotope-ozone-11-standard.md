@@ -7,6 +7,7 @@ affiliate: ""
 evergreen: false
 score: 5.00
 draft: false
+noindex: true
 ---
 
 ## TL;DR
