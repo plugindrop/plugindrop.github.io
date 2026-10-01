@@ -3,7 +3,6 @@ title: "A look at Mike Dean's free synthesizer \"Smoke Mono\""
 description: "Mike Dean's Smoke Mono synth plugin is 100% free — no trial, no paywall. Grab the hip-hop legend's signature sound for your rack now."
 pubDate: "2026-04-22T23:12:21Z"
 tags: ["free", "synth", "music-production"]
-affiliate: "https://www.youtube.com/watch"
 heroImage: "/images/a-look-at-mike-dean-s-free-synthesizer-smoke-mono-b69311.jpg"
 score: 8.10
 dealPrice: "FREE"
