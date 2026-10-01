@@ -70,7 +70,7 @@ Plugin Boutique does run promotional pricing events regularly, but a 97% markdow
 |---|---|---|
 | iZotope Nectar | ~$99–$249 (check current pricing) | All-in-one vocal production suite with AI-assisted tools |
 | Waves Vocal Bundle | Varies (frequent sales) | Long-established vocal processors with wide DAW compatibility |
-| Antares Auto-Tune Pro | ~$199/yr or perpetual | Industry-standard pitch correction, widely used in professional production |
+| Antares Auto-Tune Pro | see Antares for current pricing | Industry-standard pitch correction, widely used in professional production |
 
 If you need a single comprehensive vocal production environment with AI features, iZotope Nectar is the go-to. If the priority is broad format support and proven mixing tools, the Waves Vocal Bundle covers that ground. The Deluxe Vocal Bundle's advantage is the price point — $9.90 makes the comparison almost irrelevant for producers on a tight budget.
 

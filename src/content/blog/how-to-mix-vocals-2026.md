@@ -218,7 +218,7 @@ Supermassive is ValhallaDSP's free release featuring large, diffuse reverb and d
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Celemony Melodyne 5 Essential | $99 | Pitch Correction | ARA2, natural correction, note-level editing | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
-| Antares Auto-Tune Pro X | ~$399 | Pitch Correction | Real-time + graphical modes, Flex-Tune | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
+| Antares Auto-Tune Pro | see Antares for current pricing | Pitch Correction | Real-time + graphical modes, Flex-Tune | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
 | FabFilter Pro-Q 3 | €179 | EQ | 24 bands, dynamic EQ, M/S, collision detection | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
 | TDR Nova | Free | EQ | Dynamic EQ, parallel compression mode, 4 bands | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |
 | Waves CLA-76 | $149 list ($34.99 sale on Waves, 2026-10-01) | Compression | 1176 emulation, fast FET, All-Buttons-In | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-vocals-2026) |

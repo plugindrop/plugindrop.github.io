@@ -62,7 +62,7 @@ Logic's Flex Pitch, Melodyne Essential (bundled with many DAWs), and Ableton's a
 
 Waves lists Tune Real-Time at $199, and waves.com showed a $34.99 sale price on 2026-10-01. At the sale price, it's an easy pitch correction recommendation for home producers — low latency, simple interface, effective for both subtle and obvious correction. See when Waves plugins go on sale →.
 
-**Antares Auto-Tune Pro X (~$399 list, ~$149 on sale)**
+**Antares Auto-Tune Pro X (see Antares for current pricing)**
 
 Auto-Tune Pro is worth considering only if you're doing heavy stylistic pitch correction (the classic T-Pain effect) or working in sessions where producers expect it specifically. For transparent correction, it's not better than Waves Tune at a fraction of the price.
 
@@ -136,7 +136,7 @@ This chain produces professional results when used correctly. Start here.
 - FabFilter Pro-Q 4 rarely discounts more than 20–25%, but that still brings it under $145 — worth waiting for if you're not in a rush
 
 **Don't buy:**
-- Antares Auto-Tune at full price ($399) — wait for the sub-$150 promotions if you need it
+- Antares Auto-Tune at full price — check for promotions if you need it
 - Any vocal bundle at full price — individual plugins on sale almost always beat bundle pricing
 
 The vocal mixing plugin market in 2026 heavily rewards patience. The free tools are genuinely excellent, the paid upgrades go on sale consistently, and the gap between home studio output and commercial releases has never been smaller for producers who understand the signal chain rather than chasing gear.

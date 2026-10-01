@@ -69,7 +69,7 @@ For full system requirements, supported DAWs, and activation method, verify on t
 |---|---|---|
 | iZotope Nectar | $199–$249 (full) | Full vocal production suite with RX integration and AI-assisted processing |
 | Waves Vocal Bender | Check Waves site | Specialized pitch and formant manipulation, narrower focus than a full vocal processor |
-| Antares Auto-Tune Pro | $399/year | Industry-standard pitch correction with decades of ecosystem support |
+| Antares Auto-Tune Pro | see Antares for current pricing | Industry-standard pitch correction with decades of ecosystem support |
 
 If you need pitch correction as the primary feature, Antares Auto-Tune Pro is the category leader but at a significantly higher price point. If you want an integrated suite with AI features and noise cleanup, Nectar bundles more tools. Evoke at $64.50 targets producers who want focused vocal enhancement without paying suite prices.
 

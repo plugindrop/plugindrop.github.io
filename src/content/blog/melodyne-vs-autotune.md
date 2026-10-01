@@ -21,7 +21,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Celemony Melodyne 5 | ~$399 (Editor) | Natural-sounding correction, polyphonic audio, detailed post-production | [Plugin Boutique](https://www.pluginboutique.com/search?q=Melodyne&a_aid=69cb95abe1763&chan=art&data1=melodyne-vs-autotune) |
-| Auto-Tune Pro | ~$399 perpetual | Real-time correction, pop/hip-hop vocals, creative pitch effects | [Plugin Boutique](https://www.pluginboutique.com/search?q=Melodyne&a_aid=69cb95abe1763&chan=art&data1=melodyne-vs-autotune) |
+| Auto-Tune Pro | see Antares for current pricing | Real-time correction, pop/hip-hop vocals, creative pitch effects | [Plugin Boutique](https://www.pluginboutique.com/search?q=Melodyne&a_aid=69cb95abe1763&chan=art&data1=melodyne-vs-autotune) |
 
 ---
 
@@ -141,7 +141,7 @@ Auto-Tune Pro is sold as one full-featured product with a perpetual license or s
 | Melodyne 5 Assistant | ~$199 | Pitch editor | + Scale snapping, tempo editing | [Plugin Boutique](https://www.pluginboutique.com/search?q=Auto&a_aid=69cb95abe1763&chan=art&data1=melodyne-vs-autotune) |
 | Melodyne 5 Editor | ~$399 | Pitch editor | + DNA polyphonic editing | [Plugin Boutique](https://www.pluginboutique.com/search?q=Auto&a_aid=69cb95abe1763&chan=art&data1=melodyne-vs-autotune) |
 | Melodyne 5 Studio | ~$699 | Pitch editor | + Multi-track editing | [Plugin Boutique](https://www.pluginboutique.com/search?q=Auto&a_aid=69cb95abe1763&chan=art&data1=melodyne-vs-autotune) |
-| Auto-Tune Pro | ~$399 | Real-time + editor | Auto mode, Graph mode, ARA2, MIDI | [Plugin Boutique](https://www.pluginboutique.com/search?q=Auto&a_aid=69cb95abe1763&chan=art&data1=melodyne-vs-autotune) |
+| Auto-Tune Pro | see Antares for current pricing | Real-time + editor | Auto mode, Graph mode, ARA2, MIDI | [Plugin Boutique](https://www.pluginboutique.com/search?q=Auto&a_aid=69cb95abe1763&chan=art&data1=melodyne-vs-autotune) |
 
 ---
 
@@ -150,7 +150,7 @@ Auto-Tune Pro is sold as one full-featured product with a perpetual license or s
 - **If you record acoustic instruments, choirs, or any polyphonic audio**, buy Melodyne Editor or Studio. Auto-Tune cannot edit polyphonic content — there is no workaround.
 - **If you produce pop, hip-hop, or R&B and want that genre-defining pitch effect**, buy Auto-Tune Pro. Melodyne cannot replicate the stepped retune artifact that defines modern vocal production.
 - **If you track vocals with pitch correction active in your headphone mix**, buy Auto-Tune Pro. Its real-time Auto mode is purpose-built for this workflow; Melodyne is an editor, not a live signal processor.
-- **If you're on a budget and need basic vocal tuning**, buy Melodyne Essential (~$99). It covers monophonic vocal correction with note-level editing at roughly a quarter of Auto-Tune Pro's price.
+- **If you're on a budget and need basic vocal tuning**, buy Melodyne Essential (~$99). It covers monophonic vocal correction with note-level editing.
 - **If you're a professional mixing engineer processing complex multitrack sessions**, buy Melodyne Studio. The multi-track editor and polyphonic DNA technology are unmatched for detailed post-production work.
 - **If you're producing in multiple genres and can only buy one**, buy Melodyne Editor. Its polyphonic capability covers more ground, and it handles straightforward vocal correction as well as any tool on the market.
 
