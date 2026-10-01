@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { prioritySlugs } from '../../lib/crawlPriority.mjs';
 import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
 import FormattedDate from '../../components/FormattedDate.astro';
@@ -36,7 +37,7 @@ const { tag, noindex = false } = Astro.props;
 const allPosts = await getCollection('blog');
 const posts = allPosts
 	.filter(p => !p.data.draft && !p.data.noindex && (p.data.tags ?? []).some((t: string) => slugifyTag(t) === tag))
-	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+	.sort((a, b) => Number(prioritySlugs.has(b.id)) - Number(prioritySlugs.has(a.id)) || b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const tagDisplay = tag.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
 

@@ -1,10 +1,13 @@
 ---
 import BaseHead from '../../components/BaseHead.astro';
+import { getCollection } from 'astro:content';
+import { eligiblePriorityPosts, rotatePriorityPosts } from '../../lib/crawlPriority.mjs';
 import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
 import priceData from '../../data/price_history.json';
 import { inferCategory } from '../../lib/categoryInference.mjs';
 import programmaticManifest from '../../data/programmatic_pages.json';
+const crawlPriorityPosts = rotatePriorityPosts(eligiblePriorityPosts(await getCollection('blog')), 16);
 
 interface HistoryEntry {
   date: string;
@@ -122,6 +125,7 @@ const pageDescription = `Browse ${totalTracked} tracked plugin and bundle prices
         ))}
       </div>
 
+      <section aria-label="Popular and recovered guides"><h2>Popular and recovered guides</h2><ul>{crawlPriorityPosts.map(post => <li><a href={`/posts/${post.id}/`}>{post.data.title}</a></li>)}</ul><p><a href="/posts/">All guides</a></p></section>
       <p class="trust-line">Prices checked daily. Automated tracking since Jul 2026.</p>
     </main>
     <Footer />

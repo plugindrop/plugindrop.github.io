@@ -3,6 +3,7 @@ import type { CollectionEntry } from 'astro:content';
 import { pdAttr } from '../lib/interestTaxonomy.mjs';
 import { isTagPageIndexable, slugifyTag } from '../lib/indexPolicy.mjs';
 import { getCollection } from 'astro:content';
+import { prioritySlugs } from '../lib/crawlPriority.mjs';
 import BaseHead from '../components/BaseHead.astro';
 import AuthorBox from '../components/AuthorBox.astro';
 import Footer from '../components/Footer.astro';
@@ -410,7 +411,7 @@ const relatedPosts = allPosts
 		score: p.data.tags?.filter((t: string) => tags.includes(t) && !GENERIC_RELATION_TAGS.has(t)).length ?? 0,
 	}))
 	.filter(p => p.score > 0)
-	.sort((a, b) => b.score - a.score || b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+	.sort((a, b) => b.score - a.score || Number(prioritySlugs.has(b.id.replace(/\.mdx?$/, ''))) - Number(prioritySlugs.has(a.id.replace(/\.mdx?$/, ''))) || b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
 	.slice(0, 3);
 
 // 汎用(本文と無関係な)アフィリエイト部品のリンク数ガード(AdSense対策・2026-10-01)。

@@ -1,5 +1,7 @@
 ---
 import BaseHead from '../../components/BaseHead.astro';
+import { getCollection } from 'astro:content';
+import { eligiblePriorityPosts, rotatePriorityPosts } from '../../lib/crawlPriority.mjs';
 import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
@@ -13,6 +15,7 @@ const categories = manifest.categories
   .filter((c) => c.status === 'published')
   .map((c) => ({ ...c, rows: sortRows(rowsFor(c.products, data)) }))
   .sort((a, b) => b.rows.length - a.rows.length || a.label.localeCompare(b.label));
+const crawlPriorityPosts = rotatePriorityPosts(eligiblePriorityPosts(await getCollection('blog')), 16);
 
 const pageTitle = `Best Plugin Deals by Category — Live Price Verdicts | ${SITE_TITLE}`;
 const pageDescription = `Browse ${categories.length} plugin categories with live, tracked price verdicts — updated from our own price history, not press releases.`;
@@ -82,6 +85,7 @@ const pageDescription = `Browse ${categories.length} plugin categories with live
         })}
       </div>
 
+      <section aria-label="Popular and recovered guides"><h2>Popular and recovered guides</h2><ul>{crawlPriorityPosts.map(post => <li><a href={`/posts/${post.id}/`}>{post.data.title}</a></li>)}</ul><p><a href="/posts/">All guides</a></p></section>
       <p class="trust-line">Prices checked daily. Automated tracking since Jul 2026.</p>
     </main>
     <Footer />

@@ -9,6 +9,8 @@ import rehypeProductLinks from './src/lib/rehypeProductLinks.mjs';
 import rehypeLinkPolicy from './src/lib/rehypeLinkPolicy.mjs';
 import { staticRedirects } from './src/data/plugin_price_redirects.mjs';
 import { noindexPricePagePaths } from './src/lib/indexPolicy.mjs';
+import yaml from 'js-yaml';
+import { sitemapLastmod } from './src/lib/sitemapLastmod.mjs';
 
 // config.yaml の affiliate_links で "TEST" プレースホルダのドメイン（未承認・非収益）は含めない。
 // generator.py の承認済み判定（TESTプレースホルダなし＝承認済み）と揃える。
@@ -54,6 +56,16 @@ if (staleRedirectSlugs.length > 0) {
 const activeExpiredRedirects = Object.fromEntries(
 	Object.entries(expiredRedirects).filter(([slug]) => !staleRedirectSlugs.includes(slug)),
 );
+
+const sitemapPosts = fs.readdirSync(blogDir).filter((name) => /\.mdx?$/.test(name)).flatMap((name) => {
+	const source = fs.readFileSync(new URL(name, blogDir), 'utf8');
+	const block = source.match(/^---\r?\n([\s\S]*?)\r?\n---/)?.[1];
+	if (!block) return [];
+	const data = yaml.load(block);
+	const id = name.replace(/\.mdx?$/, '');
+	if (!data || data.draft || data.noindex || activeExpiredRedirects[id]) return [];
+	return [{ id, data }];
+});
 
 const redirectUrls = new Set([
 	...Object.keys(activeExpiredRedirects).map((slug) => new URL(`/posts/${slug}/`, siteUrl).href),
@@ -117,8 +129,8 @@ export default defineConfig({
 				item.priority = 0.5;
 				item.changefreq = 'monthly';
 			}
-			// lastmod は設定しない: ビルド日固定にすると全ページが毎日更新に見えてクロール効率が下がる
-			// Google は pubDate (Article schema の datePublished) から最終更新日を判断する
+			const lastmod = sitemapLastmod(new URL(item.url).pathname, sitemapPosts);
+			if (lastmod) item.lastmod = lastmod;
 			return item;
 		},
 	})],

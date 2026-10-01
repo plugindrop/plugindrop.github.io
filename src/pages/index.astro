@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { eligiblePriorityPosts, rotatePriorityPosts } from '../lib/crawlPriority.mjs';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
@@ -257,6 +258,7 @@ const latestGuides = [
 	...indexablePosts.filter(isGuide),
 	...indexablePosts.filter(p => !isGuide(p)),
 ].slice(0, 6);
+const crawlPriorityPosts = rotatePriorityPosts(eligiblePriorityPosts(indexablePosts), 16);
 const previewRows = trackerRows;
 const hubLinks = [
 	{ href: '/best/', title: 'Best deals by category', text: 'Ranked lists of tracked plugin deals for each plugin category.' },
@@ -531,6 +533,12 @@ const hubLinks = [
 				</section>
 			)}
 
+			{crawlPriorityPosts.length > 0 && (
+				<section class="section latest-guides" aria-labelledby="recovered-guides-hd">
+					<header class="section-hd"><h2 id="recovered-guides-hd">Recovered and popular guides</h2><a href="/posts/">Browse all guides &rarr;</a></header>
+					<ul class="guide-list">{crawlPriorityPosts.map(post => <li><a href={`/posts/${post.id}/`}>{post.data.title}</a></li>)}</ul>
+				</section>
+			)}
 			<section class="method-note">
 				<p>Prices are checked by our own tracker, not copied from press releases. <a href="/how-we-track-prices/">How we track &rarr;</a></p>
 			</section>

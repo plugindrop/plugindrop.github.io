@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { eligiblePriorityPosts } from '../../lib/crawlPriority.mjs';
 import { pdAttr } from '../../lib/interestTaxonomy.mjs';
 import { isInternalPathIndexable } from '../../lib/linkPolicy.mjs';
 import { hasTrustedExpiry } from '../../lib/articleDeal.mjs';
@@ -14,6 +15,7 @@ const posts = (await getCollection('blog'))
 	.filter((p) => !p.data.draft)
 	.filter((p) => p.data.pubDate.valueOf() <= Date.now())  // 未来日の予約投稿は非表示
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const crawlPriorityPosts = eligiblePriorityPosts(posts).sort((a, b) => a.data.title.localeCompare(b.data.title));
 
 function getStoreName(url: string | undefined): string {
 	if (!url) return '';
@@ -305,6 +307,7 @@ function isSaleDeal(tags: string[], hasPriceOrAffiliate: boolean): boolean {
 				<p>{posts.length} plugin deals, free downloads &amp; flash sales</p>
 			</div>
 
+			{crawlPriorityPosts.length > 0 && <nav aria-label="Recovered and popular guides"><h2>Recovered and popular guides</h2><ul>{crawlPriorityPosts.map(post => <li><a href={`/posts/${post.id}/`}>{post.data.title}</a></li>)}</ul></nav>}
 			<!-- Search -->
 			<div class="search-wrap">
 				<input
