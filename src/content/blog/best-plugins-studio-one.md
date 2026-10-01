@@ -174,7 +174,7 @@ Arturia's developer documentation for Pigments 7 lists six synthesis types (Moda
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU
 
-u-he documents Tyrell N6 as a free plugin developed in collaboration with the German music publication Amazona, designed around vintage analog subtractive synthesis architecture. For a free plugin, the filter character earns consistent praise that most free synths never receive.
+u-he documents Tyrell N6 as a free plugin developed in collaboration with the German music publication Amazona, designed around vintage analog subtractive synthesis architecture.
 
 **Best for:** Learning subtractive synthesis, getting warm analog tones in a Studio One session, and producers who want real synthesis quality at no cost.
 

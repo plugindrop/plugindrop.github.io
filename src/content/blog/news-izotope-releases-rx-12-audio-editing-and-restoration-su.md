@@ -20,7 +20,7 @@ heroImage: "/images/news-izotope-releases-rx-12-audio-editing-and-restoration-su
 
 ## What Is iZotope RX 12?
 
-iZotope RX is the most widely recognized audio repair and restoration suite in professional audio production. Developed by iZotope — a Boston-based audio software company known for its signal processing depth — RX 12 is the latest major version of a platform that spans over 50 individual tools. It targets noise removal, spectral editing, dialogue cleanup, and source separation in a single integrated environment.
+iZotope RX is an audio repair and restoration suite. Developed by iZotope — a Boston-based audio software company known for its signal processing depth — RX 12 is the latest major version of a platform that spans over 50 individual tools. It targets noise removal, spectral editing, dialogue cleanup, and source separation in a single integrated environment.
 
 If you're weighing whether this is a buy-now situation, the practical answer depends on which edition you need and whether you're upgrading from RX 11 or buying fresh. We break that down in the [When to Buy](#when-to-buy) section below.
 
@@ -33,12 +33,6 @@ If you're weighing whether this is a buy-now situation, the practical answer dep
 - **Spectral Repair** — The suite's core tool for surgically removing clicks, noise, and unwanted artifacts directly in the frequency domain.
 - **Comprehensive Module Ecosystem** — More than 50 tools covering de-noise, de-click, de-crackle, de-hum, de-reverb, and Music Rebalance, among others.
 - **Workflow Refinements** — RX 12 includes interface and routing improvements aimed at reducing repetitive steps in common repair workflows.
-
----
-
-## What Producers Are Saying
-
-iZotope RX has held a consistent reputation on professional audio forums for years. Users in broadcast and post-production communities commonly describe it as the default starting point when dealing with audio that can't be re-recorded. The source separation tools in recent versions have drawn increased discussion from music producers working with stems and archival recordings.
 
 ---
 

@@ -13,7 +13,7 @@ priceTrack:
   - "FabFilter Pro-Q 4"
   - "FabFilter Pro-C 3"
 ---
-**TL;DR:** The Waves SSL Bundle — anchored by the SSL E-Channel and SSL G-Master Buss Compressor — remains one of the most cost-effective ways to bring genuine SSL 4000 console character into a DAW in 2026. The E-Channel earns a permanent slot on almost every channel strip, and the G-Bus Compressor is still the go-to glue compressor for thousands of professional mix engineers. Both are worth buying, especially during one of Waves' frequent deep-discount sales.
+**TL;DR:** The Waves SSL Bundle — anchored by the SSL E-Channel and SSL G-Master Buss Compressor — remains one of the most cost-effective ways to bring genuine SSL 4000 console character into a DAW in 2026. The E-Channel is a full channel strip and the G-Bus Compressor is a bus compressor. Waves frequently discounts both.
 
 ---
 
@@ -53,7 +53,7 @@ This guide is a deep-dive review of the core Waves SSL bundle: the E-Channel str
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, VST2, AU, AAX, RTAS
 
-The SSL E-Channel is a software emulation of the channel strip found in the Solid State Logic 4000E console — the same desk that defined the sound of arena rock, R&B, and hip-hop production across multiple decades. The plugin replicates the E series' four-band parametric EQ with high- and low-frequency shelving options, a high-pass and low-pass filter, and the console's legendary dynamics section combining a compressor-limiter and an expander-gate in a single strip.
+The SSL E-Channel is a software emulation of the channel strip found in the Solid State Logic 4000E console — a console used in many commercial studios. The plugin replicates the E series' four-band parametric EQ with high- and low-frequency shelving options, a high-pass and low-pass filter, and the console's legendary dynamics section combining a compressor-limiter and an expander-gate in a single strip.
 
 What makes the E-Channel still worth loading in 2026 is the character it imparts alongside its function. The EQ curves have an analog-modeled quality that adds subtle warmth and presence absent from purely digital EQs. The compressor section responds in a way that feels musical — particularly useful on drums, bass, and vocals — without requiring surgical precision. It is not the most transparent tool in any DAW, but transparency is not the point. The point is that SSL sound: punchy, forward, slightly aggressive.
 
@@ -78,7 +78,7 @@ One honest limitation: the EQ's analog-modeled curves can sound slightly thick o
 
 If the E-Channel is a workhorse, the SSL G-Master Buss Compressor is an institution. This plugin emulates the bus compressor section from the SSL 4000G console — arguably the single most influential piece of hardware in the history of mix bus processing. The controls are minimal by design: threshold, ratio (2:1, 4:1, 10:1), attack (0.1ms to 30ms), release (0.1s to 1.2s plus program-dependent auto), and make-up gain. There is also a wet/dry mix knob for parallel compression without the need for an additional routing chain.
 
-The G-Bus Compressor earns its reputation through what it does subtly: at moderate settings (4:1 ratio, medium attack, 2–4dB of gain reduction), it pulls a mix together in a way that is difficult to describe but immediately audible. Elements that felt disconnected start moving as a unit. The low end tightens. The midrange becomes more focused. This is the "glue" effect that engineers reference constantly, and no purely digital compressor replicates it the same way.
+The G-Bus Compressor is a bus compressor modeled on the SSL G-series; it is typically used at moderate settings (for example a 4:1 ratio, medium attack, 2–4dB of gain reduction) for mix-bus "glue".
 
 It is worth being direct about what the G-Bus Compressor is not: it is not a transparent mastering compressor. It adds color. At heavier settings, it can pump noticeably, which is either a feature or a problem depending on the genre. It is also not the best choice for single-instrument dynamics control — it is designed to process a full mix or a dense submix. Use it in the wrong context and it will cause more problems than it solves.
 

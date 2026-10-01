@@ -62,7 +62,7 @@ One more thing worth knowing before you buy anything on this list: synth VST pri
 - **Platforms:** Windows, macOS, Linux
 - **Formats:** VST, VST3, AU, CLAP
 
-Vital is a spectral warping wavetable synthesizer with a feature set that matches paid options costing three times as much. The free tier unlocks the full synthesis engine — you only miss premium preset packs, which the community has largely replaced with thousands of free downloads. Spectral warping, a visual modulation overlay, and an extremely readable interface make it approachable for beginners and deep enough for professionals.
+Vital is a spectral warping wavetable synthesizer with a feature set that matches paid options costing three times as much. The free tier unlocks the full synthesis engine — you only miss premium preset packs, which are sold separately; free user-made presets are also available. Spectral warping, a visual modulation overlay, and an extremely readable interface make it approachable for beginners and deep enough for professionals.
 
 There's no purchase decision to time here: Vital's core engine has been free since launch and there's no indication that will change in 2026. If you're weighing whether to spend $25-80/year on Plus or Pro, that's a workflow-convenience call (extra presets, priority support), not a "wait for a sale" one — those tiers rarely discount.
 
@@ -275,7 +275,7 @@ Native Instruments rarely discounts Massive X as a standalone purchase — most 
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU
 
-Sylenth1 has been in continuous professional use for over 15 years and remains a staple in progressive house, trance, and melodic techno. Its four alias-free oscillators with extensive detuning and unison options produce the warm, dense supersaw sound that defined a generation of European electronic music — and it maintains that clarity at voice counts where comparable synths introduce aliasing. If your genre relies on that specific warmth, Sylenth1 is largely irreplaceable.
+Sylenth1 has been in continuous professional use for over 15 years and is aimed at progressive house, trance, and melodic techno. It has four alias-free oscillators with extensive detuning and unison options suited to supersaw sounds.
 
 LennarDigital is notoriously light on discounting — Sylenth1 sits at or near full price most of the year, with occasional small markdowns. If this is the synth your genre demands, don't bank on a sale; check When Does Sylenth1 Go On Sale? but expect to pay close to list price regardless.
 
@@ -449,7 +449,7 @@ Yes, if you're producing electronic music regularly. Vital matches Serum in raw 
 
 ### What's the best synth VST for EDM and dance music production?
 
-Serum is the default choice for most modern EDM and bass music. For trance and progressive house specifically, Sylenth1 and Spire remain genre staples because of their supersaw character. Dune 3 is an alternative if you're building dense unison stacks.
+Serum is a wavetable synth suited to EDM and bass music. For trance and progressive house specifically, Sylenth1 and Spire are options with supersaw-oriented oscillators. Dune 3 is an alternative if you're building dense unison stacks.
 
 ### Should I wait for a Black Friday sale to buy a synth VST plugin?
 

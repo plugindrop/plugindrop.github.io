@@ -84,7 +84,7 @@ IVGI models the nonlinear behavior of analog mixing consoles — specifically ho
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX
 
-SATUR8 emulates the harmonic behavior of analog tape machines with a drive circuit, a bias control that shifts between even and odd harmonic emphasis, and a high-frequency sheen section. The bias control alone gives access to a wide tonal range — from warm and round to bright and forward. It consistently sounds more expensive than its price tag, which is why it shows up in more "best free saturation" shortlists than almost any other freeware plugin.
+SATUR8 emulates the harmonic behavior of analog tape machines with a drive circuit, a bias control that shifts between even and odd harmonic emphasis, and a high-frequency sheen section. The bias control alone gives access to a wide tonal range — from warm and round to bright and forward.
 
 **Best for:** Producers working with live instruments or organic samples who want genuine tape coloration without any subscription fee.
 

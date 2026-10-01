@@ -75,7 +75,7 @@ The maximizer inside Ozone is genuinely competitive — IRC algorithms (IRC I th
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX
 
-Pro-L 2 does one thing and does it better than almost anything else: it limits. Eight distinct limiting algorithms give you a spectrum from totally transparent (Transparent, Linear Phase) to more characterful, musical limiting (Modern, Aggressive, Allround). Crucially, it also ships with some of the most accurate loudness metering in any plugin — True Peak, integrated LUFS, loudness range (LRA), and short-term loudness are all right there on the interface, making it the go-to tool for engineers preparing masters for streaming platform normalization targets.
+Pro-L 2 does one thing and does it better than almost anything else: it limits. Eight distinct limiting algorithms give you a spectrum from totally transparent (Transparent, Linear Phase) to more characterful, musical limiting (Modern, Aggressive, Allround). Crucially, it also ships with some of the most accurate loudness metering in any plugin — True Peak, integrated LUFS, loudness range (LRA), and short-term loudness are all right there on the interface, making it suited to preparing masters for streaming platform normalization targets.
 
 The interface is pure FabFilter: interactive, visually clear, and zero-compromise on usability. There's no AI, no automatic starting point — this is a tool for engineers who know exactly what they're listening for and want complete control over every parameter. It doesn't replace an EQ, compressor, or imager; it assumes you've already done that work.
 

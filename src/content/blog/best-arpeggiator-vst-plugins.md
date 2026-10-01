@@ -1,6 +1,6 @@
 ---
 title: "Best Arpeggiator VST Plugins in 2026 (Free & Paid)"
-description: "Xfer Cthulhu is the most trusted dedicated arpeggiator/chord MIDI plugin under $50, with Scaler 2 being the go-to for producers who want a full..."
+description: "Xfer Cthulhu is a dedicated arpeggiator/chord MIDI plugin under $50, with Scaler 2 covering a full..."
 pubDate: "2026-06-15T08:22:12Z"
 tags: ["guide", "vst", "effects"]
 affiliate: ""
@@ -10,7 +10,7 @@ score: 8.00
 xText: "New guide: Best Arpeggiator VST Plugins in 2026 (Free & Paid)"
 draft: false
 ---
-**TL;DR:** Xfer Cthulhu is the most trusted dedicated arpeggiator/chord MIDI plugin under $50, with Scaler 2 being the go-to for producers who want a full chord-to-arp workflow in a single tool. If budget is the constraint, HY-Arp4 Free is the free pick for step-based arpeggiation.
+**TL;DR:** Xfer Cthulhu is a dedicated arpeggiator/chord MIDI plugin under $50, with Scaler 2 covering a full chord-to-arp workflow in a single tool. If budget is the constraint, HY-Arp4 Free is the free pick for step-based arpeggiation.
 
 ---
 
@@ -54,7 +54,7 @@ The free tier for dedicated arpeggiator VSTs is honest but narrow. Every major D
 
 HY-Arp4 Free is a free step-based arpeggiator that offers more control than DAW-native arpeggiators. Its step sequencer layout provides independent control over pitch offset, velocity, note length, and chord degree for each step — a level of granularity that native arp tools in most DAWs don't approach. That per-step control is what separates mechanical-sounding arp patterns from ones that feel composed. The paid tier of HY-Arp4 expands the step lane count and modulation routing options, but the free version covers the core arpeggio workflow that the majority of producers will use every session.
 
-HY-Plugins is a Japanese developer with a consistent record of providing meaningful free tiers across their plugin line. HY-Arp4 Free is not a crippled demo — it's a functional tool. For producers who find their DAW's built-in arp limiting but aren't ready to invest in a paid tool, this is the correct first move.
+HY-Plugins is a Japanese developer that offers free versions across its plugin line. HY-Arp4 Free is a functional step-based arpeggiator rather than a time-limited demo. For producers who find their DAW's built-in arp limiting but aren't ready to invest in a paid tool, this is the correct first move.
 
 **Best for:** Any producer on any DAW who needs step-programmable arp patterns with per-note velocity and length control, at zero cost.
 

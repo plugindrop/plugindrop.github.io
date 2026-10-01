@@ -124,7 +124,7 @@ OTT is a recreation of Ableton's "Over The Top" multiband compression preset, an
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
-Analog Obsession has built an extraordinary reputation releasing analog hardware emulations at no cost, and BUSTERse is their SSL-style stereo bus compressor. It delivers classic glue, punch, and the subtle high-frequency air that makes a mix feel unified. It belongs on the master bus of almost every session.
+Analog Obsession releases analog hardware emulations at no cost, and BUSTERse is their SSL-style stereo bus compressor, suited to bus and master-bus glue.
 
 **Best for:** Mix bus cohesion, drum bus punch, parallel compression glue.
 
@@ -264,7 +264,7 @@ Surge XT is an open-source hybrid synthesizer with multiple oscillator types, ex
 
 ---
 
-### u-he Zebralette — A Trojan horse for u-he's legendary synthesis engine
+### u-he Zebralette — A free wavetable entry point to u-he's synthesis engine
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/-t54k_p9fx0" title="u-he Zebralette — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

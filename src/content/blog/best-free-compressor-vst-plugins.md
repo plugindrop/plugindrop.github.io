@@ -40,7 +40,7 @@ Open any "best free compressor" thread from the last ten years and the same hand
 
 **If you only install one, make it TDR Kotelnikov** — it is transparent enough for a mastering chain, forgiving enough to leave on the mix bus all day, and it runs on Windows, macOS, and Linux in every format that matters. Everything else in this guide covers the jobs Kotelnikov deliberately refuses to do: vintage color, drum punch, one-knob speed, and multiband density.
 
-Compression is the effect most producers reach for first and understand last. A compressor doesn't only pull down peaks — it decides whether a snare cracks, whether a bus feels glued, and whether a vocal sits forward or hides behind the track. Style drives the choice: transparency for mastering, character for rock and hip-hop, speed for drums, upward multiband for electronic music. Every plugin below is free — no trial timer, no feature lock, no expiring license — grouped by the job it does best, each with an honest note on when to skip it.
+A compressor doesn't only pull down peaks — it decides whether a snare cracks, whether a bus feels glued, and whether a vocal sits forward or hides behind the track. Style drives the choice: transparency for mastering, character for rock and hip-hop, speed for drums, upward multiband for electronic music. Every plugin below is free — no trial timer, no feature lock, no expiring license — grouped by the job it does best, each with an honest note on when to skip it.
 
 ---
 
@@ -101,7 +101,7 @@ While Kotelnikov uses a feedforward design for predictability, TDR Feedback Comp
 - **Platforms:** Windows, macOS
 - **Formats:** VST
 
-ReaComp is the compressor from Reaper's internal FX suite, freely available to all producers via the standalone ReaPlugs download — no Reaper license required. It's not glamorous, but it offers sidechain functionality, extensive parameter control, and CPU overhead so low you can stack it on 40 tracks without issue. It is the workhorse engineers reach for when they want zero gotchas: predictable behavior, deep parameter access, and no surprises 40 tracks into a session.
+ReaComp is the compressor from Reaper's internal FX suite, freely available to all producers via the standalone ReaPlugs download — no Reaper license required. It's not glamorous, but it offers sidechain functionality, extensive parameter control, and CPU overhead so low you can stack it on 40 tracks without issue. It offers predictable behavior and deep parameter access.
 
 **Best for:** High-track-count sessions, sidechain compression, surgical utility work.
 
@@ -124,7 +124,7 @@ When compression should do more than control dynamics — when you want it to ma
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
-Molot GE (Grand Edition) is the refined release of one of the most beloved free compressors in existence, modeled on the character of Soviet-era hardware units. It has a distinctive aggressive quality — a combination of fast transient response and subtle harmonic saturation — that makes drum buses, electric guitars, and room mics sound bigger without feeling processed. The updated GUI makes it far more approachable than the original, while retaining every bit of the original's sonic identity.
+Molot GE (Grand Edition) is the refined release of a free compressor modeled on the character of Soviet-era hardware units. It has a distinctive aggressive quality — a combination of fast transient response and subtle harmonic saturation — that makes drum buses, electric guitars, and room mics sound bigger without feeling processed. The updated GUI makes it far more approachable than the original, while retaining every bit of the original's sonic identity.
 
 **Best for:** Drum bus, electric guitars, rock and metal mixes, any source that needs an authoritative grip.
 
@@ -145,7 +145,7 @@ Molot GE (Grand Edition) is the refined release of one of the most beloved free 
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
-MJUC jr. is the free tier of Klanghelm's acclaimed variable-mu compressor, and it's almost absurdly generous. Variable-mu compression — the technique used in hardware legends like the Fairchild 670 — reacts organically to the program material, adding warmth and harmonic complexity as a byproduct of the compression process. On acoustic guitars, piano, backing vocals, or any bus that needs to feel expensive, MJUC jr. consistently over-delivers for a plugin that costs nothing.
+MJUC jr. is the free version of Klanghelm's variable-mu compressor. Variable-mu compression — the technique used in hardware such as the Fairchild 670 — reacts organically to the program material, adding warmth and harmonic complexity as a byproduct of the compression process. It is a free plugin suited to acoustic guitars, piano, backing vocals, or any bus where you want soft, program-dependent compression.
 
 **Best for:** Acoustic instruments, mix bus warmth, vintage tube saturation on any source.
 
@@ -336,7 +336,7 @@ The free tier covers most professional work in 2026. But when you keep hitting t
 
 ## Common Paid Upgrades at a Glance
 
-If you outgrow the free tier, these are the compressors producers reach for most often. Prices are approximate 2026 street prices — the "when it's cheap" column matters more than the list price, because several of these almost never sell at full cost.
+If you outgrow the free tier, these are paid compressor options. Prices are approximate 2026 street prices — the "when it's cheap" column matters more than the list price, because several of these almost never sell at full cost.
 
 | Paid Compressor | Type | Approx. 2026 Price | When It's Actually Cheap | Get It |
 |---|---|---|---|---|

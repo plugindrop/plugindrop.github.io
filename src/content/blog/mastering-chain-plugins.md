@@ -63,7 +63,7 @@ Whether you're mastering your own productions or running a small mastering studi
 - **Platforms:** Windows, macOS
 - **Formats:** VST2, VST3, AU, AAX
 
-SPAN is the industry's go-to free FFT spectrum analyzer, and there's a reason it lives permanently on tens of thousands of mastering chains. Its real-time frequency display is accurate, low-latency, and highly configurable — you can adjust slope, resolution, and averaging to suit analytical or musical listening needs. Load it first in your chain (or use it on a parallel analysis bus) to get a clear picture of what your mix is actually doing before you touch a single knob.
+SPAN is a free FFT spectrum analyzer. Its real-time frequency display is accurate, low-latency, and highly configurable — you can adjust slope, resolution, and averaging to suit analytical or musical listening needs. Load it first in your chain (or use it on a parallel analysis bus) to get a clear picture of what your mix is actually doing before you touch a single knob.
 
 **Best for:** Engineers who want a reliable, zero-cost spectral reference that never colors the sound.
 
@@ -83,7 +83,7 @@ SPAN is the industry's go-to free FFT spectrum analyzer, and there's a reason it
 - **Platforms:** Windows, macOS
 - **Formats:** VST2, VST3, AU, AAX
 
-FabFilter Pro-Q 4 is the EQ that most professional mastering engineers reach for first when they need surgical precision without coloration artifacts. Its per-band mid/side processing, dynamic EQ capability, and zero-latency mode make it a true Swiss Army knife for mastering. The spectrum grab feature — letting you click directly on a problem frequency in the spectrum display to create a filter — saves real time on problem-solving sessions.
+FabFilter Pro-Q 4 is an EQ suited to surgical precision in mastering. Its per-band mid/side processing, dynamic EQ capability, and zero-latency mode make it a true Swiss Army knife for mastering. The spectrum grab feature — letting you click directly on a problem frequency in the spectrum display to create a filter — saves real time on problem-solving sessions.
 
 What separates Pro-Q 4 from cheaper alternatives is its phase response flexibility. Linear phase mode keeps transients intact on complex material; natural phase mode adds minimal coloration for analogue-style warmth when you want it. At the mastering stage, that choice matters enormously.
 

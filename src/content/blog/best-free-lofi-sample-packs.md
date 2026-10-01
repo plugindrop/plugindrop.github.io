@@ -92,7 +92,7 @@ Cymatics releases free sample packs. Check each pack's description for whether t
 - **Format:** WAV, 24-bit
 - **Contents:** Full drum loops, individual hits, percussion
 
-MusicRadar's free sample section has operated as a trusted producer resource for well over a decade. Unlike community platforms, packs here go through editorial filtering before publication, which produces more consistent recording quality across a catalog. The packs are royalty-free and cleared for commercial use — a meaningful differentiator from community-sourced alternatives where per-sample licensing can be ambiguous.
+MusicRadar's free sample section is an editorially curated resource. Unlike community platforms, packs here go through editorial filtering before publication, which produces more consistent recording quality across a catalog. The packs are royalty-free and cleared for commercial use — a meaningful differentiator from community-sourced alternatives where per-sample licensing can be ambiguous.
 
 **Best for:** Producers who prioritize recording consistency and need clear commercial licensing.
 

@@ -123,7 +123,7 @@ Komplete 15 Select provides a curated portion of the full Komplete library — K
 
 ## Worth Upgrading To
 
-### FabFilter Total Bundle — The Most Trusted Premium Mixing Bundle
+### FabFilter Total Bundle — Premium Mixing Bundle
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/vfM6F7pRmog" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

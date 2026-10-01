@@ -136,7 +136,7 @@ TesslaSE models transformer saturation — the harmonic behavior of input and ou
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
-Caramel is available through MeldaProduction's MFreeEffectsBundle, a package of professional-grade free plugins that MeldaProduction has maintained as a long-running gesture to the producer community. MeldaProduction's free offerings are well-regarded for including features that compete with what competitors charge for — a pattern Caramel follows with multiple saturation character modes. The interface matches MeldaProduction's standard design language: dense but logically organized once the panel layout becomes familiar.
+Caramel is available through MeldaProduction's MFreeEffectsBundle, a package of professional-grade free plugins that MeldaProduction has maintained as a long-running gesture to the producer community. MeldaProduction's free bundle includes Caramel with multiple saturation character modes. The interface matches MeldaProduction's standard design language: dense but logically organized once the panel layout becomes familiar.
 
 **Best for:** Producers already working within the MeldaProduction ecosystem, or those who want saturation options within a larger free professional bundle.
 
@@ -173,7 +173,7 @@ Softube released the Saturation Knob as an intentionally minimal tool: one drive
 - **Platforms:** Windows, macOS
 - **Formats:** VST, AU
 
-The BPB Saturator offers four saturation modes — Soft, Hard, Tape, and Clip — each producing a meaningfully different harmonic result. The Tape mode captures the even-order harmonic character associated with tape saturation without requiring a full tape machine simulation. Bedroom Producers Blog has built a consistent reputation for releasing practical, well-documented free plugins aimed specifically at home studio producers, and the Saturator reflects that: no unnecessary complexity, no missing features.
+The BPB Saturator offers four saturation modes — Soft, Hard, Tape, and Clip — each producing a meaningfully different harmonic result. The Tape mode captures the even-order harmonic character associated with tape saturation without requiring a full tape machine simulation. Bedroom Producers Blog releases free plugins aimed at home studio producers, and the Saturator keeps the control set minimal.
 
 **Best for:** Producers who want to audition four different saturation characters quickly on a channel before committing to a more specialized tool.
 
@@ -269,7 +269,7 @@ A: Chow Tape Model supports Apple Silicon natively. IVGI, Caramel, and Saturatio
 A: Check each plugin's system requirements on the developer's page. Chow Tape Model is a physical model that solves a hysteresis model in real time, so its CPU use depends on its oversampling setting and the number of instances.
 
 **Q: Can I run free tape saturation plugins in a mastering chain?**
-A: Yes, and Chow Tape Model is specifically used for mastering applications by home studio engineers. In mastering contexts, drive levels are kept conservative — the goal is harmonic enrichment and soft dynamic shaping, not audible distortion. IVGI is also commonly used at low drive settings on mastering chains for adding harmonic density without obvious coloring.
+A: Yes, Chow Tape Model can be used in mastering. In mastering contexts, drive levels are kept conservative — the goal is harmonic enrichment and soft dynamic shaping, not audible distortion. IVGI can likewise be set to low drive to add harmonic density without obvious coloring.
 
 **Q: Do I actually need a paid tape plugin in 2026?**
 A: For most producers, no — a free chain built around Chow Tape Model and IVGI covers physical accuracy and analog coloring completely. You start needing paid tools when you want something the free tier structurally can't give you: switchable multi-machine tape models (Softube Tape), AI-modeled reel-to-reel warmth (Baby Audio TAIP), a combined tape-delay-and-saturation instrument (u-he Satin), or an integrated lo-fi processor that replaces four stacked plugins (RC-20 Retro Color). Buy for the workflow, range, and presets — not because the free tools sound "cheap," because they don't.

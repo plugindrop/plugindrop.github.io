@@ -14,7 +14,7 @@ priceTrack:
   - "Valhalla VintageVerb"
 ---
 
-**TL;DR:** Valhalla VintageVerb delivers 18 hand-crafted reverb algorithms, three vintage color modes, and near-zero CPU overhead for $50. Community discussion often ranks it alongside plugins priced three to five times higher; we have not tested it hands-on. If you buy one reverb plugin in 2026, make it this one.
+**TL;DR:** Valhalla VintageVerb delivers 18 hand-crafted reverb algorithms, three vintage color modes, and near-zero CPU overhead for $50. We have not tested it hands-on; this review is based on published specifications.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EzPouHxa18s" title="Valhalla VintageVerb Review: The $50 Reverb That Beats Plugins 10x Its Price — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -60,7 +60,7 @@ What follows: a breakdown of every algorithm category, an honest look at the wor
 
 Valhalla VintageVerb is an algorithmic reverb plugin designed to capture the sound and character of classic digital reverb hardware from the 1970s and 1980s — units like the Lexicon 224, AMS RMX16, and EMT 250. It ships with 18 distinct reverb algorithms and three "Color" modes that apply different frequency shaping and density characteristics drawn from those eras of studio equipment.
 
-The plugin was created by Sean Costello, a reverb algorithm designer whose academic research and obsessive ear for tone have made Valhalla DSP one of the most respected plugin companies in the business. At $50, VintageVerb represents a near-absurd value proposition: decades of reverb research and meticulously tuned algorithms for less than a session musician's hourly rate.
+The plugin was created by Sean Costello, a reverb algorithm designer who founded Valhalla DSP. VintageVerb is priced at $50.
 
 > **Watch it in action:** The official demo on YouTube (ID: EzPouHxa18s) covers the major algorithm families with real audio examples — worth watching before you buy, though most producers pull the trigger without needing it.
 

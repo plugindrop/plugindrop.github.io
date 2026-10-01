@@ -150,7 +150,7 @@ The honest context: active development on Helm stopped when Tytel shifted focus 
 
 - **Developer:** u-he
 - **Price:** ~$149 regular — typically ~$104 on sale (tracked all-time low $65). See our [Hive 2 price history](/plugin-prices/u-he-hive-2/).
-- **Why upgrade:** Hive 2 occupies a distinct niche that no free alternative covers: a fast, streamlined workflow with u-he's documented reputation for analog modeling quality. The interface is designed for rapid sound design — fewer screens, more immediate feedback — which makes it a different tool from Serum or Vital rather than a direct replacement. It won't replicate Serum's wavetable editor workflow, but for producers who want professional sound character without the architecture overhead of Surge XT, it's the clearest paid upgrade path.
+- **Why upgrade:** Hive 2 occupies a distinct niche that no free alternative covers: a fast, streamlined workflow built on u-he's analog-modeled synthesis. The interface is designed for rapid sound design — fewer screens, more immediate feedback — which makes it a different tool from Serum or Vital rather than a direct replacement. It won't replicate Serum's wavetable editor workflow, but for producers who want professional sound character without the architecture overhead of Surge XT, it's the clearest paid upgrade path.
 
 **Skip it if:** you need Serum's wavetable-editor workflow or Surge XT's synthesis depth — Hive 2 trades that architecture for speed, so it's the wrong pick when depth is the goal.
 
