@@ -189,7 +189,7 @@ test('research note has months and kinds, never research amounts', () => {
 
 test('all products ignore unconfirmed research price mutations', () => {
   const all = [...Object.values(priceData.plugins ?? {}), ...Object.values(priceData.bundles ?? {})];
-  assert.equal(all.length, 625);
+  assert.equal(all.length, 628);
   for (const product of all) {
     const before = buildPageFacts(product, { buildDate: priceData.last_updated });
     const changed = structuredClone(product);
