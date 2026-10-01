@@ -151,7 +151,7 @@ The saturation in the feedback path is the key distinguishing feature: each repe
 - **Price:** $199
 - **Why upgrade:** Free synthesizers typically lack the granular and wavetable engines needed for the evolving, textured pad sounds central to modern lo-fi production. Pigments 7 includes a built-in vintage filter section and analog-modeled FX chain, which reduces the need for a separate character plugin on synth channels — the vintage color is built into the instrument's own signal path.
 
-[→ Get Arturia Pigments 7 (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=how-to-make-lofi-music-plugins)
+[→ Get Arturia Pigments 7 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=how-to-make-lofi-music-plugins)
 
 ---
 

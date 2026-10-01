@@ -22,9 +22,9 @@ draft: false
 |--------|-------|----------|--------|
 | Komplete Select | Free–$49 | First-time NI users, hardware owners | [Official Site](https://www.native-instruments.com/en/products/komplete/bundles/) |
 | Komplete 26 Standard | ~$199–$299 (sale) | All-around bedroom producer | [Official Site](https://www.native-instruments.com/en/products/komplete/bundles/) |
-| Komplete 26 Ultimate | ~$399–$599 (sale) | Film, TV, and game audio composers | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/13187-KOMPLETE-15-Ultimate?a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
-| Komplete 26 Collector's Edition | ~$999+ (sale) | Professional sound designers | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/13184-KOMPLETE-15-Collector-s-Edition?a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
-| Arturia V Collection 11 | ~$299–$499 (sale) | Synthesis-first producers | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
+| Komplete 26 Ultimate | ~$399–$599 (sale) | Film, TV, and game audio composers | [Plugin Boutique](https://www.pluginboutique.com/search?q=KOMPLETE+15+Ultimate&a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
+| Komplete 26 Collector's Edition | ~$999+ (sale) | Professional sound designers | [Plugin Boutique](https://www.pluginboutique.com/search?q=KOMPLETE+15+Collector+s+Edition&a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
+| Arturia V Collection 11 | ~$299–$499 (sale) | Synthesis-first producers | [Official Site](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
 
 ---
 
@@ -99,7 +99,7 @@ At Ultimate's typical sale pricing of $399–$499, replicating the included cont
 
 **Best for:** Composers and session producers who regularly need orchestral, cinematic, or ethnically diverse instrument depth.
 
-[→ Get Komplete 26 Ultimate on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/13187-KOMPLETE-15-Ultimate?a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it)
+[→ Get Komplete 26 Ultimate on Plugin Boutique](https://www.pluginboutique.com/search?q=KOMPLETE+15+Ultimate&a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it)
 
 ---
 
@@ -118,7 +118,7 @@ The Collector's Edition targets professional composers, sound designers, and stu
 
 **Best for:** Professional composers and sound designers who need the complete NI catalog as a core daily toolset.
 
-[→ Get Komplete on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/13184-KOMPLETE-15-Collector-s-Edition?a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it)
+[→ Get Komplete on Plugin Boutique](https://www.pluginboutique.com/search?q=KOMPLETE+15+Collector+s+Edition&a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it)
 
 ---
 
@@ -144,7 +144,7 @@ The Collector's Edition targets professional composers, sound designers, and stu
 - **Price:** ~$499 full; frequently on sale for ~$299–$399
 - **Why upgrade:** If your workflow is synthesis-first and Kontakt's sample library access is not a priority, V Collection 11 makes a more focused case than any Komplete tier. Developer documentation confirms Arturia's use of physical modeling and circuit simulation methodologies across its emulations. V Collection includes Minimoog, Prophet-5, and Juno-60 emulations. Komplete's synthesizer roster includes Massive X and Reaktor 6, but its focus is not vintage hardware emulation.
 
-[→ Get Arturia V Collection 11 (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it)
+[→ Get Arturia V Collection 11 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it)
 
 ---
 
@@ -156,7 +156,7 @@ The Collector's Edition targets professional composers, sound designers, and stu
 | Komplete 26 Standard | ~$199–$299 (sale) | Full production bundle | Full Kontakt, Massive X, Battery 4, Reaktor 6, Guitar Rig Pro | [Official Site](https://www.pluginboutique.com/search?q=Komplete%2026%20Standard&a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
 | Komplete 26 Ultimate | ~$399–$599 (sale) | Expanded bundle | Everything in Standard + Symphony Series, world instruments, 200GB+ | [Official Site](https://www.pluginboutique.com/search?q=Komplete%2026%20Ultimate&a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
 | Komplete 26 Collector's Edition | ~$999+ (sale) | Complete NI catalog | Full NI library, 400GB+, professional composer tier | [Official Site](https://www.pluginboutique.com/search?q=Komplete%2026%20Collector%27s%20Edition&a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
-| Arturia V Collection 11 | ~$299–$499 (sale) | Vintage synth bundle | 40+ emulations, physical modeling, circuit simulation | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
+| Arturia V Collection 11 | ~$299–$499 (sale) | Vintage synth bundle | 40+ emulations, physical modeling, circuit simulation | [Official Site](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
 
 ---
 
@@ -205,7 +205,7 @@ A: Native Instruments has released native Apple Silicon support across the Kompl
 
 Komplete 26 Standard is worth buying during NI's regular sales if Kontakt is part of your workflow — the bundle economics hold, and the included instruments cover enough ground for most production styles without requiring you to build a library from scratch. If synthesis is your primary focus and sample-based production is not in your workflow, Arturia V Collection 11 is the more targeted and arguably stronger purchase at comparable sale pricing.
 
-[→ Get Native Instruments Komplete (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it)
+[→ Get Native Instruments Komplete (via Plugin Boutique)](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it)
 
 ---
 

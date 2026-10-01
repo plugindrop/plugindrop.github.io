@@ -58,7 +58,7 @@ At its going rate of $25–29, the bx_console SSL 9000 J is arguably the cheapes
 
 > **Buying tip:** The bx_console SSL 9000 J ($349 MSRP) is almost never sold at list price. Plugin Alliance and PB keep it at $29 year-round, with periodic dips to $25. At this price it competes directly with Waves SSL and often comes up favorably in community sound comparisons on r/audioengineering and KVR Audio. If you see it at $29 or below, that's normal — $25 is the all-time low, so don't hold out expecting a dramatically better deal.
 
-**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/2-effects/10-equalizer/8766-bx_console-SSL-9000-J?a_aid=69cb95abe1763&chan=art&data1=when-does-bx-console-ssl-9000-go-on-sale)**
+**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/search?q=bx_console+SSL+9000+J&a_aid=69cb95abe1763&chan=art&data1=when-does-bx-console-ssl-9000-go-on-sale)**
 
 Plugin Boutique often matches official sale prices and gives you Virtual Cash back (typically 5%) on every purchase, redeemable on future orders — worth stacking if you're planning to pick up other Brainworx or Plugin Alliance titles later.
 

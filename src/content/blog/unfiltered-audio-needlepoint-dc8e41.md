@@ -13,7 +13,7 @@ draft: false
 saleExpiry: "2026-09-29"
 saleExpirySource: "fallback"
 ---
-**TL;DR:** Needlepoint is Unfiltered Audio's **vinyl and turntable simulation** plugin (not a tape emulator), which the maker says uses physical modeling. PluginDrop recorded it at **$30** (regular ~~$78~~) at Plugin Boutique, with the most recent check on 2026-09-25 and a listed end date of 2026-09-30. That sale window has passed, so treat this page as a dated record; check the live [Plugin Boutique listing](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/14934-Unfiltered-Audio-Needlepoint?a_aid=69cb95abe1763&chan=art&data1=unfiltered-audio-needlepoint-dc8e41&utm_source=plugindrop&utm_medium=article&utm_campaign=unfiltered-audio-needlepoint-dc8e41) for today's price.
+**TL;DR:** Needlepoint is Unfiltered Audio's **vinyl and turntable simulation** plugin (not a tape emulator), which the maker says uses physical modeling. PluginDrop recorded it at **$30** (regular ~~$78~~) at Plugin Boutique, with the most recent check on 2026-09-25 and a listed end date of 2026-09-30. That sale window has passed, so treat this page as a dated record; check the live [Plugin Boutique listing](https://www.pluginboutique.com/search?q=Unfiltered+Audio+Needlepoint&a_aid=69cb95abe1763&chan=art&data1=unfiltered-audio-needlepoint-dc8e41&utm_source=plugindrop&utm_medium=article&utm_campaign=unfiltered-audio-needlepoint-dc8e41) for today's price.
 
 ## Price Record (tracked by PluginDrop)
 - Regular: $78
@@ -51,7 +51,7 @@ Per the [Plugin Alliance product page](https://www.plugin-alliance.com/products/
 |---|---|---|
 | $78.00 | $30.00 (through 2026-09-25 check) | $48.00 (about 62%) |
 
-[Check the current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/14934-Unfiltered-Audio-Needlepoint?a_aid=69cb95abe1763&chan=art&data1=unfiltered-audio-needlepoint-dc8e41&utm_source=plugindrop&utm_medium=article&utm_campaign=unfiltered-audio-needlepoint-dc8e41).
+[Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=Unfiltered+Audio+Needlepoint&a_aid=69cb95abe1763&chan=art&data1=unfiltered-audio-needlepoint-dc8e41&utm_source=plugindrop&utm_medium=article&utm_campaign=unfiltered-audio-needlepoint-dc8e41).
 
 ## FAQ
 

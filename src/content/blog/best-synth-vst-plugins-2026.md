@@ -399,7 +399,7 @@ At $499, this is the one purchase on this list where waiting for a sale actually
 
 V Collection is Arturia's single biggest sale item — it regularly sees 50% or deeper discounts during Black Friday and periodic spring/summer promotions, making the effective price closer to $299 during those windows. Check [When Does Arturia V Collection Go On Sale?](/posts/when-does-arturia-v-collection-go-on-sale/) before paying full price for the bundle.
 
-[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=best-synth-vst-plugins-2026)
+[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=best-synth-vst-plugins-2026)
 
 ---
 

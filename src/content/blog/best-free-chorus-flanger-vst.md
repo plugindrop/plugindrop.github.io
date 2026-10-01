@@ -198,7 +198,7 @@ Chris Johnson's AirWindows project is a large collection of free, open-source au
 - **Price:** $49
 - **Why upgrade:** TAL-Chorus-LX models the JC-120 circuit. The Roland Dimension D is a different piece of hardware entirely — a four-mode spatial chorus used heavily in professional studio production through the 80s and 90s. Arturia's developer documentation confirms the emulation targets the original Dimension D hardware circuit, including all four preset modes. The plugin adds additional controls not available on the hardware unit. If the JC-120 character is close but not quite what you're after, this is where to look.
 
-[→ Get Arturia Chorus DIMENSION-D (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=best-free-chorus-flanger-vst)
+[→ Get Arturia Chorus DIMENSION-D (via Plugin Boutique)](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=best-free-chorus-flanger-vst)
 [Watch Demo](https://www.youtube.com/watch?v=zWDahsu8vFE)
 
 ---

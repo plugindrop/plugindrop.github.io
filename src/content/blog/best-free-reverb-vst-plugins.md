@@ -27,7 +27,7 @@ priceTrack:
 | OldSkoolVerb | Free | Vintage drum and snare reverb | [Free Download](https://www.meldaproduction.com/MFreeFXBundle) |
 | Convology XT | Free | Convolution / IR-based reverb | [Free Download](https://www.impulserecord.com/convology-xt/) |
 | Valhalla VintageVerb | $50 | Hardware-modeled studio reverb | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
-| FabFilter Pro-R 2 | $199 | Mastering-grade reverb | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/3725-FabFilter-Pro-R?a_aid=69cb95abe1763&chan=art&data1=best-free-reverb-vst-plugins) |
+| FabFilter Pro-R 2 | $199 | Mastering-grade reverb | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter+Pro+R&a_aid=69cb95abe1763&chan=art&data1=best-free-reverb-vst-plugins) |
 | Eventide SP2016 | ~$99 | Hardware emulation | [Get It](https://www.eventideaudio.com/plug-ins/sp2016-reverb/) |
 
 ## Introduction
@@ -177,7 +177,7 @@ The free plugins above are production-ready. These three paid options are for pr
 - **Formats:** VST2, VST3, AU, AAX
 - **Why upgrade:** None of the free options offer frequency-dependent decay — the ability to let low frequencies decay slower or faster than highs, which is how real rooms actually behave. Pro-R 2 provides this plus a full EQ curve that shapes the reverb tail independently per frequency band. When a reverb needs to integrate into a finished mix without masking other elements, this level of control is what professional mixers and mastering engineers use.
 
-[→ Get FabFilter Pro-R 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/17-Reverb/3725-FabFilter-Pro-R?a_aid=69cb95abe1763&chan=art&data1=best-free-reverb-vst-plugins)
+[→ Get FabFilter Pro-R 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=FabFilter+Pro+R&a_aid=69cb95abe1763&chan=art&data1=best-free-reverb-vst-plugins)
 
 ---
 
@@ -205,7 +205,7 @@ The free plugins above are production-ready. These three paid options are for pr
 | OldSkoolVerb | Free | Algorithmic (vintage) | Classic hardware character, drum-focused | [Download Free](https://www.meldaproduction.com/MFreeFXBundle) |
 | Convology XT | Free | Convolution | 70 IRs, custom IR import, acoustic realism | [Download Free](https://www.impulserecord.com/convology-xt/) |
 | Valhalla VintageVerb | $50 | Algorithmic | 18 hardware-modeled algorithms | [Buy](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
-| FabFilter Pro-R 2 | $199 | Algorithmic | Frequency-dependent decay, mastering-grade | [Buy (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/17-Reverb/3725-FabFilter-Pro-R?a_aid=69cb95abe1763&chan=art&data1=best-free-reverb-vst-plugins) |
+| FabFilter Pro-R 2 | $199 | Algorithmic | Frequency-dependent decay, mastering-grade | [Buy (Plugin Boutique)](https://www.pluginboutique.com/search?q=FabFilter+Pro+R&a_aid=69cb95abe1763&chan=art&data1=best-free-reverb-vst-plugins) |
 | Eventide SP2016 | ~$99 | Algorithmic | SP2016 hardware emulation | [Buy](https://www.eventideaudio.com/plug-ins/sp2016-reverb/) |
 
 ---
@@ -216,7 +216,7 @@ Free reverbs cover the fundamentals, but most producers eventually hit a ceiling
 
 | Paid Upgrade | Approx. 2026 Price | Why Producers Buy It | Get It |
 |--------------|--------------------|----------------------|--------|
-| FabFilter Pro-R 2 | ~$199 | Frequency-dependent decay plus a full tail EQ — the reference for fitting reverb into a finished mix | [View on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/3725-FabFilter-Pro-R?a_aid=69cb95abe1763&chan=art&data1=best-free-reverb-vst-plugins) |
+| FabFilter Pro-R 2 | ~$199 | Frequency-dependent decay plus a full tail EQ — the reference for fitting reverb into a finished mix | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter+Pro+R&a_aid=69cb95abe1763&chan=art&data1=best-free-reverb-vst-plugins) |
 | Eventide Blackhole | ~$99 | Huge, otherworldly ambiences with gravity and feedback controls — a step beyond Supermassive for sound design | [Search Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/2855-Blackhole?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-reverb-vst-plugins&chan=art&data1=best-free-reverb-vst-plugins) |
 | LiquidSonics Seventh Heaven | ~$99 | Bricasti M7 emulation via Fusion-IR — a lush vocal and mix-bus plate | [Search Plugin Boutique](https://www.pluginboutique.com/search?q=Seventh%20Heaven&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-reverb-vst-plugins&chan=art&data1=best-free-reverb-vst-plugins) |
 | Relab LX480 Complete | ~$149 | Faithful Lexicon 480L emulation — the hall and plate presets behind countless commercial records | [Search Plugin Boutique](https://www.pluginboutique.com/search?q=Relab%20LX480&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-reverb-vst-plugins&chan=art&data1=best-free-reverb-vst-plugins) |

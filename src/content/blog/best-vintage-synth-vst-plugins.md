@@ -261,7 +261,7 @@ The ARP 2600 is a semi-modular synthesizer from the early 1970s known for its bu
 
 **Skip it if:** you want quick presets and instant gratification. The 2600's patchable routing rewards tinkering; if you don't want to build sounds from a signal path up, its strengths go to waste.
 
-[→ Get Arturia ARP 2600 V3 (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins)
+[→ Get Arturia ARP 2600 V3 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins)
 
 ---
 
@@ -281,7 +281,7 @@ The Yamaha CS-80 was used by Vangelis on the Blade Runner soundtrack — one of 
 
 **Skip it if:** CPU is tight. The CS-80's dual-filter, eight-voice architecture makes CS-80 V one of the heavier Arturia instruments — layered pads add up quickly on an older machine.
 
-[→ Get Arturia CS-80 V (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins)
+[→ Get Arturia CS-80 V (via Plugin Boutique)](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins)
 
 ---
 
@@ -291,7 +291,7 @@ The free tier gets you making music today. But there's a point — usually when 
 
 | Plugin | Emulates | ~2026 Price | Typical Sale Window | Get It |
 |--------|----------|-------------|---------------------|--------|
-| Arturia V Collection 11 | 40+ vintage synths (Mini, Prophet, Jupiter, CS-80, ARP…) | $599 | Drops to ~50% ($299) at Black Friday and Arturia's summer sale | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins) |
+| Arturia V Collection 11 | 40+ vintage synths (Mini, Prophet, Jupiter, CS-80, ARP…) | $599 | Drops to ~50% ($299) at Black Friday and Arturia's summer sale | [Plugin Boutique](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins) |
 | u-he Diva | Multi-vintage circuit simulation | $179 | u-he rarely discounts deeply; expect ~25% off ($135ish) a few times a year, never much lower | [Plugin Boutique](https://www.pluginboutique.com/search?q=u-he%20Diva&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins&chan=art&data1=best-vintage-synth-vst-plugins) |
 | u-he Repro | Prophet-5 & Pro-One | ~$149 | Falls toward ~$99 during u-he's occasional sales | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/3027-Repro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins&chan=art&data1=best-vintage-synth-vst-plugins) |
 | GForce Minimonsta2 | Minimoog | ~$99 | GForce runs frequent 40–50% off promos (~$50) | [Plugin Boutique](https://www.pluginboutique.com/search?q=GForce%20Minimonsta&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins&chan=art&data1=best-vintage-synth-vst-plugins) |
@@ -316,7 +316,7 @@ Two practical rules from these price patterns: if you want V Collection, there i
 - **Price:** $599 (frequently discounted to ~$299; individual instruments sold at ~$99 each)
 - **Why upgrade:** V Collection 11 contains Mini V3, Prophet-5 V, Jup-8 V, ARP 2600 V3, CS-80 V, and over 25 additional instruments. If you're buying more than two Arturia emulations individually, the bundle math favors the collection at any discount price below $400 — and Black Friday routinely takes it to $299.
 
-[→ Get Arturia V Collection 11 (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins)
+[→ Get Arturia V Collection 11 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins)
 
 ---
 
@@ -391,7 +391,7 @@ For most producers, the free tier — OB-Xd, Dexed, and Surge XT — covers enou
 
 Concrete next step: download OB-Xd, Dexed, and Surge XT today, build one track with each, and note which sound you keep reaching for. That single instrument tells you exactly which paid emulation to grab when the next sale lands.
 
-[→ Get u-he Diva (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins)
+[→ Get u-he Diva (via Plugin Boutique)](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins)
 
 ---
 

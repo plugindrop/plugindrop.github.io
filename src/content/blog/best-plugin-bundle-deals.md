@@ -155,7 +155,7 @@ Komplete 15 Select provides a curated portion of the full Komplete library — K
 - **Price:** ~$299–$599 (sale to retail range)
 - **Why upgrade:** Free and budget synths cannot replicate the physical modeling approach Arturia uses across V Collection. Developer documentation describes TAE (True Analog Emulation) technology as component-level hardware circuit simulation — not sample playback or basic waveshaping. V Collection 11 includes emulations of the Minimoog, Jupiter-8, Prophet-5, CS-80, DX7, and over 30 additional vintage instruments. The collection includes the Jup-8 V and CS-80 V.
 
-[→ Get Arturia V Collection 11 (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=best-plugin-bundle-deals)
+[→ Get Arturia V Collection 11 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=best-plugin-bundle-deals)
 
 ---
 
@@ -169,7 +169,7 @@ Komplete 15 Select provides a curated portion of the full Komplete library — K
 | NI Komplete 15 Select | $99–$149 | Instruments/Samples | 2,000+ sounds, Kontakt Player, Massive | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-plugin-bundle-deals) |
 | Waves Platinum Bundle | $1,999 list ($199 sale on Waves, 2026-10-01) | Mixing/Processing | Adds CLA comps, H-EQ, C6 over Gold | [Official Site](https://www.pluginboutique.com/search?q=Waves%20Platinum%20Bundle&a_aid=69cb95abe1763&chan=art&data1=best-plugin-bundle-deals) |
 | FabFilter Total Bundle | $1,069 | Premium Mixing | Pro-Q 4, Pro-C 3, Pro-L 2, Pro-R, Saturn 2 | [Official Site](https://www.pluginboutique.com/search?q=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763&chan=art&data1=best-plugin-bundle-deals) |
-| Arturia V Collection 11 | $299–$599 | Instruments | 30+ hardware emulations, TAE technology | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=best-plugin-bundle-deals) |
+| Arturia V Collection 11 | $299–$599 | Instruments | 30+ hardware emulations, TAE technology | [Official Site](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=best-plugin-bundle-deals) |
 
 ---
 

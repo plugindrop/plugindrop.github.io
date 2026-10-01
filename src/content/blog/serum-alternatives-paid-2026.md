@@ -81,7 +81,7 @@ The preset library shipped with Pigments covers ambient, cinematic, and contempo
 
 **Best for:** Producers who want a single synth covering wavetable, granular, and analog in one purchase, or who find Serum's mod routing opaque.
 
-[→ Get Pigments (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=serum-alternatives-paid-2026)
+[→ Get Pigments (via Plugin Boutique)](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=serum-alternatives-paid-2026)
 
 ---
 
@@ -130,7 +130,7 @@ At $119, Spire is the lowest-priced option in this comparison and the strongest 
 - **Price:** $199
 - **Why upgrade:** Serum's single-engine architecture means patches that require layered textures from different synthesis types need multiple plugin instances. Pigments handles in one patch what would otherwise require two or three Serum instances running simultaneously — a real argument on CPU-constrained systems, and a cleaner workflow regardless of hardware.
 
-[→ Get Pigments (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=serum-alternatives-paid-2026)
+[→ Get Pigments (via Plugin Boutique)](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=serum-alternatives-paid-2026)
 
 ---
 
@@ -211,7 +211,7 @@ A: It depends on genre: Spire's factory presets are most immediately deployable 
 
 Phase Plant is the strongest paid Serum alternative for producers who've hit the ceiling of fixed-architecture synthesis — its modular routing is a genuine capability upgrade, not a lateral substitution. Pigments is the better call when multi-engine versatility matters more than architectural freedom. Serum 2 holds the ecosystem advantage, but in 2026 that advantage only translates into a purchase recommendation if preset interoperability is an active workflow requirement rather than a theoretical comfort.
 
-[→ Get Phase Plant (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=serum-alternatives-paid-2026) | [→ Get Pigments (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=serum-alternatives-paid-2026) | [→ Get Spire](https://www.reveal-sound.com/store/product/Spire_Synthesizer_License)
+[→ Get Phase Plant (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=serum-alternatives-paid-2026) | [→ Get Pigments (via Plugin Boutique)](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=serum-alternatives-paid-2026) | [→ Get Spire](https://www.reveal-sound.com/store/product/Spire_Synthesizer_License)
 
 ---
 

@@ -123,7 +123,7 @@ Composers working in film and television report that Diva's Divine mode output o
 - **Price:** $499
 - **Why upgrade:** Diva covers analog subtractive synthesis at exceptional depth but is architecturally focused on one type of instrument. V Collection 11 includes over 30 instrument emulations spanning synthesizers, organs, keyboards, and string machines — making it the natural companion purchase for producers who need stylistic range that Diva's circuit-specific modeling cannot provide.
 
-[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=u-he-diva-review)
+[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=u-he-diva-review)
 
 ---
 

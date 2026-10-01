@@ -13,7 +13,7 @@ draft: true
 saleExpiry: "2026-09-16"
 saleExpirySource: "fallback"
 ---
-**TL;DR:** Black Box Analog Design's HG-2 saturation plugin is ~~$125~~ **$30** at Plugin Boutique right now, a 76% discount. That's one of the steeper cuts you'll see on a Black Box Analog Design title, so if HG-2 has been on your wishlist, this is worth a look. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/10203-Black-Box-Analog-Design-HG-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=black-box-analog-design-hg-2-faaf95&chan=art&data1=black-box-analog-design-hg-2-faaf95).
+**TL;DR:** Black Box Analog Design's HG-2 saturation plugin is ~~$125~~ **$30** at Plugin Boutique right now, a 76% discount. That's one of the steeper cuts you'll see on a Black Box Analog Design title, so if HG-2 has been on your wishlist, this is worth a look. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Black+Box+Analog+Design+HG+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=black-box-analog-design-hg-2-faaf95&chan=art&data1=black-box-analog-design-hg-2-faaf95).
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $125
@@ -51,7 +51,7 @@ Exact parameter names and controls should be confirmed on the official product p
 
 A 76% discount is a significant markdown for any plugin, and it's a steeper cut than the smaller sales you'll typically see on established plugins throughout the year.
 
-[See the current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/10203-Black-Box-Analog-Design-HG-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=black-box-analog-design-hg-2-faaf95&chan=art&data1=black-box-analog-design-hg-2-faaf95).
+[See the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=Black+Box+Analog+Design+HG+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=black-box-analog-design-hg-2-faaf95&chan=art&data1=black-box-analog-design-hg-2-faaf95).
 
 ## Alternatives at a Glance
 
@@ -81,7 +81,7 @@ A: Refund policies are set by the retailer. Check Plugin Boutique's official ref
 
 $95 off a $125 plugin is a steep discount by any measure. If HG-2 fits your saturation needs, now is a reasonable time to check it out.
 
-[Get Black Box Analog Design HG-2 at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/10203-Black-Box-Analog-Design-HG-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=black-box-analog-design-hg-2-faaf95&chan=art&data1=black-box-analog-design-hg-2-faaf95).
+[Get Black Box Analog Design HG-2 at Plugin Boutique](https://www.pluginboutique.com/search?q=Black+Box+Analog+Design+HG+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=black-box-analog-design-hg-2-faaf95&chan=art&data1=black-box-analog-design-hg-2-faaf95).
 
 ## Is This Deal Worth It?
 

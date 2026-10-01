@@ -84,7 +84,7 @@ Plugin Boutique often matches official sale prices and gives you Virtual Cash ba
 
 ## Free Alternatives If You Can't Wait
 
-- **[bx_console SSL 9000 J (Brainworx)](https://www.pluginboutique.com/product/2-effects/10-equalizer/8766-bx_console-SSL-9000-J?a_aid=69cb95abe1763&chan=art&data1=when-does-ssl-4000-bundle-go-on-sale)** — Even deeper discounts (90%+ off, ~$25–29 on sale) and frequently cited in community comparisons as a strong budget-tier console emulation, though it covers the later 9000 J circuit rather than the classic E/G 4000 series.
+- **[bx_console SSL 9000 J (Brainworx)](https://www.pluginboutique.com/search?q=bx_console+SSL+9000+J&a_aid=69cb95abe1763&chan=art&data1=when-does-ssl-4000-bundle-go-on-sale)** — Even deeper discounts (90%+ off, ~$25–29 on sale) and frequently cited in community comparisons as a strong budget-tier console emulation, though it covers the later 9000 J circuit rather than the classic E/G 4000 series.
 
 ## When to Buy: Wait or Buy Now?
 

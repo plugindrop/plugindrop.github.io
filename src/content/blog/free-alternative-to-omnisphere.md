@@ -147,7 +147,7 @@ ZynAddSubFX does not offer granular audio manipulation, sample import, or a mode
 - **Price:** $99
 - **Why upgrade:** Pigments 7 combines six synthesis types (Modal, Granular, Wavetable, Sample, Harmonic and Virtual Analog) in one instrument — covering the synthesis breadth that Omnisphere users rely on across multiple modes. The free alternatives each cover one or two engine types well. Pigments covers all of them.
 
-[→ Get Arturia Pigments 7 (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=free-alternative-to-omnisphere)
+[→ Get Arturia Pigments 7 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=free-alternative-to-omnisphere)
 
 ---
 
@@ -195,7 +195,7 @@ A: On macOS, AU is the native format and is generally preferred for stability wi
 
 For producers searching for a free alternative to Omnisphere VST in 2026, **Vital and Surge XT are the two instruments to download first** — both are fully functional at the free tier, actively maintained, and carry synthesis capabilities that justify professional use. If a $199 budget is available and you need multi-engine range in a single instrument, **Arturia Pigments 7 is a paid upgrade path** and a single-instrument option that matches to Omnisphere's synthesis breadth at that price point.
 
-[→ Download Vital Free](https://vital.audio/) | [→ Download Surge XT Free](https://surge-synthesizer.github.io/) | [→ Get Arturia Pigments 7 (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=free-alternative-to-omnisphere)
+[→ Download Vital Free](https://vital.audio/) | [→ Download Surge XT Free](https://surge-synthesizer.github.io/) | [→ Get Arturia Pigments 7 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=free-alternative-to-omnisphere)
 
 ---
 

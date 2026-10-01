@@ -145,7 +145,7 @@ The case for moving to a different synthesizer — rather than paying within Vit
 - **Price:** $199 ($99 on sale)
 - **Why upgrade:** Pigments combines six synthesis types (Modal, Granular, Wavetable, Sample, Harmonic and Virtual Analog) in a single instrument, with a modulation system and arpeggiator that Arturia has expanded across multiple major versions. Pigments combines sample, granular, and analog-style engines, which suits producers working in ambient, cinematic, or analog-influenced genres, while Vital focuses on spectral wavetable precision. Arturia's V Collection integration is an additional draw for producers already in the Arturia ecosystem.
 
-[→ Get Pigments (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=vital-synthesizer-review-2026)
+[→ Get Pigments (via Plugin Boutique)](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=vital-synthesizer-review-2026)
 
 ---
 

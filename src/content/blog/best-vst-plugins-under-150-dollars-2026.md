@@ -353,7 +353,7 @@ Komplete Start is NI's free tier of the Komplete bundle, including Kontakt Playe
 - **Price:** ~$99 (frequently on sale)
 - **Why upgrade:** Vital covers wavetable synthesis comprehensively at the free tier. Pigments adds six synthesis types (Modal, Granular, Wavetable, Sample, Harmonic and Virtual Analog) in one instrument. Arturia's developer documentation confirms Pigments supports up to five simultaneous modulation paths per target — a depth that positions it as the documented next step for producers who have reached the ceiling on Vital's sound design complexity.
 
-[→ Get Arturia Pigments (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/66-Synth/7120-Pigments?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026)
+[→ Get Arturia Pigments (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Pigments&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026)
 
 ---
 

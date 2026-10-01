@@ -54,7 +54,7 @@ At a fixed $499, this becomes a "do you need it now" decision rather than a "whe
 - **Use Plugin Boutique's Virtual Cash** — typically around 5% back on the purchase — as the only real way to soften the cost. It's not a discount, but it's the closest thing available.
 - **Wait only if** you're not actively blocked without it — in that case, explore the free/budget alternatives below while you decide.
 
-**[Buy Omnisphere 2 on Plugin Boutique →](https://www.pluginboutique.com/product/1-Instruments/70-Synthesiser/1171-Omnisphere-2-Boxed?a_aid=69cb95abe1763&chan=art&data1=does-omnisphere-ever-go-on-sale)**
+**[Buy Omnisphere 2 on Plugin Boutique →](https://www.pluginboutique.com/search?q=Omnisphere+2+Boxed&a_aid=69cb95abe1763&chan=art&data1=does-omnisphere-ever-go-on-sale)**
 
 ## Quick Picks: Omnisphere vs. Alternatives
 
@@ -70,7 +70,7 @@ At a fixed $499, this becomes a "do you need it now" decision rather than a "whe
 If the fixed $499 price tag is the blocker rather than the feature set, these are worth evaluating while Omnisphere sits at full price:
 
 - **[Phase Plant](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=does-omnisphere-ever-go-on-sale)** — Regularly drops to around $99 during Kilohearts' 2–3 sales per year, offering deep modular-style sound design at less than a quarter of Omnisphere's price. See our [when does Phase Plant go on sale](/posts/when-does-phase-plant-go-on-sale) breakdown for timing patterns.
-- **[Arturia V Collection](https://www.pluginboutique.com/product/81-bundles/37-studio-tool-bundles/3656-V-Collection?a_aid=69cb95abe1763&chan=art&data1=does-omnisphere-ever-go-on-sale)** — Drops to roughly $299 several times a year and bundles 40+ vintage synth and keys emulations, making it a strong complement (not a direct replacement) if you want classic analog character alongside modern sound design. Check [when does Arturia V Collection go on sale](/posts/when-does-arturia-v-collection-go-on-sale) for the next window.
+- **[Arturia V Collection](https://www.pluginboutique.com/search?q=V+Collection&a_aid=69cb95abe1763&chan=art&data1=does-omnisphere-ever-go-on-sale)** — Drops to roughly $299 several times a year and bundles 40+ vintage synth and keys emulations, making it a strong complement (not a direct replacement) if you want classic analog character alongside modern sound design. Check [when does Arturia V Collection go on sale](/posts/when-does-arturia-v-collection-go-on-sale) for the next window.
 - **[Vital](https://vital.audio)** — A free wavetable synth with a genuinely capable modulation system; the paid Pro tier unlocks extra wavetables and effects but the free version alone covers a lot of sound design ground while you save toward Omnisphere.
 
 None of these fully replicate Omnisphere's 60GB+ stock library or its specific granular/hardware-synth-modeling engine, but they're reasonable ways to keep working without paying full price immediately.
