@@ -74,10 +74,12 @@
   "best-ambient-music-plugins": {
     "category": "Reverb",
     "confidence": "explicit",
-    "kind": "guide",
+    "kind": "list",
     "products": [
       "FabFilter Pro-R 2",
-      "Valhalla VintageVerb"
+      "Output Portal",
+      "Valhalla VintageVerb",
+      "Vital"
     ]
   },
   "best-arpeggiator-vst-plugins": {
@@ -131,16 +133,22 @@
     ]
   },
   "best-compressor-plugins-drums": {
-    "category": "Drums",
-    "confidence": "exact",
-    "kind": "guide",
-    "products": []
+    "category": "Compressor",
+    "confidence": "explicit",
+    "kind": "list",
+    "products": [
+      "FabFilter Pro-C 3",
+      "Klanghelm MJUC",
+      "Native Instruments Supercharger GT",
+      "Waves CLA-76"
+    ]
   },
   "best-creative-fx-plugins": {
-    "category": "Bundle",
+    "category": "Effects",
     "confidence": "pb_id",
-    "kind": "guide",
+    "kind": "list",
     "products": [
+      "Kilohearts Snap Heap",
       "Output Portal",
       "Soundtoys 5.5"
     ]
@@ -148,23 +156,28 @@
   "best-delay-vst-plugins-2026": {
     "category": "Delay",
     "confidence": "explicit",
-    "kind": "guide",
+    "kind": "list",
     "products": [
       "FabFilter Timeless 3",
       "Kilohearts Phase Plant",
       "Soundtoys EchoBoy",
+      "Valhalla Delay",
       "Valhalla Room",
-      "Waves H-Delay"
+      "Waves H-Delay",
+      "u-he Colour Copy"
     ]
   },
   "best-distortion-vst-plugins": {
     "category": "Saturation",
     "confidence": "pb_id",
-    "kind": "guide",
+    "kind": "list",
     "products": [
       "Black Box Analog Design HG-2",
       "FabFilter Saturn 2",
-      "Soundtoys 5.5"
+      "Klanghelm SDRR",
+      "Soundtoys 5.5",
+      "Soundtoys Decapitator",
+      "Soundtoys Devil-Loc Deluxe"
     ]
   },
   "best-eq-plugins-2026": {
@@ -420,8 +433,8 @@
   },
   "best-glitch-effect-plugins": {
     "category": "Effects",
-    "confidence": "exact",
-    "kind": "guide",
+    "confidence": "table",
+    "kind": "list",
     "products": [
       "Cableguys ShaperBox 3",
       "Output Portal",
@@ -431,15 +444,16 @@
   "best-guitar-amp-sim-plugins": {
     "category": "Effects",
     "confidence": "pb_id",
-    "kind": "guide",
+    "kind": "list",
     "products": [
-      "AmpliTube 5 MAX v2"
+      "AmpliTube 5 MAX v2",
+      "Native Instruments Guitar Rig 7 Pro"
     ]
   },
   "best-kontakt-libraries-2026": {
     "category": "Drums",
-    "confidence": "exact",
-    "kind": "guide",
+    "confidence": "table",
+    "kind": "list",
     "products": [
       "Heavyocity Damage 2",
       "Spitfire Albion ONE"
@@ -454,8 +468,9 @@
   "best-limiter-plugins-mastering": {
     "category": "Limiter",
     "confidence": "explicit",
-    "kind": "guide",
+    "kind": "list",
     "products": [
+      "DMG Audio Limitless",
       "FabFilter Pro-L 2",
       "iZotope Ozone 12 Advanced"
     ]
@@ -471,11 +486,13 @@
   "best-mixing-plugins-2026": {
     "category": "Bundle",
     "confidence": "explicit",
-    "kind": "guide",
+    "kind": "list",
     "products": [
+      "FabFilter Pro-C 3",
       "FabFilter Pro-L 2",
       "FabFilter Pro-Q 4",
       "Soundtoys 5.5",
+      "Soundtoys Decapitator",
       "iZotope Neutron 5",
       "iZotope Ozone 12 Advanced"
     ]
@@ -483,7 +500,7 @@
   "best-multiband-compressor-plugins": {
     "category": "Compressor",
     "confidence": "pb_id",
-    "kind": "guide",
+    "kind": "list",
     "products": [
       "FabFilter Pro-MB",
       "iZotope Ozone 12 Advanced"
@@ -500,9 +517,10 @@
   "best-piano-vst-plugins": {
     "category": "Instrument",
     "confidence": "pb_id",
-    "kind": "guide",
+    "kind": "list",
     "products": [
-      "Arturia Piano V3"
+      "Arturia Piano V3",
+      "Spectrasonics Keyscape"
     ]
   },
   "best-plugin-boutique-black-friday-deals-2026": {
@@ -524,96 +542,124 @@
     ]
   },
   "best-plugins-for-film-scoring": {
-    "category": "EQ",
+    "category": "Reverb",
     "confidence": "pb_id",
-    "kind": "guide",
+    "kind": "list",
     "products": [
-      "FabFilter Pro-Q 4"
+      "FabFilter Pro-Q 4",
+      "Valhalla Room",
+      "Valhalla VintageVerb"
     ]
   },
   "best-plugins-for-house-music": {
-    "category": "Delay",
+    "category": "Synth",
     "confidence": "pb_id",
-    "kind": "guide",
+    "kind": "list",
     "products": [
       "FabFilter Pro-Q 4",
+      "LennarDigital Sylenth1",
       "Native Instruments Massive X",
-      "Soundtoys EchoBoy"
+      "Soundtoys EchoBoy",
+      "Valhalla VintageVerb"
     ]
   },
   "best-plugins-for-lofi-beats": {
     "category": null,
     "confidence": "exact",
-    "kind": "guide",
+    "kind": "list",
     "products": []
   },
   "best-plugins-for-lofi-production": {
     "category": "Effects",
     "confidence": "pb_id",
-    "kind": "guide",
+    "kind": "list",
     "products": [
+      "Vital",
       "XLN Audio RC-20 Retro Color"
     ]
   },
   "best-plugins-for-mixing-vocals": {
-    "category": "Bundle",
+    "category": "Vocal",
     "confidence": "pb_id",
-    "kind": "guide",
+    "kind": "list",
     "products": [
+      "FabFilter Pro-DS",
       "FabFilter Pro-L 2",
       "FabFilter Pro-Q 4",
-      "Soundtoys 5.5"
+      "Soundtoys 5.5",
+      "Soundtoys Decapitator",
+      "Soundtoys EchoBoy",
+      "Waves CLA-2A",
+      "Waves Tune Real-Time",
+      "Waves Vocal Rider"
     ]
   },
   "best-plugins-for-techno-production": {
-    "category": "EQ",
+    "category": "Reverb",
     "confidence": "pb_id",
-    "kind": "guide",
+    "kind": "list",
     "products": [
+      "Arturia Pigments",
+      "FabFilter Pro-C 3",
       "FabFilter Pro-Q 4",
-      "Soundtoys Decapitator"
+      "Soundtoys Decapitator",
+      "Valhalla Room",
+      "Valhalla VintageVerb",
+      "u-he Diva"
     ]
   },
   "best-plugins-garageband": {
-    "category": "EQ",
+    "category": "Synth",
     "confidence": "explicit",
-    "kind": "guide",
+    "kind": "list",
     "products": [
       "FabFilter Pro-Q 4",
       "Serum 2",
-      "Valhalla VintageVerb"
+      "Valhalla VintageVerb",
+      "Vital"
     ]
   },
   "best-plugins-logic-pro": {
     "category": "Bundle",
     "confidence": "explicit",
-    "kind": "guide",
+    "kind": "list",
     "products": [
+      "FabFilter Pro-C 3",
       "FabFilter Pro-Q 4",
       "FabFilter Total Bundle",
       "Soundtoys 5.5",
-      "Valhalla VintageVerb"
+      "Soundtoys Decapitator",
+      "Soundtoys EchoBoy",
+      "Valhalla VintageVerb",
+      "Vital",
+      "iZotope Music Production Suite",
+      "iZotope Neutron 5",
+      "oeksound Soothe2",
+      "u-he Diva"
     ]
   },
   "best-plugins-reaper": {
     "category": "Bundle",
     "confidence": "explicit",
-    "kind": "guide",
+    "kind": "list",
     "products": [
       "FabFilter Pro-Q 4",
       "FabFilter Total Bundle",
-      "Valhalla VintageVerb"
+      "Valhalla VintageVerb",
+      "Vital"
     ]
   },
   "best-plugins-studio-one": {
     "category": "Bundle",
     "confidence": "explicit",
-    "kind": "guide",
+    "kind": "list",
     "products": [
       "FabFilter Pro-Q 4",
       "FabFilter Total Bundle",
+      "Kilohearts Snap Heap",
       "Soundtoys 5.5",
       "Valhalla VintageVerb",
+      "iZotope Neutron 5",
       "iZotope Ozone 12 Advanced"
     ]
   },
@@ -629,45 +675,54 @@
   "best-reverb-plugins-music-production": {
     "category": "Reverb",
     "confidence": "explicit",
-    "kind": "guide",
+    "kind": "list",
     "products": [
       "Eventide Blackhole",
       "FabFilter Pro-R 2",
+      "Native Instruments Raum",
       "Valhalla VintageVerb"
     ]
   },
   "best-saturation-plugins-2026": {
-    "category": "Bundle",
+    "category": "Saturation",
     "confidence": "pb_id",
-    "kind": "guide",
+    "kind": "list",
     "products": [
       "FabFilter Saturn 2",
+      "Klanghelm SDRR",
+      "Softube Tape",
       "Soundtoys 5.5",
+      "Soundtoys Decapitator",
       "XLN Audio RC-20 Retro Color"
     ]
   },
   "best-stereo-widener-plugins": {
     "category": "Effects",
     "confidence": "pb_id",
-    "kind": "guide",
+    "kind": "list",
     "products": [
       "Eventide MicroPitch",
       "Soundtoys MicroShift",
+      "Waves Platinum Bundle",
       "iZotope Ozone 12 Advanced"
     ]
   },
   "best-strings-vst-plugins": {
     "category": null,
     "confidence": "exact",
-    "kind": "guide",
+    "kind": "list",
     "products": []
   },
   "best-synth-vst-plugins-2026": {
     "category": "Synth",
     "confidence": "pb_id",
-    "kind": "guide",
+    "kind": "list",
     "products": [
       "Kilohearts Phase Plant",
+      "Native Instruments Massive X",
+      "Reveal Sound Spire",
+      "Vital",
+      "u-he Diva",
       "u-he Hive 2",
       "u-he Zebra 3"
     ]
@@ -675,11 +730,14 @@
   "best-tape-saturation-plugins": {
     "category": "Saturation",
     "confidence": "explicit",
-    "kind": "guide",
+    "kind": "list",
     "products": [
+      "Klanghelm SDRR",
       "Slate Digital VTM",
       "Softube Tape",
       "Soundtoys 5.5",
+      "Soundtoys Decapitator",
+      "UAD Studer A800",
       "Waves Kramer Master Tape",
       "XLN Audio RC-20 Retro Color"
     ]
@@ -693,25 +751,35 @@
   "best-trap-vst-plugins": {
     "category": "Synth",
     "confidence": "explicit",
-    "kind": "guide",
+    "kind": "list",
     "products": [
-      "Serum 2"
+      "Native Instruments Battery 4",
+      "Native Instruments Massive X",
+      "Reveal Sound Spire",
+      "Serum 2",
+      "Vital",
+      "Xfer LFO Tool"
     ]
   },
   "best-vintage-eq-plugins": {
-    "category": "Bundle",
+    "category": "EQ",
     "confidence": "explicit",
-    "kind": "guide",
+    "kind": "list",
     "products": [
       "FabFilter Pro-Q 4",
-      "FabFilter Total Bundle"
+      "FabFilter Total Bundle",
+      "Waves SSL E-Channel"
     ]
   },
   "best-vintage-synth-vst-plugins": {
     "category": "Synth",
     "confidence": "pb_id",
-    "kind": "guide",
+    "kind": "list",
     "products": [
+      "Arturia Jup-8 V",
+      "Arturia Prophet-5 V",
+      "Cherry Audio Memorymode",
+      "u-he Diva",
       "u-he Repro"
     ]
   },
@@ -733,10 +801,13 @@
     ]
   },
   "best-vst-plugins-edm-production": {
-    "category": null,
-    "confidence": "exact",
-    "kind": "guide",
-    "products": []
+    "category": "Synth",
+    "confidence": "table",
+    "kind": "list",
+    "products": [
+      "Native Instruments Massive X",
+      "Vital"
+    ]
   },
   "best-vst-plugins-for-beginners": {
     "category": "EQ",
@@ -754,21 +825,24 @@
     "products": []
   },
   "best-vst-plugins-for-metal-mixing": {
-    "category": "EQ",
+    "category": "Compressor",
     "confidence": "pb_id",
-    "kind": "guide",
+    "kind": "list",
     "products": [
+      "FabFilter Pro-C 3",
       "FabFilter Pro-L 2",
       "FabFilter Pro-Q 4",
+      "Waves CLA-76",
       "iZotope Ozone 12 Advanced"
     ]
   },
   "best-vst-plugins-hip-hop": {
     "category": "Drums",
-    "confidence": "exact",
-    "kind": "guide",
+    "confidence": "table",
+    "kind": "list",
     "products": [
-      "Native Instruments Battery 4"
+      "Native Instruments Battery 4",
+      "Vital"
     ]
   },
   "best-vst-plugins-under-100-dollars": {
@@ -782,34 +856,46 @@
     ]
   },
   "best-vst-plugins-under-150-dollars-2026": {
-    "category": "Reverb",
+    "category": "Synth",
     "confidence": "explicit",
-    "kind": "guide",
+    "kind": "list",
     "products": [
+      "Arturia Pigments",
+      "Baby Audio Comeback Kid",
+      "Baby Audio Super VHS",
       "FabFilter Pro-Q 4",
       "Kilohearts Phase Plant",
       "Soundtoys 5.5",
+      "Valhalla Delay",
       "Valhalla Room",
-      "Valhalla VintageVerb"
+      "Valhalla VintageVerb",
+      "Vital",
+      "Wavesfactory Trackspacer"
     ]
   },
   "best-vst-plugins-under-200": {
     "category": "Reverb",
     "confidence": "explicit",
-    "kind": "guide",
+    "kind": "list",
     "products": [
+      "FabFilter Pro-C 3",
       "FabFilter Pro-Q 4",
       "Serum 2",
       "Soundtoys 5.5",
+      "Soundtoys Decapitator",
       "Valhalla Room",
-      "Valhalla VintageVerb"
+      "Valhalla VintageVerb",
+      "Vital",
+      "iZotope Neutron 5"
     ]
   },
   "best-vst-plugins-under-50-dollars": {
-    "category": "Reverb",
+    "category": "Delay",
     "confidence": "explicit",
-    "kind": "guide",
+    "kind": "list",
     "products": [
+      "Klanghelm SDRR",
+      "Valhalla Delay",
       "Valhalla Room"
     ]
   },
