@@ -461,10 +461,12 @@
     ]
   },
   "best-mastering-plugins-2026": {
-    "category": "Mastering",
-    "confidence": "exact",
+    "category": "Limiter",
+    "confidence": "table",
     "kind": "list",
-    "products": []
+    "products": [
+      "FabFilter Pro-L 2"
+    ]
   },
   "best-mixing-plugins-2026": {
     "category": "Bundle",

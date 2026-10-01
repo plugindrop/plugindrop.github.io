@@ -76,5 +76,14 @@
   "kontakt-vs-decent-sampler": [
     "vp-decent-samples-decent-sampler",
     "vp-native-instruments-kontakt-player"
+  ],
+  "best-mastering-plugins-2026": [
+    "vp-tokyo-dawn-labs-tdr-nova",
+    "vp-tokyo-dawn-labs-tdr-kotelnikov"
+  ],
+  "best-free-woodwind-vst-plugins": [
+    "vp-spitfire-audio-bbc-symphony-orchestra-discover",
+    "vp-virtual-playing-orchestra",
+    "vp-spitfire-audio-bbc-symphony-orchestra-core"
   ]
 }
