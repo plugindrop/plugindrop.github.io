@@ -14,7 +14,7 @@ priceTrack:
 ---
 **TL;DR:** TDR Nova is the strongest free alternative to FabFilter Pro-Q 4 for producers who need dynamic EQ without the $179 price tag — its per-band dynamic processing is the closest the free tier gets to Pro-Q 4's core functionality. For pure parametric EQ tasks, MEqualizer is a feature-rich free parametric EQ, and Voxengo Marvel GEQ fills the linear phase mastering gap. LP10 from DDMF is a paid linear-phase EQ with a demo, listed for comparison.
 
-*How this guide was made: it is compiled from vendor pages and public information, not from our own hands-on testing.*
+*How this guide was made: it is compiled from vendor pages and public information, and is not based on first-hand use of the plugins.*
 
 ## Quick Picks at a Glance
 
