@@ -1064,5 +1064,423 @@
     "library_size": null,
     "requires_player": null,
     "plans": null
+  },
+  "vp-matt-tytel-helm": {
+    "price": {
+      "value": 100.0,
+      "source_url": "https://tytel.org/helm/",
+      "quote": "Matt Tytel FAQ MANUAL UNITY ASSET Helm Steer your sound Download Helm View all downloads $100 $50 $25 $10 Remind Me Run Anywhere Helm runs in GNU/Linux, Mac OSX and Windows. Run Helm",
+      "source_kind": "vendor",
+      "display": "$100",
+      "fetched_at": "2026-10-01"
+    },
+    "is_free": {
+      "value": true,
+      "source_url": "https://tytel.org/helm/",
+      "quote": "3 or AU plugin. Comes in both 32-bit and 64-bit versions Helm is Free Software This means you are free to run Helm anywhere without th",
+      "source_kind": "vendor",
+      "display": "Free",
+      "fetched_at": "2026-10-01"
+    },
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-thewavewarden-odin-2": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://thewavewarden.com/pages/odin-2",
+      "quote": "Odin 2 Free Synthesizer – thewavewarden Skip to content Odin 2 Synthesizer S",
+      "source_kind": "vendor",
+      "display": "Free",
+      "fetched_at": "2026-10-01"
+    },
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-discodsp-ob-xd": {
+    "price": null,
+    "is_free": null,
+    "formats": {
+      "value": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "source_url": "https://www.discodsp.com/obxd/",
+      "quote": "equired. ProTools AAX. Apple Audio Unit. Steinberg VST. Steinberg VST3. LV2. System Requirements Windows 10+. Intel Intel processors with AVX2 support: Core i3/i5/i7/i9: Haswell (2013) and newer Xeon: Haswell-E (2014",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "macos_min": null,
+    "windows_min": {
+      "value": "Windows 10",
+      "source_url": "https://www.discodsp.com/obxd/",
+      "quote": "equired. ProTools AAX. Apple Audio Unit. Steinberg VST. Steinberg VST3. LV2. System Requirements Windows 10+. Intel Intel processors with AVX2 support: Core i3/i5/i7/i9: Haswell (2013) and newer Xeon: Haswell-E (2014",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-meldaproduction-mflanger": {
+    "price": null,
+    "is_free": null,
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-yohng-w1-limiter": {
+    "price": null,
+    "is_free": null,
+    "formats": null,
+    "macos_min": {
+      "value": "macOS 2013",
+      "source_url": "https://www.yohng.com/software/w1limit.html",
+      "quote": "links: 2013 version of W1 Limiter for macOS 2013 version of W1 Limiter for Windows A comparison to the Waves L1 limiter was made on this page: http://redfaux.typepad.com/the_redfaux_transmission/...-clo",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "windows_min": {
+      "value": "Windows 7",
+      "source_url": "https://www.yohng.com/software/w1limit.html",
+      "quote": "Front R-Piano 4Front Headphones Foobar2000 VST Wrapper iMac Sound Quality Driver for Windows 7 Lenovo ThinkPad Speaker Quality Driver Yadif Deinterlace for Sony Vegas CUE/WAV Extract Utility Wacom Monitor Switche",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-impulse-record-convology-xt": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://impulserecord.com/convology-xt/",
+      "quote": "ices About Us Contact Us Privacy Select Page Convology XT Plugin Free Factory Plugin – Includes 74 Vintage Reverb Impulse Response Fil",
+      "source_kind": "vendor",
+      "display": "Free",
+      "fetched_at": "2026-10-01"
+    },
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": {
+      "value": "iLok",
+      "source_url": "https://impulserecord.com/convology-xt/",
+      "quote": "pling of files contained in the Convology XT Library! There are no time limitations, iLok or frustrating unlocking hoops to jump through. Simply fill in the information on the licensing page and that’s all the",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-softube-saturation-knob": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://www.softube.com/plug-ins/saturation-knob",
+      "quote": "Saturation Knob - Free Saturation Plugin - Softube This week: Save 63% on Clipper. Shop",
+      "source_kind": "vendor",
+      "display": "Free",
+      "fetched_at": "2026-10-01"
+    },
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": {
+      "value": "iLok",
+      "source_url": "https://www.softube.com/plug-ins/saturation-knob",
+      "quote": "1 Softube account iLok account Computer with AU, VST, VST3 and/or AAX compatible DAW host software Internet access (for downloading installers",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "trial": {
+      "value": "20-day trial",
+      "source_url": "https://www.softube.com/plug-ins/saturation-knob",
+      "quote": "aturation Knob Add some analog distortion to your tracks. Free 14-day returns 20-day trial Tech support Three activations System Requirements macOS Sonoma 14, Sequoia 15, Tahoe 26 Windows 10 (64-bit), Windows 1",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-valhalla-dsp-valhalla-super-massive": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://valhalladsp.com/shop/reverb/valhalla-supermassive/",
+      "quote": "what people are saying “Valhalla Supermassive could be the best free reverb/delay plugin you download this year” Read More cdm “I rea",
+      "source_kind": "vendor",
+      "display": "free",
+      "fetched_at": "2026-10-01"
+    },
+    "formats": {
+      "value": [
+        "VST2",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "source_url": "https://valhalladsp.com/shop/reverb/valhalla-supermassive/",
+      "quote": "Sur, Monterey, Ventura, Sonoma, Sequoia, Tahoe Mac processors: Intel/M1/M2/M3/M4/M5 Plugin Formats: 64-bit VST2.4/VST3/AAX/AU the new standard the new standard the new standard the new standard the new standard the new",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "macos_min": {
+      "value": "macOS 10.12",
+      "source_url": "https://valhalladsp.com/shop/reverb/valhalla-supermassive/",
+      "quote": "5.0.0 Update: Sirius! If you have questions, please head to Support. Compatibility: Windows: Windows 7/8/10/11 (64-bit Windows only) Plugin formats: 64-bit VST2.4/VST3/AAX Mac: OSX 10.9/10.10/10.11, macOS 10.12/",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "windows_min": {
+      "value": "Windows 7",
+      "source_url": "https://valhalladsp.com/shop/reverb/valhalla-supermassive/",
+      "quote": "5.0.0 Update: Sirius! If you have questions, please head to Support. Compatibility: Windows: Windows 7/8/10/11 (64-bit Windows only) Plugin formats: 64-bit VST2.4/VST3/AAX Mac: OSX 10.9/10.10/10.11, macOS 10.12/",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-valhalla-dsp-valhalla-space-modulator": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://valhalladsp.com/shop/modulation/valhalla-space-modulator/",
+      "quote": "Valhalla Space Modulator Best for INFINITE FLANGING AND DOUBLING Free! Go to Downloads Earth Shattering Kaboom. ValhallaSpaceModulator",
+      "source_kind": "vendor",
+      "display": "Free",
+      "fetched_at": "2026-10-01"
+    },
+    "formats": {
+      "value": [
+        "VST2",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "source_url": "https://valhalladsp.com/shop/modulation/valhalla-space-modulator/",
+      "quote": "Sur, Monterey, Ventura, Sonoma, Sequoia, Tahoe Mac processors: Intel/M1/M2/M3/M4/M5 Plugin Formats: 64-bit VST2.4/VST3/AAX/AU the new standard the new standard the new standard the new standard the new standard the new",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "macos_min": {
+      "value": "macOS 10.12",
+      "source_url": "https://valhalladsp.com/shop/modulation/valhalla-space-modulator/",
+      "quote": "ft of the plugin. If you have questions, please head to Support. Compatibility: Windows: Windows 7/8/10/11 Plugin formats: 64-bit VST2.4/VST3/AAX Mac: OSX 10.9/10.10/10.11, macOS 10.12/10.13/10.14/10.15, Big",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "windows_min": {
+      "value": "Windows 7",
+      "source_url": "https://valhalladsp.com/shop/modulation/valhalla-space-modulator/",
+      "quote": "ft of the plugin. If you have questions, please head to Support. Compatibility: Windows: Windows 7/8/10/11 Plugin formats: 64-bit VST2.4/VST3/AAX Mac: OSX 10.9/10.10/10.11, macOS 10.12/10.13/10.14/10.15, Big",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-valhalla-dsp-valhalla-freq-echo": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://valhalladsp.com/shop/delay/valhalla-freq-echo/",
+      "quote": "deo. Valhalla Freq Echo Best for Psychedelic skull-melting chaos Free! Go to Downloads Not necessarily stoned, but beautiful. Freq Ech",
+      "source_kind": "vendor",
+      "display": "Free",
+      "fetched_at": "2026-10-01"
+    },
+    "formats": {
+      "value": [
+        "VST2",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "source_url": "https://valhalladsp.com/shop/delay/valhalla-freq-echo/",
+      "quote": "Sur, Monterey, Ventura, Sonoma, Sequoia, Tahoe Mac processors: Intel/M1/M2/M3/M4/m5 Plugin Formats: 64-bit VST2.4/VST3/AAX/AU the new standard the new standard the new standard the new standard the new standard the new",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "macos_min": {
+      "value": "macOS 10.12",
+      "source_url": "https://valhalladsp.com/shop/delay/valhalla-freq-echo/",
+      "quote": "es!) Frequency Shifter If you have questions, please head to Support. Compatibility: Windows: Windows 7/8/10/11 Plugin formats: 64-bit VST2.4/VST3/AAX Mac: OSX 10.9/10.10/10.11, macOS 10.12/10.13/10.14/10.15, Big",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "windows_min": {
+      "value": "Windows 7",
+      "source_url": "https://valhalladsp.com/shop/delay/valhalla-freq-echo/",
+      "quote": "es!) Frequency Shifter If you have questions, please head to Support. Compatibility: Windows: Windows 7/8/10/11 Plugin formats: 64-bit VST2.4/VST3/AAX Mac: OSX 10.9/10.10/10.11, macOS 10.12/10.13/10.14/10.15, Big",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-u-he-zebralette": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://u-he.com/products/zebralette/",
+      "quote": "sy spectral synth Zebralette is our version of a Trojan horse. A free synthesizer and an introduction to Zebra2’s fantastic oscillator",
+      "source_kind": "vendor",
+      "display": "free",
+      "fetched_at": "2026-10-01"
+    },
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-auburn-sounds-graillon": {
+    "price": {
+      "value": 29.0,
+      "source_url": "https://www.auburnsounds.com/products/Graillon.html",
+      "quote": "X / AU / LV2 plug-in for Windows, macOS, and Linux.  Free Edition  Buy Full Edition for $29 $38.67 Discover Graillon GRAILLON 3 is an enhanced pitch correction tool. It elevates you",
+      "source_kind": "vendor",
+      "display": "$29",
+      "fetched_at": "2026-10-01"
+    },
+    "is_free": {
+      "value": true,
+      "source_url": "https://www.auburnsounds.com/products/Graillon.html",
+      "quote": "ad VST / AAX / AU / LV2 plug-in for Windows, macOS, and Linux.  Free Edition  Buy Full Edition for $29 $38.67 Discover Graillon GRAI",
+      "source_kind": "vendor",
+      "display": "Free",
+      "fetched_at": "2026-10-01"
+    },
+    "formats": {
+      "value": [
+        "VST"
+      ],
+      "source_url": "https://www.auburnsounds.com/products/Graillon.html",
+      "quote": "ials in one minute.  Graillon User's Guide What's new in Graillon.  Download older versions.  I have a problem with Graillon...  Reviews “ Graillon Free Edition is the best free pitch correction VST plugin on",
+      "source_kind": "vendor",
+      "fetched_at": "2026-10-01"
+    },
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-youlean-youlean-loudness-meter": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://youlean.co/youlean-loudness-meter/",
+      "quote": "Youlean Loudness Meter - Free VST, AU and AAX plugin Home Products Youlean Loudness Meter Youl",
+      "source_kind": "vendor",
+      "display": "Free",
+      "fetched_at": "2026-10-01"
+    },
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-surge-synth-team-surge-xt": {
+    "price": null,
+    "is_free": null,
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
   }
 }

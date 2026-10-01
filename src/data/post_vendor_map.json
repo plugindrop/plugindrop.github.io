@@ -86,17 +86,25 @@
     "vp-virtual-playing-orchestra",
     "vp-spitfire-audio-bbc-symphony-orchestra-core"
   ],
-  "best-free-bass-synth-vst": [],
+  "best-free-bass-synth-vst": [
+    "vp-u-he-zebralette",
+    "vp-thewavewarden-odin-2"
+  ],
   "best-free-choir-vst-plugins": [
     "vp-spitfire-audio-bbc-symphony-orchestra-discover",
     "vp-virtual-playing-orchestra"
   ],
-  "best-free-chorus-flanger-vst": [],
+  "best-free-chorus-flanger-vst": [
+    "vp-valhalla-dsp-valhalla-super-massive"
+  ],
   "best-free-compressor-vst-plugins": [
     "vp-tokyo-dawn-labs-tdr-kotelnikov"
   ],
   "best-free-daw-software-2026": [],
-  "best-free-delay-vst-plugins": [],
+  "best-free-delay-vst-plugins": [
+    "vp-valhalla-dsp-valhalla-super-massive",
+    "vp-valhalla-dsp-valhalla-space-modulator"
+  ],
   "best-free-drum-machine-vst": [
     "vp-steven-slate-drums-free"
   ],
@@ -107,13 +115,16 @@
   "best-free-guitar-amp-vst": [
     "vp-voxengo-boogex"
   ],
-  "best-free-limiter-vst": [],
+  "best-free-limiter-vst": [
+    "vp-youlean-youlean-loudness-meter"
+  ],
   "best-free-lofi-sample-packs": [],
   "best-free-mastering-plugins": [
     "vp-tokyo-dawn-labs-tdr-nova",
     "vp-tokyo-dawn-labs-tdr-kotelnikov",
     "vp-voxengo-marvel-geq",
-    "vp-voxengo-span"
+    "vp-voxengo-span",
+    "vp-youlean-youlean-loudness-meter"
   ],
   "best-free-multiband-compressor-vst": [
     "vp-tokyo-dawn-labs-tdr-nova"
@@ -121,41 +132,63 @@
   "best-free-piano-vst": [],
   "best-free-plugins-ableton": [
     "vp-tokyo-dawn-labs-tdr-nova",
-    "vp-voxengo-span"
+    "vp-voxengo-span",
+    "vp-valhalla-dsp-valhalla-super-massive"
   ],
   "best-free-plugins-fl-studio": [
     "vp-tokyo-dawn-labs-tdr-nova",
     "vp-tokyo-dawn-labs-tdr-kotelnikov",
-    "vp-voxengo-span"
+    "vp-voxengo-span",
+    "vp-valhalla-dsp-valhalla-super-massive"
   ],
   "best-free-plugins-hip-hop": [
     "vp-tokyo-dawn-labs-tdr-nova",
-    "vp-native-instruments-kontakt-player"
+    "vp-native-instruments-kontakt-player",
+    "vp-valhalla-dsp-valhalla-super-massive"
   ],
-  "best-free-reverb-vst-plugins": [],
+  "best-free-reverb-vst-plugins": [
+    "vp-valhalla-dsp-valhalla-super-massive",
+    "vp-impulse-record-convology-xt"
+  ],
   "best-free-sample-packs-2026": [],
-  "best-free-saturation-vst-plugins": [],
+  "best-free-saturation-vst-plugins": [
+    "vp-softube-saturation-knob"
+  ],
   "best-free-strings-vst-plugins": [
     "vp-spitfire-audio-bbc-symphony-orchestra-discover",
     "vp-virtual-playing-orchestra",
     "vp-decent-samples-decent-sampler"
   ],
-  "best-free-synth-plugins": [],
-  "best-free-tape-saturation-vst": [],
+  "best-free-synth-plugins": [
+    "vp-u-he-zebralette",
+    "vp-thewavewarden-odin-2"
+  ],
+  "best-free-tape-saturation-vst": [
+    "vp-softube-saturation-knob"
+  ],
   "best-free-vocal-vst-plugins": [
-    "vp-tokyo-dawn-labs-tdr-nova"
+    "vp-tokyo-dawn-labs-tdr-nova",
+    "vp-valhalla-dsp-valhalla-super-massive"
   ],
   "best-free-vst-plugins-beginners": [
     "vp-tokyo-dawn-labs-tdr-nova",
     "vp-tokyo-dawn-labs-tdr-kotelnikov",
     "vp-voxengo-span",
-    "vp-decent-samples-decent-sampler"
+    "vp-decent-samples-decent-sampler",
+    "vp-valhalla-dsp-valhalla-super-massive",
+    "vp-valhalla-dsp-valhalla-freq-echo",
+    "vp-softube-saturation-knob"
   ],
-  "best-free-wavetable-synth-vst": [],
+  "best-free-wavetable-synth-vst": [
+    "vp-u-he-zebralette",
+    "vp-thewavewarden-odin-2"
+  ],
   "free-alternative-to-kontakt": [
     "vp-decent-samples-decent-sampler"
   ],
   "free-alternative-to-omnisphere": [],
   "free-alternative-to-serum-vst": [],
-  "free-alternative-to-valhalla-reverb": []
+  "free-alternative-to-valhalla-reverb": [
+    "vp-valhalla-dsp-valhalla-super-massive"
+  ]
 }
