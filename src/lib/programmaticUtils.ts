@@ -22,6 +22,7 @@ import {
   sparklinePoints,
   type PriceEntry,
 } from './priceUtils';
+import { guardDiscountFrequency } from './priceInsights.mjs';
 
 // --- Manifest types (mirrors astro-site/dtm/src/data/programmatic_pages.json) ---
 
@@ -154,7 +155,10 @@ export function rowFor(name: string, priceData: ProgrammaticPriceData): VerdictR
   // Observation count mirrors liveDropOf's own discipline: only auto_check
   // rows count as a real observation (design doc §10).
   const observations = entry.history.filter((h) => h.source === 'auto_check').length;
-  const label = dealScore(current, entry.typical_regular, entry.typical_sale, entry.all_time_low).label;
+  const label = guardDiscountFrequency(
+    dealScore(current, entry.typical_regular, entry.typical_sale, entry.all_time_low),
+    entry.history.filter((h) => h.source === 'auto_check'),
+  ).label;
 
   return {
     name,
