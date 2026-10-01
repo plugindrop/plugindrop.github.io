@@ -73,9 +73,9 @@ Verify current pricing on the product page — deals can change without notice.
 |---|---|---|
 | Waves SSL G-Master Buss Compressor | Check product page | Third-party SSL G emulation, typically available at lower price points |
 | UAD SSL G Bus Compressor | Check product page | Hardware-accelerated version requiring UAD DSP hardware |
-| FabFilter Pro-C 2 | Check product page | More surgical, modern compressor with multiple compression modes |
+| FabFilter Pro-C 3 | Check product page | More surgical, modern compressor with multiple compression modes |
 
-If authentic SSL G-Series character from the original manufacturer is the priority and you work fully in-the-box, the Native version is the direct route. The Waves SSL G covers similar sonic territory at a lower buy-in, while FabFilter Pro-C 2 serves producers who want more clinical precision and broader algorithmic flexibility over vintage character.
+If authentic SSL G-Series character from the original manufacturer is the priority and you work fully in-the-box, the Native version is the direct route. The Waves SSL G covers similar sonic territory at a lower buy-in, while FabFilter Pro-C 3 serves producers who want more clinical precision and broader algorithmic flexibility over vintage character.
 
 ---
 

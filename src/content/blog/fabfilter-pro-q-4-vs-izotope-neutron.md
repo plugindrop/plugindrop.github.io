@@ -163,7 +163,7 @@ iZotope Neutron 4 at $249 bundles an EQ, compressor, transient shaper, exciter, 
 
 - **Developer:** FabFilter
 - **Price:** ~$899
-- **Why upgrade:** If you already own Pro-Q 4 and want to stay within the FabFilter ecosystem, the Total Bundle adds Pro-C 2 (compressor), Pro-MB (multiband compressor), Pro-L 2 (limiter), Pro-DS (de-esser), Saturn 2 (saturation/distortion), Timeless 3 (delay), Volcano 3 (filter), and all remaining FabFilter titles in one package.
+- **Why upgrade:** If you already own Pro-Q 4 and want to stay within the FabFilter ecosystem, the Total Bundle adds Pro-C 3 (compressor), Pro-MB (multiband compressor), Pro-L 2 (limiter), Pro-DS (de-esser), Saturn 2 (saturation/distortion), Timeless 3 (delay), Volcano 3 (filter), and all remaining FabFilter titles in one package.
 
 [→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-vs-izotope-neutron)
 

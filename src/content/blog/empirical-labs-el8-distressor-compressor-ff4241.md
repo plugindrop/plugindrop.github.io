@@ -9,7 +9,7 @@ score: 8.80
 saleExpiry: '2026-09-27'
 draft: false
 priceTrack:
-  - "FabFilter Pro-C 2"
+  - "FabFilter Pro-C 3"
 ---
 
 ## Who Is It For?
@@ -25,7 +25,7 @@ priceTrack:
 | If you want... | Get this | Approx. Price |
 |---|---|---|
 | The authentic Distressor character, first-party | Empirical Labs EL8 Distressor | ~$149 (regular), watch for 75% sales |
-| Surgical, transparent compression | FabFilter Pro-C 2 | ~$179 |
+| Surgical, transparent compression | FabFilter Pro-C 3 | ~$199 |
 | Budget vintage-style compression | Klanghelm DC8C | ~$20–$30 |
 | Hardware-accelerated Distressor emulation | UAD Distressor (Universal Audio) | Requires UAD Spark/hardware, subscription or one-time unlock |
 
@@ -45,11 +45,11 @@ Always verify current pricing on the product page — deals can change without n
 
 | Name | Price | Key Difference |
 |---|---|---|
-| FabFilter Pro-C 2 | ~$179 | Highly visual, surgical-style compressor — less color, more control |
+| FabFilter Pro-C 3 | ~$199 | Highly visual, surgical-style compressor — less color, more control |
 | Klanghelm DC8C | ~$20–$30 | Budget-friendly, multiple compression styles with vintage modes |
 | UAD Distressor (by UA) | Check UA site | Third-party hardware emulation requiring UAD hardware or subscription |
 
-FabFilter Pro-C 2 is the go-to when you want precise, transparent control and a clean workflow — see our [When Does FabFilter Pro-C 2 Go On Sale?](/posts/when-does-fabfilter-pro-c-2-go-on-sale) breakdown for its own discount cadence, which tends to be more frequent and predictable than Empirical Labs' schedule. Klanghelm DC8C covers similar vintage territory at an even lower price point and rarely needs a sale to be an easy buy. The EL8 is the choice when you specifically want the Distressor's character from the team that made the hardware, and you're willing to time your purchase around a sale to get the best value.
+FabFilter Pro-C 3 is the go-to when you want precise, transparent control and a clean workflow. Klanghelm DC8C covers similar vintage territory at an even lower price point and rarely needs a sale to be an easy buy. The EL8 is the choice when you specifically want the Distressor's character from the team that made the hardware, and you're willing to time your purchase around a sale to get the best value.
 
 ---
 
@@ -66,7 +66,7 @@ The EL8 plugin models the hardware Distressor's core settings, each altering the
 
 Additional controls include a British-mode switch (adds extra harmonic coloration to the output stage) and a stereo-image control for linking or spreading compression across a stereo pair, both carried over from the original hardware unit's feature set.
 
-If your workflow leans heavily on drum bus and bass character, the Dist 2/3 modes are the main reason to pick this over a cleaner alternative like Pro-C 2 — that harmonic saturation isn't something a purely transparent compressor is designed to replicate.
+If your workflow leans heavily on drum bus and bass character, the Dist 2/3 modes are the main reason to pick this over a cleaner alternative like Pro-C 3 — that harmonic saturation isn't something a purely transparent compressor is designed to replicate.
 
 ---
 
@@ -102,7 +102,7 @@ A: At ~$149 full price, it's a reasonable buy if you need it now for an active s
 - You specifically need the first-party, hardware-accurate modeling (Dist 2/3, Brit mode) and no other plugin in your library covers that ground.
 
 **Wait for a sale if:**
-- You're comparing options and FabFilter Pro-C 2 or Klanghelm DC8C would cover most of your compression needs in the meantime — buy one of those now and grab the EL8 later at a discount.
+- You're comparing options and FabFilter Pro-C 3 or Klanghelm DC8C would cover most of your compression needs in the meantime — buy one of those now and grab the EL8 later at a discount.
 - You can tolerate paying full price only as a last resort — historically, EL8 has seen roughly 75% off during select promotional windows, dropping it into the $35–$40 range.
 - You're building a plugin collection on a budget and this isn't a same-week necessity — the EL8 later at a discount is worth the wait.
 

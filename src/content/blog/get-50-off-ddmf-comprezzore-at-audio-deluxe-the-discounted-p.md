@@ -60,9 +60,9 @@ DDMF doesn't appear to run constant sales cycles, so deals like this are worth n
 |---|---|---|
 | Klanghelm MJUC | ~$30–$40 | Focused specifically on tube/vintage compressor character |
 | TDR Kotelnikov | Free (GE version paid) | Transparent, mastering-oriented; free tier available |
-| FabFilter Pro-C 2 | ~$179 | Broader feature set with a built-in visual analyzer |
+| FabFilter Pro-C 3 | ~$199 | Broader feature set with a built-in visual analyzer |
 
-If a free, transparent option covers your needs, TDR Kotelnikov handles that without spending anything. If detailed visual feedback and an extensive feature set justify the premium, FabFilter Pro-C 2 is in a different tier entirely. Comprezzore at its current deal price sits in the value middle-ground for producers who want a proper multi-mode compressor without the Pro-C price tag.
+If a free, transparent option covers your needs, TDR Kotelnikov handles that without spending anything. If detailed visual feedback and an extensive feature set justify the premium, FabFilter Pro-C 3 is in a different tier entirely. Comprezzore at its current deal price sits in the value middle-ground for producers who want a proper multi-mode compressor without the Pro-C price tag.
 
 ---
 

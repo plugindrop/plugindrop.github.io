@@ -71,7 +71,7 @@ V Collection 11 contains 40+ instruments, almost all emulations of iconic vintag
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX, standalone (Kontakt, Reaktor, NKS)
 
-Komplete 14 Standard bundles over 100 instruments and effects. The anchors are Kontakt 7 (the full version, not the free Kontakt Player), Massive X (wavetable synthesis), Reaktor 6 (modular/generative environment), Guitar Rig 7 Pro (amp simulation), Battery 4 (drum machine), FM8, and Absynth 5. Dozens of Kontakt sample libraries cover acoustic pianos, strings, guitars, basses, brass, and hybrid textures. The effects library adds mixing tools — compressors, EQs, reverbs, delays — that V Collection simply doesn't include.
+Komplete 14 Standard bundles over 100 instruments and effects. The anchors are Kontakt (the full version, not the free Kontakt Player), Massive X (wavetable synthesis), Reaktor 6 (modular/generative environment), Guitar Rig 7 Pro (amp simulation), Battery 4 (drum machine), FM8, and Absynth 5. Dozens of Kontakt sample libraries cover acoustic pianos, strings, guitars, basses, brass, and hybrid textures. The effects library adds mixing tools — compressors, EQs, reverbs, delays — that V Collection simply doesn't include.
 
 **Best for:** Producers who need a single bundle that covers synthesis, sampling, acoustic instruments, and mixing effects without buying separately.
 
@@ -93,7 +93,7 @@ The DX7 V and CZ V in V Collection are solid emulations of the Yamaha DX7 and Ca
 
 ### Sampling and Acoustic Instruments — Winner: NI Komplete
 
-This isn't close. Komplete's Kontakt 7 full license opens the largest third-party sample library ecosystem in existence. The bundled libraries — Session Strings, Scarbee bass and keyboard emulations, Action Strings, The Gentleman (acoustic piano), and more — provide production-ready acoustic textures that V Collection simply doesn't attempt. V Collection has Piano V and Stage-73 V (modeled, not sampled), which are excellent for character but not replacements for full acoustic sample sets.
+This isn't close. Komplete's Kontakt full license opens the largest third-party sample library ecosystem in existence. The bundled libraries — Session Strings, Scarbee bass and keyboard emulations, Action Strings, The Gentleman (acoustic piano), and more — provide production-ready acoustic textures that V Collection simply doesn't attempt. V Collection has Piano V and Stage-73 V (modeled, not sampled), which are excellent for character but not replacements for full acoustic sample sets.
 
 ### Modern Synthesis — Winner: Tie, Different Strengths
 
@@ -153,7 +153,7 @@ Both bundles go on deep sale. V Collection 11 at $199 represents arguably more f
 |--------|-------|------|------------|-----|
 | Arturia V Collection 11 | ~$499 (sale ~$199) | Vintage synths & keys | 40+ hardware emulations, TAE® modeling, Pigments | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete%2014%20Ultimate&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
 | NI Komplete 14 Select | ~$99–$149 | Entry-level starter | Kontakt Player, Massive, Guitar Rig (limited) | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete%2014%20Ultimate&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
-| NI Komplete 14 Standard | ~$599 (sale ~$299) | All-around production | Kontakt 7 full, Massive X, Reaktor 6, Guitar Rig 7 | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete%2014%20Ultimate&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
+| NI Komplete 14 Standard | ~$599 (sale ~$299) | All-around production | Kontakt full, Massive X, Reaktor 6, Guitar Rig 7 | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete%2014%20Ultimate&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
 | NI Komplete 14 Ultimate | ~$999 (sale ~$499) | Cinematic/orchestral | Symphony Series, Session players, 100+ libraries | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete%2014%20Ultimate&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
 | V Collection 11 + Komplete Select | ~$300–$400 combined | Practical best-of-both | Vintage keys + modern synths + sampling entry point | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete%2014%20Ultimate&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
 
@@ -162,7 +162,7 @@ Both bundles go on deep sale. V Collection 11 at $199 represents arguably more f
 ## How to Choose
 
 - **If your music centers on vintage synthesizers, classic keys, or organ sounds**, buy V Collection 11. Nothing in Komplete at any tier matches the depth and accuracy of Arturia's hardware emulations in these categories.
-- **If you produce hip-hop, trap, lo-fi, or sample-based music**, Komplete Standard is the better anchor — Kontakt 7 full and Battery 4 give you the sampler infrastructure that V Collection lacks entirely.
+- **If you produce hip-hop, trap, lo-fi, or sample-based music**, Komplete Standard is the better anchor — Kontakt full and Battery 4 give you the sampler infrastructure that V Collection lacks entirely.
 - **If you score for film, games, or sync licensing**, Komplete Ultimate is the practical choice. The Symphony Series and acoustic instrument libraries are production-ready at a professional level.
 - **If you're on a budget and own NI hardware**, Komplete Select is often bundled free or at steep discount — start there before spending more.
 - **If you want the best all-round setup and can spend $300–$400 total on sale pricing**, pair V Collection 11 (Arturia sale) with Komplete Select (NI promotion). You get vintage depth from Arturia and modern sampling/synthesis infrastructure from NI without redundancy.

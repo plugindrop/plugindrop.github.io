@@ -251,12 +251,12 @@ Fresh Air uses a proprietary algorithm to add presence and air to vocals, acoust
 
 Before building out your plugin rack, make sure you're running a DAW that supports third-party VSTs. If you're still exploring options, our [Best Free DAW Software 2026](/posts/best-free-daw-software-2026/) guide covers every capable free DAW worth using.
 
-### Native Instruments Kontakt 7 — The industry-standard sampler
+### Native Instruments Kontakt 8 — The industry-standard sampler
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/QWZxcdoT8ak" title="Native Instruments Kontakt 7 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Native Instruments
-- **Price:** $399 (also available via Komplete bundles)
+- **Price:** $299 (also available via Komplete bundles)
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX
 
@@ -264,7 +264,7 @@ Kontakt is the platform that powers thousands of commercial sample libraries —
 
 **Best for:** Professional composers and producers working with third-party sample libraries.
 
-[→ Get Kontakt 7](https://www.native-instruments.com/en/products/komplete/samplers/kontakt-7/)
+[→ Get Kontakt 8](https://www.native-instruments.com/en/products/komplete/samplers/kontakt-8/)
 
 ---
 
@@ -365,7 +365,7 @@ Ozone 12's Master Assistant analyzes your track and builds a starting mastering 
 | Vital | Free | Synthesizer | Spectral warping, advanced modulation | [Free](https://vital.audio/) |
 | Softube Saturation Knob | Free | Saturation | Single-knob, three modes | [Free Download](https://www.softube.com/saturationknob) |
 | Slate Digital Fresh Air | Free | Enhancer | Artifact-free high-frequency lift | [Free Download](https://slatedigital.com/fresh-air/) |
-| Kontakt 7 | $399 | Sampler | Industry-standard, thousands of libraries | [Get it](https://www.native-instruments.com/en/products/komplete/samplers/kontakt-7/) |
+| Kontakt 8 | $299 | Sampler | Industry-standard, thousands of libraries | [Get it](https://www.native-instruments.com/en/products/komplete/samplers/kontakt-8/) |
 | Addictive Drums 2 | $179 | Drums | Realistic kits, built-in channel mixer | [Get it](https://www.xlnaudio.com/products/addictive_drums_2) |
 | RC-20 Retro Color | $99 | Lo-Fi FX | 6 modules, organic texture design | [Get it](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
 | iZotope Ozone 12 | $249 | Mastering | AI Master Assistant, Stabilizer module | [Get it](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |

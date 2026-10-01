@@ -68,7 +68,7 @@ For a bundle purchase, $9.99 is a low barrier of entry — even if only one item
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Splice Sounds subscription | ~$7.99–$13.99/mo | Subscription model with ongoing access to a large rotating library |
+| Splice Sounds subscription | $12.99/mo (Sounds, billed yearly) | Subscription model with ongoing access to a large rotating library |
 | Loopmasters bundles | Varies (~$15–$30) | Larger publisher with broader genre coverage and longer track record |
 | Native Instruments Expansions | $49–$99 | Deeper NKS integration for NI hardware users |
 

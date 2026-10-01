@@ -127,7 +127,7 @@ The price is also a real consideration. At $199, Pro-L 2 is a professional tool 
 - **Price:** $899
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX, VST
-- **Why upgrade:** Pro-L 2 pairs naturally with Pro-Q 4 (surgical EQ), Pro-C 2 (compression), Pro-MB (multiband dynamics), and Pro-DS (de-essing) in a mastering chain. Buying the Total Bundle is cheaper than purchasing Pro-L 2, Pro-Q 4, and Pro-C 2 individually, and it includes every FabFilter creative and utility plugin. For engineers already reaching for FabFilter tools at every stage of a session, the bundle is the economically rational choice.
+- **Why upgrade:** Pro-L 2 pairs naturally with Pro-Q 4 (surgical EQ), Pro-C 3 (compression), Pro-MB (multiband dynamics), and Pro-DS (de-essing) in a mastering chain. Buying the Total Bundle is cheaper than purchasing Pro-L 2, Pro-Q 4, and Pro-C 3 individually, and it includes every FabFilter creative and utility plugin. For engineers already reaching for FabFilter tools at every stage of a session, the bundle is the economically rational choice.
 
 [→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-l-2-review)
 
@@ -147,7 +147,7 @@ The price is also a real consideration. At $199, Pro-L 2 is a professional tool 
 
 - **If you need only a limiter**, get Pro-L 2. Its algorithm depth, true peak precision, and metering suite are unmatched at $199 by any single-purpose tool.
 - **If you are building a mastering chain from scratch** and want AI assistance and an integrated workflow, Ozone 12 is the faster entry point — though its Maximizer alone is not as versatile as Pro-L 2.
-- **If you already own Pro-L 2** and find yourself buying Pro-Q 4 or Pro-C 2 separately, calculate the Total Bundle cost — it is almost always cheaper than purchasing three FabFilter tools individually.
+- **If you already own Pro-L 2** and find yourself buying Pro-Q 4 or Pro-C 3 separately, calculate the Total Bundle cost — it is almost always cheaper than purchasing three FabFilter tools individually.
 - **If you master for broadcast** (podcast, TV, radio), Pro-L 2's Precision algorithm and built-in EBU R128 / ATSC A/85 metering make it the most complete single-plugin solution for delivery compliance.
 - **If budget is the constraint right now**, use your DAW's stock limiter and save toward Pro-L 2. The upgrade is immediately and significantly audible. Free alternatives are a sensible bridge, not a permanent substitute.
 

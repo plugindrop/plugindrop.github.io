@@ -62,7 +62,7 @@ adsrsounds.com/product/presets/master-of-dreams-90s-drum-loops-remake-vol-1-vint
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Splice 90s Hip-Hop loops | ~$10.99/mo (subscription) | Broader library access, but ongoing cost vs. one-time purchase |
+| Splice 90s Hip-Hop loops | $12.99/mo (Sounds, billed yearly) (subscription) | Broader library access, but ongoing cost vs. one-time purchase |
 | Looperman community loops | Free | Community-uploaded, no curation or quality guarantee |
 | Other ADSR vintage drum packs | Varies | Different producers and aesthetic flavors; browse ADSR for comparisons |
 

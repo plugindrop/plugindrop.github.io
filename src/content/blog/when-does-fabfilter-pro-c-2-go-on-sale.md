@@ -1,7 +1,7 @@
 ---
 noindex: true
-title: "When Does FabFilter Pro-C 2 Go On Sale? (Updated 2026)"
-description: "FabFilter Pro-C 2 goes on sale 3-4x per year at 25-30% off (~$134-$125). Best times: Summer (June), Black Friday (November), FabFilter Anniversary (December)."
+title: "When Does FabFilter Pro-C 3 Go On Sale? (Updated 2026)"
+description: "FabFilter Pro-C 3 is listed at $199 with a free 30-day trial. We do not have verified sale history for Pro-C 3, so this page sticks to what we can confirm."
 pubDate: "2026-06-29"
 evergreen: true
 tags:
@@ -17,40 +17,21 @@ relatedPosts:
 heroImage: '/images/when-does-fabfilter-pro-c-2-go-on-sale.jpg'
 ---
 
-**Short answer:** FabFilter Pro-C 2 goes on sale **3-4 times per year**. The typical discount is **25–30% off**, bringing the $179 regular price down to around **$134**. The best times to buy:
+**Short answer:** FabFilter Pro-C 3 is listed at **$199** (EUR 169, GBP 149) and FabFilter offers a free 30-day trial. We do not have verified sale history for Pro-C 3, so we do not quote a typical discount or best times to buy.
 
 ## Price Context (tracked by PluginDrop)
-- Tracked since 2023-11-20 (3 observations)
-- Lowest we've tracked: $97 · Typical sale: $97 · Regular: $129
-- Verdict: **WAIT** — the available history does not include enough comparable price data to support a buy-now verdict.
-- Sale pattern: FabFilter discounts 25% at Black Friday only. Typical BF sale ~$97 (25% off $129).
-- Latest observed sale: $97 on 2024-11-22
-- Typical observed discount: 25%
+- Regular: $199
 
 ## Historical Sale Data
 
-| When | Discount | Approx. Price | Source |
-|------|----------|---------------|--------|
-| Summer 2025 (June) | 25% off | ~$134 | Plugin Boutique / Official |
-| Black Friday 2024 (November) | 25% off | ~$134 | Plugin Boutique / Official |
-| Anniversary 2024 (December) | 30% off | ~$125 | Plugin Boutique / Official |
-| Black Friday 2024 (Gear4music GBP) | ~40% off | ~$107 | Gear4music (GBP exchange) |
+We have no verified Pro-C 3 sale history yet.
 
-**Lowest price ever recorded:** ~$107 (Gear4music (GBP exchange rate, Black Friday 2024))
+## When to Buy FabFilter Pro-C 3
 
-## When to Buy FabFilter Pro-C 2: Season-by-Season Guide
+- Try it first with FabFilter's free 30-day trial.
+- If you own a previous FabFilter plug-in, log in to your FabFilter account, where the vendor says discounted purchase or upgrade prices are shown.
 
-- **Summer Sale (June)**
-- **Black Friday (November)**
-- **FabFilter Anniversary (December)**
-
-> **Buying tip:** FabFilter Pro-C 2 follows the exact same sale cycle as Pro-Q 4 and Pro-L 2. If FabFilter is running a sale, all three are discounted simultaneously. Consider the Total Bundle if you want multiple FabFilter compressors/limiters.
-
-
-**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=when-does-fabfilter-pro-c-2-go-on-sale)**
-
-Plugin Boutique often matches official sale prices and gives you Virtual Cash back (typically 5%) on every purchase, redeemable on future orders.
-
+**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=when-does-fabfilter-pro-c-2-go-on-sale)**
 
 ## Free Alternatives If You Can't Wait
 
@@ -60,4 +41,4 @@ Plugin Boutique often matches official sale prices and gives you Virtual Cash ba
 
 ---
 
-*Last updated: 2026-06. Data compiled from Reddit r/audioengineering, KVR Audio forums, Slickdeals, and community-verified sale reports. Prices vary by region and may differ at time of purchase.*
+*Last updated: 2026-09. The $199 list price is from FabFilter's launch announcement. Prices vary by region and may differ at time of purchase.*

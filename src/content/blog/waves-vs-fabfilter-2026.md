@@ -25,7 +25,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | FabFilter Pro-Q 3 | $179 | Surgical EQ with visual masking | FabFilter.com |
-| FabFilter Pro-C 2 | $179 | Transparent-to-colored compression | FabFilter.com |
+| FabFilter Pro-C 3 | $199 | Transparent-to-colored compression | FabFilter.com |
 | FabFilter Pro-L 2 | $199 | Mastering-grade limiting | FabFilter.com |
 | FabFilter Saturn 2 | $149 | Multiband harmonic saturation | FabFilter.com |
 | Waves SSL E-Channel | ~$29–$49 on sale | Classic console channel strip | Waves.com |
@@ -153,7 +153,7 @@ Pro-Q 3 is the most frequently recommended EQ in producer communities, stated pl
 
 ---
 
-### FabFilter Pro-C 2 — Six compression styles in one deeply visual compressor
+### FabFilter Pro-C 3 — Fourteen compression styles in one deeply visual compressor
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/2zjQNeM2RxU" title="FabFilter Pro-C 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -162,13 +162,13 @@ Pro-Q 3 is the most frequently recommended EQ in producer communities, stated pl
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX
 
-Pro-C 2 offers six compression styles — Clean, Classic, Opto, Vocal, Mastering, Bus — each with distinct knee and timing character that shifts the plugin's behavior significantly. Reddit's r/audioengineering notes that this range makes it genuinely versatile: "Clean" mode is transparent enough for mastering chains, while "Opto" and "Classic" produce the kind of harmonic character associated with optical and VCA hardware. The real-time gain reduction display with input/output metering is the clearest visual feedback of any compressor plugin in this price range.
+Pro-C 3 offers 14 compression styles. The real-time gain reduction display with input/output metering is the clearest visual feedback of any compressor plugin in this price range.
 
 **Best for:** Producers who want one compressor covering transparent bus processing through character-driven vocal compression without switching tools.
 
-[→ Get FabFilter Pro-C 2 (Official Site)](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in)
+[→ Get FabFilter Pro-C 3 (Official Site)](https://www.fabfilter.com/products/pro-c-3-compressor-plug-in)
 
-*Available at FabFilter.com — search "Pro-C 2" (no affiliate link available)*
+*Available at FabFilter.com — search "Pro-C 3" (no affiliate link available)*
 
 ---
 
@@ -232,7 +232,7 @@ Neither Waves nor FabFilter offers free plugins. "Upgrading" in this context mea
 
 - **Developer:** FabFilter
 - **Price:** ~$799 (check FabFilter.com for current upgrade discounts if you own individual plugins)
-- **Why upgrade:** Purchasing Pro-Q 3, Pro-C 2, Pro-L 2, and Saturn 2 individually approaches the Total Bundle cost. The bundle adds Pro-MB (multiband compressor), Pro-DS (de-esser), Pro-R (algorithmic reverb), Timeless 3 (delay), and Twin 3 (synthesizer) — tools that eliminate the need for third-party alternatives in those categories. FabFilter offers upgrade pricing for existing individual license holders.
+- **Why upgrade:** Purchasing Pro-Q 3, Pro-C 3, Pro-L 2, and Saturn 2 individually approaches the Total Bundle cost. The bundle adds Pro-MB (multiband compressor), Pro-DS (de-esser), Pro-R (algorithmic reverb), Timeless 3 (delay), and Twin 3 (synthesizer) — tools that eliminate the need for third-party alternatives in those categories. FabFilter offers upgrade pricing for existing individual license holders.
 
 *Available at FabFilter.com (no affiliate link available)*
 
@@ -245,7 +245,7 @@ Neither Waves nor FabFilter offers free plugins. "Upgrading" in this context mea
 | Plugin | Brand | Price | Type | Community Standing |
 |--------|-------|-------|------|--------------------|
 | Pro-Q 3 | FabFilter | $179 | EQ | Most-recommended EQ in production communities |
-| Pro-C 2 | FabFilter | $179 | Compressor | Top pick for visual compression feedback |
+| Pro-C 3 | FabFilter | $199 | Compressor | Top pick for visual compression feedback |
 | Pro-L 2 | FabFilter | $199 | Limiter | Standard mastering limiter for indie releases |
 | Saturn 2 | FabFilter | $149 | Saturation | Best multiband saturation under $200 |
 | SSL E-Channel | Waves | ~$29–49 | Channel Strip | Widely used SSL console emulation |
@@ -259,7 +259,7 @@ Neither Waves nor FabFilter offers free plugins. "Upgrading" in this context mea
 
 - **If you want the single best EQ available and budget allows one purchase:** FabFilter Pro-Q 3 is the community consensus call. Its dynamic EQ, visual masking display, and per-band M/S processing make it the reference tool other EQs are measured against — not a marginal improvement over cheaper options.
 
-- **If you're building a first professional mixing toolkit and want visual feedback to accelerate learning:** FabFilter's Pro suite (Pro-Q 3 + Pro-C 2 + Pro-L 2) covers EQ, compression, and limiting with the clearest real-time feedback available at these prices. The visual approach demonstrably shortens the learning curve on dynamics processing.
+- **If you're building a first professional mixing toolkit and want visual feedback to accelerate learning:** FabFilter's Pro suite (Pro-Q 3 + Pro-C 3 + Pro-L 2) covers EQ, compression, and limiting with the clearest real-time feedback available at these prices. The visual approach demonstrably shortens the learning curve on dynamics processing.
 
 - **If you want authentic vintage hardware character — SSL consoles, API compressors, tape machines:** Waves is the better answer, specifically by buying individual plugins on sale. The brand's emulation catalog has decades of refinement behind it and the analog character is genuinely distinctive.
 

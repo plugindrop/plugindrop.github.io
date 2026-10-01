@@ -29,7 +29,7 @@ priceTrack:
 
 ## Introduction
 
-The best Serum alternatives paid 2026 aren't trying to clone Serum — they're doing things Serum structurally cannot. Phase Plant ships a fully modular signal path where Serum has a fixed oscillator-filter chain. Pigments layers two synthesis engines (wavetable, granular, harmonic, virtual analog, sample) in a single patch. Spire produces the kind of dense, full-spectrum EDM leads that KVR's community has documented as arriving with less initial effort than any competitor. The conversation in producer circles has shifted: Serum is no longer the automatic recommendation, just the safest one.
+The best Serum alternatives paid 2026 aren't trying to clone Serum — they're doing things Serum structurally cannot. Phase Plant ships a fully modular signal path where Serum has a fixed oscillator-filter chain. Pigments layers two synthesis engines (modal, wavetable, granular, harmonic, virtual analog, sample) in a single patch. Spire produces the kind of dense, full-spectrum EDM leads that KVR's community has documented as arriving with less initial effort than any competitor. The conversation in producer circles has shifted: Serum is no longer the automatic recommendation, just the safest one.
 
 This matters in 2026 because Serum 2's release reset pricing expectations while the alternatives matured significantly. Pigments reached version 5. Phase Plant's Snapin ecosystem became a serious reason to consider the Kilohearts subscription model. Threads on r/edmproduction and r/synthrecipes now routinely feature side-by-side comparisons where Phase Plant and Pigments come out ahead on specific use cases — not as budget concessions but as deliberate choices. That community shift is what this guide documents.
 
@@ -73,7 +73,7 @@ The Kilohearts ecosystem argument is worth taking seriously. If you already use 
 - **Platforms:** Windows, macOS
 - **Formats:** VST2, VST3, AU, AAX
 
-Pigments' headline advantage over Serum is its dual-engine architecture. Arturia's developer documentation confirms that Pigments allows two independent synthesis engines to run simultaneously in a single patch, selectable from wavetable, virtual analog, harmonic, granular, and sample types. Layering a granular texture against a virtual analog bass in one instance — something that requires two Serum instances and manual blending in your DAW — is a native operation in Pigments. For CPU-constrained sessions, this is a functional argument, not just a feature list.
+Pigments' headline advantage over Serum is its dual-engine architecture. Arturia's developer documentation confirms that Pigments allows two independent synthesis engines to run simultaneously in a single patch, selectable from modal, wavetable, virtual analog, harmonic, granular, and sample types. Layering a granular texture against a virtual analog bass in one instance — something that requires two Serum instances and manual blending in your DAW — is a native operation in Pigments. For CPU-constrained sessions, this is a functional argument, not just a feature list.
 
 KVR Audio's community discussions and r/synthrecipes threads consistently highlight Pigments' visual modulation interface as its most approachable quality. Modulation assignments are color-coded and drawn directly on the synthesizer's controls — a design choice that makes complex routing legible at a glance. Producers new to deep modulation report that Pigments surfaces what Serum's mod matrix buries. The depth is comparable; the discoverability is better.
 
@@ -163,7 +163,7 @@ At $119, Spire is the lowest-priced option in this comparison and the strongest 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Phase Plant | $149 | Modular (wavetable, analog, sample, phase distortion) | Fully modular signal path, Snapin ecosystem, blank-canvas architecture | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=serum-alternatives-paid-2026) |
-| Pigments | $199 | Multi-engine (wavetable, VA, granular, harmonic, sample) | Dual-engine patches, visual mod routing, broad genre coverage | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=serum-alternatives-paid-2026) |
+| Pigments | $199 | Multi-engine (modal, wavetable, VA, granular, harmonic, sample) | Dual-engine patches, visual mod routing, broad genre coverage | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=serum-alternatives-paid-2026) |
 | Spire | $119 | Wavetable + FM + spectral | Dense EDM sound character, fast genre workflow, four multi-mode oscillators | [Get It](https://www.reveal-sound.com/store/product/Spire_Synthesizer_License) |
 | Serum 2 | $189 | Wavetable | Industry-standard preset ecosystem, Splice integration, largest tutorial library | [Official Site](https://xferrecords.com/products/serum-2) |
 

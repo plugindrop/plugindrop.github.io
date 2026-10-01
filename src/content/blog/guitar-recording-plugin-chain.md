@@ -149,7 +149,7 @@ OTT is genuinely free with no paid upgrade path for this specific plugin. Xfer R
 
 - **Developer:** FabFilter
 - **Price:** ~$899
-- **Why upgrade:** Pro-Q 4 handles EQ, but a complete guitar production workflow also demands compression, limiting, saturation, and multiband processing. The Total Bundle includes Pro-C 2, Pro-L 2, Pro-MB, Saturn 2, and FabFilter's full reverb and delay suite — replacing multiple third-party tools with a consistently designed ecosystem. Community consensus on r/audioengineering is that the Total Bundle is the most cost-effective way to own the complete FabFilter suite, given the price of individual plugins purchased separately.
+- **Why upgrade:** Pro-Q 4 handles EQ, but a complete guitar production workflow also demands compression, limiting, saturation, and multiband processing. The Total Bundle includes Pro-C 3, Pro-L 2, Pro-MB, Saturn 2, and FabFilter's full reverb and delay suite — replacing multiple third-party tools with a consistently designed ecosystem. Community consensus on r/audioengineering is that the Total Bundle is the most cost-effective way to own the complete FabFilter suite, given the price of individual plugins purchased separately.
 
 [→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=guitar-recording-plugin-chain)
 
@@ -163,7 +163,7 @@ OTT is genuinely free with no paid upgrade path for this specific plugin. Xfer R
 | Waves IR-L Convolution Reverb | Varies | Convolution Reverb / IR Loader | Third-party IR support, mono/stereo/true stereo, CPU-efficient | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=guitar-recording-plugin-chain) |
 | FabFilter Pro-Q 4 | $179 | Parametric EQ | 24 bands, dynamic EQ per band, mid/side processing, EQ match | [FabFilter](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=guitar-recording-plugin-chain) |
 | OTT (Xfer Records) | Free | Multiband Compressor | Upward/downward compression, three bands, Depth control | [Free Download](https://xferrecords.com/freeware) |
-| FabFilter Total Bundle | ~$899 | Full Plugin Suite | Pro-Q 4, Pro-C 2, Pro-L 2, Pro-MB, Saturn 2 + reverb/delay | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=guitar-recording-plugin-chain) |
+| FabFilter Total Bundle | ~$899 | Full Plugin Suite | Pro-Q 4, Pro-C 3, Pro-L 2, Pro-MB, Saturn 2 + reverb/delay | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=guitar-recording-plugin-chain) |
 
 ---
 

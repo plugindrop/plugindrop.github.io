@@ -1,6 +1,6 @@
 ---
-title: "Cheapest Way to Get FabFilter Pro-C 2 in 2026"
-description: "How to get FabFilter Pro-C 2 at the lowest verified price — standalone typical sale, all-time low, and bundle routes, based on our own price-tracker history."
+title: "Cheapest Way to Get FabFilter Pro-C 3 in 2026"
+description: "FabFilter Pro-C 3 list price, free trial, and existing-customer pricing. We do not have verified price-tracker history for Pro-C 3 yet."
 pubDate: "2026-07-15T00:42:49Z"
 tags: ["guide", "prices", "data"]
 affiliate: ""
@@ -8,23 +8,23 @@ evergreen: false
 score: 5.00
 draft: true
 ---
-We track FabFilter Pro-C 2's price history directly, so this is what buying it has actually cost over time — not a one-off promo screenshot.
+FabFilter lists Pro-C 3 at $199 (EUR 169, GBP 149) and offers a free 30-day trial. We do not yet have verified price-tracker history for Pro-C 3, so this guide does not quote sale prices.
 
-## Standalone price history
+## Standalone price
 
 | Route | Price | Notes |
 |-------|-------|-------|
-| Full price | $129 | Rarely the best route |
-| Typical sale (recurring) | $97 | Achievable on a normal sale cycle |
-| All-time low (rare) | $97 | Lowest price we have ever recorded |
+| List price | $199 | Per FabFilter's launch announcement; confirm at checkout |
+| Free trial | Free for 30 days | FabFilter offers a 30-day evaluation of its plug-ins |
+| Existing FabFilter customers | Discounted (shown in your account) | FabFilter says existing customers see discounted prices when logged in |
 
-[Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=cheapest-way-to-get-fabfilter-pro-c-2).
+[Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=cheapest-way-to-get-fabfilter-pro-c-2).
 
-We could not confirm with confidence which bundles currently include FabFilter Pro-C 2, so this guide sticks to the standalone price history above.
+We could not confirm with confidence which bundles currently include FabFilter Pro-C 3, so this guide sticks to the standalone price above.
 
 ## Data source
 
-All prices are from our own automated price-tracker checks. Last confirmed check: 2026-05-30. Full live pricing: [Plugin Price Tracker](/plugin-prices/).
+The $199 list price is from FabFilter's launch announcement; we could not load the shop page itself, so confirm the current price at checkout.
 
 ---
 

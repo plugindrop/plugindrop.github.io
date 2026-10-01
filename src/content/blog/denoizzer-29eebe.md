@@ -65,7 +65,7 @@ DeNoizzer is an audio restoration plugin sold through Plugin Boutique, designed 
 
 | Name | Price (approx.) | Key Difference |
 |---|---|---|
-| iZotope RX Elements | ~$99 (often on sale) | Industry-standard suite with multiple restoration modules |
+| iZotope RX Elements | ~$99 (often on sale) | Suite with multiple restoration modules |
 | Waves NS1 | ~$29–$49 | Single-knob noise suppressor, focused on dialogue/voice |
 | Accusonus ERA Noise Remover | ~$99/yr (bundle) | Part of a broader restoration bundle, subscription model |
 

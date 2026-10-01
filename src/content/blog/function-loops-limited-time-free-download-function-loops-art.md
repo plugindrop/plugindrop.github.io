@@ -59,7 +59,7 @@ Verify current availability on the product page, as deals can change without not
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Splice | ~$8–$20/month (subscription) | Per-sample streaming library with continuous new additions |
+| Splice | $12.99/mo (Sounds, billed yearly) (subscription) | Per-sample streaming library with continuous new additions |
 | Looperman | Free | User-generated loops; highly variable quality |
 | Sample Focus | Free tier + paid plans | Community-submitted samples with Creative Commons licensing |
 

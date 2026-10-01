@@ -1,6 +1,6 @@
 ---
 title: "How to Compress Drums in 2026: Complete Guide With Plugin Settings"
-description: "Complete drum compression guide 2026. Individual drum channels, bus compression, parallel compression, transient shaping — with FabFilter Pro-C 2, Klanghelm DC8C, and Waves SSL settings."
+description: "Complete drum compression guide 2026. Individual drum channels, bus compression, parallel compression, transient shaping — with FabFilter Pro-C 3, Klanghelm DC8C, and Waves SSL settings."
 pubDate: "2026-06-07T10:00:00Z"
 tags: ["guide", "vst", "tutorials", "drums"]
 affiliate: ""
@@ -10,13 +10,13 @@ heroImage: "/images/how-to-compress-drums-plugins.jpg"
 draft: false
 ---
 
-**TL;DR:** Drum compression has four distinct applications — individual drum channel compression for tone and character, bus compression for glue and punch, parallel compression for density without losing transients, and transient shaping for controlling attack and sustain separately. FabFilter Pro-C 2 handles all four; Klanghelm DC8C (free) covers the vintage compression character; Waves SSL G-Master Buss is the classic bus compressor model.
+**TL;DR:** Drum compression has four distinct applications — individual drum channel compression for tone and character, bus compression for glue and punch, parallel compression for density without losing transients, and transient shaping for controlling attack and sustain separately. FabFilter Pro-C 3 handles all four; Klanghelm DC8C (free) covers the vintage compression character; Waves SSL G-Master Buss is the classic bus compressor model.
 
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| FabFilter Pro-C 2 | $179 | All-purpose drum compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=how-to-compress-drums-plugins) |
+| FabFilter Pro-C 3 | $199 | All-purpose drum compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=how-to-compress-drums-plugins) |
 | Klanghelm DC8C | Free | Vintage-character individual drum compression | [Klanghelm.com](https://klanghelm.com/contents/products/DC8C.php) |
 | Waves SSL G-Master Buss | $29 | Classic drum bus glue | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20SSL%20G%20Master&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-compress-drums-plugins&chan=art&data1=how-to-compress-drums-plugins) |
 
@@ -54,8 +54,8 @@ Snare compression settings depend heavily on the genre and desired character. Fo
 
 Snare compression adds body by bringing up the sustain after the initial transient. More compression = more sustain body. Less compression = more transient crack and less sustain. For the "all-buttons-in 1176" sound (see Waves CLA-76 below), use a compressor that allows very fast attack and aggressive ratio to create the specific saturating compression character associated with classic rock and metal snare sounds.
 
-**FabFilter Pro-C 2 settings for individual drums:**
-- Mode: Classic (for transparent-to-colored response) or Punch (for transient emphasis)
+**FabFilter Pro-C 3 settings for individual drums:**
+- Style: pick from Pro-C 3's 14 compression styles to suit the source
 - Engage the Attack and Release Auto modes for starting points, then adjust manually
 - Enable the sidechain EQ to focus the detector on specific frequencies — for kick, set sidechain HP at 60 Hz to prevent low-frequency content from triggering false gain reduction
 
@@ -82,8 +82,8 @@ The most important rule: **bus compression should be subtle.** The classic test 
 **The Waves SSL G-Master Buss Compressor:**
 The SSL G-Bus compressor is the most common model for drum bus compression because the hardware unit it emulates was the master bus compressor in the SSL 4000 G console — the mixing desk used on a majority of pop and rock records in the 1980s and 1990s. The plugin's character is smooth, slightly colored, and produces the specific "glue" response associated with that hardware. Settings: Threshold -8 to -12, Ratio 2:1, Attack 30ms, Release 0.1 (fastest auto release), Makeup gain as needed. Gain reduction: 2–4 dB on peaks.
 
-**FabFilter Pro-C 2 for bus compression:**
-- Mode: Bus (specifically designed for transparent bus processing)
+**FabFilter Pro-C 3 for bus compression:**
+- Style: pick one of the 14 compression styles that suits bus processing
 - Lookahead: Enable 0.5–1ms lookahead for true peak control
 - Knee: Soft knee (the transition into compression is gradual, reducing pumping artifacts)
 - Gain: +2–3 dB makeup gain
@@ -103,8 +103,8 @@ Parallel compression (also called New York compression) blends a heavily compres
 
 **The most common mistake in parallel compression:** Adding too much of the compressed signal. At 50%+ blend, the pumping artifacts from the heavy compression become audible. Start at 15% blend and increase until you hear more body and sustain, then stop before the pumping becomes noticeable.
 
-**FabFilter Pro-C 2 for parallel compression:**
-Pro-C 2 has a built-in Dry/Wet blend control, which means parallel compression can be applied on a single channel without the auxiliary routing described above. Set Ratio to 8:1, attack 8ms, release 80ms, then blend back to 25–30% using the Dry/Wet knob. This is a simplified version of parallel compression (it does not allow volume balancing between the compressed and uncompressed signals independently) but works well for individual drum channels.
+**FabFilter Pro-C 3 for parallel compression:**
+Pro-C 3 has a built-in Mix setting, which means parallel compression can be applied on a single channel without the auxiliary routing described above. Set Ratio to 8:1, attack 8ms, release 80ms, then blend back to 25–30% using the Mix knob. This is a simplified version of parallel compression (it does not allow volume balancing between the compressed and uncompressed signals independently) but works well for individual drum channels.
 
 **Klanghelm DC8C for parallel compression (free):**
 DC8C's RMS/Peak blend control and Tube Saturation section make it particularly good for parallel compression — the saturation adds harmonic density to the compressed signal that enhances the parallel blend's contribution. Apply heavy compression, set Saturation to 20–30%, blend back at 20% parallel.
@@ -121,7 +121,7 @@ A transient shaper is not a compressor — it does not respond to signal levels.
 - When a snare sounds too snappy and needs more body: increase sustain
 - When compression is making the snare sound "over-compressed" but you still need dynamics control: use a transient shaper for attack/sustain shaping and keep the compressor at lower settings
 
-**Transient shaping plugins:** Most DAWs include a stock transient shaper. FabFilter Pro-C 2 does not include transient shaping directly, but its SC EQ and attack/release settings can approximate it. Native Instruments Transient Master and the free Flux BitterSweet are dedicated transient shapers commonly used on drums.
+**Transient shaping plugins:** Most DAWs include a stock transient shaper. FabFilter Pro-C 3 does not include transient shaping directly, but its SC EQ and attack/release settings can approximate it. Native Instruments Transient Master and the free Flux BitterSweet are dedicated transient shapers commonly used on drums.
 
 **Practical transient shaping settings for kick drum:**
 - Attack: +2 to +4 dB for more punch (higher click and attack definition)
@@ -133,15 +133,15 @@ For snare:
 
 ---
 
-## FabFilter Pro-C 2 — The full drum compression toolkit in one plugin
+## FabFilter Pro-C 3 — The full drum compression toolkit in one plugin
 
 - **Developer:** FabFilter
 - **Price:** $179
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX
-- **Why it matters for drum compression:** Pro-C 2's eight compression modes — Classic, Opto, Vocal, Mastering, Bus, Punch, Pumping, Clean — cover the full range of drum compression scenarios. Punch mode is specifically designed for transient-heavy sources like drums: it applies compression after the initial attack phase to preserve the transient while controlling the body. The built-in Dry/Wet blend simplifies parallel compression. The visual gain reduction display makes it easy to see exactly how much compression is being applied without metering guesswork.
+- **Why it matters for drum compression:** Pro-C 3's 14 compression modes cover the full range of drum compression scenarios. The built-in Mix setting simplifies parallel compression. The visual gain reduction display makes it easy to see exactly how much compression is being applied without metering guesswork.
 
-[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=how-to-compress-drums-plugins)
+[→ Get FabFilter Pro-C 3 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=how-to-compress-drums-plugins)
 
 ---
 
@@ -171,7 +171,7 @@ For snare:
 
 ## How to Choose
 
-- **If you mix drums across many different genres and sessions**, FabFilter Pro-C 2 covers all four techniques (individual, bus, parallel, and transient shaping via mode selection) in one plugin. The workflow advantage over combining multiple cheaper tools is significant at professional session volumes.
+- **If you mix drums across many different genres and sessions**, FabFilter Pro-C 3 covers all four techniques (individual, bus, parallel, and transient control via attack and release settings) in one plugin. The workflow advantage over combining multiple cheaper tools is significant at professional session volumes.
 - **If you're working on a zero-budget session**, Klanghelm DC8C handles individual drum compression with genuine character, and the Waves SSL G-Bus is frequently available for under $5 during sales. Both together cover the complete drum compression chain at minimal cost.
 - **If your drums lack cohesion as a kit**, bus compression with the SSL G-Bus at 2:1 ratio and 2–4 dB gain reduction is the single fastest fix for this specific problem.
 - **If your compression is killing the punch**, switch to parallel compression with a heavy compressor at 20–25% blend — it adds body and density without losing the transients that create impact.
@@ -201,7 +201,7 @@ A: Compressors respond to signal level — they reduce gain when the signal exce
 
 Drum compression produces its best results when applied systematically — individual processing first, then bus processing, with parallel compression as an additional layer when more density is needed. The four-step approach in this guide is not a rigid formula: some sessions need minimal individual compression; some drums need no bus processing; some tracks benefit from transient shaping alone without any traditional compression. The value of understanding the technique is that you can apply the right tool for the specific problem rather than defaulting to a single compressor with identical settings on every drum channel.
 
-The free combination of Klanghelm DC8C and the Waves SSL G-Bus (on sale) covers the essential compression toolkit for drum production. FabFilter Pro-C 2 upgrades workflow efficiency and mode flexibility when professional session volume justifies the investment.
+The free combination of Klanghelm DC8C and the Waves SSL G-Bus (on sale) covers the essential compression toolkit for drum production. FabFilter Pro-C 3 upgrades workflow efficiency and mode flexibility when professional session volume justifies the investment.
 
 ---
 

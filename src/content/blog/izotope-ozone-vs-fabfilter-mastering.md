@@ -149,7 +149,7 @@ Pro-L 2 at $199 is a single limiter. It's worth every dollar for what it does, b
 
 - **Developer:** FabFilter
 - **Price:** ~$799
-- **Why upgrade:** Pro-L 2 alone handles limiting beautifully, but if you want FabFilter's equally respected EQ (Pro-Q 4), multiband compressor (Pro-MB), and dynamics tools (Pro-C 2, Pro-DS) to complete a full FabFilter mastering chain, the Total Bundle is the most cost-effective way to own all of them. Engineers who master with FabFilter tools exclusively consider the Total Bundle one of the best investments in professional audio.
+- **Why upgrade:** Pro-L 2 alone handles limiting beautifully, but if you want FabFilter's equally respected EQ (Pro-Q 4), multiband compressor (Pro-MB), and dynamics tools (Pro-C 3, Pro-DS) to complete a full FabFilter mastering chain, the Total Bundle is the most cost-effective way to own all of them. Engineers who master with FabFilter tools exclusively consider the Total Bundle one of the best investments in professional audio.
 
 [→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=izotope-ozone-vs-fabfilter-mastering)
 
@@ -164,7 +164,7 @@ Pro-L 2 at $199 is a single limiter. It's worth every dollar for what it does, b
 | iZotope Ozone 12 Standard | $249 | Full mastering suite | AI Master Assistant, 7+ modules, IRC maximizer | [iZotope](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=izotope-ozone-vs-fabfilter-mastering) |
 | iZotope Ozone 12 Advanced | $499 | Full mastering suite + stem mastering | Stem mastering, codec preview, Master Rebalance | [iZotope](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=izotope-ozone-vs-fabfilter-mastering) |
 | FabFilter Pro-L 2 | ~$199 | Dedicated limiter | 8 limiting algorithms, True Peak, LUFS metering | [FabFilter](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=izotope-ozone-vs-fabfilter-mastering) |
-| FabFilter Total Bundle | ~$799 | Complete production toolkit | Pro-Q 4, Pro-C 2, Pro-MB, Pro-L 2, Pro-DS, and more | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=izotope-ozone-vs-fabfilter-mastering) |
+| FabFilter Total Bundle | ~$799 | Complete production toolkit | Pro-Q 4, Pro-C 3, Pro-MB, Pro-L 2, Pro-DS, and more | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=izotope-ozone-vs-fabfilter-mastering) |
 
 ---
 

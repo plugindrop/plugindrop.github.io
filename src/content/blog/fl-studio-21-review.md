@@ -226,7 +226,7 @@ Yes. FL Studio 21 supports VST2 and VST3 on Windows, and VST3 and AU on macOS. P
 
 - [Ableton vs FL Studio 2026: Which DAW Should You Buy?](/posts/ableton-live-vs-fl-studio-2026/)
 - [ADSR Sounds vs Splice: Which Sample Subscription Is Better in 2026?](/posts/adsr-vs-splice-samples/)
-- [Arturia Pigments 5 Review 2026: Is This the Best All-in-One Soft Synth?](/posts/arturia-pigments-review/)
+- [Arturia Pigments 7 in 2026: Price, Sound Engines, and What Changed](/posts/arturia-pigments-review/)
 - [Arturia V Collection 11 Review 2026: 40+ Vintage Synths Worth the Price?](/posts/arturia-v-collection-review/)
 - [Arturia V Collection vs NI Komplete 2026: Which Bundle Is Worth Your Money?](/posts/arturia-vs-native-instruments-komplete/)
 

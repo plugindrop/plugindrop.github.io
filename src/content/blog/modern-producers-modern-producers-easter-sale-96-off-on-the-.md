@@ -61,7 +61,7 @@ Verify current pricing on the product page — deals can change without warning.
 | Name | Price | Key Difference |
 |---|---|---|
 | Cymatics Starter Packs | Free–$47 | Offers free starter packs; smaller individual collections but well-known brand |
-| Splice Sounds | $9.99/mo subscription | Pay-per-sample model instead of bulk bundles; massive catalog across all genres |
+| Splice Sounds | $12.99/mo (Sounds, billed yearly) subscription | Pay-per-sample model instead of bulk bundles; massive catalog across all genres |
 | Producer Grind Bundles | Varies (frequent sales) | Similar bulk bundle model with rotating discounts; different sound designers |
 
 If you prefer picking individual samples rather than committing to a bundle, Splice's subscription model gives more flexibility. If you want maximum samples per dollar spent upfront and work in hip-hop/trap, the Modern Producers bundle approach delivers more raw volume.

@@ -148,20 +148,20 @@ Serum's developer documentation describes a dual oscillator architecture with an
 
 ---
 
-### Arturia Pigments 5 — a hybrid synthesizer with unusual depth for sound designers
+### Arturia Pigments 7 — a hybrid synthesizer with unusual depth for sound designers
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ONKCi9Ebxa8" title="Arturia Pigments 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ONKCi9Ebxa8" title="Arturia Pigments 7 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
 - **Price:** ~$99–$199 (frequent sales; MSRP varies by region)
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX
 
-Arturia's developer documentation for Pigments 5 describes a hybrid engine combining wavetable, virtual analog, sample, harmonic (additive), and granular oscillator types within a single voice architecture — five distinct synthesis types accessible without switching between separate instruments. Community discussions on Gearspace and r/synthesizers frequently highlight the arpeggiator and sequencer depth as a genuine differentiator, noting it operates at a level of complexity most softsynths reserve for dedicated sequencer plugins. The modulation system, per Arturia's documentation, supports a deep modulation slot structure with function generators and random sources included natively.
+Arturia's developer documentation for Pigments 7 lists six synthesis types (Modal, Granular, Wavetable, Sample, Harmonic and Virtual Analog) within a single instrument — six distinct synthesis types accessible without switching between separate instruments. Community discussions on Gearspace and r/synthesizers frequently highlight the arpeggiator and sequencer depth as a genuine differentiator, noting it operates at a level of complexity most softsynths reserve for dedicated sequencer plugins. The modulation system, per Arturia's documentation, supports a deep modulation slot structure with function generators and random sources included natively.
 
 **Best for:** Sound designers who want multiple synthesis approaches in a single instrument, and producers who need evolving, animated patches.
 
-[→ Get Arturia Pigments 5](https://www.arturia.com)
+[→ Get Arturia Pigments 7](https://www.arturia.com)
 
 ---
 
@@ -274,7 +274,7 @@ Kilohearts documents Snap Heap as a modular effects host for their "Snapin" form
 
 - **Developer:** FabFilter
 - **Price:** Bundle pricing (discount from individual purchase total)
-- **Why upgrade:** Pro-Q 4 alone covers EQ, but the Total Bundle adds Pro-MB (multiband dynamics), Pro-C 2 (transparent compressor), Pro-L 2 (industry-standard limiter), Pro-R 2 (algorithmic reverb), Saturn 2 (saturation and distortion), and FabFilter's creative time-based plugins — the entire FabFilter suite shares a consistent visual design language that becomes a real workflow advantage when you're working across mixing and mastering within the same session.
+- **Why upgrade:** Pro-Q 4 alone covers EQ, but the Total Bundle adds Pro-MB (multiband dynamics), Pro-C 3 (transparent compressor), Pro-L 2 (industry-standard limiter), Pro-R 2 (algorithmic reverb), Saturn 2 (saturation and distortion), and FabFilter's creative time-based plugins — the entire FabFilter suite shares a consistent visual design language that becomes a real workflow advantage when you're working across mixing and mastering within the same session.
 
 [→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one)
 
@@ -290,7 +290,7 @@ Kilohearts documents Snap Heap as a modular effects host for their "Snapin" form
 | Valhalla VintageVerb | $50 | Reverb | Vintage algorithm models, 3 color modes per algo | [Get it](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 | Valhalla Supermassive | Free | Reverb/Delay | Modulated feedback delay network, extreme tails | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Serum | $189 | Wavetable Synth | Visual modulation matrix, built-in wavetable editor | [Official Site](https://xferrecords.com/products/serum-2) |
-| Arturia Pigments 5 | ~$99–$199 | Hybrid Synth | 5 oscillator types, deep arpeggiator/sequencer | [Get it](https://www.arturia.com) |
+| Arturia Pigments 7 | $199 | Hybrid Synth | 6 synthesis types, deep arpeggiator/sequencer | [Get it](https://www.arturia.com) |
 | u-he Tyrell N6 | Free | Analog Synth | Subtractive architecture, u-he filter quality | [Download](https://u-he.com) |
 | iZotope Ozone 12 | From ~$49 | Mastering | Master Assistant, full mastering chain in one plugin | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one) |
 | Slate Digital Fresh Air | Free | Enhancer | Two-control high-freq enhancement, zero setup | [Download](https://slatedigital.com/free-plugins/) |
@@ -303,7 +303,7 @@ Kilohearts documents Snap Heap as a modular effects host for their "Snapin" form
 
 - **If you only buy one plugin this year:** Get FabFilter Pro-Q 4. Per-band dynamic EQ and M/S processing address Studio One's most documented native limitation, and the plugin will be in your sessions for the next decade.
 - **If reverb is your gap:** Valhalla VintageVerb at $50 is the strongest value-per-dollar in the plugin market. Community consensus has placed it above reverbs costing $200+ for years. There is no reason to spend more until you have a use case VintageVerb cannot cover.
-- **If you're building a synthesis stack:** Serum if you work in EDM, pop, bass music, or any genre driven by sound design. Arturia Pigments 5 if you need multiple synthesis types — granular, additive, and wavetable — in a single instrument.
+- **If you're building a synthesis stack:** Serum if you work in EDM, pop, bass music, or any genre driven by sound design. Arturia Pigments 7 if you need multiple synthesis types — granular, additive, and wavetable — in a single instrument.
 - **If you mix and master your own releases without engineering training:** iZotope Neutron 4 paired with Ozone 12 Elements is the most practical combination. The AI starting points in both plugins do not replace trained ears, but they reduce the "where do I even start" problem to a manageable one.
 - **If you want creative effects without committing to the Soundtoys budget:** Start with Valhalla Supermassive (free) and Kilohearts Snap Heap (free). Invest in Soundtoys 5 when you have specific use cases — EchoBoy for tape delay, Decapitator for saturation — that you cannot meet with those free tools.
 

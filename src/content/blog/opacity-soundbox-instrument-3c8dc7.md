@@ -62,7 +62,7 @@ Opacity Soundbox Instrument is a virtual instrument available through Plugin Bou
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Arturia Pigments | ~$99 (full price) | Full-featured wavetable/sample synth with deep modulation — broader scope, higher price |
+| Arturia Pigments | $199 ($99 on sale) | Full-featured wavetable/sample synth with deep modulation — broader scope, higher price |
 | Native Instruments Komplete Start | Free | Massive free bundle, but sounds are more conventional and less specialized |
 | Output Portal | ~$99 | Audio effect/granular processor rather than a standalone instrument |
 

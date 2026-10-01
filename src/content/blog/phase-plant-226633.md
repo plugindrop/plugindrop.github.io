@@ -73,7 +73,7 @@ Half-price sales on flagship synths at this tier don't happen constantly. Kilohe
 |---|---|---|
 | Vital | Free / paid tiers | Wavetable-only engine; free tier available |
 | Serum (Xfer) | ~$189 | Industry-standard wavetable synth; no modular routing |
-| Pigments (Arturia) | ~$99 | Multi-engine with spectral synthesis; different modulation architecture |
+| Pigments (Arturia) | $199 ($99 on sale) | Multi-engine with spectral synthesis; different modulation architecture |
 
 If you only need wavetable synthesis and want to start free, Vital covers that ground at no cost. If you want a multi-engine synth with modular signal routing and integration with a broader effects ecosystem, Phase Plant offers a distinct architecture that the others don't replicate.
 

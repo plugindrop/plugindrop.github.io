@@ -66,7 +66,7 @@ AudioCipher doesn't run deep discounts constantly — 76% off is a significant m
 | Name | Price | Key Difference |
 |---|---|---|
 | Cymatics Free MIDI Packs | Free | Smaller, genre-specific packs; free but fragmented |
-| Splice MIDI Library | ~$7.99–$13.99/mo | Subscription model; massive catalog but ongoing cost |
+| Splice MIDI Library | $12.99/mo (Sounds, billed yearly) | Subscription model; massive catalog but ongoing cost |
 | ADSR MIDI Files | Varies (per pack) | Purchased individually; more targeted but higher per-pack cost |
 
 If free is the priority and you only need packs for one or two genres, Cymatics' free downloads cover the basics. If you want the largest possible catalog and don't mind a recurring fee, Splice wins on volume. MIDI Vault sits in the middle — one upfront payment, ownership, and a broad enough library to serve producers working across styles.

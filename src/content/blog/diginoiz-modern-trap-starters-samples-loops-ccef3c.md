@@ -71,7 +71,7 @@ Verify current pricing on the product page — deals can change.
 | Name | Price | Key Difference |
 |---|---|---|
 | Cymatics – Free Trap Packs | Free | Free tier available; fewer loops per pack, less curated selection |
-| Splice Sounds (subscription) | ~$9.99/mo | Massive rotating library vs. one-time pack purchase |
+| Splice Sounds (subscription) | $12.99/mo (Sounds, billed yearly) | Massive rotating library vs. one-time pack purchase |
 | Other Diginoiz trap packs | Varies | Same label quality, different stylistic subgenres (e.g., dark trap, melodic trap) |
 
 If budget is the primary concern and you only need a handful of loops, Cymatics' free offerings can fill the gap. If you produce across multiple genres regularly, a Splice subscription covers more ground per dollar. But for a one-time, own-it-forever trap loop collection at $12, this Diginoiz pack offers a straightforward value proposition without the ongoing subscription cost.

@@ -161,7 +161,7 @@ On acoustic drum kits, OTT in this role is less common; community discussion the
 
 - **Developer:** FabFilter
 - **Price:** Bundle pricing (varies)
-- **Why upgrade:** Pro-Q 4 alone handles EQ, but the Total Bundle adds Pro-C 2 (FabFilter's compressor), Pro-MB (multiband dynamics), and Pro-L 2 (limiter) — tools the community recommends for completing the drum bus processing chain when Pro-Q 4 is already central to the workflow.
+- **Why upgrade:** Pro-Q 4 alone handles EQ, but the Total Bundle adds Pro-C 3 (FabFilter's compressor), Pro-MB (multiband dynamics), and Pro-L 2 (limiter) — tools the community recommends for completing the drum bus processing chain when Pro-Q 4 is already central to the workflow.
 
 [→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-drums-plugins)
 
@@ -186,7 +186,7 @@ On acoustic drum kits, OTT in this role is less common; community discussion the
 - **If your drum bus sounds like separate tracks rather than a cohesive kit,** the Waves SSL G-Master Buss Compressor's Auto release mode is the fastest documented path to fixing this: 4:1 ratio, 10–20ms attack, 2–4dB of gain reduction.
 - **If your kick sounds soft or your snare lacks snap,** place Transient Master before the bus compressor and increase Attack — this is the correct workflow before reaching for more compression, which will only flatten what's already there.
 - **If you're producing electronic music and the drums sound thin or lifeless,** OTT at 30–40% Depth on a parallel return is the technique r/edmproduction most consistently recommends for density without destroyed transients.
-- **If you're already committed to the FabFilter workflow,** the Total Bundle adds the compressor and limiter to complement Pro-Q 4's EQ work — the community consistently describes Pro-C 2 and Pro-Q 4 together as a complete channel processing chain.
+- **If you're already committed to the FabFilter workflow,** the Total Bundle adds the compressor and limiter to complement Pro-Q 4's EQ work — the community consistently describes Pro-C 3 and Pro-Q 4 together as a complete channel processing chain.
 
 ---
 

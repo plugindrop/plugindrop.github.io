@@ -71,7 +71,7 @@ A 40% discount on a niche, style-specific pack like this is worth paying attenti
 | Name | Price | Key Difference |
 |---|---|---|
 | Cymatics Dark Trap Packs | Check site | Broader dark trap scope, less drill-specific |
-| Splice (subscription) | ~$9.99/mo | Per-sample access model vs. one-time purchase |
+| Splice (subscription) | $12.99/mo (Sounds, billed yearly) | Per-sample access model vs. one-time purchase |
 | Other Project Blvck titles on ADSR | Check site | Same creator, different stylistic focus |
 
 If you need strictly drill-specific material and prefer owning your sounds outright, this pack's focused aesthetic makes it the more targeted buy. A Splice subscription covers more ground genre-wise, but you're renting access rather than owning the files permanently.

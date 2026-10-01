@@ -65,7 +65,7 @@ Note: Verify current pricing on the product page — deals can change.
 | Name | Price | Key Difference |
 |---|---|---|
 | Loopmasters Afro House collections | Varies (~$20–$50) | Larger catalog, individual loop packs rather than construction kits |
-| Splice subscription | ~$8–$20/month | Per-sample credit system; broad genre selection but ongoing cost |
+| Splice subscription | $12.99/mo (Sounds, billed yearly) | Per-sample credit system; broad genre selection but ongoing cost |
 | Native Instruments Maschine Expansions (Afro-influenced) | ~$49–$99 | Hardware/software integrated; requires NI ecosystem |
 
 If you want construction kits specifically and a one-time purchase, Afro Deep at this price undercuts most comparable offerings. If you prefer browsing individual loops across genres with flexible credits, a Splice subscription covers more ground at a recurring cost. For NI Maschine users who want everything inside their existing workflow, NI's own expansions are the more integrated option.

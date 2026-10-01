@@ -10,7 +10,7 @@ draft: false
 heroImage: "/images/news-izotope-releases-rx-12-audio-editing-and-restoration-su_og.jpg"
 ---
 
-**TL;DR:** iZotope has released RX 12, the latest update to its flagship audio repair and restoration platform. The new version adds machine learning-powered tools and expanded source separation across its module ecosystem. If you're deciding whether to buy now or wait, the short answer: RX rarely drops far below its Black Friday/Black Friday-adjacent pricing, and a new major version release typically means the previous version's upgrade discounts tighten up — so timing matters here. [→ Get iZotope RX 12 at Plugin Boutique](https://www.pluginboutique.com/search?q=izotope%20rx.html&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-izotope-releases-rx-12-audio-editing-and-restoration-su&chan=art&data1=news-izotope-releases-rx-12-audio-editing-and-restoration-su)
+**TL;DR:** iZotope has released RX 12, the latest update to its flagship audio repair and restoration platform. The new version adds machine learning-powered tools and expanded source separation across its module ecosystem. iZotope's store lists RX 12 Elements at $99, Standard at $399 and Advanced at $1,399. [→ Get iZotope RX 12 at Plugin Boutique](https://www.pluginboutique.com/search?q=izotope%20rx.html&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-izotope-releases-rx-12-audio-editing-and-restoration-su&chan=art&data1=news-izotope-releases-rx-12-audio-editing-and-restoration-su)
 
 ---
 
@@ -53,15 +53,15 @@ iZotope RX has held a consistent reputation on professional audio forums for yea
 
 ## Pricing & Deal Details
 
-RX 12 ships in the same three-tier structure as previous versions, with feature access scaling by tier. Approximate 2026 street pricing:
+RX 12 ships in three editions, with feature access scaling by edition. Prices as listed on iZotope's store:
 
-| Tier | Regular Price | Typical Sale Price | Best For |
-|------|--------------|--------------------|----------|
-| RX 12 Elements | ~$29 | ~$19–24 | Podcasters, voice-over, basic noise removal |
-| RX 12 Standard | ~$399 | ~$279–299 | Music producers, project studios |
-| RX 12 Advanced | ~$1,199 | ~$799–899 | Post-production, broadcast, mastering |
+| Tier | List Price | Best For |
+|------|-----------|----------|
+| RX 12 Elements | $99 | Podcasters, voice-over, basic noise removal |
+| RX 12 Standard | $399 | Music producers, project studios |
+| RX 12 Advanced | $1,399 | Post-production, broadcast, mastering |
 
-Upgrade pricing from RX 11 typically runs 40–50% off the full tier price, and iZotope has historically honored upgrade paths for at least the two prior major versions. iZotope runs promotional discounts several times per year, with the deepest cuts landing around Black Friday and the iZotope "Everything Bundle" sale windows — RX Standard and Advanced rarely go lower than their Black Friday pricing outside of those windows.
+iZotope also lists an RX Post Production Suite 9 bundle at $1,799. For upgrade terms from RX 11, check your iZotope account or the iZotope store.
 
 *Price verified at publication. Check the link for current availability.*
 
@@ -84,13 +84,13 @@ If the workflow is primarily voice cleanup with minimal manual adjustment, ERA o
 ## FAQ
 
 **Q: Does iZotope RX 12 require iLok?**
-A: iZotope uses its own license manager rather than iLok. Check the official iZotope site for exact activation details for RX 12.
+A: Check the official iZotope site for activation and licensing details for RX 12.
 
 **Q: Can RX 12 run as a plugin inside a DAW?**
 A: Yes — RX modules are available as VST, AU, and AAX plugins in addition to the standalone application.
 
 **Q: Is RX 12 a free upgrade from RX 11?**
-A: No — free upgrade eligibility only applies if you purchased RX 11 within a short window before the RX 12 release (typically 60–90 days, per iZotope's usual policy). Otherwise, existing owners pay a discounted upgrade price rather than the full tier cost. Check your iZotope account for eligibility.
+A: iZotope's upgrade terms are not covered here. Check your iZotope account or the iZotope store for upgrade eligibility and pricing.
 
 **Q: What editions does RX 12 come in?**
 A: RX is available in three tiers — Elements, Standard, and Advanced — each offering a different subset of the full module library. Higher tiers include advanced tools like Music Rebalance and Dialogue Isolation.
@@ -103,14 +103,14 @@ A: See the [When to Buy](#when-to-buy) section below — it depends on whether y
 ## When to Buy
 
 **Buy now if:**
-- You're on a deadline (podcast episode, post-production delivery, mastering job) and need dialogue cleanup, de-noise, or spectral repair immediately — the cost of a delayed project outweighs a ~20–30% discount.
-- You're upgrading from RX 11 within iZotope's free/discounted upgrade window — that window closes, and waiting past it means paying full upgrade price later instead of the promotional rate.
-- You only need RX Elements — at ~$19–29, the entry tier is cheap enough that timing the market saves you single-digit dollars.
+- You're on a deadline (podcast episode, post-production delivery, mastering job) and need dialogue cleanup, de-noise, or spectral repair immediately — the cost of a delayed project outweighs waiting for a possible discount.
+- You're upgrading from RX 11 — check your iZotope account for the upgrade terms that apply to you.
+- You only need RX Elements — at $99 list, the entry tier is the lowest-cost way in.
 
 **Wait for a sale if:**
-- You're eyeing RX 12 Advanced (~$1,199 list) — this tier sees the largest dollar-value discounts, often $300–400 off during Black Friday or iZotope's bundle promotions.
-- You don't have an immediate project need — RX gets discounted multiple times a year, so there's little upside to paying full price on Standard or Advanced without a deadline forcing your hand.
-- You're open to bundles — iZotope periodically packages RX with Nectar, Neutron, or Ozone in "Everything Bundle" style deals that beat buying RX standalone even at its sale price.
+- You're eyeing RX 12 Advanced ($1,399 list) — it is the largest single dollar outlay, so it is worth checking for current promotions first.
+- You don't have an immediate project need — without a deadline forcing your hand, there is no rush to pay list price on Standard or Advanced.
+- You're open to bundles — iZotope lists the RX Post Production Suite 9 at $1,799, which includes RX 12 Advanced alongside other iZotope products; compare it against buying RX standalone.
 
 [→ Check current iZotope RX 12 pricing at Plugin Boutique](https://www.pluginboutique.com/search?q=izotope%20rx.html&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-izotope-releases-rx-12-audio-editing-and-restoration-su&chan=art&data1=news-izotope-releases-rx-12-audio-editing-and-restoration-su)
 

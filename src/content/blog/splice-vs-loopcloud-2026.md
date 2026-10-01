@@ -10,7 +10,7 @@ evergreen: true
 score: 8.00
 draft: false
 ---
-**TL;DR:** Splice and Loopcloud both offer 4M+ samples and competitive monthly pricing, but they serve different workflows. Loopcloud wins on DAW integration and has a free tier to try before you pay. Splice stands out with its unique rent-to-own plugin model. If DAW-native previewing matters to you, Loopcloud is the stronger pick.
+**TL;DR:** Splice (3M+ sounds) and Loopcloud (4M+ samples) both sell credit-based sample subscriptions, but they serve different workflows. Loopcloud wins on DAW integration and has a free tier to try before you pay. Splice stands out with its unique rent-to-own plugin model. If DAW-native previewing matters to you, Loopcloud is the stronger pick.
 
 
 <div class="video-embed">
@@ -21,12 +21,12 @@ draft: false
 
 | Feature | Splice | Loopcloud |
 |---|---|---|
-| Starting price | $7.99/mo | Free tier available |
-| Paid entry | $7.99/mo (Starter) | $8.99/mo (Basic) |
-| Library size | 4M+ sounds | 4M+ samples |
+| Starting price | $12.99/mo (Sounds, billed yearly) | Free tier available |
+| Paid entry | $12.99/mo (Sounds, billed yearly) | $8.99/mo (Basic) |
+| Library size | 3M+ sounds | 4M+ samples |
 | Downloads | Credit-based | Credit-based |
 | Offline use | Yes (downloaded files) | Yes (downloaded files) |
-| DAW integration | Browser only | Desktop plugin with in-DAW preview |
+| DAW integration | Bridge plugin (VST3/AU) | Desktop plugin with in-DAW preview |
 | Plugin rent-to-own | Yes | No |
 | AI-powered search | No | Yes |
 | Best for | Plugin renters + sample buyers | DAW-integrated workflow producers |
@@ -38,15 +38,14 @@ draft: false
 Splice is one of the most widely used sample subscription platforms. Its library covers hip-hop, electronic, pop, R&B, and beyond — with sounds from established producers and labels.
 
 **Pricing (2026):**
-- **Starter** — $7.99/mo — 100 credits/mo
-- **Creator** — $13.99/mo — 300 credits/mo
-- **Producer** — $39.99/mo — 2,000 credits/mo
+- **Sounds** — $12.99/mo, billed yearly — about 100 downloads/mo
+- **Creator** — $4.99 for the first month, then $19.99/mo — about 200 downloads/mo
 
-Each credit corresponds to one sample download. Credits roll over for up to 3 months. Samples are royalty-free once downloaded.
+Per Splice's FAQ, each sample costs one credit, and MIDI patterns and presets use up to three credits each. Unused credits roll over to the next month, and you keep what you download even if you cancel.
 
 The feature that makes Splice unique is **rent-to-own plugins**. Subscribers can pay monthly installments toward purchasing full plugins from developers like Output, iZotope, and Arturia. This is a distinct value-add that Loopcloud does not replicate.
 
-The Splice desktop app handles downloading and organizing samples, but previewing is done through the browser or app — not directly inside a DAW session.
+The Splice desktop app handles downloading and organizing samples. Splice's Bridge plugin lets you audition sounds inside a project without using credits.
 
 ---
 
@@ -75,7 +74,7 @@ Loopcloud also offers **AI-powered search**, which can match sounds by mood, gen
 
 **AI search:** Loopcloud's AI-powered search can reduce time spent browsing large libraries. Splice relies on tag-based filtering.
 
-**Pricing parity:** Both platforms sit in the $8–14/mo range for their core tiers, so cost is not a decisive factor at the entry level.
+**Pricing:** Compare the current plan prices on each platform's own site before deciding.
 
 ---
 

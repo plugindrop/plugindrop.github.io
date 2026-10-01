@@ -217,15 +217,15 @@ For producers using Waves TrueVerb primarily for plate reverb on vocals, snares,
 
 ---
 
-### FabFilter Pro-C 2 — Studio-grade compression for every style in one plugin
+### FabFilter Pro-C 3 — Studio-grade compression for every style in one plugin
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/mSzvpCz-M2k" title="FabFilter Pro-C 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $149
-- **Why upgrade:** DC1A, Kotelnikov, and LALA each excel at one compression style. Pro-C 2 covers eight distinct compression characters — Clean, Classic, Opto, Vocal, Mastering, Bus, Punch, and Pumping — in a single plugin with a real-time gain reduction display and sidechain filtering. For producers who need one compressor that handles every job without assembling a free collection, Pro-C 2 replaces the entire free compression toolkit.
+- **Why upgrade:** DC1A, Kotelnikov, and LALA each excel at one compression style. Pro-C 3 covers 14 distinct compression characters in a single plugin with a real-time gain reduction display and sidechain filtering. For producers who need one compressor that handles every job without assembling a free collection, Pro-C 3 replaces the entire free compression toolkit.
 
-[→ Get FabFilter Pro-C 2](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in)
+[→ Get FabFilter Pro-C 3](https://www.fabfilter.com/products/pro-c-3-compressor-plug-in)
 
 ---
 
@@ -254,7 +254,7 @@ For producers using Waves TrueVerb primarily for plate reverb on vocals, snares,
 | Valhalla Supermassive | Free | Algorithmic Reverb | 14 algorithms, lush tails, sound design depth | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves) |
 | TAL-Reverb-4 | Free | Plate Reverb | Clean plate character, low CPU, simple controls | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves) |
 | FabFilter Pro-Q 4 | $179 | Dynamic EQ | Per-band dynamics, collision detection, speed | [Developer Site](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
-| FabFilter Pro-C 2 | $149 | Multi-Style Comp | 8 compression modes, real-time GR display | [Developer Site](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in) |
+| FabFilter Pro-C 3 | $199 | Multi-Style Comp | 14 compression modes, real-time GR display | [Developer Site](https://www.fabfilter.com/products/pro-c-3-compressor-plug-in) |
 | Valhalla Room | $50 | Room Reverb | Realistic rooms, early reflections, natural decay | [Developer Site](https://valhalladsp.com/shop/reverb/valhalla-room/) |
 
 ---
@@ -293,7 +293,7 @@ Valhalla DSP, Tokyo Dawn Records, Klanghelm, TAL Software, Ignite Amps, and Voxe
 
 - [Ableton vs FL Studio 2026: Which DAW Should You Buy?](/posts/ableton-live-vs-fl-studio-2026/)
 - [ADSR Sounds vs Splice: Which Sample Subscription Is Better in 2026?](/posts/adsr-vs-splice-samples/)
-- [Arturia Pigments 5 Review 2026: Is This the Best All-in-One Soft Synth?](/posts/arturia-pigments-review/)
+- [Arturia Pigments 7 in 2026: Price, Sound Engines, and What Changed](/posts/arturia-pigments-review/)
 - [Arturia V Collection 11 Review 2026: 40+ Vintage Synths Worth the Price?](/posts/arturia-v-collection-review/)
 - [Arturia V Collection vs NI Komplete 2026: Which Bundle Is Worth Your Money?](/posts/arturia-vs-native-instruments-komplete/)
 
@@ -301,7 +301,7 @@ Valhalla DSP, Tokyo Dawn Records, Klanghelm, TAL Software, Ignite Amps, and Voxe
 
 ## Final Thoughts
 
-The best free alternatives to Waves plugins in 2026 aren't compromises — TDR Nova, Valhalla Supermassive, and TDR Kotelnikov are tools that working producers use deliberately, and the case for them is their quality, not their price. Start with those three, add Klanghelm DC1A for character compression and TAL-Reverb-4 for plate work, and you have a complete EQ, compression, and reverb chain without a subscription fee attached. When you're ready to invest, FabFilter Pro-Q 4, FabFilter Pro-C 2, and Valhalla Room are the upgrades with the strongest community consensus behind them.
+The best free alternatives to Waves plugins in 2026 aren't compromises — TDR Nova, Valhalla Supermassive, and TDR Kotelnikov are tools that working producers use deliberately, and the case for them is their quality, not their price. Start with those three, add Klanghelm DC1A for character compression and TAL-Reverb-4 for plate work, and you have a complete EQ, compression, and reverb chain without a subscription fee attached. When you're ready to invest, FabFilter Pro-Q 4, FabFilter Pro-C 3, and Valhalla Room are the upgrades with the strongest community consensus behind them.
 
 [→ Browse more professional tools on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves)
 

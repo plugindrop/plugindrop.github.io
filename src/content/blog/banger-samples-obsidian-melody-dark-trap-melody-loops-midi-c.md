@@ -73,7 +73,7 @@ A 40% discount on a sub-$20 pack is a solid deal percentage — the absolute dol
 | Name | Price | Key Difference |
 |---|---|---|
 | Looperman Free Trap Loops | Free | Community-uploaded, no MIDI included, quality varies |
-| Splice Trap Melody Packs | ~$7.99/mo (subscription) | Subscription access to thousands of loops vs. one-time purchase |
+| Splice Trap Melody Packs | $12.99/mo (Sounds, billed yearly) (subscription) | Subscription access to thousands of loops vs. one-time purchase |
 | ADSR Sounds Other Trap Bundles | Varies | Larger content volume at higher price points |
 
 If you want free starting material and don't need MIDI, Looperman covers the basics. If you're already on Splice and have subscription access, that may overlap. Where Obsidian Melody stands out is the combination of a dark, consistent aesthetic with MIDI flexibility at a one-time, no-subscription price.

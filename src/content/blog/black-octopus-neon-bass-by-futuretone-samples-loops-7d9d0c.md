@@ -61,7 +61,7 @@ Verify current pricing on the product page — deals can change.
 |---|---|---|
 | Other Black Octopus Bass Packs | Varies | Same label, different producer collaborations and sub-genres |
 | Generic Bass Loop Packs (ADSR) | Varies | Broader genre coverage, less artist-curated cohesion |
-| Splice Bass Loops (subscription) | ~$7.99/mo (subscription) | Pay-per-sample model via subscription rather than one-time purchase |
+| Splice Bass Loops (subscription) | $12.99/mo (Sounds, billed yearly) (subscription) | Pay-per-sample model via subscription rather than one-time purchase |
 
 If you want a tight, artist-defined bass aesthetic and prefer a one-time purchase over a subscription, Neon Bass fits that gap well. If you need broader genre coverage or want to cherry-pick individual samples, a Splice subscription gives more flexibility but locks you into a recurring cost.
 

@@ -65,7 +65,7 @@ Verify current pricing on the product page — deals can change.
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Splice | ~$8–$17/month | Subscription model; pay per sample credit, not per pack |
+| Splice | $12.99/mo (Sounds, billed yearly) | Subscription model; pay per sample credit, not per pack |
 | Loopmasters | Varies per pack (~$20–$40) | Individual pack purchases; large catalog but no "everything" bundle |
 | Output Arcade | ~$10/month | Loop-focused, browser-based playback built into the interface |
 

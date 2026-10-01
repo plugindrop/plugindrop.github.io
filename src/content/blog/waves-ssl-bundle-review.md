@@ -11,7 +11,7 @@ heroImage: "/images/waves-ssl-bundle-review.jpg"
 draft: false
 priceTrack:
   - "FabFilter Pro-Q 4"
-  - "FabFilter Pro-C 2"
+  - "FabFilter Pro-C 3"
 ---
 **TL;DR:** The Waves SSL Bundle — anchored by the SSL E-Channel and SSL G-Master Buss Compressor — remains one of the most cost-effective ways to bring genuine SSL 4000 console character into a DAW in 2026. The E-Channel earns a permanent slot on almost every channel strip, and the G-Bus Compressor is still the go-to glue compressor for thousands of professional mix engineers. Both are worth buying, especially during one of Waves' frequent deep-discount sales.
 
@@ -110,7 +110,7 @@ The mix knob is genuinely useful. Running the compressor at 30–50% wet allows 
 
 - **Developer:** FabFilter
 - **Price:** Premium bundle pricing (check current price)
-- **Why upgrade:** The Waves SSL tools prioritize analog character and speed. FabFilter's Total Bundle — anchored by Pro-Q 4, Pro-C 2, and Pro-L 2 — prioritizes precision, transparency, and modern workflow features including dynamic EQ, mid/side processing, and linear-phase modes unavailable in the SSL emulations. For producers who want both worlds, the Waves SSL bundle handles the character work while FabFilter handles the surgical corrections. Together, they cover every scenario across tracking, mixing, and mastering.
+- **Why upgrade:** The Waves SSL tools prioritize analog character and speed. FabFilter's Total Bundle — anchored by Pro-Q 4, Pro-C 3, and Pro-L 2 — prioritizes precision, transparency, and modern workflow features including dynamic EQ, mid/side processing, and linear-phase modes unavailable in the SSL emulations. For producers who want both worlds, the Waves SSL bundle handles the character work while FabFilter handles the surgical corrections. Together, they cover every scenario across tracking, mixing, and mastering.
 
 [→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=waves-ssl-bundle-review)
 
@@ -123,7 +123,7 @@ The mix knob is genuinely useful. Running the compressor at 30–50% wet allows 
 | Waves SSL E-Channel | ~$29–49 (sale) | Channel Strip | 4-band parametric EQ, HPF/LPF, compressor, expander-gate, analog character | [Waves.com](https://www.waves.com/plugins/ssl-e-channel) |
 | Waves SSL G-Master Buss Compressor | ~$29–49 (sale) | Bus Compressor | Mix bus glue, parallel mix knob, program-dependent release, SSL 4000G emulation | [Waves.com](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | Waves SSL 4000 Collection | Bundle (sale) | Full Console Bundle | E-Channel + G-Channel + G-EQ, complete SSL workflow | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=waves-ssl-bundle-review) |
-| FabFilter Total Bundle | Premium | Professional Suite | Pro-Q 4, Pro-C 2, Pro-L 2, dynamic EQ, linear phase, surgical precision | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=waves-ssl-bundle-review) |
+| FabFilter Total Bundle | Premium | Professional Suite | Pro-Q 4, Pro-C 3, Pro-L 2, dynamic EQ, linear phase, surgical precision | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=waves-ssl-bundle-review) |
 
 ---
 
@@ -148,7 +148,7 @@ A: Waves runs aggressive discount campaigns multiple times per year, often dropp
 A: Yes, and this is actually a common professional approach: the E-Channel handles per-channel processing (EQ and dynamics on individual tracks), while the G-Bus Compressor sits on the mix bus or a submix bus to glue everything together. They are designed to complement each other.
 
 **Q: Does the Waves SSL G-Master Buss Compressor work for mastering?**
-A: It can, but with caveats. The G-Bus Compressor adds color and is not a transparent mastering tool. Some mastering engineers use it at very low gain reduction (1–2dB) for its tonal characteristics, but for transparent limiting and dynamic control in mastering, a dedicated mastering compressor or the FabFilter Pro-C 2/Pro-L 2 combination is more appropriate.
+A: It can, but with caveats. The G-Bus Compressor adds color and is not a transparent mastering tool. Some mastering engineers use it at very low gain reduction (1–2dB) for its tonal characteristics, but for transparent limiting and dynamic control in mastering, a dedicated mastering compressor or the FabFilter Pro-C 3/Pro-L 2 combination is more appropriate.
 
 **Q: What DAWs are the Waves SSL plugins compatible with?**
 A: The SSL E-Channel and G-Master Buss Compressor support VST3, VST2, AU, and AAX formats, covering Ableton Live, FL Studio, Logic Pro, Pro Tools, Studio One, Cubase, Reaper, and all other major DAWs on both Windows and macOS. Waves also provides an offline installer and license management through Waves Central.

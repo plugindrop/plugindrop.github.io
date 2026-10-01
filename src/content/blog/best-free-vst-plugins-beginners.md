@@ -413,7 +413,7 @@ MeldaProduction's MFreeFXBundle packages 37 audio plugins covering EQ, compressi
 
 - **Developer:** FabFilter
 - **Price:** €899 (frequent sales)
-- **Why upgrade:** FabFilter's Pro-Q 4, Pro-C 2, and Pro-R are used in virtually every major mixing studio worldwide. The Total Bundle covers EQ, compression, reverb, delay, limiting, and saturation at a level of transparency and control that no free plugin on this list can fully match.
+- **Why upgrade:** FabFilter's Pro-Q 4, Pro-C 3, and Pro-R are used in virtually every major mixing studio worldwide. The Total Bundle covers EQ, compression, reverb, delay, limiting, and saturation at a level of transparency and control that no free plugin on this list can fully match.
 
 [→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners)
 

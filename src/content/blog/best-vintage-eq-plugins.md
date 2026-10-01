@@ -181,7 +181,7 @@ For producers who want to understand what the community means when they say "Pul
 
 - **Developer:** FabFilter
 - **Price:** ~$899 (significant saving versus individual plugin purchases)
-- **Why upgrade:** Pro-Q 4 is the centerpiece, but the Total Bundle adds Pro-L 2 (limiting), Pro-C 2 (compression), Pro-MB (multiband dynamics), Pro-DS (de-essing), Saturn 2 (saturation and harmonic distortion), and Timeless 3 (delay). For producers building a complete mixing environment around FabFilter's interface consistency and workflow, the bundle is the most economical path to the full toolkit.
+- **Why upgrade:** Pro-Q 4 is the centerpiece, but the Total Bundle adds Pro-L 2 (limiting), Pro-C 3 (compression), Pro-MB (multiband dynamics), Pro-DS (de-essing), Saturn 2 (saturation and harmonic distortion), and Timeless 3 (delay). For producers building a complete mixing environment around FabFilter's interface consistency and workflow, the bundle is the most economical path to the full toolkit.
 
 [→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=best-vintage-eq-plugins)
 

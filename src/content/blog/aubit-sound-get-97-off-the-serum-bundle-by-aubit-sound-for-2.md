@@ -68,7 +68,7 @@ At $20 for what is normally a $608 bundle, this works out to exceptional per-pac
 | Name | Price | Key Difference |
 |---|---|---|
 | Cymatics Serum Presets | Varies (often free tiers available) | Free intro packs available; individual pack model |
-| Splice Sounds | ~$7.99–$13.99/month | Subscription-based; royalty-free samples and presets across many synths |
+| Splice Sounds | $12.99/mo (Sounds, billed yearly) | Subscription-based; royalty-free samples and presets across many synths |
 | Loopmasters Serum Packs | Varies per pack | Individual pack purchases; broad genre selection |
 
 If you prefer a subscription model with ongoing access to new content, Splice covers more ground. If you want a one-time purchase with immediate ownership and no recurring cost, the Aubit bundle at $20 is structured to deliver more upfront value.

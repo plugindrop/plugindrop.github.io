@@ -16,7 +16,7 @@ draft: false
 
 | Platform | Cost | Best For | Explore |
 |----------|------|----------|---------|
-| Splice Sounds | ~$7.99–$13.99/month | Largest sample library; rent-to-own plugin model | splice.com |
+| Splice Sounds | $12.99/month (billed yearly) | Largest sample library; rent-to-own plugin model | splice.com |
 | ADSR Sounds | ~$7.99–$14.99/month | Curated EDM samples; integrated course access | adsr.com |
 | Plugin Boutique | No monthly fee; pay per plugin | Permanent plugin ownership; widest developer catalog | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=splice-vs-adsr-vs-plugin-boutique-2026) |
 
@@ -40,11 +40,11 @@ This guide is for producers deciding where their music budget goes in 2026 — w
 
 - **Company:** Splice
 - **Model:** Credits-based subscription (samples) + rent-to-own (plugins)
-- **Cost:** Approximately $7.99/month (Basic) to $13.99/month (Pro); unused credits roll over
+- **Cost:** Sounds is listed at $12.99/month billed yearly (about 100 downloads a month); Creator is listed at $4.99 for the first month, then $19.99/month (about 200 downloads); unused credits roll over
 - **Access:** Web app + desktop downloader; Windows and macOS
 - **Content Types:** Samples, loops, one-shots, MIDI, presets, plugin rentals
 
-Splice's sample library is the most consistently cited as the largest in the industry. Across r/edmproduction, r/makinghiphop, and production forums from Gearspace to Discord communities, Splice is the default reference point when producers discuss sample subscriptions. The scale — hundreds of millions of individual files spanning genres — means genre diversity is genuine. Urban, pop, and hip-hop producers consistently rate Splice's loop and one-shot libraries as the benchmark against which other platforms are measured.
+Splice's sample library is the most consistently cited as the largest in the industry. Across r/edmproduction, r/makinghiphop, and production forums from Gearspace to Discord communities, Splice is the default reference point when producers discuss sample subscriptions. The scale — 3M+ sounds spanning genres — means genre diversity is genuine. Urban, pop, and hip-hop producers consistently rate Splice's loop and one-shot libraries as the benchmark against which other platforms are measured.
 
 The credits system differs from a flat "X downloads per month" structure. Credits function like currency: you spend them per download at rates that vary by file type and source. Unused credits roll over under most plan terms, which reduces the pressure to force downloads to justify the subscription cost. Splice's desktop downloader handles file organization and integrates with the search experience for producers building large local libraries.
 
@@ -110,7 +110,7 @@ Plugin Boutique's economics are pure ownership: one payment, permanent license. 
 
 | Platform | Model | Monthly Cost | Sample Library | Plugin Access | Courses | Ownership |
 |----------|-------|-------------|----------------|---------------|---------|-----------|
-| Splice | Subscription + rent-to-own | ~$7.99–$13.99 | Largest; all genres | Rent-to-own (builds to ownership) | No | Partial |
+| Splice | Subscription + rent-to-own | $12.99 (billed yearly) | Largest; all genres | Rent-to-own (builds to ownership) | No | Partial |
 | ADSR Sounds | Subscription | ~$7.99–$14.99 | Large; EDM-curated | Access-only subscription | Yes | No |
 | Plugin Boutique | Retail marketplace | None | Sample packs only (no subscription) | Buy outright, own forever | No | Yes, always |
 
@@ -161,7 +161,7 @@ Splice is the right pick when sample volume or rent-to-own plugin access is the 
 - [Where to Find the Best Free Sample Packs in 2026 (Curated List)](/posts/best-free-sample-packs-2026/)
 - [ADSR Sounds vs Splice: Which Sample Subscription Is Better in 2026?](/posts/adsr-vs-splice-samples/)
 - [Kontakt vs Decent Sampler: Do You Actually Need to Pay for a Sampler?](/posts/kontakt-vs-decent-sampler/)
-- [Arturia Pigments 5 Review: Is This the Best All-in-One Soft Synth?](/posts/arturia-pigments-review/)
+- [Arturia Pigments 7 in 2026: Price, Sound Engines, and What Changed](/posts/arturia-pigments-review/)
 
 ---
 

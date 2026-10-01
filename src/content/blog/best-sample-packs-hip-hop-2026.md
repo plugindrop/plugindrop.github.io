@@ -16,7 +16,7 @@ evergreen: true
 
 | Use Case | Pick | Price (2026) | Buy Now or Wait? |
 |---|---|---|---|
-| Best overall value | Splice Sounds | ~$8/mo (Sample Access) | Buy now — trial credits reset monthly |
+| Best overall value | Splice Sounds | $12.99/mo (Sounds, billed yearly) | Buy now |
 | Best boom bap drums | MSXII Sound Design | $15–$30/pack | Wait for a Trilogy bundle sale |
 | Best free starter | Looperman | Free | Buy now (always free) |
 | Best modern trap | Cymatics | Free + $20–$40 | Wait for the Infinity bundle sale |
@@ -35,7 +35,7 @@ evergreen: true
 
 Splice's subscription model gives access to millions of samples across every hip-hop subgenre. Their curated "Hip-Hop Essentials" packs from producers like Hit-Boy, Kenny Beats, and Murda Beatz are among the highest-quality sample content available digitally. The per-sample model means you only download what you use — practical for producers building a focused library rather than hoarding packs they'll never open.
 
-**2026 pricing:** The Sample Access plan starts around $8/month for a set number of credits; higher tiers unlock more downloads plus Rent-to-Own plugin access. Royalty-free license is included with every download, no extra clearance needed.
+**2026 pricing:** Splice lists its Sounds plan at $12.99/month billed yearly (about 100 downloads a month) and its Creator plan at $4.99 for the first month, then $19.99/month (about 200 downloads). Rent-to-Own plugins are sold separately on a pay-as-you-go basis. Royalty-free license is included with every download, no extra clearance needed.
 
 **Buy now if:** you produce weekly and need a constant stream of new sounds — the monthly credit reset makes waiting for a "sale" pointless since the core cost never really drops much below the entry tier.
 
@@ -128,7 +128,7 @@ Noiiz is a subscription-based sample platform with strong curation standards. Th
 
 | Source | Format | Price | Best For | Free Option |
 |---|---|---|---|---|
-| Splice Sounds | Individual samples | ~$8/mo | Massive variety | No (trial only) |
+| Splice Sounds | Individual samples | $12.99/mo (Sounds, billed yearly) | Massive variety | No (trial only) |
 | MSXII Sound | Drum kits/loops | $15–$30/pack | Boom bap / vinyl | Occasional free packs |
 | Looperman | Loops | Free | All-purpose | Yes — fully free |
 | Cymatics | Full packs | Free + $20–$40 | Modern trap | Yes |
@@ -185,4 +185,4 @@ Browse current discounts on Splice, Cymatics, Native Instruments, and more at Pl
 
 - [15 Best VST Plugins for Hip-Hop Production in 2026 — Ranked](/posts/best-vst-plugins-hip-hop/)
 - [Best Free Sample Packs 2026: 30+ Packs Across Every Genre](/posts/best-free-sample-packs-2026/)
-- [Splice Review 2026: Is It Worth the Monthly Fee?](/posts/splice-review-2026/)
+- [Splice in 2026: Plans, Pricing, and What's Included](/posts/splice-review-2026/)

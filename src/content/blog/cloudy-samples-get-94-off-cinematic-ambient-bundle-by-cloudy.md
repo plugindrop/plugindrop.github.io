@@ -68,7 +68,7 @@ Verify current pricing on the product page — deals can change without notice.
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Splice (sample subscription) | ~$7.99–$13.99/mo | Subscription model; massive catalog but ongoing cost |
+| Splice (sample subscription) | $12.99/mo (Sounds, billed yearly) | Subscription model; massive catalog but ongoing cost |
 | Looperman | Free | Community-uploaded loops; quality varies, no curated cinematic focus |
 | Storyblocks (audio) | Subscription-based | Royalty-free for video/media use; broader content type coverage |
 

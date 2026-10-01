@@ -57,7 +57,7 @@ Verify current pricing on the product page — deals can change.
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Splice Sounds (Trap) | ~$7.99/month subscription | Ongoing access to a large catalog; per-sample licensing model |
+| Splice Sounds (Trap) | $12.99/mo (Sounds, billed yearly) subscription | Ongoing access to a large catalog; per-sample licensing model |
 | Loopmasters Trap Packs | Varies (~$20–$60) | Broad multi-producer catalog; individual pack purchases |
 | ADSR Sounds Free Trap Samples | Free (select packs) | Limited selection; useful for supplementing an existing library |
 

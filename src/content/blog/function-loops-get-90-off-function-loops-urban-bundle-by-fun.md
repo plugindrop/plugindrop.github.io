@@ -64,7 +64,7 @@ A 90% discount sits at the extreme end of what sample library developers typical
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Splice Sounds | ~$7.99/mo subscription | Stream and download individual samples; no outright ownership model |
+| Splice Sounds | $12.99/mo (Sounds, billed yearly) subscription | Stream and download individual samples; no outright ownership model |
 | Loopmasters Urban Packs | Varies per pack | Individual pack purchases with narrower, deeper genre focus per title |
 | LANDR Samples | Subscription-based | Broader genre catalog access monthly rather than one-time bundle ownership |
 

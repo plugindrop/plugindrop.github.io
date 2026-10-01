@@ -10,17 +10,17 @@ score: 8.00
 xText: "New guide: 12 Best VST Plugins Under $100 in 2026 (Pro-Level at Budget ..."
 draft: false
 priceTrack:
-  - "FabFilter Pro-C 2"
+  - "FabFilter Pro-C 3"
   - "Valhalla VintageVerb"
 ---
 
-**TL;DR:** FabFilter Pro-C 2 is the single best investment under $100 for mixing — eight compression styles in one plugin, used on professional sessions worldwide. Pair it with Valhalla VintageVerb at $50 and you have two career-defining tools for less than the cost of a single hardware unit.
+**TL;DR:** FabFilter Pro-C 3 is a strong mixing compressor with 14 compression styles in one plugin, but at $199 it is above this guide's $100 budget. Pair it with Valhalla VintageVerb at $50 and you have two career-defining tools for less than the cost of a single hardware unit.
 
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| FabFilter Pro-C 2 | $99 | All-purpose compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
+| FabFilter Pro-C 3 | $199 | All-purpose compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
 | Valhalla VintageVerb | ~$50 | Vintage hall and room reverbs | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
 | Arturia Rev PLATE-140 | ~$49 | EMT 140 plate emulation | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/6637-Rev-PLATE-140?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
 | D16 Group Repeater | ~$49 | Vintage tape delay | [Plugin Boutique](https://www.pluginboutique.com/search?q=D16%20Group%20Repeater%20delay&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
@@ -155,22 +155,22 @@ Comeback Kid's tape machine simulation introduces harmonic saturation and pitch 
 
 ## Compression & Dynamics
 
-### FabFilter Pro-C 2 — The Compressor That Outperforms Gear at Ten Times Its Price
+### FabFilter Pro-C 3 — The Compressor That Outperforms Gear at Ten Times Its Price
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/mSzvpCz-M2k" title="FabFilter Pro-C 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
-- **Price:** $99
+- **Price:** $199
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX
 
-Eight distinct compression styles — Clean, Classic, Opto, Vocal, Mastering, Bus, Punch, and Safe — cover every practical compression scenario from transparent mastering glue to aggressive sidechain pumping. The large interactive gain reduction display makes the compressor's behavior immediately legible in real time, and the integrated sidechain EQ eliminates the need for a separate plugin upstream. This is the single most recommended plugin under $100 among working engineers, across every genre.
+Fourteen compression styles cover a wide range of compression scenarios from transparent mastering glue to aggressive sidechain pumping. The large interactive gain reduction display makes the compressor's behavior immediately legible in real time, and the integrated sidechain EQ eliminates the need for a separate plugin upstream. It is widely used by working engineers across genres.
 
 [![Watch the Demo on YouTube](https://img.youtube.com/vi/mSzvpCz-M2k/0.jpg)](https://www.youtube.com/watch?v=mSzvpCz-M2k)
 
 **Best for:** Lead vocals, stereo bus compression, mastering chains, sidechained four-on-the-floor production
 
-[→ Get FabFilter Pro-C 2 on Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars)
+[→ Get FabFilter Pro-C 3 on Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars)
 
 ---
 
@@ -193,7 +193,7 @@ Developed with platinum mixer Chris Lord-Alge, the CLA-76 emulates two hardware 
 
 ## Audio Repair & Enhancement
 
-### iZotope RX Elements — Industry-Standard Audio Repair at Its Entry Price
+### iZotope RX Elements — Audio Repair at Its Entry Price
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/MhUEmvneerc" title="iZotope RX Elements — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -281,15 +281,15 @@ Ozone Elements brings iZotope's Master Assistant AI into a streamlined mastering
 
 ---
 
-### FabFilter Pro-C 2 — The Benchmark Compressor Under $100
+### FabFilter Pro-C 3 — A Benchmark Compressor Above This Guide's Budget
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/R1VetmWadbg" title="FabFilter Pro-C 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** $99
-- **Why upgrade:** Stock DAW compressors and free alternatives handle basic gain reduction, but none replicate Pro-C 2's eight compression style algorithms, real-time interactive display, and integrated sidechain EQ. Engineers who switch to Pro-C 2 consistently report that their mixes translate better to other playback systems — a result of the plugin's superior transient shaping precision and frequency-selective sidechain capability.
+- **Why upgrade:** Stock DAW compressors and free alternatives handle basic gain reduction, but none replicate Pro-C 3's 14 compression styles, real-time interactive display, and integrated sidechain EQ. Engineers who switch to Pro-C 3 consistently report that their mixes translate better to other playback systems — a result of the plugin's superior transient shaping precision and frequency-selective sidechain capability.
 
-[→ Get FabFilter Pro-C 2 on Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars)
+[→ Get FabFilter Pro-C 3 on Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars)
 
 ---
 
@@ -303,7 +303,7 @@ Ozone Elements brings iZotope's Master Assistant AI into a streamlined mastering
 | D16 Group Repeater | ~$49 | Delay | 4 tape machine models, diffusion control | [Buy](https://www.pluginboutique.com/search?q=D16%20Group%20Repeater%20delay&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
 | NI Replika | ~$49 | Delay | 5 delay types, built-in reverb tail | [Buy](https://www.pluginboutique.com/search?q=Native%20Instruments%20Replika&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
 | Baby Audio Comeback Kid | ~$49 | Delay | Tape drift simulation, Drift control | [Buy](https://www.pluginboutique.com/product/2-Effects/10-Delay/6204-Comeback-Kid?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
-| FabFilter Pro-C 2 | $99 | Compressor | 8 compression styles, sidechain EQ built in | [Buy](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
+| FabFilter Pro-C 3 | $199 | Compressor | 14 compression styles, sidechain EQ built in | [Buy](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
 | Waves CLA-76 | ~$29–$99 | Compressor | Dual 1176 emulation, all-buttons-in mode | [Buy](https://www.pluginboutique.com/search?q=Waves%20CLA-76&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
 | iZotope RX Elements | ~$99 | Audio Repair | AI repair, de-noise, de-hum, de-click | [Buy](https://www.pluginboutique.com/search?q=iZotope%20RX%20Elements&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
 | Soundtoys Decapitator | $99 | Saturation | 5 hardware drive models, high-cut filter | [Buy](https://www.pluginboutique.com/product/2-Effects/44-Saturation/1801-Decapitator?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars) |
@@ -314,7 +314,7 @@ Ozone Elements brings iZotope's Master Assistant AI into a streamlined mastering
 
 ## How to Choose
 
-- **If you're building a plugin collection from zero:** Start with FabFilter Pro-C 2 and Valhalla VintageVerb — together they cover the two most critical mixing decisions (dynamics and space) for under $150 combined.
+- **If you're building a plugin collection from zero:** Start with FabFilter Pro-C 3 and Valhalla VintageVerb — together they cover the two most critical mixing decisions (dynamics and space) for $249 combined at list prices.
 - **If you record vocals, voice, or acoustic instruments at home:** iZotope RX Elements is the most important purchase on this list. The noise floor in home studios is unavoidable; RX Elements makes it disappear.
 - **If your mixes sound too digital or thin:** Soundtoys Decapitator adds the harmonic density that separates analog-sounding records from lifeless in-the-box productions — even a few percent on a parallel bus changes the character of the entire mix.
 - **If you work primarily in electronic music and need delays with personality:** Choose Baby Audio Comeback Kid for vibe and feel, or Native Instruments Replika when you need five clearly defined delay character types in one interface.
@@ -324,7 +324,7 @@ Ozone Elements brings iZotope's Master Assistant AI into a streamlined mastering
 
 ## FAQ
 **Q: Are VST plugins under $100 actually good enough for professional work?**
-A: Yes — unambiguously. Valhalla VintageVerb at $50 appears on platinum-certified albums. FabFilter Pro-C 2 at $99 is used at major mixing studios on major label projects. Price and quality correlation in plugin software is weak; sound quality, workflow fit, and reliability matter far more than cost.
+A: Yes — unambiguously. Valhalla VintageVerb at $50 appears on platinum-certified albums. FabFilter Pro-C 3 at $199 is used at major mixing studios on major label projects. Price and quality correlation in plugin software is weak; sound quality, workflow fit, and reliability matter far more than cost.
 
 **Q: What's the difference between VST3, AU, and AAX formats?**
 A: VST3 is the current standard format for Windows and macOS DAWs (Ableton, FL Studio, Cubase, Studio One). AU (Audio Units) is the native macOS format required by Logic Pro. AAX is required for Pro Tools. Most modern plugins ship in all three — check your DAW's requirements before purchasing.
@@ -341,9 +341,9 @@ A: Waves runs sales nearly continuously, and the CLA-76 regularly drops to the $
 ---
 ## Final Thoughts
 
-If you can only buy one plugin from this list, make it FabFilter Pro-C 2 — it improves every single mix you run it on, regardless of genre or style, and no other tool under $100 covers as much professional ground. The second purchase should be Valhalla VintageVerb, which remains one of the best-value plugins in the history of audio software at $50.
+If you can only buy one plugin from this list, make it FabFilter Pro-C 3 — it improves every single mix you run it on, regardless of genre or style, though at $199 it is above this guide's $100 budget. The second purchase should be Valhalla VintageVerb, which remains one of the best-value plugins in the history of audio software at $50.
 
-[→ Get FabFilter Pro-C 2 on Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars)
+[→ Get FabFilter Pro-C 3 on Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-100-dollars)
 
 ---
 

@@ -23,7 +23,7 @@ draft: false
 |--------|-------|----------|--------|
 | Xfer Serum | ~$189 | Wavetable bass, EDM, versatility | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
 | u-he Diva | ~$179 | Analog warmth, vintage bass tones | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
-| Arturia Pigments | ~$99 | Hybrid synthesis, modern bass textures | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
+| Arturia Pigments | $199 ($99 on sale) | Hybrid synthesis, modern bass textures | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
 | SubLab XL | ~$79 | 808s, sub bass, trap and hip-hop | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
 | Surge XT | Free | All-purpose free bass synthesis | [Free Download](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
 | Vital | Free / $25+ | Spectral wavetable bass, beginner-friendly | [Free Download](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
@@ -160,11 +160,11 @@ For bass specifically, Diva's filter models deliver the subtle non-linearity and
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/6azhlxYCwHg" title="Arturia Pigments — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Arturia
-- **Price:** ~$99
+- **Price:** $199 ($99 on sale)
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX
 
-Pigments combines virtual analog, wavetable, FM, granular, and sample-based synthesis engines — two running simultaneously — with a flexible routing system. Community discussion on Gearspace and Reddit positions it as a consistently underrated bass synth, particularly for producers who want movement and harmonic evolution in their low end rather than a static tone. Its built-in arpeggiator and step sequencer speed up bass sequence design considerably compared to routing a general-purpose synth through an external sequencer.
+Pigments offers six synthesis types (Modal, Granular, Wavetable, Sample, Harmonic and Virtual Analog) — two engines running simultaneously — with a flexible routing system. Community discussion on Gearspace and Reddit positions it as a consistently underrated bass synth, particularly for producers who want movement and harmonic evolution in their low end rather than a static tone. Its built-in arpeggiator and step sequencer speed up bass sequence design considerably compared to routing a general-purpose synth through an external sequencer.
 
 The visual modulation system is comparable to Serum's in legibility, and the factory preset library covers a wide stylistic range out of the box. At roughly $99 — and with a history of appearing in Plugin Boutique's sales catalog — it represents the strongest value proposition in the paid tier for producers who want multi-engine versatility without Phase Plant's complexity.
 
@@ -222,7 +222,7 @@ Community discussion consistently positions Phase Plant as the choice for produc
 | Dexed | Free | FM / DX7 emulation | DX7 sysex compatible, punchy attack, large patch library | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
 | Xfer Serum | ~$189 | Wavetable | Custom wavetable editor, visual modulation, largest community | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
 | u-he Diva | ~$179 | Circuit simulation | Multi-filter vintage models, analog non-linearity, CPU-intensive | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
-| Arturia Pigments | ~$99 | Hybrid multi-engine | 5 synthesis types, built-in sequencer, strong value at sale price | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
+| Arturia Pigments | $199 ($99 on sale) | Hybrid multi-engine | 6 synthesis types, built-in sequencer, strong value at sale price | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
 | SubLab XL | ~$79 | Dedicated bass/808 | X-Sub technology, sample import layer, pitch slide, fast workflow | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
 | Phase Plant | ~$199 | Modular hybrid | Deep modulation, Snapin integration, highest design ceiling | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
 
@@ -234,7 +234,7 @@ Community discussion consistently positions Phase Plant as the choice for produc
 - **If you're building bass patches for dubstep, bass house, or neuro and want the widest tutorial and community support ecosystem**, Serum is the practical choice — the volume of community resources compounds the value of the purchase over time.
 - **If analog warmth is the priority** — vintage funk bass, indie, krautrock, or classic techno — u-he Diva's circuit simulation approach delivers tonal character that wavetable synths consistently fail to replicate convincingly.
 - **If you're starting out and want serious synthesis capability for free**, Surge XT or Vital's free tier cover most bass design use cases and both have active community forums with troubleshooting resources.
-- **If you want one synth to handle both static sub bass and complex evolving textures at under $100**, Arturia Pigments' multi-engine design and sale pricing make it the strongest value proposition in the paid tier.
+- **If you want one synth to handle both static sub bass and complex evolving textures at under $100 on sale**, Arturia Pigments' multi-engine design and sale pricing make it the strongest value proposition in the paid tier.
 
 ---
 

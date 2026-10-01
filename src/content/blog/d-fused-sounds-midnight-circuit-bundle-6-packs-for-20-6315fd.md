@@ -60,7 +60,7 @@ For context, individual preset packs on ADSR Sounds regularly run $15–$25 each
 | Name | Price | Key Difference |
 |---|---|---|
 | Individual ADSR preset packs | ~$15–$25 each | Buy only specific sounds rather than a full series |
-| Splice sample subscription | ~$10.99/month | Subscription model with broader genre variety |
+| Splice sample subscription | $12.99/mo (Sounds, billed yearly)nth | Subscription model with broader genre variety |
 | Free KVR freebie packs | Free | No cost, but inconsistent quality and scope |
 
 If your production style sits squarely in dark electronic or industrial territory, the Midnight Circuit bundle's focused aesthetic gives you coherent, genre-matched sounds in one shot. If you produce across multiple genres, a subscription service may offer more flexibility.

@@ -50,11 +50,11 @@ Verify current pricing on the product page — deals can change.
 
 | Name | Price | Key Difference |
 |---|---|---|
-| FabFilter Pro-C 2 | ~$179 | Modern, highly transparent compressor with multiple algorithm modes; less hardware coloration |
+| FabFilter Pro-C 3 | ~$199 | Modern, highly transparent compressor with multiple algorithm modes; less hardware coloration |
 | Waves SSL G-Master Buss Compressor | Varies | Models the SSL console bus compressor; different character suited to that console sound |
 | Softube Tube-Tech CL 1B | ~$99 | Optical compressor only (no VCA stage); warmer, more vintage-leaning character |
 
-If transparent, surgical control is the priority, Pro-C 2 is the go-to. If you specifically want the two-stage optical-plus-VCA architecture with transformer color options — and you want it at a steep discount — the Shadow Hills is the more direct choice.
+If transparent, surgical control is the priority, Pro-C 3 is the go-to. If you specifically want the two-stage optical-plus-VCA architecture with transformer color options — and you want it at a steep discount — the Shadow Hills is the more direct choice.
 
 ---
 

@@ -49,7 +49,7 @@ A 78% discount is on the aggressive end of what Plugin Boutique typically runs. 
 | Name | Price | Key Difference |
 |---|---|---|
 | Vital (free tier) | Free | Spectral wavetable synth; free version widely used for sound design |
-| Pigments (Arturia) | ~$99 (full price) | Multi-engine synth with a well-documented feature set and preset library |
+| Pigments (Arturia) | $199 ($99 on sale) | Multi-engine synth with a well-documented feature set and preset library |
 | Phase Plant (Kilohearts) | ~$99 (full price) | Modular-style synthesis with a large user community |
 
 If you need a free starting point for sound design, Vital's free tier covers significant ground. If you want an instrument with a large community and tutorial ecosystem, Pigments or Phase Plant offer that infrastructure. SPARKLE 2 at $31.9 is worth evaluating alongside these options when its sale is active.

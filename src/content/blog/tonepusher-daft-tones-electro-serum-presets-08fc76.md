@@ -62,7 +62,7 @@ This is a straightforward percentage discount — 37% off is a solid cut for a g
 |---|---|---|
 | Cymatics Serum Electro Pack | Check product page | Competing electro Serum pack from a larger preset brand |
 | ADSR Sounds Free Serum Presets | Free | Limited selection but zero cost for Serum patch exploration |
-| Splice Serum Sounds (subscription) | ~$7.99/mo | Ongoing access to thousands of Serum presets across all genres |
+| Splice Serum Sounds (subscription) | $12.99/mo (Sounds, billed yearly) | Ongoing access to thousands of Serum presets across all genres |
 
 If you want a focused electro palette at a fixed one-time cost, Daft Tones fits that niche cleanly. If you produce across multiple genres and want ongoing variety, a Splice subscription covers more ground at a similar monthly price.
 

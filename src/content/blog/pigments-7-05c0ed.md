@@ -9,7 +9,7 @@ score: 9.10
 dealPrice: "$129.00"
 originalPrice: "$199.00"
 discount: "35% OFF"
-xText: "honestly pigments 7's new wavetable engine just made me rethink sound design. 35% off ($65 from $99) right now. this doesn't stay this cheap for long"
+xText: "pigments 7 is 35% off ($129 from $199) right now. this doesn't stay this cheap for long"
 draft: true
 saleExpiry: "2026-07-26"
 ---

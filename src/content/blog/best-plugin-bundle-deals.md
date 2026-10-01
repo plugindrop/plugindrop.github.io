@@ -37,7 +37,7 @@ priceTrack:
 
 The dirty secret of the best plugin bundle deals in 2026 music production circles is that almost nobody pays retail. Waves Platinum routinely drops below $100. FabFilter Total Bundle hits $399–$499 during Black Friday. Native Instruments Komplete runs 50–70% off multiple times per year. The question producers should be asking is not whether a sale will come — it is whether they're positioned to act when it does, and whether they're targeting the right bundle for their actual workflow rather than the one with the longest feature list.
 
-Plugin bundles are built on a straightforward value proposition: developers consolidate their catalog at a price point designed to move volume. The math is consistently compelling. A single FabFilter Pro-Q 4 retails around $179. The Total Bundle — which includes Pro-Q 4 alongside Pro-C 2, Pro-L 2, Pro-MB, Pro-R, Saturn 2, and additional plugins — sells for under $500 on sale. For any producer serious about mixing and mastering, the per-plugin economics make the decision obvious once the discount lands.
+Plugin bundles are built on a straightforward value proposition: developers consolidate their catalog at a price point designed to move volume. The math is consistently compelling. A single FabFilter Pro-Q 4 retails around $179. The Total Bundle — which includes Pro-Q 4 alongside Pro-C 3, Pro-L 2, Pro-MB, Pro-R, Saturn 2, and additional plugins — sells for under $500 on sale. For any producer serious about mixing and mastering, the per-plugin economics make the decision obvious once the discount lands.
 
 This guide covers the bundles that producer communities on Reddit, KVR, and Gearspace have consistently rated as highest-value across mixing, mastering, instruments, and effects — all available through Plugin Boutique, which stacks its own VIP loyalty reward system on top of already-reduced pricing. Whether you're building a signal chain from scratch or filling specific gaps, every pick here has a documented community case for its price.
 
@@ -129,7 +129,7 @@ Komplete 15 Select provides a curated portion of the full Komplete library — K
 
 - **Developer:** FabFilter
 - **Price:** ~$499–$799 (sale to retail range)
-- **Why upgrade:** Budget bundles cover basic EQ and compression, but FabFilter Pro-Q 4's linear phase mode, dynamic EQ nodes, and M/S operation are in a different category for surgical mixing and mastering. Community consensus across KVR, Gearspace, and r/audioengineering rates Pro-C 2 as the most transparent software compressor available at any price, and Pro-L 2 as a mastering limiter with true peak limiting that holds up against dedicated mastering hardware. The Total Bundle adds Saturn 2's multiband saturation and Pro-R's algorithmic reverb — FabFilter Total Bundle is consistently cited as the single best return on investment in premium plugin bundles when bought on sale.
+- **Why upgrade:** Budget bundles cover basic EQ and compression, but FabFilter Pro-Q 4's linear phase mode, dynamic EQ nodes, and M/S operation are in a different category for surgical mixing and mastering. Community consensus across KVR, Gearspace, and r/audioengineering rates Pro-L 2 as a mastering limiter with true peak limiting that holds up against dedicated mastering hardware. The Total Bundle adds Saturn 2's multiband saturation and Pro-R's algorithmic reverb — FabFilter Total Bundle is consistently cited as the single best return on investment in premium plugin bundles when bought on sale.
 
 [→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=best-plugin-bundle-deals)
 
@@ -168,7 +168,7 @@ Komplete 15 Select provides a curated portion of the full Komplete library — K
 | Soundtoys 5 | $199–$299 | Effects/Character | EchoBoy, Decapitator, 18+ analog-modeled tools | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-plugin-bundle-deals) |
 | NI Komplete 15 Select | $99–$149 | Instruments/Samples | 2,000+ sounds, Kontakt Player, Massive | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-plugin-bundle-deals) |
 | Waves Platinum Bundle | $99–$199 | Mixing/Processing | Adds CLA comps, H-EQ, C6 over Gold | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=best-plugin-bundle-deals) |
-| FabFilter Total Bundle | $499–$799 | Premium Mixing | Pro-Q 4, Pro-C 2, Pro-L 2, Pro-R, Saturn 2 | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=best-plugin-bundle-deals) |
+| FabFilter Total Bundle | $499–$799 | Premium Mixing | Pro-Q 4, Pro-C 3, Pro-L 2, Pro-R, Saturn 2 | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=best-plugin-bundle-deals) |
 | Arturia V Collection 11 | $299–$599 | Instruments | 30+ hardware emulations, TAE technology | [Official Site](https://www.pluginboutique.com/product/1-Instruments/37-studio-tool-bundles/3656-V-Collection-11?a_aid=69cb95abe1763&chan=art&data1=best-plugin-bundle-deals) |
 
 ---

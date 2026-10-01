@@ -45,7 +45,6 @@ FabFilter is the most predictable Black Friday deal in the industry. Exactly **2
 | Plugin | Regular | BF Price | Tracker |
 |---|---|---|---|
 | Pro-Q 4 | $199 | $149 | [History](/plugin-prices/fabfilter-pro-q-4) |
-| Pro-C 2 | $129 | $97 | [History](/plugin-prices/fabfilter-pro-c-2) |
 | Pro-L 2 | $179 | $134 | [History](/plugin-prices/fabfilter-pro-l-2) |
 | Pro-MB | $179 | $134 | [History](/plugin-prices/fabfilter-pro-mb) |
 | Saturn 2 | $179 | $134 | [History](/plugin-prices/fabfilter-saturn-2) |
@@ -178,7 +177,7 @@ ValhallaRoom ($50), VintageVerb ($50), Delay ($50) — unchanged since launch. T
 Serum sells for $189 and has never been discounted. Serum 2 (the update) continues this policy. No Black Friday, no summer sale, no bundle. The only way to get Serum cheaper than $189 is through a hardware bundle that includes it.
 
 ### iZotope (most products)
-iZotope does run sales, but they're unpredictable in timing and depth. Their Elements tiers (Ozone Elements, etc.) occasionally hit $29 at Black Friday. The full suite products (Ozone 11 Advanced, RX 11 Advanced) discount during specific campaigns but not always at BF.
+iZotope does run sales, but they're unpredictable in timing and depth. Their Elements tiers (Ozone Elements, etc.) occasionally hit $29 at Black Friday. The full suite products (Ozone 11 Advanced, RX 12 Advanced) discount during specific campaigns but not always at BF.
 
 ---
 

@@ -69,7 +69,7 @@ Melodyne isn't sold on Plugin Boutique; Celemony runs its own web shop, currentl
 
 ### FabFilter — the whole line, one sale a year
 
-FabFilter Pro-Q 4, Pro-C 2, Pro-L 2, Pro-R 2, Pro-DS, Pro-MB, Pro-G, Saturn 2, Volcano 3, Timeless 3, and Twin 3 all follow the same documented pattern: roughly 25% off at Black Friday, and full price every other day of the year. That's a real discount worth timing your purchase around — [see the Pro-Q 4 price history](/plugin-prices/fabfilter-pro-q-4/) — but outside that one window, there's no point holding out. If you need a FabFilter plugin in March, buy it in March.
+FabFilter Pro-Q 4, Pro-L 2, Pro-R 2, Pro-DS, Pro-MB, Pro-G, Saturn 2, Volcano 3, Timeless 3, and Twin 3 all follow the same documented pattern: roughly 25% off at Black Friday, and full price every other day of the year. That's a real discount worth timing your purchase around — [see the Pro-Q 4 price history](/plugin-prices/fabfilter-pro-q-4/) — but outside that one window, there's no point holding out. If you need a FabFilter plugin in March, buy it in March.
 
 ### Native Instruments Kontakt 8 — $299, no confirmed public sale
 

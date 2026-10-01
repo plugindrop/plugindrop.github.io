@@ -160,7 +160,7 @@ FabFilter's developer documentation for Pro-L 2 lists eight limiting algorithms 
 
 - **Developer:** FabFilter
 - **Price:** ~$899
-- **Why upgrade:** Owning Pro-Q 4 and Pro-L 2 individually costs $378. The Total Bundle adds Pro-C 2 (compressor), Pro-MB (multiband dynamics), Saturn 2 (saturation and distortion), Pro-DS (de-esser), Volcano 3 (filter), and the complete synthesizer suite — meaning every processing stage in this chain can be handled by FabFilter tools with consistent metering, UI behavior, and inter-plugin spectrum sharing. For producers who want to replace OTT with a more transparent multiband compressor and add Saturn 2 as a saturation stage between synthesis and EQ, the bundle is the most cost-efficient path.
+- **Why upgrade:** Owning Pro-Q 4 and Pro-L 2 individually costs $378. The Total Bundle adds Pro-C 3 (compressor), Pro-MB (multiband dynamics), Saturn 2 (saturation and distortion), Pro-DS (de-esser), Volcano 3 (filter), and the complete synthesizer suite — meaning every processing stage in this chain can be handled by FabFilter tools with consistent metering, UI behavior, and inter-plugin spectrum sharing. For producers who want to replace OTT with a more transparent multiband compressor and add Saturn 2 as a saturation stage between synthesis and EQ, the bundle is the most cost-efficient path.
 
 [→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=edm-production-plugin-chain)
 

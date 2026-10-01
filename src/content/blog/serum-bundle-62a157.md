@@ -72,7 +72,7 @@ Note: Verify current pricing on the product page — deals can change.
 | Name | Price | Key Difference |
 |---|---|---|
 | Cymatics Serum Presets | Free–$30/pack | Individual free packs available; popular for trap and hip-hop |
-| Splice Sounds (Serum presets) | ~$7.99/mo subscription | Subscription model; access to a rotating library vs. one-time ownership |
+| Splice Sounds (Serum presets) | $12.99/mo (Sounds, billed yearly) subscription | Subscription model; access to a rotating library vs. one-time ownership |
 | Loopmasters Serum packs | $15–$30/pack | Per-pack purchase; strong genre-specific focus |
 
 If you want one-time ownership of a large preset library without a subscription, the ADSR bundle model makes sense. If you prefer to pay monthly and swap sounds regularly, Splice's subscription gives more flexibility but you don't own the files outright.

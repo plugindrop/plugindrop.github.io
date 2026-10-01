@@ -59,11 +59,11 @@ Verify current pricing on the product page — deals can change.
 
 | Name | Price | Key Difference |
 |---|---|---|
-| FabFilter Pro-C 2 | ~$99–$179 | Transparent, surgical compression; less character/coloration by design |
+| FabFilter Pro-C 3 | $199 | Transparent, surgical compression; less character/coloration by design |
 | Waves SSL G-Master Bus Compressor | ~$29–$49 on sale | SSL bus compressor emulation; different hardware character, no dual-stage |
 | UAD Neve 33609 | Check UAD site | Neve-flavored bus compression; requires UAD hardware or subscription |
 
-If you want a transparent, clinical compressor for precision mastering, Pro-C 2 is the more neutral tool. If you specifically want hardware character, transformer coloration, and dual-stage compression in a single plugin, the Shadow Hills fills a different role than any of the above.
+If you want a transparent, clinical compressor for precision mastering, Pro-C 3 is the more neutral tool. If you specifically want hardware character, transformer coloration, and dual-stage compression in a single plugin, the Shadow Hills fills a different role than any of the above.
 
 ---
 

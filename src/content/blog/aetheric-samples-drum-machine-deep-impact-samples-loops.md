@@ -66,7 +66,7 @@ A 40% discount is a meaningful cut for a sample pack in this price tier. Sample 
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Splice Drum Machine Kits (subscription) | ~$7.99/mo | Rental model with massive catalog; no permanent ownership |
+| Splice Drum Machine Kits (subscription) | $12.99/mo (billed yearly) | Rental model with massive catalog; no permanent ownership |
 | ADSR Sounds Other Drum Machine Packs | Varies | Same store, different sonic character or era of machine |
 | Native Instruments Drum Synth Packs | $29–$49 | Tied to NI ecosystem; more integrated with Maschine/Battery |
 

@@ -60,7 +60,7 @@ This is a straightforward 40% discount — no complex bundle tiers to navigate. 
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Splice Drum Loops | ~$7.99/mo (subscription) | Vast rotating library, but ongoing cost vs. one-time purchase |
+| Splice Drum Loops | $12.99/mo (Sounds, billed yearly) (subscription) | Vast rotating library, but ongoing cost vs. one-time purchase |
 | Loopmasters Vintage Drums | Check product page | Broader era coverage beyond strictly the 90s |
 | Looperman | Free (community uploads) | No cost, but variable quality with no editorial curation |
 

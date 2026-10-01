@@ -55,7 +55,7 @@ Verify current pricing on the product page — deals can change without notice.
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Splice Vocal Samples | ~$7.99–$13.99/mo (subscription) | Massive rotating library; per-credit access rather than upfront bundle |
+| Splice Vocal Samples | $12.99/mo (Sounds, billed yearly) (subscription) | Massive rotating library; per-credit access rather than upfront bundle |
 | Loopmasters EDM Vocal Packs | Varies (~$20–$50 each) | Genre-specific packs from multiple producers; broader catalog |
 | Custom Session Vocalist (Fiverr/Vocals) | Varies widely | Fully original recordings; not royalty-free sample packs |
 

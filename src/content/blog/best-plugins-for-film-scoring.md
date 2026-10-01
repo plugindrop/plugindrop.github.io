@@ -137,7 +137,7 @@ This guide covers the eight most important plugins for film scoring in 2026 — 
 ## iZotope RX — Audio repair and production-ready processing
 
 - **Developer:** iZotope
-- **Price:** From $399 (Standard) to $1,199 (Advanced)
+- **Price:** From $399 (Standard) to $1,399 (Advanced)
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX, standalone
 - **Why it matters for film scoring:** Film and television composers regularly receive reference audio — dialogue recordings, previous score stems, temp tracks — that require repair or cleanup before use. RX's spectral repair, dialogue isolation, and de-noise modules handle the specific problems that arise when working alongside actual production audio: removing room tone, matching the acoustic character of different recorded sources, and isolating music from mixed audio for reference. For composers working in post-production environments rather than purely in a scoring stage context, RX is not an optional tool — it addresses a class of technical problem that no other plugin covers.

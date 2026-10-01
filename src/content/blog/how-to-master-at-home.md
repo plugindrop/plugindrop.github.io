@@ -153,7 +153,7 @@ The Advanced tier adds two developer-confirmed features that address common home
 
 - **Developer:** FabFilter
 - **Price:** From $899
-- **Why upgrade:** Purchasing Pro-Q 4 and Pro-L 2 individually totals approximately $358. The Total Bundle extends that investment to include Pro-C 2 (compressor), Pro-MB (multiband dynamics), Pro-DS (de-esser), Saturn 2 (saturation and distortion), and the complete FabFilter effects suite. For producers who will apply FabFilter tools across both mastering and mixing — which is the typical progression once the mastering workflow is established — the bundle is the documented value purchase.
+- **Why upgrade:** Purchasing Pro-Q 4 and Pro-L 2 individually totals approximately $358. The Total Bundle extends that investment to include Pro-C 3 (compressor), Pro-MB (multiband dynamics), Pro-DS (de-esser), Saturn 2 (saturation and distortion), and the complete FabFilter effects suite. For producers who will apply FabFilter tools across both mastering and mixing — which is the typical progression once the mastering workflow is established — the bundle is the documented value purchase.
 
 [→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=how-to-master-at-home)
 
@@ -168,7 +168,7 @@ The Advanced tier adds two developer-confirmed features that address common home
 | FabFilter Pro-L 2 | $179 | Limiter | 8 algorithms, ISP metering, true peak limiting, granular lookahead/release | [Buy (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=how-to-master-at-home) |
 | iZotope Ozone 12 Standard | From $249 | All-in-one suite | EQ, dynamics, imager, maximizer, Master Assistant AI | [Buy (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=how-to-master-at-home) |
 | iZotope Ozone 12 Advanced | From $499 | All-in-one suite | All Standard features + Master Rebalance, Low End Focus | [Buy (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=how-to-master-at-home) |
-| FabFilter Total Bundle | From $899 | Full plugin suite | Pro-Q 4, Pro-L 2, Pro-C 2, Pro-MB, Pro-DS, Saturn 2, and more | [Buy](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=how-to-master-at-home) |
+| FabFilter Total Bundle | From $899 | Full plugin suite | Pro-Q 4, Pro-L 2, Pro-C 3, Pro-MB, Pro-DS, Saturn 2, and more | [Buy](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=how-to-master-at-home) |
 
 ---
 
@@ -178,7 +178,7 @@ The Advanced tier adds two developer-confirmed features that address common home
 - **If you want maximum transparency and per-stage control:** FabFilter Pro-Q 4 + Pro-L 2 is the combination Gearspace mastering discussions cite most consistently. Each plugin handles one job with documented precision, and neither adds color you have not explicitly dialed in.
 - **If you are learning mastering for the first time:** iZotope Ozone 12 Standard is the correct entry point. The Master Assistant feature gives you an informed starting point, and the integrated interface makes the mastering signal flow legible before you graduate to individual plugins.
 - **If you're mastering specifically for streaming platforms:** Pair Youlean Loudness Meter 2 (free) with FabFilter Pro-L 2. Youlean's streaming presets and Pro-L 2's true peak limiting together address every streaming compliance requirement currently documented by major platforms.
-- **If you want to cover both mastering and mixing with one investment:** The FabFilter Total Bundle's documented value calculation makes sense once Pro-C 2 and Pro-MB for mixing duties factor in alongside the mastering tools — buying both plugins individually gets you most of the way to the bundle's price.
+- **If you want to cover both mastering and mixing with one investment:** The FabFilter Total Bundle's documented value calculation makes sense once Pro-C 3 and Pro-MB for mixing duties factor in alongside the mastering tools — buying both plugins individually gets you most of the way to the bundle's price.
 
 ---
 

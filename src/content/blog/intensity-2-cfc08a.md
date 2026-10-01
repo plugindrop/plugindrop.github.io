@@ -42,7 +42,7 @@ For exact system requirements, supported DAWs, and activation method, check the 
 
 > **Note:** Verify current pricing on the product page — deals can change.
 
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2?a_aid=69cb95abe1763&chan=art&data1=intensity-2-cfc08a? If you want a full compressor with more algorithmic variety, Pro-C 2 covers more ground at a higher price point.
+[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2?a_aid=69cb95abe1763&chan=art&data1=intensity-2-cfc08a? If you want a full compressor with more algorithmic variety, Pro-C 3 covers more ground at a higher price point.
 
 ---
 

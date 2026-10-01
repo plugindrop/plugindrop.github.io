@@ -277,7 +277,7 @@ FabFilter Pro-Q 4 is the EQ that r/mixthis, r/audioengineering, and KVR's mixing
 
 - **Developer:** FabFilter
 - **Price:** $899 (individual plugins available separately)
-- **Why upgrade:** Pro-Q 4 covers EQ with professional depth, but the Total Bundle adds Pro-C 2 (compressor), Pro-L 2 (limiter), Pro-R (reverb), Pro-MB (multiband compressor), Saturn 2 (multiband saturation and distortion), and the creative bundle including Timeless 3 and Volcano 3. KVR and r/audioengineering describe the full FabFilter suite as a cohesive professional workflow — the consistent GUI philosophy, cross-plugin spectrum display, and unified preset management make sessions faster to navigate than assembling a comparable toolkit from multiple developers.
+- **Why upgrade:** Pro-Q 4 covers EQ with professional depth, but the Total Bundle adds Pro-C 3 (compressor), Pro-L 2 (limiter), Pro-R (reverb), Pro-MB (multiband compressor), Saturn 2 (multiband saturation and distortion), and the creative bundle including Timeless 3 and Volcano 3. KVR and r/audioengineering describe the full FabFilter suite as a cohesive professional workflow — the consistent GUI philosophy, cross-plugin spectrum display, and unified preset management make sessions faster to navigate than assembling a comparable toolkit from multiple developers.
 
 [→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=best-plugins-reaper)
 

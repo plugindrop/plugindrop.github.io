@@ -59,7 +59,7 @@ An 83% discount is a significant cut. ADSR Sounds runs periodic sales across its
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Splice Sounds subscription | ~$7.99–$13.99/month | Stream-based access to millions of samples; ongoing cost vs. one-time purchase |
+| Splice Sounds subscription | $12.99/mo (Sounds, billed yearly) | Stream-based access to millions of samples; ongoing cost vs. one-time purchase |
 | Loopmasters EDM packs | Varies (~$20–$60) | Broader catalogue of genre-specific packs; check ADSR for overlapping titles |
 | Free ADSR Sample Packs | $0 | Smaller, limited-content freebies; no cost but significantly less material |
 

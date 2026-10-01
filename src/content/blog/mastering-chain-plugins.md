@@ -11,7 +11,7 @@ xText: "New guide: The Complete Mastering Plugin Chain: 6 Plugins for a Pro Mas.
 draft: false
 priceTrack:
   - "FabFilter Pro-Q 4"
-  - "FabFilter Pro-C 2"
+  - "FabFilter Pro-C 3"
   - "FabFilter Pro-L 2"
 ---
 
@@ -282,6 +282,6 @@ This guide brings together publicly available product information, linked commun
 - [Best Free Mastering Plugins 2026](/posts/best-free-mastering-plugins/)
 - [Best Limiter Plugins for Mastering 2026](/posts/best-limiter-plugins-mastering/)
 - [iZotope Ozone 12 Review 2026: Still the Mastering King?](/posts/izotope-ozone-12-review/)
-- [FabFilter Pro-C 2 Review 2026: Best Transparent Compressor?](/posts/fabfilter-pro-c-2-review/)
+- [FabFilter Pro-C 3 in 2026: Price, Features, and What Changed from Pro-C 3](/posts/fabfilter-pro-c-2-review/)
 
 - [stereo widening plugins](/posts/best-stereo-widener-plugins/)

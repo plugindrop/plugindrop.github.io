@@ -9,7 +9,7 @@ score: 8.00
 heroImage: "/images/best-vst-plugins-for-metal-mixing.jpg"
 draft: false
 ---
-**TL;DR:** Metal mixing presents specific technical challenges — dense guitar arrangements competing for the same frequency space, drum sounds that need presence without sounding over-processed, and overall mixes that must be loud without losing the impact that makes the music work. Neural DSP Fortin Nameless handles amp simulation, Slate Digital DrumXchanger handles drum replacement, and FabFilter's Pro-Q 4, Pro-C 2, and Pro-L 2 handle the mix and master chain.
+**TL;DR:** Metal mixing presents specific technical challenges — dense guitar arrangements competing for the same frequency space, drum sounds that need presence without sounding over-processed, and overall mixes that must be loud without losing the impact that makes the music work. Neural DSP Fortin Nameless handles amp simulation, Slate Digital DrumXchanger handles drum replacement, and FabFilter's Pro-Q 4, Pro-C 3, and Pro-L 2 handle the mix and master chain.
 
 ## Quick Picks at a Glance
 
@@ -18,7 +18,7 @@ draft: false
 | Neural DSP Fortin Nameless | $149 | High-gain guitar amp simulation | [Plugin Boutique](https://www.pluginboutique.com/search?q=Neural%20DSP%20Fortin%20Nameless&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-for-metal-mixing&chan=art&data1=best-vst-plugins-for-metal-mixing) |
 | Slate Digital DrumXchanger | $149/yr | Drum replacement and layering | [Plugin Boutique](https://www.pluginboutique.com/search?q=Slate%20Digital%20DrumXchanger&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-for-metal-mixing&chan=art&data1=best-vst-plugins-for-metal-mixing) |
 | FabFilter Pro-Q 4 | $179 | Surgical EQ for dense guitar tracks | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-for-metal-mixing) |
-| FabFilter Pro-C 2 | $179 | Drum bus and parallel compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-for-metal-mixing) |
+| FabFilter Pro-C 3 | $199 | Drum bus and parallel compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-for-metal-mixing) |
 | FabFilter Pro-L 2 | $179 | True peak limiting for loud masters | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-for-metal-mixing) |
 | Waves CLA-76 | $29 | Snare and drum channel compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20CLA-76&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-for-metal-mixing&chan=art&data1=best-vst-plugins-for-metal-mixing) |
 | iZotope Ozone 12 | $99+ | AI-assisted mastering chain | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-for-metal-mixing) |
@@ -78,17 +78,17 @@ This guide covers the eight most important plugins for metal mixing in 2026. The
 
 ---
 
-## FabFilter Pro-C 2 — Drum bus and parallel compression for metal
+## FabFilter Pro-C 3 — Drum bus and parallel compression for metal
 
 - **Developer:** FabFilter
 - **Price:** $179
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX
-- **Why it matters for metal mixing:** Metal drums need two things simultaneously: tight, punchy transients and a dense, sustained body that fills the space between kick hits. These are largely contradictory goals for a single compressor — which is why parallel compression (blending a heavily compressed signal with the dry signal) is the standard approach. Pro-C 2's built-in Dry/Wet blend control makes parallel compression a one-plugin workflow: apply aggressive compression settings in Classic or Punch mode, then blend back with the dry signal until the kick has both impact and sustain. The Knee visualization and real-time gain reduction display make the balance between punch and sustain immediately readable while adjusting.
+- **Why it matters for metal mixing:** Metal drums need two things simultaneously: tight, punchy transients and a dense, sustained body that fills the space between kick hits. These are largely contradictory goals for a single compressor — which is why parallel compression (blending a heavily compressed signal with the dry signal) is the standard approach. Pro-C 3's built-in Mix setting makes parallel compression a one-plugin workflow: apply aggressive compression settings, then blend back with the dry signal until the kick has both impact and sustain. The Knee visualization and real-time gain reduction display make the balance between punch and sustain immediately readable while adjusting.
 
 **Best for:** Metal engineers using parallel compression on drum buses and individual drum channels, needing the visual feedback and flexible compression styles to balance transient impact with sustained body.
 
-[→ Get FabFilter Pro-C 2 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%202&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-for-metal-mixing)
+[→ Get FabFilter Pro-C 3 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-for-metal-mixing)
 
 ---
 

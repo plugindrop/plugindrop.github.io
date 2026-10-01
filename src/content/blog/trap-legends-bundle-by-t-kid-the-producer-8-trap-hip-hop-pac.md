@@ -59,7 +59,7 @@ Verify current pricing on the product page — deals can change.
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Splice Sounds (monthly) | ~$7.99–$13.99/mo | Subscription model; stream individual samples rather than owning packs outright |
+| Splice Sounds (monthly) | $12.99/mo (Sounds, billed yearly) | Subscription model; stream individual samples rather than owning packs outright |
 | Individual trap packs on ADSR | Varies (~$10–$30 each) | Buy only the specific pack you need rather than a bundle |
 | Loopmasters trap bundles | Varies | Established label with a long catalog history; typically higher per-pack pricing |
 

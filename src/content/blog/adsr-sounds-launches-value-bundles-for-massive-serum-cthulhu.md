@@ -66,7 +66,7 @@ The original individual pricing isn't confirmed — verify current pricing on th
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Splice Sounds | ~$7.99/mo subscription | Rental model — you stream presets, lose access if you cancel |
+| Splice Sounds | $12.99/mo (billed yearly) subscription | Rental model — you stream presets, lose access if you cancel |
 | Cymatics Free Packs | Free | Limited selection, no Cthulhu or Massive-specific focus |
 | Plugin Boutique preset bundles | Varies | Broader synth coverage, but rarely at this per-pack price point |
 

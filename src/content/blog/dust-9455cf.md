@@ -56,7 +56,7 @@ Verify current pricing on the product page — deals can change.
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Arturia Pigments | ~$99 | Broader multi-engine synthesis with visual modulation; wider scope |
+| Arturia Pigments | $199 ($99 on sale) | Broader multi-engine synthesis with visual modulation; wider scope |
 | Vital | Free / $25–$80 | Spectral wavetable synth with a large free-tier feature set |
 | LABS (Spitfire) | Free | Focused on acoustic and organic textures, sample-based rather than synthesis |
 

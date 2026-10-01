@@ -325,7 +325,7 @@ Arturia V Collection 11 remains the most comprehensive and musically credible vi
 
 - [Arturia V Collection vs NI Komplete: Which Bundle Is Worth Your Money?](/posts/arturia-vs-native-instruments-komplete/)
 - [12 Best Vintage Synth VST Emulations in 2026 (Moog, Roland, Oberheim)](/posts/best-vintage-synth-vst-plugins/)
-- [Arturia Pigments 4 Review: Is This the Best All-in-One Soft Synth?](/posts/arturia-pigments-review/)
+- [Arturia Pigments 7 in 2026: Price, Sound Engines, and What Changed](/posts/arturia-pigments-review/)
 - [Best Synth VST Plugins 2026: Top 12 Picks Ranked](/posts/best-synth-vst-plugins-2026/)
 - [Is Native Instruments Komplete Worth It in 2026?](/posts/is-native-instruments-komplete-worth-it/)
 

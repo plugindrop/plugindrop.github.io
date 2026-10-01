@@ -66,7 +66,7 @@ Lucid is an analog-modeled plugin from Analog Legends, a developer focused on br
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Arturia Pigments | ~$99 (full price) | Wavetable + analog hybrid with extensive modulation matrix |
+| Arturia Pigments | $199 ($99 on sale) | Wavetable + analog hybrid with extensive modulation matrix |
 | u-he Hive 2 | ~$149 (full price) | Focused on speed and CPU efficiency for analog-style synthesis |
 | Softube Model 72 | ~$99 (full price) | Specifically models the Minimoog hardware circuit |
 

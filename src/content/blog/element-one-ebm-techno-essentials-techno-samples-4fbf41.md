@@ -59,7 +59,7 @@ A 40% discount puts this well under $15. For a genre-specific pack, that's a rea
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Splice Techno Loops (subscription) | ~$10.99/mo | Subscription/credit model; cherry-pick individual samples across thousands of packs |
+| Splice Techno Loops (subscription) | $12.99/mo (Sounds, billed yearly) | Subscription/credit model; cherry-pick individual samples across thousands of packs |
 | Loopmasters Techno Packs | Varies (~$20–40) | Broader techno sub-style coverage; less EBM-specific focus |
 | ADSR Sounds Industrial Techno Packs | Varies | Similar store, broader "industrial techno" framing vs. dedicated EBM lens |
 

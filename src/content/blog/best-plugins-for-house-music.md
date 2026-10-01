@@ -178,7 +178,7 @@ A: Very important. House music's relationship with samples — both as a product
 A: The classic house drum sound uses significant compression — kicks and snares are often processed with fast attack and medium release settings that create an audible pumping effect on the room reverb. This is intentional: the compression pumping adds groove and energy. On the mix bus, a slower, more transparent compressor glues the elements together without killing the dynamics that make the production breathe.
 
 **Q: Is iZotope Neutron worth it over individual mixing plugins?**
-A: For producers who mix their own music, yes — the AI-assisted starting points and session-wide Mix Assistant save meaningful time on the tracks that don't need detailed individual attention. For dedicated mix engineers, individual best-in-class tools (Pro-Q 4, Pro-C 2) remain more precise than Neutron's individual modules. The choice depends on whether your priority is workflow efficiency or maximum quality on critical tracks.
+A: For producers who mix their own music, yes — the AI-assisted starting points and session-wide Mix Assistant save meaningful time on the tracks that don't need detailed individual attention. For dedicated mix engineers, individual best-in-class tools (Pro-Q 4, Pro-C 3) remain more precise than Neutron's individual modules. The choice depends on whether your priority is workflow efficiency or maximum quality on critical tracks.
 
 ---
 

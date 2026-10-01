@@ -71,7 +71,7 @@ Note: Verify current pricing on the product page — deals can change, and disco
 
 | Platform | Price Model | Key Difference |
 |---|---|---|
-| Splice Sounds | Subscription (~$7.99/mo) | Rent-to-own per sample credit; ongoing access vs. one-time purchase |
+| Splice Sounds | Subscription ($12.99/mo (billed yearly)) | Rent-to-own per sample credit; ongoing access vs. one-time purchase |
 | Loopmasters | Per-pack purchase | Focused exclusively on samples; no plugins or courses in catalog |
 | Splice Plugins | Rent-to-own monthly | Covers DAW plugins specifically; different use case than sample packs |
 

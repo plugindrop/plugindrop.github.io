@@ -177,7 +177,7 @@ Neutron's EQ module includes AI-generated band suggestions, session-level maskin
 
 - **Developer:** FabFilter
 - **Price:** ~$879
-- **Why upgrade:** The Total Bundle includes every FabFilter plugin — Pro-Q 4, Pro-C 2 (compressor), Pro-L 2 (limiter), Pro-MB (multiband dynamics), Pro-R (reverb), Volcano 3 (filter), and more — at significantly reduced cost versus buying individually. If you plan to add two or more FabFilter tools over the next 12–18 months, the bundle price is the rational choice.
+- **Why upgrade:** The Total Bundle includes every FabFilter plugin — Pro-Q 4, Pro-C 3 (compressor), Pro-L 2 (limiter), Pro-MB (multiband dynamics), Pro-R (reverb), Volcano 3 (filter), and more — at significantly reduced cost versus buying individually. If you plan to add two or more FabFilter tools over the next 12–18 months, the bundle price is the rational choice.
 
 [→ Get FabFilter Total Bundle on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-review)
 

@@ -34,7 +34,7 @@ The player is free in every case above. What isn't free — for most producers �
 
 ## The Real Cost Comparison
 
-Kontakt 7 (full, non-Player version) lists at **$399** direct from Native Instruments, and it's the only way to load third-party commercial NKI-encrypted libraries — no free tool gets around that. If your workflow depends on specific commercial Kontakt libraries (Spitfire's premium orchestral lines, Heavyocity, Output), you're paying for Kontakt regardless of how good the free players get.
+Kontakt 8 (full, non-Player version) lists at **$299** direct from Native Instruments, and it's the only way to load third-party commercial NKI-encrypted libraries — no free tool gets around that. If your workflow depends on specific commercial Kontakt libraries (Spitfire's premium orchestral lines, Heavyocity, Output), you're paying for Kontakt regardless of how good the free players get.
 
 But if you're building a library from open formats — SFZ, WAV multisamples, DecentSampler's own `.dspreset` format — the math flips. A free player plus a stack of free or cheap libraries can realistically replace 80% of what most producers use Kontakt for, at $0.
 
@@ -62,7 +62,7 @@ Windows-only, but the most stable option on older or lower-spec machines. If you
 
 Be honest about this before you commit to an all-free workflow:
 
-- **You've already bought commercial Kontakt libraries** — you need the paid Kontakt 7 (or free Kontakt Player, which unlocks purchased libraries) to load them.
+- **You've already bought commercial Kontakt libraries** — you need the paid Kontakt 8 (or free Kontakt Player, which unlocks purchased libraries) to load them.
 - **You want access to Native Instruments' own catalog** — Symphony Series, Session Strings, etc. are Kontakt-exclusive and encrypted.
 - **A specific sound is non-negotiable** — if a client or genre demands a library that only exists in NKI-encrypted form, no free player substitutes for it.
 
@@ -72,7 +72,7 @@ If none of that applies to you, stay free. Most producers doing electronic, hip-
 
 **Buy nothing right now if:** you're still figuring out whether sample-based instruments fit your workflow. Every tool in this guide is free — install Decent Sampler, grab a few free libraries, and test the workflow for a few weeks before spending anything.
 
-**Buy Kontakt now if:** you already have a specific paid library in your cart that only runs in Kontakt. Don't wait on a free-alternative workaround that doesn't exist for encrypted NKI content — but don't buy Kontakt at full $399 price either. NI runs deep, predictable sales windows (Black Friday and summer NI sales regularly bring Kontakt 7 down to $249–$299). Check When Does Native Instruments Kontakt Go on Sale? before you buy at MSRP.
+**Buy Kontakt now if:** you already have a specific paid library in your cart that only runs in Kontakt. Don't wait on a free-alternative workaround that doesn't exist for encrypted NKI content — but don't buy Kontakt at full $299 price either. Check When Does Native Instruments Kontakt Go on Sale? before you buy at MSRP.
 
 **Wait for a bundle if:** you're eyeing more than just Kontakt — Komplete bundles frequently include Kontakt plus a large library set for less than Kontakt alone at list price. See When Does Komplete Go on Sale? to time it.
 

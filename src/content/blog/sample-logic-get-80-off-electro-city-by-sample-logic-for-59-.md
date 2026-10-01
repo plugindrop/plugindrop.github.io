@@ -66,7 +66,7 @@ Note: Verify current pricing on the product page — deals can change without no
 |---|---|---|
 | Heavyocity NOVO Modern Strings | Check vendor | Cinematic strings focus vs. urban electronic textures |
 | Native Instruments DISCOVERY SERIES | Varies by volume | Region/instrument-specific libraries vs. urban electronic hybrid |
-| Splice Sounds Subscription | ~$7.99/mo | Royalty-free samples vs. a self-contained playable Kontakt instrument |
+| Splice Sounds Subscription | $12.99/mo (Sounds, billed yearly) | Royalty-free samples vs. a self-contained playable Kontakt instrument |
 
 If you need a one-time purchase with a self-contained playable instrument rather than a sample subscription, ELECTRO CITY makes sense at this price. If you primarily pull loops and one-shots into a DAW and don't need a Kontakt instrument, a Splice subscription may cover more ground for less per month.
 
