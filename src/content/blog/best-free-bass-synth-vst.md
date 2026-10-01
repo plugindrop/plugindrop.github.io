@@ -128,7 +128,7 @@ Helm is a virtual-analog synthesizer with two oscillators, a dedicated sub-oscil
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
-OB-Xd is a faithful emulation of the Oberheim OB-X architecture, characterized by a smooth, creamy filter response characteristic of the original. Its two-oscillator engine supports unison stacking with subtle detuning, which can make bass tones wider than typical single-voice designs. While OB-Xd is primarily a polyphonic instrument, its mono mode and the Oberheim-style filter's natural low-end weight make it a strong choice for fat, musical bass lines that sit in a mix without aggressive EQ or compression. DiscoDSP actively maintains it and distributes it without registration, which has helped it accumulate a substantial community preset library.
+OB-Xd is a faithful emulation of the Oberheim OB-X architecture, characterized by a smooth, creamy filter response characteristic of the original. Its two-oscillator engine supports unison stacking with subtle detuning, which can make bass tones wider than typical single-voice designs. While OB-Xd is primarily a polyphonic instrument, its mono mode and the Oberheim-style filter's natural low-end weight make it a strong choice for fat, musical bass lines that sit in a mix without aggressive EQ or compression. DiscoDSP actively maintains it and distributes it without registration.
 
 **Best for:** Warm, musical bass in soul, funk, R&B, slow-tempo electronic music, and any context where analog richness matters.
 
@@ -237,7 +237,7 @@ Triple Cheese uses three comb filters as its primary sound source instead of con
 
 ---
 
-### u-he Tyrell N6 — Deeper analog bass from a trusted developer
+### u-he Tyrell N6 — Deeper analog bass
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CdbO20AXA-Q" title="u-he Tyrell N6 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -274,7 +274,7 @@ Triple Cheese uses three comb filters as its primary sound source instead of con
 - **If you primarily produce techno, acid house, or house music:** TAL-BassLine-101 first, Dexed second — the 303 character and FM bass are foundational to those genres, and nothing on this list delivers them more directly.
 - **If you produce hip-hop, trap, or modern electronic pop:** Vital — its wavetable engine and visual modulation system are directly suited to the moving, evolving bass tones these genres rely on.
 - **If you want warm, musical bass without a learning curve:** OB-Xd for harmonic richness, Podolski for speed — both deliver analog warmth quickly, with Podolski requiring less configuration and OB-Xd offering more tonal depth.
-- **If you want bass sounds that don't resemble stock presets:** Odin 2 or ZebraLette 3 — both offer synthesis architectures that most producers have not fully explored, giving your low-end a genuinely distinct character.
+- **If you want bass sounds that don't resemble stock presets:** Odin 2 or ZebraLette 3 — both offer their own synthesis architectures.
 
 ---
 

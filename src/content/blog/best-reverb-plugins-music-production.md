@@ -123,7 +123,7 @@ The EMT 140 plate reverb has appeared on studio recordings from Frank Sinatra se
 - **Platforms:** Windows, macOS
 - **Formats:** VST2, VST3, AU, AAX
 
-Valhalla DSP released Supermassive as a free tool in 2020 as a free plugin. Developer Sean Costello designed it specifically for extreme decay times and high-modulation applications. It suits pads, drones, post-rock guitar, and any texture requiring large spatial presence. That it comes free from a respected paid developer — with continued updates — remains unusual in the plugin market.
+Valhalla DSP released Supermassive as a free tool in 2020 as a free plugin. Developer Sean Costello designed it specifically for extreme decay times and high-modulation applications. It suits pads, drones, post-rock guitar, and any texture requiring large spatial presence. That it comes free from a paid-plugin developer — with continued updates — remains unusual in the plugin market.
 
 **Best for:** Ambient music, pads, long reverb tails, experimental and post-rock textures.
 

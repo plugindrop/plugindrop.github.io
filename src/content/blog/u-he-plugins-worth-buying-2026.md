@@ -49,7 +49,7 @@ Diva is built on a single design decision: circuit-level emulation of classic an
 
 The interface is built around interchangeable modules, drawing on designs reminiscent of the Minimoog, Roland Juno, Roland Jupiter, and Korg MS-20, among others.
 
-u-he's documentation recommends trialing Diva at medium quality settings first to get a realistic picture of its CPU behavior in your specific sessions. Most producers settle on medium quality for tracking and render at higher settings, which the plugin supports natively.
+u-he's documentation recommends trialing Diva at medium quality settings first to get a realistic picture of its CPU behavior in your specific sessions. Medium quality can be used for tracking and higher settings for rendering, which the plugin supports natively.
 
 **Best for:** Producers who prioritize analog authenticity above all else and have the CPU headroom to run it.
 
@@ -174,7 +174,7 @@ No affiliate purchase link is available for Repro.
 A: They can be, with the caveat that none of them are impulse buys. All u-he instruments offer fully-functional 30-day trials from the developer, which makes it straightforward to evaluate them in your actual sessions before committing.
 
 **Q: Is Diva too CPU-heavy to be practical?**
-A: The developer is transparent about Diva's CPU demands, and the concern is legitimate. At its highest quality setting, Diva is demanding. At medium quality — which many producers use for tracking — it becomes significantly more manageable. Producers on modern multi-core systems report fewer issues; anyone on older hardware or running dense session configurations should trial it carefully before purchasing.
+A: The developer is transparent about Diva's CPU demands, and the concern is legitimate. At its highest quality setting, Diva is demanding. At medium quality it becomes significantly more manageable. Modern multi-core systems have more headroom; anyone on older hardware or running dense session configurations should trial it carefully before purchasing.
 
 **Q: What's the difference between Repro-1 and Repro-5?**
 A: Repro-1 is monophonic, based on the Sequential Pro-One — it's designed for bass lines, leads, and mono sequences where that circuit's filter character is the goal. Repro-5 is polyphonic, based on the Prophet-5, and covers chords, pads, and the lush polyphonic sound that has appeared on thousands of recordings. They're separate instruments sold individually; check u-he's website for any current bundle pricing.

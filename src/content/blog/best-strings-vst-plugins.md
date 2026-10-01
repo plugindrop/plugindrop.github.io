@@ -75,7 +75,7 @@ Spitfire's LABS program has released multiple string-focused instruments coverin
 
 LABS requires registration on the Spitfire site and runs in the free LABS app.
 
-**Buy decision:** Free and worth grabbing regardless of what else you own — even owners of Hollywood Strings and BBCSO Core keep LABS installed for specific textures the bigger libraries don't produce.
+**Buy decision:** Free and worth grabbing regardless of what else you own.
 
 **Best for:** Producers who need evocative, textural string tones for layering rather than classical orchestral writing.
 

@@ -71,7 +71,7 @@ These are approximate, consensus-based figures drawn from IK Multimedia's typica
 | Name | Approx. Price | Key Difference |
 |---|---|---|
 | Synthesizer V Studio (Dreamtonics) | Basic ~$99 / Pro ~$189 | Dedicated Japanese vocal synth with phoneme-level editing and a large library of Japanese voice databases |
-| VOCALOID6 (Yamaha) | ~$299 | The original Japanese vocal synthesis standard; large existing voice catalog and wide community adoption |
+| VOCALOID6 (Yamaha) | ~$299 | The original Japanese vocal synthesis standard; large existing voice catalog |
 | UTAU | Free | Open-source Japanese vocal synth; community-built voice banks, steeper learning curve |
 
 If your entire workflow is Japanese vocal synthesis and you want maximum phoneme control with the deepest voice library, Synthesizer V or VOCALOID are purpose-built for exactly that. If you're already inside the ReSing ecosystem and want to extend it into Japanese-language territory without switching platforms or learning a new editor, the ReSing Voices Japanese Pack is the logical add-on.

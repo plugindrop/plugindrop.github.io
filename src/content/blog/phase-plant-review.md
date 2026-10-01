@@ -46,7 +46,7 @@ This guide is a deep-dive review for sound designers, electronic producers, and 
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX, Standalone
 
-Phase Plant's architecture is built around three horizontal lanes: **Generators**, **Modulators**, and an **Effects chain**. Generators produce sound. Modulators shape parameters. Effects process the output. What makes Phase Plant extraordinary is that none of these are locked to a fixed topology — you add as many as you need, in any combination, and modulation routing is accomplished by dragging a connection dot from any modulator to any knob in any generator or effect.
+Phase Plant's architecture is built around three horizontal lanes: **Generators**, **Modulators**, and an **Effects chain**. Generators produce sound. Modulators shape parameters. Effects process the output. In Phase Plant, none of these are locked to a fixed topology — you add as many as you need, in any combination, and modulation routing is accomplished by dragging a connection dot from any modulator to any knob in any generator or effect.
 
 **Generator types** include an Analog oscillator (classic waveforms with PWM), a Wavetable oscillator (with custom wavetable import), a Sample player, a Super oscillator (stacked unison with detuning), and a Noise generator. You can run multiple generators in parallel, group them, and apply individual gain/panning per generator. Need FM synthesis? Route one oscillator's output as a frequency modulator to another — that's audio-rate modulation, not LFO-rate approximation.
 
@@ -103,7 +103,7 @@ It's less ideal for producers who need a fast preset-browser workflow and minima
 
 - **Developer:** Xfer Records
 - **Price:** ~$189 (perpetual license or Splice subscription)
-- **Why upgrade:** If your production style lives in wavetable synthesis — EDM, future bass, pop, trap — Serum's dedicated wavetable editor, visual modulation display, and massive preset ecosystem give you a faster, more community-supported workflow than Phase Plant's more generalist approach. Phase Plant can match Serum's wavetable output technically, but Serum's purpose-built interface gets you there in half the clicks.
+- **Why upgrade:** If your production style lives in wavetable synthesis — EDM, future bass, pop, trap — Serum's dedicated wavetable editor, visual modulation display, and preset library are focused on wavetable work, whereas Phase Plant takes a more generalist approach.
 
 [→ Get Serum on Official Site](https://xferrecords.com/products/serum-2)
 
@@ -127,7 +127,7 @@ It's less ideal for producers who need a fast preset-browser workflow and minima
 |--------|-------|------|------------|-----|
 | Phase Plant (Free) | Free | Modular Semi-Modular | Multi-generator, Snapin effects, free tier | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=phase-plant-review) |
 | Phase Plant (Full) | ~$199 | Modular Semi-Modular | Full generator roster, audio-rate mod, Snapin ecosystem | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=phase-plant-review) |
-| Serum | ~$189 | Wavetable | Wavetable editor, visual modulation, preset community | [Official Site](https://xferrecords.com/products/serum-2) |
+| Serum | ~$189 | Wavetable | Wavetable editor, visual modulation, preset library | [Official Site](https://xferrecords.com/products/serum-2) |
 | u-he Hive 2 | ~$149 | Analog/Wavetable Hybrid | Fast workflow, polished presets | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5392-Hive-2?a_aid=69cb95abe1763&chan=art&data1=phase-plant-review) |
 
 ---
@@ -153,7 +153,7 @@ A: Yes — you can route an oscillator's output as a frequency modulation source
 A: The factory preset library is solid and genuinely usable across cinematic, electronic, and experimental styles. The presets are also well-built for reverse engineering — opening them is an effective way to learn advanced Phase Plant techniques.
 
 **Q: How does Phase Plant compare to Serum in 2026?**
-A: Serum is purpose-built for wavetable synthesis with a faster, more focused workflow. Phase Plant is broader — it includes a wavetable engine alongside analog, FM, sample, and noise generators in one instrument. For wavetable-centric work, Serum's dedicated editor and community ecosystem give it an edge. For cross-genre sound design, Phase Plant wins on flexibility.
+A: Serum is purpose-built for wavetable synthesis. Phase Plant is broader — it includes a wavetable engine alongside analog, FM, sample, and noise generators in one instrument. For wavetable-centric work, Serum has a dedicated wavetable editor. For cross-genre sound design, Phase Plant wins on flexibility.
 
 **Q: What are Kilohearts Snapins and do I need to buy them separately?**
 A: Snapins are Kilohearts' modular effects format, compatible with Phase Plant, Snap Heap, and Multipass. Phase Plant ships with a core set of Snapins included. Additional Snapins (more advanced reverb, multiband effects, etc.) are sold separately or bundled via the Kilohearts subscription. The included set covers most production needs; the upsells are for advanced users who are already in the ecosystem.

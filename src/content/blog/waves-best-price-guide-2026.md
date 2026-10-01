@@ -144,7 +144,7 @@ Waves now manages activation through the Waves License Center application. Hardw
 
 - **Developer:** Waves Audio
 - **Price:** List ~$399; commonly seen at $59.99–$79.99 during promotional windows — check waves.com for current pricing
-- **Why upgrade:** Individual plugin purchases during flash sales make sense for targeted needs, but Gold provides breadth — compression, EQ, limiting, and reverb fundamentals in a single purchase for well under $100 at sale price. The Renaissance-series tools in Gold are regularly cited in mixing forums as still-relevant standards, giving the bundle lasting utility beyond the initial learning curve.
+- **Why upgrade:** Individual plugin purchases during flash sales make sense for targeted needs, but Gold provides breadth — compression, EQ, limiting, and reverb fundamentals in a single purchase for well under $100 at sale price. The Gold bundle also includes Renaissance-series tools.
 
 *(No purchase link available for this bundle — check waves.com directly for current promotional pricing.)*
 

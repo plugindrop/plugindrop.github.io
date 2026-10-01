@@ -47,7 +47,7 @@ This guide is written for bedroom producers, home studio engineers, and anyone w
 - **Platforms:** Windows, macOS, Linux
 - **Formats:** VST2, VST3, AU, AAX
 
-TAL-Chorus-LX emulates the two-stage BBD (Bucket Brigade Device) chorus circuit from the Roland JC-120 guitar amplifier — the hardware behind one of the most beloved chorus sounds in recorded music history. Developer documentation confirms the model targets the specific analog character of that circuit. Its stereo output widens the signal as the depth rises. The effect scales from subtle at lower depth settings to lush and expansive when pushed, without the brittle quality that plagues cheaper chorus implementations.
+TAL-Chorus-LX emulates the two-stage BBD (Bucket Brigade Device) chorus circuit from the Roland JC-120 guitar amplifier. Developer documentation confirms the model targets the specific analog character of that circuit. Its stereo output widens the signal as the depth rises. The effect scales from subtle at lower depth settings to lush and expansive when pushed, without the brittle quality that plagues cheaper chorus implementations.
 
 The interface is deliberately minimal: two chorus modes (one-stage and two-stage), a mix control, and not much else. That simplicity is a feature. TAL-Chorus-LX is a plugin you drop on a track and it sounds right. It is a free emulation of the Roland JC-120 chorus circuit.
 
@@ -105,7 +105,7 @@ Valhalla DSP also makes VintageVerb, a paid algorithmic reverb. Getting SuperMas
 - **Platforms:** Windows, macOS
 - **Formats:** VST2, VST3, AU, AAX
 
-Blue Cat Audio maintains a well-regarded freeware plugin collection alongside their paid lineup, and Blue Cat's Chorus is part of it. It covers the standard chorus parameter set — rate, depth, mix, stereo spread — with the stability and sound quality that Blue Cat Audio is known for across their catalog. It does not have the multiband depth of MChorus or the specific analog character of TAL-Chorus-LX, but it is a clean, low-friction chorus that loads reliably across DAWs and does what it says.
+Blue Cat Audio maintains a freeware plugin collection alongside their paid lineup, and Blue Cat's Chorus is part of it. It covers the standard chorus parameter set — rate, depth, mix, stereo spread. It does not have the multiband depth of MChorus or the specific analog character of TAL-Chorus-LX, but it is a clean, low-friction chorus that loads reliably across DAWs and does what it says.
 
 **Best for:** Producers who want a straightforward, well-built chorus without spending time on setup or learning a complex interface.
 
@@ -237,7 +237,7 @@ Chris Johnson's AirWindows project is a large collection of free, open-source au
 
 - **If you want one free chorus with no learning curve**, download TAL-Chorus-LX and stop there. It handles synth pads, guitars, electric piano, and most classic chorus duties without configuration.
 - **If you need a flanger with real depth and control**, MFlanger from MeldaProduction is the answer — and downloading the MFreeFXBundle gives you MChorus and 30+ other plugins in the same install.
-- **If you're working on ambient, pad-heavy, or drone music**, Valhalla SuperMassive's ensemble modes produce textures that BBD-style chorus plugins cannot replicate, and it is free from a developer with an established reputation.
+- **If you're working on ambient, pad-heavy, or drone music**, Valhalla SuperMassive's ensemble modes produce textures that BBD-style chorus plugins cannot replicate, and it is free.
 - **If you need the Roland Dimension D character specifically**, Arturia Chorus DIMENSION-D is the emulation of that unit. The JC-120 and Dimension D are different hardware units with meaningfully different sounds — don't assume TAL-Chorus-LX covers both.
 - **If you're on Windows with a limited CPU budget**, GVST GChorus covers basic chorus duties with minimal resource impact.
 

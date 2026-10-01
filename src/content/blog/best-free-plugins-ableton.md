@@ -96,7 +96,7 @@ Surge XT is a hybrid synthesizer that combines subtractive, FM, wavetable, and w
 - **Platforms:** Windows, macOS, Linux
 - **Formats:** VST3, AU, AAX
 
-OB-Xd is a faithful recreation of the Oberheim OB-X polyphonic synthesizer — one of the most iconic analog synths of the 1980s and a staple of countless classic recordings. It nails that warm, slightly imperfect analog character through per-voice parameter variation, making chords and pads feel alive in ways that rigidly precise digital synths rarely replicate. The CPU footprint is minimal, so you can layer multiple instances in an Ableton session without taxing your system.
+OB-Xd is a faithful recreation of the Oberheim OB-X polyphonic synthesizer. It nails that warm, slightly imperfect analog character through per-voice parameter variation, making chords and pads feel alive in ways that rigidly precise digital synths rarely replicate. The CPU footprint is minimal, so you can layer multiple instances in an Ableton session without taxing your system.
 
 **Best for:** 80s-style pads, lush chord stabs, and warm leads with authentic analog character.
 
@@ -176,7 +176,7 @@ Rough Rider 3 is a compressor with attitude — it adds warmth and grit that tra
 
 Spatial effects make or break a mix. These two free plugins punch far above their price point and appear in professional sessions regularly.
 
-### Valhalla Supermassive — Legendary Free Reverb
+### Valhalla Supermassive — Free Reverb
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -205,7 +205,7 @@ Supermassive is Valhalla DSP's free reverb/delay release. The plugin specializes
 - **Platforms:** Windows, macOS, Linux
 - **Formats:** VST, VST3, AU
 
-TAL-Chorus-LX is a meticulous recreation of the BBD chorus circuit found in the Roland Juno-6 synthesizer — a modulation effect so iconic it's effectively synonymous with 1980s pop, new wave, and synthpop production. It adds the distinctive doubling, shimmer, and stereo width that made the Juno legendary, and it translates beautifully onto synthesizers, guitars, and vocals that need natural-sounding width. TAL Software maintains an excellent catalog of free tools; this is the standout.
+TAL-Chorus-LX is a meticulous recreation of the BBD chorus circuit found in the Roland Juno-6 synthesizer. It adds doubling, shimmer, and stereo width, and it can be used on synthesizers, guitars, and vocals that need width. TAL Software offers a catalog of free tools.
 
 **Best for:** Synth pads, leads requiring vintage warmth, guitars, and vocals that need natural stereo width without harsh digital artifacts.
 
@@ -291,7 +291,7 @@ SPAN is the spectrum analyzer that experienced mix engineers tend to leave runni
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
-iZotope's Ozone Imager 2 gives you precise stereo width control with a Lissajous vectorscope and a Stereoize function that adds width to mono signals without creating phase problems. It's extracted directly from iZotope's professional Ozone mastering suite and released as a standalone free plugin with no feature restrictions. The vectorscope alone makes it worth installing — it gives you an immediate, interpretable picture of your stereo field that most producers find indispensable once they start using it.
+iZotope's Ozone Imager 2 gives you precise stereo width control with a Lissajous vectorscope and a Stereoize function that adds width to mono signals without creating phase problems. It's extracted directly from iZotope's professional Ozone mastering suite and released as a standalone free plugin with no feature restrictions. The vectorscope shows your stereo field.
 
 **Best for:** Controlling stereo width on submixes and individual tracks, widening mono sources, checking mono compatibility, and mastering prep.
 
@@ -372,7 +372,7 @@ Once you've maxed out what the free tier offers, these three commercial plugins 
 
 ## FAQ
 **Q: Are free VST plugins safe to download?**
-A: Stick to plugins from established developers — all 12 plugins in this guide come from reputable sources with active user communities. Avoid third-party VST aggregator sites offering cracked commercial software; those regularly contain malware. Every developer linked here distributes directly from their own site.
+A: Stick to plugins from established developers — all 12 plugins in this guide are distributed by their developers. Avoid third-party VST aggregator sites offering cracked commercial software; those regularly contain malware. Every developer linked here distributes directly from their own site.
 
 **Q: Do these free VST plugins work in Ableton Live 12?**
 A: Yes. All 12 plugins in this list support VST3 and are confirmed compatible with Ableton Live 11 and 12 on both Windows and macOS. LABS requires the Spitfire LABS browser app to download instruments, but the plugin itself integrates cleanly with Ableton once installed.

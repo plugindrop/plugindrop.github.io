@@ -100,7 +100,7 @@ Vital ships with six LFOs (versus Serum's four), four envelopes, a random mod so
 
 ## Interface & Workflow
 
-Both synths are industry favorites partly because they look good. But sustained sessions reveal real differences in how each one handles daily production tasks.
+This section compares how each synth handles daily production tasks.
 
 ### Serum — Familiar, proven, endlessly documented
 
@@ -122,19 +122,19 @@ Vital's interface packs more visible complexity: three oscillators, three filter
 
 The ecosystem around a synth is often as important as the synth itself.
 
-### Serum — The most pre-patched synth on the planet
+### Serum — A large preset library
 
 Serum's preset library is enormous. Every major sound pack developer — from NI to Splice to independent designers — offers Serum patches. Its `.fxp` format is universally supported. Buying Serum in 2026 means instant access to a decade of professionally designed sounds across every genre imaginable.
 
 **Best for:** Producers who rely heavily on pre-built starting points or who purchase third-party sound packs.
 
-### Vital — A growing free ecosystem, strong open-source community
+### Vital — A growing free ecosystem
 
 Vital's presets are shared freely on Vital's website. The paid tiers include professionally curated packs. While the total library size doesn't match Serum's decade of commercial releases, the quality ceiling is comparable and the free access is genuinely exceptional.
 
-**Best for:** Producers who prefer community-driven resources and want a free starting library.
+**Best for:** Producers who prefer freely shared resources and want a free starting library.
 
-**Winner: Serum** — sheer volume of professionally produced patches remains unmatched.
+**Winner: Serum** — it has a large volume of third-party patches.
 
 ---
 
@@ -142,7 +142,7 @@ Vital's presets are shared freely on Vital's website. The paid tiers include pro
 
 ### Serum — Premium price, premium pedigree
 
-At approximately $189 one-time (or available via Splice subscription), Serum isn't cheap. But its longevity, stability, and commercial ubiquity make it one of the safest investments in a plugin folder. It has received consistent free updates for over a decade, and Serum 2 has been in development — owners of the original are expected to receive upgrade pricing.
+At approximately $189 one-time (or available via Splice subscription), Serum isn't cheap. It has received consistent free updates for over a decade, and Serum 2 has been in development — owners of the original are expected to receive upgrade pricing.
 
 **Best for:** Producers treating their plugin folder as a long-term professional investment.
 
@@ -186,7 +186,7 @@ Once you've outgrown the standard wavetable paradigm, these tools push synthesis
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Serum | ~$189 | Wavetable | Best-in-class audio quality, massive preset ecosystem, industry standard | [Buy](https://xferrecords.com/products/serum-2) |
+| Serum | ~$189 | Wavetable | Wavetable editor, large preset ecosystem | [Buy](https://xferrecords.com/products/serum-2) |
 | Vital | Free / Paid tiers | Wavetable + Spectral | Free full engine, 6 LFOs, FM-capable, Linux support | [Get Free (Plugin Boutique)](https://vital.audio/) / [Plugin Boutique](https://vital.audio/) |
 | Phase Plant | ~$99+ | Modular/Hybrid | Fully modular signal path, wavetable + granular + additive | [Buy](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=serum-vs-vital-comparison) |
 
@@ -195,8 +195,8 @@ Once you've outgrown the standard wavetable paradigm, these tools push synthesis
 ## How to Choose
 
 - **If you're just starting out**, go with Vital's free tier — it's a professional-grade engine with no upfront cost and no artificial limitations on the core synthesis.
-- **If you work in EDM, bass music, or synthwave professionally**, buy Serum — its sound quality, CPU performance, and commercial preset ecosystem are unmatched for genre-specific workflows.
-- **If your DAW sessions regularly run 20+ instruments**, choose Serum — its reputation for efficient CPU usage at scale is well earned.
+- **If you work in EDM, bass music, or synthwave professionally**, buy Serum — its commercial preset ecosystem covers genre-specific workflows.
+- **If your DAW sessions regularly run 20+ instruments**, check each synth's CPU load in your own projects before choosing.
 - **If you come from a modular or semi-modular background**, Vital's audio-rate modulation and deeper routing will feel more natural than Serum's comparatively fixed architecture.
 - **If you've mastered both and want to go further**, Phase Plant is the logical upgrade — it removes every architectural constraint both synths impose.
 
@@ -217,7 +217,7 @@ A: Yes. Vital supports Linux via VST3 and LV2 formats, which is a meaningful adv
 A: Both excel at bass design. Serum has a slight edge for sub-heavy, clean bass patches thanks to its anti-aliasing quality. Vital's aggressive distortion stack and filter variety can produce dirtier, more complex bass textures more naturally.
 
 **Q: Is there a meaningful free trial for Serum before buying?**
-A: No — Serum does not offer a free trial, though Splice subscribers can access it for a monthly fee without a full upfront commitment. This is one reason many producers start with Vital before purchasing Serum.
+A: No — Serum does not offer a free trial, though Splice subscribers can access it for a monthly fee without a full upfront commitment. Vital's free tier can be used to try a wavetable synth before purchasing Serum.
 
 ---
 ## Final Thoughts

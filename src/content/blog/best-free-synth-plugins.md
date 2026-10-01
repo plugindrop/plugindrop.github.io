@@ -39,7 +39,7 @@ Finding the best free synth VST plugin in 2026 has never been harder — not bec
 
 This guide covers 17 free synths across wavetable, FM, virtual analog, multi-synthesis, and specialty types. Each entry lists format, OS, and price up front, names the sounds it does best, and, just as important, tells you when to skip it. The ranking reflects documented specs, active-development status, and each synth's stated formats and features.
 
-We also include three paid upgrades at the end for producers ready to invest. But make no mistake: the free options here are not consolation prizes. Vital and Surge XT alone cover more synthesis ground than most producers will ever need.
+We also include three paid upgrades at the end for producers ready to invest. But make no mistake: the free options here are not consolation prizes. Vital and Surge XT cover a wide range of synthesis.
 
 ---
 
@@ -90,7 +90,7 @@ Surge XT is a deep hybrid synthesizer with three oscillators that each switch in
 - **Platforms:** Windows, macOS, Linux
 - **Formats:** VST3, AU, CLAP
 
-Zebralette 3 is the standalone, single-oscillator version of u-he's Zebra2 — one of the most respected synthesizers in professional sound design. What you get for free is the complete Zebra spectral wavetable oscillator: draw and warp waveforms in ways that rival Serum's wavetable editor, apply effects in a sixteen-slot chain, and work with a vector interface that was completely rebuilt for the 3.0 release. The single-oscillator architecture is a genuine limitation for complex layering, but for leads, basses, and evolving pads, Zebralette 3 produces a clarity and character that competes with instruments costing hundreds of dollars. It also runs on Linux via CLAP, making it one of the few polished free wavetable options on that platform.
+Zebralette 3 is the standalone, single-oscillator version of u-he's Zebra2. What you get for free is the complete Zebra spectral wavetable oscillator: draw and warp waveforms, apply effects in a sixteen-slot chain, and work with a vector interface that was completely rebuilt for the 3.0 release. The single-oscillator architecture is a genuine limitation for complex layering, but for leads, basses, and evolving pads, Zebralette 3 is a capable free option. It also runs on Linux via CLAP, making it one of the few polished free wavetable options on that platform.
 
 **Best for:** Producers who want u-he wavetable quality at zero cost, spectral waveform drawing, clean modern leads and pads, Linux users
 
@@ -142,7 +142,7 @@ ZynAddSubFX combines traditional subtractive synthesis with additive harmonic co
 
 ## Virtual Analog Synths
 
-### OB-Xd — Oberheim's legendary filter, zero cost
+### OB-Xd — Oberheim-style filter, zero cost
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/jLwauTGsvYc" title="OB-Xd 3.0 — Best FREE Synth Plugin Just Got Better (DiscoDSP)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -187,7 +187,7 @@ Helm was Matthew Tytel's main instrument before Vital arrived, and it still earn
 - **Platforms:** Windows, macOS
 - **Formats:** VST, AU
 
-Tyrell N6 was released by u-he as a community project, and it carries the company's signature attention to analog circuit behavior. The two-oscillator signal path runs clean, the resonant filter sweeps warmly, and oscillator drift gives it a character that feels analog in a way many freeware synths do not. It is simple by design, with no deep modulation routing, but for bread-and-butter analog patches it outperforms competitors that cost money.
+Tyrell N6 was released by u-he as a community project, and it carries the company's signature attention to analog circuit behavior. The two-oscillator signal path includes a resonant filter and oscillator drift. It is simple by design, with no deep modulation routing, but for basic analog patches it is a free option.
 
 **Best for:** Classic analog basses, simple leads, producers who want u-he filter quality at zero cost
 
@@ -225,7 +225,7 @@ TAL-NoiseMaker is a three-oscillator virtual analog synth built for immediacy. T
 - **Platforms:** Windows (unofficial macOS ports available)
 - **Formats:** VST
 
-Synth1 is a free plugin modeled loosely on the Nord Lead 2 architecture. The community preset library, over 100,000 patches across genres, is the primary reason to install it. It handles two-oscillator subtractive synthesis cleanly, includes onboard chorus and delay, and despite its age, runs stably in modern DAWs on Windows. For preset-driven production on a budget, nothing else free competes on library size.
+Synth1 is a free plugin modeled loosely on the Nord Lead 2 architecture. The community preset library, over 100,000 patches across genres, is the primary reason to install it. It handles two-oscillator subtractive synthesis cleanly, includes onboard chorus and delay, and despite its age, runs stably in modern DAWs on Windows. For preset-driven production on a budget, the library is the main draw.
 
 **Best for:** Preset browsing, classic trance and dance leads, Windows-based producers building a free toolkit
 

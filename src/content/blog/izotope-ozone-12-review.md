@@ -95,9 +95,9 @@ Matching to a reference track is built in via the Match EQ function, which analy
 - **Platforms:** Windows, macOS
 - **Formats:** VST2, VST3, AU, AAX
 
-The Maximizer is where Ozone has historically earned its reputation. The IRC (Intelligent Release Control) algorithm family — currently at IRC IV — uses spectral-aware limiting that processes different frequency bands with different release behaviors, resulting in louder masters with less pumping and distortion compared to wideband brickwall limiters.
+The Maximizer is Ozone's limiting module. The IRC (Intelligent Release Control) algorithm family — currently at IRC IV — uses spectral-aware limiting that processes different frequency bands with different release behaviors, resulting in louder masters with less pumping and distortion compared to wideband brickwall limiters.
 
-IRC IV handles transient-heavy material (drums, percussion-forward tracks) particularly well. IRC III remains the go-to for sustained material like classical, ambient, and orchestral work. The ability to switch algorithms per project without leaving the interface is a meaningful practical advantage over using separate limiters.
+IRC IV handles transient-heavy material (drums, percussion-forward tracks) particularly well. IRC III remains available as another algorithm option. The ability to switch algorithms per project without leaving the interface is a meaningful practical advantage over using separate limiters.
 
 **Best for:** Achieving competitive loudness targets on any genre without obvious limiting artifacts.
 

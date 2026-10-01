@@ -212,7 +212,7 @@ No, though they are frequently combined. Tape simulation models the magnetic rec
 All plugins listed here support the major DAW formats. iZotope Vinyl and RC-20 Retro Color are confirmed compatible with Ableton Live, Logic Pro, FL Studio, Reaper, Studio One, and Cubase. Chow Tape Model additionally supports Linux and the CLAP format, making it the broadest cross-platform option in this list.
 
 **Why does adding vinyl noise make a mix feel more cohesive?**
-Vinyl noise reduces the perceptual cleanliness of a digital mix by introducing random, non-harmonic content. This has a psychoacoustic effect: the noise creates the impression of acoustic space and physical presence that pure digital recordings lack. It also masks minor mix imperfections, which is why producers often describe it as glue — disparate elements start to feel like they share the same physical recording.
+Vinyl noise reduces the perceptual cleanliness of a digital mix by introducing random, non-harmonic content. This has a psychoacoustic effect: the noise creates the impression of acoustic space and physical presence that pure digital recordings lack. It also masks minor mix imperfections, which can make disparate elements feel like they share the same physical recording.
 
 ---
 

@@ -44,7 +44,7 @@ Ableton Live is available in three tiers:
 - **Standard** ($449): Unlimited tracks, full MIDI and audio editing, no Max for Live
 - **Suite** ($749): Everything in Standard plus 70+ instruments and effects, Max for Live included
 
-The defining feature of Ableton is **Session View** — a grid-based layout where you launch clips and scenes in real time rather than working top-to-bottom on a timeline. This makes it the go-to DAW for DJs, live electronic performers, and producers who build tracks by jamming loops together.
+The defining feature of Ableton is **Session View** — a grid-based layout where you launch clips and scenes in real time rather than working top-to-bottom on a timeline. This suits DJs, live electronic performers, and producers who build tracks by jamming loops together.
 
 **Max for Live** (Suite only) is a visual programming environment built into Ableton. You can build custom instruments, effects, and MIDI tools without writing code in a traditional language. This is a unique feature with no direct equivalent in Logic.
 
@@ -117,7 +117,7 @@ No. Logic Pro is macOS-only and requires an Apple Silicon or Intel Mac running m
 Yes. Ableton Live is sold as a perpetual license. You pay once and own that version. Major version upgrades (e.g., Live 11 to Live 12) are paid separately, with discounts for existing owners.
 
 **Which DAW is better for mixing?**
-Both are capable of professional mixing. Logic's mixing console is more fully featured out of the box, while Ableton is functional but focused more on production and performance than mixing. Many producers finish mixes in either DAW without issue.
+Both are capable of professional mixing. Logic's mixing console is more fully featured out of the box, while Ableton is functional but focused more on production and performance than mixing.
 
 ---
 
