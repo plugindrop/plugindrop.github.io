@@ -21,7 +21,7 @@ Soundtoys is a Vermont-based plugin developer known for building effects process
 
 ## Key Features
 
-- **EchoBoy** — a delay plugin modeled after vintage tape and analog echo units, widely used for adding vibe and dimension to tracks
+- **EchoBoy** — a delay plugin modeled after vintage tape and analog echo units, used for adding vibe and dimension to tracks
 - **Decapitator** — an analog saturation plugin based on five classic hardware drive circuits, used to add grit and harmonic color
 - **Little AlterBoy** — a vocal transform tool for pitch shifting and formant manipulation, capable of subtle doubling or extreme effect
 - **PanMan** — a panning modulation plugin inspired by classic auto-panner hardware, useful for creating rhythmic stereo movement
@@ -32,7 +32,7 @@ Soundtoys is a Vermont-based plugin developer known for building effects process
 
 ## What Producers Are Saying
 
-Soundtoys has been a recurring recommendation in mixing and production communities for well over a decade. On forums like KVR and Reddit's r/AudioProductionDeals, the Soundtoys 5 bundle is commonly cited as a foundational effects collection — particularly Decapitator and EchoBoy, which appear frequently in "must-have saturation/delay" threads. Little AlterBoy is consistently brought up in vocal production discussions as a go-to for pitch and formant work. Community consensus generally positions Soundtoys plugins as premium tools that justify the, making 
+The Soundtoys 5 bundle is an effects collection that includes Decapitator (saturation) and EchoBoy (delay). Little AlterBoy is a pitch and formant tool for vocals. Soundtoys plugins are premium-priced tools, so a sale like this lowers the cost of entry, making 
 
 ---
 

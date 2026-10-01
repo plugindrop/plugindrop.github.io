@@ -45,10 +45,10 @@ Plugin Boutique often matches official sale prices and gives you Virtual Cash ba
 
 ## Free Alternatives If You Can't Wait
 
-- **[TDR Nova](https://www.tokyodawn.net/tdr-nova/)** — Free dynamic EQ — widely regarded as the best free parametric EQ
+- **[TDR Nova](https://www.tokyodawn.net/tdr-nova/)** — Free dynamic EQ
 - **[MEqualizer (MeldaProduction)](https://www.meldaproduction.com/MEqualizer)** — Free 6-band parametric EQ with linear phase option
 
 
 ---
 
-*Last updated: 2026-06. Data compiled from Reddit r/audioengineering, KVR Audio forums, Slickdeals, and community-verified sale reports. Prices vary by region and may differ at time of purchase.*
+*Last updated: 2026-06. Data compiled from public sale listings and prices tracked by PluginDrop. Prices vary by region and may differ at time of purchase.*

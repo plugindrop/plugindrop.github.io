@@ -27,7 +27,7 @@ Solid State Logic (SSL) is one of the most storied names in professional audio, 
 
 ## Key Features
 
-- **Four-Band EQ Section** — High shelf, low shelf, and two parametric mid bands modeled on SSL's legendary console circuitry.
+- **Four-Band EQ Section** — High shelf, low shelf, and two parametric mid bands modeled on SSL's console circuitry.
 - **Compressor/Limiter** — The classic SSL dynamics compressor with adjustable attack, release, ratio, and threshold — the core of the recognizable "SSL sound."
 - **Gate/Expander** — A dedicated gate section for noise floor control and transient shaping, mirroring the original hardware layout.
 - **Native Operation** — No external DSP hardware required; runs directly inside your DAW on your existing system.
@@ -55,10 +55,10 @@ SSL's Native plugin line doesn't regularly appear at discounts this steep. An 87
 | Name | Price | Key Difference |
 |---|---|---|
 | Waves SSL G-Channel | Check Waves site | Third-party SSL emulation; frequently discounted during Waves promotions |
-| UAD SSL 4000 E Channel Strip | Check UAD site | Widely regarded emulation, but requires UAD hardware or a Spark subscription |
+| UAD SSL 4000 E Channel Strip | Check UAD site | Emulation that requires UAD hardware or a Spark subscription |
 | Softube SSL 4000 E | Check Softube site | Another licensed third-party emulation option |
 
-The Native Channel Strip 2 stands apart because it is SSL's own product — not a licensed or independent recreation. The UAD version is frequently cited for fidelity but carries an additional hardware cost. The Waves option often reaches low price points during sales but is a third-party build. At $19, the first-party SSL plugin is the clearest value argument here.
+The Native Channel Strip 2 stands apart because it is SSL's own product — not a licensed or independent recreation. The UAD version carries an additional hardware cost. The Waves option often reaches low price points during sales but is a third-party build. At $19, it is the first-party SSL option, with no hardware requirement.
 
 ## FAQ
 

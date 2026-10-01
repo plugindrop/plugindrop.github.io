@@ -38,7 +38,7 @@ LALAL.AI is an AI-powered audio stem separation platform developed by the LALAL.
 
 ## What Producers Are Saying
 
-LALAL.AI is a regularly recommended option in stem separation discussions on Reddit's r/audioengineering and r/WeAreTheMusicMakers. Users most commonly reference it when looking for vocal isolation for sampling workflows or karaoke-style stem removal. The VST plugin version draws consistent attention in DAW-specific threads, where producers cite direct DAW integration as a meaningful workflow improvement over browser-upload tools. In comparisons with free alternatives like Demucs, community consensus tends to note LALAL.AI's output quality and convenience as justification for the subscription cost.
+LALAL.AI is a stem separation service. Typical uses include vocal isolation for sampling workflows or karaoke-style stem removal. The VST plugin version works directly inside the DAW, which avoids the browser-upload step of the web tool. Free alternatives like Demucs exist, so the subscription cost is worth weighing against how often you need stem separation.
 
 ---
 
@@ -97,7 +97,7 @@ A: LALAL.AI offers a free tier with limited processing minutes, which allows tes
 
 ## Get the Deal
 
-30% off a Pro subscription that includes VST plugin access is a meaningful reduction for a tool with an active development track record and consistent community visibility. Use code **AUDIOPLUGINGUY** at checkout.
+30% off a Pro subscription that includes VST plugin access is a meaningful reduction for a tool that includes the VST plugin. Use code **AUDIOPLUGINGUY** at checkout.
 
 [→ Get LALAL.AI at Direct](https://www.lalal.ai/pricing/)
 

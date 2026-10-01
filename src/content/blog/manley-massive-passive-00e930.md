@@ -15,7 +15,7 @@ converted: true
 
 ## What Is Manley Massive Passive?
 
-Manley Massive Passive is a plugin emulation of Manley Laboratories' flagship hardware passive EQ, a unit that has been a fixture in high-end recording studios for decades. The hardware earned its reputation for a distinctive musicality rooted in its passive circuit topology — a fundamentally different character from the surgical precision of modern digital EQs. The plugin brings that hardware DNA into a DAW-compatible format, targeting producers and engineers who want the texture of classic analog shaping without the rack space or hardware price tag.
+Manley Massive Passive is a plugin emulation of Manley Laboratories' flagship hardware passive EQ, a unit that has been a fixture in high-end recording studios for decades. The hardware is known for a distinctive character rooted in its passive circuit topology — a fundamentally different character from the surgical precision of modern digital EQs. The plugin brings that hardware DNA into a DAW-compatible format, targeting producers and engineers who want the texture of classic analog shaping without the rack space or hardware price tag.
 
 ---
 
@@ -32,7 +32,7 @@ Manley Massive Passive is a plugin emulation of Manley Laboratories' flagship ha
 
 ## What Producers Are Saying
 
-The Manley Massive Passive hardware is widely regarded as a reference-grade mastering EQ. On professional mixing and mastering forums, it's consistently cited alongside other top-tier passive EQs when engineers discuss tools used on major label releases. Community discussions around the plugin version tend to focus on how closely it captures the hardware's broad, gentle curves — a quality that makes it particularly popular for bus and mastering chain applications rather than corrective EQ work.
+The Manley Massive Passive hardware is a passive EQ used in mixing and mastering. The plugin version aims to capture the hardware's broad, gentle curves, which suits bus and mastering chain applications better than corrective EQ work.
 
 ---
 

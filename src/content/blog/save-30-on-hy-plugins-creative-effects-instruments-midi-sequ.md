@@ -15,7 +15,7 @@ converted: true
 
 ## What Is HY-Plugins?
 
-HY-Plugins is an independent plugin developer known for a focused catalog of affordable, creatively oriented tools — spanning synthesizers, sequencers, slicers, and effects processors. The lineup is aimed at producers who want unusual, workflow-friendly tools without paying flagship prices. The brand has built a quiet following in the DAW community, particularly among those interested in MIDI-driven sound design and sample manipulation.
+HY-Plugins is an independent plugin developer known for a focused catalog of affordable, creatively oriented tools — spanning synthesizers, sequencers, slicers, and effects processors. The lineup is aimed at producers who want unusual, workflow-friendly tools without paying flagship prices. The catalog leans toward MIDI-driven sound design and sample manipulation.
 
 ---
 
@@ -34,7 +34,7 @@ The HY-Plugins catalog covers several distinct product types. Here's what the ra
 
 ## What Producers Are Saying
 
-HY-Plugins sits in the "hidden gem" tier that tends to get discussed in threads about underrated or indie developers. On KVR Audio forums, the brand comes up in conversations about affordable MIDI sequencers and niche sound design tools. Reddit's r/synthesizers and r/edmproduction communities occasionally surface HY-Plugins when users ask about step sequencers or creative samplers outside the mainstream options. Community consensus tends to position these tools as strong value picks — particularly for producers who enjoy modular-style thinking within a traditional DAW environment.
+HY-Plugins is an indie developer with affordable MIDI sequencers and niche sound design tools, including step sequencers and creative samplers outside the mainstream options. The tools suit producers who enjoy modular-style thinking within a traditional DAW environment.
 
 ---
 

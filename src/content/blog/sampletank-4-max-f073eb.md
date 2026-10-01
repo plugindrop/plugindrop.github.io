@@ -28,7 +28,7 @@ SampleTank 4 MAX is IK Multimedia's top-tier sample-based virtual instrument wor
 
 ## What Producers Are Saying
 
-SampleTank 4 has been part of the IK Multimedia ecosystem long enough to build a consistent reputation. In music production forums, it tends to come up as a solid all-in-one option for producers who want broad coverage without assembling individual sample libraries piecemeal. The MAX edition in particular is frequently cited in deal-tracking discussions on KVR and Plugin Boutique's community sections as one of the better value propositions when it goes on sale. At, the conversation shifts — but at a steep discount, community consensus generally lands on "strong value for the library breadth."
+SampleTank 4 is part of the IK Multimedia lineup. It is an all-in-one option for producers who want broad sound coverage without assembling individual sample libraries piecemeal. The MAX edition is the largest edition, so a steep discount matters most for the library breadth it includes.
 
 ## Who Is It For?
 

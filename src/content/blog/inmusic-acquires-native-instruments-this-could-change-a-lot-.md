@@ -29,11 +29,11 @@ saleExpirySource: "fallback"
 
 This one landed like a dropped sample. inMusic Brands — the hardware and software conglomerate behind Akai Professional, Moog, M-Audio, Denon DJ, Numark, Rane, Alesis, AIR Music Technology, and BFD — has confirmed the acquisition of Native Instruments. That means Kontakt, Komplete, Maschine, and the entire NI ecosystem now sit under the same corporate roof as some of the most recognizable names in DJ and production hardware.
 
-The implications are significant, and the discussion in the music production community is just getting started.
+The implications are significant, and how the acquisition plays out remains to be seen.
 
 ## What Is Native Instruments?
 
-Native Instruments is a Berlin-based company widely regarded as one of the most influential forces in software instruments and effects for music production. Their flagship products — Kontakt (a professional sampler), Komplete (a bundled suite of instruments and effects), and Maschine (a groove production platform) — are industry standards used across genres from film scoring to hip-hop to electronic music.
+Native Instruments is a Berlin-based company that makes software instruments and effects for music production. Their flagship products — Kontakt (a professional sampler), Komplete (a bundled suite of instruments and effects), and Maschine (a groove production platform) — are used across genres from film scoring to hip-hop to electronic music.
 
 The company also maintains the NKS (Native Kontrol Standard) format, a plugin integration protocol adopted by a wide range of third-party developers.
 
@@ -48,7 +48,7 @@ The company also maintains the NKS (Native Kontrol Standard) format, a plugin in
 ## Who Is It For?
 
 - **Sample library producers and composers:** The Kontakt ecosystem remains the dominant platform for orchestral, cinematic, and genre-specific sample libraries.
-- **Beat makers and hip-hop producers:** Maschine's workflow and built-in library have made it a go-to for groove-centric production.
+- **Beat makers and hip-hop producers:** Maschine is a groove production platform with a built-in library.
 - **Studio engineers and mixers:** NI's effects and mastering tools (Ozone alternatives, Guitar Rig, etc.) serve professional mixing workflows.
 - **Hardware-first producers:** The inMusic acquisition potentially opens doors for deeper integration between NI software and the inMusic hardware lineup (Akai MPC, M-Audio controllers).
 

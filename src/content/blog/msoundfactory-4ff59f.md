@@ -40,7 +40,7 @@ MSoundFactory is a flagship virtual instrument by Czech developer Meldaproductio
 
 ## What Producers Are Saying
 
-Meldaproduction has a strong following on KVR Audio, where their instruments and effects are regularly recommended in synthesis and sound design threads. MSoundFactory in particular comes up in discussions about "one plugin to rule them all" style instruments — producers frequently cite its breadth of synthesis engines as a differentiator. The general community consensus around Meldaproduction is that their plugins offer exceptional value for the feature count, though users note the interfaces have a learning curve compared to simpler alternatives.
+Meldaproduction makes a wide range of instruments and effects. MSoundFactory is an all-in-one style instrument, and its breadth of synthesis engines is its main differentiator. Meldaproduction plugins are feature-dense, so expect a learning curve compared to simpler alternatives.
 
 ---
 
