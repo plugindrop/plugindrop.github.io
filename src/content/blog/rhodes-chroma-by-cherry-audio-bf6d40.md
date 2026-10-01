@@ -48,7 +48,7 @@ Rhodes Chroma is Cherry Audio's software emulation of the original Rhodes Chroma
 |---|---|---|
 | Arturia Juno-106 V | ~$99 | Emulates the Roland Juno-106; simpler architecture, different filter character |
 | TAL-U-NO-LX | ~$60 | Juno-60 emulation; lower CPU footprint, less modulation depth |
-| Cherry Audio Memorymode | ~$29–49 | Moog Memorymoog emulation; single-oscillator-focused, warmer low-end bias |
+| Cherry Audio Memorymode 2 | ~$69 | Moog Memorymoog emulation; single-oscillator-focused, warmer low-end bias |
 
 The Rhodes Chroma is the right pick when you specifically need the Chroma's dual-oscillator voice structure and its unusually deep modulation routing. For simpler 1980s polyphonic character with a lower learning curve, the Juno-based options cover adjacent sonic territory with less complexity.
 

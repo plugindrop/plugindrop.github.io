@@ -295,7 +295,7 @@ The free tier gets you making music today. But there's a point — usually when 
 | u-he Diva | Multi-vintage circuit simulation | $179 | u-he rarely discounts deeply; expect ~25% off ($135ish) a few times a year, never much lower | [Plugin Boutique](https://www.pluginboutique.com/search?q=u-he%20Diva&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins&chan=art&data1=best-vintage-synth-vst-plugins) |
 | u-he Repro | Prophet-5 & Pro-One | ~$149 | Falls toward ~$99 during u-he's occasional sales | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/3027-Repro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins&chan=art&data1=best-vintage-synth-vst-plugins) |
 | GForce Minimonsta2 | Minimoog | ~$99 | GForce runs frequent 40–50% off promos (~$50) | [Plugin Boutique](https://www.pluginboutique.com/search?q=GForce%20Minimonsta&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins&chan=art&data1=best-vintage-synth-vst-plugins) |
-| Cherry Audio Memorymode | Moog Memorymoog | ~$39 | Already cheap; seasonal bundles drop it to ~$25 | [Plugin Boutique](https://www.pluginboutique.com/search?q=Cherry%20Audio%20Memorymode&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins&chan=art&data1=best-vintage-synth-vst-plugins) |
+| Cherry Audio Memorymode 2 | Moog Memorymoog | ~$69 (as of 2026-10-01) | Official price | [Plugin Boutique](https://www.pluginboutique.com/search?q=Cherry%20Audio%20Memorymode%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins&chan=art&data1=best-vintage-synth-vst-plugins) |
 
 Two practical rules from these price patterns: if you want V Collection, there is almost no reason to pay full $599 — Black Friday reliably halves it. And if Diva is on your list, buy it the moment u-he posts any sale, because the discounts are shallow and infrequent; it holds its value harder than almost anything else on this table.
 
@@ -332,7 +332,7 @@ Two practical rules from these price patterns: if you want V Collection, there i
 | Arturia CS-80 V | $99 | Yamaha CS-80 | Dual filter, ribbon controller model | [Official Site](https://www.pluginboutique.com/search?q=Arturia%20CS-80%20V&a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins) |
 | Synapse Audio The Legend | ~$99 | Minimoog | Zero-delay-feedback filter | [Official Site](https://www.pluginboutique.com/search?q=Synapse%20Audio%20The%20Legend&a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins) |
 | TAL-U-NO-LX | ~$60 | Roland Juno-60 | BBD chorus circuit emulation | [Official Site](https://www.pluginboutique.com/search?q=TAL-U-NO-LX&a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins) |
-| Cherry Audio Memorymode | ~$39 | Moog Memorymoog | Best price-to-accuracy ratio | [Official Site](https://www.pluginboutique.com/search?q=Cherry%20Audio%20Memorymode&a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins) |
+| Cherry Audio Memorymode 2 | ~$69 | Moog Memorymoog | Best price-to-accuracy ratio | [Official Site](https://www.pluginboutique.com/search?q=Cherry%20Audio%20Memorymode%202&a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins) |
 | OB-Xd | Free | Oberheim OB-Xa | Per-voice detuning, 2/4-pole filter | [Free Download](https://www.discodsp.com/obxd/) |
 | Dexed | Free | Yamaha DX7 | Full SysEx compatibility | [Developer Site](https://asb2m10.github.io/dexed/) |
 | Surge XT | Free | Multi-vintage | Ladder, K35, OB filters; CLAP support | [Developer Site](https://surge-synthesizer.github.io/) |
@@ -342,7 +342,7 @@ Two practical rules from these price patterns: if you want V Collection, there i
 ## How to Choose
 
 - **If maximum circuit accuracy is the priority**, go with u-he Diva — it is the only plugin in this guide that uses near-sample-accurate simulation rather than behavioral modeling.
-- **If you primarily need Moog bass and leads on a budget**, Cherry Audio Memorymode (~$39) delivers comparable character to Arturia Mini V3 ($99) at less than half the price.
+- **If you primarily need Moog bass and leads on a budget**, Cherry Audio Memorymode 2 (~$69) delivers comparable character to Arturia Mini V3 ($99) at a lower price.
 - **If the Roland Juno chorus is your target**, TAL-U-NO-LX is the Juno-60 emulation in this guide — there is no meaningful free alternative for that specific BBD chorus circuit.
 - **If you're buying three or more Arturia instruments**, Arturia V Collection 11 is almost always the better financial decision compared to individual purchases at full price — and it drops to ~$299 on Black Friday.
 - **If you're starting with no budget**, OB-Xd (Oberheim), Dexed (DX7), and Surge XT (multi-vintage filters) cover three distinct vintage sound palettes at zero cost.
@@ -366,7 +366,7 @@ A: If you own one and want two more, the bundle usually wins the math — but do
 A: Mini V3 is the more playable of the two: it adds polyphony and modulation the hardware never had, using TAE modeling. Diva's Minimoog-derived voice uses full circuit simulation and reproduces the specific hardware non-linearities more faithfully. In short: Mini V3 is the more playable, Diva the more accurate.
 
 **Q: What's the cheapest way to get a real Moog sound?**
-A: Cherry Audio Memorymode at ~$39 — and it lands near ~$25 in seasonal bundles. It's the polyphonic Memorymoog rather than the mono Model D, so it leans smooth and lush, but the ladder-filter character is unmistakably Moog.
+A: Cherry Audio Memorymode 2 at ~$69 (as of 2026-10-01). It's the polyphonic Memorymoog rather than the mono Model D, so it leans smooth and lush, but the ladder-filter character is unmistakably Moog.
 
 ---
 ## Related Guides

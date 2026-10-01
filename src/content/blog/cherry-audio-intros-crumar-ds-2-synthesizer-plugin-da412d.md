@@ -48,7 +48,7 @@ Verify current pricing on the product page — deals can change. [Check the deal
 | Name | Price | Key Difference |
 |---|---|---|
 | Arturia CZ V | Check current price | Models the Casio CZ series — digital phase distortion rather than analog-style subtractive |
-| Cherry Audio Memorymode | $59 | Models the Moog Memorymoog — different sonic character, no dual-section architecture |
+| Cherry Audio Memorymode 2 | $69 | Models the Moog Memorymoog — different sonic character, no dual-section architecture |
 | u-he Diva | Check current price | CPU-heavy analog modeling with mix-and-match oscillator/filter types — broader but not historically focused |
 
 If you specifically want that rare late-'70s Italian polysynth character with a dual Synth/Poly architecture, the DS-2 is the only game in town. If you want a more general-purpose analog-modeled polysynth with deep flexibility, Diva covers wider ground. If you're already in the Cherry Audio ecosystem, bundling the DS-2 with other titles at the Pick 3 or Pick 6 price makes the most sense.
