@@ -95,7 +95,7 @@ It's less ideal for producers who need a fast preset-browser workflow and minima
 
 ## Worth Upgrading To (Paid Options)
 
-### Serum — The Wavetable Benchmark, Still Earning Its Reputation
+### Serum — A Dedicated Wavetable Synth
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

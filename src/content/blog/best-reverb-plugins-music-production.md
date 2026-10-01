@@ -95,7 +95,7 @@ Valhalla VintageVerb is an algorithmic reverb priced at $50. Developer Sean Cost
 
 ---
 
-### Arturia Rev PLATE-140 — Physical modeling of an iconic hardware plate
+### Arturia Rev PLATE-140 — Physical modeling of a hardware plate
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/42e9SI8Zy94" title="Arturia Rev PLATE-140 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
