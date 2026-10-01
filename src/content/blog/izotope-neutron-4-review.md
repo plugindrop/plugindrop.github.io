@@ -124,7 +124,7 @@ A: macOS 14.7, 15.7 and 26.2 on Intel and Apple silicon, and Windows 10 or 11, i
 ## Related Guides
 
 - [15 Best Mixing Plugins 2026: Free & Paid Ranked — EQ, Compressor, FX](/posts/best-mixing-plugins-2026/)
-- [iZotope Ozone 12 Review 2026: Is It Worth $199–$499? (Honest Verdict)](/posts/izotope-ozone-12-review/)
+- [iZotope Ozone 12 Review 2026: Is It Worth $219–$499? (Honest Verdict)](/posts/izotope-ozone-12-review/)
 - [How to Use Compression Plugins: A Complete Mixing Guide (2026)](/posts/how-to-use-compression-mixing/)
 - [10 Best Free EQ VST Plugins in 2026, Ranked (Mixing & Mastering)](/posts/best-free-eq-vst-plugins/)
 - [12 Best Free Compressor VST Plugins in 2026, Ranked (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)

@@ -67,7 +67,7 @@ If you already own a recent Komplete version, price out the upgrade path first â
 
 ## What Producers Are Saying
 
-Komplete bundles NI's instruments and effects, and recent versions add iZotope tools such as Ozone and Neutron. That can lower the cost compared with buying those iZotope tools standalone (Ozone 12 Advanced alone typically runs $199â€“$399 depending on the sale).
+Komplete bundles NI's instruments and effects, and recent versions add iZotope tools such as Ozone and Neutron. That can lower the cost compared with buying those iZotope tools standalone (Ozone 12 Advanced alone is $499 at Plugin Boutique as of 2026-10-01).
 
 ---
 

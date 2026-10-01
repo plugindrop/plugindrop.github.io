@@ -59,7 +59,7 @@ Note: Verify current pricing on the product page — deals can change.
 | Name | Price (approx.) | Key Difference |
 |---|---|---|
 | FabFilter Pro-L 2 | ~$199 | Widely used limiter with highly visual metering and ISP detection |
-| iZotope Ozone (Elements) | ~$49–$99 | Full mastering suite with AI-assisted tools; broader feature set |
+| iZotope Ozone (Elements) | ~$55 (as of 2026-10-01) | Full mastering suite with AI-assisted tools; broader feature set |
 | TDR Limiter 6 GE | ~$50 | Multi-stage limiter with surgical control; strong value option |
 
 If you need a broader all-in-one mastering solution with EQ, stereo imaging, and AI tools, Ozone covers more ground in one package.

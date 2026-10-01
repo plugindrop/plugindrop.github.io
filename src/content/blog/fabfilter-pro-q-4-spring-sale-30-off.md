@@ -61,7 +61,7 @@ Verify current pricing on the product page — deals can change.
 |---|---|---|
 | **FabFilter Pro-Q 4** | **$132** (on sale) | 24 dynamic bands, spectrum grab, surround |
 | TDR Nova | Free | 4 dynamic EQ bands, no visual spectrum interaction |
-| iZotope Ozone EQ | ~$99 (in Ozone suite) | Bundled with mastering chain, not sold standalone |
+| iZotope Ozone EQ | from ~$55 (in Ozone suite) | Bundled with mastering chain, not sold standalone |
 | Stock DAW EQ | Included | Varies by DAW — most lack per-band dynamic EQ |
 
 If you need the full 24-band dynamic EQ with visual spectrum interaction, Pro-Q is the established option at this price point. For a broader look at when free plugins are genuinely enough, see [free plugins vs. paid — is it worth upgrading?](/posts/free-plugins-vs-paid-worth-upgrading/)

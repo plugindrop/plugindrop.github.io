@@ -42,7 +42,7 @@ If you're learning mastering or care about the final sound: Ozone. If you need t
 
 ## iZotope Ozone 12
 
-Ozone 12 is a plugin suite that runs inside your DAW. The Standard edition ($199 one-time or via subscription) includes Master Assistant, which analyzes your track and suggests a starting chain of modules. From there, you adjust manually.
+Ozone 12 is a plugin suite that runs inside your DAW. The Standard edition ($219 one-time or via subscription) includes Master Assistant, which analyzes your track and suggests a starting chain of modules. From there, you adjust manually.
 
 The core modules — EQ, Dynamic EQ, Imager, Maximizer, and Exciter — cover everything a mastering chain needs. Tonal Balance Control lets you compare your master against reference tracks in real time. The Stabilizer module in the Advanced edition handles low-end mud and excessive resonances automatically.
 
@@ -109,7 +109,7 @@ For most streaming platforms, yes. LANDR-mastered tracks are released commercial
 Ozone is a mastering tool, not a mastering engineer. Master Assistant gives you a starting point, but getting a polished result still requires understanding what you're hearing and making informed adjustments. A professional mastering engineer brings ears, context, and a treated listening environment that no plugin replicates.
 
 **Which is cheaper in the long run?**
-Ozone 12 Standard at $199 one-time costs less than a year of LANDR's mid-tier plan ($23.99 × 12 = ~$288/year). If you already pay for distribution separately, Ozone is more cost-effective within two years. If you'd switch from a separate distributor to LANDR's included distribution, the math is different.
+Ozone 12 Standard at $219 one-time costs less than a year of LANDR's mid-tier plan ($23.99 × 12 = ~$288/year). If you already pay for distribution separately, Ozone is more cost-effective within two years. If you'd switch from a separate distributor to LANDR's included distribution, the math is different.
 
 ---
 
