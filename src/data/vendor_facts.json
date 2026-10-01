@@ -1020,5 +1020,49 @@
         "fetched_at": "2026-10-01"
       }
     ]
+  },
+  "vp-voxengo-span": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://www.voxengo.com/product/span/",
+      "quote": "SPAN - Free Spectrum Analyzer Plugin VST, AU, AAX Support Cart / Ordering Lo",
+      "source_kind": "vendor",
+      "display": "Free",
+      "fetched_at": "2026-10-01"
+    },
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
+  },
+  "vp-voxengo-boogex": {
+    "price": null,
+    "is_free": {
+      "value": true,
+      "source_url": "https://www.voxengo.com/product/boogex/",
+      "quote": "Boogex - Free Guitar Amp Plugin, Convolver VST, AU, AAX Support Cart / Orderin",
+      "source_kind": "vendor",
+      "display": "Free",
+      "fetched_at": "2026-10-01"
+    },
+    "formats": null,
+    "macos_min": null,
+    "windows_min": null,
+    "apple_silicon": null,
+    "copy_protection": null,
+    "trial": null,
+    "latest_version": null,
+    "release_date": null,
+    "library_size": null,
+    "requires_player": null,
+    "plans": null
   }
 }

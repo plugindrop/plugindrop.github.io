@@ -197,8 +197,8 @@
   },
   "best-free-bass-synth-vst": {
     "category": "Synth",
-    "confidence": "exact",
-    "kind": "guide",
+    "confidence": "table",
+    "kind": "list",
     "products": []
   },
   "best-free-brass-vst-plugins": {
@@ -210,39 +210,37 @@
   "best-free-choir-vst-plugins": {
     "category": null,
     "confidence": "exact",
-    "kind": "guide",
+    "kind": "list",
     "products": []
   },
   "best-free-chorus-flanger-vst": {
     "category": null,
     "confidence": "exact",
-    "kind": "guide",
+    "kind": "list",
     "products": []
   },
   "best-free-compressor-vst-plugins": {
     "category": "Compressor",
-    "confidence": "exact",
-    "kind": "guide",
+    "confidence": "explicit",
+    "kind": "list",
     "products": []
   },
   "best-free-daw-software-2026": {
     "category": null,
     "confidence": "exact",
-    "kind": "guide",
+    "kind": "list",
     "products": []
   },
   "best-free-delay-vst-plugins": {
-    "category": "Delay",
+    "category": null,
     "confidence": "pb_id",
-    "kind": "guide",
-    "products": [
-      "Soundtoys EchoBoy"
-    ]
+    "kind": "list",
+    "products": []
   },
   "best-free-drum-machine-vst": {
     "category": null,
     "confidence": "exact",
-    "kind": "guide",
+    "kind": "list",
     "products": []
   },
   "best-free-drum-plugins": {
@@ -252,149 +250,105 @@
     "products": []
   },
   "best-free-eq-vst-plugins": {
-    "category": "EQ",
+    "category": null,
     "confidence": "explicit",
-    "kind": "guide",
-    "products": [
-      "FabFilter Pro-Q 4",
-      "iZotope Ozone 12 Advanced"
-    ]
+    "kind": "list",
+    "products": []
   },
   "best-free-guitar-amp-vst": {
     "category": null,
     "confidence": "exact",
-    "kind": "guide",
+    "kind": "list",
     "products": []
   },
   "best-free-limiter-vst": {
-    "category": "Limiter",
+    "category": null,
     "confidence": "explicit",
-    "kind": "guide",
-    "products": [
-      "FabFilter Pro-L 2",
-      "iZotope Ozone 12 Advanced"
-    ]
+    "kind": "list",
+    "products": []
   },
   "best-free-lofi-sample-packs": {
     "category": null,
     "confidence": "exact",
-    "kind": "guide",
+    "kind": "list",
     "products": []
   },
   "best-free-mastering-plugins": {
-    "category": "Limiter",
+    "category": "Mastering",
     "confidence": "explicit",
-    "kind": "guide",
-    "products": [
-      "FabFilter Pro-L 2",
-      "iZotope Ozone 12 Advanced"
-    ]
+    "kind": "list",
+    "products": []
   },
   "best-free-multiband-compressor-vst": {
     "category": "Compressor",
     "confidence": "pb_id",
-    "kind": "guide",
-    "products": [
-      "FabFilter Pro-MB",
-      "Tokyo Dawn Labs TDR Nova GE",
-      "iZotope Ozone 12 Advanced"
-    ]
+    "kind": "list",
+    "products": []
   },
   "best-free-piano-vst": {
     "category": null,
     "confidence": "exact",
-    "kind": "guide",
+    "kind": "list",
     "products": []
   },
   "best-free-plugins-ableton": {
-    "category": "EQ",
+    "category": null,
     "confidence": "pb_id",
-    "kind": "guide",
-    "products": [
-      "FabFilter Pro-L 2",
-      "FabFilter Pro-Q 4",
-      "Vital",
-      "iZotope Ozone 12 Advanced"
-    ]
+    "kind": "list",
+    "products": []
   },
   "best-free-plugins-fl-studio": {
-    "category": "Bundle",
+    "category": null,
     "confidence": "pb_id",
-    "kind": "guide",
-    "products": [
-      "FabFilter Pro-L 2",
-      "FabFilter Pro-Q 4",
-      "Soundtoys 5.5",
-      "Vital",
-      "iZotope Ozone 12 Advanced"
-    ]
+    "kind": "list",
+    "products": []
   },
   "best-free-plugins-hip-hop": {
     "category": null,
-    "confidence": "exact",
-    "kind": "guide",
+    "confidence": "table",
+    "kind": "list",
     "products": []
   },
   "best-free-reverb-vst-plugins": {
     "category": "Reverb",
     "confidence": "explicit",
-    "kind": "guide",
-    "products": [
-      "Eventide Blackhole",
-      "Valhalla Room",
-      "Valhalla VintageVerb"
-    ]
+    "kind": "list",
+    "products": []
   },
   "best-free-sample-packs-2026": {
     "category": null,
     "confidence": "exact",
-    "kind": "guide",
+    "kind": "list",
     "products": []
   },
   "best-free-saturation-vst-plugins": {
-    "category": "Bundle",
+    "category": null,
     "confidence": "pb_id",
-    "kind": "guide",
-    "products": [
-      "FabFilter Saturn 2",
-      "Soundtoys 5.5"
-    ]
+    "kind": "list",
+    "products": []
   },
   "best-free-strings-vst-plugins": {
     "category": null,
     "confidence": "exact",
-    "kind": "guide",
+    "kind": "list",
     "products": []
   },
   "best-free-synth-plugins": {
     "category": "Synth",
     "confidence": "explicit",
-    "kind": "guide",
-    "products": [
-      "Kilohearts Phase Plant",
-      "Native Instruments Massive X",
-      "Serum 2",
-      "Vital",
-      "u-he Hive 2"
-    ]
+    "kind": "list",
+    "products": []
   },
   "best-free-tape-saturation-vst": {
-    "category": "Saturation",
+    "category": null,
     "confidence": "pb_id",
-    "kind": "guide",
-    "products": [
-      "Baby Audio TAIP",
-      "Softube Tape",
-      "Soundtoys 5.5",
-      "Wavesfactory Cassette",
-      "XLN Audio RC-20 Retro Color",
-      "u-he Satin"
-    ]
+    "kind": "list",
+    "products": []
   },
   "best-free-vocal-vst-plugins": {
     "category": null,
-    "confidence": "exact",
-    "kind": "guide",
+    "confidence": "table",
+    "kind": "list",
     "products": []
   },
   "best-free-vst-plugins-2026": {
@@ -408,22 +362,16 @@
     ]
   },
   "best-free-vst-plugins-beginners": {
-    "category": "Bundle",
+    "category": null,
     "confidence": "pb_id",
-    "kind": "guide",
-    "products": [
-      "FabFilter Total Bundle",
-      "Vital"
-    ]
+    "kind": "list",
+    "products": []
   },
   "best-free-wavetable-synth-vst": {
     "category": "Synth",
     "confidence": "pb_id",
-    "kind": "guide",
-    "products": [
-      "Kilohearts Phase Plant",
-      "u-he Hive 2"
-    ]
+    "kind": "list",
+    "products": []
   },
   "best-free-woodwind-vst-plugins": {
     "category": null,
@@ -1067,34 +1015,26 @@
   "free-alternative-to-kontakt": {
     "category": null,
     "confidence": "exact",
-    "kind": "guide",
+    "kind": "list",
     "products": []
   },
   "free-alternative-to-omnisphere": {
-    "category": "Synth",
+    "category": null,
     "confidence": "pb_id",
-    "kind": "guide",
-    "products": [
-      "Kilohearts Phase Plant"
-    ]
+    "kind": "list",
+    "products": []
   },
   "free-alternative-to-serum-vst": {
-    "category": "Synth",
+    "category": null,
     "confidence": "pb_id",
-    "kind": "guide",
-    "products": [
-      "Kilohearts Phase Plant",
-      "u-he Hive 2"
-    ]
+    "kind": "list",
+    "products": []
   },
   "free-alternative-to-valhalla-reverb": {
     "category": "Reverb",
     "confidence": "explicit",
-    "kind": "guide",
-    "products": [
-      "Valhalla Room",
-      "Valhalla VintageVerb"
-    ]
+    "kind": "list",
+    "products": []
   },
   "free-plugins-vs-paid-worth-upgrading": {
     "category": "EQ",

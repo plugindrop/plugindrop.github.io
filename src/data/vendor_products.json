@@ -213,9 +213,9 @@
     "superseded_by": null,
     "product_url": "https://tal-software.com/products/tal-reverb-4",
     "status": "rejected",
-    "reject_reason": "domain_unverified",
-    "discovered_via": "article_link",
-    "verified_at": "2026-09-28"
+    "reject_reason": "http_error",
+    "discovered_via": "perplexity",
+    "verified_at": "2026-10-01"
   },
   "vp-fabfilter-pro-c-2": {
     "name": "FabFilter Pro-C 2",
@@ -891,5 +891,29 @@
     "discovered_via": "article_link",
     "verified_at": "2026-10-01",
     "note": "manual: replaces rejected vp-landr-free-tier / vp-landr-paid-subscription-tiers (generic labels, name_not_on_page). landr.com/online-audio-mastering title 'AI Mastering | Online Audio Mastering - Try Free | LANDR', h1 'Unrivaled AI Mastering'; landr.com domain verified."
+  },
+  "vp-voxengo-span": {
+    "name": "Voxengo SPAN",
+    "brand": "Voxengo",
+    "kind": "plugin",
+    "version": null,
+    "superseded_by": null,
+    "product_url": "https://www.voxengo.com/product/span/",
+    "status": "verified",
+    "reject_reason": null,
+    "discovered_via": "perplexity",
+    "verified_at": "2026-10-01"
+  },
+  "vp-voxengo-boogex": {
+    "name": "Voxengo Boogex",
+    "brand": "Voxengo",
+    "kind": "plugin",
+    "version": null,
+    "superseded_by": null,
+    "product_url": "https://www.voxengo.com/product/boogex/",
+    "status": "verified",
+    "reject_reason": null,
+    "discovered_via": "perplexity",
+    "verified_at": "2026-10-01"
   }
 }

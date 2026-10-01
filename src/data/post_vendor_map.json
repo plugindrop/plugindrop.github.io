@@ -85,5 +85,77 @@
     "vp-spitfire-audio-bbc-symphony-orchestra-discover",
     "vp-virtual-playing-orchestra",
     "vp-spitfire-audio-bbc-symphony-orchestra-core"
-  ]
+  ],
+  "best-free-bass-synth-vst": [],
+  "best-free-choir-vst-plugins": [
+    "vp-spitfire-audio-bbc-symphony-orchestra-discover",
+    "vp-virtual-playing-orchestra"
+  ],
+  "best-free-chorus-flanger-vst": [],
+  "best-free-compressor-vst-plugins": [
+    "vp-tokyo-dawn-labs-tdr-kotelnikov"
+  ],
+  "best-free-daw-software-2026": [],
+  "best-free-delay-vst-plugins": [],
+  "best-free-drum-machine-vst": [
+    "vp-steven-slate-drums-free"
+  ],
+  "best-free-eq-vst-plugins": [
+    "vp-tokyo-dawn-labs-tdr-nova",
+    "vp-voxengo-marvel-geq"
+  ],
+  "best-free-guitar-amp-vst": [
+    "vp-voxengo-boogex"
+  ],
+  "best-free-limiter-vst": [],
+  "best-free-lofi-sample-packs": [],
+  "best-free-mastering-plugins": [
+    "vp-tokyo-dawn-labs-tdr-nova",
+    "vp-tokyo-dawn-labs-tdr-kotelnikov",
+    "vp-voxengo-marvel-geq",
+    "vp-voxengo-span"
+  ],
+  "best-free-multiband-compressor-vst": [
+    "vp-tokyo-dawn-labs-tdr-nova"
+  ],
+  "best-free-piano-vst": [],
+  "best-free-plugins-ableton": [
+    "vp-tokyo-dawn-labs-tdr-nova",
+    "vp-voxengo-span"
+  ],
+  "best-free-plugins-fl-studio": [
+    "vp-tokyo-dawn-labs-tdr-nova",
+    "vp-tokyo-dawn-labs-tdr-kotelnikov",
+    "vp-voxengo-span"
+  ],
+  "best-free-plugins-hip-hop": [
+    "vp-tokyo-dawn-labs-tdr-nova",
+    "vp-native-instruments-kontakt-player"
+  ],
+  "best-free-reverb-vst-plugins": [],
+  "best-free-sample-packs-2026": [],
+  "best-free-saturation-vst-plugins": [],
+  "best-free-strings-vst-plugins": [
+    "vp-spitfire-audio-bbc-symphony-orchestra-discover",
+    "vp-virtual-playing-orchestra",
+    "vp-decent-samples-decent-sampler"
+  ],
+  "best-free-synth-plugins": [],
+  "best-free-tape-saturation-vst": [],
+  "best-free-vocal-vst-plugins": [
+    "vp-tokyo-dawn-labs-tdr-nova"
+  ],
+  "best-free-vst-plugins-beginners": [
+    "vp-tokyo-dawn-labs-tdr-nova",
+    "vp-tokyo-dawn-labs-tdr-kotelnikov",
+    "vp-voxengo-span",
+    "vp-decent-samples-decent-sampler"
+  ],
+  "best-free-wavetable-synth-vst": [],
+  "free-alternative-to-kontakt": [
+    "vp-decent-samples-decent-sampler"
+  ],
+  "free-alternative-to-omnisphere": [],
+  "free-alternative-to-serum-vst": [],
+  "free-alternative-to-valhalla-reverb": []
 }
