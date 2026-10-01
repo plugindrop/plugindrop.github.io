@@ -413,6 +413,15 @@ const relatedPosts = allPosts
 	.sort((a, b) => b.score - a.score || b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
 	.slice(0, 3);
 
+// 汎用(本文と無関係な)アフィリエイト部品のリンク数ガード(AdSense対策・2026-10-01)。
+// 短い記事ほど汎用部品の比率が過剰になるため、本文語数が閾値未満の記事では出さない。
+// 記事固有のCTA(deal-cta-box / sticky CTA / 本文内リンク)はガード対象外。
+const _bodyWords = rawBody.replace(/```[\s\S]*?```/g, ' ').split(/\s+/).filter(Boolean).length;
+const MIN_WORDS_PB_DEALS_BOX = 1200; // pb-deals-box(約5リンク)
+const MIN_WORDS_DEALS_RAIL = 3500; // TopDeals サイドバー(約14リンク)
+const showGenericDealsBox = _bodyWords >= MIN_WORDS_PB_DEALS_BOX;
+const showDealsRail = _bodyWords >= MIN_WORDS_DEALS_RAIL;
+
 // Featured PB deals box — shown on evergreen guide pages (no affiliate link)
 const isEvergreen = !!evergreen && !affiliate;
 const featuredDeals = isEvergreen ? allPosts
@@ -1187,7 +1196,7 @@ const featuredDeals = isEvergreen ? allPosts
 						</div>
 					)}
 
-					{isEvergreen && featuredDeals.length > 0 && (
+					{isEvergreen && showGenericDealsBox && featuredDeals.length > 0 && (
 						<div class="pb-deals-box">
 							<div class="pb-deals-header">This week's top deals on Plugin Boutique</div>
 							<ul class="pb-deals-list">
@@ -1225,7 +1234,7 @@ const featuredDeals = isEvergreen ? allPosts
 							<ol id="rail-toc-list"></ol>
 						</nav>
 					</aside>
-					<TopDeals />
+					{showDealsRail && <TopDeals />}
 				</div>
 				</div>
 			</article>
