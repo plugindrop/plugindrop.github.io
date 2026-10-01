@@ -1,202 +1,133 @@
 ---
 heroImage: "/images/fabfilter-pro-q-4-vs-izotope-neutron.jpg"
-title: "iZotope Neutron 4 Review 2026: Is AI-Assisted Mixing Actually Useful?"
-description: "iZotope Neutron 4 is the most complete AI-assisted channel strip on the market in 2026 — its Track Assistant and Unmask features alone justify the price for"
+title: "iZotope Neutron 5 in 2026: Price, Editions, and What Changed from Neutron 4"
+description: "iZotope Neutron 5 is $299 at iZotope, with Neutron 5 Elements at $55. Here is what the full suite includes and what iZotope lists as new."
 pubDate: "2026-05-07T10:10:19Z"
+updatedDate: "2026-10-01T00:00:00Z"
 tags: ["guide", "vst", "effects", "review"]
-affiliate: ""
+affiliate: "https://www.pluginboutique.com/search?q=iZotope%20Neutron%205&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=izotope-neutron-4-review&chan=art&data1=izotope-neutron-4-review"
 evergreen: true
 score: 8.00
-originalPrice: "$149"
-xText: "New guide: iZotope Neutron 4 Review: Is AI-Assisted Mixing Actually Use..."
+xText: "Updated guide: iZotope Neutron 5 price, editions, and what changed from Neutron 4."
 draft: false
-priceTrack:
-  - "FabFilter Pro-Q 4"
 ---
-**TL;DR:** iZotope Neutron 4 is the most complete AI-assisted channel strip on the market in 2026 — its Track Assistant and Unmask features alone justify the price for producers who mix their own music. If you're a songwriter or beatmaker who wants professional-sounding mixes without a steep learning curve, it's the most practical buy in the channel strip category.
+**TL;DR:** The current version is Neutron 5, not Neutron 4. iZotope lists the full Neutron 5 suite at $299 and a reduced Neutron 5 Elements at $55. This page sticks to what the vendor documents: price, editions, included modules, supported systems, and what is new. We have not tested it hands-on.
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/vsjZop8_Fq4" title="iZotope Neutron 4 Review: Is AI-Assisted Mixing Actually Useful? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+## Price Context (tracked by PluginDrop)
+- Regular: $299
 
 ## Quick Picks at a Glance
 
-| Plugin | Price | Best For | Get It |
-|--------|-------|----------|--------|
-| iZotope Neutron 4 Standard | From $149 | AI-guided mixing for producers who self-mix | [Official Site](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=izotope-neutron-4-review) |
-| iZotope Neutron 4 Advanced | From $249 | Pro engineers needing Sculptor + full inter-plugin suite | [Official Site](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=izotope-neutron-4-review) |
-| FabFilter Pro-Q 4 | $179 | Surgical EQ precision, Dynamic EQ, spectrum grab | [Official Site](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=izotope-neutron-4-review) |
-| iZotope Music Production Suite | Bundle pricing | Full iZotope ecosystem (Ozone, RX, Neutron, Nectar) | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=izotope-neutron-4-review) |
+| Edition | Price | What it is | Get It |
+|---------|-------|------------|--------|
+| Neutron 5 Elements | $55 | Mix Assistant plus a reduced set of tools | [Neutron 5 Elements](https://www.izotope.com/en/products/neutron-elements.html) |
+| **Neutron 5** | **$299** | **Full suite: 11 plugins (a mothership plus 10 component modules), Visual Mixer and Relay** | [→ Get Neutron 5](https://www.izotope.com/en/products/neutron.html) |
+| Mix & Master Bundle Advanced | $599 | Includes Ozone 12 Advanced, Neutron 5, Tonal Balance Control 3, Neoverb and Nectar 4 Advanced | [See the bundle on the Neutron 5 page](https://www.izotope.com/en/products/neutron.html) |
+| Music Production Suite 9 | $799 | Bundle with 100+ tools for mixing, mastering, vocal production, audio repair and creative effects | [Music Production Suite](https://www.izotope.com/en/products/music-production-suite.html) |
+
+Prices are in USD as shown on iZotope's US store at the time of writing. The Neutron 5 page also notes that owners of another version may qualify for a better price once signed in, so we do not quote an upgrade number.
 
 ---
 
-## Introduction
+## Neutron 4 or Neutron 5?
 
-Here's the misconception that keeps costing producers money: AI mixing tools are a shortcut for bad ears. That framing misses what iZotope Neutron 4 actually does well. The Track Assistant isn't making mixing decisions for you — it's doing the tedious spectral analysis that used to take three minutes per track before you could start making creative choices. On a 48-track session, that's hours returned to you.
+If you searched for Neutron 4, note that iZotope's current Neutron product page is for Neutron 5. We have no vendor information on how long Neutron 4 stays supported or on sale, so check iZotope's support pages for your version.
 
-The **iZotope Neutron 4 mixing review 2026** conversation is more nuanced than "does AI replace skill?" The real question is whether the workflow tools justify the price premium over picking up individual best-in-class modules from competitors. In 2026, with the plugin market saturated by strong free EQs and compressors, that's a legitimate debate worth having directly.
-
-This review covers Neutron 4 Standard and Advanced editions in full — every module, the AI features under real session conditions, where it beats the competition, where it doesn't, and exactly who should buy it. If you're a beatmaker, singer-songwriter who self-produces, or a home studio engineer running sessions with 20+ tracks, this guide is written for you.
-
----
-
-## What iZotope Neutron 4 Actually Does
-
-### Track Assistant — The AI Starting Point That Works
-
-The headline feature is Track Assistant: load Neutron 4 on a track, hit the button, and it listens to your audio for a few seconds. It then configures EQ, compression, transient shaping, and exciter settings based on the detected instrument or vocal. The result isn't a finished mix — it's an educated starting point.
-
-In practice, the suggestions are genuinely useful about 70% of the time. On drums, bass, and vocals especially, the initial EQ curve often cuts problem frequencies you'd have found anyway on a second pass. On complex sources like layered synths or mixed percussive elements, the suggestions are more generic. The key insight: use it as a diagnostic tool, not a finisher.
-
-**Best for:** Producers who spend too long on initial gain staging and EQ before getting to the creative work.
-
-[→ Get iZotope Neutron 4 on the Official Site (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=izotope-neutron-4-review)
-
----
-
-### The Equalizer Module — Genuinely Excellent, AI Aside
-
-Strip out the AI entirely, and Neutron 4's EQ is one of the best-sounding channel EQs available at any price. It features eight bands with switchable filter types, a dedicated spectrum analyzer with pre/post display, and a high-quality algorithm that doesn't introduce harshness at extreme settings. The Dynamic EQ mode (where bands compress reactively based on threshold) is a direct competitor to FabFilter Pro-Q 4's dynamic EQ — and it's included in the same plugin rather than as a separate purchase.
-
-The EQ also supports mid-side processing per band, which is a feature that used to require dedicated M/S matrix plugins. For mix bus work and mastering preparation, this alone is worth knowing about.
-
-**Best for:** Engineers who want a transparent, feature-complete EQ with dynamic capability inside a channel strip.
-
----
-
-### Compressor Module — Two Modes, Both Useful
-
-Neutron 4 ships with a compressor that offers both a vintage-modeled mode and a modern clean mode. The vintage mode adds harmonic saturation at the knee — useful on drums and bass where you want the compression to be heard as a texture, not just gain reduction. The clean mode is transparent enough for dialogue, acoustic instruments, and mix bus work.
-
-The compressor includes an integrated Transient Shaper that works in parallel with compression rather than replacing it. This is the correct implementation — most standalone transient shapers fight with compressors rather than complementing them, and Neutron's integrated approach avoids that conflict.
-
-**Best for:** Producers who want a single plugin handling dynamics shaping with transient control in an integrated workflow.
-
----
-
-### Unmask — The Feature Engineers Don't Talk About Enough
-
-Unmask is the inter-plugin feature that makes Neutron 4 more than a channel strip. Load Neutron on your kick drum and your bass guitar simultaneously, assign one as the "masker" and one as the "maskee," and Neutron will dynamically cut frequencies in the bass when the kick hits to create separation. This is frequency masking reduction done automatically in real time.
-
-Manually achieving this requires either careful static EQ carving (which doesn't follow the dynamics of either instrument) or a multiband sidechain compressor setup that takes significant routing work. Unmask does it in three clicks. On dense low-end arrangements — hip-hop, EDM, modern pop — this is a session-saver.
-
-**Best for:** Producers who mix their own beats and struggle with kick/bass separation or mid-frequency clutter in dense arrangements.
-
----
-
-### Sculptor — Advanced Edition Only, Worth the Upgrade
-
-Sculptor is Neutron 4 Advanced's spectral shaping module. Rather than working in traditional EQ bands, Sculptor applies processing across hundreds of frequency bins simultaneously, modeled on acoustic profiles of real instruments. You can blend a thin acoustic guitar toward a richer body, or push a nasal synth pad toward a warmer texture.
-
-This is genuinely a different category of processing than EQ. It doesn't replace EQ — it operates where EQ can't reach, in the micro-detail of spectral balance between adjacent frequency ranges. For producers working heavily in sound design or who frequently need to fix poorly recorded sources, Sculptor alone justifies the Advanced upgrade cost.
-
-**Best for:** Advanced users, sound designers, and engineers correcting problematic recordings.
-
----
-
-### Visual Mixer and Relay — The Ecosystem Advantage
-
-Neutron 4 includes the Relay plugin, a lightweight metering and communication plugin designed to sit on every track. Relay feeds the Visual Mixer — a separate floating window showing all your tracks' levels, panning, and width in a visual layout you can adjust by dragging.
-
-This is iZotope's ecosystem play: the more Neutron instances you run, the more powerful the inter-plugin communication becomes. For mix engineers running entirely inside the iZotope stack, the Visual Mixer becomes a secondary mixing surface. For users who only put Neutron on two or three tracks, this feature adds minimal value.
-
----
-
-## Where Neutron 4 Falls Short
-
-No review is honest without the criticisms. Neutron 4 has three genuine weaknesses.
-
-First, **CPU overhead is non-trivial**. Running Neutron on 20+ tracks on an older system will push your processor. FabFilter Pro-Q 4 is significantly lighter. If you're running a dense session on aging hardware, you'll feel this.
-
-Second, **the AI suggestions are inconsistent on non-standard sources**. Layered sounds, heavy processing on inputs, and unusual instruments confuse Track Assistant into generic suggestions that need heavy editing. Experienced engineers will find themselves ignoring the AI on these sources entirely.
-
-Third, **the price structure creates awkward decisions**. Neutron 4 Standard is missing Sculptor, which is one of the most differentiated features in the whole product. The gap between Standard and Advanced pricing is noticeable, and the features that justify Advanced are the ones that appeal to users who already know they need them.
-
----
-
-## Worth Upgrading To (Paid Options)
-
-### FabFilter Pro-Q 4 — The Best Pure EQ on the Market
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ODtgIwQTIc4" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-- **Developer:** FabFilter
-- **Price:** $179
-- **Platforms:** Windows, macOS
-- **Formats:** VST, VST3, AU, AAX
-- **Why upgrade:** Neutron 4's EQ is excellent but Pro-Q 4's spectrum grab interface, zero-latency linear phase mode, and inter-plugin collision detection are unmatched for surgical work. If you mix in a genre where EQ precision is the primary skill — acoustic music, jazz, classical — Pro-Q 4 is the better specialized tool.
-
-[→ Get FabFilter Pro-Q 4 on the Official Site (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=izotope-neutron-4-review)
-
----
-
-### iZotope Music Production Suite — The Full Ecosystem
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ODtgIwQTIc4" title="iZotope Music Production Suite — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+## Neutron 5 at a Glance
 
 - **Developer:** iZotope
-- **Price:** Bundle pricing — check current offers
-- **Platforms:** Windows, macOS
-- **Formats:** VST3, AU, AAX
-- **Why upgrade:** Neutron 4 alone covers mixing, but Music Production Suite adds Ozone (mastering), RX (audio repair), Nectar (vocal processing), and Relay — the complete iZotope production stack. For producers who need mastering and vocal processing alongside mixing, the bundle price undercuts buying each product separately significantly.
+- **Price:** $299 (full version, as listed on iZotope's store)
+- **Includes:** 11 plugins, a mothership plus 10 component modules (Clipper, Compressor, Density, Equalizer, Exciter, Gate, Phase, Sculptor, Transient Shaper, Unmask), along with Visual Mixer and iZotope Relay
+- **Key features (vendor wording):** AI-powered Mix Assistant, Mid/Side and Transient/Sustain modes, Delta monitoring
+- **Platforms:** macOS Sonoma (14.7), Sequoia (15.7) and Tahoe (26.2); Windows 10 or 11. Supported on Intel and Apple silicon Macs (native and Rosetta).
+- **Formats:** AU, VST3 and AAX, all 64-bit only
+- **Delivery:** Download, available immediately
 
-[→ Get iZotope Music Production Suite on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20iZotope%20Music%20Production%20Suite&a_aid=69cb95abe1763&chan=art&data1=izotope-neutron-4-review)
+[→ Get Neutron 5](https://www.izotope.com/en/products/neutron.html)
 
 ---
 
-## Full Comparison Table
+## What Is New in Neutron 5
 
-| Plugin | Price | Type | Highlights | CTA |
-|--------|-------|------|------------|-----|
-| Neutron 4 Standard | From $149 | AI Channel Strip | Track Assistant, Unmask, Dynamic EQ, Compressor | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=izotope-neutron-4-review) |
-| Neutron 4 Advanced | From $249 | AI Channel Strip | All Standard features + Sculptor spectral shaping | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=izotope-neutron-4-review) |
-| FabFilter Pro-Q 4 | $179 | Precision EQ | Dynamic EQ, spectrum grab, zero-latency linear phase | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=izotope-neutron-4-review) |
-| iZotope Music Production Suite | Bundle | Full Production Suite | Neutron + Ozone + RX + Nectar + Relay | [Get It](https://www.pluginboutique.com/search?q=iZotope%20Music%20Production%20Suite&a_aid=69cb95abe1763&chan=art&data1=izotope-neutron-4-review) |
+iZotope's page labels these as new or improved:
+
+- **Clipper (new).** Soft clipping with up to 3 frequency bands, crossover auto-learn, Mid/Side and Transient/Sustain channel modes, and 4x oversampling.
+- **Density (new).** An upward compressor that boosts quieter parts and leaves content above the threshold unaffected, with up to 3 bands and Range, Ratio, Speed and Threshold controls.
+- **Phase (new).** A Phase Learn button that detects phase issues, a sidechain workflow for aligning two signals, and controls for phase rotation and time-shift.
+- **Mix Assistant (improved).** iZotope describes it as an AI-powered assistant that creates a custom signal chain for your audio, refined with instrument profiles (or your own references) and macro controls.
+- **Channel modes.** Transient/Sustain and Mid/Side modes let a module process only part of a signal. Which modules get which mode is listed in the vendor's compare table.
+- **Delta buttons and visuals.** A Delta button in every module to hear what the module is doing, plus improved metering and visualizations, and an updated interface.
+
+## The Modules, per iZotope
+
+| Module | What the vendor says it does |
+|--------|------------------------------|
+| Clipper | Multiband soft clipping, 3 bands maximum |
+| Compressor | Punch, Modern and Vintage modes; Peak, RMS or True Envelope detection; internal or external sidechain |
+| Density | Upward compression with up to 3 bands |
+| Equalizer | Up to 12 band nodes, 12 filter shapes, static or dynamic bands, Masking Meter, sidechain mode |
+| Exciter | Four blendable saturation types and four distortion types, 4x oversampling, multiband |
+| Gate | 3 frequency bands, separate Open and Close markers, Hold control |
+| Phase | Detects and corrects phase issues in one signal or between two tracks |
+| Sculptor | Adaptive spectral shaper with target curves for guitar, bass, kick, piano, snare and speech |
+| Transient Shaper | Global modes (Precise, Balanced, Loose) and contour shapes (Sharp, Medium, Smooth) |
+| Unmask | Finds and reduces masking between two tracks across 32 bands |
+
+---
+
+## Neutron 5 Elements vs Neutron 5
+
+iZotope's edition chart shows the split clearly:
+
+| Feature | Neutron 5 Elements | Neutron 5 |
+|---------|--------------------|-----------|
+| Price | $55 | $299 |
+| Mix Assistant | Yes | Yes |
+| Clipper, Density, Phase | No | Yes |
+| Unmask, Sculptor, Transient Shaper | No | Yes |
+| Exciter, Gate, Compressor, Equalizer | No | Yes |
+| Visual Mixer and Relay | No | Yes |
+
+iZotope says the Elements version gets you to a starting point quickly, while the full version is for going under the hood and tweaking every parameter of every module.
+
+[→ See Neutron 5 Elements](https://www.izotope.com/en/products/neutron-elements.html)
 
 ---
 
 ## How to Choose
 
-- **If you self-produce and self-mix beats or pop tracks**, go with Neutron 4 Standard. The Track Assistant and Unmask will save you more time than any other single plugin at this price.
-- **If you're a professional mix engineer on varied session types**, the combination of Neutron 4 Advanced and FabFilter Pro-Q 4 is the strongest pairing — Neutron for dynamics, Sculptor, and inter-plugin workflow; Pro-Q 4 for precision surgical EQ work.
-- **If you're building an iZotope-heavy workflow** and need mastering and vocal processing alongside mixing, Music Production Suite's bundle price makes individual purchases look inefficient.
-- **If CPU is a bottleneck**, be cautious with Neutron on dense sessions. Consider using it selectively on key tracks rather than every channel, or combine it with lighter EQ plugins on background elements.
-- **If you primarily need a great EQ and nothing else**, FabFilter Pro-Q 4 is the cleaner purchase. Neutron 4's value proposition is the integrated suite — if you only want one component, there are more cost-efficient options.
+- **Want a quick starting point and not deep editing:** Neutron 5 Elements has Mix Assistant at $55. Check iZotope's page for exactly what it leaves out.
+- **Want to edit every module yourself:** the modules are only in the full $299 Neutron 5.
+- **Already own an earlier Neutron:** sign in on iZotope's store to see whether you qualify for a better price before paying $299.
+- **Also need mastering, vocal tools or audio repair:** compare the $599 Mix & Master Bundle Advanced and the $799 Music Production Suite 9 against buying Neutron 5 on its own.
+- **Only need an EQ or compressor:** Neutron 5 is a suite. Our free guides to [EQ](/posts/best-free-eq-vst-plugins/) and [compressor](/posts/best-free-compressor-vst-plugins/) plugins cover single-purpose options.
 
 ---
 
 ## FAQ
-**Q: Is iZotope Neutron 4 good for beginners?**
-A: Yes, with an important caveat. The AI features lower the barrier to entry significantly, and the Track Assistant gives beginners a learning tool alongside a practical workflow aid. However, getting maximum value requires understanding what the AI is doing and why — beginners who use it passively will plateau. Treat it as a guided starting point, not a finished product.
+**Q: How much is iZotope Neutron 5?**
+A: $299 for the full version and $55 for Neutron 5 Elements on iZotope's US store at the time of writing. Owners of another Neutron version may see a better price when signed in.
 
-**Q: Does Neutron 4 replace FabFilter Pro-Q 4?**
-A: No, and it's not trying to. Neutron 4's EQ is excellent and covers most mixing scenarios, but Pro-Q 4 has a more refined interface for detailed surgical work, better zero-latency linear phase performance, and is significantly lighter on CPU. Many engineers run both: Neutron for channel strip processing and Pro-Q 4 for precision corrective work.
+**Q: Is Neutron 4 still the current version?**
+A: No. iZotope's current Neutron product page is for Neutron 5. We have no vendor information about how long Neutron 4 remains supported.
 
-**Q: What's the difference between Neutron 4 Standard and Advanced?**
-A: The main additions in Advanced are Sculptor (spectral shaping module), Audiolens (cross-track analysis tool), and extended Track Assistant modes. If you work heavily with sound design, difficult recordings, or complex spectral shaping, Advanced is worth the upgrade. If your sessions are primarily well-recorded, conventional instruments and vocals, Standard covers you.
+**Q: What is new in Neutron 5?**
+A: Per iZotope: new Clipper, Density and Phase modules, an improved Mix Assistant, Transient/Sustain and Mid/Side channel modes, and Delta buttons with improved metering.
 
-**Q: How well does Track Assistant work in 2026?**
-A: Better than it did at launch, with improvements to detection accuracy across version updates. It performs strongest on conventional sources — drums, bass, vocals, piano, acoustic guitar — and is less reliable on heavily processed or layered inputs. The dynamic EQ suggestions in particular have improved significantly and are often usable with minimal editing.
+**Q: Is Neutron 5 good for beginners?**
+A: iZotope says it is designed for both beginners and professionals, with the Assistant giving beginners a custom starting point. We have not tested it hands-on, so we cannot add our own verdict.
 
-**Q: Is iZotope Neutron 4 worth it if I already own older Neutron versions?**
-A: The upgrade pricing is generally reasonable, and the improvements in Track Assistant accuracy, Sculptor's refinements, and the Visual Mixer interface are meaningful. If you use Neutron regularly in sessions, upgrading from Neutron 3 or earlier makes sense. From Neutron 4's own initial release if you're already on the current version, check iZotope's upgrade path pricing before committing.
+**Q: Which operating systems and formats does Neutron 5 support?**
+A: macOS 14.7, 15.7 and 26.2 on Intel and Apple silicon, and Windows 10 or 11, in AU, VST3 and AAX (64-bit only).
 
 ---
 ## Related Guides
 
-- [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)
-- [10 Best Free EQ VST Plugins in 2026 (Mixing & Mastering)](/posts/best-free-eq-vst-plugins/)
-- [12 Best Free VST Plugins for Ableton Live in 2026](/posts/best-free-plugins-ableton/)
-- [15 Best Free VST Plugins for FL Studio in 2026](/posts/best-free-plugins-fl-studio/)
-- [14 Best Free Synth VST Plugins in 2026 (Wavetable, FM, Analog)](/posts/best-free-synth-plugins/)
-
----
-
-## Final Thoughts
-
-iZotope Neutron 4 is the best AI-assisted channel strip available in 2026 for producers who mix their own work — the Track Assistant and Unmask features genuinely save time in ways that compound across full session workflows, and the quality of the underlying modules is competitive with anything else at the price. If you're a songwriter, beatmaker, or home studio engineer who spends more time fighting your mix than making music, this is the most practical investment in your production chain.
-
-[→ Get iZotope Neutron 4 on the Official Site (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/8-Channel-Strip/8211-iZotope-Neutron-4?a_aid=69cb95abe1763&chan=art&data1=izotope-neutron-4-review)
+- [15 Best Mixing Plugins 2026: Free & Paid Ranked — EQ, Compressor, FX](/posts/best-mixing-plugins-2026/)
+- [iZotope Ozone 12 Review 2026: Is It Worth $199–$499? (Honest Verdict)](/posts/izotope-ozone-12-review/)
+- [How to Use Compression Plugins: A Complete Mixing Guide (2026)](/posts/how-to-use-compression-mixing/)
+- [10 Best Free EQ VST Plugins in 2026, Ranked (Mixing & Mastering)](/posts/best-free-eq-vst-plugins/)
+- [12 Best Free Compressor VST Plugins in 2026, Ranked (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)
 
 ---
 
@@ -205,5 +136,5 @@ iZotope Neutron 4 is the best AI-assisted channel strip available in 2026 for pr
 <!-- pd:method:start -->
 ## How this article was put together
 
-This article brings together publicly available product information and linked community discussions. We have not tested the product hands-on. Prices come from PluginDrop's tracking. See our [editorial policy](/editorial-policy/) for how we assess sources.
+This article brings together publicly available product information from the vendor's own pages (checked 2026-10-01) and PluginDrop's price tracking. We have not tested the product hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
 <!-- pd:method:end -->
