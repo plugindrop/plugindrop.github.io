@@ -29,8 +29,12 @@
   "save-60-on-mirror-reverse-negative-delay-by-united-plugins": [
     "vp-united-plugins-mirror"
   ],
-  "izotope-rx-review": [],
-  "splice-review-2026": [],
+  "izotope-rx-review": [
+    "vp-izotope-rx-elements"
+  ],
+  "splice-review-2026": [
+    "vp-splice-sounds"
+  ],
   "landr-mastering-worth-it-2026": [],
   "ableton-live-vs-fl-studio-2026": [
     "vp-ableton-live",
