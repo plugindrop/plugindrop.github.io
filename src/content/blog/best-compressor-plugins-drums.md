@@ -209,7 +209,7 @@ DC1A is a two-knob compressor (Compression and Tone) that Klanghelm built to pri
 
 **Best for:** Beginners who want a free drum bus compressor that sounds musical without being easy to misuse.
 
-[→ Search Klanghelm DC1A](https://klanghelm.com/contents/products/DC1A.php)
+[→ Search Klanghelm DC1A](https://klanghelm.com/contents/products/DC1A)
 
 Available directly at klanghelm.com.
 

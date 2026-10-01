@@ -18,7 +18,7 @@ draft: false
 | Illformed Glitch 2 | Free | Sequenced multi-effect glitch | [Free Download](https://illformed.com/glitch/) |
 | Glitchmachines Fracture | Free | Extreme buffer-based audio destruction | [Free Download](https://glitchmachines.com/products/fracture/) |
 | Glitchmachines Hysteresis | Free | Ambient feedback and drone glitch | [Free Download](https://glitchmachines.com/products/hysteresis/) |
-| iZotope Stutter Edit 2 | ~$149 (often $79–$99 on sale) | MIDI-controlled professional stutter | [Official Site](https://www.native-instruments.com/en/products/izotope/stutter-edit-2/) |
+| iZotope Stutter Edit 2 | ~$149 (often $79–$99 on sale) | MIDI-controlled professional stutter | [Official Site](https://www.native-instruments.com/products/stutter-edit-2) |
 | Output Portal | $149 | Granular textures and real-time glitch | [Official Site](https://output.com/products/portal) |
 | Sugar Bytes Effectrix | ~$99 (often ~$49 on sale) | Compositional sequenced glitch | — |
 
@@ -110,7 +110,7 @@ iZotope's developer documentation confirms over 400 presets, full AAX support fo
 
 **Best for:** Producers and audio engineers who need real-time MIDI-triggered stutter with Pro Tools compatibility.
 
-[→ Get iZotope Stutter Edit 2](https://www.native-instruments.com/en/products/izotope/stutter-edit-2/)
+[→ Get iZotope Stutter Edit 2](https://www.native-instruments.com/products/stutter-edit-2)
 
 ---
 
@@ -211,7 +211,7 @@ For producers who've built their free workflow around Glitch 2 and the Glitchmac
 - **Price:** ~$149 list ($79–$99 on sale)
 - **Why upgrade:** Free sequencer-based plugins can't replicate Stutter Edit 2's gesture system — there's no freeware equivalent for live MIDI-triggered stutter with per-key effect mapping. The gap matters most in live performance, post-production, and Pro Tools-based workflows where AAX compatibility is required.
 
-[→ Get iZotope Stutter Edit 2](https://www.native-instruments.com/en/products/izotope/stutter-edit-2/)
+[→ Get iZotope Stutter Edit 2](https://www.native-instruments.com/products/stutter-edit-2)
 
 ### Output Portal — when granular texture replaces pattern-based glitch
 
@@ -232,7 +232,7 @@ For producers who've built their free workflow around Glitch 2 and the Glitchmac
 | Illformed Glitch 2 | Free | Sequencer | 8 effect modules, MIDI & pattern | [Download](https://illformed.com/glitch/) |
 | Glitchmachines Fracture | Free | Buffer/Granular | Chaos macros, instant texture | [Download](https://glitchmachines.com/products/fracture/) |
 | Glitchmachines Hysteresis | Free | Feedback/Delay | Ambient, slow-burn deterioration | [Download](https://glitchmachines.com/products/hysteresis/) |
-| iZotope Stutter Edit 2 | ~$149 ($79–$99 on sale) | MIDI Gesture | 400+ presets, AAX, live stutter | [iZotope Site](https://www.native-instruments.com/en/products/izotope/stutter-edit-2/) |
+| iZotope Stutter Edit 2 | ~$149 ($79–$99 on sale) | MIDI Gesture | 400+ presets, AAX, live stutter | [iZotope Site](https://www.native-instruments.com/products/stutter-edit-2) |
 | Output Portal | $149 | Granular | Macros, ambient textures, AAX | [Output Site](https://output.com/products/portal) |
 | Sugar Bytes Buffer Synth | Paid | Buffer | Real-time loop control | — |
 | Sugar Bytes Effectrix | ~$99 (~$49 on sale) | Sequencer | 64-step, 14 effect types | — |
@@ -311,7 +311,7 @@ A: Based on typical promotional pricing across these developers, 40–50% off li
 
 iZotope Stutter Edit 2 is the top paid pick here, but only in specific workflows — live performance and post-production — not universally. Producers doing DAW-based work have more than enough in Glitch 2 and the Glitchmachines suite to produce competitive results without spending anything. Start free, and move to paid when the specific limitations of freeware become the constraint in your work — and when you do move to paid, time the purchase around a sale unless a deadline forces your hand. Every paid plugin in this guide is discounted often enough that patience is usually worth more than the few days you'd save by buying at list price.
 
-[→ Get iZotope Stutter Edit 2](https://www.native-instruments.com/en/products/izotope/stutter-edit-2/)
+[→ Get iZotope Stutter Edit 2](https://www.native-instruments.com/products/stutter-edit-2)
 
 ---
 

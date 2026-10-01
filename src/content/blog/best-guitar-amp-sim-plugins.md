@@ -24,7 +24,7 @@ draft: false
 | IK TONEX MAX | ~$199 | AI amp/pedal capture | [View on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12452-TONEX-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-guitar-amp-sim-plugins&chan=art&data1=best-guitar-amp-sim-plugins) |
 | Bias Amp 2 | From $99 | Tone matching & deep tweaking | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
 | Line 6 Helix Native | $399 | Pro live/studio crossover | [Official Site](https://line6.com/helix/helixnative.html) |
-| S-Gear | ~$109 | Boutique clean & crunch | [Official Site](https://scuffhamamps.com/s-gear/) |
+| S-Gear | ~$109 | Boutique clean & crunch | [Official Site](https://www.scuffhamamps.com/) |
 | ENGL Ampthology Vol 1 | Paid | Authentic ENGL high-gain | [View on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/15561-ENGL-Ampthology-Vol-1?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-guitar-amp-sim-plugins&chan=art&data1=best-guitar-amp-sim-plugins) |
 
 ---
@@ -175,7 +175,7 @@ S-Gear is not the right tool for modern metal or djent production. For blues, cl
 
 **Best for:** Players in the clean-to-crunch range who prioritize touch response and vintage feel over the number of available amp models.
 
-[→ Get S-Gear (Official Site)](https://scuffhamamps.com/s-gear/)
+[→ Get S-Gear (Official Site)](https://www.scuffhamamps.com/)
 
 ---
 
@@ -312,7 +312,7 @@ If you're moving up from freeware, the honest upgrade order is: start with **Amp
 | IK TONEX MAX | ~$199 | Paid | AI amp/pedal capture, ToneNET library | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12452-TONEX-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-guitar-amp-sim-plugins&chan=art&data1=best-guitar-amp-sim-plugins) |
 | Bias Amp 2 | From $99 | Paid | Amp designer, ToneCloud, AI tone match | [Official Site](https://www.positivegrid.com/collections/bias-legacy-software) |
 | Line 6 Helix Native | $399 | Paid | Hardware parity, pro live/studio | [Official Site](https://line6.com/helix/helixnative.html) |
-| S-Gear | ~$109 | Paid | Boutique dynamics, vintage/clean focus | [Official Site](https://scuffhamamps.com/s-gear/) |
+| S-Gear | ~$109 | Paid | Boutique dynamics, vintage/clean focus | [Official Site](https://www.scuffhamamps.com/) |
 | ENGL Ampthology Vol 1 | Paid | Paid | Licensed ENGL high-gain | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/15561-ENGL-Ampthology-Vol-1?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-guitar-amp-sim-plugins&chan=art&data1=best-guitar-amp-sim-plugins) |
 | Ampknob BDM-800 Badboy | Paid (budget) | Paid | Instant one-knob high-gain | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/14858-Ampknob-BDM-800-Badboy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-guitar-amp-sim-plugins&chan=art&data1=best-guitar-amp-sim-plugins) |
 | Guitar Rig 7 Pro | $199 | Freemium | NI integration, upgrade path | [Official Site](https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-7-pro/) |

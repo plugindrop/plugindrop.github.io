@@ -86,7 +86,7 @@ The original API 2500 hardware includes a "Thrust" circuit, and the Waves versio
 
 **Best for:** Drum bus compression, parallel compression on full mixes, and contexts where an API-style compressor is wanted.
 
-[→ Get Waves API 2500 (Official Site)](https://www.waves.com/plugins/api-2500-compressor)
+[→ Get Waves API 2500 (Official Site)](https://www.waves.com/plugins/api-2500)
 
 *Available at Waves.com — search "API 2500" (no affiliate link available)*
 

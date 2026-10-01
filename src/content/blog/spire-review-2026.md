@@ -20,7 +20,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Spire | ~$179 (check product page for current pricing) | EDM/electro-house leads, wavetable basslines, arp-driven plucks | [Reveal Sound official site](https://www.reveal-sound.com/products/spire) |
+| Spire | $189 (check product page for current pricing) | EDM/electro-house leads, wavetable basslines, arp-driven plucks | [Reveal Sound official site](https://www.reveal-sound.com/plug-ins/spire) |
 
 ## Introduction
 
@@ -38,7 +38,7 @@ This guide covers what Spire actually does well, where its age shows, who should
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/7ZsHJDVxhxU" title="Spire — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 - **Developer:** Reveal Sound
-- **Price:** ~$179 one-time purchase (check the product page for current pricing and sales)
+- **Price:** $189 one-time purchase (check the product page for current pricing and sales)
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
@@ -46,7 +46,7 @@ Spire is a virtual analog and wavetable hybrid built around four oscillators, a 
 
 **Best for:** Producers working in electro house, big room, future bass, or dubstep who want fast access to genre-specific leads, plucks, and wobble basses without heavy patch programming.
 
-[→ Get Spire on the Reveal Sound official site](https://www.reveal-sound.com/products/spire)
+[→ Get Spire on the Reveal Sound official site](https://www.reveal-sound.com/plug-ins/spire)
 
 ### Oscillators and sound engine
 
@@ -70,10 +70,10 @@ This is where the age shows. Spire's GUI has stayed largely the same for years, 
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/zaGFXTgzQNU" title="Spire — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 - **Developer:** Reveal Sound
-- **Price:** ~$179 one-time purchase (check the product page for current pricing)
+- **Price:** $189 one-time purchase (check the product page for current pricing)
 - **Why upgrade:** The trial version is meant for evaluation only and comes with saving and export restrictions typical of demo builds, so you can audition the sound and workflow but can't build it into finished tracks. The full license removes those limits and is a one-time cost with no subscription.
 
-[→ Get Spire on the Reveal Sound official site](https://www.reveal-sound.com/products/spire)
+[→ Get Spire on the Reveal Sound official site](https://www.reveal-sound.com/plug-ins/spire)
 
 If you want to hear it before buying, Reveal Sound has an official demo video on YouTube (video ID 0rDowVRCubk) that walks through the sound and interface.
 
@@ -81,7 +81,7 @@ If you want to hear it before buying, Reveal Sound has an official demo video on
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Spire | ~$179 (check current pricing) | Virtual analog + wavetable hybrid | 4 oscillators, built-in multi-effects rack, arpeggiator, large EDM-focused preset library | [Get Spire](https://www.reveal-sound.com/products/spire) |
+| Spire | $189 (check current pricing) | Virtual analog + wavetable hybrid | 4 oscillators, built-in multi-effects rack, arpeggiator, large EDM-focused preset library | [Get Spire](https://www.reveal-sound.com/plug-ins/spire) |
 
 ## How to Choose
 
@@ -120,7 +120,7 @@ Serum and Vital are more actively developed, general-purpose wavetable synths wi
 
 Spire earns its keep in one lane — electro house, big room, and dubstep-adjacent lead and bass sound design — and its sounds and effects are built for that job. It's not the synth to buy if you want frequent updates or a modern interface, but if your genre matches its strengths, the one-time cost is a reasonable buy.
 
-[→ Get Spire on the Reveal Sound official site](https://www.reveal-sound.com/products/spire)
+[→ Get Spire on the Reveal Sound official site](https://www.reveal-sound.com/plug-ins/spire)
 
 ---
 

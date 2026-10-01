@@ -23,7 +23,7 @@ draft: false
 | TAL-Reverb-4 | Free | Warm vintage plate reverb | [Plugin Boutique](https://tal-software.com/products/tal-reverb-4) |
 | Wider (Polyverse) | Free | Mono-safe stereo widening | [Plugin Boutique](https://www.pluginboutique.com/search?q=Wider%20Polyverse%20stereo%20widener&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins) |
 | Valhalla Supermassive | Free | Large ambient reverb and delay | [valhalladsp.com](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| Klanghelm MJUC jr | Free | Vintage vari-mu tube compression | [Free Download](https://klanghelm.com/MJUCjr.php) |
+| Klanghelm MJUC jr | Free | Vintage vari-mu tube compression | [Free Download](https://klanghelm.com/contents/products/MJUCjr) |
 
 ---
 
@@ -113,7 +113,7 @@ MJUC jr is a stripped-down version of Klanghelm's acclaimed MJUC vari-mu compres
 
 **Skip it if:** you need precise attack/release or sidechain filtering — MJUC jr is two knobs with fixed timing, so fast aggressive rap/rock vocals want a full-featured compressor (or the paid MJUC).
 
-[→ Download MJUC jr Free](https://klanghelm.com/MJUCjr.php)
+[→ Download MJUC jr Free](https://klanghelm.com/contents/products/MJUCjr)
 
 ---
 
@@ -332,7 +332,7 @@ The detailed breakdown of each paid option follows below.
 | MAutoPitch | Free | Pitch Correction | Transparent, low latency, key/scale detection | [Plugin Boutique](https://www.pluginboutique.com/search?q=MAutoPitch%20MeldaProduction&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins) |
 | Graillon 2 | Free | Pitch Effects | Pitch shifting, bit crusher, ring modulation | [auburnsounds.com](https://www.auburnsounds.com/products/Graillon.html) |
 | Analog Obsession CHANNELSTRIP | Free | Channel Strip | HPF + EQ + compressor, analog warmth | [analog-obsession.com](https://analogobsession.com/) |
-| Klanghelm MJUC jr | Free | Compressor | Vintage vari-mu character, tube warmth | [Developer Site](https://klanghelm.com/MJUCjr.php) |
+| Klanghelm MJUC jr | Free | Compressor | Vintage vari-mu character, tube warmth | [Developer Site](https://klanghelm.com/contents/products/MJUCjr) |
 | TDR Nova | Free | Dynamic EQ | Per-band dynamics, de-essing, transparent | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Techivation T-De-Esser Plus | Free | De-esser | Focused sibilance detection, visual feedback | [Developer Site](https://techivation.com/t-de-esser-plus/) |
 | TDR SlickEQ | Free | EQ | 3-band with analog saturation mode | [Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/) |

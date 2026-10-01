@@ -108,7 +108,7 @@ MJUC jr. is the free limited version of Klanghelm's variable-mu compressor, and 
 
 **Best for:** Glue compression on buses where warmth and musical behavior matter more than punch.
 
-[→ Get Klanghelm MJUC jr.](https://klanghelm.com/contents/products/MJUCjr.php)
+[→ Get Klanghelm MJUC jr.](https://klanghelm.com/contents/products/MJUCjr)
 
 ---
 

@@ -30,7 +30,7 @@ priceTrack:
 | Waves J37 Tape | $29–$149 | British vintage and Abbey Road character | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Tape/981-Waves-J37-Tape?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
 | Soundtoys Decapitator | $199 | Flexible harmonic saturation | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
 | Chow Tape Model | Free | Best free tape emulation | [Free Download](https://chowdsp.com) |
-| Klanghelm SDRR | $21 | Best-value paid saturation | [Official Site](https://klanghelm.com/contents/products/SDRR.php) |
+| Klanghelm SDRR | $21 | Best-value paid saturation | [Official Site](https://klanghelm.com/contents/products/SDRR) |
 | Slate Digital VTM | ~$149 (or $14.99/mo bundle) | Drum bus glue and mixbus processing | [Official Site](https://slatedigital.com/virtual-tape-machines/) |
 
 ---
@@ -220,7 +220,7 @@ Klanghelm also makes the DC1A and MJUC compressors. SDRR is their saturation too
 
 **Best for:** Budget-conscious producers who want multi-mode saturation with tape-style harmonic characteristics at a price that makes experimentation risk-free.
 
-[→ Get Klanghelm SDRR](https://klanghelm.com/contents/products/SDRR.php)
+[→ Get Klanghelm SDRR](https://klanghelm.com/contents/products/SDRR)
 
 ---
 
@@ -275,7 +275,7 @@ There's no purchasing decision to make here, which is why it belongs near the to
 |--------|-------|------|---------------|-----|
 | Chow Tape Model | Free | Tape emulation | Physical modeling, open source, competitive with paid options | [Free Download](https://chowdsp.com) |
 | Klevgrand DAW Cassette | ~$20 | Cassette emulation | Consumer tape aesthetic, iOS/macOS/Windows, affordable | [Official Site](https://klevgrand.com/products/dawcassette/) |
-| Klanghelm SDRR | $21 | Multi-mode saturation | Multiple harmonic profiles | [Official Site](https://klanghelm.com/contents/products/SDRR.php) |
+| Klanghelm SDRR | $21 | Multi-mode saturation | Multiple harmonic profiles | [Official Site](https://klanghelm.com/contents/products/SDRR) |
 | Softube Tape | $49–$79 | Tape emulation | Transparent, modern-friendly, clean glue | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-Vintage/3689-Softube-Tape?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
 | Waves J37 Tape | $29–$149 | Tape emulation | EMI J37 model, Abbey Road vintage character | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Tape/981-Waves-J37-Tape?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
 | Waves KRAMER MASTER TAPE | $149 list ($34.99 sale on Waves, 2026-10-01) | Tape emulation | Eddie Kramer collab, multiple IPS speeds, rock character | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/13679-Kramer-Master-Tape?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |

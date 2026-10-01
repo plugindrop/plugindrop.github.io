@@ -161,7 +161,7 @@ Developer documentation describes it as optimized for natural, transparent resul
 
 **Best for:** Producers who need fast, reliable bus compression without learning a complex interface.
 
-[→ Download Klanghelm DC1A Free (Official)](https://klanghelm.com/contents/products/DC1A.php)
+[→ Download Klanghelm DC1A Free (Official)](https://klanghelm.com/contents/products/DC1A)
 
 ---
 

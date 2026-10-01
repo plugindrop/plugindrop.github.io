@@ -17,7 +17,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | FabFilter Pro-C 3 | $199 | All-purpose drum compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=how-to-compress-drums-plugins) |
-| Klanghelm DC8C | Free | Vintage-character individual drum compression | [Klanghelm.com](https://klanghelm.com/contents/products/DC8C.php) |
+| Klanghelm DC8C | Free | Vintage-character individual drum compression | [Klanghelm.com](https://klanghelm.com/contents/products/DC8C) |
 | Waves SSL G-Master Buss | $29 | Classic drum bus glue | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20SSL%20G%20Master&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-compress-drums-plugins&chan=art&data1=how-to-compress-drums-plugins) |
 
 ---
@@ -153,7 +153,7 @@ For snare:
 - **Formats:** VST, VST3, AU, AAX
 - **Why it matters for drum compression:** DC8C's free version provides four compression modes with tube saturation — the musical, slightly colored compression response that many producers prefer for snare and room drum channels over purely transparent processing. The Tube Saturation parameter adds harmonic density to compressed drums, which is specifically useful for individual drum channels where some character is desirable alongside compression control.
 
-[→ Download Klanghelm DC8C Free](https://klanghelm.com/contents/products/DC8C.php)
+[→ Download Klanghelm DC8C Free](https://klanghelm.com/contents/products/DC8C)
 
 ---
 

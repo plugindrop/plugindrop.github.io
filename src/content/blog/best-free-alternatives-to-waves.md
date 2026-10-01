@@ -138,7 +138,7 @@ Four operational modes (Normal, Deep, Limit, and a combination setting) change t
 
 **Best for:** Bus glue, parallel compression, and character compression on individual tracks where speed matters more than surgical control.
 
-[→ Download DC1A Free](https://klanghelm.com/contents/products/DC1A/) | [→ Find It on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves)
+[→ Download DC1A Free](https://klanghelm.com/contents/products/DC1A) | [→ Find It on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves)
 
 ---
 

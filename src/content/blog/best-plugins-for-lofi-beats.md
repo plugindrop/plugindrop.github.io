@@ -199,7 +199,7 @@ Klanghelm also sells paid compressors and saturators. IVGI is their free tube an
 
 **Best for:** Subtle saturation on individual stems to add analog density without obvious coloring artifacts.
 
-[→ Download IVGI Free](https://klanghelm.com/IVGI.php)
+[→ Download IVGI Free](https://klanghelm.com/contents/products/IVGI)
 
 ---
 
@@ -260,7 +260,7 @@ TAL-Chorus-LX is a recreation of the Roland Juno-60's chorus circuit, offered fr
 | TAL-Dub-3 | Free | Tape delay | Dub feedback, tape saturation, modulation | [TAL Software](https://tal-software.com/products/tal-dub) |
 | Krush | Free | Bitcrusher | Bit + SR reduction with LFO modulation | [Download](https://www.tritik.com/products/krush/) |
 | GVST GDegrade | Free | Degrader | Bit crush and SR reduction | [Download](https://gvst.uk/Downloads) |
-| IVGI | Free | Saturation | Tube/tape warmth, subtle density | [Download](https://klanghelm.com/IVGI.php) |
+| IVGI | Free | Saturation | Tube/tape warmth, subtle density | [Download](https://klanghelm.com/contents/products/IVGI) |
 | TAL-Chorus-LX | Free | Chorus | Juno-60 circuit, organic pitch movement | [Free Download](https://tal-software.com/products/tal-chorus-lx) |
 | RC-20 Retro Color | ~$99 | Lo-fi all-in-one | 6 modules, cohesive degradation chain | [Get It](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
 | iZotope RX Elements | ~$99 | Audio repair | Noise reduction, spectral repair | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20RX&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-lofi-beats&chan=art&data1=best-plugins-for-lofi-beats) |

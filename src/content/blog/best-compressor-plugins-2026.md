@@ -26,12 +26,12 @@ priceTrack:
 |--------|-------|----------|--------|
 | FabFilter Pro-C 3 | $199 | All-purpose mixing & mastering | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=best-compressor-plugins-2026) |
 | TDR Kotelnikov | Free | Mastering, mix bus glue | [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
-| Klanghelm DC8C | ~$20 | Analog character, detailed mix work | [Get It](https://klanghelm.com/contents/products/DC8C.php) |
+| Klanghelm DC8C | ~$20 | Analog character, detailed mix work | [Get It](https://klanghelm.com/contents/products/DC8C) |
 | Analog Obsession LALA | Free | Optical warmth on vocals & acoustics | [Plugin Boutique](https://www.pluginboutique.com/search?q=Best%20Compressor%20Plugins%202026%20%E2%80%94%20Ranked&a_aid=69cb95abe1763&chan=art&data1=best-compressor-plugins-2026) |
 | OTT (Xfer Records) | Free | Upward compression, EDM, synth layers | [Free Download](https://xferrecords.com/freeware) |
 | Rough Rider 3 | Free | Aggressive drums, sidechain pump | [Free Download](https://www.audiodamage.com/pages/free-and-legacy) |
 | Waves SSL G-Master Buss | ~$29–$49 | Bus glue, SSL console tone | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
-| Waves API 2500 | $149 list ($39.99 sale on Waves, 2026-10-01) | Punchy, forward bus compression | [Get It](https://www.waves.com/plugins/api-2500-compressor) |
+| Waves API 2500 | $149 list ($39.99 sale on Waves, 2026-10-01) | Punchy, forward bus compression | [Get It](https://www.waves.com/plugins/api-2500) |
 | Cytomic The Glue | ~$75 | SSL 4000G mix bus accuracy | [Plugin Boutique](https://www.pluginboutique.com/search?q=Cytomic%20The%20Glue&a_aid=69cb95abe1763&chan=art&data1=best-compressor-plugins-2026) |
 
 ---
@@ -84,7 +84,7 @@ DC8C works convincingly on individual tracks and holds up on bus work when you w
 
 **Best for:** Producers who want analog compression character without spending more than a restaurant meal.
 
-[→ Get Klanghelm DC8C](https://klanghelm.com/contents/products/DC8C.php)
+[→ Get Klanghelm DC8C](https://klanghelm.com/contents/products/DC8C)
 
 ---
 
@@ -200,7 +200,7 @@ It does one job and does not pretend otherwise. Given its design, the release ma
 - **Price:** ~$29–$49 (frequently discounted)
 - **Why upgrade:** The SSL G-Master delivers cohesion through its program-dependent release. The API 2500 emulation delivers what the SSL cannot — a forward, punchy character tied to the original hardware's Thrust high-pass sidechain circuit and its distinct ratio and knee behavior. The two are complementary rather than competing: the SSL for smoothing and blending, the API 2500 when the drum bus needs to hit harder and sit in front of the mix instead of behind it. The trade-off is subtlety — it is the wrong tool when you want compression to disappear.
 
-[→ Get Waves API 2500](https://www.waves.com/plugins/api-2500-compressor)
+[→ Get Waves API 2500](https://www.waves.com/plugins/api-2500)
 
 ---
 
@@ -209,14 +209,14 @@ It does one job and does not pretend otherwise. Given its design, the release ma
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | FabFilter Pro-C 3 | $199 | Multi-style | 14 styles, M/S, sidechain EQ, visual feedback | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=best-compressor-plugins-2026) |
-| Klanghelm DC8C | ~$20 | Analog character | 4 characters, expert mode, analog saturation | [Get It](https://klanghelm.com/contents/products/DC8C.php) |
+| Klanghelm DC8C | ~$20 | Analog character | 4 characters, expert mode, analog saturation | [Get It](https://klanghelm.com/contents/products/DC8C) |
 | TDR Kotelnikov | Free | Mastering/bus | Low-distortion, stereo linking, release delta | [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Analog Obsession LALA | Free | Optical emulation | LA-2A response, musical dynamics, simple UI | [Free](https://www.pluginboutique.com/search?q=Free&a_aid=69cb95abe1763&chan=art&data1=best-compressor-plugins-2026) |
 | OTT (Xfer Records) | Free | Upward/multiband | 3-band upward compression, depth control | [Free](https://xferrecords.com/freeware) |
 | Waves SSL G-Master Buss | ~$29–$49 | Bus glue | SSL G console character | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | Cytomic The Glue | ~$75 | Bus glue | SSL 4000G accuracy, analog harmonic content | [Get It](https://www.pluginboutique.com/search?q=Cytomic%20The%20Glue&a_aid=69cb95abe1763&chan=art&data1=best-compressor-plugins-2026) |
 | Rough Rider 3 | Free | Character | Parallel mix blend, HP sidechain, aggressive color | [Download](https://www.audiodamage.com/pages/free-and-legacy) |
-| Waves API 2500 | $149 list ($39.99 sale on Waves, 2026-10-01) | Bus glue | Thrust circuit, punchy forward character | [Get It](https://www.waves.com/plugins/api-2500-compressor) |
+| Waves API 2500 | $149 list ($39.99 sale on Waves, 2026-10-01) | Bus glue | Thrust circuit, punchy forward character | [Get It](https://www.waves.com/plugins/api-2500) |
 | Klanghelm DC1A | Free | Simplified character | Minimal controls, smooth coloration, easy parallel use | Free — klanghelm.com |
 | Molot (vladg/sound) | Free | Vintage character | Soviet-style coloration | Free — vladg/sound |
 | TDR Feedback Compressor II | Free | Transparent/feedback | Feedback topology, alternative to Kotelnikov on complex material | Free — tokyodawn.net |

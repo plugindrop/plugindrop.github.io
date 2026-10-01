@@ -293,7 +293,7 @@ IVGI models vintage tube and tape compression behavior, generating upper harmoni
 
 **Best for:** Harmonic saturation on 808 buses for better small-speaker translation.
 
-[→ Download IVGI Free](https://klanghelm.com/contents/products/IVGI.php)
+[→ Download IVGI Free](https://klanghelm.com/contents/products/IVGI)
 
 ---
 
@@ -357,7 +357,7 @@ For hip-hop masters where the 808 creates predictable transient spikes, its look
 | GlitchMachines Hysteresis | Free | Tape Delay | Wow/flutter/saturation, lo-fi tape character | [Free](https://glitchmachines.com/products/hysteresis/) |
 | Graillon 2 | Free / $25 | Pitch Effect | Pitch correction, formant shift, vocal modulation | [Free](https://www.auburnsounds.com/products/Graillon.html) |
 | TDR Nova | Free | Dynamic EQ | Parallel dynamic EQ, 808 resonance control | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
-| Klanghelm IVGI | Free | Saturation | Tube/tape saturation, 808 harmonic density | [Free](https://klanghelm.com/contents/products/IVGI.php) |
+| Klanghelm IVGI | Free | Saturation | Tube/tape saturation, 808 harmonic density | [Free](https://klanghelm.com/contents/products/IVGI) |
 | LoudMax | Free | Limiter | Look-ahead true peak limiting, transparent masters | [Free](https://loudmax.blogspot.com) |
 
 ---

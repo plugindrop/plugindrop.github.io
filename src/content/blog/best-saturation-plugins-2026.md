@@ -25,9 +25,9 @@ This guide ranks the 12 best saturation plugins 2026 producers are actually buyi
 |--------|-------|----------|--------|
 | FabFilter Saturn 2 | $149 | Multiband saturation, mastering | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/30-Distortion/6423-FabFilter-Saturn-2?a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
 | Soundtoys Decapitator | $199 | Analog amp drive, aggressive color | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
-| Klanghelm SDRR | ~$20 | Budget studio saturation, 4 models | [Plugin Boutique](https://klanghelm.com/contents/products/SDRR.php) |
+| Klanghelm SDRR | ~$20 | Budget studio saturation, 4 models | [Plugin Boutique](https://klanghelm.com/contents/products/SDRR) |
 | Saturation Knob | Free | One-knob parallel saturation on any track | [Free Download](https://www.pluginboutique.com/search?q=Free%20Download&a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
-| IVGI | Free | Subtle analog console warmth | [Free Download](https://klanghelm.com/IVGI.php) |
+| IVGI | Free | Subtle analog console warmth | [Free Download](https://klanghelm.com/contents/products/IVGI) |
 | RC-20 Retro Color | $99 | Vintage tape aesthetic on synths & samples | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/3016-RC-20-Retro-Color?a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
 | Waves J37 Tape | $29–$99 | Classic tape saturation for tracking & mixing | [Plugin Boutique](https://www.pluginboutique.com/search?q=waves%20j37%20tape&a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
 
@@ -71,7 +71,7 @@ IVGI models the nonlinear behavior of analog mixing consoles — specifically ho
 
 **Best for:** ITB producers who want console harmonic glue without buying hardware or subscribing to anything.
 
-[→ Download IVGI Free](https://klanghelm.com/IVGI.php)
+[→ Download IVGI Free](https://klanghelm.com/contents/products/IVGI)
 
 ---
 
@@ -158,7 +158,7 @@ SDRR models four distinct saturation types: tube, transistor, tape, and digi —
 
 **Best for:** Budget-conscious producers who want professional harmonic tools without paying $150+ for a single plug-in.
 
-[→ Get Klanghelm SDRR](https://klanghelm.com/contents/products/SDRR.php)
+[→ Get Klanghelm SDRR](https://klanghelm.com/contents/products/SDRR)
 
 ---
 
@@ -279,9 +279,9 @@ TDR Prism takes a different approach than hardware emulators — it gives you di
 |--------|-------|----------|--------------|----------------------|
 | FabFilter Saturn 2 | $149 | Multiband saturation, mastering, sound design | Yes (fully functional, 30 days) | [Get It](https://www.pluginboutique.com/product/2-Effects/30-Distortion/6423-FabFilter-Saturn-2?a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
 | Soundtoys Decapitator | $199 | Analog amp drive, drums, aggressive color | Yes (bundle trial) | [Get It](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
-| Klanghelm SDRR | ~$20 | Tube/tape/transistor/digi, budget mixing | No (demo audio watermark) | [Get It](https://klanghelm.com/contents/products/SDRR.php) |
+| Klanghelm SDRR | ~$20 | Tube/tape/transistor/digi, budget mixing | No (demo audio watermark) | [Get It](https://klanghelm.com/contents/products/SDRR) |
 | Saturation Knob | Free | Parallel harmonic glue on any channel | N/A (free) | [Get It](https://www.pluginboutique.com/search?q=Free&a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
-| IVGI | Free | Console-style asymmetric saturation | N/A (free) | [Get It](https://klanghelm.com/IVGI.php) |
+| IVGI | Free | Console-style asymmetric saturation | N/A (free) | [Get It](https://klanghelm.com/contents/products/IVGI) |
 | Analog Obsession SATUR8 | Free | Tape emulation, bias-shifted harmonics | N/A (free) | [Get It](https://www.pluginboutique.com/search?q=analog%20obsession%20satur8&a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
 | Caelum Tape Cassette 2 | Free | Lo-fi cassette degradation | N/A (free) | [Get It](https://www.pluginboutique.com/search?q=caelum%20audio%20tape%20cassette%202&a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
 | Waves J37 Tape | $29–$99 | Abbey Road tape machine emulation | Yes (7-day) | [Get It](https://www.pluginboutique.com/search?q=waves%20j37%20tape&a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |

@@ -20,9 +20,9 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Klanghelm SDRR | Free | Most versatile — tube, tape, and clip modes | [Free Download](https://klanghelm.com/contents/products/SDRR.php) |
+| Klanghelm SDRR | Free | Most versatile — tube, tape, and clip modes | [Free Download](https://klanghelm.com/contents/products/SDRR) |
 | Saturation Knob | Free | Instant warmth on any signal | [Free Download](https://www.softube.com/plug-ins/saturation-knob) |
-| IVGI | Free | Transparent analog warmth without harshness | [Free Download](https://klanghelm.com/IVGI.php) |
+| IVGI | Free | Transparent analog warmth without harshness | [Free Download](https://klanghelm.com/contents/products/IVGI) |
 | Tape Cassette 2 | Free | Lo-fi cassette character | [Free Download](https://www.caelumaudio.com/CaelumAudio/) |
 | Chow Tape Model | Free | Detailed reel-to-reel tape emulation | [Free Download](https://github.com/jatinchowdhury18/AnalogTapeModel) |
 | Caramel | Free | Solid saturation in MeldaProduction's free bundle | [Free Download](https://www.meldaproduction.com/) |
@@ -71,7 +71,7 @@ From the developer behind the Molot compressor — a compressor, IVGI models an 
 
 **Best for:** Subtle harmonic enhancement on sources where you want color without audible distortion — synth pads, acoustic instruments, mix bus.
 
-[→ Download IVGI Free](https://klanghelm.com/IVGI.php)
+[→ Download IVGI Free](https://klanghelm.com/contents/products/IVGI)
 
 ---
 
@@ -88,7 +88,7 @@ SDRR ships with four distinct saturation modes — Triode (smooth tube), Pentode
 
 **Best for:** Producers who want to understand how different types of saturation behave, or who need a single versatile saturator that handles both subtle warmth and more aggressive drive.
 
-[→ Download SDRR Free](https://klanghelm.com/contents/products/SDRR.php)
+[→ Download SDRR Free](https://klanghelm.com/contents/products/SDRR)
 
 ---
 
@@ -247,9 +247,9 @@ Chris Johnson releases all Airwindows plugins free as part of an ongoing Patreon
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Klanghelm SDRR | Free | Tube / Tape / Clip | 4 modes, bias and symmetry controls | [Download](https://klanghelm.com/contents/products/SDRR.php) |
+| Klanghelm SDRR | Free | Tube / Tape / Clip | 4 modes, bias and symmetry controls | [Download](https://klanghelm.com/contents/products/SDRR) |
 | Saturation Knob | Free | Analog modeled | 3 frequency modes, one-knob simplicity | Get via Plugin Boutique |
-| IVGI | Free | Tube preamp model | Transparent, low harshness, parallel blend | [Download](https://klanghelm.com/IVGI.php) |
+| IVGI | Free | Tube preamp model | Transparent, low harshness, parallel blend | [Download](https://klanghelm.com/contents/products/IVGI) |
 | bx_saturator V2 | Free | Mid/Side saturation | Independent M/S control, professional grade | [Download](https://www.plugin-alliance.com) |
 | Tape Cassette 2 | Free | Cassette tape | Wow/flutter, lo-fi degradation | [Download](https://www.caelumaudio.com/CaelumAudio/) |
 | Chow Tape Model | Free | Reel-to-reel physical model | SONY TC-260 model, open source | [Download](https://github.com/jatinchowdhury18/AnalogTapeModel) |
@@ -293,7 +293,7 @@ A: Approaches vary. One approach applies subtle saturation to individual tracks 
 
 Klanghelm SDRR is the plugin to install first — it is free and its four saturation modes (Triode, Pentode, Tape, Clip) each differ audibly. Once you know which type of saturation you need, IVGI covers input transformer and tube preamp coloring, and Chow Tape Model offers a physical model of a tape machine. When per-band saturation control becomes the bottleneck, FabFilter Saturn 2 is the paid upgrade covered here.
 
-[→ Download Klanghelm SDRR Free](https://klanghelm.com/contents/products/SDRR.php)
+[→ Download Klanghelm SDRR Free](https://klanghelm.com/contents/products/SDRR)
 
 ---
 

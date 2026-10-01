@@ -22,7 +22,7 @@ priceTrack:
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Neural DSP Archetype | From $99 | Amp simulation & built-in cab sim | [Official Site](https://neuraldsp.com/plugins) |
-| Waves IR-L Convolution Reverb | Varies | Cabinet IR loading & room ambience | [Official Site](https://www.waves.com/plugins/ir-l) |
+| Waves IR-L Convolution Reverb | Varies | Cabinet IR loading & room ambience | [Official Site](https://www.waves.com/plugins/ir-l-convolution-reverb) |
 | FabFilter Pro-Q 4 | $179 | Surgical EQ with dynamic EQ per band | [FabFilter](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=guitar-recording-plugin-chain) |
 | OTT (Xfer Records) | Free | Multiband dynamics & mid-range density | [Free Download](https://xferrecords.com/freeware) |
 | FabFilter Total Bundle | $1,069 | Complete professional production suite | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=guitar-recording-plugin-chain) |
@@ -81,7 +81,7 @@ This step is conditional. If you're satisfied with the cab simulation inside you
 
 **Best for:** Producers using third-party cabinet IR libraries, or those adding studio-room character after the cab stage.
 
-[→ Get Waves IR-L Convolution Reverb](https://www.waves.com/plugins/ir-l)
+[→ Get Waves IR-L Convolution Reverb](https://www.waves.com/plugins/ir-l-convolution-reverb)
 
 ---
 

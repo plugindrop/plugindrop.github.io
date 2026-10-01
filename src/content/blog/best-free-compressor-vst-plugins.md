@@ -29,7 +29,7 @@ priceTrack:
 | DC1A | Free | Vocals, fast workflow, always musical | [Plugin Boutique](https://klanghelm.com/contents/products/DC1A) |
 | Rough Rider 3 | Free | Drums, aggressive parallel punch | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/6100-Rough-Rider-3?a_aid=69cb95abe1763&chan=art&data1=best-free-compressor-vst-plugins) |
 | OTT | Free | EDM synths, multiband upward compression | [Plugin Boutique](https://xferrecords.com/freeware) |
-| Klanghelm MJUC jr. | Free | Vintage tube warmth, subtle saturation | [Free Download](https://klanghelm.com/contents/products/MJUC.php) |
+| Klanghelm MJUC jr. | Free | Vintage tube warmth, subtle saturation | [Free Download](https://klanghelm.com/contents/products/MJUC) |
 | Density mkIII | Free | Mix bus analog glue (Windows) | [Free Download](https://varietyofsound.wordpress.com/) |
 
 ---
@@ -151,7 +151,7 @@ MJUC jr. is the free version of Klanghelm's variable-mu compressor. Variable-mu 
 
 **Skip it if:** you need fast attack for snappy drum transients — variable-mu compression is slow by design, and the free jr. edition locks the detailed timing controls that the paid MJUC opens up.
 
-[→ Download Klanghelm MJUC jr. Free](https://klanghelm.com/contents/products/MJUC.php)
+[→ Download Klanghelm MJUC jr. Free](https://klanghelm.com/contents/products/MJUC)
 
 ---
 
@@ -193,7 +193,7 @@ DC1A offers an Input knob and a Dry/Wet knob, with two compression character mod
 
 **Skip it if:** you need precise control or metering — there is no ratio, attack, release, or gain-reduction meter here, so mastering work and technical dynamics matching call for something with real gauges.
 
-[Plugin Boutique](https://klanghelm.com/contents/products/DC1A) | [→ Download DC1A Free](https://klanghelm.com/contents/products/DC1A.php)
+[Plugin Boutique](https://klanghelm.com/contents/products/DC1A) | [→ Download DC1A Free](https://klanghelm.com/contents/products/DC1A)
 
 ---
 
@@ -358,7 +358,7 @@ The honest timing rule: none of these is ever urgent. Waves and UAD run sales so
 | TDR Feedback Compressor II | Free | Feedback topology | Vintage circuit behavior, free | [Get It](https://www.tokyodawn.net/tdr-feedback-compressor-2/) |
 | Cockos ReaComp | Free | Precision utility | Sidechain, any DAW | [Get It](https://www.cockos.com/reaper/reaplugs/) |
 | Molot GE | Free | Vintage character | Soviet-era punch, harmonic saturation | [Get It](https://www.pluginboutique.com/search?q=Molot%20GE%20compressor&a_aid=69cb95abe1763&chan=art&data1=best-free-compressor-vst-plugins) |
-| Klanghelm MJUC jr. | Free | Variable-mu | Tube warmth, program-dependent release | [Get It](https://klanghelm.com/contents/products/MJUC.php) |
+| Klanghelm MJUC jr. | Free | Variable-mu | Tube warmth, program-dependent release | [Get It](https://klanghelm.com/contents/products/MJUC) |
 | Analog Obsession RNLA | Free | Optical | LA-style leveling, musical on vocals | [Get It](https://www.analogobsession.com/) |
 | DC1A | Free | Simple/musical | 2 controls, always correct | [Plugin Boutique](https://klanghelm.com/contents/products/DC1A) |
 | Density mkIII | Free | Bus compressor | 4 characters, analog glue, Windows | [Get It](https://varietyofsound.wordpress.com/) |

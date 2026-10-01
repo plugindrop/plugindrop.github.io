@@ -22,7 +22,7 @@ draft: false
 | Soundtoys Decapitator | $199 | Analog hardware drive emulation | [Official Site](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-distortion-vst-plugins) |
 | FabFilter Saturn 2 | $149 | Multiband and multimode distortion | [Official Site](https://www.pluginboutique.com/product/2-Effects/30-Distortion/6423-FabFilter-Saturn-2?a_aid=69cb95abe1763&chan=art&data1=best-distortion-vst-plugins) |
 | Waves J37 Tape | varies ($29–49 on sale) | Tape warmth, classic British character | [Official Site](https://www.waves.com/plugins/j37-tape) |
-| Klanghelm SDRR | ~$19 | Best-value analog saturation | [Official Site](https://klanghelm.com/contents/products/SDRR.php) |
+| Klanghelm SDRR | ~$19 | Best-value analog saturation | [Official Site](https://klanghelm.com/contents/products/SDRR) |
 | Chow Tape Model | Free | Physically modeled tape saturation | [Free Download](https://chowdsp.com/products.html) |
 | Softube Saturation Knob | Free | Instant harmonic warmth, zero setup | [Free Download](https://www.softube.com/plug-ins/saturation-knob) |
 | iZotope Trash 2 | $49–99 | Extreme creative distortion | izotope.com |
@@ -117,7 +117,7 @@ SDRR offers four distinct saturation modes — TUBE, TAPE, DIGI, and TRANS — e
 
 **Best for:** Producers who want multi-character analog saturation without committing to FabFilter prices.
 
-[→ Get Klanghelm SDRR](https://klanghelm.com/contents/products/SDRR.php)
+[→ Get Klanghelm SDRR](https://klanghelm.com/contents/products/SDRR)
 
 ---
 
@@ -246,7 +246,7 @@ IVGI is a free analog saturation plugin from the same developer as SDRR, offerin
 
 **Best for:** Quick analog color on individual tracks; a natural free entry point into Klanghelm's saturation ecosystem.
 
-[→ Download IVGI Free](https://klanghelm.com/contents/products/IVGI.php)
+[→ Download IVGI Free](https://klanghelm.com/contents/products/IVGI)
 
 ---
 
@@ -304,14 +304,14 @@ If you have been working with IVGI, Saturation Knob, Chow Tape Model, or TAL-Sat
 | Soundtoys Decapitator | $199 | Analog hardware emulation | 5 circuit models, Punish knob, tone control | [Get via Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-distortion-vst-plugins) |
 | FabFilter Saturn 2 | $149 | Multiband distortion | 28 styles, 6 bands, modulation matrix | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/30-Distortion/6423-FabFilter-Saturn-2?a_aid=69cb95abe1763&chan=art&data1=best-distortion-vst-plugins) |
 | Waves J37 Tape | varies | Tape machine emulation | EMI J37 model, bias/flutter controls | [Official Site](https://www.pluginboutique.com/search?q=Waves%20J37%20Tape&a_aid=69cb95abe1763&chan=art&data1=best-distortion-vst-plugins) |
-| Klanghelm SDRR | ~$19 | Multi-mode saturation | TUBE/TAPE/DIGI/TRANS, Linux support | [Get It](https://klanghelm.com/contents/products/SDRR.php) |
+| Klanghelm SDRR | ~$19 | Multi-mode saturation | TUBE/TAPE/DIGI/TRANS, Linux support | [Get It](https://klanghelm.com/contents/products/SDRR) |
 | iZotope Trash 2 | $49–99 | Extreme multiband distortion | 60+ algorithms, IR convolution, gate | izotope.com |
 | RC-20 Retro Color | ~$99 | Lo-fi texture suite | 6 modules incl. distortion, vinyl, wobble | xlnaudio.com |
 | Soundtoys Devil-Loc Deluxe | ~$99 | Limiting/distortion | Shure Level-Loc model, parallel mix | soundtoys.com |
 | Plugin Alliance HG-2 | ~$199 | Boutique tube/transformer | Two-stage hardware model, transparent | pluginalliance.com |
 | Chow Tape Model | Free | Physical tape model | Physics-based, open source, flutter/wow | [Free](https://chowdsp.com/products.html) |
 | Softube Saturation Knob | Free | Frequency-aware saturation | 3 modes, zero config, fast insert | [Free](https://www.softube.com/plug-ins/saturation-knob) |
-| IVGI by Klanghelm | Free | Analog circuit saturation | Same developer as SDRR, no limitations | [Free](https://klanghelm.com/contents/products/IVGI.php) |
+| IVGI by Klanghelm | Free | Analog circuit saturation | Same developer as SDRR, no limitations | [Free](https://klanghelm.com/contents/products/IVGI) |
 | TAL-Saturator V2 | Free | Waveshaper | stable, Linux support | [Free](https://tal-software.com/products/tal-effects) |
 
 ---

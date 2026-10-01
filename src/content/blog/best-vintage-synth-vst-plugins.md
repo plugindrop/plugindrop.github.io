@@ -17,8 +17,8 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | u-he Diva | $179 | Circuit-accurate multi-vintage emulation | [Official Site](https://www.pluginboutique.com/search?q=u-he%20Diva&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins&chan=art&data1=best-vintage-synth-vst-plugins) |
-| Arturia Mini V3 | $99 | Minimoog bass and monophonic leads | [Official Site](https://www.arturia.com/products/analog-classics/mini-v/overview) |
-| Arturia Prophet-5 V | $99 | Lush polysynth pads and chords | [Official Site](https://www.arturia.com/products/analog-classics/prophet-5-v/overview) |
+| Arturia Mini V3 | $99 | Minimoog bass and monophonic leads | [Official Site](https://www.arturia.com/products/software-instruments/mini-v/overview) |
+| Arturia Prophet-5 V | $99 | Lush polysynth pads and chords | [Official Site](https://www.arturia.com/products/software-instruments/prophet-5-v/overview) |
 | TAL-U-NO-LX | ~$60 | Roland Juno-60 chorus and arpeggios | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/423-TAL-U-NO-LX-Synth?a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins) |
 | OB-Xd | Free | Oberheim brass, strings, and pads | [Free Download](https://www.discodsp.com/obxd/) |
 | Dexed | Free | Yamaha DX7 FM electric pianos and bells | [Free Download](https://asb2m10.github.io/dexed/) |
@@ -113,7 +113,7 @@ Mini V3 models the Minimoog Model D using Arturia's TAE (True Analog Emulation) 
 
 **Skip it if:** you're on Linux (it's Windows and macOS only), or you're chasing the last few percent of hardware accuracy that Diva and Synapse's The Legend push toward at extreme filter settings.
 
-[→ Get Arturia Mini V3](https://www.arturia.com/products/analog-classics/mini-v/overview)
+[→ Get Arturia Mini V3](https://www.arturia.com/products/software-instruments/mini-v/overview)
 
 ---
 
@@ -133,7 +133,7 @@ Cherry Audio's Memorymode targets the Moog Memorymoog — a polyphonic instrumen
 
 **Skip it if:** you specifically want the raw mono Minimoog Model D voice. Memorymode is the smoother, polyphonic Memorymoog — glorious for pads, less of a snarling single-oscillator bass monster.
 
-[→ Get Cherry Audio Memorymode](https://cherryaudio.com/products/memorymode)
+[→ Get Cherry Audio Memorymode](https://cherryaudio.com/products/memorymode-v2)
 
 ---
 
@@ -195,7 +195,7 @@ Jup-8 V models the Roland Jupiter-8, known for rich polyphonic filter sweeps and
 
 **Skip it if:** you're chasing u-he-level circuit accuracy. TAE captures the Jupiter's vibe convincingly, but it softens the rawest edges that a circuit-simulation engine reproduces.
 
-[→ Get Arturia Jup-8 V](https://www.arturia.com/products/analog-classics/jup-8-v/overview)
+[→ Get Arturia Jup-8 V](https://www.arturia.com/products/software-instruments/jup-8-v/overview)
 
 ---
 
@@ -217,7 +217,7 @@ Prophet-5 V models Sequential's Prophet-5 — a five-voice polysynth whose Curti
 
 **Skip it if:** you want a clean, stable modern polysynth. The whole appeal here is the Prophet's drift and grit — dial that out and you've bought the wrong plugin.
 
-[→ Get Arturia Prophet-5 V](https://www.arturia.com/products/analog-classics/prophet-5-v/overview)
+[→ Get Arturia Prophet-5 V](https://www.arturia.com/products/software-instruments/prophet-5-v/overview)
 
 ---
 

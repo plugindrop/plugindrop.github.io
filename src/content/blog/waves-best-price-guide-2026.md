@@ -57,7 +57,7 @@ The important clarification is that "sale price" should be your mental benchmark
 
 **Best for:** Any producer building out a Waves collection incrementally.
 
-[→ Browse Waves Plugins on Plugin Boutique](https://www.pluginboutique.com/product/waves-audio/?a_aid=69cb95abe1763&chan=art&data1=waves-best-price-guide-2026)
+[→ Browse Waves Plugins on Plugin Boutique](https://www.pluginboutique.com/search?q=Waves&a_aid=69cb95abe1763&chan=art&data1=waves-best-price-guide-2026)
 
 ---
 
@@ -77,7 +77,7 @@ The tier decision that matters most is the jump from Gold to Platinum. The H-ser
 
 **Best for:** Producers who want a set-and-forget purchase rather than ongoing sale monitoring.
 
-[→ Browse Waves Bundles on Plugin Boutique](https://www.pluginboutique.com/product/waves-audio/?a_aid=69cb95abe1763&chan=art&data1=waves-best-price-guide-2026)
+[→ Browse Waves Bundles on Plugin Boutique](https://www.pluginboutique.com/search?q=Waves&a_aid=69cb95abe1763&chan=art&data1=waves-best-price-guide-2026)
 
 ---
 

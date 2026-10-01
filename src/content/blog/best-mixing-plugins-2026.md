@@ -30,7 +30,7 @@ priceTrack:
 | FabFilter Pro-Q 4 | $179 | Precise EQ & dynamic EQ | [Official Site](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 | FabFilter Pro-C 3 | $199 | Transparent to aggressive compression | [Official Site](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 | TDR Nova | Free | Dynamic EQ on a budget | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
-| Klanghelm DC8C | Free | Vintage-flavored compression | [Free Download](https://klanghelm.com/contents/products/DC8C.php) |
+| Klanghelm DC8C | Free | Vintage-flavored compression | [Free Download](https://klanghelm.com/contents/products/DC8C) |
 | iZotope Neutron | $99+ | AI-assisted full channel strip | [Plugin Boutique](https://www.pluginboutique.com/search?q=15%20Best%20Mixing%20Plugins%202026&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 | Valhalla Vintage Verb | $50 | Studio reverb on any budget | [Plugin Boutique](https://www.pluginboutique.com/search?q=15%20Best%20Mixing%20Plugins%202026&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 | Soundtoys Decapitator | $199 | Analog saturation & harmonic drive | [Official Site](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
@@ -60,7 +60,7 @@ If you only read one section of this guide, read this one. Across every category
 | FabFilter Pro-Q 4 | $179 | Surgical & dynamic EQ | Yes (30 days) | [View on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 | FabFilter Pro-C 3 | $199 | All-purpose compression | Yes (30 days) | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 | TDR Nova | Free | Budget dynamic EQ | Free (no trial needed) | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
-| Klanghelm DC8C | Free | Vintage compression color | Free (no trial needed) | [Klanghelm Direct](https://klanghelm.com/contents/products/DC8C.php) |
+| Klanghelm DC8C | Free | Vintage compression color | Free (no trial needed) | [Klanghelm Direct](https://klanghelm.com/contents/products/DC8C) |
 | iZotope Neutron | $99+ | AI-assisted channel strip | Yes (10 days) | [Search Plugin Boutique](https://www.pluginboutique.com/search?q=15%20Best%20Mixing%20Plugins%202026&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 | Valhalla Vintage Verb | $50 | Budget-friendly studio reverb | No formal trial (demo audio available) | [Search Plugin Boutique](https://www.pluginboutique.com/search?q=15%20Best%20Mixing%20Plugins%202026&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 | Soundtoys Decapitator | $199 | Analog saturation & harmonic drive | Yes (7-day, via bundle) | [View on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
@@ -143,7 +143,7 @@ Klanghelm DC8C is a free compressor. The free version offers four compression mo
 
 **Best for:** Producers who want analog-influenced compression character without spending money, especially on drums, bass, and mid-heavy sources.
 
-[→ Download Klanghelm DC8C Free](https://klanghelm.com/contents/products/DC8C.php)
+[→ Download Klanghelm DC8C Free](https://klanghelm.com/contents/products/DC8C)
 
 ## Channel Strip & AI-Assisted Mixing
 
@@ -236,7 +236,7 @@ Like the rest of the FabFilter range, Pro-L 2 holds its price well. Check [When 
 | FabFilter Pro-Q 4 | $179 | EQ | Dynamic EQ, real-time spectrum, surgical precision | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 | FabFilter Pro-C 3 | $199 | Compressor | 14 compression styles, side-chain EQ, bus-ready | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 | TDR Nova | Free | Dynamic EQ | 4-band dynamic EQ, wideband compressor, free | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
-| Klanghelm DC8C | Free | Compressor | Vintage character, 4 modes, tube saturation | [Get It](https://klanghelm.com/contents/products/DC8C.php) |
+| Klanghelm DC8C | Free | Compressor | Vintage character, 4 modes, tube saturation | [Get It](https://klanghelm.com/contents/products/DC8C) |
 | iZotope Neutron | $99+ | Channel Strip | AI Track Assistant, inter-plugin communication | [Get It](https://www.pluginboutique.com/search?q=iZotope%20Neutron&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 | Valhalla Vintage Verb | $50 | Reverb | 18 modes, vintage hardware models, $50 | [Get It](https://www.pluginboutique.com/search?q=Valhalla%20Vintage%20Verb&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 | Soundtoys Decapitator | $199 | Saturation | 5 analog models, harmonic drive, tone shaping | [Get via Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
