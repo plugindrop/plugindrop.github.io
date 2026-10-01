@@ -1,6 +1,6 @@
 ---
 title: "Plugin Price Drops We Actually Recorded — August 2026"
-description: "20 confirmed plugin price drops we recorded via our own daily price tracker in August 2026. Real observed prices, not manufacturer claims."
+description: "Historical record: 20 plugin price drops our daily price tracker recorded in August 2026 (prices as of 2026-07-31, not current). Real observed prices, not manufacturer claims."
 pubDate: "2026-08-01T00:29:06Z"
 tags: ["guide", "prices", "data"]
 affiliate: ""
@@ -9,9 +9,12 @@ score: 5.00
 draft: false
 ---
 
-## 20 Confirmed Price Drops You Can Actually Act On — August 2026
+## 20 Confirmed Price Drops Recorded in August 2026 (Historical Record)
 
-Every entry below comes from our own daily price-tracker checks — not press releases or manufacturer claims. If a plugin isn't listed, we didn't observe a drop for it this month. This isn't a "look how many deals exist" roundup — it's a guide to which of these 20 drops are worth pulling the trigger on right now, and which ones you should let ride until they get even cheaper.
+> **Historical record — prices as of 2026-07-31.** This page documents price drops our tracker recorded in August 2026. These are not current prices and the sales listed here may have ended. Check the [Plugin Price Tracker](/plugin-prices/) for today's price.
+
+
+Every entry below comes from our own daily price-tracker checks — not press releases or manufacturer claims. If a plugin isn't listed, we didn't observe a drop for it in this report. This isn't a "look how many deals exist" roundup — it's a record of which of these 20 drops looked worth pulling the trigger on at the time, and which looked better left to get even cheaper.
 
 We track regular and sale prices across 460 plugins and bundles and log every automated check. This report only includes drops confirmed by that automated check — not typical or historical pricing.
 
@@ -40,9 +43,9 @@ We track regular and sale prices across 460 plugins and bundles and log every au
 | Melody Sauce 3 | $99 | **$79** | -20% |
 | Waves Renaissance Reverb | $39.99 | **$34.99** | -13% |
 
-## Quick Picks: Buy Now vs. Wait
+## Quick Picks (as recorded): Buy vs. Wait
 
-| Plugin | Current Price | Verdict | Why |
+| Plugin | Price Recorded | Verdict (at the time) | Why |
 |--------|---------------|---------|-----|
 | Sonnox Oxford EQ | $67 | **Wait if you can** | All-time low is $47 — this drop is real but not the floor |
 | Waves CLA-2A | $34.99 | **Buy now** | Close to its $21.8 historical low and frequently bundled — but at this depth the gap isn't worth chasing |
@@ -81,7 +84,7 @@ Loop2Kit ($69), Playbeat 4 ($59), and Melody Sauce 3 ($79, or $29 as an upgrade)
 
 All prices above are from our own automated price-tracker checks, not manufacturer-supplied figures. Last confirmed check: 2026-07-31. Full live pricing and history: [Plugin Price Tracker](/plugin-prices/).
 
-## When to Buy
+## When to Buy (How We Read These Drops)
 
 - **Buy now** if the plugin is at or within a few dollars of its recorded all-time low — this month that's Moog Mariana ($39.99), Blackhole ($49), and Eventide UltraChannel ($49). Waiting on these rarely pays off based on historical patterns.
 - **Buy now** if you need the tool for an active session or deadline — a "good" discount today beats a hypothetical "great" discount next quarter if it blocks paid work.
@@ -92,13 +95,13 @@ All prices above are from our own automated price-tracker checks, not manufactur
 ## FAQ
 
 **Are these prices still active?**
-Prices are current as of our last confirmed check on 2026-07-31. Sale pricing can change daily — check the [Plugin Price Tracker](/plugin-prices/) for live status before buying.
+Not necessarily. This is a historical record: the prices are as of our last confirmed check on 2026-07-31, and the sales may have ended. Check the [Plugin Price Tracker](/plugin-prices/) for live status before buying.
 
 **How do you determine "all-time low"?**
 We log every automated price check across 460 tracked plugins and bundles. The all-time low is the lowest price our tracker has observed for that specific product, not a manufacturer-claimed figure.
 
 **Should I buy something even if it's not at its all-time low?**
-If you need it now, yes — a confirmed 30-80% drop is still real savings. If you can wait, use the historical low as your benchmark and hold out for pricing closer to it.
+If you needed it at the time, yes — a confirmed 30-80% drop was real savings. If you can wait, use the historical low as your benchmark and hold out for pricing closer to it.
 
 ---
 

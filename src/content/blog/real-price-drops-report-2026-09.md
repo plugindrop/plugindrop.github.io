@@ -1,6 +1,6 @@
 ---
 title: "Plugin Price Drops We Actually Recorded — September 2026"
-description: "25 confirmed plugin price drops we recorded via our own daily price tracker in September 2026. Real observed prices, not manufacturer claims."
+description: "Historical record: 25 plugin price drops our daily price tracker recorded in September 2026 (prices as of 2026-08-31, not current). Real observed prices, not manufacturer claims."
 pubDate: "2026-09-01T00:29:19Z"
 tags: ["guide", "prices", "data"]
 affiliate: ""
@@ -9,11 +9,14 @@ score: 5.00
 draft: false
 ---
 
-## 25 Confirmed Drops in September 2026 — And What's Actually Worth Buying
+## 25 Confirmed Drops Recorded in September 2026 (Historical Record)
 
-Every entry below comes from our own daily price-tracker checks — not press releases or manufacturer claims. If a plugin isn't listed, we didn't observe a drop for it this month.
+> **Historical record — prices as of 2026-08-31.** This page documents price drops our tracker recorded in September 2026. These are not current prices and the sales listed here may have ended. Check the [Plugin Price Tracker](/plugin-prices/) for today's price.
 
-We track regular and sale prices across 607 plugins and bundles and log every automated check. This report only includes drops confirmed by that automated check — not typical or historical pricing. Below the data, we've broken out which of these are actually worth pulling the trigger on right now, and which are better left for a deeper discount later in the year.
+
+Every entry below comes from our own daily price-tracker checks — not press releases or manufacturer claims. If a plugin isn't listed, we didn't observe a drop for it in this report.
+
+We track regular and sale prices across 607 plugins and bundles and log every automated check. This report only includes drops confirmed by that automated check — not typical or historical pricing. Below the data, we've broken out which of these are actually worth pulling the trigger on at the time, and which looked better left for a deeper discount later in the year.
 
 ## 25 confirmed drops in September 2026
 
@@ -53,7 +56,7 @@ We track regular and sale prices across 607 plugins and bundles and log every au
 - **Continuum** — observed at **$15**, down from $79. Another all-time-low print. At this price point the plugin is essentially an impulse buy for anyone who's curious about spectral/continuum synthesis.
 - **Waves CLA-2A** — observed at **$29.99**, down from $149. Worth noting: our all-time-low on record for this compressor is $21.80, so $29.99 is a strong price but not the rock-bottom one — Waves plugins re-sale on a fairly predictable cycle, so patience can pay off here if you want to hold out for that lower number.
 
-## Buy-now vs. wait: the rest of the list
+## Buy-now vs. wait (as read at the time): the rest of the list
 
 Not every entry above deserves the same urgency. Here's how we'd sort the remaining drops:
 
@@ -71,20 +74,20 @@ Not every entry above deserves the same urgency. Here's how we'd sort the remain
 - **Addictive Drums 2 Custom Collection** ($107.40, -40%) is a solid price for producers already in the AD2 ecosystem, less compelling as a first purchase into that platform.
 
 **Smaller, lower-urgency drops:**
-- **XO** ($89.40, -40%), **DynOne** ($119, -40%), and **smart:EQ 4** ($79, -39%) are useful production tools, but 40% is a fairly common promotional depth for Sonible and XLN Audio — worth buying if you need them today, but don't expect this to be the lowest price of the year.
+- **XO** ($89.40, -40%), **DynOne** ($119, -40%), and **smart:EQ 4** ($79, -39%) are useful production tools, but 40% is a fairly common promotional depth for Sonible and XLN Audio — worth buying if you needed them then, but don't expect this to be the lowest price of the year.
 - **Bloom Vocal Aether** and **Bloom Bass Impulse** (both $39, -34%) are budget-friendly enough that waiting for a better number probably isn't worth the effort.
 
-## When to Buy
+## When to Buy (How We Read These Drops)
 
 - **Buy immediately:** TOTAL VI MAX 2, SSL Native X-Echo, Continuum — all three are at or near recorded all-time lows, and discounts this steep are unlikely to repeat soon.
-- **Buy if you need it now, but check history first:** Waves CLA-2A, Eventide Blackhole, and the Output/H3000/Movement tier — these plugins go on sale often enough that today's price may not be their best.
+- **Buy if you need it now, but check history first:** Waves CLA-2A, Eventide Blackhole, and the Output/H3000/Movement tier — these plugins go on sale often enough that the recorded price may not have been their best.
 - **Wait for a deeper cut:** Anything sitting at the common "40% off" tier (XO, DynOne, smart:EQ 4) — that discount level recurs regularly for these vendors, so unless you need the tool this week, a better price is likely coming.
 - **Evaluate before buying:** Bundle deals like Roland Legends Bundle and Lifeline Bundle — the discount is real, but the value only holds if you'll use the majority of what's included.
 
 ## FAQ
 
 **Are these prices guaranteed to still be live?**
-No — these are snapshots from our automated checks as of the last confirmed date below. Sale windows can end at any time, so verify current pricing before purchasing.
+No — this is a historical record of snapshots from our automated checks as of 2026-08-31. Sale windows can end at any time, so verify current pricing before purchasing.
 
 **How do you know if a price is an "all-time low"?**
 We compare each observed price against our full historical log for that plugin, going back to when we started tracking it. Only prices that beat every previous recorded price are labeled all-time lows.
