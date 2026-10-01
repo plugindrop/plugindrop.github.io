@@ -30,7 +30,7 @@ priceTrack:
 | Waves J37 Tape | $29–$149 | British vintage and Abbey Road character | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Tape/981-Waves-J37-Tape?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
 | Soundtoys Decapitator | $199 | Flexible harmonic saturation | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
 | Chow Tape Model | Free | Best free tape emulation | [Free Download](https://chowdsp.com) |
-| Klanghelm SDRR | $21 | Best-value paid saturation | [Official Site](https://klanghelm.com/contents/products/SDRR) |
+| Klanghelm SDRR | see Klanghelm for price | Best-value paid saturation | [Official Site](https://klanghelm.com/contents/products/SDRR) |
 | Slate Digital VTM | ~$149 (or $14.99/mo bundle) | Drum bus glue and mixbus processing | [Official Site](https://slatedigital.com/virtual-tape-machines/) |
 
 ---
@@ -207,7 +207,7 @@ DAW Cassette is designed specifically for the cassette tape character — bandwi
 
 ---
 
-### Klanghelm SDRR — Maximum saturation flexibility under $25
+### Klanghelm SDRR — Maximum saturation flexibility at a low price
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/j1nNbQAXhYI" title="Klanghelm SDRR — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -275,7 +275,7 @@ There's no purchasing decision to make here, which is why it belongs near the to
 |--------|-------|------|---------------|-----|
 | Chow Tape Model | Free | Tape emulation | Physical modeling, open source, competitive with paid options | [Free Download](https://chowdsp.com) |
 | Klevgrand DAW Cassette | ~$20 | Cassette emulation | Consumer tape aesthetic, iOS/macOS/Windows, affordable | [Official Site](https://klevgrand.com/products/dawcassette/) |
-| Klanghelm SDRR | $21 | Multi-mode saturation | Multiple harmonic profiles | [Official Site](https://klanghelm.com/contents/products/SDRR) |
+| Klanghelm SDRR | see Klanghelm for price | Multi-mode saturation | Multiple harmonic profiles | [Official Site](https://klanghelm.com/contents/products/SDRR) |
 | Softube Tape | $49–$79 | Tape emulation | Transparent, modern-friendly, clean glue | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-Vintage/3689-Softube-Tape?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
 | Waves J37 Tape | $29–$149 | Tape emulation | EMI J37 model, Abbey Road vintage character | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Tape/981-Waves-J37-Tape?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
 | Waves KRAMER MASTER TAPE | $149 list ($34.99 sale on Waves, 2026-10-01) | Tape emulation | Eddie Kramer collab, multiple IPS speeds, rock character | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/13679-Kramer-Master-Tape?a_aid=69cb95abe1763&chan=art&data1=best-tape-saturation-plugins) |
@@ -292,7 +292,7 @@ There's no purchasing decision to make here, which is why it belongs near the to
 - **If you produce lo-fi, bedroom pop, or chillhop**: RC-20 Retro Color is our pick for this genre cluster; its integrated module interaction produces a coherence that separate plugins can't replicate. Buy it whenever you're ready — it doesn't discount meaningfully enough to be worth waiting on.
 - **If you need versatile saturation across multiple source types**: Soundtoys Decapitator handles the widest range of material and use cases of any plugin on this list, with mode-based control that tape-specific emulators don't offer. But check Soundtoys 5 bundle pricing first — you may get it for less as part of the full suite.
 - **If you need the most accurate tape emulation available**: UAD Studer A800 is the reference point — the defensible answer when accuracy to a specific hardware character matters more than cost. Wait for a UA sale; paying $299 list is rarely necessary.
-- **If budget is the primary constraint**: Klanghelm SDRR at $21 is a value-tier saturation plugin that covers tape-style harmonic characteristics without compromising quality.
+- **If budget is the primary constraint**: Klanghelm SDRR is a value-tier saturation plugin that covers tape-style harmonic characteristics without compromising quality.
 
 ---
 
@@ -302,7 +302,7 @@ Not every plugin on this list should be bought the same way. Some are effectivel
 
 ### Buy now, don't wait for a sale
 - **Chow Tape Model** — it's free. There's no sale to wait for.
-- **Klanghelm SDRR ($21)** and **Klevgrand DAW Cassette (~$20)** — both are already priced low enough, and neither developer runs deep or frequent discount cycles. Waiting to save $3–5 isn't worth the delay if you need the tool now.
+- **Klanghelm SDRR ($21)** and **Klevgrand DAW Cassette (~$20)** — both are already priced low enough, and neither developer runs deep or frequent discount cycles. Waiting to save a few dollars isn't worth the delay if you need the tool now.
 - **RC-20 Retro Color ($99)** — XLN Audio's discounts on this plugin rarely exceed 20%, and it's frequently full price. If it's the right tool for your genre, buy it when you need it rather than holding out for a sale that may not materialize.
 - **Soundtoys Decapitator as a standalone** — if you're certain you only want Decapitator and nothing else from Soundtoys, the standalone $199 price barely moves. (But read the next section before committing to standalone.)
 

@@ -22,7 +22,7 @@ draft: false
 | Soundtoys Decapitator | $199 | Analog hardware drive emulation | [Official Site](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-distortion-vst-plugins) |
 | FabFilter Saturn 2 | $149 | Multiband and multimode distortion | [Official Site](https://www.pluginboutique.com/product/2-Effects/30-Distortion/6423-FabFilter-Saturn-2?a_aid=69cb95abe1763&chan=art&data1=best-distortion-vst-plugins) |
 | Waves J37 Tape | varies ($29–49 on sale) | Tape warmth, classic British character | [Official Site](https://www.waves.com/plugins/j37-tape) |
-| Klanghelm SDRR | ~$19 | Best-value analog saturation | [Official Site](https://klanghelm.com/contents/products/SDRR) |
+| Klanghelm SDRR | see Klanghelm for price | Best-value analog saturation | [Official Site](https://klanghelm.com/contents/products/SDRR) |
 | Chow Tape Model | Free | Physically modeled tape saturation | [Free Download](https://chowdsp.com/products.html) |
 | Softube Saturation Knob | Free | Instant harmonic warmth, zero setup | [Free Download](https://www.softube.com/plug-ins/saturation-knob) |
 | iZotope Trash 2 | $49–99 | Extreme creative distortion | izotope.com |
@@ -111,7 +111,7 @@ The J37 models the EMI J37 4-track tape machine used at Abbey Road Studios throu
 - **Platforms:** Windows, macOS, Linux
 - **Formats:** VST, VST3, AU, AAX
 
-SDRR offers four distinct saturation modes — TUBE, TAPE, DIGI, and TRANS — each modeling a different category of analog coloration. The TRANS (transformer) mode is particularly notable: transformer saturation character is rarely available below $50 in any credible form. The developer site confirms full stereo operation with zero-latency processing. At under $20, it is the lowest-priced paid option here.
+SDRR offers four distinct saturation modes — TUBE, TAPE, DIGI, and TRANS — each modeling a different category of analog coloration. The TRANS (transformer) mode is particularly notable: transformer saturation character is rarely available below $50 in any credible form. The developer site confirms full stereo operation with zero-latency processing. It is a paid plugin; see Klanghelm for the current price.
 
 **Purchase decision:** Klanghelm rarely runs deep promotions because the plugin is already priced like a permanent sale item. There's no meaningful "wait for a discount" strategy here — the delta between sale and list price, when it exists, is a few dollars. If you've read this far and don't already own SDRR, buy it now rather than adding it to a wishlist. You can sanity-check current pricing on our When Does Klanghelm SDRR Go On Sale? tracker, but don't expect to save much by waiting.
 
@@ -304,7 +304,7 @@ If you have been working with IVGI, Saturation Knob, Chow Tape Model, or TAL-Sat
 | Soundtoys Decapitator | $199 | Analog hardware emulation | 5 circuit models, Punish knob, tone control | [Get via Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-distortion-vst-plugins) |
 | FabFilter Saturn 2 | $149 | Multiband distortion | 28 styles, 6 bands, modulation matrix | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/30-Distortion/6423-FabFilter-Saturn-2?a_aid=69cb95abe1763&chan=art&data1=best-distortion-vst-plugins) |
 | Waves J37 Tape | varies | Tape machine emulation | EMI J37 model, bias/flutter controls | [Official Site](https://www.pluginboutique.com/search?q=Waves%20J37%20Tape&a_aid=69cb95abe1763&chan=art&data1=best-distortion-vst-plugins) |
-| Klanghelm SDRR | ~$19 | Multi-mode saturation | TUBE/TAPE/DIGI/TRANS, Linux support | [Get It](https://klanghelm.com/contents/products/SDRR) |
+| Klanghelm SDRR | see Klanghelm for price | Multi-mode saturation | TUBE/TAPE/DIGI/TRANS, Linux support | [Get It](https://klanghelm.com/contents/products/SDRR) |
 | iZotope Trash 2 | $49–99 | Extreme multiband distortion | 60+ algorithms, IR convolution, gate | izotope.com |
 | RC-20 Retro Color | ~$99 | Lo-fi texture suite | 6 modules incl. distortion, vinyl, wobble | xlnaudio.com |
 | Soundtoys Devil-Loc Deluxe | ~$99 | Limiting/distortion | Shure Level-Loc model, parallel mix | soundtoys.com |
@@ -321,7 +321,7 @@ If you have been working with IVGI, Saturation Knob, Chow Tape Model, or TAL-Sat
 - **If you want one paid plugin that handles everything** — Soundtoys Decapitator. Its five hardware-modeled styles and Punish knob span subtle warmth through full distortion on any source. Start here, but start at sale price, not list price.
 - **If you are mixing or mastering and need multiband control** — FabFilter Saturn 2. There is no free alternative that applies different distortion types to different frequency bands on the same signal. The multiband capability is the product, and it's worth paying close to full price for.
 - **If you want tape character specifically** — Waves J37 for documented EMI/Abbey Road warmth (wait for one of Waves' frequent flash sales), or Chow Tape Model if you want the free, physics-based alternative with rigorous accuracy.
-- **If your budget is under $25** — Klanghelm SDRR. Four distinct saturation modes, full stereo operation, and transformer saturation at a price that makes the decision trivial. There's no meaningful sale to wait for — just buy it.
+- **If your budget is tight** — Klanghelm SDRR. Four distinct saturation modes, full stereo operation, and transformer saturation at a low price.
 - **If you need aggressive, destructive distortion** — iZotope Trash 2 for electronic music and sound design (check for bundle deals first), or Soundtoys Devil-Loc Deluxe for crushed drums and room processing (bundle it with Decapitator during a Soundtoys sale).
 - **If you want free tools that work in professional contexts right now** — Download Chow Tape Model, Softube Saturation Knob, and IVGI. All three are zero-cost and used in working sessions. There's no purchase decision to make — just install them today.
 
@@ -351,7 +351,7 @@ A: Yes, more than almost any other plugin category. Soundtoys and Waves both run
 Not every plugin in this guide should be purchased the same way. Distortion and saturation plugins split cleanly into three buying patterns, and knowing which one applies to the plugin you want saves real money.
 
 **Buy now, don't wait:**
-- **Klanghelm SDRR (~$19)** and **IVGI (free)** — SDRR is already priced at sale-tier levels, and there's no meaningful discount cycle to wait for. If you've read this far without owning it, the delay is costing you more in workflow limitations than it's saving you in dollars.
+- **Klanghelm SDRR ** and **IVGI (free)** — SDRR is a low-priced plugin, so waiting for a sale saves little. If you've read this far without owning it, the delay is costing you more in workflow limitations than it's saving you in dollars.
 - **Chow Tape Model, Softube Saturation Knob, TAL-Saturator V2 (all free)** — There's nothing to wait for. Download them today.
 - **FabFilter Saturn 2 ($149)** — If you have a confirmed need for multiband distortion, buy now rather than waiting for a discount that historically doesn't exceed 15–20%. The productivity cost of delaying a tool you already know you need outweighs a modest potential saving.
 

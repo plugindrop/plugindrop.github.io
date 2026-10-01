@@ -70,7 +70,7 @@ Verify current pricing on the product page — deals can change. [Check the curr
 | Name | Price | Key Difference |
 |---|---|---|
 | Softube Saturation Knob | Free | Single-knob simplicity, no multi-band or limiting stage |
-| Klanghelm SDRR | ~$20 | Four distinct saturation types, more character variation |
+| Klanghelm SDRR | see Klanghelm for price | Four distinct saturation types, more character variation |
 | Waves Abbey Road Saturator | Check current price | Modeled on specific Abbey Road hardware, different tonal lineage |
 
 If you need a quick saturation option for occasional use, Softube's free Saturation Knob covers the basics. SDRR is worth a look if you want varied saturation types at a lower price point. VintageWarmer2 targets users who want multi-band control and a limiter in a single vintage-voiced processor.

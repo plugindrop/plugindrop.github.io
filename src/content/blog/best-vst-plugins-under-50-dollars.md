@@ -22,7 +22,7 @@ priceTrack:
 | Valhalla Room | $50 | Studio-grade reverb | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-room/) |
 | Valhalla Supermassive | Free | Ambient reverb & delay | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Xfer OTT | Free | Multiband compression | [Plugin Boutique](https://xferrecords.com/freeware) |
-| Klanghelm SDRR | $21 | Saturation & drive | [Plugin Boutique](https://www.pluginboutique.com/search?q=Klanghelm%20SDRR&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
+| Klanghelm SDRR | see Klanghelm for price | Saturation & drive | [Plugin Boutique](https://www.pluginboutique.com/search?q=Klanghelm%20SDRR&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | TDR Nova | Free | Dynamic EQ | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Sitala | $20 (v2.1.2); older v1.0.9 free | Drum sampling | [Decomposer](https://decomposer.de/sitala/) |
 | Surge XT | Free | Full hybrid synthesizer | [Free Download](https://surge-synthesizer.github.io/) |
@@ -216,7 +216,7 @@ Smooth Operator uses spectral processing to automatically balance frequency ener
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
-SDRR covers four distinct saturation and distortion modes — triode, pentode, diode, and transformer — each with its own harmonic character and frequency response. Most dedicated saturation plugins start at $50–$100. At $21, SDRR competes with and often beats all of them. Whether you need subtle tape warmth on a bus or aggressive overdrive on a synth, one plugin covers every scenario.
+SDRR covers four distinct saturation and distortion modes — triode, pentode, diode, and transformer — each with its own harmonic character and frequency response. Most dedicated saturation plugins start at $50–$100. At its low price, SDRR competes with and often beats all of them. Whether you need subtle tape warmth on a bus or aggressive overdrive on a synth, one plugin covers every scenario.
 
 **Best for:** Drums, synth buses, master bus saturation, mixing color and harmonic density.
 
@@ -354,7 +354,7 @@ MFreeFXBundle is the most generous free plugin release in the industry — a lar
 | TDR Limiter 6 GE | ~$60* | Limiter | 6-stage modular mastering chain | [Buy](https://www.pluginboutique.com/product/2-Effects/9-Limiter/4654-TDR-Limiter-6-GE?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | TDR Nova | Free | Dynamic EQ | Parallel dynamic EQ, transparent | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Baby Audio Smooth Operator | $49 | Spectral Processor | Intelligent mix balancing | [Buy](https://www.pluginboutique.com/search?q=Baby%20Audio%20Smooth%20Operator&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
-| Klanghelm SDRR | $21 | Saturation | 4 distinct drive modes | [Buy](https://www.pluginboutique.com/search?q=Klanghelm%20SDRR&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
+| Klanghelm SDRR | see Klanghelm for price | Saturation | 4 distinct drive modes | [Buy](https://www.pluginboutique.com/search?q=Klanghelm%20SDRR&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | Chow Tape Model | Free | Tape Emulation | Physically modeled, open-source | [Get](https://www.pluginboutique.com/product/2-Effects/44-Saturation/7318-CHOW-Tape-Model?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | Surge XT | Free | Synthesizer | Hybrid engine, massive preset library | [Get](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17453-Surge-XT?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | u-he Zebralette | Free | Synthesizer | Spectral oscillator, u-he quality | [Get](https://www.pluginboutique.com/search?q=u-he%20Zebralette&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
@@ -369,7 +369,7 @@ MFreeFXBundle is the most generous free plugin release in the industry — a lar
 
 - **If you can only spend $50 on one plugin, buy Valhalla Room.** Reverb is the most universal mixing tool you'll use, and Room's quality affects literally every mix you make from day one.
 - **If you produce electronic music and haven't installed OTT yet, do it now.** It's free, it's on almost every commercial EDM and trap track made in the last decade, and it changes how your synths sit in a mix within thirty seconds.
-- **If you need saturation and want maximum flexibility for minimum spend, buy Klanghelm SDRR.** Four distinct harmonic modes at $21 is one of the clearest ROI decisions in any plugin collection.
+- **If you need saturation and want maximum flexibility for minimum spend, buy Klanghelm SDRR.** Four distinct harmonic modes at its price is one of the clearest ROI decisions in any plugin collection.
 - **If your mixes feel thin or digital, download Chow Tape Model and Valhalla Supermassive first.** Both are free, and together they add warmth and space that can transform the character of a mix overnight.
 - **If you don't have a synthesizer yet, install Surge XT before spending anything on a paid synth.** Its feature set is competitive with instruments costing $150–$200, and it's completely free.
 
@@ -385,7 +385,7 @@ A: Valhalla Supermassive is the best starting point — it's free, it sounds gen
 **Q: Do these plugins work in all DAWs?**
 A: Most support VST3 (Windows and macOS) and AU (macOS only), with several also supporting AAX for Pro Tools. Surge XT and Chow Tape Model additionally support the CLAP format. Check your DAW's supported formats before downloading — this is most relevant for Pro Tools users who specifically need AAX.
 
-**Q: Is Klanghelm SDRR really worth $21?**
+**Q: Is Klanghelm SDRR really worth the price?**
 A: Without question. Most dedicated saturation plugins start at $50, and many don't offer a quarter of SDRR's mode variety. Its four circuit modes each have a distinct harmonic character and frequency response, meaning it genuinely serves as four different saturation tools in one interface.
 
 **Q: Do Valhalla plugins ever go on sale?**

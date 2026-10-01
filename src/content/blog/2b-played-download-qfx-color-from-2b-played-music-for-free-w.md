@@ -70,7 +70,7 @@ Verify current pricing on the product page — deals can change without notice.
 | Name | Price | Key Difference |
 |---|---|---|
 | Softube Saturation Knob | Free | Classic saturation and drive processing; no color-grading concept |
-| Klanghelm SDRR | ~$19 | Vintage-modeled saturation with multiple circuit character options |
+| Klanghelm SDRR | see Klanghelm for price | Vintage-modeled saturation with multiple circuit character options |
 | FabFilter Saturn 2 | ~$199 | Full multiband saturation with extensive modulation routing |
 
 QFX Color sits in a different lane from traditional saturation plugins — the color-grading framing suggests a more holistic tonal shaping approach rather than pure harmonic drive. If multiband saturation and deep modulation are the priority, Saturn 2 covers significantly more ground, but at a much higher price point.

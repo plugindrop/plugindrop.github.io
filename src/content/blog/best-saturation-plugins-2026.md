@@ -25,7 +25,7 @@ This guide ranks the 12 best saturation plugins 2026 producers are actually buyi
 |--------|-------|----------|--------|
 | FabFilter Saturn 2 | $149 | Multiband saturation, mastering | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/30-Distortion/6423-FabFilter-Saturn-2?a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
 | Soundtoys Decapitator | $199 | Analog amp drive, aggressive color | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
-| Klanghelm SDRR | ~$20 | Budget studio saturation, 4 models | [Plugin Boutique](https://klanghelm.com/contents/products/SDRR) |
+| Klanghelm SDRR | see Klanghelm for price | Budget studio saturation, 4 models | [Plugin Boutique](https://klanghelm.com/contents/products/SDRR) |
 | Saturation Knob | Free | One-knob parallel saturation on any track | [Free Download](https://www.pluginboutique.com/search?q=Free%20Download&a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
 | IVGI | Free | Subtle analog console warmth | [Free Download](https://klanghelm.com/contents/products/IVGI) |
 | RC-20 Retro Color | $99 | Vintage tape aesthetic on synths & samples | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/3016-RC-20-Retro-Color?a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
@@ -145,7 +145,7 @@ Decapitator models five analog preamp and amplifier circuits — labeled A, E, N
 
 ---
 
-### Klanghelm SDRR — The Best ~$20 You'll Spend on Your Mix
+### Klanghelm SDRR — A Low-Cost Saturator Worth Your Mix
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/j1nNbQAXhYI" title="Klanghelm SDRR — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -279,7 +279,7 @@ TDR Prism takes a different approach than hardware emulators — it gives you di
 |--------|-------|----------|--------------|----------------------|
 | FabFilter Saturn 2 | $149 | Multiband saturation, mastering, sound design | Yes (fully functional, 30 days) | [Get It](https://www.pluginboutique.com/product/2-Effects/30-Distortion/6423-FabFilter-Saturn-2?a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
 | Soundtoys Decapitator | $199 | Analog amp drive, drums, aggressive color | Yes (bundle trial) | [Get It](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
-| Klanghelm SDRR | ~$20 | Tube/tape/transistor/digi, budget mixing | No (demo audio watermark) | [Get It](https://klanghelm.com/contents/products/SDRR) |
+| Klanghelm SDRR | see Klanghelm for price | Tube/tape/transistor/digi, budget mixing | No (demo audio watermark) | [Get It](https://klanghelm.com/contents/products/SDRR) |
 | Saturation Knob | Free | Parallel harmonic glue on any channel | N/A (free) | [Get It](https://www.pluginboutique.com/search?q=Free&a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
 | IVGI | Free | Console-style asymmetric saturation | N/A (free) | [Get It](https://klanghelm.com/contents/products/IVGI) |
 | Analog Obsession SATUR8 | Free | Tape emulation, bias-shifted harmonics | N/A (free) | [Get It](https://www.pluginboutique.com/search?q=analog%20obsession%20satur8&a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
@@ -295,7 +295,7 @@ TDR Prism takes a different approach than hardware emulators — it gives you di
 ## How to Choose
 
 - **If you want one plugin that handles every saturation scenario across a full session**, go with FabFilter Saturn 2 — multiband control and 12 distortion modes handle everything from subtle bus glue to aggressive sound design.
-- **If you're on a tight budget and need real character**, Klanghelm SDRR at ~$20 outperforms plugins that cost ten times as much. Pair it with IVGI on your channels for free console warmth underneath.
+- **If you're on a tight budget and need real character**, Klanghelm SDRR is a low-cost option that punches above its price. Pair it with IVGI on your channels for free console warmth underneath.
 - **If you're building a lo-fi or vintage aesthetic**, Caelum Audio Tape Cassette 2 (free) handles authentic degradation as a creative element, and RC-20 Retro Color ($99) adds full multi-module vintage control for more detailed textures.
 - **If you're mixing or recording live instruments and want authentic tape machine behavior**, Waves J37 and Softube Tape both model real hardware accurately enough to justify their price with specificity you can hear.
 - **If you're mastering and need harmonic enhancement without any vibe-chasing**, TDR Prism's clinical even/odd harmonic control is the only tool in this list designed specifically for that use case.
@@ -337,7 +337,7 @@ A: Saturation adds harmonics by pushing a signal into soft clipping — the proc
 A: Yes — and many professional mixing engineers do exactly that. Using a subtle saturation plugin like IVGI or Saturation Knob at low drive settings on every channel before the mix bus creates cohesion that simulates the harmonic interaction of an analog summing environment. The key is restraint: if you can clearly identify the saturation on a single channel soloed, the drive is probably too high.
 
 **Q: Is FabFilter Saturn 2 worth $149 in 2026?**
-A: For producers who mix and master regularly, yes. The per-band distortion modes, real-time modulation system, mean it replaces multiple single-purpose saturation plugins. If you only need occasional saturation on individual tracks, Klanghelm SDRR at ~$20 offers far better value per use case, and FabFilter rarely discounts deeply enough to change that calculation.
+A: For producers who mix and master regularly, yes. The per-band distortion modes, real-time modulation system, mean it replaces multiple single-purpose saturation plugins. If you only need occasional saturation on individual tracks, Klanghelm SDRR offers far better value per use case, and FabFilter rarely discounts deeply enough to change that calculation.
 
 **Q: What saturation plugin works best on drums?**
 A: Soundtoys Decapitator is one option for drums — the N and A circuit modes add aggressive transient color and tape-style compression that makes drum hits feel physical. For subtler parallel saturation on a drum bus, Saturn 2's multiband control keeps the low end tight while adding harmonics in the high mids independently.
