@@ -1,6 +1,6 @@
 ---
-title: "83% Off Elpiano — Vintage Electric Piano Sounds ($25)"
-description: "Elpiano, a virtual electric piano instrument, is currently 83% off at Plugin Boutique. The regular price is $149, which puts the sale price at $25..."
+title: "Klevgrand Elpiano Electric Piano Plugin: Specs and Recorded $25 Sale"
+description: "Klevgrand Elpiano: 10 electric piano models, 5 cabinets, 50 presets and built-in effects. PluginDrop recorded $25 (regular $149) at Plugin Boutique in September 2026."
 pubDate: "2026-09-08T15:07:20Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=Elpiano&a_aid=69cb95abe1763&chan=art&data1=elpiano-510e1c&utm_source=plugindrop&utm_medium=article&utm_campaign=elpiano-510e1c"
@@ -13,68 +13,57 @@ saleExpiry: "2026-10-08"
 saleExpirySource: "fallback"
 draft: false
 ---
-**TL;DR:** Elpiano, a virtual electric piano instrument, is currently 83% off at Plugin Boutique. The regular price is $149, which puts the sale price at $25 after the discount is applied. Grab it through the [Plugin Boutique listing](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14570-Elpiano?a_aid=69cb95abe1763&chan=art&data1=elpiano-510e1c&utm_source=plugindrop&utm_medium=article&utm_campaign=elpiano-510e1c) while the discount is live.
+**Summary:** Elpiano is an electric piano plugin by Klevgrand, sold at Plugin Boutique. PluginDrop recorded it at **$25** (regular ~~$149~~, about 83% off) when this page was published on 2026-09-08. When we viewed the listing on 2026-10-01 it showed no discount marker, so treat the sale as a past observation and check the [current listing](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14570-Elpiano?a_aid=69cb95abe1763&chan=art&data1=elpiano-510e1c&utm_source=plugindrop&utm_medium=article&utm_campaign=elpiano-510e1c).
 
 <div class="audio-embed">
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="83% Off Elpiano — Vintage Electric Piano Sounds ($25) — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2059890184&color=fecf60&hide_related=true&show_comments=false&show_teaser=false&show_user=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="Elpiano audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2059890184&color=fecf60&hide_related=true&show_comments=false&show_teaser=false&show_user=false"></iframe>
 </div>
 
+## What the Plugin Boutique Listing Says It Includes
 
-## What you actually get
+The listing describes Elpiano as an electric piano plugin modeled on the character of vintage electromechanical pianos. Specifics from the product page:
 
-Elpiano is a virtual instrument built around electric piano sounds, listed on Plugin Boutique under the Virtual Instruments category. It's designed to sit in a DAW as a playable sound source rather than as a processing tool.
+- **10 piano models**, ranging (in the vendor's words) from pristine, silky tones to gritty, overdriven textures.
+- **5 cabinet models**, each in mono and stereo configurations.
+- **50 presets.**
+- **Effects:** reverb, room, delay, chorus, phaser, tremolo and vibrato, plus a drive control and a traditional vintage EQ section.
 
-Beyond that, exact format support, patch counts, and system requirements aren't confirmed here — check the product page for details before buying if any of those are dealbreakers for your setup.
+## Formats and System Requirements (from the listing)
 
-## Where it fits in a session
+- macOS 10.10 or later (optimized for M1) or Windows 7 (SP1) or later
+- AU, VST3 or AAX compatible 64-bit host
+- Licensing: the listing explains that you redeem a 16-digit code from your Plugin Boutique account on Klevgrand's site, create or sign in to a Klevgrand account, then download the installer and paste a serial number into the plugin.
 
-Electric piano instruments like this typically show up in a few common spots in a production:
+The listing does not mention a demo version, and we did not find one stated there, so we do not claim one exists.
 
-- Chord and comping layers under vocals or lead instruments, where a warm, mid-focused tone sits well without crowding a mix.
-- Songwriting and demo work, where a familiar electric piano voice helps sketch harmony quickly.
-- Ballad and R&B-style arrangements, where electric piano is a genre staple alongside pads and strings.
-- Layered under a Rhodes-style or acoustic piano patch to add texture or stereo width.
+## Price Facts
 
-Where it lands in your signal chain will depend on the plugin's own mixer and effects, if any are included — again, that's a detail to confirm on the product page.
+| Item | Price |
+|---|---|
+| Regular price (tracked at Plugin Boutique) | $149 |
+| Sale price recorded at publication (2026-09-08) | $25 |
 
-## Pricing and deal details
-
-The regular price for Elpiano is $149. At 83% off, that works out to $25 for the current sale — check the product page for exact current pricing before checkout, since deal windows on Plugin Boutique can shift without notice.
-
-That discount level is steep relative to the $149 list price, so producers weighing whether to add an electric piano instrument to their template have a low-cost entry point right now.
-
-## Skip it if
-
-- You already own an electric piano library you're happy with and don't need a second option in the same sonic lane.
-- You need confirmed plugin format (VST/AU/AAX) or iLok/challenge-response licensing details before purchase and can't find them on the product page.
-- Your template is already CPU- or RAM-constrained and you'd rather not add another sample-based instrument without checking its footprint first.
+The sale end date in our records was an estimate (2026-10-08), not a date confirmed by the vendor. [Check the current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14570-Elpiano?a_aid=69cb95abe1763&chan=art&data1=elpiano-510e1c&utm_source=plugindrop&utm_medium=article&utm_campaign=elpiano-510e1c).
 
 ## FAQ
 
-**Q: What is Elpiano?**
-A: It's a virtual instrument plugin focused on electric piano sounds, sold through Plugin Boutique.
+**Q: Who makes Elpiano?**
+A: Klevgrand, per the Plugin Boutique listing.
 
-**Q: How much is the discount?**
-A: It's listed at 83% off the regular $149 price, putting the sale price at $25.
+**Q: What formats does it support?**
+A: AU, VST3 and AAX, on 64-bit hosts.
 
-**Q: What plugin formats and system requirements does it support?**
-A: Check the official product page for exact format and system requirement details.
+**Q: How do I activate it if I buy through Plugin Boutique?**
+A: Redeem the code from your Plugin Boutique account at klevgrand.com/redeem, sign in to a Klevgrand account, and copy the serial number into the plugin (steps are on the listing).
 
-**Q: Is there a trial version?**
-A: Trial availability isn't confirmed here — check the product page for details.
-
-## Should you buy now?
-
-At 83% off a $149 regular price, Elpiano's current sale price of $25 is a low-cost way to add an electric piano option to a template. If you're in the market for one and the price point works for you, this is a reasonable time to buy through [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14570-Elpiano?a_aid=69cb95abe1763&chan=art&data1=elpiano-510e1c&utm_source=plugindrop&utm_medium=article&utm_campaign=elpiano-510e1c).
-
-*Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
+**Q: Is the $25 price still available?**
+A: It was the price we recorded on 2026-09-08. The listing showed no discount on 2026-10-01; check the live page.
 
 ## Related Guides
 
 - [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-vst-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
 - [Best Free Piano VST Plugins in 2026](/posts/best-free-piano-vst/)
-
 
 ---
 

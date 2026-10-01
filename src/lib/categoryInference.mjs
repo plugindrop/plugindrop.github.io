@@ -11,7 +11,7 @@ export function inferCategory(name, notes, pbUrl, isBundleSection) {
     [/tape|saturat/, 'Saturation'], [/master|ozone/, 'Mastering'],
     [/\blimit(?:er)?\b/, 'Limiter'], [/drum/, 'Drums'],
     [/tune|vocal|melodyne/, 'Vocal'], [/bundle|collection/, 'Bundle'],
-    [/instrument|orchestral|piano|guitar|\borgan\b|strings|choir|brass/, 'Instrument'],
+    [/instrument(?![\s-]+amp)|orchestral|piano|guitar|\borgan\b|strings|choir|brass/, 'Instrument'],
     [/utility|\bmeter\b|analy[sz]|loudness/, 'Utility'],
   ];
   return rules.find(([pattern]) => pattern.test(haystack))?.[1] ?? (isBundleSection ? 'Bundle' : 'Effects');

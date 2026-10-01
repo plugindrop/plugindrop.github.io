@@ -1,10 +1,10 @@
 ---
-title: "When Does the Ampex ATR-102 (Plugin Alliance) Go On Sale? (Updated 2026)"
+title: "When Does the UAD Ampex ATR-102 Go On Sale at Plugin Boutique? (Updated 2026)"
 description: "Our Plugin Boutique checks recorded 2 sale periods for UAD Ampex ATR 102 Mastering Tape Recorder between 2026-07-17 and 2026-09-25; the lowest observed sale price was $39."
 pubDate: "2026-06-29"
 evergreen: true
 tags:
-  - "plugin-alliance"
+  - "universal-audio"
   - "ampex"
   - "tape"
   - "saturation"
@@ -19,6 +19,8 @@ updatedDate: "2026-09-28"
 ---
 
 ## Short answer
+
+This page tracks the Universal Audio (UAD) Ampex ATR-102 Mastering Tape Recorder as listed at Plugin Boutique; the data below are Plugin Boutique observations only, not Plugin Alliance prices.
 
 Our Plugin Boutique checks recorded 2 sale periods for UAD Ampex ATR 102 Mastering Tape Recorder between 2026-07-17 and 2026-09-25; the lowest observed sale price was $39.
 

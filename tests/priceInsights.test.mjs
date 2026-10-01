@@ -15,11 +15,20 @@ test('comparison price has no typical sale or wait verdict without a tracked sal
   assert.equal(result.sale, null);
   assert.equal(result.salesRecorded, 0);
   assert.notEqual(result.verdict.label, 'Wait for a sale');
-  assert.equal(result.verdict.label, 'Rarely discounts');
+  assert.equal(result.verdict.label, 'Not enough price history yet');
   const noHistorySale = comparisonPriceFacts({ typical_regular: 199, typical_sale: 134, all_time_low: 134,
     history: [{ date: '2026-09-02', regular: 199, sale: null, source: 'auto_check' }] });
   assert.equal(noHistorySale.sale, null);
   assert.notEqual(noHistorySale.verdict.label, 'Wait for a sale');
+});
+
+test('Rarely discounts needs a real observation history', () => {
+  const rows = (dates) => dates.map((date) => ({ date, regular: 199, sale: null, source: 'auto_check' }));
+  const short = comparisonPriceFacts({ typical_regular: 199, typical_sale: null, all_time_low: null, history: rows(['2026-09-23', '2026-09-29']) });
+  assert.equal(short.verdict.label, 'Not enough price history yet');
+  const long = comparisonPriceFacts({ typical_regular: 199, typical_sale: null, all_time_low: null,
+    history: rows(['2026-07-01', '2026-07-15', '2026-08-01', '2026-08-20', '2026-09-10']) });
+  assert.equal(long.verdict.label, 'Rarely discounts');
 });
 
 test('comparison price uses first confirmed tracked sale and tracked low', () => {

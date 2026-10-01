@@ -222,6 +222,19 @@ export function summarizeVerdict(name, f) {
 }
 export const alertTarget = (f) => f.sales.length ? lowOf(f.sales) : null;
 
+// A "Rarely discounts" verdict is a claim about discount frequency. It needs a
+// real observation history; a handful of days of checks cannot support it.
+export const MIN_CHECKS_FOR_DISCOUNT_FREQUENCY = 4;
+export const MIN_DAYS_FOR_DISCOUNT_FREQUENCY = 28;
+const NOT_ENOUGH_HISTORY = { label: 'Not enough price history yet', cls: 'ds-unknown' };
+
+export function guardDiscountFrequency(verdict, checks) {
+  if (verdict?.label !== 'Rarely discounts') return verdict;
+  const dates = [...new Set((checks ?? []).map((row) => row.date))].sort();
+  const span = dates.length > 1 ? days(dates[0], dates.at(-1)) : 0;
+  return dates.length >= MIN_CHECKS_FOR_DISCOUNT_FREQUENCY && span >= MIN_DAYS_FOR_DISCOUNT_FREQUENCY ? verdict : NOT_ENOUGH_HISTORY;
+}
+
 export function comparisonPriceFacts(entry) {
   if (!entry) return null;
   const facts = buildPageFacts(entry);
@@ -233,7 +246,7 @@ export function comparisonPriceFacts(entry) {
   const allTimeLow = facts.sales.length ? Math.min(...facts.sales.map((episode) => episode.low)) : null;
   return {
     regular, sale, today, salesRecorded: facts.sales.length,
-    verdict: dealScore(today, regular, sale, allTimeLow),
+    verdict: guardDiscountFrequency(dealScore(today, regular, sale, allTimeLow), facts.checks),
     hasPrice: [regular, sale, today].some((value) => value !== null),
   };
 }
