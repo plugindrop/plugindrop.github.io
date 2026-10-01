@@ -72,7 +72,7 @@ Tube-Tech CL 1B, one of Softube's priciest standalone plugins at $399, is docume
 
 ### Sonnox Oxford Inflator — the deepest discount in our entire dataset
 
-Inflator lists at $185, with a typical Summer Sale price of $29 (about 85% off). One documented deal-roundup event pushed it to $16 — over 90% off — during a limited "every Sonnox plugin on sale" promotion through July 2025. Community reporting describes Sonnox as normally staying out of major sales, which makes this pattern more notable, not less: when Sonnox does discount, it discounts harder than almost anything else we track.
+Inflator lists at $185, with a typical Summer Sale price of $29 (about 85% off). One documented deal-roundup event pushed it to $16 — over 90% off — during a limited "every Sonnox plugin on sale" promotion through July 2025. When Sonnox does discount, it discounts harder than almost anything else we track.
 
 ---
 

@@ -135,7 +135,7 @@ ProjectSAM, known for the Symphobia series, has made available a Free Orchestra 
 - **Use case:** Warmer, vintage-flavored strings and full-orchestra writing in classical or European styles
 - **Limitation:** CE tier is a subset of the full library; requires registration through IK's product manager
 
-Miroslav Philharmonik is IK Multimedia's orchestral library built on recordings by Czech bassist and composer Miroslav Vitous. The Community Edition provides a selection of the full library's instruments at no cost — strings, brass, woodwinds, and choir. It is built on older recordings than the Spitfire libraries listed here. It requires registration and download through IK's product manager but carries no paid component in the CE tier. For producers building a strings palette with genuine tonal variety, having Miroslav's warmth alongside the BBC SO's clarity is a meaningful advantage.
+Miroslav Philharmonik is IK Multimedia's orchestral library built on recordings by Czech bassist and composer Miroslav Vitous. The Community Edition provides a selection of the full library's instruments at no cost — strings, brass, woodwinds, and choir. It is built on older recordings than the Spitfire libraries listed here. It requires registration and download through IK's product manager but carries no paid component in the CE tier. For producers building a strings palette with genuine tonal variety, it adds a different tonal character alongside the BBC SO.
 
 **Best for:** Producers who want a warmer, more vintage orchestral palette; composers working in classical or European-inflected styles.
 

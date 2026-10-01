@@ -11,13 +11,13 @@ draft: false
 
 ## What Are Safari Audio, Soundtoys, and EastWest?
 
-Three very different developers, one common thread: each has built a reputation for tools producers actually use on real sessions — not just demo-reel gimmicks.
+Three very different developers, one common thread: each makes tools for producers working on real sessions.
 
 **Safari Audio** is a boutique plugin developer focused on tactile, character-driven processing. Their catalog is small and purpose-built rather than a sprawling suite, which makes it easy to decide if a specific tool solves a specific problem you have.
 
 **Soundtoys** is one of the most recognized names in creative effects. Based in Vermont, they've spent decades building analog-modeled processors — EchoBoy, Decapitator, Little AlterBoy, and the Soundtoys 5 bundle are fixtures in professional mix chains and home studios alike.
 
-**EastWest** is a leading developer of virtual instruments and sample libraries. Their Hollywood series and Composer Cloud subscription are go-to resources for composers and producers who need orchestral, cinematic, or genre-specific sounds without booking a studio.
+**EastWest** is a leading developer of virtual instruments and sample libraries. Their Hollywood series and Composer Cloud subscription are aimed at composers and producers who need orchestral, cinematic, or genre-specific sounds without booking a studio.
 
 If you're trying to decide whether to buy today or wait, the short version: Soundtoys and EastWest both run frequent, predictable sales, so timing matters. Safari Audio's boutique pricing tends to move less, so waiting buys you less leverage there.
 
@@ -35,7 +35,7 @@ If you're trying to decide whether to buy today or wait, the short version: Soun
 - **Analog modeling** — circuits sourced from vintage hardware references
 - **Creative modulation** — LFOs, rhythmic patterns, and envelope followers built into core effects
 - **Broad format support** — AU, VST, VST3, and AAX across Mac and Windows
-- **EchoBoy & Decapitator** — two of the most widely cited effects in mixing forums, routinely recommended for saturation and delay work
+- **EchoBoy & Decapitator** — Soundtoys' delay and saturation plugins
 - Soundtoys 5 (the full bundle) typically lists around $499, with individual effects like EchoBoy and Decapitator around $199 each at full price — but this bundle rarely sells at list
 
 ### EastWest
@@ -47,11 +47,11 @@ If you're trying to decide whether to buy today or wait, the short version: Soun
 
 ---
 
-## What Producers Are Saying
+## Product Notes
 
-Soundtoys has a long-standing reputation on mixing forums and communities like Gearspace and Reddit's r/mixingmastering. EchoBoy is regularly cited as a top delay recommendation for its warmth and musicality. Decapitator consistently appears in saturation discussions as a character-first choice for adding grit without sounding digital — many mixers keep it on their master bus or a parallel drum group as a default.
+EchoBoy is Soundtoys' delay plugin and Decapitator is its saturation plugin; see the Soundtoys product pages for details.
 
-EastWest's Hollywood series is a common recommendation in r/composer threads for cinematic mockups, particularly for its mic-position options and recording quality. Composer Cloud is frequently cited as the lower-risk entry point for composers who aren't ready to commit to a perpetual license.
+EastWest's Hollywood series offers mic-position options for cinematic mockups. Composer Cloud is a subscription alternative to a perpetual license.
 
 ---
 
@@ -81,7 +81,7 @@ Deals change without notice — confirm current pricing before checkout. [Check 
 | Name | Price | Key Difference |
 |------|-------|----------------|
 | FabFilter Saturn 2 | ~$179 (rarely discounted) | Multiband saturation with surgical frequency control |
-| Valhalla DSP (various) | ~$50 each, frequent sales down to ~$40 | Algorithmic reverbs with strong community reputation for value |
+| Valhalla DSP (various) | ~$50 each, frequent sales down to ~$40 | Algorithmic reverbs |
 | Spitfire Audio LABS | Free | Free orchestral and instrument samples, narrower scope than EastWest |
 
 If you need deep orchestral articulation and studio-recorded realism, EastWest covers more ground than LABS. If saturation and creative effects are the priority, Soundtoys and FabFilter Saturn serve different flavors of the same need — Saturn leans surgical, Soundtoys leans characterful.

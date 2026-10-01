@@ -67,7 +67,7 @@ If you already own a recent Komplete version, price out the upgrade path first �
 
 ## What Producers Are Saying
 
-Komplete has been a go-to bundle recommendation on production forums and communities like r/WeAreTheMusicMakers and KVR Audio for years. It's frequently cited as one of the most cost-effective ways to build a full plugin library from scratch, with Kontakt alone regularly described as an industry-standard sampler in professional studio workflows. The addition of iZotope tools to the bundle in recent versions has been a notable talking point — producers often highlight that getting Ozone and Neutron alongside NI's core instruments adds significant value to the overall package, especially compared to buying those iZotope tools standalone (Ozone 12 Advanced alone typically runs $199–$399 depending on the sale).
+Komplete bundles NI's instruments and effects, and recent versions add iZotope tools such as Ozone and Neutron. That can lower the cost compared with buying those iZotope tools standalone (Ozone 12 Advanced alone typically runs $199–$399 depending on the sale).
 
 ---
 

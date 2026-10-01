@@ -40,7 +40,7 @@ What's changed is the competition. In 2016, there was no serious free alternativ
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-### Serum — The benchmark wavetable synth that's earned its reputation
+### Serum — Wavetable synth with a full wavetable editor
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/BOI0KO629TI" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -74,7 +74,7 @@ Vital's existence is the primary reason the "is Serum worth it?" debate exists a
 
 Vital's free tier is genuinely generous. You get three oscillators with wavetable scanning and spectral morphing, a deep modulation matrix, a visual interface clearly inspired by Serum's design philosophy, and enough built-in effects to produce finished, release-quality sounds. The spectral morphing feature — which lets you blend between wavetables in the frequency domain — is an area where Vital actually pushes beyond Serum's stock capabilities.
 
-Where Vital lags behind is the preset ecosystem and, crucially, the wavetable editor. Serum's wavetable editor is deep, mature, and central to professional workflows. Vital's editor is more limited, and the community preset library, while growing, hasn't had ten years to mature. If you're loading presets and tweaking, Vital is outstanding. If you're drawing wavetables from scratch, Serum wins clearly.
+Where Vital lags behind is the preset ecosystem and the wavetable editor. Serum's wavetable editor is more fully featured, while Vital's editor is more limited and its preset library is smaller. If you're loading presets and tweaking, Vital is outstanding. If you're drawing wavetables from scratch, Serum wins clearly.
 
 **Best for:** Producers learning wavetable synthesis, those on a tight budget, Linux users, and anyone who wants to audition a Serum-adjacent workflow before committing.
 
@@ -136,7 +136,7 @@ Where Vital lags behind is the preset ecosystem and, crucially, the wavetable ed
 A: Yes. Serum's wavetable editor, modulation routing, and preset ecosystem remain industry-standard. The workflow has been refined over a decade, tutorial resources are enormous, and collaborative compatibility with other producers favors Serum heavily. It's not the only option, but it's still the default for a reason.
 
 **Q: Can Vital replace Serum?**
-A: For many use cases, yes — especially for producers who primarily load and modify presets rather than build wavetables from scratch. Vital's free tier covers the majority of wavetable synthesis workflows. Where Vital falls short is the wavetable editor depth, preset library size, and the soft advantage Serum has in community resources and tutorial compatibility.
+A: For many use cases, yes — especially for producers who primarily load and modify presets rather than build wavetables from scratch. Vital's free tier covers the majority of wavetable synthesis workflows. Where Vital falls short is wavetable editor depth and preset library size.
 
 **Q: Is there a Serum subscription instead of buying outright?**
 A: Xfer Records has historically offered Serum through Splice's rent-to-own model, which lets you access the plugin for a monthly fee and apply payments toward ownership. Check the Xfer Records site and Splice directly for current terms, as these arrangements can change.

@@ -131,7 +131,7 @@ Blue Cat's Triple EQ is a 3-band semi-parametric equalizer built for speed. You 
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3
 
-ReaEQ ships with Reaper and is also available as a standalone free VST download through Cockos' ReaPlugs package — no DAW purchase required. It supports an unlimited number of EQ bands, covers every standard filter type, and delivers clean, transparent processing. The interface is functional rather than flashy, but what it does with unlimited bands and precise control makes it a go-to for complex surgical work where other EQs run out of road.
+ReaEQ ships with Reaper and is also available as a standalone free VST download through Cockos' ReaPlugs package — no DAW purchase required. It supports an unlimited number of EQ bands, covers every standard filter type, and delivers clean, transparent processing. The interface is functional rather than flashy, but its unlimited bands and precise control suit complex surgical work.
 
 **Best for:** Sound designers and engineers who need unlimited band count and granular control for complex corrective work.
 

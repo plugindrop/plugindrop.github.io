@@ -103,7 +103,7 @@ The interface demands more initial investment than OTT or TDR Nova, which reflec
 - **Platforms:** Windows, macOS
 - **Formats:** VST, AU, AAX
 
-Waves C6 is a six-band multiband compressor with a reputation rooted in broadcast and mastering applications, where clean, predictable compression behavior is non-negotiable. The Lite version, available through a free Waves account, retains core multiband compression functionality with both wideband and multiband modes across six bands. Waves' own documentation positions it across music production, post-production, and mastering use cases.
+Waves C6 is a six-band multiband compressor. The Lite version, available through a free Waves account, retains core multiband compression functionality with both wideband and multiband modes across six bands. Waves' own documentation positions it across music production, post-production, and mastering use cases.
 
 Account registration and Waves' license management software are required. For producers already operating within the Waves ecosystem, C6 Lite is a cost-free addition that extends their toolkit with a tool that has a credible commercial track record in professional contexts.
 

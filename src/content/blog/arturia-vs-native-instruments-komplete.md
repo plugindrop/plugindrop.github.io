@@ -54,7 +54,7 @@ Before the head-to-head, the scope of each bundle needs to be clear, because the
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX, standalone
 
-V Collection 11 contains 40+ instruments, almost all emulations of iconic vintage hardware — Minimoog, Sequential Prophet-5, Roland Jupiter-8, Yamaha CS-80, Oberheim Matrix-12, ARP 2600, Yamaha DX7, Casio CZ-101, Hammond B-3, Rhodes Stage 73, Wurlitzer, Mellotron, and more. The modern additions include Pigments, Arturia's own wavetable/granular hybrid synth. Every instrument is built around Arturia's TAE® (True Analog Emulation) modeling technology and is generally considered one of the most accurate software representations of each hardware source. CPU load is light compared to equivalent sample-based recreations.
+V Collection 11 contains 40+ instruments, almost all emulations of iconic vintage hardware — Minimoog, Sequential Prophet-5, Roland Jupiter-8, Yamaha CS-80, Oberheim Matrix-12, ARP 2600, Yamaha DX7, Casio CZ-101, Hammond B-3, Rhodes Stage 73, Wurlitzer, Mellotron, and more. The modern additions include Pigments, Arturia's own wavetable/granular hybrid synth. Every instrument is built around Arturia's TAE® (True Analog Emulation) modeling technology. CPU load is light compared to equivalent sample-based recreations.
 
 **Best for:** Producers whose sound palette leans on classic keyboards, vintage synths, and authentic organ/electric piano textures.
 

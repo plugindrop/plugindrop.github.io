@@ -94,7 +94,7 @@ LMMS is the most capable free cross-platform DAW specifically for beat-based pro
 
 The interface feels dated compared to modern DAWs, and audio time-stretching is absent — limitations that matter for recording-focused workflows. For electronic music and beat-making, however, LMMS covers more ground than any other free DAW on all three platforms.
 
-**Pros:** Fully open source, cross-platform, FL Studio-style pattern workflow, built-in ZynAddSubFX synth, large community
+**Pros:** Fully open source, cross-platform, FL Studio-style pattern workflow, built-in ZynAddSubFX synth
 **Cons:** Older UI, no audio time-stretching, limited for live audio recording workflows
 **Skip it if:** you record vocals or live instruments — LMMS has no audio time-stretching and a weak tracking workflow. It's a programming DAW, not a recording DAW, and singers outgrow it within weeks.
 
@@ -160,7 +160,7 @@ REAPER occupies a unique position: the free trial has no time limit and no funct
 
 **Concrete use case:** A composer scoring to picture can host hundreds of tracks on a modest laptop thanks to REAPER's tiny CPU/RAM footprint, then write a custom Lua script to batch-render stems — power that costs far more in mainstream DAWs.
 
-The feature set is extraordinary: unlimited tracks, real-time pitch and time manipulation, comprehensive MIDI editing, item-based editing model that handles audio more flexibly than track-based DAWs, and a scripting engine (Lua/EEL2) that lets users automate nearly any workflow. The interface is not beginner-friendly — customization is powerful but requires learning — but for professional use, REAPER is the most capable low-cost DAW available.
+The feature set includes unlimited tracks, real-time pitch and time manipulation, comprehensive MIDI editing, item-based editing model that handles audio more flexibly than track-based DAWs, and a scripting engine (Lua/EEL2) that lets users automate nearly any workflow. The interface is not beginner-friendly — customization is powerful but requires learning — but for professional use, REAPER is a full-featured low-cost DAW.
 
 **Pros:** Unlimited-feature free trial, extremely low resource usage, extensive customization, professional-grade on every platform, $60 perpetual license
 **Cons:** Interface requires learning, not truly free long-term, no built-in sound library
@@ -206,11 +206,11 @@ SoundBridge is a newer entry in the free DAW market with a deliberately clean, m
 
 **Concrete use case:** A producer starting from scratch can sketch a beat with the bundled instruments, drop in a free VST synth, and record a scratch vocal in a single uncluttered window — an easier on-ramp than Cakewalk's dense mixer.
 
-The trade-off is a smaller community and fewer third-party tutorials. For producers willing to explore independently, it is a genuinely capable free tool for composition and production.
+The trade-off is a newer product with a less established track record. For producers willing to explore independently, it is a capable free tool for composition and production.
 
 **Pros:** Modern UI, VST/AU support, clean workflow, actively developed
-**Cons:** Smaller community, fewer tutorials, less established track record
-**Skip it if:** you learn from tutorials — SoundBridge's community is small, and when you hit a problem there are far fewer forum answers than for Cakewalk or REAPER. No Linux build either.
+**Cons:** Newer, less established track record
+**Skip it if:** you rely on third-party tutorials — SoundBridge is a newer product with less established documentation than Cakewalk or REAPER. No Linux build either.
 
 ---
 

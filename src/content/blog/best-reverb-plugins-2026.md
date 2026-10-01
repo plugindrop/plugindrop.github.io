@@ -137,7 +137,7 @@ The Space knob and Decay knob interact in a way that feels genuinely intuitive, 
 
 ---
 
-### Eventide Blackhole — The go-to for cinematic and experimental spaces
+### Eventide Blackhole — Reverb for cinematic and experimental spaces
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/NLhGP4hgjiE" title="Eventide Blackhole — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -145,7 +145,7 @@ The Space knob and Decay knob interact in a way that feels genuinely intuitive, 
 - **Price:** ~$99
 - **Platforms:** Windows, macOS
 - **Formats:** VST2, VST3, AU, AAX
-- **Why upgrade:** Blackhole is based on Eventide's legendary hardware reverb algorithm, known for creating reverb spaces that are physically impossible in real life — negative room sizes, gravity controls, and tails that evolve with musical intelligence. Free reverbs create realistic or aesthetically warm spaces. Blackhole creates alien ones.
+- **Why upgrade:** Blackhole is based on Eventide's hardware reverb algorithm and offers parameters such as negative room sizes and gravity controls. Free reverbs create realistic or aesthetically warm spaces. Blackhole creates alien ones.
 
 If your work leans into cinematic tension, ambient music, or sound design that needs unusual spaces, its negative room sizes and gravity controls are aimed at exactly that.
 

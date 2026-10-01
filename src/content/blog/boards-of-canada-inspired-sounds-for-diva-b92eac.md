@@ -1,16 +1,16 @@
 ---
 title: "Boards of Canada inspired sounds for Diva"
-description: "The CMYK preset pack for u-he Diva brought Boards of Canada-style analog warmth to one of the most revered soft synths available — but the developer (Like..."
+description: "The CMYK preset pack for u-he Diva brought Boards of Canada-style analog warmth to a soft synth — but the developer (Like..."
 pubDate: "2026-05-03T20:19:08Z"
 tags: ["synth", "music-production"]
 affiliate: "https://youtu.be/T0Crlzlb1H8"
 heroImage: "/images/boards-of-canada-inspired-sounds-for-diva-b92eac.jpg"
 score: 7.20
-xText: "boards of canada in preset form. diva nailed the warm nostalgic textures everyone's been chasing. these hit."
+xText: "cmyk preset pack for u-he diva, boards of canada-style sounds. promo video inside."
 draft: false
 ---
 
-**TL;DR:** The CMYK preset pack for u-he Diva brought Boards of Canada-style analog warmth to one of the most revered soft synths available — but the developer (Like No Orange) appears to have gone offline, and CMYK's current purchase status is unconfirmed. The good news: if you own Diva (or are thinking about buying it), there are several verified, currently-purchasable routes to that same nostalgic, tape-warped sound today. Before you go hunting for CMYK, [watch the official promo video](https://youtu.be/T0Crlzlb1H8) to hear exactly what these patches sound like, then read on for what to actually buy right now.
+**TL;DR:** The CMYK preset pack for u-he Diva brought Boards of Canada-style analog warmth to a soft synth — but the developer (Like No Orange) appears to have gone offline, and CMYK's current purchase status is unconfirmed. The good news: if you own Diva (or are thinking about buying it), there are several verified, currently-purchasable routes to that same nostalgic, tape-warped sound today. Before you go hunting for CMYK, [watch the official promo video](https://youtu.be/T0Crlzlb1H8) to hear exactly what these patches sound like, then read on for what to actually buy right now.
 
 ---
 
@@ -33,7 +33,7 @@ The catch: the Like No Orange website is currently offline, and the pack's activ
 - **BOC-Inspired Sound Design** — patches are built around the warm, slightly-off-center analog character central to the Boards of Canada aesthetic
 - **u-he Diva Compatibility** — designed specifically for Diva, which means full access to Diva's circuit-accurate oscillator and filter models
 - **Ambient and IDM Focus** — the patch set skews toward slow-moving textures, melodic leads, and pads suited for downtempo and experimental production
-- **Analog Character** — leverages Diva's reputation for pitch drift, subtle saturation, and filter warmth to produce sounds that feel organic rather than clinical
+- **Analog Character** — uses Diva's pitch drift, subtle saturation, and filter modeling
 
 ## Who Is It For?
 
@@ -108,7 +108,7 @@ A: Start with Diva's factory bank plus KVR Marketplace ambient packs — both ar
 
 ## Get the Deal
 
-CMYK offered a rare focused take on BOC-style synthesis inside one of the most analog-accurate soft synths ever made. Watch the [promo video here](https://youtu.be/T0Crlzlb1H8) and verify current availability directly — this niche gem is worth tracking down. In the meantime, [u-he Diva](https://www.pluginboutique.com/search?q=u-he%20diva&a_aid=69cb95abe1763&chan=art&data1=boards-of-canada-inspired-sounds-for-diva-b92eac) plus a KVR Marketplace ambient pack is the most reliable way to get playing today.
+CMYK offered a rare focused take on BOC-style synthesis inside u-he Diva. Watch the [promo video here](https://youtu.be/T0Crlzlb1H8) and verify current availability directly — it is worth tracking down if it resurfaces. In the meantime, [u-he Diva](https://www.pluginboutique.com/search?q=u-he%20diva&a_aid=69cb95abe1763&chan=art&data1=boards-of-canada-inspired-sounds-for-diva-b92eac) plus a KVR Marketplace ambient pack is the most reliable way to get playing today.
 
 ## Related Guides
 

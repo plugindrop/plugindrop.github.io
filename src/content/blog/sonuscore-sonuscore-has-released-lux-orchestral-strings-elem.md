@@ -31,11 +31,9 @@ This is a sampled orchestral strings library designed for composers, producers, 
 
 ---
 
-## What Producers Are Saying
+## Where to Check Impressions
 
-LUX Orchestral Strings Elements is a recent release and community discussion is still building. Early activity has appeared on Reddit's [r/freeaudioplugins](https://www.reddit.com/r/freeaudioplugins/) where free Kontakt libraries from established developers tend to generate quick positive attention.
-
-Sonuscore as a brand is generally well-regarded in orchestral production circles, with their paid titles discussed favorably on KVR Audio forums. A free Elements release from a trusted developer typically lands well — check [KVR](https://www.kvraudio.com/) and [r/freeaudioplugins](https://www.reddit.com/r/freeaudioplugins/) for growing impressions.
+LUX Orchestral Strings Elements is a recent release. Check [KVR](https://www.kvraudio.com/) and Reddit's [r/freeaudioplugins](https://www.reddit.com/r/freeaudioplugins/) for user impressions.
 
 ---
 
@@ -68,7 +66,7 @@ Verify current availability on the product page before downloading: [Sonuscore L
 | BBCSO Discover | Free | Full orchestral template from Spitfire; larger download, more sections |
 | Sonuscore LUX Orchestral Strings (full) | Check site | Full paid version with expanded articulations and deeper sample content |
 
-LABS and BBCSO Discover are the go-to free alternatives for orchestral strings. LUX Orchestral Strings Elements is worth adding alongside them — different developers record differently, and having multiple timbres available gives you more flexibility when scoring.
+LABS and BBCSO Discover are free alternatives for orchestral strings. LUX Orchestral Strings Elements is worth adding alongside them — different developers record differently, and having multiple timbres available gives you more flexibility when scoring.
 
 ---
 

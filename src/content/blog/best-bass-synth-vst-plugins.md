@@ -77,7 +77,7 @@ Because the free tier includes the full synthesis engine, it is enough to start 
 
 ---
 
-### TAL-Bassline-101 — The free acid and analog bass staple
+### TAL-Bassline-101 — Free Roland SH-101-style bass synth
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/L0IAqYNQQC8" title="TAL-Bassline-101 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -86,7 +86,7 @@ Because the free tier includes the full synthesis engine, it is enough to start 
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
-TAL-Bassline-101 is TAL Software's emulation of the Roland SH-101 architecture, designed specifically for bassline and mono lead work. Its narrow feature set — one oscillator, one filter, one envelope — is the point. That stripped-back signal path is responsible for the nasal, resonant character that defined acid house and techno basslines for decades. It is a free option for producers who need that specific filter sweep without navigating a complex interface.
+TAL-Bassline-101 is TAL Software's emulation of the Roland SH-101 architecture, designed specifically for bassline and mono lead work. Its narrow feature set — one oscillator, one filter, one envelope — is the point. That stripped-back signal path is responsible for the nasal, resonant character associated with acid house and techno basslines. It is a free option for producers who need that specific filter sweep without navigating a complex interface.
 
 It handles acid bass and vintage analog-style mono lines convincingly. It is not a general-purpose synthesizer and does not try to be. That specificity is its value.
 
@@ -105,7 +105,7 @@ It handles acid bass and vintage analog-style mono lines convincingly. It is not
 - **Platforms:** Windows, macOS, Linux
 - **Formats:** VST, VST3, AU
 
-Dexed is a freeware emulation of the Yamaha DX7 FM synthesizer, built on the open-source MSFA engine. DX7 bass patches — particularly the classic electric bass voicings — are woven into pop, soul, and electronic production from the mid-1980s onward and remain sought-after for their punchy attack and distinctive lack of analog warmth (which, in context, becomes a feature). Developer documentation confirms DX7 sysex patch compatibility, meaning thousands of community-created patches load directly without conversion.
+Dexed is a freeware emulation of the Yamaha DX7 FM synthesizer, built on the open-source MSFA engine. DX7 bass patches — particularly the electric bass voicings — date from the mid-1980s and have a punchy attack and a digital rather than analog tone. Developer documentation confirms DX7 sysex patch compatibility, meaning thousands of community-created patches load directly without conversion.
 
 FM bass programming from scratch has a steep learning curve, but with an imported DX7 patch bank, Dexed delivers that characteristic click-attack-sustain envelope immediately. The combination of free access and sysex compatibility makes it the most historically accurate free FM bass option available.
 

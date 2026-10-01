@@ -168,7 +168,7 @@ Alter/Ego suits producers who want vocal synthesis rather than sample playback â
 - **Platforms:** Windows, macOS, Linux
 - **Formats:** SFZ, SF2
 
-VSCO2 (Versilian Studios Chamber Orchestra 2) Community Edition is a free, open-source chamber orchestra library covering strings, winds, brass, and some vocal and choral content. Versilian Studios released the community edition as a freely available resource, and its samples are widely used as source material in projects like Virtual Playing Orchestra. A larger commercial version of the library exists separately; the CE is a deliberately trimmed subset.
+VSCO2 (Versilian Studios Chamber Orchestra 2) Community Edition is a free, open-source chamber orchestra library covering strings, winds, brass, and some vocal and choral content. Versilian Studios released the community edition as a freely available resource, and its samples are used as source material in projects like Virtual Playing Orchestra. A larger commercial version of the library exists separately; the CE is a deliberately trimmed subset.
 
 The vocal content in VSCO2 CE is less prominent than the string and wind sections â€” choir is not the headline feature. Where it earns a place in this guide is for producers building complete free orchestral templates who want a single library that includes vocal content alongside every other section in open, portable formats.
 

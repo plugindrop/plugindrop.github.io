@@ -81,7 +81,7 @@ Vital's free tier unlocks the full core synthesis engine, which combines wavetab
 - **Platforms:** Windows, macOS, Linux
 - **Formats:** VST3, AU, LV2, CLAP
 
-Surge XT is a community-maintained open-source synthesizer. Developer documentation confirms 11 oscillator types, multiple filter architectures, and over 160 modulation sources. It is one option for producers who want a deep free synth for sound design that goes beyond preset browsing. For hip-hop, the wavetable and FM oscillators are particularly effective for electronic textures and complex moving pads.
+Surge XT is a community-maintained open-source synthesizer. Developer documentation confirms 11 oscillator types, multiple filter architectures, and over 160 modulation sources. It is one option for producers who want a deep free synth for sound design that goes beyond preset browsing. For hip-hop, the wavetable and FM oscillators are suited to electronic textures and complex moving pads.
 
 **Best for:** Advanced sound design, complex modulation paths, experimental textures.
 

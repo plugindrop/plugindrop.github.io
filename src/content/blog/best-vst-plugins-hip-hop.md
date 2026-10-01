@@ -255,7 +255,7 @@ Hip-hop mixes are defined by the low-end relationship between kick, 808, and bas
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX
 
-Waves' developer documentation confirms it models the compression circuit of the original SSL 4000 G Series console — the specific character that "glues" a drum bus without killing transients at moderate settings. At Waves' frequent sale pricing, it's the most cost-effective entry point to this widely-used SSL aesthetic.
+Waves' developer documentation confirms it models the compression circuit of the original SSL 4000 G Series console — the specific character that "glues" a drum bus without killing transients at moderate settings. At Waves' sale pricing, it is a lower-cost route to SSL-style bus compression.
 
 **Best for:** Drum bus glue, mix bus compression, and adding SSL character to the full mix.
 
