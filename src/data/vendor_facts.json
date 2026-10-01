@@ -27,7 +27,14 @@
     "plans": null
   },
   "vp-sugar-bytes-thesys": {
-    "price": null,
+    "price": {
+      "value": 99,
+      "source_url": "https://sugar-bytes.de/thesys",
+      "quote": "$ 99.00 - Buy Now Demo macOS Windows",
+      "source_kind": "vendor",
+      "display": "$99",
+      "fetched_at": "2026-10-01"
+    },
     "is_free": null,
     "formats": null,
     "macos_min": {
@@ -615,7 +622,14 @@
     "plans": null
   },
   "vp-waves-ssl-4000-collection": {
-    "price": null,
+    "price": {
+      "value": 129,
+      "source_url": "https://www.waves.com/bundles/ssl-4000-collection",
+      "quote": "$499 Full Price $499 $129 Price $129 SAVE 74% Add to Cart",
+      "source_kind": "vendor",
+      "display": "$129",
+      "fetched_at": "2026-10-01"
+    },
     "is_free": null,
     "formats": null,
     "macos_min": null,
