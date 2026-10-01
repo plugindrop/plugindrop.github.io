@@ -351,7 +351,8 @@ test('ctaHref: never uses a search URL from the matched entry', () => {
   const p = post({ affiliate: 'https://www.pluginboutique.com/search?q=fallback-aff' });
   const match = { name: 'X', entry: entry({ pb_url: '/search?q=x' }) };
   const href = ctaHref(p, match, '', 'slug');
-  assert.equal(href, p.data.affiliate);
+  assert.ok(href.startsWith(p.data.affiliate));
+  assert.equal(new URL(href).searchParams.get('chan'), 'art');
 });
 
 test('ctaHref: falls back to a PB product link found in the raw body', () => {
@@ -373,8 +374,7 @@ test('ctaHref: falls back to frontmatter affiliate (may be a search URL) when no
 test('ctaHref: non-PB stores (ADSR/PluginFox) keep their existing affiliate link unchanged', () => {
   const p = post({ affiliate: 'https://www.adsrsounds.com/product/sample-pack/foo?aff=123' });
   const href = ctaHref(p, null, '', 'slug');
-  assert.ok(href.startsWith(p.data.affiliate));
-  assert.equal(new URL(href).searchParams.get('chan'), 'art');
+  assert.equal(href, p.data.affiliate);
 });
 
 // --- ctaLabel / ctaShortLabel: never a store name ---
