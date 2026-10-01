@@ -117,9 +117,9 @@ Mini V3 models the Minimoog Model D using Arturia's TAE (True Analog Emulation) 
 
 ---
 
-### Cherry Audio Memorymode — The Budget Poly-Moog
+### Cherry Audio Memorymode 2 — The Budget Poly-Moog
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/g_OXoyaalTE" title="Cherry Audio Memorymode — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/g_OXoyaalTE" title="Cherry Audio Memorymode 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Cherry Audio
 - **Price:** ~$39
@@ -127,13 +127,13 @@ Mini V3 models the Minimoog Model D using Arturia's TAE (True Analog Emulation) 
 - **Formats:** VST, VST3, AU, AAX
 - **Emulates:** Moog Memorymoog (essentially a six-voice polyphonic Minimoog)
 
-Cherry Audio's Memorymode targets the Moog Memorymoog — a polyphonic instrument built from six Minimoog-style voices — a lower-priced way to get Moog ladder character in a polysynth. When you need Moog warmth across chords and don't need the maximum accuracy u-he Diva provides, this is the pragmatic choice.
+Cherry Audio's Memorymode 2 targets the Moog Memorymoog — a polyphonic instrument built from six Minimoog-style voices — a lower-priced way to get Moog ladder character in a polysynth. When you need Moog warmth across chords and don't need the maximum accuracy u-he Diva provides, this is the pragmatic choice.
 
 **Best for:** Producers on a budget who want authentic Moog character across pads and chords without the $99–$179 outlay.
 
-**Skip it if:** you specifically want the raw mono Minimoog Model D voice. Memorymode is the smoother, polyphonic Memorymoog — glorious for pads, less of a snarling single-oscillator bass monster.
+**Skip it if:** you specifically want the raw mono Minimoog Model D voice. Memorymode 2 is the smoother, polyphonic Memorymoog — glorious for pads, less of a snarling single-oscillator bass monster.
 
-[→ Get Cherry Audio Memorymode](https://cherryaudio.com/products/memorymode-v2)
+[→ Get Cherry Audio Memorymode 2](https://cherryaudio.com/products/memorymode-v2)
 
 ---
 

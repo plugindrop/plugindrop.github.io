@@ -307,7 +307,7 @@ TDR Prism takes a different approach than hardware emulators — it gives you di
 Saturation plugins split cleanly into two buying patterns, and knowing which bucket a plugin falls into saves you real money.
 
 **Buy now, don't wait:**
-- **Klanghelm SDRR (~$20)** — already priced low enough that a sale discount is marginal. The cost of delaying a mix decision outweighs the savings.
+- **Klanghelm SDRR** — already low-priced that a sale discount is marginal. The cost of delaying a mix decision outweighs the savings.
 - **Softube Tape (~$99)** and **TDR Prism (~$50)** — both developers run occasional but shallow discounts (10–15%). If you need the tool for a session this week, buy it; don't stall a project for a small percentage off.
 - **Any of the four free plugins** — Saturation Knob, IVGI, SATUR8, and Tape Cassette 2 cost nothing, so there's no "sale" to time. Install them today.
 

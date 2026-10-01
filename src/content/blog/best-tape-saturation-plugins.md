@@ -302,7 +302,7 @@ Not every plugin on this list should be bought the same way. Some are effectivel
 
 ### Buy now, don't wait for a sale
 - **Chow Tape Model** — it's free. There's no sale to wait for.
-- **Klanghelm SDRR ($21)** and **Klevgrand DAW Cassette (~$20)** — both are already priced low enough, and neither developer runs deep or frequent discount cycles. Waiting to save a few dollars isn't worth the delay if you need the tool now.
+- **Klanghelm SDRR** and **Klevgrand DAW Cassette (~$20)** — both are already low-priced, and neither developer runs deep or frequent discount cycles. Waiting to save a few dollars isn't worth the delay if you need the tool now.
 - **RC-20 Retro Color ($99)** — XLN Audio's discounts on this plugin rarely exceed 20%, and it's frequently full price. If it's the right tool for your genre, buy it when you need it rather than holding out for a sale that may not materialize.
 - **Soundtoys Decapitator as a standalone** — if you're certain you only want Decapitator and nothing else from Soundtoys, the standalone $199 price barely moves. (But read the next section before committing to standalone.)
 
