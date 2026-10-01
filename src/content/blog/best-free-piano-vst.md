@@ -31,11 +31,11 @@ draft: false
 
 ## How to Choose
 
-- **If you need ambient, lo-fi, or cinematic piano**, start with LABS Soft Piano — its felt character is why it dominates community recommendations for those genres, and nothing free touches it there.
-- **If you need a realistic acoustic grand for jazz, pop, or classical work**, Piano One or Salamander Grand Piano are the community's consensus picks for sample accuracy at zero cost.
+- **If you need ambient, lo-fi, or cinematic piano**, start with LABS Soft Piano — its felt character suits those genres.
+- **If you need a realistic acoustic grand for jazz, pop, or classical work**, Piano One or Salamander Grand Piano are free options for sample-based acoustic grand sounds.
 - **If you need upright piano sounds**, Keyzone Classic covers the type in one install; PianoBook delivers more character and variety for producers willing to browse.
 - **If you need vintage electric piano tones**, MrRay73 Mark II handles warm Rhodes territory; Dexed handles bright DX7 FM territory. They serve distinct aesthetics and are not interchangeable.
-- **If you are ready to upgrade**, Spitfire Felt Piano extends the LABS approach with more expressive depth; Arturia Piano V3 is the community-validated path to a physically modeled grand that responds to how you play, not just how hard.
+- **If you are ready to upgrade**, Spitfire Felt Piano extends the LABS approach with more expressive depth; Arturia Piano V3 is a path to a physically modeled grand that responds to how you play, not just how hard.
 
 ---
 
@@ -47,10 +47,10 @@ A: Yes. Spitfire Audio offers LABS instruments as permanently free downloads. Yo
 A: Most plugins here are distributed as VST (Windows) or VST/AU (macOS). All major DAWs — Ableton Live, FL Studio, Reaper, Logic Pro, Cubase — support these formats. The exception is Salamander Grand Piano, which is an SFZ sample library requiring a separate free SFZ player like Sforzando by Plogue before it behaves like a standard instrument.
 
 **Q: What is the best free electric piano VST in 2026?**
-A: MrRay73 Mark II by GSi is the community's top pick for warm, physical-modeled Rhodes tones. Dexed is the recommendation for DX7-style FM electric piano — brighter, glassier, and more suited to 1980s-influenced production. They cover different sonic territory and are worth installing both.
+A: MrRay73 Mark II by GSi is a physical-modeled Rhodes option. Dexed is the recommendation for DX7-style FM electric piano — brighter, glassier, and more suited to 1980s-influenced production. They cover different sonic territory and are worth installing both.
 
 **Q: Do free piano VSTs require a powerful computer?**
-A: Synthesis-based options — 4Front Piano, MDA EPiano, Dexed — have minimal CPU and RAM requirements. Sample-based options like Piano One and Salamander Grand Piano benefit from 2–4 GB of available RAM and an SSD for fast loading. LABS Soft Piano streams efficiently through the LABS platform but still benefits from faster storage.
+A: Synthesis-based options include 4Front Piano, MDA EPiano, and Dexed; check each developer's page for system requirements. Sample-based options like Piano One and Salamander Grand Piano benefit from 2–4 GB of available RAM and an SSD for fast loading. LABS Soft Piano streams efficiently through the LABS platform but still benefits from faster storage.
 
 **Q: Can I use these free plugins in commercial releases?**
 A: All plugins listed here are documented for commercial use. Spitfire LABS instruments are explicitly licensed for commercial productions. Sound Magic, Bitsonic, DSK Music, and the open-source MDA and Dexed projects permit commercial use under their respective licenses. Verify the current license for any plugin you download, as terms can update.
@@ -67,7 +67,7 @@ A: All plugins listed here are documented for commercial use. Spitfire LABS inst
 
 ## Final Thoughts
 
-For most bedroom producers in 2026, Spitfire LABS Soft Piano is the free piano to install first — and for ambient, lo-fi, and cinematic work, it may be the only piano instrument the session ever needs. When that character is wrong for the mix, Piano One by Sound Magic delivers the clean, realistic acoustic grand that covers everything else. When both eventually run out of expressive headroom, Arturia Piano V3 is where the community points.
+For most bedroom producers in 2026, Spitfire LABS Soft Piano is the free piano to install first — and for ambient, lo-fi, and cinematic work, it may be the only piano instrument the session ever needs. When that character is wrong for the mix, Piano One by Sound Magic delivers the clean, realistic acoustic grand that covers everything else. When both eventually run out of expressive headroom, Arturia Piano V3 is a paid step up.
 
 [→ Get Arturia Piano V3](https://www.arturia.com/products/software-instruments/piano-v/overview)
 
