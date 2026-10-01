@@ -80832,6 +80832,54 @@
           "source": "deal_intake"
         }
       ]
+    },
+    "iZotope RX 12 Elements": {
+      "pb_url": "/product/3-Studio-Tools/51-Audio-Restoration-/17210-RX-12-Elements",
+      "typical_regular": 99.0,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "auto-intake 2026-10-01",
+      "category": null,
+      "history": [
+        {
+          "date": "2026-10-01",
+          "regular": 99.0,
+          "sale": null,
+          "source": "deal_intake"
+        }
+      ]
+    },
+    "iZotope RX 12 Standard": {
+      "pb_url": "/product/3-Studio-Tools/51-Audio-Restoration-/17211-RX-12-Standard",
+      "typical_regular": 399.0,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "auto-intake 2026-10-01",
+      "category": null,
+      "history": [
+        {
+          "date": "2026-10-01",
+          "regular": 399.0,
+          "sale": null,
+          "source": "deal_intake"
+        }
+      ]
+    },
+    "iZotope RX 12 Advanced": {
+      "pb_url": "/product/3-Studio-Tools/51-Audio-Restoration-/17171-RX-12-Advanced",
+      "typical_regular": 1399.0,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "auto-intake 2026-10-01",
+      "category": null,
+      "history": [
+        {
+          "date": "2026-10-01",
+          "regular": 1399.0,
+          "sale": null,
+          "source": "deal_intake"
+        }
+      ]
     }
   }
 }
