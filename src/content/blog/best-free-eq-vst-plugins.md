@@ -36,7 +36,7 @@ priceTrack:
 
 Open any mix that sounds "muddy" and nine times out of ten the culprit is a buildup somewhere between 200 and 400 Hz that one EQ move clears in about ten seconds. EQ is the processor you reach for more than any other — and in 2026 you no longer need to spend a cent to get one that holds up on a commercial release. The hard part is finding it: search results are still clogged with roundups nobody has touched since 2019, and the flood of "free" plugins has made it genuinely difficult to tell a professional tool from demo-ware.
 
-Every plugin below is judged on its published specs, its format and OS support, and the consensus that has built up around it across professional forums and studios — not on marketing copy. Several of these have shaped records you have already heard.
+Every plugin below is judged on its published specs, its format and OS support — not on marketing copy. Several of these have shaped records you have already heard.
 
 EQ done badly gives you dull vocals, a boxy low-mid honk, and masters that fall apart on earbuds. EQ done with intent gives you clarity, separation, and that expensive-sounding polish. What follows is ten free EQs sorted by the job each does best, with the one situation where you should skip it spelled out — followed by the paid upgrades worth buying once you outgrow the free tier.
 
@@ -114,7 +114,7 @@ Analog Obsession has earned a devoted following by releasing console-modeled plu
 
 Blue Cat's Triple EQ is a 3-band semi-parametric equalizer built for speed. You get a low shelf, a mid peak, and a high shelf — nothing more, nothing less. Where most free EQs try to pack in every feature possible, Triple EQ makes the opposite bet: constrain the interface, remove the decision paralysis, and get you to a good-sounding result faster. The CPU footprint is minimal and it loads instantly, making it ideal for quick tone corrections across a session with many tracks.
 
-**Best for:** Beginners learning to hear EQ moves and producers who want a lightweight, fast option for everyday tonal adjustments.
+**Best for:** Beginners learning to hear EQ moves and producers who want a fast option for everyday tonal adjustments.
 
 **Skip it if:** you need more than broad tonal shaping. With one low shelf, one mid peak, and one high shelf, there is no way to notch a narrow resonance. That constraint is the whole point of the plugin, but it is a real ceiling.
 
@@ -131,7 +131,7 @@ Blue Cat's Triple EQ is a 3-band semi-parametric equalizer built for speed. You 
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3
 
-ReaEQ ships with Reaper and is also available as a standalone free VST download through Cockos' ReaPlugs package — no DAW purchase required. It supports an unlimited number of EQ bands, covers every standard filter type, and delivers clean, transparent processing at negligible CPU cost. The interface is functional rather than flashy, but what it does with unlimited bands and precise control makes it a go-to for complex surgical work where other EQs run out of road.
+ReaEQ ships with Reaper and is also available as a standalone free VST download through Cockos' ReaPlugs package — no DAW purchase required. It supports an unlimited number of EQ bands, covers every standard filter type, and delivers clean, transparent processing. The interface is functional rather than flashy, but what it does with unlimited bands and precise control makes it a go-to for complex surgical work where other EQs run out of road.
 
 **Best for:** Sound designers and engineers who need unlimited band count and granular control for complex corrective work.
 
@@ -288,7 +288,7 @@ Voxengo's Overtone GEQ takes a different approach to equalization by working wit
 | MEqualizer | Free | Parametric | 6 bands, A/B, oscilloscope | [Plugin Boutique](https://www.pluginboutique.com/search?q=MeldaProduction%20MEqualizer&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
 | Baxter EQ | Free | Analog-style | British console character | [Plugin Boutique](https://www.pluginboutique.com/search?q=Baxter%20EQ&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
 | Blue Cat's Triple EQ | Free | Semi-parametric | 3 bands, ultra-fast workflow | [Developer Site](https://www.bluecataudio.com/Products/Product_TripleEQ/) |
-| ReaEQ | Free | Parametric | Unlimited bands, low CPU | [Developer Site](https://www.reaper.fm/reaplugs/) |
+| ReaEQ | Free | Parametric | Unlimited bands | [Developer Site](https://www.reaper.fm/reaplugs/) |
 | Voxengo Marvel GEQ | Free | Linear phase graphic | 16 bands, zero phase distortion | [Plugin Boutique](https://www.pluginboutique.com/search?q=Voxengo%20Marvel%20GEQ&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
 | LP10 | Free | Linear phase mastering | Up to 10 bands, surgical | [Plugin Boutique](https://www.pluginboutique.com/search?q=LP10%20EQ%20plugin&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
 | TDR SlickEQ | Free | Bus/mastering EQ | Musical saturation, 3 bands | [Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/) |
@@ -305,7 +305,7 @@ Voxengo's Overtone GEQ takes a different approach to equalization by working wit
 - **If you want one EQ that handles everything**, install **TDR Nova** first — the dynamic capability makes it useful on every track type, and the spectrum analyzer accelerates your learning curve.
 - **If you are mastering or processing the mix bus** and need zero phase distortion, **Voxengo Marvel GEQ** or **LP10** are the right tools; minimum-phase options introduce phase shift that can subtly affect stereo coherence.
 - **If your tracks need character rather than just correction** — drums, guitars, mix bus coloring — reach for **Baxter EQ** or **TDR SlickEQ**. These reward a "set it and let it breathe" approach.
-- **If you are building a large session** with many EQ instances and need maximum flexibility, **ReaEQ** handles unlimited bands at minimal CPU cost without asking you to compromise.
+- **If you are building a large session** with many EQ instances and need maximum flexibility, **ReaEQ** handles unlimited bands without asking you to compromise.
 - **If vintage tone is central to your genre** (lo-fi, soul, classic rock, jazz), **Ignite Amps PTEq-X** gives you the Pultec interaction that producers have relied on for sixty years — for free.
 - **When you are ready to invest**, **FabFilter Pro-Q 4** is the upgrade that makes every workflow on this list feel like a warm-up.
 

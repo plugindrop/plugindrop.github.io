@@ -10,7 +10,7 @@ score: 8.00
 xText: "New guide: Best Free Brass VST Plugins 2026 (Trumpet, Trombone and Fren..."
 draft: false
 ---
-**TL;DR:** BBC Symphony Orchestra Discover is a free brass VST plugin in 2026 — recorded at Maida Vale Studios with real BBC Symphony Orchestra players, it covers the full brass section including trumpets, trombones, and French horns at zero cost. VSCO2 Community Edition is a lighter alternative for producers who need SFZ-format flexibility and a smaller CPU footprint.
+**TL;DR:** BBC Symphony Orchestra Discover is a free brass VST plugin in 2026 — recorded at Maida Vale Studios with real BBC Symphony Orchestra players, it covers the full brass section including trumpets, trombones, and French horns at zero cost. VSCO2 Community Edition is a lighter alternative for producers who need SFZ-format flexibility.
 
 ## Quick Picks at a Glance
 
@@ -19,7 +19,7 @@ draft: false
 | BBC Symphony Orchestra Discover | Free | Full orchestral brass, professional recordings | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-brass-vst-plugins&chan=art&data1=best-free-brass-vst-plugins) |
 | VSCO2 Community Edition | Free | Chamber brass, solo instrument realism | Free at Versilian Studios |
 | Virtual Playing Orchestra | Free | Complete orchestral brass section in SFZ | Free at paulbattersby.net |
-| DSK Brass | Free | Lightweight mockups, low CPU Windows tool | Free at DSK Music |
+| DSK Brass | Free | Quick mockups, Windows tool | Free at DSK Music |
 | Sonatina Symphonic Orchestra | Free | Legacy SFZ brass library, template supplement | Free community archive |
 
 ---
@@ -93,7 +93,7 @@ VPO is a writing tool, not a solo quality showcase. It is not designed to compet
 
 ---
 
-### DSK Brass — Lightweight and instant for quick sketches
+### DSK Brass — Simple rompler for quick sketches
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/ssoi-uvCjRM" title="DSK Brass — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -102,11 +102,11 @@ VPO is a writing tool, not a solo quality showcase. It is not designed to compet
 - **Platforms:** Windows
 - **Formats:** VST
 
-DSK Music's catalog of free VST instruments has been available for many years, and DSK Brass is their dedicated brass plugin. It is a straightforward rompler: a simple interface, minimal CPU draw, and basic trumpet, trombone, and French horn tones that load instantly. The sound is not in the same category as BBCSO Discover or VSCO2 CE, which makes it better suited to rapid mockup work and simple layering than to serving as a primary brass library.
+DSK Music's catalog of free VST instruments has been available for many years, and DSK Brass is their dedicated brass plugin. It is a straightforward rompler: a simple interface and basic trumpet, trombone, and French horn tones. The sound is not in the same category as BBCSO Discover or VSCO2 CE, which makes it better suited to rapid mockup work and simple layering than to serving as a primary brass library.
 
 The Windows-only format and basic sound design limit its audience, but for PC producers who need zero-latency brass for quick idea sketching without activating a multi-gigabyte sample engine, DSK Brass remains a practical option.
 
-**Best for:** Windows producers who need an instant-loading, low-CPU brass plugin for quick mockups and simple arrangement sketches.
+**Best for:** Windows producers who need an simple brass plugin for quick mockups and simple arrangement sketches.
 
 ---
 
@@ -156,9 +156,9 @@ Both paid options below are from Spitfire Audio — the developer behind BBC Sym
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | BBC Symphony Orchestra Discover | Free | Full orchestral library | Maida Vale recording, multiple mic positions, full brass section | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-brass-vst-plugins&chan=art&data1=best-free-brass-vst-plugins) |
-| VSCO2 Community Edition | Free | Chamber orchestra, SFZ | Solo/chamber brass, cross-platform, light CPU | Free at Versilian Studios |
+| VSCO2 Community Edition | Free | Chamber orchestra, SFZ | Solo/chamber brass, cross-platform | Free at Versilian Studios |
 | Virtual Playing Orchestra | Free | Full orchestral, SFZ | Widest brass coverage, trumpet to tuba, free template | Free at paulbattersby.net |
-| DSK Brass | Free | Simple rompler, VST | Instant load, low CPU, basic tones — Windows only | Free at DSK Music |
+| DSK Brass | Free | Simple rompler, VST | Basic tones — Windows only | Free at DSK Music |
 | Sonatina Symphonic Orchestra | Free | Legacy SFZ library | Articulation supplement, SFZ format flexibility | Free community archive |
 | BBC Symphony Orchestra Core | ~$149–$249 | Full orchestral library | Full BBC SO articulations, legato transitions, extended techniques | See Spitfire Audio |
 | Spitfire SYMPHONY ORCHESTRA | ~$499–$799 | Flagship orchestral library | Solo + section brass, deepest mic options, professional depth | See Spitfire Audio |

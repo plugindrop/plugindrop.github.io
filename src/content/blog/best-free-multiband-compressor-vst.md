@@ -22,7 +22,7 @@ draft: false
 | MMultiband | Free | Full-featured multiband, deep customization | [Plugin Boutique](https://www.meldaproduction.com/) |
 | Waves C6 Lite | Free | Mixing, broadcast, mastering fundamentals | [Plugin Boutique](https://www.waves.com/plugins/c6-multiband-compressor) |
 | Kilohearts Multiband Compressor | Free | Clean, snap-based dynamics | [Free Download](https://kilohearts.com/products/multipass) |
-| GVST GMulti | Free | Lightweight Windows utility compression | [Free Download](https://gvst.uk/gmulti.htm) |
+| GVST GMulti | Free | Windows utility compression | [Free Download](https://gvst.uk/gmulti.htm) |
 
 ---
 
@@ -132,7 +132,7 @@ It is a focused tool without deep feature layers, which is either a feature or a
 
 ---
 
-### GVST GMulti — Lightweight and CPU-efficient for Windows producers
+### GVST GMulti — Simple multiband utility for Windows
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Z8EFobAdlJo" title="GVST GMulti — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -141,11 +141,11 @@ It is a focused tool without deep feature layers, which is either a feature or a
 - **Platforms:** Windows
 - **Formats:** VST
 
-GVST GMulti is part of a long-running collection of free Windows VST plugins by Graham Yeadon, a developer with a sustained track record of releasing and maintaining no-cost utilities. Its design prioritizes low CPU overhead and a minimal interface — practical when running sessions on older hardware or when many plugin instances are already consuming resources. It provides multiband compression with adjustable crossover points and per-band compression parameters, making it a utility tool rather than a feature-rich processor.
+GVST GMulti is part of a long-running collection of free Windows VST plugins by Graham Yeadon, a developer with a sustained track record of releasing and maintaining no-cost utilities. Its design is a minimal interface focused on basic multiband utility compression. It provides multiband compression with adjustable crossover points and per-band compression parameters, making it a utility tool rather than a feature-rich processor.
 
-The Windows-only limitation is a meaningful constraint in 2026 for cross-platform workflows. For Windows producers specifically who need a CPU-light multiband option with a reliable history, GMulti remains a usable utility.
+The Windows-only limitation is a meaningful constraint in 2026 for cross-platform workflows. For Windows producers who need a simple multiband option with a long history, GMulti remains a usable utility.
 
-**Best for:** Windows producers on constrained hardware who need a CPU-light, no-frills multiband compressor for utility compression tasks.
+**Best for:** Windows producers who need a no-frills multiband compressor for utility compression tasks.
 
 [→ Download GVST GMulti Free](https://gvst.uk/gmulti.htm)
 
@@ -157,12 +157,12 @@ The Windows-only limitation is a meaningful constraint in 2026 for cross-platfor
 
 - **Developer:** Calf Studio Gear
 - **Price:** Free (open source)
-- **Platforms:** Linux (primary); Windows via community builds
-- **Formats:** LV2, LADSPA (Linux native); community VST builds available
+- **Platforms:** Linux (primary); Windows via third-party builds
+- **Formats:** LV2, LADSPA (Linux native); third-party VST builds available
 
 Calf Multiband Compressor is part of the Calf Studio Gear open-source audio plugin suite, which has been a core component of Linux audio production for over a decade. It offers five-band compression with visual metering and per-band threshold, ratio, attack, and release controls. Calf Studio Gear's documentation confirms active development and deep integration with Linux DAWs including Ardour and Mixbus, where LV2 support makes it a native-quality option.
 
-Windows support through community-built VST versions is functional but less polished than native Linux deployment. For Linux audio producers, this is the free multiband compressor to look at in the open-source ecosystem. For Windows and macOS-primary producers, TDR Nova or MMultiband are more practical first choices.
+Windows support through third-party VST builds is functional but less polished than native Linux deployment. For Linux audio producers, this is the free multiband compressor to look at in the open-source ecosystem. For Windows and macOS-primary producers, TDR Nova or MMultiband are more practical first choices.
 
 **Best for:** Linux audio producers using Ardour, Mixbus, or other LV2-compatible DAWs who want a maintained, open-source multiband compressor.
 
@@ -177,9 +177,9 @@ Windows support through community-built VST versions is functional but less poli
 - **Platforms:** Windows, macOS (via ports)
 - **Formats:** VST
 
-mda Multiband is one of the original free VST plugins, developed by Paul Kellett as part of the mda plugin collection that has been available since the early 2000s. The source code is open and the plugins have been ported and maintained by the broader developer community across platforms. It is a three-band compressor with a minimal interface and a modest CPU footprint — considerably less sophisticated than modern options like TDR Nova or MMultiband, but functional for basic band-splitting compression tasks.
+mda Multiband is one of the original free VST plugins, developed by Paul Kellett as part of the mda plugin collection that has been available since the early 2000s. The source code is open and the plugins have been ported and maintained by the broader developer community across platforms. It is a three-band compressor with a minimal interface — considerably less sophisticated than modern options like TDR Nova or MMultiband, but functional for basic band-splitting compression tasks.
 
-Its value in 2026 is as a utility and educational resource: quick three-band gluing on rough mixes, understanding how crossover-based multiband compression works under the hood, and CPU-constrained environments where modern plugins are too heavy. It does not compete sonically with contemporary free options, but its open-source availability and zero-cost footprint keep it relevant as a lightweight supplement.
+Its value in 2026 is as a utility and educational resource: quick three-band gluing on rough mixes, understanding how crossover-based multiband compression works under the hood, and CPU-constrained environments where modern plugins are too heavy. It does not compete sonically with contemporary free options, but its open-source availability and zero-cost footprint keep it relevant as a simple supplement.
 
 **Best for:** Educational understanding of multiband compression principles, rough-mix utility gluing, and CPU-constrained sessions.
 
@@ -237,9 +237,9 @@ If you only buy one, FabFilter Pro-MB is the paid standalone multiband compresso
 | MMultiband | Free | Multiband Compressor | Up to 6 bands, full modulation engine, A/B comparison | [Official Site](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-free-multiband-compressor-vst) |
 | Waves C6 Lite | Free | Multiband Compressor | 6 bands, wideband/multiband modes, broadcast-grade | [Official Site](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-free-multiband-compressor-vst) |
 | Kilohearts Multiband Comp | Free | Snap Plugin | Clean interface, Kilohearts ecosystem integration | [Download](https://kilohearts.com/products/multipass) |
-| GVST GMulti | Free | Multiband Compressor | Low CPU, Windows-only, utility compression | [Download](https://gvst.uk/gmulti.htm) |
+| GVST GMulti | Free | Multiband Compressor | Windows-only, utility compression | [Download](https://gvst.uk/gmulti.htm) |
 | Calf Multiband | Free | Multiband Compressor | LV2/Linux native, open source, 5 bands, active development | [Download](https://calf-studio-gear.org/) |
-| mda Multiband | Free | Multiband Compressor | Open source, 3 bands, minimal CPU, educational value | [Download](https://sourceforge.net/projects/mda-vst/) |
+| mda Multiband | Free | Multiband Compressor | Open source, 3 bands, educational value | [Download](https://sourceforge.net/projects/mda-vst/) |
 | FabFilter Pro-MB | €179 | Multiband Comp/Exp | Dynamic phase mode, zero-latency algorithm, precision routing | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/919-FabFilter-Pro-MB?a_aid=69cb95abe1763&chan=art&data1=best-free-multiband-compressor-vst) |
 | iZotope Ozone 12 | From $249 | Mastering Suite | AI Mastering Assistant, multiband dynamics, stem mastering | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-free-multiband-compressor-vst) |
 
@@ -276,7 +276,7 @@ A: A compressor reduces gain above a threshold at a configurable ratio; a limite
 A: Based on specs, TDR Nova is the free option here with the mastering-oriented features — its linear-phase mode and mid/side processing address the phase-coherence and stereo-control demands that mastering places on a compressor. Waves C6 Lite is an option when you want six discrete bands, and MMultiband is for deeper per-band control. For a fully integrated mastering chain that also handles limiting, imaging, and reference metering, a paid suite like iZotope Ozone 12 remains a step above any free standalone compressor.
 
 **Q: Do multiband compressors use a lot of CPU?**
-A: It depends on the design. Crossover-based multiband compressors running linear-phase modes — including TDR Nova in linear phase and MMultiband with high-quality oversampling — cost more CPU because they add latency and extra processing per band. Lightweight utilities like GVST GMulti and mda Multiband are deliberately CPU-frugal and run comfortably on older hardware or across many simultaneous tracks. If CPU headroom is tight, a practical approach is to reserve linear-phase modes for the master bus and use minimum-phase or lightweight plugins on individual channels.
+A: It depends on the design. Crossover-based multiband compressors running linear-phase modes — including TDR Nova in linear phase and MMultiband with high-quality oversampling — cost more CPU because they add latency and extra processing per band. Check each plugin's system requirements on the developer's page for CPU needs. If CPU headroom is tight, a practical approach is to reserve linear-phase modes for the master bus and use minimum-phase modes on individual channels.
 
 ---
 ## Related Guides

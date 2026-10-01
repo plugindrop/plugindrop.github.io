@@ -26,7 +26,7 @@ saleExpiry: "2021-09-26"
 
 ## What Is Hive 2?
 
-Hive 2 is a wavetable synthesizer plugin made by u-he, the German developer behind Diva, Zebra2, and Repro. It's the successor to the original Hive, rebuilt with an updated interface and expanded modulation options. The plugin targets producers who want quick, CPU-efficient wavetable synthesis for electronic, EDM, and sound design work.
+Hive 2 is a wavetable synthesizer plugin made by u-he, the German developer behind Diva, Zebra2, and Repro. It's the successor to the original Hive, rebuilt with an updated interface and expanded modulation options. The plugin targets producers who want quick wavetable synthesis for electronic, EDM, and sound design work.
 
 ## Key Features
 
@@ -34,14 +34,13 @@ Hive 2 is a wavetable synthesizer plugin made by u-he, the German developer behi
 - **Flexible filter section** — multiple filter models and routing options for shaping tone before or after modulation.
 - **Modulation matrix** — envelopes, LFOs, and a step sequencer route to nearly any parameter for movement-heavy patches.
 - **Built-in arpeggiator and sequencer** — useful for building rhythmic patterns directly inside the plugin.
-- **Low CPU footprint** — u-he designed Hive to run lighter than many other wavetable synths, which matters in large template sessions.
 - **Cross-platform, no iLok** — runs on Mac and Windows as VST, AU, and AAX, using u-he's own license-file activation.
 
 Check the product page for the full plugin format and OS version list before buying.
 
 ## What Producers Are Saying
 
-u-he has a long-standing reputation on forums like KVR Audio for building synths that sound distinctive and run efficiently. Hive in particular is often mentioned in threads comparing wavetable synths as a lighter, budget-friendly alternative to heavier options like Serum. Search KVR or r/edmproduction for ongoing discussion threads if you want more detailed user impressions before buying.
+Hive 2 is a wavetable synthesizer from u-he. Hive in particular is often mentioned in threads comparing wavetable synths as a lighter, budget-friendly alternative to heavier options like Serum.
 
 ## Who Is It For?
 
@@ -70,7 +69,7 @@ u-he plugins go on sale periodically through Plugin Boutique, often around Black
 | Vital | Free / paid tier | Free version available; open development roadmap. |
 | Pigments | Check product page | Combines wavetable, virtual analog, and sample synthesis in one instrument. |
 
-If CPU efficiency and a straightforward wavetable workflow matter most, Hive 2 covers that. If you want the largest third-party preset ecosystem, Serum is the more established choice. If budget is the primary constraint, Vital's free tier is worth checking before spending anything.
+If a straightforward wavetable workflow matters most, Hive 2 covers that. If you want the largest third-party preset ecosystem, Serum is the more established choice. If budget is the primary constraint, Vital's free tier is worth checking before spending anything.
 
 ## FAQ
 
@@ -92,7 +91,7 @@ Hive 2 is $50 off its regular price right now at Plugin Boutique, bringing it do
 
 ## Is This Deal Worth It?
 
-A 34% discount on a u-he plugin is a solid markdown, especially since u-he products don't discount as aggressively or as often as some other developers. The perpetual license means there's no subscription clock once you buy. If you've been wanting a lightweight wavetable synth and the price fits your budget, this is a reasonable time to buy rather than wait for a deeper cut that may not materialize soon.
+A 34% discount on a u-he plugin is a solid markdown, especially since u-he products don't discount as aggressively or as often as some other developers. The perpetual license means there's no subscription clock once you buy. If you've been wanting a straightforward wavetable synth and the price fits your budget, this is a reasonable time to buy rather than wait for a deeper cut that may not materialize soon.
 
 ## Related Guides
 

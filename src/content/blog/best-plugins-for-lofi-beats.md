@@ -167,7 +167,7 @@ Krush combines bit depth reduction and sample rate reduction with analog-style s
 
 ---
 
-### GVST GDegrade — Lightweight Degradation Utility
+### GVST GDegrade — Degradation Utility
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/vyvcJGSXz6o" title="GVST GDegrade — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -178,7 +178,7 @@ Krush combines bit depth reduction and sample rate reduction with analog-style s
 
 GDegrade is a focused bit crusher and sample-rate reducer from GVST, a developer of free Windows VST tools. It lacks Krush's modulation routing but is a lighter installation for producers who want a dedicated utility degradation plugin without built-in saturation.
 
-**Best for:** Windows producers wanting a lightweight, no-frills bit depth and sample rate reduction utility.
+**Best for:** Windows producers wanting a no-frills bit depth and sample rate reduction utility.
 
 [→ Download GDegrade Free](https://gvst.uk/Downloads)
 
@@ -255,11 +255,11 @@ TAL-Chorus-LX is a recreation of the Roland Juno-60's chorus circuit, offered fr
 | iZotope Vinyl | Free | Vinyl simulator | Crackle, warp, dust, aging controls | [Download](https://www.izotope.com/en/products/vinyl) |
 | Chow Tape Model | Free | Tape emulator | Physics-based hysteresis, wow/flutter | [Download](https://chowdsp.com/products.html) |
 | Caelum Audio Tape Cassette 2 | Free | Cassette sim | Crosstalk, bias, hiss, frequency rolloff | [Download](https://www.caelumaudio.com/CaelumAudio/?Page=TapeCassette2PP) |
-| Valhalla Supermassive | Free | Reverb/echo | 25+ modes, lush tails, CPU-efficient | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| Valhalla Supermassive | Free | Reverb/echo | 25+ modes, lush tails | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | TAL-Reverb-4 | Free | Plate reverb | Vintage plate character, short-medium decay | [Free Download](https://tal-software.com/products/tal-reverb-4) |
 | TAL-Dub-3 | Free | Tape delay | Dub feedback, tape saturation, modulation | [TAL Software](https://tal-software.com/products/tal-dub) |
 | Krush | Free | Bitcrusher | Bit + SR reduction with LFO modulation | [Download](https://www.tritik.com/products/krush/) |
-| GVST GDegrade | Free | Degrader | Lightweight bit crush and SR reduction | [Download](https://gvst.uk/Downloads) |
+| GVST GDegrade | Free | Degrader | Bit crush and SR reduction | [Download](https://gvst.uk/Downloads) |
 | IVGI | Free | Saturation | Tube/tape warmth, subtle density | [Download](https://klanghelm.com/IVGI.php) |
 | TAL-Chorus-LX | Free | Chorus | Juno-60 circuit, organic pitch movement | [Free Download](https://tal-software.com/products/tal-chorus-lx) |
 | RC-20 Retro Color | ~$99 | Lo-fi all-in-one | 6 modules, cohesive degradation chain | [Get It](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |

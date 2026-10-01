@@ -115,7 +115,7 @@ The plugin is Windows-only and does not include true peak detection, which is th
 
 ---
 
-## Lightweight and Quick-Deploy Limiters
+## Quick-Deploy Limiters
 
 ### Unlimited — Low-overhead brickwall for in-session mix-bus use
 
@@ -124,11 +124,11 @@ The plugin is Windows-only and does not include true peak detection, which is th
 - **Platforms:** Windows, macOS
 - **Formats:** VST
 
-Unlimited by Sonic Anomaly is a transparent brickwall limiter with a low CPU footprint. The interface provides threshold and output controls alongside a gain reduction meter. It is built for peak catching rather than complex mastering processing, making it more appropriate for protecting headroom during production sessions than for final streaming-compliant masters.
+Unlimited by Sonic Anomaly is a transparent brickwall limiter. The interface provides threshold and output controls alongside a gain reduction meter. It is built for peak catching rather than complex mastering processing, making it more appropriate for protecting headroom during production sessions than for final streaming-compliant masters.
 
 Unlimited lacks true peak detection and multiband processing, which separates its use case clearly from Limiter 6 GE. Within its intended scope — quick peak control during mixing — it does the job.
 
-**Best for:** In-session mix-bus protection during production and light gain staging where CPU efficiency matters.
+**Best for:** In-session mix-bus protection during production and light gain staging.
 
 → Search Unlimited on Plugin Boutique
 
@@ -228,7 +228,7 @@ It is a free loudness meter. Setting a limiter ceiling by ear without loudness m
 | LoudMax | Free | Lookahead brickwall | Ultra-simple, beginner-friendly | — |
 | Limiter No6 | Free | Multi-stage | Original multistate design, Windows-only | — |
 | Youlean Loudness Meter 2 | Free | Loudness metering | LUFS metering, streaming targets built-in | [Download Free](https://youlean.co/youlean-loudness-meter/) |
-| Unlimited | Free | Brickwall | Low CPU, fast in-session deployment | — |
+| Unlimited | Free | Brickwall | Fast in-session deployment | — |
 | MLimiter (MFreeFXBundle) | Free | Brickwall | Part of comprehensive Melda free suite | — |
 | Calf Limiter | Free | Brickwall | Open source, LV2-first, Linux-primary | — |
 | FabFilter Pro-L 2 | $199 | Multi-algorithm | 8 algorithms, mid-side, spectrum display | [FabFilter](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-free-limiter-vst) |

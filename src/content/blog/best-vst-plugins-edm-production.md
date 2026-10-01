@@ -322,7 +322,7 @@ LABS is a continuously expanding free sample library delivered through Spitfire'
 
 ---
 
-### Podolski — Clean, Low-CPU Subtractive Synthesis from a Trusted Developer
+### Podolski — Free Subtractive Synthesis from u-he
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/PNaP_-R0LNQ" title="Podolski — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -333,9 +333,9 @@ LABS is a continuously expanding free sample library delivered through Spitfire'
 
 u-he's documentation describes Podolski as a deliberately simple synthesizer — one oscillator, a resonant filter, a modulation envelope, and an arpeggiator — from the developer behind paid instruments like Diva and Zebra. Its simple single-oscillator design keeps the feature set small. For basslines, simple pads, and low-complexity leads where processing efficiency is a priority, it performs well above its price.
 
-**Purchase note:** Podolski itself is free, but it functions as u-he's on-ramp to their paid line — Diva and Zebra2 in particular. u-he runs regular seasonal sales (roughly 25-30% off) on those paid instruments around Black Friday and its own anniversary promotions, so if Podolski leaves you wanting more low-CPU analog modeling, wait for one of those windows before buying Diva.
+**Purchase note:** Podolski itself is free, but it functions as u-he's on-ramp to their paid line — Diva and Zebra2 in particular. u-he runs regular seasonal sales (roughly 25-30% off) on those paid instruments around Black Friday and its own anniversary promotions, so if Podolski leaves you wanting more analog modeling, wait for one of those windows before buying Diva.
 
-**Best for:** Clean, simple subtractive synthesis where CPU efficiency matters — basslines, pad foundations, and straightforward melodic leads.
+**Best for:** Clean, simple subtractive synthesis — basslines, pad foundations, and straightforward melodic leads.
 
 [→ Download Podolski Free](https://u-he.com/products/podolski/)
 
@@ -399,10 +399,10 @@ If you have exhausted the free options or are ready to invest in tools that will
 | OTT | Free | Multiband compressor | The default upward compressor in EDM | [Free](https://xferrecords.com/freeware) |
 | TDR Nova | Free / Paid GE | Dynamic EQ | Parametric + dynamic EQ, parallel compression | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Valhalla Supermassive | Free | Reverb/delay | Free reverb/delay with long decay modes | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| TAL-Reverb-4 | Free | Plate reverb | Warm, musical, low-CPU spatial tool | [Free Download](https://tal-software.com/products/tal-reverb-4) |
+| TAL-Reverb-4 | Free | Plate reverb | Plate reverb, free | [Free Download](https://tal-software.com/products/tal-reverb-4) |
 | Valhalla Freq Echo | Free | Frequency-shifting delay | Metallic, resonant, non-standard delay textures | [Free](https://valhalladsp.com/shop/delay/valhalla-freq-echo/) |
 | LABS | Free | Sample library | Organic/cinematic layers, continuously expanding | [Free](https://labs.spitfireaudio.com) |
-| Podolski | Free | Subtractive synth | Low-CPU, clean basslines and pads | [Free](https://u-he.com/products/podolski/) |
+| Podolski | Free | Subtractive synth | Clean basslines and pads | [Free](https://u-he.com/products/podolski/) |
 
 ---
 

@@ -25,7 +25,7 @@ heroImage: "/images/best-free-strings-vst-plugins_collage.jpg"
 | Virtual Playing Orchestra | Free | Notation-integrated mock-ups, solo and ensemble | [Official Site](https://virtualplaying.com/virtual-playing-orchestra//) |
 | OT SINE Player | Free | Gateway into the Orchestral Tools ecosystem | [Official Site](https://www.orchestraltools.com/get-sine) |
 | VCSL | Free | Broad orchestral palette beyond standard strings | [Official Site](https://versilian-studios.com/vcsl/) |
-| DSK Dynamic Strings | Free | Instant string beds, lightweight, no setup | [Official Site](https://www.dskmusic.com/dsk-strings//) |
+| DSK Dynamic Strings | Free | Instant string beds, no setup | [Official Site](https://www.dskmusic.com/dsk-strings//) |
 | Decent Sampler | Free | Pianobook strings ecosystem in one player | [Official Site](https://www.decentsamples.com/product/decent-sampler-plugin/) |
 
 ---
@@ -181,7 +181,7 @@ VCSL (Versilian Community Sample Library) is Versilian Studios' open-source comp
 
 ---
 
-## Lightweight and Workflow-Friendly Options
+## Workflow-Friendly Options
 
 These plugins prioritize fast loading, minimal setup, and ease of use over deep realism. They are the right choice when you need strings in a sketch quickly or when heavier libraries are impractical for your system.
 
@@ -234,7 +234,7 @@ Orchestral Tools, the developers behind the Berlin Series of professional orches
 - **Use case:** Instant ensemble string beds for blocking out parts in a sketch
 - **Limitation:** Windows-only, and not competitive with sample-based options for realism or articulation depth
 
-DSK Dynamic Strings is a standalone free VST that delivers basic string tones without requiring an external player, account creation, or large download. It suits producers who need simple ensemble string sounds in a lightweight package, such as for blocking out string parts in a sketch before committing to a heavier library. It is not competitive with the sample-based options above for realism or articulation depth, but its near-instant setup makes it worth having on hand. Note that DSK Music plugins are Windows-only, which excludes macOS users entirely.
+DSK Dynamic Strings is a standalone free VST that delivers basic string tones without requiring an external player, account creation, or large download. It suits producers who need simple ensemble string sounds, such as for blocking out string parts in a sketch before committing to a heavier library. It is not competitive with the sample-based options above for realism or articulation depth, but its near-instant setup makes it worth having on hand. Note that DSK Music plugins are Windows-only, which excludes macOS users entirely.
 
 **Best for:** Windows producers who want string sounds in a project immediately, with no configuration overhead.
 
@@ -253,9 +253,9 @@ DSK Dynamic Strings is a standalone free VST that delivers basic string tones wi
 - **Use case:** Loading the large Pianobook catalog of free string and orchestral instruments from one player
 - **Limitation:** You curate individual instruments yourself; community library licenses vary and must be checked per pack
 
-Decent Sampler is a free, lightweight sample player plugin that opens access to a large catalog of free instrument presets, with a significant concentration of string and orchestral instruments. The .dspreset format is the standard for the Pianobook platform — Spitfire Audio's community hub for contributed free instruments — and dedicated string libraries are published there by professional composers and developers on an ongoing basis. As a VST plugin, it loads these libraries with a clean, minimal interface and modest CPU requirements. Installing Decent Sampler gives access to dozens of free string instruments through Pianobook alone, making it a quick way to add string instruments.
+Decent Sampler is a free sample player plugin that opens access to a large catalog of free instrument presets, with a significant concentration of string and orchestral instruments. The .dspreset format is the standard for the Pianobook platform — Spitfire Audio's community hub for contributed free instruments — and dedicated string libraries are published there by professional composers and developers on an ongoing basis. As a VST plugin, it loads these libraries with a clean, minimal interface. Installing Decent Sampler gives access to dozens of free string instruments through Pianobook alone, making it a quick way to add string instruments.
 
-**Best for:** Producers who want the broadest possible range of free string tones from a single, lightweight plugin install.
+**Best for:** Producers who want the broadest possible range of free string tones from a single plugin install.
 
 [→ Get Decent Sampler Free](https://www.decentsamples.com/product/decent-sampler-plugin/)
 

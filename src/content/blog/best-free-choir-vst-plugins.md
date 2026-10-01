@@ -20,7 +20,7 @@ priceTrack: ["Bloom Vocal Choir"]
 |--------|-------|----------|--------|
 | Spitfire LABS Choir | Free | Cinematic realism, film scoring, ambient beds | [Free Download](https://labs.spitfireaudio.com/) |
 | BBC Symphony Orchestra Discover | Free | Full orchestral library with integrated choir | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-choir-vst-plugins&chan=art&data1=best-free-choir-vst-plugins) |
-| DSK Choirs | Free | CPU-light choir textures, Windows workflow | Free (DSK Music) |
+| DSK Choirs | Free | Choir textures, Windows workflow | Free (DSK Music) |
 | Virtual Playing Orchestra | Free | Complete orchestral + choir template | Free (community project) |
 | Sonatina Symphonic Orchestra | Free | Open SFZ choir, maximum portability | Free (community project) |
 | Alter/Ego by Plogue | Free | Synthetic choir synthesis, experimental vocal | Free (Plogue) |
@@ -81,7 +81,7 @@ The choir section in Discover is not as detailed as LABS Choir in isolation. The
 
 ---
 
-### DSK Choirs — Lightweight and CPU-Friendly for Dense Sessions
+### DSK Choirs — Simple Sampled Choir for Windows
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/qJOVeq5o1t8" title="DSK ChoirZ - Free VST" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -241,7 +241,7 @@ The constraint is platform lock-in: Soundpaint instruments require the Soundpain
 |--------|-------|------|------------|-----|
 | Spitfire LABS Choir | Free | Sampled choir | Professional ensemble recording, LABS player | [Free Download](https://labs.spitfireaudio.com/) |
 | BBC Symphony Orchestra Discover | Free | Full orchestral library | Maida Vale recording, choir + full orchestra | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-choir-vst-plugins&chan=art&data1=best-free-choir-vst-plugins) |
-| DSK Choirs | Free | Sampled VST | Lightweight, no extra player, Windows | Free (DSK Music) |
+| DSK Choirs | Free | Sampled VST | No extra player, Windows | Free (DSK Music) |
 | Virtual Playing Orchestra | Free | SFZ orchestral | Full orchestra + choir, community-maintained | Free (community) |
 | Sonatina Symphonic Orchestra | Free | SFZ orchestral | Open-source, cross-platform, portable | Free (community) |
 | Alter/Ego | Free | Vocal synthesis | Algorithmic vocal generation, free voice packs | Free (Plogue) |

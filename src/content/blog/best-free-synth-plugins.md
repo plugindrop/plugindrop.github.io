@@ -170,7 +170,7 @@ OB-Xd emulates the Oberheim OB-X and OB-Xa, classic polysynths defined by their 
 
 Helm was Matthew Tytel's main instrument before Vital arrived, and it still earns its place in a plugin folder. Two oscillators, a sub-oscillator, a flexible resonant filter, an onboard step sequencer, and a visual modulation routing system make it an excellent teaching tool and a practical workhorse for lighter sessions. Tytel no longer actively develops it, but it is stable across current DAWs and operating systems.
 
-**Best for:** Learning synthesis fundamentals, lightweight sessions, clean subtractive patches
+**Best for:** Learning synthesis fundamentals, clean subtractive patches
 
 **Skip it if:** you want a synth that is still gaining features — Tytel has moved his energy to Vital, so Helm is stable but effectively frozen.
 
@@ -265,7 +265,7 @@ Charlatan is a straightforward two-oscillator virtual analog synth with polyphon
 
 Podolski is u-he's minimalist free synth (one oscillator, one filter, one envelope, one arpeggiator), but the filter is the story. It uses u-he's zero-delay feedback circuit modeling, producing a resonant sweep that sounds noticeably more alive than what most freeware offers. CPU usage is negligible. For leads and basses where the filter character matters, it outpunches plugins costing far more.
 
-**Best for:** Filter-driven leads and basses, CPU-light sessions, producers who want u-he filter quality on any machine
+**Best for:** Filter-driven leads and basses, producers who want u-he filter quality
 
 **Skip it if:** you need layering or multitimbral depth — one oscillator, one filter, one envelope is the whole architecture.
 
@@ -436,7 +436,7 @@ Honest take: none of these will make you a better producer than a well-learned V
 | TAL-NoiseMaker | Free | Virtual Analog | 3 oscillators, onboard FX, easiest to learn | [→ Download TAL-NoiseMaker Free](https://tal-software.com/products/tal-noisemaker) |
 | Synth1 | Free | Virtual Analog | 100,000+ community presets, Nord-inspired | [Free Download](https://daichilab.sakura.ne.jp/softsynth/index.html) |
 | Charlatan | Free | Virtual Analog | Simple, stable, clean two-oscillator patches | [Developer](https://www.blaukraut.info/) |
-| Podolski | Free | Virtual Analog | ZDF filter, ultra-low CPU, u-he quality | [Free Download](https://u-he.com/products/podolski/) |
+| Podolski | Free | Virtual Analog | ZDF filter, u-he quality | [Free Download](https://u-he.com/products/podolski/) |
 | Odin2 | Free | Multi-Synthesis | 6 oscillator modes, semi-modular, open source | [Free Download](https://thewavewarden.com/odin2/) |
 | Pendulate | Free | Chaos / Experimental | Double-pendulum oscillator, Eventide-backed | [Developer](https://www.newfangledaudio.com/pendulate) |
 | Magical8bitPlug 2 | Free | Chiptune | NES/Game Boy chip emulation, duty cycle control | [Free Download](https://ymck.net/app/magical-8bit-plug-en/) |
@@ -469,7 +469,7 @@ Not every producer makes every style. Here is a focused view of which instrument
 | **Trap / Hip-Hop** | Vital | TAL-NoiseMaker | Dark, detuned leads and 808-adjacent bass patches come naturally from wavetable |
 | **Ambient / Cinematic** | ZynAddSubFX | Odin2 | PADsynth engine and semi-modular routing produce rich, evolving textures |
 | **DnB / Neuro Bass** | Surge XT | Odin2 | Deep modulation routing enables the complex, animated basses the genre demands |
-| **House / Tech House** | Tyrell N6 | TAL-NoiseMaker | Warm, punchy analog leads and basslines with minimal CPU overhead |
+| **House / Tech House** | Tyrell N6 | TAL-NoiseMaker | Warm, punchy analog leads and basslines |
 | **Chiptune / Lo-Fi** | Magical8bitPlug 2 | Synth1 | Authentic NES/Game Boy waveforms, or vintage preset library for lo-fi character |
 | **Experimental / IDM** | Pendulate | Crystal | Chaotic oscillator physics and three-engine hybrid for sounds unavailable elsewhere |
 | **FM / 80s Pop** | Dexed | Surge XT | DX7 SysEx compatibility opens access to decades of classic FM patches |
