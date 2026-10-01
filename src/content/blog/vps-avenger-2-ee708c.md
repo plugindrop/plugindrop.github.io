@@ -1,6 +1,6 @@
 ---
-title: "50% Off VPS Avenger 2 — Synth for DTM & Audio ($124, ends 30 Sep)"
-description: "Save 50% on VPS Avenger 2 — a synth plugin designed for DTM and audio production — normally $249, now $124. The deal ends 30 September, so grab it..."
+title: "50% Off VPS Avenger 2 — Synth Plugin ($124, ends 30 Sep)"
+description: "Save 50% on VPS Avenger 2 — a synth plugin designed for music production — normally $249, now $124. The deal ends 30 September, so grab it..."
 pubDate: "2026-09-02T13:54:09Z"
 tags: ["sale", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=VPS+Avenger+2&a_aid=69cb95abe1763&chan=trk&data1=vps-avenger-2-ee708c&utm_source=plugindrop&utm_medium=article&utm_campaign=vps-avenger-2-ee708c"
@@ -13,7 +13,7 @@ draft: true
 updatedDate: "2026-09-14T12:57:07.902059+00:00"
 saleExpiry: "2026-09-11"
 ---
-**TL;DR:** Save 50% on VPS Avenger 2 — a synth plugin designed for DTM and audio production — normally ~~$249~~, now $124. The deal ends 30 September, so grab it before it’s gone. [Get the deal here](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11545-VPS-Avenger-2?a_aid=69cb95abe1763&chan=art&data1=vps-avenger-2-vps-av&utm_source=plugindrop&utm_medium=article&utm_campaign=vps-avenger-2-vps-av).
+**TL;DR:** Save 50% on VPS Avenger 2 — a synth plugin designed for music production — normally ~~$249~~, now $124. The deal ends 30 September, so grab it before it’s gone. [Get the deal here](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11545-VPS-Avenger-2?a_aid=69cb95abe1763&chan=art&data1=vps-avenger-2-vps-av&utm_source=plugindrop&utm_medium=article&utm_campaign=vps-avenger-2-vps-av).
 
 <!-- deal-context-sale-windows:start -->
 ## Last three times this went on sale
@@ -23,7 +23,7 @@ saleExpiry: "2026-09-11"
 
 ## What you actually get
 
-VPS Avenger 2 is a virtual synthesizer plugin designed for DTM (Digital Track Making) and general audio production. It offers a range of synthesis methods, including subtractive and FM, and is built with a focus on sound design flexibility. The plugin includes a variety of oscillators, filters, and modulation options, making it suitable for creating a wide range of synth tones. It is compatible with major DAWs and runs on both Windows and macOS.
+VPS Avenger 2 is a virtual synthesizer plugin designed for music and general audio production. It offers a range of synthesis methods, including subtractive and FM, and is built with a focus on sound design flexibility. The plugin includes a variety of oscillators, filters, and modulation options, making it suitable for creating a wide range of synth tones. It is compatible with major DAWs and runs on both Windows and macOS.
 
 ## Where it fits in a session
 

@@ -62,9 +62,9 @@ Splice INSTRUMENT is a sample-based virtual instrument, available as a plugin (V
 - **Developer:** Splice, with plugin vendors
 - **How it works (per Splice):** Try any software free, then pay as you go until you own it. No interest.
 - **Catalog:** Full software licenses for 130+ tools
-- **Example monthly prices on splice.com:** Serum 2 (Xfer Records) $9.99/mo; RC-20 Retro Color (XLN Audio) $4.99/mo; V Collection 11 Pro (Arturia) $24.99/mo
+- **Example monthly prices on splice.com:** Serum 2 (Xfer Records) $9.99/mo for 25 months (full price listed as $249.75, 3-day free trial, as shown on Splice's Serum 2 page on 2026-10-01); RC-20 Retro Color (XLN Audio) $4.99/mo; V Collection 11 Pro (Arturia) $24.99/mo
 
-Each plugin has its own monthly price on Splice's marketplace, which also lists some plugins for outright sale and some as free. We do not have vendor information on total cost or term for individual plugins, so check the plugin's page on splice.com before starting. If you would rather compare one-time prices, retailers such as [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=splice-review-2026) sell perpetual licenses for many of the same products; check both prices before deciding.
+Each plugin has its own monthly price on Splice's marketplace, which also lists some plugins for outright sale and some as free. The number of months varies by plugin (Serum 2's page lists 25), so check the plugin's page on splice.com before starting. If you would rather compare one-time prices, retailers such as [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=splice-review-2026) sell perpetual licenses for many of the same products; check both prices before deciding.
 
 ---
 

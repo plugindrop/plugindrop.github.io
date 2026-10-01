@@ -35,7 +35,7 @@ The available deal information identifies it as a DTM/audio plugin. For the deve
 
 - **Enhancer-category effect:** Plugin Boutique classifies SubCulture as an Enhancer, placing it within an audio-processing workflow rather than an instrument library.
 
-- **Music-production plugin format:** The product is presented for DTM and audio-plugin use cases.
+- **Music-production plugin format:** The product is presented for music-production and audio-plugin use cases.
 
 - **Download-store availability:** The active deal is available through Plugin Boutique.
 

@@ -1,5 +1,5 @@
 ---
-title: "Klevgrand Elpiano Electric Piano Plugin: Specs and Recorded $25 Sale"
+title: "Klevgrand Elpiano: Specs and a Recorded $25 Sale at Plugin Boutique"
 description: "Klevgrand Elpiano: 10 electric piano models, 5 cabinets, 50 presets and built-in effects. PluginDrop recorded $25 (regular $149) at Plugin Boutique in September 2026."
 pubDate: "2026-09-08T15:07:20Z"
 tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]

@@ -22,7 +22,7 @@ If you only install one, make it Bloom Drum Machine if your workflow needs a pat
 
 ## What Is Bloom Drum Machine?
 
-Bloom Drum Machine is a virtual instrument from Excite Audio designed around creating and transforming drum patterns. It combines drum sounds, sequencing tools, and performance-oriented controls in one plugin interface for DTM, electronic production, and beat-driven writing sessions.
+Bloom Drum Machine is a virtual instrument from Excite Audio designed around creating and transforming drum patterns. It combines drum sounds, sequencing tools, and performance-oriented controls in one plugin interface for electronic production, and beat-driven writing sessions.
 
 The instrument is aimed at producers who want to build rhythmic ideas inside their DAW without starting from an empty MIDI clip. Check the product page for the current included content, supported formats, and system requirements.
 
