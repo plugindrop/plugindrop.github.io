@@ -10,7 +10,7 @@ xText: "8Dio Silka — emotional soft choir, 63k samples, phrase builder up to 6
 draft: true
 ---
 
-**TL;DR:** Silka is 8Dio's emotional soft choir — 65 voices, 63,500 samples, and a rhythmic phrase builder for creating moving choral textures. Currently eligible for the **[Pick Any 3 Choirs for $69 deal](https://8dio.com/)**. [Buy on Plugin Boutique →](https://www.pluginboutique.com/product/instruments/instrument-other/8dio-productions-silka/?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-silka&chan=art&data1=8dio-silka)
+**TL;DR:** Silka is 8Dio's emotional soft choir — 65 voices, 63,500 samples, and a rhythmic phrase builder for creating moving choral textures. Currently eligible for the **[Pick Any 3 Choirs for $69 deal](https://8dio.com/)**. [Buy at 8Dio →](https://8dio.com/)
 
 ---
 
@@ -113,7 +113,7 @@ Silka is well-suited for composers who need emotionally expressive choir texture
 
 Silka is one of 6 eligible titles in the **[Pick Any 3 Choirs for $69 deal](https://8dio.com/)** offer. It pairs naturally with Lacrimosa (epic/soft contrast) or Insolidus (two complementary soft choir colors).
 
-[→ See all eligible titles and grab the deal](https://www.pluginboutique.com/product/instruments/instrument-other/8dio-productions-silka/?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=8dio-silka&chan=art&data1=8dio-silka)
+[→ See all eligible titles and grab the deal](https://8dio.com/)
 
 ---
 

@@ -271,17 +271,17 @@ The Yamaha DX7's 6-operator FM architecture is notoriously difficult to program 
 
 | Instrument | Price | Type | Highlights | CTA |
 |------------|-------|------|------------|-----|
-| Arturia V Collection 11 (full bundle) | ~$499 | Bundle | 40+ instruments, Analog Lab V, 11,000+ presets | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review) |
-| Prophet-5 V | Included | Poly Synth | Rev 3.2/3.3 voice variation modeling | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review) |
-| CS-80 V | Included | Poly Synth | Dual-layer, ribbon, polyphonic AT | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review) |
-| OB-Xa V | Included | Poly Synth | Voice card variation, classic chorus | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review) |
-| Mini V4 | Included | Mono Synth | Ladder filter, poly mode added | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review) |
-| ARP 2600 V | Included | Semi-Modular | Spring reverb, extended sequencer | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review) |
-| Acid V | Included | Bass Synth | Circuit-accurate 303 accent/glide | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review) |
-| Stage-73 V | Included | Electric Piano | Tine variation, suitcase tremolo | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review) |
-| B-3 V3 | Included | Organ | Tonewheel crosstalk, Leslie simulation | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review) |
-| DX7 V | Included | FM Synth | Visual FM editor, 6-operator accuracy | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review) |
-| CMI V | Included | Sampler | 8-bit Fairlight character, Page R sequencer | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review) |
+| Arturia V Collection 11 (full bundle) | ~$499 | Bundle | 40+ instruments, Analog Lab V, 11,000+ presets | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20V%20Collection&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review) |
+| Prophet-5 V | Included | Poly Synth | Rev 3.2/3.3 voice variation modeling | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20V%20Collection&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review) |
+| CS-80 V | Included | Poly Synth | Dual-layer, ribbon, polyphonic AT | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20V%20Collection&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review) |
+| OB-Xa V | Included | Poly Synth | Voice card variation, classic chorus | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20V%20Collection&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review) |
+| Mini V4 | Included | Mono Synth | Ladder filter, poly mode added | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20V%20Collection&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review) |
+| ARP 2600 V | Included | Semi-Modular | Spring reverb, extended sequencer | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20V%20Collection&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review) |
+| Acid V | Included | Bass Synth | Circuit-accurate 303 accent/glide | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20V%20Collection&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review) |
+| Stage-73 V | Included | Electric Piano | Tine variation, suitcase tremolo | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20V%20Collection&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review) |
+| B-3 V3 | Included | Organ | Tonewheel crosstalk, Leslie simulation | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20V%20Collection&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review) |
+| DX7 V | Included | FM Synth | Visual FM editor, 6-operator accuracy | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20V%20Collection&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review) |
+| CMI V | Included | Sampler | 8-bit Fairlight character, Page R sequencer | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20V%20Collection&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review) |
 | NI Komplete | Paid (varies) | Mega Bundle | Orchestral, modern synths, FX, sampling | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review) |
 
 ---

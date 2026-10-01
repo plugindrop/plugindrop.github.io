@@ -263,7 +263,7 @@ TAL-Saturator V2 is a waveshaper with adjustable drive, saturation character, an
 
 **Best for:** Subtle drive and harmonic thickening on polyphonic synthesizers, pads, and chord stacks.
 
-[→ Download TAL-Saturator V2 Free](https://tal-software.com/products/tal-effects)
+
 
 ---
 
@@ -312,7 +312,7 @@ If you have been working with IVGI, Saturation Knob, Chow Tape Model, or TAL-Sat
 | Chow Tape Model | Free | Physical tape model | Physics-based, open source, flutter/wow | [Free](https://chowdsp.com/products.html) |
 | Softube Saturation Knob | Free | Frequency-aware saturation | 3 modes, zero config, fast insert | [Free](https://www.softube.com/plug-ins/saturation-knob) |
 | IVGI by Klanghelm | Free | Analog circuit saturation | Same developer as SDRR, no limitations | [Free](https://klanghelm.com/contents/products/IVGI) |
-| TAL-Saturator V2 | Free | Waveshaper | stable, Linux support | [Free](https://tal-software.com/products/tal-effects) |
+| TAL-Saturator V2 | Free | Waveshaper | stable, Linux support | — |
 
 ---
 

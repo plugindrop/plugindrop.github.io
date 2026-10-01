@@ -21,7 +21,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Celemony Melodyne 5 | ~$399 (Editor) | Natural-sounding correction, polyphonic audio, detailed post-production | [Plugin Boutique](https://www.pluginboutique.com/search?q=Melodyne&a_aid=69cb95abe1763&chan=art&data1=melodyne-vs-autotune) |
-| Auto-Tune Pro | see Antares for current pricing | Real-time correction, pop/hip-hop vocals, creative pitch effects | [Plugin Boutique](https://www.pluginboutique.com/search?q=Melodyne&a_aid=69cb95abe1763&chan=art&data1=melodyne-vs-autotune) |
+| Auto-Tune Pro | see Antares for current pricing | Real-time correction, pop/hip-hop vocals, creative pitch effects | [Antares](https://www.antarestech.com/) |
 
 ---
 
@@ -137,11 +137,11 @@ Auto-Tune Pro is sold as one full-featured product with a perpetual license or s
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Melodyne 5 Essential | ~$99 | Pitch editor | Monophonic, note editing, ARA2 | [Plugin Boutique](https://www.pluginboutique.com/search?q=Auto&a_aid=69cb95abe1763&chan=art&data1=melodyne-vs-autotune) |
-| Melodyne 5 Assistant | ~$199 | Pitch editor | + Scale snapping, tempo editing | [Plugin Boutique](https://www.pluginboutique.com/search?q=Auto&a_aid=69cb95abe1763&chan=art&data1=melodyne-vs-autotune) |
-| Melodyne 5 Editor | ~$399 | Pitch editor | + DNA polyphonic editing | [Plugin Boutique](https://www.pluginboutique.com/search?q=Auto&a_aid=69cb95abe1763&chan=art&data1=melodyne-vs-autotune) |
-| Melodyne 5 Studio | ~$699 | Pitch editor | + Multi-track editing | [Plugin Boutique](https://www.pluginboutique.com/search?q=Auto&a_aid=69cb95abe1763&chan=art&data1=melodyne-vs-autotune) |
-| Auto-Tune Pro | see Antares for current pricing | Real-time + editor | Auto mode, Graph mode, ARA2, MIDI | [Plugin Boutique](https://www.pluginboutique.com/search?q=Auto&a_aid=69cb95abe1763&chan=art&data1=melodyne-vs-autotune) |
+| Melodyne 5 Essential | ~$99 | Pitch editor | Monophonic, note editing, ARA2 | [Plugin Boutique](https://www.pluginboutique.com/search?q=Melodyne&a_aid=69cb95abe1763&chan=art&data1=melodyne-vs-autotune) |
+| Melodyne 5 Assistant | ~$249 | Pitch editor | + Scale snapping, tempo editing | [Plugin Boutique](https://www.pluginboutique.com/search?q=Melodyne&a_aid=69cb95abe1763&chan=art&data1=melodyne-vs-autotune) |
+| Melodyne 5 Editor | ~$399 | Pitch editor | + DNA polyphonic editing | [Plugin Boutique](https://www.pluginboutique.com/search?q=Melodyne&a_aid=69cb95abe1763&chan=art&data1=melodyne-vs-autotune) |
+| Melodyne 5 Studio | ~$699 | Pitch editor | + Multi-track editing | [Plugin Boutique](https://www.pluginboutique.com/search?q=Melodyne&a_aid=69cb95abe1763&chan=art&data1=melodyne-vs-autotune) |
+| Auto-Tune Pro | see Antares for current pricing | Real-time + editor | Auto mode, Graph mode, ARA2, MIDI | [Antares](https://www.antarestech.com/) |
 
 ---
 

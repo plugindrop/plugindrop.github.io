@@ -10,7 +10,7 @@ priceTrack:
   - "FabFilter Pro-Q 4"
   - "Valhalla Room"
   - "Waves Platinum Bundle"
-  - "iZotope Ozone 11 Standard"
+  - "iZotope Ozone 12 Standard"
   - "Plugin Alliance bx_console SSL 4000E"
   - "NI Komplete 15 Ultimate"
 ---

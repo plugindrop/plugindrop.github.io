@@ -25,8 +25,8 @@ draft: false
 | Valhalla SpaceModulator | Free | Flanger & modulated delay | [Free Download](https://valhalladsp.com/shop/modulation/valhalla-space-modulator/) |
 | Graillon 2 | Free | Pitch-shifted delay FX | [Free Download](https://www.auburnsounds.com/products/Graillon.html) |
 | CHOW Tape Model | Free | Open-source tape saturation | [Plugin Boutique](https://www.pluginboutique.com/search?q=CHOW%20Tape%20Model&a_aid=69cb95abe1763&chan=art&data1=best-free-delay-vst-plugins) |
-| Delay Lama | Free | Vocal formant delay textures | [Plugin Boutique](https://www.pluginboutique.com/search?q=Delay%20Lama&a_aid=69cb95abe1763&chan=art&data1=best-free-delay-vst-plugins) |
-| MFreeformAnalyzer | Free | Delay chain spectrum analysis | [Plugin Boutique](https://www.pluginboutique.com/search?q=MFreeformAnalyzer&a_aid=69cb95abe1763&chan=art&data1=best-free-delay-vst-plugins) |
+| Delay Lama | Free | Vocal formant delay textures | — |
+| MFreeformAnalyzer | Free | Delay chain spectrum analysis | — |
 
 ---
 
@@ -101,7 +101,7 @@ Sound designers and ambient producers use Delay Lama as the starting point for t
 
 **Best for:** Experimental producers and sound designers who want organic vocal textures as delay source material.
 
-[→ Get Delay Lama on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Delay%20Lama&a_aid=69cb95abe1763&chan=art&data1=best-free-delay-vst-plugins)
+
 
 ---
 
@@ -181,7 +181,7 @@ Understanding delay acoustically rather than just by ear is what separates engin
 
 **Best for:** Mixing engineers who want to optimize delay integration using spectrum analysis alongside listening.
 
-[→ Get MFreeformAnalyzer on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20MFreeformAnalyzer&a_aid=69cb95abe1763&chan=art&data1=best-free-delay-vst-plugins)
+
 
 ---
 
@@ -231,11 +231,11 @@ The free picks above handle the majority of production scenarios. But when speci
 |--------|-------|------|------------|-----|
 | TAL-Dub-3 | Free | Tape delay | Wow/flutter, saturation, dub-focused | [TAL Software](https://tal-software.com/products/tal-dub) |
 | CHOW Tape Model | Free | Tape emulation | Physics-based hysteresis modeling | Plugin Boutique |
-| Delay Lama | Free | Formant/vocal | Organic vocal textures, experimental | Plugin Boutique |
+| Delay Lama | Free | Formant/vocal | Organic vocal textures, experimental | — |
 | Valhalla SpaceModulator | Free | Modulated delay/flanger | 11 algorithms, through-zero flanging | [Download](https://valhalladsp.com/shop/modulation/valhalla-space-modulator/) |
 | Valhalla Supermassive | Free | Reverb-delay hybrid | Self-oscillating modes, pitch shifting | Plugin Boutique |
 | Graillon 2 | Free | Pitch-delay utility | Harmonized echoes, pitch shifting | [Download](https://www.auburnsounds.com/products/Graillon.html) |
-| MFreeformAnalyzer | Free | Spectrum analyzer | Visual delay chain feedback | Plugin Boutique |
+| MFreeformAnalyzer | Free | Spectrum analyzer | Visual delay chain feedback | — |
 | Valhalla Delay | $50 | Multi-format delay | Tape/HiFi/Ghost/Pitch/Ratio modes | [Buy](https://valhalladsp.com/shop/delay/valhalladelay/) |
 | Waves H-Delay | $149 list ($34.99 sale on Waves, 2026-10-01) | Hybrid tape-digital | Analog warmth, BPM sync, Waves reliability | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20H-Delay&a_aid=69cb95abe1763&chan=art&data1=best-free-delay-vst-plugins) |
 | SoundToys EchoBoy | $199 | Hardware emulation | Space Echo, Echoplex, Echorec modeling | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763&chan=art&data1=best-free-delay-vst-plugins) |

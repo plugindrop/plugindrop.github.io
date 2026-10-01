@@ -17,10 +17,10 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Decent Sampler | Free | Bedroom producers, indie libraries, zero-budget setups | [Plugin Boutique](https://www.pluginboutique.com/search?q=Kontakt&a_aid=69cb95abe1763&chan=art&data1=kontakt-vs-decent-sampler) |
-| Kontakt Player | Free | NKS-certified pro libraries, tight DAW integration | [Plugin Boutique](https://www.pluginboutique.com/search?q=Kontakt&a_aid=69cb95abe1763&chan=art&data1=kontakt-vs-decent-sampler) |
-| Kontakt 8 (Full) | $299 | Library builders, boutique instruments, pro studios | [Plugin Boutique](https://www.pluginboutique.com/search?q=Kontakt&a_aid=69cb95abe1763&chan=art&data1=kontakt-vs-decent-sampler) |
-| Native Instruments Komplete | From $99 (Select) | All-in-one NI instruments + effects bundle | [Plugin Boutique](https://www.pluginboutique.com/search?q=Kontakt&a_aid=69cb95abe1763&chan=art&data1=kontakt-vs-decent-sampler) |
+| Decent Sampler | Free | Bedroom producers, indie libraries, zero-budget setups | [decent|SAMPLES](https://www.decentsamples.com/product/decent-sampler-plugin/) |
+| Kontakt Player | Free | NKS-certified pro libraries, tight DAW integration | [Plugin Boutique](https://www.pluginboutique.com/search?q=Kontakt%20Player&a_aid=69cb95abe1763&chan=art&data1=kontakt-vs-decent-sampler) |
+| Kontakt 8 (Full) | $299 | Library builders, boutique instruments, pro studios | [Plugin Boutique](https://www.pluginboutique.com/search?q=Kontakt%208&a_aid=69cb95abe1763&chan=art&data1=kontakt-vs-decent-sampler) |
+| Native Instruments Komplete | From $99 (Select) | All-in-one NI instruments + effects bundle | [Plugin Boutique](https://www.pluginboutique.com/search?q=Komplete%2026&a_aid=69cb95abe1763&chan=art&data1=kontakt-vs-decent-sampler) |
 
 ---
 
@@ -150,10 +150,10 @@ For producers who have not yet committed to specific commercial libraries, start
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Decent Sampler | Free | Open-format sampler | Linux support, zero cost, growing library | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&chan=art&data1=kontakt-vs-decent-sampler) |
-| Kontakt Player | Free | NKS-certified sampler | NKS library access, DAW integration | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&chan=art&data1=kontakt-vs-decent-sampler) |
-| Kontakt 8 (Full) | $299 | Full sampler + dev tool | KSP scripting, uncertified library support, full development environment | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&chan=art&data1=kontakt-vs-decent-sampler) |
-| Native Instruments Komplete | Check current price | Bundle including Kontakt 8 (Standard tier and above) | Full NI instrument + effects library, best per-plugin value in the ecosystem | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&chan=art&data1=kontakt-vs-decent-sampler) |
+| Decent Sampler | Free | Open-format sampler | Linux support, zero cost, growing library | [decent|SAMPLES](https://www.decentsamples.com/product/decent-sampler-plugin/) |
+| Kontakt Player | Free | NKS-certified sampler | NKS library access, DAW integration | [Plugin Boutique](https://www.pluginboutique.com/search?q=Kontakt%20Player&a_aid=69cb95abe1763&chan=art&data1=kontakt-vs-decent-sampler) |
+| Kontakt 8 (Full) | $299 | Full sampler + dev tool | KSP scripting, uncertified library support, full development environment | [Plugin Boutique](https://www.pluginboutique.com/search?q=Kontakt%208&a_aid=69cb95abe1763&chan=art&data1=kontakt-vs-decent-sampler) |
+| Native Instruments Komplete | Check current price | Bundle including Kontakt 8 (Standard tier and above) | Full NI instrument + effects library, best per-plugin value in the ecosystem | [Plugin Boutique](https://www.pluginboutique.com/search?q=Komplete%2026&a_aid=69cb95abe1763&chan=art&data1=kontakt-vs-decent-sampler) |
 
 ---
 
