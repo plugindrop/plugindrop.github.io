@@ -12,7 +12,7 @@ heroImage: "/images/news-native-instruments-releases-komplete-26-the-latest-vers
 
 ## Native Instruments Komplete 26: What's in the Bundle?
 
-**TL;DR:** Native Instruments has officially launched **Komplete 26** — their most comprehensive bundle yet, packing 190+ instruments and effects, 180,000+ sounds, and processors pulled from the NI, iZotope, and Brainworx catalogs. Street pricing typically ranges from roughly **$199 (Standard, on sale)** up to **$1,199+ (Collector's Edition, on sale)**, with steep discounts showing up during NI's recurring sale windows. Below we break down the tiers, who each one actually makes sense for, and — critically — whether you should buy today or wait. Always confirm final pricing on the [official product page](https://www.native-instruments.com/en/specials/komplete/komplete-26/?utm_source=plugindrop&utm_medium=article&utm_campaign=news-native-instruments-releases-komplete-26-the-latest-vers) before checking out.
+**TL;DR:** Native Instruments has officially launched **Komplete 26** — their most comprehensive bundle yet, packing 190+ instruments and effects, 180,000+ sounds, and processors pulled from the NI, iZotope, and Brainworx catalogs. NI's list prices are **$549 (Standard)**, **$1,249 (Ultimate)** and **$1,949 (Collector's Edition)**, with Komplete Select at **$99** (Electronic, Beats and Band editions), per the Native Instruments bundles page. Below we break down the tiers, who each one actually makes sense for, and — critically — whether you should buy today or wait. Always confirm final pricing on the [official product page](https://www.native-instruments.com/en/specials/komplete/komplete-26/?utm_source=plugindrop&utm_medium=article&utm_campaign=news-native-instruments-releases-komplete-26-the-latest-vers) before checking out.
 
 ---
 
@@ -37,16 +37,16 @@ Komplete 26 is Native Instruments' flagship music production suite, designed to 
 
 ## Pricing & Deal Details
 
-| Edition | Approx. Regular Price | Approx. Sale Price | You Save |
-|---|---|---|---|
-| Komplete 26 Select | $149 | $99 | ~34% |
-| Komplete 26 Standard | $599 | $199–$249 | ~60-67% |
-| Komplete 26 Ultimate | $999 | $599–$649 | ~35-40% |
-| Komplete 26 Collector's Edition | $1,999 | $1,199–$1,299 | ~35-40% |
+| Edition | NI list price (USD) |
+|---|---|
+| Komplete Select (Electronic / Beats / Band) | $99 |
+| Komplete 26 Standard | $549 |
+| Komplete 26 Ultimate | $1,249 |
+| Komplete 26 Collector's Edition | $1,949 |
 
-*Figures above are approximate street prices based on historical Komplete sale cycles — Native Instruments doesn't publish a single fixed "sale price," and actual discounts shift with promotions. Always [verify current pricing on the product page](https://www.native-instruments.com/en/specials/komplete/komplete-26/?utm_source=plugindrop&utm_medium=article&utm_campaign=news-native-instruments-releases-komplete-26-the-latest-vers) before buying.*
+*List prices as shown on the Native Instruments bundles page (checked 2026-10-01). Sale prices vary with promotions, so confirm the current price on the product page.*
 
-Upgrade pricing from a previous Komplete edition (e.g., Komplete 14/15 Ultimate → Komplete 26 Ultimate) is typically the cheapest path in, often landing well under the new-customer sale price — worth checking your Native Access account for eligibility before paying full freight.
+Upgrade pricing from a previous Komplete edition (e.g., Komplete 15 Ultimate → Komplete 26 Ultimate) is typically the cheapest path in, often landing well under the new-customer sale price — worth checking your Native Access account for eligibility before paying full freight.
 
 [Check current Komplete 26 pricing and tiers →](https://www.native-instruments.com/en/specials/komplete/komplete-26/?utm_source=plugindrop&utm_medium=article&utm_campaign=news-native-instruments-releases-komplete-26-the-latest-vers)
 
@@ -56,10 +56,10 @@ Upgrade pricing from a previous Komplete edition (e.g., Komplete 14/15 Ultimate 
 
 Not every producer needs the Collector's Edition. Here's how to think about it:
 
-- **Komplete 26 Select ($99–149)** — Best if you just want Kontakt Player-based instruments and a handful of essentials without committing to the full ecosystem. Good entry point, but you'll outgrow it fast if mixing/mastering is a priority.
-- **Komplete 26 Standard (~$199–249 on sale)** — The sweet spot for most home-studio producers. You get the core instrument library and a meaningful slice of the effects catalog without paying for redundant tools you won't touch.
-- **Komplete 26 Ultimate (~$599–649 on sale)** — Where the iZotope integration (Ozone, Neutron-family tools) and the broader Brainworx mixing chain start to matter. If your workflow includes mastering your own tracks, this tier is where the value case gets strong.
-- **Komplete 26 Collector's Edition (~$1,199+ on sale)** — Only worth it if you'll genuinely use the full orchestral, cinematic, and niche sound-design libraries. For most electronic/pop producers, this tier has diminishing returns relative to Ultimate.
+- **Komplete Select ($99)** — Best if you just want Kontakt Player-based instruments and a handful of essentials without committing to the full ecosystem. Good entry point, but you'll outgrow it fast if mixing/mastering is a priority.
+- **Komplete 26 Standard ($549 list)** — The sweet spot for most home-studio producers. You get the core instrument library and a meaningful slice of the effects catalog without paying for redundant tools you won't touch.
+- **Komplete 26 Ultimate ($1,249 list)** — Where the iZotope integration (Ozone, Neutron-family tools) and the broader Brainworx mixing chain start to matter. If your workflow includes mastering your own tracks, this tier is where the value case gets strong.
+- **Komplete 26 Collector's Edition ($1,949 list)** — Only worth it if you'll genuinely use the full orchestral, cinematic, and niche sound-design libraries. For most electronic/pop producers, this tier has diminishing returns relative to Ultimate.
 
 If you already own a recent Komplete version, price out the upgrade path first — it's almost always cheaper than buying a new-customer license, even during a sale.
 

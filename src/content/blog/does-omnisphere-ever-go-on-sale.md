@@ -17,6 +17,8 @@ heroImage: '/images/when-does-omnisphere-go-on-sale.jpg'
 
 ## Does Omnisphere Ever Go On Sale? Quick Answer
 
+> **Version note (checked 2026-10-01):** Spectrasonics' official Omnisphere page now lists Omnisphere 3 as the current version, replacing Omnisphere 2, with upgrades available to Omnisphere 1 and 2 owners and full backwards compatibility. The prices and details in this article were written for Omnisphere 2 and have not been re-verified for Omnisphere 3, so check the Spectrasonics webstore for current pricing.
+
 **No — not in any meaningful way.** Spectrasonics Omnisphere 2 has sat at **$499** since launch, and the company has never run a US, UK, or global storewide discount on it. The one documented exception was a **30% regional promotion in the DACH market (Germany, Austria, Switzerland) in 2023**, and it has not been repeated anywhere since. If you're waiting for a Black Friday or Cyber Monday deal, stop waiting — Spectrasonics doesn't participate.
 
 This matters for your buying decision because most VST shopping advice ("wait for the sale") simply doesn't apply here. Below is what actually works instead.

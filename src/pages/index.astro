@@ -22,7 +22,7 @@ import {
 	slugify,
 } from '../lib/priceUtils';
 import { articleRankScore, pbProductId, rankBiggestDiscounts, rankLiveDeals } from '../lib/dealRanking.mjs';
-import { buildFactBox, findTrackerEntryForPost, homeVerdictChip } from '../lib/articleDeal.mjs';
+import { buildFactBox, everydayPrice, findTrackerEntryForPost, homeVerdictChip } from '../lib/articleDeal.mjs';
 
 function fableVerdictLabel(verdict: 'good' | 'ok' | 'bad' | 'none', onSale: boolean): string {
 	if (verdict === 'none') return 'WAIT';
@@ -70,6 +70,7 @@ const trackerRows = Object.entries(trackerEntries)
 			regular,
 			off: pctOff(current, regular),
 			dealScore: dealScoreNumeric(entry),
+			everyday: !!everydayPrice(entry, Date.now()),
 		};
 	})
 	.sort((a, b) => {
@@ -79,6 +80,11 @@ const trackerRows = Object.entries(trackerEntries)
 		return aHasScore
 			? b.dealScore.score - a.dealScore.score || a.name.localeCompare(b.name)
 			: a.name.localeCompare(b.name);
+	})
+	// Same PB product listed under two display names (e.g. "GX 80" / "GX-80"): keep the first.
+	.filter((row, i, rows) => {
+		const id = pbProductId(row.entry.pb_url);
+		return rows.findIndex(r => pbProductId(r.entry.pb_url) === id) === i;
 	});
 
 const allPosts = (await getCollection('blog'))
@@ -140,6 +146,11 @@ const heroPosts = allPosts.filter(hasHeroImage);
 // drops. Tie-break by pubDate (newer first) instead of saleExpiry.
 const topDeals = heroPosts
 	.filter(p => p.data.affiliate && !isExpired(p) && isRealDeal(p) && !isFreePrice(p.data.dealPrice) && !isSamplePackDeal(p))
+	// A tracked everyday price (same price 30+ days) is not a sale: don't headline it as a deal.
+	.filter(p => {
+		const m = findTrackerEntryForPost(p, trackerEntries, p.body);
+		return !(m && everydayPrice(m.entry, now));
+	})
 	.map(post => ({ post, rank: articleRankScore(post, trackerEntries, now) }))
 	.filter((x): x is { post: (typeof heroPosts)[number]; rank: number } => x.rank !== null)
 	.sort((a, b) => {
@@ -174,6 +185,7 @@ const topDealTrackerIds = new Set(
 // sidebar rail (PR-1) -- a generous limit so exclusion of names already
 // shown in topDeals still leaves enough candidates.
 const liveFallbackPool: FallbackDeal[] = rankLiveDeals(trackerEntries, now, { limit: 20 })
+	.filter(d => !everydayPrice(d.entry, now))
 	.filter(d => !normalizedTopDealNames.has(d.name.trim().toLowerCase()) && !topDealTrackerIds.has(pbProductId(d.entry.pb_url)))
 	.map(d => {
 		const checked = latestCheckedDate(d.entry);
@@ -226,7 +238,11 @@ const shownIds = new Set([
 	...topDealTrackerIds,
 	...fallbackDeals.map(deal => pbProductId(deal.entry.pb_url)),
 ]);
-const biggestDeals = rankBiggestDiscounts(trackerEntries, now, { limit: 6, perKeyCap: 1, excludeIds: shownIds });
+// Entries sitting at the same price for 30+ days (everydayPrice) are not "discounts" -- drop them
+// instead of showing a large -% against a reference price that is no longer the regular one.
+const biggestDeals = rankBiggestDiscounts(trackerEntries, now, { limit: 24, perKeyCap: 1, excludeIds: shownIds })
+	.filter(d => !d.everyday)
+	.slice(0, 6);
 const displayedTopDealCount = topDeals.length + fallbackDeals.length;
 const topDealIds = new Set(topDeals.map(post => post.id));
 const moreFreshDeals = allPosts
@@ -432,14 +448,19 @@ const moreFreshDeals = allPosts
 					<table class="tracker-table">
 						<thead><tr><th>Plugin</th><th>Current</th><th>Regular</th><th>Off</th><th>Score</th><th><span class="sr-only">Store</span></th></tr></thead>
 						<tbody>
-							{trackerRows.map(row => (
+							{trackerRows.map((row, rowIdx) => {
+								const hasDetailPage = isProductNameIndexable(priceData, row.name);
+								// Keep the store link on the top rows and on rows with no detail page; other rows link to their
+								// own price page (which carries the store link) instead of repeating ~500 affiliate links here.
+								const showStoreLink = rowIdx < 40 || !hasDetailPage;
+								return (
 								<tr data-name={row.name.toLowerCase()}>
 									<td>{isProductNameIndexable(priceData, row.name)
 										? <a href={`/plugin-prices/${slugify(row.name)}/`}>{row.name}</a>
 										: <span>{row.name}</span>}</td>
 									<td class="price-current">{formatPrice(row.current)}</td>
 									<td><s class="price-regular">{formatPrice(row.regular)}</s></td>
-									<td>{row.off > 0 ? <span class="discount-chip">&minus;{row.off}%</span> : <span class="muted">&mdash;</span>}</td>
+									<td>{row.off > 0 && !row.everyday ? <span class="discount-chip">&minus;{row.off}%</span> : <span class="muted">&mdash;</span>}</td>
 									<td>
 										{row.dealScore.verdict === 'none'
 											? <span class="muted" title="No discount history — price is stable">&mdash;</span>
@@ -456,9 +477,12 @@ const moreFreshDeals = allPosts
 											})()
 										}
 									</td>
-									<td><a class="pb-link" href={pbLink(row.entry.pb_url, 'chan=home')} target="_blank" rel="noopener sponsored">PB &rarr;</a></td>
+									<td>{showStoreLink
+										? <a class="pb-link" href={pbLink(row.entry.pb_url, 'chan=home')} target="_blank" rel="noopener sponsored">PB &rarr;</a>
+										: <a class="pb-link" href={`/plugin-prices/${slugify(row.name)}/`}>Details &rarr;</a>}</td>
 								</tr>
-							))}
+								);
+							})}
 						</tbody>
 					</table>
 				</div>

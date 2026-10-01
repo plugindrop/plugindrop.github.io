@@ -57,8 +57,10 @@ const plainDescription = stripMarkdownEmphasis(description);
 })();
 </script>
 
-<!-- Google AdSense (site verification / pending review) -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6778334514115669" crossorigin="anonymous"></script>
+<!-- Google AdSense: indexable pages only (noindex pages carry no ad tag) -->
+{!noindex && (
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6778334514115669" crossorigin="anonymous"></script>
+)}
 
 <!-- Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com" />

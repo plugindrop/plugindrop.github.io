@@ -19,6 +19,8 @@ draft: false
 
 ## Quick Picks at a Glance
 
+> **Version note (checked 2026-10-01):** Spectrasonics' official Omnisphere page now lists Omnisphere 3 as the current version, replacing Omnisphere 2, with upgrades available to Omnisphere 1 and 2 owners and full backwards compatibility. The prices and details in this article were written for Omnisphere 2 and have not been re-verified for Omnisphere 3, so check the Spectrasonics webstore for current pricing.
+
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Omnisphere 2 | ~$479 | Sound design, pads, hybrid synthesis, film/game scoring | [Spectrasonics](https://www.spectrasonics.net/products/omnisphere/) |
