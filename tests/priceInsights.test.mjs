@@ -115,7 +115,7 @@ test('basis classifies only reviewed evidence and uses evidence date and price',
   assert.equal(isPricePageIndexable(saturn), true);
 });
 
-test('empty audit index keeps the expected 83 pages and exact 15 removals', () => {
+test('empty audit index keeps the expected 79 pages and exact 15 removals', () => {
   const all = [...Object.entries(priceData.plugins ?? {}), ...Object.entries(priceData.bundles ?? {})];
   const prior = (e) => {
     const s = priceSubstance(e);
@@ -130,8 +130,8 @@ test('empty audit index keeps the expected 83 pages and exact 15 removals', () =
       && s.priceLevels >= 2 && saleEpisodeCount(comparable) >= 2 && ownTrackingDays(e) >= 45
       && (e.all_time_low == null || e.typical_sale == null || e.all_time_low <= e.typical_sale);
   };
-  assert.equal(all.filter(([, e]) => prior(e)).length, 98);
-  assert.equal(all.filter(([, e]) => empty(e)).length, 83);
+  assert.equal(all.filter(([, e]) => prior(e)).length, 94);
+  assert.equal(all.filter(([, e]) => empty(e)).length, 79);
   assert.deepEqual(all.filter(([, e]) => prior(e) && !empty(e)).map(([n]) => n).sort(), [
     'Arturia Augmented STRINGS', 'FabFilter Pro-G', 'FabFilter Pro-L 2', 'FabFilter Pro-MB',
     'FabFilter Pro-Q 4', 'FabFilter Saturn 2', 'FabFilter Timeless 3', 'FabFilter Twin 3',
