@@ -61,7 +61,7 @@ Melodyne treats audio as a collection of individual note "blobs" that you can se
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TNOpFCXBX3M" title="Auto-Tune Pro — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Antares Audio Technologies
-- **Price:** ~$399 perpetual / ~$24.99/month subscription
+- **Price:** ~$399 perpetual / subscription option (see Antares for current pricing)
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX
 
@@ -168,7 +168,7 @@ A: Not in the same sense. Melodyne with ARA2 integration processes audio that's 
 A: For transparent correction where the editing should be inaudible, most engineers give the edge to Melodyne. Its object-based approach tends to produce fewer artifacts on sustained notes and breaths. However, Auto-Tune Pro's Flex-Tune mode is competitive for clean correction on well-performed vocals. The difference matters most when fixing larger pitch deviations.
 
 **Q: Is the Auto-Tune subscription worth it vs. perpetual?**
-A: The $24.99/month subscription includes Auto-Tune Pro and several other Antares products (EFX+, Artist, etc.), which can be good value if you use multiple Antares tools. If you only need Auto-Tune Pro, the perpetual license (~$399) pays for itself in under 17 months. For a long-term production setup, perpetual is almost always the better financial decision.
+A: The subscription includes Auto-Tune Pro and several other Antares products (EFX+, Artist, etc.), which can be good value if you use multiple Antares tools. If you only need Auto-Tune Pro, the perpetual license (~$399) pays for itself within a year or two of subscription fees. For a long-term production setup, perpetual is almost always the better financial decision.
 
 **Q: Does Melodyne work in Ableton Live?**
 A: Yes. Melodyne supports ARA2 in Ableton Live 11 and later (on macOS; Windows ARA2 in Ableton came later — verify your version). In older setups or DAWs without full ARA2 support, Melodyne can still run as a VST/AU plugin using the manual audio transfer method, which is more cumbersome but functional.

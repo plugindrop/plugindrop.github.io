@@ -26,7 +26,7 @@ priceTrack:
 | Waves Gold Bundle | $879 | $99–$175 | $79.99 | Any Waves flash sale |
 | Plugin Alliance (bx_console, Maag EQ4, Lindell 80, SPL Vitalizer, Shadow Hills, elysia niveau) | $179–$299 | $29.99 | $29.99 | PA's recurring "Any Plugin $29.99" promo |
 | iZotope Music Production Suite | $905–$999 | $499 | $362 | iZotope's Summer Sale or Black Friday |
-| iZotope Ozone 11 Standard | $199 | $99 | $70 | iZotope Black Friday |
+| iZotope Ozone 12 Standard | $219 | — | — | Check Plugin Boutique for current sales |
 | UAD 1176 Classic Limiter Collection | $149 | $49 | $29 | UA's storewide "up to 80% off" events |
 | Soundtoys 5.5 (bundle) | $659 | $299 | $239 | Soundtoys Summer Sale or Black Friday |
 | Soundtoys Decapitator (single) | $199 | $69 | — | Same Soundtoys sale windows |
@@ -52,7 +52,7 @@ Six separate Plugin Alliance products in our dataset — bx_console SSL 4000E, b
 
 ### iZotope — 50%+ off is the norm, not the exception
 
-iZotope Music Production Suite lists at $905–$999, but our tracked sale price sits at $499 (roughly 45–50% off), with an all-time low of $362 recorded at Best Service in August 2023. Ozone 11 Standard shows the same shape at smaller scale: $199 regular, $99 typical sale, and a documented $70 floor from Black Friday 2024. iZotope runs these discounts often enough — summer, fall, and Black Friday — that a full-price purchase usually means bad timing rather than no alternative.
+iZotope Music Production Suite lists at $905–$999, but our tracked sale price sits at $499 (roughly 45–50% off), with an all-time low of $362 recorded at Best Service in August 2023. Ozone 11 was priced the same way in past cycles, but ozone 11 has been replaced by Ozone 12 (Elements $55 / Standard $219 / Advanced $499 at Plugin Boutique, as of 2026-10-01). iZotope runs these discounts often enough — summer, fall, and Black Friday — that a full-price purchase usually means bad timing rather than no alternative.
 
 ### UAD 1176 Classic Limiter Collection — $149 down to $29
 

@@ -12,7 +12,8 @@ noindex: true
 
 ## TL;DR
 
-- iZotope Ozone 11 Standard's list price is $199, but based on our own price-tracker history it rarely sells at that price.
+- **Ozone 11 has been replaced by Ozone 12 (Elements $55 / Standard $219 / Advanced $499 at Plugin Boutique, as of 2026-10-01).** The figures below are historical Ozone 11 Standard prices from our tracker, kept for reference.
+- iZotope Ozone 11 Standard's former list price was $199, but based on our own price-tracker history it rarely sold at that price.
 - A recurring sale price of $99 shows up regularly enough that it's a reasonable target if you're not in a rush.
 - The lowest price we've ever recorded is $70 — an all-time low that doesn't happen on a predictable schedule.
 - We haven't been able to confirm any current bundle that reliably includes Ozone 11 Standard, so the standalone route below is the one we can actually verify.

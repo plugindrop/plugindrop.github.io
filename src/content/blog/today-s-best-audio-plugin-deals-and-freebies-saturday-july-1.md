@@ -51,7 +51,7 @@ Free promotions like this typically run for a limited window without a fixed end
 | Name | Price | Key Difference |
 |---|---|---|
 | Kilohearts Clipper | Free | Modular clipper included in the free Kilohearts Essentials bundle, works inside the Kilohearts snap-in host. |
-| Klanghelm SDRR2tube | ~$29 (check current pricing) | Dedicated tube-style saturation plugin, no clipping stage built in. |
+| Klanghelm SDRR2tube | Paid (check current pricing) | Dedicated tube-style saturation plugin, no clipping stage built in. |
 | Stock DAW clipping/saturation | Free | Most DAWs (Ableton, FL Studio, Logic) ship with basic clipping or saturation utilities included. |
 
 If you already use Kilohearts' ecosystem, its free Clipper snap-in covers similar ground at no cost. If you specifically want tube-style saturation without clipping, Klanghelm's SDRR2tube is a paid dedicated option. Beheader's appeal here is combining both clipping and saturation in one standalone plugin, currently free.

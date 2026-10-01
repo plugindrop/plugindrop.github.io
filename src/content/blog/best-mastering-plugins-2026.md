@@ -1,6 +1,6 @@
 ---
 title: "Best Mastering Plugins in 2026: Professional Tools Compared"
-description: "iZotope Ozone 11 Standard is an all-in-one mastering suite for bedroom producers in 2026, covering every stage of the mastering chain..."
+description: "iZotope Ozone 12 Standard is an all-in-one mastering suite for bedroom producers in 2026, covering every stage of the mastering chain..."
 pubDate: "2026-06-10T16:22:12Z"
 tags: ["guide", "vst", "mastering"]
 affiliate: ""
@@ -10,7 +10,9 @@ score: 8.00
 xText: "New guide: Best Mastering Plugins in 2026: Professional Tools Compared"
 draft: false
 ---
-**TL;DR:** iZotope Ozone 11 Standard is an all-in-one mastering suite covering EQ, dynamics, imaging, and limiting with an AI Mastering Assistant. FabFilter Pro-L 2 is a standalone limiter with eight algorithms. Before spending anything, anchor your chain with Voxengo SPAN and Youlean Loudness Meter 2 — both free, both essential.
+*Note: The previous Ozone 11 has been replaced by Ozone 12 (Elements $55 / Standard $219 / Advanced $499 at Plugin Boutique, as of 2026-10-01).*
+
+**TL;DR:** iZotope Ozone 12 Standard is an all-in-one mastering suite covering EQ, dynamics, imaging, and limiting with an AI Mastering Assistant. FabFilter Pro-L 2 is a standalone limiter with eight algorithms. Before spending anything, anchor your chain with Voxengo SPAN and Youlean Loudness Meter 2 — both free, both essential.
 
 
 <div class="video-embed">
@@ -21,7 +23,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| iZotope Ozone 11 Standard | ~$249 | All-in-one mastering suite | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
+| iZotope Ozone 12 Standard | $219 | All-in-one mastering suite | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
 | FabFilter Pro-L 2 | ~$199 | Transparent mastering limiter | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
 | FabFilter Pro-Q 3 | ~$179 | Surgical mastering EQ | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
 | Gullfoss | ~$199 | Intelligent spectral enhancement | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
@@ -39,7 +41,7 @@ This guide covers the best mastering plugins available through Plugin Boutique, 
 
 ## All-in-One Mastering Suites
 
-### iZotope Ozone 11 Standard — The most complete starting point for in-the-box mastering
+### iZotope Ozone 12 Standard — The most complete starting point for in-the-box mastering
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/6dN6raXIkR0" title="iZotope Ozone 11 Standard — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -48,13 +50,13 @@ This guide covers the best mastering plugins available through Plugin Boutique, 
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX
 
-Ozone 11 Standard packages EQ, dynamic EQ, multiband compression, stereo imaging, spectral shaping, and a maximizer into a single interface with an AI Mastering Assistant that analyzes incoming audio and proposes a starting-point signal chain. It suits producers building a first mastering chain or who want a cohesive integrated workflow. The AI assistant doesn't replace decisions; treat it as a starting point, not an endpoint.
+Ozone 12 Standard packages EQ, dynamic EQ, multiband compression, stereo imaging, spectral shaping, and a maximizer into a single interface with an AI Mastering Assistant that analyzes incoming audio and proposes a starting-point signal chain. It suits producers building a first mastering chain or who want a cohesive integrated workflow. The AI assistant doesn't replace decisions; treat it as a starting point, not an endpoint.
 
 The Standard tier omits the Vintage modules and some Advanced-exclusive features, but for most bedroom producers the Standard toolset covers every practical mastering need. The Advanced version earns consideration if mid/side processing flexibility across all modules is a priority.
 
 **Best for:** Producers who want an AI-guided all-in-one chain without assembling modules from multiple developers.
 
-[→ Get iZotope Ozone 11 on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026)
+[→ Get iZotope Ozone 12 on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026)
 
 ---
 
@@ -203,7 +205,7 @@ Gullfoss earns its place in a mastering chain when applied to material that does
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| iZotope Ozone 11 Standard | ~$249 | All-in-one suite | AI Mastering Assistant, full chain in one plugin | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
+| iZotope Ozone 12 Standard | $219 | All-in-one suite | AI Mastering Assistant, full chain in one plugin | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
 | FabFilter Pro-Q 3 | ~$179 | Mastering EQ | Dynamic EQ, linear phase, inter-instance spectrum matching | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
 | FabFilter Pro-L 2 | ~$199 | Mastering limiter | 8 algorithms, built-in LUFS metering, unity-gain bypass | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
 | Gullfoss | ~$199 | Intelligent EQ | Psychoacoustic spectral correction, real-time adaptation | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
@@ -217,7 +219,7 @@ Gullfoss earns its place in a mastering chain when applied to material that does
 ## How to Choose
 
 - **If you're building your first mastering chain from scratch:** Start with Voxengo SPAN and Youlean Loudness Meter 2 (both free) — the visibility they provide will inform every other decision you make about your chain.
-- **If you want one paid plugin to anchor an all-in-one mastering workflow:** iZotope Ozone 11 Standard covers EQ, compression, imaging, and limiting in a single purchase, making it the most cost-efficient starting point in the paid tier.
+- **If you want one paid plugin to anchor an all-in-one mastering workflow:** iZotope Ozone 12 Standard covers EQ, compression, imaging, and limiting in a single purchase, making it the most cost-efficient starting point in the paid tier.
 - **If you already have a basic chain and need a dedicated limiter:** FabFilter Pro-L 2 is our pick for a dedicated limiter — its built-in loudness metering also reduces your dependency on a separate metering plugin.
 - **If you need dynamic EQ and have no budget:** TDR Nova is a free option — learn it well before spending money on the GE upgrade or a paid alternative.
 - **If your mixes are already well-balanced and you want to add clarity in the final stage:** Gullfoss is the intelligent EQ option for this use case — apply it at conservative settings and treat it as enhancement, not correction.
@@ -255,7 +257,7 @@ Both are capable. If you already own Ozone, its EQ module handles most mastering
 
 ## Final Thoughts
 
-Download SPAN and Youlean Loudness Meter 2 before spending a dollar — they're free, and give you the visual foundation to make informed decisions about everything else in your chain. When you're ready to invest, iZotope Ozone 11 Standard is the most complete entry point for producers building a full mastering setup from scratch, and FabFilter Pro-L 2 is our pick for the final limiter.
+Download SPAN and Youlean Loudness Meter 2 before spending a dollar — they're free, and give you the visual foundation to make informed decisions about everything else in your chain. When you're ready to invest, iZotope Ozone 12 Standard is the most complete entry point for producers building a full mastering setup from scratch, and FabFilter Pro-L 2 is our pick for the final limiter.
 
 [→ Browse All Mastering Plugins on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026)
 

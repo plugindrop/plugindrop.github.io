@@ -13,15 +13,15 @@ heroImage: "/images/izotope-ozone-11-review_og.jpg"
 ---
 **TL;DR:** iZotope Ozone 11 is the most complete all-in-one mastering suite available in 2026. Its AI-powered Master Assistant gives you a professional starting point in under 30 seconds, and the full module chain — EQ, dynamics, imaging, limiting — handles everything without routing signals through multiple plugins. If you master inside your DAW, this is the one plugin worth investing in.
 
-**Update:** iZotope has since released Ozone 12. See our [iZotope Ozone 12 review](/posts/izotope-ozone-12-review/) for what changed and current pricing.
+**Update:** Ozone 11 has been replaced by Ozone 12 (Elements $55 / Standard $219 / Advanced $499 at Plugin Boutique, as of 2026-10-01). iZotope has since released Ozone 12. See our [iZotope Ozone 12 review](/posts/izotope-ozone-12-review/) for what changed and current pricing.
 
 ## Quick Picks at a Glance
 
 | Version / Tool | Price | Best For | Get It |
 |----------------|-------|----------|--------|
-| Ozone 11 Elements | ~$49 | Beginners, first-time masterers | [Official Site](https://www.izotope.com/en/products/ozone.html) |
-| Ozone 11 Standard | ~$199 | Independent artists, bedroom producers | [Official Site](https://www.izotope.com/en/products/ozone.html) |
-| Ozone 11 Advanced | ~$499 | Professional engineers, advanced workflows | [Official Site](https://www.izotope.com/en/products/ozone.html) |
+| Ozone 12 Elements | $55 | Beginners, first-time masterers | [Official Site](https://www.izotope.com/en/products/ozone.html) |
+| Ozone 12 Standard | $219 | Independent artists, bedroom producers | [Official Site](https://www.izotope.com/en/products/ozone.html) |
+| Ozone 12 Advanced | $499 | Professional engineers, advanced workflows | [Official Site](https://www.izotope.com/en/products/ozone.html) |
 | FabFilter Pro-L 2 | ~$199 | Dedicated limiting alongside Ozone | [Official Site](https://www.fabfilter.com/products/pro-l-2-limiter-plug-in) |
 | iZotope Music Production Suite | Bundle | Full iZotope mixing + mastering ecosystem | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Music%20Production%20Suite&a_aid=69cb95abe1763&chan=art&data1=izotope-ozone-11-review) |
 
@@ -49,7 +49,7 @@ With Ozone 12 now available, the practical question for most producers is not "i
 
 - **Stay on Ozone 11 if:** you already own it, your masters sound good, and you mainly use Master Assistant plus the core EQ, dynamics, imaging, and limiting modules. Ozone 11 remains a complete, professional-grade mastering suite in 2026 — nothing about it stopped working when 12 shipped.
 - **Consider Ozone 12 if:** you want the newest Master Assistant improvements, refreshed AI targeting, and the latest module updates, or you are buying a mastering suite for the first time and want the longest useful lifespan from your purchase.
-- **Buying fresh in 2026?** Start by comparing current pricing on both. Ozone 11 often sees deeper discounts once a new version is out, which can make it the better value if you do not need the newest features.
+- **Buying fresh in 2026?** Start by comparing current pricing on both. Ozone 11 has been replaced by Ozone 12 (Elements $55 / Standard $219 / Advanced $499 at Plugin Boutique, as of 2026-10-01). Check current pricing at Plugin Boutique before buying.
 
 The core workflow — analyze your track, generate a starting chain, refine by ear — is shared across both versions. The differences are incremental refinements rather than a reinvention, so upgrading is about whether those refinements matter to your workflow, not about fixing something broken.
 
@@ -223,9 +223,9 @@ The separation is not perfect on every source, and artifacts are audible on heav
 
 | Plugin / Version | Price | Type | Highlights | CTA |
 |------------------|-------|------|------------|-----|
-| Ozone 11 Elements | ~$49 | All-in-one mastering | Master Assistant, Maximizer, basic EQ | [Get It](https://www.izotope.com/en/products/ozone.html) |
-| Ozone 11 Standard | ~$199 | All-in-one mastering | Full module chain, Vintage modules, Match EQ | [Get It](https://www.izotope.com/en/products/ozone.html) |
-| Ozone 11 Advanced | ~$499 | Professional mastering suite | Stem Focus, all modules, advanced metering | [Get It](https://www.izotope.com/en/products/ozone.html) |
+| Ozone 12 Elements | $55 | All-in-one mastering | Master Assistant, Maximizer, basic EQ | [Get It](https://www.izotope.com/en/products/ozone.html) |
+| Ozone 12 Standard | $219 | All-in-one mastering | Full module chain, Vintage modules, Match EQ | [Get It](https://www.izotope.com/en/products/ozone.html) |
+| Ozone 12 Advanced | $499 | Professional mastering suite | Stem Focus, all modules, advanced metering | [Get It](https://www.izotope.com/en/products/ozone.html) |
 | FabFilter Pro-L 2 | ~$199 | Dedicated limiter | 6 algorithms, broadcast metering, true peak | [Get It](https://www.fabfilter.com/products/pro-l-2-limiter-plug-in) |
 | iZotope Music Production Suite | Bundle | Full production ecosystem | Ozone + Neutron + RX + Nectar + Tonal Balance | [Get It](https://www.pluginboutique.com/search?q=iZotope%20Music%20Production%20Suite&a_aid=69cb95abe1763&chan=art&data1=izotope-ozone-11-review) |
 
