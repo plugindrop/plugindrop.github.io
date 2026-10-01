@@ -75,7 +75,7 @@ V Collection is a consistent recommendation in "best plugin bundle" threads on R
 | Bundle | Price | Instruments | Key Difference |
 |---|---|---|---|
 | **Arturia V Collection 11 Pro** | **$699** | 45 | Vintage analog/digital modeling + Augmented hybrids |
-| NI Komplete 15 Standard | ~$399 | 50+ | Broader scope — synths, samples, effects, drums |
+| NI Komplete 26 Standard | $549 list | 50+ | Broader scope — synths, samples, effects, drums |
 | Cherry Audio bundles | ~$99–$199 | Varies | Lower price point, fewer instruments per bundle |
 | u-he Diva / Zebra | ~$50–$179 each | Individual | Sold separately, deeper control per synth |
 

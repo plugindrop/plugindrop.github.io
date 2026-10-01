@@ -65,9 +65,9 @@ Note: Verify current pricing and deal eligibility on the product page — deals 
 
 | Name | Price | Key Difference |
 |---|---|---|
-| iZotope Nectar Elements | ~$29–$49 (sale pricing varies) | Focused on corrective and assistive vocal production with AI-assisted processing |
+| iZotope Nectar Elements | see Plugin Boutique for current pricing | Focused on corrective and assistive vocal production with AI-assisted processing |
 | SoundToys Little AlterBoy | ~$99 (full price) | Specializes in pitch shifting and formant manipulation specifically |
-| Waves Tune Real-Time | ~$29–$49 (sale pricing varies) | Primarily a real-time pitch correction tool rather than a creative processor |
+| Waves Tune Real-Time | see Plugin Boutique for current pricing | Primarily a real-time pitch correction tool rather than a creative processor |
 
 If corrective pitch processing is your main need, Nectar Elements or Waves Tune Real-Time covers that ground more directly. If you want a creative, character-shaping vocal tool and you're already shopping at Plugin Boutique in June, BLEASS Vox at free is the straightforward pick.
 

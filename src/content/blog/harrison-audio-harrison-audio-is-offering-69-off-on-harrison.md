@@ -76,7 +76,7 @@ The original price is not confirmed — verify current pricing directly on the p
 |---|---|---|
 | TDR Nova | Free | Dynamic EQ / multiband hybrid; free with paid "Gentleman's Edition" upgrade |
 | FabFilter Pro-MB | ~$179 | Industry-standard multiband with extensive modulation and visual feedback |
-| iZotope Neutron | ~$99–$249 | Full mixing assistant suite; multiband compression is one of many included tools |
+| iZotope Neutron 5 | $299 | Full mixing assistant suite; multiband compression is one of many included tools |
 
 If budget is the main constraint and you need a capable multiband tool right now, TDR Nova covers the basics at no cost. FabFilter Pro-MB is the go-to when deep visual control and precision are the priority, at a much higher price point. Harrison's plugin sits in a distinct position as a brand-specific offering from a console-heritage company, now priced at a fraction of the competition.
 

@@ -68,7 +68,7 @@ Plugin Boutique does run promotional pricing events regularly, but a 97% markdow
 
 | Name | Price | Key Difference |
 |---|---|---|
-| iZotope Nectar | ~$99–$249 (check current pricing) | All-in-one vocal production suite with AI-assisted tools |
+| iZotope Nectar | $199 (Nectar 4 Standard) | All-in-one vocal production suite with AI-assisted tools |
 | Waves Vocal Bundle | Varies (frequent sales) | Long-established vocal processors with wide DAW compatibility |
 | Antares Auto-Tune Pro | see Antares for current pricing | Industry-standard pitch correction, widely used in professional production |
 

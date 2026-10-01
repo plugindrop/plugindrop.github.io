@@ -46,7 +46,7 @@ A Type Multiband Dynamic Enhancer is an audio enhancement plugin available throu
 
 | Plugin | Price | Key Difference |
 |---|---|---|
-| iZotope Neutron (Elements) | ~$49–$99 | Broader channel strip feature set; includes EQ, compressor, and transient shaper alongside enhancement |
+| iZotope Neutron 5 | $299 | Broader channel strip feature set; includes EQ, compressor, and transient shaper alongside enhancement |
 | Waves Aphex Vintage Aural Exciter | ~$29–$49 | Single-band exciter focused on harmonic saturation, not multiband dynamic processing |
 | FabFilter Pro-MB | ~$149–$179 | Multiband compressor/expander — more surgical dynamics control, less focused on enhancement character |
 

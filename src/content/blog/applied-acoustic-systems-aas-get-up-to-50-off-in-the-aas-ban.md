@@ -84,7 +84,7 @@ AAS has built a loyal following in the physical modeling space over the years. L
 |---|---|---|
 | Pianoteq (Modartt) | From ~$149 | Focuses on acoustic and electric piano modeling with deeper per-instrument customization |
 | Arturia V Collection | ~$399 (full) | Sample + modeling hybrid covering 30+ classic keyboards and synths |
-| Native Instruments Komplete | From ~$199 | Massive sample-based library spanning every instrument category |
+| Native Instruments Komplete | From $99 (Select) | Massive sample-based library spanning every instrument category |
 
 If you specifically want physical modeling across multiple instrument types (keys, guitar, mallets, synths), the AAS Modeling Collection or Integral bundle covers more ground than single-instrument alternatives. If you only need piano, Pianoteq is the direct competitor. If you want sheer breadth of sounds regardless of synthesis method, Komplete or V Collection cast a wider net.
 

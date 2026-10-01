@@ -29,7 +29,7 @@ draft: false
 | Heavyocity Damage 2 | $399 | Cinematic hybrid percussion | [Official Site](https://heavyocity.com/product/damage-2/) |
 | ProjectSAM Symphobia 1 | ~$199 | Ensemble cinematic scoring | [Official Site](https://projectsam.com/libraries/symphobia/) |
 | Spitfire Albion ONE | ~$399 | Full orchestral palette in one library | [Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026) |
-| Native Instruments Komplete | ~$599 (Standard) | Full Kontakt license + massive bundle | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026) |
+| Native Instruments Komplete | $549 (Standard) | Full Kontakt license + massive bundle | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026) |
 
 ---
 
@@ -305,10 +305,10 @@ Albion ONE is a first orchestral purchase option. Recorded at Air Studios in Lon
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ftJS9zSS6RM" title="Native Instruments Komplete — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Native Instruments
-- **Price:** ~$599 (Standard); ~$599–$999 for Ultimate; higher for Ultimate Collector's Edition — all tiers regularly discounted 30–50% during NI sales
+- **Price:** $549 (Standard); ~$599–$999 for Ultimate; higher for Ultimate Collector's Edition — all tiers regularly discounted 30–50% during NI sales
 - **Why upgrade:** Komplete Start's Player license restricts you to NI-authorized content only. The full Komplete bundle includes a complete Kontakt license — which is the key that unlocks the entire third-party library market, including 8Dio, Heavyocity, ProjectSAM, Cinesamples, and thousands of other Kontakt-native libraries. The bundle's per-instrument cost is substantially lower than individual pricing; the Kontakt license alone justifies much of that investment for any producer who intends to grow their library collection beyond the NI ecosystem.
 
-**Buy now or wait?** This is the single biggest wait-for-sale purchase on this list in dollar terms. NI's Komplete Standard routinely drops from $599 to around $299–$399 during Black Friday and their anniversary promotion — a 40–50% swing that dwarfs anything else here. If you're not blocked on a specific third-party library today, waiting for the next NI sale window is close to a free 40% discount. Check our When Does Native Instruments Komplete Go On Sale? page for the current forecast.
+**Buy now or wait?** This is the single biggest wait-for-sale purchase on this list in dollar terms. NI's Komplete Standard is regularly discounted from its $549 list price during Black Friday and their anniversary promotion — a 40–50% swing that dwarfs anything else here. If you're not blocked on a specific third-party library today, waiting for the next NI sale window is close to a free 40% discount. Check our When Does Native Instruments Komplete Go On Sale? page for the current forecast.
 
 [→ Get Native Instruments Komplete on Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026)
 

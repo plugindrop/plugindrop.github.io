@@ -66,7 +66,7 @@ Note: Verify current pricing on the product page — deals can change without no
 | Name | Price (approx.) | Key Difference |
 |---|---|---|
 | Arturia V Collection | ~$399–$599 (regular) | Focuses specifically on modeled vintage keyboards and synths; wider scope but higher price |
-| Native Instruments Komplete | ~$199–$599 (depends on tier) | Broader library covering synths, drums, and orchestral tools beyond keyboards |
+| Native Instruments Komplete | $99–$1,249 (Select to Ultimate) | Broader library covering synths, drums, and orchestral tools beyond keyboards |
 | Individual keyboard plugins (e.g. Lounge Lizard, Velvet) | ~$50–$99 each | Lower entry cost if you only need one instrument type, not a suite |
 
 If you need keyboard sounds specifically and want them all in one purchase, Key Suite at 33% off is a focused option. If your needs extend beyond keyboards into synthesis and drums, the Komplete ecosystem covers more ground — though often at a higher regular price.

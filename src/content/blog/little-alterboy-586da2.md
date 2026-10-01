@@ -61,9 +61,9 @@ Note: Verify current pricing on the product page — deals can change without no
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Antares Auto-Tune Artist | ~$99/yr (subscription) | Focused on pitch correction with real-time tuning; subscription model |
+| Antares Auto-Tune Artist | see Antares for current pricing | Focused on pitch correction with real-time tuning; subscription model |
 | MeldaProduction MVocalPitch | Free (MFreeFXBundle) | Basic pitch shifting, fewer formant controls, no Drive stage |
-| iZotope Nectar (Elements) | ~$49 (on sale) | Broader vocal chain (EQ, compression, reverb) but less specialized for extreme formant work |
+| iZotope Nectar (Elements) | see Plugin Boutique for current pricing | Broader vocal chain (EQ, compression, reverb) but less specialized for extreme formant work |
 
 If you need a dedicated formant and pitch transformer with harmonic drive in a single focused interface, Little AlterBoy covers that ground specifically. If you need a full vocal production suite with pitch correction as one of many tools, Nectar Elements competes at a similar price point.
 

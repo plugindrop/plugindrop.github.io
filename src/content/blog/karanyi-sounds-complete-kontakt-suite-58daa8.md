@@ -63,7 +63,7 @@ If you want to break down the per-library value, check the product page for the 
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Native Instruments Komplete | Varies (entry ~$149+) | Much larger library count; includes NI's own synths and effects beyond Kontakt instruments |
+| Native Instruments Komplete | From $99 (Select) | Much larger library count; includes NI's own synths and effects beyond Kontakt instruments |
 | ADSR Sample Packs (Kontakt) | Pay-per-pack (~$20–$40) | Modular purchasing — buy only the genres you need rather than a full suite |
 | Heavyocity Bundles | Varies by title | Specializes in cinematic/hybrid specifically; narrower but highly regarded in that niche |
 

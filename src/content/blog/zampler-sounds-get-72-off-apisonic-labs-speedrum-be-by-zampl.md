@@ -58,7 +58,7 @@ A 72% discount is a meaningful cut — especially for a plugin that doesn't appe
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Battery 4 (Native Instruments) | ~$149 | Larger factory library, deeper modulation routing |
+| Battery 4 (Native Instruments) | $199 | Larger factory library, deeper modulation routing |
 | Addictive Drums 2 (XLN Audio) | ~$179 | Focused on realistic acoustic drum kits |
 | MT-Power Drum Kit 2 | Free | Free acoustic drum VST, no flexible sampler architecture |
 

@@ -67,7 +67,7 @@ For full system requirements, supported DAWs, and activation method, verify on t
 
 | Name | Price (approx.) | Key Difference |
 |---|---|---|
-| iZotope Nectar | $199–$249 (full) | Full vocal production suite with RX integration and AI-assisted processing |
+| iZotope Nectar | $199 (Nectar 4 Standard) | Full vocal production suite with RX integration and AI-assisted processing |
 | Waves Vocal Bender | Check Waves site | Specialized pitch and formant manipulation, narrower focus than a full vocal processor |
 | Antares Auto-Tune Pro | see Antares for current pricing | Industry-standard pitch correction with decades of ecosystem support |
 

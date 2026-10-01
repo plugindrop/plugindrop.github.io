@@ -56,7 +56,7 @@ IK Multimedia doesn't run instrument-wide sales at this level frequently — the
 
 | Name | Approximate Price | Key Difference |
 |---|---|---|
-| Native Instruments Komplete | Varies (often ~$599 | Broader all-in-one ecosystem with more effect plugins included |
+| Native Instruments Komplete | Varies (Standard $549 list | Broader all-in-one ecosystem with more effect plugins included |
 | Ample Sound Ample Bass | Free Lite / ~$149 full | Sample-based bass — different approach than MODO BASS's physical modeling |
 | Spitfire Audio BBCSO Discover | Free | Orchestral library alternative to Miroslav Philharmonik, though smaller in scope |
 

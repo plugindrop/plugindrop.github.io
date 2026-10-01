@@ -28,7 +28,7 @@ priceTrack:
 | iZotope | $99–$999 | 50–90% off | **Somewhat — BF is often the deepest cut of the year** |
 | Universal Audio (UAD) | $129–$199/plugin | Up to 80% off storewide | **No — several equally deep windows/year** |
 | Softube | $99–$399/plugin | Up to 75% off | **No — same discount depth at multiple sale events** |
-| Native Instruments (Komplete) | $99–$1319 | ~50% off | **No — Summer Sale matches BF depth** |
+| Native Instruments (Komplete) | $99–$1,249 | ~50% off | **No — Summer Sale matches BF depth** |
 | Soundtoys | $99–$659 | ~50–65% off | **No — Summer Sale matches BF depth** |
 | Arturia | $149–$769 | 25–50% off | **No — 30-50% off recurs several times/year** |
 | Sonnox | $185–$474 | Up to 75–90% off | **No — the deep cuts happen at Sonnox's Summer Sale, not confirmed at BF** |

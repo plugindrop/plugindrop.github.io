@@ -30,7 +30,7 @@ priceTrack:
 | UAD 1176 Classic Limiter Collection | $149 | $49 | $29 | UA's storewide "up to 80% off" events |
 | Soundtoys 5.5 (bundle) | $659 | $299 | $239 | Soundtoys Summer Sale or Black Friday |
 | Soundtoys Decapitator (single) | $199 | $69 | — | Same Soundtoys sale windows |
-| NI Komplete 15 Ultimate | $1319 | $659 | — | NI Summer Sale or Black Friday |
+| NI Komplete 26 Ultimate | $1,249 | — | — | NI Summer Sale or Black Friday |
 | Softube Tube-Tech CL 1B | $399 | $99 | — | Softube seasonal sales ("Releases Rewind," Summer, BF) |
 | Sonnox Oxford Inflator | $185 | $29 | $16 | Sonnox Summer Sale (occasionally deeper "everything on sale" events) |
 
@@ -64,7 +64,7 @@ The [Soundtoys 5.5 bundle](https://www.pluginboutique.com/product/81-Bundles/89-
 
 ### NI Komplete 15 Ultimate — 50% off, recorded at both Black Friday and PB's own sale events
 
-Komplete 15 Ultimate lists at $1319, and Plugin Boutique's own history shows it running at roughly 50% off ($659) during both Black Friday and other major PB promotions — this isn't a once-a-year event exclusive to any single date.
+Komplete 26 Ultimate lists at $1,249, and NI discounts its bundles during Black Friday and other major promotions — this isn't a once-a-year event exclusive to any single date.
 
 ### Softube — up to 75% off the premium single plugins
 

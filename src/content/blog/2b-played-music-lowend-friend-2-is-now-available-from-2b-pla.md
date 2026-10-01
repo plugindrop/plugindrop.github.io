@@ -58,7 +58,7 @@ V1 upgrade pricing is available at **$19** — check the product page to confirm
 |---|---|---|
 | Waves Bass Rider | ~$29 on sale | Automated bass level riding, not frequency shaping |
 | Infected Mushroom Pusher | ~$49 | Multiband saturation-driven bass enhancement |
-| Native Instruments Massive X | ~$99 | Synthesizer with deep sub design, not a mix tool |
+| Native Instruments Massive X | $199 | Synthesizer with deep sub design, not a mix tool |
 
 If the main problem is bass inconsistency over time, Bass Rider automates level control but doesn't shape tone. If you want to add harmonic thickness via saturation, Pusher approaches low-end differently. LowEnd Friend 2 focuses specifically on mix-level bass shaping and control as a dedicated tool rather than a by-product of another process.
 

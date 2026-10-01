@@ -27,7 +27,7 @@ draft: false
 | NI Komplete Select | $99 | Budget starter, NI hardware owners | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20V%20Collection&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
 | NI Komplete 26 Standard | $549 list | All-around production toolkit | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20V%20Collection&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
 | NI Komplete 26 Ultimate | $1,249 list | Cinematic, orchestral, maximum library depth | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20V%20Collection&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
-| V Collection 11 + Komplete Select | ~$300–$400 combined | Vintage emulations plus a broader sample-based toolkit | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20V%20Collection&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
+| V Collection 11 + Komplete Select | ~$598 combined at list ($499 + $99) | Vintage emulations plus a broader sample-based toolkit | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20V%20Collection&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
 
 ---
 
@@ -35,7 +35,7 @@ draft: false
 
 Here's the misconception that costs producers money: Native Instruments Komplete is not "the bigger, better version" of Arturia V Collection — they solve fundamentally different problems. V Collection is a focused, deep archive of vintage keyboard instruments. Komplete is a production megapack built around Kontakt's sampler engine and modern synthesis. Comparing them as if one replaces the other is the source of most buyer's remorse in the plugin bundle space.
 
-In 2026, both bundles have expanded significantly, and both go on sale aggressively — V Collection has been discounted as much as 60% off during Arturia's own promotions, while Komplete Standard frequently drops to ~$299 during NI's Black Friday and Summer sales. The real question isn't which bundle is objectively superior. It's which one maps to how you actually produce music. This guide answers that for Arturia V Collection vs Native Instruments Komplete 2026 across every major use case.
+In 2026, both bundles have expanded significantly, and both go on sale aggressively — V Collection has been discounted as much as 60% off during Arturia's own promotions, while Komplete Standard is frequently discounted during NI's Black Friday and Summer sales. The real question isn't which bundle is objectively superior. It's which one maps to how you actually produce music. This guide answers that for Arturia V Collection vs Native Instruments Komplete 2026 across every major use case.
 
 This comparison is for producers, composers, and keyboardists who are evaluating which bundle to invest in first — or whether a combination makes sense. We cover what each bundle contains, where each genuinely excels, where each disappoints, and who should buy what.
 
@@ -117,7 +117,7 @@ CPU load differs between modeled synths like V Collection and sample-based Konta
 
 ### Value at Sale Price — Winner: Arturia V Collection (slight edge)
 
-Both bundles go on deep sale. V Collection 11 at $199 represents arguably more focused value per dollar for its target use case. Komplete Standard at $299 is also exceptional value given the raw instrument count. The edge goes to V Collection because the quality ceiling per instrument is higher — you're getting flagship-level emulations of specific hardware, not a mix of flagship and filler.
+Both bundles go on deep sale. V Collection 11 at $199 represents arguably more focused value per dollar for its target use case. Komplete Standard on sale is also exceptional value given the raw instrument count. The edge goes to V Collection because the quality ceiling per instrument is higher — you're getting flagship-level emulations of specific hardware, not a mix of flagship and filler.
 
 ---
 
@@ -153,9 +153,9 @@ Both bundles go on deep sale. V Collection 11 at $199 represents arguably more f
 |--------|-------|------|------------|-----|
 | Arturia V Collection 11 | ~$499 (sale ~$199) | Vintage synths & keys | 40+ hardware emulations, TAE® modeling, Pigments | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete%2014%20Ultimate&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
 | NI Komplete Select | $99 | Entry-level starter | Kontakt Player, Massive, Guitar Rig (limited) | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete%2014%20Ultimate&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
-| NI Komplete 26 Standard | $549 list (sale ~$299) | All-around production | Kontakt full, Massive X, Reaktor 6, Guitar Rig 7 | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete%2014%20Ultimate&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
-| NI Komplete 26 Ultimate | $1,249 list (sale ~$499) | Cinematic/orchestral | Symphony Series, Session players, 100+ libraries | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete%2014%20Ultimate&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
-| V Collection 11 + Komplete Select | ~$300–$400 combined | Practical best-of-both | Vintage keys + modern synths + sampling entry point | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete%2014%20Ultimate&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
+| NI Komplete 26 Standard | $549 list | All-around production | Kontakt full, Massive X, Reaktor 6, Guitar Rig 7 | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete%2014%20Ultimate&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
+| NI Komplete 26 Ultimate | $1,249 list | Cinematic/orchestral | Symphony Series, Session players, 100+ libraries | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete%2014%20Ultimate&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
+| V Collection 11 + Komplete Select | ~$598 combined at list ($499 + $99) | Practical best-of-both | Vintage keys + modern synths + sampling entry point | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete%2014%20Ultimate&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
 
 ---
 

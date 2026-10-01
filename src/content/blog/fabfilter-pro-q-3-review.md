@@ -28,7 +28,7 @@ noindex: true
 | FabFilter Total Bundle | ~$879 | Full FabFilter studio toolkit | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-3-review) |
 | TDR Nova | Free / €49 | Budget-friendly dynamic EQ | — |
 | DMG Audio EQuality | ~$99 | Analog-voiced precision EQ | — |
-| iZotope Neutron | ~$249 | AI-assisted EQ with session integration | — |
+| iZotope Neutron 5 | $299 | AI-assisted EQ with session integration | — |
 
 ---
 
@@ -198,7 +198,7 @@ Neutron's EQ module includes AI-generated band suggestions, session-level maskin
 | FabFilter Total Bundle | ~$879 | Full plugin suite | Every FabFilter plugin, significant savings vs. individual | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-3-review) |
 | TDR Nova | Free / €49 | Dynamic EQ | Solid free tier, dynamic EQ, limited M/S depth | — |
 | DMG Audio EQuality | ~$99 | Analog-style parametric EQ | Analog filter character | — |
-| iZotope Neutron | ~$249 | AI-assisted EQ | AI band suggestions, session-level masking detection | — |
+| iZotope Neutron 5 | $299 | AI-assisted EQ | AI band suggestions, session-level masking detection | — |
 
 ---
 

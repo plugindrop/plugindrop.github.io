@@ -20,7 +20,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Serum | $189 | 808 bass & lead synths | [Official Site](https://xferrecords.com/products/serum-2) |
-| Battery 4 | $149 | Drum sample layering | [Official Site](https://www.native-instruments.com/en/products/komplete/drums/battery-4/) |
+| Battery 4 | $199 | Drum sample layering | [Official Site](https://www.native-instruments.com/en/products/komplete/drums/battery-4/) |
 | Addictive Drums 2 | From $179 | Live boom bap drum kits | [Plugin Boutique](https://www.pluginboutique.com/search?q=Addictive+Drums+2&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-hip-hop) |
 | Waves SSL G-Master | From $29 | Bus glue compression | [Official Site](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | iZotope Vinyl | Free | Lofi vinyl texture | [Free Download](https://www.izotope.com/en/products/vinyl) |
@@ -345,7 +345,7 @@ For hip-hop masters where the 808 creates predictable transient spikes, its look
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Serum | $189 | Wavetable Synth | 808 design, massive preset ecosystem, deep modulation | [Official Site](https://xferrecords.com/products/serum-2) |
-| Battery 4 | $149 | Drum Sampler | Cell-based layering, per-pad tuning, pro library | [Get it](https://www.native-instruments.com/en/products/maschine/) |
+| Battery 4 | $199 | Drum Sampler | Cell-based layering, per-pad tuning, pro library | [Get it](https://www.native-instruments.com/en/products/maschine/) |
 | Addictive Drums 2 | From $179 | Acoustic Drums | Mic bleed modeling, live-recorded kits, mix board | [Get it](https://www.native-instruments.com/en/products/maschine/) |
 | Waves SSL G-Master | From $29 | Bus Compressor | SSL 4000 G emulation, drum bus glue | [Get it](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | iZotope Vinyl | Free | Character Effect | Vinyl artifact simulation, lofi texture, instant character | [Free](https://www.izotope.com/en/products/vinyl) |

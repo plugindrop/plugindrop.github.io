@@ -46,7 +46,7 @@ Verify current pricing on the product page — deals can change without notice.
 | Name | Price | Key Difference |
 |---|---|---|
 | Melodyne Essential (Celemony) | ~$99 | Note-based pitch editing with a visual piano roll interface; industry standard for detailed melodic correction |
-| Auto-Tune Access (Antares) | ~$99/yr | Subscription model; dominant in real-time vocal pitch correction, especially for the characteristic tuned-vocal effect |
+| Auto-Tune Access (Antares) | see Antares for current pricing | Subscription option; dominant in real-time vocal pitch correction, especially for the characteristic tuned-vocal effect |
 | zplane Elastique Pitch | Check site | Focused on time-pitch manipulation with the Elastique algorithm used in many DAWs under the hood |
 
 Melodyne is the go-to when you need fine-grained, note-by-note correction. Auto-Tune Access fits real-time live or tracking workflows where the subscription cost is acceptable. 

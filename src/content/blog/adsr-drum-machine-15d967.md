@@ -61,7 +61,7 @@ ADSR Sounds runs regular promotions across its catalog, so $49 may or may not re
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Native Instruments Battery 4 | ~$99, frequent sales | Full sample-based drum sampler with a larger built-in library and modulation options |
+| Native Instruments Battery 4 | $199 list, frequent sales | Full sample-based drum sampler with a larger built-in library and modulation options |
 | XLN Audio Addictive Drums 2 | ~$199 list, often discounted to ~$99 | Focused on acoustic drum production with multiple mixed drum kits |
 | XLN Audio XO | ~$149 | Drum sample browsing and organization tool rather than a fixed drum kit plugin |
 

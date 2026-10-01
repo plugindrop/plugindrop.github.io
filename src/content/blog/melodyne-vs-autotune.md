@@ -44,7 +44,7 @@ Understanding the fundamental architecture difference between these two plugins 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/f_XTdKob65o" title="Celemony Melodyne 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Celemony
-- **Price:** ~$99 (Essential) / ~$199 (Assistant) / ~$399 (Editor) / ~$699 (Studio)
+- **Price:** ~$99 (Essential) / ~$249 (Assistant) / ~$399 (Editor) / ~$699 (Studio)
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX, ARA2
 

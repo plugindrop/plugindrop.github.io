@@ -56,7 +56,7 @@ Steinberg's flagship instruments don't discount as aggressively or as often as b
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Native Instruments Kontakt | ~$399 (check current pricing) | Sample-playback focused, with a large third-party library ecosystem sold separately |
+| Native Instruments Kontakt 8 | $299 | Sample-playback focused, with a large third-party library ecosystem sold separately |
 | UVI Falcon | ~$349 (check current pricing) | Similarly multi-engine, with a different scripting and modulation architecture |
 | Steinberg HALion Sonic | Check product page | Streamlined player edition with a smaller library and fewer editing tools than HALion 7 |
 

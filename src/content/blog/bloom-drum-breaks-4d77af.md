@@ -53,7 +53,7 @@ A 34% cut on a sub-$60 product is worth paying attention to. It pushes Bloom Dru
 | Name | Price | Key Difference |
 |---|---|---|
 | Loopmasters Drum Break Packs | ~$10–$30 (varies) | Loose sample pack format — no plugin instrument wrapper |
-| Native Instruments Battery 4 | ~$99 | Full-featured drum sampler with broad content; not breaks-specific |
+| Native Instruments Battery 4 | $199 | Full-featured drum sampler with broad content; not breaks-specific |
 | Splice Sample Library | $12.99/mo (Sounds, billed yearly) | Subscription model; wide drum content but not a single curated library |
 
 If you want a self-contained drum break instrument without managing a subscription or assembling a custom sampler from scratch, a dedicated library covers that need directly. If you need a broader drum production toolset with deep sampler functionality, Battery 4 handles more ground — at a higher price.

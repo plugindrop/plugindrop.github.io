@@ -52,7 +52,7 @@ IK Multimedia products are well-established in the production community. SampleT
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Native Instruments Komplete | Starts ~$199+ | Larger library breadth, strong focus on NKS hardware integration |
+| Native Instruments Komplete | From $99 (Select) | Larger library breadth, strong focus on NKS hardware integration |
 | Arturia V Collection | Check current pricing | Focused exclusively on vintage keyboard/synth emulations |
 | Output bundles | Varies | Skews toward modern, texture-based sound design rather than traditional instruments |
 

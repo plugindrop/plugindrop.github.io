@@ -315,7 +315,7 @@ If you're moving up from freeware, the honest upgrade order is: start with **Amp
 | S-Gear | ~$109 | Paid | Boutique dynamics, vintage/clean focus | [Official Site](https://www.scuffhamamps.com/) |
 | ENGL Ampthology Vol 1 | Paid | Paid | Licensed ENGL high-gain | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/15561-ENGL-Ampthology-Vol-1?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-guitar-amp-sim-plugins&chan=art&data1=best-guitar-amp-sim-plugins) |
 | Ampknob BDM-800 Badboy | Paid (budget) | Paid | Instant one-knob high-gain | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/14858-Ampknob-BDM-800-Badboy?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-guitar-amp-sim-plugins&chan=art&data1=best-guitar-amp-sim-plugins) |
-| Guitar Rig 7 Pro | $199 | Freemium | NI integration, upgrade path | [Official Site](https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-7-pro/) |
+| Guitar Rig 7 Pro | $189 | Freemium | NI integration, upgrade path | [Official Site](https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-7-pro/) |
 
 ---
 

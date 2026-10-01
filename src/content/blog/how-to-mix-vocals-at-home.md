@@ -92,7 +92,7 @@ Your DAW's stock compressor is adequate for gain control on a home studio vocal.
 
 ## Step 5: All-in-One — When iZotope Nectar 4 Makes Sense
 
-**iZotope Nectar 4 Standard: ~$199 full price, ~$99 on sale**
+**iZotope Nectar 4 Standard: ~$199 list price**
 
 Nectar 4 is worth serious consideration for one specific type of producer: someone who records and mixes their own vocals without an outside engineer. The AI Vocal Assistant analyzes your track and suggests a starting chain — EQ, compression, de-essing, reverb — that gets you 70% of the way to a polished mix without making every decision manually. That's genuinely useful when you lack objectivity on your own voice.
 
@@ -120,7 +120,7 @@ This chain produces professional results when used correctly. Start here.
 - Keep TDR Nova and Valhalla Supermassive
 
 **Under $250 — Complete Paid Chain**
-- Replace the free chain with iZotope Nectar 4 Standard (~$99–199)
+- Replace the free chain with iZotope Nectar 4 Standard ($199)
 - Add FabFilter Pro-Q 4 if you're mixing multiple tracks and need the visual workflow
 
 ---
@@ -132,7 +132,7 @@ This chain produces professional results when used correctly. Start here.
 - Waves plugins when they're at a sale price (individual Waves plugins showed $29.99–$39.99 on waves.com on 2026-10-01); don't wait more than 4–6 weeks
 
 **Wait for a sale:**
-- iZotope Nectar 4 drops to ~$99 during Black Friday, iZotope anniversary sales (typically May), and Plugin Boutique promotions. The full-price $199 is hard to justify when it reliably goes 50% off multiple times per year
+- iZotope Nectar 4 is typically discounted during Black Friday, iZotope anniversary sales (typically May), and Plugin Boutique promotions. The full-price $199 is hard to justify when it is regularly discounted
 - FabFilter Pro-Q 4 rarely discounts more than 20–25%, but that still brings it under $145 — worth waiting for if you're not in a rush
 
 **Don't buy:**

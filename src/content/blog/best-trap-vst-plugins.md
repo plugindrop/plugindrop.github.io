@@ -23,7 +23,7 @@ priceTrack:
 | Serum | $249 listed by Xfer (2026-10-01) | 808s, leads, pads — everything | [Serum](https://xferrecords.com/products/serum-2) |
 | Massive X | $199 | Experimental trap bass and synths | [Get Massive X](https://www.native-instruments.com/en/products/komplete/synths/massive-x/) |
 | Nexus 4 | $149 | Ready-to-use trap preset library | [Get Nexus 4](https://www.refx.com/nexus/) |
-| Battery 4 | $99 | Professional trap drum programming | [Get Battery 4](https://www.native-instruments.com/en/products/komplete/drums/battery-4/) |
+| Battery 4 | $199 | Professional trap drum programming | [Get Battery 4](https://www.native-instruments.com/en/products/komplete/drums/battery-4/) |
 | Vital | Free | Full-featured free Serum alternative | [Free](https://vital.audio/) |
 | Valhalla Supermassive | Free | Atmospheric reverb and space | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | iZotope Vinyl | Free | Texture, analog character, crackle | [Free Download](https://www.izotope.com/en/products/vinyl) |
@@ -277,7 +277,7 @@ If you are running on free tools like Vital and TAL-NoiseMaker, the paid options
 | Serum | $249 listed by Xfer (2026-10-01) | Wavetable Synth | Custom wavetables, 808 bass, visual editor | [Serum](https://xferrecords.com/products/serum-2) |
 | Massive X | $199 | Wavetable Synth | Spectral morphing, experimental bass | [Get Massive X](https://www.native-instruments.com/en/products/komplete/synths/massive-x/) |
 | Nexus 4 | $149 | ROMpler | Trap expansion library, preset-forward workflow | [Get Nexus 4](https://www.refx.com/nexus/) |
-| Battery 4 | $99 | Drum Sampler | 16-pad layout, multi-layer, NI ecosystem | [Get Battery 4](https://www.native-instruments.com/en/products/komplete/drums/battery-4/) |
+| Battery 4 | $199 | Drum Sampler | 16-pad layout, multi-layer, NI ecosystem | [Get Battery 4](https://www.native-instruments.com/en/products/komplete/drums/battery-4/) |
 | Sylenth1 | ~$189 | Virtual Analog | Warm leads, massive third-party preset banks | [Get Sylenth1](https://www.lennardigital.com/sylenth1/) |
 | Spire | ~$99 | Hybrid Synth | FM/spectral modes, deep built-in FX chain | [Get Spire](https://www.reveal-sound.com) |
 | RC-20 Retro Color | ~$99 | FX Unit | Noise, wobble, bit crush, analog color | [Get RC-20](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |

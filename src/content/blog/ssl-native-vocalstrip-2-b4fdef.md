@@ -57,7 +57,7 @@ Verify current pricing on the product page, as deals can change without notice.
 
 | Plugin | Price (approx.) | Key Difference |
 |---|---|---|
-| iZotope Nectar (Elements) | ~$29–$99 depending on sale | Broader vocal suite with pitch correction and harmony; heavier on AI-assisted features |
+| iZotope Nectar (Elements) | see Plugin Boutique for current pricing | Broader vocal suite with pitch correction and harmony; heavier on AI-assisted features |
 | Waves CLA Vocals | ~$29–$49 on sale | Simpler, preset-driven interface modeled on Chris Lord-Alge's vocal processing style |
 | FabFilter Pro-C 3 + Pro-Q 3 | Pro-C 3 alone is $199; Pro-Q 3 priced separately | Best-in-class separate compressor and EQ, but requires two plugins and is significantly more expensive |
 

@@ -57,7 +57,7 @@ Plugin Boutique runs frequent sitewide and developer-specific promotions, so dis
 |---|---|---|
 | Valhalla Vintage Verb | ~$50 | Multiple vintage-modeled reverb algorithms in one plugin, from a well-known reverb specialist. |
 | Space Age 555 | $35 (deal) | Single retro-character reverb effect, currently discounted 49%. |
-| Native Instruments Raum | ~$99 | Modern algorithmic reverb with a modulation-focused feature set, full price positioned higher. |
+| Native Instruments Raum | see Native Instruments for current pricing | Modern algorithmic reverb with a modulation-focused feature set, full price positioned higher. |
 
 If you want one plugin that covers several vintage reverb types, Valhalla Vintage Verb spreads a wider net for roughly $50. If you specifically want the retro character in Space Age 555 at a lower entry price, the current $35 deal covers that need directly. If your priority is a modern, modulation-heavy reverb rather than vintage character, Raum sits in a different price and design category.
 
