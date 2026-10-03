@@ -12,7 +12,7 @@ draft: false
 priceTrack:
   - "FabFilter Pro-Q 4"
 ---
-**TL;DR:** TDR Nova is a free alternative to FabFilter Pro-Q 4 for producers who need dynamic EQ without the $179 price tag — its per-band dynamic processing is the closest the free tier gets to Pro-Q 4's core functionality. For pure parametric EQ tasks, MEqualizer is a feature-rich free parametric EQ, and Voxengo Marvel GEQ fills the linear phase mastering gap. LP10 from DDMF is a paid linear-phase EQ with a demo, listed for comparison.
+**TL;DR:** TDR Nova is a free alternative to FabFilter Pro-Q 4 for producers who need dynamic EQ without the $199 price tag — its per-band dynamic processing is the closest the free tier gets to Pro-Q 4's core functionality. For pure parametric EQ tasks, MEqualizer is a feature-rich free parametric EQ, and Voxengo Marvel GEQ fills the linear phase mastering gap. LP10 from DDMF is a paid linear-phase EQ with a demo, listed for comparison.
 
 *How this guide was made: it is compiled from vendor pages and public information, and is not based on first-hand use of the plugins.*
 
@@ -24,7 +24,7 @@ priceTrack:
 | MEqualizer | Free | Full-featured parametric EQ | [Free Download](https://www.meldaproduction.com/MEqualizer) |
 | Voxengo Marvel GEQ | Free | Linear phase graphic EQ, mastering | [Free Download](https://www.voxengo.com/product/marvelgeq/) |
 | LP10 | Paid (demo available) | Linear-phase parametric EQ | [DDMF (buy / demo)](https://ddmf.eu/lp10-linear-phase-equalizer-plugin/) |
-| FabFilter Pro-Q 4 | $179 | Paid reference point — full dynamic EQ suite | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=free-alternative-to-fabfilter-pro-q) |
+| FabFilter Pro-Q 4 | $199 | Paid reference point — full dynamic EQ suite | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=free-alternative-to-fabfilter-pro-q) |
 
 ---
 
@@ -32,7 +32,7 @@ priceTrack:
 
 Here is what most plugin round-ups will not tell you upfront: in 2026, there is no free alternative to FabFilter Pro-Q 4 that replicates its complete feature set. That is not a knock on the free tier — it is just true. What the free tier *does* offer is a credible set of tools that cover the majority of what most producers actually use Pro-Q 4 for, day to day. The honest guide is not "which free plugin beats Pro-Q 4." It is "which free alternative covers your specific workflow, and exactly where does it fall short."
 
-Finding a solid free alternative to FabFilter Pro-Q 4 matters because Pro-Q 4 is a $179 purchase and not every producer — particularly those learning the craft, running multiple machines, or managing tight budgets — wants to commit that to a single EQ. The good news: the free EQ space has matured significantly, especially in dynamic EQ, which was once an exclusively paid feature. TDR Nova is one free example.
+Finding a solid free alternative to FabFilter Pro-Q 4 matters because Pro-Q 4 is a $199 purchase and not every producer — particularly those learning the craft, running multiple machines, or managing tight budgets — wants to commit that to a single EQ. The good news: the free EQ space has matured significantly, especially in dynamic EQ, which was once an exclusively paid feature. TDR Nova is one free example.
 
 This guide covers three free EQ plugins that are options for anyone looking for an alternative to Pro-Q 4, plus DDMF LP10, a paid EQ with a demo. Everything here is compiled from vendor pages; we have not tested these plugins hands-on. Each plugin is assessed directly against Pro-Q 4's key strengths, so you know exactly what you are getting and what you are giving up. If you want a shortcut: start with TDR Nova, and scroll to the paid section only when you run into walls.
 
@@ -136,7 +136,7 @@ LP10 is not a free plugin, so it is not a like-for-like free alternative. We inc
 | MEqualizer | Free | Parametric EQ | 6 bands, MFreeFXBundle, neutral sound | [Download Free](https://www.meldaproduction.com/MEqualizer) |
 | Voxengo Marvel GEQ | Free | Linear Phase Graphic EQ | 16 bands, linear phase, mastering-focused | [Download Free](https://www.voxengo.com/product/marvelgeq/) |
 | LP10 | Paid (demo available) | Linear-phase parametric EQ | 10 bands, per-band phase mode, flex filters, spectrum analyzer | [DDMF (buy / demo)](https://ddmf.eu/lp10-linear-phase-equalizer-plugin/) |
-| FabFilter Pro-Q 4 | $179 | Dynamic + Parametric EQ | 24 bands, dynamic EQ, M/S per band, collision detection | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=free-alternative-to-fabfilter-pro-q) |
+| FabFilter Pro-Q 4 | $199 | Dynamic + Parametric EQ | 24 bands, dynamic EQ, M/S per band, collision detection | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=free-alternative-to-fabfilter-pro-q) |
 
 ---
 
@@ -163,7 +163,7 @@ A: Not in their free versions. Mid/side per-band control is one of the harder fe
 **Q: Which of these plugins work in Ableton Live and FL Studio?**
 A: Per the vendor pages, TDR Nova, MEqualizer, Voxengo Marvel GEQ, and LP10 are all offered in VST/VST3 formats on Windows (Marvel GEQ lists VST rather than VST3 in this guide), covering both DAWs. macOS users running Ableton Live can use the AU versions of TDR Nova and Voxengo Marvel GEQ. Check each developer's download page for the specific format that matches your setup and operating system.
 
-**Q: When does FabFilter Pro-Q 4 become worth the $179 over TDR Nova?**
+**Q: When does FabFilter Pro-Q 4 become worth the $199 over TDR Nova?**
 A: TDR Nova's free version has limits in three scenarios: when they need more than four dynamic bands simultaneously, when M/S per-band control is required for stereo mix work, and when they want spectrum collision detection across instances to manage frequency masking across multiple channels at once. If none of those scenarios apply to your current workflow, TDR Nova's free version is a credible long-term tool rather than a stopgap.
 
 ---
@@ -179,7 +179,7 @@ A: TDR Nova's free version has limits in three scenarios: when they need more th
 
 ## Final Thoughts
 
-TDR Nova is a free alternative to FabFilter Pro-Q 4 with dynamic EQ bands, the capability closest to Pro-Q 4's among the free options here. If you hit its band count limit, need per-band M/S control, or want spectrum collision detection across a full session, FabFilter Pro-Q 4 ($179) lists those features.
+TDR Nova is a free alternative to FabFilter Pro-Q 4 with dynamic EQ bands, the capability closest to Pro-Q 4's among the free options here. If you hit its band count limit, need per-band M/S control, or want spectrum collision detection across a full session, FabFilter Pro-Q 4 ($199) lists those features.
 
 [→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=free-alternative-to-fabfilter-pro-q)
 

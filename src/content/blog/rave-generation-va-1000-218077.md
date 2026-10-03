@@ -1,6 +1,6 @@
 ---
-title: "50% Off Rave Generation VA-1000 — Rave Synth Sounds ($74.33)"
-description: "Rave Generation VA-1000 is currently 50% off at PluginFox: $148.66 $74.33, a saving of $74.33. It is a 16-voice virtual-analog synth with..."
+title: "Rave Generation VA-1000: Specs and a Recorded $74.33 Sale at PluginFox"
+description: "Rave Generation VA-1000 is a 16-voice virtual-analog synth. PluginDrop recorded $74.33 (regular $148.66) at PluginFox in September 2026; on 2026-10-03 the PluginFox listing showed $148.66, so this page is a dated record."
 pubDate: "2026-09-02T18:05:49Z"
 tags: ["vst-plugin", "pluginfox", "sale", "music-production"]
 affiliate: "https://pluginfox.com/products/rave-generation-va-1000?aff=580&utm_source=plugindrop&utm_medium=article&utm_campaign=rave-generation-va-1000-218077"
@@ -12,11 +12,10 @@ discount: "50% OFF"
 draft: false
 saleExpiry: "2026-10-02"
 saleExpirySource: "fallback"
-allTimeLow: true
 ---
 If you only install one, make it VA-1000 if your tracks need virtual-analog synth parts with supersaw, acid-style filter, chord, and arpeggiator tools in one instrument.
 
-**TL;DR:** Rave Generation VA-1000 is currently 50% off at PluginFox: ~~$148.66~~ **$74.33**, a saving of **$74.33**. It is a 16-voice virtual-analog synth with subtractive synthesis, integrated effects, and a separate VA-1000 FX plug-in for external audio processing. [Get the 50% deal at PluginFox](https://pluginfox.com/products/rave-generation-va-1000?aff=580&utm_source=plugindrop&utm_medium=article&utm_campaign=rave-generation-va-1000-218077).
+**TL;DR:** PluginDrop recorded Rave Generation VA-1000 at **$74.33** (regular ~~$148.66~~, 50% off) at PluginFox in September 2026. When we checked the PluginFox listing on 2026-10-03 it showed $148.66 with no discount, so this page is a dated record, not a current-sale alert. The product is a 16-voice virtual-analog synth with subtractive synthesis, integrated effects, and a separate VA-1000 FX plug-in for external audio processing. [Check the live listing at PluginFox](https://pluginfox.com/products/rave-generation-va-1000?aff=580&utm_source=plugindrop&utm_medium=article&utm_campaign=rave-generation-va-1000-218077).
 
 ## Price Context (tracked by PluginDrop)
 - Regular: $148.66
@@ -59,11 +58,11 @@ The instrument provides 16 voices of polyphony. Its feature set also includes on
 
 | Regular Price | Deal Price | You Save |
 |---|---:|---:|
-| ~~$148.66~~ | **$74.33** | **$74.33 (50%)** |
+| ~~$148.66~~ | **$74.33** (recorded Sept 2026) | **$74.33 (50%)** at that price |
 
 This is a single virtual-instrument deal, not a bundle, so there is no per-unit calculation. A verified public history of PluginFox discounts for VA-1000 is not available here, so there is no basis for claiming that this is a recurring or rare sale.
 
-Verify current pricing on the product page — deals can change. [See the current PluginFox offer](https://pluginfox.com/products/rave-generation-va-1000?aff=580&utm_source=plugindrop&utm_medium=article&utm_campaign=rave-generation-va-1000-218077).
+The PluginFox listing showed $148.66 on 2026-10-03. Verify current pricing on the product page — deals can change. [See the current PluginFox price](https://pluginfox.com/products/rave-generation-va-1000?aff=580&utm_source=plugindrop&utm_medium=article&utm_campaign=rave-generation-va-1000-218077).
 
 ## Alternatives at a Glance
 
@@ -95,11 +94,11 @@ A: Listings identify 64-bit AU and VST3 support, with macOS and Windows compatib
 
 ## Get the Deal
 
-The current PluginFox offer cuts VA-1000 from ~~$148.66~~ to **$74.33**. [Claim the 50% discount here](https://pluginfox.com/products/rave-generation-va-1000?aff=580&utm_source=plugindrop&utm_medium=article&utm_campaign=rave-generation-va-1000-218077).
+PluginDrop recorded VA-1000 at **$74.33** instead of ~~$148.66~~; that offer had ended when we checked on 2026-10-03. [See the current PluginFox price](https://pluginfox.com/products/rave-generation-va-1000?aff=580&utm_source=plugindrop&utm_medium=article&utm_campaign=rave-generation-va-1000-218077).
 
-## Is This Deal Worth It?
+## Was This Deal Worth It?
 
-At $74.33, this is a clear 50% reduction from the stated $148.66 regular price. VA-1000 is a perpetual-license instrument rather than a subscription, and its specification set is relevant if you specifically need virtual-analog saw layers, filter sequences, chord tools, or the bundled FX version. There is no verified sale-frequency record available for this product and store combination, so waiting for a better discount cannot be supported by reliable deal-history evidence; buy now only if those features fit a current project need.
+At $74.33, the recorded price was a 50% reduction from the $148.66 regular price. VA-1000 is a perpetual-license instrument rather than a subscription, and its specification set is relevant if you specifically need virtual-analog saw layers, filter sequences, chord tools, or the bundled FX version. There is no verified sale-frequency record available for this product and store combination, so we cannot say whether the offer will return; check the live price only if those features fit a current project need.
 
 ## Related Guides
 

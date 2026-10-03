@@ -23,7 +23,7 @@ draft: false
 | Xfer Serum | $189 | Modern plucks, stabs, arps | [Xfer Records](https://xferrecords.com/products/serum-2) |
 | Native Instruments Massive X | $199 | Deep bass and evolving textures | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/10604-MASSIVE-X?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-house-music&chan=art&data1=best-plugins-for-house-music) |
 | LennarDigital Sylenth1 | $139 | Classic house chord sounds | [Plugin Boutique](https://www.pluginboutique.com/search?q=Sylenth1&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-house-music&chan=art&data1=best-plugins-for-house-music) |
-| FabFilter Pro-Q 4 | $179 | Surgical EQ for DJ-ready mixes | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-for-house-music) |
+| FabFilter Pro-Q 4 | $199 | Surgical EQ for DJ-ready mixes | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-for-house-music) |
 | iZotope Neutron | $99+ | Channel strip with AI assist | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Neutron%204&a_aid=69cb95abe1763&chan=art&data1=best-plugins-for-house-music) |
 | Valhalla VintageVerb | $50 | Warm classic reverb on chords | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
 | Soundtoys EchoBoy | $199 | Rhythmic delay and groove | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy?a_aid=69cb95abe1763&chan=art&data1=best-plugins-for-house-music) |

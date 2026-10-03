@@ -21,7 +21,7 @@ priceTrack:
 |--------|-------|----------|--------|
 | Serum | $189 | Lead synthesis & sound design | [Serum](https://xferrecords.com/products/serum-2) |
 | OTT | Free | Multiband upward compression | [Free Download](https://xferrecords.com/freeware) |
-| FabFilter Pro-Q 4 | $179 | Mix bus EQ & frequency cleanup | [Get Pro-Q 4 (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=edm-production-plugin-chain) |
+| FabFilter Pro-Q 4 | $199 | Mix bus EQ & frequency cleanup | [Get Pro-Q 4 (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=edm-production-plugin-chain) |
 | Valhalla Supermassive | Free | Reverb, space & atmosphere | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | FabFilter Pro-L 2 | $199 | Mastering & true peak limiting | [Get Pro-L 2 (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=edm-production-plugin-chain) |
 
@@ -172,7 +172,7 @@ FabFilter's developer documentation for Pro-L 2 lists eight limiting algorithms 
 |--------|-------|------|------------|-----|
 | Serum | $189 | Wavetable Synth | Wavetable import/edit, FX chain, preset ecosystem | [Serum](https://xferrecords.com/products/serum-2) |
 | OTT | Free | Multiband Compressor | Three-band upward/downward compression, Depth knob | [Free Download](https://xferrecords.com/freeware) |
-| FabFilter Pro-Q 4 | $179 | EQ | Dynamic EQ per band, linear phase, inter-plugin spectrum | [Get Pro-Q 4 (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=edm-production-plugin-chain) |
+| FabFilter Pro-Q 4 | $199 | EQ | Dynamic EQ per band, linear phase, inter-plugin spectrum | [Get Pro-Q 4 (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=edm-production-plugin-chain) |
 | Valhalla Supermassive | Free | Reverb/Delay | Multiple algorithm modes, extreme room sizes, zero cost | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | FabFilter Pro-L 2 | $199 | Mastering Limiter | 8 algorithms, true peak, built-in LUFS metering | [Get Pro-L 2 (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=edm-production-plugin-chain) |
 | FabFilter Total Bundle | $1,069 | Full Plugin Suite | All FabFilter plugins, unified UI, bundle savings | [Get Bundle](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=edm-production-plugin-chain) |

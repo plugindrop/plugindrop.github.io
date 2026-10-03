@@ -23,7 +23,7 @@ import {
 	slugify,
 } from '../lib/priceUtils';
 import { articleRankScore, pbProductId, rankBiggestDiscounts, rankLiveDeals } from '../lib/dealRanking.mjs';
-import { buildFactBox, everydayPrice, findTrackerEntryForPost, homeVerdictChip } from '../lib/articleDeal.mjs';
+import { buildFactBox, everydayPrice, findTrackerEntryForPost, homeVerdictChip, isArticleSaleExpired } from '../lib/articleDeal.mjs';
 
 function fableVerdictLabel(verdict: 'good' | 'ok' | 'bad' | 'none', onSale: boolean): string {
 	if (verdict === 'none') return 'WAIT';
@@ -120,8 +120,7 @@ function getStoreName(url: string | undefined): string {
 }
 
 function isExpired(post: any): boolean {
-	if (!post.data.saleExpiry) return false;
-	return new Date(post.data.saleExpiry) < new Date();
+	return isArticleSaleExpired(post.data);
 }
 
 function isFreePrice(price: string | undefined): boolean {
@@ -464,6 +463,11 @@ const hubLinks = [
 				</section>
 			)}
 
+			<nav class="section start-here" aria-labelledby="start-here-hd">
+				<header class="section-hd"><h2 id="start-here-hd">Start here</h2></header>
+				<p>Explore <a href="/best/">best plugin guides</a>, <a href="/categories/">categories</a>, <a href="/compare/">comparisons</a>, <a href="/how-we-track-prices/">our price tracking method</a>, <a href="/plugin-prices/">price histories</a>, <a href="/sale-stats/">sale statistics</a>, and <a href="/free/">free plugins</a>.</p>
+				<p>The table below lists observed Plugin Boutique prices for tracked products. Check dates in each product's price history show when those prices were recorded.</p>
+			</nav>
 			<section class="section tracker-panel" aria-labelledby="quick-price-check">
 				<header class="section-hd">
 					<div class="section-title">

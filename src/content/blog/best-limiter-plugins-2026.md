@@ -25,7 +25,7 @@ draft: false
 | FabFilter Pro-L 2 | $199 | Transparent mastering ceiling, streaming targets | [Developer Site](https://www.fabfilter.com/products/pro-l-2-limiter-plug-in) |
 | iZotope Ozone 12 | See iZotope | All-in-one mastering suite with AI loudness control | — |
 | Waves L3 Ultramaximizer | ~$29–$79 | Multiband limiting, broadcast work, dense mixes | — |
-| TDR Limiter 6 GE | Free / Paid GE | Mastering-grade brick wall limiting, free tier available | — |
+| TDR Limiter 6 GE | EUR 60 (demo available) | Six-module dynamics and limiting toolkit with loudness metering | [Developer Site](https://www.tokyodawn.net/tdr-limiter6-ge/) |
 | A.O.M. Invisible Limiter G2 | ~$60–$70 | Ultra-transparent ceiling for acoustic and dynamic material | — |
 
 ---
@@ -115,20 +115,20 @@ Waves' aggressive sale pricing — regularly dropping plugins to $29–$49 — m
 
 ## Additional Limiters Worth Knowing
 
-### TDR Limiter 6 GE — A free limiter
+### TDR Limiter 6 GE — A paid limiter with a no-time-limit demo
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/I4DPPsQAU2A" title="TDR Limiter 6 GE — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Tokyo Dawn Records
-- **Price:** Free (base version) / Paid (Grand Edition)
-- **Platforms:** Windows, macOS
+- **Price:** EUR 60 for a personal/small business license, free updates (price as listed on the developer's page, includes EU VAT where applicable; checked 2026-10-03)
+- **Platforms:** Windows, macOS, Linux
 - **Formats:** VST, VST3, AU, AAX
 
-TDR Limiter 6 GE is a free limiter. The free base version provides brick wall limiting with peak control across a multi-stage processing path; the paid Grand Edition expands the processing architecture further. For producers who cannot yet justify $199 for Pro-L 2, TDR Limiter 6 is a free option worth learning, not just a stopgap.
+TDR Limiter 6 GE is a paid plugin, not a free one. The developer describes it as a dynamics compression and limiting toolkit with six modules that can be arranged in variable order: a compressor, a clipper, a high frequency limiter, a peak limiter, a true peak output protection limiter, and an EBU-compliant true peak and loudness meter that also supports the Zwicker loudness algorithm. The developer also offers a demo edition with no time limitation, but automatic recall is blocked in it, so settings will not reload with a project until you buy a license. For producers who find $199 for Pro-L 2 steep, it is a lower-priced paid option to evaluate through that demo.
 
-**Best for:** Producers building their first mastering chain who need a legitimate ceiling tool at zero cost while evaluating paid options.
+**Best for:** Producers who want a multi-module limiting and metering toolkit at a lower price than Pro-L 2 and want to try the demo first.
 
-[→ Download TDR Limiter 6 GE Free (Official)](https://www.tokyodawn.net/tdr-limiter6-ge/)
+[→ TDR Limiter 6 GE: price and demo (Official)](https://www.tokyodawn.net/tdr-limiter6-ge/)
 
 ---
 
@@ -147,15 +147,15 @@ A.O.M. Factory's Invisible Limiter G2 is a specialist option aimed at a low-arti
 
 ---
 
-## When Is a Paid Limiter Worth It Over a Free One?
+## When Is a Paid Limiter Worth It Over a Built-In One?
 
-If you are working with a free limiter like TDR Limiter 6 or a plain DAW ceiling tool, the three paid options reviewed above solve different problems, so the right upgrade depends on which gap you actually hit:
+If you are working with a plain DAW ceiling tool or a lower-priced option like TDR Limiter 6 GE, the three paid options reviewed above solve different problems, so the right upgrade depends on which gap you actually hit:
 
 - **Missing algorithm variety, oversampling, or LUFS metering:** Pro-L 2 is the single-purpose fix for this.
 - **Limiting is one step of a bigger mastering chain:** Ozone 12's Maximizer is only worth paying for if you also use the rest of the suite.
 - **Uneven, pumping mixes with a single-band limiter:** Waves L3's multiband approach addresses this, usually at sale pricing.
 
-If none of these gaps is a problem in your current workflow, a free limiter is still enough.
+If none of these gaps is a problem in your current workflow, your current limiter is still enough.
 
 ---
 
@@ -166,7 +166,7 @@ If none of these gaps is a problem in your current workflow, a free limiter is s
 | FabFilter Pro-L 2 | $199 | Standalone limiter | 8 algorithms, LUFS metering, true peak, 192kHz | [Get It](https://www.fabfilter.com/products/pro-l-2-limiter-plug-in) |
 | iZotope Ozone 12 | See iZotope | Mastering suite (Maximizer module) | AI Master Assistant, IRC modes, integrated chain | — |
 | Waves L3 Ultramaximizer | ~$29–$79 | Multiband limiter | Multiband architecture, broadcast heritage, sale pricing | — |
-| TDR Limiter 6 GE | Free / Paid GE | Multi-stage limiter | Free tier, multi-stage architecture | — |
+| TDR Limiter 6 GE | EUR 60 (demo available) | Limiting and dynamics toolkit | Six modules, true peak and loudness metering, demo without time limit | [Developer Site](https://www.tokyodawn.net/tdr-limiter6-ge/) |
 | A.O.M. Invisible Limiter G2 | ~$60–$70 | Transparent ceiling tool | Low-artifact design, developer-documented transparency focus | — |
 
 ---
@@ -177,7 +177,7 @@ If none of these gaps is a problem in your current workflow, a free limiter is s
 
 - **If you don't have a mastering chain yet and want AI assistance**, iZotope Ozone 12's Master Assistant is designed for producers who are not mastering engineers by training. The Maximizer benefits from the suite's upstream analysis in ways a standalone limiter receiving a finished mix cannot replicate.
 
-- **If you're on a strict budget and need something now**, TDR Limiter 6's free tier is a no-cost option. It is a full tool rather than a demo, and it can handle masters while you evaluate paid options.
+- **If you're on a strict budget and need something now**, TDR Limiter 6 GE costs EUR 60 and has a demo with no time limit (automatic recall is blocked in the demo). We did not verify a free dedicated mastering limiter on an official page, so we are not recommending one here; the limiter that ships with your DAW, if it has one, is the no-cost route.
 
 - **If you work on broadcast, post-production, or spectrally imbalanced mixes**, Waves L3's multiband architecture handles heavy sub content and bright high-end more cleanly than single-band tools. Catch it during a Waves sale — it regularly drops to $29.
 
@@ -193,7 +193,7 @@ FabFilter Pro-L 2 has an integrated loudness panel displays true peak level, sho
 
 **Is FabFilter Pro-L 2 worth $199?**
 
-Yes, for producers who master their own releases on a regular basis. The eight algorithm options, oversampling, and true peak limiting are features that free tools and basic DAW ceilings do not replicate. Producers who master infrequently may be better served by TDR Limiter 6's free tier until limiting becomes a regular workflow step.
+Yes, for producers who master their own releases on a regular basis. The eight algorithm options, oversampling, and true peak limiting are features listed on the FabFilter product page; check whether your current limiter offers them. Producers who master infrequently may prefer the lower-priced TDR Limiter 6 GE (EUR 60) or their DAW's built-in limiter until limiting becomes a regular workflow step.
 
 **What's the difference between a limiter and a maximizer?**
 

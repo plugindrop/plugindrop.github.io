@@ -9,7 +9,7 @@ score: 8.68
 dealPrice: "$25.00"
 originalPrice: "$149.00"
 discount: "83% OFF"
-saleExpiry: "2026-10-08"
+saleExpiry: "2026-10-01"
 saleExpirySource: "fallback"
 draft: false
 ---
@@ -43,7 +43,7 @@ The listing does not mention a demo version, and we did not find one stated ther
 | Regular price (tracked at Plugin Boutique) | $149 |
 | Sale price recorded at publication (2026-09-08) | $25 |
 
-The sale end date in our records was an estimate (2026-10-08), not a date confirmed by the vendor. [Check the current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14570-Elpiano?a_aid=69cb95abe1763&chan=art&data1=elpiano-510e1c&utm_source=plugindrop&utm_medium=article&utm_campaign=elpiano-510e1c).
+The sale end date in our records was an estimate, not a date confirmed by the vendor; because the listing showed no discount on 2026-10-01, we treat the $25 offer as past. [Check the current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14570-Elpiano?a_aid=69cb95abe1763&chan=art&data1=elpiano-510e1c&utm_source=plugindrop&utm_medium=article&utm_campaign=elpiano-510e1c).
 
 ## FAQ
 

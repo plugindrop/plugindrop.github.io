@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import { eligiblePriorityPosts } from '../../lib/crawlPriority.mjs';
 import { pdAttr } from '../../lib/interestTaxonomy.mjs';
 import { isInternalPathIndexable } from '../../lib/linkPolicy.mjs';
-import { hasTrustedExpiry } from '../../lib/articleDeal.mjs';
+import { hasTrustedExpiry, isArticleSaleExpired } from '../../lib/articleDeal.mjs';
 import { stripMarkdownEmphasis } from '../../lib/textUtils';
 import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
@@ -34,9 +34,8 @@ function getStoreName(url: string | undefined): string {
 	try { return new URL(url).hostname.replace('www.', ''); } catch { return ''; }
 }
 
-function isExpired(saleExpiry: string | undefined): boolean {
-	if (!saleExpiry) return false;
-	return new Date(saleExpiry) < new Date();
+function isExpired(data: any): boolean {
+	return isArticleSaleExpired(data);
 }
 
 function formatExpiry(saleExpiry: string): string {
@@ -343,7 +342,7 @@ function isSaleDeal(tags: string[], hasPriceOrAffiliate: boolean): boolean {
 					const tagsStr = tags.join(',');
 					const hasPriceOrAffiliate = !!(post.data.dealPrice || post.data.discount || post.data.affiliate);
 					const isSale = isSaleDeal(tags, hasPriceOrAffiliate);
-					const expired = isExpired(post.data.saleExpiry);
+					const expired = isExpired(post.data);
 					const saleExpiry: string | undefined = post.data.saleExpiry;
 					const LinkTag = isInternalPathIndexable(`/posts/${post.id}/`) ? 'a' : 'div';
 					return (

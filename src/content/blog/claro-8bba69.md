@@ -58,7 +58,7 @@ Verify current pricing on the product page — deals can change.
 
 | Name | Price | Key Difference |
 |---|---|---|
-| FabFilter Pro-Q 4 | ~$179 | Industry-standard dynamic EQ with per-band mid/side processing |
+| FabFilter Pro-Q 4 | $199 | Industry-standard dynamic EQ with per-band mid/side processing |
 | TDR Nova | Free | Free dynamic equalizer from Tokyo Dawn Records |
 | Kirchhoff-EQ | ~$99 | 27 filter shapes and an emphasis on analog modeling options |
 

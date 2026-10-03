@@ -38,6 +38,7 @@ import {
 	ctaLabel,
 	ctaShortLabel,
 	hasTrustedExpiry,
+	isArticleSaleExpired,
 } from '../lib/articleDeal.mjs';
 
 type Props = CollectionEntry<'blog'>['data'] & { readingTime?: string; rawBody?: string; slug?: string };
@@ -49,11 +50,7 @@ const imageStr = typeof heroImage === 'string' ? heroImage : undefined;
 const _hasTrustedExpiry = hasTrustedExpiry({ saleExpiry, saleExpirySource, pubDate });
 
 // Check if sale has expired
-const saleExpired = saleExpiry && !evergreen
-	&& dealPrice?.trim().toUpperCase() !== 'FREE'
-	&& parseFloat(dealPrice?.replace(/[^0-9.]/g, '') ?? '') !== 0
-	? new Date(saleExpiry + 'T23:59:59Z') < new Date()
-	: false;
+const saleExpired = isArticleSaleExpired({ saleExpiry, saleExpirySource, pubDate, evergreen, dealPrice });
 
 // Derive store name from affiliate URL — netloc-based for accuracy
 function getDealSource(url: string): string {
@@ -429,7 +426,7 @@ const featuredDeals = isEvergreen ? allPosts
 	.filter(p => !p.data.draft &&
 		p.data.affiliate?.includes('pluginboutique.com') &&
 		p.data.dealPrice &&
-		(!p.data.saleExpiry || new Date(p.data.saleExpiry + 'T23:59:59Z') > new Date()))
+		!isArticleSaleExpired(p.data))
 	.sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
 	.slice(0, 4) : [];
 ---

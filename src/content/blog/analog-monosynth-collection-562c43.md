@@ -1,6 +1,6 @@
 ---
-title: "50% Off Analog Monosynth Collection"
-description: "Plugin Boutique has the Analog Monosynth Collection at 50% off, cutting the regular $299 price down to $149.50. It's a bundle built around..."
+title: "Analog Monosynth Collection: A Recorded 50% Sale at Plugin Boutique"
+description: "Analog Monosynth Collection is a bundle of analog-modeled monosynths. PluginDrop recorded $149.50 (regular $299) at Plugin Boutique in September 2026; this page is a dated record, not a current-sale alert."
 pubDate: "2026-09-04T16:14:07Z"
 tags: ["sale", "effects", "bundle", "synth", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=Analog+Monosynth+Collection&a_aid=69cb95abe1763&chan=art&data1=analog-monosynth-collection-562c43&utm_source=plugindrop&utm_medium=article&utm_campaign=analog-monosynth-collection-562c43"
@@ -13,7 +13,7 @@ saleExpiry: "2026-10-04"
 saleExpirySource: "fallback"
 draft: false
 ---
-**TL;DR:** Plugin Boutique has the Analog Monosynth Collection at 50% off, cutting the regular ~~$299~~ price down to $149.50. It's a bundle built around analog-modeled monosynth instruments aimed at producers chasing vintage, hands-on synth tones. Grab it here: [Analog Monosynth Collection at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15320-Analog-Monosynth-Collection?a_aid=69cb95abe1763&chan=art&data1=analog-monosynth-collection-562c43&utm_source=plugindrop&utm_medium=article&utm_campaign=analog-monosynth-collection-562c43).
+**TL;DR:** PluginDrop recorded the Analog Monosynth Collection at **$149.50** (regular ~~$299~~, 50% off) at Plugin Boutique in September 2026. Our expiry field for that offer is an estimate (2026-10-04), not a vendor-confirmed date, so treat this page as a dated record, not a current-sale alert. It is a bundle built around analog-modeled monosynth instruments aimed at producers chasing vintage, hands-on synth tones. Check the live price: [Analog Monosynth Collection at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15320-Analog-Monosynth-Collection?a_aid=69cb95abe1763&chan=art&data1=analog-monosynth-collection-562c43&utm_source=plugindrop&utm_medium=article&utm_campaign=analog-monosynth-collection-562c43).
 
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="50% Off Analog Monosynth Collection — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/584059617&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
@@ -28,10 +28,10 @@ For exact plugin titles, formats, and licensing mechanism, check the product pag
 
 ## Bundle value breakdown
 
-Here's the math on the deal itself:
+Here's the math on the price we recorded:
 
 - Regular price: ~~$299~~
-- Deal price: $149.50
+- Recorded sale price: $149.50
 - Savings: $149.50 (50% off)
 
 That's a straightforward half-off bundle rather than a tiered or pay-what-you-want structure. Because the exact instrument count and per-unit retail pricing aren't published in the tracked deal data, a per-plugin cost breakdown isn't possible here — check the product page for the individual instrument list if you want to price-compare against buying separately.
@@ -64,11 +64,11 @@ A: Licensing and authorization methods vary by developer within a bundle. Check 
 A: Format support (VST, VST3, AU, AAX) isn't specified in the tracked deal data. Check the product page for a full compatibility list before buying.
 
 **Q: Is 50% off a typical discount for this bundle?**
-A: The tracked price context shows a regular price of $299 and a current price of $149.50, a 50% reduction. Historical pricing patterns beyond this snapshot aren't available here.
+A: The price context we recorded shows a regular price of $299 and a sale price of $149.50, a 50% reduction. Historical pricing patterns beyond this snapshot aren't available here.
 
-## Should you buy now?
+## Should you buy?
 
-Based on the tracked pricing, the deal cuts the $299 regular price in half to $149.50, which is a straightforward, easy-to-evaluate discount. If you're actively looking to add analog-modeled monosynth tones to your instrument collection and the price point works for your budget, this is a reasonable point to buy. If you're unsure how many instruments are included or whether they overlap with synths you already own, check the product page for the full contents before committing.
+The price we recorded cut the $299 regular price in half to $149.50, a straightforward discount that may or may not still be available. If you're actively looking to add analog-modeled monosynth tones to your instrument collection, check the live price first. If you're unsure how many instruments are included or whether they overlap with synths you already own, check the product page for the full contents before committing.
 
 *Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
 

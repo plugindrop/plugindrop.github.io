@@ -228,11 +228,14 @@ export const MIN_CHECKS_FOR_DISCOUNT_FREQUENCY = 4;
 export const MIN_DAYS_FOR_DISCOUNT_FREQUENCY = 28;
 const NOT_ENOUGH_HISTORY = { label: 'Not enough price history yet', cls: 'ds-unknown' };
 
-export function guardDiscountFrequency(verdict, checks) {
+export function guardDiscountFrequency(verdict, checks, salesRecorded = 0, typicalSale = null) {
   if (verdict?.label !== 'Rarely discounts') return verdict;
   const dates = [...new Set((checks ?? []).map((row) => row.date))].sort();
+  if (salesRecorded === 0 && typicalSale === null) return dates.length
+    ? { label: `No sale seen in ${dates.length} checks since ${dates[0]}`, cls: 'ds-unknown' }
+    : NOT_ENOUGH_HISTORY;
   const span = dates.length > 1 ? days(dates[0], dates.at(-1)) : 0;
-  return dates.length >= MIN_CHECKS_FOR_DISCOUNT_FREQUENCY && span >= MIN_DAYS_FOR_DISCOUNT_FREQUENCY ? verdict : NOT_ENOUGH_HISTORY;
+  return salesRecorded > 0 && dates.length >= MIN_CHECKS_FOR_DISCOUNT_FREQUENCY && span >= MIN_DAYS_FOR_DISCOUNT_FREQUENCY ? verdict : NOT_ENOUGH_HISTORY;
 }
 
 export function comparisonPriceFacts(entry) {
@@ -242,11 +245,16 @@ export function comparisonPriceFacts(entry) {
   const regular = entry.typical_regular ?? null;
   // The catalog seeds typical_sale from its first observed sale. Use the
   // same definition on the checks behind salesRecorded.
-  const sale = facts.checks.find((row) => finite(row.sale))?.sale ?? null;
+  const observedSale = facts.checks.find((row) => finite(row.sale))?.sale ?? null;
+  const researchSale = rows(entry).find((row) => row.source?.startsWith('research_') && finite(row.sale) && row.sale === entry.typical_sale);
+  const sale = observedSale ?? (researchSale ? entry.typical_sale : null);
+  const saleNote = observedSale ? null : researchSale ? `${ym(researchSale.date)} record` : null;
   const allTimeLow = facts.sales.length ? Math.min(...facts.sales.map((episode) => episode.low)) : null;
   return {
-    regular, sale, today, salesRecorded: facts.sales.length,
-    verdict: guardDiscountFrequency(dealScore(today, regular, sale, allTimeLow), facts.checks),
+    regular, sale, saleNote, today, salesRecorded: facts.sales.length,
+    verdict: facts.sales.length === 0 && sale !== null && dealScore(today, regular, sale, allTimeLow).label === 'Wait for a sale'
+      ? NOT_ENOUGH_HISTORY
+      : guardDiscountFrequency(dealScore(today, regular, sale, allTimeLow), facts.checks, facts.sales.length, sale),
     hasPrice: [regular, sale, today].some((value) => value !== null),
   };
 }

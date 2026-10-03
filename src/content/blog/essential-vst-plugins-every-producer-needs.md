@@ -18,7 +18,7 @@ priceTrack:
 
 **TL;DR:** FabFilter Pro-Q 4 is the single most impactful purchase any producer can make in 2026 — its surgical precision and real-time spectrum analysis raise the quality ceiling of every mix it touches. Pair it with Valhalla Room for space and Serum for synthesis, and you've covered 80% of a professional production workflow before spending $500.
 
-**Update (Sept 2026):** FabFilter Pro-C 2 has been discontinued and replaced by **Pro-C 3**; this guide now points to the current model. Pricing for FabFilter Pro-Q 4 and Pro-C 3 has also been corrected to $199 (both were previously listed at $179).
+**Update (Sept 2026):** FabFilter Pro-C 2 has been discontinued and replaced by **Pro-C 3**; this guide now points to the current model. Pricing for FabFilter Pro-Q 4 and Pro-C 3 has also been corrected to $199 (both were previously listed at $199).
 
 ## Quick Picks at a Glance
 

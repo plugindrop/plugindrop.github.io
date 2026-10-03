@@ -318,3 +318,10 @@ export function hasTrustedExpiry(data) {
   if (pubDate && !Number.isNaN(pubDate.getTime()) && expiry <= pubDate) return false;
   return true;
 }
+
+export function isArticleSaleExpired(data, now = Date.now()) {
+  if (!data?.saleExpiry || data.evergreen) return false;
+  if (data.dealPrice && /^(?:FREE|[$€£¥]?0(?:\.00)?)$/i.test(data.dealPrice.trim())) return false;
+  const expiry = Date.parse(`${data.saleExpiry}T23:59:59Z`);
+  return Number.isFinite(expiry) && expiry < now;
+}

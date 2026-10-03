@@ -27,7 +27,7 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| FabFilter Pro-Q 4 | $179 | Precise EQ & dynamic EQ | [Official Site](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
+| FabFilter Pro-Q 4 | $199 | Precise EQ & dynamic EQ | [Official Site](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 | FabFilter Pro-C 3 | $199 | Transparent to aggressive compression | [Official Site](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 | TDR Nova | Free | Dynamic EQ on a budget | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Klanghelm DC8C | Free | Vintage-flavored compression | [Free Download](https://klanghelm.com/contents/products/DC8C) |
@@ -57,7 +57,7 @@ If you only read one section of this guide, read this one. Across every category
 
 | Plugin | Price | Best For | Free Trial? | Plugin Boutique Link |
 |--------|-------|----------|--------------|----------------------|
-| FabFilter Pro-Q 4 | $179 | Surgical & dynamic EQ | Yes (30 days) | [View on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
+| FabFilter Pro-Q 4 | $199 | Surgical & dynamic EQ | Yes (30 days) | [View on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 | FabFilter Pro-C 3 | $199 | All-purpose compression | Yes (30 days) | [View on Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 | TDR Nova | Free | Budget dynamic EQ | Free (no trial needed) | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Klanghelm DC8C | Free | Vintage compression color | Free (no trial needed) | [Klanghelm Direct](https://klanghelm.com/contents/products/DC8C) |
@@ -86,7 +86,7 @@ Pro-Q 4 sets the benchmark every other EQ gets measured against, and that hasn't
 
 **Best for:** Engineers who need surgical precision, dynamic EQ capabilities, and a workflow that scales from quick corrective work to deep spectral surgery across an entire session.
 
-Note that $179 is the list price — FabFilter runs sales less often than most developers, but when it does discount Pro-Q 4, the drop is usually meaningful. If you're not in a rush, check [When Does FabFilter Pro-Q 4 Go On Sale?](/posts/when-does-fabfilter-pro-q-4-go-on-sale/) before buying at full price.
+Note that $199 is the list price — FabFilter runs sales less often than most developers, but when it does discount Pro-Q 4, the drop is usually meaningful. If you're not in a rush, check [When Does FabFilter Pro-Q 4 Go On Sale?](/posts/when-does-fabfilter-pro-q-4-go-on-sale/) before buying at full price.
 
 [→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026)
 
@@ -233,7 +233,7 @@ Like the rest of the FabFilter range, Pro-L 2 holds its price well. Check [When 
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| FabFilter Pro-Q 4 | $179 | EQ | Dynamic EQ, real-time spectrum, surgical precision | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
+| FabFilter Pro-Q 4 | $199 | EQ | Dynamic EQ, real-time spectrum, surgical precision | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 | FabFilter Pro-C 3 | $199 | Compressor | 14 compression styles, side-chain EQ, bus-ready | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=best-mixing-plugins-2026) |
 | TDR Nova | Free | Dynamic EQ | 4-band dynamic EQ, wideband compressor, free | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Klanghelm DC8C | Free | Compressor | Vintage character, 4 modes, tube saturation | [Get It](https://klanghelm.com/contents/products/DC8C) |

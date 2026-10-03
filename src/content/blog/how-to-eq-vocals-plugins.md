@@ -19,7 +19,7 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| FabFilter Pro-Q 4 | $179 | Surgical precision, full pro workflow | [Official Site](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-eq-vocals-plugins) |
+| FabFilter Pro-Q 4 | $199 | Surgical precision, full pro workflow | [Official Site](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-eq-vocals-plugins) |
 | TDR Nova | Free | Dynamic EQ at no cost | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | iZotope Neutron 4 | Superseded by Neutron 5 ($299) | AI-assisted EQ, mix-context shaping | [Official Site](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=how-to-eq-vocals-plugins) |
 | iZotope Nectar 4 | $199 | Vocal-dedicated full processing chain | [Official Site](https://www.pluginboutique.com/search?q=iZotope%20Nectar&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-vocals-plugins&chan=art&data1=how-to-eq-vocals-plugins) |
@@ -184,7 +184,7 @@ Neutron 4 is not a standalone EQ — it's a full mixing channel strip where the 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | TDR Nova | Free | Dynamic EQ | 4 dynamic bands, HPF, parallel mode, Linux support | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
-| FabFilter Pro-Q 4 | $179 | Linear/Dynamic EQ | 24 bands, collision detection, linear phase, M/S | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-eq-vocals-plugins) |
+| FabFilter Pro-Q 4 | $199 | Linear/Dynamic EQ | 24 bands, collision detection, linear phase, M/S | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-eq-vocals-plugins) |
 | iZotope Neutron 4 | Superseded by Neutron 5 ($299) | AI Channel Strip | AI Track Assistant, masking meter, Relay system | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=how-to-eq-vocals-plugins) |
 | iZotope Nectar 4 | $199 | Vocal Processing Suite | Vocal Assistant, Unmask, integrated vocal chain | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Nectar&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-vocals-plugins&chan=art&data1=how-to-eq-vocals-plugins) |
 
@@ -211,7 +211,7 @@ A: Both serve different roles in the same chain. Static EQ handles consistent st
 A: Neutron 4 is a general-purpose channel strip designed for any instrument in a mix. Nectar 4 is built exclusively for vocal production — its modules, AI Vocal Assistant, and Unmask inter-plugin feature are specifically designed around vocal EQ and processing challenges that Neutron addresses only in passing.
 
 **Q: Is FabFilter Pro-Q 4 worth the price for a home studio producer?**
-A: Pro-Q 4's feature set covers both simple and advanced EQ tasks, so it does not need to be replaced as skills develop. That said, TDR Nova is a free alternative for producers not ready to commit $179.
+A: Pro-Q 4's feature set covers both simple and advanced EQ tasks, so it does not need to be replaced as skills develop. That said, TDR Nova is a free alternative for producers not ready to commit $199.
 
 **Q: What's the best EQ curve to start with on every vocal?**
 A: There is no universal starting curve — every voice, microphone, and room produces a different frequency profile. What transfers reliably is the process: high-pass filter first, cut mud around 200–350Hz, find and remove narrow resonances in the 500Hz–2kHz range, consider a broad presence boost around 3–4kHz, and optionally add a high-shelf air boost above 12kHz. Apply that sequence to every vocal and adjust the specific frequencies and depths to match what you hear.

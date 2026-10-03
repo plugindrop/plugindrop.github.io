@@ -58,7 +58,7 @@ Verify current pricing on the product page — deals can change.
 
 | Name | Price | Key Difference |
 |---|---|---|
-| FabFilter Pro-Q 4 | ~$179 | Linear-phase capable, highly transparent — surgical rather than color-adding |
+| FabFilter Pro-Q 4 | $199 | Linear-phase capable, highly transparent — surgical rather than color-adding |
 | UAD Pultec EQP-1A | Subscription/hardware | Another classic passive EQ emulation; requires UAD hardware or subscription |
 | Neve 1073 Preamp & EQ | Check store | Transformer-based hardware emulation with a different frequency character |
 

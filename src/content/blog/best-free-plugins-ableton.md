@@ -196,7 +196,7 @@ Supermassive is Valhalla DSP's free reverb/delay release. The plugin specializes
 
 ---
 
-### TAL-Chorus-LX — The Roland Juno Chorus, Free
+### TAL-Chorus-LX — A Juno 60 Chorus Emulation, Free
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/tbM3E2Ov3zI" title="TAL-Chorus-LX — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -205,13 +205,13 @@ Supermassive is Valhalla DSP's free reverb/delay release. The plugin specializes
 - **Platforms:** Windows, macOS, Linux
 - **Formats:** VST, VST3, AU
 
-TAL-Chorus-LX is a meticulous recreation of the BBD chorus circuit found in the Roland Juno-6 synthesizer. It adds doubling, shimmer, and stereo width, and it can be used on synthesizers, guitars, and vocals that need width. TAL Software offers a catalog of free tools.
+TAL-Chorus-LX emulates the Juno 60 chorus, as TAL Software's product page describes it. It adds doubling, shimmer, and stereo width, and it can be used on synthesizers, guitars, and vocals that need width. TAL Software offers a catalog of free tools.
 
 **Best for:** Synth pads, leads requiring vintage warmth, guitars, and vocals that need natural stereo width without harsh digital artifacts.
 
-**Skip it if:** you want adjustable rate and depth or a versatile modulation multi-effect — TAL-Chorus-LX is a fixed Juno circuit with essentially two mode buttons and a dry/wet, nothing more.
+**Skip it if:** you want adjustable rate and depth or a versatile modulation multi-effect — TAL-Chorus-LX is a fixed Juno 60 chorus emulation rather than a multi-effect.
 
-[Free Download](https://tal-software.com/products/tal-chorus-lx)
+TAL-Chorus-LX (official TAL page was unreachable when checked 2026-10-03)
 
 ---
 
@@ -352,7 +352,7 @@ Once you've maxed out what the free tier offers, these three commercial plugins 
 | TDR Nova | Free | Dynamic EQ | Per-band dynamics, parallel EQ architecture, transparent processing | [Plugin Boutique](https://www.tokyodawn.net/tdr-nova/) |
 | Rough Rider 3 | Free | Compressor | Character compression, wet/dry blend, sidechain input | [Get It](https://www.pluginboutique.com/product/2-Effects/8-Compressor/6100-Rough-Rider-3?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
 | Valhalla Supermassive | Free | Reverb / Delay | Long decay times, WARP parameter, 11 reverb algorithms | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| TAL-Chorus-LX | Free | Chorus | Juno-6 BBD circuit emulation, natural stereo width | [Free Download](https://tal-software.com/products/tal-chorus-lx) |
+| TAL-Chorus-LX | Free | Chorus | Juno 60 chorus emulation, stereo width | TAL-Chorus-LX (official TAL page was unreachable when checked 2026-10-03) |
 | LABS | Free | Sample Instrument | Curated Spitfire samples, growing catalog, all genres covered | [Get It](https://labs.spitfireaudio.com/) |
 | Sitala | $20 (v1 free) | Drum Sampler | 16-pad workflow, drag-and-drop loading, per-pad shape and tone controls | [Get It](https://decomposer.de/sitala/) |
 | SPAN | Free | Spectrum Analyzer | Real-time FFT, near-zero CPU, configurable display modes | [Get It](https://www.voxengo.com/product/span/) |
@@ -394,7 +394,7 @@ When you've maxed out the free toolkit, these are three paid plugins to consider
 | Plugin | Price | Why Upgrade | Get It |
 |--------|-------|-------------|--------|
 | Valhalla VintageVerb | $50 | 18 algorithms, 3 vintage color modes — covers room, hall, plate, and chamber with no free equivalent | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
-| FabFilter Pro-Q 4 | ~$179 | Dynamic EQ per band + mid/side processing that TDR Nova can't do | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
+| FabFilter Pro-Q 4 | $199 | Dynamic EQ per band + mid/side processing that TDR Nova can't do | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
 | FabFilter Pro-L 2 | ~$199 | True peak limiting for streaming delivery — required for professional masters | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
 
 → Full paid reverb breakdown: [Valhalla VintageVerb Review: Worth the $50?](/posts/valhalla-vintageverb-review/)
@@ -413,7 +413,7 @@ The free plugins above cover most production needs. When you're ready to invest,
 | Plugin | What It Adds | Price |
 |---|---|---|
 | [Serum 2](https://xferrecords.com/products/serum-2) | Industry-standard wavetable synth, massive preset library | ~$10/mo or ~$189 |
-| [FabFilter Pro-Q 4](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) | Dynamic EQ, surgical precision, zero-latency | ~$179 |
+| [FabFilter Pro-Q 4](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) | Dynamic EQ, surgical precision, zero-latency | $199 |
 | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) | 18 reverb algorithms, $50, beats plugins 3× the price | $50 |
 
 **Sale timing:** Plugin Boutique discounts hardest during Black Friday (late November) and its summer sale in July, and it hands out a rotating free plugin with most purchases. FabFilter almost never cuts more than about 15%, so there's little point waiting on Pro-Q 4; Valhalla's flat $50 basically never drops, and Serum is cheapest as Splice rent-to-own if you'd rather spread the ~$189 over monthly payments.

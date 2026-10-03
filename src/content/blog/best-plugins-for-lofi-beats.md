@@ -218,7 +218,7 @@ TAL-Chorus-LX is a recreation of the Roland Juno-60's chorus circuit, offered fr
 
 **Best for:** Subtle pitch modulation on synths and sampled keys, organic stereo widening with an analog character.
 
-[Free Download](https://tal-software.com/products/tal-chorus-lx)
+TAL-Chorus-LX (official TAL page was unreachable when checked 2026-10-03)
 
 ---
 
@@ -261,7 +261,7 @@ TAL-Chorus-LX is a recreation of the Roland Juno-60's chorus circuit, offered fr
 | Krush | Free | Bitcrusher | Bit + SR reduction with LFO modulation | [Download](https://www.tritik.com/products/krush/) |
 | GVST GDegrade | Free | Degrader | Bit crush and SR reduction | [Download](https://gvst.uk/Downloads) |
 | IVGI | Free | Saturation | Tube/tape warmth, subtle density | [Download](https://klanghelm.com/contents/products/IVGI) |
-| TAL-Chorus-LX | Free | Chorus | Juno-60 circuit, organic pitch movement | [Free Download](https://tal-software.com/products/tal-chorus-lx) |
+| TAL-Chorus-LX | Free | Chorus | Juno-60 circuit, organic pitch movement | TAL-Chorus-LX (official TAL page was unreachable when checked 2026-10-03) |
 | RC-20 Retro Color | ~$99 | Lo-fi all-in-one | 6 modules, cohesive degradation chain | [Get It](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
 | iZotope RX Elements | ~$99 | Audio repair | Noise reduction, spectral repair | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20RX&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-lofi-beats&chan=art&data1=best-plugins-for-lofi-beats) |
 

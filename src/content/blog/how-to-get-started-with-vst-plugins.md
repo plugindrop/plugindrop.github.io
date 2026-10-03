@@ -25,7 +25,7 @@ priceTrack:
 | TDR Nova | Free | Transparent dynamic EQ, mixing | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Valhalla Supermassive | Free | Lush reverb, ambient spaces | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Serum 2 | $189 | Professional wavetable synthesis, preset ecosystem | [Get Serum 2](https://xferrecords.com/products/serum-2) |
-| FabFilter Pro-Q 4 | $179 | Professional mixing and mastering EQ | [Get Pro-Q 4 (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-get-started-with-vst-plugins) |
+| FabFilter Pro-Q 4 | $199 | Professional mixing and mastering EQ | [Get Pro-Q 4 (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-get-started-with-vst-plugins) |
 
 ---
 
@@ -156,7 +156,7 @@ The free stack above covers a complete production workflow. These paid upgrades 
 | TDR Nova | Free | Dynamic EQ | 4-band parametric, per-band dynamics, linear phase | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Valhalla Supermassive | Free | Reverb / Delay | 23 modes, infinite decay | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Serum 2 | $189 | Wavetable Synth | Largest third-party preset ecosystem, advanced wavetable editor | [Official Site](https://xferrecords.com/products/serum-2) |
-| FabFilter Pro-Q 4 | $179 | EQ | Natural phase, collision detection, M/S, mastering precision | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-get-started-with-vst-plugins) |
+| FabFilter Pro-Q 4 | $199 | EQ | Natural phase, collision detection, M/S, mastering precision | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-get-started-with-vst-plugins) |
 
 ---
 

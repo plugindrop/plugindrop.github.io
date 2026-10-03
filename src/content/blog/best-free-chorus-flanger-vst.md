@@ -1,6 +1,6 @@
 ---
 title: "8 Best Free Chorus & Flanger VST Plugins in 2026 — Ranked"
-description: "TAL-Chorus-LX is a free chorus that emulates a Roland JC-120 circuit — it's free on every platform, and"
+description: "TAL-Chorus-LX is a free chorus that emulates the Juno 60 chorus — TAL lists Windows, macOS, and Linux downloads, and"
 pubDate: "2026-05-12T17:53:47Z"
 tags: ["guide", "vst", "free", "effects"]
 affiliate: ""
@@ -10,7 +10,7 @@ xText: "New guide: 8 Best Free Chorus & Flanger VST Plugins in 2026"
 heroImage: "/images/best-free-chorus-flanger-vst.jpg"
 draft: false
 ---
-**TL;DR:** TAL-Chorus-LX is a free chorus that emulates a Roland JC-120 circuit, and it's free on every platform. For flanging, MeldaProduction's MFlanger (free, part of their bundle) offers a deep modulation feature set. Start with those two.
+**TL;DR:** TAL-Chorus-LX is a free chorus that emulates the Juno 60 chorus, with Windows, macOS, and Linux downloads listed on TAL's page. For flanging, MeldaProduction's MFlanger (free, part of their bundle) offers a deep modulation feature set. Start with those two.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_ps-nhq52XY" title="8 Best Free Chorus & Flanger VST Plugins in 2026 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -20,7 +20,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| TAL-Chorus-LX | Free | Classic JC-120 chorus on any source | [Free Download](https://tal-software.com/products/tal-chorus-lx) |
+| TAL-Chorus-LX | Free | Juno 60 chorus emulation | TAL-Chorus-LX (official TAL page was unreachable when checked 2026-10-03) |
 | MFlanger | Free | Deep, controllable flanging | Plugin Boutique |
 | MChorus | Free | Multiband chorus with precise control | [Free Download](https://www.meldaproduction.com/MFreeFXBundle) |
 | TAL-Flanger | Free | Analog-style flanging, zero friction | [Free Download](https://tal-software.com/products/tal-effects) |
@@ -30,7 +30,7 @@ draft: false
 
 ## Introduction
 
-TAL-Chorus-LX was first released over a decade ago. It has barely changed since. And it is still available for free on every platform. In a plugin market where new releases drop weekly and "free" often means a limited demo, a free, full-featured plugin that has stayed current for that long is worth a look.
+TAL-Chorus-LX has a long release history; TAL's changelog lists version 1.6.3 (June 2023) with native Apple silicon support, and its download page lists Windows, macOS, and Linux builds. In a plugin market where "free" often means a limited demo, that makes it worth a look.
 
 Chorus and flanger effects sit at the core of a massive amount of popular music: the shimmer on 80s synth pads, the swirling guitar in post-punk records, the wide stereo field on modern pop vocals, the jet-sweep on classic rock recordings. The underlying DSP principle is simple — delay a signal, modulate that delay time, blend it back with the dry signal — but the character difference between a great implementation and a mediocre one is immediately audible. This guide covers the best free chorus flanger VST 2026 has to offer: eight free plugins that hold up against tools costing many times more, plus two paid options worth the upgrade if you outgrow them.
 
@@ -38,7 +38,7 @@ This guide is written for bedroom producers, home studio engineers, and anyone w
 
 ## Best Free Chorus VST Plugins
 
-### TAL-Chorus-LX — The default free chorus, still undefeated
+### TAL-Chorus-LX — A free Juno 60 chorus emulation
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_ps-nhq52XY" title="TAL-Chorus-LX — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -47,13 +47,13 @@ This guide is written for bedroom producers, home studio engineers, and anyone w
 - **Platforms:** Windows, macOS, Linux
 - **Formats:** VST2, VST3, AU, AAX
 
-TAL-Chorus-LX emulates the two-stage BBD (Bucket Brigade Device) chorus circuit from the Roland JC-120 guitar amplifier. Developer documentation confirms the model targets the specific analog character of that circuit. Its stereo output widens the signal as the depth rises. The effect scales from subtle at lower depth settings to lush and expansive when pushed, without the brittle quality that plagues cheaper chorus implementations.
+TAL Software describes TAL-Chorus-LX as a vintage chorus effect that emulates the Juno 60 chorus. The product page lists VST, VST3, AU, AAX, and CLAP formats for Windows, macOS, and Linux.
 
-The interface is deliberately minimal: two chorus modes (one-stage and two-stage), a mix control, and not much else. That simplicity is a feature. TAL-Chorus-LX is a plugin you drop on a track and it sounds right. It is a free emulation of the Roland JC-120 chorus circuit.
+The interface is deliberately minimal: two chorus modes (one-stage and two-stage), a mix control, and not much else. That simplicity keeps setup short. It is a free emulation of the Juno 60 chorus.
 
 **Best for:** Synth pads, electric piano, clean guitars, bass — anything that benefits from classic analog stereo width without coloring the source.
 
-[Free Download](https://tal-software.com/products/tal-chorus-lx)
+TAL-Chorus-LX (official TAL page was unreachable when checked 2026-10-03)
 [Watch Demo](https://www.youtube.com/watch?v=tbM3E2Ov3zI)
 
 ---
@@ -196,7 +196,7 @@ Chris Johnson's AirWindows project is a large collection of free, open-source au
 
 - **Developer:** Arturia
 - **Price:** $49
-- **Why upgrade:** TAL-Chorus-LX models the JC-120 circuit. The Roland Dimension D is a different piece of hardware entirely — a four-mode spatial chorus used heavily in professional studio production through the 80s and 90s. Arturia's developer documentation confirms the emulation targets the original Dimension D hardware circuit, including all four preset modes. The plugin adds additional controls not available on the hardware unit. If the JC-120 character is close but not quite what you're after, this is where to look.
+- **Why upgrade:** TAL-Chorus-LX emulates the Juno 60 chorus. The Roland Dimension D is a different piece of hardware entirely — a four-mode spatial chorus used heavily in professional studio production through the 80s and 90s. Arturia's developer documentation confirms the emulation targets the original Dimension D hardware circuit, including all four preset modes. The plugin adds additional controls not available on the hardware unit. If the Juno 60 chorus is close but not quite what you're after, this is where to look.
 
 [→ Get Arturia Chorus DIMENSION-D (via Plugin Boutique)](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=best-free-chorus-flanger-vst)
 [Watch Demo](https://www.youtube.com/watch?v=zWDahsu8vFE)
@@ -220,7 +220,7 @@ Chris Johnson's AirWindows project is a large collection of free, open-source au
 
 | Plugin | Price | Type | Highlights | Get It |
 |--------|-------|------|------------|--------|
-| TAL-Chorus-LX | Free | Chorus | JC-120 BBD emulation, minimal UI, cross-platform | [Free Download](https://tal-software.com/products/tal-chorus-lx) |
+| TAL-Chorus-LX | Free | Chorus | Juno 60 chorus emulation, VST/VST3/AU/AAX/CLAP, cross-platform | TAL-Chorus-LX (official TAL page was unreachable when checked 2026-10-03) |
 | MFlanger | Free | Flanger | Multiband, deep LFO control, MFreeFXBundle | [Official Site](https://valhalladsp.com/plugins//) |
 | MChorus | Free | Chorus | Multiband chorus, visualization, MFreeFXBundle | [Free Download](https://www.meldaproduction.com/MFreeFXBundle) |
 | TAL-Flanger | Free | Flanger | Analog-modeled, simple UI, TAL quality | [Free Download](https://tal-software.com/products/tal-effects) |
@@ -235,10 +235,10 @@ Chris Johnson's AirWindows project is a large collection of free, open-source au
 
 ## How to Choose
 
-- **If you want one free chorus with no learning curve**, download TAL-Chorus-LX and stop there. It handles synth pads, guitars, electric piano, and most classic chorus duties without configuration.
+- **If you want one free chorus with no learning curve**, download TAL-Chorus-LX and stop there. It is aimed at classic chorus duties on synth pads, guitars, and electric piano.
 - **If you need a flanger with real depth and control**, MFlanger from MeldaProduction is the answer — and downloading the MFreeFXBundle gives you MChorus and 30+ other plugins in the same install.
 - **If you're working on ambient, pad-heavy, or drone music**, Valhalla SuperMassive's ensemble modes produce textures that BBD-style chorus plugins cannot replicate, and it is free.
-- **If you need the Roland Dimension D character specifically**, Arturia Chorus DIMENSION-D is the emulation of that unit. The JC-120 and Dimension D are different hardware units with meaningfully different sounds — don't assume TAL-Chorus-LX covers both.
+- **If you need the Roland Dimension D character specifically**, Arturia Chorus DIMENSION-D is the emulation of that unit. The Juno 60 chorus and the Dimension D are different hardware units — don't assume TAL-Chorus-LX covers both.
 - **If you're on Windows with a limited CPU budget**, GVST GChorus covers basic chorus duties with minimal resource impact.
 
 ---
@@ -248,7 +248,7 @@ Chris Johnson's AirWindows project is a large collection of free, open-source au
 A: Both mix a delayed copy of the signal back with the original, with modulation applied to the delay time. Chorus uses longer delay times — typically 20–30ms — to create a rich, doubled or multi-voice effect. Flanging uses much shorter delay times — often 1–10ms — which produces the characteristic jet-sweep or comb-filtering sound. The controls look similar on the surface, but the audible results are distinct enough that they serve different purposes in a mix.
 
 **Q: Is TAL-Chorus-LX reliable in professional mixing contexts?**
-A: A plugin's price does not decide whether it is usable in commercial work. TAL-Chorus-LX models the JC-120 two-stage BBD chorus circuit, and the "bedroom producer" association is about the price, not a technical limit.
+A: A plugin's price does not decide whether it is usable in commercial work. TAL-Chorus-LX emulates the Juno 60 chorus, and the "bedroom producer" association is about the price, not a technical limit.
 
 **Q: Do these free plugins work in Ableton Live, Logic Pro, and FL Studio?**
 A: Most of the plugins on this list — TAL-Chorus-LX, TAL-Flanger, MFlanger, MChorus, Valhalla SuperMassive, Blue Cat's Chorus — support VST3 and/or AU, covering all major modern DAWs. GVST GChorus is the notable exception: Windows and VST2 only. AirWindows format support varies by plugin and DAW; check compatibility before committing.
@@ -273,9 +273,9 @@ A: They serve different use cases. Arturia's Dimension D is a hardware emulation
 
 ## Final Thoughts
 
-TAL-Chorus-LX is still the first plugin you should download — its combination of zero cost and cross-platform availability makes it a straightforward starting point for a free modulation toolkit. When the free options reach their limits, Arturia Chorus DIMENSION-D and Valhalla Chorus are paid options with more modulation control.
+TAL-Chorus-LX is a reasonable first download — its combination of zero cost and cross-platform availability makes it a straightforward starting point for a free modulation toolkit. When the free options reach their limits, Arturia Chorus DIMENSION-D and Valhalla Chorus are paid options with more modulation control.
 
-[Free Download](https://tal-software.com/products/tal-chorus-lx)
+TAL-Chorus-LX (official TAL page was unreachable when checked 2026-10-03)
 
 ---
 

@@ -28,7 +28,7 @@ priceTrack:
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | SPAN (Voxengo) | Free | Real-time spectrum analysis | [Plugin Boutique](https://www.pluginboutique.com/search?q=SPAN%20Voxengo%20spectrum%20analyzer&a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
-| FabFilter Pro-Q 4 | $179 | Surgical mastering EQ | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
+| FabFilter Pro-Q 4 | $199 | Surgical mastering EQ | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
 | iZotope Ozone 12 | From $219 (as of 2026-10-01) | All-in-one mastering suite | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
 | FabFilter Pro-L 2 | $199 | Transparent brick-wall limiting | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
 | Youlean Loudness Meter 2 | Free | LUFS & streaming targets | [Plugin Boutique](https://www.pluginboutique.com/search?q=Youlean%20Loudness%20Meter%202&a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
@@ -221,7 +221,7 @@ If you're currently running a stripped-back chain with free alternatives at any 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | SPAN (Voxengo) | Free | Spectrum Analyzer | Real-time FFT, configurable slope, zero latency | [Plugin Boutique](https://www.pluginboutique.com/search?q=SPAN%20Voxengo%20spectrum%20analyzer&a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
-| FabFilter Pro-Q 4 | $179 | EQ | Per-band M/S, dynamic EQ, linear phase, spectrum grab | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
+| FabFilter Pro-Q 4 | $199 | EQ | Per-band M/S, dynamic EQ, linear phase, spectrum grab | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
 | iZotope Ozone 12 | From $219 (as of 2026-10-01) | Mastering Suite | AI Master Assistant, Stabilizer, Imager, Maximizer | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
 | FabFilter Pro-L 2 | $199 | Limiter | 8 algorithms, true peak, 32x oversampling, LUFS readout | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |
 | Youlean Loudness Meter 2 | Free | Loudness Meter | Platform presets, integrated LUFS, history graph | [Plugin Boutique](https://www.pluginboutique.com/search?q=Youlean%20Loudness%20Meter%202&a_aid=69cb95abe1763&chan=art&data1=mastering-chain-plugins) |

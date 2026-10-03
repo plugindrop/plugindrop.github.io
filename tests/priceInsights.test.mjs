@@ -12,7 +12,8 @@ test('comparison price has no typical sale or wait verdict without a tracked sal
     { date: '2026-09-02', regular: 199, sale: null, source: 'auto_check' },
   ] };
   const result = comparisonPriceFacts(noSale);
-  assert.equal(result.sale, null);
+  assert.equal(result.sale, 134);
+  assert.equal(result.saleNote, 'Sep 2026 record');
   assert.equal(result.salesRecorded, 0);
   assert.notEqual(result.verdict.label, 'Wait for a sale');
   assert.equal(result.verdict.label, 'Not enough price history yet');
@@ -25,10 +26,18 @@ test('comparison price has no typical sale or wait verdict without a tracked sal
 test('Rarely discounts needs a real observation history', () => {
   const rows = (dates) => dates.map((date) => ({ date, regular: 199, sale: null, source: 'auto_check' }));
   const short = comparisonPriceFacts({ typical_regular: 199, typical_sale: null, all_time_low: null, history: rows(['2026-09-23', '2026-09-29']) });
-  assert.equal(short.verdict.label, 'Not enough price history yet');
+  assert.equal(short.verdict.label, 'No sale seen in 2 checks since 2026-09-23');
   const long = comparisonPriceFacts({ typical_regular: 199, typical_sale: null, all_time_low: null,
     history: rows(['2026-07-01', '2026-07-15', '2026-08-01', '2026-08-20', '2026-09-10']) });
-  assert.equal(long.verdict.label, 'Rarely discounts');
+  assert.equal(long.verdict.label, 'No sale seen in 5 checks since 2026-07-01');
+  assert.equal(long.verdict.cls, 'ds-unknown');
+});
+
+test('Pro-Q 4 shows its recorded November 2024 typical sale without inventing a tracked episode', () => {
+  const result = comparisonPriceFacts(priceData.plugins['FabFilter Pro-Q 4']);
+  assert.equal(result.sale, 149);
+  assert.equal(result.saleNote, 'Nov 2024 record');
+  assert.equal(result.salesRecorded, 0);
 });
 
 test('comparison price uses first confirmed tracked sale and tracked low', () => {

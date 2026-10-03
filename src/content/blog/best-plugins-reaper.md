@@ -23,7 +23,7 @@ priceTrack:
 | Surge XT | Free | Complex hybrid synthesis, deep modulation | [Free Download](https://surge-synthesizer.github.io/) |
 | TDR Nova | Free | Dynamic EQ, surgical mixing | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Valhalla Supermassive | Free | Ambient reverb, massive spatial effects | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| FabFilter Pro-Q 4 | $179 | Professional mixing and mastering EQ | [Official Site](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-reaper) |
+| FabFilter Pro-Q 4 | $199 | Professional mixing and mastering EQ | [Official Site](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-reaper) |
 | Valhalla VintageVerb | $50 | Vintage-character studio reverb | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 
 ---
@@ -311,7 +311,7 @@ Developer documentation confirms dynamic EQ capability on every band — not a l
 | ReaPlugs | Free (Win) | DSP Suite | Reaper-native engines, ReaEQ unlimited bands | — |
 | Chow Tape Model | Free | Tape Saturation | Physical model, research-based hysteresis | — |
 | Melda MFreeFXBundle | Free | Multi-FX Bundle | 37 plugins across all processing categories | — |
-| FabFilter Pro-Q 4 | $179 | Parametric / Dynamic EQ | Per-band dynamic EQ, collision detection, linear phase | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-reaper) |
+| FabFilter Pro-Q 4 | $199 | Parametric / Dynamic EQ | Per-band dynamic EQ, collision detection, linear phase | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-reaper) |
 | FabFilter Total Bundle | $1,069 | Full Suite | 14 plugins, cohesive GUI, cross-plugin spectrum display | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 | Valhalla VintageVerb | $50 | Algorithmic Reverb | 18 vintage algorithms, tight rooms to large halls | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 
@@ -337,7 +337,7 @@ A: Yes. The free tier of Vital includes the complete synthesis engine: all oscil
 **Q: Is TDR Nova genuinely competitive with paid dynamic EQs?**
 A: The GE upgrade at approximately $60 adds parallel dynamics processing and extended controls, but the gap between the free version and entry-level commercial dynamic EQs is not significant for most mixing applications.
 
-**Q: Why is FabFilter Pro-Q 4 worth $179 when capable free EQs exist?**
+**Q: Why is FabFilter Pro-Q 4 worth $199 when capable free EQs exist?**
 A: Three features separate it from the free alternatives: per-band dynamic EQ across all bands simultaneously, real-time spectrum collision detection that shows where tracks are masking each other in a full session, and a drag-to-create workflow.
 
 **Q: Does Valhalla Supermassive make VintageVerb redundant?**

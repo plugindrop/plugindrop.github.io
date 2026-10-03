@@ -13,6 +13,7 @@ import {
   ctaLabel,
   ctaShortLabel,
   hasTrustedExpiry,
+  isArticleSaleExpired,
 } from '../src/lib/articleDeal.mjs';
 
 const NOW = new Date('2026-09-25T00:00:00Z').getTime();
@@ -455,4 +456,14 @@ test('hasTrustedExpiry: expiry before pubDate (AMBER 2 type: pub 9/23, expiry 8/
 test('hasTrustedExpiry: no saleExpiry at all -> false', () => {
   assert.equal(hasTrustedExpiry({ pubDate: '2026-09-22' }), false);
   assert.equal(hasTrustedExpiry({}), false);
+});
+
+test('article expiry respects end of UTC day, fallback and evergreen dates', () => {
+  const deal = { saleExpiry: '2026-09-30', pubDate: '2026-09-01', dealPrice: '$49' };
+  assert.equal(isArticleSaleExpired(deal, Date.parse('2026-09-30T23:59:59Z')), false);
+  assert.equal(isArticleSaleExpired(deal, Date.parse('2026-10-01T00:00:00Z')), true);
+  // A fallback-estimated expiry still flips the deal to 'ended' (only the countdown hides it).
+  assert.equal(isArticleSaleExpired({ ...deal, saleExpirySource: 'fallback' }, Date.parse('2026-10-01T00:00:00Z')), true);
+  assert.equal(isArticleSaleExpired({ ...deal, evergreen: true }, Date.parse('2026-10-01T00:00:00Z')), false);
+  assert.equal(isArticleSaleExpired({ ...deal, dealPrice: 'FREE' }, Date.parse('2026-10-01T00:00:00Z')), false);
 });

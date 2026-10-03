@@ -17,7 +17,7 @@ draft: false
 |--------|-------|----------|--------|
 | Xfer Serum | $189 | Acid basslines, industrial leads | [Xfer Records](https://xferrecords.com/products/serum-2) |
 | Arturia Pigments | $199 ($99 on sale) | Evolving modular textures | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20Pigments&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-techno-production&chan=art&data1=best-plugins-for-techno-production) |
-| FabFilter Pro-Q 4 | $179 | Surgical EQ on every channel | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-for-techno-production) |
+| FabFilter Pro-Q 4 | $199 | Surgical EQ on every channel | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-for-techno-production) |
 | FabFilter Pro-C 3 | $199 | Punchy drum bus compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=best-plugins-for-techno-production) |
 | Valhalla Room | $50 | Dark club-ready reverb | [Valhalla Room](https://valhalladsp.com/shop/reverb/valhalla-room/) |
 | Valhalla VintageVerb | $50 | 80s industrial reverb textures | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |

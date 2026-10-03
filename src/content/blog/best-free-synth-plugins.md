@@ -73,7 +73,7 @@ Vital is a free wavetable synth. The wavetable engine supports spectral warping,
 - **Platforms:** Windows, macOS, Linux
 - **Formats:** VST3, AU, LV2, CLAP
 
-Surge XT is a deep hybrid synthesizer with three oscillators that each switch independently between classic, wavetable, FM, string, and other synthesis modes. The modulation matrix handles over 20 simultaneous modulation sources, and the built-in effects (including a nimbus granular reverb and spring reverb) are studio-quality. It's denser than Vital and requires time investment, but producers who commit to it rarely look elsewhere.
+Surge XT is a deep hybrid synthesizer with three oscillators that each switch independently between classic, wavetable, FM, string, and other synthesis modes. The modulation matrix handles over 20 simultaneous modulation sources, and the built-in effects (including a nimbus granular reverb and spring reverb) are included in the patch signal path. It's denser than Vital and requires time investment, but producers who commit to it rarely look elsewhere.
 
 **Best for:** Sound designers and producers who want a single free synth to cover everything
 
@@ -151,7 +151,7 @@ ZynAddSubFX combines traditional subtractive synthesis with additive harmonic co
 - **Platforms:** Windows, macOS, Linux
 - **Formats:** VST3, AU, AAX
 
-OB-Xd emulates the Oberheim OB-X and OB-Xa, classic polysynths defined by their 24 dB/oct filter and wide, dense stereo character. DiscoDSP has maintained it actively across macOS Sonoma and Windows 11, adding AAX and AU support in recent versions. The unison detuning creates lush stereo width without needing a chorus, and the filter has that distinctive Oberheim texture that simply does not exist in freeware competition.
+OB-Xd emulates the Oberheim OB-X and OB-Xa, classic polysynths defined by their 24 dB/oct filter and wide, dense stereo character. DiscoDSP has maintained it actively across macOS Sonoma and Windows 11, adding AAX and AU support in recent versions. The synth includes unison detuning, and the filter follows the Oberheim design the synth is modeled on.
 
 **Best for:** Synthwave leads and pads, cinematic strings, 80s-style polyphonic patches
 
@@ -189,7 +189,7 @@ Helm was Matthew Tytel's main instrument before Vital arrived, and it still earn
 
 Tyrell N6 was released by u-he as a community project, and it carries the company's signature attention to analog circuit behavior. The two-oscillator signal path includes a resonant filter and oscillator drift. It is simple by design, with no deep modulation routing, but for basic analog patches it is a free option.
 
-**Best for:** Classic analog basses, simple leads, producers who want u-he filter quality at zero cost
+**Best for:** Classic analog basses, simple leads, producers who want a free u-he synth
 
 **Skip it if:** you need deep modulation routing or wavetable/FM engines — it is deliberately a simple two-oscillator analog, nothing more.
 
@@ -263,9 +263,9 @@ Charlatan is a straightforward two-oscillator virtual analog synth with polyphon
 - **Platforms:** Windows, macOS
 - **Formats:** VST, AU
 
-Podolski is u-he's minimalist free synth (one oscillator, one filter, one envelope, one arpeggiator), but the filter is the story. It uses u-he's zero-delay feedback circuit modeling, producing a resonant sweep that sounds noticeably more alive than what most freeware offers. CPU usage is negligible. For leads and basses where the filter character matters, it outpunches plugins costing far more.
+Podolski is u-he's minimalist free synth (one oscillator, one filter, one envelope, one arpeggiator), but the filter is the story. It has a multimode filter (lowpass, bandpass or highpass) with drive and FM, up to 16 voices, and a combined arpeggiator and 16-step sequencer. u-he describes it on its product page as a free, straightforward, "CPU-efficient" virtual analogue synthesizer. It suits leads and basses where a simple signal path is enough.
 
-**Best for:** Filter-driven leads and basses, producers who want u-he filter quality
+**Best for:** Filter-driven leads and basses, producers who want a simple u-he synth
 
 **Skip it if:** you need layering or multitimbral depth — one oscillator, one filter, one envelope is the whole architecture.
 
@@ -400,7 +400,7 @@ Yoshimi is a fork of ZynAddSubFX with the same three synthesis engines (additive
 
 - **Developer:** u-he
 - **Price:** $149 regular, typically $104 on sale, lowest we've tracked $65 ([price history](/plugin-prices/u-he-hive-2/)).
-- **Why upgrade:** If Tyrell N6 or Podolski converted you to u-he's sound quality, Hive 2 is the obvious next step. It adds a second oscillator type, more filter options, MPE support, and a full modulation matrix while keeping the same analog character that makes u-he instruments stand out, and it sells for less than most flagship synths.
+- **Why upgrade:** If Tyrell N6 or Podolski got you interested in u-he's synths, Hive 2 is the obvious next step. It adds a second oscillator type, more filter options, MPE support, and a full modulation matrix while staying in the same virtual analog family, and it sells for less than most flagship synths.
 
 [→ Get u-he Hive 2 (Official Site) (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5392-Hive-2?a_aid=69cb95abe1763&chan=art&data1=best-free-synth-plugins)
 
@@ -432,7 +432,7 @@ Honest take: none of these will make you a better producer than a well-learned V
 | ZynAddSubFX | Free | Additive / Subtractive | PADsynth engine, deep harmonic control | [Developer](https://zynaddsubfx.sourceforge.io/) |
 | OB-Xd | Free | Virtual Analog | Oberheim filter, 12-voice polyphony, AAX support | [Free Download](https://www.discodsp.com/obxd/) |
 | Helm | Free | Analog Hybrid | Step sequencer, visual modulation, beginner-friendly | [Official Site](https://tytel.org/helm/) |
-| Tyrell N6 | Free | Virtual Analog | u-he analog character, warm filter | [Official Site](https://u-he.com/products/tyrelln6/) |
+| Tyrell N6 | Free | Virtual Analog | u-he virtual analog, free | [Official Site](https://u-he.com/products/tyrelln6/) |
 | TAL-NoiseMaker | Free | Virtual Analog | 3 oscillators, onboard FX, easiest to learn | [→ Download TAL-NoiseMaker Free](https://tal-software.com/products/tal-noisemaker) |
 | Synth1 | Free | Virtual Analog | 100,000+ community presets, Nord-inspired | [Free Download](https://daichilab.sakura.ne.jp/softsynth/index.html) |
 | Charlatan | Free | Virtual Analog | Simple, stable, clean two-oscillator patches | [Developer](https://www.blaukraut.info/) |
@@ -441,7 +441,7 @@ Honest take: none of these will make you a better producer than a well-learned V
 | Pendulate | Free | Chaos / Experimental | Double-pendulum oscillator, Eventide-backed | [Developer](https://www.newfangledaudio.com/pendulate) |
 | Magical8bitPlug 2 | Free | Chiptune | NES/Game Boy chip emulation, duty cycle control | [Free Download](https://ymck.net/app/magical-8bit-plug-en/) |
 | Crystal | Free | FM / Wavetable / Granular | 3 synthesis engines, semi-modular, 10 mod slots | [Free Download](https://plugins4free.com/plugin/262/) |
-| Yoshimi | Free | Additive / Subtractive / PADsynth | ZynAddSubFX fork, organic pads, advanced bank mgmt | [Free Download](https://yoshimi.github.io/) |
+| Yoshimi | Free | Additive / Subtractive / PADsynth | ZynAddSubFX fork, PADsynth engine, advanced bank mgmt | [Free Download](https://yoshimi.github.io/) |
 
 ---
 
@@ -469,11 +469,11 @@ Not every producer makes every style. Here is a focused view of which instrument
 | **Trap / Hip-Hop** | Vital | TAL-NoiseMaker | Dark, detuned leads and 808-adjacent bass patches come naturally from wavetable |
 | **Ambient / Cinematic** | ZynAddSubFX | Odin2 | PADsynth engine and semi-modular routing produce rich, evolving textures |
 | **DnB / Neuro Bass** | Surge XT | Odin2 | Deep modulation routing enables the complex, animated basses the genre demands |
-| **House / Tech House** | Tyrell N6 | TAL-NoiseMaker | Warm, punchy analog leads and basslines |
+| **House / Tech House** | Tyrell N6 | TAL-NoiseMaker | Virtual analog leads and basslines |
 | **Chiptune / Lo-Fi** | Magical8bitPlug 2 | Synth1 | Authentic NES/Game Boy waveforms, or vintage preset library for lo-fi character |
 | **Experimental / IDM** | Pendulate | Crystal | Chaotic oscillator physics and three-engine hybrid for sounds unavailable elsewhere |
 | **FM / 80s Pop** | Dexed | Surge XT | DX7 SysEx compatibility opens access to decades of classic FM patches |
-| **Classical / Orchestral** | Yoshimi | ZynAddSubFX | PADsynth engine produces organic string and choir textures no standard synth can replicate |
+| **Classical / Orchestral** | Yoshimi | ZynAddSubFX | PADsynth engine for string and choir-style pads |
 
 ---
 
@@ -501,7 +501,7 @@ Downloading a free synth is straightforward, but the installation step trips up 
 A: Vital is a strong free synth VST plugin in 2026. The wavetable engine, drag-and-drop modulation system, and built-in effects rack deliver professional results in every major DAW. For FM synthesis specifically, Dexed is a free option.
 
 **Q: Are free synth VST plugins good enough for professional use?**
-A: Yes — Vital, Surge XT, and OB-Xd appear regularly in professional releases. The quality gap between free and paid synths has narrowed substantially over the past several years, and for the majority of production work, the instruments on this list are indistinguishable from paid alternatives in a finished mix.
+A: Vital, Surge XT, and OB-Xd are free synths with complete feature sets, and nothing in their licenses (see each developer's page) is described here as limiting finished music. Paid synths typically add larger preset libraries and support; this guide compares features, formats, and prices rather than rating sound quality.
 
 **Q: What is the difference between wavetable and FM synthesis?**
 A: Wavetable synthesis scans through short audio snapshots and morphs between them to create evolving timbres — Vital and Surge XT both use this approach. FM synthesis uses frequency modulation between oscillators to produce complex inharmonic spectra, giving it the metallic and bell-like character associated with the Yamaha DX7. Dexed is FM; Surge XT supports both modes within the same patch.
@@ -513,7 +513,7 @@ A: Vital, Surge XT, OB-Xd, TAL-NoiseMaker, Helm, Odin2, and Pendulate all have c
 A: Yes. Every plugin on this list supports VST3 (for Ableton Live and FL Studio) or AU (for Logic Pro), with most supporting both. Dexed supports VST and AU. Synth1 is VST for Windows only. Check the developer page for the latest format availability before downloading.
 
 **Q: What is the best free synth for EDM and electronic music production?**
-A: Vital is the strongest all-around choice for EDM — the wavetable engine handles supersaw leads, evolving pads, and aggressive bass patches that define the genre. Surge XT is the better choice if you want deeper modulation routing for complex, animated sound design. For house and tech house specifically, Tyrell N6's warm analog character sits well in a mix without needing heavy post-processing.
+A: Vital is the strongest all-around choice for EDM — the wavetable engine handles supersaw leads, evolving pads, and aggressive bass patches that define the genre. Surge XT is the better choice if you want deeper modulation routing for complex, animated sound design. For house and tech house specifically, Tyrell N6 is a free u-he virtual analog synth that fits that style.
 
 **Q: What is the best free synth for beginners in 2026?**
 A: TAL-NoiseMaker is the recommended starting point — the three-oscillator layout, clean filter section, and onboard reverb/chorus teach synthesis fundamentals without overwhelming routing options. Once the basics are clear, Vital is the natural next step: the drag-and-drop modulation system is intuitive enough for beginners but deep enough to grow with. Helm is another good beginner option from the same developer, with a visual modulation routing system that makes the signal flow easy to understand.
@@ -522,7 +522,7 @@ A: TAL-NoiseMaker is the recommended starting point — the three-oscillator lay
 A: No. Every synth on this list is a permanent free download with no time limit and no watermark. Vital, Helm, and a few others offer optional paid preset tiers, but the instrument itself stays fully functional forever.
 
 **Q: Vital or Surge XT — which should I grab first?**
-A: Start with Vital. It sounds great in minutes and the modulation is drag-and-drop. Add Surge XT when you want deeper FM, additive, and granular options in one free instrument. You can keep both.
+A: Start with Vital. Its modulation is drag-and-drop, and the free version includes 75 presets and 25 wavetables as listed on vital.audio. Add Surge XT when you want deeper FM, additive, and granular options in one free instrument. You can keep both.
 
 **Q: When do paid synths like Serum and Pigments go on sale?**
 A: Serum is rarely discounted directly — Splice rent-to-own is the usual cheaper path. Pigments and Native Instruments' Massive X see their biggest cuts (often around half price) at summer sales and Black Friday, so it is worth waiting if you are not in a hurry.
@@ -597,7 +597,7 @@ The free synths above cover most use cases. If you find yourself hitting their l
       "name": "Are free VST synths good enough for professional music production?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Vital, Surge XT, and OB-Xd are used in professional productions and compare favorably to commercial synths costing hundreds of dollars. The main difference between free and paid synths is typically preset library size and support, not sound quality. Many professional producers use free synths as their primary instruments."
+        "text": "Yes. Vital, Surge XT, and OB-Xd are free synths with full feature sets. Paid synths typically add larger preset libraries and support; this guide compares features, formats, and prices rather than rating sound quality."
       }
     },
     {
@@ -605,7 +605,7 @@ The free synths above cover most use cases. If you find yourself hitting their l
       "name": "What is the best free synth for EDM and electronic music production?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Vital is the strongest all-around choice for EDM: the wavetable engine handles supersaw leads, evolving pads, and aggressive bass patches that define the genre. Surge XT is the better choice for complex, animated sound design with deeper modulation routing. For house and tech house specifically, Tyrell N6 offers a warm analog character that sits naturally in a mix."
+        "text": "Vital is the strongest all-around choice for EDM: the wavetable engine handles supersaw leads, evolving pads, and aggressive bass patches that define the genre. Surge XT is the better choice for complex, animated sound design with deeper modulation routing. For house and tech house specifically, Tyrell N6 is a free u-he virtual analog synth that fits that style."
       }
     },
     {

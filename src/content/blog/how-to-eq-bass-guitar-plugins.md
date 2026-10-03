@@ -16,7 +16,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| FabFilter Pro-Q 4 | $179 | Surgical bass EQ with dynamic bands | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-eq-bass-guitar-plugins) |
+| FabFilter Pro-Q 4 | $199 | Surgical bass EQ with dynamic bands | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-eq-bass-guitar-plugins) |
 | TDR Nova | Free | Free dynamic EQ for bass | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Waves RBass | $29 | Sub-frequency enhancement | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20RBass&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-eq-bass-guitar-plugins&chan=art&data1=how-to-eq-bass-guitar-plugins) |
 

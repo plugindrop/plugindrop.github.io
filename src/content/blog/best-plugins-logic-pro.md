@@ -22,7 +22,7 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| FabFilter Pro-Q 4 | $179 | Precision EQ with dynamic capability | [Developer Site](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-logic-pro) |
+| FabFilter Pro-Q 4 | $199 | Precision EQ with dynamic capability | [Developer Site](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-logic-pro) |
 | Valhalla VintageVerb | $50 | Algorithmic reverb at any budget | [Developer Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 | FabFilter Pro-C 3 | $199 | Transparent and character compression | [Developer Site](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=best-plugins-logic-pro) |
 | Serum | $189 | Wavetable synthesis with modern workflow | [Developer Site](https://xferrecords.com/products/serum-2) |
@@ -339,7 +339,7 @@ EchoBoy covers 30 delay styles modeled on hardware units from the Echoplex tape 
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| FabFilter Pro-Q 4 | $179 | EQ | Dynamic EQ, mid/side, 24 bands | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-logic-pro) |
+| FabFilter Pro-Q 4 | $199 | EQ | Dynamic EQ, mid/side, 24 bands | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-logic-pro) |
 | TDR Nova | Free | Dynamic EQ | Parallel compression (GE), fully free | [Get It](https://www.izotope.com/en/products/music-production-suite) |
 | FabFilter Pro-C 3 | $199 | Compressor | 14 styles, visual GR display | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=best-plugins-logic-pro) |
 | Klanghelm MJUC jr. | Free | Compressor | Variable-mu warmth, bus glue | [Get It](https://www.izotope.com/en/products/music-production-suite) |

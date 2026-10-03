@@ -1,6 +1,7 @@
 // @ts-check
 
 import fs from 'node:fs';
+import { execFileSync } from 'node:child_process';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import { defineConfig } from 'astro/config';
@@ -74,6 +75,10 @@ const redirectUrls = new Set([
 
 const priceHistoryPath = new URL('./src/data/price_history.json', import.meta.url);
 const priceData = JSON.parse(fs.readFileSync(priceHistoryPath, 'utf8'));
+const staticDates = Object.fromEntries(['about', 'contact', 'editorial-policy', 'privacy-policy', 'how-we-track-prices'].map((name) => {
+	try { return [name, execFileSync('git', ['log', '-1', '--format=%cI', '--', `src/pages/${name}.astro`], { cwd: new URL('.', import.meta.url), encoding: 'utf8' }).trim() || undefined]; }
+	catch { return [name, undefined]; }
+}));
 const noindexPriceUrls = new Set(
 	noindexPricePagePaths(priceData).map((path) => new URL(path, siteUrl).href),
 );
@@ -129,7 +134,7 @@ export default defineConfig({
 				item.priority = 0.5;
 				item.changefreq = 'monthly';
 			}
-			const lastmod = sitemapLastmod(new URL(item.url).pathname, sitemapPosts);
+			const lastmod = sitemapLastmod(new URL(item.url).pathname, sitemapPosts, new Date(), { priceData, staticDates });
 			if (lastmod) item.lastmod = lastmod;
 			return item;
 		},

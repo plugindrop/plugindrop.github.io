@@ -20,7 +20,7 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| FabFilter Pro-Q 4 | $179 | Surgical & dynamic EQ | [Official Site](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one) |
+| FabFilter Pro-Q 4 | $199 | Surgical & dynamic EQ | [Official Site](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one) |
 | Valhalla VintageVerb | $50 | Algorithmic reverb | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 | Serum | $189 | Wavetable synthesis | [Official Site](https://xferrecords.com/products/serum-2) |
 | iZotope Neutron 4 | Superseded by Neutron 5 ($299) | AI-assisted mixing | [Official Site](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one) |
@@ -284,7 +284,7 @@ Kilohearts documents Snap Heap as a modular effects host for their "Snapin" form
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| FabFilter Pro-Q 4 | $179 | EQ | 24 bands, per-band dynamic EQ, M/S, linear phase | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one) |
+| FabFilter Pro-Q 4 | $199 | EQ | 24 bands, per-band dynamic EQ, M/S, linear phase | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one) |
 | TDR Nova | Free | Dynamics EQ | 4-band parametric + per-band compressor/expander | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | iZotope Neutron 4 | Superseded by Neutron 5 ($299) | Channel Strip | AI Track Assistant, inter-plugin communication | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one) |
 | Valhalla VintageVerb | $50 | Reverb | Vintage algorithm models, 3 color modes per algo | [Get it](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |

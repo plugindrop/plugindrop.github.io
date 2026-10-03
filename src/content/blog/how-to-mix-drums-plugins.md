@@ -21,7 +21,7 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| FabFilter Pro-Q 4 | $179 | Surgical EQ, resonance control | [Official Site](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-drums-plugins) |
+| FabFilter Pro-Q 4 | $199 | Surgical EQ, resonance control | [Official Site](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-drums-plugins) |
 | Waves SSL G-Master Buss Compressor | ~$30 | Bus glue, cohesion | [Official Site](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | Transient Master (NI) | $49 | Kick/snare punch shaping | [Official Site](https://www.native-instruments.com/en/products/komplete/effects/transient-master/) |
 | OTT (Xfer Records) | Free | Parallel density, electronic drums | [Free Download](https://xferrecords.com/freeware) |
@@ -171,7 +171,7 @@ On acoustic drum kits, OTT in this role is less common; saturation is an alterna
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| FabFilter Pro-Q 4 | $179 | EQ | Dynamic EQ, spectrum collision detection, linear phase mode | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-drums-plugins) |
+| FabFilter Pro-Q 4 | $199 | EQ | Dynamic EQ, spectrum collision detection, linear phase mode | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-drums-plugins) |
 | Waves SSL G-Master Buss Compressor | ~$30 | Bus Compressor | SSL 4000 G emulation, Auto release, glue compression | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | Transient Master (NI) | $49 | Transient Shaper | Attack/Sustain two-knob control, internal parallel architecture | [Get It](https://www.native-instruments.com/en/products/komplete/effects/transient-master/) |
 | OTT (Xfer Records) | Free | Multiband Compressor | Upward/downward multiband, Depth blend control | [Free](https://xferrecords.com/freeware) |

@@ -14,7 +14,7 @@ We track FabFilter Pro-L 2's price history directly, so this is what buying it h
 
 | Route | Price | Notes |
 |-------|-------|-------|
-| Full price | $179 | Rarely the best route |
+| Full price | $199 (FabFilter list price, USD; our tracker had $179 earlier) | Rarely the best route |
 | Typical sale (recurring) | $134 | Achievable on a normal sale cycle |
 | All-time low (rare) | $134 | Lowest price we have ever recorded |
 

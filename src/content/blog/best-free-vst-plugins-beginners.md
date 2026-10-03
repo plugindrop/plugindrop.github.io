@@ -262,7 +262,7 @@ TAL-Chorus-LX emulates the Juno-60 chorus. Drop it on any synth or pad track to 
 
 **Best for:** Widening synths, adding shimmer to pads, instant 80s character.
 
-[Free Download](https://tal-software.com/products/tal-chorus-lx)
+TAL-Chorus-LX (official TAL page was unreachable when checked 2026-10-03)
 
 ---
 
@@ -434,7 +434,7 @@ MeldaProduction's MFreeFXBundle packages 37 audio plugins covering EQ, compressi
 | TAL-Reverb-4 | Free | Reverb | Vintage plate, warm, musical | [Plugin Boutique](https://tal-software.com/products/tal-reverb-4) |
 | OrilRiver | Free | Reverb | Algorithmic, versatile, Windows | [Developer Site](https://www.kvraudio.com/product/orilriver-by-denis-tihanov) |
 | Valhalla Freq Echo | Free | Delay | BBD character, pitch shifting | [Developer Site](https://valhalladsp.com/shop/delay/valhalla-freq-echo/) |
-| TAL-Chorus-LX | Free | Modulation | Juno-60 emulation, instant shimmer | [Free Download](https://tal-software.com/products/tal-chorus-lx) |
+| TAL-Chorus-LX | Free | Modulation | Juno-60 emulation, instant shimmer | TAL-Chorus-LX (official TAL page was unreachable when checked 2026-10-03) |
 | Chow Tape Model | Free | Saturation | Physical tape model, open-source | [Developer Site](https://chowdsp.com/products.html) |
 | Softube Saturation Knob | Free | Saturation | One-knob, three modes, foolproof | [Developer Site](https://www.softube.com/saturationknob) |
 | MT Power Drum Kit 2 | Free | Drums | Acoustic drums, MIDI grooves | [Developer Site](https://www.powerdrumkit.com/) |

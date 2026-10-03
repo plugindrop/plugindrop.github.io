@@ -253,7 +253,7 @@ For producers using Waves TrueVerb primarily for plate reverb on vocals, snares,
 | Analog Obsession LALA | Free | Optical Comp | LA-2A style, musical release, vocal-tuned | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves) |
 | Valhalla Supermassive | Free | Algorithmic Reverb | 14 algorithms, lush tails, sound design depth | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves) |
 | TAL-Reverb-4 | Free | Plate Reverb | Clean plate character, simple controls | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves) |
-| FabFilter Pro-Q 4 | $179 | Dynamic EQ | Per-band dynamics, collision detection, speed | [Developer Site](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
+| FabFilter Pro-Q 4 | $199 | Dynamic EQ | Per-band dynamics, collision detection, speed | [Developer Site](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | FabFilter Pro-C 3 | $199 | Multi-Style Comp | 14 compression modes, real-time GR display | [Developer Site](https://www.fabfilter.com/products/pro-c-3-compressor-plug-in) |
 | Valhalla Room | $50 | Room Reverb | Realistic rooms, early reflections, natural decay | [Developer Site](https://valhalladsp.com/shop/reverb/valhalla-room/) |
 

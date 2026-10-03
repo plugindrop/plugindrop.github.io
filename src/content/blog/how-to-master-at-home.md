@@ -24,7 +24,7 @@ priceTrack:
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Youlean Loudness Meter 2 | Free / Pro | LUFS metering & streaming targets | [Download Free](https://youlean.co/youlean-loudness-meter/) |
-| FabFilter Pro-Q 4 | $179 | Surgical mastering EQ with dynamic EQ | [FabFilter](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-master-at-home) |
+| FabFilter Pro-Q 4 | $199 | Surgical mastering EQ with dynamic EQ | [FabFilter](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-master-at-home) |
 | FabFilter Pro-L 2 | $199 | Transparent multi-algorithm limiting | [FabFilter](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=how-to-master-at-home) |
 | iZotope Ozone 12 | From $219 (as of 2026-10-01) | All-in-one AI-assisted mastering suite | [iZotope](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=how-to-master-at-home) |
 | FabFilter Total Bundle | $1,069 | Complete FabFilter mastering + mixing suite | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=how-to-master-at-home) |
@@ -164,7 +164,7 @@ The Advanced tier adds two developer-confirmed features that address common home
 | Plugin | Price | Type | Key Highlights | Get It |
 |--------|-------|------|----------------|--------|
 | Youlean Loudness Meter 2 | Free / Pro | Metering | Integrated LUFS, LRA, true peak, streaming platform presets | [Download Free](https://youlean.co/youlean-loudness-meter/) |
-| FabFilter Pro-Q 4 | $179 | Mastering EQ | 24 bands, dynamic EQ, M/S per-band, linear phase, inter-plugin spectrum analysis | [Buy (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-master-at-home) |
+| FabFilter Pro-Q 4 | $199 | Mastering EQ | 24 bands, dynamic EQ, M/S per-band, linear phase, inter-plugin spectrum analysis | [Buy (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-master-at-home) |
 | FabFilter Pro-L 2 | $199 | Limiter | 8 algorithms, ISP metering, true peak limiting, granular lookahead/release | [Buy (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=how-to-master-at-home) |
 | iZotope Ozone 12 Standard | From $219 (as of 2026-10-01) | All-in-one suite | EQ, dynamics, imager, maximizer, Master Assistant AI | [Buy (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=how-to-master-at-home) |
 | iZotope Ozone 12 Advanced | From $499 | All-in-one suite | All Standard features + Master Rebalance, Low End Focus | [Buy (Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=how-to-master-at-home) |

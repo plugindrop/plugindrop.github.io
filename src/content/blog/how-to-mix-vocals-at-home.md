@@ -44,7 +44,7 @@ TDR Nova is a dynamic EQ, which means each band can react to incoming audio rath
 
 Workflow: run a high-pass filter around 80–120 Hz to clear rumble, use a dynamic band to tame 2–4 kHz harshness, and add slight presence around 10–12 kHz if the vocal feels buried. That's a complete EQ job on most home recordings.
 
-**Upgrade case: FabFilter Pro-Q 4 ($179 full price)**
+**Upgrade case: FabFilter Pro-Q 4 ($199 full price)**
 
 Pro-Q 4 earns its price in two situations: complex multi-track sessions where per-channel EQ curve visualization saves time, and dynamic EQ with mid/side capability for stereo processing. For a single vocal track, TDR Nova is not meaningfully inferior. [See when FabFilter Pro-Q 4 goes on sale →](/posts/when-does-fabfilter-pro-q-4-go-on-sale/)
 
