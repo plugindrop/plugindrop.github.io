@@ -43886,12 +43886,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2025-06-10",
-          "regular": 76.85,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/oberheim-tvs-pro.jpg"
@@ -46529,12 +46523,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2025-04-20",
-          "regular": 89.0,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/playbeat-4.jpg"
