@@ -2,7 +2,7 @@
 title: "15 Best Mixing Plugins 2026: Free & Paid Ranked — EQ, Compressor, FX"
 description: "FabFilter Pro-Q 4 leads the 2026 ranking — dynamic EQ mode alone justifies the price. 15 mixing plugins compared from vendor specs, from free TDR tools to premium FabFilter and iZotope."
 pubDate: "2026-04-29T10:10:19Z"
-updatedDate: "2026-06-07T00:00:00Z"
+updatedDate: "2026-10-04T12:21:20Z"
 tags: ["guide", "vst", "effects"]
 affiliate: ""
 heroImage: "/images/best-mixing-plugins-2026.jpg"
@@ -315,7 +315,7 @@ This guide brings together publicly available product information and prices tra
 
 | Product | Typical regular | Typical sale | Sales recorded | Latest sale period | Today's price position |
 | --- | ---: | ---: | ---: | --- | --- |
-| FabFilter Pro-L 2 | $179 | $134 | 2 | 2024-11-22 | At or above typical regular |
+| FabFilter Pro-L 2 | $199 current FabFilter list ($179 older reference) | $134 research estimate | 2 research rows | 2024-11-22 | Current PB price unverified |
 | Soundtoys 5.5 | $659 | $299 | 2 | 2026-08-10 to 2026-09-28 | Between typical sale and regular |
 | Soundtoys Decapitator | $199 | $69 | 2 | 2026-07-22 to 2026-08-05 | At or above typical regular |
 

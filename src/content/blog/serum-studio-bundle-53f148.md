@@ -59,7 +59,7 @@ This is a bundle of preset content, and the exact number of packs and patches de
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Xfer Serum (the synth) | ~$189 | This is the synthesizer itself; the bundle only adds presets, you still need Serum to use them |
+| Xfer Serum (the synth) | $249 | This is the synthesizer itself; the bundle only adds presets, you still need Serum to use them |
 | Individual ADSR preset packs | Check product page | Buy a single genre pack instead of the full bundle if you only need one style |
 | Free Serum preset packs (various producers) | Free | No bundled discount structure, and quality and curation vary widely by source |
 

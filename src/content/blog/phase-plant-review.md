@@ -2,6 +2,7 @@
 title: "Phase Plant Review: The Most Flexible Synth for Sound Designers in 2026?"
 description: "Phase Plant by Kilohearts is the most architecturally flexible synthesizer available today — a modular blank canvas where you stack generators, route"
 pubDate: "2026-05-02T02:10:19Z"
+updatedDate: "2026-10-04T12:21:20Z"
 tags: ["guide", "vst", "instruments", "review"]
 affiliate: ""
 heroImage: "/images/phase-plant-review.png"
@@ -18,7 +19,7 @@ draft: false
 |--------|-------|----------|--------|
 | Phase Plant (Free Tier) | Free | Exploring modular synthesis before committing | [Free via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=phase-plant-review) |
 | Phase Plant (Full) | ~$199 | All synthesis styles, deep sound design | [Official Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=phase-plant-review) |
-| Serum | ~$189 | Wavetable-focused EDM production | [Official Site](https://xferrecords.com/products/serum-2) |
+| Serum | $249 | Wavetable-focused EDM production | [Official Site](https://xferrecords.com/products/serum-2) |
 | u-he Hive 2 | ~$149 | Fast analog/wavetable workflow | [Official Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5392-Hive-2?a_aid=69cb95abe1763&chan=art&data1=phase-plant-review) |
 
 ---
@@ -102,7 +103,7 @@ It's less ideal for producers who need a fast preset-browser workflow and minima
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records
-- **Price:** ~$189 (perpetual license or Splice subscription)
+- **Price:** $249 (perpetual license or Splice subscription)
 - **Why upgrade:** If your production style lives in wavetable synthesis — EDM, future bass, pop, trap — Serum's dedicated wavetable editor, visual modulation display, and preset library are focused on wavetable work, whereas Phase Plant takes a more generalist approach.
 
 [→ Get Serum on Official Site](https://xferrecords.com/products/serum-2)
@@ -127,7 +128,7 @@ It's less ideal for producers who need a fast preset-browser workflow and minima
 |--------|-------|------|------------|-----|
 | Phase Plant (Free) | Free | Modular Semi-Modular | Multi-generator, Snapin effects, free tier | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=phase-plant-review) |
 | Phase Plant (Full) | ~$199 | Modular Semi-Modular | Full generator roster, audio-rate mod, Snapin ecosystem | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=phase-plant-review) |
-| Serum | ~$189 | Wavetable | Wavetable editor, visual modulation, preset library | [Official Site](https://xferrecords.com/products/serum-2) |
+| Serum | $249 | Wavetable | Wavetable editor, visual modulation, preset library | [Official Site](https://xferrecords.com/products/serum-2) |
 | u-he Hive 2 | ~$149 | Analog/Wavetable Hybrid | Fast workflow, polished presets | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5392-Hive-2?a_aid=69cb95abe1763&chan=art&data1=phase-plant-review) |
 
 ---

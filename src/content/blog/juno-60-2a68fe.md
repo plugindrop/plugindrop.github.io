@@ -2,6 +2,7 @@
 title: "65% Off JUNO 60 — Warm Analog Pads and Basslines"
 description: "Plugin Boutique has Roland Cloud's JUNO 60 marked down 65% from its regular $199 price. It's a plugin reproduction of the original 1982 Juno-60 analog..."
 pubDate: "2026-10-04T06:45:04Z"
+updatedDate: "2026-10-04T06:49:03Z"
 tags: ["sale", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=JUNO+60&a_aid=69cb95abe1763&chan=trk&data1=juno-60-2a68fe&utm_source=plugindrop&utm_medium=article&utm_campaign=juno-60-2a68fe"
 heroImage: "/images/juno-60-2a68fe_comfyui.png"

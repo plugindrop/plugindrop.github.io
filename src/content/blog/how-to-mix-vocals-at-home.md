@@ -2,6 +2,7 @@
 title: "How to Mix Vocals at Home: Complete 2026 Guide (With Plugin Recommendations)"
 description: "Learning how to mix vocals at home in 2026 doesn't require an expensive plugin budget — TDR Nova and Valhalla Supermassive cover EQ and reverb at"
 pubDate: "2026-07-06T10:39:54Z"
+updatedDate: "2026-10-04T10:10:20Z"
 tags: ["guide", "vst", "tutorials", "vocals"]
 affiliate: ""
 evergreen: true

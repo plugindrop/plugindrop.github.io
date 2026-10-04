@@ -2,7 +2,7 @@
 title: "12 Best Free VST Plugins for Ableton Live in 2026 — Ranked"
 description: "12 best free VST plugins for Ableton Live in 2026 — Vital, Surge XT, TDR Kotelnikov, Dexed, LABS and more. All confirmed VST3 compatible with Ableton Live 11 and 12 on Windows and macOS."
 pubDate: "2026-05-11T22:06:41Z"
-updatedDate: "2026-06-07T00:00:00Z"
+updatedDate: "2026-10-04T12:21:20Z"
 tags: ["guide", "vst", "free", "daw specific", "ableton"]
 affiliate: ""
 evergreen: true
@@ -20,9 +20,9 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Vital | Free | Wavetable synthesis | [Plugin Boutique](https://vital.audio/) |
-| Valhalla Supermassive | Free | Lush reverb & space | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| TDR Nova | Free | Dynamic EQ & mastering | [Plugin Boutique](https://www.tokyodawn.net/tdr-nova/) |
+| Vital | Free | Wavetable synthesis | [Vital](https://vital.audio/) |
+| Valhalla Supermassive | Free | Lush reverb & space | [Valhalla DSP](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| TDR Nova | Free | Dynamic EQ & mastering | [Tokyo Dawn Records](https://www.tokyodawn.net/tdr-nova/) |
 | Surge XT | Free | Deep modular synthesis | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17453-Surge-XT?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
 | OB-Xd | Free | Vintage analog poly sounds | [Free Download](https://www.discodsp.com/obxd/) |
 | Rough Rider 3 | Free | Punchy drum compression | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/6100-Rough-Rider-3?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
@@ -61,7 +61,7 @@ Vital is a spectral warping wavetable synthesizer with a feature set that would 
 **Skip it if:** you want a huge ready-made sound library out of the box — the free tier ships with only a small factory bank, so you're either building patches yourself or paying $25–$80 for the preset packs.
 
 [→ Download Vital Free](https://vital.audio/)
-[Plugin Boutique](https://vital.audio/)
+[Vital](https://vital.audio/)
 
 ---
 
@@ -148,7 +148,7 @@ TDR Nova is a parallel dynamic equalizer that functions simultaneously as a stat
 **Skip it if:** you need mid/side processing, linear-phase mode, or wide-band flexibility — those live in the paid GE edition, and the free version tops out at four dynamic bands.
 
 [Free Download](https://www.tokyodawn.net/tdr-nova/)
-[Plugin Boutique](https://www.tokyodawn.net/tdr-nova/)
+[Tokyo Dawn Records](https://www.tokyodawn.net/tdr-nova/)
 
 ---
 
@@ -192,7 +192,7 @@ Supermassive is Valhalla DSP's free reverb/delay release. The plugin specializes
 **Skip it if:** you need a realistic room, hall, or tight plate — Supermassive only does huge, otherworldly delay-reverbs, so it's the wrong tool for natural, believable spaces.
 
 [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
-[Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
+[Valhalla DSP](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
 
 ---
 
@@ -345,13 +345,13 @@ Once you've maxed out what the free tier offers, these three commercial plugins 
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Vital | Free | Wavetable Synth | Spectral warping, drag-and-drop modulation, audio-to-wavetable import | [Plugin Boutique](https://vital.audio/) |
+| Vital | Free | Wavetable Synth | Spectral warping, drag-and-drop modulation, audio-to-wavetable import | [Vital](https://vital.audio/) |
 | Surge XT | Free | Hybrid Synth | Multi-engine synthesis, open source, CLAP support, massive preset library | [Get It](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17453-Surge-XT?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
 | OB-Xd | Free | Analog Poly Synth | Oberheim OB-X emulation, per-voice parameter variation | [Free Download](https://www.discodsp.com/obxd/) |
 | Dexed | Free | FM Synth | Yamaha DX7 emulation, SysEx patch loading, visual operator display | [Get It](https://asb2m10.github.io/dexed/) |
-| TDR Nova | Free | Dynamic EQ | Per-band dynamics, parallel EQ architecture, transparent processing | [Plugin Boutique](https://www.tokyodawn.net/tdr-nova/) |
+| TDR Nova | Free | Dynamic EQ | Per-band dynamics, parallel EQ architecture, transparent processing | [Tokyo Dawn Records](https://www.tokyodawn.net/tdr-nova/) |
 | Rough Rider 3 | Free | Compressor | Character compression, wet/dry blend, sidechain input | [Get It](https://www.pluginboutique.com/product/2-Effects/8-Compressor/6100-Rough-Rider-3?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) |
-| Valhalla Supermassive | Free | Reverb / Delay | Long decay times, WARP parameter, 11 reverb algorithms | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| Valhalla Supermassive | Free | Reverb / Delay | Long decay times, WARP parameter, 11 reverb algorithms | [Valhalla DSP](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | TAL-Chorus-LX | Free | Chorus | Juno 60 chorus emulation, stereo width | TAL-Chorus-LX (official TAL page was unreachable when checked 2026-10-03) |
 | LABS | Free | Sample Instrument | Curated Spitfire samples, growing catalog, all genres covered | [Get It](https://labs.spitfireaudio.com/) |
 | Sitala | $20 (v1 free) | Drum Sampler | 16-pad workflow, drag-and-drop loading, per-pad shape and tone controls | [Get It](https://decomposer.de/sitala/) |

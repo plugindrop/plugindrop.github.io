@@ -2,7 +2,7 @@
 title: "Plugin Boutique Black Friday 2026: Past Sale Prices to Compare Against"
 description: "No Black Friday 2026 deals have been announced yet. This page lists the Black Friday prices we recorded in earlier years for FabFilter and others, so you can judge any 2026 offer against them."
 pubDate: "2026-06-08T00:00:00Z"
-updatedDate: "2026-06-08T00:00:00Z"
+updatedDate: "2026-10-04T12:21:20Z"
 tags: ["guide", "vst", "sale", "bundle", "music-production"]
 affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=black-friday-2026&chan=art&data1=best-plugin-boutique-black-friday-deals-2026"
 heroImage: "/images/best-plugin-boutique-black-friday-deals-2026.jpg"
@@ -31,17 +31,17 @@ Plugin Boutique has not published its 2026 Black Friday dates at the time of wri
 
 ## Prices We Have Recorded (Regular vs. Past Black Friday)
 
-These are observed numbers from our price history, not predictions for 2026. A "past BF price" is what we recorded in the most recent year we have data for.
+The table mixes observed tracker prices with historical research estimates. Research rows are labelled and are not confirmed Plugin Boutique checks.
 
 | Plugin | Regular price (our last check) | Past Black Friday price we recorded | Source in our price history |
 |---|---|---|---|
 | [FabFilter Pro-Q 4](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugin-boutique-black-friday-deals-2026) | $199 | $105.25 at Gear4Music (Nov 2025) | Recorded Black Friday checks |
-| [FabFilter Pro-L 2](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-plugin-boutique-black-friday-deals-2026) | $199 (FabFilter shop, Oct 2026; our tracker recorded $179 until Sept 2026) | $134 (Nov 2023 and Nov 2024, when the list price we recorded was $179) | Recorded Black Friday checks |
+| [FabFilter Pro-L 2](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-plugin-boutique-black-friday-deals-2026) | $199 (FabFilter shop, Oct 2026; our tracker recorded $179 until Sept 2026) | $134 (Nov 2023/2024 research estimate against an older $179 reference) | Research estimate |
 | [iZotope Ozone 12 Standard](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15507-Ozone-12-Standard?a_aid=69cb95abe1763&chan=art&data1=best-plugin-boutique-black-friday-deals-2026) | $219 | No Black Friday price recorded yet | Plugin Boutique check, Sept 2026 |
 | [Serum 2](https://xferrecords.com/products/serum-2) | $249 | None recorded | No promotions recorded in our tracking for the perpetual license |
 | [Valhalla Room](https://valhalladsp.com/shop/reverb/valhalla-room/) | $50 | None - fixed price | [Valhalla's pricing FAQ](https://valhalladsp.com/faq/pricing/) says prices are the same all year |
 
-For Pro-L 2, our records show $134 in both Nov 2023 and Nov 2024, which is 25% off the $179 list price recorded at the time. For Pro-Q 4 we have one Black Friday record (the retailer price above, Nov 2025). We cannot say whether 2026 will repeat either.
+For Pro-L 2, research rows estimate $134 in Nov 2023 and Nov 2024 against an older $179 reference. These are not confirmed Plugin Boutique checks. For Pro-Q 4 we have one Black Friday record (the retailer price above, Nov 2025). We cannot say whether 2026 will repeat either.
 
 ---
 

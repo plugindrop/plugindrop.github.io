@@ -47,7 +47,7 @@ SubLab XL is a dedicated bass synthesizer developed by Future Audio Workshop (FA
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Xfer Serum | ~$189 | General-purpose wavetable synth; bass is one use case among many |
+| Xfer Serum | $249 | General-purpose wavetable synth; bass is one use case among many |
 | Waves Bass Master | ~$29–$49 | Simpler interface, focused on 808 shaping without a dedicated synth engine |
 | LennarDigital Sylenth1 | ~$139 | Broad synthesis capabilities; not purpose-built for sub bass workflow |
 

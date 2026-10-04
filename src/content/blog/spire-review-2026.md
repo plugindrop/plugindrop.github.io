@@ -2,6 +2,7 @@
 title: "Spire Synthesizer Review 2026: Is It Worth Buying?"
 description: "Spire (Reveal Sound) is a hybrid virtual analog/wavetable synth aimed at electro house, big room, and dubstep, released roughly a decade..."
 pubDate: "2026-08-09T22:20:51Z"
+updatedDate: "2026-10-04T10:10:20Z"
 tags: ["guide", "vst", "instruments", "review", "synth"]
 affiliate: ""
 evergreen: true

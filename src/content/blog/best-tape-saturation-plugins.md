@@ -2,6 +2,7 @@
 title: "10 Best Tape Saturation & Vintage Warmth Plugins in 2026 — Ranked"
 description: "Best tape saturation plugins 2026: RC-20 Retro Color leads for lo-fi. UAD Studer A800 for accuracy. Start with free Chow Tape Model before spending."
 pubDate: "2026-06-10T22:39:54Z"
+updatedDate: "2026-10-04T10:10:20Z"
 tags: ["guide", "vst", "effects"]
 affiliate: ""
 evergreen: true

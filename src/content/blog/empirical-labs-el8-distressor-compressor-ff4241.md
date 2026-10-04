@@ -2,6 +2,7 @@
 title: "Empirical Labs EL8 Distressor (UAD) Compressor: Features, Price History and $39 Sale Until Nov 1, 2026"
 description: "EL8 Distressor is a Universal Audio UAD plugin of the Empirical Labs Distressor, sold at Plugin Boutique. Facts from the product page, regular $199, and the current $39 sale (80% off) listed until 2026-11-01."
 pubDate: '2026-04-23T18:27:48Z'
+updatedDate: "2026-10-04T10:10:20Z"
 tags: ["review", "vst-plugin", "effects", "compressor", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=empirical-labs-el8-distressor-compressor-ff4241&chan=art&data1=empirical-labs-el8-distressor-compressor-ff4241"
 heroImage: /images/empirical-labs-el8-distressor-compressor-ff4241.jpg
@@ -53,7 +54,7 @@ The Plugin Boutique listing names Universal Audio as the maker and describes the
 | Current sale price (until 2026-11-01) | $39 |
 | Lowest price recorded | $29 (2026-09-27 check) |
 
-Recorded sale periods: 2026-07-12 to 2026-08-03, and 2026-09-01 to 2026-09-27. The latest USD tracker check (2026-10-03) shows $39 against the $199 regular price with an end date of 2026-11-01. The earlier end date shown on 2026-10-01 ("until Sep 30") has since moved, so end dates may shift again.
+Recorded sale periods: 2026-07-12 to 2026-08-03, and 2026-09-01 to 2026-10-04. The latest USD tracker check (2026-10-04) shows $39 against the $199 regular price with an end date of 2026-11-01. The earlier end date shown on 2026-10-01 ("until Sep 30") has since moved, so end dates may shift again.
 
 [Check the current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=empirical-labs-el8-distressor-compressor-ff4241&chan=art&data1=empirical-labs-el8-distressor-compressor-ff4241).
 

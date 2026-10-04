@@ -2,6 +2,7 @@
 title: "VST Plugin Black Friday Guide 2026 — Every Major Brand, Ranked by Discount"
 description: "FabFilter, Arturia, u-he, NI, Spitfire, Waves — exact historical Black Friday discounts, sale dates, and which brands never go on sale. Real price data, no speculation."
 pubDate: "2026-09-01T00:00:00Z"
+updatedDate: "2026-10-04T12:21:20Z"
 tags: ["black-friday", "buying-guide", "deals"]
 affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=bf-guide-2026&chan=art&data1=vst-plugin-black-friday-guide"
 dealPrice: "up to 75% off"
@@ -22,7 +23,7 @@ Most music producers think of Black Friday as one day. For plugins, it's a six-w
 | Late October | Teaser "early access" deals from some brands |
 | Nov 1–14 | First major sales. Arturia and NI often start here |
 | Nov 15–21 | Heaviest wave. Most brands are live |
-| Nov 22–29 (BF week) | Peak. FabFilter, Spitfire, u-he go live this week |
+| Nov 22–29 (BF week) | Many brands promote sales; check current listings |
 | Nov 30 (Cyber Monday) | Some deals expire; others extend |
 | December | Most sales continue 1–2 more weeks. NI runs until mid-January |
 
@@ -32,7 +33,7 @@ The practical takeaway: if you see a deal on November 5th, don't buy — almost 
 
 ## Brand-by-Brand Breakdown
 
-### FabFilter ? Tracked Black Friday Prices
+### FabFilter — Tracked Black Friday Prices
 
 The Pro-Q 4 history contains one verified sale, at Gear4Music in November 2025. We cannot establish a recurring Pro-Q 4 sale schedule from it.
 
@@ -44,14 +45,14 @@ The Pro-Q 4 history contains one verified sale, at Gear4Music in November 2025. 
 
 | Plugin | Regular | BF Price | Tracker |
 |---|---|---|---|
-| Pro-Q 4 | $199 | $105 tracked at Gear4Music (Nov 2025); no verified typical discount | [History](/plugin-prices/fabfilter-pro-q-4) |
-| Pro-L 2 | $179 (now $199) | $134 | [History](/plugin-prices/fabfilter-pro-l-2) |
-| Pro-MB | $179 | $134 | [History](/plugin-prices/fabfilter-pro-mb) |
-| Saturn 2 | $179 | $134 | [History](/plugin-prices/fabfilter-saturn-2) |
-| Timeless 3 | $169 | $127 | [History](/plugin-prices/fabfilter-timeless-3) |
-| Twin 3 | $139 | $104 | [History](/plugin-prices/fabfilter-twin-3) |
+| Pro-Q 4 | $199 | $105 tracked at Gear4Music (Nov 2025); no verified typical discount | [History](/plugin-prices/fabfilter-pro-q-4/) |
+| Pro-L 2 | $199 (FabFilter current list; $179 older reference) | $134 research estimate | [History](/plugin-prices/fabfilter-pro-l-2/) |
+| Pro-MB | $179 | $134 | [History](/plugin-prices/fabfilter-pro-mb/) |
+| Saturn 2 | $179 | $134 | [History](/plugin-prices/fabfilter-saturn-2/) |
+| Timeless 3 | $169 | $127 | [History](/plugin-prices/fabfilter-timeless-3/) |
+| Twin 3 | $139 | $104 | [History](/plugin-prices/fabfilter-twin-3/) |
 
-**Strategy:** FabFilter products are sold directly and through Plugin Boutique at identical prices. The discount applies automatically during the sale window — no code needed. If you want multiple FabFilter plugins, wait for this window and grab them together.
+**Strategy:** FabFilter lists Pro-Q 4 and Pro-L 2 at $199 in its USD shop. The Pro-Q 4 low was tracked at third-party Gear4Music in November 2025; the older Pro-L 2 $134 rows are research estimates. Compare current prices before buying.
 
 **Verdict:** Compare current prices. The Pro-Q 4 record has one $105 Gear4Music sale in November 2025; it does not establish a typical discount.
 
@@ -67,12 +68,12 @@ Arturia runs aggressive Black Friday sales on their software lineup. In 2023, fl
 
 | Plugin | Regular | BF Price | Tracker |
 |---|---|---|---|
-| Pigments | $199 | $99 | [History](/plugin-prices/arturia-pigments) |
+| Pigments | $199 | $99 | [History](/plugin-prices/arturia-pigments/) |
 | Analog Lab V | $199 | $99 | History |
 | Piano V | $199 | $99 | History |
 | CS-80 V | $149 | $75 | History |
-| Jup-8 V | $149 | $75 | [History](/plugin-prices/arturia-jup-8-v) |
-| Mini V | $149 | $75 | [History](/plugin-prices/arturia-mini-v) |
+| Jup-8 V | $149 | $75 | [History](/plugin-prices/arturia-jup-8-v/) |
+| Mini V | $149 | $75 | [History](/plugin-prices/arturia-mini-v/) |
 | Prophet V | $149 | $75 | History |
 
 **V Collection bundles** also hit significant discounts — V Collection 9 was $599 → $299 in 2023.
@@ -91,11 +92,11 @@ u-he is the most volatile of the major plugin brands at Black Friday. **2023 was
 
 | Plugin | Regular | BF Price | Tracker |
 |---|---|---|---|
-| Diva | $179 | $90 | [History](/plugin-prices/u-he-diva) |
-| Hive 2 | $149 | $75 | [History](/plugin-prices/u-he-hive-2) |
-| Repro | $149 | $75 | [History](/plugin-prices/u-he-repro) |
-| Bazille | $129 | $65 | [History](/plugin-prices/u-he-bazille) |
-| Satin | $129 | $65 | [History](/plugin-prices/u-he-satin) |
+| Diva | $179 | $90 | [History](/plugin-prices/u-he-diva/) |
+| Hive 2 | $149 | $75 | [History](/plugin-prices/u-he-hive-2/) |
+| Repro | $149 | $75 | [History](/plugin-prices/u-he-repro/) |
+| Bazille | $129 | $65 | [History](/plugin-prices/u-he-bazille/) |
+| Satin | $129 | $65 | [History](/plugin-prices/u-he-satin/) |
 
 Note: Zebra Legacy was excluded from the 2023 50% deal. Zebra 3 (released 2024) was not yet available.
 
@@ -174,7 +175,7 @@ Some plugins have never discounted — not at Black Friday, not at any other tim
 ValhallaRoom ($50), VintageVerb ($50), Delay ($50) — unchanged since launch. The $50 price has not changed in our tracking. There is no Black Friday discount, no bundle deal, no coupon code. If you want Valhalla plugins, buy them when you need them.
 
 ### Xfer Serum
-Serum sells for $189 and has never been discounted. Serum 2 (the update) continues this policy. No Black Friday, no summer sale, no bundle. The only way to get Serum cheaper than $189 is through a hardware bundle that includes it.
+Xfer lists Serum 2 at $249. PluginDrop has no verified recurring sale schedule for its perpetual license; older $99 and $249 records require license-specific context and are not its current list price.
 
 ### iZotope (most products)
 iZotope does run sales, but they're unpredictable in timing and depth. Their Elements tiers (Ozone Elements, etc.) occasionally hit $29 at Black Friday. The full suite products (Ozone 12 Advanced, RX 12 Advanced) discount during specific campaigns but not always at BF.
@@ -186,9 +187,9 @@ iZotope does run sales, but they're unpredictable in timing and depth. Their Ele
 The prices in this article come from our daily price tracking across Plugin Boutique. You can watch any product on the tracker and get an email alert the moment it drops below your target price.
 
 For Black Friday specifically, these are the products we'd flag as "watch before November":
-- [FabFilter Pro-Q 4](/plugin-prices/fabfilter-pro-q-4) — buy at BF, not before
-- [u-he Diva](/plugin-prices/u-he-diva) — only if 40%+ off
-- [Arturia Pigments](/plugin-prices/arturia-pigments) — $99 at BF is strong value
+- [FabFilter Pro-Q 4](/plugin-prices/fabfilter-pro-q-4/) — compare current prices; no recurring sale verified
+- [u-he Diva](/plugin-prices/u-he-diva/) — only if 40%+ off
+- [Arturia Pigments](/plugin-prices/arturia-pigments/) — $99 at BF is strong value
 
 Set a "Notify me" alert on any of these pages and we'll send an email the moment the price drops.
 
@@ -198,7 +199,7 @@ Set a "Notify me" alert on any of these pages and we'll send an email the moment
 
 | Brand | BF Discount | Typical Start Date | Consistent? |
 |---|---|---|---|
-| FabFilter | 25% | ~Nov 18 | ✅ Very (every year) |
+| FabFilter Pro-Q 4 | $105 at Gear4Music (Nov 2025) | No verified recurring date | Unverified |
 | Arturia | 50% | ~Nov 14 | ✅ Yes |
 | u-he | 15–50% | ~Nov 24 | ⚠️ Variable |
 | Native Instruments | 50% full versions | Nov 1 ("Cyber Season") | ✅ Yes |
@@ -218,7 +219,7 @@ If it's October or early November and you don't need it immediately, wait. Most 
 Yes. Most plugin brand BF sales are reflected on Plugin Boutique at the same price. The advantage of buying through PB is earning loyalty points on each purchase, which compounds if you buy several things during the sale window.
 
 **What if I miss the sale?**
-FabFilter typically has a second sale window around the winter holidays. Arturia and NI also run January/February sales. The u-he 50% window is the hardest to catch — if you miss it, you might wait until next November.
+We have not verified a recurring Pro-Q 4 winter sale window. Arturia and NI also run January/February sales. The u-he 50% window is the hardest to catch — if you miss it, you might wait until next November.
 
 **Is there anything that goes deeper than 50% off?**
 Waves routinely hits 80–90% during BF (though they also discount this heavily the rest of the year). Spitfire with the subscriber code gets into the 60–70% range. Beyond that, look for third-party retailers like Audiodeluxe, which occasionally offer site-specific deals that beat the official brand price.

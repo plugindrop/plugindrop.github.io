@@ -20,6 +20,7 @@ interface HistoryEntry {
   regular: number | null;
   sale: number | null;
   source: string;
+  reg_src?: string;
 }
 
 interface BundleData {
@@ -162,7 +163,7 @@ interface Row {
 
 function buildRow(name: string, bundle: BundleData, isBundleSection: boolean): Row {
   const latest = bundle.history.at(-1);
-  const regular = latest?.regular ?? null;
+  const regular = (latest?.reg_src === 'typical' ? bundle.typical_regular : latest?.regular) ?? null;
   const sale = latest?.sale ?? null;
   const developer = detectDeveloper(name, bundle.notes);
   return {

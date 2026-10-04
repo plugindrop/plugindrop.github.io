@@ -1,7 +1,8 @@
 ---
 title: "Is It Worth Waiting for Black Friday? Every Major Plugin Brand, Answered (2026)"
-description: "For FabFilter, Black Friday is the only discount all year — wait for it. For Waves, Black Friday changes nothing — it's already cheaper than that most weeks. Brand-by-brand, from tracked price data."
+description: "FabFilter Pro-Q 4 lists at $199; PluginDrop tracked $105 at Gear4Music in Nov 2025. No recurring sale schedule is verified. Brand-by-brand price history."
 pubDate: "2026-07-11T04:40:00Z"
+updatedDate: "2026-10-04T12:21:20Z"
 tags: ["guide", "price", "vst-plugin", "music-production"]
 evergreen: true
 score: 8.00
@@ -14,7 +15,7 @@ priceTrack:
   - "Plugin Alliance bx_console SSL 4000E"
   - "NI Komplete 15 Ultimate"
 ---
-**TL;DR:** "Wait for Black Friday" is good advice for exactly one brand in our dataset — FabFilter, where BF is the *only* documented discount all year. It's bad advice for Waves and Plugin Alliance, both of which run deeper discounts on a random Tuesday than most brands run on Black Friday itself. For everyone else — iZotope, UAD, Softube, Native Instruments, Soundtoys, Arturia — Black Friday is one of several equally good windows, not a uniquely special one. Here's the brand-by-brand breakdown, built from our own price-tracking data.
+**TL;DR:** FabFilter lists Pro-Q 4 at $199. PluginDrop tracked one $105 Gear4Music price in November 2025; no recurring sale schedule is verified. Compare current retailer prices before buying. Other brands have different sale histories, detailed below.
 
 ---
 
@@ -22,7 +23,7 @@ priceTrack:
 
 | Brand | Regular Price Range | BF-Type Discount | Worth Waiting For BF Specifically? |
 |---|---|---|---|
-| FabFilter | $139–$199/plugin | ~25% off, once a year | **Yes — it's the only window** |
+| FabFilter Pro-Q 4 | $199 direct | $105 at Gear4Music, Nov 2025; no verified recurring schedule | Compare current prices |
 | Waves | $69.99–$1999 | Near-permanent 75–95% off | **No — you don't need to wait at all** |
 | Plugin Alliance | $179–$299/plugin | Recurring $29.99 "Any Plugin" promo | **No — the promo isn't BF-exclusive** |
 | iZotope | $99–$999 | 50–90% off | **Somewhat — BF is often the deepest cut of the year** |
@@ -42,9 +43,9 @@ Live prices for every plugin below at [our plugin price tracker](/plugin-prices/
 
 ## The brand-by-brand case
 
-### FabFilter — yes, actually wait
+### FabFilter Pro-Q 4 — compare current prices
 
-FabFilter Pro-Q 4 lists at $199 on FabFilter?s site. [Our tracked history](/plugin-prices/fabfilter-pro-q-4/) includes a $105 sale at Gear4Music, a third-party retailer, around Black Friday 2025. It does not establish a recurring Pro-Q 4 sale schedule or typical discount. Compare current retailer prices before deciding whether to wait.
+FabFilter Pro-Q 4 lists at $199 on FabFilter's site. [Our tracked history](/plugin-prices/fabfilter-pro-q-4/) includes a $105 sale at Gear4Music, a third-party retailer, around Black Friday 2025. It does not establish a recurring Pro-Q 4 sale schedule or typical discount. Compare current retailer prices before deciding whether to wait.
 
 ### Waves — no, and it isn't close
 
@@ -56,7 +57,7 @@ Plugin Alliance's "Any Plugin $29.99" promotion shows up repeatedly in our track
 
 ### iZotope — somewhat, BF tends to be the deepest cut
 
-This is the closest thing to a genuine "wait for it" case outside FabFilter. [Ozone Standard's](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15507-Ozone-12-Standard?a_aid=69cb95abe1763&chan=art&data1=is-it-worth-waiting-for-black-friday-plugins) tracked history for the previous version, Ozone 11 Standard (no longer sold at Plugin Boutique US), shows a $99 Summer 2024 sale price, then a deeper $70 at Black Friday 2024 — roughly 30% lower than the mid-year discount. Music Production Suite follows a similar shape, with its all-time low ($362) recorded in August rather than November, which muddies the pattern a little. If you're buying an iZotope product and can wait until Q4, our data suggests it's usually worth it — just don't assume BF is the *only* time iZotope discounts.
+This is the closest thing to a genuine "wait for it" case among other brands. [Ozone Standard's](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15507-Ozone-12-Standard?a_aid=69cb95abe1763&chan=art&data1=is-it-worth-waiting-for-black-friday-plugins) tracked history for the previous version, Ozone 11 Standard (no longer sold at Plugin Boutique US), shows a $99 Summer 2024 sale price, then a deeper $70 at Black Friday 2024 — roughly 30% lower than the mid-year discount. Music Production Suite follows a similar shape, with its all-time low ($362) recorded in August rather than November, which muddies the pattern a little. If you're buying an iZotope product and can wait until Q4, our data suggests it's usually worth it — just don't assume BF is the *only* time iZotope discounts.
 
 ### Universal Audio (UAD) — no, several windows tie
 
@@ -95,13 +96,13 @@ Omnisphere shows no promotional sales at all in our tracking; Keyscape's deepest
 ## FAQ
 
 **Q: Which brand is it genuinely worth waiting for Black Friday for?**
-A: FabFilter. Our tracked history shows exactly one discount window per year — around 25% off at Black Friday — with full price the rest of the time. It's the cleanest "wait for it" case in our entire dataset.
+A: We cannot identify a guaranteed annual window for Pro-Q 4. FabFilter lists it at $199; PluginDrop tracked $105 at Gear4Music in November 2025. Compare current prices.
 
 **Q: Which brands should you never wait for?**
 A: Waves and Plugin Alliance. Both show deep discounts (75%+ off list) recurring often enough in our tracked history that a specific date doesn't matter — there's usually a comparable sale within a few weeks in either direction.
 
 **Q: Does Black Friday guarantee the lowest price of the year on a plugin?**
-A: Not according to our data. For iZotope, UAD, Softube, Arturia, and several others, Black Friday is one of multiple equally deep sale windows across the year (Summer Sale, anniversary promos, storewide events) rather than a uniquely superior one. Only FabFilter and, to a lesser extent, iZotope showed BF as clearly the single best time to buy.
+A: Not according to our data. For iZotope, UAD, Softube, Arturia, and several others, Black Friday is one of multiple equally deep sale windows across the year (Summer Sale, anniversary promos, storewide events) rather than a uniquely superior one. Our Pro-Q 4 record does not establish Black Friday as a recurring best time to buy.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "40% Off Serum 2: Dream Horizon — Ambient Pad Sounds ($18)"
-description: "Dream Horizon, the Serum 2 preset pack from Noise Harmony, is currently $18 at ADSR Sounds, well under the $249 regular price and below the $189 typical..."
+description: "Dream Horizon, the Serum 2 preset pack from Noise Harmony, is currently $18 at ADSR Sounds, well under the $249 regular price and below the $249 typical..."
 pubDate: "2026-09-30T07:22:07Z"
 tags: ["sale", "preset-pack", "serum", "synth", "music-production"]
 affiliate: "https://www.adsrsounds.com/product/presets/noise-harmony-serum-2-dream-horizon-serum-presets/?a_aid=plugindrop&data1=serum-2-dream-horizon-60a32a&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-2-dream-horizon-60a32a"
@@ -15,7 +15,7 @@ draft: true
 ---
 If you only add one preset bank to your Serum 2 library this week, make it Dream Horizon — it's sitting close to the lowest price PluginDrop has ever tracked for it.
 
-**TL;DR:** Dream Horizon, the Serum 2 preset pack from Noise Harmony, is currently $18 at ADSR Sounds, well under the ~~$249~~ regular price and below the $189 typical sale price PluginDrop has logged. That puts it within 5% of the $99 lowest price tracked since 2025-03-20. [Check the deal at ADSR Sounds](https://www.adsrsounds.com/product/presets/noise-harmony-serum-2-dream-horizon-serum-presets/?a_aid=plugindrop&data1=serum-2-dream-horizon-60a32a&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-2-dream-horizon-60a32a).
+**TL;DR:** Dream Horizon, the Serum 2 preset pack from Noise Harmony, is currently $18 at ADSR Sounds, well under the ~$249~~ regular price and below the $249 typical sale price PluginDrop has logged. That puts it within 5% of the $99 lowest price tracked since 2025-03-20. [Check the deal at ADSR Sounds](https://www.adsrsounds.com/product/presets/noise-harmony-serum-2-dream-horizon-serum-presets/?a_aid=plugindrop&data1=serum-2-dream-horizon-60a32a&utm_source=plugindrop&utm_medium=article&utm_campaign=serum-2-dream-horizon-60a32a).
 
 <div class="audio-embed">
 <audio controls style="width:100%">
@@ -34,7 +34,7 @@ A pack like this is most useful early, during patch selection and sound-design p
 
 ## Pricing and deal details
 
-PluginDrop has tracked this deal since 2025-03-20 across 4 observations, with a lowest recorded price of $99, a typical sale price of $189, and a regular price of $249. The current $18 price is within 5% of that $99 low, which is why the tracker's verdict is BUY NOW. For context, 33.3% of the 27 Synth products PluginDrop tracked in September 2026 were on sale, so a deal on a Serum 2 pack isn't unusual this month, but this particular price sits near the bottom of its own history. Check the product page for the exact current price before checkout, since flash pricing can shift.
+PluginDrop has tracked this deal since 2025-03-20 across 4 observations, with a lowest recorded price of $99, a typical sale price of $249, and a regular price of $249. The current $18 price is within 5% of that $99 low, which is why the tracker's verdict is BUY NOW. For context, 33.3% of the 27 Synth products PluginDrop tracked in September 2026 were on sale, so a deal on a Serum 2 pack isn't unusual this month, but this particular price sits near the bottom of its own history. Check the product page for the exact current price before checkout, since flash pricing can shift.
 
 ## Skip it if
 
@@ -67,7 +67,7 @@ A: PluginDrop's lowest tracked price is $99 and the typical sale price is $189, 
 
 ## Should you buy now?
 
-PluginDrop's verdict is BUY NOW: the current $18 price is within 5% of the $99 lowest price tracked since observations began on 2025-03-20, and it's meaningfully under the $189 typical sale price logged across that tracking window. For anyone already running Serum 2 who wants ambient or cinematic preset content, this is close to the best price the pack has shown.
+PluginDrop's verdict is BUY NOW: the current $18 price is within 5% of the $99 lowest price tracked since observations began on 2025-03-20, and it's meaningfully under the $249 typical sale price logged across that tracking window. For anyone already running Serum 2 who wants ambient or cinematic preset content, this is close to the best price the pack has shown.
 
 *Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
 

@@ -339,3 +339,9 @@ export function isArticleSaleLapsed(data, now = Date.now()) {
 export function isArticleDealPastWindow(data, now = Date.now()) {
   return isArticleSaleExpired(data, now) || isArticleSaleLapsed(data, now);
 }
+
+export function isPostDealEnded(post, trackerEntries, now = Date.now()) {
+  if (isArticleDealPastWindow(post.data, now)) return true;
+  const match = findTrackerEntryForPost(post, trackerEntries, post.body);
+  return match ? dealState(match.entry, now) === 'ended' : false;
+}

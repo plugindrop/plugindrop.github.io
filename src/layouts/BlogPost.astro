@@ -41,6 +41,7 @@ import {
 	isArticleSaleExpired,
 	isArticleSaleLapsed,
 	isArticleDealPastWindow,
+	isPostDealEnded,
 } from '../lib/articleDeal.mjs';
 
 type Props = CollectionEntry<'blog'>['data'] & { readingTime?: string; rawBody?: string; slug?: string };
@@ -429,7 +430,7 @@ const featuredDeals = isEvergreen ? allPosts
 	.filter(p => !p.data.draft &&
 		p.data.affiliate?.includes('pluginboutique.com') &&
 		p.data.dealPrice &&
-		!isArticleDealPastWindow(p.data))
+		!isPostDealEnded(p, _allTrackerEntries))
 	.sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
 	.slice(0, 4) : [];
 ---
@@ -1248,7 +1249,7 @@ const featuredDeals = isEvergreen ? allPosts
 									{p.data.heroImage && <img src={p.data.heroImage} alt={p.data.title} loading="lazy" width="120" height="68" class="related-thumb" />}
 									<span class="related-info">
 										<span class="related-item-title">{p.data.title}</span>
-										{p.data.dealPrice && <span class="related-price">{p.data.dealPrice}</span>}
+										{p.data.dealPrice && !isPostDealEnded(p, _allTrackerEntries) && <span class="related-price">{p.data.dealPrice}</span>}
 									</span>
 								</a>
 							</li>

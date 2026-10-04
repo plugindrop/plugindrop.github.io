@@ -2,6 +2,7 @@
 title: "LANDR Mastering Review 2026: Is the Subscription Worth It?"
 description: "LANDR Mastering is a cloud service from $8.25/month or $10 per track. Here is how its cost compares with a one-time iZotope Ozone 12 purchase, and what each lets you control."
 pubDate: "2026-05-23T15:01:07Z"
+updatedDate: "2026-10-04T09:46:10Z"
 tags: ["guide", "vst", "mastering", "review"]
 affiliate: ""
 evergreen: true

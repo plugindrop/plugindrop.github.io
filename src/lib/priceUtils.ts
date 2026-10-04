@@ -12,6 +12,7 @@ export interface HistoryEntry {
   regular: number | null;
   sale: number | null;
   source: string;
+  reg_src?: string;
 }
 
 export interface PriceEntry {
@@ -78,14 +79,14 @@ export function pbLink(path: string, extraParams = '', ctx?: { medium?: string; 
 // already used by plugin-prices.astro (row.current = sale ?? regular).
 export function currentPriceOf(entry: PriceEntry): number | null {
   const latest = entry.history.at(-1);
-  const latestVal = latest ? (latest.sale ?? latest.regular) : null;
+  const latestVal = latest ? (latest.sale ?? (latest.reg_src === 'typical' ? entry.typical_regular : latest.regular)) : null;
   return latestVal ?? entry.typical_sale ?? entry.typical_regular ?? null;
 }
 
 // "Regular" price paired with currentPriceOf — same latest-snapshot-first logic.
 export function regularPriceOf(entry: PriceEntry): number | null {
   const latest = entry.history.at(-1);
-  return latest?.regular ?? entry.typical_regular ?? null;
+  return (latest?.reg_src === 'typical' ? entry.typical_regular : latest?.regular) ?? entry.typical_regular ?? null;
 }
 
 // A "live" drop must be a RECENT scraped observation (auto_check within

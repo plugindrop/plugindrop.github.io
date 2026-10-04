@@ -70,7 +70,7 @@ With three named components in the bundle (510k, SEQUND, POLYLLOP), the per-plug
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Xfer Serum + built-in sequencer | ~$189 | Industry-standard wavetable synth with internal arp/sequencer, single instrument focus |
+| Xfer Serum + built-in sequencer | $249 | Industry-standard wavetable synth with internal arp/sequencer, single instrument focus |
 | Cableguys MidiShaper | ~$49 | Dedicated MIDI modulation/sequencing plugin, no sound generation included |
 | Reason Studios Reason+ (subscription) | ~$20/mo | Full rack of instruments and sequencers via subscription rather than one-time purchase |
 

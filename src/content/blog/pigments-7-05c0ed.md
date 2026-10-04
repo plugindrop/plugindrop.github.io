@@ -63,7 +63,7 @@ Arturia periodically runs sitewide and product-specific promotions through Plugi
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Xfer Serum | ~$189 | Wavetable-focused only, no built-in virtual analog or sample engine |
+| Xfer Serum | $249 | Wavetable-focused only, no built-in virtual analog or sample engine |
 | Vital | Free / paid tiers | Open-source wavetable synth with a free version available |
 | u-he Phase Plant | ~$179 | Fully modular signal path where users build the architecture themselves |
 

@@ -2,6 +2,7 @@
 title: "FabFilter Pro-Q 4 vs iZotope Neutron 5 (2026): Spec and Price Comparison"
 description: "FabFilter Pro-Q 4 ($199) vs iZotope Neutron 5 ($299): a side-by-side of features, plugin formats, system requirements and prices from the vendors' own pages."
 pubDate: "2026-04-27T08:06:41Z"
+updatedDate: "2026-10-04T09:46:10Z"
 tags: ["guide", "vst", "effects", "alternatives"]
 affiliate: ""
 evergreen: true

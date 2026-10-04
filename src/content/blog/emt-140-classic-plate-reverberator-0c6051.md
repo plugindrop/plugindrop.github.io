@@ -2,6 +2,7 @@
 title: "EMT 140 Classic Plate Reverberator: Specs and $79 Sale Until Nov 1, 2026"
 description: "EMT 140 Classic Plate Reverberator (UAD Native): three modeled plates. Plugin Boutique lists it at $79 (regular $149, 47% off) until 2026-11-01, according to PluginDrop tracking."
 pubDate: "2026-09-02T19:00:18Z"
+updatedDate: "2026-10-04T09:46:10Z"
 tags: ["sale", "vst-plugin", "effects", "reverb", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=EMT+140+Classic+Plate+Reverberator&a_aid=69cb95abe1763&chan=art&data1=emt-140-classic-plate-reverberator-0c6051&utm_source=plugindrop&utm_medium=article&utm_campaign=emt-140-classic-plate-reverberator-0c6051"
 heroImage: "/images/emt-140-classic-plate-reverberator-0c6051.jpg"

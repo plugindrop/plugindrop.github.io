@@ -2,6 +2,7 @@
 title: "12 Best Plugins for Mixing Vocals in 2026, Ranked (Complete Chain)"
 description: "FabFilter Pro-Q 4 (precision EQ) and iZotope Nectar 4 (all-in-one vocal processing) are the two paid vocal tools this guide starts with for 2026, alongside free and budget picks."
 pubDate: "2026-05-28T10:39:54Z"
+updatedDate: "2026-10-04T12:21:20Z"
 tags: ["guide", "vst", "vocals"]
 affiliate: ""
 evergreen: true
@@ -360,7 +361,7 @@ This guide brings together publicly available product information and prices tra
 
 | Product | Typical regular | Typical sale | Sales recorded | Latest sale period | Today's price position |
 | --- | ---: | ---: | ---: | --- | --- |
-| FabFilter Pro-L 2 | $179 | $134 | 2 | 2024-11-22 | At or above typical regular |
+| FabFilter Pro-L 2 | $199 current FabFilter list ($179 older reference) | $134 research estimate | 2 research rows | 2024-11-22 | Current PB price unverified |
 | Soundtoys 5.5 | $659 | $299 | 2 | 2026-08-10 to 2026-09-28 | Between typical sale and regular |
 | Soundtoys Decapitator | $199 | $69 | 2 | 2026-07-22 to 2026-08-05 | At or above typical regular |
 | [Waves CLA-2A](/plugin-prices/waves-cla-2a/) | $149 | $29.99 | 4 | 2026-08-28 to 2026-09-25 | At or above typical regular |

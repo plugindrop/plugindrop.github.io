@@ -1,7 +1,8 @@
 ---
 title: "Does Xfer Serum 2 Ever Go On Sale? (The Real Answer in 2026)"
-description: "Xfer lists Serum 2 at $249 (checked 2026-10-01). PluginDrop's tracker logged $99 (Mar 2025) and $189 (May 2025). Splice lists Rent-to-Own at $9.99/month for 25 months."
+description: "Xfer lists the Serum 2 standard perpetual license at $249 (checked 2026-10-01). An older $99 research intro-offer row has no verified license type; no recurring standard-license sale is tracked."
 pubDate: "2026-06-29"
+updatedDate: "2026-10-04T12:21:20Z"
 evergreen: true
 tags:
   - "serum"
@@ -16,22 +17,20 @@ relatedPosts:
 heroImage: '/images/when-does-serum-go-on-sale.jpg'
 ---
 
-**Short answer:** Xfer's own Serum 2 page lists **$249.00 USD** (checked 2026-10-01). Our tracker did log lower prices in 2025 — $99 on 2025-03-20 and $189 in May 2025 — but with only a few observations we cannot confirm a recurring sale pattern. Splice lists a Rent-to-Own route at **$9.99/month for 25 months**.
+**Short answer:** Xfer lists the standard Serum 2 perpetual license at **$249.00 USD** (checked 2026-10-01). Our research data has a $99 introductory-offer row dated 2025-03-20, but it does not identify the retailer or license type. There is no $189 May 2025 row in the price history. Neither figure verifies a sale on the current standard perpetual license. Splice lists a Rent-to-Own route at **$9.99/month for 25 months**.
 
 ## Price Context (tracked by PluginDrop)
 - Tracked since 2025-03-20 (4 observations)
-- Lowest we've tracked: $99 · Typical sale: $189 · Regular: $249
+- Research intro-offer record: $99 (2025-03-20; license type unverified). Current standard perpetual license: $249 at Xfer.
 - Verdict: **WAIT** — the available history does not include enough comparable price data to support a buy-now verdict.
-- Sale pattern: Xfer's official price is $249 (2026). No promotions or sales on the perpetual license appear in our price tracking. Historical intro price $99 (Mar 2025) and a one-off $189 sale (May 2025) are kept below as legacy data points; no recurring sale pattern confirmed.
-- Latest observed sale: $99 on 2025-03-20
-- Typical observed discount: 24%
+- Sale pattern: No confirmed recurring sale for the standard perpetual license in this record.
 
 ## What Xfer and Splice List Today
 
 Two different things are on this page, and they are kept apart on purpose:
 
 - **Official current price (checked 2026-10-01):** Xfer's Serum 2 page lists **$249.00 USD**. The same page says Serum 2 is a free upgrade for Serum 1 owners.
-- **PluginDrop's tracker records (dated):** $99 on 2025-03-20 and a $189 observation in May 2025, shown in the price block above. These are past records from a small number of observations, not current prices.
+- **PluginDrop's research record (dated):** $99 on 2025-03-20, labelled as an introductory offer with no verified license type or retailer. This is not a current price or a confirmed standard-license sale.
 
 We did not find a statement about sales policy on Xfer's product page, so this guide does not claim whether Xfer will or will not discount in the future. Check the [Xfer product page](https://xferrecords.com/products/serum-2) for the live price.
 

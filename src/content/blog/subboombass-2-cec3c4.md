@@ -57,7 +57,7 @@ pluginboutique.com/search?q=SubBoomBass+2&a_aid=69cb95abe1763&utm_source=plugind
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Xfer Serum | ~$189 | General-purpose wavetable synth, not bass-specific |
+| Xfer Serum | $249 | General-purpose wavetable synth, not bass-specific |
 | u-he Diva | ~$179 | Analog-modeled synth covering bass and a wide range of other sounds |
 | Initial Audio Touch Bass | Check product page | Bass-focused instrument built around sample-based low end |
 

@@ -48,7 +48,7 @@ Bloom KSHMR is a virtual instrument plugin developed in collaboration with KSHMR
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Xfer Serum | ~$189 (or subscription) | Full wavetable synthesizer; requires hands-on sound design |
+| Xfer Serum | $249 (or subscription) | Full wavetable synthesizer; requires hands-on sound design |
 | Output Exhale | Check current pricing | Vocals-focused instrument engine with a different tonal character |
 | Native Instruments Massive X | Check current pricing | Broader synthesis engine, not genre-specific out of the box |
 

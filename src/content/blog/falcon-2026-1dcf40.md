@@ -69,7 +69,7 @@ Falcon 2026 is the latest edition of UVI's flagship hybrid instrument platform. 
 | Name | Price (approx.) | Key Difference |
 |---|---|---|
 | Arturia Pigments | ~$99–$199 | More visual/beginner-friendly UI, fewer synthesis engines |
-| Xfer Serum 2 | ~$189 | Focused specifically on wavetable synthesis with strong community ecosystem |
+| Xfer Serum 2 | $249 | Focused specifically on wavetable synthesis with strong community ecosystem |
 | Spectrasonics Omnisphere | ~$499 | Broader sound library focus, less modular/synthesis-forward |
 
 If you want a wavetable-centric synth with a large preset community, Serum 2 covers that territory well. If you need a genuinely open-ended synthesis environment where you can build instruments from the ground up across multiple engine types, Falcon's architecture is in a different category than any of the above.

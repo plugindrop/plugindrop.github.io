@@ -1,7 +1,7 @@
 ---
 noindex: true
 title: "When Does FabFilter Pro-L 2 Go On Sale? (Updated 2026)"
-description: "FabFilter Pro-L 2 goes on sale 3-4x per year at 25% off (~$134). Regular price: $179. Lowest ever: ~$64 via Gear4music GBP exchange (March 2023)."
+description: "FabFilter lists Pro-L 2 at $199 in its USD shop. Older $179 references and $134 research estimates do not establish a recurring sale schedule."
 pubDate: "2026-06-29"
 evergreen: true
 tags:

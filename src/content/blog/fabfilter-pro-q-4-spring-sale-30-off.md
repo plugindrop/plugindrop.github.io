@@ -22,7 +22,7 @@ priceTrack:
 
 ## What Is Pro-Q 4?
 
-FabFilter Pro-Q is a parametric EQ plugin used widely in professional mixing and mastering workflows. It combines a visual spectrum analyzer with up to 24 dynamic EQ bands, mid/side processing, and surround support including Dolby Atmos. Regular price: $189.
+FabFilter Pro-Q is a parametric EQ plugin used widely in professional mixing and mastering workflows. It combines a visual spectrum analyzer with up to 24 dynamic EQ bands, mid/side processing, and surround support including Dolby Atmos. FabFilter lists Pro-Q 4 at $199 in its USD shop (October 2026).
 
 ## Key Features
 

@@ -19,7 +19,7 @@ draft: true
 
 ## What Is Vital?
 
-Vital is a wavetable synthesizer created by Matt Tytel. It launched in 2020 and immediately drew comparisons to Xfer Serum ($189) due to its visual modulation system and wavetable engine. The free tier is not a trial — it's a permanent, fully functional version of the synth. Paid tiers (Plus at $25, Pro at $80) unlock additional presets and wavetables.
+Vital is a wavetable synthesizer created by Matt Tytel. It launched in 2020 and immediately drew comparisons to Xfer Serum ($249) due to its visual modulation system and wavetable engine. The free tier is not a trial — it's a permanent, fully functional version of the synth. Paid tiers (Plus at $25, Pro at $80) unlock additional presets and wavetables.
 
 ## Key Features
 
@@ -36,7 +36,7 @@ Vital is a free wavetable synthesizer with visual modulation. The community has 
 
 ## Who Is It For?
 
-- **Producers who can't justify $189 for Serum** — Vital covers similar territory at $0
+- **Producers who can't justify $249 for Serum** — Vital covers similar territory at $0
 - **Sound designers** — Spectral warping and drawable LFOs provide deep sound design capability
 - **Beginners learning synthesis** — Visual modulation makes it easy to see what's happening
 - **Anyone who wants a modern wavetable synth** — The free tier has no time limit and no feature restrictions on the engine itself
@@ -58,7 +58,7 @@ The free tier is not a trial. The synth engine is identical across all tiers —
 | Synth | Price | Key Difference |
 |---|---|---|
 | **Vital** | **FREE** | Visual modulation, spectral warping, 3 oscillators |
-| Xfer Serum | $189 (or $9.99/mo rent-to-own) | Industry standard, larger preset ecosystem |
+| Xfer Serum | $249 (or $9.99/mo rent-to-own) | Industry standard, larger preset ecosystem |
 | Surge XT | Free (open source) | Subtractive/wavetable/FM, different workflow |
 | Dune 3 | $179 | VA + wavetable hybrid, different sound character |
 

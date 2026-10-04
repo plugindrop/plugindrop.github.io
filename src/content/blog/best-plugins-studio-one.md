@@ -2,6 +2,7 @@
 title: "12 Best Third-Party Plugins for Studio One Users in 2026 — Ranked"
 description: "FabFilter Pro-Q 4 is the most defensible first purchase for Studio One producers — its dynamic EQ addresses a real gap in the native toolset that PreSonus"
 pubDate: "2026-05-13T10:39:54Z"
+updatedDate: "2026-10-04T10:10:20Z"
 tags: ["guide", "vst", "daw specific"]
 affiliate: ""
 evergreen: true
@@ -22,7 +23,7 @@ priceTrack:
 |--------|-------|----------|--------|
 | FabFilter Pro-Q 4 | $199 | Surgical & dynamic EQ | [Official Site](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one) |
 | Valhalla VintageVerb | $50 | Algorithmic reverb | [Official Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
-| Serum | $189 | Wavetable synthesis | [Official Site](https://xferrecords.com/products/serum-2) |
+| Serum | $249 | Wavetable synthesis | [Official Site](https://xferrecords.com/products/serum-2) |
 | iZotope Neutron 4 | Superseded by Neutron 5 ($299) | AI-assisted mixing | [Official Site](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one) |
 | TDR Nova | Free | Dynamics EQ on zero budget | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Valhalla Supermassive | Free | Lush ambient reverb & delay | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
@@ -136,7 +137,7 @@ Valhalla documents Supermassive as using a modulated feedback delay network arch
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records
-- **Price:** $189 one-time (rental-to-own also available via Splice)
+- **Price:** $249 one-time (rental-to-own also available via Splice)
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
@@ -261,7 +262,7 @@ Kilohearts documents Snap Heap as a modular effects host for their "Snapin" form
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/SJxHDbvfQgs" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records
-- **Price:** $189 (one-time); rental-to-own via Splice
+- **Price:** $249 (one-time); rental-to-own via Splice
 - **Why upgrade:** The third-party soundpack industry built around Serum has produced a library of patches with no equivalent elsewhere.
 
 [→ Get Serum](https://xferrecords.com/products/serum-2)
@@ -289,7 +290,7 @@ Kilohearts documents Snap Heap as a modular effects host for their "Snapin" form
 | iZotope Neutron 4 | Superseded by Neutron 5 ($299) | Channel Strip | AI Track Assistant, inter-plugin communication | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one) |
 | Valhalla VintageVerb | $50 | Reverb | Vintage algorithm models, 3 color modes per algo | [Get it](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
 | Valhalla Supermassive | Free | Reverb/Delay | Modulated feedback delay network, extreme tails | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| Serum | $189 | Wavetable Synth | Visual modulation matrix, built-in wavetable editor | [Official Site](https://xferrecords.com/products/serum-2) |
+| Serum | $249 | Wavetable Synth | Visual modulation matrix, built-in wavetable editor | [Official Site](https://xferrecords.com/products/serum-2) |
 | Arturia Pigments 7 | $199 | Hybrid Synth | 6 synthesis types, deep arpeggiator/sequencer | [Get it](https://www.arturia.com) |
 | u-he Tyrell N6 | Free | Analog Synth | Subtractive architecture, u-he filter quality | [Download](https://u-he.com) |
 | iZotope Ozone 12 | From ~$55 (as of 2026-10-01) | Mastering | Master Assistant, full mastering chain in one plugin | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one) |

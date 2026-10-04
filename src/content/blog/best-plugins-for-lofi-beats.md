@@ -2,6 +2,7 @@
 title: "12 Best VST Plugins for Lo-Fi Beats in 2026, Ranked (Free & Paid)"
 description: "iZotope Vinyl is a free lo-fi plugin — it has been in free distribution since 2002 and targets the"
 pubDate: "2026-05-26T22:39:54Z"
+updatedDate: "2026-10-04T12:21:20Z"
 tags: ["guide", "vst", "genre specific"]
 affiliate: ""
 evergreen: true
@@ -137,10 +138,10 @@ Lo-fi beats also rely on well-timed drum machine textures — if you're building
 
 - **Developer:** TAL Software
 - **Price:** Free
-- **Platforms:** Windows 7 or higher (64-bit only), macOS 10.9 or higher (64-bit only), per the Plugin Boutique listing
-- **Formats:** VST, VST3, AU, AAX, CLAP (per the Plugin Boutique listing)
+- **Legacy platforms:** Windows XP+ (32/64-bit VST); macOS 10.6 to before 10.10 (32-bit host), per TAL
+- **Archived formats:** Windows VST; macOS 32-bit VST/AU, per TAL
 
-TAL-Dub-3 is a free delay that TAL describes as having "no tape delay emulation" and its own sound. The product description lists an alias-free saturation stage and non-linear filters in the feedback path. The dub-style feedback structure makes it a reasonable fit for lo-fi hip-hop, where delays should feel warm and slightly degraded rather than pristine. It is 64-bit only.
+TAL-Dub-3 is a free delay that TAL describes as having "no tape delay emulation" and its own sound. The product description lists an alias-free saturation stage and non-linear filters in the feedback path. The dub-style feedback structure makes it a reasonable fit for lo-fi hip-hop, where delays should feel warm and slightly degraded rather than pristine. This older product has legacy OS and host support; it is not a recommendation for modern macOS, CLAP or AAX.
 
 **Best for:** Dub-style echoes and looping warm feedback textures across any element in a lo-fi mix.
 

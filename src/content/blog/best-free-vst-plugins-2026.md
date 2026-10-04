@@ -2,6 +2,7 @@
 title: "Best Free VST Plugins in 2026 — 15 Plugins Worth Installing"
 description: "The 15 best free VST plugins for 2026 — Vital, Surge XT, Valhalla Supermassive, Spitfire LABS and more. All genuinely free: no trials, no hidden costs."
 pubDate: "2026-03-26T14:00:00Z"
+updatedDate: "2026-10-04T10:10:20Z"
 tags: ["free", "roundup", "music-production"]
 affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-2026&chan=art&data1=best-free-vst-plugins-2026"
 dealPrice: "FREE"
@@ -167,7 +168,7 @@ We track these prices daily — the sale columns are what we've actually logged,
 
 | Upgrade | Regular | Typical sale (tracked) | Why step up |
 |---|---|---|---|
-| [Serum 2](https://xferrecords.com/products/serum-2) | $249 | ~$189 — lowest we've tracked is $99 | The industry-standard wavetable synth — deeper factory content and workflow than Vital's free tier |
+| [Serum 2](https://xferrecords.com/products/serum-2) | $249 | $249 — lowest we've tracked is $99 | The industry-standard wavetable synth — deeper factory content and workflow than Vital's free tier |
 | [FabFilter Pro-Q 4](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-vst-plugins-2026&chan=art&data1=best-free-vst-plugins-2026) | $199 | lowest tracked $105 at Gear4Music (Nov 2025) ([price history](/plugin-prices/fabfilter-pro-q-4/)) | Surgical + dynamic EQ with the cleanest interface in the business — a true upgrade from TDR Nova |
 | [iZotope Ozone 12 Advanced](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-2026) | $499 | ~$366 (price history) | Assistant-driven mastering chain when Youlean metering shows you're ready to master properly |
 

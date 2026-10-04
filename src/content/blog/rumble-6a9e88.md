@@ -66,7 +66,7 @@ A 50% cut on a synth instrument is a meaningful discount — many established sy
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Serum (Xfer Records) | ~$189 full price | Industry-standard wavetable synth with massive community preset ecosystem |
+| Serum (Xfer Records) | $249 full price | Industry-standard wavetable synth with massive community preset ecosystem |
 | Massive X (Native Instruments) | ~$199 | Phase modulation architecture, deep modulation routing, NI ecosystem integration |
 | Vital (Matt Tytel) | Free–$80 | Wavetable synth with a generous free tier, cross-platform, browser-based preset sharing |
 

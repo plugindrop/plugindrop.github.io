@@ -297,7 +297,7 @@ Magical8bitPlug 2 emulates classic NES and Game Boy sound chips with selectable 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fJTEjZUd2D4" title="Serum 2 by Xfer Records — No talking sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records
-- **Price:** ~$189 (subscription options available via Splice)
+- **Price:** $249 (subscription options available via Splice)
 - **Why upgrade:** Vital's free tier is genuinely close, but Serum's built-in wavetable editor, its deeper workflow integration across commercial sound packs, and the breadth of third-party presets built specifically for it make it the benchmark for professional wavetable production that Vital references but does not yet match in ecosystem depth.
 
 [Xfer Records](https://xferrecords.com/products/serum-2)

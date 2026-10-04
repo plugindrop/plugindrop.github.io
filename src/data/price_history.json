@@ -25328,10 +25328,10 @@
     },
     "FabFilter Pro-L 2": {
       "pb_url": "/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2",
-      "typical_regular": 179,
+      "typical_regular": 199,
       "typical_sale": 134,
       "all_time_low": 134,
-      "notes": "FabFilter discounts 25% at Black Friday only. Typical BF sale ~$134 (25% off $179).",
+      "notes": "FabFilter official USD shop lists $199 as of 2026-10-04. The $179 reference and $134 Black Friday research rows are historical estimates, not a verified recurring schedule.",
       "history": [
         {
           "date": "2021-11-26",
@@ -25837,7 +25837,7 @@
     "FabFilter Pro-Q 4": {
       "pb_url": "/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4",
       "typical_regular": 199,
-      "typical_sale": 105,
+      "typical_sale": null,
       "all_time_low": 105,
       "notes": "Regular $199 (FabFilter). Lowest tracked sale $105.25 at Gear4Music (Black Friday Nov 2025, third-party retailer).",
       "history": [
@@ -51172,9 +51172,9 @@
     "Serum 2": {
       "pb_url": "/search?q=Serum%202",
       "typical_regular": 249,
-      "typical_sale": 189,
+      "typical_sale": null,
       "all_time_low": 99,
-      "notes": "Xfer's official price is $249 (2026). Xfer's founder has stated publicly that Xfer does not run promotions/sales on the perpetual license. Historical intro price $99 (Mar 2025) and a one-off $189 sale (May 2025) are kept below as legacy data points; no recurring sale pattern confirmed.",
+      "notes": "Xfer lists the standard Serum 2 perpetual license at $249 (2026). The $99 March 2025 research_intro_offer row does not identify the license or retailer; it is not evidence of a sale on the current standard perpetual license. No $189 May 2025 row exists in this record and no recurring sale pattern is confirmed.",
       "history": [
         {
           "date": "2025-03-20",

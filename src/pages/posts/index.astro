@@ -3,7 +3,8 @@ import { getCollection } from 'astro:content';
 import { eligiblePriorityPosts } from '../../lib/crawlPriority.mjs';
 import { pdAttr } from '../../lib/interestTaxonomy.mjs';
 import { isInternalPathIndexable } from '../../lib/linkPolicy.mjs';
-import { hasTrustedExpiry, isArticleSaleExpired, isArticleSaleLapsed, isArticleDealPastWindow } from '../../lib/articleDeal.mjs';
+import { hasTrustedExpiry, isArticleSaleExpired, isArticleSaleLapsed, isArticleDealPastWindow , isPostDealEnded } from '../../lib/articleDeal.mjs';
+import priceDataRaw from '../../data/price_history.json';
 import { stripMarkdownEmphasis } from '../../lib/textUtils';
 import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
@@ -11,6 +12,7 @@ import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
 
+const trackerEntries = { ...(priceDataRaw.bundles ?? {}), ...(priceDataRaw.plugins ?? {}) };
 const posts = (await getCollection('blog'))
 	.filter((p) => !p.data.draft)
 	.filter((p) => p.data.pubDate.valueOf() <= Date.now())  // 未来日の予約投稿は非表示
@@ -34,8 +36,8 @@ function getStoreName(url: string | undefined): string {
 	try { return new URL(url).hostname.replace('www.', ''); } catch { return ''; }
 }
 
-function isExpired(data: any): boolean {
-	return isArticleDealPastWindow(data);
+function isExpired(post: any): boolean {
+	return isPostDealEnded(post, trackerEntries);
 }
 
 function formatExpiry(saleExpiry: string): string {
@@ -342,7 +344,7 @@ function isSaleDeal(tags: string[], hasPriceOrAffiliate: boolean): boolean {
 					const tagsStr = tags.join(',');
 					const hasPriceOrAffiliate = !!(post.data.dealPrice || post.data.discount || post.data.affiliate);
 					const isSale = isSaleDeal(tags, hasPriceOrAffiliate);
-					const expired = isExpired(post.data);
+					const expired = isExpired(post);
 					const confirmedEnded = isArticleSaleExpired(post.data);
 					const lapsed = isArticleSaleLapsed(post.data);
 					const saleExpiry: string | undefined = post.data.saleExpiry;

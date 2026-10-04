@@ -72,7 +72,7 @@ Verify current pricing on the product page — deals can change. [See all sale i
 | Name | Price | Key Difference |
 |---|---|---|
 | Vital (Matt Tytel) | Free / paid tiers | Wavetable-only; free tier fully functional with no time limit |
-| Serum (Xfer Records) | ~$189 | Industry-standard wavetable synth; largest community preset ecosystem |
+| Serum (Xfer Records) | $249 | Industry-standard wavetable synth; largest community preset ecosystem |
 | Phase Plant (Kilohearts) | ~$99 | Fully modular signal flow; more open architecture, steeper learning curve |
 
 Vital is the logical pick if budget is the hard constraint — wavetable synthesis at no cost. Serum wins if community tutorials and preset packs matter most to your workflow. Synthmaster covers more synthesis modes than either at a lower price than Serum, making it the strongest option when synthesis variety is the priority.

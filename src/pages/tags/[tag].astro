@@ -1,13 +1,15 @@
 ---
 import { getCollection } from 'astro:content';
 import { prioritySlugs } from '../../lib/crawlPriority.mjs';
-import { isArticleDealPastWindow } from '../../lib/articleDeal.mjs';
+import { isArticleDealPastWindow, isPostDealEnded } from '../../lib/articleDeal.mjs';
+import priceDataRaw from '../../data/price_history.json';
 import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
 import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
 import { isTagPageIndexable, slugifyTag } from '../../lib/indexPolicy.mjs';
+const renderTrackerEntries = { ...(priceDataRaw.bundles ?? {}), ...(priceDataRaw.plugins ?? {}) };
 
 export async function getStaticPaths() {
 	const posts = await getCollection('blog', (post) => !post.data.draft && !post.data.noindex && !isArticleDealPastWindow(post.data));
@@ -143,7 +145,7 @@ const breadcrumbLD = {
 									<p class="post-description">{post.data.description}</p>
 									<span class="post-meta">
 										<FormattedDate date={post.data.pubDate} />
-										{post.data.dealPrice && !isArticleDealPastWindow(post.data) && <span class="post-price">{post.data.dealPrice}</span>}
+										{post.data.dealPrice && !isPostDealEnded(post, renderTrackerEntries) && <span class="post-price">{post.data.dealPrice}</span>}
 									</span>
 								</div>
 							</a>

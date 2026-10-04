@@ -2,6 +2,7 @@
 title: "How to Make Lo-Fi Music: Complete Plugin Guide for That Vintage Sound (2026)"
 description: "iZotope Vinyl is a free vinyl simulator and a starting point for anyone learning how to make lo-fi music with VST plugins in 2026."
 pubDate: "2026-06-28T22:39:54Z"
+updatedDate: "2026-10-04T12:21:20Z"
 tags: ["guide", "vst", "tutorials"]
 affiliate: ""
 evergreen: true
@@ -116,12 +117,12 @@ Delay in lo-fi production isn't clean, digital ping-pong. It's tape delay: warm,
 
 - **Developer:** TAL Software
 - **Price:** Free
-- **Platforms:** Windows 7 or higher (64-bit only), macOS 10.9 or higher (64-bit only), per the Plugin Boutique listing
-- **Formats:** VST, VST3, AU, AAX, CLAP (per the Plugin Boutique listing)
+- **Legacy platforms:** Windows XP+ (32/64-bit VST); macOS 10.6 to before 10.10 (32-bit host), per TAL
+- **Archived formats:** Windows VST; macOS 32-bit VST/AU, per TAL
 
 TAL Software offers free plugins, and TAL-Dub-3 is one. TAL describes it as having "no tape delay emulation" and its own sound, so it is a dub-style delay rather than a model of a tape machine. The product description lists synced delay times, an alias-free saturation stage and non-linear filters in the feedback path, which suits the progressively darker, more saturated repeats common in lo-fi production.
 
-The saturation and filtering in the feedback path are the key distinguishing features: repeats change in tone as they recirculate rather than simply getting quieter. That behavior is useful for lo-fi, even though it is not a tape emulation. The plugin is 64-bit only.
+The saturation and filtering in the feedback path are the key distinguishing features: repeats change in tone as they recirculate rather than simply getting quieter. That behavior is useful for lo-fi, even though it is not a tape emulation. TAL lists legacy OS and host support; do not assume modern macOS, CLAP or AAX compatibility.
 
 **Best for:** Lo-fi producers who want a free dub-style delay with feedback saturation, particularly useful on piano, Rhodes, and vocal chop channels.
 
@@ -185,7 +186,7 @@ A: This guide uses three: a vinyl simulator (iZotope Vinyl), a reverb (Valhalla 
 A: It depends on your routing complexity. If you're already running iZotope Vinyl for noise, a separate plugin for wobble, and a third for tape saturation, RC-20 consolidates all three with designed module interaction that produces more coherent results. If iZotope Vinyl alone covers your needs, there's no immediate reason to upgrade.
 
 **Q: Do these plugins work in Ableton Live, FL Studio, and Logic Pro?**
-A: Yes. iZotope Vinyl, Valhalla Supermassive, and RC-20 Retro Color all support AU (macOS) and VST3 (Windows/macOS), which covers Logic Pro, Ableton Live, and FL Studio. TAL-Dub-3 is listed on Plugin Boutique as 64-bit only (Windows 7+, macOS 10.9+) in VST, VST3, AU, AAX and CLAP. If you haven't settled on a DAW yet, see our [best free DAW software guide](/posts/best-free-daw-software-2026/) for a rundown of the top zero-cost options.
+A: Yes. iZotope Vinyl, Valhalla Supermassive, and RC-20 Retro Color all support AU (macOS) and VST3 (Windows/macOS), which covers Logic Pro, Ableton Live, and FL Studio. TAL lists TAL-Dub-3 as an older product for Windows XP+ (32/64-bit VST) and macOS 10.6 to before 10.10 (32-bit host, archived VST/AU). It is not a modern macOS, CLAP or AAX recommendation. If you haven't settled on a DAW yet, see our [best free DAW software guide](/posts/best-free-daw-software-2026/) for a rundown of the top zero-cost options.
 
 **Q: What drum plugins work well for lo-fi production?**
 A: Lo-fi beats rely on understated, slightly imperfect drum textures rather than precision acoustic samples. Sitala (current version $20, older v1.0.9 free) and BPB Dirty Drums are options — see our [best free drum plugins guide](/posts/best-free-drum-plugins/) for a ranked list covering every style from hip-hop samplers to lo-fi drum machines.

@@ -2,6 +2,7 @@
 title: "15 Best VST Plugins Under $150 in 2026, Ranked (Pro-Level on a Budget)"
 description: "The best VST plugins under $150 in 2026 include tools that appear on major-label releases, and several of them are free. Start with Vital (free wavetable"
 pubDate: "2026-05-05T20:47:51Z"
+updatedDate: "2026-10-04T10:10:20Z"
 tags: ["guide", "vst", "effects", "value"]
 affiliate: ""
 evergreen: true

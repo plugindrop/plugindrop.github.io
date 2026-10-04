@@ -14,7 +14,7 @@ draft: true
 ---
 If you only add one Serum 2 preset pack to your library this month, make it Blueprints — melodic techno is a genre most producers struggle to sound-design from scratch, and this pack is priced close to the lowest point PluginDrop has tracked for it.
 
-**TL;DR:** Black Octopus Sound's *Blueprints: Melodic Techno for Serum 2* is on sale at ADSR Sounds for $20.97, a 30% discount. PluginDrop has tracked this product since 2025-03-20 across 4 observations, with a lowest recorded price of $99, a typical sale price of $189, and a regular price of ~~$249~~. Grab it here: [Blueprints: Melodic Techno for Serum 2](https://www.adsrsounds.com/product/presets/black-octopus-sound-blueprints-melodic-techno-for-serum-2-by-paul/?a_aid=plugindrop&data1=black-octopus-sound-blueprints-melodic-techno-for-serum-2-by&utm_source=plugindrop&utm_medium=article&utm_campaign=black-octopus-sound-blueprints-melodic-techno-for-serum-2-by).
+**TL;DR:** Black Octopus Sound's *Blueprints: Melodic Techno for Serum 2* is on sale at ADSR Sounds for $20.97, a 30% discount. PluginDrop has tracked this product since 2025-03-20 across 4 observations, with a lowest recorded price of $99, a typical sale price of $249, and a regular price of ~$249~~. Grab it here: [Blueprints: Melodic Techno for Serum 2](https://www.adsrsounds.com/product/presets/black-octopus-sound-blueprints-melodic-techno-for-serum-2-by-paul/?a_aid=plugindrop&data1=black-octopus-sound-blueprints-melodic-techno-for-serum-2-by&utm_source=plugindrop&utm_medium=article&utm_campaign=black-octopus-sound-blueprints-melodic-techno-for-serum-2-by).
 
 <div class="audio-embed">
 <audio controls style="width:100%">

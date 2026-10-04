@@ -2,6 +2,7 @@
 title: "12 Best Distortion & Overdrive VST Plugins in 2026 — Ranked"
 description: "Soundtoys Decapitator is an analog drive plugin — its five hardware-modeled saturation styles cover subtle warmth"
 pubDate: "2026-06-09T10:39:54Z"
+updatedDate: "2026-10-04T10:10:20Z"
 tags: ["guide", "vst", "effects"]
 affiliate: ""
 heroImage: "/images/best-distortion-vst-plugins.png"

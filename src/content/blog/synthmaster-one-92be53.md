@@ -50,7 +50,7 @@ SynthMaster One is a wavetable and VA (virtual analog) synthesizer developed by 
 | Name | Price | Key Difference |
 |---|---|---|
 | Vital | Free / paid tiers | Free version available; spectral warping wavetable engine |
-| Serum (Xfer Records) | ~$189 or subscription | Industry-standard wavetable synth with a large third-party preset ecosystem |
+| Serum (Xfer Records) | $249 or subscription | Industry-standard wavetable synth with a large third-party preset ecosystem |
 | Phase Plant (Kilohearts) | ~$199 | Fully modular signal flow; significantly more complex architecture |
 
 If you want a capable wavetable synth with a zero-cost entry point, Vital's free tier covers a lot of ground. If you need the widest possible preset library and community support, Serum remains the category standard — but at a higher price. SynthMaster One sits in the middle: more depth than Vital's free tier, lower cost than Serum, and a more focused interface than Phase Plant.

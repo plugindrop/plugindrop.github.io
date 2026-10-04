@@ -80,7 +80,7 @@ u-he products don't see aggressive discounting frequently. The developer maintai
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Serum (Xfer Records) | ~$189 | Wavetable-focused engine; visual wavetable editing; higher CPU draw |
+| Serum (Xfer Records) | $249 | Wavetable-focused engine; visual wavetable editing; higher CPU draw |
 | Sylenth1 (LennarDigital) | ~$189 | VA synthesis; long-standing synthwave community staple |
 | Repro-5 (u-he) | Higher | Same developer; modeled after a specific hardware analog; narrower scope |
 

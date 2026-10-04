@@ -2,6 +2,7 @@
 title: "Best Plugin Bundle Deals 2026: 80%+ Off Pro VSTs (Ranked)"
 description: "Best VST plugin bundles in 2026 — FabFilter Total Bundle, NI Komplete, Arturia V Collection, SoundToys 5. Verified sale prices and the best value picks."
 pubDate: "2026-05-04T00:00:00Z"
+updatedDate: "2026-10-04T10:10:20Z"
 tags: ["guide", "vst", "value"]
 affiliate: ""
 evergreen: true

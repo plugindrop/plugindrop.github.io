@@ -2,6 +2,7 @@
 title: "FabFilter Pro-Q 4 Review: Is It Still the Best EQ Plugin in 2026?"
 description: "FabFilter Pro-Q 4 is a parametric EQ with dynamic EQ, mid/side processing, linear phase mode, and per-band controls. Price, features, and alternatives."
 pubDate: "2026-04-24T05:06:41Z"
+updatedDate: "2026-10-04T12:21:20Z"
 tags: ["guide", "vst", "effects", "review"]
 affiliate: ""
 evergreen: true
@@ -27,7 +28,7 @@ priceTrack:
 | FabFilter Total Bundle | $1,069 | Full FabFilter studio toolkit | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-review) |
 | TDR Nova | Free / €49 | Budget-friendly dynamic EQ | — |
 | DMG Audio EQuality | ~$99 | Analog-voiced precision EQ | — |
-| iZotope Neutron | ~$249 | AI-assisted EQ with session integration | — |
+| iZotope Neutron 5 | $299 | AI-assisted EQ with session integration | — |
 
 ---
 
@@ -191,7 +192,7 @@ Neutron's EQ module includes AI-generated band suggestions, session-level maskin
 | FabFilter Total Bundle | $1,069 | Full plugin suite | Every FabFilter plugin, significant savings vs. individual | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-review) |
 | TDR Nova | Free / €49 | Dynamic EQ | Solid free tier, dynamic EQ, limited M/S depth | — |
 | DMG Audio EQuality | ~$99 | Analog-style parametric EQ | Analog filter character | — |
-| iZotope Neutron | ~$249 | AI-assisted EQ | AI band suggestions, session-level masking detection | — |
+| iZotope Neutron 5 | $299 | AI-assisted EQ | AI band suggestions, session-level masking detection | — |
 
 ---
 

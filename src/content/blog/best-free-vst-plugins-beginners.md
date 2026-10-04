@@ -2,6 +2,7 @@
 title: "20 Best Free VST Plugins for Beginners in 2026 — Complete Starter Kit"
 description: "Vital, LABS Soft Piano, Youlean Loudness Meter — 20 free VST plugins every beginner needs in 2026. Compared on vendor-listed specs, ease of use, and DAW compatibility."
 pubDate: "2026-05-08T19:06:41Z"
+updatedDate: "2026-10-04T12:21:20Z"
 tags: ["guide", "vst", "free", "starter kit", "beginner"]
 affiliate: ""
 evergreen: true
@@ -400,7 +401,7 @@ MeldaProduction's MFreeFXBundle packages 37 audio plugins covering EQ, compressi
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TmvzdoEECe8" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records
-- **Price:** $189 (or subscription)
+- **Price:** $249 (or subscription)
 - **Why upgrade:** The free synths on this list are excellent, but Serum offers a deep wavetable editor and a large third-party preset ecosystem. When you're serious about synthesis, it is a step up.
 
 [Xfer Records](https://xferrecords.com/products/serum-2)
@@ -442,7 +443,7 @@ MeldaProduction's MFreeFXBundle packages 37 audio plugins covering EQ, compressi
 | Decent Sampler | Free | Sample Player | Huge free community library ecosystem | [Developer Site](https://www.decentsamples.com/product/decent-sampler-plugin/) |
 | iZotope Vinyl | Free | FX | Vinyl artifacts, lo-fi standard | [Developer Site](https://www.izotope.com/en/products/vinyl.html) |
 | Melda MFreeFXBundle | Free | Bundle | 37 plugins, broad coverage | [Developer Site](https://www.meldaproduction.com/MFreeFXBundle) |
-| Serum | $189 | Synth | Industry standard wavetable | [Xfer Records](https://xferrecords.com/products/serum-2) |
+| Serum | $249 | Synth | Industry standard wavetable | [Xfer Records](https://xferrecords.com/products/serum-2) |
 | FabFilter Total Bundle | €899 | Suite | Pro mixing suite, top-tier quality | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
 
 ---

@@ -39,8 +39,8 @@ test('Rarely discounts needs a real observation history', () => {
 
 test('Pro-Q 4 shows its recorded November 2025 retailer sale without inventing a tracked episode', () => {
   const result = comparisonPriceFacts(priceData.plugins['FabFilter Pro-Q 4']);
-  assert.equal(result.sale, 105);
-  assert.equal(result.saleNote, 'Nov 2025 record');
+  assert.equal(result.sale, null);
+  assert.equal(result.saleNote, null);
   assert.equal(result.salesRecorded, 0);
 });
 

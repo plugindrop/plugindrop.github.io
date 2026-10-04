@@ -2,6 +2,7 @@
 title: "12 Plugins That Never Go On Sale (Buy Them Any Time in 2026)"
 description: "Six Valhalla plugins have sold at exactly $50 since launch, with zero discounts, by written company policy. Here are 12 plugins where waiting for a sale wastes your time."
 pubDate: "2026-07-11T04:00:00Z"
+updatedDate: "2026-10-04T12:21:20Z"
 tags: ["guide", "price", "vst-plugin", "music-production"]
 evergreen: true
 score: 8.00
@@ -49,7 +50,7 @@ Valhalla Room, VintageVerb, Plate, Delay, Ubermod, and Shimmer all sell at a fla
 
 ### Serum 2 — $249, no promotions
 
-Xfer's official price for Serum 2 sits at $249, and our tracking records no promotions or sales on the perpetual license. Our history shows a couple of legacy data points — a $99 intro offer in March 2025 and a one-off $189 price in May 2025 — but neither recurred, and neither should be treated as a pattern. As of our most recent check, the regular price is what you'll pay — [Serum 2](https://xferrecords.com/products/serum-2).
+Xfer lists the standard Serum 2 perpetual license at $249. Our price history has one $99 research intro-offer row from March 2025, without a verified license type or retailer. It contains no $189 May 2025 row. We have no verified recurring discount for the standard license; check [Xfer's Serum 2 page](https://xferrecords.com/products/serum-2) for the current price.
 
 ### Spectrasonics Omnisphere — $499, direct-only, no sales
 
@@ -67,7 +68,7 @@ Both of Klanghelm's flagship compressors (MJUC at roughly $26, DC8C mkII at roug
 
 Melodyne isn't sold on Plugin Boutique; Celemony runs its own web shop, currently listing Studio at $699. That figure is already a standing markdown from the $849 MSRP, but it isn't a limited-time sale — it's just the price. Deep discounts only show up on version-upgrade paths for existing owners, not on new full licenses.
 
-### FabFilter — the whole line, one sale a year
+### FabFilter Pro-Q 4 — one tracked retailer sale
 
 FabFilter Pro-Q 4 lists at $199. [Its price history](/plugin-prices/fabfilter-pro-q-4/) records one $105 Gear4Music sale around Black Friday 2025; this third-party price does not establish a recurring FabFilter store sale or typical discount.
 
@@ -92,7 +93,7 @@ Both sell at a standard $99 on Plugin Boutique. Baby Audio runs frequent site-wi
 ## FAQ
 
 **Q: Does Black Friday ever discount FabFilter plugins?**
-A: Yes — that's the one confirmed discount window all year. Our tracked history shows ~25% off at Black Friday and full price the rest of the year, consistently, across the whole FabFilter line.
+A: PluginDrop tracked Pro-Q 4 at $105 at Gear4Music in November 2025, versus FabFilter's $199 list price. This third-party record does not verify an annual FabFilter sale schedule.
 
 **Q: Why doesn't Valhalla DSP ever run sales?**
 A: By the company's own public statement, Valhalla holds a single fixed price across all its plugins instead of marking up and then discounting. $50 is both the regular price and the lowest price you'll ever see.

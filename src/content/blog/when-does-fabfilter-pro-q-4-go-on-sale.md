@@ -17,7 +17,7 @@ relatedPosts:
 heroImage: '/images/when-does-fabfilter-pro-q-4-go-on-sale.jpg'
 ---
 
-**Short answer:** FabFilter lists Pro-Q 4 at **$199**. The lowest price PluginDrop has tracked is **$105** at Gear4Music around Black Friday 2025. Gear4Music is a third-party retailer, not FabFilter?s own store. We do not have a verified recurring sale schedule or typical discount.
+**Short answer:** FabFilter lists Pro-Q 4 at **$199**. The lowest price PluginDrop has tracked is **$105** at Gear4Music around Black Friday 2025. Gear4Music is a third-party retailer, not FabFilter's own store. We do not have a verified recurring sale schedule or typical discount.
 
 ## Price Context (tracked by PluginDrop)
 - Regular price: $199 (FabFilter)

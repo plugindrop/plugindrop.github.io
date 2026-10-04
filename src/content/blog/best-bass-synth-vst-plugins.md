@@ -2,6 +2,7 @@
 title: "Best Bass Synth VST Plugins in 2026 (Analog & Digital)"
 description: "Xfer Serum is a paid wavetable synth for bass design, while Surge..."
 pubDate: "2026-06-14T16:22:12Z"
+updatedDate: "2026-10-04T12:21:20Z"
 tags: ["guide", "vst", "instruments", "synth"]
 affiliate: ""
 heroImage: "/images/best-bass-synth-vst-plugins.jpg"
@@ -21,7 +22,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Xfer Serum | ~$189 | Wavetable bass, EDM, versatility | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
+| Xfer Serum | $249 | Wavetable bass, EDM, versatility | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
 | u-he Diva | ~$179 | Analog warmth, vintage bass tones | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
 | Arturia Pigments | $199 ($99 on sale) | Hybrid synthesis, modern bass textures | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
 | SubLab XL | ~$79 | 808s, sub bass, trap and hip-hop | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
@@ -122,7 +123,7 @@ FM bass programming from scratch has a steep learning curve, but with an importe
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/5kdXo6rXL74" title="Xfer Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records (Steve Duda)
-- **Price:** ~$189 (also available via Splice subscription)
+- **Price:** $249 (also available via Splice subscription)
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
@@ -220,7 +221,7 @@ Phase Plant is a modular synth with a deep modulation system. The learning curve
 | Vital | Free / $25+ | Spectral wavetable | Animated UI, free full engine, preset library | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
 | TAL-Bassline-101 | Free | Analog/TB-303 style | SH-101 architecture, acid resonance, minimal interface | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
 | Dexed | Free | FM / DX7 emulation | DX7 sysex compatible, punchy attack, large patch library | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
-| Xfer Serum | ~$189 | Wavetable | Custom wavetable editor, visual modulation, wide third-party preset support | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
+| Xfer Serum | $249 | Wavetable | Custom wavetable editor, visual modulation, wide third-party preset support | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
 | u-he Diva | ~$179 | Circuit simulation | Multi-filter vintage models, analog non-linearity, CPU-intensive | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
 | Arturia Pigments | $199 ($99 on sale) | Hybrid multi-engine | 6 synthesis types, built-in sequencer, strong value at sale price | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
 | SubLab XL | ~$79 | Dedicated bass/808 | X-Sub technology, sample import layer, pitch slide, fast workflow | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |

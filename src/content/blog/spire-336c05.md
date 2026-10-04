@@ -71,7 +71,7 @@ A 60% discount on Spire is a significant markdown — this synth typically holds
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Serum (Xfer Records) | ~$189 | Wavetable-focused; stronger for modern bass music and sound design |
+| Serum (Xfer Records) | $249 | Wavetable-focused; stronger for modern bass music and sound design |
 | Sylenth1 (LennarDigital) | ~$189 | Classic analog-style VA synth; long-standing trance community favorite |
 | Vital (Matt Tytel) | Free–$80 | Wavetable synth with a modern UI; free tier available |
 

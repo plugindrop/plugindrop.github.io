@@ -78,7 +78,7 @@ If you're comparing before committing, here are common benchmarks in this catego
 
 | Name | Price Range | Key Difference |
 |---|---|---|
-| Serum (Xfer Records) | ~$189 | Industry-standard wavetable; massive preset ecosystem |
+| Serum (Xfer Records) | $249 | Industry-standard wavetable; massive preset ecosystem |
 | Vital | Free–$80 | Spectral wavetable engine; free tier available |
 | Pigments (Arturia) | ~$99–$199 | Multi-engine hybrid; strong modulation matrix |
 

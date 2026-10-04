@@ -69,7 +69,7 @@ At 85% off, this is a steep discount. Deals of this magnitude — pushing a plug
 | Name | Price | Key Difference |
 |---|---|---|
 | Spitfire Audio LABS Soft Piano | Free | Clean, intimate grand piano — less lo-fi character |
-| Xfer Serum (keys patches) | ~$189 | Synthesis-based; requires more sound design work to reach lo-fi textures |
+| Xfer Serum (keys patches) | $249 | Synthesis-based; requires more sound design work to reach lo-fi textures |
 | PastToFutureReverbs Lo-Fi Keys | Varies | Sample-based lo-fi keys with heavy reverb processing built in |
 
 If free is the priority and clean tone is acceptable, Spitfire LABS covers basic keys needs at no cost. If you specifically want pre-baked lo-fi character without building it from scratch, a dedicated tool like Cheap Keys is designed for that workflow from the ground up.

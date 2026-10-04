@@ -2,6 +2,7 @@
 title: "10 Best Stereo Widener & Imager Plugins in 2026 — Ranked"
 description: "Best stereo widener VST plugins in 2026 — free and paid, ranked. Wider (Polyverse), Ozone Imager, Nugen Stereoizer: which keeps mono compatibility and how to widen without phase issues."
 pubDate: "2026-05-16T18:10:19Z"
+updatedDate: "2026-10-04T10:10:20Z"
 tags: ["guide", "vst", "effects"]
 affiliate: ""
 heroImage: "/images/best-stereo-widener-plugins.jpg"
