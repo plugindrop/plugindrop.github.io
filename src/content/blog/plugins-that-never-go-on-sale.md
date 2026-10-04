@@ -29,7 +29,7 @@ priceTrack:
 | Klanghelm MJUC | ~$26 | No sales documented | Buy anytime |
 | Klanghelm DC8C mkII | ~$25 | No sales documented | Buy anytime |
 | Celemony Melodyne 5 Studio | $699 | No time-limited sales | Buy anytime |
-| FabFilter (Pro-Q 4 and the whole line) | $199 (varies by plugin) | Only Black Friday — 25% off, once a year | Wait only if BF is close; otherwise buy now |
+| FabFilter Pro-Q 4 | $199 | $105 tracked at Gear4Music in Nov 2025; no verified recurring schedule | Compare current prices |
 | Native Instruments Kontakt 8 | $299 | No confirmed sale calendar for the full license | Buy anytime |
 | DMG Audio EQuilibrium / Limitless | $230 / $200 | No sales, direct-sale only | Buy anytime |
 | Wavesfactory Cassette | $59 | No sale found in tracked history | Buy anytime |
@@ -69,7 +69,7 @@ Melodyne isn't sold on Plugin Boutique; Celemony runs its own web shop, currentl
 
 ### FabFilter — the whole line, one sale a year
 
-FabFilter Pro-Q 4, Pro-L 2, Pro-R 2, Pro-DS, Pro-MB, Pro-G, Saturn 2, Volcano 3, Timeless 3, and Twin 3 all follow the same documented pattern: roughly 25% off at Black Friday, and full price every other day of the year. That's a real discount worth timing your purchase around — [see the Pro-Q 4 price history](/plugin-prices/fabfilter-pro-q-4/) — but outside that one window, there's no point holding out. If you need a FabFilter plugin in March, buy it in March.
+FabFilter Pro-Q 4 lists at $199. [Its price history](/plugin-prices/fabfilter-pro-q-4/) records one $105 Gear4Music sale around Black Friday 2025; this third-party price does not establish a recurring FabFilter store sale or typical discount.
 
 ### Native Instruments Kontakt 8 — $299, no confirmed public sale
 

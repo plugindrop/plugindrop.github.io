@@ -1,6 +1,6 @@
 ---
 title: "Cheapest Way to Get FabFilter Pro-Q 4 in 2026"
-description: "How to get FabFilter Pro-Q 4 at the lowest verified price — standalone typical sale, all-time low, and bundle routes, based on our own price-tracker history."
+description: "How to get FabFilter Pro-Q 4 at the lowest verified price — standalone tracked low and bundle routes, based on our own price-tracker history."
 pubDate: "2026-07-15T00:42:49Z"
 tags: ["guide", "prices", "data"]
 affiliate: ""
@@ -15,8 +15,7 @@ We track FabFilter Pro-Q 4's price history directly, so this is what buying it h
 | Route | Price | Notes |
 |-------|-------|-------|
 | Full price | $199 | Rarely the best route |
-| Typical sale (recurring) | $149 | Achievable on a normal sale cycle |
-| All-time low (rare) | $105 | Lowest price we have ever recorded |
+| Lowest tracked sale | $105 | Gear4Music, Black Friday Nov 2025; third-party retailer |
 
 [Check the current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=cheapest-way-to-get-fabfilter-pro-q-4).
 
@@ -24,7 +23,7 @@ We could not confirm with confidence which bundles currently include FabFilter P
 
 ## Data source
 
-All prices are from our own automated price-tracker checks. Last confirmed check: 2026-07-14. Full live pricing: [Plugin Price Tracker](/plugin-prices/).
+The $105 sale is a recorded third-party retailer price; we have no verified recurring sale schedule or typical discount. Last confirmed check: 2026-07-14. Full live pricing: [Plugin Price Tracker](/plugin-prices/).
 
 ---
 

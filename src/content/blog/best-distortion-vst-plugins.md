@@ -370,3 +370,16 @@ The short version: free tools and Klanghelm's paid tier have no real "wait for i
 
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
 <!-- pd:method:end -->
+
+<!-- pd:price-records:start -->
+## PluginDrop price records for the products in this list
+
+| Product | Typical regular | Typical sale | Sales recorded | Latest sale period | Today's price position |
+| --- | ---: | ---: | ---: | --- | --- |
+| Black Box Analog Design HG-2 | $125 | $30 | 3 | 2026-09-16 to 2026-09-25 | At or below typical sale |
+| [FabFilter Saturn 2](/plugin-prices/fabfilter-saturn-2/) | $179 | $134 | 4 | 2026-07-11 to 2026-09-28 | Between typical sale and regular |
+| Soundtoys 5.5 | $659 | $299 | 2 | 2026-08-10 to 2026-09-28 | Between typical sale and regular |
+| Soundtoys Decapitator | $199 | $69 | 2 | 2026-07-22 to 2026-08-05 | At or above typical regular |
+
+Prices reflect recorded checks, not every day of a sale.
+<!-- pd:price-records:end -->

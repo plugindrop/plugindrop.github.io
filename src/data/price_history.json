@@ -25837,16 +25837,10 @@
     "FabFilter Pro-Q 4": {
       "pb_url": "/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4",
       "typical_regular": 199,
-      "typical_sale": 149,
+      "typical_sale": 105,
       "all_time_low": 105,
-      "notes": "FabFilter discounts 25% once/year at Black Friday only. ATL $105.25 at Gear4Music (BF Nov 2025). PB BF 2024/2025: 25% off = $149.",
+      "notes": "Regular $199 (FabFilter). Lowest tracked sale $105.25 at Gear4Music (Black Friday Nov 2025, third-party retailer).",
       "history": [
-        {
-          "date": "2024-11-22",
-          "regular": 199,
-          "sale": 149,
-          "source": "research_bf2024"
-        },
         {
           "date": "2024-12-12",
           "regular": 179.0,

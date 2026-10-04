@@ -99,10 +99,10 @@ A: Yes. Plugin Boutique lists it at $39 (regular $199, 80% off) until November 1
 ## PluginDrop price record for Empirical Labs EL8 Distressor Compressor
 
 Typical regular: $199. Typical sale: $39.
-We recorded 2 sale periods. Most recent observed price: $29 on 2026-09-27. At or below typical sale.
+We recorded 2 sale periods. Most recent observed price: $39 on 2026-10-04. At or below typical sale.
 
 Recorded sale periods:
-- 2026-09-01 to 2026-09-27
+- 2026-09-01 to 2026-10-04
 - 2026-07-12 to 2026-08-03
 
 These are observed checks; dates between checks may be missing.

@@ -362,3 +362,16 @@ A: It depends heavily on the developer. Waves discounts near-continuously, Sound
 
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
 <!-- pd:method:end -->
+
+<!-- pd:price-records:start -->
+## PluginDrop price records for the products in this list
+
+| Product | Typical regular | Typical sale | Sales recorded | Latest sale period | Today's price position |
+| --- | ---: | ---: | ---: | --- | --- |
+| [FabFilter Saturn 2](/plugin-prices/fabfilter-saturn-2/) | $179 | $134 | 4 | 2026-07-11 to 2026-09-28 | Between typical sale and regular |
+| Soundtoys 5.5 | $659 | $299 | 2 | 2026-08-10 to 2026-09-28 | Between typical sale and regular |
+| Soundtoys Decapitator | $199 | $69 | 2 | 2026-07-22 to 2026-08-05 | At or above typical regular |
+| XLN Audio RC-20 Retro Color | $99 | $44 | 2 | 2026-08-23 to 2026-09-10 | At or above typical regular |
+
+Prices reflect recorded checks, not every day of a sale.
+<!-- pd:price-records:end -->

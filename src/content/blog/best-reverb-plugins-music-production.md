@@ -350,3 +350,14 @@ Valhalla VintageVerb is our pick for a single purchase in this list — 18 rever
 
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
 <!-- pd:method:end -->
+
+<!-- pd:price-records:start -->
+## PluginDrop price records for the products in this list
+
+| Product | Typical regular | Typical sale | Sales recorded | Latest sale period | Today's price position |
+| --- | ---: | ---: | ---: | --- | --- |
+| [Eventide Blackhole](/plugin-prices/eventide-blackhole/) | $99 | $39 | 2 | 2026-08-28 to 2026-09-07 | At or above typical regular |
+| FabFilter Pro-R 2 | $169 | $127 | 3 | 2025-11-15 | At or above typical regular |
+
+Prices reflect recorded checks, not every day of a sale.
+<!-- pd:price-records:end -->

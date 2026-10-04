@@ -480,3 +480,16 @@ You can build a fully capable synth arsenal for $0 using Vital and Surge XT alon
 
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
 <!-- pd:method:end -->
+
+<!-- pd:price-records:start -->
+## PluginDrop price records for the products in this list
+
+| Product | Typical regular | Typical sale | Sales recorded | Latest sale period | Today's price position |
+| --- | ---: | ---: | ---: | --- | --- |
+| Kilohearts Phase Plant | $199 | $119 | 2 | 2026-02-01 | At or above typical regular |
+| [Reveal Sound Spire](/plugin-prices/reveal-sound-spire/) | $189 | $76 | 3 | 2026-09-26 to 2026-10-01 | At or below typical sale |
+| u-he Diva | $179 | $89 | 3 | 2026-08-16 to 2026-09-01 | At or above typical regular |
+| u-he Hive 2 | $149 | $104 | 3 | 2026-08-16 to 2026-09-01 | At or above typical regular |
+
+Prices reflect recorded checks, not every day of a sale.
+<!-- pd:price-records:end -->

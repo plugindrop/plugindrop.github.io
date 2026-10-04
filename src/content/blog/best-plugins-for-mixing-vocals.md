@@ -354,3 +354,16 @@ If you're choosing one starting point, Nectar 4 gives you the fastest path from 
 
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
 <!-- pd:method:end -->
+
+<!-- pd:price-records:start -->
+## PluginDrop price records for the products in this list
+
+| Product | Typical regular | Typical sale | Sales recorded | Latest sale period | Today's price position |
+| --- | ---: | ---: | ---: | --- | --- |
+| FabFilter Pro-L 2 | $179 | $134 | 2 | 2024-11-22 | At or above typical regular |
+| Soundtoys 5.5 | $659 | $299 | 2 | 2026-08-10 to 2026-09-28 | Between typical sale and regular |
+| Soundtoys Decapitator | $199 | $69 | 2 | 2026-07-22 to 2026-08-05 | At or above typical regular |
+| [Waves CLA-2A](/plugin-prices/waves-cla-2a/) | $149 | $29.99 | 4 | 2026-08-28 to 2026-09-25 | At or above typical regular |
+
+Prices reflect recorded checks, not every day of a sale.
+<!-- pd:price-records:end -->

@@ -11,7 +11,7 @@ evergreen: true
 draft: false
 ---
 
-**TL;DR:** Plugin Black Friday runs the entire month of November. FabFilter drops exactly 25% every year without fail. Arturia and u-he go 50% off in good years. NI calls theirs "Cyber Season" and starts November 1. Spitfire adds 20% extra for email subscribers. Valhalla and Serum show no recorded sales in our tracking. This guide covers what to expect, what the actual prices were in 2023–2024, and how to avoid buying something that will be cheaper in three weeks.
+**TL;DR:** Plugin Black Friday runs the entire month of November. Our Pro-Q 4 record shows one $105 retailer sale in November 2025; no recurring Pro-Q 4 discount is verified. Arturia and u-he go 50% off in good years. NI calls theirs "Cyber Season" and starts November 1. Spitfire adds 20% extra for email subscribers. Valhalla and Serum show no recorded sales in our tracking. This guide covers what to expect, what the actual prices were in 2023–2024, and how to avoid buying something that will be cheaper in three weeks.
 
 ## The Plugin Sale Calendar
 
@@ -32,19 +32,19 @@ The practical takeaway: if you see a deal on November 5th, don't buy — almost 
 
 ## Brand-by-Brand Breakdown
 
-### FabFilter — 25% Off, Every Year Since 2019
+### FabFilter ? Tracked Black Friday Prices
 
-FabFilter is the most predictable Black Friday deal in the industry. Exactly **25% off every product** for 10+ days around Black Friday, running unbroken since at least 2019.
+The Pro-Q 4 history contains one verified sale, at Gear4Music in November 2025. We cannot establish a recurring Pro-Q 4 sale schedule from it.
 
 **Historical dates:**
 - BF 2024: Nov 18 – Dec 2 (15 days)
 - BF 2023: Nov 20 – Dec 4 (15 days)
 
-**Actual prices at 25% off:**
+**Recorded prices (retailers may differ):**
 
 | Plugin | Regular | BF Price | Tracker |
 |---|---|---|---|
-| Pro-Q 4 | $199 | $149 | [History](/plugin-prices/fabfilter-pro-q-4) |
+| Pro-Q 4 | $199 | $105 tracked at Gear4Music (Nov 2025); no verified typical discount | [History](/plugin-prices/fabfilter-pro-q-4) |
 | Pro-L 2 | $179 (now $199) | $134 | [History](/plugin-prices/fabfilter-pro-l-2) |
 | Pro-MB | $179 | $134 | [History](/plugin-prices/fabfilter-pro-mb) |
 | Saturn 2 | $179 | $134 | [History](/plugin-prices/fabfilter-saturn-2) |
@@ -53,7 +53,7 @@ FabFilter is the most predictable Black Friday deal in the industry. Exactly **2
 
 **Strategy:** FabFilter products are sold directly and through Plugin Boutique at identical prices. The discount applies automatically during the sale window — no code needed. If you want multiple FabFilter plugins, wait for this window and grab them together.
 
-**Verdict: 4/5 — reliable but not deep.** 25% is meaningful but not life-changing. If you're deciding between FabFilter and a competitor, November is the time to buy. If price is your primary driver, look at u-he in a good year.
+**Verdict:** Compare current prices. The Pro-Q 4 record has one $105 Gear4Music sale in November 2025; it does not establish a typical discount.
 
 ---
 
@@ -212,7 +212,7 @@ Set a "Notify me" alert on any of these pages and we'll send an email the moment
 ## FAQ
 
 **Should I buy now or wait for Black Friday?**
-If it's October or early November and you don't need it immediately, wait. Most deals start by November 15. For FabFilter specifically, buying at any other time of year means paying full price when 25% off is coming in a few weeks.
+If it's October or early November and you don't need it immediately, wait. Most deals start by November 15. For Pro-Q 4, we cannot predict another discount from the single tracked Gear4Music sale.
 
 **Do these deals apply to Plugin Boutique?**
 Yes. Most plugin brand BF sales are reflected on Plugin Boutique at the same price. The advantage of buying through PB is earning loyalty points on each purchase, which compounds if you buy several things during the sale window.

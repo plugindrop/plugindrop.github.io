@@ -385,6 +385,18 @@ A: Cherry Audio Memorymode 2 at ~$69 (as of 2026-10-01). It's the polyphonic Mem
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
 <!-- pd:method:end -->
 
+<!-- pd:price-records:start -->
+## PluginDrop price records for the products in this list
+
+| Product | Typical regular | Typical sale | Sales recorded | Latest sale period | Today's price position |
+| --- | ---: | ---: | ---: | --- | --- |
+| Arturia Jup-8 V | $149 | $89 | 2 | 2026-07-22 to 2026-08-17 | At or above typical regular |
+| u-he Diva | $179 | $89 | 3 | 2026-08-16 to 2026-09-01 | At or above typical regular |
+| [u-he Repro](/plugin-prices/u-he-repro/) | $149 | $99 | 3 | 2026-08-15 to 2026-08-31 | At or above typical regular |
+
+Prices reflect recorded checks, not every day of a sale.
+<!-- pd:price-records:end -->
+
 ## Final Thoughts
 
 For most producers, the free tier — OB-Xd, Dexed, and Surge XT — covers enough vintage ground to make serious music without spending anything. When you're ready to invest, u-he Diva is the defensible top pick for producers who need circuit-level accuracy, and Arturia V Collection 11 is the most efficient path to a full vintage keyboard library in one purchase.

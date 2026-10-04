@@ -331,3 +331,14 @@ A: Black Friday (late November) is the single best window across nearly every de
 
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
 <!-- pd:method:end -->
+
+<!-- pd:price-records:start -->
+## PluginDrop price records for the products in this list
+
+| Product | Typical regular | Typical sale | Sales recorded | Latest sale period | Today's price position |
+| --- | ---: | ---: | ---: | --- | --- |
+| [Eventide MicroPitch](/plugin-prices/eventide-micropitch/) | Not recorded | $49 | 2 | 2026-08-27 to 2026-09-06 | At or below typical sale |
+| [Waves Platinum Bundle](/plugin-prices/waves-platinum-bundle/) | $1,999 | $99 | 4 | 2026-09-12 to 2026-09-27 | At or above typical regular |
+
+Prices reflect recorded checks, not every day of a sale.
+<!-- pd:price-records:end -->

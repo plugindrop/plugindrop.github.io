@@ -136,10 +136,10 @@ This article brings together publicly available product information. We have not
 ## PluginDrop price record for Reveal Sound Spire
 
 Typical regular: $189. Typical sale: $76.
-We recorded 3 sale periods. Most recent observed price: $76 on 2026-09-26. At or below typical sale.
+We recorded 3 sale periods. Most recent observed price: $76 on 2026-10-01. At or below typical sale.
 
 Recorded sale periods:
-- 2026-09-26
+- 2026-09-26 to 2026-10-01
 - 2026-08-17 to 2026-08-31
 - 2026-07-11 to 2026-08-01
 

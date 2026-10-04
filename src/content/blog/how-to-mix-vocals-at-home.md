@@ -133,7 +133,7 @@ This chain produces professional results when used correctly. Start here.
 
 **Wait for a sale:**
 - iZotope Nectar 4 is typically discounted during Black Friday, iZotope anniversary sales (typically May), and Plugin Boutique promotions. The full-price $199 is hard to justify when it is regularly discounted
-- FabFilter Pro-Q 4 rarely discounts more than 20–25%, but that still brings it under $145 — worth waiting for if you're not in a rush
+- FabFilter Pro-Q 4 lists at $199; our lowest tracked sale was $105 at Gear4Music in November 2025. We have no verified recurring discount.
 
 **Don't buy:**
 - Antares Auto-Tune at full price — check for promotions if you need it

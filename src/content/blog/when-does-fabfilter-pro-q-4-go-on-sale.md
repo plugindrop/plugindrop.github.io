@@ -1,7 +1,7 @@
 ---
 noindex: true
-title: "When Does FabFilter Pro-Q 4 Go On Sale? (Updated 2026)"
-description: "FabFilter Pro-Q 4 goes on sale twice a year (Summer, Black Friday) at 25% off (~$149). Black Friday 2025 lowest ever: ~$104 at Plugin Boutique. Regular price: $199."
+title: "FabFilter Pro-Q 4 Sale History: What We Have Tracked"
+description: "FabFilter Pro-Q 4 is $199 at FabFilter. PluginDrop tracked a $105 sale at Gear4Music around Black Friday 2025; no recurring schedule or typical discount is verified."
 pubDate: "2026-06-29"
 evergreen: true
 tags:
@@ -17,30 +17,22 @@ relatedPosts:
 heroImage: '/images/when-does-fabfilter-pro-q-4-go-on-sale.jpg'
 ---
 
-**Short answer:** FabFilter Pro-Q 4 goes on sale **twice a year** (Summer and Black Friday). The typical discount is **25% off**, bringing the $199 regular price down to around **$149** — though Black Friday 2025 saw a deeper discount, around 48% off to ~$104.
+**Short answer:** FabFilter lists Pro-Q 4 at **$199**. The lowest price PluginDrop has tracked is **$105** at Gear4Music around Black Friday 2025. Gear4Music is a third-party retailer, not FabFilter?s own store. We do not have a verified recurring sale schedule or typical discount.
 
 ## Price Context (tracked by PluginDrop)
-- Tracked since 2024-11-22 (34 observations)
-- Lowest we've tracked: $105 · Typical sale: $149 · Regular: $199
-- Verdict: **WAIT** — the available history does not include enough comparable price data to support a buy-now verdict.
-- Latest observed sale: $105 on 2025-11-22
-- Typical observed discount: 25%
+- Regular price: $199 (FabFilter)
+- Lowest tracked sale: $105 at Gear4Music on 2025-11-22
+- No verified recurring sale schedule or typical discount
 
 ## Historical Sale Data
 
-| When | Discount | Approx. Price | Source |
-|------|----------|---------------|--------|
-| Black Friday 2025 (November) | ~48% off | ~$104 | Plugin Boutique (confirmed via Perplexity/YouTube) |
-| Summer 2025 (June) | 25% off | ~$149 | FabFilter Official / Plugin Boutique |
-| Black Friday 2024 (November) | 25% off | ~$149 | FabFilter Official / Plugin Boutique |
-| Summer 2024 (June) | 25% off | ~$149 | FabFilter Official / Plugin Boutique |
-| Gear4music (GBP exchange) | ~47% off | ~$105 | Gear4music (GBP favourable rate, Black Friday 2024) |
-
-**Lowest price ever recorded:** ~$104 (Plugin Boutique (Black Friday 2025, confirmed stacked promo))
+| When | Tracked price | Source |
+|------|---------------|--------|
+| Black Friday 2025 (November) | $105 | Gear4Music (third-party retailer) |
 
 **[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=when-does-fabfilter-pro-q-4-go-on-sale)**
 
-Plugin Boutique often matches official sale prices and gives you Virtual Cash back (typically 5%) on every purchase, redeemable on future orders.
+Compare the current FabFilter and retailer prices before buying.
 
 
 ## Free Alternatives If You Can't Wait
@@ -51,4 +43,4 @@ Plugin Boutique often matches official sale prices and gives you Virtual Cash ba
 
 ---
 
-*Last updated: 2026-06. Data compiled from public sale listings and prices tracked by PluginDrop. Prices vary by region and may differ at time of purchase.*
+*Last updated: 2026-10. Data compiled from public sale listings and prices tracked by PluginDrop. Prices vary by region and may differ at time of purchase.*

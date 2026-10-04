@@ -44,7 +44,7 @@ Live prices for every plugin below at [our plugin price tracker](/plugin-prices/
 
 ### FabFilter — yes, actually wait
 
-This is the one brand where "wait for Black Friday" is unambiguously correct. Every FabFilter plugin we track — Pro-Q 4, Pro-L 2, Pro-R 2, Pro-DS, Pro-MB, Pro-G, Saturn 2, Volcano 3, Timeless 3, Twin 3 — shows the identical pattern: full price 364 days a year, roughly 25% off on Black Friday, and nothing in between. [Pro-Q 4's tracked history](/plugin-prices/fabfilter-pro-q-4/) shows exactly that: $199 regular, $149 at BF 2024, and as low as $105.25 at a reseller during BF 2025. If you can hold out until late November, hold out. If you can't, the full-price purchase isn't a mistake — it's just the only option outside that one window.
+FabFilter Pro-Q 4 lists at $199 on FabFilter?s site. [Our tracked history](/plugin-prices/fabfilter-pro-q-4/) includes a $105 sale at Gear4Music, a third-party retailer, around Black Friday 2025. It does not establish a recurring Pro-Q 4 sale schedule or typical discount. Compare current retailer prices before deciding whether to wait.
 
 ### Waves — no, and it isn't close
 

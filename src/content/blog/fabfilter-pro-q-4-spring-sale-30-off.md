@@ -46,10 +46,10 @@ Pro-Q has been a staple recommendation on mixing forums for years. The dynamic E
 
 | | Regular Price | Sale Price | You Save |
 |---|---|---|---|
-| Pro-Q 4 | | **$132** | **$57 (30%)** |
+| Pro-Q 4 | **$199** | Check current retailer price | No verified recurring discount |
 | FabFilter Total Bundle | | **~$699** | **~$300 (30%)** |
 
-**Price context:** FabFilter runs 25-30% sales roughly 3 times per year — typically spring, summer, and Black Friday. They have not offered discounts deeper than 30% in recent years. This $132 price point is consistent with their historical best. If you're waiting for a bigger discount, the data suggests this is as low as it goes.
+**Price context:** Pro-Q 4 lists at $199 at FabFilter. The lowest PluginDrop has tracked was $105 at Gear4Music around Black Friday 2025; we have no verified recurring sale schedule or typical discount.
 
 Verify current pricing on the product page — deals can change.
 
@@ -59,7 +59,7 @@ Verify current pricing on the product page — deals can change.
 
 | EQ Plugin | Price | Key Difference |
 |---|---|---|
-| **FabFilter Pro-Q 4** | **$132** (on sale) | 24 dynamic bands, spectrum grab, surround |
+| **FabFilter Pro-Q 4** | **$199** (FabFilter list price; check retailer) | 24 dynamic bands, spectrum grab, surround |
 | TDR Nova | Free | 4 dynamic EQ bands, no visual spectrum interaction |
 | iZotope Ozone EQ | from ~$55 (in Ozone suite) | Bundled with mastering chain, not sold standalone |
 | Stock DAW EQ | Included | Varies by DAW — most lack per-band dynamic EQ |
@@ -75,13 +75,13 @@ A: Pro-Q 4 adds surround support and workflow refinements. FabFilter's site has 
 A: Yes. FabFilter offers a 30-day fully functional trial on their official site.
 
 **Q: Will it go cheaper on Black Friday?**
-A: Based on past years, FabFilter's Black Friday discount has been the same 25-30%. This price is consistent with their seasonal best.
+A: We have no verified recurring Pro-Q 4 Black Friday discount. Check current retailer prices.
 
 **Q: What are the system requirements?**
 A: Check the official FabFilter site for the latest supported formats and OS requirements.
 
 ## Where to Buy
 
- FabFilter doesn't go deeper than 30%, so this is their standard best price.
+ Our tracked low is $105 at Gear4Music in November 2025; future discounts are unknown.
 
 [Check the current price at Plugin Boutique.](https://pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-q-4-spring-sale-30-off&chan=art&data1=fabfilter-pro-q-4-spring-sale-30-off)

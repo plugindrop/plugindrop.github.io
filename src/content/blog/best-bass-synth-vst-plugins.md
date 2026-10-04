@@ -290,7 +290,7 @@ This list brings together publicly available feature information and prices trac
 | --- | ---: | ---: | ---: | --- | --- |
 | Arturia Pigments | $199 | $99 | 2 | 2026-07-21 to 2026-08-15 | At or above typical regular |
 | Kilohearts Phase Plant | $199 | $119 | 2 | 2026-02-01 | At or above typical regular |
-| [SubLab XL](/plugin-prices/sublab-xl/) | $80 | $39 | 2 | 2026-08-05 to 2026-09-25 | At or below typical sale |
+| [SubLab XL](/plugin-prices/sublab-xl/) | $80 | $39 | 2 | 2026-08-05 to 2026-10-04 | At or below typical sale |
 | u-he Diva | $179 | $89 | 3 | 2026-08-16 to 2026-09-01 | At or above typical regular |
 
 Prices reflect recorded checks, not every day of a sale.

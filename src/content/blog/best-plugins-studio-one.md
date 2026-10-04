@@ -351,3 +351,14 @@ FabFilter Pro-Q 4 is the clearest first purchase for any Studio One producer who
 
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
 <!-- pd:method:end -->
+
+<!-- pd:price-records:start -->
+## PluginDrop price records for the products in this list
+
+| Product | Typical regular | Typical sale | Sales recorded | Latest sale period | Today's price position |
+| --- | ---: | ---: | ---: | --- | --- |
+| FabFilter Total Bundle | $1,176 | $882 | 3 | 2026-07-12 to 2026-09-28 | Between typical sale and regular |
+| Soundtoys 5.5 | $659 | $299 | 2 | 2026-08-10 to 2026-09-28 | Between typical sale and regular |
+
+Prices reflect recorded checks, not every day of a sale.
+<!-- pd:price-records:end -->

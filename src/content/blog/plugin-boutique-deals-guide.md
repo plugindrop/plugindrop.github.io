@@ -27,7 +27,7 @@ Major sales happen on a predictable schedule:
 - **Black Friday / Cyber Monday (November)** — The biggest discounts of the year. Many plugins hit their lowest-ever prices. Developers like FabFilter, Arturia, Soundtoys, and iZotope typically participate.
 - **Summer Sale (June-July)** — Second-largest sale event. Discounts range from 20-60% across major brands.
 - **New Year Sale (January)** — Post-holiday deals, often clearing out end-of-year promotions.
-- **Spring Sale (March-April)** — Moderate discounts, often 20-40%. Current sales include deals like [FabFilter Pro-Q 4 at 30% off](/posts/fabfilter-pro-q-4-spring-sale-30-off/) and [Arturia V Collection at 50% off](/posts/arturia-v-collection-10-sale-50-off/).
+- **Spring Sale (March-April)** — Moderate discounts, often 20-40%. Past promotions include [Arturia V Collection at 50% off](/posts/arturia-v-collection-10-sale-50-off/).
 
 ### Developer-Specific Sales
 

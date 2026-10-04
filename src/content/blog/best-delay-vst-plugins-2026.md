@@ -390,3 +390,15 @@ A: It depends on the developer. Waves and SoundToys discount frequently enough t
 
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
 <!-- pd:method:end -->
+
+<!-- pd:price-records:start -->
+## PluginDrop price records for the products in this list
+
+| Product | Typical regular | Typical sale | Sales recorded | Latest sale period | Today's price position |
+| --- | ---: | ---: | ---: | --- | --- |
+| [FabFilter Timeless 3](/plugin-prices/fabfilter-timeless-3/) | $169 | $127 | 4 | 2026-07-11 to 2026-09-28 | Between typical sale and regular |
+| Kilohearts Phase Plant | $199 | $119 | 2 | 2026-02-01 | At or above typical regular |
+| u-he Colour Copy | $79 | Not recorded | 2 | 2024-11-28 | No current price recorded |
+
+Prices reflect recorded checks, not every day of a sale.
+<!-- pd:price-records:end -->

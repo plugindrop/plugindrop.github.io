@@ -435,3 +435,16 @@ Vital and Valhalla Supermassive solve the two most critical production gaps (syn
 
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
 <!-- pd:method:end -->
+
+<!-- pd:price-records:start -->
+## PluginDrop price records for the products in this list
+
+| Product | Typical regular | Typical sale | Sales recorded | Latest sale period | Today's price position |
+| --- | ---: | ---: | ---: | --- | --- |
+| Arturia Pigments | $199 | $99 | 2 | 2026-07-21 to 2026-08-15 | At or above typical regular |
+| [Baby Audio Super VHS](/plugin-prices/baby-audio-super-vhs/) | $69 | $34 | 2 | 2026-08-01 to 2026-08-29 | At or above typical regular |
+| Kilohearts Phase Plant | $199 | $119 | 2 | 2026-02-01 | At or above typical regular |
+| Soundtoys 5.5 | $659 | $299 | 2 | 2026-08-10 to 2026-09-28 | Between typical sale and regular |
+
+Prices reflect recorded checks, not every day of a sale.
+<!-- pd:price-records:end -->
