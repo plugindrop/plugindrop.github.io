@@ -225,14 +225,15 @@ export const alertTarget = (f) => f.sales.length ? lowOf(f.sales) : null;
 // A "Rarely discounts" verdict is a claim about discount frequency. It needs a
 // real observation history; a handful of days of checks cannot support it.
 export const MIN_CHECKS_FOR_DISCOUNT_FREQUENCY = 4;
+export const MIN_CHECKS_FOR_NO_SALE_CLAIM = 3;
 export const MIN_DAYS_FOR_DISCOUNT_FREQUENCY = 28;
 const NOT_ENOUGH_HISTORY = { label: 'Not enough price history yet', cls: 'ds-unknown' };
 
 export function guardDiscountFrequency(verdict, checks, salesRecorded = 0, typicalSale = null) {
   if (verdict?.label !== 'Rarely discounts') return verdict;
   const dates = [...new Set((checks ?? []).map((row) => row.date))].sort();
-  if (salesRecorded === 0 && typicalSale === null) return dates.length
-    ? { label: `No sale seen in ${dates.length} checks since ${dates[0]}`, cls: 'ds-unknown' }
+  if (salesRecorded === 0 && typicalSale === null) return dates.length >= MIN_CHECKS_FOR_NO_SALE_CLAIM
+    ? { label: `No sale seen in ${dates.length} ${dates.length === 1 ? 'check' : 'checks'} since ${dates[0]}`, cls: 'ds-unknown' }
     : NOT_ENOUGH_HISTORY;
   const span = dates.length > 1 ? days(dates[0], dates.at(-1)) : 0;
   return salesRecorded > 0 && dates.length >= MIN_CHECKS_FOR_DISCOUNT_FREQUENCY && span >= MIN_DAYS_FOR_DISCOUNT_FREQUENCY ? verdict : NOT_ENOUGH_HISTORY;

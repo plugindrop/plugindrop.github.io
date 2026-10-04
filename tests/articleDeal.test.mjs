@@ -14,6 +14,8 @@ import {
   ctaShortLabel,
   hasTrustedExpiry,
   isArticleSaleExpired,
+  isArticleSaleLapsed,
+  isArticleDealPastWindow,
 } from '../src/lib/articleDeal.mjs';
 
 const NOW = new Date('2026-09-25T00:00:00Z').getTime();
@@ -462,8 +464,27 @@ test('article expiry respects end of UTC day, fallback and evergreen dates', () 
   const deal = { saleExpiry: '2026-09-30', pubDate: '2026-09-01', dealPrice: '$49' };
   assert.equal(isArticleSaleExpired(deal, Date.parse('2026-09-30T23:59:59Z')), false);
   assert.equal(isArticleSaleExpired(deal, Date.parse('2026-10-01T00:00:00Z')), true);
-  // A fallback-estimated expiry still flips the deal to 'ended' (only the countdown hides it).
-  assert.equal(isArticleSaleExpired({ ...deal, saleExpirySource: 'fallback' }, Date.parse('2026-10-01T00:00:00Z')), true);
+  assert.equal(isArticleSaleExpired({ ...deal, saleExpirySource: 'fallback' }, Date.parse('2026-10-01T00:00:00Z')), false);
   assert.equal(isArticleSaleExpired({ ...deal, evergreen: true }, Date.parse('2026-10-01T00:00:00Z')), false);
   assert.equal(isArticleSaleExpired({ ...deal, dealPrice: 'FREE' }, Date.parse('2026-10-01T00:00:00Z')), false);
+});
+
+
+test('trusted, estimated and guarded sale windows stay distinct', () => {
+  const now = Date.parse('2026-10-01T00:00:00Z');
+  const deal = { saleExpiry: '2026-09-30', pubDate: '2026-09-01', dealPrice: '$49' };
+  assert.deepEqual([isArticleSaleExpired(deal, now), isArticleSaleLapsed(deal, now), isArticleDealPastWindow(deal, now)], [true, false, true]);
+  const fallback = { ...deal, saleExpirySource: 'fallback' };
+  assert.deepEqual([isArticleSaleExpired(fallback, now), isArticleSaleLapsed(fallback, now), isArticleDealPastWindow(fallback, now)], [false, true, true]);
+  assert.deepEqual([isArticleSaleExpired(deal, now - 1000), isArticleSaleLapsed(deal, now - 1000), isArticleDealPastWindow(deal, now - 1000)], [false, false, false]);
+  assert.equal(isArticleSaleExpired({ ...deal, saleExpiry: '2026-09-30T00:00:00Z' }, now), true);
+  assert.equal(isArticleSaleLapsed({ ...deal, pubDate: '2026-10-01' }, now), true);
+  for (const guarded of [{ ...deal, evergreen: true }, { ...deal, dealPrice: 'FREE' }, { ...deal, dealPrice: '$0.00' }, { ...deal, saleExpiry: 'invalid' }]) {
+    assert.equal(isArticleDealPastWindow(guarded, now), false);
+  }
+});
+
+test('unverified CTAs ask for a current price', () => {
+  assert.equal(ctaLabel({ productName: 'Example', priceText: '$49', state: 'unverified' }), "Check Example's current price →");
+  assert.equal(ctaShortLabel({ priceText: '$49', state: 'unverified' }), 'Check price');
 });

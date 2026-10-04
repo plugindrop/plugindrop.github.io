@@ -289,7 +289,7 @@ export function ctaLabel({ productName, priceText, isFree, state }) {
   const subject = productName ? truncateAtWordBoundary(productName, 40) : 'it';
 
   if (isFree) return `Get ${subject} free →`;
-  if (state === 'ended') return `Check ${subject}'s current price →`;
+  if ((state === 'ended' || state === 'unverified')) return `Check ${subject}'s current price →`;
   if (priceText) return `Get ${subject} for ${priceText} →`;
   return `See ${subject} →`;
 }
@@ -297,7 +297,7 @@ export function ctaLabel({ productName, priceText, isFree, state }) {
 /** Short version for the sticky bar, which has no room for the product name. */
 export function ctaShortLabel({ priceText, isFree, state }) {
   if (isFree) return 'Get free';
-  if (state === 'ended') return 'Check price';
+  if ((state === 'ended' || state === 'unverified')) return 'Check price';
   if (priceText) return `Get for ${priceText}`;
   return 'See deal';
 }
@@ -319,9 +319,23 @@ export function hasTrustedExpiry(data) {
   return true;
 }
 
-export function isArticleSaleExpired(data, now = Date.now()) {
+function articleExpiryPast(data, now) {
   if (!data?.saleExpiry || data.evergreen) return false;
   if (data.dealPrice && /^(?:FREE|[$€£¥]?0(?:\.00)?)$/i.test(data.dealPrice.trim())) return false;
-  const expiry = Date.parse(`${data.saleExpiry}T23:59:59Z`);
-  return Number.isFinite(expiry) && expiry < now;
+  const date = typeof data.saleExpiry === 'string' ? /^(\d{4}-\d{2}-\d{2})(?=$|T| )/.exec(data.saleExpiry)?.[1] : null;
+  if (!date || !Number.isFinite(Date.parse(data.saleExpiry))) return false;
+  const expiry = Date.parse(`${date}T23:59:59Z`);
+  return Number.isFinite(expiry) && new Date(expiry).toISOString().startsWith(date) && expiry < now;
+}
+
+export function isArticleSaleExpired(data, now = Date.now()) {
+  return hasTrustedExpiry(data) && articleExpiryPast(data, now);
+}
+
+export function isArticleSaleLapsed(data, now = Date.now()) {
+  return !hasTrustedExpiry(data) && articleExpiryPast(data, now);
+}
+
+export function isArticleDealPastWindow(data, now = Date.now()) {
+  return isArticleSaleExpired(data, now) || isArticleSaleLapsed(data, now);
 }

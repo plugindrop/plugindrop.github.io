@@ -46,5 +46,13 @@
   "8dio-insolidus-choir": {
     "target": "/best/instrument/",
     "reason": "Kontakt??????????????????"
+  },
+  "8dio-lacrimosa-choir": {
+    "target": "/best/instrument/",
+    "reason": "archived 2026-09-14 (8dio AdSense triage)"
+  },
+  "8dio-silka": {
+    "target": "/best/instrument/",
+    "reason": "archived 2026-09-14 (8dio AdSense triage)"
   }
 }

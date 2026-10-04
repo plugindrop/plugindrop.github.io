@@ -35,13 +35,13 @@ These are observed numbers from our price history, not predictions for 2026. A "
 
 | Plugin | Regular price (our last check) | Past Black Friday price we recorded | Source in our price history |
 |---|---|---|---|
-| [FabFilter Pro-Q 4](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugin-boutique-black-friday-deals-2026) | $199 | $149 (Nov 2024); $105.25 at Gear4Music (Nov 2025) | Recorded Black Friday checks |
-| [FabFilter Pro-L 2](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-plugin-boutique-black-friday-deals-2026) | $179 (FabFilter now lists $199) | $134 (Nov 2023 and Nov 2024) | Recorded Black Friday checks |
+| [FabFilter Pro-Q 4](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugin-boutique-black-friday-deals-2026) | $199 | $105.25 at Gear4Music (Nov 2025) | Recorded Black Friday checks |
+| [FabFilter Pro-L 2](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-plugin-boutique-black-friday-deals-2026) | $199 (FabFilter shop, Oct 2026; our tracker recorded $179 until Sept 2026) | $134 (Nov 2023 and Nov 2024, when the list price we recorded was $179) | Recorded Black Friday checks |
 | [iZotope Ozone 12 Standard](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15507-Ozone-12-Standard?a_aid=69cb95abe1763&chan=art&data1=best-plugin-boutique-black-friday-deals-2026) | $219 | No Black Friday price recorded yet | Plugin Boutique check, Sept 2026 |
 | [Serum 2](https://xferrecords.com/products/serum-2) | $249 | None recorded | No promotions recorded in our tracking for the perpetual license |
 | [Valhalla Room](https://valhalladsp.com/shop/reverb/valhalla-room/) | $50 | None - fixed price | [Valhalla's pricing FAQ](https://valhalladsp.com/faq/pricing/) says prices are the same all year |
 
-For FabFilter, our notes record a 25% Black Friday discount in the years we tracked. We cannot say whether 2026 will repeat it.
+For Pro-L 2, our records show $134 in both Nov 2023 and Nov 2024, which is 25% off the $179 list price recorded at the time. For Pro-Q 4 we have one Black Friday record (the retailer price above, Nov 2025). We cannot say whether 2026 will repeat either.
 
 ---
 

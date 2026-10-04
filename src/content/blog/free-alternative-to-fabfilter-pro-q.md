@@ -121,7 +121,7 @@ LP10 is not a free plugin, so it is not a like-for-like free alternative. We inc
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IXWkViqU2K8" title="FabFilter Pro-Q 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
-- **Price:** $179
+- **Price:** $199
 - **Why upgrade:** The free alternatives above cover static parametric EQ and basic dynamic EQ competently, but each hits a ceiling. None of them combine dynamic EQ, per-band mid/side processing, up to 24 fully configurable bands, instance-to-instance spectrum collision detection, and a zero-latency/linear phase toggle inside a single plugin. TDR Nova's free version is the closest rival, and it still caps out at four bands without M/S control. Pro-Q 4 removes ceiling after ceiling — producers who mix at a professional level or work in genres where M/S EQ is central to the workflow report that the upgrade pays for itself quickly in time saved and mixing precision gained.
 
 [→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=free-alternative-to-fabfilter-pro-q)

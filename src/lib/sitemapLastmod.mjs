@@ -1,4 +1,4 @@
-import { isArticleSaleExpired } from './articleDeal.mjs';
+import { isArticleDealPastWindow } from './articleDeal.mjs';
 
 export function validLastmod(value, now = new Date()) {
   if (value == null || value === '') return undefined;
@@ -25,7 +25,7 @@ export function sitemapLastmod(pathname, posts, now = new Date(), { priceData, s
   if (slug) return postLastmod(posts.find((post) => post.id === slug)?.data, now);
   if (pathname === '/' || pathname === '/posts/') return latestLastmod(posts, now);
   const tag = pathname.match(/^\/tags\/([^/]+)\/$/)?.[1];
-  if (tag) return latestLastmod(posts.filter((post) => !isArticleSaleExpired(post.data, now.valueOf()) && (post.data.tags ?? []).some((value) => value.trim().toLowerCase().replace(/\s+/g, '-') === tag)), now);
+  if (tag) return latestLastmod(posts.filter((post) => !isArticleDealPastWindow(post.data, now.valueOf()) && (post.data.tags ?? []).some((value) => value.trim().toLowerCase().replace(/\s+/g, '-') === tag)), now);
   const staticName = pathname.match(/^\/(about|contact|editorial-policy|privacy-policy|how-we-track-prices)\/$/)?.[1];
   if (staticName) return validLastmod(staticDates[staticName], now);
   const priceSlug = pathname.match(/^\/plugin-prices\/([^/]+)\/$/)?.[1];

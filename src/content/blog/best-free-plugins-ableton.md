@@ -305,13 +305,13 @@ iZotope's Ozone Imager 2 gives you precise stereo width control with a Lissajous
 
 Once you've maxed out what the free tier offers, these three commercial plugins represent the most logical investments for producers working in Ableton.
 
-### Serum (Xfer Records) — The Industry-Standard Wavetable Synth
+### Serum 2 (Xfer Records) — Hybrid Wavetable Synthesizer
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TmvzdoEECe8" title="Serum — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TmvzdoEECe8" title="Serum 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Xfer Records
-- **Price:** ~$189 one-time, or rental-to-own via Splice
-- **Why upgrade:** Vital is genuinely excellent, but Serum has the deeper preset ecosystem, a more refined wavetable editor, and is the de facto standard in electronic music production. That status means a larger library of tutorials and third-party preset packs.
+- **Price:** $249 (Xfer Records, USD)
+- **Why upgrade:** Per Xfer Records, Serum 2 offers wavetable, multisample, sample, granular and spectral oscillator types and ships with over 626 presets and 288 wavetables. It is available as VST3, AU and AAX (64-bit), Xfer lists lifetime free updates, and a 15-minute demo is available, so you can compare it with Vital before buying.
 
 [Xfer Records](https://xferrecords.com/products/serum-2)
 
@@ -329,15 +329,15 @@ Once you've maxed out what the free tier offers, these three commercial plugins 
 
 ---
 
-### iZotope Neutron — AI-Assisted Channel Strip for Faster Mixing
+### iZotope Neutron 5 — Mixing Suite with AI-Powered Mix Assistant
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/uH-B1GVxg6I" title="iZotope Neutron — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/uH-B1GVxg6I" title="iZotope Neutron 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** iZotope
-- **Price:** ~$249 standard
-- **Why upgrade:** The free Ozone Imager 2 handles stereo width, but Neutron adds a complete AI-assisted mixing suite — EQ, compressor, transient shaper, exciter, and the Mix Assistant, which analyzes your full session and proposes a starting gain and EQ balance for every track. For producers who mix their own records, the time saved per session adds up quickly.
+- **Price:** $299 (Neutron 5); Neutron 5 Elements $55 (iZotope, USD)
+- **Why upgrade:** The free Ozone Imager 2 handles stereo width, but iZotope's Neutron 5 is a mixing suite with ten modules (including Equalizer, Compressor, Transient Shaper, Exciter, Gate and Unmask) plus the AI-powered Mix Assistant. Formats: VST3, AU and AAX, 64-bit only.
 
-[→ Get iZotope Neutron on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton)
+[→ Get iZotope Neutron 5 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton)
 
 ---
 
@@ -412,11 +412,11 @@ The free plugins above cover most production needs. When you're ready to invest,
 
 | Plugin | What It Adds | Price |
 |---|---|---|
-| [Serum 2](https://xferrecords.com/products/serum-2) | Industry-standard wavetable synth, massive preset library | ~$10/mo or ~$189 |
+| [Serum 2](https://xferrecords.com/products/serum-2) | Hybrid wavetable/sample/granular synth, 626+ presets | $249 |
 | [FabFilter Pro-Q 4](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-ableton) | Dynamic EQ, surgical precision, zero-latency | $199 |
 | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) | 18 reverb algorithms, $50, beats plugins 3× the price | $50 |
 
-**Sale timing:** Plugin Boutique discounts hardest during Black Friday (late November) and its summer sale in July, and it hands out a rotating free plugin with most purchases. FabFilter almost never cuts more than about 15%, so there's little point waiting on Pro-Q 4; Valhalla's flat $50 basically never drops, and Serum is cheapest as Splice rent-to-own if you'd rather spread the ~$189 over monthly payments.
+**Sale timing:** Plugin Boutique discounts hardest during Black Friday (late November) and its summer sale in July, and it hands out a rotating free plugin with most purchases. FabFilter's list price for Pro-Q 4 is $199; check current offers before you buy; Valhalla's flat $50 basically never drops, and Xfer lists Serum 2 at a fixed $249.
 
 ---
 

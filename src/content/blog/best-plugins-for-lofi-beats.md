@@ -20,7 +20,7 @@ draft: false
 |--------|-------|----------|--------|
 | iZotope Vinyl | Free | Vinyl crackle, warp, dust | [Free Download](https://www.izotope.com/en/products/vinyl) |
 | Valhalla Supermassive | Free | Lush, drifting reverb | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| TAL-Dub-3 | Free | Tape delay with dub feedback | [TAL Software](https://tal-software.com/products/tal-dub) |
+| TAL-Dub-3 | Free | Dub-style delay (not a tape emulation) | [TAL Software](https://tal-software.com/products/tal-dub) |
 | Chow Tape Model | Free | Physics-based tape saturation | [Free Download](https://chowdsp.com/products.html) |
 | Krush by Tritik | Free | Animated bitcrushing and grit | [Free Download](https://www.tritik.com/products/krush/) |
 | RC-20 Retro Color | Paid | All-in-one lo-fi chain | [Get It](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
@@ -131,18 +131,18 @@ TAL-Reverb-4 is a plate-style reverb from the same developer as TAL-Dub-3. Where
 
 Lo-fi beats also rely on well-timed drum machine textures — if you're building rhythms from scratch, our [best free drum plugins guide](/posts/best-free-drum-plugins/) covers the top options at zero cost.
 
-### TAL-Dub-3 — Tape Delay Built for Warmth and Movement
+### TAL-Dub-3 — A Free Dub-Style Delay with Saturated Feedback
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/vyvcJGSXz6o" title="TAL-Dub-3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** TAL Software
 - **Price:** Free
-- **Platforms:** Windows, macOS, Linux
-- **Formats:** VST2, VST3, AU, AAX
+- **Platforms:** Windows 7 or higher (64-bit only), macOS 10.9 or higher (64-bit only), per the Plugin Boutique listing
+- **Formats:** VST, VST3, AU, AAX, CLAP (per the Plugin Boutique listing)
 
-TAL-Dub-3 is a free tape-style delay with built-in modulation, filtering, and saturation on the feedback path. The dub-style feedback structure and tape coloration make this especially well-suited to lo-fi hip-hop, where delays should feel warm and slightly degraded rather than pristine.
+TAL-Dub-3 is a free delay that TAL describes as having "no tape delay emulation" and its own sound. The product description lists an alias-free saturation stage and non-linear filters in the feedback path. The dub-style feedback structure makes it a reasonable fit for lo-fi hip-hop, where delays should feel warm and slightly degraded rather than pristine. It is 64-bit only.
 
-**Best for:** Dub-style echoes, looping warm feedback textures, and tape-colored delay across any element in a lo-fi mix.
+**Best for:** Dub-style echoes and looping warm feedback textures across any element in a lo-fi mix.
 
 [TAL Software](https://tal-software.com/products/tal-dub)
 
@@ -257,7 +257,7 @@ TAL-Chorus-LX (official TAL page was unreachable when checked 2026-10-03)
 | Caelum Audio Tape Cassette 2 | Free | Cassette sim | Crosstalk, bias, hiss, frequency rolloff | [Download](https://www.caelumaudio.com/CaelumAudio/?Page=TapeCassette2PP) |
 | Valhalla Supermassive | Free | Reverb/echo | 25+ modes, lush tails | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | TAL-Reverb-4 | Free | Plate reverb | Vintage plate character, short-medium decay | [Free Download](https://tal-software.com/products/tal-reverb-4) |
-| TAL-Dub-3 | Free | Tape delay | Dub feedback, tape saturation, modulation | [TAL Software](https://tal-software.com/products/tal-dub) |
+| TAL-Dub-3 | Free | Dub-style delay (not a tape emulation) | Dub feedback, saturation, feedback filters | [TAL Software](https://tal-software.com/products/tal-dub) |
 | Krush | Free | Bitcrusher | Bit + SR reduction with LFO modulation | [Download](https://www.tritik.com/products/krush/) |
 | GVST GDegrade | Free | Degrader | Bit crush and SR reduction | [Download](https://gvst.uk/Downloads) |
 | IVGI | Free | Saturation | Tube/tape warmth, subtle density | [Download](https://klanghelm.com/contents/products/IVGI) |
@@ -296,7 +296,7 @@ A: Yes. Free tools such as iZotope Vinyl and Valhalla Supermassive carry no feat
 ---
 ## Final Thoughts
 
-The starting point for a lo-fi toolkit in 2026 is three downloads: iZotope Vinyl for vinyl character, Valhalla Supermassive for reverb, and TAL-Dub-3 for tape delay — each free, and together covering the core textures of the genre. When you are ready to replace that chain with something built for the purpose, RC-20 Retro Color is the paid upgrade.
+The starting point for a lo-fi toolkit in 2026 is three downloads: iZotope Vinyl for vinyl character, Valhalla Supermassive for reverb, and TAL-Dub-3 for a dub-style delay — each free, and together covering the core textures of the genre. When you are ready to replace that chain with something built for the purpose, RC-20 Retro Color is the paid upgrade.
 
 [→ Get RC-20 Retro Color](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color)
 

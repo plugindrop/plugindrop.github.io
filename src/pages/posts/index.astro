@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import { eligiblePriorityPosts } from '../../lib/crawlPriority.mjs';
 import { pdAttr } from '../../lib/interestTaxonomy.mjs';
 import { isInternalPathIndexable } from '../../lib/linkPolicy.mjs';
-import { hasTrustedExpiry, isArticleSaleExpired } from '../../lib/articleDeal.mjs';
+import { hasTrustedExpiry, isArticleSaleExpired, isArticleSaleLapsed, isArticleDealPastWindow } from '../../lib/articleDeal.mjs';
 import { stripMarkdownEmphasis } from '../../lib/textUtils';
 import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
@@ -35,7 +35,7 @@ function getStoreName(url: string | undefined): string {
 }
 
 function isExpired(data: any): boolean {
-	return isArticleSaleExpired(data);
+	return isArticleDealPastWindow(data);
 }
 
 function formatExpiry(saleExpiry: string): string {
@@ -343,6 +343,8 @@ function isSaleDeal(tags: string[], hasPriceOrAffiliate: boolean): boolean {
 					const hasPriceOrAffiliate = !!(post.data.dealPrice || post.data.discount || post.data.affiliate);
 					const isSale = isSaleDeal(tags, hasPriceOrAffiliate);
 					const expired = isExpired(post.data);
+					const confirmedEnded = isArticleSaleExpired(post.data);
+					const lapsed = isArticleSaleLapsed(post.data);
 					const saleExpiry: string | undefined = post.data.saleExpiry;
 					const LinkTag = isInternalPathIndexable(`/posts/${post.id}/`) ? 'a' : 'div';
 					return (
@@ -383,7 +385,7 @@ function isSaleDeal(tags: string[], hasPriceOrAffiliate: boolean): boolean {
 							</div>
 							<div class="post-price">
 								{expired && isSale ? (
-									<span class="bdg-expired">Sale Ended</span>
+									<span class="bdg-expired">{lapsed ? 'Check current price' : 'Sale Ended'}</span>
 								) : (
 									<>
 										{post.data.dealPrice && (

@@ -23,7 +23,7 @@ import {
 	slugify,
 } from '../lib/priceUtils';
 import { articleRankScore, pbProductId, rankBiggestDiscounts, rankLiveDeals } from '../lib/dealRanking.mjs';
-import { buildFactBox, everydayPrice, findTrackerEntryForPost, homeVerdictChip, isArticleSaleExpired } from '../lib/articleDeal.mjs';
+import { buildFactBox, everydayPrice, findTrackerEntryForPost, homeVerdictChip, isArticleDealPastWindow } from '../lib/articleDeal.mjs';
 
 function fableVerdictLabel(verdict: 'good' | 'ok' | 'bad' | 'none', onSale: boolean): string {
 	if (verdict === 'none') return 'WAIT';
@@ -120,7 +120,7 @@ function getStoreName(url: string | undefined): string {
 }
 
 function isExpired(post: any): boolean {
-	return isArticleSaleExpired(post.data);
+	return isArticleDealPastWindow(post.data);
 }
 
 function isFreePrice(price: string | undefined): boolean {

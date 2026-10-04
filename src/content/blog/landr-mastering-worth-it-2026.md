@@ -160,7 +160,7 @@ If the LANDR subscription math doesn't work for your release volume — or if ge
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IslBZmbz47Q" title="FabFilter Pro-L 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
-- **Price:** $199 (one-time purchase; FabFilter's USD list price per our check on 2026-10-03; our price tracker earlier recorded $179)
+- **Price:** $199 (one-time purchase; FabFilter's USD shop price, verified 2026-10-04; Plugin Boutique's price in our earlier tracker checks was $179)
 - **Why consider it:** If you already have a mastering chain and only want a limiter you can adjust yourself, Pro-L 2 offers eight limiting algorithm modes (Transparent, Dynamic, Aggressive, Bus, and more), adjustable attack and release, true-peak compliance, and loudness metering, inside any DAW as a standard plugin.
 
 [→ Get FabFilter Pro-L 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=landr-mastering-worth-it-2026)

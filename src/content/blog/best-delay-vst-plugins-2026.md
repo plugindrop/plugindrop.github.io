@@ -23,12 +23,12 @@ priceTrack:
 | Waves H-Delay | Variable | Hybrid analog-digital | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20H-Delay&a_aid=69cb95abe1763&chan=art&data1=best-delay-vst-plugins-2026) |
 | D16 Group Repeater | ~€49 | Precise tempo-synced studio delay | [D16 Group](https://d16.pl/repeater) |
 | FabFilter Timeless 3 | ~€169 | Advanced modulated delay | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/10-Delay/7604-FabFilter-Timeless-3?a_aid=69cb95abe1763&chan=art&data1=best-delay-vst-plugins-2026) |
-| TAL-Dub-3 | Free | Dub and lo-fi analog textures | [TAL Software](https://tal-software.com/products/tal-dub) |
+| TAL-Dub-3 | Free | Simple dub-style delay (not a tape emulation) | [TAL Software](https://tal-software.com/products/tal-dub) |
 | Valhalla FreqEcho | Free | Pitch-shifted atmospheric effects | [Free Download](https://valhalladsp.com/shop/delay/valhalla-freq-echo/) |
 
 ## best delay VST plugins 2026
 
-**TL;DR:** Across every price bracket we checked, SoundToys EchoBoy remains the most versatile of the best delay VST plugins 2026 has to offer, covering tape, BBD, digital, and studio echo modes in one package. Valhalla Delay at $50 overdelivers compared to anything near it in price. For producers on zero budget, TAL-Dub-3 and Valhalla FreqEcho are the two free installs worth prioritizing today.
+**TL;DR:** Across every price bracket we checked, SoundToys EchoBoy remains the most versatile of the best delay VST plugins 2026 has to offer, covering tape, BBD, digital, and studio echo modes in one package. Valhalla Delay at $50 overdelivers compared to anything near it in price. For producers on zero budget, Valhalla FreqEcho and u-he Colour Copy are the free installs worth prioritizing today, with TAL-Dub-3 as a simple dub-style option.
 
 **Quick Answer: If you only buy one delay plugin in 2026, make it SoundToys EchoBoy for all-round versatility, or Valhalla Delay if $50 is closer to your budget ceiling.**
 
@@ -48,7 +48,7 @@ Whether you're mixing electronic music in Ableton, producing hip-hop in FL Studi
 | D16 Group Repeater | ~€49 | Tempo-locked electronic production | Yes, 30-day demo | [D16 Group](https://d16.pl/repeater) |
 | FabFilter Timeless 3 | ~€169 | Sound design and modulation depth | Yes, fully functional demo | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/10-Delay/7604-FabFilter-Timeless-3?a_aid=69cb95abe1763&chan=art&data1=best-delay-vst-plugins-2026) |
 | Arturia Delay BRIGADE | ~$99 | Vintage BBD circuit character | Yes, via Arturia account | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20Delay%20BRIGADE&a_aid=69cb95abe1763&chan=art&data1=best-delay-vst-plugins-2026) |
-| TAL-Dub-3 | Free | Dub, reggae, and lo-fi textures | N/A — free | [TAL Software](https://tal-software.com/products/tal-dub) |
+| TAL-Dub-3 | Free | Dub-style echo with its own sound | N/A — free | [TAL Software](https://tal-software.com/products/tal-dub) |
 
 ---
 
@@ -174,18 +174,18 @@ FabFilter is notorious for almost never discounting — this is one of the few d
 
 ---
 
-### TAL-Dub-3 — The go-to free delay for lo-fi and dub textures
+### TAL-Dub-3 — A simple free dub-style delay (not a tape emulation)
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CdvgWcUMeSs" title="TAL-Dub-3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** TAL Software
 - **Price:** Free
-- **Platforms:** Windows, macOS
-- **Formats:** VST, VST3, AU, AAX
+- **Platforms:** Windows 7 or higher (64-bit only), macOS 10.9 or higher (64-bit only), per the Plugin Boutique listing
+- **Formats:** VST, VST3, AU, AAX, CLAP (per the Plugin Boutique listing)
 
-TAL-Dub-3 captures the saturated, wobbly character of vintage dub delay units without any cost. The feedback control can push it into self-oscillation, and the signal path is modeled on analog hardware. It's a focused tool rather than a versatile one, aimed at dirty, analog-feeling dub delay.
+TAL describes TAL-Dub-3 as an easy-to-use delay with "no tape delay emulation" and its own sound, so it should not be read as a model of a vintage tape unit. According to the product description, it has an alias-free saturation stage, non-linear filters in the feedback path, adjustable input drive, synced delay times and MIDI Learn. It is a focused tool rather than a versatile one, and it is 64-bit only. TAL's newer edition, TAL-Dub-X, adds more echo modes.
 
-**Best for:** Dub, reggae, lo-fi, and psychedelic producers who want authentic vintage delay character at no cost.
+**Best for:** Dub, reggae, and lo-fi producers who want a free, simple delay with saturation and filtering in the feedback path.
 
 [TAL Software](https://tal-software.com/products/tal-dub)
 
@@ -306,7 +306,7 @@ If you've been relying on free delays and want to invest in something that cover
 
 - **Developer:** Valhalla DSP
 - **Price:** $50
-- **Why upgrade:** Free alternatives like TAL-Dub-3 and FreqEcho each excel at one thing. Valhalla Delay handles twelve distinct modes — tape, digital, pitch-shifting, diffusion, Lo-Fi, and more — for a one-time $50 cost that undercuts boutique competitors by a significant margin.
+- **Why upgrade:** Free alternatives like TAL-Dub-3 and FreqEcho each cover one narrow territory. Valhalla Delay handles twelve distinct modes — tape, digital, pitch-shifting, diffusion, Lo-Fi, and more — for a one-time $50 cost that undercuts boutique competitors by a significant margin.
 
 [→ Get Valhalla Delay on the official site](https://valhalladsp.com/shop/delay/valhalladelay/)
 
@@ -322,7 +322,7 @@ If you've been relying on free delays and want to invest in something that cover
 | D16 Group Repeater | ~€49 | Digital / Studio | Per-tap filtering, tight tempo sync, stereo spread | [Get It](https://d16.pl/repeater) |
 | FabFilter Timeless 3 | ~€169 | Digital / Modulated | XY modulation system, tape mode, freeze/reverse | [Get It](https://valhalladsp.com/shop/delay/valhalladelay/) |
 | Arturia Delay BRIGADE | ~$99 | BBD / Tape | Bucket-brigade circuit modeling, drive control | [Get It](https://valhalladsp.com/shop/delay/valhalladelay/) |
-| TAL-Dub-3 | Free | Dub / Analog | Self-oscillation, vintage saturation | [TAL Software](https://tal-software.com/products/tal-dub) |
+| TAL-Dub-3 | Free | Dub-style delay | Feedback saturation and filters, synced times | [TAL Software](https://tal-software.com/products/tal-dub) |
 | Valhalla FreqEcho | Free | BBD / Pitch-Shifted | Frequency-shifted feedback, psychedelic trails | [Download](https://valhalladsp.com/shop/delay/valhalla-freq-echo/) |
 | u-he Colour Copy | Free | BBD / Analog | Physical BBD modeling, vibrato/chorus character | [Download](https://u-he.com/products/colour-copy/) |
 | Chow Matrix | Free | Modular / Creative | 8-node delay matrix, open source, complex routing | [Download](https://github.com/Chowdhury-DSP/ChowMatrix) |
@@ -336,10 +336,10 @@ If you've been relying on free delays and want to invest in something that cover
 - **If you want one paid delay that covers everything**, get SoundToys EchoBoy — it combines hardware-inspired tape, BBD, digital, and rhythmic echo modes in one plugin.
 - **If you're working with a $50 budget**, Valhalla Delay is the clear answer — twelve professional-grade algorithms at that price is difficult to argue against.
 - **If you produce electronic music and need tight tempo-locked delays**, D16 Repeater's per-tap filter control gives you rhythmic precision that simpler delays don't offer.
-- **If dub, reggae, or lo-fi is your genre**, TAL-Dub-3 and u-he Colour Copy are both free and both aimed at analog-style delay.
+- **If dub, reggae, or lo-fi is your genre**, u-he Colour Copy is a free BBD-style delay, and TAL-Dub-3 is a free, simple dub-style delay that TAL says is not a tape emulation.
 - **If you work in sound design, scoring, or film**, FabFilter Timeless 3's modulation routing depth is worth the premium — nothing else on this list gives you the same per-parameter control.
 - **If you want experimental pitch-shifted or glitch delay**, Valhalla FreqEcho and Glitchmachines Palindrome are free, cover fundamentally different sonic territory, and are both worth installing together.
-- **If you're not sure yet what you need**, start with the free tier — TAL-Dub-3, Valhalla FreqEcho, u-he Colour Copy, Kilohearts Delay, and Chow Matrix together cover tape, BBD, pitch-shifted, clean digital, and modular routing without spending a dollar. Upgrade to a paid option only once you hit a specific limitation one of these can't solve.
+- **If you're not sure yet what you need**, start with the free tier — Valhalla FreqEcho, u-he Colour Copy, Kilohearts Delay, Chow Matrix, and TAL-Dub-3 together cover pitch-shifted, BBD, clean digital, modular routing, and dub-style echo without spending a dollar. Upgrade to a paid option only once you hit a specific limitation one of these can't solve.
 
 ---
 
@@ -368,7 +368,7 @@ If a plugin is from a developer known for near-constant discounting (Waves, and 
 ## FAQ
 
 **Q: What is the best free delay VST plugin in 2026?**
-A: TAL-Dub-3 is a free delay built around an analog dub character, but Valhalla FreqEcho and u-he Colour Copy are free alternatives depending on what you need — FreqEcho for pitch-shifted, atmospheric trails, and Colour Copy for BBD-style delay. All three are genuinely free with no watermarking or feature restrictions.
+A: TAL-Dub-3 is a free, simple dub-style delay (TAL says it is not a tape emulation), but Valhalla FreqEcho and u-he Colour Copy are free alternatives depending on what you need — FreqEcho for pitch-shifted, atmospheric trails, and Colour Copy for BBD-style delay. All three are genuinely free with no watermarking or feature restrictions.
 
 **Q: What are the best delay VST plugins 2026 for professional mixing?**
 A: SoundToys EchoBoy and Waves H-Delay are two widely available paid delay plugins. EchoBoy covers the widest range of tape, BBD, digital, and studio echo modes in one tool, while H-Delay offers tempo sync and filtering in a hybrid analog/digital design.
@@ -380,7 +380,7 @@ A: Yes. At $50, Valhalla Delay includes twelve distinct algorithms — tape, dig
 A: D16 Group Repeater is the strongest pick for tempo-locked work thanks to its per-tap filtering and precise sync options, which let you shape individual repeats rather than treating the whole delay line as one block. FabFilter Timeless 3 is a strong alternative if you also want deep modulation routing alongside tempo sync.
 
 **Q: Do I need a paid delay plugin, or are free options good enough?**
-A: For most home studio producers, a combination of free plugins — TAL-Dub-3, Valhalla FreqEcho, and Kilohearts Delay — covers the majority of practical use cases. Paid plugins like SoundToys EchoBoy or FabFilter Timeless 3 earn their price through breadth (multiple modes in one plugin) and deeper modulation control, which matters more in professional mixing and sound design contexts than in casual production.
+A: For most home studio producers, a combination of free plugins — Valhalla FreqEcho, u-he Colour Copy, and Kilohearts Delay — covers the majority of practical use cases. Paid plugins like SoundToys EchoBoy or FabFilter Timeless 3 earn their price through breadth (multiple modes in one plugin) and deeper modulation control, which matters more in professional mixing and sound design contexts than in casual production.
 
 **Q: Should I buy delay plugins at full price or wait for a sale?**
 A: It depends on the developer. Waves and SoundToys discount frequently enough that waiting almost always pays off unless you need the plugin immediately for an active session. Valhalla DSP and FabFilter rarely discount at all, so their list prices are close to as good as it gets — buy those when you need them rather than waiting indefinitely. See the "When to Buy" section above for a full breakdown by plugin.

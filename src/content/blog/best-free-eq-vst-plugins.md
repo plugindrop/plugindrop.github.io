@@ -26,7 +26,7 @@ priceTrack:
 | Voxengo Marvel GEQ | Free | Linear phase graphic EQ | [Plugin Boutique](https://www.pluginboutique.com/search?q=Voxengo%20Marvel%20GEQ&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
 | MEqualizer | Free | Feature-complete parametric EQ | [Plugin Boutique](https://www.pluginboutique.com/search?q=MeldaProduction%20MEqualizer&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
 | Baxter EQ | Free | Analog color on mix channels | [Plugin Boutique](https://www.pluginboutique.com/search?q=Baxter%20EQ&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
-| LP10 | Free | Transparent mastering EQ | [Plugin Boutique](https://www.pluginboutique.com/search?q=LP10%20EQ%20plugin&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
+| LP10 | Paid (free demo) | Flexible-phase 10-band EQ | [Plugin Boutique](https://www.pluginboutique.com/search?q=LP10%20EQ%20plugin&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
 | TDR SlickEQ | Free | Bus EQ with musical saturation | [Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/) |
 | ReaEQ | Free | Unlimited-band surgical mixing | [Free Download](https://www.reaper.fm/reaplugs/) |
 
@@ -162,22 +162,22 @@ Voxengo Marvel GEQ is a 16-band linear phase graphic equalizer with the kind of 
 
 ---
 
-### LP10 — The dedicated linear phase mastering EQ
+### LP10 — Not free: a paid 10-band EQ with selectable phase (demo available)
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/WiEjFdUfV_U" title="LP10 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-- **Developer:** LKJB
-- **Price:** Free
-- **Platforms:** Windows, macOS
-- **Formats:** VST, VST3, AU
+- **Developer:** DDMF
+- **Price:** Paid (DDMF offers downloadable demo versions; check the DDMF page for the current price)
+- **Platforms:** Windows, macOS, Linux
+- **Formats:** VST, VST3, AU, AAX
 
-LP10 is purpose-built for mastering and high-precision processing. It uses linear phase filtering throughout, supports up to 10 EQ bands, and achieves a level of transparency that rivals paid mastering-grade tools. If you are finalizing releases and need a dedicated mastering EQ in your chain, LP10 fills that role completely without charging you for the privilege. The interface is clean and fast to navigate, which matters when you are making small adjustments and need visual clarity.
+LP10 is a commercial plugin from DDMF, so it does not belong on a strictly free list; it is included here as the paid option to know about if you outgrow the free linear phase tools. According to DDMF, it supports up to 10 bands, and the phase response is freely adjustable: linear phase, minimum phase, or inverse minimum phase. That means linear phase is one mode rather than the only behavior. DDMF provides demo versions for Windows, Mac and Linux, so you can try it before paying.
 
 **Best for:** Home mastering engineers and producers handling their own final processing who need transparent, phase-coherent equalization.
 
-**Skip it if:** you want musical, minimum-phase mixing moves. LP10 is a clinical mastering tool; on individual channels its linear phase design just adds latency and pre-ringing you do not need there.
+**Skip it if:** you only want free plugins (use Marvel GEQ instead). Also note that linear phase mode adds latency and pre-ringing, so on individual channels minimum phase mode is usually the better choice.
 
-[→ Download LP10 Free](https://ddmf.eu/lp10-linear-phase-equalizer-plugin/) | [→ Get LP10 on Plugin Boutique](https://www.pluginboutique.com/search?q=LP10%20EQ%20plugin&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins)
+[→ See LP10 and demo downloads at DDMF](https://ddmf.eu/lp10-linear-phase-equalizer-plugin/) | [→ Get LP10 on Plugin Boutique](https://www.pluginboutique.com/search?q=LP10%20EQ%20plugin&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins)
 
 ---
 
@@ -290,7 +290,7 @@ Voxengo's Overtone GEQ takes a different approach to equalization by working wit
 | Blue Cat's Triple EQ | Free | Semi-parametric | 3 bands, ultra-fast workflow | [Developer Site](https://www.bluecataudio.com/Products/Product_TripleEQ/) |
 | ReaEQ | Free | Parametric | Unlimited bands | [Developer Site](https://www.reaper.fm/reaplugs/) |
 | Voxengo Marvel GEQ | Free | Linear phase graphic | 16 bands, zero phase distortion | [Plugin Boutique](https://www.pluginboutique.com/search?q=Voxengo%20Marvel%20GEQ&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
-| LP10 | Free | Linear phase mastering | Up to 10 bands, surgical | [Plugin Boutique](https://www.pluginboutique.com/search?q=LP10%20EQ%20plugin&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
+| LP10 | Paid (free demo) | Selectable phase (linear / minimum / inverse minimum) | Up to 10 bands | [Plugin Boutique](https://www.pluginboutique.com/search?q=LP10%20EQ%20plugin&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
 | TDR SlickEQ | Free | Bus/mastering EQ | Musical saturation, 3 bands | [Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/) |
 | Ignite Amps PTEq-X | Free | Passive/vintage | Pultec character, low-end shaping | [Developer Site](https://www.igniteamps.com/) |
 | Voxengo Overtone GEQ | Free | Harmonic graphic | Harmonic partial shaping | [Developer Site](https://www.voxengo.com/) |
@@ -303,7 +303,7 @@ Voxengo's Overtone GEQ takes a different approach to equalization by working wit
 ## How to Choose
 
 - **If you want one EQ that handles everything**, install **TDR Nova** first — the dynamic capability makes it useful on every track type, and the spectrum analyzer accelerates your learning curve.
-- **If you are mastering or processing the mix bus** and need zero phase distortion, **Voxengo Marvel GEQ** or **LP10** are the right tools; minimum-phase options introduce phase shift that can subtly affect stereo coherence.
+- **If you are mastering or processing the mix bus** and need zero phase distortion, **Voxengo Marvel GEQ** (free) or the paid **LP10** in linear phase mode are the right tools; minimum-phase options introduce phase shift that can subtly affect stereo coherence.
 - **If your tracks need character rather than just correction** — drums, guitars, mix bus coloring — reach for **Baxter EQ** or **TDR SlickEQ**. These reward a "set it and let it breathe" approach.
 - **If you are building a large session** with many EQ instances and need maximum flexibility, **ReaEQ** handles unlimited bands without asking you to compromise.
 - **If vintage tone is central to your genre** (lo-fi, soul, classic rock, jazz), **Ignite Amps PTEq-X** gives you the Pultec interaction that producers have relied on for sixty years — for free.
@@ -319,7 +319,7 @@ A: Start with **TDR Nova**. The built-in real-time spectrum analyzer shows you e
 A: For most mixing applications, yes. TDR Nova, MEqualizer, and Voxengo Marvel GEQ are used by professional engineers on commercial releases. The main advantages of paid options like FabFilter Pro-Q 4 are workflow speed, advanced features such as per-band stereo switching and EQ match, and the ergonomic polish that comes from years of professional iteration. The processing quality gap is much smaller than the price gap suggests.
 
 **Q: What is linear phase EQ and when should I use it?**
-A: Linear phase EQ processes audio without introducing phase shift at any frequency — unlike standard minimum-phase designs. This matters most in mastering, where subtle phase differences affect stereo imaging and translation across playback systems. For general mixing, minimum-phase EQ is typically preferred because it responds more naturally to the music. Use **LP10** or **Marvel GEQ** on the master bus; use **TDR Nova** or **MEqualizer** during the mix.
+A: Linear phase EQ processes audio without introducing phase shift at any frequency — unlike standard minimum-phase designs. This matters most in mastering, where subtle phase differences affect stereo imaging and translation across playback systems. For general mixing, minimum-phase EQ is typically preferred because it responds more naturally to the music. Use **Marvel GEQ** (or the paid **LP10** in linear phase mode) on the master bus; use **TDR Nova** or **MEqualizer** during the mix.
 
 **Q: Do these free VST EQ plugins work in all DAWs?**
 A: Most plugins on this list are available in VST, VST3, and AU formats, covering every major DAW on Windows and macOS — Ableton Live, Logic Pro, FL Studio, Reaper, Studio One, Cubase, and others. ReaEQ is available as VST/VST3 and does not include AU, so Logic users should opt for one of the other options on this list. Always verify AAX availability separately if you use Pro Tools.

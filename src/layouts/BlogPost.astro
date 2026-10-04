@@ -39,6 +39,8 @@ import {
 	ctaShortLabel,
 	hasTrustedExpiry,
 	isArticleSaleExpired,
+	isArticleSaleLapsed,
+	isArticleDealPastWindow,
 } from '../lib/articleDeal.mjs';
 
 type Props = CollectionEntry<'blog'>['data'] & { readingTime?: string; rawBody?: string; slug?: string };
@@ -51,6 +53,7 @@ const _hasTrustedExpiry = hasTrustedExpiry({ saleExpiry, saleExpirySource, pubDa
 
 // Check if sale has expired
 const saleExpired = isArticleSaleExpired({ saleExpiry, saleExpirySource, pubDate, evergreen, dealPrice });
+const saleLapsed = isArticleSaleLapsed({ saleExpiry, saleExpirySource, pubDate, evergreen, dealPrice });
 
 // Derive store name from affiliate URL — netloc-based for accuracy
 function getDealSource(url: string): string {
@@ -277,7 +280,7 @@ const _isFreePrice = _rawPrice === 'FREE' || parseFloat(_rawPrice) === 0;
 const _numericPrice = dealPrice ? dealPrice.replace(/[^0-9.]/g, '') : '';
 
 // CTA copy/href (PR-5) — never a store name, never a newly-built search URL.
-const _ctaState = (saleExpired || _trackerSaysEnded) ? 'ended' : (_fact?.state ?? 'unknown');
+const _ctaState = (saleExpired || _trackerSaysEnded) ? 'ended' : saleLapsed ? 'unverified' : (_fact?.state ?? 'unknown');
 const _ctaPriceText = _isFreePrice ? null : (dealPrice || (_fact?.current != null ? formatPrice(_fact.current) : null));
 const _ctaHref = buildCtaHref(_postForMatch, _trackerMatch, rawBody, currentSlug);
 const _ctaLabel = ctaLabel({ productName, priceText: _ctaPriceText, isFree: _isFreePrice, state: _ctaState });
@@ -299,7 +302,7 @@ const _computedDiscount = (() => {
 	return `${Math.round((1 - deal / orig) * 100)}% OFF`;
 })();
 const _displayDiscount = _computedDiscount;
-const productLD = (affiliate && dealPrice && !saleExpired && !_trackerSaysEnded && !_isFreePrice && _numericPrice && _numericPrice !== '0') ? {
+const productLD = (affiliate && dealPrice && !saleExpired && !saleLapsed && !_trackerSaysEnded && !_isFreePrice && _numericPrice && _numericPrice !== '0') ? {
 	"@context": "https://schema.org",
 	"@type": "Product",
 	"name": productName ?? title,
@@ -426,7 +429,7 @@ const featuredDeals = isEvergreen ? allPosts
 	.filter(p => !p.data.draft &&
 		p.data.affiliate?.includes('pluginboutique.com') &&
 		p.data.dealPrice &&
-		!isArticleSaleExpired(p.data))
+		!isArticleDealPastWindow(p.data))
 	.sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
 	.slice(0, 4) : [];
 ---
@@ -1076,7 +1079,7 @@ const featuredDeals = isEvergreen ? allPosts
 					<nav class="breadcrumb" aria-label="Breadcrumb">
 						<a href="/">Home</a>
 						<span class="sep" aria-hidden="true">/</span>
-						{_hub ? <><a href="/posts">Guides</a><span class="sep" aria-hidden="true">/</span><a href={`/best/${_hub.slug}/`}>{_hub.label}</a></> : <a href="/posts">Deals</a>}
+						{_hub ? <><a href="/posts/">Guides</a><span class="sep" aria-hidden="true">/</span><a href={`/best/${_hub.slug}/`}>{_hub.label}</a></> : <a href="/posts/">Deals</a>}
 						<span class="sep" aria-hidden="true">/</span>
 						<span>{title.length > 50 ? title.slice(0, 50) + '...' : title}</span>
 					</nav>
@@ -1108,11 +1111,11 @@ const featuredDeals = isEvergreen ? allPosts
 					</div>
 
 					{/* Deal CTA Box — product widget style */}
-					{affiliate && (dealPrice || discount || saleExpired) && (
-						<div class={`deal-cta-box${saleExpired ? ' sale-expired' : ''}`}>
-							{saleExpired ? (
+					{affiliate && (dealPrice || discount || saleExpired || saleLapsed) && (
+						<div class={`deal-cta-box${saleExpired ? ' sale-expired' : saleLapsed ? ' sale-expired sale-lapsed' : ''}`}>
+							{(saleExpired || _trackerSaysEnded || saleLapsed) ? (
 								<>
-									<div class="deal-expired-notice">This sale has ended — check current price below</div>
+									<div class="deal-expired-notice">{saleLapsed && !_trackerSaysEnded ? 'Our estimated sale window for this deal has passed — check the current price below' : 'This sale has ended — check current price below'}</div>
 									{dealSource && <div class="deal-source">Available via {dealSource}</div>}
 									<a href={_ctaHref} class="deal-cta-btn is-expired" target="_blank" rel="noopener sponsored">
 										{_ctaLabel}
@@ -1258,7 +1261,7 @@ const featuredDeals = isEvergreen ? allPosts
 		{/* Sticky CTA bar */}
 		{affiliate ? (
 			<div class="sticky-cta" id="sticky-cta">
-				<span class="sticky-title">{saleExpired ? title : (dealPrice ? `${_isFreePrice ? 'FREE' : dealPrice} — ${title}` : title)}</span>
+				<span class="sticky-title">{(saleExpired || saleLapsed || _trackerSaysEnded) ? title : (dealPrice ? `${_isFreePrice ? 'FREE' : dealPrice} — ${title}` : title)}</span>
 				<a href={_ctaHref} class="deal-cta-btn sticky-cta-link" target="_blank" rel="noopener sponsored" data-slug={currentSlug}>
 					{_ctaShortLabel}
 				</a>

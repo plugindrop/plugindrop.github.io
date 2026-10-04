@@ -22,7 +22,7 @@ draft: false
 | iZotope Vinyl | Free | Vinyl crackle, dust, and year-based degradation | [Free Download](https://www.izotope.com/en/products/vinyl) |
 | RC-20 Retro Color | $99 | All-in-one noise, wobble, and saturation suite | [Official Site](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
 | Valhalla Supermassive | Free | Lo-fi ambient reverb and shimmer | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| TAL-Dub-3 | Free | Warm tape delay with BPM sync | [TAL Software](https://tal-software.com/products/tal-dub) |
+| TAL-Dub-3 | Free | Dub-style delay with BPM sync (not a tape emulation) | [TAL Software](https://tal-software.com/products/tal-dub) |
 | Arturia Pigments 7 | $199 | Lo-fi synth textures with built-in vintage character | [Official Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7?a_aid=69cb95abe1763&chan=art&data1=how-to-make-lofi-music-plugins) |
 
 ---
@@ -110,20 +110,20 @@ For lo-fi production specifically, the Gemini and Hydra modes are worth trying f
 
 Delay in lo-fi production isn't clean, digital ping-pong. It's tape delay: warm, slightly degraded, with a low-pass character that makes repeats feel like they're fading into the past rather than clocking out on a grid. The saturation behavior in the feedback path is what distinguishes a tape delay plugin from a standard delay with a low-pass filter.
 
-### TAL-Dub-3 — Capable Free Tape Delay with Lo-Fi DNA
+### TAL-Dub-3 — A Free Dub-Style Delay with Saturated Feedback
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/CdvgWcUMeSs" title="TAL-Dub-3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** TAL Software
 - **Price:** Free
-- **Platforms:** Windows, macOS, Linux
-- **Formats:** VST2, VST3, AU
+- **Platforms:** Windows 7 or higher (64-bit only), macOS 10.9 or higher (64-bit only), per the Plugin Boutique listing
+- **Formats:** VST, VST3, AU, AAX, CLAP (per the Plugin Boutique listing)
 
-TAL Software offers free plugins, and TAL-Dub-3 is one. It's a dub-style tape delay with BPM sync, saturation in the feedback path, and a filter section that progressively darkens each repeat — exactly the behavior that makes tape delay feel organic in lo-fi production.
+TAL Software offers free plugins, and TAL-Dub-3 is one. TAL describes it as having "no tape delay emulation" and its own sound, so it is a dub-style delay rather than a model of a tape machine. The product description lists synced delay times, an alias-free saturation stage and non-linear filters in the feedback path, which suits the progressively darker, more saturated repeats common in lo-fi production.
 
-The saturation in the feedback path is the key distinguishing feature: each repeat picks up additional harmonic content, so heavily delayed signals develop a warm, compressed character rather than simply getting quieter. This is closer to how actual tape delay hardware behaves than most free delay plugins, which typically just attenuate while applying a static filter curve.
+The saturation and filtering in the feedback path are the key distinguishing features: repeats change in tone as they recirculate rather than simply getting quieter. That behavior is useful for lo-fi, even though it is not a tape emulation. The plugin is 64-bit only.
 
-**Best for:** Lo-fi producers who want tape delay character without a paid plugin — particularly useful on piano, Rhodes, and vocal chop channels.
+**Best for:** Lo-fi producers who want a free dub-style delay with feedback saturation, particularly useful on piano, Rhodes, and vocal chop channels.
 
 [TAL Software](https://tal-software.com/products/tal-dub)
 
@@ -162,7 +162,7 @@ The saturation in the feedback path is the key distinguishing feature: each repe
 | iZotope Vinyl | Free | Vinyl simulator | 6 degradation modules, Year dial (1930–1990), broad DAW support | [Download Free](https://www.izotope.com/en/products/vinyl) |
 | RC-20 Retro Color | $99 | Multi-FX lo-fi suite | Noise, Wobble, Distortion, Space, Lag, Lo-Fi modules with interaction | [Get It](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
 | Valhalla Supermassive | Free | Algorithmic reverb | Multiple modes, built-in modulation/chorus, Linux support | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| TAL-Dub-3 | Free | Tape delay | BPM sync, saturation in feedback path, dub-style character | [TAL Software](https://tal-software.com/products/tal-dub) |
+| TAL-Dub-3 | Free | Dub-style delay (not a tape emulation) | BPM sync, saturation in feedback path, feedback filters | [TAL Software](https://tal-software.com/products/tal-dub) |
 | Arturia Pigments 7 | $199 | Synthesizer | Granular/wavetable engines, built-in vintage filter and FX | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7?a_aid=69cb95abe1763&chan=art&data1=how-to-make-lofi-music-plugins) |
 
 ---
@@ -179,13 +179,13 @@ The saturation in the feedback path is the key distinguishing feature: each repe
 
 ## FAQ
 **Q: What's the minimum plugin setup for lo-fi music in 2026?**
-A: This guide uses three: a vinyl simulator (iZotope Vinyl), a reverb (Valhalla Supermassive), and a tape delay (TAL-Dub-3). All three are free. Learning these three before adding more plugins is a practical approach.
+A: This guide uses three: a vinyl simulator (iZotope Vinyl), a reverb (Valhalla Supermassive), and a dub-style delay (TAL-Dub-3). All three are free. Learning these three before adding more plugins is a practical approach.
 
 **Q: Is RC-20 Retro Color worth buying if I already have iZotope Vinyl?**
 A: It depends on your routing complexity. If you're already running iZotope Vinyl for noise, a separate plugin for wobble, and a third for tape saturation, RC-20 consolidates all three with designed module interaction that produces more coherent results. If iZotope Vinyl alone covers your needs, there's no immediate reason to upgrade.
 
 **Q: Do these plugins work in Ableton Live, FL Studio, and Logic Pro?**
-A: Yes. iZotope Vinyl, Valhalla Supermassive, and RC-20 Retro Color all support AU (macOS) and VST3 (Windows/macOS), which covers Logic Pro, Ableton Live, and FL Studio. TAL-Dub-3 supports the same formats and adds Linux compatibility. If you haven't settled on a DAW yet, see our [best free DAW software guide](/posts/best-free-daw-software-2026/) for a rundown of the top zero-cost options.
+A: Yes. iZotope Vinyl, Valhalla Supermassive, and RC-20 Retro Color all support AU (macOS) and VST3 (Windows/macOS), which covers Logic Pro, Ableton Live, and FL Studio. TAL-Dub-3 is listed on Plugin Boutique as 64-bit only (Windows 7+, macOS 10.9+) in VST, VST3, AU, AAX and CLAP. If you haven't settled on a DAW yet, see our [best free DAW software guide](/posts/best-free-daw-software-2026/) for a rundown of the top zero-cost options.
 
 **Q: What drum plugins work well for lo-fi production?**
 A: Lo-fi beats rely on understated, slightly imperfect drum textures rather than precision acoustic samples. Sitala (current version $20, older v1.0.9 free) and BPB Dirty Drums are options — see our [best free drum plugins guide](/posts/best-free-drum-plugins/) for a ranked list covering every style from hip-hop samplers to lo-fi drum machines.

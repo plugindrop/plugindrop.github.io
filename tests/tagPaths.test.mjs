@@ -2,12 +2,12 @@ import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import test from 'node:test';
 import { isTagPageIndexable, slugifyTag } from '../src/lib/indexPolicy.mjs';
-import { isArticleSaleExpired } from '../src/lib/articleDeal.mjs';
+import { isArticleDealPastWindow } from '../src/lib/articleDeal.mjs';
 
 const source = readFileSync(new URL('../src/pages/tags/[tag].astro', import.meta.url), 'utf8');
 const functionSource = source.match(/export async function getStaticPaths\(\) \{[\s\S]*?\n\}/)?.[0];
 assert.ok(functionSource, 'tag route must define getStaticPaths');
-const getStaticPaths = new Function('getCollection', 'isTagPageIndexable', 'slugifyTag', 'isArticleSaleExpired',
+const getStaticPaths = new Function('getCollection', 'isTagPageIndexable', 'slugifyTag', 'isArticleDealPastWindow',
   `return (${functionSource.replace('export async function', 'async function').replace('new Map<string, number>()', 'new Map()')});`
 );
 
@@ -22,7 +22,7 @@ test('tag route counts only indexable public posts', async () => {
     post('Boundary', { noindex: true }),
     post('free', { noindex: true }),
   ];
-  const paths = async () => getStaticPaths(async (_collection, predicate) => posts.filter(predicate), isTagPageIndexable, slugifyTag, isArticleSaleExpired)();
+  const paths = async () => getStaticPaths(async (_collection, predicate) => posts.filter(predicate), isTagPageIndexable, slugifyTag, isArticleDealPastWindow)();
   assert.equal((await paths()).some(({ params }) => params.tag === 'boundary'), false);
   assert.equal((await paths()).some(({ params }) => params.tag === 'free'), false);
   posts.push(post('Boundary'));
