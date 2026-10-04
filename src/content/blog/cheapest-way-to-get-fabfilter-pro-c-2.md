@@ -18,7 +18,7 @@ FabFilter lists Pro-C 3 at $199 (EUR 169, GBP 149) and offers a free 30-day tria
 | Free trial | Free for 30 days | FabFilter offers a 30-day evaluation of its plug-ins |
 | Existing FabFilter customers | Discounted (shown in your account) | FabFilter says existing customers see discounted prices when logged in |
 
-[Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=cheapest-way-to-get-fabfilter-pro-c-2).
+[Check the current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&chan=art&data1=cheapest-way-to-get-fabfilter-pro-c-2).
 
 We could not confirm with confidence which bundles currently include FabFilter Pro-C 3, so this guide sticks to the standalone price above.
 

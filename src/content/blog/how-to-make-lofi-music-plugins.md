@@ -23,7 +23,7 @@ draft: false
 | RC-20 Retro Color | $99 | All-in-one noise, wobble, and saturation suite | [Official Site](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
 | Valhalla Supermassive | Free | Lo-fi ambient reverb and shimmer | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | TAL-Dub-3 | Free | Warm tape delay with BPM sync | [TAL Software](https://tal-software.com/products/tal-dub) |
-| Arturia Pigments 7 | $199 | Lo-fi synth textures with built-in vintage character | [Official Site](https://www.pluginboutique.com/search?q=Arturia%20Pigments%207&a_aid=69cb95abe1763&chan=art&data1=how-to-make-lofi-music-plugins) |
+| Arturia Pigments 7 | $199 | Lo-fi synth textures with built-in vintage character | [Official Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7?a_aid=69cb95abe1763&chan=art&data1=how-to-make-lofi-music-plugins) |
 
 ---
 
@@ -163,7 +163,7 @@ The saturation in the feedback path is the key distinguishing feature: each repe
 | RC-20 Retro Color | $99 | Multi-FX lo-fi suite | Noise, Wobble, Distortion, Space, Lag, Lo-Fi modules with interaction | [Get It](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color) |
 | Valhalla Supermassive | Free | Algorithmic reverb | Multiple modes, built-in modulation/chorus, Linux support | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | TAL-Dub-3 | Free | Tape delay | BPM sync, saturation in feedback path, dub-style character | [TAL Software](https://tal-software.com/products/tal-dub) |
-| Arturia Pigments 7 | $199 | Synthesizer | Granular/wavetable engines, built-in vintage filter and FX | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20Pigments%207&a_aid=69cb95abe1763&chan=art&data1=how-to-make-lofi-music-plugins) |
+| Arturia Pigments 7 | $199 | Synthesizer | Granular/wavetable engines, built-in vintage filter and FX | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7?a_aid=69cb95abe1763&chan=art&data1=how-to-make-lofi-music-plugins) |
 
 ---
 

@@ -24,7 +24,7 @@ priceTrack:
 |--------|-------|----------|--------|
 | FabFilter Pro-Q 4 | $199 | Precision EQ with dynamic capability | [Developer Site](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-logic-pro) |
 | Valhalla VintageVerb | $50 | Algorithmic reverb at any budget | [Developer Site](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
-| FabFilter Pro-C 3 | $199 | Transparent and character compression | [Developer Site](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=best-plugins-logic-pro) |
+| FabFilter Pro-C 3 | $199 | Transparent and character compression | [Developer Site](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&chan=art&data1=best-plugins-logic-pro) |
 | Serum | $189 | Wavetable synthesis with modern workflow | [Developer Site](https://xferrecords.com/products/serum-2) |
 | iZotope Neutron 4 | Superseded by Neutron 5 ($299) | AI-assisted mix analysis | [Developer Site](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=best-plugins-logic-pro) |
 | Vital | Free | Wavetable synthesis without the price tag | [Free](https://vital.audio/) |
@@ -91,7 +91,7 @@ FabFilter Pro-C 3's defining feature is its gain reduction display, which visual
 
 **Best for:** Producers learning gain staging who want visual feedback alongside the sound result.
 
-[→ Get FabFilter Pro-C 3 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=best-plugins-logic-pro)
+[→ Get FabFilter Pro-C 3 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&chan=art&data1=best-plugins-logic-pro)
 
 ---
 
@@ -341,7 +341,7 @@ EchoBoy covers 30 delay styles modeled on hardware units from the Echoplex tape 
 |--------|-------|------|------------|-----|
 | FabFilter Pro-Q 4 | $199 | EQ | Dynamic EQ, mid/side, 24 bands | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-logic-pro) |
 | TDR Nova | Free | Dynamic EQ | Parallel compression (GE), fully free | [Get It](https://www.izotope.com/en/products/music-production-suite) |
-| FabFilter Pro-C 3 | $199 | Compressor | 14 styles, visual GR display | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=best-plugins-logic-pro) |
+| FabFilter Pro-C 3 | $199 | Compressor | 14 styles, visual GR display | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&chan=art&data1=best-plugins-logic-pro) |
 | Klanghelm MJUC jr. | Free | Compressor | Variable-mu warmth, bus glue | [Get It](https://www.izotope.com/en/products/music-production-suite) |
 | OTT | Free | Multiband Comp | Extreme upward/downward compression | [Get It](https://www.izotope.com/en/products/music-production-suite) |
 | Valhalla VintageVerb | $50 | Reverb | 17 algorithms, $50 price | [Get It](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |

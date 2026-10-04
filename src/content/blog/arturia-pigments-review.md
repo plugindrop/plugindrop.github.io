@@ -21,7 +21,7 @@ draft: false
 | Edition | Price | What it is | Get It |
 |---------|-------|------------|--------|
 | Pigments Play | Free | Reduced version: 100 presets, limited parameter control, no modulation control | [Free Download](https://www.arturia.com/products/software-instruments/pigments-play/free) |
-| **Pigments 7** | **$199** | **Full version: 1700+ presets, full parameter and modulation control, Main, FX and Sequencer views** | [→ Get Pigments 7](https://www.pluginboutique.com/search?q=Arturia%20Pigments%207&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-pigments-review&chan=art&data1=arturia-pigments-review) |
+| **Pigments 7** | **$199** | **Full version: 1700+ presets, full parameter and modulation control, Main, FX and Sequencer views** | [→ Get Pigments 7](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-pigments-review&chan=art&data1=arturia-pigments-review) |
 | Update from an earlier Pigments | Free | Arturia calls Pigments 7 a free update for Pigments users | [How to update](https://www.arturia.com/products/software-instruments/pigments/update) |
 
 ---
@@ -42,7 +42,7 @@ If you searched for Pigments 5, note that Arturia now sells Pigments 7. The vend
 - **Mac requirements:** macOS 11 or later, 4 GB RAM, 4-core CPU at 3.4 GHz or an M1 CPU, 3 GB free disk space, OpenGL 2.0 compatible GPU
 - **Also listed:** MPE compatibility, MTS-ESP microtuning compatibility, NKS controller compatibility
 
-[→ Get Pigments 7](https://www.pluginboutique.com/search?q=Arturia%20Pigments%207&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-pigments-review&chan=art&data1=arturia-pigments-review)
+[→ Get Pigments 7](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=arturia-pigments-review&chan=art&data1=arturia-pigments-review)
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01",
+  "generated_at": "2026-10-04",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -7,10 +7,459 @@
   "skipped_months": [],
   "months": [
     {
+      "month": "2026-10",
+      "label": "October 2026",
+      "is_current": true,
+      "generated_at": "2026-10-04",
+      "observations": 150,
+      "products_tracked": 121,
+      "products_on_sale": 77,
+      "on_sale_pct": 63.6,
+      "avg_discount_pct": 63.4,
+      "median_discount_pct": 66,
+      "discount_buckets": {
+        "1-19": 2,
+        "20-39": 5,
+        "40-59": 21,
+        "60+": 49
+      },
+      "all_time_low_hits": 62,
+      "deepest_discounts": [
+        {
+          "name": "TOTAL VI MAX 2",
+          "slug": "total-vi-max-2",
+          "category": "Other",
+          "regular": 1499.92,
+          "sale": 79.99,
+          "pct_off": 95,
+          "date": "2026-10-01",
+          "pb_url": "/product/81-Bundles/97-Various-Category/16798-TOTAL-VI-MAX-2"
+        },
+        {
+          "name": "CARBON",
+          "slug": "carbon",
+          "category": "Other",
+          "regular": 129.0,
+          "sale": 9.0,
+          "pct_off": 93,
+          "date": "2026-10-01",
+          "pb_url": "/product/1-Instruments/64-Virtual-Instruments/5842-CARBON"
+        },
+        {
+          "name": "IRON 2",
+          "slug": "iron-2",
+          "category": "Other",
+          "regular": 129.0,
+          "sale": 9.0,
+          "pct_off": 93,
+          "date": "2026-10-01",
+          "pb_url": "/product/1-Instruments/64-Virtual-Instruments/8111-IRON-2"
+        },
+        {
+          "name": "HEAVY 2",
+          "slug": "heavy-2",
+          "category": "Other",
+          "regular": 119.0,
+          "sale": 9.0,
+          "pct_off": 92,
+          "date": "2026-10-03",
+          "pb_url": "/product/1-Instruments/64-Virtual-Instruments/5508-HEAVY-2"
+        },
+        {
+          "name": "MELLOW 2",
+          "slug": "mellow-2",
+          "category": "Other",
+          "regular": 119.0,
+          "sale": 9.0,
+          "pct_off": 92,
+          "date": "2026-10-03",
+          "pb_url": "/product/1-Instruments/64-Virtual-Instruments/6259-MELLOW-2"
+        },
+        {
+          "name": "PHAT 2",
+          "slug": "phat-2",
+          "category": "Other",
+          "regular": 119.0,
+          "sale": 9.0,
+          "pct_off": 92,
+          "date": "2026-10-03",
+          "pb_url": "/product/1-Instruments/64-Virtual-Instruments/5506-PHAT-2"
+        },
+        {
+          "name": "ROWDY 2",
+          "slug": "rowdy-2",
+          "category": "Other",
+          "regular": 119.0,
+          "sale": 9.0,
+          "pct_off": 92,
+          "date": "2026-10-03",
+          "pb_url": "/product/1-Instruments/64-Virtual-Instruments/6261-ROWDY-2"
+        },
+        {
+          "name": "ROYAL 2",
+          "slug": "royal-2",
+          "category": "Other",
+          "regular": 119.0,
+          "sale": 9.0,
+          "pct_off": 92,
+          "date": "2026-10-03",
+          "pb_url": "/product/1-Instruments/64-Virtual-Instruments/6257-ROYAL-2"
+        },
+        {
+          "name": "SOLID 2",
+          "slug": "solid-2",
+          "category": "Other",
+          "regular": 119.0,
+          "sale": 9.0,
+          "pct_off": 92,
+          "date": "2026-10-01",
+          "pb_url": "/product/1-Instruments/64-Virtual-Instruments/5507-SOLID-2"
+        },
+        {
+          "name": "Empirical Labs EL8 Distressor Compressor",
+          "slug": "empirical-labs-el8-distressor-compressor",
+          "category": "Other",
+          "regular": 199.0,
+          "sale": 29.0,
+          "pct_off": 85,
+          "date": "2026-10-01",
+          "pb_url": "/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor"
+        },
+        {
+          "name": "MODO BASS 2",
+          "slug": "modo-bass-2",
+          "category": "Other",
+          "regular": 199.99,
+          "sale": 29.99,
+          "pct_off": 85,
+          "date": "2026-10-01",
+          "pb_url": "/product/1-Instruments/64-Virtual-Instruments/12454-MODO-BASS-2"
+        },
+        {
+          "name": "UAD Helios Type 69 Preamp and EQ Collection",
+          "slug": "uad-helios-type-69-preamp-and-eq-collection",
+          "category": "Other",
+          "regular": 149.0,
+          "sale": 29.0,
+          "pct_off": 81,
+          "date": "2026-10-03",
+          "pb_url": "/product/2-Effects/16-EQ/11854-Helios-Type-69-Preamp-and-EQ-Collection"
+        },
+        {
+          "name": "UAD UA 175B 176 Tube Compressor Collection",
+          "slug": "uad-ua-175b-176-tube-compressor-collection",
+          "category": "Other",
+          "regular": 149.0,
+          "sale": 29.0,
+          "pct_off": 81,
+          "date": "2026-10-03",
+          "pb_url": "/product/2-Effects/8-Compressor/10940-UA-175B-176-Tube-Compressor-Collection"
+        },
+        {
+          "name": "UAD Studer A800",
+          "slug": "uad-studer-a800",
+          "category": "Saturation",
+          "regular": 199.0,
+          "sale": 39.0,
+          "pct_off": 80,
+          "date": "2026-10-03",
+          "pb_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/10185-Studer-A800-Tape-Recorder"
+        },
+        {
+          "name": "UAD Studer A800 Tape Recorder",
+          "slug": "uad-studer-a800-tape-recorder",
+          "category": "Other",
+          "regular": 199.0,
+          "sale": 39.0,
+          "pct_off": 80,
+          "date": "2026-10-03",
+          "pb_url": "/product/2-Effects/96-Tape-Emulation/10185-Studer-A800-Tape-Recorder"
+        }
+      ],
+      "all_time_low_products": [
+        {
+          "name": "TOTAL VI MAX 2",
+          "slug": "total-vi-max-2",
+          "sale": 79.99,
+          "all_time_low": 79.99,
+          "date": "2026-10-01"
+        },
+        {
+          "name": "CARBON",
+          "slug": "carbon",
+          "sale": 9.0,
+          "all_time_low": 9.0,
+          "date": "2026-10-01"
+        },
+        {
+          "name": "IRON 2",
+          "slug": "iron-2",
+          "sale": 9.0,
+          "all_time_low": 9.0,
+          "date": "2026-10-01"
+        },
+        {
+          "name": "HEAVY 2",
+          "slug": "heavy-2",
+          "sale": 9.0,
+          "all_time_low": 9.0,
+          "date": "2026-10-03"
+        },
+        {
+          "name": "MELLOW 2",
+          "slug": "mellow-2",
+          "sale": 9.0,
+          "all_time_low": 9.0,
+          "date": "2026-10-03"
+        },
+        {
+          "name": "PHAT 2",
+          "slug": "phat-2",
+          "sale": 9.0,
+          "all_time_low": 9.0,
+          "date": "2026-10-03"
+        },
+        {
+          "name": "ROWDY 2",
+          "slug": "rowdy-2",
+          "sale": 9.0,
+          "all_time_low": 9.0,
+          "date": "2026-10-03"
+        },
+        {
+          "name": "ROYAL 2",
+          "slug": "royal-2",
+          "sale": 9.0,
+          "all_time_low": 9.0,
+          "date": "2026-10-03"
+        },
+        {
+          "name": "SOLID 2",
+          "slug": "solid-2",
+          "sale": 9.0,
+          "all_time_low": 9.0,
+          "date": "2026-10-01"
+        },
+        {
+          "name": "Empirical Labs EL8 Distressor Compressor",
+          "slug": "empirical-labs-el8-distressor-compressor",
+          "sale": 29.0,
+          "all_time_low": 29.0,
+          "date": "2026-10-01"
+        },
+        {
+          "name": "MODO BASS 2",
+          "slug": "modo-bass-2",
+          "sale": 29.99,
+          "all_time_low": 29.99,
+          "date": "2026-10-01"
+        },
+        {
+          "name": "UAD Helios Type 69 Preamp and EQ Collection",
+          "slug": "uad-helios-type-69-preamp-and-eq-collection",
+          "sale": 29.0,
+          "all_time_low": 29.0,
+          "date": "2026-10-03"
+        },
+        {
+          "name": "UAD UA 175B 176 Tube Compressor Collection",
+          "slug": "uad-ua-175b-176-tube-compressor-collection",
+          "sale": 29.0,
+          "all_time_low": 29.0,
+          "date": "2026-10-03"
+        },
+        {
+          "name": "UAD Studer A800",
+          "slug": "uad-studer-a800",
+          "sale": 39.0,
+          "all_time_low": 39,
+          "date": "2026-10-03"
+        },
+        {
+          "name": "UAD Studer A800 Tape Recorder",
+          "slug": "uad-studer-a800-tape-recorder",
+          "sale": 39.0,
+          "all_time_low": 39.0,
+          "date": "2026-10-03"
+        }
+      ],
+      "by_category": [
+        {
+          "category": "Other",
+          "tracked": 108,
+          "on_sale": 72,
+          "on_sale_pct": 66.7,
+          "avg_discount_pct": 63.2
+        },
+        {
+          "category": "Synth",
+          "tracked": 5,
+          "on_sale": 1,
+          "on_sale_pct": 20.0,
+          "avg_discount_pct": 60
+        },
+        {
+          "category": "Compressor",
+          "tracked": 2,
+          "on_sale": 1,
+          "on_sale_pct": 50.0,
+          "avg_discount_pct": 65
+        },
+        {
+          "category": "EQ",
+          "tracked": 1,
+          "on_sale": 1,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 74
+        },
+        {
+          "category": "Effects",
+          "tracked": 1,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Instrument",
+          "tracked": 1,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Mastering",
+          "tracked": 1,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Saturation",
+          "tracked": 1,
+          "on_sale": 1,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 80
+        },
+        {
+          "category": "Vocal",
+          "tracked": 1,
+          "on_sale": 1,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 51
+        }
+      ],
+      "by_brand": [
+        {
+          "category": "Other",
+          "tracked": 50,
+          "on_sale": 36,
+          "on_sale_pct": 72.0,
+          "avg_discount_pct": 64.8
+        },
+        {
+          "category": "Universal Audio",
+          "tracked": 50,
+          "on_sale": 34,
+          "on_sale_pct": 68.0,
+          "avg_discount_pct": 63.9
+        },
+        {
+          "category": "Cherry Audio",
+          "tracked": 5,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "iZotope",
+          "tracked": 3,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Excite Audio",
+          "tracked": 2,
+          "on_sale": 2,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 56.5
+        },
+        {
+          "category": "Native Instruments",
+          "tracked": 2,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Softube",
+          "tracked": 2,
+          "on_sale": 1,
+          "on_sale_pct": 50.0,
+          "avg_discount_pct": 65
+        },
+        {
+          "category": "GForce",
+          "tracked": 1,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Minimal Audio",
+          "tracked": 1,
+          "on_sale": 1,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 39
+        },
+        {
+          "category": "Reveal Sound",
+          "tracked": 1,
+          "on_sale": 1,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 60
+        },
+        {
+          "category": "Slate Digital",
+          "tracked": 1,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Sonible",
+          "tracked": 1,
+          "on_sale": 1,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 45
+        },
+        {
+          "category": "Soundtoys",
+          "tracked": 1,
+          "on_sale": 1,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 51
+        },
+        {
+          "category": "Vengeance",
+          "tracked": 1,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        }
+      ],
+      "vs_previous_month": {
+        "month": "2026-09",
+        "on_sale_pct_delta": 9.4,
+        "avg_discount_pct_delta": 5.6,
+        "products_tracked_delta": -396
+      }
+    },
+    {
       "month": "2026-09",
       "label": "September 2026",
       "is_current": false,
-      "generated_at": "2026-10-01",
+      "generated_at": "2026-10-04",
       "observations": 3603,
       "products_tracked": 517,
       "products_on_sale": 280,
@@ -641,7 +1090,7 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-10-01",
+      "generated_at": "2026-10-04",
       "observations": 3587,
       "products_tracked": 425,
       "products_on_sale": 258,
@@ -654,7 +1103,7 @@
         "40-59": 91,
         "60+": 95
       },
-      "all_time_low_hits": 203,
+      "all_time_low_hits": 202,
       "deepest_discounts": [
         {
           "name": "Platinum",
@@ -1237,7 +1686,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-10-01",
+      "generated_at": "2026-10-04",
       "observations": 1968,
       "products_tracked": 289,
       "products_on_sale": 142,

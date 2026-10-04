@@ -175,7 +175,7 @@ On acoustic drum kits, OTT in this role is less common; saturation is an alterna
 | Waves SSL G-Master Buss Compressor | ~$30 | Bus Compressor | SSL 4000 G emulation, Auto release, glue compression | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | Transient Master (NI) | $49 | Transient Shaper | Attack/Sustain two-knob control, internal parallel architecture | [Get It](https://www.native-instruments.com/en/products/komplete/effects/transient-master/) |
 | OTT (Xfer Records) | Free | Multiband Compressor | Upward/downward multiband, Depth blend control | [Free](https://xferrecords.com/freeware) |
-| Waves SSL 4000 Collection | Bundle | Channel Strip Suite | Full SSL 4000 console emulation including per-channel EQ and dynamics | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20SSL%204000%20Collection&a_aid=69cb95abe1763&chan=art&data1=how-to-mix-drums-plugins) |
+| Waves SSL 4000 Collection | Bundle | Channel Strip Suite | Full SSL 4000 console emulation including per-channel EQ and dynamics | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12600-SSL-4000-Collection?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-drums-plugins) |
 | FabFilter Total Bundle | Bundle | Full Suite | Complete dynamics, EQ, and limiting chain from a single developer | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-drums-plugins) |
 
 ---

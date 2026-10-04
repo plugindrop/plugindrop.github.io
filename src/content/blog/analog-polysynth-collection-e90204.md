@@ -16,7 +16,7 @@ draft: false
 ---
 If you only add one synth bundle to your rack this quarter, make it this one — it collects five classic Roland polysynth emulations at the lowest price PluginDrop has tracked for the set.
 
-**TL;DR:** The Analog Polysynth Collection is ~~$499~~ $199 at [Plugin Boutique](https://www.pluginboutique.com/search?q=Analog+Polysynth+Collection&a_aid=69cb95abe1763&chan=art&data1=analog-polysynth-collection-e90204&utm_source=plugindrop&utm_medium=article&utm_campaign=analog-polysynth-collection-e90204), a 60% cut from list. PluginDrop has tracked this bundle since 2026-09-04 across 30 price observations, and $199 is the lowest it has recorded. It bundles five Roland polysynth emulations — JUPITER-4, JUPITER-8, JUNO-60, JX-3P, and JUNO-106 — in one VST3/AU/AAX package.
+**TL;DR:** The Analog Polysynth Collection is ~~$499~~ $199 at [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16252-Analog-Polysynth-Collection?a_aid=69cb95abe1763&chan=art&data1=analog-polysynth-collection-e90204&utm_source=plugindrop&utm_medium=article&utm_campaign=analog-polysynth-collection-e90204), a 60% cut from list. PluginDrop has tracked this bundle since 2026-09-04 across 30 price observations, and $199 is the lowest it has recorded. It bundles five Roland polysynth emulations — JUPITER-4, JUPITER-8, JUNO-60, JX-3P, and JUNO-106 — in one VST3/AU/AAX package.
 
 <!-- deal-context-sale-windows:start -->
 ## Last three times this went on sale
@@ -86,7 +86,7 @@ A: Yes, the product listing mentions a Lifetime Key purchase with free updates; 
 
 ## Should you buy now?
 
-PluginDrop's verdict is BUY NOW: the current $199 price sits within 5% of the $199 lowest price tracked, based on 30 observations since 2026-09-04. With $499 as the regular price, this is as good as the discount has gotten on record. If the five-synth lineup fits your workflow and your host supports VST3, AU, or AAX, [grab the Analog Polysynth Collection at Plugin Boutique](https://www.pluginboutique.com/search?q=Analog+Polysynth+Collection&a_aid=69cb95abe1763&chan=art&data1=analog-polysynth-collection-e90204&utm_source=plugindrop&utm_medium=article&utm_campaign=analog-polysynth-collection-e90204) while it's at the tracked low.
+PluginDrop's verdict is BUY NOW: the current $199 price sits within 5% of the $199 lowest price tracked, based on 30 observations since 2026-09-04. With $499 as the regular price, this is as good as the discount has gotten on record. If the five-synth lineup fits your workflow and your host supports VST3, AU, or AAX, [grab the Analog Polysynth Collection at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16252-Analog-Polysynth-Collection?a_aid=69cb95abe1763&chan=art&data1=analog-polysynth-collection-e90204&utm_source=plugindrop&utm_medium=article&utm_campaign=analog-polysynth-collection-e90204) while it's at the tracked low.
 
 *Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
 

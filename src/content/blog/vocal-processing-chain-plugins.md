@@ -25,8 +25,8 @@ priceTrack:
 |--------|-------|----------|--------|
 | Waves Tune Real-Time | $199 list ($34.99 sale on Waves, 2026-10-01) | Low-latency pitch correction | [Plugin Boutique](https://www.waves.com/plugins/waves-tune-real-time) |
 | FabFilter Pro-Q 4 | €179 | Surgical & creative EQ | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=vocal-processing-chain-plugins) |
-| Waves Sibilance | $29 | Spectral de-essing | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20Sibilance&a_aid=69cb95abe1763&chan=art&data1=vocal-processing-chain-plugins) |
-| FabFilter Pro-C 3 | $199 | Transparent & character compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=vocal-processing-chain-plugins) |
+| Waves Sibilance | $29 | Spectral de-essing | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/59-De-Esser/13588-Sibilance?a_aid=69cb95abe1763&chan=art&data1=vocal-processing-chain-plugins) |
+| FabFilter Pro-C 3 | $199 | Transparent & character compression | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&chan=art&data1=vocal-processing-chain-plugins) |
 | iZotope Nectar 4 | $199 | All-in-one AI vocal suite | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Nectar%204&a_aid=69cb95abe1763&chan=art&data1=vocal-processing-chain-plugins) |
 | Valhalla Supermassive | Free | Lush vocal reverb & delay | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 
@@ -105,7 +105,7 @@ Waves Sibilance uses spectral shaping rather than traditional band-based detecti
 
 **Best for:** Any vocal that needs de-essing without the lispy, over-processed artifacts that older detection designs produce.
 
-[→ Get Waves Sibilance on Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20Sibilance&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vocal-processing-chain-plugins&chan=art&data1=vocal-processing-chain-plugins)
+[→ Get Waves Sibilance on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/59-De-Esser/13588-Sibilance?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=vocal-processing-chain-plugins&chan=art&data1=vocal-processing-chain-plugins)
 
 ---
 
@@ -128,7 +128,7 @@ FabFilter Pro-C 3 covers 14 distinct compression styles in a single plugin. A re
 
 **Watch a demo:** [YouTube](https://www.youtube.com/watch?v=mSzvpCz-M2k)
 
-[→ Get FabFilter Pro-C 3 on Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=vocal-processing-chain-plugins)
+[→ Get FabFilter Pro-C 3 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&chan=art&data1=vocal-processing-chain-plugins)
 
 ---
 
@@ -222,8 +222,8 @@ Once your core chain is locked in, these bundles and premium options offer the n
 |--------|-------|------|------------|-----|
 | Waves Tune Real-Time | $199 list ($34.99 sale on Waves, 2026-10-01) | Pitch Correction | Low-latency, natural tuning, simple UI | [Plugin Boutique](https://www.waves.com/plugins/waves-tune-real-time) |
 | FabFilter Pro-Q 4 | €179 | EQ | Dynamic EQ, M/S per band, zero-latency mode | [Buy](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=vocal-processing-chain-plugins) |
-| Waves Sibilance | $29 | De-esser | Spectral detection, invisible results | [Buy](https://www.pluginboutique.com/search?q=Waves%20Sibilance&a_aid=69cb95abe1763&chan=art&data1=vocal-processing-chain-plugins) |
-| FabFilter Pro-C 3 | $199 | Compressor | 14 compression styles | [Buy](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=vocal-processing-chain-plugins) |
+| Waves Sibilance | $29 | De-esser | Spectral detection, invisible results | [Buy](https://www.pluginboutique.com/product/2-Effects/59-De-Esser/13588-Sibilance?a_aid=69cb95abe1763&chan=art&data1=vocal-processing-chain-plugins) |
+| FabFilter Pro-C 3 | $199 | Compressor | 14 compression styles | [Buy](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&chan=art&data1=vocal-processing-chain-plugins) |
 | iZotope Nectar 4 | $199 | Full Vocal Suite | AI assistant, Unmask, all-in-one | [Buy](https://www.pluginboutique.com/search?q=iZotope%20Nectar%204&a_aid=69cb95abe1763&chan=art&data1=vocal-processing-chain-plugins) |
 | Valhalla Supermassive | Free | Reverb/Delay | Lush Valhalla algorithms, completely free | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Waves Vocal Bundle | From $99 | Bundle | Full Waves vocal toolkit at bundle pricing | [Buy](https://www.pluginboutique.com/search?q=Waves%20Vocal%20Bundle&a_aid=69cb95abe1763&chan=art&data1=vocal-processing-chain-plugins) |

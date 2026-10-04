@@ -22,7 +22,7 @@ draft: false
 |--------|-------|----------|--------|
 | Komplete Select | $99 | First-time NI users, hardware owners | [Official Site](https://www.native-instruments.com/en/products/komplete/bundles/) |
 | Komplete 26 Standard | $549 list | All-around bedroom producer | [Official Site](https://www.native-instruments.com/en/products/komplete/bundles/) |
-| Komplete 26 Ultimate | $1,249 list | Film, TV, and game audio composers | [Plugin Boutique](https://www.pluginboutique.com/search?q=KOMPLETE+26+Ultimate&a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
+| Komplete 26 Ultimate | $1,249 list | Film, TV, and game audio composers | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17259-Komplete-26-Ultimate?a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
 | Komplete 26 Collector's Edition | $1,949 list | Professional sound designers | [Plugin Boutique](https://www.pluginboutique.com/search?q=KOMPLETE+26+Collector+s+Edition&a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
 | Arturia V Collection 11 | ~$299–$499 (sale) | Synthesis-first producers | [Official Site](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
 
@@ -99,7 +99,7 @@ At Ultimate's typical sale pricing of $399–$499, replicating the included cont
 
 **Best for:** Composers and session producers who regularly need orchestral, cinematic, or ethnically diverse instrument depth.
 
-[→ Get Komplete 26 Ultimate on Plugin Boutique](https://www.pluginboutique.com/search?q=KOMPLETE+26+Ultimate&a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it)
+[→ Get Komplete 26 Ultimate on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17259-Komplete-26-Ultimate?a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it)
 
 ---
 
@@ -153,8 +153,8 @@ The Collector's Edition targets professional composers, sound designers, and stu
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Komplete Select | $99 | Starter bundle | Kontakt Player, curated library, hardware bundle | Official Site |
-| Komplete 26 Standard | $549 list | Full production bundle | Full Kontakt, Massive X, Battery 4, Reaktor 6, Guitar Rig Pro | [Official Site](https://www.pluginboutique.com/search?q=Komplete%2026%20Standard&a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
-| Komplete 26 Ultimate | $1,249 list | Expanded bundle | Everything in Standard + Symphony Series, world instruments, 200GB+ | [Official Site](https://www.pluginboutique.com/search?q=Komplete%2026%20Ultimate&a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
+| Komplete 26 Standard | $549 list | Full production bundle | Full Kontakt, Massive X, Battery 4, Reaktor 6, Guitar Rig Pro | [Official Site](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17256-Komplete-26-Standard?a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
+| Komplete 26 Ultimate | $1,249 list | Expanded bundle | Everything in Standard + Symphony Series, world instruments, 200GB+ | [Official Site](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17259-Komplete-26-Ultimate?a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
 | Komplete 26 Collector's Edition | $1,949 list | Complete NI catalog | Full NI library, 400GB+, professional composer tier | [Official Site](https://www.pluginboutique.com/search?q=Komplete%2026%20Collector%27s%20Edition&a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
 | Arturia V Collection 11 | ~$299–$499 (sale) | Vintage synth bundle | 40+ emulations, physical modeling, circuit simulation | [Official Site](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=is-native-instruments-komplete-worth-it) |
 

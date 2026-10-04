@@ -16,7 +16,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| FabFilter Pro-C 3 | $199 | All-purpose drum compression | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=how-to-compress-drums-plugins) |
+| FabFilter Pro-C 3 | $199 | All-purpose drum compression | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&chan=art&data1=how-to-compress-drums-plugins) |
 | Klanghelm DC8C | Free | Vintage-character individual drum compression | [Klanghelm.com](https://klanghelm.com/contents/products/DC8C) |
 | Waves SSL G-Master Buss | $29 | Classic drum bus glue | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20SSL%20G%20Master&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-compress-drums-plugins&chan=art&data1=how-to-compress-drums-plugins) |
 
@@ -141,7 +141,7 @@ For snare:
 - **Formats:** VST3, AU, AAX
 - **Why it matters for drum compression:** Pro-C 3's 14 compression modes cover the full range of drum compression scenarios. The built-in Mix setting simplifies parallel compression. The visual gain reduction display makes it easy to see exactly how much compression is being applied without metering guesswork.
 
-[→ Get FabFilter Pro-C 3 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=how-to-compress-drums-plugins)
+[→ Get FabFilter Pro-C 3 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&chan=art&data1=how-to-compress-drums-plugins)
 
 ---
 

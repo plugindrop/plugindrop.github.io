@@ -19,7 +19,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Wider (Polyverse) | Free | All-purpose widening, any DAW | [Free Download](https://polyversemusic.com/products/wider/) |
-| iZotope Ozone Imager 2 | Free | Visual stereo control + mono checking | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%20Imager%202&a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins) |
+| iZotope Ozone Imager 2 | Free | Visual stereo control + mono checking | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/5997-Ozone-Imager-2?a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins) |
 | Voxengo MSED | Free | M/S routing and side-chain processing | [Free Download](https://www.voxengo.com/product/msed/) |
 | Waves S1 Stereo Imager | ~$29 | Classic transparent stereo shaping | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/13667-S1-Stereo-Imager?a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins) |
 | Brainworx bx_stereomaker | ~$49 | Mono-to-stereo conversion | [Plugin Boutique](https://www.pluginboutique.com/search?q=Brainworx%20bx_stereomaker&a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins) |
@@ -268,12 +268,12 @@ This is the single biggest "wait for it" recommendation in this guide. Plugin Bo
 | iZotope Ozone Imager 2 | Free | Multi-band Imager | Lissajous display, frequency-selective, mono meter | Plugin Boutique |
 | Voxengo MSED | Free | M/S Utility | M/S encode/decode, use any plugin in M/S domain | [Free Download](https://www.voxengo.com/product/msed/) |
 | MeldaProduction MStereoExpander | Free | Stereo Expander | Multi-control, bass mono protection | [Free Download](https://www.meldaproduction.com/MStereoExpander) |
-| Waves S1 Stereo Imager | ~$29 | M/S Imager | Shuffler + widener modes, industry-proven | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20S1%20Stereo%20Imager&a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins) |
+| Waves S1 Stereo Imager | ~$29 | M/S Imager | Shuffler + widener modes, industry-proven | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/13667-S1-Stereo-Imager?a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins) |
 | Brainworx bx_stereomaker | ~$49 | Mono-to-Stereo | Clean mono-to-stereo conversion, artifact-free | [Plugin Boutique](https://www.pluginboutique.com/search?q=Brainworx%20bx_stereomaker&a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins) |
-| Soundtoys MicroShift | ~$99 | ADT Widener | Vintage pitch-shift character, 3 style modes | [Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys%20MicroShift&a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins) |
-| Waves Center | ~$29 | Stereo Control | Independent center/sides volume and punch | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20Center&a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins) |
-| Nugen Audio Stereoizer | ~$99 | Mastering Imager | Frequency-selective, mastering-grade transparency | [Plugin Boutique](https://www.pluginboutique.com/search?q=Nugen%20Audio%20Stereoizer&a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins) |
-| Eventide MicroPitch | ~$99 | Pitch Widener | Modern pitch-shift width, modulation controls | [Plugin Boutique](https://www.pluginboutique.com/search?q=Eventide%20MicroPitch&a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins) |
+| Soundtoys MicroShift | ~$99 | ADT Widener | Vintage pitch-shift character, 3 style modes | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/1809-MicroShift?a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins) |
+| Waves Center | ~$29 | Stereo Control | Independent center/sides volume and punch | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/13610-Center?a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins) |
+| Nugen Audio Stereoizer | ~$99 | Mastering Imager | Frequency-selective, mastering-grade transparency | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/1709-Stereoizer-?a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins) |
+| Eventide MicroPitch | ~$99 | Pitch Widener | Modern pitch-shift width, modulation controls | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/6350-MicroPitch?a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins) |
 
 ---
 

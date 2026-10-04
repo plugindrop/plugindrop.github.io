@@ -27,7 +27,7 @@ priceTrack:
 | iZotope Ozone 12 | $219 | AI-assisted all-in-one mastering | [iZotope](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=izotope-ozone-vs-fabfilter-mastering) |
 | FabFilter Pro-L 2 | $199 | Transparent, precision limiting | [FabFilter](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=izotope-ozone-vs-fabfilter-mastering) |
 | iZotope Ozone 12 Advanced | $499 | Pro mastering with stems & advanced modules | [iZotope](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=izotope-ozone-vs-fabfilter-mastering) |
-| FabFilter Total Bundle | $1,069 | Full production + mastering toolkit | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763&chan=art&data1=izotope-ozone-vs-fabfilter-mastering) |
+| FabFilter Total Bundle | $1,069 | Full production + mastering toolkit | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=izotope-ozone-vs-fabfilter-mastering) |
 
 ---
 

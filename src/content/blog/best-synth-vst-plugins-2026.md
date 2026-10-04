@@ -28,7 +28,7 @@ Before the full rankings, here's the fast comparison. This table covers price, i
 | Vital | Free | Wavetable synthesis, all genres | N/A — fully free | [Free Download](https://vital.audio/) |
 | Serum | $189 | EDM, bass music, professional workflows | Yes (full demo, no save/export) | [Plugin Boutique](https://xferrecords.com/products/serum-2) |
 | Phase Plant | $99 | Modular sound design, maximum flexibility | Yes (full demo) | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=best-synth-vst-plugins-2026) |
-| Arturia Pigments 7 | $199 | Multi-engine exploration, visual patching | Yes (unlimited demo w/ noise) | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20Pigments%207&a_aid=69cb95abe1763&chan=art&data1=best-synth-vst-plugins-2026) |
+| Arturia Pigments 7 | $199 | Multi-engine exploration, visual patching | Yes (unlimited demo w/ noise) | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7?a_aid=69cb95abe1763&chan=art&data1=best-synth-vst-plugins-2026) |
 | u-he Hive 2 | $149 | Fast workflow, analog warmth | Yes (full, w/ periodic noise burst) | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5392-Hive-2?a_aid=69cb95abe1763&chan=art&data1=best-synth-vst-plugins-2026) |
 | Massive X | $199 | Complex modulation, NI ecosystem | Yes (30-day, via Native Access) | Plugin Boutique or [Native Instruments](https://www.native-instruments.com/en/products/komplete/synths/massive-x/) direct |
 | Surge XT | Free | Open-source versatility, modulation depth | N/A — fully free | [Free Download](https://surge-synthesizer.github.io/) |
@@ -182,7 +182,7 @@ Arturia runs some of the most aggressive discount campaigns of any major plugin 
 
 **Best for:** Producers who want to combine synthesis types in one patch and learn modulation concepts through visual feedback.
 
-[→ Get Arturia Pigments 7 on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Arturia%20Pigments%207&a_aid=69cb95abe1763&chan=art&data1=best-synth-vst-plugins-2026)
+[→ Get Arturia Pigments 7 on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7?a_aid=69cb95abe1763&chan=art&data1=best-synth-vst-plugins-2026)
 
 ---
 

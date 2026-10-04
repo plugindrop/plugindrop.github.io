@@ -17,7 +17,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Klanghelm DC8C | Free (gratis version) | Learning sidechain compression without cost | [Plugin Boutique](https://www.pluginboutique.com/search?q=Klanghelm%20DC8C&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-sidechain-compression&chan=art&data1=how-to-sidechain-compression) |
-| FabFilter Pro-C 3 | $199 | Transparent or pumping sidechain in any context | [Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=how-to-sidechain-compression) |
+| FabFilter Pro-C 3 | $199 | Transparent or pumping sidechain in any context | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&chan=art&data1=how-to-sidechain-compression) |
 | Xfer LFO Tool | $49.95 | Volume automation-style pumping as sidechain alternative | [Plugin Boutique](https://www.pluginboutique.com/search?q=Xfer%20LFO%20Tool&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-sidechain-compression&chan=art&data1=how-to-sidechain-compression) |
 | Waves OneKnob Pumper | ~$29 | Fast, tempo-synced sidechain effect without routing | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/13733-OneKnob-Pumper?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-sidechain-compression&chan=art&data1=how-to-sidechain-compression) |
 
@@ -96,7 +96,7 @@ Pro-C 3 offers 14 compression styles, so you can choose between more transparent
 
 **Key filter setting for kick-bass sidechain:** High-pass filter at 120 Hz in the sidechain panel. This removes sub-bass from the trigger signal and tightens the response.
 
-[→ Get FabFilter Pro-C 3 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=how-to-sidechain-compression)
+[→ Get FabFilter Pro-C 3 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&chan=art&data1=how-to-sidechain-compression)
 
 ---
 
@@ -156,7 +156,7 @@ Sidechain compression in 2026 is both a standard mixing technique and a stylisti
 
 Klanghelm DC8C free is the right starting tool for learning the concept. FabFilter Pro-C 3 is the standard recommendation for professional mixing where sidechain display, key filtering, and algorithmic flexibility matter.
 
-[→ Get FabFilter Pro-C 3 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=how-to-sidechain-compression)
+[→ Get FabFilter Pro-C 3 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&chan=art&data1=how-to-sidechain-compression)
 
 ---
 

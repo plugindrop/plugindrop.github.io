@@ -311,15 +311,15 @@ Because the core host is free forever, there's zero risk in installing it today.
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| iZotope Stutter Edit 2 | ~$199 | Glitch/Stutter | MIDI gesture system, real-time performance | [Official Site](https://www.pluginboutique.com/search?q=iZotope%20Stutter%20Edit%202&a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins) |
+| iZotope Stutter Edit 2 | ~$199 | Glitch/Stutter | MIDI gesture system, real-time performance | [Official Site](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/6515-Stutter-Edit-2?a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins) |
 | Glitch 2 | ~$35 | Glitch Sequencer | Step-sequenced glitch cells, high value | [Official Site](https://www.pluginboutique.com/search?q=Glitch%202&a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins) |
-| Sugar Bytes Turnado | ~$99 | Multi-FX Performance | Dictator macro, 8 simultaneous FX slots | [Official Site](https://www.pluginboutique.com/search?q=Sugar%20Bytes%20Turnado&a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins) |
+| Sugar Bytes Turnado | ~$99 | Multi-FX Performance | Dictator macro, 8 simultaneous FX slots | [Official Site](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/528-Turnado?a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins) |
 | Sugar Bytes Effectrix | ~$79 | Sequenced Multi-FX | Tempo-synced step FX, precise programming | [Official Site](https://www.pluginboutique.com/search?q=Sugar%20Bytes%20Effectrix&a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins) |
 | GrossBeat | ~$99 | Gate/Time Manipulation | Volume gating, time FX, large pattern library | [Official Site](https://www.pluginboutique.com/search?q=GrossBeat&a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins) |
-| Devious Machines Infiltrator 2 | ~$89 | Sequenced Multi-FX | Visual routing, tempo-synced modulation | [Official Site](https://www.pluginboutique.com/search?q=Devious%20Machines%20Infiltrator%202&a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins) |
-| Output Portal | $149 | Granular FX | Real-time granular insert, immediate results | [Official Site](https://www.pluginboutique.com/search?q=Output%20Portal&a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins) |
+| Devious Machines Infiltrator 2 | ~$89 | Sequenced Multi-FX | Visual routing, tempo-synced modulation | [Official Site](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/7627-Infiltrator-2?a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins) |
+| Output Portal | $149 | Granular FX | Real-time granular insert, immediate results | [Official Site](https://www.pluginboutique.com/product/2-Effects/45-Granular-FX/5458-Portal?a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins) |
 | Tantra 2 | ~$79 | Rhythmic Modulation | Step-sequenced modulation, low signature sound | [Official Site](https://www.pluginboutique.com/search?q=Tantra%202&a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins) |
-| RC-20 Retro Color | ~$99 | Lo-Fi/Texture | 6 degradation modules, animated lo-fi character | [Official Site](https://www.pluginboutique.com/search?q=RC-20%20Retro%20Color&a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins) |
+| RC-20 Retro Color | ~$99 | Lo-Fi/Texture | 6 degradation modules, animated lo-fi character | [Official Site](https://www.pluginboutique.com/product/2-Effects/44-Saturation/3016-RC-20-Retro-Color?a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins) |
 | Soundtoys 5 | ~$599 | Creative Bundle | 14+ plugins in one bundle | [Official Site](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-creative-fx-plugins) |
 | Valhalla Freq Echo | Free | Frequency-Shift Delay | Alien textures, fully free, no limitations | Free — Valhalla DSP |
 | Kilohearts Snap Heap | Free/Paid | Modular FX | Expandable snapin ecosystem, custom routing | Official Site |

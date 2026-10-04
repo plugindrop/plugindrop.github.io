@@ -27,8 +27,8 @@ draft: false
 |--------|-------|----------|--------|
 | Arturia V Collection 11 Pro | $699 list (Intro edition: $199, 10 instruments) | Vintage synths, electric pianos, organs | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20V%20Collection&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
 | NI Komplete Select | See NI for current price | Budget starter, NI hardware owners | [Plugin Boutique](https://www.pluginboutique.com/search?q=Komplete%20Select&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
-| NI Komplete 26 Standard | $549 list | All-around production toolkit | [Plugin Boutique](https://www.pluginboutique.com/search?q=Komplete%2026%20Standard&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
-| NI Komplete 26 Ultimate | $1,249 list | Cinematic, orchestral, maximum library depth | [Plugin Boutique](https://www.pluginboutique.com/search?q=Komplete%2026%20Ultimate&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
+| NI Komplete 26 Standard | $549 list | All-around production toolkit | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17256-Komplete-26-Standard?a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
+| NI Komplete 26 Ultimate | $1,249 list | Cinematic, orchestral, maximum library depth | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17259-Komplete-26-Ultimate?a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
 | V Collection 11 Pro + Komplete Select | $699 (Arturia list, Pro) plus Komplete Select (see NI for current price) | Vintage emulations plus a broader sample-based toolkit | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20V%20Collection&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
 
 ---
@@ -77,7 +77,7 @@ Komplete 26 Standard bundles over 100 instruments and effects. The anchors are K
 
 **Best for:** Producers who need a single bundle that covers synthesis, sampling, acoustic instruments, and mixing effects without buying separately.
 
-[→ Get NI Komplete 26 on Plugin Boutique](https://www.pluginboutique.com/search?q=Komplete%2026%20Standard&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete)
+[→ Get NI Komplete 26 on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17256-Komplete-26-Standard?a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete)
 
 ---
 
@@ -145,7 +145,7 @@ Value depends on what you need. V Collection 11 Pro ($699 list) is a focused set
 - **Price:** $1,249 list (Komplete 26 Ultimate). Source: Native Instruments store, checked 2026-10-03.
 - **Why upgrade:** Ultimate adds the Symphony Series orchestral libraries, Session Guitarist and Bassist expansions, and Straylight/Pharlight hybrid instruments. If cinematic, orchestral, or film scoring work is part of your output, Standard won't fully cover it.
 
-[→ Get NI Komplete 26 Ultimate on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Komplete%2026%20Ultimate&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete)
+[→ Get NI Komplete 26 Ultimate on Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17259-Komplete-26-Ultimate?a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete)
 
 ---
 
@@ -155,8 +155,8 @@ Value depends on what you need. V Collection 11 Pro ($699 list) is a focused set
 |--------|-------|------|------------|-----|
 | Arturia V Collection 11 Pro | $699 list (Intro edition: $199, 10 instruments) | Vintage synths & keys | 45 instruments (Pro), TAE® modeling, Pigments | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20V%20Collection&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
 | NI Komplete Select | See NI for current price | Entry-level starter | Kontakt Player, Massive, Guitar Rig (limited) | [Plugin Boutique](https://www.pluginboutique.com/search?q=Komplete%20Select&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
-| NI Komplete 26 Standard | $549 list | All-around production | Kontakt full, Massive X, Reaktor 6, Guitar Rig 7 | [Plugin Boutique](https://www.pluginboutique.com/search?q=Komplete%2026%20Standard&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
-| NI Komplete 26 Ultimate | $1,249 list | Cinematic/orchestral | Symphony Series, Session players, 100+ libraries | [Plugin Boutique](https://www.pluginboutique.com/search?q=Komplete%2026%20Ultimate&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
+| NI Komplete 26 Standard | $549 list | All-around production | Kontakt full, Massive X, Reaktor 6, Guitar Rig 7 | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17256-Komplete-26-Standard?a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
+| NI Komplete 26 Ultimate | $1,249 list | Cinematic/orchestral | Symphony Series, Session players, 100+ libraries | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17259-Komplete-26-Ultimate?a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
 | V Collection 11 Pro + Komplete Select | $699 (Arturia list, Pro) plus Komplete Select (see NI for current price) | Practical best-of-both | Vintage keys + modern synths + sampling entry point | [Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20V%20Collection&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) |
 
 ---

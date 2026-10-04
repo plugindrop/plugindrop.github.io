@@ -160,7 +160,7 @@ OTT is genuinely free with no paid upgrade path for this specific plugin. Xfer R
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Neural DSP Archetype | From $99 | Amp Simulation | Neural network modeling, full built-in cab sim, 14-day free trial | [Plugin Boutique](https://www.pluginboutique.com/search?q=Neural%20DSP%20Archetype&a_aid=69cb95abe1763&chan=art&data1=guitar-recording-plugin-chain) |
-| Waves IR-L Convolution Reverb | Varies | Convolution Reverb / IR Loader | Third-party IR support, mono/stereo/true stereo | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20IR-L%20Convolution%20Reverb&a_aid=69cb95abe1763&chan=art&data1=guitar-recording-plugin-chain) |
+| Waves IR-L Convolution Reverb | Varies | Convolution Reverb / IR Loader | Third-party IR support, mono/stereo/true stereo | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/13795-IR-L-Convolution-Reverb?a_aid=69cb95abe1763&chan=art&data1=guitar-recording-plugin-chain) |
 | FabFilter Pro-Q 4 | $199 | Parametric EQ | 24 bands, dynamic EQ per band, mid/side processing, EQ match | [FabFilter](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=guitar-recording-plugin-chain) |
 | OTT (Xfer Records) | Free | Multiband Compressor | Upward/downward compression, three bands, Depth control | [Free Download](https://xferrecords.com/freeware) |
 | FabFilter Total Bundle | $1,069 | Full Plugin Suite | Pro-Q 4, Pro-C 3, Pro-L 2, Pro-MB, Saturn 2 + reverb/delay | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=guitar-recording-plugin-chain) |

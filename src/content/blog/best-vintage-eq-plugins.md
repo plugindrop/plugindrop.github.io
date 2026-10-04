@@ -197,7 +197,7 @@ For producers who want to try "Pultec low-end" without purchasing a commercial l
 | NI VC 76 | ~$49–$99 | FET compressor | 1176-style circuit modeling; NI Vintage Collection | [Plugin Boutique](https://www.pluginboutique.com/search?q=NI%20VC%2076&a_aid=69cb95abe1763&chan=art&data1=best-vintage-eq-plugins) |
 | TDR SlickEQ | Free | Analog-modeled EQ | Console-style curves; optional output saturation | [tokyodawn.net](https://www.tokyodawn.net) |
 | Ignite Amps PTEq-X | Free | Pultec passive EQ | Passive inductor-based circuit behavior | [igniteamps.com](https://www.igniteamps.com) |
-| Waves SSL 4000 Collection | ~$99–$149 | Console bundle | G-Channel + G-Master Buss Compressor | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20SSL%204000%20Collection&a_aid=69cb95abe1763&chan=art&data1=best-vintage-eq-plugins) |
+| Waves SSL 4000 Collection | ~$99–$149 | Console bundle | G-Channel + G-Master Buss Compressor | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12600-SSL-4000-Collection?a_aid=69cb95abe1763&chan=art&data1=best-vintage-eq-plugins) |
 | FabFilter Total Bundle | $1,069 | Full plugin suite | Pro-Q 4 plus all FabFilter mixing and mastering tools | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=best-vintage-eq-plugins) |
 
 ---

@@ -25,7 +25,7 @@ draft: false
 | MChorus | Free | Multiband chorus with precise control | [Free Download](https://www.meldaproduction.com/MFreeFXBundle) |
 | TAL-Flanger | Free | Analog-style flanging, zero friction | [Free Download](https://tal-software.com/products/tal-effects) |
 | Valhalla SuperMassive | Free | Lush ensemble and chorus textures | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| Arturia Chorus DIMENSION-D | $49 | Authentic Roland Dimension D emulation | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20Chorus%20DIMENSION-D&a_aid=69cb95abe1763&chan=art&data1=best-free-chorus-flanger-vst) |
+| Arturia Chorus DIMENSION-D | $49 | Authentic Roland Dimension D emulation | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/11-Chorus/6757-Chorus-DIMENSION-D?a_aid=69cb95abe1763&chan=art&data1=best-free-chorus-flanger-vst) |
 | Valhalla Chorus | $50 | Studio-grade professional chorus | [Get It](https://valhalladsp.com/plugins//) |
 
 ## Introduction
@@ -228,7 +228,7 @@ Chris Johnson's AirWindows project is a large collection of free, open-source au
 | Blue Cat's Chorus | Free | Chorus | Clean and dependable, standard controls | [Free Download](https://www.bluecataudio.com/Products/Product_Chorus/) |
 | GVST GChorus | Free | Chorus | Windows/VST2 only | [Free Download](https://gvst.uk/gchorus.htm) |
 | AirWindows Ensemble | Free | Ensemble/Chorus | Open source, no GUI | [Free Download](https://www.airwindows.com) |
-| Arturia Chorus DIMENSION-D | $49 | Chorus | Roland Dimension D hardware emulation | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=Arturia%20Chorus%20DIMENSION-D&a_aid=69cb95abe1763&chan=art&data1=best-free-chorus-flanger-vst) |
+| Arturia Chorus DIMENSION-D | $49 | Chorus | Roland Dimension D hardware emulation | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/11-Chorus/6757-Chorus-DIMENSION-D?a_aid=69cb95abe1763&chan=art&data1=best-free-chorus-flanger-vst) |
 | Valhalla Chorus | $50 | Chorus | Modern algorithmic, studio-grade | [Get It](https://valhalladsp.com/plugins//) |
 
 ---

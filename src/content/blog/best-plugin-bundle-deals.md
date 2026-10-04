@@ -168,7 +168,7 @@ Komplete 15 Select provides a curated portion of the full Komplete library — K
 | Soundtoys 5 | $199–$299 | Effects/Character | EchoBoy, Decapitator, 18+ analog-modeled tools | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-plugin-bundle-deals) |
 | NI Komplete Select | $99 | Instruments/Samples | 2,000+ sounds, Kontakt Player, Massive | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-plugin-bundle-deals) |
 | Waves Platinum Bundle | $1,999 list ($199 sale on Waves, 2026-10-01) | Mixing/Processing | Adds CLA comps, H-EQ, C6 over Gold | [Official Site](https://www.pluginboutique.com/search?q=Waves%20Platinum%20Bundle&a_aid=69cb95abe1763&chan=art&data1=best-plugin-bundle-deals) |
-| FabFilter Total Bundle | $1,069 | Premium Mixing | Pro-Q 4, Pro-C 3, Pro-L 2, Pro-R, Saturn 2 | [Official Site](https://www.pluginboutique.com/search?q=FabFilter%20Total%20Bundle&a_aid=69cb95abe1763&chan=art&data1=best-plugin-bundle-deals) |
+| FabFilter Total Bundle | $1,069 | Premium Mixing | Pro-Q 4, Pro-C 3, Pro-L 2, Pro-R, Saturn 2 | [Official Site](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle?a_aid=69cb95abe1763&chan=art&data1=best-plugin-bundle-deals) |
 | Arturia V Collection 11 | $299–$599 | Instruments | 30+ hardware emulations, TAE technology | [Official Site](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=best-plugin-bundle-deals) |
 
 ---

@@ -20,7 +20,7 @@ draft: false
 
 | Option | Price | What it is | Get It |
 |--------|-------|------------|--------|
-| **FabFilter Pro-C 3** | **$199** | **Current compressor plug-in, 14 compression styles** | [→ Get Pro-C 3](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-c-2-review&chan=art&data1=fabfilter-pro-c-2-review) |
+| **FabFilter Pro-C 3** | **$199** | **Current compressor plug-in, 14 compression styles** | [→ Get Pro-C 3](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-c-2-review&chan=art&data1=fabfilter-pro-c-2-review) |
 | Pro-C 3 free trial | Free for 30 days | FabFilter offers a 30-day evaluation of all its plug-ins | [Pro-C 3 page](https://www.fabfilter.com/products/pro-c-3-compressor-plug-in) |
 | Existing FabFilter customers | Discounted (shown in your account) | FabFilter says existing customers can buy or upgrade at a discount by logging in | [FabFilter account](https://www.fabfilter.com/myaccount) |
 
@@ -40,7 +40,7 @@ If you searched for Pro-C 2, note that FabFilter now presents Pro-C 3 as its com
 - **macOS requirements:** macOS 10.13 or higher (64-bit only), Apple Silicon or Intel processor, with an AU, VST 2/3 or CLAP host, or Pro Tools
 - **Trial:** 30 days
 
-[→ Get Pro-C 3](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-c-2-review&chan=art&data1=fabfilter-pro-c-2-review)
+[→ Get Pro-C 3](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-c-2-review&chan=art&data1=fabfilter-pro-c-2-review)
 
 ---
 

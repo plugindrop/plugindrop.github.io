@@ -31,7 +31,7 @@ We have no verified Pro-C 3 sale history yet.
 - Try it first with FabFilter's free 30-day trial.
 - If you own a previous FabFilter plug-in, log in to your FabFilter account, where the vendor says discounted purchase or upgrade prices are shown.
 
-**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/search?q=FabFilter%20Pro-C%203&a_aid=69cb95abe1763&chan=art&data1=when-does-fabfilter-pro-c-2-go-on-sale)**
+**[Check current price on Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&chan=art&data1=when-does-fabfilter-pro-c-2-go-on-sale)**
 
 ## Free Alternatives If You Can't Wait
 
