@@ -12,7 +12,7 @@ originalPrice: "$99.00"
 discount: "20% OFF"
 saleExpiry: "2026-10-28"
 saleExpirySource: "fallback"
-draft: false
+draft: true
 ---
 **TL;DR:** Melody Sauce 3 is $79 at Plugin Boutique, down from a regular price of ~~$99~~. PluginDrop's tracker puts that within 5% of the lowest price it has recorded. [Check the current listing here](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15887-Melody-Sauce-3?a_aid=69cb95abe1763&chan=trk&data1=melody-sauce-3-5339ad&utm_source=plugindrop&utm_medium=article&utm_campaign=melody-sauce-3-5339ad).
 

@@ -8,6 +8,7 @@ heroImage: /images/tonex-max-0f5406.jpg
 score: 8.65
 draft: true
 converted: true
+draft: true
 ---
 **TONEX MAX** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12452-TONEX-MAX?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tonex-max-0f5406&chan=art&data1=tonex-max-0f5406)
 

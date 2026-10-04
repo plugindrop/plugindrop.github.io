@@ -10,37 +10,37 @@ xText: "cmyk preset pack for u-he diva, boards of canada-style sounds. promo vid
 draft: false
 ---
 
-**TL;DR:** The CMYK preset pack for u-he Diva brought Boards of Canada-style analog warmth to a soft synth — but the developer (Like No Orange) appears to have gone offline, and CMYK's current purchase status is unconfirmed. The good news: if you own Diva (or are thinking about buying it), there are several verified, currently-purchasable routes to that same nostalgic, tape-warped sound today. Before you go hunting for CMYK, [watch the official promo video](https://youtu.be/T0Crlzlb1H8) to hear exactly what these patches sound like, then read on for what to actually buy right now.
+**TL;DR:** The CMYK preset pack for u-he Diva was built around Boards of Canada-style analog warmth. Its developer, Like No Orange, appears to be offline, and CMYK's purchase status is unconfirmed. If you own Diva, or plan to buy it, you can still get close to that tape-warped, nostalgic sound with tools that are on sale today.
+- **Own Diva already?** Pair its factory bank with u-he Satin and Diva's chorus and delay, then add community patch packs.
+- **Don't own Diva?** It is the required foundation for any Diva preset pack.
+- **Want a second engine?** Arturia Pigments covers similar detuned, ambient territory.
+- **Want to hear CMYK first?** [Watch the official promo video](https://youtu.be/T0Crlzlb1H8) for a reference of the sound.
 
 ---
 
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/90Ez0Vki-0g" title="Emulating Boards of Canada with U-He Satin &amp; Diva" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
-
 ## Boards of Canada Inspired Presets for u-he Diva: The CMYK Pack Explained
 
-u-he Diva is already famous for sounding *uncannily* analog. Pair it with the right preset pack, and the gap between your DAW and a dusty 1970s synthesizer gets very small, very fast. The CMYK pack from Like No Orange was designed with exactly that goal in mind — delivering Boards of Canada-flavored textures, drones, and melodic patches straight into Diva's architecture. But since the developer's site went dark, the practical question for most producers isn't "should I buy CMYK" — it's "what can I actually buy today that gets me there."
+u-he Diva is known for its analog-modeled oscillators and filters. With the right patches, it can produce the slow, hazy textures associated with Boards of Canada. The CMYK pack from Like No Orange aimed at that target, with drones, pads and melodic patches built for Diva's architecture. Because the developer's site is offline, the more useful question today is how to reach the same sound with products you can actually buy.
 
 ## What Is the CMYK Preset Pack?
 
-CMYK is (or was) a preset library for u-he Diva built around the lo-fi, hazy, nostalgic aesthetic that defines artists like Boards of Canada. Like No Orange was the developer behind it. The pack targets producers chasing that distinctly warm, slightly detuned, tape-worn sound that sits so perfectly in ambient electronic and IDM compositions.
+CMYK is (or was) a preset library for u-he Diva built around the lo-fi, hazy, nostalgic aesthetic of artists like Boards of Canada. Like No Orange was the developer. The pack aims at a warm, slightly detuned, tape-worn sound common in ambient electronic and IDM.
 
-The catch: the Like No Orange website is currently offline, and the pack's active sale status is unconfirmed. The [YouTube promo video](https://youtu.be/T0Crlzlb1H8) remains available and is the best starting point for hearing the patches in action — treat it as a reference for the *sound*, not a live storefront.
+The Like No Orange website is currently offline and the pack's sale status is unconfirmed. The [YouTube promo video](https://youtu.be/T0Crlzlb1H8) is still available. Treat it as a reference for the sound, not a storefront.
 
-## Key Features
+## What the Pack Covered
 
-- **BOC-Inspired Sound Design** — patches are built around the warm, slightly-off-center analog character central to the Boards of Canada aesthetic
-- **u-he Diva Compatibility** — designed specifically for Diva, which means full access to Diva's circuit-accurate oscillator and filter models
-- **Ambient and IDM Focus** — the patch set skews toward slow-moving textures, melodic leads, and pads suited for downtempo and experimental production
-- **Analog Character** — uses Diva's pitch drift, subtle saturation, and filter modeling
+- **BOC-inspired sound design:** patches built around a warm, slightly off-center analog character.
+- **Diva-only compatibility:** access to Diva's oscillator and filter models, so a licensed Diva is required.
+- **Ambient and IDM focus:** the patch set skews toward slow-moving textures, melodic leads and pads for downtempo and experimental work.
+- **Analog character:** it leans on Diva's pitch drift, subtle saturation and filter modeling.
 
-## Who Is It For?
+## Who Benefits Most From This Style of Sound
 
-- **Ambient and IDM producers** — anyone building soundscapes in the Boards of Canada, Aphex Twin Selected Ambient Works, or Tycho lane will find this directly on-target
-- **u-he Diva owners** — this pack has no value without Diva, but for existing owners it expands the synth's library into a very specific and underserved niche
-- **Lo-fi beatmakers** — producers working in lo-fi hip hop or chill electronic who want textural analog pads without deep sound design work
-- **Film and game composers** — the nostalgic, slightly unsettling quality of BOC-style sounds translates well to underscore and ambient game audio
+- **Ambient and IDM producers:** work in the Boards of Canada, Aphex Twin *Selected Ambient Works* or Tycho lane maps directly onto this palette.
+- **Existing Diva owners:** a preset pack has no value without the host synth, but it extends Diva's library into a narrow niche.
+- **Lo-fi beatmakers:** chill electronic and lo-fi hip hop producers can get textural analog pads without long sound design sessions.
+- **Film and game composers:** the nostalgic, slightly unsettling character suits underscore and ambient game audio.
 
 ## Pricing & Deal Details
 
@@ -48,67 +48,86 @@ The catch: the Like No Orange website is currently offline, and the pack's activ
 |---|---|---|
 | — | — | — |
 
-Verify current pricing on the product page — the Like No Orange website is currently offline, and deal availability is unconfirmed. Watch the [official promo video](https://youtu.be/T0Crlzlb1H8) for sound demos, and check community threads on KVR or Reddit's r/synthesizers for any updated availability information.
+No active CMYK deal exists to list. The Like No Orange site is offline, so no price is confirmed. Community threads on KVR or Reddit's r/synthesizers are the places to look for availability updates. Prices below come from PluginDrop's own price history tracking of Plugin Boutique listings.
 
 ## Quick Picks: Get the BOC Sound Today
 
-If CMYK stays offline, here's where to actually spend money right now for the same aesthetic:
+If CMYK stays offline, these are the closest routes to the same aesthetic:
 
 | Product | Price (2026) | Best For |
 |---|---|---|
-| [u-he Diva](https://www.pluginboutique.com/search?q=u-he%20Diva&a_aid=69cb95abe1763&chan=art&data1=boards-of-canada-inspired-sounds-for-diva-b92eac) | ~$179 full / ~$99–129 on sale | The synth engine itself — required foundation for any Diva presets |
-| Diva Factory Presets | Included with Diva | Free starting point while CMYK availability is unconfirmed |
-| [Arturia Pigments 7](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7?a_aid=69cb95abe1763&chan=art&data1=boards-of-canada-inspired-sounds-for-diva-b92eac) | ~$199 full / ~$99 on flash sale | Analog-modeled alternative synth with its own vintage/ambient preset libraries |
-| KVR Marketplace Diva packs | ~$10–30 per pack | Community-made ambient/IDM patches, actively maintained |
-| [Puremagnetik](https://www.pluginboutique.com/search?q=Puremagnetik%20sample%20libraries&a_aid=69cb95abe1763&chan=art&data1=boards-of-canada-inspired-sounds-for-diva-b92eac) sample libraries | ~$20–50 per pack | Cross-DAW tape/analog textures if you're not locked to Diva |
+| [u-he Diva](https://www.pluginboutique.com/search?q=u-he%20Diva&a_aid=69cb95abe1763&chan=art&data1=boards-of-canada-inspired-sounds-for-diva-b92eac) | ~$179 full / ~$99–129 on sale | The synth engine itself, the required foundation for any Diva presets |
+| Diva Factory Presets | Included with Diva | A starting point while CMYK availability is unconfirmed |
+| [Arturia Pigments 7](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7?a_aid=69cb95abe1763&chan=art&data1=boards-of-canada-inspired-sounds-for-diva-b92eac) | ~$199 full / ~$99 on flash sale | An alternative synth with its own vintage and ambient preset libraries |
+| KVR Marketplace Diva packs | ~$10–30 per pack | Community-made ambient and IDM patches |
+| [Puremagnetik](https://www.pluginboutique.com/search?q=Puremagnetik%20sample%20libraries&a_aid=69cb95abe1763&chan=art&data1=boards-of-canada-inspired-sounds-for-diva-b92eac) sample libraries | ~$20–50 per pack | Cross-DAW tape and analog textures if you're not locked to Diva |
 
-## Best Ways to Get BOC-Style Sounds in Diva Right Now
+## Building the Sound in Diva Without CMYK
 
-Since CMYK's availability is in limbo, here's how to build the sound yourself with verified, currently-purchasable tools:
+### Start with Diva and its factory bank
 
-- **Start with Diva itself.** If you don't already own it, u-he Diva runs roughly $179 at full price, with u-he regularly discounting it to the $99–$129 range during major sales windows (Black Friday, u-he's own anniversary promos). Since the whole CMYK conversation is moot without the host synth, this is the first purchase decision to make.
-- **Layer Diva's own effects.** u-he's Satin (tape saturation) and Diva's built-in chorus/delay stack go a long way toward the tape-warped, slightly wobbly BOC texture even without a dedicated preset pack — the video embedded above demonstrates this combination directly.
-- **Mine the KVR Marketplace.** Independent Diva patch designers post ambient- and IDM-leaning banks regularly, and unlike CMYK, these are actively sold and supported.
-- **Consider Arturia Pigments as a parallel path.** Pigments' granular and wavetable engines aren't a Diva substitute, but they cover similar nostalgic, detuned ambient territory and come with regularly refreshed factory content — useful if Diva-specific CMYK-style content stays unavailable long-term.
+If you don't own Diva, it lists around $179 at full price. u-he has discounted it to the $99–$129 range during major sale windows. Since any CMYK-style pack depends on the host synth, this is the first purchase decision. The factory bank is included and gives you a broad base to edit.
 
-## Alternatives at a Glance
+### Layer tape saturation and effects
+
+u-he Satin adds tape saturation, and Diva's built-in chorus and delay stack add movement. Together they cover much of the wobbly, tape-warped texture associated with the style. The video below demonstrates the Satin and Diva combination.
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/90Ez0Vki-0g" title="Emulating Boards of Canada with U-He Satin &amp; Diva" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
+Practical starting points for editing any pad or lead patch:
+- Slow the oscillator drift and detune modestly for the "off-center" pitch character.
+- Roll off high frequencies with the filter to keep the sound dark and dusty.
+- Add tape-style saturation after the synth, not before it.
+- Use long, low-feedback delay and gentle chorus for slow movement.
+
+### Mine community patch libraries
+
+Independent Diva patch designers post ambient and IDM-leaning banks on the KVR Marketplace. Unlike CMYK, these are listed for sale now, so you can browse them before buying.
+
+### Consider Pigments as a parallel path
+
+Pigments' granular and wavetable engines are not a Diva substitute. They do cover similar nostalgic, detuned ambient territory and ship with regularly refreshed factory content. That makes Pigments useful if Diva-specific CMYK content stays unavailable.
+
+## How the Options Compare
 
 | Name | Price | Key Difference |
 |---|---|---|
 | Diva Factory Presets | Included with Diva | Broad coverage, not BOC-specific |
-| Substanz (various devs on KVR) | Free–paid, varies | Community-made Diva patches, scattered availability |
+| KVR Marketplace Diva packs | ~$10–30 per pack | Community-made Diva patches, with the style depending on the designer |
 | Puremagnetik / similar libraries | ~$20–50 per pack | Cross-synth ambient packs, not Diva-exclusive |
-| Arturia Pigments 7 | ~$199 full / ~$99 on sale | Full synth alternative with its own ambient/vintage content |
+| Arturia Pigments 7 | ~$199 full / ~$99 on sale | Full synth alternative with its own ambient and vintage content |
 
-If you need verified, currently-purchasable Diva presets with an ambient/IDM focus, KVR's preset exchange and dedicated Diva patch libraries from active developers are the most reliable route right now. CMYK is worth tracking down specifically for its BOC focus if it resurfaces.
+For ambient and IDM Diva presets you can buy now, dedicated patch libraries from active developers are the most dependable route. CMYK is worth tracking down for its BOC focus if it resurfaces.
 
 ## FAQ
 
 **Q: Do I need u-he Diva to use CMYK?**
-A: Yes. CMYK is a native preset pack for u-he Diva — it requires a licensed copy of the Diva VST/AU plugin to load the patches.
+A: Yes. CMYK is a preset pack for u-he Diva, so it needs a licensed copy of the Diva VST/AU plugin to load the patches.
 
 **Q: Is the CMYK pack still available to purchase?**
-A: The Like No Orange website is currently offline. Availability is unconfirmed — check the YouTube video description and community forums for updated links, and treat any third-party resale claims with caution.
+A: The Like No Orange website is offline and availability is unconfirmed. Check the YouTube video description and community forums for updated links, and treat third-party resale claims with caution.
 
 **Q: Is Diva itself free?**
-A: No. u-he Diva is a paid synthesizer plugin, regularly priced around $179 with periodic sales bringing it down to roughly $99–$129. Check the [u-he Diva page](https://www.pluginboutique.com/search?q=u-he%20diva&a_aid=69cb95abe1763&chan=art&data1=boards-of-canada-inspired-sounds-for-diva-b92eac) for current pricing and sale timing.
+A: No. u-he Diva is a paid synthesizer, listed around $179 at full price, with sales bringing it to roughly $99–$129. Its [Plugin Boutique listing](https://www.pluginboutique.com/search?q=u-he%20diva&a_aid=69cb95abe1763&chan=art&data1=boards-of-canada-inspired-sounds-for-diva-b92eac) shows current pricing and sale timing.
 
 **Q: Where can I hear the CMYK patches before buying?**
-A: The [official promo video on YouTube](https://youtu.be/T0Crlzlb1H8) is currently the clearest available demo of these sounds.
+A: The [official promo video on YouTube](https://youtu.be/T0Crlzlb1H8) is currently the clearest demo of these sounds.
 
 **Q: What should I buy if CMYK never comes back online?**
-A: Start with Diva's factory bank plus KVR Marketplace ambient packs — both are verified, active purchase options that cover similar ground.
+A: Start with Diva's factory bank, then add KVR Marketplace ambient packs. Both are active options that cover similar ground.
 
 ## When to Buy
 
-- **Buy Diva now if you don't own it and see it below $130.** u-he runs meaningful sales a few times a year, and $130 or under is a genuinely good entry price for a synth this capable — don't wait indefinitely for a deeper discount that may not come.
-- **Wait on CMYK specifically.** With the developer's site offline and no confirmed resale channel, there's nothing to "buy now" here — bookmark the YouTube video and check back periodically rather than searching for workarounds.
-- **Buy KVR Marketplace Diva packs whenever you find one that matches the aesthetic.** These are typically $10–30, rarely go on deep sale, and the cost of waiting (losing access to a niche patch designer's catalog) usually outweighs any discount you'd save.
-- **Hold off on Arturia Pigments unless you want a second synth, not a CMYK replacement.** It's a genuinely different engine, not a drop-in substitute — buy it on its own merits during a flash sale (commonly ~$99) rather than as a rushed CMYK workaround.
+- **Buy Diva now if you don't own it and see it at $130 or below.** u-he runs sales a few times a year, and that range matches the sale prices above. Waiting for a deeper discount carries no guarantee.
+- **Wait on CMYK specifically.** With the developer's site offline and no confirmed resale channel, there is nothing to buy yet. Bookmark the video and check back periodically.
+- **Buy KVR Marketplace Diva packs when one matches the aesthetic.** At roughly $10–30 per pack, they rarely see deep discounts, so waiting usually saves little.
+- **Buy Arturia Pigments only if you want a second synth.** It is a different engine, not a drop-in CMYK replacement. Buy it on its own merits, for example during a flash sale around ~$99.
 
-## Get the Deal
+## Bottom Line
 
-CMYK offered a rare focused take on BOC-style synthesis inside u-he Diva. Watch the [promo video here](https://youtu.be/T0Crlzlb1H8) and verify current availability directly — it is worth tracking down if it resurfaces. In the meantime, [u-he Diva](https://www.pluginboutique.com/search?q=u-he%20diva&a_aid=69cb95abe1763&chan=art&data1=boards-of-canada-inspired-sounds-for-diva-b92eac) plus a KVR Marketplace ambient pack is the most reliable way to get playing today.
+CMYK offered a focused take on BOC-style synthesis inside u-he Diva. Until it resurfaces, [u-he Diva](https://www.pluginboutique.com/search?q=u-he%20diva&a_aid=69cb95abe1763&chan=art&data1=boards-of-canada-inspired-sounds-for-diva-b92eac), Satin-style tape saturation and a community ambient pack are the most dependable way to start playing today. Watch the [promo video](https://youtu.be/T0Crlzlb1H8) to calibrate what you're aiming for.
 
 ## Related Guides
 

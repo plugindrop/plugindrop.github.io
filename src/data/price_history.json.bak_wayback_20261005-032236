@@ -282,7 +282,7 @@
       "image": "/images/plugin-prices/arturia-v-collection-11-pro.jpg"
     },
     "Baby Audio Complete Bundle": {
-      "pb_url": "/product/81-Bundles/89-Complete-Collection/10815-Baby-Audio-Complete-Bundle",
+      "pb_url": "/search?q=Baby%20Audio%20Complete%20Bundle",
       "typical_regular": 399,
       "typical_sale": 299,
       "all_time_low": null,
@@ -48468,36 +48468,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2023-11-23",
-          "regular": 37.42,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-02-24",
-          "regular": 37.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-05-21",
-          "regular": 49.9,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-11-01",
-          "regular": 34.9,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-12-03",
-          "regular": 34.9,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/remix.jpg"
@@ -50656,24 +50626,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2022-07-07",
-          "regular": 89.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-02-19",
-          "regular": 24.47,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-09-06",
-          "regular": 49.0,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/ssl-x-gate.jpg"
@@ -50805,30 +50757,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2022-07-29",
-          "regular": 69.72,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2022-08-27",
-          "regular": 69.99,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-11-09",
-          "regular": 24.99,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-11-12",
-          "regular": 99.0,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/ssl-x-limit.jpg"

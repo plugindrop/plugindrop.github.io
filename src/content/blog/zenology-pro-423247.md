@@ -11,7 +11,7 @@ originalPrice: "$229.00"
 discount: "57% OFF"
 saleExpiry: "2026-10-21"
 saleExpirySource: "fallback"
-draft: false
+draft: true
 ---
 **TL;DR:** ZENOLOGY PRO, Roland's expandable software synth built on the ZEN-Core Synthesis System, is $99 at Plugin Boutique — 57% off, against a ~~$229~~ regular price tracked by PluginDrop. It's a multi-synthesis engine with dual LFOs, flexible filtering, and built-in effects per voice, designed to grow through additional Roland Cloud expansions. [Grab it at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/15308-ZENOLOGY-PRO?a_aid=69cb95abe1763&chan=art&data1=zenology-pro-423247&utm_source=plugindrop&utm_medium=article&utm_campaign=zenology-pro-423247).
 
