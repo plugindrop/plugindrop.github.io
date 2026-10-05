@@ -18,7 +18,7 @@ draft: false
 ---
 If you want Roland's signature chorus-laden analog poly sound inside your DAW without hunting down vintage hardware, JUNO 60 at 65% off its $199 list price is worth a look this week.
 
-**TL;DR:** Plugin Boutique has Roland Cloud's JUNO 60 marked down 65% from its regular $199 price. It's a plugin reproduction of the original 1982 Juno-60 analog polysynth, built for VST, AU, and AAX hosts on Mac or Windows. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=JUNO+60&a_aid=69cb95abe1763&chan=trk&data1=juno-60-2a68fe&utm_source=plugindrop&utm_medium=article&utm_campaign=juno-60-2a68fe).
+**TL;DR:** Plugin Boutique has Roland Cloud's JUNO 60 marked down 65% from its regular $199 price. It's a plugin reproduction of the original 1982 Juno-60 analog polysynth, built for VST, AU, and AAX hosts on Mac or Windows. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/15608-JUNO-60?a_aid=69cb95abe1763&chan=trk&data1=juno-60-2a68fe&utm_source=plugindrop&utm_medium=article&utm_campaign=juno-60-2a68fe).
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lH28E6vJIS0" title="65% Off JUNO 60 — Warm Analog Pads and Basslines — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -35,7 +35,7 @@ As a subtractive analog-style synth, JUNO 60 is suited to the sound-design pass 
 
 ## Pricing and deal details
 
-Plugin Boutique is running this deal at 65% off JUNO 60's regular ~~$199~~ price. That's a significant markdown off the standard rate, though the exact checkout total can shift slightly with region or ongoing promotions, so check the product page for current pricing before you buy. The [JUNO 60 deal page](https://www.pluginboutique.com/search?q=JUNO+60&a_aid=69cb95abe1763&chan=trk&data1=juno-60-2a68fe&utm_source=plugindrop&utm_medium=article&utm_campaign=juno-60-2a68fe) is where the discount is applied.
+Plugin Boutique is running this deal at 65% off JUNO 60's regular ~~$199~~ price. That's a significant markdown off the standard rate, though the exact checkout total can shift slightly with region or ongoing promotions, so check the product page for current pricing before you buy. The [JUNO 60 deal page](https://www.pluginboutique.com/product/1-Instruments/4-Synth/15608-JUNO-60?a_aid=69cb95abe1763&chan=trk&data1=juno-60-2a68fe&utm_source=plugindrop&utm_medium=article&utm_campaign=juno-60-2a68fe) is where the discount is applied.
 
 ## Skip it if
 

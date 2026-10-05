@@ -1,4 +1,11 @@
 {
+  "73 JR Preamp": {
+    "video_id": "FvQQLUyqQ-k",
+    "title": "Heritage Audio - 73 JR Preamp Plugin DEMOS (No talk)",
+    "channel": "Heritage Audio",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "Arturia Analog Lab": {
     "video_id": "BKN2Rf8Ss8o",
     "title": "Arturia Analog Lab: NO TALKING...just Sounds. | Gear4music Synths & Tech",
@@ -895,6 +902,13 @@
     "score": 8,
     "source": "yt_api_fill"
   },
+  "JUNO-60": {
+    "video_id": "GaTLk6ea9jo",
+    "title": "ROLAND JUNO-60 Analog Synthesizer 1982  | HQ DEMO | NEW PATCHES",
+    "channel": "AnalogAudio1",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "KORG Collection 6": {
     "video_id": "uCzyCzFyf3w",
     "title": "KORG Collection 6 - TRINITY: The 1995 Icon Reborn",
@@ -956,6 +970,13 @@
     "title": "Kilohearts Phase Plant Demo Song by Nasko",
     "channel": "Kilohearts",
     "score": 12,
+    "source": "yt_api_fill"
+  },
+  "LANG PEQ-2": {
+    "video_id": "ngJGDq7ayg4",
+    "title": "Heritage Audio - Lang Electronics Inc. LANG PEQ-2 audio demos.",
+    "channel": "Heritage Audio",
+    "score": 8,
     "source": "yt_api_fill"
   },
   "Lounge Lizard EP-5": {
@@ -1277,6 +1298,13 @@
     "video_id": "2p01I2pxfIg",
     "title": "UJAM Presents: Virtual Bassist ROWDY 2 / Studio Demo Sound /",
     "channel": "Musical Software Hardware",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "SILK 2": {
+    "video_id": "4v2yt7pgN50",
+    "title": "Ujam SILK 2 - ALL PRESETS Demo! Nylon Acoustic Plugin",
+    "channel": "WaveBits",
     "score": 8,
     "source": "yt_api_fill"
   },
