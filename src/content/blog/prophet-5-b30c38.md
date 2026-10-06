@@ -14,7 +14,7 @@ saleExpiry: "2026-11-04"
 saleExpirySource: "fallback"
 draft: false
 ---
-**TL;DR:** Plugin Boutique has the Prophet-5 software recreation at $99, down from the ~~$119.99~~ regular price. It's not the lowest this plugin has tracked — [Plugin Boutique is running it at $99 right now](https://www.pluginboutique.com/search?q=Prophet+5&a_aid=69cb95abe1763&chan=art&data1=prophet-5-b30c38&utm_source=plugindrop&utm_medium=article&utm_campaign=prophet-5-b30c38), but the typical sale price sits lower. If you want the historically accurate recreation of the Sequential Prophet-5 for pads, leads, and basslines, it's worth a look at this price point.
+**TL;DR:** Plugin Boutique has the Prophet-5 software recreation at $99, down from the ~~$119.99~~ regular price. It's not the lowest this plugin has tracked — [Plugin Boutique is running it at $99 right now](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17444-Prophet-5?a_aid=69cb95abe1763&chan=art&data1=prophet-5-b30c38&utm_source=plugindrop&utm_medium=article&utm_campaign=prophet-5-b30c38), but the typical sale price sits lower. If you want the historically accurate recreation of the Sequential Prophet-5 for pads, leads, and basslines, it's worth a look at this price point.
 
 <!-- deal-context-sale-windows:start -->
 ## Last three times this went on sale
@@ -88,7 +88,7 @@ A: It supports Intel or Apple Silicon Mac on macOS 10.15.x or above, and Windows
 
 ## Should you buy now?
 
-Based on the tracked pricing data, the verdict is to wait. The current $99 price is more than 15% above the $83.99 typical sale price, and that $83.99 figure is also the lowest this plugin has recorded across 27 tracked observations since 2026-07-19. If the dual-layer architecture and the 460-plus preset library appeal to you and you don't want to wait for a deeper discount, [Plugin Boutique's listing](https://www.pluginboutique.com/search?q=Prophet+5&a_aid=69cb95abe1763&chan=art&data1=prophet-5-b30c38&utm_source=plugindrop&utm_medium=article&utm_campaign=prophet-5-b30c38) has it at $99 now. Otherwise, the tracked history suggests a lower price has shown up before and may again.
+Based on the tracked pricing data, the verdict is to wait. The current $99 price is more than 15% above the $83.99 typical sale price, and that $83.99 figure is also the lowest this plugin has recorded across 27 tracked observations since 2026-07-19. If the dual-layer architecture and the 460-plus preset library appeal to you and you don't want to wait for a deeper discount, [Plugin Boutique's listing](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17444-Prophet-5?a_aid=69cb95abe1763&chan=art&data1=prophet-5-b30c38&utm_source=plugindrop&utm_medium=article&utm_campaign=prophet-5-b30c38) has it at $99 now. Otherwise, the tracked history suggests a lower price has shown up before and may again.
 
 *Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
 

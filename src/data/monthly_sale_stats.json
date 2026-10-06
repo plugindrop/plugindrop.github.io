@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05",
+  "generated_at": "2026-10-06",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-10",
       "label": "October 2026",
       "is_current": true,
-      "generated_at": "2026-10-05",
-      "observations": 287,
-      "products_tracked": 209,
-      "products_on_sale": 113,
-      "on_sale_pct": 54.1,
+      "generated_at": "2026-10-06",
+      "observations": 416,
+      "products_tracked": 299,
+      "products_on_sale": 127,
+      "on_sale_pct": 42.5,
       "avg_discount_pct": 55.6,
       "median_discount_pct": 60,
       "discount_buckets": {
-        "1-19": 11,
-        "20-39": 15,
-        "40-59": 28,
-        "60+": 59
+        "1-19": 12,
+        "20-39": 17,
+        "40-59": 31,
+        "60+": 67
       },
-      "all_time_low_hits": 87,
+      "all_time_low_hits": 98,
       "deepest_discounts": [
         {
           "name": "TOTAL VI MAX 2",
@@ -286,73 +286,87 @@
       "by_category": [
         {
           "category": "Other",
-          "tracked": 173,
-          "on_sale": 90,
-          "on_sale_pct": 52.0,
-          "avg_discount_pct": 61
+          "tracked": 235,
+          "on_sale": 103,
+          "on_sale_pct": 43.8,
+          "avg_discount_pct": 60.5
         },
         {
           "category": "Synth",
-          "tracked": 7,
+          "tracked": 14,
           "on_sale": 2,
-          "on_sale_pct": 28.6,
+          "on_sale_pct": 14.3,
           "avg_discount_pct": 34.5
         },
         {
-          "category": "Bundle",
-          "tracked": 5,
-          "on_sale": 5,
-          "on_sale_pct": 100.0,
-          "avg_discount_pct": 28.2
-        },
-        {
           "category": "Effects",
-          "tracked": 4,
+          "tracked": 9,
           "on_sale": 3,
-          "on_sale_pct": 75.0,
+          "on_sale_pct": 33.3,
           "avg_discount_pct": 16.7
         },
         {
-          "category": "Saturation",
-          "tracked": 4,
-          "on_sale": 3,
-          "on_sale_pct": 75.0,
-          "avg_discount_pct": 40.7
+          "category": "Bundle",
+          "tracked": 8,
+          "on_sale": 5,
+          "on_sale_pct": 62.5,
+          "avg_discount_pct": 28.2
         },
         {
           "category": "Compressor",
-          "tracked": 3,
+          "tracked": 5,
           "on_sale": 2,
-          "on_sale_pct": 66.7,
+          "on_sale_pct": 40.0,
           "avg_discount_pct": 50.5
         },
         {
-          "category": "Delay",
-          "tracked": 2,
-          "on_sale": 1,
+          "category": "Saturation",
+          "tracked": 5,
+          "on_sale": 3,
+          "on_sale_pct": 60.0,
+          "avg_discount_pct": 40.7
+        },
+        {
+          "category": "EQ",
+          "tracked": 4,
+          "on_sale": 2,
           "on_sale_pct": 50.0,
+          "avg_discount_pct": 58.5
+        },
+        {
+          "category": "Delay",
+          "tracked": 3,
+          "on_sale": 1,
+          "on_sale_pct": 33.3,
           "avg_discount_pct": 12
         },
         {
           "category": "Drums",
-          "tracked": 2,
-          "on_sale": 1,
-          "on_sale_pct": 50.0,
-          "avg_discount_pct": 38
-        },
-        {
-          "category": "EQ",
-          "tracked": 2,
+          "tracked": 3,
           "on_sale": 2,
-          "on_sale_pct": 100.0,
-          "avg_discount_pct": 58.5
+          "on_sale_pct": 66.7,
+          "avg_discount_pct": 39
         },
         {
           "category": "Instrument",
-          "tracked": 2,
+          "tracked": 3,
           "on_sale": 1,
-          "on_sale_pct": 50.0,
+          "on_sale_pct": 33.3,
           "avg_discount_pct": 25
+        },
+        {
+          "category": "Vocal",
+          "tracked": 3,
+          "on_sale": 2,
+          "on_sale_pct": 66.7,
+          "avg_discount_pct": 32
+        },
+        {
+          "category": "Mastering",
+          "tracked": 2,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
         },
         {
           "category": "Reverb",
@@ -362,14 +376,14 @@
           "avg_discount_pct": 51
         },
         {
-          "category": "Vocal",
+          "category": "Utility",
           "tracked": 2,
-          "on_sale": 2,
-          "on_sale_pct": 100.0,
-          "avg_discount_pct": 32
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
         },
         {
-          "category": "Mastering",
+          "category": "Limiter",
           "tracked": 1,
           "on_sale": 0,
           "on_sale_pct": 0.0,
@@ -379,10 +393,10 @@
       "by_brand": [
         {
           "category": "Other",
-          "tracked": 92,
-          "on_sale": 53,
-          "on_sale_pct": 57.6,
-          "avg_discount_pct": 60.8
+          "tracked": 122,
+          "on_sale": 64,
+          "on_sale_pct": 52.5,
+          "avg_discount_pct": 59.6
         },
         {
           "category": "Universal Audio",
@@ -393,14 +407,56 @@
         },
         {
           "category": "Eventide",
-          "tracked": 14,
+          "tracked": 21,
           "on_sale": 2,
-          "on_sale_pct": 14.3,
+          "on_sale_pct": 9.5,
           "avg_discount_pct": 50.5
         },
         {
           "category": "Cherry Audio",
+          "tracked": 15,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "FabFilter",
+          "tracked": 14,
+          "on_sale": 5,
+          "on_sale_pct": 35.7,
+          "avg_discount_pct": 11.8
+        },
+        {
+          "category": "Native Instruments",
           "tracked": 8,
+          "on_sale": 2,
+          "on_sale_pct": 25.0,
+          "avg_discount_pct": 74
+        },
+        {
+          "category": "Soundtoys",
+          "tracked": 8,
+          "on_sale": 3,
+          "on_sale_pct": 37.5,
+          "avg_discount_pct": 28.3
+        },
+        {
+          "category": "Arturia",
+          "tracked": 7,
+          "on_sale": 1,
+          "on_sale_pct": 14.3,
+          "avg_discount_pct": 25
+        },
+        {
+          "category": "Baby Audio",
+          "tracked": 7,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Kilohearts",
+          "tracked": 6,
           "on_sale": 0,
           "on_sale_pct": 0.0,
           "avg_discount_pct": 0.0
@@ -413,25 +469,25 @@
           "avg_discount_pct": 26
         },
         {
-          "category": "FabFilter",
+          "category": "iZotope",
           "tracked": 5,
-          "on_sale": 5,
-          "on_sale_pct": 100.0,
-          "avg_discount_pct": 11.8
-        },
-        {
-          "category": "Soundtoys",
-          "tracked": 5,
-          "on_sale": 3,
-          "on_sale_pct": 60.0,
-          "avg_discount_pct": 28.3
-        },
-        {
-          "category": "Native Instruments",
-          "tracked": 4,
           "on_sale": 0,
           "on_sale_pct": 0.0,
           "avg_discount_pct": 0.0
+        },
+        {
+          "category": "XLN Audio",
+          "tracked": 4,
+          "on_sale": 1,
+          "on_sale_pct": 25.0,
+          "avg_discount_pct": 40
+        },
+        {
+          "category": "u-he",
+          "tracked": 4,
+          "on_sale": 1,
+          "on_sale_pct": 25.0,
+          "avg_discount_pct": 9
         },
         {
           "category": "Excite Audio",
@@ -448,13 +504,6 @@
           "avg_discount_pct": 50.5
         },
         {
-          "category": "iZotope",
-          "tracked": 3,
-          "on_sale": 0,
-          "on_sale_pct": 0.0,
-          "avg_discount_pct": 0.0
-        },
-        {
           "category": "Sonnox",
           "tracked": 2,
           "on_sale": 2,
@@ -462,11 +511,11 @@
           "avg_discount_pct": 28
         },
         {
-          "category": "Arturia",
-          "tracked": 1,
-          "on_sale": 1,
-          "on_sale_pct": 100.0,
-          "avg_discount_pct": 25
+          "category": "Wavesfactory",
+          "tracked": 2,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
         },
         {
           "category": "AudioThing",
@@ -532,6 +581,13 @@
           "avg_discount_pct": 45
         },
         {
+          "category": "UVI",
+          "tracked": 1,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
           "category": "Vengeance",
           "tracked": 1,
           "on_sale": 0,
@@ -544,34 +600,20 @@
           "on_sale": 1,
           "on_sale_pct": 100.0,
           "avg_discount_pct": 80
-        },
-        {
-          "category": "XLN Audio",
-          "tracked": 1,
-          "on_sale": 0,
-          "on_sale_pct": 0.0,
-          "avg_discount_pct": 0.0
-        },
-        {
-          "category": "u-he",
-          "tracked": 1,
-          "on_sale": 1,
-          "on_sale_pct": 100.0,
-          "avg_discount_pct": 9
         }
       ],
       "vs_previous_month": {
         "month": "2026-09",
-        "on_sale_pct_delta": -0.1,
+        "on_sale_pct_delta": -11.7,
         "avg_discount_pct_delta": -2.2,
-        "products_tracked_delta": -308
+        "products_tracked_delta": -218
       }
     },
     {
       "month": "2026-09",
       "label": "September 2026",
       "is_current": false,
-      "generated_at": "2026-10-05",
+      "generated_at": "2026-10-06",
       "observations": 3603,
       "products_tracked": 517,
       "products_on_sale": 280,
@@ -584,7 +626,7 @@
         "40-59": 88,
         "60+": 138
       },
-      "all_time_low_hits": 244,
+      "all_time_low_hits": 243,
       "deepest_discounts": [
         {
           "name": "Platinum",
@@ -1202,7 +1244,7 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-10-05",
+      "generated_at": "2026-10-06",
       "observations": 3587,
       "products_tracked": 425,
       "products_on_sale": 258,
@@ -1215,7 +1257,7 @@
         "40-59": 91,
         "60+": 95
       },
-      "all_time_low_hits": 202,
+      "all_time_low_hits": 201,
       "deepest_discounts": [
         {
           "name": "Platinum",
@@ -1798,7 +1840,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-10-05",
+      "generated_at": "2026-10-06",
       "observations": 1968,
       "products_tracked": 289,
       "products_on_sale": 142,
@@ -1811,7 +1853,7 @@
         "40-59": 52,
         "60+": 61
       },
-      "all_time_low_hits": 109,
+      "all_time_low_hits": 108,
       "deepest_discounts": [
         {
           "name": "CARBON",
