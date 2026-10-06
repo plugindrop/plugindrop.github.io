@@ -9,6 +9,7 @@ affiliate: "https://www.pluginboutique.com/search?q=iZotope%20Neutron%205&a_aid=
 evergreen: true
 score: 8.00
 xText: "Updated guide: iZotope Neutron 5 price, editions, and what changed from Neutron 4."
+saleExpiry: '2026-10-01'
 draft: false
 ---
 **TL;DR:** The current version is Neutron 5, not Neutron 4. iZotope lists the full Neutron 5 suite at $299 and a reduced Neutron 5 Elements at $55. This page sticks to what the vendor documents: price, editions, included modules, supported systems, and what is new. We have not tested it hands-on.

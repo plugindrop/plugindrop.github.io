@@ -9,6 +9,7 @@ affiliate: "https://www.pluginboutique.com/search?q=Arturia%20Pigments%207&a_aid
 evergreen: true
 score: 8.00
 xText: "Updated guide: Arturia Pigments 7 price, sound engines, and what changed."
+saleExpiry: '2026-09-30'
 draft: false
 ---
 **TL;DR:** The current version is Pigments 7, not Pigments 5. Arturia lists it at $199 and describes six synthesis types (Modal, Granular, Wavetable, Sample, Harmonic and Virtual Analog) plus a Utility engine. Version 7 is described as a free update for existing Pigments users. A free, reduced version called Pigments Play is also available. This page sticks to what the vendor documents. We have not tested it hands-on.

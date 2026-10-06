@@ -9,6 +9,7 @@ evergreen: true
 score: 8.00
 xText: "Updated guide: FabFilter Pro-C 3 price, features, and what changed from Pro-C 2."
 heroImage: "/images/fabfilter-pro-c-2-review.jpg"
+saleExpiry: '2026-09-30'
 draft: false
 ---
 **TL;DR:** The current version is FabFilter Pro-C 3, not Pro-C 2. FabFilter announced it at USD 199 (EUR 169, GBP 149) with a free 30-day trial. Per the vendor, it keeps the eight styles of Pro-C 2 and adds six new ones, a Character panel, a 6-band side chain EQ, Dolby Atmos support, host tempo triggering and Auto Threshold. This page sticks to what the vendor documents. We have not tested it hands-on.

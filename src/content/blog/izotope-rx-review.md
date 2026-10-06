@@ -9,6 +9,7 @@ heroImage: "/images/izotope-rx-review.jpg"
 evergreen: true
 score: 8.00
 xText: "Updated guide: iZotope RX 12 editions, prices, and what changed from RX 11."
+saleExpiry: '2026-09-30'
 draft: false
 ---
 **TL;DR:** The current version is RX 12, not RX 11. iZotope lists RX 12 Elements at $99, Standard at $399 and Advanced at $1,399, plus an RX Post Production Suite 9 bundle at $1,799. The three editions differ mainly in how many modules and plugins they include. This page sticks to what the vendor documents: prices, editions, what is new, and system requirements. We have not tested it hands-on.

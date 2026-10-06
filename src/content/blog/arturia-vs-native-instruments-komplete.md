@@ -9,6 +9,7 @@ score: 8.00
 discount: "60% OFF"
 xText: "New guide: Arturia V Collection vs NI Komplete: Which Bundle Is Worth Y..."
 heroImage: "/images/arturia-vs-native-instruments-komplete.jpg"
+saleExpiry: '2026-10-03'
 draft: false
 ---
 **TL;DR:** For vintage synth and keyboard emulations specifically, Arturia V Collection 11 is the focused option — the Pro edition bundles 45 instruments, mostly classic emulations, at one price. If you need a complete production toolkit covering samples, orchestral libraries, and modern synths under one umbrella, Native Instruments Komplete Standard or Ultimate is the broader investment. If vintage emulations are your priority, V Collection first with Komplete Select added later is one way to build the toolkit.

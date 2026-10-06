@@ -9,6 +9,7 @@ evergreen: true
 score: 8.00
 xText: "New guide: 12 Best Reverb Plugins for Music Production in 2026 (Free & ..."
 heroImage: "/images/best-reverb-plugins-music-production.jpg"
+saleExpiry: '2026-08-28'
 draft: false
 priceTrack:
   - "Valhalla VintageVerb"

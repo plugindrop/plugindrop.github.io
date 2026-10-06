@@ -9,6 +9,7 @@ heroImage: "/images/kontakt-7-review_og.jpg"
 evergreen: true
 score: 8.00
 xText: "Updated guide: Native Instruments Kontakt 8 price, editions, and what changed from Kontakt 7."
+saleExpiry: '2026-09-30'
 draft: false
 ---
 **TL;DR:** The current version is Kontakt 8, not Kontakt 7. The full version is listed at $299 on the Native Instruments store, and a free Kontakt 8 Player runs Native Instruments' own Kontakt instruments plus officially licensed third-party libraries. This page sticks to what the vendor documents: price, editions, what is included, and what is new. We have not tested it hands-on.

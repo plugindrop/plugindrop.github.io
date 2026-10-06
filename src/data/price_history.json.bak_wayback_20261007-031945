@@ -62910,12 +62910,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2023-11-13",
-          "regular": 112.06,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/triton-triton-extreme.jpg"
@@ -66833,42 +66827,6 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-01"
-        },
-        {
-          "date": "2023-02-14",
-          "regular": 174.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2023-03-20",
-          "regular": 174.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-08-06",
-          "regular": 174.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-09-20",
-          "regular": 174.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-03-06",
-          "regular": 174.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-05-17",
-          "regular": 49.0,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/uad-hitsville-reverb-chambers.jpg"
@@ -84994,14 +84952,6 @@
           "until": "2026-10-31"
         }
       ]
-    },
-    "Baby Audio HyperWarp": {
-      "pb_url": "/product/2-Effects/53-Multi-Effect-/17963-HyperWarp",
-      "typical_regular": null,
-      "typical_sale": null,
-      "all_time_low": null,
-      "notes": "Auto-discovered 2026-10-06",
-      "history": []
     }
   }
 }
