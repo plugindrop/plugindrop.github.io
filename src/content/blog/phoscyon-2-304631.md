@@ -13,7 +13,7 @@ discount: "50% OFF"
 saleExpiry: "2026-10-11"
 draft: false
 ---
-**TL;DR:** D16 Group's Phoscyon 2 TB-303 emulation is 50% off its regular ~~$119~~ price at Plugin Boutique. It ships with over 800 factory presets and patterns, a resizable GUI, and MIDI Learn for mapping hardware controllers. Check the [product page](https://www.pluginboutique.com/search?q=Phoscyon+2&a_aid=69cb95abe1763&chan=trk&data1=phoscyon-2-304631&utm_source=plugindrop&utm_medium=article&utm_campaign=phoscyon-2-304631) for the current checkout price.
+**TL;DR:** D16 Group's Phoscyon 2 TB-303 emulation is 50% off its regular ~~$119~~ price at Plugin Boutique. It ships with over 800 factory presets and patterns, a resizable GUI, and MIDI Learn for mapping hardware controllers. Check the [product page](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9541-Phoscyon-2?a_aid=69cb95abe1763&chan=trk&data1=phoscyon-2-304631&utm_source=plugindrop&utm_medium=article&utm_campaign=phoscyon-2-304631) for the current checkout price.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/wIq2JEUg6bQ" title="50% Off Phoscyon 2 — TB-303 Acid Bassline Synth — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -34,7 +34,7 @@ Because it's plugin-based rather than hardware, it also fits sessions where reca
 
 ## Pricing and deal details
 
-Plugin Boutique lists Phoscyon 2 at a regular price of $119, and it's currently available at 50% off that figure. Verify current pricing on the [product page](https://www.pluginboutique.com/search?q=Phoscyon+2&a_aid=69cb95abe1763&chan=trk&data1=phoscyon-2-304631&utm_source=plugindrop&utm_medium=article&utm_campaign=phoscyon-2-304631) before checkout, since discount windows can close without much notice.
+Plugin Boutique lists Phoscyon 2 at a regular price of $119, and it's currently available at 50% off that figure. Verify current pricing on the [product page](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9541-Phoscyon-2?a_aid=69cb95abe1763&chan=trk&data1=phoscyon-2-304631&utm_source=plugindrop&utm_medium=article&utm_campaign=phoscyon-2-304631) before checkout, since discount windows can close without much notice.
 
 ## Skip it if
 
@@ -75,7 +75,7 @@ A: D16 Group lists over 800 factory presets and patterns included out of the box
 A: Yes. MIDI Learn is listed as a feature, letting you assign hardware knobs and controllers to most on-screen parameters.
 
 **
-A: The [Plugin Boutique product page](https://www.pluginboutique.com/search?q=Phoscyon+2&a_aid=69cb95abe1763&chan=trk&data1=phoscyon-2-304631&utm_source=plugindrop&utm_medium=article&utm_campaign=phoscyon-2-304631) has the current pricing and full system requirements.
+A: The [Plugin Boutique product page](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9541-Phoscyon-2?a_aid=69cb95abe1763&chan=trk&data1=phoscyon-2-304631&utm_source=plugindrop&utm_medium=article&utm_campaign=phoscyon-2-304631) has the current pricing and full system requirements.
 
 ## Should you buy now?
 
