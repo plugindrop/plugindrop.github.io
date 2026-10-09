@@ -83758,48 +83758,6 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
-        },
-        {
-          "date": "2024-05-26",
-          "regular": 49.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-06-13",
-          "regular": 112.63,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-08-05",
-          "regular": 58.51,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-01-26",
-          "regular": 49.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-05-22",
-          "regular": 99.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-06-04",
-          "regular": 99.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-07-02",
-          "regular": 52.0,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "category": "Saturation"
@@ -84692,18 +84650,6 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-10-31"
-        },
-        {
-          "date": "2024-05-11",
-          "regular": 149.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-07-06",
-          "regular": 147.76,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/u-he-hive-2-free-synthwave-expansion.jpg"
@@ -87690,12 +87636,6 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-10-31"
-        },
-        {
-          "date": "2025-09-15",
-          "regular": 159.0,
-          "sale": null,
-          "source": "wayback"
         }
       ]
     },
