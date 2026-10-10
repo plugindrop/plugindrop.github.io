@@ -32,3 +32,6 @@ pnpm-debug.log*
 .idea/
 
 .vercel
+
+# one-off backups written by catalog_growth/backfill_wayback scripts (2MB each, bloats the public repo)
+src/data/*.bak*
