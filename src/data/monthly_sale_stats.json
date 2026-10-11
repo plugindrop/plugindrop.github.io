@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10",
+  "generated_at": "2026-10-11",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,16 +10,16 @@
       "month": "2026-10",
       "label": "October 2026",
       "is_current": true,
-      "generated_at": "2026-10-10",
-      "observations": 903,
+      "generated_at": "2026-10-11",
+      "observations": 1025,
       "products_tracked": 504,
-      "products_on_sale": 142,
-      "on_sale_pct": 28.2,
-      "avg_discount_pct": 56.0,
-      "median_discount_pct": 60.0,
+      "products_on_sale": 143,
+      "on_sale_pct": 28.4,
+      "avg_discount_pct": 55.9,
+      "median_discount_pct": 60,
       "discount_buckets": {
         "1-19": 12,
-        "20-39": 19,
+        "20-39": 20,
         "40-59": 37,
         "60+": 74
       },
@@ -287,9 +287,9 @@
         {
           "category": "Other",
           "tracked": 352,
-          "on_sale": 113,
-          "on_sale_pct": 32.1,
-          "avg_discount_pct": 60.4
+          "on_sale": 114,
+          "on_sale_pct": 32.4,
+          "avg_discount_pct": 60.2
         },
         {
           "category": "Synth",
@@ -394,9 +394,9 @@
         {
           "category": "Other",
           "tracked": 162,
-          "on_sale": 70,
-          "on_sale_pct": 43.2,
-          "avg_discount_pct": 59.4
+          "on_sale": 71,
+          "on_sale_pct": 43.8,
+          "avg_discount_pct": 59.0
         },
         {
           "category": "Universal Audio",
@@ -618,8 +618,8 @@
       ],
       "vs_previous_month": {
         "month": "2026-09",
-        "on_sale_pct_delta": -26.0,
-        "avg_discount_pct_delta": -1.8,
+        "on_sale_pct_delta": -25.8,
+        "avg_discount_pct_delta": -1.9,
         "products_tracked_delta": -13
       }
     },
@@ -627,7 +627,7 @@
       "month": "2026-09",
       "label": "September 2026",
       "is_current": false,
-      "generated_at": "2026-10-10",
+      "generated_at": "2026-10-11",
       "observations": 3603,
       "products_tracked": 517,
       "products_on_sale": 280,
@@ -1258,7 +1258,7 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-10-10",
+      "generated_at": "2026-10-11",
       "observations": 3587,
       "products_tracked": 425,
       "products_on_sale": 258,
@@ -1854,7 +1854,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-10-10",
+      "generated_at": "2026-10-11",
       "observations": 1968,
       "products_tracked": 289,
       "products_on_sale": 142,

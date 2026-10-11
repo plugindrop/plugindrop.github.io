@@ -11,7 +11,7 @@ originalPrice: "$149.00"
 discount: "83% OFF"
 saleExpiry: "2026-10-01"
 saleExpirySource: "fallback"
-draft: false
+draft: true
 ---
 **Summary:** Elpiano is an electric piano plugin by Klevgrand, sold at Plugin Boutique. PluginDrop recorded it at **$25** (regular ~~$149~~, about 83% off) when this page was published on 2026-09-08. When we viewed the listing on 2026-10-01 it showed no discount marker, so treat the sale as a past observation and check the [current listing](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14570-Elpiano?a_aid=69cb95abe1763&chan=art&data1=elpiano-510e1c&utm_source=plugindrop&utm_medium=article&utm_campaign=elpiano-510e1c).
 

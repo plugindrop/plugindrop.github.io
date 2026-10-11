@@ -10,7 +10,7 @@ dealPrice: "$44.00"
 originalPrice: "$525.00"
 discount: "92% OFF"
 saleExpiry: "2026-10-05"
-draft: false
+draft: true
 ---
 **TL;DR:** Complete Drums 2 from Wave Alchemy is on sale at Plugin Boutique, discounted 92% off its ~~$525~~ regular price. Community sale tracking has also shown this library at $44 and £39 during separate promotional windows, so pricing moves around — [check the current deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Complete+Drums+2&a_aid=69cb95abe1763&chan=art&data1=complete-drums-2-075797&utm_source=plugindrop&utm_medium=article&utm_campaign=complete-drums-2-075797). It's a large-scale drum and percussion sample collection aimed at producers who need raw and processed hit material rather than pre-built loops.
 

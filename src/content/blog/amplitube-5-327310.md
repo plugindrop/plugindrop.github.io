@@ -14,7 +14,7 @@ saleExpiry: "2026-11-08"
 saleExpirySource: "fallback"
 draft: true
 ---
-**TL;DR:** AmpliTube 5 is currently $99.99 at Plugin Boutique, matching the lowest price tracked since 2026-07-19 across 27 observations, down from the ~~$299.99~~ regular price. The suite covers 47 stomp boxes, 34 amps, 27 cabinets, 14 speakers, 11 microphones, and 36 rack effects for shaping guitar and bass tone inside a DAW. [Grab AmpliTube 5 at this tracked price](https://www.pluginboutique.com/search?q=AmpliTube+5&a_aid=69cb95abe1763&chan=trk&data1=amplitube-5-327310&utm_source=plugindrop&utm_medium=article&utm_campaign=amplitube-5-327310) while it holds.
+**TL;DR:** AmpliTube 5 is currently $99.99 at Plugin Boutique, matching the lowest price tracked since 2026-07-19 across 27 observations, down from the ~~$299.99~~ regular price. The suite covers 47 stomp boxes, 34 amps, 27 cabinets, 14 speakers, 11 microphones, and 36 rack effects for shaping guitar and bass tone inside a DAW. [Grab AmpliTube 5 at this tracked price](https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12669-AmpliTube-5?a_aid=69cb95abe1763&chan=trk&data1=amplitube-5-327310&utm_source=plugindrop&utm_medium=article&utm_campaign=amplitube-5-327310) while it holds.
 
 <!-- deal-context-sale-windows:start -->
 ## Last three times this went on sale
