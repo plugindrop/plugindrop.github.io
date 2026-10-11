@@ -1723,6 +1723,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-10-11"
+        },
+        {
+          "date": "2026-10-11",
+          "sale": 29.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/amber-2.jpg"
@@ -73389,7 +73398,7 @@
       "image": "/images/plugin-prices/uad-oxide-tape-recorder.jpg"
     },
     "UAD Pick 5 Mix Tape": {
-      "pb_url": "/search?q=UAD%20Pick%205%20Mix%20Tape",
+      "pb_url": "/product/81-Bundles/39-Effects-Bundles/16916-UAD-Pick-5-Mix-Tape",
       "typical_regular": 99.0,
       "typical_sale": 69.0,
       "all_time_low": 69.0,
@@ -90614,6 +90623,24 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-10-31"
+        },
+        {
+          "date": "2025-02-26",
+          "regular": 77.4,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-03-03",
+          "regular": 74.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-04-20",
+          "regular": 74.0,
+          "sale": null,
+          "source": "wayback"
         }
       ]
     },
@@ -90722,6 +90749,12 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2025-02-02",
+          "regular": 199.0,
+          "sale": null,
+          "source": "wayback"
         }
       ]
     }
