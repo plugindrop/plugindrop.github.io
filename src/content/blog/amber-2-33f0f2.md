@@ -14,7 +14,7 @@ saleExpiry: "2026-11-10"
 saleExpirySource: "fallback"
 draft: false
 ---
-**TL;DR:** UJAM's Amber 2 is ~~$129~~ $29 at Plugin Boutique right now, matching the $29 lowest price PluginDrop has tracked since 2026-08-16 across 12 observations. It's part of UJAM's Virtual Guitarist line, built around 30 stompbox combinations and 60 Finisher FX chains for shaping guitar tone fast. [Grab it at Plugin Boutique](https://www.pluginboutique.com/search?q=AMBER+2&a_aid=69cb95abe1763&chan=trk&data1=amber-2-33f0f2&utm_source=plugindrop&utm_medium=article&utm_campaign=amber-2-33f0f2).
+**TL;DR:** UJAM's Amber 2 is ~~$129~~ $29 at Plugin Boutique right now, matching the $29 lowest price PluginDrop has tracked since 2026-08-16 across 12 observations. It's part of UJAM's Virtual Guitarist line, built around 30 stompbox combinations and 60 Finisher FX chains for shaping guitar tone fast. [Grab it at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10597-AMBER-2?a_aid=69cb95abe1763&chan=trk&data1=amber-2-33f0f2&utm_source=plugindrop&utm_medium=article&utm_campaign=amber-2-33f0f2).
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lqPnryv4Ikc" title="78% Off AMBER 2 — Guitar Tone Shaping for Mixes ($29) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -38,7 +38,7 @@ Stompbox combinations slot in at the tracking or re-amping stage, where you'd ot
 
 Plugin Boutique has Amber 2 at $29, down from a $129 regular price. PluginDrop has tracked this product since 2026-08-16 across 12 observations, and $29 is both the lowest price seen in that window and the typical sale price. That means this isn't a one-off dip: $29 is roughly where this title lands whenever it goes on sale. Check the product page for current pricing before buying, since sale windows can close without notice.
 
-[See the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=AMBER+2&a_aid=69cb95abe1763&chan=trk&data1=amber-2-33f0f2&utm_source=plugindrop&utm_medium=article&utm_campaign=amber-2-33f0f2).
+[See the current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10597-AMBER-2?a_aid=69cb95abe1763&chan=trk&data1=amber-2-33f0f2&utm_source=plugindrop&utm_medium=article&utm_campaign=amber-2-33f0f2).
 
 ## Skip it if
 

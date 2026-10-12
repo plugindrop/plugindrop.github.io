@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11",
+  "generated_at": "2026-10-12",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-10",
       "label": "October 2026",
       "is_current": true,
-      "generated_at": "2026-10-11",
-      "observations": 1025,
-      "products_tracked": 504,
-      "products_on_sale": 143,
-      "on_sale_pct": 28.4,
+      "generated_at": "2026-10-12",
+      "observations": 1152,
+      "products_tracked": 506,
+      "products_on_sale": 146,
+      "on_sale_pct": 28.9,
       "avg_discount_pct": 55.9,
-      "median_discount_pct": 60,
+      "median_discount_pct": 60.0,
       "discount_buckets": {
         "1-19": 12,
-        "20-39": 20,
-        "40-59": 37,
-        "60+": 74
+        "20-39": 21,
+        "40-59": 38,
+        "60+": 75
       },
-      "all_time_low_hits": 111,
+      "all_time_low_hits": 113,
       "deepest_discounts": [
         {
           "name": "TOTAL VI MAX 2",
@@ -116,6 +116,16 @@
           "pb_url": "/product/1-Instruments/64-Virtual-Instruments/5507-SOLID-2"
         },
         {
+          "name": "Platinum",
+          "slug": "platinum",
+          "category": "Other",
+          "regular": 1999.0,
+          "sale": 199.0,
+          "pct_off": 90,
+          "date": "2026-10-11",
+          "pb_url": "/product/81-Bundles/84-Mix-Master/12542-Platinum"
+        },
+        {
           "name": "Softube Producer Collection Exclusive",
           "slug": "softube-producer-collection-exclusive",
           "category": "Other",
@@ -164,16 +174,6 @@
           "pct_off": 81,
           "date": "2026-10-03",
           "pb_url": "/product/2-Effects/16-EQ/11854-Helios-Type-69-Preamp-and-EQ-Collection"
-        },
-        {
-          "name": "UAD UA 175B 176 Tube Compressor Collection",
-          "slug": "uad-ua-175b-176-tube-compressor-collection",
-          "category": "Other",
-          "regular": 149.0,
-          "sale": 29.0,
-          "pct_off": 81,
-          "date": "2026-10-03",
-          "pb_url": "/product/2-Effects/8-Compressor/10940-UA-175B-176-Tube-Compressor-Collection"
         }
       ],
       "all_time_low_products": [
@@ -286,10 +286,10 @@
       "by_category": [
         {
           "category": "Other",
-          "tracked": 352,
-          "on_sale": 114,
-          "on_sale_pct": 32.4,
-          "avg_discount_pct": 60.2
+          "tracked": 354,
+          "on_sale": 117,
+          "on_sale_pct": 33.1,
+          "avg_discount_pct": 60.1
         },
         {
           "category": "Synth",
@@ -393,17 +393,17 @@
       "by_brand": [
         {
           "category": "Other",
-          "tracked": 162,
-          "on_sale": 71,
-          "on_sale_pct": 43.8,
-          "avg_discount_pct": 59.0
+          "tracked": 163,
+          "on_sale": 73,
+          "on_sale_pct": 44.8,
+          "avg_discount_pct": 59.3
         },
         {
           "category": "Universal Audio",
-          "tracked": 51,
-          "on_sale": 34,
-          "on_sale_pct": 66.7,
-          "avg_discount_pct": 63.9
+          "tracked": 52,
+          "on_sale": 35,
+          "on_sale_pct": 67.3,
+          "avg_discount_pct": 63.0
         },
         {
           "category": "Cherry Audio",
@@ -618,16 +618,16 @@
       ],
       "vs_previous_month": {
         "month": "2026-09",
-        "on_sale_pct_delta": -25.8,
+        "on_sale_pct_delta": -25.3,
         "avg_discount_pct_delta": -1.9,
-        "products_tracked_delta": -13
+        "products_tracked_delta": -11
       }
     },
     {
       "month": "2026-09",
       "label": "September 2026",
       "is_current": false,
-      "generated_at": "2026-10-11",
+      "generated_at": "2026-10-12",
       "observations": 3603,
       "products_tracked": 517,
       "products_on_sale": 280,
@@ -1258,7 +1258,7 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-10-11",
+      "generated_at": "2026-10-12",
       "observations": 3587,
       "products_tracked": 425,
       "products_on_sale": 258,
@@ -1854,7 +1854,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-10-11",
+      "generated_at": "2026-10-12",
       "observations": 1968,
       "products_tracked": 289,
       "products_on_sale": 142,
