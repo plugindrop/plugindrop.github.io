@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12",
+  "generated_at": "2026-10-13",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,18 +10,18 @@
       "month": "2026-10",
       "label": "October 2026",
       "is_current": true,
-      "generated_at": "2026-10-12",
-      "observations": 1152,
+      "generated_at": "2026-10-13",
+      "observations": 1279,
       "products_tracked": 506,
-      "products_on_sale": 146,
-      "on_sale_pct": 28.9,
-      "avg_discount_pct": 55.9,
-      "median_discount_pct": 60.0,
+      "products_on_sale": 158,
+      "on_sale_pct": 31.2,
+      "avg_discount_pct": 57.2,
+      "median_discount_pct": 61.0,
       "discount_buckets": {
         "1-19": 12,
         "20-39": 21,
         "40-59": 38,
-        "60+": 75
+        "60+": 87
       },
       "all_time_low_hits": 113,
       "deepest_discounts": [
@@ -126,6 +126,16 @@
           "pb_url": "/product/81-Bundles/84-Mix-Master/12542-Platinum"
         },
         {
+          "name": "Waves Platinum Bundle",
+          "slug": "waves-platinum-bundle",
+          "category": "Bundle",
+          "regular": 1999.0,
+          "sale": 199.0,
+          "pct_off": 90,
+          "date": "2026-10-12",
+          "pb_url": "/product/81-Bundles/84-Mix-Master/12542-Platinum-Bundle"
+        },
+        {
           "name": "Softube Producer Collection Exclusive",
           "slug": "softube-producer-collection-exclusive",
           "category": "Other",
@@ -164,16 +174,6 @@
           "pct_off": 85,
           "date": "2026-10-01",
           "pb_url": "/product/1-Instruments/64-Virtual-Instruments/12454-MODO-BASS-2"
-        },
-        {
-          "name": "UAD Helios Type 69 Preamp and EQ Collection",
-          "slug": "uad-helios-type-69-preamp-and-eq-collection",
-          "category": "Other",
-          "regular": 149.0,
-          "sale": 29.0,
-          "pct_off": 81,
-          "date": "2026-10-03",
-          "pb_url": "/product/2-Effects/16-EQ/11854-Helios-Type-69-Preamp-and-EQ-Collection"
         }
       ],
       "all_time_low_products": [
@@ -315,23 +315,23 @@
         {
           "category": "Compressor",
           "tracked": 14,
-          "on_sale": 2,
-          "on_sale_pct": 14.3,
-          "avg_discount_pct": 50.5
+          "on_sale": 5,
+          "on_sale_pct": 35.7,
+          "avg_discount_pct": 65.6
         },
         {
           "category": "EQ",
           "tracked": 11,
-          "on_sale": 2,
-          "on_sale_pct": 18.2,
-          "avg_discount_pct": 58.5
+          "on_sale": 3,
+          "on_sale_pct": 27.3,
+          "avg_discount_pct": 63.3
         },
         {
           "category": "Reverb",
           "tracked": 11,
-          "on_sale": 2,
-          "on_sale_pct": 18.2,
-          "avg_discount_pct": 54
+          "on_sale": 5,
+          "on_sale_pct": 45.5,
+          "avg_discount_pct": 64.6
         },
         {
           "category": "Saturation",
@@ -343,30 +343,30 @@
         {
           "category": "Bundle",
           "tracked": 9,
-          "on_sale": 5,
-          "on_sale_pct": 55.6,
-          "avg_discount_pct": 28.2
+          "on_sale": 6,
+          "on_sale_pct": 66.7,
+          "avg_discount_pct": 38.5
         },
         {
           "category": "Vocal",
           "tracked": 9,
-          "on_sale": 2,
-          "on_sale_pct": 22.2,
-          "avg_discount_pct": 32
+          "on_sale": 3,
+          "on_sale_pct": 33.3,
+          "avg_discount_pct": 44.3
         },
         {
           "category": "Utility",
           "tracked": 7,
-          "on_sale": 0,
-          "on_sale_pct": 0.0,
-          "avg_discount_pct": 0.0
+          "on_sale": 1,
+          "on_sale_pct": 14.3,
+          "avg_discount_pct": 65
         },
         {
           "category": "Delay",
           "tracked": 5,
-          "on_sale": 1,
-          "on_sale_pct": 20.0,
-          "avg_discount_pct": 12
+          "on_sale": 2,
+          "on_sale_pct": 40.0,
+          "avg_discount_pct": 44.5
         },
         {
           "category": "Mastering",
@@ -385,9 +385,9 @@
         {
           "category": "Limiter",
           "tracked": 3,
-          "on_sale": 0,
-          "on_sale_pct": 0.0,
-          "avg_discount_pct": 0.0
+          "on_sale": 1,
+          "on_sale_pct": 33.3,
+          "avg_discount_pct": 65
         }
       ],
       "by_brand": [
@@ -464,9 +464,9 @@
         {
           "category": "Waves",
           "tracked": 14,
-          "on_sale": 1,
-          "on_sale_pct": 7.1,
-          "avg_discount_pct": 80
+          "on_sale": 13,
+          "on_sale_pct": 92.9,
+          "avg_discount_pct": 73.9
         },
         {
           "category": "Arturia",
@@ -618,8 +618,8 @@
       ],
       "vs_previous_month": {
         "month": "2026-09",
-        "on_sale_pct_delta": -25.3,
-        "avg_discount_pct_delta": -1.9,
+        "on_sale_pct_delta": -23.0,
+        "avg_discount_pct_delta": -0.6,
         "products_tracked_delta": -11
       }
     },
@@ -627,7 +627,7 @@
       "month": "2026-09",
       "label": "September 2026",
       "is_current": false,
-      "generated_at": "2026-10-12",
+      "generated_at": "2026-10-13",
       "observations": 3603,
       "products_tracked": 517,
       "products_on_sale": 280,
@@ -1258,7 +1258,7 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-10-12",
+      "generated_at": "2026-10-13",
       "observations": 3587,
       "products_tracked": 425,
       "products_on_sale": 258,
@@ -1854,7 +1854,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-10-12",
+      "generated_at": "2026-10-13",
       "observations": 1968,
       "products_tracked": 289,
       "products_on_sale": 142,

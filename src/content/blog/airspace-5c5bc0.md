@@ -14,7 +14,7 @@ saleExpiry: "2026-11-11"
 saleExpirySource: "fallback"
 draft: false
 ---
-**TL;DR:** Airspace, Mode Audio's dual-engine convolution reverb and delay plugin, is currently ~~$80~~ at 39% off through [Plugin Boutique](https://www.pluginboutique.com/search?q=Airspace&a_aid=69cb95abe1763&chan=art&data1=airspace-5c5bc0&utm_source=plugindrop&utm_medium=article&utm_campaign=airspace-5c5bc0). It pairs two convolution reverb engines with a stereo delay and over 240 presets, aimed at producers who want spatial processing beyond a stock reverb plugin. Check the product page for current pricing before checkout.
+**TL;DR:** Airspace, Mode Audio's dual-engine convolution reverb and delay plugin, is currently ~~$80~~ at 39% off through [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/14865-Airspace?a_aid=69cb95abe1763&chan=art&data1=airspace-5c5bc0&utm_source=plugindrop&utm_medium=article&utm_campaign=airspace-5c5bc0). It pairs two convolution reverb engines with a stereo delay and over 240 presets, aimed at producers who want spatial processing beyond a stock reverb plugin. Check the product page for current pricing before checkout.
 
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="39% Off Airspace — Hybrid Reverb & Delay for Spatial Design — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/2009647863&color=%2300bfff&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe>

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12",
+  "last_updated": "2026-10-13",
   "bundles": {
     "Arturia FX Collection 6 Pro": {
       "pb_url": "/product/81-Bundles/39-Effects-Bundles/16835-FX-Collection-6-PRO",
@@ -2047,6 +2047,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-10-12"
+        },
+        {
+          "date": "2026-10-13",
+          "sale": 107.0,
+          "regular": 179.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/addictive-drums-2-custom-collection.jpg"
@@ -2902,6 +2911,15 @@
         },
         {
           "date": "2026-10-12",
+          "sale": 199.0,
+          "regular": 499.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-10-13",
           "sale": 199.0,
           "regular": 499.0,
           "source": "pb_deals_poll",
@@ -19873,6 +19891,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-10-13",
+          "sale": 39.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/empirical-labs-el8-distressor-compressor.jpg"
@@ -20261,6 +20288,15 @@
         },
         {
           "date": "2026-10-12",
+          "sale": 49.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-10-13",
           "sale": 49.0,
           "regular": 99.0,
           "source": "pb_deals_poll",
@@ -21778,6 +21814,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-01"
+        },
+        {
+          "date": "2026-10-13",
+          "sale": 75.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "category": "Effects",
@@ -27527,6 +27572,15 @@
         },
         {
           "date": "2026-10-12",
+          "sale": 279.0,
+          "regular": 758.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-10-13",
           "sale": 279.0,
           "regular": 758.0,
           "source": "pb_deals_poll",
@@ -34256,6 +34310,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-10-13",
+          "sale": 69.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/jupiter-8.jpg"
@@ -39741,6 +39804,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-10-13",
+          "sale": 29.99,
+          "regular": 199.99,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/modo-bass-2.jpg"
@@ -41354,6 +41426,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-10-31"
+        },
+        {
+          "date": "2026-10-13",
+          "sale": 79.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "category": null,
@@ -42246,6 +42327,15 @@
         },
         {
           "date": "2026-10-12",
+          "sale": 79.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-10-13",
           "sale": 79.0,
           "regular": 129.0,
           "source": "pb_deals_poll",
@@ -53014,6 +53104,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-10-13",
+          "sale": 99.0,
+          "regular": 119.99,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/prophet-5.jpg"
@@ -57839,6 +57938,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-01"
+        },
+        {
+          "date": "2026-10-13",
+          "sale": 149.0,
+          "regular": 1359.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ]
     },
@@ -59330,6 +59438,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-10-12"
+        },
+        {
+          "date": "2026-10-13",
+          "sale": 99.0,
+          "regular": 179.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/sonible-smart-chain.jpg"
@@ -66922,6 +67039,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-10-13",
+          "sale": 39.0,
+          "regular": 80.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/sublab-xl.jpg"
@@ -69000,6 +69126,15 @@
         },
         {
           "date": "2026-10-12",
+          "sale": 149.99,
+          "regular": 599.99,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-10-13",
           "sale": 149.99,
           "regular": 599.99,
           "source": "pb_deals_poll",
@@ -74119,6 +74254,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-10-13",
+          "sale": 99.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ]
     },
@@ -74494,6 +74638,15 @@
         },
         {
           "date": "2026-10-12",
+          "sale": 39.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-10-13",
           "sale": 39.0,
           "regular": 149.0,
           "source": "pb_deals_poll",
@@ -80053,6 +80206,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-10-13",
+          "sale": 49.0,
+          "regular": 89.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/vision-4x.jpg"
@@ -85025,6 +85187,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-10-13",
+          "sale": 29.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "category": "Effects",
@@ -86617,6 +86788,15 @@
         },
         {
           "date": "2026-10-12",
+          "sale": 19.0,
+          "regular": 49.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-10-13",
           "sale": 19.0,
           "regular": 49.0,
           "source": "pb_deals_poll",
@@ -92060,6 +92240,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-10-13",
+          "sale": 99.0,
+          "regular": 229.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ]
     },
@@ -92177,6 +92366,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-10-13",
+          "sale": 19.0,
+          "regular": 49.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ]
     },
@@ -92279,6 +92477,15 @@
         },
         {
           "date": "2026-10-12",
+          "sale": 69.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-10-13",
           "sale": 69.0,
           "regular": 199.0,
           "source": "pb_deals_poll",
@@ -92473,6 +92680,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-01"
+        },
+        {
+          "date": "2026-10-13",
+          "sale": 59.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ]
     },
@@ -92814,6 +93030,15 @@
         },
         {
           "date": "2026-10-12",
+          "sale": 29.99,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-10-13",
           "sale": 29.99,
           "regular": 199.0,
           "source": "pb_deals_poll",
