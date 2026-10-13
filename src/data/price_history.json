@@ -4158,6 +4158,30 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2024-12-03",
+          "regular": 199.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-03-03",
+          "regular": 74.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-04-28",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-09-11",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "category": "Synth"
@@ -4310,6 +4334,48 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2024-02-13",
+          "regular": 59.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-04-12",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-05-05",
+          "regular": 60.97,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-08-28",
+          "regular": 60.97,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-02-17",
+          "regular": 49.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-08-14",
+          "regular": 49.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-09-28",
+          "regular": 49.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/atoms.jpg"
@@ -54348,6 +54414,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-10-13",
+          "sale": 19.0,
+          "regular": 79.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/relooper.jpg"
@@ -93100,6 +93175,14 @@
           "cur": "USD"
         }
       ]
+    },
+    "Cherry Audio Pentaphonic": {
+      "pb_url": "/product/1-Instruments/4-Synth/17987-Pentaphonic",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-10-13",
+      "history": []
     }
   }
 }
