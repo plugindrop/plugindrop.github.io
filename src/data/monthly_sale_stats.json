@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13",
+  "generated_at": "2026-10-14",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-10",
       "label": "October 2026",
       "is_current": true,
-      "generated_at": "2026-10-13",
-      "observations": 1279,
-      "products_tracked": 506,
-      "products_on_sale": 158,
-      "on_sale_pct": 31.2,
-      "avg_discount_pct": 57.2,
+      "generated_at": "2026-10-14",
+      "observations": 1397,
+      "products_tracked": 507,
+      "products_on_sale": 160,
+      "on_sale_pct": 31.6,
+      "avg_discount_pct": 57.4,
       "median_discount_pct": 61.0,
       "discount_buckets": {
-        "1-19": 12,
-        "20-39": 21,
-        "40-59": 38,
-        "60+": 87
+        "1-19": 11,
+        "20-39": 22,
+        "40-59": 39,
+        "60+": 88
       },
-      "all_time_low_hits": 113,
+      "all_time_low_hits": 115,
       "deepest_discounts": [
         {
           "name": "TOTAL VI MAX 2",
@@ -286,10 +286,10 @@
       "by_category": [
         {
           "category": "Other",
-          "tracked": 354,
-          "on_sale": 117,
-          "on_sale_pct": 33.1,
-          "avg_discount_pct": 60.1
+          "tracked": 355,
+          "on_sale": 118,
+          "on_sale_pct": 33.2,
+          "avg_discount_pct": 60.3
         },
         {
           "category": "Synth",
@@ -315,9 +315,9 @@
         {
           "category": "Compressor",
           "tracked": 14,
-          "on_sale": 5,
-          "on_sale_pct": 35.7,
-          "avg_discount_pct": 65.6
+          "on_sale": 6,
+          "on_sale_pct": 42.9,
+          "avg_discount_pct": 62.8
         },
         {
           "category": "EQ",
@@ -394,9 +394,9 @@
         {
           "category": "Other",
           "tracked": 163,
-          "on_sale": 73,
-          "on_sale_pct": 44.8,
-          "avg_discount_pct": 59.3
+          "on_sale": 74,
+          "on_sale_pct": 45.4,
+          "avg_discount_pct": 59.7
         },
         {
           "category": "Universal Audio",
@@ -407,7 +407,7 @@
         },
         {
           "category": "Cherry Audio",
-          "tracked": 42,
+          "tracked": 43,
           "on_sale": 0,
           "on_sale_pct": 0.0,
           "avg_discount_pct": 0.0
@@ -422,9 +422,9 @@
         {
           "category": "Native Instruments",
           "tracked": 32,
-          "on_sale": 3,
-          "on_sale_pct": 9.4,
-          "avg_discount_pct": 74
+          "on_sale": 4,
+          "on_sale_pct": 12.5,
+          "avg_discount_pct": 67.8
         },
         {
           "category": "Soundtoys",
@@ -618,16 +618,16 @@
       ],
       "vs_previous_month": {
         "month": "2026-09",
-        "on_sale_pct_delta": -23.0,
-        "avg_discount_pct_delta": -0.6,
-        "products_tracked_delta": -11
+        "on_sale_pct_delta": -22.6,
+        "avg_discount_pct_delta": -0.4,
+        "products_tracked_delta": -10
       }
     },
     {
       "month": "2026-09",
       "label": "September 2026",
       "is_current": false,
-      "generated_at": "2026-10-13",
+      "generated_at": "2026-10-14",
       "observations": 3603,
       "products_tracked": 517,
       "products_on_sale": 280,
@@ -640,7 +640,7 @@
         "40-59": 88,
         "60+": 138
       },
-      "all_time_low_hits": 242,
+      "all_time_low_hits": 241,
       "deepest_discounts": [
         {
           "name": "Platinum",
@@ -1258,7 +1258,7 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-10-13",
+      "generated_at": "2026-10-14",
       "observations": 3587,
       "products_tracked": 425,
       "products_on_sale": 258,
@@ -1854,7 +1854,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-10-13",
+      "generated_at": "2026-10-14",
       "observations": 1968,
       "products_tracked": 289,
       "products_on_sale": 142,
