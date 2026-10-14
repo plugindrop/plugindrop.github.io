@@ -10,6 +10,11 @@ score: 8.00
 xText: "New guide: 8 Best Free Tape Saturation VST Plugins in 2026"
 draft: false
 ---
+
+
+
+
+
 **TL;DR:** **If you only install one, make it Chow Tape Model** — a free tape simulation, best used on a mix bus or master for documented physical tape warmth without buying a single plugin. If you want quick analog harmonic coloring on individual channels rather than a full tape machine parameter set, **IVGI by Klanghelm** is a free option with a simple drive control. When you outgrow the free tier, the paid tape and saturation plugins on Plugin Boutique — collected in the upgrade table below — are the honest next step.
 
 ## Quick Picks at a Glance
@@ -42,6 +47,8 @@ Each entry below lists format, operating system, price, a concrete use case, and
 ## Physical Tape Simulators
 
 ### Chow Tape Model — Physics-based tape modeling the free tier shouldn't have
+
+**Developer facts:** os: [Windows 7](https://chowdsp.com/products.html); formats: [VST3, AU, CLAP, AAX](https://chowdsp.com/products.html).
 
 
 - **Developer:** ChowDSP (Jatin Chowdhury)
@@ -147,6 +154,8 @@ Caramel is available through MeldaProduction's MFreeEffectsBundle, a package of 
 ---
 
 ### Saturation Knob — Softube's no-decisions saturator for fast session work
+
+**Developer facts:** license: [Free](https://www.softube.com/plug-ins/saturation-knob); os: [Windows 10](https://www.softube.com/plug-ins/saturation-knob); formats: [VST3](https://www.softube.com/plug-ins/saturation-knob).
 
 
 - **Developer:** Softube

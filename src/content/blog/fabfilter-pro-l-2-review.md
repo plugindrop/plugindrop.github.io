@@ -1,7 +1,7 @@
 ---
 heroImage: "/images/best-free-mastering-plugins.png"
-title: "FabFilter Pro-L 2 Review 2026: Is $199 Worth It vs Free Options?"
-description: "FabFilter Pro-L 2 is a mastering limiter in 2026 — 8 algorithms, true peak protection, streaming-accurate metering."
+title: "FabFilter Pro-L 2 Overview 2026: Pricing, Versions and Specs"
+description: "FabFilter Pro-L 2 Overview 2026: Pricing, Versions and Specs. A summary of published specifications and price information."
 pubDate: "2026-05-05T10:10:19Z"
 tags: ["guide", "vst", "mastering", "review"]
 affiliate: ""
@@ -12,6 +12,8 @@ draft: false
 priceTrack:
   - "FabFilter Pro-L 2"
 ---
+
+This page is based on published specifications and price records. It does not assess sound quality.
 **TL;DR:** FabFilter Pro-L 2 is still the mastering limiter most professionals reach for first in 2026 — eight precisely tuned limiting algorithms, true peak control up to 32x oversampling, and a metering suite that handles every modern streaming target without a separate tool. At $199 it is a premium investment, but nothing else at this price offers the same combination of transparency, loudness control, and workflow depth.
 
 <div class="video-embed">

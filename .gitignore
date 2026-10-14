@@ -1,5 +1,7 @@
 # build output
 dist/
+_dist_*/
+build_*.log
 # generated types
 .astro/
 # stale legacy build artifacts at repo root (now served from dist/)

@@ -13,6 +13,11 @@ evergreen: true
 ---
 
 
+
+
+
+
+
 **TL;DR:** If you install one plugin from this list, make it **Vital** — a free wavetable synth that holds its own against Serum for sound design, bass, and pads. From there, this guide covers 15 genuinely free VST plugins across synths, effects, mixing, and instruments, organized by category so you can grab exactly what your setup is missing. Every pick is free for real — either permanently free, a free tier of a paid product, or a free starter bundle. No trials, no watermarks on the core features, no hidden costs. Formats, supported operating systems, and honest limitations are listed for each so you know what you're getting before you download.
 
 ## Synths
@@ -20,6 +25,8 @@ evergreen: true
 Start here if you make electronic, pop, hip-hop, or cinematic music. These four cover wavetable, FM, and subtractive synthesis — the three engines behind most modern sounds.
 
 ### 1. Vital
+
+**Developer facts:** os: [Linux 18.04](https://vital.audio/).
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/eLbA42iH8hg" title="Vital — First Look: Free Wavetable Synth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 Wavetable synth with drag-and-drop modulation, spectral warping, and a visual interface that rivals Serum. The free tier includes 75 presets and the full synthesis engine — nothing about the sound is locked behind a paywall.
 
@@ -28,6 +35,8 @@ Wavetable synth with drag-and-drop modulation, spectral warping, and a visual in
 - **Skip it if:** you want a huge factory library on day one — the free tier's engine is identical to paid, but ships with fewer wavetables and presets, so you'll build your own palette or import third-party ones. [Full breakdown here](/posts/best-free-synth-plugins/).
 
 ### 2. Surge XT
+
+**Developer facts:** os: [Windows 7](https://surge-synthesizer.github.io/); formats: [VST3, AU](https://surge-synthesizer.github.io/).
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/8wdwrr4Nrk8" title="Surge XT — Free Synth No-Talking Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 Open-source hybrid synth with 3 oscillators, 14 filter algorithms, and a deep modulation matrix. Regular community updates keep adding features, and it's fully free with no paid tier to upsell you.
 
@@ -44,6 +53,8 @@ Faithful emulation of the Yamaha DX7 — it loads original DX7 SysEx patches, so
 - **Skip it if:** you want to design sounds from scratch quickly — FM programming is famously unintuitive, so Dexed is really for playing the decades of existing DX7 patches. [Full article](/posts/dexed-free-dx7-emulation/).
 
 ### 4. Helm
+
+**Developer facts:** formats: [VST3](https://tytel.org/helm/).
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/kcbOGUej_n4" title="HELM - Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
@@ -90,6 +101,8 @@ Plate reverb with a vintage character. Simple controls and minimal parameter twe
 
 ### 8. iZotope Vinyl
 
+**Developer facts:** license: [Free](https://www.izotope.com/products/vinyl); os: [Windows 10](https://www.izotope.com/products/vinyl); formats: [AU, AAX, VST3](https://www.izotope.com/products/vinyl).
+
 Lo-fi processor that adds vinyl noise, warp, dust, and electrical hum. A fast way to add analog texture to any track.
 
 - **Format:** VST, VST3, AU, AAX · **OS:** Windows, macOS · **Price:** Free (via iZotope Product Portal)
@@ -109,6 +122,8 @@ Bundle of small effect modules — distortion, chorus, delay, filter, and more. 
 Utility plugins that do the unglamorous work of making a mix translate.
 
 ### 10. TDR Nova
+
+**Developer facts:** license: [Free](https://www.tokyodawn.net/tdr-nova/); formats: [VST3, AAX](https://www.tokyodawn.net/tdr-nova/).
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/puv2KnHcavI" title="TDR Nova — Free Dynamic EQ Full Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 Dynamic EQ with four bands, each switchable between static EQ and dynamic processing. It competes with paid dynamic EQs at $0.
 
@@ -134,6 +149,8 @@ LA-2A-style optical compressor. Smooth compression for vocals, bass, and bus pro
 
 ### 13. Youlean Loudness Meter 2
 
+**Developer facts:** license: [Free](https://youlean.co/youlean-loudness-meter/); formats: [AU and AAX](https://youlean.co/youlean-loudness-meter/).
+
 LUFS metering plugin — essential for checking loudness against streaming targets (Spotify, Apple Music, YouTube). The free version covers all critical metering needs.
 
 - **Format:** VST, VST3, AU, AAX · **OS:** Windows, macOS · **Price:** Free (Pro version paid)
@@ -153,6 +170,8 @@ Sample-based instrument library with 80+ instruments — soft piano, strings, pa
 - **Skip it if:** you need deep articulation control — LABS instruments are single-patch mood pieces managed through Spitfire's app, not orchestration workhorses. [Full article](/posts/spitfire-labs-free-sample-library/).
 
 ### 15. Native Instruments Komplete Start
+
+**Developer facts:** license: [Free](https://www.native-instruments.com/products/komplete-start); os: [macOS 14](https://www.native-instruments.com/products/komplete-start).
 
 Free bundle including synths (Massive, Reaktor Player), sampled instruments, effects, and loops — over 2,000 sounds across multiple categories.
 

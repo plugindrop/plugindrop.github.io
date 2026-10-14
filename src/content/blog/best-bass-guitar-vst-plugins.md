@@ -108,7 +108,7 @@ At $299, Trilian is clearly positioned above mid-tier options, and its value pro
 
 **Best for:** Film composers, professional pop producers, sync writers, and anyone who needs electric, upright, and synth bass under a single license without compromise.
 
-[→ Get Trilian on Spectrasonics (via Plugin Boutique)](https://www.spectrasonics.net/products/omnisphere/)
+[spectrasonics.net (official)](https://www.spectrasonics.net/products/omnisphere/)
 
 ---
 
@@ -146,7 +146,7 @@ At $299, Trilian is clearly positioned above mid-tier options, and its value pro
 - **Price:** $299
 - **Why upgrade:** Trilian's scope — electric bass, upright/acoustic bass, and synthesized bass with 34GB+ of content — is categorically different from any mid-tier option. Producers who currently own separate libraries for electric and upright bass will often find Trilian more economical as a long-term single investment.
 
-[→ Get Trilian on Spectrasonics (via Plugin Boutique)](https://www.spectrasonics.net/products/omnisphere/)
+[spectrasonics.net (official)](https://www.spectrasonics.net/products/omnisphere/)
 
 ---
 

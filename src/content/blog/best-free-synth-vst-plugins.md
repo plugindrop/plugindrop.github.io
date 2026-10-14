@@ -332,12 +332,12 @@ Magical8bitPlug 2 emulates classic NES and Game Boy sound chips with selectable 
 
 | Plugin | Price | Type | Highlights | Get It |
 |--------|-------|------|------------|--------|
-| Vital | Free | Wavetable | Spectral warping, drag-and-drop mod, built-in FX | [Plugin Boutique](https://vital.audio/) |
+| Vital | Free | Wavetable | Spectral warping, drag-and-drop mod, built-in FX | [Vital (official)](https://vital.audio/) |
 | Surge XT | Free | Hybrid | Multiple oscillator modes, deep modulation, open source | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17453-Surge-XT?a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins) |
 | Dexed | Free | FM (6-op) | DX7 SysEx compatible, 6-operator FM engine | [Plugin Boutique](https://www.pluginboutique.com/search?q=Dexed%20FM%20synth&a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins) |
 | ZynAddSubFX | Free | Additive / Subtractive | PADsynth engine, deep harmonic control | [Developer](https://zynaddsubfx.sourceforge.io/) |
-| OB-Xd | Free | Virtual Analog | Oberheim filter, 12-voice polyphony, AAX support | [Plugin Boutique](https://www.discodsp.com/obxd/) |
-| Helm | Free | Analog Hybrid | Step sequencer, visual modulation, beginner-friendly | [Plugin Boutique](https://tytel.org/helm/) |
+| OB-Xd | Free | Virtual Analog | Oberheim filter, 12-voice polyphony, AAX support | [discodsp.com (official)](https://www.discodsp.com/obxd/) |
+| Helm | Free | Analog Hybrid | Step sequencer, visual modulation, beginner-friendly | [tytel.org (official)](https://tytel.org/helm/) |
 | Tyrell N6 | Free | Virtual Analog | u-he analog character, warm filter | [Plugin Boutique](https://www.pluginboutique.com/search?q=Tyrell%20N6&a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins) |
 | TAL-NoiseMaker | Free | Virtual Analog | 3 oscillators, onboard FX, easiest to learn | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/429-TAL-NoiseMaker?a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins) |
 | Synth1 | Free | Virtual Analog | 100,000+ community presets, Nord-inspired | [Free Download](https://www.pluginboutique.com/search?q=Synth1&a_aid=69cb95abe1763&chan=art&data1=best-free-synth-vst-plugins) |

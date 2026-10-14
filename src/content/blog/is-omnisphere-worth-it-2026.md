@@ -60,7 +60,7 @@ This character is attributed to the quality of the underlying sample sources and
 
 **Best for:** Film composers, sync licensing producers, ambient and cinematic electronic music producers.
 
-[→ Get Omnisphere 2 on Official Site (via Plugin Boutique)](https://www.spectrasonics.net/products/omnisphere/)
+[spectrasonics.net (official)](https://www.spectrasonics.net/products/omnisphere/)
 
 ---
 
@@ -130,7 +130,7 @@ The one-time $499 price, in a market where some competing tools use subscription
 - **Price:** $399
 - **Why upgrade:** Omnisphere's factory library includes keyboard and piano content, but Keyscape is Spectrasonics' dedicated keyboard instrument — covering vintage electric pianos, uprights, grand pianos, clavichords, and rare historical keyboards at a sampling depth the Omnisphere factory content does not approach. Critically, Keyscape integrates directly into Omnisphere when both are installed, making its content available inside Omnisphere's interface rather than requiring a separate instrument and workflow.
 
-[→ Get Keyscape on Official Site (via Plugin Boutique)](https://www.spectrasonics.net/products/omnisphere/)
+[spectrasonics.net (official)](https://www.spectrasonics.net/products/omnisphere/)
 
 ---
 
@@ -187,7 +187,7 @@ A: The patch library makes Omnisphere immediately usable without deep synthesis 
 
 If your work consistently demands production-ready pads, evolving textures, and high-quality starting points across genres, the one-time $499 is the cost to weigh against that.
 
-[→ Get Omnisphere 2 on Official Site (via Plugin Boutique)](https://www.spectrasonics.net/products/omnisphere/)
+[spectrasonics.net (official)](https://www.spectrasonics.net/products/omnisphere/)
 
 ---
 

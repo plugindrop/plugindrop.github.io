@@ -1,6 +1,6 @@
 ---
-title: "Vital Synth Review 2026: Is the Free Wavetable Synth Worth It? (vs Serum)"
-description: "Vital is the best free wavetable synth in 2026 — its free tier rivals Serum at 89. This review covers sound quality, modulation routing, and exactly where paid tiers are worth upgrading."
+title: "Vital Synth Overview 2026: Pricing, Versions and Specs"
+description: "Vital Synth Overview 2026: Pricing, Versions and Specs. A summary of published specifications and price information."
 pubDate: "2026-05-05T06:47:51Z"
 updatedDate: "2026-10-04T12:21:20Z"
 tags: ["guide", "vst", "instruments", "review", "synth"]
@@ -12,6 +12,8 @@ originalPrice: "$99"
 xText: "New guide: Vital Review 2026: Is the Free Synth Really Worth It (And Wh..."
 draft: false
 ---
+
+This page is based on published specifications and price records. It does not assess sound quality.
 **TL;DR:** Vital's free tier delivers a complete spectral wavetable synthesis engine, comparable in scope to paid competitors costing $100–$200. The core synthesis capability is identical across all tiers — the decision to upgrade within Vital's own pricing structure hinges entirely on how much you rely on factory presets and built-in wavetable content.
 
 <div class="video-embed">
@@ -154,7 +156,7 @@ The case for moving to a different synthesizer — rather than paying within Vit
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Vital Free | Free | Spectral wavetable | Full engine, limited factory content, text-to-wavetable, Linux support | [Download Free (Plugin Boutique)](https://vital.audio/) |
+| Vital Free | Free | Spectral wavetable | Full engine, limited factory content, text-to-wavetable, Linux support | [Vital (official)](https://vital.audio/) |
 | Vital Plus | $25 | Spectral wavetable | Expanded presets + wavetables, full engine | [Get](https://vital.audio/) |
 | Vital Pro | $80 | Spectral wavetable | Complete official library, priority updates | [Get](https://vital.audio/) |
 | Serum | $249 | Wavetable | Industry-standard ecosystem, Splice integration, massive preset market | [Get Serum](https://xferrecords.com/products/serum-2) |

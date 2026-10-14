@@ -6,6 +6,7 @@ import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import { ENABLE_PIP_PREVIEW, SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 import priceDataRaw from '../data/price_history.json';
+import { weeklyPriceFacts } from '../lib/priceTrends.mjs';
 import productVideosRaw from '../data/product_videos.json';
 import { pdAttr } from '../lib/interestTaxonomy.mjs';
 import { isProductNameIndexable } from '../lib/indexPolicy.mjs';
@@ -258,7 +259,8 @@ const latestGuides = [
 	...indexablePosts.filter(p => !isGuide(p)),
 ].slice(0, 6);
 const crawlPriorityPosts = rotatePriorityPosts(eligiblePriorityPosts(indexablePosts), 16);
-const previewRows = trackerRows;
+const previewRows = trackerRows.filter(row => row.current !== null && row.regular !== null && row.current < row.regular && isProductNameIndexable(priceData, row.name)).sort((a, b) => b.dealScore.score - a.dealScore.score).slice(0, 40);
+const weeklyFacts = weeklyPriceFacts(priceData);
 const hubLinks = [
 	{ href: '/best/', title: 'Best deals by category', text: 'Ranked lists of tracked plugin deals for each plugin category.' },
 	{ href: '/compare/', title: 'Price comparisons', text: 'Side-by-side tracked prices for related plugins.' },
@@ -266,6 +268,7 @@ const hubLinks = [
 	{ href: '/brands/', title: 'Browse by brand', text: 'Every tracked brand with its current deals.' },
 	{ href: '/free/', title: 'Free plugins', text: 'Free VST plugins and sample packs.' },
 	{ href: '/sale-stats/', title: 'Sale statistics', text: 'Month-by-month share of the catalog on sale and average discount depth.' },
+	{ href: '/how-we-track-prices/', title: 'How prices are tracked', text: 'Sources, dates and limits of the price history.' },
 ];
 ---
 
@@ -292,16 +295,26 @@ const hubLinks = [
 		<main id="main-content">
 			<section class="hero-strip">
 				<div class="hero-copy">
-					<h1>Today&apos;s plugin deals, verified.</h1>
-					<p>Every discount checked against real price history &mdash; we don&apos;t list fake sales.</p>
+					<h1>Plugin prices and their recorded history</h1>
+					<p>Compare recorded prices for music production plugins and bundles.</p>
 				</div>
 				<form class="hero-search" action="/posts/" method="get" role="search">
 					<input type="search" name="q" placeholder="Search plugins and deals&hellip;" aria-label="Search plugins and deals" />
 					<button type="submit">Search</button>
 				</form>
-				<p class="hero-intro">PluginDrop records the prices of {trackedCount} plugins and bundles at Plugin Boutique on its own schedule and keeps the full history. A deal is only called a deal when the current price is below what that product has actually sold for. <a href="/how-we-track-prices/">How the tracker works &rarr;</a></p>
-				<p class="hero-trust">{trackedCount} plugins price-tracked &middot; updated {formatCheckedDate(new Date(priceData.last_updated))} &middot; no fake reviews</p>
+				<p class="hero-intro">PluginDrop records prices from multiple stores each day and publishes the dated price history. Observation dates and sources are shown with the data. <a href="/how-we-track-prices/">How prices are tracked &rarr;</a></p>
+				<p class="hero-trust">{trackedCount} products in the price history</p>
 			</section>
+
+			{(weeklyFacts.newSales > 0 || weeklyFacts.endedSales > 0 || weeklyFacts.newLows.length > 0) && (
+				<section class="section weekly-data" aria-labelledby="weekly-data-hd">
+					<header class="section-hd"><h2 id="weekly-data-hd">This week's data</h2></header>
+					<p>Measured observations from {weeklyFacts.first} to {weeklyFacts.end}.</p>
+					{weeklyFacts.newSales > 0 && <p>{weeklyFacts.newSales} products newly observed on sale.</p>}
+					{weeklyFacts.endedSales > 0 && <p>{weeklyFacts.endedSales} products observed leaving a sale.</p>}
+					{weeklyFacts.newLows.length > 0 && <><h3>Products below their previous observed low</h3><ul>{weeklyFacts.newLows.map(item => <li>{isProductNameIndexable(priceData, item.name) ? <a href={`/plugin-prices/${item.slug}/`}>{item.name}</a> : item.name} — {formatPrice(item.price)} on {item.date}</li>)}</ul></>}
+				</section>
+			)}
 
 			<nav class="section hub-links" aria-labelledby="hub-links-hd">
 				<header class="section-hd"><h2 id="hub-links-hd">Browse the tracker</h2></header>
@@ -480,10 +493,10 @@ const hubLinks = [
 					<table class="tracker-table">
 						<thead><tr><th>Plugin</th><th>Current</th><th>Regular</th><th>Off</th><th>Score</th><th><span class="sr-only">Store</span></th></tr></thead>
 						<tbody>
-							{previewRows.map((row, rowIdx) => {
+							{previewRows.map((row) => {
 								const hasDetailPage = isProductNameIndexable(priceData, row.name);
 								// Preview rows: store link only where no detail page exists; others link to their own price page.
-								const showStoreLink = rowIdx < 40 || !hasDetailPage;
+								const showStoreLink = !hasDetailPage;
 								return (
 								<tr data-name={row.name.toLowerCase()}>
 									<td>{isProductNameIndexable(priceData, row.name)
@@ -517,7 +530,7 @@ const hubLinks = [
 						</tbody>
 					</table>
 				</div>
-				<p class="tracker-more">All {trackedCount} tracked plugins, ordered by deal score. <a href="/plugin-prices/">See all tracked prices &rarr;</a></p>
+				<p class="tracker-more">Showing products whose latest recorded price is below their listed regular price; check observation dates before buying. <a href="/plugin-prices/">See all {trackedCount} tracked prices &rarr;</a></p>
 			</section>
 
 			{latestGuides.length > 0 && (
@@ -539,7 +552,7 @@ const hubLinks = [
 
 			{crawlPriorityPosts.length > 0 && (
 				<section class="section latest-guides" aria-labelledby="recovered-guides-hd">
-					<header class="section-hd"><h2 id="recovered-guides-hd">Recovered and popular guides</h2><a href="/posts/">Browse all guides &rarr;</a></header>
+					<header class="section-hd"><h2 id="recovered-guides-hd">Popular guides</h2><a href="/posts/">Browse all guides &rarr;</a></header>
 					<ul class="guide-list">{crawlPriorityPosts.map(post => <li><a href={`/posts/${post.id}/`}>{post.data.title}</a></li>)}</ul>
 				</section>
 			)}

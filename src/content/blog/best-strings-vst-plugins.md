@@ -21,7 +21,7 @@ draft: false
 |--------|-------|----------|--------|
 | Spitfire BBC Symphony Orchestra | ~$449 (Core), often $299–$349 on sale | Full orchestral scoring, film and TV | [Official Site](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-strings-vst-plugins&chan=art&data1=best-strings-vst-plugins) |
 | EastWest Hollywood Strings | ~$29.99/mo (ComposerCloud+), first month often discounted | Multi-mic Hollywood depth | [Official Site](https://www.soundsonline.com/orchestras/hollywood-strings-2) |
-| Cinematic Studio Strings | ~$149, rarely discounted below $135 | Legato-focused cinematic writing | [Plugin Boutique](https://cinematicstudioseries.com/) |
+| Cinematic Studio Strings | ~$149, rarely discounted below $135 | Legato-focused cinematic writing | [cinematicstudioseries.com (official)](https://cinematicstudioseries.com/) |
 | Orchestral Tools Berlin Strings | Modular, ~$99–$599 per section bundle | Expressive European strings | [Official Site](https://www.orchestraltools.com/berlin-strings) |
 | BBCSO Discover | Free | Best free orchestral starting point | Free from Spitfire Audio |
 | Session Strings Pro 2 | ~$149, drops to ~$79–$99 in NI sales | Pop, soul, and contemporary production | [Official Site](https://www.native-instruments.com/en/products/komplete/cinematic/session-strings-pro-2/) |
@@ -119,7 +119,7 @@ Cinematic Studio Strings requires the full paid version of Kontakt — not the f
 
 **Best for:** Film and media composers who prioritize legato performance quality above all else at the sub-$200 price point.
 
-[→ Get Cinematic Studio Strings on Plugin Boutique](https://cinematicstudioseries.com/)
+[cinematicstudioseries.com (official)](https://cinematicstudioseries.com/)
 
 🎬 [Watch the official demo](https://www.youtube.com/watch?v=uxmE1SSqGJk)
 

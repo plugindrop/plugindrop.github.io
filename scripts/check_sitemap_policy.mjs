@@ -6,7 +6,7 @@ import { countSitemapSections, hasRobotsNoindex, isRedirectStub, routeForHtmlPat
 import { isPricePageIndexable, noindexPricePagePaths } from '../src/lib/indexPolicy.mjs';
 
 const projectRoot = fileURLToPath(new URL('../', import.meta.url));
-const distDir = path.join(projectRoot, 'dist');
+const distDir = path.resolve(process.env.DIST_DIR ?? path.join(projectRoot, 'dist'));
 const sitemapPath = path.join(distDir, 'sitemap-0.xml');
 const siteUrl = 'https://plugindrop.net';
 

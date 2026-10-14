@@ -27,7 +27,34 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      - name: Check duplicate frontmatter keys
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          import sys
+          bad = []
+          for path in sorted(Path('src/content/blog').glob('*.md')):
+              lines = path.read_bytes().splitlines()
+              if not lines or lines[0].strip() != b'---':
+                  continue
+              seen = set()
+              for line in lines[1:]:
+                  if line.strip() == b'---':
+                      break
+                  match = re.match(rb'^([A-Za-z_][A-Za-z0-9_-]*):(?:\s|$)', line)
+                  if match:
+                      key = match.group(1)
+                      if key in seen:
+                          bad.append(f'{path}: {key.decode()}')
+                      seen.add(key)
+          for finding in bad:
+              print(f'duplicate frontmatter key: {finding}')
+          sys.exit(bool(bad))
+          PY
       - run: npx astro build
+      - name: Quarantine content findings and notify in Actions
+        run: node scripts/quarantine_content.mjs
       - run: npm run check:policy
       - uses: actions/upload-pages-artifact@v3
         with:

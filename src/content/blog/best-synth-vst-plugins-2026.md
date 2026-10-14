@@ -27,7 +27,7 @@ Before the full rankings, here's the fast comparison. This table covers price, i
 | Plugin | Price | Best For | Free Trial? | Plugin Boutique Link |
 |--------|-------|----------|--------------|-----------------------|
 | Vital | Free | Wavetable synthesis, all genres | N/A — fully free | [Free Download](https://vital.audio/) |
-| Serum | $249 | EDM, bass music, professional workflows | Yes (full demo, no save/export) | [Plugin Boutique](https://xferrecords.com/products/serum-2) |
+| Serum | $249 | EDM, bass music, professional workflows | Yes (full demo, no save/export) | [xferrecords.com (official)](https://xferrecords.com/products/serum-2) |
 | Phase Plant | $99 | Modular sound design, maximum flexibility | Yes (full demo) | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=best-synth-vst-plugins-2026) |
 | Arturia Pigments 7 | $199 | Multi-engine exploration, visual patching | Yes (unlimited demo w/ noise) | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7?a_aid=69cb95abe1763&chan=art&data1=best-synth-vst-plugins-2026) |
 | u-he Hive 2 | $149 | Fast workflow, analog warmth | Yes (full, w/ periodic noise burst) | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5392-Hive-2?a_aid=69cb95abe1763&chan=art&data1=best-synth-vst-plugins-2026) |
@@ -124,7 +124,7 @@ Helm is the predecessor to Vital — a subtractive and FM hybrid synthesizer tha
 
 **Best for:** Producers on older hardware or anyone who prefers a simple synth for quick, straightforward patch creation.
 
-[→ Download Helm Free (via Plugin Boutique)](https://tytel.org/helm/)
+[tytel.org (official)](https://tytel.org/helm/)
 
 ---
 
@@ -360,7 +360,7 @@ At $499, this is the one purchase on this list where waiting for a sale actually
 
 **Best for:** Film composers, TV producers, and hybrid electronic music producers who need a vast, distinctive library of production-ready sounds in a single instrument.
 
-[→ Get Omnisphere 2 (via Plugin Boutique)](https://www.spectrasonics.net/products/omnisphere/)
+[spectrasonics.net (official)](https://www.spectrasonics.net/products/omnisphere/)
 
 ---
 

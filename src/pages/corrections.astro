@@ -1,0 +1,28 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import corrections from '../data/corrections.json';
+---
+<!doctype html>
+<html lang="en">
+  <head><BaseHead title="Changelog | PluginDrop" description="Dated changes to published PluginDrop pages with source commits." /></head>
+  <body>
+    <a href="#main-content" class="sr-only">Skip to content</a>
+    <Header />
+    <main id="main-content" class="content">
+      <h1>Changelog</h1>
+      <p>Each entry records a published page change and the commit that made it.</p>
+      <ul>{corrections.map(item => <li><time datetime={item.date}>{item.date}</time> · {item.noLink ? <code>{item.page}</code> : <a href={item.page}>{item.page}</a>}<p>{item.correction}</p><small>Source commit: <code>{item.commit}</code></small></li>)}</ul>
+      <p>See <a href="/how-we-track-prices/">how we track prices</a> for our data sources and limits.</p>
+    </main>
+    <Footer />
+  </body>
+</html>
+<style>
+  .content { max-width: 760px; margin: 0 auto; padding: 3rem 1rem; }
+  .content p, .content li { color: var(--text-secondary); line-height: 1.7; }
+  .content li { margin-bottom: 1.25rem; }
+  .content li p { margin: .25rem 0 0; }
+  .content a { color: var(--accent); }
+</style>

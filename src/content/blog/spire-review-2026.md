@@ -1,6 +1,6 @@
 ---
-title: "Spire Synthesizer Review 2026: Is It Worth Buying?"
-description: "Spire (Reveal Sound) is a hybrid virtual analog/wavetable synth aimed at electro house, big room, and dubstep, released roughly a decade..."
+title: "Spire Synthesizer Overview 2026: Pricing, Versions and Specs"
+description: "Spire Synthesizer Overview 2026: Pricing, Versions and Specs. A summary of published specifications and price information."
 pubDate: "2026-08-09T22:20:51Z"
 updatedDate: "2026-10-04T10:10:20Z"
 tags: ["guide", "vst", "instruments", "review", "synth"]
@@ -10,6 +10,8 @@ score: 8.00
 xText: "New guide: Spire Synthesizer Review 2026: Is It Worth Buying?"
 draft: false
 ---
+
+This page is based on published specifications and price records. It does not assess sound quality.
 **TL;DR:** Spire (Reveal Sound) is a hybrid virtual analog/wavetable synth aimed at electro house, big room, and dubstep, released roughly a decade ago, and its sound targets that lane. The catch in 2026 is that development has been slow for years, so you're buying a mature, unchanged instrument rather than a modern flagship — buy it for the sound, not for ongoing feature updates.
 
 <div class="video-embed">

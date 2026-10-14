@@ -6,7 +6,7 @@ import { extractInternalHrefs, extractJsonLdUrls, hasRobotsNoindex, isRedirectSt
 import { noindexPricePagePaths } from '../src/lib/indexPolicy.mjs';
 
 const projectRoot = fileURLToPath(new URL('../', import.meta.url));
-const distDir = path.join(projectRoot, 'dist');
+const distDir = path.resolve(process.env.DIST_DIR ?? path.join(projectRoot, 'dist'));
 function listHtmlFiles(directory) {
   const files = [];
   for (const entry of fs.readdirSync(directory, { withFileTypes: true })) {
@@ -29,6 +29,10 @@ if (!fs.existsSync(distDir)) {
 } else {
   const priceData = JSON.parse(fs.readFileSync(path.join(projectRoot, 'src', 'data', 'price_history.json'), 'utf8'));
   const policyNoindex = new Set(noindexPricePagePaths(priceData));
+  const quarantinePath = path.join(distDir, 'quarantine-manifest.json');
+  const quarantinedArticles = new Set(fs.existsSync(quarantinePath)
+    ? JSON.parse(fs.readFileSync(quarantinePath, 'utf8')).map(slug => `/posts/${slug}/`)
+    : []);
   const violations = [];
   const articleViolations = [];
   const jsonLdViolations = [];
@@ -42,7 +46,7 @@ if (!fs.existsSync(distDir)) {
     const from = routeForHtmlPath(path.relative(distDir, htmlPath).replaceAll(path.sep, '/'));
     for (const to of extractInternalHrefs(html)) {
       if (to.startsWith('/plugin-prices/') && to !== '/plugin-prices/' && (policyNoindex.has(to) || targetIsNoindex(to))) violations.push({ from, to });
-      if (to.startsWith('/posts/') && to !== '/posts/' && targetIsNoindex(to)) articleViolations.push({ from, to });
+      if (to.startsWith('/posts/') && to !== '/posts/' && targetIsNoindex(to) && !quarantinedArticles.has(to)) articleViolations.push({ from, to });
       if ((to.startsWith('/tags/') || to.startsWith('/brands/')) && targetIsNoindex(to)) taxonomyViolations.push({ from, to });
       if (unlistedHubs.has(to)) hubViolations.push({ from, to });
     }

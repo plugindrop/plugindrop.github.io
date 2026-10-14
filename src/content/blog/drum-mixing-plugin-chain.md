@@ -24,7 +24,7 @@ priceTrack:
 | Transient Master (NI) | $99 | Fast attack/sustain shaping | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/11006-Transient-Master?a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain) |
 | SPL Transient Designer | $99 | Analog-modeled transient control | [Plugin Boutique](https://www.pluginboutique.com/search?q=SPL%20Transient%20Designer&a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain) |
 | bx_boom! | $29.99 | Kick body & sub reinforcement | [Plugin Boutique](https://www.pluginboutique.com/search?q=Brainworx%20bx_boom%20drum%20enhancer&a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain) |
-| OTT (Xfer) | Free | Multiband upward compression & glue | [Plugin Boutique](https://xferrecords.com/freeware) |
+| OTT (Xfer) | Free | Multiband upward compression & glue | [xferrecords.com (official)](https://xferrecords.com/freeware) |
 
 ---
 
@@ -160,7 +160,7 @@ OTT is a free three-band upward compressor — meaning it brings up quiet parts 
 
 **Best for:** Electronic music, lo-fi, trap, and any producer who wants the upward-compressed shimmer sound.
 
-[Plugin Boutique](https://xferrecords.com/freeware)
+[xferrecords.com (official)](https://xferrecords.com/freeware)
 
 [→ Download OTT Free Directly](https://xferrecords.com/freeware)
 
@@ -207,7 +207,7 @@ Once your chain is locked in, two paid expansions offer capabilities that none o
 | SPL Transient Designer | $99 | Transient Shaper | Analog character, Length control | [Plugin Boutique](https://www.pluginboutique.com/search?q=SPL%20Transient%20Designer&a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain) |
 | bx_boom! | $29.99 | Drum Enhancer | Tunable kick sub reinforcement, M/S processing | [Plugin Boutique](https://www.pluginboutique.com/search?q=Brainworx%20bx_boom%20drum%20enhancer&a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain) |
 | Waves SSL G-Master | $29.99 | Bus Compressor | VCA glue, auto-release, classic SSL character | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/13690-SSL-G-Master-Buss-Compressor?a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain) |
-| OTT (Xfer) | Free | Upward Compressor | 3-band upward compression, presence & shimmer | [Plugin Boutique](https://xferrecords.com/freeware) |
+| OTT (Xfer) | Free | Upward Compressor | 3-band upward compression, presence & shimmer | [xferrecords.com (official)](https://xferrecords.com/freeware) |
 | Waves SSL Bundle | $299 | Bundle | Full SSL signal path, channel + bus tools | [Plugin Boutique](https://www.pluginboutique.com/search?q=Waves%20SSL%20Bundle&a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain) |
 | FabFilter Pro-MB | $199 | Multiband Compressor | Surgical per-band dynamics, visual interface | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/919-FabFilter-Pro-MB?a_aid=69cb95abe1763&chan=art&data1=drum-mixing-plugin-chain) |
 

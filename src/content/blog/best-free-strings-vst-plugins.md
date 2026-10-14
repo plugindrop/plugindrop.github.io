@@ -10,6 +10,11 @@ xText: "New guide: 12 Best Free Strings & Orchestral VST Plugins in 2026"
 draft: false
 heroImage: "/images/best-free-strings-vst-plugins_collage.jpg"
 ---
+
+
+
+
+
 **TL;DR:** Spitfire LABS is a free strings plugin with real sampled instruments, regularly updated with new releases. If you need a top pick for full orchestral writing, BBC Symphony Orchestra Discover adds a complete strings, brass, woodwind, and percussion toolkit at zero cost. These two alone cover the vast majority of free strings and orchestral use cases before you spend anything, from cinematic beds to notation-ready arrangements. Everything else on this list fills a specific workflow gap around them.
 
 ## Quick Picks at a Glance
@@ -87,6 +92,8 @@ BBC Symphony Orchestra Discover is Spitfire's free tier of their flagship BBC Sy
 These libraries prioritize comprehensiveness and open formats over the polished interface of the LABS ecosystem. They are maintained by smaller developers and contributors, and they cover articulation and instrument variety that the LABS tier does not always provide.
 
 ### VSCO2 Community Edition — SFZ Orchestral Sections with Articulation Variety
+
+**Developer facts:** license: [Free](https://versilian-studios.com/vsco-community/); formats: [VST3](https://versilian-studios.com/vsco-community/).
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/HCKIvA5vu1g" title="VSCO2 Community Edition — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -187,6 +194,8 @@ These plugins prioritize fast loading, minimal setup, and ease of use over deep 
 
 ### Virtual Playing Orchestra — Built for Notation and Mock-Ups
 
+**Developer facts:** formats: [VST3](https://virtualplaying.com/virtual-playing-orchestra/).
+
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/fB9a_pt1PCY" title="Virtual Playing Orchestra — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Paul Battersby
@@ -243,6 +252,8 @@ DSK Dynamic Strings is a standalone free VST that delivers basic string tones wi
 ---
 
 ### Decent Sampler — One Install, Access to an Entire Free Strings Ecosystem
+
+**Developer facts:** os: [Windows 10](https://www.decentsamples.com/product/decent-sampler-plugin/); formats: [AAX , Au](https://www.decentsamples.com/product/decent-sampler-plugin/).
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/sBKjKZfNtfg" title="Decent Sampler — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

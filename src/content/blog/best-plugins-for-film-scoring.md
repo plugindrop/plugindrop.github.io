@@ -19,7 +19,7 @@ draft: false
 | EastWest Hollywood Orchestra | $499/yr | Cinematic Hollywood string/brass detail | [Plugin Boutique](https://www.pluginboutique.com/search?q=EastWest%20Hollywood%20Orchestra&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-film-scoring&chan=art&data1=best-plugins-for-film-scoring) |
 | Native Instruments Komplete 26 Standard | $549 | All-in-one composition toolkit | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Komplete&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-film-scoring&chan=art&data1=best-plugins-for-film-scoring) |
 | Omnisphere 2 | $499 | Cinematic textures and sound design | [Plugin Boutique](https://www.pluginboutique.com/search?q=Omnisphere%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-film-scoring&chan=art&data1=best-plugins-for-film-scoring) |
-| Valhalla VintageVerb | $50 | Room and hall reverb for orchestral staging | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
+| Valhalla VintageVerb | $50 | Room and hall reverb for orchestral staging | [valhalladsp.com (official)](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
 | Valhalla Room | $50 | Tight room reverb for hybrid scoring | [Valhalla Room](https://valhalladsp.com/shop/reverb/valhalla-room/) |
 | FabFilter Pro-Q 4 | $199 | Spectral clarity for dense orchestral mixes | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=best-plugins-for-film-scoring) |
 | iZotope RX | $399+ | Audio repair and dialogue cleanup | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20RX&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-plugins-for-film-scoring&chan=art&data1=best-plugins-for-film-scoring) |
@@ -102,7 +102,7 @@ This guide covers the eight most important plugins for film scoring in 2026 — 
 
 **Best for:** Film composers who need transparent long-decay reverb to unify orchestral templates and create consistent acoustic staging across multiple sample libraries.
 
-[Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/)
+[valhalladsp.com (official)](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/)
 
 ---
 

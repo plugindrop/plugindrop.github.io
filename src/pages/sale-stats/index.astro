@@ -4,6 +4,9 @@ import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
 import statsData from '../../data/monthly_sale_stats.json';
+import priceData from '../../data/price_history.json';
+import { productsOf, sourceKind } from '../../lib/priceTrends.mjs';
+import { listSaleEpisodes } from '../../lib/indexPolicy.mjs';
 
 interface MonthBlock {
   month: string;
@@ -22,6 +25,23 @@ interface StatsFile {
 
 const { generated_at, months } = statsData as StatsFile;
 const latestTracked = months[0]?.products_tracked ?? 0;
+function crossTotals(key) {
+  const groups = new Map();
+  for (const product of productsOf(priceData)) {
+    const label = product[key];
+    if (!label) continue;
+    const rows = (product.entry.history ?? []).filter(row => sourceKind(row.source) === 'measured');
+    const saleEpisodes = listSaleEpisodes({ history: rows });
+    const item = groups.get(label) ?? { label, products: 0, checks: 0, sales: 0 };
+    item.products++;
+    item.checks += rows.length;
+    item.sales += saleEpisodes.length;
+    groups.set(label, item);
+  }
+  return [...groups.values()].filter(item => item.checks > 0).sort((a, b) => b.checks - a.checks || a.label.localeCompare(b.label));
+}
+const byBrand = crossTotals('brand');
+const byCategory = crossTotals('category');
 
 const pageLD = {
   "@context": "https://schema.org",
@@ -115,6 +135,11 @@ const pageLD = {
       ) : (
         <p class="empty-state">No months yet — check back once we've accumulated enough tracked observations.</p>
       )}
+      {[["Brand", byBrand], ["Category", byCategory]].map(([label, groups]) => <section>
+        <h2>{label} observations</h2>
+        <p>Measured checks and distinct observed sale episodes across tracked products. Counts describe the recorded sample, not expected future frequency.</p>
+        <table><thead><tr><th>{label}</th><th>Products</th><th>Checks</th><th>Sale episodes</th></tr></thead><tbody>{groups.map(item => <tr><td>{item.label}</td><td>{item.products}</td><td>{item.checks}</td><td>{item.sales}</td></tr>)}</tbody></table>
+      </section>)}
     </main>
     <Footer />
   </body>

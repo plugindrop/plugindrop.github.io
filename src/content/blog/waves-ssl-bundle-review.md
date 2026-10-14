@@ -1,6 +1,6 @@
 ---
-title: "Waves SSL Bundle Review 2026: Are These Classic Console Emulations Worth It?"
-description: "The Waves SSL Bundle — anchored by the SSL E-Channel and SSL G-Master Buss Compressor — remains one of the most cost-effective ways to bring genuine SSL 4000"
+title: "Waves SSL Bundle Overview 2026: Pricing, Versions and Specs"
+description: "Waves SSL Bundle Overview 2026: Pricing, Versions and Specs. A summary of published specifications and price information."
 pubDate: "2026-05-08T02:10:19Z"
 tags: ["guide", "vst", "effects", "review"]
 affiliate: ""
@@ -13,6 +13,8 @@ priceTrack:
   - "FabFilter Pro-Q 4"
   - "FabFilter Pro-C 3"
 ---
+
+This page is based on published specifications and price records. It does not assess sound quality.
 **TL;DR:** The Waves SSL Bundle — anchored by the SSL E-Channel and SSL G-Master Buss Compressor — remains one of the most cost-effective ways to bring genuine SSL 4000 console character into a DAW in 2026. The E-Channel is a full channel strip and the G-Bus Compressor is a bus compressor. Waves frequently discounts both.
 
 ---

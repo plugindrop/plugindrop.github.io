@@ -152,7 +152,7 @@ The free stack above covers a complete production workflow. These paid upgrades 
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Vital | Free | Wavetable Synth | Drag-and-drop modulation, spectral warping, 75 presets | [Download Free (Plugin Boutique)](https://vital.audio/) |
+| Vital | Free | Wavetable Synth | Drag-and-drop modulation, spectral warping, 75 presets | [Vital (official)](https://vital.audio/) |
 | Surge XT | Free | Hybrid Synth | 2,800+ presets, multi-synthesis engine, microtonal tuning | [Download Free](https://surge-synthesizer.github.io/) |
 | TDR Nova | Free | Dynamic EQ | 4-band parametric, per-band dynamics, linear phase | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Valhalla Supermassive | Free | Reverb / Delay | 23 modes, infinite decay | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |

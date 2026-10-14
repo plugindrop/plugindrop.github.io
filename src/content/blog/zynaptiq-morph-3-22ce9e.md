@@ -1,6 +1,6 @@
 ---
 title: "53% Off Zynaptiq Morph 3 — Spectral Sound Morphing Plugin ($69)"
-description: "Zynaptiq Morph 3 is currently $149 $69 at PluginFox — a 53% discount that saves you $80. It's a spectral morphing plugin built for sound designers who..."
+description: "Observed at $69 (regular $149) before the estimated 2026-09-25 expiry; the sale has ended or was not confirmed afterward."
 pubDate: "2026-08-26T10:21:16Z"
 tags: ["vst-plugin", "pluginfox", "sale", "music-production"]
 affiliate: "https://pluginfox.com/products/zynaptiq-morph-3?aff=580&utm_source=plugindrop&utm_medium=article&utm_campaign=zynaptiq-morph-3-22ce9e"
@@ -9,16 +9,16 @@ score: 6.25
 dealPrice: "$69"
 originalPrice: "$149"
 discount: "53% OFF"
-draft: true
+draft: false
 saleExpiry: "2026-09-25"
 saleExpirySource: "fallback"
 ---
-**TL;DR:** Zynaptiq Morph 3 is currently ~~$149~~ $69 at PluginFox — a 53% discount that saves you $80. It's a spectral morphing plugin built for sound designers who want to blend two audio sources into hybrid tones. [Grab the deal at PluginFox](https://pluginfox.com/products/zynaptiq-morph-3?aff=580&utm_source=plugindrop&utm_medium=article&utm_campaign=zynaptiq-morph-3-22ce9e) while the price is live.
+**TL;DR:** Observed at $69 (regular $149) before the estimated 2026-09-25 expiry; the sale has ended or was not confirmed afterward. Check the live listing for the current price.
 
 ## Price Context (tracked by PluginDrop)
 - Tracked since 2024-12-03 (5 observations)
 - Lowest we've tracked: $69 · Typical sale: $69 · Regular: $149
-- Verdict: **BUY NOW** — the current $69 price is within 5% of the $69 lowest tracked price.
+- Historical assessment: observed $69; current pricing is unconfirmed.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/beGMKVpEjqQ" title="53% Off Zynaptiq Morph 3 — Spectral Sound Morphing Plugin ($69) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -81,7 +81,7 @@ A: There's no way to guarantee future pricing. Given how infrequently Zynaptiq d
 
 ## Get the Deal
 
-$69 instead of $149 is $80 back in your pocket for a spectral morphing tool that's rarely discounted this deep. [Get Zynaptiq Morph 3 at PluginFox](https://pluginfox.com/products/zynaptiq-morph-3?aff=580&utm_source=plugindrop&utm_medium=article&utm_campaign=zynaptiq-morph-3-22ce9e) before the sale ends.
+The observed $69 price was $80 below the listed $149 regular price. This is a historical observation, not a confirmed current offer. [Get Zynaptiq Morph 3 at PluginFox](https://pluginfox.com/products/zynaptiq-morph-3?aff=580&utm_source=plugindrop&utm_medium=article&utm_campaign=zynaptiq-morph-3-22ce9e) to check the current price.
 
 ## Is This Deal Worth It?
 

@@ -174,7 +174,7 @@ Same pricing note applies here as with VintageVerb: Valhalla Room sits at $49.99
 | TAL-Reverb-4 | Free | Plate/Hall | Warm vintage character, shimmer mode | [Free Download](https://tal-software.com/products/tal-reverb-4) |
 | Dragonfly Reverb | Free | Algorithmic Suite | 4 separate plugins: Room, Hall, Plate, Early Reflections | [Download Free](https://michaelwillis.github.io/dragonfly-reverb/) |
 | OldSkoolVerb | Free | Algorithmic | Vintage warmth, smooth tail, part of MFreeFXBundle | [Download Free](https://www.meldaproduction.com/MCharmVerb) |
-| Valhalla VintageVerb | $49.99 | Algorithmic | 18 hardware-era algorithms | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
+| Valhalla VintageVerb | $49.99 | Algorithmic | 18 hardware-era algorithms | [valhalladsp.com (official)](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
 | Valhalla Room | $49.99 | Room Simulator | Tight early reflections, precision room ambience | [Valhalla Room](https://valhalladsp.com/shop/reverb/valhalla-room/) |
 
 ---

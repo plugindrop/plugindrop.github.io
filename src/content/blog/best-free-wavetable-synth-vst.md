@@ -21,7 +21,7 @@ draft: false
 | Surge XT | Free | Complex hybrid patches, deep modulation routing | [Free Download](https://surge-synthesizer.github.io/) |
 | Odin 2 | Free | Wavetable + FM hybrid sounds, cinematic textures | [Free Download](https://github.com/TheWaveWarden/odin2) |
 | Zebralette | Free | Spectral morphing, u-he-quality timbres at no cost | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst&chan=art&data1=best-free-wavetable-synth-vst) |
-| Helm | Free | Learning wavetable synthesis fundamentals | [Free via Plugin Boutique](https://tytel.org/helm/) |
+| Helm | Free | Learning wavetable synthesis fundamentals | [tytel.org (official)](https://tytel.org/helm/) |
 | Serum | $249 | Industry-standard wavetable, professional ecosystem | [Get Serum](https://xferrecords.com/products/serum-2) |
 | Phase Plant | ~$99 | Modular wavetable design, Snapins integration | [Get Phase Plant (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=best-free-wavetable-synth-vst) |
 | u-he Hive 2 | ~$99 | u-he quality in a fast, production-ready instrument | [Get u-he Hive 2 (Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5392-Hive-2?a_aid=69cb95abe1763&chan=art&data1=best-free-wavetable-synth-vst) |
@@ -135,7 +135,7 @@ Development has slowed significantly since Vital launched. The preset library is
 
 **Best for:** Producers new to wavetable synthesis who want a simplified architecture before moving to Vital's deeper interface.
 
-[→ Download Helm Free (via Plugin Boutique)](https://tytel.org/helm/)
+[tytel.org (official)](https://tytel.org/helm/)
 
 ---
 
@@ -187,7 +187,7 @@ Development has slowed significantly since Vital launched. The preset library is
 | Surge XT | Free | Hybrid (8 oscillator types) | 4,000+ patches, matrix modulation routing, open source | [Download](https://surge-synthesizer.github.io/) |
 | Odin 2 | Free | Wavetable + FM hybrid | 3 independent oscillator slots, 3 filters, open source | [Download](https://github.com/TheWaveWarden/odin2) |
 | Zebralette | Free | Spectral wavetable | u-he spectral oscillator tech, organic tonal character | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-wavetable-synth-vst&chan=art&data1=best-free-wavetable-synth-vst) |
-| Helm | Free | Wavetable | Simple 2-oscillator architecture, ideal for learning | [Get via Plugin Boutique](https://tytel.org/helm/) |
+| Helm | Free | Wavetable | Simple 2-oscillator architecture, ideal for learning | [tytel.org (official)](https://tytel.org/helm/) |
 | Serum | $249 | Wavetable | Industry standard, massive third-party preset/wavetable library | [Official Site](https://xferrecords.com/products/serum-2) |
 | Phase Plant | ~$99 | Modular wavetable | Component-based architecture, Snapins integration | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=best-free-wavetable-synth-vst) |
 | u-he Hive 2 | ~$99 | Wavetable/analog hybrid | u-he quality, designed for fast studio workflow | [Get via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5392-Hive-2?a_aid=69cb95abe1763&chan=art&data1=best-free-wavetable-synth-vst) |

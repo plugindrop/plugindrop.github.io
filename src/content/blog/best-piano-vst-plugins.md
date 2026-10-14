@@ -126,7 +126,7 @@ Keyscape is Spectrasonics' keyboard collection. Spectrasonics' product documenta
 
 **Best for:** Film composers, pop producers, and anyone who needs a complete acoustic and electric keyboard library from one license.
 
-[→ Get Keyscape (via Plugin Boutique)](https://www.spectrasonics.net/products/omnisphere/)
+[spectrasonics.net (official)](https://www.spectrasonics.net/products/omnisphere/)
 
 ---
 
@@ -162,7 +162,7 @@ The Ravenscroft 275 is built from an extensively recorded Ravenscroft 275 concer
 
 **Best for:** Producers who want sample realism without Keyscape's price or Pianoteq's modeling learning curve.
 
-[→ Get Ravenscroft 275 on Plugin Boutique](https://www.vilabsaudio.com/Ravenscroft-By-VI-Labs)
+[vilabsaudio.com (official)](https://www.vilabsaudio.com/Ravenscroft-By-VI-Labs)
 
 ---
 

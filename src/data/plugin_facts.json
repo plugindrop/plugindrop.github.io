@@ -106,7 +106,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!",
+    "win_req": "10+; VST / AAX",
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12534-Gold-Bundle",
     "retrieved_on": "2026-09-28"
   },
@@ -117,7 +117,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!",
+    "win_req": "10+; VST / AAX",
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/84-Mix-Master/12542-Platinum-Bundle",
     "retrieved_on": "2026-09-28"
   },
@@ -949,7 +949,7 @@
       "Standalone"
     ],
     "mac_req": null,
-    "win_req": "Windows 7 or above. 64-bit required. 3.4 GHz Quad-Core computer with 8GB of RAM recommended. Hard disk space: 186 MB.; NOTE: Internet connection is required for product activation.; Discover",
+    "win_req": "Windows 7 or above. 64-bit required. 3.4 GHz Quad-Core computer with 8GB of RAM recommended. Hard disk space: 186 MB.; NOTE: Internet connection is required for product activation.",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17746-Memorymode-2",
     "retrieved_on": "2026-09-28"
   },
@@ -3444,7 +3444,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!",
+    "win_req": "10+; VST / AAX",
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/84-Mix-Master/12542-Platinum",
     "retrieved_on": "2026-09-28"
   },
@@ -5348,7 +5348,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!",
+    "win_req": "10+; VST / AAX",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13695-API-2500",
     "retrieved_on": "2026-09-28"
   },
@@ -5359,7 +5359,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!",
+    "win_req": "10+; VST / AAX",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/13698-Abbey-Road-Reverb-Plates",
     "retrieved_on": "2026-09-28"
   },
@@ -5370,7 +5370,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!; Discover",
+    "win_req": "10+; VST / AAX",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13661-Bass-Rider",
     "retrieved_on": "2026-09-28"
   },
@@ -5381,7 +5381,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!; Discover",
+    "win_req": "10+; VST / AAX",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13687-CLA-2A-Compressor-Limiter",
     "retrieved_on": "2026-09-28"
   },
@@ -5392,7 +5392,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!",
+    "win_req": "10+; VST / AAX",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13688-CLA-76-Compressor-Limiter",
     "retrieved_on": "2026-09-28"
   },
@@ -5403,7 +5403,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!",
+    "win_req": "10+; VST / AAX",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/10-Delay/13813-H-Delay-Hybrid-Delay",
     "retrieved_on": "2026-09-28"
   },
@@ -5414,7 +5414,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!; Discover",
+    "win_req": "10+; VST / AAX",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/13784-H-Reverb-Hybrid-Reverb",
     "retrieved_on": "2026-09-28"
   },
@@ -5425,7 +5425,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!",
+    "win_req": "10+; VST / AAX",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/13679-Kramer-Master-Tape",
     "retrieved_on": "2026-09-28"
   },
@@ -5436,7 +5436,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!; Discover",
+    "win_req": "10+; VST / AAX",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/13606-L1-Ultramaximizer",
     "retrieved_on": "2026-09-28"
   },
@@ -5447,7 +5447,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!; Discover",
+    "win_req": "10+; VST / AAX",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/13694-PuigTec-EQs",
     "retrieved_on": "2026-09-28"
   },
@@ -5458,7 +5458,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!",
+    "win_req": "10+; VST / AAX",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/13674-Renaissance-Reverb",
     "retrieved_on": "2026-09-28"
   },
@@ -5469,7 +5469,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!",
+    "win_req": "10+; VST / AAX",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13665-Renaissance-Vox",
     "retrieved_on": "2026-09-28"
   },
@@ -5480,7 +5480,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!",
+    "win_req": "10+; VST / AAX",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/13721-Vocal-Rider",
     "retrieved_on": "2026-09-28"
   },

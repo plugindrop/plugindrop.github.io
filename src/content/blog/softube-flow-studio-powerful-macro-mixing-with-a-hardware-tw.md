@@ -1,6 +1,6 @@
 ---
-title: "Softube Flow Studio: Powerful Macro Mixing With a Hardware Twist – Review"
-description: "Softube Flow Studio brings macro-driven mixing and a tactile hardware workflow to your DAW — pricing varies, so verify the latest deal on Thomann before"
+title: "Softube Flow Studio: Pricing, Versions and Specs"
+description: "Softube Flow Studio: Pricing, Versions and Specs. A summary of published specifications and price information."
 pubDate: "2026-04-22T07:32:05Z"
 tags: ["tips  tricks", "audio engineering", "audio plugins", "controller", "daw controller", "electronic music production", "mastering", "mixing", "mixing controller", "music-production"]
 affiliate: "https://www.thomann.de/intl/softube_flow_studio.htm?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=softube-flow-studio-powerful-macro-mixing-with-a-hardware-tw"
@@ -9,6 +9,8 @@ score: 5.28
 xText: "macro mixing with actual hardware controls instead of diving through menus. softube flow studio is the first to actually get it. this is the move."
 draft: false
 ---
+
+This page is based on published specifications and price records. It does not assess sound quality.
 
 ## What Is Softube Flow Studio?
 

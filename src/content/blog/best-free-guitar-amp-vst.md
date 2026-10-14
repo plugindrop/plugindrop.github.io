@@ -10,6 +10,11 @@ xText: "New guide: 10 Best Free Guitar Amp Simulator VST Plugins in 2026"
 draft: false
 heroImage: "/images/best-free-guitar-amp-vst_og.jpg"
 ---
+
+
+
+
+
 **TL;DR:** TSE Audio X50 v2.4 is the free amp sim this guide lists first for high-gain production — it emulates a 5150-style circuit. For clean and crunch, Ignite Amps TPA-1 is the pick. If you want a complete chain in one plugin, Guitar Rig 7 Player gives you a functional, expandable ecosystem at no cost.
 
 > **Looking for premium paid options?** See our [Best Guitar Amp Sim Plugins 2026](/posts/best-guitar-amp-sim-plugins/) guide for Neural DSP, TONEX, AmpliTube 5, and more.
@@ -156,6 +161,8 @@ Simulanalog's Guitar Suite is one of the oldest surviving freeware amp sim colle
 
 ### Voxengo Boogex — Free Convolution Amp Processor with Built-In IR Loading
 
+**Developer facts:** formats: [AU, AAX](https://www.voxengo.com/product/boogex/).
+
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/rHHbWkPl72s" title="Voxengo Boogex — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Voxengo
@@ -176,6 +183,8 @@ Voxengo Boogex takes a different technical approach from most amp sims: it uses 
 Some producers want a complete chain — amp, cab, pedals, and effects — in a single interface. These three plugins deliver that at varying levels of completeness.
 
 ### Guitar Rig 7 Player — Native Instruments' Free On-Ramp
+
+**Developer facts:** license: [Free](https://www.native-instruments.com/products/guitar-rig-player); os: [macOS 13](https://www.native-instruments.com/products/guitar-rig-player); formats: [VST3, AAX](https://www.native-instruments.com/products/guitar-rig-player).
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/zaZb2Wd_gbY" title="Guitar Rig 7 Player — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

@@ -5,6 +5,14 @@ import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import { SITE_TITLE } from '../consts';
+import freeFacts from '../data/free_plugin_facts.json';
+
+const allPosts = await getCollection('blog');
+const VERIFIED_GUIDES = Object.entries(freeFacts.articles).map(([slug, products]) => ({
+	slug,
+	title: allPosts.find(post => post.id.replace(/\.mdx?$/, '') === slug)?.data.title ?? slug,
+	count: products.filter(product => ['license', 'os', 'formats', 'version_date', 'registration'].filter(field => product.facts[field]).length >= 3).length,
+})).filter(guide => guide.count > 0);
 
 const GUIDE_ARTICLES = [
 	{
@@ -57,7 +65,6 @@ const GUIDE_ARTICLES = [
 	},
 ];
 
-const allPosts = await getCollection('blog');
 
 function isFree(post: any): boolean {
 	const price = (post.data.dealPrice ?? '').trim().toUpperCase();
@@ -151,6 +158,14 @@ const breadcrumbLD = {
 				<h1>Free VST Plugins & Sample Packs</h1>
 				<p>{freePosts.length} free music production tools — updated daily</p>
 			</div>
+
+			<section class="guide-section" aria-label="Developer verified comparisons">
+				<h2>Compare facts from developer pages</h2>
+				<p>These guides link confirmed details to developer sources. Vendor facts checked {Object.values(freeFacts.articles).flat().flatMap(product => Object.values(product.facts).filter(Boolean).map(fact => fact.fetched_at)).sort().at(-1)?.slice(0, 10) ?? 'unknown'}.</p>
+				<ul>
+					{VERIFIED_GUIDES.map(guide => <li><a href={`/posts/${guide.slug}/`}>{guide.title}</a> — {guide.count} plugins with at least three verified details</li>)}
+				</ul>
+			</section>
 
 			<div class="guide-section">
 				<h2>Free plugin guides</h2>

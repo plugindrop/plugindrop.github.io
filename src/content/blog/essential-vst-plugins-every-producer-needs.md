@@ -25,7 +25,7 @@ priceTrack:
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | FabFilter Pro-Q 4 | $199 | Precision mixing EQ | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
-| Valhalla Room | $50 | Studio reverb | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-room/) |
+| Valhalla Room | $50 | Studio reverb | [valhalladsp.com (official)](https://valhalladsp.com/shop/reverb/valhalla-room/) |
 | FabFilter Pro-C 3 | $199 | Transparent compression | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
 | Serum | $249 | Wavetable synthesis | [Xfer Records](https://xferrecords.com/products/serum-2) |
 | iZotope Ozone 12 | $219 (as of 2026-10-01) | AI-assisted mastering | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
@@ -132,7 +132,7 @@ Valhalla Room packs 12 room algorithms that convincingly model spaces from tight
 
 **Best for:** Natural-sounding rooms on vocals, drums, and acoustic instruments.
 
-[Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-room/)
+[valhalladsp.com (official)](https://valhalladsp.com/shop/reverb/valhalla-room/)
 
 ---
 
@@ -358,7 +358,7 @@ Ozone 12's Master Assistant analyzes your track and builds a starting mastering 
 | TDR Nova | Free | EQ | Dynamic EQ, 4 bands, clean metering | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | FabFilter Pro-C 3 | $199 | Compressor | 14 styles, character panel, real-time GR display | [Get it](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&chan=art&data1=essential-vst-plugins-every-producer-needs) |
 | OTT | Free | Multiband Compressor | Upward/downward compression, 3-band | [Free Download](https://xferrecords.com/freeware) |
-| Valhalla Room | $50 | Reverb | 12 algorithms, natural room modeling | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-room/) |
+| Valhalla Room | $50 | Reverb | 12 algorithms, natural room modeling | [valhalladsp.com (official)](https://valhalladsp.com/shop/reverb/valhalla-room/) |
 | Valhalla Supermassive | Free | Reverb/Delay | Massive ambiences, modulated tails | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Waves SSL E-Channel | $149 list ($39.99 sale on Waves, 2026-10-01) | Channel Strip | SSL console EQ + dynamics | [→ Get Waves SSL E-Channel](https://www.waves.com/plugins/ssl-e-channel) |
 | Serum | $249 | Synthesizer | Wavetable editor, modulation matrix, FX | [Get it](https://xferrecords.com/products/serum-2) |

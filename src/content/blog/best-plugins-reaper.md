@@ -246,7 +246,7 @@ MeldaProduction's free bundle is the most comprehensive free plugin package avai
 
 **Best for:** Producers who want comprehensive category coverage from a single install; backup processing suite
 
-[→ Search Melda MFreeFXBundle on Plugin Boutique](https://www.meldaproduction.com/MFreeFXBundle)
+[meldaproduction.com (official)](https://www.meldaproduction.com/MFreeFXBundle)
 
 ---
 

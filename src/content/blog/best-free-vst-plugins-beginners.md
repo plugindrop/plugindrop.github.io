@@ -20,10 +20,10 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Vital | Free | Wavetable synthesis | [Plugin Boutique](https://vital.audio/) |
-| Valhalla Supermassive | Free | Lush reverb & space | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| TDR Nova | Free | Dynamic EQ | [Plugin Boutique](https://www.tokyodawn.net/tdr-nova/) |
-| TDR Kotelnikov | Free | Transparent bus compression | [Plugin Boutique](https://www.tokyodawn.net/tdr-kotelnikov/) |
+| Vital | Free | Wavetable synthesis | [Vital (official)](https://vital.audio/) |
+| Valhalla Supermassive | Free | Lush reverb & space | [valhalladsp.com (official)](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| TDR Nova | Free | Dynamic EQ | [tokyodawn.net (official)](https://www.tokyodawn.net/tdr-nova/) |
+| TDR Kotelnikov | Free | Transparent bus compression | [tokyodawn.net (official)](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Rough Rider 3 | Free | Punchy drum compression | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/6100-Rough-Rider-3?a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
 | Surge XT | Free | Deep sound design | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17453-Surge-XT?a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
 | LABS | Free | Cinematic sample instruments | [Free Download](https://labs.spitfireaudio.com/) |
@@ -60,7 +60,7 @@ Vital is a spectral warping wavetable synthesizer with a drag-and-drop modulatio
 **Best for:** Leads, pads, basses, and learning synthesis fundamentals visually.
 
 [→ Download Vital Free](https://vital.audio/)
-[Plugin Boutique](https://vital.audio/)
+[Vital (official)](https://vital.audio/)
 
 ---
 
@@ -117,7 +117,7 @@ TDR Nova is a parallel dynamic equalizer that also functions as a static EQ, mak
 **Best for:** Mixing vocals, taming resonances, and learning EQ fundamentals.
 
 [Free Download](https://www.tokyodawn.net/tdr-nova/)
-[Plugin Boutique](https://www.tokyodawn.net/tdr-nova/)
+[tokyodawn.net (official)](https://www.tokyodawn.net/tdr-nova/)
 
 ---
 
@@ -154,7 +154,7 @@ TDR Kotelnikov is a wideband compressor built for transparent bus and mastering 
 **Best for:** Bus compression, mastering-style glue, and learning compressor fundamentals.
 
 [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/)
-[Plugin Boutique](https://www.tokyodawn.net/tdr-kotelnikov/)
+[tokyodawn.net (official)](https://www.tokyodawn.net/tdr-kotelnikov/)
 
 ---
 
@@ -192,7 +192,7 @@ Valhalla Supermassive delivers lush reverb and delay with a distinctly cosmic, s
 **Best for:** Ambient pads, long reverb tails, and creating massive soundscapes.
 
 [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
-[Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
+[valhalladsp.com (official)](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
 
 ---
 
@@ -210,7 +210,7 @@ TAL-Reverb-4 is a vintage-flavored plate reverb with warm, slightly lo-fi charac
 **Best for:** Vocals, guitars, and synths — wherever you want warm, character-rich reverb.
 
 [Free Download](https://tal-software.com/products/tal-reverb-4)
-[Plugin Boutique](https://tal-software.com/products/tal-reverb-4)
+[tal-software.com (official)](https://tal-software.com/products/tal-reverb-4)
 
 ---
 
@@ -424,15 +424,15 @@ MeldaProduction's MFreeFXBundle packages 37 audio plugins covering EQ, compressi
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Vital | Free | Synth | Visual modulation, wavetable engine | [Plugin Boutique](https://vital.audio/) |
+| Vital | Free | Synth | Visual modulation, wavetable engine | [Vital (official)](https://vital.audio/) |
 | Surge XT | Free | Synth | Hybrid, open-source, massive depth | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17453-Surge-XT?a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
 | OB-Xd | Free | Synth | Oberheim emulation, warm, analog | [Free Download](https://www.discodsp.com/obxd/) |
-| TDR Nova | Free | Dynamic EQ | Dynamic + static EQ | [Plugin Boutique](https://www.tokyodawn.net/tdr-nova/) |
+| TDR Nova | Free | Dynamic EQ | Dynamic + static EQ | [tokyodawn.net (official)](https://www.tokyodawn.net/tdr-nova/) |
 | Voxengo SPAN | Free | Analyzer | FFT spectrum, industry standard | [Developer Site](https://www.voxengo.com/product/span/) |
-| TDR Kotelnikov | Free | Compressor | Transparent, mastering-grade | [Plugin Boutique](https://www.tokyodawn.net/tdr-kotelnikov/) |
+| TDR Kotelnikov | Free | Compressor | Transparent, mastering-grade | [tokyodawn.net (official)](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Rough Rider 3 | Free | Compressor | Punchy, aggressive, beginner-simple | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/6100-Rough-Rider-3?a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners) |
-| Valhalla Supermassive | Free | Reverb | Cosmic, lush, multiple algorithms | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| TAL-Reverb-4 | Free | Reverb | Vintage plate, warm, musical | [Plugin Boutique](https://tal-software.com/products/tal-reverb-4) |
+| Valhalla Supermassive | Free | Reverb | Cosmic, lush, multiple algorithms | [valhalladsp.com (official)](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| TAL-Reverb-4 | Free | Reverb | Vintage plate, warm, musical | [tal-software.com (official)](https://tal-software.com/products/tal-reverb-4) |
 | OrilRiver | Free | Reverb | Algorithmic, versatile, Windows | [Developer Site](https://www.kvraudio.com/product/orilriver-by-denis-tihanov) |
 | Valhalla Freq Echo | Free | Delay | BBD character, pitch shifting | [Developer Site](https://valhalladsp.com/shop/delay/valhalla-freq-echo/) |
 | TAL-Chorus-LX | Free | Modulation | Juno-60 emulation, instant shimmer | TAL-Chorus-LX (official TAL page was unreachable when checked 2026-10-03) |

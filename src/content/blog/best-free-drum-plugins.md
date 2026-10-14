@@ -11,6 +11,11 @@ score: 1.53
 evergreen: true
 ---
 
+
+
+
+
+
 **TL;DR:** **If you only install one, make it Steven Slate Drums SSD5.5 FREE** — studio-recorded multi-mic acoustic kits at zero cost cover the widest range of real-world productions. It is the best free drum VST for realistic acoustic kits in 2026 — studio-recorded, multi-mic samples at zero cost, in VST2/VST3/AU/AAX for Windows and macOS. MT Power Drum Kit 2 is an acoustic option with a built-in MIDI groove library. Sitala leads for hip-hop and lo-fi beat-making thanks to drag-and-drop pad loading, and Hydrogen covers open-source, pattern-based programming on Windows, macOS, and Linux. Every plugin below is free except Sitala, whose current version (2.1.2) requires a $20 license per Decomposer; Decomposer's older Sitala 1.0.9 is still offered for free. Download links go straight to the developer.
 
 ## The 10 Best Free Drum Plugins
@@ -33,6 +38,8 @@ Drum samples recorded at professional studios with multiple mic placements. The 
 **Skip it if:** you need multiple kits, room mics, or genre expansions — all of that is paywalled in the full SSD5.5 product. For one solid acoustic kit, the free tier is more than enough.
 
 ### 2. MT Power Drum Kit 2
+
+**Developer facts:** os: [Windows 11](https://www.powerdrumkit.com/); formats: [AAX](https://www.powerdrumkit.com/).
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/hvIFUf6uYXM" title="MT Power DrumKit 2 — Free Drum Kit VST Plugin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 **Type: Sample-based | Best for: Rock, pop, live-sounding acoustic drums**
 
@@ -78,6 +85,8 @@ Full-featured open-source drum machine with a step sequencer, multiple kits, and
 **Skip it if:** you want an instrument track inside your DAW — Hydrogen is a standalone app, so you integrate via MIDI/audio routing or export rather than loading it on a channel.
 
 ### 5. TX16Wx by CWITEC
+
+**Developer facts:** formats: [AAX](https://www.tx16wx.com/).
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/Y0LHT3J-niM" title="TX16Wx - The definitive FREE Software Sampler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>
@@ -140,6 +149,8 @@ Six-voice drum synthesizer with analog-modeled oscillators for each component �
 **Skip it if:** you need acoustic realism — Drumatic 4 is pure synthesis with no samples, so organic rock/pop kits are the wrong assignment for it.
 
 ### 9. AVL Drumkits
+
+**Developer facts:** os: [macOS 11.0](https://x42-plugins.com/x42/x42-avldrums); formats: [Clap](https://x42-plugins.com/x42/x42-avldrums).
 <div class="video-embed">
 <iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/vPYtb2hisJ8" title="Why, Phil? #10 BOOM!! AVL Drumkits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
 </div>

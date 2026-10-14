@@ -19,8 +19,8 @@ draft: false
 |--------|-------|----------|--------|
 | TDR Nova | Free | Mastering, transparent dynamics | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | OTT | Free | EDM sound design, bus processing | [Free Download](https://xferrecords.com/freeware/) |
-| MMultiband | Free | Full-featured multiband, deep customization | [Plugin Boutique](https://www.meldaproduction.com/) |
-| Waves C6 Lite | Free | Mixing, broadcast, mastering fundamentals | [Plugin Boutique](https://www.waves.com/plugins/c6-multiband-compressor) |
+| MMultiband | Free | Full-featured multiband, deep customization | [meldaproduction.com (official)](https://www.meldaproduction.com/) |
+| Waves C6 Lite | Free | Mixing, broadcast, mastering fundamentals | [waves.com (official)](https://www.waves.com/plugins/c6-multiband-compressor) |
 | Kilohearts Multiband Compressor | Free | Clean, snap-based dynamics | [Free Download](https://kilohearts.com/products/multipass) |
 | GVST GMulti | Free | Windows utility compression | [Free Download](https://gvst.uk/gmulti.htm) |
 
@@ -90,7 +90,7 @@ The interface demands more initial investment than OTT or TDR Nova, which reflec
 
 **Best for:** Producers who need per-band granular control and are prepared to invest time learning a complex, feature-rich interface.
 
-[→ Get MMultiband on Plugin Boutique](https://www.meldaproduction.com/)
+[meldaproduction.com (official)](https://www.meldaproduction.com/)
 
 ---
 
@@ -109,7 +109,7 @@ Account registration and Waves' license management software are required. For pr
 
 **Best for:** Mastering, broadcast post-production, and producers already using Waves plugins who want a capable six-band compressor at no additional cost.
 
-[→ Get Waves C6 Lite on Plugin Boutique](https://www.waves.com/plugins/c6-multiband-compressor)
+[waves.com (official)](https://www.waves.com/plugins/c6-multiband-compressor)
 
 ---
 

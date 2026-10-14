@@ -1,6 +1,6 @@
 ---
-title: "Xfer Serum Review 2026: Still the Best Wavetable Synth?"
-description: "Xfer Serum remains the gold standard for wavetable synthesis in 2026 — its visual workflow, deep modulation system, and production-ready sound engine are"
+title: "Xfer Serum Overview 2026: Pricing, Versions and Specs"
+description: "Xfer Serum Overview 2026: Pricing, Versions and Specs. A summary of published specifications and price information."
 pubDate: "2026-04-25T06:06:41Z"
 updatedDate: "2026-10-04T12:21:20Z"
 tags: ["guide", "vst", "instruments", "review"]
@@ -13,6 +13,8 @@ draft: false
 priceTrack:
   - "Serum 2"
 ---
+
+This page is based on published specifications and price records. It does not assess sound quality.
 **TL;DR:** Xfer Serum remains the gold standard for wavetable synthesis in 2026 — its visual workflow, deep modulation system, and production-ready sound engine are unmatched for the price. If you produce any form of electronic music and don't already own it, this is the plugin you buy first.
 
 ---
@@ -23,7 +25,7 @@ priceTrack:
 |--------|-------|----------|--------|
 | Serum (Xfer Records) | $249 | All-around wavetable synthesis | [Xfer Records](https://xferrecords.com/products/serum-2) |
 | Phase Plant | ~$199 | Modular-style sound design | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=serum-vst-review) |
-| Vital | Free / Paid | Budget Serum alternative | [Plugin Boutique](https://vital.audio/) |
+| Vital | Free / Paid | Budget Serum alternative | [Vital (official)](https://vital.audio/) |
 
 ---
 
@@ -122,7 +124,7 @@ Phase Plant rewards the producer who has already learned synthesis fundamentals 
 
 For producers on a strict budget, Vital is where to start. For producers ready to invest in their toolkit, it's worth comparing directly against Serum before deciding. The quality gap is real but narrower than it was at launch.
 
-[Plugin Boutique](https://vital.audio/)
+[Vital (official)](https://vital.audio/)
 
 ---
 
@@ -132,7 +134,7 @@ For producers on a strict budget, Vital is where to start. For producers ready t
 |--------|-------|------|------------|-----|
 | Serum | $249 | Wavetable | Custom wavetable editor, drag-and-drop modulation, 100+ filters, built-in FX | [Xfer Records](https://xferrecords.com/products/serum-2) |
 | Phase Plant | ~$199 | Modular / Multi-engine | Node-based routing, wavetable + FM + analog sources, Snapin effects integration | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=serum-vst-review) |
-| Vital | Free / Paid | Wavetable | Free tier covers core features, strong community, visual modulation | [Plugin Boutique](https://vital.audio/) |
+| Vital | Free / Paid | Wavetable | Free tier covers core features, strong community, visual modulation | [Vital (official)](https://vital.audio/) |
 
 ---
 

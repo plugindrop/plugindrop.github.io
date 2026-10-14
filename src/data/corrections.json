@@ -1,0 +1,40 @@
+[
+  {
+    "date": "2026-10-04",
+    "page": "/posts/best-delay-vst-plugins-2026/",
+    "correction": "Colour Copy was incorrectly described as free. The guide now identifies it as a paid product with a demo download.",
+    "commit": "352d91586"
+  },
+  {
+    "date": "2026-10-04",
+    "page": "/posts/when-does-fabfilter-pro-q-4-go-on-sale/",
+    "noLink": true,
+    "correction": "Removed unsupported claims of a $149 typical sale price and a recurring twice-yearly sale schedule.",
+    "commit": "6c5b11fec"
+  },
+  {
+    "date": "2026-10-04",
+    "page": "/posts/best-vst-plugins-under-200/",
+    "correction": "Removed Serum 2 from the under-$200 guide after correcting its listed price from $189 to $249.",
+    "commit": "352d91586"
+  },
+  {
+    "date": "2026-10-04",
+    "page": "/posts/best-plugins-logic-pro/",
+    "correction": "Corrected the Serum price in the comparison table from $189 to $249.",
+    "commit": "352d91586"
+  },
+  {
+    "date": "2026-10-04",
+    "page": "/posts/when-does-fabfilter-pro-q-4-go-on-sale/",
+    "noLink": true,
+    "correction": "Corrected a corrupted apostrophe in the FabFilter store description.",
+    "commit": "352d91586"
+  },
+  {
+    "date": "2026-10-04",
+    "page": "/posts/best-plugins-for-mixing-vocals/",
+    "correction": "Price Check cards now withhold a discount-frequency judgment when the product has too few direct observations; this affected the Pro-C 3 display.",
+    "commit": "352d91586"
+  }
+]

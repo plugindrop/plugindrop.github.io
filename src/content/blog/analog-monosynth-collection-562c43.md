@@ -11,7 +11,7 @@ originalPrice: "$299.00"
 discount: "50% OFF"
 saleExpiry: "2026-10-04"
 saleExpirySource: "fallback"
-draft: true
+draft: false
 ---
 **TL;DR:** PluginDrop recorded the Analog Monosynth Collection at **$149.50** (regular ~~$299~~, 50% off) at Plugin Boutique in September 2026. Our expiry field for that offer is an estimate (2026-10-04), not a vendor-confirmed date, so treat this page as a dated record, not a current-sale alert. It is a bundle built around analog-modeled monosynth instruments aimed at producers chasing vintage, hands-on synth tones. Check the live price: [Analog Monosynth Collection at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15320-Analog-Monosynth-Collection?a_aid=69cb95abe1763&chan=art&data1=analog-monosynth-collection-562c43&utm_source=plugindrop&utm_medium=article&utm_campaign=analog-monosynth-collection-562c43).
 

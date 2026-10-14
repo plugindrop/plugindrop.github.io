@@ -8,6 +8,7 @@ import { isBrandPageIndexable, isPricePageIndexable, slugifyProduct } from '../.
 import { isSearchUrl, pbLink, formatPrice } from '../../lib/priceUtils';
 import { detectBrand } from '../../lib/brands.mjs';
 import { countIndexableBrandProducts } from '../../lib/brandIndexability.mjs';
+import { brandTrends } from '../../lib/priceTrends.mjs';
 
 // --- Shared types ------------------------------------------------------------
 interface HistoryEntry {
@@ -104,6 +105,8 @@ export async function getStaticPaths() {
 }
 
 const { brand, products } = Astro.props as BrandGroup;
+const trend = brandTrends(priceData).find(item => item.brand === brand);
+const observationGroups = trend ? [['Measured checks', trend.measured], ['Research estimates', trend.estimated], ['Archived pages', trend.archived]].filter(([, stats]) => stats.checks > 0) : [];
 
 // --- Price helpers (render-time only) ---------------------------------------
 function currentPrice(e: EntryData): number | null {
@@ -307,6 +310,16 @@ const itemListLD = {
           </div>
         )}
       </section>
+
+      {observationGroups.length > 0 && <section aria-label="Observed brand price history">
+        <h2 class="section-title">{brand} price observations</h2>
+        <p>These counts cover recorded checks through {priceData.last_updated}. Sale counts are distinct observed episodes, not individual sale rows. They do not predict future sales.</p>
+        {trend?.insufficient && <p>Insufficient measured data for a sale frequency claim.</p>}
+        {observationGroups.map(([label, stats]) => <section>
+          <h3>{label}</h3>
+          <p>Observation period: {stats.first} to {stats.last}; checks: {stats.checks}; observed sale episodes: {stats.sales}; maximum discount: {stats.maxDiscount === null ? '—' : `${stats.maxDiscount}%`}; median discount: {stats.medianDiscount === null ? '—' : `${stats.medianDiscount}%`}; latest sale: {stats.lastSale ?? '—'}.</p>
+        </section>)}
+      </section>}
 
       <h2 class="section-title">{brand} Price List</h2>
       <p class="section-sub">Sorted alphabetically. Click a product for full price history.</p>

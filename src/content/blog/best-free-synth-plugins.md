@@ -15,6 +15,11 @@ priceTrack:
   - "Serum 2"
 ---
 
+
+
+
+
+
 **TL;DR:** The best free synth VST of 2026 is **Vital**. Its wavetable engine and drag-and-drop modulation rival paid wavetable flagships like Serum at zero cost, and it handles leads, evolving pads, and bass across every genre. **Surge XT** is the deep open-source do-everything alternative (FM, wavetable, and subtractive in one patch), **Dexed** nails Yamaha DX7 FM patches and 80s electric pianos, and **OB-Xd** delivers classic Oberheim analog character for synthwave. All 17 plugins below are genuinely free — no trials, no time limits, no subscriptions.
 
 ## Quick Picks at a Glance
@@ -48,6 +53,8 @@ We also include three paid upgrades at the end for producers ready to invest. Bu
 
 ### Vital — The free synth that changed the game
 
+**Developer facts:** os: [Linux 18.04](https://vital.audio/).
+
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/K9bhFJmvRa0" title="FREE SYNTH: Vital - No talking demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Matthew Tytel
@@ -67,6 +74,8 @@ Vital is a free wavetable synth. The wavetable engine supports spectral warping,
 
 ### Surge XT — Open-source hybrid synthesis at a professional level
 
+**Developer facts:** os: [Windows 7](https://surge-synthesizer.github.io/); formats: [VST3, AU](https://surge-synthesizer.github.io/).
+
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/kTvBgb4HGx0" title="SURGE XT — Full In-Depth Tutorial (Amazing FREE Synthesizer)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** Surge Synth Team (community-maintained)
@@ -85,6 +94,8 @@ Surge XT is a deep hybrid synthesizer with three oscillators that each switch in
 ---
 
 ### Zebralette 3 — u-he's wavetable engine, completely free
+
+**Developer facts:** license: [Free](https://u-he.com/products/zebralette/); os: [Windows 7](https://u-he.com/products/zebralette/); formats: [CLAP, AU](https://u-he.com/products/zebralette/); version date: [v2.9.3 · Released November 11, 2024](https://u-he.com/products/zebralette/).
 
 - **Developer:** u-he
 - **Price:** Free
@@ -164,6 +175,8 @@ OB-Xd emulates the Oberheim OB-X and OB-Xa, classic polysynths defined by their 
 
 ### Helm — Solid analog hybrid from the developer who built Vital
 
+**Developer facts:** formats: [VST3](https://tytel.org/helm/).
+
 - **Developer:** Matthew Tytel
 - **Price:** Free
 - **Platforms:** Windows, macOS, Linux
@@ -175,13 +188,15 @@ Helm was Matthew Tytel's main instrument before Vital arrived, and it still earn
 
 **Skip it if:** you want a synth that is still gaining features — Tytel has moved his energy to Vital, so Helm is stable but effectively frozen.
 
-[→ Download Helm Free (via Plugin Boutique)](https://tytel.org/helm/)
+[tytel.org (official)](https://tytel.org/helm/)
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/V7CXeh2WZQc" title="Helm Synth Review & Presets Demo (Free VST Plugin by Matt Tytel)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ---
 
 ### Tyrell N6 — u-he quality, completely free
+
+**Developer facts:** license: [Free](https://u-he.com/products/tyrelln6/); os: [macOS 32](https://u-he.com/products/tyrelln6/); formats: [AAX and CLAP](https://u-he.com/products/tyrelln6/); version date: [version 2.28 · Released March 18, 2025](https://u-he.com/products/tyrelln6/).
 
 - **Developer:** u-he
 - **Price:** Free
@@ -240,6 +255,8 @@ Synth1 is a free plugin modeled loosely on the Nord Lead 2 architecture. The com
 
 ### Charlatan — No-nonsense analog for producers who want results fast
 
+**Developer facts:** os: [Windows 10](https://www.blaukraut.info/); formats: [VST3 / CLAP](https://www.blaukraut.info/); version date: [Latest Version 3.3.2 · Updated on 2025-11-17](https://www.blaukraut.info/).
+
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/-4WrGxBaIHM" title="Free Synth - Charlatan - No Talking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** BlaukrautEngineering
@@ -258,6 +275,8 @@ Charlatan is a straightforward two-oscillator virtual analog synth with polyphon
 ---
 
 ### Podolski — u-he's zero-delay feedback filter, zero dollars
+
+**Developer facts:** license: [Free](https://u-he.com/products/podolski/); os: [Windows 7](https://u-he.com/products/podolski/); formats: [VST3, AAX](https://u-he.com/products/podolski/); version date: [v1.2.3 · Released August 10, 2021](https://u-he.com/products/podolski/).
 
 - **Developer:** u-he
 - **Price:** Free
@@ -298,6 +317,8 @@ Odin2 is the most feature-complete free synth on this list in terms of raw capab
 ---
 
 ### Pendulate — Chaos synthesis from the team behind Eventide
+
+**Developer facts:** os: [macOS 10.9](https://www.newfangledaudio.com/pendulate); formats: [AAX, AU](https://www.newfangledaudio.com/pendulate).
 
 <div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/PicDwE1Rimk" title="New Pendulate Chaotic Synth Plug-in by Newfangled Audio (Presets Demo)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

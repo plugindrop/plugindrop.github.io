@@ -1,6 +1,6 @@
 ---
 title: "65% Off Tube Tech CL 1B Mk II — Classic Tube Compression ($69)"
-description: "Plugin Boutique has the Tube Tech CL 1B Mk II compressor plugin at $199 $69, a 65% discount. That's a $130 savings on a tube-modeled optical..."
+description: "Observed at $69 (regular $199) before the estimated 2026-09-23 expiry; the sale has ended or was not confirmed afterward."
 pubDate: "2026-08-24T18:15:12Z"
 tags: ["sale", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=Tube%20Tech%20CL%201B%20Mk%20II&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tube-tech-cl-1b-mk-ii-1adc9c&chan=art&data1=tube-tech-cl-1b-mk-ii-1adc9c"
@@ -9,16 +9,16 @@ score: 7.08
 dealPrice: "$69.00"
 originalPrice: "$199.00"
 discount: "65% OFF"
-draft: true
+draft: false
 saleExpiry: "2026-09-23"
 saleExpirySource: "fallback"
 ---
-**TL;DR:** Plugin Boutique has the Tube Tech CL 1B Mk II compressor plugin at ~~$199~~ **$69**, a 65% discount. That's a $130 savings on a tube-modeled optical compressor built around the hardware original. [Grab the deal here](https://www.pluginboutique.com/product/2-Effects/8-Compressor/11535-Tube-Tech-CL-1B-Mk-II?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=tube-tech-cl-1b-mk-ii-1adc9c&chan=art&data1=tube-tech-cl-1b-mk-ii-1adc9c).
+**TL;DR:** Observed at $69 (regular $199) before the estimated 2026-09-23 expiry; the sale has ended or was not confirmed afterward. Check the live listing for the current price.
 
 ## Price Context (tracked by PluginDrop)
 - Tracked since 2026-08-02 (33 observations)
 - Lowest we've tracked: $69 · Typical sale: $69 · Regular: $199
-- Verdict: **BUY NOW** — the current $69 price is within 5% of the $69 lowest tracked price.
+- Historical assessment: observed $69; current pricing is unconfirmed.
 
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="65% Off Tube Tech CL 1B Mk II — Classic Tube Compression ($69) — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A912468763&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>

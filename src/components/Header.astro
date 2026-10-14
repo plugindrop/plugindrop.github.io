@@ -1,6 +1,7 @@
 ---
 import { SITE_TITLE } from '../consts';
 import HeaderLink from './HeaderLink.astro';
+import priceData from '../data/price_history.json';
 ---
 
 <header>
@@ -8,7 +9,7 @@ import HeaderLink from './HeaderLink.astro';
 		<a href="/" class="logo">
 			<img src="/images/logo.png" alt="PluginDrop" class="logo-icon" width="32" height="32" />
 			<span class="logo-text">{SITE_TITLE}</span>
-			<span class="freshness">&#9679; Updated daily</span>
+			<span class="freshness">Prices checked {priceData.last_updated}</span>
 		</a>
 		<div class="nav-links">
 			<HeaderLink href="/posts/">All Deals</HeaderLink>
@@ -16,6 +17,7 @@ import HeaderLink from './HeaderLink.astro';
 			<a href="/posts/?filter=sale" class="nav-badge sale">Sales</a>
 			<a href="/posts/?filter=guide" class="nav-link-guides">Guides</a>
 			<HeaderLink href="/plugin-prices/">Price Tracker</HeaderLink>
+			<HeaderLink href="/brands/">Brands</HeaderLink>
 			<HeaderLink href="/categories/">Categories</HeaderLink>
 			<HeaderLink href="/about/">About</HeaderLink>
 		</div>

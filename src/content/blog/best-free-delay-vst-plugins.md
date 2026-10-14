@@ -22,7 +22,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | TAL-Dub-3 | Free | Dub-style echo with its own sound | [TAL Software](https://tal-software.com/products/tal-dub) |
-| Valhalla Supermassive | Free | Cavernous reverb-delay hybrids | [Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| Valhalla Supermassive | Free | Cavernous reverb-delay hybrids | [valhalladsp.com (official)](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Valhalla SpaceModulator | Free | Flanger & modulated delay | [Free Download](https://valhalladsp.com/shop/modulation/valhalla-space-modulator/) |
 | Graillon 2 | Free | Pitch-shifted delay FX | [Free Download](https://www.auburnsounds.com/products/Graillon.html) |
 | CHOW Tape Model | Free | Open-source tape saturation | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/7318-CHOW-Tape-Model?a_aid=69cb95abe1763&chan=art&data1=best-free-delay-vst-plugins) |

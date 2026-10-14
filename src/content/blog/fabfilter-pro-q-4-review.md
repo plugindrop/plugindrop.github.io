@@ -1,6 +1,6 @@
 ---
-title: "FabFilter Pro-Q 4 Review: Is It Still the Best EQ Plugin in 2026?"
-description: "FabFilter Pro-Q 4 is a parametric EQ with dynamic EQ, mid/side processing, linear phase mode, and per-band controls. Price, features, and alternatives."
+title: "FabFilter Pro-Q 4 Overview: Pricing, Versions and Specs"
+description: "FabFilter Pro-Q 4 Overview: Pricing, Versions and Specs. A summary of published specifications and price information."
 pubDate: "2026-04-24T05:06:41Z"
 updatedDate: "2026-10-04T12:21:20Z"
 tags: ["guide", "vst", "effects", "review"]
@@ -13,6 +13,8 @@ draft: false
 priceTrack:
   - "FabFilter Pro-Q 4"
 ---
+
+This page is based on published specifications and price records. It does not assess sound quality.
 
 **TL;DR:** FabFilter Pro-Q 4 is a parametric EQ that combines dynamic EQ, mid/side processing, and linear phase mode in one plugin. If you want a single all-purpose EQ, it is one option to consider. The Total Bundle is the smart move if you plan to add more FabFilter tools.
 

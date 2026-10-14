@@ -1,6 +1,6 @@
 ---
-title: "LANDR Mastering Review 2026: Is the Subscription Worth It?"
-description: "LANDR Mastering is a cloud service from $8.25/month or $10 per track. Here is how its cost compares with a one-time iZotope Ozone 12 purchase, and what each lets you control."
+title: "LANDR Mastering Overview 2026: Pricing, Versions and Specs"
+description: "LANDR Mastering Overview 2026: Pricing, Versions and Specs. A summary of published specifications and price information."
 pubDate: "2026-05-23T15:01:07Z"
 updatedDate: "2026-10-04T09:46:10Z"
 tags: ["guide", "vst", "mastering", "review"]
@@ -14,6 +14,8 @@ draft: false
 priceTrack:
   - "FabFilter Pro-L 2"
 ---
+
+This page is based on published specifications and price records. It does not assess sound quality.
 **TL;DR:** LANDR Mastering delivers fast, serviceable AI masters that work well for social media releases and high-volume distribution catalogs. LANDR's online mastering service is something you pay for over time, while iZotope Ozone 12 is a one-time purchase that runs inside your DAW and exposes every setting. (LANDR also sells a separate Mastering Plugin for DAWs; see the section below. The cost math here covers the online service only.) On the prices below, LANDR Studio at its $8.25/month starting price reaches Ozone 12 Standard's $219 list price after about 27 months. LANDR's value proposition is speed and convenience, not control.
 
 <div class="video-embed">

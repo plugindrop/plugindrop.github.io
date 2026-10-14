@@ -1,7 +1,7 @@
 ---
 heroImage: "/images/best-free-mastering-plugins.png"
-title: "iZotope Ozone 12 Review 2026: Is It Worth $219–$499? (Honest Verdict)"
-description: "Ozone 12 is the most complete mastering suite in 2026 — AI Master Assistant delivers a pro-quality starting point in 30 seconds. Full Standard vs Advanced breakdown with pricing."
+title: "iZotope Ozone 12 Overview 2026: Pricing, Versions and Specs"
+description: "iZotope Ozone 12 Overview 2026: Pricing, Versions and Specs. A summary of published specifications and price information."
 pubDate: "2026-05-03T10:10:19Z"
 tags: ["guide", "vst", "mastering", "review"]
 affiliate: ""
@@ -12,6 +12,8 @@ draft: false
 priceTrack:
   - "FabFilter Pro-L 2"
 ---
+
+This page is based on published specifications and price records. It does not assess sound quality.
 **TL;DR:** iZotope Ozone 12 is the most complete all-in-one mastering suite available in 2026. Its AI-powered Master Assistant gives you a professional starting point in under 30 seconds, and the full module chain — EQ, dynamics, imaging, limiting — handles everything without routing signals through multiple plugins. If you master inside your DAW, this is the one plugin worth investing in.
 
 <div class="video-embed">

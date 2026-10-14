@@ -2,6 +2,19 @@
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
+import priceData from '../data/price_history.json';
+const entries = Object.values({ ...priceData.bundles, ...priceData.plugins });
+const rows = entries.flatMap(entry => entry.history ?? []);
+const sourceCounts = ['auto_check', 'pb_deals_poll', 'wayback', 'research'].map(source => ({ source, count: rows.filter(row => source === 'research' ? row.source?.startsWith('research') : row.source === source).length }));
+const firstAutoCheck = rows.filter(row => row.source === 'auto_check').map(row => row.date).sort()[0];
+const regularChanges = Object.entries({ ...priceData.bundles, ...priceData.plugins }).flatMap(([name, entry]) => {
+  let previous = null;
+  return [...(entry.history ?? [])].filter(row => row.source === 'auto_check' && row.reg_src === 'page' && Number.isFinite(row.regular)).sort((a, b) => a.date.localeCompare(b.date)).flatMap(row => {
+    const change = previous !== null && previous !== row.regular ? [{ name, date: row.date, from: previous, to: row.regular }] : [];
+    previous = row.regular;
+    return change;
+  });
+});
 ---
 
 <!doctype html>
@@ -151,11 +164,11 @@ import Header from '../components/Header.astro';
 
 				<div class="stat-line">
 					<div class="stat-box">
-						<span class="num">250+</span>
+						<span class="num">{entries.length}</span>
 						<span class="lbl">plugins &amp; bundles tracked</span>
 					</div>
 					<div class="stat-box">
-						<span class="num">Jul 2026</span>
+						<span class="num">{firstAutoCheck ?? '—'}</span>
 						<span class="lbl">automated checks began; historical data extends to 2021 where available</span>
 					</div>
 				</div>
@@ -164,12 +177,16 @@ import Header from '../components/Header.astro';
 				<p>
 					For each product on my <a href="/plugin-prices/">plugin price page</a>, I record its
 					current price, its typical regular (non-sale) price, its typical sale price, and the
-					lowest price I've recorded since I started tracking. I currently follow over 250
+					lowest price I've recorded since I started tracking. I currently follow {entries.length}
 					plugins and bundles, primarily sold through <strong>Plugin Boutique</strong> and, where
 					relevant, direct vendor stores.
 				</p>
 
 				<h2>Where My Data Comes From</h2>
+				<p>Tracked products are checked periodically, with the cadence varying by product and source. Each recorded row has a date, source label and, where recorded, a store. Brand summaries appear on the <a href="/brands/">brand pages</a>.</p>
+				<p>Direct price checks are measured observations. Research entries are estimates and wayback entries are archived data. Estimates and archives are excluded from measured discount figures. See <a href="/sale-stats/">sale statistics</a> and the <a href="/corrections/">corrections policy</a>.</p>
+				<table><thead><tr><th>Source</th><th>Rows</th></tr></thead><tbody>{sourceCounts.map(item => <tr><td>{item.source}</td><td>{item.count}</td></tr>)}</tbody></table>
+				{regularChanges.length > 0 && <section><h2>Observed list price changes</h2><p>Changes between automated checks where the regular price came from the product page. Gaps between checks mean the exact change date is unknown.</p><table><thead><tr><th>Product</th><th>Observed on</th><th>Previous</th><th>Recorded</th></tr></thead><tbody>{regularChanges.slice(-30).map(item => <tr><td>{item.name}</td><td>{item.date}</td><td>${item.from}</td><td>${item.to}</td></tr>)}</tbody></table></section>}
 				<p>
 					Price data on PluginDrop comes from a mix of sources, and I label my confidence
 					honestly rather than presenting every number as equally certain:
@@ -204,7 +221,7 @@ import Header from '../components/Header.astro';
 				<h2>What "Lowest Tracked" Means</h2>
 				<p>
 					When you see <strong>"Lowest tracked"</strong> next to a product, that's the lowest
-					price <em>I have on record</em> since I began automated tracking in July 2026 — it is
+					price <em>I have on record</em> since automated checks began on {firstAutoCheck ?? 'the recorded start date'} — it is
 					<strong> not</strong> a guaranteed claim that the product has never sold for less,
 					anywhere, ever. Plugin pricing has decades of history in some cases (Waves, Native
 					Instruments, etc.), and one-off coupon stacks or regional pricing can occasionally beat

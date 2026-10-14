@@ -1,6 +1,6 @@
 ---
 title: "85% Off SSL Native X Echo — Tape-Style Delay for Mixes ($15)"
-description: "SSL Native X Echo is on sale at Plugin Boutique for $15, down from $99. That's an 85% discount on a delay plugin built around SSL's signature..."
+description: "Observed at $15 (regular $99) before the estimated 2026-09-24 expiry; the sale has ended or was not confirmed afterward."
 pubDate: "2026-08-25T14:13:47Z"
 tags: ["sale", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=SSL%20Native%20X%20Echo&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-x-echo-de47c7&chan=art&data1=ssl-native-x-echo-de47c7"
@@ -9,18 +9,18 @@ score: 7.29
 dealPrice: "$15.00"
 originalPrice: "$99.00"
 discount: "85% OFF"
-draft: true
+draft: false
 saleExpiry: "2026-09-24"
 saleExpirySource: "fallback"
 ---
-If you only grab one delay plugin from SSL's catalog this week, make it Echo — the discount cuts an $99 plugin down to $15, and SSL's Native X line rarely dips this low.
+Observed at $15 (regular $99) before the estimated 2026-09-24 expiry; the sale has ended or was not confirmed afterward.
 
-**TL;DR:** SSL Native X Echo is on sale at Plugin Boutique for $15, down from ~~$99~~. That's an 85% discount on a delay plugin built around SSL's signature processing lineage. [Grab it at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/10-Delay/8674-SSL-Native-X-Echo?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-x-echo-de47c7&chan=art&data1=ssl-native-x-echo-de47c7) while the deal is live.
+**TL;DR:** Observed at $15 (regular $99) before the estimated 2026-09-24 expiry; the sale has ended or was not confirmed afterward. Check the live listing for the current price.
 
 ## Price Context (tracked by PluginDrop)
 - Tracked since 2022-08-08 (7 observations)
 - Lowest we've tracked: $15 · Typical sale: $15 · Regular: $99
-- Verdict: **BUY NOW** — the current $15 price is within 5% of the $15 lowest tracked price.
+- Historical assessment: observed $15; current pricing is unconfirmed.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/nOJB3mo6x34" title="85% Off SSL Native X Echo — Tape-Style Delay for Mixes ($15) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

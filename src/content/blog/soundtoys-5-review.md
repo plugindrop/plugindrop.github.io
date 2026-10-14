@@ -1,7 +1,7 @@
 ---
 heroImage: "/images/soundtoys-spring-sale-save-up-to-75-on-plugins-incl-bundle-u.jpg"
-title: "Soundtoys 5 Review 2026: The Creative Effects Bundle Every Producer Wants"
-description: "Soundtoys 5 is a creative effects bundle — 22 plugins built around analog character, warmth, and... Updated 2026."
+title: "Soundtoys 5 Overview 2026: Pricing, Versions and Specs"
+description: "Soundtoys 5 Overview 2026: Pricing, Versions and Specs. A summary of published specifications and price information."
 pubDate: "2026-05-08T18:10:19Z"
 tags: ["guide", "vst", "effects", "review"]
 affiliate: ""
@@ -11,6 +11,8 @@ discount: "50% OFF"
 xText: "New guide: Soundtoys 5 Review: The Creative Effects Bundle Every Produc..."
 draft: false
 ---
+
+This page is based on published specifications and price records. It does not assess sound quality.
 **TL;DR:** Soundtoys 5 is a creative effects bundle — 22 plugins built around analog character, warmth, and deliberate imperfection. Caught on a seasonal sale at around $299, the per-plugin cost becomes impossible to argue with. If you produce anything from hip-hop to ambient, this bundle will become your most-reached-for toolkit.
 
 ---

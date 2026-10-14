@@ -1,6 +1,6 @@
 ---
-title: "Phase Plant Review: The Most Flexible Synth for Sound Designers in 2026?"
-description: "Phase Plant by Kilohearts is the most architecturally flexible synthesizer available today — a modular blank canvas where you stack generators, route"
+title: "Phase Plant Overview: Pricing, Versions and Specs"
+description: "Phase Plant Overview: Pricing, Versions and Specs. A summary of published specifications and price information."
 pubDate: "2026-05-02T02:10:19Z"
 updatedDate: "2026-10-04T12:21:20Z"
 tags: ["guide", "vst", "instruments", "review"]
@@ -11,6 +11,8 @@ score: 8.00
 xText: "New guide: Phase Plant Review: The Most Flexible Synth for Sound Design..."
 draft: false
 ---
+
+This page is based on published specifications and price records. It does not assess sound quality.
 **TL;DR:** Phase Plant by Kilohearts is the most architecturally flexible synthesizer available today — a modular blank canvas where you stack generators, route modulators, and chain Snapin effects into virtually any synthesis style imaginable. It has a genuinely usable free tier (Phase Plant Essentials) and a full version that competes with synths costing twice as much. If you do serious sound design, nothing in 2026 comes close to its depth-per-dollar.
 
 ## Quick Picks at a Glance

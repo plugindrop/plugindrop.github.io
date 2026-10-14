@@ -6,8 +6,11 @@
  * Usage: pass pluginNames[] (unchanged interface — articles keep working as-is).
  */
 import priceDataRaw from '../data/price_history.json';
+import { detectBrand } from '../lib/brands.mjs';
+import { slugifyProduct, isBrandPageIndexable } from '../lib/indexPolicy.mjs';
 import { isProductNameIndexable } from '../lib/indexPolicy.mjs';
 import { guardDiscountFrequency } from '../lib/priceInsights.mjs';
+import { sourceKind } from '../lib/priceTrends.mjs';
 import { lowestPriceAttribution } from '../lib/priceCardFacts.mjs';
 import {
   type PriceEntry,
@@ -39,6 +42,11 @@ const allPlugins: Record<string, PriceEntry> = {
   ...(priceData.bundles ?? {}),
   ...(priceData.plugins ?? {}),
 };
+const brandCounts = new Map<string, number>();
+for (const [name, entry] of Object.entries(allPlugins)) {
+  const brand = detectBrand(name, entry.notes);
+  if (brand && isProductNameIndexable(priceData, name)) brandCounts.set(brand, (brandCounts.get(brand) ?? 0) + 1);
+}
 
 const tracked = pluginNames
   .map(name => ({ name, data: allPlugins[name] }))
@@ -48,10 +56,11 @@ const tracked = pluginNames
     name,
     data,
     slug: slugify(name),
+    brandSlug: detectBrand(name, data.notes) && isBrandPageIndexable(brandCounts.get(detectBrand(name, data.notes)) ?? 0) ? slugifyProduct(detectBrand(name, data.notes)) : null,
     current: currentPriceOf(data),
     pts: sparklinePoints(data.history),
     score: guardDiscountFrequency(dealScore(currentPriceOf(data), data.typical_regular, data.typical_sale, data.all_time_low), data.history.filter(row => row.source === 'auto_check'), data.history.filter(row => row.source === 'auto_check' && row.sale !== null).length, data.typical_sale),
-    checked: data.history.filter(row => row.source === 'auto_check').map(row => row.date).sort().at(-1) ?? null,
+    checked: data.history.filter(row => sourceKind(row.source) === 'measured').map(row => row.date).sort().at(-1) ?? null,
     lowAttribution: lowestPriceAttribution(data),
     numericScore: dealScoreNumeric(data),
   }));
@@ -64,7 +73,7 @@ const tracked = pluginNames
       <a href="/plugin-prices/" class="pt-fulllink">See full history →</a>
     </div>
     <div class="pt-grid">
-      {tracked.map(({ name, data, slug, current, pts, score, numericScore, checked, lowAttribution }) => (
+      {tracked.map(({ name, data, slug, brandSlug, current, pts, score, numericScore, checked, lowAttribution }) => (
         <div class="pt-card">
           <div class="pt-card-top">
             {isProductNameIndexable(priceData, name)
@@ -77,6 +86,7 @@ const tracked = pluginNames
               <span class={`score-badge ${numericScore.verdict}`}>{numericScore.score}</span>
             )}
           </div>
+          {brandSlug && <a href={`/brands/${brandSlug}/`}>Observed brand prices</a>}
           <div class="pt-card-mid">
             <span class="pt-price mono">{formatPrice(current)}</span>
             {pts ? (
@@ -98,7 +108,7 @@ const tracked = pluginNames
             <span class="pt-low">
               {data.all_time_low !== null ? `Lowest tracked ${formatPrice(data.all_time_low)}${lowAttribution ? ` (${lowAttribution})` : ''}` : ''}
             </span>
-            {checked && <span class="pt-checked">checked {checked}</span>}
+            <span class="pt-checked">{checked ? `checked ${checked}` : 'Check date unknown'}</span>
           </div>
           <a href={pbLink(data.pb_url, name)} class="pt-cta" target="_blank" rel="noopener sponsored">See deal →</a>
         </div>

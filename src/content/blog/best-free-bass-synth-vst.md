@@ -26,7 +26,7 @@ draft: false
 | TAL-BassLine-101 | Free | Acid / 303-style bass lines | [Free Download](https://tal-software.com/products/tal-bassline-101) |
 | Vital | Free | Wavetable bass & modern sound design | [Free](https://vital.audio/) |
 | OB-Xd | Free | Warm analog-style bass | [Free Download](https://www.discodsp.com/obxd/) |
-| Helm | Free | Clean mono subtractive bass | [Free via Plugin Boutique](https://tytel.org/helm/) |
+| Helm | Free | Clean mono subtractive bass | [tytel.org (official)](https://tytel.org/helm/) |
 | Dexed | Free | FM bass & DX7 tones | [Free Download](https://github.com/asb2m10/dexed) |
 | Odin 2 | Free | Semi-modular complex bass design | [Free Download](https://www.thewavewarden.com/odin2) |
 
@@ -115,7 +115,7 @@ Helm is a virtual-analog synthesizer with two oscillators, a dedicated sub-oscil
 
 **Best for:** Sub bass, standard monophonic analog bass, and producers learning synthesis for the first time.
 
-[→ Download Helm Free (via Plugin Boutique)](https://tytel.org/helm/)
+[tytel.org (official)](https://tytel.org/helm/)
 
 ---
 
@@ -257,7 +257,7 @@ Triple Cheese uses three comb filters as its primary sound source instead of con
 | Vital | Free | Wavetable | Visual modulation, 20+ filter types, user-loadable wavetables | [Get](https://vital.audio/) |
 | TAL-BassLine-101 | Free | Virtual analog (303) | Built-in step sequencer, accent, slide, classic acid character | [Download](https://tal-software.com/products/tal-bassline-101) |
 | OB-Xd | Free | Virtual analog (Oberheim) | Warm filter, unison, AAX support, preset library | [Free Download](https://www.discodsp.com/obxd/) |
-| Helm | Free | Virtual analog | Sub-oscillator, drag-and-drop modulation, built-in effects | [Get via Plugin Boutique](https://tytel.org/helm/) |
+| Helm | Free | Virtual analog | Sub-oscillator, drag-and-drop modulation, built-in effects | [tytel.org (official)](https://tytel.org/helm/) |
 | Dexed | Free | FM (6-operator) | DX7 SysEx compatible, tight FM bass | [Download](https://github.com/asb2m10/dexed) |
 | Odin 2 | Free | Semi-modular | Patch cables in GUI, 12+ filter models, complex routing | [Download](https://www.thewavewarden.com/odin2) |
 | ZebraLette 3 | Free | Spectral | Custom harmonic spectrum drawing, u-he audio quality | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-bass-synth-vst&chan=art&data1=best-free-bass-synth-vst) |

@@ -1,0 +1,2494 @@
+{
+  "fetched_at": "2026-10-14T07:02:34.012Z",
+  "articles": {
+    "best-free-plugins-fl-studio": [
+      {
+        "name": "Vital",
+        "official_url": "https://vital.audio/",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": {
+            "value": "Linux 18.04",
+            "source_url": "https://vital.audio/",
+            "quote": "Linux 18.04",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "formats": null,
+          "apple_silicon": {
+            "value": "Apple Silicon",
+            "source_url": "https://vital.audio/",
+            "quote": "Apple Silicon",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": null,
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Surge XT",
+        "official_url": "https://surge-synthesizer.github.io/",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": {
+            "value": "Windows 7",
+            "source_url": "https://surge-synthesizer.github.io/",
+            "quote": "Windows 7",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "formats": {
+            "value": "VST3, AU",
+            "source_url": "https://surge-synthesizer.github.io/",
+            "quote": "VST3, AU",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": {
+            "value": "Apple Silicon",
+            "source_url": "https://surge-synthesizer.github.io/",
+            "quote": "Apple Silicon",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": {
+            "value": "Version 1.3.4",
+            "source_url": "https://surge-synthesizer.github.io/",
+            "quote": "Version 1.3.4",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "TAL-NoiseMaker",
+        "official_url": "https://tal-software.com/products/tal-noisemaker",
+        "reason": "HTTP_404",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "OB-Xd",
+        "official_url": "https://www.discodsp.com/obxd/",
+        "reason": "paid_page_cannot_verify_free_edition",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "Dexed",
+        "official_url": "https://asb2m10.github.io/dexed/",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "apple_silicon": {
+            "value": "native",
+            "source_url": "https://asb2m10.github.io/dexed/",
+            "quote": "native",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": {
+            "value": "version 1.0.1",
+            "source_url": "https://asb2m10.github.io/dexed/",
+            "quote": "version 1.0.1",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Spitfire LABS",
+        "official_url": "https://labs.spitfireaudio.com/",
+        "reason": "redirected_off_official_domain",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "TDR Nova",
+        "official_url": "https://www.tokyodawn.net/tdr-nova/",
+        "reason": null,
+        "facts": {
+          "license": {
+            "value": "Free",
+            "source_url": "https://www.tokyodawn.net/tdr-nova/",
+            "quote": "Free Download",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "os": null,
+          "formats": {
+            "value": "VST3, AAX",
+            "source_url": "https://www.tokyodawn.net/tdr-nova/",
+            "quote": "VST3, AAX",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": {
+            "value": "native",
+            "source_url": "https://www.tokyodawn.net/tdr-nova/",
+            "quote": "native",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": {
+            "value": "version 2.2.2",
+            "source_url": "https://www.tokyodawn.net/tdr-nova/",
+            "quote": "version 2.2.2",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Voxengo SPAN",
+        "official_url": "https://www.voxengo.com/product/span/",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": {
+            "value": "AU, AAX",
+            "source_url": "https://www.voxengo.com/product/span/",
+            "quote": "AU, AAX",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": null,
+          "latest_version": null,
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Rough Rider 3",
+        "official_url": "https://www.audiodamage.com/pages/free-and-legacy",
+        "reason": "identity_not_in_page",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "TDR Kotelnikov",
+        "official_url": "https://www.tokyodawn.net/tdr-kotelnikov/",
+        "reason": null,
+        "facts": {
+          "license": {
+            "value": "Free",
+            "source_url": "https://www.tokyodawn.net/tdr-kotelnikov/",
+            "quote": "Free Download",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "os": null,
+          "formats": {
+            "value": "VST3, AAX",
+            "source_url": "https://www.tokyodawn.net/tdr-kotelnikov/",
+            "quote": "VST3, AAX",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": {
+            "value": "native",
+            "source_url": "https://www.tokyodawn.net/tdr-kotelnikov/",
+            "quote": "native",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": null,
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Valhalla Supermassive",
+        "official_url": "https://valhalladsp.com/shop/reverb/valhalla-supermassive/",
+        "reason": "HTTP_403",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "Dragonfly Reverb",
+        "official_url": "https://michaelwillis.github.io/dragonfly-reverb/",
+        "reason": "no_matching_quote",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "apple_silicon": null,
+          "latest_version": null,
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Ozone Imager 2",
+        "official_url": "https://www.izotope.com/en/products/ozone-imager.html",
+        "reason": "identity_not_in_page",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "MFreeFXBundle",
+        "official_url": "https://www.meldaproduction.com/MFreeFXBundle",
+        "reason": null,
+        "facts": {
+          "license": {
+            "value": "Free",
+            "source_url": "https://www.meldaproduction.com/MFreeFXBundle",
+            "quote": "completely free",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "os": null,
+          "formats": null,
+          "apple_silicon": null,
+          "latest_version": null,
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "CHOW Tape Model",
+        "official_url": "https://chowdsp.com/products.html",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": {
+            "value": "Windows 7",
+            "source_url": "https://chowdsp.com/products.html",
+            "quote": "Windows 7",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "formats": {
+            "value": "VST3, AU, CLAP, AAX",
+            "source_url": "https://chowdsp.com/products.html",
+            "quote": "VST3, AU, CLAP, AAX",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": {
+            "value": "universal",
+            "source_url": "https://chowdsp.com/products.html",
+            "quote": "universal",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": {
+            "value": "version 10.12",
+            "source_url": "https://chowdsp.com/products.html",
+            "quote": "version 10.12",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      }
+    ],
+    "best-free-plugins-ableton": [
+      {
+        "name": "Vital",
+        "official_url": "https://vital.audio/",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": {
+            "value": "Linux 18.04",
+            "source_url": "https://vital.audio/",
+            "quote": "Linux 18.04",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "formats": null,
+          "apple_silicon": {
+            "value": "Apple Silicon",
+            "source_url": "https://vital.audio/",
+            "quote": "Apple Silicon",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": null,
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Surge XT",
+        "official_url": "https://surge-synthesizer.github.io/",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": {
+            "value": "Windows 7",
+            "source_url": "https://surge-synthesizer.github.io/",
+            "quote": "Windows 7",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "formats": {
+            "value": "VST3, AU",
+            "source_url": "https://surge-synthesizer.github.io/",
+            "quote": "VST3, AU",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": {
+            "value": "Apple Silicon",
+            "source_url": "https://surge-synthesizer.github.io/",
+            "quote": "Apple Silicon",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": {
+            "value": "Version 1.3.4",
+            "source_url": "https://surge-synthesizer.github.io/",
+            "quote": "Version 1.3.4",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "OB-Xd",
+        "official_url": "https://www.discodsp.com/obxd/",
+        "reason": "paid_page_cannot_verify_free_edition",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "Dexed",
+        "official_url": "https://asb2m10.github.io/dexed/",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "apple_silicon": {
+            "value": "native",
+            "source_url": "https://asb2m10.github.io/dexed/",
+            "quote": "native",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": {
+            "value": "version 1.0.1",
+            "source_url": "https://asb2m10.github.io/dexed/",
+            "quote": "version 1.0.1",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "TDR Nova",
+        "official_url": "https://www.tokyodawn.net/tdr-nova/",
+        "reason": null,
+        "facts": {
+          "license": {
+            "value": "Free",
+            "source_url": "https://www.tokyodawn.net/tdr-nova/",
+            "quote": "Free Download",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "os": null,
+          "formats": {
+            "value": "VST3, AAX",
+            "source_url": "https://www.tokyodawn.net/tdr-nova/",
+            "quote": "VST3, AAX",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": {
+            "value": "native",
+            "source_url": "https://www.tokyodawn.net/tdr-nova/",
+            "quote": "native",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": {
+            "value": "version 2.2.2",
+            "source_url": "https://www.tokyodawn.net/tdr-nova/",
+            "quote": "version 2.2.2",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Rough Rider 3",
+        "official_url": "https://www.audiodamage.com/pages/free-and-legacy",
+        "reason": "identity_not_in_page",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "Valhalla Supermassive",
+        "official_url": "https://valhalladsp.com/shop/reverb/valhalla-supermassive/",
+        "reason": "HTTP_403",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "TAL-Chorus-LX",
+        "official_url": null,
+        "reason": "no_official_https_url",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "LABS",
+        "official_url": "https://labs.spitfireaudio.com/",
+        "reason": "redirected_off_official_domain",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "Sitala",
+        "official_url": "https://decomposer.de/sitala/",
+        "reason": "paid_page_cannot_verify_free_edition",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "SPAN",
+        "official_url": "https://www.voxengo.com/product/span/",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": {
+            "value": "AU, AAX",
+            "source_url": "https://www.voxengo.com/product/span/",
+            "quote": "AU, AAX",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": null,
+          "latest_version": null,
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Ozone Imager 2",
+        "official_url": "https://www.izotope.com/en/products/ozone-imager.html",
+        "reason": "identity_not_in_page",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      }
+    ],
+    "best-free-synth-plugins": [
+      {
+        "name": "Vital",
+        "official_url": "https://vital.audio/",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": {
+            "value": "Linux 18.04",
+            "source_url": "https://vital.audio/",
+            "quote": "Linux 18.04",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "formats": null,
+          "apple_silicon": {
+            "value": "Apple Silicon",
+            "source_url": "https://vital.audio/",
+            "quote": "Apple Silicon",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": null,
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Surge XT",
+        "official_url": "https://surge-synthesizer.github.io/",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": {
+            "value": "Windows 7",
+            "source_url": "https://surge-synthesizer.github.io/",
+            "quote": "Windows 7",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "formats": {
+            "value": "VST3, AU",
+            "source_url": "https://surge-synthesizer.github.io/",
+            "quote": "VST3, AU",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": {
+            "value": "Apple Silicon",
+            "source_url": "https://surge-synthesizer.github.io/",
+            "quote": "Apple Silicon",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": {
+            "value": "Version 1.3.4",
+            "source_url": "https://surge-synthesizer.github.io/",
+            "quote": "Version 1.3.4",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Zebralette 3",
+        "official_url": "https://u-he.com/products/zebralette/",
+        "reason": null,
+        "facts": {
+          "license": {
+            "value": "Free",
+            "source_url": "https://u-he.com/products/zebralette/",
+            "quote": "Free Download",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "os": {
+            "value": "Windows 7",
+            "source_url": "https://u-he.com/products/zebralette/",
+            "quote": "Windows 7",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "formats": {
+            "value": "CLAP, AU",
+            "source_url": "https://u-he.com/products/zebralette/",
+            "quote": "CLAP, AU",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": {
+            "value": "Apple silicon",
+            "source_url": "https://u-he.com/products/zebralette/",
+            "quote": "Apple silicon",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": {
+            "value": "v2.9.3",
+            "source_url": "https://u-he.com/products/zebralette/",
+            "quote": "v2.9.3",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "release_date": {
+            "value": "Released November 11, 2024",
+            "source_url": "https://u-he.com/products/zebralette/",
+            "quote": "Released November 11, 2024",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "version_date": {
+            "value": "v2.9.3 · Released November 11, 2024",
+            "source_url": "https://u-he.com/products/zebralette/",
+            "quote": "v2.9.3",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Dexed",
+        "official_url": "https://asb2m10.github.io/dexed/",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "apple_silicon": {
+            "value": "native",
+            "source_url": "https://asb2m10.github.io/dexed/",
+            "quote": "native",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": {
+            "value": "version 1.0.1",
+            "source_url": "https://asb2m10.github.io/dexed/",
+            "quote": "version 1.0.1",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "ZynAddSubFX",
+        "official_url": "https://zynaddsubfx.sourceforge.io/",
+        "reason": "no_matching_quote",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "apple_silicon": null,
+          "latest_version": null,
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "OB-Xd",
+        "official_url": "https://www.discodsp.com/obxd/",
+        "reason": "paid_page_cannot_verify_free_edition",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "Helm",
+        "official_url": "https://tytel.org/helm/",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": {
+            "value": "VST3",
+            "source_url": "https://tytel.org/helm/",
+            "quote": "VST3",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": null,
+          "latest_version": null,
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Tyrell N6",
+        "official_url": "https://u-he.com/products/tyrelln6/",
+        "reason": null,
+        "facts": {
+          "license": {
+            "value": "Free",
+            "source_url": "https://u-he.com/products/tyrelln6/",
+            "quote": "Free Download",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "os": {
+            "value": "macOS 32",
+            "source_url": "https://u-he.com/products/tyrelln6/",
+            "quote": "macOS 32",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "formats": {
+            "value": "AAX and CLAP",
+            "source_url": "https://u-he.com/products/tyrelln6/",
+            "quote": "AAX and CLAP",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": {
+            "value": "native Apple Silicon",
+            "source_url": "https://u-he.com/products/tyrelln6/",
+            "quote": "native Apple Silicon",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": {
+            "value": "version 2.28",
+            "source_url": "https://u-he.com/products/tyrelln6/",
+            "quote": "version 2.28",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "release_date": {
+            "value": "Released March 18, 2025",
+            "source_url": "https://u-he.com/products/tyrelln6/",
+            "quote": "Released March 18, 2025",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "version_date": {
+            "value": "version 2.28 · Released March 18, 2025",
+            "source_url": "https://u-he.com/products/tyrelln6/",
+            "quote": "version 2.28",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "TAL-NoiseMaker",
+        "official_url": "https://tal-software.com/products/tal-noisemaker",
+        "reason": "HTTP_404",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "Synth1",
+        "official_url": "https://daichilab.sakura.ne.jp/softsynth/index.html",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "apple_silicon": null,
+          "latest_version": {
+            "value": "V1.13",
+            "source_url": "https://daichilab.sakura.ne.jp/softsynth/index.html",
+            "quote": "V1.13",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Charlatan",
+        "official_url": "https://www.blaukraut.info/",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": {
+            "value": "Windows 10",
+            "source_url": "https://www.blaukraut.info/",
+            "quote": "Windows 10",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "formats": {
+            "value": "VST3 / CLAP",
+            "source_url": "https://www.blaukraut.info/",
+            "quote": "VST3 / CLAP",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": null,
+          "latest_version": {
+            "value": "Latest Version 3.3.2",
+            "source_url": "https://www.blaukraut.info/",
+            "quote": "Latest Version 3.3.2",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "release_date": {
+            "value": "Updated on 2025-11-17",
+            "source_url": "https://www.blaukraut.info/",
+            "quote": "Updated on 2025-11-17",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "version_date": {
+            "value": "Latest Version 3.3.2 · Updated on 2025-11-17",
+            "source_url": "https://www.blaukraut.info/",
+            "quote": "Latest Version 3.3.2",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Podolski",
+        "official_url": "https://u-he.com/products/podolski/",
+        "reason": null,
+        "facts": {
+          "license": {
+            "value": "Free",
+            "source_url": "https://u-he.com/products/podolski/",
+            "quote": "Free Download",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "os": {
+            "value": "Windows 7",
+            "source_url": "https://u-he.com/products/podolski/",
+            "quote": "Windows 7",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "formats": {
+            "value": "VST3, AAX",
+            "source_url": "https://u-he.com/products/podolski/",
+            "quote": "VST3, AAX",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": {
+            "value": "native",
+            "source_url": "https://u-he.com/products/podolski/",
+            "quote": "native",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": {
+            "value": "v1.2.3",
+            "source_url": "https://u-he.com/products/podolski/",
+            "quote": "v1.2.3",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "release_date": {
+            "value": "Released August 10, 2021",
+            "source_url": "https://u-he.com/products/podolski/",
+            "quote": "Released August 10, 2021",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "version_date": {
+            "value": "v1.2.3 · Released August 10, 2021",
+            "source_url": "https://u-he.com/products/podolski/",
+            "quote": "v1.2.3",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Odin2",
+        "official_url": "https://thewavewarden.com/odin2/",
+        "reason": "identity_not_in_page",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "Pendulate",
+        "official_url": "https://www.newfangledaudio.com/pendulate",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": {
+            "value": "macOS 10.9",
+            "source_url": "https://www.newfangledaudio.com/pendulate",
+            "quote": "macOS 10.9",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "formats": {
+            "value": "AAX, AU",
+            "source_url": "https://www.newfangledaudio.com/pendulate",
+            "quote": "AAX, AU",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": {
+            "value": "Apple Silicon",
+            "source_url": "https://www.newfangledaudio.com/pendulate",
+            "quote": "Apple Silicon",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": null,
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Magical8bitPlug 2",
+        "official_url": "https://ymck.net/app/magical-8bit-plug-en/",
+        "reason": "identity_not_in_page",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "Crystal",
+        "official_url": null,
+        "reason": "no_official_https_url",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "Yoshimi",
+        "official_url": "https://yoshimi.github.io/",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "apple_silicon": null,
+          "latest_version": null,
+          "release_date": {
+            "value": "Updated 2026-09-04",
+            "source_url": "https://yoshimi.github.io/",
+            "quote": "Updated 2026-09-04",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      }
+    ],
+    "best-free-guitar-amp-vst": [
+      {
+        "name": "Nick Crow Lab 7170 Lead",
+        "official_url": null,
+        "reason": "no_official_https_url",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "LePou Amp Sim Suite",
+        "official_url": null,
+        "reason": "no_official_https_url",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "Ignite Amps Emissary",
+        "official_url": "https://www.igniteamps.com/",
+        "reason": "identity_not_in_page",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "TSE Audio X50 v2.4",
+        "official_url": "https://www.tseaudio.com/software/tseX50",
+        "reason": "identity_not_in_page",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "Ignite Amps TPA-1",
+        "official_url": "https://www.igniteamps.com/",
+        "reason": "identity_not_in_page",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "Simulanalog Guitar Suite",
+        "official_url": "https://www.simulanalog.org/guitarsuite.html",
+        "reason": "no_matching_quote",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "apple_silicon": null,
+          "latest_version": null,
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Voxengo Boogex",
+        "official_url": "https://www.voxengo.com/product/boogex/",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": {
+            "value": "AU, AAX",
+            "source_url": "https://www.voxengo.com/product/boogex/",
+            "quote": "AU, AAX",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": null,
+          "latest_version": null,
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Guitar Rig 7 Player",
+        "official_url": "https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-7-player/",
+        "reason": null,
+        "facts": {
+          "license": {
+            "value": "Free",
+            "source_url": "https://www.native-instruments.com/products/guitar-rig-player",
+            "quote": "Free download",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "os": {
+            "value": "macOS 13",
+            "source_url": "https://www.native-instruments.com/products/guitar-rig-player",
+            "quote": "macOS 13",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "formats": {
+            "value": "VST3, AAX",
+            "source_url": "https://www.native-instruments.com/products/guitar-rig-player",
+            "quote": "VST3, AAX",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": {
+            "value": "Native",
+            "source_url": "https://www.native-instruments.com/products/guitar-rig-player",
+            "quote": "Native",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": null,
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Amplitube Custom Shop",
+        "official_url": "https://www.ikmultimedia.com/products/amplitube5/",
+        "reason": "identity_not_in_page",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "ML Sound Lab AMPED Roots",
+        "official_url": "https://ml-sound-lab.com/products/amped-roots",
+        "reason": "identity_not_in_page",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      }
+    ],
+    "best-free-tape-saturation-vst": [
+      {
+        "name": "Chow Tape Model",
+        "official_url": "https://chowdsp.com/products.html",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": {
+            "value": "Windows 7",
+            "source_url": "https://chowdsp.com/products.html",
+            "quote": "Windows 7",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "formats": {
+            "value": "VST3, AU, CLAP, AAX",
+            "source_url": "https://chowdsp.com/products.html",
+            "quote": "VST3, AU, CLAP, AAX",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": {
+            "value": "universal",
+            "source_url": "https://chowdsp.com/products.html",
+            "quote": "universal",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": {
+            "value": "version 10.12",
+            "source_url": "https://chowdsp.com/products.html",
+            "quote": "version 10.12",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "FERRIC TDS",
+        "official_url": null,
+        "reason": "no_official_https_url",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "Tape Cassette 2",
+        "official_url": null,
+        "reason": "no_official_https_url",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "IVGI",
+        "official_url": "https://klanghelm.com/contents/products/IVGI",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "apple_silicon": null,
+          "latest_version": {
+            "value": "version 2.5.0",
+            "source_url": "https://klanghelm.com/contents/products/IVGI",
+            "quote": "version 2.5.0",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "TesslaSE",
+        "official_url": null,
+        "reason": "no_official_https_url",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "Caramel",
+        "official_url": "https://www.meldaproduction.com/",
+        "reason": "identity_not_in_page",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "Saturation Knob",
+        "official_url": "https://www.softube.com/plug-ins/saturation-knob",
+        "reason": null,
+        "facts": {
+          "license": {
+            "value": "Free",
+            "source_url": "https://www.softube.com/plug-ins/saturation-knob",
+            "quote": "Download for free",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "os": {
+            "value": "Windows 10",
+            "source_url": "https://www.softube.com/plug-ins/saturation-knob",
+            "quote": "Windows 10",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "formats": {
+            "value": "VST3",
+            "source_url": "https://www.softube.com/plug-ins/saturation-knob",
+            "quote": "VST3",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": {
+            "value": "native",
+            "source_url": "https://www.softube.com/plug-ins/saturation-knob",
+            "quote": "native",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": null,
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "BPB Saturator",
+        "official_url": null,
+        "reason": "no_official_https_url",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      }
+    ],
+    "spitfire-labs-free-sample-library": [
+      {
+        "name": "Spitfire LABS",
+        "official_url": "https://labs.spitfireaudio.com/",
+        "reason": "redirected_off_official_domain",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      }
+    ],
+    "best-free-strings-vst-plugins": [
+      {
+        "name": "Spitfire LABS",
+        "official_url": "https://labs.spitfireaudio.com/",
+        "reason": "redirected_off_official_domain",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "BBC Symphony Orchestra Discover",
+        "official_url": null,
+        "reason": "no_official_https_url",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "VSCO2 Community Edition",
+        "official_url": "https://versilian-studios.com/vsco-community/",
+        "reason": null,
+        "facts": {
+          "license": {
+            "value": "Free",
+            "source_url": "https://versilian-studios.com/vsco-community/",
+            "quote": "FREE download",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "os": null,
+          "formats": {
+            "value": "VST3",
+            "source_url": "https://versilian-studios.com/vsco-community/",
+            "quote": "VST3",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": null,
+          "latest_version": {
+            "value": "v0.9.9",
+            "source_url": "https://versilian-studios.com/vsco-community/",
+            "quote": "v0.9.9",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "ProjectSAM Free Orchestra",
+        "official_url": "https://projectsam.com/libraries/the-free-orchestra/",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "apple_silicon": {
+            "value": "Native",
+            "source_url": "https://projectsam.com/libraries/the-free-orchestra/",
+            "quote": "Native",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": null,
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "IK Multimedia Miroslav Philharmonik CE",
+        "official_url": "https://www.ikmultimedia.com/products/philharmonik2ce/",
+        "reason": "identity_not_in_page",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "Sonatina Symphonic Orchestra",
+        "official_url": "https://sfzinstruments.github.io/orchestra/sso/",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "apple_silicon": null,
+          "latest_version": {
+            "value": "Version 4.0",
+            "source_url": "https://sfzinstruments.github.io/orchestra/sso/",
+            "quote": "Version 4.0",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "VCSL",
+        "official_url": "https://versilian-studios.com/vcsl/",
+        "reason": "no_matching_quote",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "apple_silicon": null,
+          "latest_version": null,
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Virtual Playing Orchestra",
+        "official_url": "https://virtualplaying.com/virtual-playing-orchestra//",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": {
+            "value": "VST3",
+            "source_url": "https://virtualplaying.com/virtual-playing-orchestra/",
+            "quote": "VST3",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": {
+            "value": "Universal",
+            "source_url": "https://virtualplaying.com/virtual-playing-orchestra/",
+            "quote": "Universal",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": {
+            "value": "version 1.0",
+            "source_url": "https://virtualplaying.com/virtual-playing-orchestra/",
+            "quote": "version 1.0",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Orchestral Tools SINE Player",
+        "official_url": "https://www.orchestraltools.com/get-sine",
+        "reason": "identity_not_in_page",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "DSK Dynamic Strings",
+        "official_url": "https://www.dskmusic.com/dsk-strings//",
+        "reason": "identity_not_in_page",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "Decent Sampler",
+        "official_url": "https://www.decentsamples.com/product/decent-sampler-plugin/",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": {
+            "value": "Windows 10",
+            "source_url": "https://www.decentsamples.com/product/decent-sampler-plugin/",
+            "quote": "Windows 10",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "formats": {
+            "value": "AAX , Au",
+            "source_url": "https://www.decentsamples.com/product/decent-sampler-plugin/",
+            "quote": "AAX , Au",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": {
+            "value": "Native",
+            "source_url": "https://www.decentsamples.com/product/decent-sampler-plugin/",
+            "quote": "Native",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": {
+            "value": "v1.37.0",
+            "source_url": "https://www.decentsamples.com/product/decent-sampler-plugin/",
+            "quote": "v1.37.0",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      }
+    ],
+    "best-free-vst-plugins-2026": [
+      {
+        "name": "Vital",
+        "official_url": "https://vital.audio/",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": {
+            "value": "Linux 18.04",
+            "source_url": "https://vital.audio/",
+            "quote": "Linux 18.04",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "formats": null,
+          "apple_silicon": {
+            "value": "Apple Silicon",
+            "source_url": "https://vital.audio/",
+            "quote": "Apple Silicon",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": null,
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Surge XT",
+        "official_url": "https://surge-synthesizer.github.io/",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": {
+            "value": "Windows 7",
+            "source_url": "https://surge-synthesizer.github.io/",
+            "quote": "Windows 7",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "formats": {
+            "value": "VST3, AU",
+            "source_url": "https://surge-synthesizer.github.io/",
+            "quote": "VST3, AU",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": {
+            "value": "Apple Silicon",
+            "source_url": "https://surge-synthesizer.github.io/",
+            "quote": "Apple Silicon",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": {
+            "value": "Version 1.3.4",
+            "source_url": "https://surge-synthesizer.github.io/",
+            "quote": "Version 1.3.4",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Dexed",
+        "official_url": "https://asb2m10.github.io/dexed/",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "apple_silicon": {
+            "value": "native",
+            "source_url": "https://asb2m10.github.io/dexed/",
+            "quote": "native",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": {
+            "value": "version 1.0.1",
+            "source_url": "https://asb2m10.github.io/dexed/",
+            "quote": "version 1.0.1",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Helm",
+        "official_url": "https://tytel.org/helm/",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": {
+            "value": "VST3",
+            "source_url": "https://tytel.org/helm/",
+            "quote": "VST3",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": null,
+          "latest_version": null,
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Valhalla Supermassive",
+        "official_url": "https://valhalladsp.com/shop/reverb/valhalla-supermassive/",
+        "reason": "HTTP_403",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "TAL-Reverb-4",
+        "official_url": "https://tal-software.com/products/tal-reverb-4",
+        "reason": "HTTP_404",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "iZotope Vinyl",
+        "official_url": "https://www.izotope.com/en/products/vinyl.html",
+        "reason": null,
+        "facts": {
+          "license": {
+            "value": "Free",
+            "source_url": "https://www.izotope.com/products/vinyl",
+            "quote": "Free download",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "os": {
+            "value": "Windows 10",
+            "source_url": "https://www.izotope.com/products/vinyl",
+            "quote": "Windows 10",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "formats": {
+            "value": "AU, AAX, VST3",
+            "source_url": "https://www.izotope.com/products/vinyl",
+            "quote": "AU, AAX, VST3",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": {
+            "value": "Native",
+            "source_url": "https://www.izotope.com/products/vinyl",
+            "quote": "Native",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": null,
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Kilohearts Essentials",
+        "official_url": "https://kilohearts.com/products/kilohearts_essentials",
+        "reason": "no_matching_quote",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "apple_silicon": null,
+          "latest_version": null,
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "TDR Nova",
+        "official_url": "https://www.tokyodawn.net/tdr-nova/",
+        "reason": null,
+        "facts": {
+          "license": {
+            "value": "Free",
+            "source_url": "https://www.tokyodawn.net/tdr-nova/",
+            "quote": "Free Download",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "os": null,
+          "formats": {
+            "value": "VST3, AAX",
+            "source_url": "https://www.tokyodawn.net/tdr-nova/",
+            "quote": "VST3, AAX",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": {
+            "value": "native",
+            "source_url": "https://www.tokyodawn.net/tdr-nova/",
+            "quote": "native",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": {
+            "value": "version 2.2.2",
+            "source_url": "https://www.tokyodawn.net/tdr-nova/",
+            "quote": "version 2.2.2",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "OTT (Xfer Records)",
+        "official_url": "https://xferrecords.com/freeware",
+        "reason": "identity_not_in_page",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "Analog Obsession LALA",
+        "official_url": null,
+        "reason": "no_official_https_url",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "Youlean Loudness Meter 2",
+        "official_url": "https://youlean.co/youlean-loudness-meter/",
+        "reason": null,
+        "facts": {
+          "license": {
+            "value": "Free",
+            "source_url": "https://youlean.co/youlean-loudness-meter/",
+            "quote": "FREE DOWNLOAD",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "os": null,
+          "formats": {
+            "value": "AU and AAX",
+            "source_url": "https://youlean.co/youlean-loudness-meter/",
+            "quote": "AU and AAX",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": null,
+          "latest_version": null,
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Spitfire LABS",
+        "official_url": "https://labs.spitfireaudio.com/",
+        "reason": "redirected_off_official_domain",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "Native Instruments Komplete Start",
+        "official_url": "https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/",
+        "reason": null,
+        "facts": {
+          "license": {
+            "value": "Free",
+            "source_url": "https://www.native-instruments.com/products/komplete-start",
+            "quote": "Free download",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "os": {
+            "value": "macOS 14",
+            "source_url": "https://www.native-instruments.com/products/komplete-start",
+            "quote": "macOS 14",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "formats": null,
+          "apple_silicon": {
+            "value": "Native",
+            "source_url": "https://www.native-instruments.com/products/komplete-start",
+            "quote": "Native",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": {
+            "value": "version 7.6",
+            "source_url": "https://www.native-instruments.com/products/komplete-start",
+            "quote": "version 7.6",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      }
+    ],
+    "best-free-drum-plugins": [
+      {
+        "name": "Steven Slate Drums SSD5.5 FREE",
+        "official_url": "https://stevenslatedrums.com/ssd5/",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "apple_silicon": {
+            "value": "Apple Silicon",
+            "source_url": "https://stevenslatedrums.com/ssd5",
+            "quote": "Apple Silicon",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": null,
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "MT Power Drum Kit 2",
+        "official_url": "https://www.powerdrumkit.com/",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": {
+            "value": "Windows 11",
+            "source_url": "https://www.powerdrumkit.com/",
+            "quote": "Windows 11",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "formats": {
+            "value": "AAX",
+            "source_url": "https://www.powerdrumkit.com/",
+            "quote": "AAX",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": null,
+          "latest_version": null,
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "Sitala by Decomposer",
+        "official_url": "https://decomposer.de/sitala/",
+        "reason": "paid_page_cannot_verify_free_edition",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "Hydrogen",
+        "official_url": "https://hydrogen-music.org/",
+        "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "TX16Wx by CWITEC",
+        "official_url": "https://www.tx16wx.com/",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": {
+            "value": "AAX",
+            "source_url": "https://www.tx16wx.com/",
+            "quote": "AAX",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": null,
+          "latest_version": null,
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "BPB Dirty Drums by Instruments for Music",
+        "official_url": null,
+        "reason": "no_official_https_url",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "Drum Pro by StudioLinked",
+        "official_url": null,
+        "reason": "no_official_https_url",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "version_date": null,
+          "registration": null
+        }
+      },
+      {
+        "name": "Drumatic 4 by e-phonic",
+        "official_url": "https://www.e-phonic.com/plugins/drumatic4/",
+        "reason": "no_matching_quote",
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "apple_silicon": null,
+          "latest_version": null,
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "AVL Drumkits",
+        "official_url": "https://x42-plugins.com/x42/x42-avldrums",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": {
+            "value": "macOS 11.0",
+            "source_url": "https://x42-plugins.com/x42/x42-avldrums",
+            "quote": "macOS 11.0",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "formats": {
+            "value": "Clap",
+            "source_url": "https://x42-plugins.com/x42/x42-avldrums",
+            "quote": "Clap",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "apple_silicon": null,
+          "latest_version": {
+            "value": "v7.6",
+            "source_url": "https://x42-plugins.com/x42/x42-avldrums",
+            "quote": "v7.6",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      },
+      {
+        "name": "MiniSpillage by AudioSpillage",
+        "official_url": "https://www.audiospillage.com/minispillage.html",
+        "reason": null,
+        "facts": {
+          "license": null,
+          "os": null,
+          "formats": null,
+          "apple_silicon": {
+            "value": "Native",
+            "source_url": "https://www.audiospillage.com/minispillage.html",
+            "quote": "Native",
+            "source_kind": "vendor",
+            "fetched_at": "2026-10-14T07:02:34.012Z"
+          },
+          "latest_version": null,
+          "release_date": null,
+          "version_date": null,
+          "registration": null,
+          "size": null
+        }
+      }
+    ]
+  },
+  "sources": {
+    "https://surge-synthesizer.github.io/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://surge-synthesizer.github.io/",
+      "reason": null
+    },
+    "https://asb2m10.github.io/dexed/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://asb2m10.github.io/dexed/",
+      "reason": null
+    },
+    "https://vital.audio/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://vital.audio/",
+      "reason": null
+    },
+    "https://tal-software.com/products/tal-noisemaker": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": null,
+      "reason": "HTTP_404"
+    },
+    "https://www.voxengo.com/product/span/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://www.voxengo.com/product/span/",
+      "reason": null
+    },
+    "https://www.discodsp.com/obxd/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://www.discodsp.com/obxd/",
+      "reason": null
+    },
+    "https://labs.spitfireaudio.com/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://splice.com/instrument/labs-instrument",
+      "reason": null
+    },
+    "https://www.tokyodawn.net/tdr-nova/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://www.tokyodawn.net/tdr-nova/",
+      "reason": null
+    },
+    "https://valhalladsp.com/shop/reverb/valhalla-supermassive/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": null,
+      "reason": "HTTP_403"
+    },
+    "https://michaelwillis.github.io/dragonfly-reverb/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://michaelwillis.github.io/dragonfly-reverb/",
+      "reason": null
+    },
+    "https://www.audiodamage.com/pages/free-and-legacy": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://www.audiodamage.com/pages/free-and-legacy",
+      "reason": null
+    },
+    "https://chowdsp.com/products.html": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://chowdsp.com/products.html",
+      "reason": null
+    },
+    "https://decomposer.de/sitala/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://decomposer.de/sitala/",
+      "reason": null
+    },
+    "https://www.izotope.com/en/products/ozone-imager.html": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://www.izotope.com/products/ozone-imager",
+      "reason": null
+    },
+    "https://www.tokyodawn.net/tdr-kotelnikov/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://www.tokyodawn.net/tdr-kotelnikov/",
+      "reason": null
+    },
+    "https://www.meldaproduction.com/MFreeFXBundle": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://www.meldaproduction.com/MFreeFXBundle",
+      "reason": null
+    },
+    "https://daichilab.sakura.ne.jp/softsynth/index.html": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://daichilab.sakura.ne.jp/softsynth/index.html",
+      "reason": null
+    },
+    "https://tytel.org/helm/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://tytel.org/helm/",
+      "reason": null
+    },
+    "https://zynaddsubfx.sourceforge.io/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://zynaddsubfx.sourceforge.io/",
+      "reason": null
+    },
+    "https://u-he.com/products/zebralette/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://u-he.com/products/zebralette/",
+      "reason": null
+    },
+    "https://u-he.com/products/tyrelln6/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://u-he.com/products/tyrelln6/",
+      "reason": null
+    },
+    "https://u-he.com/products/podolski/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://u-he.com/products/podolski/",
+      "reason": null
+    },
+    "https://thewavewarden.com/odin2/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://thewavewarden.com/pages/odin-2",
+      "reason": null
+    },
+    "https://www.blaukraut.info/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://www.blaukraut.info/",
+      "reason": null
+    },
+    "https://ymck.net/app/magical-8bit-plug-en/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://ymck.net/app/magical-8bit-plug-en/",
+      "reason": null
+    },
+    "https://yoshimi.github.io/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://yoshimi.github.io/",
+      "reason": null
+    },
+    "https://www.newfangledaudio.com/pendulate": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://www.newfangledaudio.com/pendulate",
+      "reason": null
+    },
+    "https://www.simulanalog.org/guitarsuite.html": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://www.simulanalog.org/guitarsuite.html",
+      "reason": null
+    },
+    "https://www.voxengo.com/product/boogex/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://www.voxengo.com/product/boogex/",
+      "reason": null
+    },
+    "https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-7-player/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://www.native-instruments.com/products/guitar-rig-player",
+      "reason": null
+    },
+    "https://www.igniteamps.com/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://www.igniteamps.com/",
+      "reason": null
+    },
+    "https://www.tseaudio.com/software/tseX50": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://www.tseaudio.com/software/tseX50",
+      "reason": null
+    },
+    "https://www.meldaproduction.com/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://www.meldaproduction.com/",
+      "reason": null
+    },
+    "https://ml-sound-lab.com/products/amped-roots": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://ml-sound-lab.com/products/amped-roots",
+      "reason": null
+    },
+    "https://versilian-studios.com/vsco-community/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://versilian-studios.com/vsco-community/",
+      "reason": null
+    },
+    "https://klanghelm.com/contents/products/IVGI": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://klanghelm.com/contents/products/IVGI",
+      "reason": null
+    },
+    "https://www.ikmultimedia.com/products/philharmonik2ce/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://ikmultimedia.com/products/philharmonik2ce",
+      "reason": null
+    },
+    "https://projectsam.com/libraries/the-free-orchestra/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://projectsam.com/libraries/the-free-orchestra/",
+      "reason": null
+    },
+    "https://www.ikmultimedia.com/products/amplitube5/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://ikmultimedia.com/products/amplitube5",
+      "reason": null
+    },
+    "https://www.softube.com/plug-ins/saturation-knob": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://www.softube.com/plug-ins/saturation-knob",
+      "reason": null
+    },
+    "https://sfzinstruments.github.io/orchestra/sso/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://sfzinstruments.github.io/orchestra/sso/",
+      "reason": null
+    },
+    "https://versilian-studios.com/vcsl/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://versilian-studios.com/vcsl/",
+      "reason": null
+    },
+    "https://www.izotope.com/en/products/vinyl.html": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://www.izotope.com/products/vinyl",
+      "reason": null
+    },
+    "https://tal-software.com/products/tal-reverb-4": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": null,
+      "reason": "HTTP_404"
+    },
+    "https://virtualplaying.com/virtual-playing-orchestra//": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://virtualplaying.com/virtual-playing-orchestra/",
+      "reason": null
+    },
+    "https://www.orchestraltools.com/get-sine": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://www.orchestraltools.com/get-sine",
+      "reason": null
+    },
+    "https://www.decentsamples.com/product/decent-sampler-plugin/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://www.decentsamples.com/product/decent-sampler-plugin/",
+      "reason": null
+    },
+    "https://www.dskmusic.com/dsk-strings//": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://www.dskmusic.com/dsk-strings/",
+      "reason": null
+    },
+    "https://hydrogen-music.org/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": null,
+      "reason": "ERR_TLS_CERT_ALTNAME_INVALID"
+    },
+    "https://xferrecords.com/freeware": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://xferrecords.com/freeware",
+      "reason": null
+    },
+    "https://stevenslatedrums.com/ssd5/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://stevenslatedrums.com/ssd5",
+      "reason": null
+    },
+    "https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://www.native-instruments.com/products/komplete-start",
+      "reason": null
+    },
+    "https://youlean.co/youlean-loudness-meter/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://youlean.co/youlean-loudness-meter/",
+      "reason": null
+    },
+    "https://www.powerdrumkit.com/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://www.powerdrumkit.com/",
+      "reason": null
+    },
+    "https://kilohearts.com/products/kilohearts_essentials": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://kilohearts.com/products/kilohearts_essentials",
+      "reason": null
+    },
+    "https://www.tx16wx.com/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://www.tx16wx.com/",
+      "reason": null
+    },
+    "https://x42-plugins.com/x42/x42-avldrums": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://x42-plugins.com/x42/x42-avldrums",
+      "reason": null
+    },
+    "https://www.audiospillage.com/minispillage.html": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://www.audiospillage.com/minispillage.html",
+      "reason": null
+    },
+    "https://www.e-phonic.com/plugins/drumatic4/": {
+      "fetched_at": "2026-10-14T07:02:34.012Z",
+      "final_url": "https://www.e-phonic.com/",
+      "reason": null
+    }
+  }
+}

@@ -9,7 +9,7 @@ import { categoryForProduct } from '../../lib/categoryInference.mjs';
 import { pdAttr } from '../../lib/interestTaxonomy.mjs';
 import productVideosRaw from '../../data/product_videos.json';
 import { latestCheckedDate, formatCheckedDate, dealScoreNumeric, isSearchUrl, pbLink, currentPriceOf, regularPriceOf, formatPrice } from '../../lib/priceUtils';
-import { isPricePageIndexable, slugifyProduct } from '../../lib/indexPolicy.mjs';
+import { isPricePageIndexable, slugifyProduct, listSaleEpisodes, MIN_SALE_EPISODES } from '../../lib/indexPolicy.mjs';
 import { comparablePrices, lowestSeen } from '../../lib/priceBasis.mjs';
 import { buildPageFacts, buildDecisionAnswers, buildResearchNote, buildCoverageLine, summarizeVerdict, alertTarget, sameCategoryPeers } from '../../lib/priceInsights.mjs';
 import { getCollection } from 'astro:content';
@@ -90,6 +90,16 @@ export async function getStaticPaths() {
 }
 
 const { name, kind, entry, guides } = Astro.props as StaticEntry;
+const measuredRows = (entry.history ?? []).filter(row => ['auto_check', 'pb_deals_poll'].includes(row.source)).sort((a, b) => a.date.localeCompare(b.date));
+const measuredEpisodes = listSaleEpisodes({ history: measuredRows });
+const episodeDetails = measuredEpisodes.map((episode, index) => {
+  const rows = measuredRows.filter(row => row.date >= episode.start && row.date <= episode.end && row.sale !== null && row.regular !== null && row.regular > row.sale);
+  const depth = rows.length ? Math.max(...rows.map(row => Math.round((1 - row.sale / row.regular) * 100))) : null;
+  const after = measuredRows.find(row => row.date > episode.end && row.sale === null && row.regular !== null);
+  const previous = measuredEpisodes[index + 1];
+  const previousDepths = previous ? measuredRows.filter(row => row.date >= previous.start && row.date <= previous.end && row.sale !== null && row.regular !== null && row.regular > row.sale).map(row => Math.round((1 - row.sale / row.regular) * 100)) : [];
+  return { ...episode, number: measuredEpisodes.length - index, depth, previousDepth: previousDepths.length ? Math.max(...previousDepths) : null, daysSincePrevious: previous ? Math.round((Date.parse(episode.start) - Date.parse(previous.end)) / 86400000) : null, returnPrice: after?.regular ?? null, returnDate: after?.date ?? null };
+});
 const { slug } = Astro.params;
 
 // Verified demo video for this product (built by build_product_videos.py from
@@ -150,15 +160,9 @@ const alertLabel = alertTargetPrice !== null
 
 // --- Provenance: when we actually last scraped this product (D4) --------
 const checkedDate = latestCheckedDate(entry);
-const latestHistoryDate = entry.history
-  .map((h) => h.date)
-  .sort((a, b) => (a < b ? -1 : 1))
-  .at(-1);
 const checkedLabel = checkedDate
   ? `Last checked: ${formatCheckedDate(checkedDate)}`
-  : latestHistoryDate
-    ? `Last updated: ${formatCheckedDate(new Date(`${latestHistoryDate}T00:00:00Z`))}`
-    : 'Tracking since 2026 — no price data yet';
+  : 'Check date unknown';
 
 // --- Price history chart ---------------------------------------------------
 // Real price-tracker data (Keepa/SteamDB) is a dense daily series. Ours is not:
@@ -1163,6 +1167,11 @@ const faqLD = {
           </ul>
         </section>
       )}
+
+      <section class="page-section">
+        <h2 class="section-title">Observed sale episodes</h2>
+        {episodeDetails.length < MIN_SALE_EPISODES ? <p>Insufficient data for a sale pattern.</p> : <div class="record-table-wrap"><table class="record-table"><thead><tr><th>Episode</th><th>First seen</th><th>Last seen</th><th>Depth</th><th>Previous depth</th><th>Days since previous</th><th>Return to regular</th></tr></thead><tbody>{episodeDetails.map(item => <tr><td>{item.number}</td><td>{item.start}</td><td>{item.end}</td><td>{item.depth === null ? '—' : `${item.depth}%`}</td><td>{item.previousDepth === null ? '—' : `${item.previousDepth}%`}</td><td>{item.daysSincePrevious ?? '—'}</td><td>{item.returnDate ? `${formatPrice(item.returnPrice)} on ${item.returnDate}` : 'Not observed'}</td></tr>)}</tbody></table></div>}
+      </section>
 
     </main>
     <Footer />

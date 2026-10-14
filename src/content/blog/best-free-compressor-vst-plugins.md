@@ -24,11 +24,11 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| TDR Kotelnikov | Free | Mastering, mix bus, transparent glue | [Plugin Boutique](https://www.tokyodawn.net/tdr-kotelnikov/) |
+| TDR Kotelnikov | Free | Mastering, mix bus, transparent glue | [tokyodawn.net (official)](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Molot | Free | Vintage character, drums, buses | [Free Download](https://vladgsound.wordpress.com/plugins/molot/) |
-| DC1A | Free | Vocals, fast workflow, always musical | [Plugin Boutique](https://klanghelm.com/contents/products/DC1A) |
+| DC1A | Free | Vocals, fast workflow, always musical | [klanghelm.com (official)](https://klanghelm.com/contents/products/DC1A) |
 | Rough Rider 3 | Free | Drums, aggressive parallel punch | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/6100-Rough-Rider-3?a_aid=69cb95abe1763&chan=art&data1=best-free-compressor-vst-plugins) |
-| OTT | Free | EDM synths, multiband upward compression | [Plugin Boutique](https://xferrecords.com/freeware) |
+| OTT | Free | EDM synths, multiband upward compression | [xferrecords.com (official)](https://xferrecords.com/freeware) |
 | Klanghelm MJUC jr. | Free | Vintage tube warmth, subtle saturation | [Free Download](https://klanghelm.com/contents/products/MJUC) |
 | Density mkIII | Free | Mix bus analog glue (Windows) | [Free Download](https://varietyofsound.wordpress.com/) |
 
@@ -67,7 +67,7 @@ TDR Kotelnikov delivers mastering-grade transparency at a level that genuinely c
 
 **Skip it if:** you want obvious color or saturation — Kotelnikov is engineered to stay invisible, so it will never add vintage grit or attitude on its own.
 
-[Plugin Boutique](https://www.tokyodawn.net/tdr-kotelnikov/) | [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/)
+[tokyodawn.net (official)](https://www.tokyodawn.net/tdr-kotelnikov/) | [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/)
 
 *Watch the demo:* [YouTube](https://www.youtube.com/watch?v=Cpokm0j1DXQ)
 
@@ -173,7 +173,7 @@ DC1A offers an Input knob and a Dry/Wet knob, with two compression character mod
 
 **Skip it if:** you need precise control or metering — there is no ratio, attack, release, or gain-reduction meter here, so mastering work and technical dynamics matching call for something with real gauges.
 
-[Plugin Boutique](https://klanghelm.com/contents/products/DC1A) | [→ Download DC1A Free](https://klanghelm.com/contents/products/DC1A)
+[klanghelm.com (official)](https://klanghelm.com/contents/products/DC1A) | [→ Download DC1A Free](https://klanghelm.com/contents/products/DC1A)
 
 ---
 
@@ -276,7 +276,7 @@ OTT (Over The Top) applies three-band upward compression — bringing quiet part
 
 **Skip it if:** you want subtlety on acoustic or organic material — upward compression raises the noise floor and pulls up every detail, so it turns artificial fast on anything that needs to breathe.
 
-[Plugin Boutique](https://xferrecords.com/freeware) | [→ Download OTT Free](https://xferrecords.com/freeware)
+[xferrecords.com (official)](https://xferrecords.com/freeware) | [→ Download OTT Free](https://xferrecords.com/freeware)
 
 *Watch the demo:* [YouTube](https://www.youtube.com/watch?v=ECm6J-68_i0)
 
@@ -334,17 +334,17 @@ The honest timing rule: none of these is ever urgent. Waves and UAD run sales so
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| TDR Kotelnikov | Free | Transparent | Mastering-grade, all platforms | [Plugin Boutique](https://www.tokyodawn.net/tdr-kotelnikov/) |
+| TDR Kotelnikov | Free | Transparent | Mastering-grade, all platforms | [tokyodawn.net (official)](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Cockos ReaComp | Free | Precision utility | Sidechain, any DAW | [Get It](https://www.cockos.com/reaper/reaplugs/) |
 | Molot | Free | Vintage character | Soviet-era punch, harmonic saturation | [Free Download](https://vladgsound.wordpress.com/plugins/molot/) |
 | Klanghelm MJUC jr. | Free | Variable-mu | Tube warmth, program-dependent release | [Get It](https://klanghelm.com/contents/products/MJUC) |
 | Analog Obsession RNLA | Free | Optical | LA-style leveling, musical on vocals | [Get It](https://www.analogobsession.com/) |
-| DC1A | Free | Simple/musical | 2 controls, always correct | [Plugin Boutique](https://klanghelm.com/contents/products/DC1A) |
+| DC1A | Free | Simple/musical | 2 controls, always correct | [klanghelm.com (official)](https://klanghelm.com/contents/products/DC1A) |
 | Density mkIII | Free | Bus compressor | 4 characters, analog glue, Windows | [Get It](https://varietyofsound.wordpress.com/) |
 | GVST GComp2 | Free | Utility | Predictable, Windows | [Get It](https://gvst.uk/gcomp.htm) |
 | Rough Rider 3 | Free | Aggressive/drums | Built-in parallel blend, high ratio | [Get It](https://www.pluginboutique.com/product/2-Effects/8-Compressor/6100-Rough-Rider-3?a_aid=69cb95abe1763&chan=art&data1=best-free-compressor-vst-plugins) |
 | Limiter No6 | Free | Multi-stage | Compressor + limiter + clipper chain | [Get It](https://vladgsound.wordpress.com/plugins/limiter6/) |
-| OTT | Free | Multiband upward | EDM standard, Depth control | [Plugin Boutique](https://xferrecords.com/freeware) |
+| OTT | Free | Multiband upward | EDM standard, Depth control | [xferrecords.com (official)](https://xferrecords.com/freeware) |
 | FabFilter Pro-C 3 | $199 | Multi-mode | 14 styles, M/S, sidechain EQ | [Get It](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&chan=art&data1=best-free-compressor-vst-plugins) |
 | Waves SSL G-Master Buss | From $29.99 | Hardware emulation | Classic 2-bus console glue | [Get It](https://www.pluginboutique.com/product/2-Effects/8-Compressor/13690-SSL-G-Master-Buss-Compressor?a_aid=69cb95abe1763&chan=art&data1=best-free-compressor-vst-plugins) |
 

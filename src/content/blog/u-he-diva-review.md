@@ -1,7 +1,7 @@
 ---
 heroImage: "/images/u-he-diva-review.jpg"
-title: "u-he Diva Review 2026: The Analog Synthesizer Emulation That Changed Everything"
-description: "u-he Diva remains the most convincing analog synthesizer emulation in software — its circuit-level oscillator and filter modeling produces warmth, drift,"
+title: "u-he Diva Overview 2026: Pricing, Versions and Specs"
+description: "u-he Diva Overview 2026: Pricing, Versions and Specs. A summary of published specifications and price information."
 pubDate: "2026-05-06T02:10:19Z"
 tags: ["guide", "vst", "instruments", "review", "synth"]
 affiliate: ""
@@ -10,6 +10,8 @@ score: 8.00
 xText: "New guide: u-he Diva Review: The Analog Synthesizer Emulation That Chan..."
 draft: false
 ---
+
+This page is based on published specifications and price records. It does not assess sound quality.
 **TL;DR:** u-he Diva remains the most convincing analog synthesizer emulation in software — its circuit-level oscillator and filter modeling produces warmth, drift, and harmonic saturation that no preset bank can fake. At $179, it demands CPU headroom and a deliberate workflow, but producers who commit to it gain an instrument that genuinely bridges the gap between software and hardware.
 
 <div class="video-embed">

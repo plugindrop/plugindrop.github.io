@@ -26,7 +26,7 @@ This guide ranks the 12 best saturation plugins 2026 producers are actually buyi
 |--------|-------|----------|--------|
 | FabFilter Saturn 2 | $149 | Multiband saturation, mastering | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/30-Distortion/6423-FabFilter-Saturn-2?a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
 | Soundtoys Decapitator | $199 | Analog amp drive, aggressive color | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
-| Klanghelm SDRR | see Klanghelm for price | Budget studio saturation, 4 models | [Plugin Boutique](https://klanghelm.com/contents/products/SDRR) |
+| Klanghelm SDRR | see Klanghelm for price | Budget studio saturation, 4 models | [klanghelm.com (official)](https://klanghelm.com/contents/products/SDRR) |
 | Saturation Knob | Free | One-knob parallel saturation on any track | [Free Download](https://www.pluginboutique.com/search?q=Free%20Download&a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
 | IVGI | Free | Subtle analog console warmth | [Free Download](https://klanghelm.com/contents/products/IVGI) |
 | RC-20 Retro Color | $99 | Vintage tape aesthetic on synths & samples | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/3016-RC-20-Retro-Color?a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |

@@ -79,7 +79,7 @@ Purchasing separate professional-grade libraries for Rhodes, Wurlitzer, and CP-8
 
 **Best for:** Producers who need Rhodes, Wurlitzer, and CP-80 coverage from a single instrument, or who do session work requiring versatility across multiple electric piano types.
 
-[→ Get Keyscape (via Plugin Boutique)](https://www.spectrasonics.net/products/omnisphere/)
+[spectrasonics.net (official)](https://www.spectrasonics.net/products/omnisphere/)
 
 ---
 
@@ -150,7 +150,7 @@ Neither free plugin covers Wurlitzer or CP-80 sounds, which is a meaningful gap 
 - **Price:** $399
 - **Why upgrade:** No other instrument — including Scarbee Mark I and Lounge Lizard EP-4 combined — covers the full Rhodes, Wurlitzer, and CP-80 spectrum at Keyscape's sampling depth. For producers who need all three instrument types at a professional level, it consolidates what would otherwise require multiple purchases.
 
-[→ Get Keyscape (via Plugin Boutique)](https://www.spectrasonics.net/products/omnisphere/)
+[spectrasonics.net (official)](https://www.spectrasonics.net/products/omnisphere/)
 
 ---
 
@@ -158,7 +158,7 @@ Neither free plugin covers Wurlitzer or CP-80 sounds, which is a meaningful gap 
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Keyscape | $399 | Sample-based | Rhodes, Wurlitzer, CP-80 at 77GB depth; Custom Controls per instrument | [Get Keyscape (Plugin Boutique)](https://www.spectrasonics.net/products/omnisphere/) |
+| Keyscape | $399 | Sample-based | Rhodes, Wurlitzer, CP-80 at 77GB depth; Custom Controls per instrument | [spectrasonics.net (official)](https://www.spectrasonics.net/products/omnisphere/) |
 | Scarbee Mark I | ~$99 | Sample-based | Exhaustive Mark I sampling; tine/damper noise; NI ecosystem; Kontakt Player included | [Get it](https://www.native-instruments.com/en/products/komplete/keys/scarbee-mark-i/) |
 | Lounge Lizard EP-4 | ~$99 | Physical modeling | Tweakable Rhodes & Wurlitzer; low disk footprint; exceptional dynamic response | [Get it](https://www.applied-acoustics.com/lounge-lizard-ep-4/) |
 | Arturia Stage-73 V | ~$99 | Hybrid modeling | V Collection integration; multiple Suitcase/Stage configurations | — |
@@ -208,7 +208,7 @@ A: In many production contexts, yes — particularly where you process the signa
 
 Keyscape is the option here for producers who reach for electric piano sounds regularly — it covers Rhodes, Wurlitzer, and CP-80 models in one library. For producers who focus primarily on Rhodes and want a lower entry price, Scarbee Mark I is a Rhodes-only sample library.
 
-[→ Get Keyscape — the most comprehensive electric piano library available (via Plugin Boutique)](https://www.spectrasonics.net/products/omnisphere/)
+[spectrasonics.net (official)](https://www.spectrasonics.net/products/omnisphere/)
 
 ---
 

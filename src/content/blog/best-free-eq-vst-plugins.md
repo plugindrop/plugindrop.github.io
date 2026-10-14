@@ -22,7 +22,7 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| TDR Nova | Free | Dynamic EQ — mixing & mastering | [Plugin Boutique](https://www.tokyodawn.net/tdr-nova/) |
+| TDR Nova | Free | Dynamic EQ — mixing & mastering | [tokyodawn.net (official)](https://www.tokyodawn.net/tdr-nova/) |
 | Voxengo Marvel GEQ | Free | Linear phase graphic EQ | [Plugin Boutique](https://www.pluginboutique.com/search?q=Voxengo%20Marvel%20GEQ&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
 | MEqualizer | Free | Feature-complete parametric EQ | [Plugin Boutique](https://www.pluginboutique.com/search?q=MeldaProduction%20MEqualizer&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
 | Baxter EQ | Free | Analog color on mix channels | [Plugin Boutique](https://www.pluginboutique.com/search?q=Baxter%20EQ&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
@@ -61,7 +61,7 @@ TDR Nova is a parallel dynamic equalizer with four fully parametric bands, switc
 
 [→ Watch TDR Nova in action on YouTube](https://www.youtube.com/watch?v=1CHFv4mWQYM)
 
-[Free Download](https://www.tokyodawn.net/tdr-nova/) | [Plugin Boutique](https://www.tokyodawn.net/tdr-nova/)
+[Free Download](https://www.tokyodawn.net/tdr-nova/) | [tokyodawn.net (official)](https://www.tokyodawn.net/tdr-nova/)
 
 ---
 
@@ -284,7 +284,7 @@ Voxengo's Overtone GEQ takes a different approach to equalization by working wit
 
 | Plugin | Price | Type | Highlights | Get It |
 |--------|-------|------|------------|--------|
-| TDR Nova | Free | Dynamic parametric | Dynamic bands, spectrum analyzer | [Plugin Boutique](https://www.tokyodawn.net/tdr-nova/) |
+| TDR Nova | Free | Dynamic parametric | Dynamic bands, spectrum analyzer | [tokyodawn.net (official)](https://www.tokyodawn.net/tdr-nova/) |
 | MEqualizer | Free | Parametric | 6 bands, A/B, oscilloscope | [Plugin Boutique](https://www.pluginboutique.com/search?q=MeldaProduction%20MEqualizer&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
 | Baxter EQ | Free | Analog-style | British console character | [Plugin Boutique](https://www.pluginboutique.com/search?q=Baxter%20EQ&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
 | Blue Cat's Triple EQ | Free | Semi-parametric | 3 bands, ultra-fast workflow | [Developer Site](https://www.bluecataudio.com/Products/Product_TripleEQ/) |
@@ -350,7 +350,7 @@ The free tools here cover about 90% of what most producers do. When the remainin
 
 The best free EQ VST plugin in 2026 is **TDR Nova** — it is dynamic, transparent, and competitive with tools that cost real money, and there is no reasonable argument for not having it installed. The other nine picks on this list are each genuinely useful in their specific lane: linear phase mastering, analog console character, Pultec vintage coloring, and unlimited surgical precision. When you are ready to invest, **FabFilter Pro-Q 4** is the one upgrade that will change how you think about equalization.
 
-[Plugin Boutique](https://www.tokyodawn.net/tdr-nova/)
+[tokyodawn.net (official)](https://www.tokyodawn.net/tdr-nova/)
 
 ---
 
