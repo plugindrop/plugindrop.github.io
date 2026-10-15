@@ -29,29 +29,27 @@ jobs:
       - run: npm ci
       - name: Check duplicate frontmatter keys
         run: |
-          python3 - <<'PY'
-          from pathlib import Path
-          import re
-          import sys
-          bad = []
-          for path in sorted(Path('src/content/blog').glob('*.md')):
-              lines = path.read_bytes().splitlines()
-              if not lines or lines[0].strip() != b'---':
-                  continue
-              seen = set()
-              for line in lines[1:]:
-                  if line.strip() == b'---':
-                      break
-                  match = re.match(rb'^([A-Za-z_][A-Za-z0-9_-]*):(?:\s|$)', line)
-                  if match:
-                      key = match.group(1)
-                      if key in seen:
-                          bad.append(f'{path}: {key.decode()}')
-                      seen.add(key)
-          for finding in bad:
-              print(f'duplicate frontmatter key: {finding}')
-          sys.exit(bool(bad))
-          PY
+          node --input-type=module <<'JS'
+          import fs from 'node:fs';
+          import path from 'node:path';
+          import yaml from 'js-yaml';
+          const dir = 'src/content/blog';
+          let bad = false;
+          for (const name of fs.readdirSync(dir).filter(x => x.endsWith('.md')).sort()) {
+            const file = path.join(dir, name);
+            const lines = fs.readFileSync(file, 'utf8').split(/\r?\n/);
+            if (lines[0]?.trim() !== '---') continue;
+            const end = lines.findIndex((line, i) => i > 0 && line.trim() === '---');
+            try {
+              if (end < 0) throw new Error('frontmatter closing delimiter missing');
+              yaml.load(lines.slice(1, end).join('\n'));
+            } catch (error) {
+              console.error(`${file}: ${error.message}`);
+              bad = true;
+            }
+          }
+          if (bad) process.exitCode = 1;
+          JS
       - run: npx astro build
       - name: Quarantine content findings and notify in Actions
         run: node scripts/quarantine_content.mjs

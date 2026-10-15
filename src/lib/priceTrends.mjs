@@ -92,7 +92,7 @@ export function weeklyPriceFacts(data, asOf = new Date(`${data.last_updated ?? '
         if (!onSale && wasSale) endedSales++;
         if (priorLow < Infinity && Number.isFinite(row.sale) && row.sale >= 0 && row.sale < priorLow) newLows.push({ name: product.name, slug: product.slug, price: row.sale, date: row.date });
       }
-      for (const price of [row.regular, row.sale]) {
+      for (const price of [row.reg_src === 'typical' ? null : row.regular, row.sale]) {
         if (Number.isFinite(price) && price >= 0) priorLow = Math.min(priorLow, price);
       }
       wasSale = onSale;

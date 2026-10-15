@@ -48,8 +48,8 @@ Morph 3 is a sound design plugin from Zynaptiq, a company known for spectral aud
 | | Price |
 |---|---|
 | Regular Price | ~~$149~~ |
-| Deal Price | $69 |
-| You Save | $80 (53%) |
+| Observed sale price (before 2026-09-25) | $69 |
+| Observed discount at that time | $80 (53%) |
 
 Zynaptiq doesn't discount its catalog constantly, so a 53% cut is a notable markdown for this brand.
 
@@ -59,7 +59,7 @@ Zynaptiq doesn't discount its catalog constantly, so a 53% cut is a notable mark
 
 | Name | Price | Key Difference |
 |---|---|---|
-| Zynaptiq Morph 3 | $69 (deal) | Dedicated real-time spectral morphing between two sources. |
+| Zynaptiq Morph 3 | $69 (historical; check current price) | Dedicated real-time spectral morphing between two sources. |
 | Native Instruments Reaktor 6 | Check vendor site | Modular synthesis environment where morphing is one of many buildable functions, not a purpose-built tool. |
 | Zynaptiq Unmix::Drums | Check vendor site | Source separation for drum stems rather than sound morphing — a different Zynaptiq tool for a different job. |
 
@@ -77,7 +77,7 @@ A: Zynaptiq products commonly use iLok or online activation for licensing.
 A: This deal is listed as a perpetual license purchase at PluginFox, not a subscription. Confirm license terms on the product page before buying.
 
 **Q: Will the price go lower than $69?**
-A: There's no way to guarantee future pricing. Given how infrequently Zynaptiq discounts its plugins, a 53% markdown is already a strong entry point compared to typical list price.
+A: There's no way to guarantee future pricing. Given how infrequently Zynaptiq discounts its plugins, the previously observed 53% markdown was substantial compared with the listed regular price, but the current offer is unconfirmed.
 
 ## Get the Deal
 
@@ -85,7 +85,7 @@ The observed $69 price was $80 below the listed $149 regular price. This is a hi
 
 ## Is This Deal Worth It?
 
-Zynaptiq isn't a brand that runs frequent flash sales, so a 53% discount stands out against its usual pricing pattern. This appears to be a perpetual license rather than a subscription, meaning the purchase is a one-time cost with no recurring fees. For producers who already do sound design work and have been eyeing a morphing tool, this is a reasonable time to buy rather than wait, since deals at this depth from Zynaptiq are not something to count on recurring soon.
+Zynaptiq isn't a brand that runs frequent flash sales, so a 53% discount stands out against its usual pricing pattern. This appears to be a perpetual license rather than a subscription, meaning the purchase is a one-time cost with no recurring fees. For producers who already do sound design work and have been eyeing a morphing tool, that observed discount was substantial, but it expired or has not been reconfirmed. Check the current listing before deciding.
 
 ## Related Guides
 

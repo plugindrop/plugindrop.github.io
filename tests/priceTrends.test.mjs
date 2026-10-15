@@ -59,6 +59,15 @@ test('a sale above an earlier regular price is not a new observed low', () => {
   assert.deepEqual(weeklyPriceFacts({ plugins: { 'FabFilter C': { history } } }, new Date('2026-07-03T00:00:00Z')).newLows, []);
 });
 
+test('typical regular price does not establish a tracked prior low', () => {
+  const history = [
+    { date: '2026-07-01', regular: 50, sale: null, reg_src: 'typical', source: 'auto_check' },
+    { date: '2026-07-02', regular: 100, sale: 80, source: 'auto_check' },
+    { date: '2026-07-03', regular: 100, sale: 60, source: 'auto_check' },
+  ];
+  assert.deepEqual(weeklyPriceFacts({ plugins: { 'FabFilter C': { history } } }, new Date('2026-07-03T00:00:00Z')).newLows.map(x => x.price), [60]);
+});
+
 test('missing categories are inferred and do not accumulate as Other', () => {
   const categories = productsOf(data).map(product => product.category);
   assert.equal(categories.includes('Other'), false);
