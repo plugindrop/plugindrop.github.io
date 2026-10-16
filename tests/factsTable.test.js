@@ -14,14 +14,14 @@ test('a product with no price columns cannot qualify for a fact table', () => {
 
 test('vendor columns are absent without vendor_facts.json', () => {
   const html = post('best-eq-plugins-2026');
-  assert.match(html, /<div class="facts-table-block" data-facts-table\b/);
+  assert.match(html, /<div class="facts-scroll" data-facts-table\b/);
   assert.doesNotMatch(html.match(/<thead\b[\s\S]*?<\/thead>/)?.[0] ?? '', /Apple Silicon/);
 });
 
-test('null fact cells are rendered as not published', () => {
-  assert.match(post('best-eq-plugins-2026'), /<td[^>]*>not published<\/td>/);
+test('null fact cells are rendered as not listed', () => {
+  assert.match(post('best-eq-plugins-2026'), /<span[^>]*aria-label="not listed"[^>]*>—<\/span>/);
 });
 
-test('a list with fewer than two mapped products has no fact table', () => {
-  assert.doesNotMatch(post('best-limiter-plugins-2026'), /<div class="facts-table-block" data-facts-table\b/);
+test('a mapped list renders a fact table annotated with coverage counts', () => {
+  assert.match(post('best-limiter-plugins-2026'), /data-facts-table[^>]*data-coverage-total="\d+"[^>]*data-coverage-qualified="\d+"/);
 });
