@@ -986,6 +986,13 @@
     "score": 12,
     "source": "yt_api_fill"
   },
+  "Kilohearts Slice EQ": {
+    "video_id": "Gdvn5qqRfwQ",
+    "title": "Slice EQ by Kilohearts - Professional Parametric Equalizer",
+    "channel": "Kilohearts",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "LANG PEQ-2": {
     "video_id": "ngJGDq7ayg4",
     "title": "Heritage Audio - Lang Electronics Inc. LANG PEQ-2 audio demos.",
@@ -1455,6 +1462,13 @@
     "score": 10,
     "source": "yt_api_fill"
   },
+  "Softube Summit Audio TLA-100A": {
+    "video_id": "6CTycw2MU-4",
+    "title": "Softube | Summit Audio TLA 100A | Sounds Like This (No Talking)",
+    "channel": "Sounds Like This",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "Softube Tape": {
     "video_id": "EfQAARGyev0",
     "title": "Softube Tape Demo by SO",
@@ -1556,6 +1570,13 @@
   "Soundtoys Devil-Loc Deluxe": {
     "video_id": "tJbQCzfd8mY",
     "title": "How to Crush It With Soundtoys Devil-Loc Deluxe",
+    "channel": "soundtoys",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Soundtoys EchoBoy": {
+    "video_id": "Zf3bHoQn7pY",
+    "title": "Soundtoys EchoBoy Rhythm Mode: Warp",
     "channel": "soundtoys",
     "score": 11,
     "source": "yt_api_fill"
@@ -1663,6 +1684,13 @@
     "title": "Spitfire Cinematic Soft Piano - Song Demo",
     "channel": "Warren Wilcock",
     "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Spitfire Studio Orchestra": {
+    "video_id": "bGp89SV-maI",
+    "title": "Contextual: Spitfire Studio Orchestra",
+    "channel": "Spitfire Audio",
+    "score": 11,
     "source": "yt_api_fill"
   },
   "Spitfire Symphony Orchestra": {
