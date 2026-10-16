@@ -6,6 +6,7 @@ const record = priceRecord(entry);
 ---
 <section class="price-record" aria-label="Price record" data-price-record data-product-url={entry?.pb_url ?? ''} data-observed-date={record.observed?.date ?? ''} data-observed-price={record.observed?.price ?? ''} data-observations={record.checks}>
   <h2>Price record</h2>
+  {record.observed && <p class="latest-observation">Latest observed price: ${Number(record.observed.price).toFixed(2)} on {record.observed.date}</p>}
   {!record.enough ? <p>{record.checks ? `${record.checks} checks observed; not enough sale episodes yet` : 'No confirmed price observations yet'}</p> : <ul>
     <li>Observed {record.from} to {record.to}: {record.checks} checks</li>
     <li>{record.episodes} sale episodes observed</li>

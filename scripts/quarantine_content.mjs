@@ -56,7 +56,7 @@ for (const file of fs.readdirSync(blog).filter(name => name.endsWith('.md'))) {
   const front = /^---\r?\n([\s\S]*?)\r?\n---/.exec(text);
   const data = front ? yaml.load(front[1]) : {};
   if (data?.draft === true) continue;
-  const trackerEnded = isPostDealEnded({ data, body: text }, trackerEntries);
+  const trackerEnded = isPostDealEnded({ id: slug, data, body: text }, trackerEntries);
   for (const reason of lintContent(text, todayLocal(), { trackerEnded })) add(slug, reason);
   if (/installed and ready to use, enjoy!|郢ｧ|邵ｺ/.test(text)) add(slug, 'corrupt specification text');
   if (/\|\s*Ozone Imager 2\s*\|[^\n]*Ozone-12-Advanced/i.test(text)) add(slug, 'free item links to paid product');

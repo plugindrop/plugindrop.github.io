@@ -24,8 +24,8 @@ test('heading aliases and unmatched headings enter denominator', () => {
 
 test('research-only history never creates a Today price', () => {
   const priceEntries = Object.fromEntries(['A', 'B'].map((name) => [name, { pb_url: 'https://www.pluginboutique.com/product', history: [{ date: '2020-01-01', source: 'research', regular: 100, sale: 50 }] }]));
-  const model = buildCompareModel(input(['A', 'B'], {}, { slug: 'paid-list', priceEntries }));
-  assert.ok(model.rows.every((row) => !row.prices.today));
+  assert.equal(comparePrices(priceEntries.A, Date.parse('2026-10-15')).today, null);
+  assert.equal(comparePrices(priceEntries.B, Date.parse('2026-10-15')).today, null);
 });
 
 test('stale observed prices have episodes and typical values but no Today', () => {
