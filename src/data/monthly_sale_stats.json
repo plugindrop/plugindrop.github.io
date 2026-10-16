@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15",
+  "generated_at": "2026-10-16",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-10",
       "label": "October 2026",
       "is_current": true,
-      "generated_at": "2026-10-15",
-      "observations": 1514,
-      "products_tracked": 507,
-      "products_on_sale": 162,
-      "on_sale_pct": 32.0,
-      "avg_discount_pct": 57.3,
-      "median_discount_pct": 61.0,
+      "generated_at": "2026-10-16",
+      "observations": 1639,
+      "products_tracked": 508,
+      "products_on_sale": 167,
+      "on_sale_pct": 32.9,
+      "avg_discount_pct": 57.6,
+      "median_discount_pct": 61,
       "discount_buckets": {
         "1-19": 11,
         "20-39": 22,
-        "40-59": 41,
-        "60+": 88
+        "40-59": 43,
+        "60+": 91
       },
-      "all_time_low_hits": 117,
+      "all_time_low_hits": 122,
       "deepest_discounts": [
         {
           "name": "TOTAL VI MAX 2",
@@ -286,10 +286,10 @@
       "by_category": [
         {
           "category": "Other",
-          "tracked": 355,
-          "on_sale": 120,
-          "on_sale_pct": 33.8,
-          "avg_discount_pct": 60.1
+          "tracked": 356,
+          "on_sale": 124,
+          "on_sale_pct": 34.8,
+          "avg_discount_pct": 60.3
         },
         {
           "category": "Synth",
@@ -317,28 +317,28 @@
           "tracked": 14,
           "on_sale": 6,
           "on_sale_pct": 42.9,
-          "avg_discount_pct": 62.8
+          "avg_discount_pct": 63.5
         },
         {
           "category": "EQ",
           "tracked": 11,
           "on_sale": 3,
           "on_sale_pct": 27.3,
-          "avg_discount_pct": 63.3
+          "avg_discount_pct": 65.7
         },
         {
           "category": "Reverb",
           "tracked": 11,
           "on_sale": 5,
           "on_sale_pct": 45.5,
-          "avg_discount_pct": 64.6
+          "avg_discount_pct": 66
         },
         {
           "category": "Saturation",
           "tracked": 10,
-          "on_sale": 4,
-          "on_sale_pct": 40.0,
-          "avg_discount_pct": 45.8
+          "on_sale": 5,
+          "on_sale_pct": 50.0,
+          "avg_discount_pct": 50.6
         },
         {
           "category": "Bundle",
@@ -352,7 +352,7 @@
           "tracked": 9,
           "on_sale": 3,
           "on_sale_pct": 33.3,
-          "avg_discount_pct": 44.3
+          "avg_discount_pct": 45.7
         },
         {
           "category": "Utility",
@@ -393,10 +393,10 @@
       "by_brand": [
         {
           "category": "Other",
-          "tracked": 163,
-          "on_sale": 75,
-          "on_sale_pct": 46.0,
-          "avg_discount_pct": 59.7
+          "tracked": 164,
+          "on_sale": 78,
+          "on_sale_pct": 47.6,
+          "avg_discount_pct": 60.1
         },
         {
           "category": "Universal Audio",
@@ -429,9 +429,9 @@
         {
           "category": "Soundtoys",
           "tracked": 17,
-          "on_sale": 3,
-          "on_sale_pct": 17.6,
-          "avg_discount_pct": 28.3
+          "on_sale": 4,
+          "on_sale_pct": 23.5,
+          "avg_discount_pct": 38.8
         },
         {
           "category": "FabFilter",
@@ -443,9 +443,9 @@
         {
           "category": "Baby Audio",
           "tracked": 15,
-          "on_sale": 1,
-          "on_sale_pct": 6.7,
-          "avg_discount_pct": 51
+          "on_sale": 2,
+          "on_sale_pct": 13.3,
+          "avg_discount_pct": 49
         },
         {
           "category": "Minimal Audio",
@@ -466,7 +466,7 @@
           "tracked": 14,
           "on_sale": 13,
           "on_sale_pct": 92.9,
-          "avg_discount_pct": 73.9
+          "avg_discount_pct": 75.6
         },
         {
           "category": "Arturia",
@@ -618,16 +618,16 @@
       ],
       "vs_previous_month": {
         "month": "2026-09",
-        "on_sale_pct_delta": -22.2,
-        "avg_discount_pct_delta": -0.5,
-        "products_tracked_delta": -10
+        "on_sale_pct_delta": -21.3,
+        "avg_discount_pct_delta": -0.2,
+        "products_tracked_delta": -9
       }
     },
     {
       "month": "2026-09",
       "label": "September 2026",
       "is_current": false,
-      "generated_at": "2026-10-15",
+      "generated_at": "2026-10-16",
       "observations": 3603,
       "products_tracked": 517,
       "products_on_sale": 280,
@@ -1258,7 +1258,7 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-10-15",
+      "generated_at": "2026-10-16",
       "observations": 3587,
       "products_tracked": 425,
       "products_on_sale": 258,
@@ -1271,7 +1271,7 @@
         "40-59": 91,
         "60+": 95
       },
-      "all_time_low_hits": 199,
+      "all_time_low_hits": 198,
       "deepest_discounts": [
         {
           "name": "Platinum",
@@ -1854,7 +1854,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-10-15",
+      "generated_at": "2026-10-16",
       "observations": 1968,
       "products_tracked": 289,
       "products_on_sale": 142,
@@ -1867,7 +1867,7 @@
         "40-59": 52,
         "60+": 61
       },
-      "all_time_low_hits": 109,
+      "all_time_low_hits": 108,
       "deepest_discounts": [
         {
           "name": "CARBON",
