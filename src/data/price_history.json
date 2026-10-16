@@ -13020,6 +13020,54 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2022-11-22",
+          "regular": 56.53,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-02-04",
+          "regular": 59.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-03-06",
+          "regular": 59.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-08-04",
+          "regular": 47.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-08-06",
+          "regular": 59.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-01-13",
+          "regular": 59.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-03-18",
+          "regular": 47.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-07-06",
+          "regular": 59.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/cherry-audio-gx-80.jpg"
@@ -15062,6 +15110,36 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2023-07-11",
+          "regular": 46.5,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-05-08",
+          "regular": 45.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-07-22",
+          "regular": 39.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-03-18",
+          "regular": 39.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-04-22",
+          "regular": 49.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/cherry-audio-octave-cat.jpg"
@@ -15182,6 +15260,12 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2025-03-18",
+          "regular": 53.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/cherry-audio-p-10-synthesizer.jpg"
