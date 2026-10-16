@@ -46,7 +46,7 @@ The smart essentials Bundle is a collection of AI-powered mixing and mastering p
 | FabFilter mixing bundle | Higher price point | Manual-first approach, aimed at precision work |
 | Sonible smart: plugins (individual) | Higher total cost | Buy only what you need if the full bundle has overlap with tools you own |
 
-If you prefer a manual, hands-on mixing philosophy, FabFilter's individual tools give more surgical control. If AI-guided processing aligns with your workflow and you need several mixing tools at once, the smart essentials Bundle covers more ground per dollar at this sale price.
+If AI-guided processing aligns with your workflow and you need several mixing tools at once, the smart essentials Bundle covers more ground per dollar at this sale price.
 
 ---
 

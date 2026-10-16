@@ -23,9 +23,9 @@ priceTrack:
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | TDR Nova | Free | Dynamic EQ — mixing & mastering | [tokyodawn.net (official)](https://www.tokyodawn.net/tdr-nova/) |
-| Voxengo Marvel GEQ | Free | Linear phase graphic EQ | [Plugin Boutique](https://www.pluginboutique.com/search?q=Voxengo%20Marvel%20GEQ&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
-| MEqualizer | Free | Feature-complete parametric EQ | [Plugin Boutique](https://www.pluginboutique.com/search?q=MeldaProduction%20MEqualizer&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
-| Baxter EQ | Free | Analog color on mix channels | [Plugin Boutique](https://www.pluginboutique.com/search?q=Baxter%20EQ&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
+| Voxengo Marvel GEQ | Free | Linear phase graphic EQ | [Voxengo Marvel GEQ (official site)](https://www.voxengo.com/product/marvelgeq/) |
+| MEqualizer | Free | Feature-complete parametric EQ | — |
+| Baxter EQ | Free | Analog color on mix channels | — |
 | LP10 | Paid (free demo) | Flexible-phase 10-band EQ | [Plugin Boutique](https://www.pluginboutique.com/search?q=LP10%20EQ%20plugin&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
 | TDR SlickEQ | Free | Bus EQ with musical saturation | [Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/) |
 | ReaEQ | Free | Unlimited-band surgical mixing | [Free Download](https://www.reaper.fm/reaplugs/) |
@@ -53,7 +53,7 @@ EQ done badly gives you dull vocals, a boxy low-mid honk, and masters that fall 
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
-TDR Nova is a parallel dynamic equalizer with four fully parametric bands, switchable high-pass and low-pass filters, and a real-time spectrum analyzer built in. What separates it from every other free EQ is the dynamic section — each band can behave as a standard static filter or react to the incoming signal level, giving you de-essing, resonance control, and transparent dynamic correction without reaching for a separate compressor. The sound quality is genuinely professional, and the interface rewards both quick corrective moves and deep technical work.
+TDR Nova is a parallel dynamic equalizer with four fully parametric bands, switchable high-pass and low-pass filters, and a real-time spectrum analyzer built in. What separates it from every other free EQ is the dynamic section — each band can behave as a standard static filter or react to the incoming signal level, giving you de-essing, resonance control, and transparent dynamic correction without reaching for a separate compressor.
 
 **Best for:** Any engineer who wants one free EQ that handles tracking, mixing, and mastering without compromise.
 
@@ -285,11 +285,11 @@ Voxengo's Overtone GEQ takes a different approach to equalization by working wit
 | Plugin | Price | Type | Highlights | Get It |
 |--------|-------|------|------------|--------|
 | TDR Nova | Free | Dynamic parametric | Dynamic bands, spectrum analyzer | [tokyodawn.net (official)](https://www.tokyodawn.net/tdr-nova/) |
-| MEqualizer | Free | Parametric | 6 bands, A/B, oscilloscope | [Plugin Boutique](https://www.pluginboutique.com/search?q=MeldaProduction%20MEqualizer&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
-| Baxter EQ | Free | Analog-style | British console character | [Plugin Boutique](https://www.pluginboutique.com/search?q=Baxter%20EQ&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
+| MEqualizer | Free | Parametric | 6 bands, A/B, oscilloscope | — |
+| Baxter EQ | Free | Analog-style | British console character | — |
 | Blue Cat's Triple EQ | Free | Semi-parametric | 3 bands, ultra-fast workflow | [Developer Site](https://www.bluecataudio.com/Products/Product_TripleEQ/) |
 | ReaEQ | Free | Parametric | Unlimited bands | [Developer Site](https://www.reaper.fm/reaplugs/) |
-| Voxengo Marvel GEQ | Free | Linear phase graphic | 16 bands, zero phase distortion | [Plugin Boutique](https://www.pluginboutique.com/search?q=Voxengo%20Marvel%20GEQ&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
+| Voxengo Marvel GEQ | Free | Linear phase graphic | 16 bands, zero phase distortion | [Voxengo Marvel GEQ (official site)](https://www.voxengo.com/product/marvelgeq/) |
 | LP10 | Paid (free demo) | Selectable phase (linear / minimum / inverse minimum) | Up to 10 bands | [Plugin Boutique](https://www.pluginboutique.com/search?q=LP10%20EQ%20plugin&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins) |
 | TDR SlickEQ | Free | Bus/mastering EQ | Musical saturation, 3 bands | [Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/) |
 | Ignite Amps PTEq-X | Free | Passive/vintage | Pultec character, low-end shaping | [Developer Site](https://www.igniteamps.com/) |

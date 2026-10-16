@@ -2003,7 +2003,7 @@
       "AU",
       "AAX"
     ],
-    "mac_req": "OS X macOS 10.13 or higher; CPU: Apple Silicon or Intel processor; Plugins: VST-2, VST-3, AU, AAX, OTHER",
+    "mac_req": "",
     "win_req": "Windows 11, 10, 8, 7 or Vista; Plugins: VST-2, VST-3, AAX, OTHER",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4",
     "retrieved_on": "2026-09-28"

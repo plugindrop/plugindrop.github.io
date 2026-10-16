@@ -53,7 +53,7 @@ Free preset expansions for established synths tend to generate quick uptake in d
 
 ## Pricing & Deal Details
 
-| Regular Price | Deal Price | You Save |
+| Regular Price | Last observed price | You Save |
 |---|---|---|
 | ~~Paid~~ | **Free** | 100% |
 

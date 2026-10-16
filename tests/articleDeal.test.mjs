@@ -85,7 +85,7 @@ test('findTrackerEntryForPost: priceTrack[0] exact key match wins first', () => 
     'Amber 2': entry(),
     'Some Other Name': entry(),
   };
-  const p = post({ title: 'Unrelated Title', priceTrack: ['Amber 2'] });
+  const p = post({ title: 'Unrelated Title', priceTrack: ['Amber 2'], affiliate: '' });
   const match = findTrackerEntryForPost(p, entries, '');
   assert.equal(match.name, 'Amber 2');
 });
@@ -95,19 +95,19 @@ test('findTrackerEntryForPost: exact title-slug match, never partial', () => {
     'SOLID 2': entry(),
     'SOLID 2 Expansion': entry(),
   };
-  const p = post({ title: 'SOLID 2' });
+  const p = post({ title: 'SOLID 2', affiliate: '' });
   const match = findTrackerEntryForPost(p, entries, '');
   assert.equal(match.name, 'SOLID 2');
 });
 
-test('findTrackerEntryForPost: no exact slug match -> falls through to body PB id', () => {
+test('findTrackerEntryForPost: alternative body PB id cannot establish article identity', () => {
   const entries = {
     'Zenology Pro': entry({ pb_url: '/product/instruments/synth/42317-zenology-pro' }),
   };
   const p = post({ title: 'Cheapest Way to Get a Rompler in 2026' });
   const rawBody = 'Check it out: https://www.pluginboutique.com/product/instruments/synth/42317-zenology-pro';
   const match = findTrackerEntryForPost(p, entries, rawBody);
-  assert.equal(match.name, 'Zenology Pro');
+  assert.equal(match, null);
 });
 
 test('findTrackerEntryForPost: ambiguous body id across 2+ entries narrows by name, else null', () => {
@@ -121,18 +121,32 @@ test('findTrackerEntryForPost: ambiguous body id across 2+ entries narrows by na
   const narrowed = findTrackerEntryForPost(ambiguousTitlePost, entries, rawBody);
   assert.equal(narrowed, null);
 
-  // "Widget A - ..." -> productNameOf strips to "Widget A", which is a
-  // substring of "Widget A Turbo"'s slug but not an exact match at step 2,
-  // so this exercises the step-3 narrow-by-name path specifically.
+  // A shared PB id cannot justify a partial name match.
   const namedPost = post({ title: 'Widget A - Some Long Review Title' });
   const match = findTrackerEntryForPost(namedPost, entries, rawBody);
-  assert.equal(match.name, 'Widget A Turbo');
+  assert.equal(match, null);
+});
+
+test('findTrackerEntryForPost: exact PB search query resolves a tracker key', () => {
+  const entries = { 'Unfiltered Audio Needlepoint': entry({ pb_url: '/search?q=Unfiltered%20Audio%20Needlepoint' }) };
+  const p = post({ title: 'Unfiltered Audio Needlepoint Vinyl Simulation Plugin: $30 Sale Recorded',
+    affiliate: 'https://www.pluginboutique.com/search?q=Unfiltered+Audio+Needlepoint' });
+  assert.equal(findTrackerEntryForPost(p, entries, '')?.name, 'Unfiltered Audio Needlepoint');
+  p.data.affiliate = 'https://www.pluginboutique.com/search?q=Needlepoint';
+  assert.equal(findTrackerEntryForPost(p, entries, ''), null);
 });
 
 test('findTrackerEntryForPost: nothing matches -> null', () => {
   const entries = { 'Something Else': entry() };
   const p = post({ title: 'Totally Unrelated Headline' });
   assert.equal(findTrackerEntryForPost(p, entries, ''), null);
+});
+
+test('article identity rejects cross-store and conflicting affiliate links', () => {
+  const entries = { 'Plugin A': entry({ pb_url: '/product/x/10000-plugin-a' }), 'Plugin B': entry({ pb_url: '/product/x/20000-plugin-b' }) };
+  assert.equal(findTrackerEntryForPost(post({ title: 'Plugin A', affiliate: 'https://pluginfox.com/product/10000-plugin-a' }), entries, ''), null);
+  assert.equal(findTrackerEntryForPost(post({ title: 'Plugin A', affiliate: 'https://www.pluginboutique.com/product/x/20000-plugin-b' }), entries, ''), null);
+  assert.equal(findTrackerEntryForPost(post({ title: 'Unknown', affiliate: 'https://evil.example/search?q=Plugin+A' }), entries, ''), null);
 });
 
 // --- trustedHistory ---

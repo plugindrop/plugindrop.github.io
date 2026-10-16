@@ -1,0 +1,7 @@
+---
+interface Props { model: any }
+const { model } = Astro.props;
+const labels: Record<string, string> = { license: 'License', formats: 'Formats', macos_min: 'macOS', windows_min: 'Windows', apple_silicon: 'Apple Silicon', copy_protection: 'Copy protection', trial: 'Trial' };
+---
+{model.mode === 'list' && <ul class="verified-facts" data-verified-facts-list data-coverage-total={model.coverage.total}>{model.rows.map((row: any) => <li><strong>{row.name}</strong>: {Object.entries(row.facts).map(([key, fact]: [string, any], index) => <>{index > 0 && ', '}<a href={fact.url}>{labels[key]}: {fact.value}</a></>)}</li>)}</ul>}
+<style>.verified-facts { line-height: 1.7; margin: 1rem 0 1.5rem; }</style>

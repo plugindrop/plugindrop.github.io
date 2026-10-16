@@ -24,7 +24,7 @@ draft: true
 
 ## What Is Aviram Music Box?
 
-Aviram Music Box is a virtual instrument by Aviram Dayan Production, a developer known for focused, playable sound tools aimed at composers and producers. As the name suggests, it centers on music box tones — a niche but highly sought-after timbre for cinematic scoring, ambient production, lo-fi beats, and emotional underscore work. Rather than a broad multi-instrument library, this is a dedicated tool built around one signature sound source. For producers who need that delicate, metallic-tine character without digging through massive orchestral libraries, it offers a direct solution.
+Aviram Music Box is a virtual instrument by Aviram Dayan Production, a developer known for focused, playable sound tools aimed at composers and producers. Rather than a broad multi-instrument library, this is a dedicated tool built around one signature sound source. For producers who need that delicate, metallic-tine character without digging through massive orchestral libraries, it offers a direct solution.
 
 ---
 

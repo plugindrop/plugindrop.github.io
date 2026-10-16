@@ -23,7 +23,7 @@ saleExpirySource: "fallback"
 
 ## Who Is Audio Blast and What Are Their Creative Effect Plugins?
 
-Audio Blast is a boutique electronic music team focused on building plugins designed to elevate live performance. Their core philosophy centers on expressive controls — the kind of real-time, hands-on manipulation that differentiates a live set from simply pressing play. Their plugin catalog sits squarely in the creative effects category: delays, modulators, and processors built for movement and character rather than surgical precision.
+Audio Blast is a boutique electronic music team focused on building plugins designed to elevate live performance. Their plugin catalog sits squarely in the creative effects category: delays, modulators, and processors built for movement and character rather than surgical precision.
 
 This isn't a generic developer cranking out clones of existing tools. Audio Blast targets producers and live performers who want effects with personality.
 

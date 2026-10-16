@@ -44,7 +44,7 @@ The Tube Tech CL 1B Mk II is a compressor plugin modeled on the classic Tube-Tec
 
 ## Pricing & Deal Details
 
-| Regular Price | Deal Price | You Save |
+| Regular Price | Advertised price (expired) | Advertised saving |
 |---|---|---|
 | ~~$199~~ | **$69** | $130 (65%) |
 

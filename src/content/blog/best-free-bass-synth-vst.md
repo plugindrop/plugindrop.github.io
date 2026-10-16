@@ -185,7 +185,7 @@ ZebraLette 3 is u-he's free single-oscillator spectral synthesizer — a deliber
 
 **Best for:** Harmonically complex bass, cinematic low-end, and producers who want precise spectral control over bass timbre.
 
-[→ Download ZebraLette 3 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-bass-synth-vst&chan=art&data1=best-free-bass-synth-vst)
+
 
 ---
 
@@ -260,7 +260,7 @@ Triple Cheese uses three comb filters as its primary sound source instead of con
 | Helm | Free | Virtual analog | Sub-oscillator, drag-and-drop modulation, built-in effects | [tytel.org (official)](https://tytel.org/helm/) |
 | Dexed | Free | FM (6-operator) | DX7 SysEx compatible, tight FM bass | [Download](https://github.com/asb2m10/dexed) |
 | Odin 2 | Free | Semi-modular | Patch cables in GUI, 12+ filter models, complex routing | [Download](https://www.thewavewarden.com/odin2) |
-| ZebraLette 3 | Free | Spectral | Custom harmonic spectrum drawing, u-he audio quality | [Get via Plugin Boutique](https://www.pluginboutique.com/search?q=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-bass-synth-vst&chan=art&data1=best-free-bass-synth-vst) |
+| ZebraLette 3 | Free | Spectral | Custom harmonic spectrum drawing, u-he audio quality | — |
 | Podolski | Free | Subtractive (mono) | Simple, clean sub, built-in arpeggiator | [Download](https://u-he.com/products/podolski/) |
 | Triple Cheese | Free | Comb filter | Unique metallic bass textures, industrial character | [Download](https://u-he.com/products/triple-cheese/) |
 | Scaler 2 | ~$49 | Compositional tool | Scale/chord detection, bass pattern generation | [Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/70-Utility/6439-Scaler-2?a_aid=69cb95abe1763&chan=art&data1=best-free-bass-synth-vst) |

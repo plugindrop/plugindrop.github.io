@@ -14,7 +14,7 @@ This page is based on published specifications and price records. It does not as
 
 ## What Is Softube Flow Studio?
 
-Softube Flow Studio is a mixing-focused plugin environment from Swedish developer Softube, the company behind the Console 1 hardware controller ecosystem and a well-respected catalog of hardware-modeled processors. Flow Studio centers on **macro mixing** — the idea that a single knob or control can drive multiple parameters at once, letting you shape a mix with fewer moves and more intention. It's built to bridge the gap between the precision of software and the hands-on feel of working at a physical console.
+Softube Flow Studio is a mixing-focused plugin environment from Swedish developer Softube, the company behind the Console 1 hardware controller ecosystem and a well-respected catalog of hardware-modeled processors. Flow Studio centers on **macro mixing** — the idea that a single knob or control can drive multiple parameters at once, letting you shape a mix with fewer moves and more intention.
 
 If you've found yourself buried in plugin chains and endless mouse-clicking, Flow Studio's pitch is direct: fewer, bigger decisions instead of hundreds of tiny ones. Before you commit money to it, though, it's worth understanding exactly what you're buying, who it's actually for, and when the price is worth paying.
 

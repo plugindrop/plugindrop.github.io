@@ -167,7 +167,7 @@ Waves now manages activation through the Waves License Center application. Hardw
 | Option | Typical Sale Pricing | Type | Key Advantage | CTA |
 |--------|---------------------|------|---------------|-----|
 | Individual plugins | $19.99–$39.99 on sale (list $99–$299) | Single tools | Lowest entry, targeted investment | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=waves-best-price-guide-2026) |
-| Plugin Boutique Virtual Cash | Free (accrues on purchases) | Discount layer | Stacks on top of Waves sale pricing | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=waves-best-price-guide-2026) |
+| Plugin Boutique Virtual Cash | Free (accrues on purchases) | Discount layer | Stacks on top of Waves sale pricing | — |
 | Waves Gold Bundle | $799 list ($159 sale on Waves, 2026-10-01) | Entry bundle | Renaissance-series fundamentals | No link — check waves.com |
 | Waves Platinum Bundle | $1,999 list ($199 sale on Waves, 2026-10-01) | Full toolkit bundle | Adds H-series, complete mixing range | [Waves.com](https://www.waves.com/bundles/platinum) |
 | Black Friday window | Annual peak discounts, often near $19.99 floor | Timing strategy | Deepest documented discount period | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=waves-best-price-guide-2026) |

@@ -156,7 +156,7 @@ Not every drum bus needs this step — but for electronic genres, hip-hop, and a
 - **Platforms:** Windows, macOS
 - **Formats:** VST, AU
 
-OTT is a free three-band upward compressor — meaning it brings up quiet parts rather than pushing down loud ones — that has become a genre-defining sound in electronic music and is increasingly common in hip-hop and hybrid production. On a drum bus, using OTT at 15–25% depth (the top-level Depth knob) adds presence and shimmer without introducing the harshness that full settings can cause. The three-band architecture means lows, mids, and highs are treated independently, so you can preserve the sub weight while adding air to the tops. It's free, it sounds excellent, and there's no legitimate reason not to have it installed.
+OTT is a free three-band upward compressor — meaning it brings up quiet parts rather than pushing down loud ones — that has become a genre-defining sound in electronic music and is increasingly common in hip-hop and hybrid production. On a drum bus, using OTT at 15–25% depth (the top-level Depth knob) adds presence and shimmer without introducing the harshness that full settings can cause. The three-band architecture means lows, mids, and highs are treated independently, so you can preserve the sub weight while adding air to the tops.
 
 **Best for:** Electronic music, lo-fi, trap, and any producer who wants the upward-compressed shimmer sound.
 

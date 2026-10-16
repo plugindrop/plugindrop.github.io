@@ -56,7 +56,7 @@ This is a **48-hour freeaway**. Audio Assault occasionally runs time-limited pro
 | BVKER Ampire | Free | Focused on modern metal tones with built-in cab sim |
 | Neural Amp Modeler (NAM) | Free / Open Source | User-captured amp profiles via machine learning — massive tone library, steeper learning curve |
 
-If you want a straightforward multi-amp plugin with zero setup, Amp Locker 98 covers that ground. If you're after community-captured profiles of real-world amps with near-limitless variety, Neural Amp Modeler goes deeper but requires more hands-on configuration.
+If you want a straightforward multi-amp plugin with zero setup, Amp Locker 98 covers that ground.
 
 ## FAQ
 

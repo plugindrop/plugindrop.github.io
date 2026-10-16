@@ -23,11 +23,11 @@ priceTrack:
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Vital | Free / $80 | Wavetable synthesis | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026) |
-| Valhalla Supermassive | Free | Ambient reverb & long delays | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026) |
+| Vital | Free / $80 | Wavetable synthesis | — |
+| Valhalla Supermassive | Free | Ambient reverb & long delays | [Valhalla Supermassive (official site)](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Valhalla Room | $50 | Natural algorithmic reverb | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026) |
-| TDR Nova | Free | Dynamic EQ | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026) |
-| OTT | Free | Multiband compression (EDM standard) | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026) |
+| TDR Nova | Free | Dynamic EQ | [TDR Nova (official site)](https://www.tokyodawn.net/tdr-nova/) |
+| OTT | Free | Multiband compression (EDM standard) | — |
 | Wavesfactory Trackspacer | ~$49 | Sidechain-aware spectral shaping | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026) |
 | Kilohearts Phase Plant | ~$99 | Modular synthesis | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026) |
 
@@ -111,7 +111,7 @@ Valhalla Supermassive is a free release from one of the most respected reverb de
 
 **Best for:** Lush pads, atmospheric tails, and expansive ambient space at zero cost.
 
-[→ Download Valhalla Supermassive Free](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026)
+[Valhalla Supermassive (official site)](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
 
 ---
 
@@ -217,7 +217,7 @@ OTT is a free Xfer Records release based on Ableton's OTT preset — a three-ban
 
 **Best for:** EDM and bass music producers who want compressed, hyped character on synths and leads.
 
-[→ Download OTT Free](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026)
+
 
 ---
 
@@ -234,7 +234,7 @@ MJUC jr is a stripped version of Klanghelm's MJUC variable-mu compressor with tw
 
 **Best for:** Tube compression warmth on bus and vocal tracks at no cost.
 
-[→ Download MJUC jr Free](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026)
+
 
 ---
 
@@ -287,7 +287,7 @@ SPAN offers adjustable averaging, block size, and range controls that most free 
 
 **Best for:** Reliable frequency visualization without paying for it.
 
-[→ Download SPAN Free](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026)
+
 
 ---
 
@@ -362,21 +362,21 @@ Komplete Start is NI's free tier of the Komplete bundle, including Kontakt Playe
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Vital | Free / $80+ | Synthesizer | Full wavetable engine free, modulation routing, CLAP | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026) |
-| Surge XT | Free | Synthesizer | Hybrid engines, open source, Linux support | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026) |
+| Vital | Free / $80+ | Synthesizer | Full wavetable engine free, modulation routing, CLAP | — |
+| Surge XT | Free | Synthesizer | Hybrid engines, open source, Linux support | [Surge XT (official site)](https://surge-synth-team.org/surge-xt/) |
 | Kilohearts Phase Plant | ~$99 | Synthesizer | Modular signal lanes, generative architecture | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026) |
-| Valhalla Supermassive | Free | Reverb/Delay | Ambient tails, free from a premium developer | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026) |
+| Valhalla Supermassive | Free | Reverb/Delay | Ambient tails, free from a premium developer | [Valhalla Supermassive (official site)](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Valhalla Room | $50 | Reverb | Algorithmic room reverb at $50 | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026) |
 | Valhalla Delay | $50 | Delay | Tape, digital, pitch-shift modes unified | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026) |
 | Baby Audio Comeback Kid | ~$49 | Delay | Tape character, ducking, saturation built in | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026) |
-| TDR Nova | Free | EQ | Dynamic EQ, shared DSP with paid GE tier | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026) |
-| TDR Kotelnikov | Free | Compressor | Program-dependent mastering compression | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026) |
-| OTT | Free | Compressor | Three-band upward/downward compressor | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026) |
-| Klanghelm MJUC jr | Free | Compressor | Variable-mu tube character, two vintage modes | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026) |
+| TDR Nova | Free | EQ | Dynamic EQ, shared DSP with paid GE tier | [TDR Nova (official site)](https://www.tokyodawn.net/tdr-nova/) |
+| TDR Kotelnikov | Free | Compressor | Program-dependent mastering compression | [TDR Kotelnikov (official site)](https://www.tokyodawn.net/tdr-kotelnikov/) |
+| OTT | Free | Compressor | Three-band upward/downward compressor | — |
+| Klanghelm MJUC jr | Free | Compressor | Variable-mu tube character, two vintage modes | — |
 | Wavesfactory Trackspacer | ~$49 | Dynamics | Spectral sidechain shaping, no pumping | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026) |
 | Baby Audio Super VHS | ~$29 | Character FX | Lo-fi coloring, tape wobble, noise | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026) |
-| SPAN | Free | Analyzer | Industry-standard spectrum display | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026) |
-| NI Komplete Start | Free | Bundle | Kontakt Player, instruments, samples | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-150-dollars-2026) |
+| SPAN | Free | Analyzer | Industry-standard spectrum display | — |
+| NI Komplete Start | Free | Bundle | Kontakt Player, instruments, samples | — |
 
 ---
 

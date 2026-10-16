@@ -28,7 +28,7 @@ saleExpirySource: "fallback"
 
 ## What Is Bloom Synth Analogue?
 
-Bloom Synth Analogue is a virtual instrument plugin listed in Plugin Boutique's Instruments category, positioned around warm, analog-style tones. It's built to sit in a DAW as a software synth rather than a hardware emulation you rack up outboard. For the exact feature set, sound design tools, and workflow details, check the product page — this article covers the deal terms, not a hands-on breakdown.
+Bloom Synth Analogue is a virtual instrument plugin listed in Plugin Boutique's Instruments category, positioned around warm, analog-style tones. It's built to sit in a DAW as a software synth rather than a hardware emulation you rack up outboard.
 
 ## Key Features
 

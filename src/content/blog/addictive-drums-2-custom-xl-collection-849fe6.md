@@ -32,7 +32,7 @@ Addictive Drums 2 is a drum production plugin from XLN Audio, built to deliver s
 
 ## What Producers Are Saying
 
-Addictive Drums 2 has been a consistent thread recommendation across production communities for years. Producers working in pop, rock, and indie frequently mention it when the conversation turns to "sounds great with minimal setup."
+Addictive Drums 2 has been a consistent thread recommendation across production communities for years.
 
 ## Who Is It For?
 

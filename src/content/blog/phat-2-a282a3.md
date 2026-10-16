@@ -23,7 +23,7 @@ draft: true
 
 PHAT 2 is a virtual instrument sold through Plugin Boutique's Instruments category. It's built around sound design as its core use case, which is the main reason producers keep it on their radar despite the low price point.
 
-For exact specs, patch counts, and engine details, check the product page for current pricing and full technical information. What's confirmed through this deal listing is the category placement (virtual instrument), the platform (Plugin Boutique), and the current price tier relative to its tracked history.
+What's confirmed through this deal listing is the category placement (virtual instrument), the platform (Plugin Boutique), and the current price tier relative to its tracked history.
 
 ## Where it fits in a session
 

@@ -4,6 +4,15 @@ import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
 import { spawnSync } from 'node:child_process';
+import { lintContent } from '../scripts/quarantine_content.mjs';
+
+test('mandatory disclaimer alone does not quarantine; a real test claim does', () => {
+  const disclaimer = 'We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.';
+  assert.deepEqual(lintContent(disclaimer, '2026-10-15'), []);
+  assert.ok(lintContent(`${disclaimer}\nWe tested this plugin.`, '2026-10-15').includes('unsupported_experience'));
+  assert.ok(lintContent(`${disclaimer} We tested this plugin.`, '2026-10-15').includes('unsupported_experience'));
+  assert.ok(lintContent("We found no published descriptions, but we loved its sound.", '2026-10-15').includes('unsupported_experience'));
+});
 
 test('a quarantined linked article is allowed but an ordinary noindex link still fails', () => {
   const root = fs.mkdtempSync(path.join(os.tmpdir(), 'dtm-quarantine-'));

@@ -18,7 +18,7 @@ I've written the article to `/tmp/crb-uranus-synth-journal-article.md` (~830 wor
 
 ## What Is This Week's Synth Journal?
 
-Synth Journal is a recurring news roundup from Gearnews that tracks notable happenings in the synth and Eurorack world — new releases, firmware updates, emulations, and community tools. This edition centers on three items: a free software emulation of the CRB Uranus, a genuinely obscure hardware synth that most producers will never get hands-on with in the original; an update tied to the 4ms MetaModule Eurorack platform; and a newly released editor built for the Prophet-6.
+Synth Journal is a recurring news roundup from Gearnews that tracks notable happenings in the synth and Eurorack world — new releases, firmware updates, emulations, and community tools.
 
 The headline story is the free part. Emulating a synth as rare as the CRB Uranus means a huge number of producers now get access to a sound design tool that was previously locked behind scarce, expensive vintage hardware. Full technical specifics on the emulation — plugin formats, system requirements, and download source — are best confirmed on the original Gearnews Synth Journal post, since those details can change or vary by platform.
 

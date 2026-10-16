@@ -39,7 +39,7 @@ FreqBlender is a multiband mix knob plugin from Minor Drama, available for Windo
 
 ## What Producers Are Saying
 
-FreqBlender is a new release, so community discussions are still building. Check [KVR Audio](https://www.kvraudio.com) or [Reddit's r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals/) for early impressions as more producers get hands-on time with it. The concept of per-band mix knobs is a well-discussed topic in mixing communities — it's a feature request that comes up frequently when producers talk about multiband workflows.
+FreqBlender is a new release, so community discussions are still building. The concept of per-band mix knobs is a well-discussed topic in mixing communities — it's a feature request that comes up frequently when producers talk about multiband workflows.
 
 ---
 

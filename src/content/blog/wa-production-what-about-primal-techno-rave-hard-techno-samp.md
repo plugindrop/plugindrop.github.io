@@ -36,7 +36,7 @@ They're also useful for quick sketching. If you're blocking out a track idea and
 ## Pricing and deal details
 
 - Regular price: $29.9
-- Deal price: $14.95
+- Advertised price (expired): $14.95
 - Discount: 50% off
 - Store: ADSR Sounds
 - Requirement: Xfer Serum, the presets do not work as a standalone instrument

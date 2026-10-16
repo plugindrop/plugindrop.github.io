@@ -27,7 +27,7 @@ This guide ranks the 12 best saturation plugins 2026 producers are actually buyi
 | FabFilter Saturn 2 | $149 | Multiband saturation, mastering | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/30-Distortion/6423-FabFilter-Saturn-2?a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
 | Soundtoys Decapitator | $199 | Analog amp drive, aggressive color | [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
 | Klanghelm SDRR | see Klanghelm for price | Budget studio saturation, 4 models | [klanghelm.com (official)](https://klanghelm.com/contents/products/SDRR) |
-| Saturation Knob | Free | One-knob parallel saturation on any track | [Free Download](https://www.pluginboutique.com/search?q=Free%20Download&a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
+| Saturation Knob | Free | One-knob parallel saturation on any track | [Saturation Knob (official site)](https://www.softube.com/plug-ins/saturation-knob) |
 | IVGI | Free | Subtle analog console warmth | [Free Download](https://klanghelm.com/contents/products/IVGI) |
 | RC-20 Retro Color | $99 | Vintage tape aesthetic on synths & samples | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/3016-RC-20-Retro-Color?a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
 | Waves J37 Tape | $29–$99 | Classic tape saturation for tracking & mixing | [Plugin Boutique](https://www.pluginboutique.com/search?q=waves%20j37%20tape&a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
@@ -89,7 +89,7 @@ SATUR8 emulates the harmonic behavior of analog tape machines with a drive circu
 
 **Best for:** Producers working with live instruments or organic samples who want genuine tape coloration without any subscription fee.
 
-[→ Download SATUR8 Free](https://www.pluginboutique.com/search?q=analog%20obsession%20satur8&a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026)
+
 
 ---
 
@@ -106,7 +106,7 @@ Tape Cassette 2 goes beyond saturation into full tape emulation — flutter, wow
 
 **Best for:** Lo-fi hip-hop, bedroom pop, and any track where authentic imperfection is the aesthetic goal.
 
-[→ Download Tape Cassette 2 Free](https://www.pluginboutique.com/search?q=caelum%20audio%20tape%20cassette%202&a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026)
+
 
 ---
 
@@ -281,10 +281,10 @@ TDR Prism takes a different approach than hardware emulators — it gives you di
 | FabFilter Saturn 2 | $149 | Multiband saturation, mastering, sound design | Yes (fully functional, 30 days) | [Get It](https://www.pluginboutique.com/product/2-Effects/30-Distortion/6423-FabFilter-Saturn-2?a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
 | Soundtoys Decapitator | $199 | Analog amp drive, drums, aggressive color | Yes (bundle trial) | [Get It](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
 | Klanghelm SDRR | see Klanghelm for price | Tube/tape/transistor/digi, budget mixing | No (demo audio watermark) | [Get It](https://klanghelm.com/contents/products/SDRR) |
-| Saturation Knob | Free | Parallel harmonic glue on any channel | N/A (free) | [Get It](https://www.pluginboutique.com/search?q=Free&a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
+| Saturation Knob | Free | Parallel harmonic glue on any channel | N/A (free) | [Saturation Knob (official site)](https://www.softube.com/plug-ins/saturation-knob) |
 | IVGI | Free | Console-style asymmetric saturation | N/A (free) | [Get It](https://klanghelm.com/contents/products/IVGI) |
-| Analog Obsession SATUR8 | Free | Tape emulation, bias-shifted harmonics | N/A (free) | [Get It](https://www.pluginboutique.com/search?q=analog%20obsession%20satur8&a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
-| Caelum Tape Cassette 2 | Free | Lo-fi cassette degradation | N/A (free) | [Get It](https://www.pluginboutique.com/search?q=caelum%20audio%20tape%20cassette%202&a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
+| Analog Obsession SATUR8 | Free | Tape emulation, bias-shifted harmonics | N/A (free) | — |
+| Caelum Tape Cassette 2 | Free | Lo-fi cassette degradation | N/A (free) | — |
 | Waves J37 Tape | $29–$99 | Abbey Road tape machine emulation | Yes (7-day) | [Get It](https://www.pluginboutique.com/search?q=waves%20j37%20tape&a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
 | RC-20 Retro Color | $99 | Vintage multi-module creative processing | Yes (demo build) | [Get It](https://www.pluginboutique.com/product/2-Effects/44-Saturation/3016-RC-20-Retro-Color?a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |
 | Arturia Tape MELLO-FI | $49 | Mellotron-style ambient tape warmth | Yes (FX Collection trial) | [Get It](https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/8520-Tape-MELLO-FI?a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026) |

@@ -22,7 +22,7 @@ draft: true
 
 ## What Is REV?
 
-REV is a Kontakt-based instrument library available through Plugin Boutique. As the name suggests, it centres around reversed and processed sound design — the kind of textural, atmospheric content that sits at the heart of cinematic, ambient, and modern electronic production. It runs inside Native Instruments' Kontakt platform, meaning it slots directly into existing Kontakt-based workflows. Check the product page for full developer details and compatibility notes.
+REV is a Kontakt-based instrument library available through Plugin Boutique. It runs inside Native Instruments' Kontakt platform, meaning it slots directly into existing Kontakt-based workflows. Check the product page for full developer details and compatibility notes.
 
 ---
 

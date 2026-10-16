@@ -278,7 +278,7 @@ Zebralette is u-he's free, single-oscillator version of their flagship Zebra2 sy
 **Best for:** Atmospheric pads, spectral sound design, complex evolving leads with u-he quality.
 
 [→ Get Zebralette on Plugin Boutique](https://www.pluginboutique.com/search?q=u-he%20Zebralette&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars)
-[→ Download Zebralette Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vst-plugins-under-50-dollars&chan=art&data1=best-vst-plugins-under-50-dollars)
+[Zebralette (official site)](https://u-he.com/products/zebralette/)
 
 ---
 
@@ -349,17 +349,17 @@ MFreeFXBundle is the most generous free plugin release in the industry — a lar
 | Valhalla Supermassive | Free | Reverb/Delay | FDN spaces, shimmer, zero cost | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Valhalla Delay | $50 | Delay | Tape, BBD, pitch-shift modes | [Get It](https://valhalladsp.com/shop/delay/valhalladelay/) |
 | Xfer OTT | Free | Multiband Compressor | 3-band upward compression, genre staple | [xferrecords.com (official)](https://xferrecords.com/freeware) |
-| Analog Obsession BUSTERse | Free | Bus Compressor | SSL-style glue, zero cost | [Get](https://www.pluginboutique.com/search?q=Analog%20Obsession%20BUSTERse&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
-| Klanghelm MJUC jr. | Free | Compressor | Variable-mu tube character | [Get](https://www.pluginboutique.com/search?q=Klanghelm%20MJUC%20jr&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
+| Analog Obsession BUSTERse | Free | Bus Compressor | SSL-style glue, zero cost | — |
+| Klanghelm MJUC jr. | Free | Compressor | Variable-mu tube character | — |
 | TDR Limiter 6 GE | ~$60* | Limiter | 6-stage modular mastering chain | [Buy](https://www.pluginboutique.com/product/2-Effects/9-Limiter/4654-TDR-Limiter-6-GE?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | TDR Nova | Free | Dynamic EQ | Parallel dynamic EQ, transparent | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
 | Baby Audio Smooth Operator | $49 | Spectral Processor | Intelligent mix balancing | [Buy](https://www.pluginboutique.com/search?q=Baby%20Audio%20Smooth%20Operator&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | Klanghelm SDRR | see Klanghelm for price | Saturation | 4 distinct drive modes | [Buy](https://www.pluginboutique.com/search?q=Klanghelm%20SDRR&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | Chow Tape Model | Free | Tape Emulation | Physically modeled, open-source | [Get](https://www.pluginboutique.com/product/2-Effects/44-Saturation/7318-CHOW-Tape-Model?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
 | Surge XT | Free | Synthesizer | Hybrid engine, massive preset library | [Get](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17453-Surge-XT?a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
-| u-he Zebralette | Free | Synthesizer | Spectral oscillator, u-he quality | [Get](https://www.pluginboutique.com/search?q=u-he%20Zebralette&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
+| u-he Zebralette | Free | Synthesizer | Spectral oscillator, u-he quality | — |
 | Sitala | $20 (v1 free) | Drum Sampler | 16-pad, no-friction workflow | [Get](https://decomposer.de/sitala/) |
-| Melda MFreeFXBundle | Free | Bundle | Dozens of processors, no watermarks | [Get](https://www.pluginboutique.com/search?q=Melda%20MFreeFXBundle&a_aid=69cb95abe1763&chan=art&data1=best-vst-plugins-under-50-dollars) |
+| Melda MFreeFXBundle | Free | Bundle | Dozens of processors, no watermarks | — |
 
 *TDR Limiter 6 GE regularly sells below $50 during Plugin Boutique sales events.
 

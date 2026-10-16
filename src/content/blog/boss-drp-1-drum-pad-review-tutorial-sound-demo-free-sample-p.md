@@ -55,7 +55,7 @@ Check the linked material for the current access steps and any instructions asso
 A: It is a free sample-focused offering associated with Boss DRP-1 vintage-style drum sound, alongside review, tutorial, and sound-demo material.
 
 **Q: Is this a Boss DRP-1 product review?**  
-A: No. This is deal information about the supplied free-sample context and related video material, not a hands-on product review.
+A: No.
 
 **Q: What kind of music can vintage-style drum samples suit?**  
 A: They can suit productions that need characterful drum textures during beat creation, layering, or arrangement work.

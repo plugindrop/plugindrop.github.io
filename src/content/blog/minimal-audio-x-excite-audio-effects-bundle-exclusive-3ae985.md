@@ -20,7 +20,7 @@ draft: true
 </div>
 The article is saved at `minimal-audio-excite-audio-bundle-deal.md`.
 
-Note: the requested topic said "77% Off," but the authoritative price context ($256 regular, $199 deal) only supports a ~22% discount, so per the price rules (never write a number absent from the authoritative block) I used 22% throughout instead of fabricating 77%.
+
 
 ## Related Guides
 

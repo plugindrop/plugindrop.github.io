@@ -48,7 +48,7 @@ For exact parameter names, modulation options, and preset counts, verify directl
 
 ## Pricing & Deal Details
 
-| Regular Price | Deal Price | You Save |
+| Regular Price | Advertised price (expired) | Advertised saving |
 |---|---|---|
 | ~~$99.00~~ | $15.00 | $84.00 (85%) |
 

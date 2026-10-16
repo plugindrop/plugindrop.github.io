@@ -6,6 +6,7 @@ import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import { ENABLE_PIP_PREVIEW, SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 import priceDataRaw from '../data/price_history.json';
+import { siteStats } from '../lib/siteStats.mjs';
 import { weeklyPriceFacts } from '../lib/priceTrends.mjs';
 import productVideosRaw from '../data/product_videos.json';
 import { pdAttr } from '../lib/interestTaxonomy.mjs';
@@ -38,7 +39,7 @@ const trackerEntries: Record<string, PriceEntry> = {
 	...(priceData.bundles ?? {}),
 	...(priceData.plugins ?? {}),
 };
-const trackedCount = Object.keys(trackerEntries).length;
+const { trackedProducts, pricePages } = siteStats(priceDataRaw);
 
 interface ProductVideo { video_id: string; title: string; channel: string }
 const productVideos = productVideosRaw as Record<string, ProductVideo>;
@@ -303,7 +304,7 @@ const hubLinks = [
 					<button type="submit">Search</button>
 				</form>
 				<p class="hero-intro">PluginDrop records prices from multiple stores each day and publishes the dated price history. Observation dates and sources are shown with the data. <a href="/how-we-track-prices/">How prices are tracked &rarr;</a></p>
-				<p class="hero-trust">{trackedCount} products in the price history</p>
+				<p class="hero-trust"><span data-tracked-products={trackedProducts}>{trackedProducts}</span> tracked products</p>
 			</section>
 
 			{(weeklyFacts.newSales > 0 || weeklyFacts.endedSales > 0 || weeklyFacts.newLows.length > 0) && (
@@ -485,7 +486,7 @@ const hubLinks = [
 				<header class="section-hd">
 					<div class="section-title">
 						<h2 id="quick-price-check">Quick price check</h2>
-						<span>our tracker &middot; {trackedCount} plugins</span>
+						<span>our tracker &middot; {pricePages} price pages</span>
 					</div>
 					<a href="/plugin-prices/">Open full tracker &rarr;</a>
 				</header>
@@ -530,7 +531,7 @@ const hubLinks = [
 						</tbody>
 					</table>
 				</div>
-				<p class="tracker-more">Showing products whose latest recorded price is below their listed regular price; check observation dates before buying. <a href="/plugin-prices/">See all {trackedCount} tracked prices &rarr;</a></p>
+				<p class="tracker-more">Showing products whose latest recorded price is below their listed regular price; check observation dates before buying. <a href="/plugin-prices/">See all {pricePages} price pages &rarr;</a></p>
 			</section>
 
 			{latestGuides.length > 0 && (

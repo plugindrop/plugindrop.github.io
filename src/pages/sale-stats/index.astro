@@ -5,6 +5,8 @@ import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
 import statsData from '../../data/monthly_sale_stats.json';
 import priceData from '../../data/price_history.json';
+import { siteStats } from '../../lib/siteStats.mjs';
+const { trackedProducts } = siteStats(priceData);
 import { productsOf, sourceKind } from '../../lib/priceTrends.mjs';
 import { listSaleEpisodes } from '../../lib/indexPolicy.mjs';
 
@@ -24,7 +26,6 @@ interface StatsFile {
 }
 
 const { generated_at, months } = statsData as StatsFile;
-const latestTracked = months[0]?.products_tracked ?? 0;
 function crossTotals(key) {
   const groups = new Map();
   for (const product of productsOf(priceData)) {
@@ -97,7 +98,7 @@ const pageLD = {
       <div class="page-header">
         <h1>Plugin Sale Statistics by Month</h1>
         <p>
-          Every month we tally how much of our tracked catalog ({latestTracked || 'N'} plugins &amp; bundles) was
+          Every month we tally how much of our tracked catalog (<span data-tracked-products={trackedProducts}>{trackedProducts}</span> tracked products) was
           actually on sale, how deep the discounts went, and how often prices hit their lowest tracked level — computed purely
           from observed price checks, no estimates. See our <a href="/how-we-track-prices/">tracking methodology</a>
           for what counts as an observed price.
@@ -114,7 +115,7 @@ const pageLD = {
               <div class="month-stats">
                 <div class="month-stat">
                   <span class="num">{m.products_tracked}</span>
-                  <span class="lbl">Tracked</span>
+                  <span class="lbl">Products observed in {m.month}</span>
                 </div>
                 <div class="month-stat">
                   <span class="num">{m.on_sale_pct}%</span>

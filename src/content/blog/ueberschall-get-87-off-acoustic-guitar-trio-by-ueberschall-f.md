@@ -24,7 +24,7 @@ draft: true
 
 ## What Is Acoustic Guitar Trio by Ueberschall?
 
-Acoustic Guitar Trio is a loop-based sample library from Ueberschall, a German developer with a long catalog of genre-specific loop packs. As the name suggests, the library centers on recorded acoustic guitar performances — ensemble-style playing from three guitars — designed to bring organic, live-feeling rhythm and texture to productions. It runs inside Ueberschall's Elastik player, which handles tempo-syncing and pitch-shifting so the loops adapt to your project's BPM and key.
+Acoustic Guitar Trio is a loop-based sample library from Ueberschall, a German developer with a long catalog of genre-specific loop packs. It runs inside Ueberschall's Elastik player, which handles tempo-syncing and pitch-shifting so the loops adapt to your project's BPM and key.
 
 ---
 

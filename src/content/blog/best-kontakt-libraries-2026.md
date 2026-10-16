@@ -22,7 +22,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Spitfire LABS | Free | Acoustic texture, pads, color | [Official Site](https://labs.spitfireaudio.com/) |
-| BBC Symphony Orchestra Discover | Free | Orchestral sketching | [Official Site](https://www.pluginboutique.com/search?q=BBC%20Symphony%20Orchestra%20Discover&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026) |
+| BBC Symphony Orchestra Discover | Free | Orchestral sketching | [BBC Symphony Orchestra Discover (official site)](https://www.spitfireaudio.com/products/bbc-symphony-orchestra-discover) |
 | NI Komplete Start | Free | Kontakt Player + starter instruments | [Official Site](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/) |
 | Spitfire Originals Epic Strings | ~$39 | Budget step up from LABS | [Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026) |
 | Soundiron Olympus Choir Micro | ~$49 | Budget choir texture | [Official Site](https://soundiron.com/products/olympus-micro-choir) |
@@ -81,7 +81,7 @@ If you outgrow Discover, don't buy Core the day you notice the ceiling — check
 
 **Best for:** Film and TV composers who need a credible orchestral sketch tool at zero cost.
 
-[→ Download BBC Symphony Orchestra Discover Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=BBC%20Symphony%20Orchestra%20Discover&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026)
+[BBC Symphony Orchestra Discover (official site)](https://www.spitfireaudio.com/products/bbc-symphony-orchestra-discover)
 
 ---
 
@@ -333,7 +333,7 @@ Albion ONE is a first orchestral purchase option. Recorded at Air Studios in Lon
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Spitfire LABS | Free | Multi-instrument | Rotating curated free instruments | [Official Site](https://labs.spitfireaudio.com/) |
-| BBC Symphony Orchestra Discover | Free | Full orchestra | Maida Vale recording, all sections | [Official Site](https://www.pluginboutique.com/search?q=BBC%20Symphony%20Orchestra%20Discover&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026) |
+| BBC Symphony Orchestra Discover | Free | Full orchestra | Maida Vale recording, all sections | [BBC Symphony Orchestra Discover (official site)](https://www.spitfireaudio.com/products/bbc-symphony-orchestra-discover) |
 | NI Komplete Start | Free | Bundle | Kontakt Player + starter instruments | [Official Site](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/) |
 | Spitfire Originals Epic Strings | ~$39 | Strings | Budget step up from LABS | [Plugin Boutique](https://www.pluginboutique.com/search?q=Spitfire%20Audio&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-kontakt-libraries-2026&chan=art&data1=best-kontakt-libraries-2026) |
 | Soundiron Olympus Choir Micro | ~$49 | Choir | Budget choral texture | [Official Site](https://soundiron.com/products/olympus-micro-choir) |

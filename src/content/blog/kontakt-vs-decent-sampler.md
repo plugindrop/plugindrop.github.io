@@ -18,7 +18,7 @@ draft: false
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
 | Decent Sampler | Free | Bedroom producers, indie libraries, zero-budget setups | [decent|SAMPLES](https://www.decentsamples.com/product/decent-sampler-plugin/) |
-| Kontakt Player | Free | NKS-certified pro libraries, tight DAW integration | [Plugin Boutique](https://www.pluginboutique.com/search?q=Kontakt%20Player&a_aid=69cb95abe1763&chan=art&data1=kontakt-vs-decent-sampler) |
+| Kontakt Player | Free | NKS-certified pro libraries, tight DAW integration | [Kontakt Player (official site)](https://www.native-instruments.com/products/kontakt-player) |
 | Kontakt 8 (Full) | $299 | Library builders, boutique instruments, pro studios | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/13195-Kontakt-8?a_aid=69cb95abe1763&chan=art&data1=kontakt-vs-decent-sampler) |
 | Native Instruments Komplete | From $99 (Select) | All-in-one NI instruments + effects bundle | [Plugin Boutique](https://www.pluginboutique.com/search?q=Komplete%2026&a_aid=69cb95abe1763&chan=art&data1=kontakt-vs-decent-sampler) |
 
@@ -55,7 +55,7 @@ For bedroom producers, this is the most frictionless free sampler available in 2
 
 **Best for:** Hobbyists, lo-fi and ambient producers, singer-songwriter sessions, and anyone wanting a capable sampler at zero cost.
 
-[→ Download Decent Sampler Free](https://www.pluginboutique.com/search?q=%E2%86%92%20Download%20Decent%20Sampler%20Free&a_aid=69cb95abe1763&chan=art&data1=kontakt-vs-decent-sampler)
+[Decent Sampler (official site)](https://www.decentsamples.com/product/decent-sampler-plugin/)
 
 ---
 
@@ -151,7 +151,7 @@ For producers who have not yet committed to specific commercial libraries, start
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
 | Decent Sampler | Free | Open-format sampler | Linux support, zero cost, growing library | [decent|SAMPLES](https://www.decentsamples.com/product/decent-sampler-plugin/) |
-| Kontakt Player | Free | NKS-certified sampler | NKS library access, DAW integration | [Plugin Boutique](https://www.pluginboutique.com/search?q=Kontakt%20Player&a_aid=69cb95abe1763&chan=art&data1=kontakt-vs-decent-sampler) |
+| Kontakt Player | Free | NKS-certified sampler | NKS library access, DAW integration | [Kontakt Player (official site)](https://www.native-instruments.com/products/kontakt-player) |
 | Kontakt 8 (Full) | $299 | Full sampler + dev tool | KSP scripting, uncertified library support, full development environment | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/13195-Kontakt-8?a_aid=69cb95abe1763&chan=art&data1=kontakt-vs-decent-sampler) |
 | Native Instruments Komplete | Check current price | Bundle including Kontakt 8 (Standard tier and above) | Full NI instrument + effects library, best per-plugin value in the ecosystem | [Plugin Boutique](https://www.pluginboutique.com/search?q=Komplete%2026&a_aid=69cb95abe1763&chan=art&data1=kontakt-vs-decent-sampler) |
 

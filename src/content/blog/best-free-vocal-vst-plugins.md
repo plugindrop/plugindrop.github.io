@@ -17,11 +17,11 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| MAutoPitch | Free | Transparent pitch correction | [Plugin Boutique](https://www.pluginboutique.com/search?q=MAutoPitch%20MeldaProduction&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins) |
+| MAutoPitch | Free | Transparent pitch correction | — |
 | Graillon 2 | Free | Creative pitch effects & robot vocals | [auburnsounds.com](https://www.auburnsounds.com/products/Graillon.html) |
 | Analog Obsession CHANNELSTRIP | Free | Analog EQ + compression in one slot | [analog-obsession.com](https://analogobsession.com/) |
 | TAL-Reverb-4 | Free | Warm vintage plate reverb | [tal-software.com (official)](https://tal-software.com/products/tal-reverb-4) |
-| Wider (Polyverse) | Free | Mono-safe stereo widening | [Plugin Boutique](https://www.pluginboutique.com/search?q=Wider%20Polyverse%20stereo%20widener&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins) |
+| Wider (Polyverse) | Free | Mono-safe stereo widening | — |
 | Valhalla Supermassive | Free | Large ambient reverb and delay | [valhalladsp.com](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
 | Klanghelm MJUC jr | Free | Vintage vari-mu tube compression | [Free Download](https://klanghelm.com/contents/products/MJUCjr) |
 
@@ -329,7 +329,7 @@ The detailed breakdown of each paid option follows below.
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| MAutoPitch | Free | Pitch Correction | Transparent, low latency, key/scale detection | [Plugin Boutique](https://www.pluginboutique.com/search?q=MAutoPitch%20MeldaProduction&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins) |
+| MAutoPitch | Free | Pitch Correction | Transparent, low latency, key/scale detection | — |
 | Graillon 2 | Free | Pitch Effects | Pitch shifting, bit crusher, ring modulation | [auburnsounds.com](https://www.auburnsounds.com/products/Graillon.html) |
 | Analog Obsession CHANNELSTRIP | Free | Channel Strip | HPF + EQ + compressor, analog warmth | [analog-obsession.com](https://analogobsession.com/) |
 | Klanghelm MJUC jr | Free | Compressor | Vintage vari-mu character, tube warmth | [Developer Site](https://klanghelm.com/contents/products/MJUCjr) |
@@ -338,7 +338,7 @@ The detailed breakdown of each paid option follows below.
 | TDR SlickEQ | Free | EQ | 3-band with analog saturation mode | [Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/) |
 | TAL-Reverb-4 | Free | Reverb | Vintage plate, envelope follower, HPF return | [tal-software.com (official)](https://tal-software.com/products/tal-reverb-4) |
 | Valhalla Supermassive | Free | Reverb/Delay | Dense evolving tails, cosmic modes | [Developer Site](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| Wider (Polyverse) | Free | Stereo Width | M/S widening, mono-safe | [Plugin Boutique](https://www.pluginboutique.com/search?q=Wider%20Polyverse%20stereo%20widener&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins) |
+| Wider (Polyverse) | Free | Stereo Width | M/S widening, mono-safe | — |
 | Acon Digital Multiply | Free | Chorus/Doubler | Up to 6 layers, independent pitch and pan | [Developer Site](https://acondigital.com/products/multiply/) |
 | Chow Tape Model | Free | Saturation | Physically modeled tape, open source | [Developer Site](https://chowdsp.com/products.html) |
 | iZotope Nectar 4 | ~$149 (sale) | Full Vocal Chain | AI assistant, complete processing suite | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Nectar%204&a_aid=69cb95abe1763&chan=art&data1=best-free-vocal-vst-plugins) |

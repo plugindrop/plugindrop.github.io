@@ -24,7 +24,7 @@ draft: true
 
 ## What Is DeepStereo Upmixer by Leson?
 
-DeepStereo Upmixer is an audio plugin from Leson designed to widen and spatially enhance stereo signals — converting narrow or mono sources into immersive, full-width stereo output. Leson positions it as a production tool for adding depth and dimension to tracks that sound flat or center-heavy. The "Deep" in the name suggests a more sophisticated algorithmic approach to stereo processing than a basic width knob. It targets the increasingly common workflow where producers need polished, wide-sounding mixes across streaming platforms.
+DeepStereo Upmixer is an audio plugin from Leson designed to widen and spatially enhance stereo signals — converting narrow or mono sources into immersive, full-width stereo output. Leson positions it as a production tool for adding depth and dimension to tracks that sound flat or center-heavy. It targets the increasingly common workflow where producers need polished, wide-sounding mixes across streaming platforms.
 
 ---
 

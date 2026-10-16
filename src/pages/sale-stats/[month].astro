@@ -5,6 +5,8 @@ import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
 import statsData from '../../data/monthly_sale_stats.json';
 import priceData from '../../data/price_history.json';
+import { siteStats } from '../../lib/siteStats.mjs';
+const { trackingSince } = siteStats(priceData);
 import { staticRedirects } from '../../data/plugin_price_redirects.mjs';
 import { indexablePricePagePaths } from '../../lib/indexPolicy.mjs';
 import { pbLink, formatPrice, isSearchUrl } from '../../lib/priceUtils';
@@ -83,7 +85,7 @@ function isResolvedProductIndexable(slug: string): boolean {
 }
 
 const pageTitle = `Plugin Sale Statistics — ${month.label} | ${SITE_TITLE}`;
-const pageDescription = `${month.label}: ${month.products_tracked} plugins & bundles tracked, ${month.on_sale_pct}% on sale, ${month.avg_discount_pct}% average discount, ${month.all_time_low_hits} sold at their lowest tracked price. Computed from real tracked price observations.`;
+const pageDescription = `${month.label}: ${month.products_tracked} products observed in ${month.month}, ${month.on_sale_pct}% on sale, ${month.avg_discount_pct}% average discount, ${month.all_time_low_hits} sold at their lowest tracked price. Computed from real tracked price observations.`;
 
 const datasetLD = {
   "@context": "https://schema.org",
@@ -202,7 +204,7 @@ const datasetLD = {
         <div class="stat-tiles">
           <div class="stat-tile">
             <span class="num">{month.products_tracked}</span>
-            <span class="lbl">Tracked</span>
+            <span class="lbl">Products observed in {month.month}</span>
             {month.vs_previous_month && (
               <span class={`delta ${month.vs_previous_month.products_tracked_delta >= 0 ? 'up' : 'down'}`}>
                 {fmtDelta(month.vs_previous_month.products_tracked_delta)} vs {month.vs_previous_month.month}
@@ -348,7 +350,7 @@ const datasetLD = {
           </p>
           <p>
             "Lowest tracked price" means the lowest price in our own tracking history for that product — for many
-            products daily tracking only began in July 2026, so it is the lowest we have observed, not necessarily
+            products our tracking began on {trackingSince}, so it is the lowest we have observed, not necessarily
             the lowest the product has ever sold for. Discount percentages are each product's deepest observed
             discount during the month, relative to the regular price shown at the time.
           </p>

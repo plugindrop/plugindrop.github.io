@@ -4,6 +4,8 @@ import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
 import priceData from '../../data/price_history.json';
+import { siteStats } from '../../lib/siteStats.mjs';
+const { trackingSince } = siteStats(priceData);
 import { isBrandPageIndexable, isPricePageIndexable, slugifyProduct } from '../../lib/indexPolicy.mjs';
 import { isSearchUrl, pbLink, formatPrice } from '../../lib/priceUtils';
 import { detectBrand } from '../../lib/brands.mjs';
@@ -366,7 +368,7 @@ const itemListLD = {
         </table>
       </div>
 
-      <p class="trust-line">Prices checked daily. Automated tracking since Jul 2026.</p>
+      <p class="trust-line">Prices checked daily. Automated tracking since {trackingSince}.</p>
     </main>
     <Footer />
   </body>

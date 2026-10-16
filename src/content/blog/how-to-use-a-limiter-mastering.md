@@ -10,13 +10,13 @@ heroImage: "/images/how-to-use-a-limiter-mastering.jpg"
 draft: false
 ---
 
-**TL;DR:** A limiter is the final stage of every master — it controls true peak level, targets streaming LUFS norms, and defines whether your track sounds punchy or squashed. FabFilter Pro-L 2 is a paid brick-wall limiter with multiple algorithms, while the free W1 Limiter is a capable starting point, and Limiter 6 GE sits between the two for producers who want per-stage metering without the Pro-L 2 price tag.
+**TL;DR:** FabFilter Pro-L 2 is a paid brick-wall limiter with multiple algorithms, while the free W1 Limiter is a capable starting point, and Limiter 6 GE sits between the two for producers who want per-stage metering without the Pro-L 2 price tag.
 
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| W1 Limiter | Free | Transparent brick-wall brick wall limiting for beginners | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=W1%20Limiter&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-use-a-limiter-mastering&chan=art&data1=how-to-use-a-limiter-mastering) |
+| W1 Limiter | Free | Transparent brick-wall brick wall limiting for beginners | [W1 Limiter (official site)](https://www.yohng.com/software/w1limit.html) |
 | Limiter 6 GE | ~$26 | Multi-stage limiting with per-module metering | [Plugin Boutique](https://www.pluginboutique.com/search?q=Limiter%206%20GE&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-use-a-limiter-mastering&chan=art&data1=how-to-use-a-limiter-mastering) |
 | FabFilter Pro-L 2 | $199 | Transparent or aggressive limiting with ISP metering | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=how-to-use-a-limiter-mastering) |
 | iZotope Ozone 12 Maximizer | Part of Ozone | AI-assisted LUFS targeting for streaming platforms | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=how-to-use-a-limiter-mastering) |
@@ -75,7 +75,7 @@ For LUFS targeting, set the Output Ceiling to -1.0 dB and use a dedicated LUFS m
 
 **Setting:** Output Ceiling -1.0 dB, Threshold start at -3 dB and adjust to hit LUFS target. Release: Auto.
 
-[→ Get W1 Limiter Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=W1%20Limiter&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-use-a-limiter-mastering&chan=art&data1=how-to-use-a-limiter-mastering)
+[W1 Limiter (official site)](https://www.yohng.com/software/w1limit.html)
 
 ---
 

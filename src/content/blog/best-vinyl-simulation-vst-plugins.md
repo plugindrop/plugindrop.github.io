@@ -21,8 +21,8 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| iZotope Vinyl | Free | Realistic vinyl crackle, dust, and wear | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vinyl-simulation-vst-plugins) |
-| Chow Tape Model | Free | Tape warmth and magnetic saturation | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vinyl-simulation-vst-plugins) |
+| iZotope Vinyl | Free | Realistic vinyl crackle, dust, and wear | — |
+| Chow Tape Model | Free | Tape warmth and magnetic saturation | — |
 | XLN Audio RC-20 Retro Color | ~$99 | All-in-one lo-fi multi-effect | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vinyl-simulation-vst-plugins) |
 | D16 Group Decimort 2 | ~$49 | Precise bit crushing and sample-rate reduction | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vinyl-simulation-vst-plugins) |
 | Baby Audio TAIP | ~$49 | Tape saturation and vintage harmonic character | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vinyl-simulation-vst-plugins) |
@@ -57,7 +57,7 @@ Its GUI reflects its age and has not been updated to modern standards. Its contr
 
 **Best for:** Any producer who wants realistic vinyl surface noise as the foundation layer before adding additional character.
 
-[→ Download iZotope Vinyl Free on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vinyl-simulation-vst-plugins)
+
 
 ---
 
@@ -76,7 +76,7 @@ The plugin is actively maintained and open-source, with builds available for eve
 
 **Best for:** Producers who want to layer analog warmth beneath vinyl crackling rather than relying on a single multi-effect plugin to handle both stages.
 
-[→ Download Chow Tape Model Free on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vinyl-simulation-vst-plugins)
+
 
 ---
 
@@ -178,8 +178,8 @@ Achieving a convincing vinyl sound requires more than dropping a single plugin o
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| iZotope Vinyl | Free | Vinyl Simulator | Dust, scratches, mechanical noise, wear | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vinyl-simulation-vst-plugins) |
-| Chow Tape Model | Free | Tape Emulation | Physics-based, open-source, multi-format | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vinyl-simulation-vst-plugins) |
+| iZotope Vinyl | Free | Vinyl Simulator | Dust, scratches, mechanical noise, wear | — |
+| Chow Tape Model | Free | Tape Emulation | Physics-based, open-source, multi-format | — |
 | XLN Audio RC-20 | ~$99 | Lo-Fi Multi-Effect | Noise, wobble, saturation, reverb in one | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vinyl-simulation-vst-plugins) |
 | D16 Group Decimort 2 | ~$49 | Bit Crusher | Precise aliasing and quantization modeling | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vinyl-simulation-vst-plugins) |
 | Baby Audio TAIP | ~$49 | Tape Saturation | Component-modeled saturation stages | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-vinyl-simulation-vst-plugins) |

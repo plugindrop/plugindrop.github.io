@@ -13,7 +13,7 @@ saleExpiry: "2026-10-15"
 saleExpirySource: "fallback"
 draft: false
 ---
-**TL;DR:** Plugin Boutique has the bx console AMEK 9099 at 78% off its ~~$224~~ regular price, bringing it down to $49. [Grab it here](https://www.pluginboutique.com/search?q=bx+console+AMEK+9099&a_aid=69cb95abe1763&chan=art&data1=bx-console-amek-9099-3e0469&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-amek-9099-3e0469) while the deal is live.
+**TL;DR:** This sale has ended. See the product page for current pricing. [See the product page](https://www.pluginboutique.com/search?q=bx+console+AMEK+9099&a_aid=69cb95abe1763&chan=art&data1=bx-console-amek-9099-3e0469&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-amek-9099-3e0469).
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/y_9D9Zu1q7M" title="78% Off bx console AMEK 9099 — Neve-Style Channel Strip ($49) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -37,8 +37,8 @@ On a mix bus or subgroup, the console-modeled EQ curve can stand in for a broad 
 ## Pricing and deal details
 
 - Regular price: $224
-- Deal: 78% off
-- Sale price: $49
+- This sale has ended. See the product page for current pricing.
+
 
 That works out to a savings of $175 off the regular price. Discount percentages and durations on Plugin Boutique can shift without much notice, so verify the live price and any listed end date on the product page before checkout.
 
@@ -82,11 +82,11 @@ A: Brainworx and Plugin Alliance titles typically use the vendor's own challenge
 A: TMT (Tolerance Modeling Technology) is Brainworx's approach to modeling the small manufacturing variances between individual hardware channels, aiming for per-channel character rather than one uniform model.
 
 **Q: How much does the bx console AMEK 9099 cost right now at Plugin Boutique?**
-A: The regular price is $224, and the current deal is 78% off, putting the sale price at $49.
+A: This sale has ended. See the product page for current pricing.
 
 ## Should you buy now?
 
-At 78% off a $224 regular price, this is a substantial markdown for a Brainworx console-modeled channel strip. If the discount and price point match your budget and you don't already own an overlapping bx console title, this is a reasonable window to buy rather than wait. [Check the current price and deal terms at Plugin Boutique](https://www.pluginboutique.com/search?q=bx+console+AMEK+9099&a_aid=69cb95abe1763&chan=art&data1=bx-console-amek-9099-3e0469&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-amek-9099-3e0469) before the offer changes.
+This sale has ended. See the product page for current pricing. [Check the current price and deal terms at Plugin Boutique](https://www.pluginboutique.com/search?q=bx+console+AMEK+9099&a_aid=69cb95abe1763&chan=art&data1=bx-console-amek-9099-3e0469&utm_source=plugindrop&utm_medium=article&utm_campaign=bx-console-amek-9099-3e0469).
 
 *Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
 

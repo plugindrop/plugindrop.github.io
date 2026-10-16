@@ -28,7 +28,7 @@ priceTrack:
 | FabFilter Pro-L 2 | ~$199 | Transparent mastering, all genres | Yes (30-day) | [Official Site](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-limiter-plugins-mastering) |
 | iZotope Ozone Maximizer | Included in Ozone (~$219+) | AI-assisted loudness maximizing | Yes | [Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%20Maximizer&a_aid=69cb95abe1763&chan=art&data1=best-limiter-plugins-mastering) |
 | Limiter 6 GE | ~$49 | Multi-stage limiting on a tight budget | Yes (demo) | [Official Site](https://www.tokyodawn.net/tdr-limiter6-ge/) |
-| W1 Limiter | Free | Zero-cost brickwall, beginners | N/A — free | [Plugin Boutique](https://www.pluginboutique.com/search?q=W1%20Limiter&a_aid=69cb95abe1763&chan=art&data1=best-limiter-plugins-mastering) |
+| W1 Limiter | Free | Zero-cost brickwall, beginners | N/A — free | [W1 Limiter (official site)](https://www.yohng.com/software/w1limit.html) |
 | Youlean Loudness Meter 2 | Free | LUFS targeting alongside any limiter | N/A — free | [Free Download](https://youlean.co/youlean-loudness-meter/) |
 
 ---
@@ -76,7 +76,7 @@ W1 Limiter is a free, open-source brickwall limiter built on the same conceptual
 
 **Best for:** Anyone who wants a no-cost, no-fuss brickwall for streaming targets without sacrificing result quality on acoustic material.
 
-[→ Download W1 Limiter Free](https://www.pluginboutique.com/search?q=%E2%86%92%20Download%20W1%20Limiter%20Free&a_aid=69cb95abe1763&chan=art&data1=best-limiter-plugins-mastering)
+[W1 Limiter (official site)](https://www.yohng.com/software/w1limit.html)
 
 ---
 
@@ -277,7 +277,7 @@ The Sonnox Oxford Limiter V3 is a purpose-built tool for scenarios that demand s
 
 | Plugin | Price | Type | Best For | Free Trial? | Plugin Boutique Link |
 |--------|-------|------|----------|--------------|----------------------|
-| W1 Limiter | Free | Brickwall | Beginners, acoustic material | N/A — free | [Get It](https://www.pluginboutique.com/search?q=%E2%86%92%20Download%20W1%20Limiter%20Free&a_aid=69cb95abe1763&chan=art&data1=best-limiter-plugins-mastering) |
+| W1 Limiter | Free | Brickwall | Beginners, acoustic material | N/A — free | [W1 Limiter (official site)](https://www.yohng.com/software/w1limit.html) |
 | Youlean Loudness Meter 2 | Free | Metering | LUFS targeting alongside any limiter | N/A — free | [Get It](https://youlean.co/youlean-loudness-meter/) |
 | Limiter 6 GE | ~$49 | Multi-stage | Budget multi-stage mastering | Yes | [Get It](https://www.tokyodawn.net/tdr-limiter6-ge/) |
 | Voxengo Elephant | ~$49 | Mastering | Flexible limiting with built-in dithering | Yes | [Get It](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Voxengo%20Elephant&a_aid=69cb95abe1763&chan=art&data1=best-limiter-plugins-mastering) |

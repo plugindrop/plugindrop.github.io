@@ -19,13 +19,13 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| TDR Nova | Free | Dynamic EQ, surgical mixing | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves) |
-| TDR Kotelnikov | Free | Transparent mastering compression | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves) |
-| Valhalla Supermassive | Free | Lush algorithmic reverb and spatial effects | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves) |
-| Klanghelm DC1A | Free | Fast, musical bus and track compression | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves) |
-| Analog Obsession LALA | Free | Vintage optical compression, vocals and bass | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves) |
-| Ignite Amps PTEq-X | Free | Pultec-style analog EQ coloration | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves) |
-| TAL-Reverb-4 | Free | Plate reverb for vocals, guitars, and snares | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves) |
+| TDR Nova | Free | Dynamic EQ, surgical mixing | [TDR Nova (official site)](https://www.tokyodawn.net/tdr-nova/) |
+| TDR Kotelnikov | Free | Transparent mastering compression | [TDR Kotelnikov (official site)](https://www.tokyodawn.net/tdr-kotelnikov/) |
+| Valhalla Supermassive | Free | Lush algorithmic reverb and spatial effects | [Valhalla Supermassive (official site)](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| Klanghelm DC1A | Free | Fast, musical bus and track compression | — |
+| Analog Obsession LALA | Free | Vintage optical compression, vocals and bass | — |
+| Ignite Amps PTEq-X | Free | Pultec-style analog EQ coloration | — |
+| TAL-Reverb-4 | Free | Plate reverb for vocals, guitars, and snares | — |
 
 ---
 
@@ -245,14 +245,14 @@ For producers using Waves TrueVerb primarily for plate reverb on vocals, snares,
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| TDR Nova | Free | Dynamic EQ | Per-band dynamics, transparent phase, de-essing | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves) |
-| Ignite Amps PTEq-X | Free | Analog EQ | Pultec circuit emulation, warmth and air | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves) |
-| Voxengo Marvel GEQ | Free | Graphic EQ | 16-band linear phase, zero phase distortion | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves) |
-| TDR Kotelnikov | Free | Mastering Comp | M/S mode, transparent, stereo link | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves) |
-| Klanghelm DC1A | Free | Character Comp | Vari-mu behavior, 4 modes, minimal interface | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves) |
-| Analog Obsession LALA | Free | Optical Comp | LA-2A style, musical release, vocal-tuned | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves) |
-| Valhalla Supermassive | Free | Algorithmic Reverb | 14 algorithms, lush tails, sound design depth | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves) |
-| TAL-Reverb-4 | Free | Plate Reverb | Clean plate character, simple controls | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-free-alternatives-to-waves) |
+| TDR Nova | Free | Dynamic EQ | Per-band dynamics, transparent phase, de-essing | [TDR Nova (official site)](https://www.tokyodawn.net/tdr-nova/) |
+| Ignite Amps PTEq-X | Free | Analog EQ | Pultec circuit emulation, warmth and air | — |
+| Voxengo Marvel GEQ | Free | Graphic EQ | 16-band linear phase, zero phase distortion | [Voxengo Marvel GEQ (official site)](https://www.voxengo.com/product/marvelgeq/) |
+| TDR Kotelnikov | Free | Mastering Comp | M/S mode, transparent, stereo link | [TDR Kotelnikov (official site)](https://www.tokyodawn.net/tdr-kotelnikov/) |
+| Klanghelm DC1A | Free | Character Comp | Vari-mu behavior, 4 modes, minimal interface | — |
+| Analog Obsession LALA | Free | Optical Comp | LA-2A style, musical release, vocal-tuned | — |
+| Valhalla Supermassive | Free | Algorithmic Reverb | 14 algorithms, lush tails, sound design depth | [Valhalla Supermassive (official site)](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
+| TAL-Reverb-4 | Free | Plate Reverb | Clean plate character, simple controls | — |
 | FabFilter Pro-Q 4 | $199 | Dynamic EQ | Per-band dynamics, collision detection, speed | [Developer Site](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) |
 | FabFilter Pro-C 3 | $199 | Multi-Style Comp | 14 compression modes, real-time GR display | [Developer Site](https://www.fabfilter.com/products/pro-c-3-compressor-plug-in) |
 | Valhalla Room | $50 | Room Reverb | Realistic rooms, early reflections, natural decay | [Developer Site](https://valhalladsp.com/shop/reverb/valhalla-room/) |

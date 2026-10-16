@@ -42,10 +42,20 @@ export function productNameOf(post) {
   return name.length > 0 ? name : null;
 }
 
-function extractPbIdFromBody(rawBody) {
-  if (!rawBody) return null;
-  const m = rawBody.match(/pluginboutique\.com\/product\/[^\s)\]"'<>]*?(\d{4,})-/);
-  return m ? m[1] : null;
+export function shouldShowProductCta({ slug = '', tags = [], kind = '' } = {}) {
+  if (slug.startsWith('news-') || tags.some((tag) => tag.toLowerCase() === 'news')) return false;
+  if (kind === 'list' || slug.startsWith('best-free-')) return false;
+  return true;
+}
+
+function pbIdentity(url) {
+  try {
+    const parsed = new URL(url, 'https://www.pluginboutique.com');
+    if (!['pluginboutique.com', 'www.pluginboutique.com'].includes(parsed.hostname)) return null;
+    if (parsed.pathname.startsWith('/product/')) return { id: pbProductId(parsed.href) };
+    if (isSearchUrl(parsed.href)) return { query: parsed.searchParams.get('q') };
+  } catch { /* invalid URL */ }
+  return null;
 }
 
 /** Finds the tracker entry an article is about. Priority: author-declared
@@ -54,40 +64,24 @@ function extractPbIdFromBody(rawBody) {
  */
 export function findTrackerEntryForPost(post, entries, rawBody) {
   const trackedName = post?.data?.priceTrack?.[0];
-  if (trackedName && entries[trackedName]) {
-    return { name: trackedName, entry: entries[trackedName] };
-  }
-
   const productName = productNameOf(post);
-  if (productName) {
-    const nameSlug = slugify(productName);
-    for (const [name, entry] of Object.entries(entries)) {
-      if (slugify(name) === nameSlug) {
-        return { name, entry };
-      }
-    }
-  }
-
-  const bodyId = extractPbIdFromBody(rawBody);
-  if (bodyId) {
-    const idMatches = Object.entries(entries).filter(
-      ([, entry]) => pbProductId(entry.pb_url) === bodyId,
-    );
-    if (idMatches.length === 1) {
-      const [name, entry] = idMatches[0];
-      return { name, entry };
-    }
-    if (idMatches.length > 1 && productName) {
-      const nameSlug = slugify(productName);
-      const narrowed = idMatches.filter(([name]) => slugify(name).includes(nameSlug));
-      if (narrowed.length === 1) {
-        const [name, entry] = narrowed[0];
-        return { name, entry };
-      }
-    }
-  }
-
-  return null;
+  const affiliate = post?.data?.affiliate;
+  const identity = affiliate ? pbIdentity(affiliate) : null;
+  if (affiliate && !identity) return null;
+  if (!affiliate && trackedName && entries[trackedName]) return { name: trackedName, entry: entries[trackedName] };
+  const candidates = Object.entries(entries).filter(([name, entry]) => {
+    if (affiliate && !pbIdentity(entry.pb_url)) return false;
+    if (identity?.id) return pbIdentity(entry.pb_url)?.id === identity.id;
+    if (identity?.query) return slugify(name) === slugify(identity.query);
+    return name === trackedName || (productName && slugify(name) === slugify(productName));
+  });
+  const matchingTitle = productName ? candidates.filter(([name]) => slugify(name) === slugify(productName)) : [];
+  if (productName && Object.keys(entries).some((name) => slugify(name) === slugify(productName)) && matchingTitle.length !== 1) return null;
+  if (trackedName && candidates.some(([name]) => name !== trackedName)) return null;
+  const resolved = !affiliate && matchingTitle.length === 1 ? matchingTitle : candidates;
+  if (resolved.length !== 1) return null;
+  const [name, entry] = resolved[0];
+  return { name, entry };
 }
 
 function sortByDateAsc(a, b) {

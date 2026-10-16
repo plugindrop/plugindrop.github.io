@@ -15,7 +15,7 @@ converted: true
 
 ## What Is Bloom Vocal Edit?
 
-Bloom Vocal Edit is a virtual instrument plugin listed in Plugin Boutique's Virtual Instruments category, built around vocal source material. The "Edit" in the name signals a focus on hands-on control — this isn't a static sample playback tool, but something designed for shaping and sculpting vocal sounds within a DAW environment. It targets producers who want expressive, editable vocal textures without the overhead of a full recording session.
+Bloom Vocal Edit is a virtual instrument plugin listed in Plugin Boutique's Virtual Instruments category, built around vocal source material. It targets producers who want expressive, editable vocal textures without the overhead of a full recording session.
 
 ---
 

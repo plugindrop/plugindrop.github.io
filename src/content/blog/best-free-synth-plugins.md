@@ -32,7 +32,7 @@ priceTrack:
 |--------|-------|----------|--------|
 | Vital | Free | Modern wavetable leads, pads, bass | [Free](https://vital.audio/) |
 | Surge XT | Free | Hybrid synthesis, deep sound design | [Free Download](https://surge-synthesizer.github.io/) |
-| Zebralette 3 | Free | Modern wavetable with u-he quality | [Free via Plugin Boutique](https://www.pluginboutique.com/search?q=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins) |
+| Zebralette 3 | Free | Modern wavetable with u-he quality | — |
 | Dexed | Free | DX7 FM patches, 80s electric pianos | [Free Download](https://asb2m10.github.io/dexed/) |
 | OB-Xd | Free | Synthwave pads, Oberheim analog leads | [Free Download](https://www.discodsp.com/obxd/) |
 | TAL-NoiseMaker | Free | Beginner-friendly analog sounds | [→ Download TAL-NoiseMaker Free](https://tal-software.com/products/tal-noisemaker) |
@@ -108,7 +108,7 @@ Zebralette 3 is the standalone, single-oscillator version of u-he's Zebra2. What
 
 **Skip it if:** you need to stack multiple oscillators in one instance — it is single-oscillator by design, so complex layered patches mean running several copies.
 
-[→ Download Zebralette 3 Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins)
+
 
 ---
 
@@ -449,7 +449,7 @@ Honest take: none of these will make you a better producer than a well-learned V
 |--------|-------|------|------------|--------|
 | Vital | Free | Wavetable | Spectral warping, drag-and-drop mod, built-in FX | [Official Site](https://vital.audio/) |
 | Surge XT | Free | Hybrid | Multiple oscillator modes, deep modulation, open source | [Official Site](https://surge-synthesizer.github.io/) |
-| Zebralette 3 | Free | Wavetable | u-he spectral oscillator, 16-slot FX chain, CLAP support | [Official Site](https://www.pluginboutique.com/search?q=u-he%20Zebralette&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-synth-plugins&chan=art&data1=best-free-synth-plugins) |
+| Zebralette 3 | Free | Wavetable | u-he spectral oscillator, 16-slot FX chain, CLAP support | — |
 | Dexed | Free | FM (6-op) | DX7 SysEx compatible, 6-operator FM engine | [Official Site](https://asb2m10.github.io/dexed/) |
 | ZynAddSubFX | Free | Additive / Subtractive | PADsynth engine, deep harmonic control | [Developer](https://zynaddsubfx.sourceforge.io/) |
 | OB-Xd | Free | Virtual Analog | Oberheim filter, 12-voice polyphony, AAX support | [Free Download](https://www.discodsp.com/obxd/) |

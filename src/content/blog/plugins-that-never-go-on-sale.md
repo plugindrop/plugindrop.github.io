@@ -74,7 +74,7 @@ FabFilter Pro-Q 4 lists at $199. [Its price history](/plugin-prices/fabfilter-pr
 
 ### Native Instruments Kontakt 8 — $299, no confirmed public sale
 
-Kontakt 8, the full sampler license, [lists at $299 through Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/13195-Kontakt-8?a_aid=69cb95abe1763&chan=art&data1=plugins-that-never-go-on-sale). We found no confirmed public discount calendar for it. A crossgrade/upgrade path exists around $149 for owners of qualifying prior products, but that's an eligibility-restricted price, not a sale anyone can walk into.
+Kontakt 8, the full sampler license, [lists at $299 through Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/13195-Kontakt-8?a_aid=69cb95abe1763&chan=art&data1=plugins-that-never-go-on-sale). A crossgrade/upgrade path exists around $149 for owners of qualifying prior products, but that's an eligibility-restricted price, not a sale anyone can walk into.
 
 ### DMG Audio EQuilibrium and Limitless — no discounting pattern
 

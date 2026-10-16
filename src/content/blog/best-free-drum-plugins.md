@@ -178,7 +178,7 @@ High-quality acoustic drum samples released under open licensing. Multiple kits 
 - **OS:** macOS only
 - **Price:** Free
 
-Mac-only drum synth with six synthesis-based drum voices. Each voice uses physical modeling rather than samples, giving unique textures compared to sample-based alternatives. The free tier covers core synthesis functionality with hands-on control over each voice.
+Mac-only drum synth with six synthesis-based drum voices. Each voice uses physical modeling rather than samples, giving unique textures compared to sample-based alternatives.
 
 **Use case:** Adding a distinctive synthesized percussion layer on macOS — physical-modeling voices produce metallic and clicky textures that stand out from the usual sample libraries.
 

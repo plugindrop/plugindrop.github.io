@@ -23,7 +23,7 @@ draft: true
 
 ## What Is Motion Harmonic?
 
-Motion Harmonic is a plugin effect in the distortion and harmonic processing category, available through Plugin Boutique. As the name suggests, it combines harmonic saturation and distortion with motion-based modulation — the core idea being that your harmonic content doesn't sit static, it moves. This kind of dynamic processing sits at the intersection of character effects and sound design, making it relevant for both mixing and production contexts. Check the official product page for the developer's full description and demo audio.
+Motion Harmonic is a plugin effect in the distortion and harmonic processing category, available through Plugin Boutique. This kind of dynamic processing sits at the intersection of character effects and sound design, making it relevant for both mixing and production contexts. Check the official product page for the developer's full description and demo audio.
 
 ---
 

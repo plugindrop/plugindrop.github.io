@@ -61,7 +61,7 @@ This is a straightforward free release — not a limited-time promotion, not a "
 | Moog Model 15 | Check App Store | High-fidelity Moog emulation with full chromatic keyboard; more complex interface |
 | Korg iSS-30 | Check App Store | Sample-based with chromatic layout; focused on vintage sound recreation |
 
-If you want a zero-friction entry point where every tap sounds musical, Pentatone's pentatonic layout is purpose-built for that. If you need a full-featured DAW or chromatic synth with deep sound design controls, GarageBand or a dedicated synth app covers more ground.
+If you need a full-featured DAW or chromatic synth with deep sound design controls, GarageBand or a dedicated synth app covers more ground.
 
 ---
 

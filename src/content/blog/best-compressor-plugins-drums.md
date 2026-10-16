@@ -207,7 +207,7 @@ There's no purchase decision to make here beyond deciding to download it — it'
 
 DC1A is a two-knob compressor (Compression and Tone) that Klanghelm built to prioritize feel over control. With only two controls, it keeps settings simple, which makes over-compression harder. It adds subtle harmonic character, distinguishing it from purely transparent free compressors like TDR Kotelnikov.
 
-**Best for:** Beginners who want a free drum bus compressor that sounds musical without being easy to misuse.
+
 
 [→ Search Klanghelm DC1A](https://klanghelm.com/contents/products/DC1A)
 

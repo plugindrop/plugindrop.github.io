@@ -6,7 +6,7 @@ tags: ["review", "vst-plugin", "effects", "eq", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=Scaler+EQ&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-eq-b8b09b&chan=art&data1=scaler-eq-b8b09b"
 heroImage: /images/scaler-eq-b8b09b.jpg
 score: 10.00
-draft: true
+draft: false
 converted: true
 ---
 **Scaler EQ** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/search?q=Scaler+EQ&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-eq-b8b09b&chan=art&data1=scaler-eq-b8b09b)

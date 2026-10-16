@@ -1,4 +1,7 @@
 ---
+import priceData from '../data/price_history.json';
+import { siteStats } from '../lib/siteStats.mjs';
+const { trackedProducts } = siteStats(priceData);
 // NewsletterForm.astro - Resend経由メール登録フォーム
 // フッター + evergreenガイド記事本文（BlogPost.astro isEvergreen）に埋め込む。
 // 価格ドロップアラート訴求（generic "weekly deals" から変更・2026-07 CRO改善）。
@@ -9,7 +12,7 @@
     <span class="nl-gift">🔔</span>
     <div class="nl-magnet-text">
       <p class="nl-headline"><strong>Price-drop alerts</strong></p>
-      <p class="nl-sub">We track 200+ plugins daily. Get one email when something you want hits its lowest price.</p>
+      <p class="nl-sub">We track {trackedProducts} products. Get one email when something you want hits its lowest price.</p>
     </div>
   </div>
   <form class="nl-form" id="nl-form" novalidate>

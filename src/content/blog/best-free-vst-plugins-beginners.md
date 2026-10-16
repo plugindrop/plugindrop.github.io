@@ -149,7 +149,7 @@ SPAN is a real-time FFT spectrum analyzer that gives you a visual picture of you
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
-TDR Kotelnikov is a wideband compressor built for transparent bus and mastering work, but it doubles as an excellent glue compressor for beginners learning dynamic control. The stereo link and differential modes teach concepts that carry over to every compressor you'll ever use. It sounds genuinely excellent on full mixes and submixes alike.
+TDR Kotelnikov is a wideband compressor built for transparent bus and mastering work, but it doubles as an excellent glue compressor for beginners learning dynamic control. The stereo link and differential modes teach concepts that carry over to every compressor you'll ever use.
 
 **Best for:** Bus compression, mastering-style glue, and learning compressor fundamentals.
 

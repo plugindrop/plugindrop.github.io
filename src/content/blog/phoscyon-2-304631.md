@@ -24,7 +24,7 @@ draft: false
 
 Phoscyon 2 is D16 Group's software emulation of the Roland TB-303, built for acid basslines and squelchy lead lines. According to the product listing, it includes over 800 presets and patterns out of the box, so producers get a working library of 303-style patches without programming each one from scratch. That matters if you're trying to lock in a groove quickly during a session rather than dialing in cutoff and resonance from zero.
 
-D16 Group also lists a resizable GUI with several size options, which helps on smaller laptop screens or multi-monitor setups where plugin windows compete for space. MIDI Learn is included too, letting you map almost any on-screen control to a hardware controller. For a synth built around hands-on tweaking of filter cutoff, resonance, and accent, that kind of physical control matters more than it does on a lot of other instruments.
+D16 Group also lists a resizable GUI with several size options, which helps on smaller laptop screens or multi-monitor setups where plugin windows compete for space. MIDI Learn is included too, letting you map almost any on-screen control to a hardware controller.
 
 ## Where it fits in a session
 
@@ -34,7 +34,7 @@ Because it's plugin-based rather than hardware, it also fits sessions where reca
 
 ## Pricing and deal details
 
-Plugin Boutique lists Phoscyon 2 at a regular price of $119, and it's currently available at 50% off that figure. Verify current pricing on the [product page](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9541-Phoscyon-2?a_aid=69cb95abe1763&chan=trk&data1=phoscyon-2-304631&utm_source=plugindrop&utm_medium=article&utm_campaign=phoscyon-2-304631) before checkout, since discount windows can close without much notice.
+Verify current pricing on the [product page](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9541-Phoscyon-2?a_aid=69cb95abe1763&chan=trk&data1=phoscyon-2-304631&utm_source=plugindrop&utm_medium=article&utm_campaign=phoscyon-2-304631) before checkout, since discount windows can close without much notice.
 
 ## Skip it if
 

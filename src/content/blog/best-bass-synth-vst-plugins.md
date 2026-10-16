@@ -26,9 +26,9 @@ draft: false
 | u-he Diva | ~$179 | Analog warmth, vintage bass tones | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
 | Arturia Pigments | $199 ($99 on sale) | Hybrid synthesis, modern bass textures | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
 | SubLab XL | ~$79 | 808s, sub bass, trap and hip-hop | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
-| Surge XT | Free | All-purpose free bass synthesis | [Free Download](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
-| Vital | Free / $25+ | Spectral wavetable bass, beginner-friendly | [Free Download](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
-| TAL-Bassline-101 | Free | TB-303/SH-101 acid and analog bass | [Free Download](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
+| Surge XT | Free | All-purpose free bass synthesis | [Surge XT (official site)](https://surge-synth-team.org/surge-xt/) |
+| Vital | Free / $25+ | Spectral wavetable bass, beginner-friendly | — |
+| TAL-Bassline-101 | Free | TB-303/SH-101 acid and analog bass | — |
 
 ## Introduction
 
@@ -55,7 +55,7 @@ The learning curve is real. Surge XT is not a preset-and-play synth. But produce
 
 **Best for:** Producers who want professional synthesis depth at zero cost and aren't intimidated by a complex interface.
 
-[→ Download Surge XT Free](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins)
+[Surge XT (official site)](https://surge-synth-team.org/surge-xt/)
 
 ---
 
@@ -74,7 +74,7 @@ Because the free tier includes the full synthesis engine, it is enough to start 
 
 **Best for:** Producers learning wavetable bass design who want Serum-adjacent capabilities without the initial investment.
 
-[→ Download Vital Free](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins)
+
 
 ---
 
@@ -93,7 +93,7 @@ It handles acid bass and vintage analog-style mono lines convincingly. It is not
 
 **Best for:** Acid, techno, and lo-fi producers who need a dedicated, zero-fuss analog bassline tool with TB-303/SH-101 character.
 
-[→ Download TAL-Bassline-101 Free](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins)
+
 
 ---
 
@@ -112,7 +112,7 @@ FM bass programming from scratch has a steep learning curve, but with an importe
 
 **Best for:** Producers who need classic DX7-style punchy FM bass for soul, funk, pop, or electronic production without paying for it.
 
-[→ Download Dexed Free](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins)
+
 
 ---
 
@@ -217,10 +217,10 @@ Phase Plant is a modular synth with a deep modulation system. The learning curve
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| Surge XT | Free | Multi-engine | Open source, ladder filter, 12+ oscillator modes | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
-| Vital | Free / $25+ | Spectral wavetable | Animated UI, free full engine, preset library | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
-| TAL-Bassline-101 | Free | Analog/TB-303 style | SH-101 architecture, acid resonance, minimal interface | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
-| Dexed | Free | FM / DX7 emulation | DX7 sysex compatible, punchy attack, large patch library | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
+| Surge XT | Free | Multi-engine | Open source, ladder filter, 12+ oscillator modes | [Surge XT (official site)](https://surge-synth-team.org/surge-xt/) |
+| Vital | Free / $25+ | Spectral wavetable | Animated UI, free full engine, preset library | — |
+| TAL-Bassline-101 | Free | Analog/TB-303 style | SH-101 architecture, acid resonance, minimal interface | — |
+| Dexed | Free | FM / DX7 emulation | DX7 sysex compatible, punchy attack, large patch library | — |
 | Xfer Serum | $249 | Wavetable | Custom wavetable editor, visual modulation, wide third-party preset support | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
 | u-he Diva | ~$179 | Circuit simulation | Multi-filter vintage models, analog non-linearity, CPU-intensive | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |
 | Arturia Pigments | $199 ($99 on sale) | Hybrid multi-engine | 6 synthesis types, built-in sequencer, strong value at sale price | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-bass-synth-vst-plugins) |

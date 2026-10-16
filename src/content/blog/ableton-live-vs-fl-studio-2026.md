@@ -83,7 +83,7 @@ The Standard tier is the functional professional baseline. The Suite tier's cent
 
 ### FL Studio's Native Suite
 
-FL Studio's bundled instruments depend on which edition you purchase. The Signature Bundle ($299) includes Harmor, a partial-additive/subtractive synthesizer with resynthesis; Sytrus, an FM synthesizer with a visual FM matrix which can serve as a hands-on FM learning tool; and Gross Beat, a volume and pitch manipulation plugin that has become a genre-defining tool in trap production. The Fruity and Producer editions do not include these instruments — producers who want Gross Beat specifically need the Signature Bundle or a separate purchase.
+FL Studio's bundled instruments depend on which edition you purchase. The Fruity and Producer editions do not include these instruments — producers who want Gross Beat specifically need the Signature Bundle or a separate purchase.
 
 ### Ableton's Native Suite
 

@@ -36,7 +36,7 @@ Based on available information at launch:
 
 ## What Producers Are Saying
 
-bx_tonebox is a fresh release, so community discussion is still in its early stages. Check [KVR Audio](https://www.kvraudio.com) and [Reddit's r/AudioProductionDeals](https://www.reddit.com/r/AudioProductionDeals) for early impressions as producers get hands-on time with it. Brainworx releases tend to generate significant attention on mixing and mastering forums given the label's track record — early reactions to new bx_ titles are typically visible on both KVR and Gearspace within the first weeks of launch.
+bx_tonebox is a fresh release, so community discussion is still in its early stages. Brainworx releases tend to generate significant attention on mixing and mastering forums given the label's track record — early reactions to new bx_ titles are typically visible on both KVR and Gearspace within the first weeks of launch.
 
 ---
 

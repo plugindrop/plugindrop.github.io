@@ -92,7 +92,7 @@ It is worth checking the current LABS catalog alongside BBC SO Discover rather t
 
 Virtual Playing Orchestra assembles openly licensed orchestral samples into a functional full-orchestra SFZ library. The woodwind sections cover flute, oboe, clarinet, and bassoon with multiple articulations — sustain, staccato, and additional performance variations — that BBC SO Discover does not include in its free tier. VPO is built on openly licensed samples, so sample quality falls short of commercial library recordings.
 
-The honest workflow caveat: VPO requires an SFZ player and a more hands-on setup than a commercial instrument. For producers who need woodwind sections that move expressively through a score, VPO's articulation breadth is a genuine differentiator among free options.
+For producers who need woodwind sections that move expressively through a score, VPO's articulation breadth is a genuine differentiator among free options.
 
 **Best for:** Budget producers who need orchestral woodwind sections with multiple articulations and are comfortable with an SFZ-based workflow.
 

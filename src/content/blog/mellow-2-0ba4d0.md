@@ -45,7 +45,7 @@ UJAM runs promotional discounts across their Virtual Bassist series several time
 | Toontrack EZbass | ~$149 | Tab-style MIDI editing, electric bass-focused library |
 | Native Instruments Session Bassist Upright Bass | Check store | Deeper articulation set, NKS integration |
 
-UJAM Virtual Bassist ROYAL covers similar acoustic-leaning territory with a different tonal character — if you need both styles, UJAM occasionally bundles their series at significant discounts. Toontrack EZbass offers more hands-on MIDI editing control and suits producers who prefer building basslines manually, but comes in at a higher regular price.
+UJAM Virtual Bassist ROYAL covers similar acoustic-leaning territory with a different tonal character — if you need both styles, UJAM occasionally bundles their series at significant discounts.
 
 ## FAQ
 

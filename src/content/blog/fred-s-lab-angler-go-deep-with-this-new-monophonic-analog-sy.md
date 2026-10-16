@@ -14,7 +14,7 @@ score: 4.0
 
 ## What Is the Fred's Lab Angler?
 
-Fred's Lab is a boutique synthesizer brand known for building affordable analog hardware with a hands-on, knob-per-function philosophy. The Angler is their latest monophonic analog synthesizer, built around a signal path designed to go deep — thick bass tones, subby leads, and fat, resonant textures. It's a hardware synth aimed squarely at producers who want tactile analog control without the price tag of vintage gear.
+The Angler is their latest monophonic analog synthesizer, built around a signal path designed to go deep — thick bass tones, subby leads, and fat, resonant textures. It's a hardware synth aimed squarely at producers who want tactile analog control without the price tag of vintage gear.
 
 ---
 
@@ -32,7 +32,7 @@ Fred's Lab is a boutique synthesizer brand known for building affordable analog 
 
 ## What Producers Are Saying
 
-The Angler is a newer release, so large-scale community discussion is still building. Early coverage on GearNews has highlighted its focus on deep, analog bass tones as a key selling point. Check [KVR Audio](https://www.kvraudio.com) and [Reddit's r/synthesizers](https://www.reddit.com/r/synthesizers/) for early impressions and hands-on user feedback as the synth reaches more producers.
+The Angler is a newer release, so large-scale community discussion is still building. Early coverage on GearNews has highlighted its focus on deep, analog bass tones as a key selling point.
 
 ---
 
@@ -65,7 +65,7 @@ Check current pricing at Thomann
 | Arturia MiniBrute 2 | Check retailer | Adds a semi-modular patchbay and sequencer |
 | Korg Monologue | Check retailer | Built-in 16-step sequencer; smaller form factor |
 
-If raw hands-on analog bass tone is the priority and you want to stay compact, the Angler is worth evaluating. If sequencing or modular expandability matters more to your workflow, the MiniBrute 2 covers more ground at a higher price.
+If sequencing or modular expandability matters more to your workflow, the MiniBrute 2 covers more ground at a higher price.
 
 ---
 

@@ -23,7 +23,7 @@ draft: true
 
 Free is free. When a paid plugin goes to $0 with a coupon, you grab it first and ask questions later.
 
-2B Crushed is a saturation and crushing effect plugin from 2B Played Music, a boutique music production tools brand. The plugin is designed to add harmonic color, grit, and drive to individual tracks or busses — the kind of analogue warmth that digital recordings often need. Check the [product page](https://2bplayed.com/product/2b-crushed/) for the full technical overview, but the name alone signals what it's built for: controlled destruction that sounds musical.
+2B Crushed is a saturation and crushing effect plugin from 2B Played Music, a boutique music production tools brand. The plugin is designed to add harmonic color, grit, and drive to individual tracks or busses — the kind of analogue warmth that digital recordings often need.
 
 ---
 

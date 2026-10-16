@@ -11,9 +11,12 @@ import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import NewsletterForm from '../components/NewsletterForm.astro';
 import PriceTracker from '../components/PriceTracker.astro';
+import PriceRecord from '../components/PriceRecord.astro';
 import TopDeals from '../components/TopDeals.astro';
 import DealFactBox from '../components/DealFactBox.astro';
 import FactsTable from '../components/FactsTable.astro';
+import VerifiedFactsList from '../components/VerifiedFactsList.astro';
+import { buildCompareModel } from '../lib/compareTable.mjs';
 import FactCard from '../components/FactCard.astro';
 import PlanTable from '../components/PlanTable.astro';
 import LegacyFactCard from '../components/LegacyFactCard.astro';
@@ -34,6 +37,7 @@ import {
 	findTrackerEntryForPost,
 	buildFactBox,
 	productNameOf,
+	shouldShowProductCta,
 	ctaHref as buildCtaHref,
 	ctaLabel,
 	ctaShortLabel,
@@ -133,12 +137,14 @@ const _showPlanTable = _displayFacts && _isPlanArticle && (_catalog?.kind === 'c
   ? _currentVendorIds.length === 2 && _currentVendorIds.every((id) => _planCount(id) >= 1)
   : _catalog?.kind === 'review' && _currentVendorIds.length === 1 && _planCount(_currentVendorIds[0]) >= 2);
 const _showLegacyFactCard = _displayFacts && _catalog?.kind === 'review' && Boolean(_legacyId);
-const _showFactsTable = _displayFacts && !_isPlanArticle && ['list', 'comparison'].includes(_catalog?.kind ?? '') && _catalogProducts.length + _currentVendorIds.length >= 2 && _pricedCatalogCount >= 2;
+const _compareModel = buildCompareModel({ slug: currentSlug, rawBody, catalog: _catalog, vendorMap: _currentVendorIds, vendorFacts: _vendorFacts, vendorProducts: _vendorProducts, priceEntries: _allTrackerEntries });
+const _showFactsTable = _displayFacts && !_isPlanArticle && ['list', 'comparison'].includes(_catalog?.kind ?? '') && _compareModel.mode !== 'none';
 const _showFactCard = _displayFacts && !_isPlanArticle && !_newerProduct && _catalog?.kind === 'review' && _catalogProducts.length + _currentVendorIds.length === 1 && _pricedCatalogCount === 1;
 const _postForMatch = { data: { title, priceTrack, affiliate } };
 const _trackerMatch = findTrackerEntryForPost(_postForMatch, _allTrackerEntries, rawBody);
 const _fact = _trackerMatch ? buildFactBox(_trackerMatch.entry, Date.now()) : null;
 const productName = productNameOf(_postForMatch);
+const _showProductCta = shouldShowProductCta({ slug: currentSlug, tags, kind: _catalog?.kind });
 // The tracker's own observation wins over stale frontmatter: if the last
 // actual store check found the sale ended but saleExpiry hasn't caught up
 // yet, treat this as ended everywhere the CTA/fact-box/Product schema look.
@@ -1112,7 +1118,7 @@ const featuredDeals = isEvergreen ? allPosts
 					</div>
 
 					{/* Deal CTA Box — product widget style */}
-					{affiliate && (dealPrice || discount || saleExpired || saleLapsed) && (
+					{_showProductCta && affiliate && (dealPrice || discount || saleExpired || saleLapsed) && (
 						<div class={`deal-cta-box${saleExpired ? ' sale-expired' : saleLapsed ? ' sale-expired sale-lapsed' : ''}`}>
 							{(saleExpired || _trackerSaysEnded || saleLapsed) ? (
 								<>
@@ -1175,12 +1181,13 @@ const featuredDeals = isEvergreen ? allPosts
 
 					<!-- Article content (from markdown) -->
 					{(_showFactsTable || _showFactCard || _showPlanTable || _showLegacyFactCard) && <section id="compare-table">
-						<h2>{_showPlanTable && currentSlug === 'fl-studio-21-review' ? 'FL Studio editions and prices today' : 'Compare the plugins in this guide'}</h2>
-						{_showPlanTable ? <PlanTable vendorProducts={_currentVendorIds} kind={_catalog?.kind as 'comparison' | 'review'} /> : _showLegacyFactCard ? <LegacyFactCard vendorProduct={_legacyId!} /> : _showFactsTable ? <FactsTable products={_catalogProducts} vendorProducts={_currentVendorIds} order={_vendorRowOrder} slug={currentSlug} /> : _currentVendorIds.length ? <FactCard vendorProduct={_currentVendorIds[0]} slug={currentSlug} /> : <FactCard product={_catalogProducts[0]} slug={currentSlug} />}
+						<h2>{_showPlanTable ? 'Editions and prices' : _showFactsTable && _compareModel.free ? 'Verified facts from developer pages' : 'Compare the products in this guide'}</h2>
+						{_showPlanTable ? <PlanTable vendorProducts={_currentVendorIds} kind={_catalog?.kind as 'comparison' | 'review'} /> : _showLegacyFactCard ? <LegacyFactCard vendorProduct={_legacyId!} /> : _showFactsTable ? _compareModel.mode === 'table' ? <FactsTable model={_compareModel} /> : <VerifiedFactsList model={_compareModel} /> : _currentVendorIds.length ? <FactCard vendorProduct={_currentVendorIds[0]} slug={currentSlug} /> : <FactCard product={_catalogProducts[0]} slug={currentSlug} />}
 						<DealMath names={_catalogProducts} entries={_catalogProducts.map((name) => _allTrackerEntries[name])} />
 					</section>}
 					{_newerProduct && <NewerVersionNotice product={_newerProduct} />}
 					<slot />
+					{dealPrice && <PriceRecord entry={_trackerMatch?.entry} />}
 					{_catalogProducts.length === 1 && <VersionHistory product={_catalogProducts[0]} />}
 
 					{priceTrack.length > 0 && (
@@ -1260,7 +1267,7 @@ const featuredDeals = isEvergreen ? allPosts
 		</main>
 
 		{/* Sticky CTA bar */}
-		{affiliate ? (
+		{_showProductCta && affiliate ? (
 			<div class="sticky-cta" id="sticky-cta">
 				<span class="sticky-title">{(saleExpired || saleLapsed || _trackerSaysEnded) ? title : (dealPrice ? `${_isFreePrice ? 'FREE' : dealPrice} — ${title}` : title)}</span>
 				<a href={_ctaHref} class="deal-cta-btn sticky-cta-link" target="_blank" rel="noopener sponsored" data-slug={currentSlug}>

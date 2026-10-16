@@ -28,7 +28,10 @@ export interface PriceEntry {
 
 /** True when a Plugin Boutique URL points to search results, not a product page. */
 export function isSearchUrl(pb_url: string): boolean {
-  return pb_url.includes('/search?');
+  try {
+    const url = new URL(pb_url, 'https://www.pluginboutique.com');
+    return ['pluginboutique.com', 'www.pluginboutique.com'].includes(url.hostname) && url.pathname.replace(/\/$/, '') === '/search' && url.searchParams.has('q');
+  } catch { return false; }
 }
 
 // Slug used for per-product pages: /plugin-prices/{slug}/

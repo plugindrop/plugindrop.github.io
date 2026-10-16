@@ -27,8 +27,8 @@ draft: false
 | Orchestral Tools Berlin Strings | Check product page | Detailed, close-miked string articulations | [Plugin Boutique](https://www.pluginboutique.com/search?q=Orchestral%20Tools%20Berlin%20Strings&a_aid=69cb95abe1763&chan=art&data1=best-orchestral-vst-plugins-2026) |
 | Native Instruments Session Strings Pro 2 | Check product page | fast-loading string ensemble | [Plugin Boutique](https://www.pluginboutique.com/search?q=Native%20Instruments%20Session%20Strings%20Pro%202&a_aid=69cb95abe1763&chan=art&data1=best-orchestral-vst-plugins-2026) |
 | EastWest Hollywood Orchestra Opus Edition | Check product page | Deep articulation libraries with subscription access | [Plugin Boutique](https://www.pluginboutique.com/search?q=EastWest%20Hollywood%20Orchestra%20Opus%20Edition&a_aid=69cb95abe1763&chan=art&data1=best-orchestral-vst-plugins-2026) |
-| Spitfire Audio LABS | Free | No-cost entry into Spitfire's sound and workflow | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-orchestral-vst-plugins-2026) |
-| ProjectSAM Free Orchestra | Free | Full free orchestral starter set, no subscription | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-orchestral-vst-plugins-2026) |
+| Spitfire Audio LABS | Free | No-cost entry into Spitfire's sound and workflow | — |
+| ProjectSAM Free Orchestra | Free | Full free orchestral starter set, no subscription | — |
 
 ## Introduction
 
@@ -149,7 +149,7 @@ Recorded at Teldex Scoring Stage, Berlin Strings has a detailed articulation set
 - **Formats:** VST3, AU, AAX (Spitfire's free player)
 - LABS is Spitfire's ongoing series of free instruments, periodically refreshed with new patches drawn from the same recording sessions used in their paid libraries. It's a low-risk way to hear Spitfire's room sound before committing to BBC Symphony Orchestra.
 - **Best for:** Producers who want a taste of premium orchestral texture at zero cost.
-[→ Download Spitfire Audio LABS Free](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-orchestral-vst-plugins-2026)
+
 
 ### ProjectSAM Free Orchestra — a genuinely usable free orchestral starter set
 
@@ -160,7 +160,7 @@ Recorded at Teldex Scoring Stage, Berlin Strings has a detailed articulation set
 - **Formats:** VST3, AU, AAX (Kontakt Player)
 - Unlike most "free" orchestral offerings that are thin teaser patches, ProjectSAM's Free Orchestra covers strings, brass, woodwinds, and percussion with no subscription or account gating required.
 - **Best for:** Producers testing whether orchestral elements belong in their sound before spending anything.
-[→ Download ProjectSAM Free Orchestra Free](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-orchestral-vst-plugins-2026)
+
 
 ## Full Comparison Table
 
@@ -174,8 +174,8 @@ Recorded at Teldex Scoring Stage, Berlin Strings has a detailed articulation set
 | VSL Synchron Strings Pro | Check product page | Strings | Granular dynamic and round-robin control | [Get it](https://www.pluginboutique.com/search?q=VSL%20Synchron%20Strings%20Pro&a_aid=69cb95abe1763&chan=art&data1=best-orchestral-vst-plugins-2026) |
 | Cinesamples CineBrass CORE | Check product page | Brass | Punchy, mix-forward ensemble brass | [Get it](https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/11295-CineBrass-Core?a_aid=69cb95abe1763&chan=art&data1=best-orchestral-vst-plugins-2026) |
 | Native Instruments Symphony Series Woodwinds | Check product page | Woodwinds | Practical ensemble woodwind section | [Get it](https://www.pluginboutique.com/search?q=Native%20Instruments%20Symphony%20Series%20Woodwinds&a_aid=69cb95abe1763&chan=art&data1=best-orchestral-vst-plugins-2026) |
-| Spitfire Audio LABS | Free | Mixed | Rotating free patches from top-tier sessions | [Get it](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-orchestral-vst-plugins-2026) |
-| ProjectSAM Free Orchestra | Free | Full orchestra | Strings, brass, woodwinds, percussion, no gating | [Get it](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-orchestral-vst-plugins-2026) |
+| Spitfire Audio LABS | Free | Mixed | Rotating free patches from top-tier sessions | — |
+| ProjectSAM Free Orchestra | Free | Full orchestra | Strings, brass, woodwinds, percussion, no gating | — |
 
 ## How to Choose
 

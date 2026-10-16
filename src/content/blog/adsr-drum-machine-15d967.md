@@ -38,7 +38,7 @@ Specific feature lists can change between product updates, so treat the followin
 - **DAW integration** — as a plugin, it's designed to sit inside your existing production setup rather than run as a standalone app.
 - **ADSR sound design pedigree** — ADSR Sounds has a long history producing sample content and drum kits, which is the base this plugin draws from.
 
-For exact specs like kit count, sample format, or CPU requirements, check the product page for details.
+
 
 ## Who Is It For?
 

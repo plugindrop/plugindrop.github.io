@@ -75,7 +75,7 @@ Sugar Bytes doesn't run deep discounts constantly — when they do appear on Plu
 | iZotope Stutter Edit 2 | ~$149 | Performance-oriented with macro control; less step-sequencer focused |
 | Sugar Bytes Turnado | ~$129 | Knob-based real-time effect control rather than step sequencing |
 
-If real-time hands-on performance is the priority, Stutter Edit 2 covers that ground. If you specifically want a step-sequencer approach to multi-effects with beat-accurate triggering, Effectrix 2 is the more direct fit.
+If you specifically want a step-sequencer approach to multi-effects with beat-accurate triggering, Effectrix 2 is the more direct fit.
 
 ---
 

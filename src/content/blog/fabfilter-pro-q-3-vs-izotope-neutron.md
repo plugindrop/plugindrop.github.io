@@ -90,7 +90,7 @@ Neutron 4's interface is more complex by necessity — it houses six processing 
 
 ## Head-to-Head: Sound Quality & Transparency
 
-Both plugins sound excellent at their highest quality settings. Pro-Q 3's Zero Latency mode is virtually transparent for gentle boosts and cuts, and the Linear Phase mode delivers mastering-grade precision where phase coherence is critical. The filter algorithms are among the most refined available in any software EQ today.
+Pro-Q 3's Zero Latency mode is virtually transparent for gentle boosts and cuts, and the Linear Phase mode delivers mastering-grade precision where phase coherence is critical. The filter algorithms are among the most refined available in any software EQ today.
 
 Neutron 4's EQ module is also clean and musical, but it's tuned for decisions made in the context of a full mix rather than isolation. Some engineers note that Neutron's EQ has a subtly more "musical" character during aggressive boosts, while others specifically want Pro-Q 3's complete neutrality. For mastering and critical listening work, Pro-Q 3's transparency is objectively the stronger choice.
 

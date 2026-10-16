@@ -27,7 +27,7 @@ priceTrack:
 | FabFilter Pro-C 3 | $199 | All-purpose mixing & mastering | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&chan=art&data1=best-compressor-plugins-2026) |
 | TDR Kotelnikov | Free | Mastering, mix bus glue | [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
 | Klanghelm DC8C | ~$20 | Analog character, detailed mix work | [Get It](https://klanghelm.com/contents/products/DC8C) |
-| Analog Obsession LALA | Free | Optical warmth on vocals & acoustics | [Plugin Boutique](https://www.pluginboutique.com/search?q=Analog%20Obsession%20LALA&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-compressor-plugins-2026&chan=art&data1=best-compressor-plugins-2026) |
+| Analog Obsession LALA | Free | Optical warmth on vocals & acoustics | — |
 | OTT (Xfer Records) | Free | Upward compression, EDM, synth layers | [Free Download](https://xferrecords.com/freeware) |
 | Rough Rider 3 | Free | Aggressive drums, sidechain pump | [Free Download](https://www.audiodamage.com/pages/free-and-legacy) |
 | Waves SSL G-Master Buss | ~$29–$49 | Bus glue, SSL console tone | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
@@ -211,7 +211,7 @@ It does one job and does not pretend otherwise. Given its design, the release ma
 | FabFilter Pro-C 3 | $199 | Multi-style | 14 styles, M/S, sidechain EQ, visual feedback | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&chan=art&data1=best-compressor-plugins-2026) |
 | Klanghelm DC8C | ~$20 | Analog character | 4 characters, expert mode, analog saturation | [Get It](https://klanghelm.com/contents/products/DC8C) |
 | TDR Kotelnikov | Free | Mastering/bus | Low-distortion, stereo linking, release delta | [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
-| Analog Obsession LALA | Free | Optical emulation | LA-2A response, musical dynamics, simple UI | [Free](https://www.pluginboutique.com/search?q=Free&a_aid=69cb95abe1763&chan=art&data1=best-compressor-plugins-2026) |
+| Analog Obsession LALA | Free | Optical emulation | LA-2A response, musical dynamics, simple UI | — |
 | OTT (Xfer Records) | Free | Upward/multiband | 3-band upward compression, depth control | [Free](https://xferrecords.com/freeware) |
 | Waves SSL G-Master Buss | ~$29–$49 | Bus glue | SSL G console character | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
 | Cytomic The Glue | ~$75 | Bus glue | SSL 4000G accuracy, analog harmonic content | [Get It](https://www.pluginboutique.com/search?q=Cytomic%20The%20Glue&a_aid=69cb95abe1763&chan=art&data1=best-compressor-plugins-2026) |

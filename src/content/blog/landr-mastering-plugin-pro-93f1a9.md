@@ -66,7 +66,7 @@ A 33% reduction on LANDR's plugin is a meaningful move. LANDR runs periodic prom
 | Brainworx bx_masterdesk | Varies | Analog-style mastering chain; no AI engine |
 | Waves Abbey Road TG Mastering Chain | Varies by sale | Hardware emulation-focused workflow |
 
-If you want hands-on control with AI suggestions alongside a complete signal chain, iZotope Ozone covers significantly more ground. If the appeal is specifically a fast, AI-first mastering plugin with a clean interface and minimal setup, LANDR's in-DAW approach is the more direct option.
+If the appeal is specifically a fast, AI-first mastering plugin with a clean interface and minimal setup, LANDR's in-DAW approach is the more direct option.
 
 ---
 

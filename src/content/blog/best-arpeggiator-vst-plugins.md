@@ -23,7 +23,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| HY-Arp4 Free | Free | Beginners wanting step-based arp control | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-arpeggiator-vst-plugins) |
+| HY-Arp4 Free | Free | Beginners wanting step-based arp control | — |
 | Xfer Cthulhu | ~$40 | Chord-triggered arp patterns in EDM and pop | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-arpeggiator-vst-plugins) |
 | Riffer | ~$39 | Generative melodic arp ideas and pattern-breaking | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-arpeggiator-vst-plugins) |
 | Scaler 2 | ~$59 | Scale-aware chord progressions with built-in arp engine | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-arpeggiator-vst-plugins) |
@@ -58,7 +58,7 @@ HY-Plugins is a Japanese developer that offers free versions across its plugin l
 
 **Best for:** Any producer on any DAW who needs step-programmable arp patterns with per-note velocity and length control, at zero cost.
 
-[→ Download HY-Arp4 Free on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-arpeggiator-vst-plugins)
+
 
 ---
 
@@ -146,7 +146,7 @@ Thesys has the steepest learning curve of any tool here. It is not the right too
 
 | Plugin | Price | Type | Highlights | CTA |
 |--------|-------|------|------------|-----|
-| HY-Arp4 Free | Free | Step arpeggiator | Per-step velocity, pitch, length; works in any DAW | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-arpeggiator-vst-plugins) |
+| HY-Arp4 Free | Free | Step arpeggiator | Per-step velocity, pitch, length; works in any DAW | — |
 | Xfer Cthulhu | ~$40 | Chord trigger + step arp | Chord voicing engine + pattern arp; MIDI output only | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-arpeggiator-vst-plugins) |
 | Riffer | ~$39 | Generative MIDI riff engine | Probability-based melodic generation; pairs with scale tools | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-arpeggiator-vst-plugins) |
 | Scaler 2 | ~$59 | Chord + scale + arp suite | Music theory integration, chord detection, expression engine | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-arpeggiator-vst-plugins) |

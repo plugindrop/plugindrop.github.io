@@ -136,7 +136,6 @@ The break-even calculation for the online service, on the prices we can source: 
 Based on LANDR's own descriptions of the service, these are the structural limits to weigh:
 
 - **Limited manual control in the online service:** You pick a style (Warm, Balanced or Open) and an intensity rather than shaping individual processing stages, so material that needs a specific treatment has fewer options.
-- **No exposed mid/side control in the online service:** We found no mid/side setting in LANDR's published descriptions of it, so stereo-width issues are better fixed in the mix or with a plugin that offers M/S processing.
 - **The online service itself has no DAW integration:** LANDR's online mastering service works on uploaded stereo files, so it is limited to final, printed stereo files. If you want in-DAW processing, LANDR sells a separate Mastering Plugin (see above), which has its own price and licensing.
 - **Subscription dependency:** Check LANDR's current terms for what access you keep after canceling. For producers building a long-term catalog, that is a dependency to plan for, since you do not own software at the end of a subscription.
 

@@ -3,10 +3,11 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import priceData from '../data/price_history.json';
+import { siteStats } from '../lib/siteStats.mjs';
+const { trackedProducts, trackingSince } = siteStats(priceData);
 const entries = Object.values({ ...priceData.bundles, ...priceData.plugins });
 const rows = entries.flatMap(entry => entry.history ?? []);
 const sourceCounts = ['auto_check', 'pb_deals_poll', 'wayback', 'research'].map(source => ({ source, count: rows.filter(row => source === 'research' ? row.source?.startsWith('research') : row.source === source).length }));
-const firstAutoCheck = rows.filter(row => row.source === 'auto_check').map(row => row.date).sort()[0];
 const regularChanges = Object.entries({ ...priceData.bundles, ...priceData.plugins }).flatMap(([name, entry]) => {
   let previous = null;
   return [...(entry.history ?? [])].filter(row => row.source === 'auto_check' && row.reg_src === 'page' && Number.isFinite(row.regular)).sort((a, b) => a.date.localeCompare(b.date)).flatMap(row => {
@@ -164,11 +165,11 @@ const regularChanges = Object.entries({ ...priceData.bundles, ...priceData.plugi
 
 				<div class="stat-line">
 					<div class="stat-box">
-						<span class="num">{entries.length}</span>
+						<span class="num" data-tracked-products={trackedProducts}>{trackedProducts}</span>
 						<span class="lbl">plugins &amp; bundles tracked</span>
 					</div>
 					<div class="stat-box">
-						<span class="num">{firstAutoCheck ?? '—'}</span>
+						<span class="num" data-tracking-since={trackingSince ?? ''}>{trackingSince ?? '—'}</span>
 						<span class="lbl">automated checks began; historical data extends to 2021 where available</span>
 					</div>
 				</div>
@@ -177,7 +178,7 @@ const regularChanges = Object.entries({ ...priceData.bundles, ...priceData.plugi
 				<p>
 					For each product on my <a href="/plugin-prices/">plugin price page</a>, I record its
 					current price, its typical regular (non-sale) price, its typical sale price, and the
-					lowest price I've recorded since I started tracking. I currently follow {entries.length}
+					lowest price I've recorded since I started tracking. I currently follow {trackedProducts}
 					plugins and bundles, primarily sold through <strong>Plugin Boutique</strong> and, where
 					relevant, direct vendor stores.
 				</p>
@@ -221,7 +222,7 @@ const regularChanges = Object.entries({ ...priceData.bundles, ...priceData.plugi
 				<h2>What "Lowest Tracked" Means</h2>
 				<p>
 					When you see <strong>"Lowest tracked"</strong> next to a product, that's the lowest
-					price <em>I have on record</em> since automated checks began on {firstAutoCheck ?? 'the recorded start date'} — it is
+					price <em>I have on record</em> since automated checks began on {trackingSince ?? 'the recorded start date'} — it is
 					<strong> not</strong> a guaranteed claim that the product has never sold for less,
 					anywhere, ever. Plugin pricing has decades of history in some cases (Waves, Native
 					Instruments, etc.), and one-off coupon stacks or regional pricing can occasionally beat

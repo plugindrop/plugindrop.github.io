@@ -4,6 +4,7 @@ import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
 import FactsTable from '../../components/FactsTable.astro';
+import { buildCompareModel } from '../../lib/compareTable.mjs';
 import categoryCopyRaw from '../../data/category_copy.json';
 import postCatalogMap from '../../data/post_catalog_map.json';
 import { categoryForProduct } from '../../lib/categoryInference.mjs';
@@ -38,6 +39,7 @@ const indexablePricePaths = new Set(indexablePricePagePaths(priceData));
 const isIndexableRow = (row: VerdictRow) => indexablePricePaths.has(`/plugin-prices/${row.slug}/`);
 
 const rows = sortRows(rowsFor(category.products, data)).filter(isIndexableRow);
+const compareModel = buildCompareModel({ slug: 'best-' + category.slug, catalog: { products: rows.map((row) => row.name) }, priceEntries: { ...priceData.bundles, ...priceData.plugins } });
 const copy = (categoryCopyRaw as Record<string, { what_it_does: string; what_to_compare: string[]; who_needs_it: string }>)[category.slug];
 const catalog = postCatalogMap as Record<string, { category?: string | null; kind: string; products: string[] }>;
 const allEntries = { ...priceData.bundles, ...priceData.plugins } as Record<string, any>;
@@ -170,7 +172,7 @@ function verdictClass(v: VerdictRow['verdict']): string {
       </section>
       <section class="page-section">
         <h2 class="section-title">Compare tracked {category.label} plugins</h2>
-        <FactsTable products={rows.map((row) => row.name)} slug={`best-${category.slug}`} />
+        {compareModel.mode === 'table' ? <FactsTable model={compareModel} /> : <ul class="link-list">{rows.map((row) => <li><a href={`/plugin-prices/${row.slug}/`}>{row.name}</a></li>)}</ul>}
       </section>
       <section class="page-section">
         <h2 class="section-title">Guides for {category.label}</h2>

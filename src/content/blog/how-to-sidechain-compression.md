@@ -16,7 +16,7 @@ draft: false
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
-| Klanghelm DC8C | Free (gratis version) | Learning sidechain compression without cost | [Plugin Boutique](https://www.pluginboutique.com/search?q=Klanghelm%20DC8C&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-sidechain-compression&chan=art&data1=how-to-sidechain-compression) |
+| Klanghelm DC8C | Free (gratis version) | Learning sidechain compression without cost | — |
 | FabFilter Pro-C 3 | $199 | Transparent or pumping sidechain in any context | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&chan=art&data1=how-to-sidechain-compression) |
 | Xfer LFO Tool | $49.95 | Volume automation-style pumping as sidechain alternative | [Plugin Boutique](https://www.pluginboutique.com/search?q=Xfer%20LFO%20Tool&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-sidechain-compression&chan=art&data1=how-to-sidechain-compression) |
 | Waves OneKnob Pumper | ~$29 | Fast, tempo-synced sidechain effect without routing | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/13733-OneKnob-Pumper?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-sidechain-compression&chan=art&data1=how-to-sidechain-compression) |
@@ -73,7 +73,7 @@ For pumping sidechain: ratio 8:1 or higher, threshold at -20 to -30 dB (so the k
 
 **Starting settings for kick-bass sidechain:** Ratio 8:1, Threshold -25 dB, Attack 10ms, Release 150ms (adjust for your BPM), Makeup Gain +3–6 dB.
 
-[→ Get Klanghelm DC8C Free (via Plugin Boutique)](https://www.pluginboutique.com/search?q=Klanghelm%20DC8C&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=how-to-sidechain-compression&chan=art&data1=how-to-sidechain-compression)
+
 
 ---
 

@@ -20,7 +20,7 @@ draft: false
 |--------|-------|----------|--------|
 | Surge XT | Free | Cinematic pads, FM, deep modulation | [Free Download](https://surge-synthesizer.github.io/) |
 | Vital | Free | Wavetable, spectral morph, modern sound design | [Free](https://vital.audio/) |
-| Phase Plant Lite | Free | Modular synthesis exploration | [Official Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=free-alternative-to-omnisphere) |
+| Phase Plant Lite | Free | Modular synthesis exploration | — |
 | ZynAddSubFX | Free | Additive/PADsynth orchestral textures | [Official Site](https://zynaddsubfx.sourceforge.io/) |
 | Phase Plant | $99 | Full modular design, no generator cap | [Free via Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=free-alternative-to-omnisphere) |
 | Arturia Pigments 7 | $199 | Premium multi-engine synthesis | [Official Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7?a_aid=69cb95abe1763&chan=art&data1=free-alternative-to-omnisphere) |
@@ -100,7 +100,7 @@ Phase Plant Lite is an honest preview of a paid product. Kilohearts' commercial 
 
 **Best for:** Producers exploring modular-style synthesis and anyone evaluating Phase Plant as a long-term Omnisphere alternative.
 
-[→ Get Phase Plant Lite (via Plugin Boutique)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=free-alternative-to-omnisphere)
+
 
 ---
 

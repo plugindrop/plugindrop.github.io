@@ -19,7 +19,7 @@ converted: true
 
 ## What Is Emotive Drum Bass for Serum 2?
 
-Emotive Drum Bass for Serum 2 is a synth preset pack designed specifically for the Xfer Records Serum 2 synthesizer, targeting producers working in the drum & bass genre. As the name suggests, the pack leans into the emotional, melodic side of DnB — think rolling basslines, textured pads, and atmospheric leads rather than pure neuro aggression. It's listed under Plugin Boutique's synth preset category, making it a straightforward drop-in expansion for existing Serum 2 users.
+Emotive Drum Bass for Serum 2 is a synth preset pack designed specifically for the Xfer Records Serum 2 synthesizer, targeting producers working in the drum & bass genre. It's listed under Plugin Boutique's synth preset category, making it a straightforward drop-in expansion for existing Serum 2 users.
 
 ---
 

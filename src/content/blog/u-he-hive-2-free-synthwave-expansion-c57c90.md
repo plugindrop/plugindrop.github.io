@@ -64,7 +64,7 @@ u-he has an established reputation across synthesis communities. The developer's
 
 ## Pricing & Deal Details
 
-| Regular Price | Deal Price | You Save |
+| Regular Price | Last observed price | You Save |
 |---|---|---|
 | ~~$167.42~~ | $149.00 | $18.42 (~11%) |
 

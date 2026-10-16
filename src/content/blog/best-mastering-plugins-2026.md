@@ -27,9 +27,9 @@ draft: false
 | FabFilter Pro-L 2 | ~$199 | Transparent mastering limiter | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
 | FabFilter Pro-Q 3 | ~$179 | Surgical mastering EQ | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
 | Gullfoss | ~$199 | Intelligent spectral enhancement | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
-| TDR Nova | Free | Dynamic EQ at zero cost | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
-| Voxengo SPAN | Free | Spectrum analysis | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
-| Youlean Loudness Meter 2 | Free | LUFS compliance metering | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
+| TDR Nova | Free | Dynamic EQ at zero cost | [TDR Nova (official site)](https://www.tokyodawn.net/tdr-nova/) |
+| Voxengo SPAN | Free | Spectrum analysis | [Voxengo SPAN (official site)](https://www.voxengo.com/product/span/) |
+| Youlean Loudness Meter 2 | Free | LUFS compliance metering | — |
 
 ## Introduction
 
@@ -96,7 +96,7 @@ The interface is denser than FabFilter's, which reflects its design intent: it t
 
 **Best for:** Producers who need dynamic EQ without any budget to spend.
 
-[→ Download TDR Nova Free on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026)
+[TDR Nova (official site)](https://www.tokyodawn.net/tdr-nova/)
 
 ---
 
@@ -136,7 +136,7 @@ The free version's deliberately minimal controls — attack, release, threshold,
 
 **Best for:** Transparent program compression before the final limiter, at no cost.
 
-[→ Download TDR Kotelnikov Free on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026)
+[TDR Kotelnikov (official site)](https://www.tokyodawn.net/tdr-kotelnikov/)
 
 ---
 
@@ -157,7 +157,7 @@ In a mastering context, SPAN's primary value is referential: load it on your mas
 
 **Best for:** Real-time spectrum analysis and commercial reference comparison at zero cost.
 
-[→ Download Voxengo SPAN Free on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026)
+[Voxengo SPAN (official site)](https://www.voxengo.com/product/span/)
 
 ---
 
@@ -176,7 +176,7 @@ The Pro version adds offline analysis, batch processing, and timeline visualizat
 
 **Best for:** LUFS and true peak monitoring for streaming platform compliance.
 
-[→ Download Youlean Loudness Meter 2 Free on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026)
+[Youlean Loudness Meter (official site)](https://youlean.co/youlean-loudness-meter/)
 
 ---
 
@@ -209,10 +209,10 @@ Gullfoss earns its place in a mastering chain when applied to material that does
 | FabFilter Pro-Q 3 | ~$179 | Mastering EQ | Dynamic EQ, linear phase, inter-instance spectrum matching | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
 | FabFilter Pro-L 2 | ~$199 | Mastering limiter | 8 algorithms, built-in LUFS metering, unity-gain bypass | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
 | Gullfoss | ~$199 | Intelligent EQ | Psychoacoustic spectral correction, real-time adaptation | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
-| TDR Nova | Free / ~$52 GE | Dynamic EQ | Frequency-selective compression, parallel architecture | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
-| TDR Kotelnikov | Free / ~$52 GE | Mastering compressor | Bass sidechain filtering, transparent program compression | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
-| Voxengo SPAN | Free | Spectrum analyzer | Configurable display, real-time and averaged analysis | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
-| Youlean Loudness Meter 2 | Free | LUFS metering | Streaming-target compliance, clear large-format display | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
+| TDR Nova | Free / ~$52 GE | Dynamic EQ | Frequency-selective compression, parallel architecture | [TDR Nova (official site)](https://www.tokyodawn.net/tdr-nova/) |
+| TDR Kotelnikov | Free / ~$52 GE | Mastering compressor | Bass sidechain filtering, transparent program compression | [TDR Kotelnikov (official site)](https://www.tokyodawn.net/tdr-kotelnikov/) |
+| Voxengo SPAN | Free | Spectrum analyzer | Configurable display, real-time and averaged analysis | [Voxengo SPAN (official site)](https://www.voxengo.com/product/span/) |
+| Youlean Loudness Meter 2 | Free | LUFS metering | Streaming-target compliance, clear large-format display | — |
 
 ---
 
