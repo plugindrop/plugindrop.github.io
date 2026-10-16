@@ -14,6 +14,7 @@
 
 import { pbProductId } from './dealRanking.mjs';
 import { isSearchUrl, pbLink as basePbLink, slugify } from './priceUtils.ts';
+import articleTrackerAliases from '../data/article_tracker_aliases.json' with { type: 'json' };
 
 const DAY_MS = 86400000;
 
@@ -63,6 +64,8 @@ function pbIdentity(url) {
  * in the article body (only when it resolves to exactly one entry).
  */
 export function findTrackerEntryForPost(post, entries, rawBody) {
+  const alias = articleTrackerAliases[post?.id ?? post?.data?.articleSlug];
+  if (alias) return entries[alias] ? { name: alias, entry: entries[alias] } : null;
   const trackedName = post?.data?.priceTrack?.[0];
   const productName = productNameOf(post);
   const affiliate = post?.data?.affiliate;

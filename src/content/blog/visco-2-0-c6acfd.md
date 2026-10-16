@@ -11,7 +11,7 @@ originalPrice: "$139.00"
 discount: "29% OFF"
 saleExpiry: "2026-10-18"
 saleExpirySource: "fallback"
-draft: false
+draft: true
 ---
 **TL;DR:** Visco 2.0 from Forever 89 is currently ~29% off its $139 list price, putting it at $99. It's a sample-modeling drum machine built around an 8-track, 32-voice engine with a modulation matrix and step sequencer. Grab it through [Plugin Boutique](https://www.pluginboutique.com/search?q=Visco+2+0&a_aid=69cb95abe1763&chan=art&data1=visco-2-0-c6acfd&utm_source=plugindrop&utm_medium=article&utm_campaign=visco-2-0-c6acfd) while the discount is live.
 

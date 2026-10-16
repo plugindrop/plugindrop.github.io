@@ -140,7 +140,7 @@ const _showLegacyFactCard = _displayFacts && _catalog?.kind === 'review' && Bool
 const _compareModel = buildCompareModel({ slug: currentSlug, rawBody, catalog: _catalog, vendorMap: _currentVendorIds, vendorFacts: _vendorFacts, vendorProducts: _vendorProducts, priceEntries: _allTrackerEntries });
 const _showFactsTable = _displayFacts && !_isPlanArticle && ['list', 'comparison'].includes(_catalog?.kind ?? '') && _compareModel.mode !== 'none';
 const _showFactCard = _displayFacts && !_isPlanArticle && !_newerProduct && _catalog?.kind === 'review' && _catalogProducts.length + _currentVendorIds.length === 1 && _pricedCatalogCount === 1;
-const _postForMatch = { data: { title, priceTrack, affiliate } };
+const _postForMatch = { id: currentSlug, data: { title, priceTrack, affiliate } };
 const _trackerMatch = findTrackerEntryForPost(_postForMatch, _allTrackerEntries, rawBody);
 const _fact = _trackerMatch ? buildFactBox(_trackerMatch.entry, Date.now()) : null;
 const productName = productNameOf(_postForMatch);

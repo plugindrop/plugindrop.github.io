@@ -1,5 +1,7 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
+import fs from 'node:fs';
+import yaml from 'js-yaml';
 
 import {
   productNameOf,
@@ -19,6 +21,24 @@ import {
 } from '../src/lib/articleDeal.mjs';
 
 const NOW = new Date('2026-09-25T00:00:00Z').getTime();
+
+test('reviewed article aliases resolve only their exact tracker keys', () => {
+  const entries = { 'MORPH 3': entry({ history: [auto('2026-10-04', 149, 69)] }) };
+  assert.equal(findTrackerEntryForPost({ id: 'zynaptiq-morph-3-22ce9e', data: { title: 'Zynaptiq Morph 3', affiliate: 'https://pluginfox.com/products/zynaptiq-morph-3' } }, entries, '')?.name, 'MORPH 3');
+  assert.equal(findTrackerEntryForPost({ id: 'other-morph-3', data: { title: 'Zynaptiq Morph 3', affiliate: 'https://pluginfox.com/products/zynaptiq-morph-3' } }, entries, ''), null);
+  assert.equal(findTrackerEntryForPost({ id: 'zynaptiq-morph-3-22ce9e', data: { title: 'Zynaptiq Morph 3' } }, {}, ''), null);
+});
+
+test('untracked deal drafts have gone URLs and no built page', () => {
+  const gone = new Set(JSON.parse(fs.readFileSync(new URL('../src/data/gone_urls.json', import.meta.url), 'utf8')));
+  const slugs = ['wa-production-what-about-primal-techno-rave-hard-techno-samp', 'news-native-instruments-releases-komplete-26-the-latest-vers', 'best-audio-plugin-deals-and-freebies-wednesday-september-16t', 'bx-console-amek-9099-3e0469', 'airspace-5c5bc0', 'visco-2-0-c6acfd', 'thedrumbank-ultimate-midi-library-collection-bonus-packs', 'jura-5b7665'];
+  for (const slug of slugs) {
+    const raw = fs.readFileSync(new URL(`../src/content/blog/${slug}.md`, import.meta.url), 'utf8');
+    assert.equal(yaml.load(raw.split(/^---\r?$/m)[1]).draft, true, slug);
+    assert.ok(gone.has(`/posts/${slug}/`), slug);
+    assert.ok(!fs.existsSync(new URL(`../dist/posts/${slug}/index.html`, import.meta.url)), slug);
+  }
+});
 
 function entry(overrides = {}) {
   return {

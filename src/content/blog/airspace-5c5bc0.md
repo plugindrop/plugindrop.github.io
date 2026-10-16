@@ -12,7 +12,7 @@ originalPrice: "$80.00"
 discount: "39% OFF"
 saleExpiry: "2026-11-11"
 saleExpirySource: "fallback"
-draft: false
+draft: true
 ---
 **TL;DR:** Airspace, Mode Audio's dual-engine convolution reverb and delay plugin, is currently ~~$80~~ at 39% off through [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/14865-Airspace?a_aid=69cb95abe1763&chan=art&data1=airspace-5c5bc0&utm_source=plugindrop&utm_medium=article&utm_campaign=airspace-5c5bc0). It pairs two convolution reverb engines with a stereo delay and over 240 presets, aimed at producers who want spatial processing beyond a stock reverb plugin. Check the product page for current pricing before checkout.
 
