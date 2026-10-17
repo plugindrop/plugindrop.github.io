@@ -15,7 +15,7 @@ draft: false
 ---
 If you build melodies, chords, or full song sketches from scratch, InstaComposer 4 is worth a look right now. It's priced at $29.9, matching its lowest tracked point across three observations since 2026-10-14.
 
-**TL;DR:** InstaComposer 4 is discounted to $29.9 at Plugin Boutique, down from ~~$129~~. PluginDrop has tracked this price since 2026-10-14 over three observations, and $29.9 is the lowest it's been recorded so far. [Grab InstaComposer 4 at Plugin Boutique](https://www.pluginboutique.com/search?q=InstaComposer+4&a_aid=69cb95abe1763&chan=trk&data1=instacomposer-4-edb92a&utm_source=plugindrop&utm_medium=article&utm_campaign=instacomposer-4-edb92a).
+**TL;DR:** InstaComposer 4 is discounted to $29.9 at Plugin Boutique, down from ~~$129~~. PluginDrop has tracked this price since 2026-10-14 over three observations, and $29.9 is the lowest it's been recorded so far. [Grab InstaComposer 4 at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/18029-InstaComposer-4?a_aid=69cb95abe1763&chan=trk&data1=instacomposer-4-edb92a&utm_source=plugindrop&utm_medium=article&utm_campaign=instacomposer-4-edb92a).
 
 <!-- deal-context-sale-windows:start -->
 ## Last three times this went on sale
@@ -47,7 +47,7 @@ Because it includes its own instruments and a small internal mixer, you can also
 
 Plugin Boutique has InstaComposer 4 at $29.9, against a regular price of $129. PluginDrop has tracked this listing since 2026-10-14, with three observations recorded, and $29.9 is both the typical sale price and the lowest price seen in that window. Check the product page for current availability before buying, since tracked windows can shift.
 
-[See the current InstaComposer 4 price at Plugin Boutique](https://www.pluginboutique.com/search?q=InstaComposer+4&a_aid=69cb95abe1763&chan=trk&data1=instacomposer-4-edb92a&utm_source=plugindrop&utm_medium=article&utm_campaign=instacomposer-4-edb92a).
+[See the current InstaComposer 4 price at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/18029-InstaComposer-4?a_aid=69cb95abe1763&chan=trk&data1=instacomposer-4-edb92a&utm_source=plugindrop&utm_medium=article&utm_campaign=instacomposer-4-edb92a).
 
 ## Skip it if
 

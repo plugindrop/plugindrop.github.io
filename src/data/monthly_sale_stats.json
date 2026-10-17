@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16",
+  "generated_at": "2026-10-17",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-10",
       "label": "October 2026",
       "is_current": true,
-      "generated_at": "2026-10-16",
-      "observations": 1639,
+      "generated_at": "2026-10-17",
+      "observations": 1765,
       "products_tracked": 508,
-      "products_on_sale": 167,
-      "on_sale_pct": 32.9,
-      "avg_discount_pct": 57.6,
+      "products_on_sale": 175,
+      "on_sale_pct": 34.4,
+      "avg_discount_pct": 58.2,
       "median_discount_pct": 61,
       "discount_buckets": {
-        "1-19": 11,
-        "20-39": 22,
-        "40-59": 43,
-        "60+": 91
+        "1-19": 10,
+        "20-39": 24,
+        "40-59": 45,
+        "60+": 96
       },
-      "all_time_low_hits": 122,
+      "all_time_low_hits": 130,
       "deepest_discounts": [
         {
           "name": "TOTAL VI MAX 2",
@@ -126,6 +126,26 @@
           "pb_url": "/product/81-Bundles/84-Mix-Master/12542-Platinum"
         },
         {
+          "name": "SSL Native X-Comp",
+          "slug": "ssl-native-x-comp",
+          "category": "Other",
+          "regular": 99.0,
+          "sale": 10.0,
+          "pct_off": 90,
+          "date": "2026-10-16",
+          "pb_url": "/product/2-Effects/8-Compressor/8664-SSL-Native-X-Comp"
+        },
+        {
+          "name": "SSL Native X-EQ 2",
+          "slug": "ssl-native-x-eq-2",
+          "category": "Other",
+          "regular": 149.0,
+          "sale": 15.0,
+          "pct_off": 90,
+          "date": "2026-10-16",
+          "pb_url": "/product/2-Effects/16-EQ/8665-SSL-Native-X-EQ-2"
+        },
+        {
           "name": "Waves Platinum Bundle",
           "slug": "waves-platinum-bundle",
           "category": "Bundle",
@@ -154,26 +174,6 @@
           "pct_off": 85,
           "date": "2026-10-09",
           "pb_url": "/product/2-Effects/18-Amp-Simulator/12669-AmpliTube-5"
-        },
-        {
-          "name": "Empirical Labs EL8 Distressor Compressor",
-          "slug": "empirical-labs-el8-distressor-compressor",
-          "category": "Other",
-          "regular": 199.0,
-          "sale": 29.0,
-          "pct_off": 85,
-          "date": "2026-10-01",
-          "pb_url": "/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor"
-        },
-        {
-          "name": "MODO BASS 2",
-          "slug": "modo-bass-2",
-          "category": "Other",
-          "regular": 199.99,
-          "sale": 29.99,
-          "pct_off": 85,
-          "date": "2026-10-01",
-          "pb_url": "/product/1-Instruments/64-Virtual-Instruments/12454-MODO-BASS-2"
         }
       ],
       "all_time_low_products": [
@@ -241,6 +241,20 @@
           "date": "2026-10-01"
         },
         {
+          "name": "SSL Native X-Comp",
+          "slug": "ssl-native-x-comp",
+          "sale": 10.0,
+          "all_time_low": 10.0,
+          "date": "2026-10-16"
+        },
+        {
+          "name": "SSL Native X-EQ 2",
+          "slug": "ssl-native-x-eq-2",
+          "sale": 15.0,
+          "all_time_low": 15.0,
+          "date": "2026-10-16"
+        },
+        {
           "name": "Softube Producer Collection Exclusive",
           "slug": "softube-producer-collection-exclusive",
           "sale": 149.0,
@@ -267,29 +281,15 @@
           "sale": 29.99,
           "all_time_low": 29.99,
           "date": "2026-10-01"
-        },
-        {
-          "name": "UAD Helios Type 69 Preamp and EQ Collection",
-          "slug": "uad-helios-type-69-preamp-and-eq-collection",
-          "sale": 29.0,
-          "all_time_low": 29.0,
-          "date": "2026-10-03"
-        },
-        {
-          "name": "UAD UA 175B 176 Tube Compressor Collection",
-          "slug": "uad-ua-175b-176-tube-compressor-collection",
-          "sale": 29.0,
-          "all_time_low": 29.0,
-          "date": "2026-10-03"
         }
       ],
       "by_category": [
         {
           "category": "Other",
           "tracked": 356,
-          "on_sale": 124,
-          "on_sale_pct": 34.8,
-          "avg_discount_pct": 60.3
+          "on_sale": 130,
+          "on_sale_pct": 36.5,
+          "avg_discount_pct": 61.1
         },
         {
           "category": "Synth",
@@ -301,9 +301,9 @@
         {
           "category": "Effects",
           "tracked": 19,
-          "on_sale": 5,
-          "on_sale_pct": 26.3,
-          "avg_discount_pct": 34.2
+          "on_sale": 6,
+          "on_sale_pct": 31.6,
+          "avg_discount_pct": 36.3
         },
         {
           "category": "Instrument",
@@ -366,7 +366,7 @@
           "tracked": 5,
           "on_sale": 2,
           "on_sale_pct": 40.0,
-          "avg_discount_pct": 44.5
+          "avg_discount_pct": 51
         },
         {
           "category": "Mastering",
@@ -385,18 +385,18 @@
         {
           "category": "Limiter",
           "tracked": 3,
-          "on_sale": 1,
-          "on_sale_pct": 33.3,
-          "avg_discount_pct": 65
+          "on_sale": 2,
+          "on_sale_pct": 66.7,
+          "avg_discount_pct": 45
         }
       ],
       "by_brand": [
         {
           "category": "Other",
           "tracked": 164,
-          "on_sale": 78,
-          "on_sale_pct": 47.6,
-          "avg_discount_pct": 60.1
+          "on_sale": 84,
+          "on_sale_pct": 51.2,
+          "avg_discount_pct": 61.3
         },
         {
           "category": "Universal Audio",
@@ -436,16 +436,16 @@
         {
           "category": "FabFilter",
           "tracked": 16,
-          "on_sale": 5,
-          "on_sale_pct": 31.2,
-          "avg_discount_pct": 11.8
+          "on_sale": 6,
+          "on_sale_pct": 37.5,
+          "avg_discount_pct": 16.2
         },
         {
           "category": "Baby Audio",
           "tracked": 15,
-          "on_sale": 2,
-          "on_sale_pct": 13.3,
-          "avg_discount_pct": 49
+          "on_sale": 3,
+          "on_sale_pct": 20.0,
+          "avg_discount_pct": 48.3
         },
         {
           "category": "Minimal Audio",
@@ -618,8 +618,8 @@
       ],
       "vs_previous_month": {
         "month": "2026-09",
-        "on_sale_pct_delta": -21.3,
-        "avg_discount_pct_delta": -0.2,
+        "on_sale_pct_delta": -19.8,
+        "avg_discount_pct_delta": 0.4,
         "products_tracked_delta": -9
       }
     },
@@ -627,7 +627,7 @@
       "month": "2026-09",
       "label": "September 2026",
       "is_current": false,
-      "generated_at": "2026-10-16",
+      "generated_at": "2026-10-17",
       "observations": 3603,
       "products_tracked": 517,
       "products_on_sale": 280,
@@ -1258,7 +1258,7 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-10-16",
+      "generated_at": "2026-10-17",
       "observations": 3587,
       "products_tracked": 425,
       "products_on_sale": 258,
@@ -1854,7 +1854,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-10-16",
+      "generated_at": "2026-10-17",
       "observations": 1968,
       "products_tracked": 289,
       "products_on_sale": 142,
