@@ -262,6 +262,17 @@ const latestGuides = [
 const crawlPriorityPosts = rotatePriorityPosts(eligiblePriorityPosts(indexablePosts), 16);
 const previewRows = trackerRows.filter(row => row.current !== null && row.regular !== null && row.current < row.regular && isProductNameIndexable(priceData, row.name)).sort((a, b) => b.dealScore.score - a.dealScore.score).slice(0, 40);
 const weeklyFacts = weeklyPriceFacts(priceData);
+const featuredPost = topDeals[0];
+const featuredMatch = featuredPost ? findTrackerEntryForPost(featuredPost, trackerEntries, featuredPost.body) : null;
+const featuredHistory = featuredMatch?.entry.history?.filter(point => typeof (point.sale ?? point.regular) === 'number' && /^\d{4}-\d{2}-\d{2}$/.test(point.date)) ?? [];
+const featuredPrices = featuredHistory.map(point => (point.sale ?? point.regular) as number);
+const historyLow = Math.min(...featuredPrices), historyHigh = Math.max(...featuredPrices);
+const sparkline = featuredPrices.length >= 3 && historyLow !== historyHigh ? featuredPrices.map((price, index) =>
+	`${(index / (featuredPrices.length - 1) * 100).toFixed(1)},${(32 - (price - historyLow) / (historyHigh - historyLow) * 30).toFixed(1)}`
+).join(' ') : null;
+const historyRange = sparkline ? `Low ${formatPrice(historyLow)} ${formatCheckedDate(new Date(`${featuredHistory[featuredPrices.indexOf(historyLow)].date}T00:00:00Z`))} · High ${formatPrice(historyHigh)} ${formatCheckedDate(new Date(`${featuredHistory[featuredPrices.indexOf(historyHigh)].date}T00:00:00Z`))}` : null;
+const rankedPosts = topDeals.slice(1, 6);
+const rankedFallback = fallbackDeals.slice(0, Math.max(0, 5 - rankedPosts.length));
 const hubLinks = [
 	{ href: '/best/', title: 'Best deals by category', text: 'Ranked lists of tracked plugin deals for each plugin category.' },
 	{ href: '/compare/', title: 'Price comparisons', text: 'Side-by-side tracked prices for related plugins.' },
@@ -294,43 +305,23 @@ const hubLinks = [
 		<a href="#main-content" class="sr-only">Skip to content</a>
 		<Header />
 		<main id="main-content">
-			<section class="hero-strip">
-				<div class="hero-copy">
-					<h1>Find your next plugin for less.</h1>
-					<p>Browse today's deals and check what each plugin has cost before.</p>
-					<form class="hero-search" action="/posts/" method="get" role="search">
-						<input type="search" name="q" placeholder="Search plugins and deals&hellip;" aria-label="Search plugins and deals" />
-						<button type="submit">Search</button>
-					</form>
-					<p class="hero-trust"><span data-tracked-products={trackedProducts}>{trackedProducts}</span> tracked products <span aria-hidden="true">&middot;</span> <a href="/how-we-track-prices/">How we track prices</a></p>
-				</div>
-				{topDeals[0] && <a class="hero-feature" href={`/posts/${topDeals[0].id}/`}>
-					<img src={topDeals[0].data.heroImage} alt="" />
-					<span class="hero-feature-copy"><span class="hero-feature-kicker">Today's top deal</span><strong>{topDeals[0].data.title}</strong><span class="hero-feature-price">{topDeals[0].data.dealPrice} {topDeals[0].data.originalPrice && <s>{topDeals[0].data.originalPrice}</s>} {topDeals[0].data.discount && <span class="discount-chip">{topDeals[0].data.discount}</span>}</span><span class="hero-feature-cta">See deal &rarr;</span></span>
-				</a>}
+			<h1 class="home-h1">Today's plugin deals</h1>
+			<section class="hero-strip" aria-label="Top deals">
+				{featuredPost && <article class="hero-feature">
+					<div class="feature-top"><span class="feature-label">Top deal</span>{featuredPost.data.discount && <span class="discount-chip">{featuredPost.data.discount}</span>}</div>
+					<a href={`/posts/${featuredPost.id}/`}><img src={featuredPost.data.heroImage} alt="" /></a>
+					<div class="hero-feature-copy"><h2><a href={`/posts/${featuredPost.id}/`}>{featuredPost.data.title}</a></h2>
+					{sparkline && <div class="feature-history"><span>Recorded price history</span><svg viewBox="0 0 100 34" preserveAspectRatio="none" role="img" aria-label="Recorded price trend"><polyline points={sparkline} fill="none" stroke="currentColor" stroke-width="1.5" vector-effect="non-scaling-stroke" /></svg><small>{historyRange}</small></div>}
+					<div class="feature-bottom"><span class="hero-feature-price">{featuredPost.data.dealPrice} {featuredPost.data.originalPrice && <s>{featuredPost.data.originalPrice}</s>}</span><a class="feature-cta" href={`/posts/${featuredPost.id}/`}>View deal &rarr;</a></div></div>
+				</article>}
+					<div class="ranked-deals"><h2>Top deals</h2><ol>{rankedPosts.map((post, index) => <li><span class="rank-number">{String(index + 1).padStart(2, '0')}</span><a class="rank-image" href={`/posts/${post.id}/`}><img src={post.data.heroImage} alt="" loading="lazy" /></a><a class="rank-name" href={`/posts/${post.id}/`}>{post.data.title}</a><span class="rank-price"><strong>{post.data.dealPrice}</strong>{post.data.discount && <small>{post.data.discount}</small>}</span></li>)}{rankedFallback.map((deal, index) => <li><span class="rank-number">{String(index + rankedPosts.length + 1).padStart(2, '0')}</span><a class="rank-image rank-monogram" href={pbLink(deal.entry.pb_url, 'chan=home', { medium: 'homepage', campaign: 'home-ranked', data1: slugify(deal.name) })} target="_blank" rel="noopener sponsored">{deal.name.split(/\s+/).slice(0, 2).map(word => word[0]).join('').toUpperCase()}</a><a class="rank-name" href={pbLink(deal.entry.pb_url, 'chan=home', { medium: 'homepage', campaign: 'home-ranked', data1: slugify(deal.name) })} target="_blank" rel="noopener sponsored">{deal.name}</a><span class="rank-price"><strong>{formatPrice(deal.current)}</strong><small>&minus;{deal.off}%</small></span></li>)}</ol><a class="rank-all" href="/posts/">All deals &rarr;</a></div>
 			</section>
-
-			{(weeklyFacts.newSales > 0 || weeklyFacts.endedSales > 0 || weeklyFacts.newLows.length > 0) && (
-				<section class="section weekly-data" aria-labelledby="weekly-data-hd">
-					<header class="section-hd"><h2 id="weekly-data-hd">This week's price moves</h2><span class="weekly-dates">{weeklyFacts.first} to {weeklyFacts.end}</span></header>
-					<div class="weekly-stats"><div><strong>{weeklyFacts.newSales}</strong><span>Newly on sale</span></div><div><strong>{weeklyFacts.endedSales}</strong><span>Sales ended</span></div><div><strong>{weeklyFacts.newLows.length}</strong><span>New lowest prices</span></div></div>
-					{weeklyFacts.newLows.length > 0 && <div class="weekly-lows"><h3>New lowest prices</h3><ul>{weeklyFacts.newLows.map(item => <li><span class="weekly-low-name">{isProductNameIndexable(priceData, item.name) ? <a href={`/plugin-prices/${item.slug}/`}>{item.name}</a> : <span>{item.name}</span>}</span><strong>{formatPrice(item.price)}</strong><small>{item.date}</small></li>)}</ul></div>}
-				</section>
-			)}
-
-			<nav class="section hub-links" aria-labelledby="hub-links-hd">
-				<header class="section-hd"><h2 id="hub-links-hd">Browse the tracker</h2></header>
-				<ul class="hub-grid">
-					{hubLinks.map(h => (
-						<li><a href={h.href}><strong>{h.title}</strong><span>{h.text}</span></a></li>
-					))}
-				</ul>
-			</nav>
+			<nav class="filter-chips" aria-label="Deal filters"><a href="/posts/">All deals</a><a href="/posts/?filter=sale">Sales</a><a href="/free/">Free</a><a href="/categories/">Categories</a><a href="/plugin-prices/">Price tracker</a></nav>
 
 			{displayedTopDealCount > 0 && (
 				<section class="section top-deals">
 					<header class="section-hd">
-						<h2>Today&apos;s top deals</h2>
+						<h2>Today's deals</h2>
 						<a href="/posts/">All deals &rarr;</a>
 					</header>
 					<div class="deal-grid">
@@ -351,7 +342,6 @@ const hubLinks = [
 									>
 										<div class="deal-image">
 											<img src={post.data.heroImage} alt="" loading="lazy" />
-											{dealScore && <span class={`score-badge is-${dealScore.verdict}`}>{dealScore.score}</span>}
 										</div>
 										<div class="deal-copy">
 											<h3>{post.data.title}</h3>
@@ -376,21 +366,24 @@ const hubLinks = [
 								</div>
 							);
 						})}
+
+					</div>
+					{fallbackDeals.length > 0 && <section class="price-drops" aria-labelledby="price-drops-title"><header class="more-deals-hd"><h3 id="price-drops-title">Price drops</h3><a href="/plugin-prices/">Price tracker &rarr;</a></header><div class="price-drop-grid">
 						{fallbackDeals.map(deal => (
 							<div
-								class="deal-card-wrap deal-card-fallback"
+								class="price-drop-card"
 								data-slug={slugify(deal.name)}
 								data-pd={pdAttr({ title: deal.name, extra: deal.entry.category ?? '' })}
 							>
 								<a
 									href={pbLink(deal.entry.pb_url, 'utm_source=plugindrop&utm_medium=homepage&utm_campaign=top-deals-fallback&chan=home', { data1: slugify(deal.name) })}
-									class="deal-card"
+									class="price-drop-link"
 									target="_blank"
 									rel="noopener sponsored"
 								>
-									<div class="deal-image tracker-art" aria-hidden="true"><span>{deal.name.split(/\s+/).slice(0, 2).map(word => word[0]).join('').toUpperCase()}</span><small>PRICE TRACKER</small></div>
-									<div class="deal-copy">
-										<span class="fallback-label">
+									<span class="drop-monogram" aria-hidden="true">{deal.name.split(/\s+/).slice(0, 2).map(word => word[0]).join('').toUpperCase()}</span>
+									<div class="drop-copy">
+										<span class="drop-date">
 											{deal.kind === 'live'
 											? (deal.recentDrop
 												? `Price dropped ${formatCheckedDate(new Date(`${deal.recentDrop.since}T00:00:00Z`))}`
@@ -398,17 +391,17 @@ const hubLinks = [
 											: 'Worth watching — typical sale price'}
 										</span>
 										<h3>{deal.name}</h3>
-										<div class="deal-prices">
+										<div class="drop-prices">
 											<strong>{formatPrice(deal.current)}</strong>
 											<s>{formatPrice(deal.regular)}</s>
 											<span class="discount-chip">−{deal.off}%</span>
 										</div>
-										{deal.checkedLabel && <span class="deal-store">checked {deal.checkedLabel}</span>}
+										<span class="drop-checked">View price &rarr;</span>
 									</div>
 								</a>
 							</div>
 						))}
-					</div>
+					</div></section>}
 					{moreFreshDeals.length > 0 && (
 						<div class="more-deals">
 							<header class="more-deals-hd">
@@ -438,39 +431,39 @@ const hubLinks = [
 			{biggestDeals.length >= 3 && (
 				<section class="section biggest-discounts" aria-labelledby="biggest-discounts-hd">
 					<header class="section-hd">
-						<h2 id="biggest-discounts-hd">Biggest discounts right now</h2>
+						<h2 id="biggest-discounts-hd">Biggest drops</h2>
 						<a href="/plugin-prices/">Open full tracker &rarr;</a>
 					</header>
-					<div class="discount-grid">
+					<div class="price-drop-grid">
 						{biggestDeals.map(deal => {
 							const checked = latestCheckedDate(deal.entry);
 							const checkedLabel = checked ? formatCheckedDate(checked) : null;
 							return (
 								<div
-									class="deal-card-wrap deal-card-fallback"
+									class="price-drop-card"
 									data-slug={slugify(deal.name)}
 									data-pd={pdAttr({ title: deal.name, extra: deal.entry.category ?? '' })}
 								>
 									<a
 										href={pbLink(deal.entry.pb_url, 'utm_source=plugindrop&utm_medium=homepage&utm_campaign=home-biggest&chan=home', { data1: slugify(deal.name) })}
-										class="deal-card"
+										class="price-drop-link"
 										target="_blank"
 										rel="noopener sponsored"
 									>
-										<div class="deal-image tracker-art" aria-hidden="true"><span>{deal.name.split(/\s+/).slice(0, 2).map(word => word[0]).join('').toUpperCase()}</span><small>PRICE TRACKER</small></div>
-										<div class="deal-copy">
-											<span class="fallback-label">
+										<span class="drop-monogram" aria-hidden="true">{deal.name.split(/\s+/).slice(0, 2).map(word => word[0]).join('').toUpperCase()}</span>
+										<div class="drop-copy">
+											<span class="drop-date">
 												{deal.everyday
 													? `Around this price since ${formatCheckedDate(new Date(`${deal.everyday.since}T00:00:00Z`))}`
 													: `−${deal.off}% vs regular`}
 											</span>
 											<h3>{deal.name}</h3>
-											<div class="deal-prices">
+											<div class="drop-prices">
 												<strong>{formatPrice(deal.current)}</strong>
 												<s>{formatPrice(deal.regular)}</s>
 												<span class="discount-chip">−{deal.off}%</span>
 											</div>
-											{checkedLabel && <span class="deal-store">checked {checkedLabel}</span>}
+											{checkedLabel && <span class="drop-checked">checked {checkedLabel}</span>}
 										</div>
 									</a>
 								</div>
@@ -480,11 +473,46 @@ const hubLinks = [
 				</section>
 			)}
 
-			<nav class="section start-here" aria-labelledby="start-here-hd">
-				<header class="section-hd"><h2 id="start-here-hd">Start here</h2></header>
-				<p>Explore <a href="/best/">best plugin guides</a>, <a href="/categories/">categories</a>, <a href="/compare/">comparisons</a>, <a href="/how-we-track-prices/">our price tracking method</a>, <a href="/plugin-prices/">price histories</a>, <a href="/sale-stats/">sale statistics</a>, and <a href="/free/">free plugins</a>.</p>
-				<p>The table below lists observed Plugin Boutique prices for tracked products. Check dates in each product's price history show when those prices were recorded.</p>
+			{(weeklyFacts.newSales > 0 || weeklyFacts.endedSales > 0 || weeklyFacts.newLows.length > 0) && (
+				<section class="section weekly-data" aria-labelledby="weekly-data-hd">
+					<header class="section-hd"><h2 id="weekly-data-hd">This week's price moves</h2><span class="weekly-dates">{weeklyFacts.first} to {weeklyFacts.end}</span></header>
+					<div class="weekly-stats"><div><strong>{weeklyFacts.newSales}</strong><span>Newly on sale</span></div><div><strong>{weeklyFacts.endedSales}</strong><span>Sales ended</span></div><div><strong>{weeklyFacts.newLows.length}</strong><span>New lowest prices</span></div></div>
+					{weeklyFacts.newLows.length > 0 && <div class="weekly-lows"><h3>New lowest prices</h3><ul>{weeklyFacts.newLows.map(item => <li><span class="weekly-low-name">{isProductNameIndexable(priceData, item.name) ? <a href={`/plugin-prices/${item.slug}/`}>{item.name}</a> : <span>{item.name}</span>}</span><strong>{formatPrice(item.price)}</strong><small>{item.date}</small></li>)}</ul></div>}
+				</section>
+			)}
+
+			{latestGuides.length > 0 && (
+				<section class="section latest-guides" aria-labelledby="latest-guides-hd">
+					<header class="section-hd">
+						<h2 id="latest-guides-hd">Latest guides and articles</h2>
+						<a href="/posts/">All articles &rarr;</a>
+					</header>
+					<ul class="guide-list">
+						{latestGuides.map(post => (
+							<li>
+								<a href={`/posts/${post.id}/`}>{post.data.title}</a>
+								<span class="guide-date">{formatCheckedDate(post.data.pubDate)}</span>
+							</li>
+						))}
+					</ul>
+				</section>
+			)}
+
+			{crawlPriorityPosts.length > 0 && (
+				<section class="section latest-guides" aria-labelledby="recovered-guides-hd">
+					<header class="section-hd"><h2 id="recovered-guides-hd">Popular guides</h2><a href="/posts/">Browse all guides &rarr;</a></header>
+					<ul class="guide-list">{crawlPriorityPosts.map(post => <li><a href={`/posts/${post.id}/`}>{post.data.title}</a></li>)}</ul>
+				</section>
+			)}
+			<nav class="section hub-links" aria-labelledby="hub-links-hd">
+				<header class="section-hd"><h2 id="hub-links-hd">Browse the tracker</h2></header>
+				<ul class="hub-grid">
+					{hubLinks.map(h => (
+						<li><a href={h.href}><strong>{h.title}</strong><span>{h.text}</span></a></li>
+					))}
+				</ul>
 			</nav>
+
 			<section class="section tracker-panel" aria-labelledby="quick-price-check">
 				<header class="section-hd">
 					<div class="section-title">
@@ -537,31 +565,8 @@ const hubLinks = [
 				<p class="tracker-more">Showing products whose latest recorded price is below their listed regular price; check observation dates before buying. <a href="/plugin-prices/">See all {pricePages} price pages &rarr;</a></p>
 			</section>
 
-			{latestGuides.length > 0 && (
-				<section class="section latest-guides" aria-labelledby="latest-guides-hd">
-					<header class="section-hd">
-						<h2 id="latest-guides-hd">Latest guides and articles</h2>
-						<a href="/posts/">All articles &rarr;</a>
-					</header>
-					<ul class="guide-list">
-						{latestGuides.map(post => (
-							<li>
-								<a href={`/posts/${post.id}/`}>{post.data.title}</a>
-								<span class="guide-date">{formatCheckedDate(post.data.pubDate)}</span>
-							</li>
-						))}
-					</ul>
-				</section>
-			)}
-
-			{crawlPriorityPosts.length > 0 && (
-				<section class="section latest-guides" aria-labelledby="recovered-guides-hd">
-					<header class="section-hd"><h2 id="recovered-guides-hd">Popular guides</h2><a href="/posts/">Browse all guides &rarr;</a></header>
-					<ul class="guide-list">{crawlPriorityPosts.map(post => <li><a href={`/posts/${post.id}/`}>{post.data.title}</a></li>)}</ul>
-				</section>
-			)}
 			<section class="method-note">
-				<p>Prices are checked by our own tracker, not copied from press releases. <a href="/how-we-track-prices/">How we track &rarr;</a></p>
+				<p><span data-tracked-products={trackedProducts}>{trackedProducts}</span> tracked products. Prices are observations, and current offers may change. <a href="/how-we-track-prices/">How we track prices &rarr;</a></p>
 			</section>
 		</main>
 		<Footer />
@@ -637,6 +642,9 @@ const hubLinks = [
 		@media (max-width: 640px) { .pip-preview { width: calc(100vw - 2rem); height: auto; aspect-ratio: 16/9; bottom: 1rem; right: 1rem; } }
 	</style>
 )}
+
+
+
 
 <style>
 	.hero-strip { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, .85fr); align-items: center; gap: clamp(1.5rem, 4vw, 3.5rem); padding: 3.5rem 0 2.5rem; }
@@ -799,4 +807,68 @@ const hubLinks = [
 		.verdict-chip-card { margin-top: 0.25rem; margin-left: 0; }
 		.tracker-table { font-size: 0.78rem; }
 	}
+</style>
+<style>
+	:global(main#main-content) { max-width: 1440px; padding: 1rem 1.5rem 3rem; }
+	.home-h1 { margin: 0 0 .55rem; color: var(--text-secondary); font-family: var(--font-mono); font-size: .75rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; }
+	.hero-strip { display: grid; grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr); gap: 1rem; margin-bottom: 1rem; padding: 0; align-items: stretch; }
+	.hero-feature, .ranked-deals { min-width: 0; background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius); }
+	.hero-feature { display: flex; flex-direction: column; overflow: hidden; }
+	.feature-top { display: flex; align-items: center; gap: .6rem; padding: .55rem .9rem; border-bottom: 1px solid var(--border); }
+	.feature-label { color: var(--text-secondary); font: 700 .7rem var(--font-mono); text-transform: uppercase; letter-spacing: .08em; }
+	.hero-feature > a { display: grid; place-items: center; background: #151a25; }
+	.hero-feature > a img { display: block; width: 100%; height: clamp(190px, 22vw, 310px); object-fit: contain; border-radius: 0; }
+	.hero-feature-copy { display: flex; flex: 1; flex-direction: column; gap: .65rem; padding: .9rem 1rem 1rem; }
+	.hero-feature-copy h2 { margin: 0; font-size: clamp(1.25rem, 2vw, 1.8rem); line-height: 1.2; }
+	.hero-feature-copy h2 a { color: var(--text-primary); }
+	.feature-history { padding: .55rem .7rem; background: var(--bg-low); border: 1px solid var(--border); color: var(--accent); }
+	.feature-history span { display: block; color: var(--text-secondary); font: .68rem var(--font-mono); }
+	.feature-history svg { display: block; width: 100%; height: 38px; }
+	.feature-history small { display: block; color: var(--text-muted); font: .65rem var(--font-mono); }
+	.feature-bottom { display: flex; align-items: center; justify-content: space-between; gap: 1rem; margin-top: auto; padding-top: .65rem; border-top: 1px solid var(--border); }
+	.hero-feature-price { font-size: 1.35rem; }
+	.feature-cta { flex: none; padding: .5rem .85rem; background: var(--accent); color: var(--bg-base); border-radius: var(--radius); font: 700 .8rem var(--font-mono); }
+	.feature-cta:hover { color: var(--bg-base); background: var(--accent-light); }
+	.ranked-deals { display: flex; flex-direction: column; padding: .75rem .9rem; }
+	.ranked-deals h2 { margin: 0 0 .4rem; font-size: 1.15rem; }
+	.ranked-deals ol { flex: 1; display: flex; flex-direction: column; margin: 0; padding: 0; list-style: none; }
+	.ranked-deals li { flex: 1; display: grid; grid-template-columns: 1.6rem 3.5rem minmax(0,1fr) auto; align-items: center; gap: .6rem; min-width: 0; padding: .45rem 0; border-top: 1px solid var(--border); }
+	.rank-number { color: var(--text-muted); font: .75rem var(--font-mono); }
+	.rank-image img { display: block; width: 3.5rem; height: 3.3rem; object-fit: cover; }
+	.rank-monogram { display: grid; width: 3.5rem; height: 3.3rem; place-items: center; color: var(--accent); background: var(--bg-low); border: 1px solid var(--border); font: 700 .85rem var(--font-mono); }
+	.rank-name { min-width: 0; color: var(--text-primary); font-size: .82rem; font-weight: 700; line-height: 1.25; }
+	.rank-price { display: flex; flex-direction: column; align-items: flex-end; gap: .15rem; font: .75rem var(--font-mono); white-space: nowrap; }
+	.rank-price small { color: var(--sale-text); }
+	.rank-all { display: block; padding: .45rem 0 0; border-top: 1px solid var(--border); text-align: center; font: 700 .75rem var(--font-mono); }
+	.filter-chips { display: flex; flex-wrap: wrap; gap: .5rem; margin-bottom: 1.4rem; padding: .65rem; background: var(--bg-low); border: 1px solid var(--border); }
+	.filter-chips a { padding: .38rem .75rem; color: var(--text-secondary); background: var(--bg-card); border: 1px solid var(--border); border-radius: 999px; font: .73rem var(--font-mono); text-decoration: none; }
+	.filter-chips a:hover { color: var(--accent); border-color: var(--accent); }
+	.deal-grid { grid-template-columns: repeat(4, minmax(0,1fr)); }
+	.price-drops { margin-top: 1.5rem; }
+	.price-drop-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .65rem; }
+	.price-drop-card { min-width: 0; }
+	.price-drop-link { display: flex; align-items: center; gap: .8rem; min-height: 100%; padding: .7rem; color: inherit; background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius); text-decoration: none; }
+	.price-drop-link:hover { border-color: var(--accent-border-hover); background: var(--bg-card-hover); }
+	.drop-monogram { flex: 0 0 56px; display: grid; width: 56px; height: 56px; place-items: center; color: var(--accent); background: var(--bg-low); border: 1px solid var(--border); border-radius: var(--radius-sm); font: 700 .85rem var(--font-mono); }
+	.drop-copy { display: flex; flex: 1; min-width: 0; flex-direction: column; gap: .25rem; }
+	.drop-copy h3 { margin: 0; color: var(--text-primary); font-size: .85rem; line-height: 1.25; }
+	.drop-date, .drop-checked { color: var(--text-muted); font: .68rem var(--font-mono); }
+	.drop-prices { display: flex; flex-wrap: wrap; align-items: center; gap: .45rem; font: .8rem var(--font-mono); }
+	.drop-prices strong { color: var(--text-primary); }
+	.drop-prices s { color: var(--text-muted); }
+	.drop-checked { color: var(--accent); }
+	.discount-grid { grid-template-columns: repeat(3, minmax(0,1fr)); }
+	.deal-card-wrap { min-width: 0; }
+	.deal-image { aspect-ratio: 16/9; }
+	.deal-copy { padding: .75rem; }
+	.deal-copy h3 { margin-bottom: .55rem; }
+	.deal-prices { margin-top: auto; }
+	.deal-prices strong { font-size: .95rem; }
+	.verdict-chip-card { align-self: flex-start; margin-top: .5rem; }
+	.method-note { padding: 1.5rem 0; }
+	.method-note p { font: .8rem var(--font-body); }
+	@media (max-width: 1000px) { .hero-strip { grid-template-columns: 1fr; } .deal-grid { grid-template-columns: repeat(3,minmax(0,1fr)); } }
+	@media (max-width: 680px) { :global(main#main-content) { padding: .8rem .75rem 2rem; } .deal-grid, .discount-grid { grid-template-columns: repeat(2,minmax(0,1fr)); } .price-drop-grid { grid-template-columns: 1fr; } .ranked-deals li { grid-template-columns: 1.4rem 3rem minmax(0,1fr) auto; } .rank-image img { width: 3rem; height: 3rem; } }
+	@media (max-width: 480px) { .ranked-deals li { grid-template-columns: 1.2rem 2.5rem minmax(0,1fr) minmax(4.5rem,auto); } .rank-image img, .rank-monogram { width: 2.5rem; height: 2.5rem; } .rank-price { font-size: .72rem; } .rank-name { font-size: .75rem; overflow-wrap: anywhere; } }
+	@media (max-width: 390px) { .deal-grid, .discount-grid { gap: .55rem; } .deal-copy { padding: .55rem; } .deal-copy h3 { font-size: .85rem; } .deal-prices { gap: .2rem; } .ranked-deals li { gap: .35rem; } }
 </style>

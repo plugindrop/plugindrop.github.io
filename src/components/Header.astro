@@ -21,6 +21,7 @@ import priceData from '../data/price_history.json';
 			<HeaderLink href="/categories/">Categories</HeaderLink>
 			<HeaderLink href="/about/">About</HeaderLink>
 		</div>
+		<form class="header-search" action="/posts/" method="get" role="search"><input type="search" name="q" placeholder="Search plugins and deals" aria-label="Search plugins and deals" /><button type="submit">Search</button></form>
 	</nav>
 </header>
 <style>
@@ -35,12 +36,13 @@ import priceData from '../data/price_history.json';
 		padding: 0 1.5rem;
 	}
 	nav {
-		max-width: 960px;
+		max-width: 1400px;
 		margin: 0 auto;
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
-		height: 56px;
+		min-height: 52px;
+		gap: 1rem;
 	}
 	.logo {
 		display: flex;
@@ -79,6 +81,11 @@ import priceData from '../data/price_history.json';
 		scrollbar-width: none;
 		-webkit-overflow-scrolling: touch;
 	}
+	.header-search { display: flex; min-width: 170px; width: clamp(170px, 24vw, 340px); border: 1px solid var(--border); background: var(--bg-low); border-radius: var(--radius); }
+	.header-search input { min-width: 0; width: 100%; padding: .38rem .65rem; color: var(--text-primary); background: transparent; border: 0; font: inherit; font-size: .78rem; }
+	.header-search button { padding: .3rem .6rem; color: var(--accent); background: transparent; border: 0; cursor: pointer; font-size: .76rem; }
+	.header-search:focus-within { border-color: var(--accent); }
+	@media (max-width: 800px) { nav { flex-wrap: wrap; padding: .45rem 0; } .header-search { order: 2; width: 100%; } .nav-links { flex: 1; } }
 	.nav-links::-webkit-scrollbar {
 		display: none;
 	}
