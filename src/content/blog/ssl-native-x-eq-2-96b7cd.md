@@ -13,7 +13,7 @@ discount: "90% OFF"
 saleExpiry: "2022-08-18"
 draft: true
 ---
-**TL;DR:** SSL Native X EQ 2 is priced at $15 right now, matching the lowest price PluginDrop has tracked since monitoring began in 2022. That's a steep cut from its ~~$149~~ regular price, and it lines up with the typical sale price seen across 33 tracked observations. [Grab it at Plugin Boutique](https://www.pluginboutique.com/search?q=SSL+Native+X+EQ+2&a_aid=69cb95abe1763&chan=art&data1=ssl-native-x-eq-2-96b7cd&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-x-eq-2-96b7cd) while it's active.
+**TL;DR:** SSL Native X EQ 2 is priced at $15 right now, matching the lowest price PluginDrop has tracked since monitoring began in 2022. That's a steep cut from its ~~$149~~ regular price, and it lines up with the typical sale price seen across 33 tracked observations. [Grab it at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/8665-SSL-Native-X-EQ-2?a_aid=69cb95abe1763&chan=art&data1=ssl-native-x-eq-2-96b7cd&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-x-eq-2-96b7cd) while it's active.
 
 <!-- deal-context-sale-windows:start -->
 ## Last three times this went on sale

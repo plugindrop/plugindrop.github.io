@@ -14,7 +14,7 @@ saleExpiry: "2026-11-13"
 saleExpirySource: "fallback"
 draft: true
 ---
-**TL;DR:** Uhbik 2, u-he's effects suite, is discounted at Plugin Boutique, with PluginDrop's tracking showing a typical sale price of $139 against a $199 regular price. The lowest price tracked so far is $132, based on 26 observations since 2026-07-17. [Grab Uhbik 2 at Plugin Boutique](https://www.pluginboutique.com/search?q=Uhbik+2&a_aid=69cb95abe1763&chan=art&data1=uhbik-2-a64fa2&utm_source=plugindrop&utm_medium=article&utm_campaign=uhbik-2-a64fa2) while the sale price holds.
+**TL;DR:** Uhbik 2, u-he's effects suite, is discounted at Plugin Boutique, with PluginDrop's tracking showing a typical sale price of $139 against a $199 regular price. The lowest price tracked so far is $132, based on 26 observations since 2026-07-17. [Grab Uhbik 2 at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/15854-Uhbik-2?a_aid=69cb95abe1763&chan=art&data1=uhbik-2-a64fa2&utm_source=plugindrop&utm_medium=article&utm_campaign=uhbik-2-a64fa2) while the sale price holds.
 
 <!-- deal-context-sale-windows:start -->
 ## Last three times this went on sale
@@ -82,7 +82,7 @@ A: u-he lists OS X 10.10 or newer for Mac and Windows 7 or newer for Windows, pl
 
 ## Should you buy now?
 
-At $139, the current price sits at the typical sale level PluginDrop has tracked across 26 observations since 2026-07-17, not at the $132 floor recorded in that window. Buying now gets a real discount off the $199 regular price, but producers specifically chasing the lowest tracked price may want to wait and watch for it to dip toward $132 again. For most buyers who just want the five-module effects suite at a discount, $139 against ~~$199~~ is a reasonable entry point via [Plugin Boutique](https://www.pluginboutique.com/search?q=Uhbik+2&a_aid=69cb95abe1763&chan=art&data1=uhbik-2-a64fa2&utm_source=plugindrop&utm_medium=article&utm_campaign=uhbik-2-a64fa2).
+At $139, the current price sits at the typical sale level PluginDrop has tracked across 26 observations since 2026-07-17, not at the $132 floor recorded in that window. Buying now gets a real discount off the $199 regular price, but producers specifically chasing the lowest tracked price may want to wait and watch for it to dip toward $132 again. For most buyers who just want the five-module effects suite at a discount, $139 against ~~$199~~ is a reasonable entry point via [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/15854-Uhbik-2?a_aid=69cb95abe1763&chan=art&data1=uhbik-2-a64fa2&utm_source=plugindrop&utm_medium=article&utm_campaign=uhbik-2-a64fa2).
 
 *Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
 
