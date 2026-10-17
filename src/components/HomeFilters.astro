@@ -1,0 +1,14 @@
+---
+const { categories = [] } = Astro.props;
+const filters = [['all','All'],['ending','Ending soon'],['new-low','New lows'],['under-50','Under $50'],['bundles','Bundles'],...categories.map(c => [c.toLowerCase(),c])];
+---
+<div class="home-filters" aria-label="Filter deals">{filters.map(([key,label],i) => <button type="button" data-filter-choice={key} aria-pressed={i===0 ? 'true':'false'}>{label}</button>)}</div>
+<script is:inline>
+  document.querySelectorAll('[data-filter-choice]').forEach(button => button.addEventListener('click', () => {
+    const value = button.dataset.filterChoice;
+    document.querySelectorAll('[data-filter-choice]').forEach(b => b.setAttribute('aria-pressed', String(b === button)));
+    document.querySelectorAll('#sale-grid [data-deal-card]').forEach(card => { const item = card.closest('.grid-item'); item.hidden = value !== 'all' ? !card.dataset.filter.split(' ').includes(value) : false; if (value !== 'all') item.removeAttribute('data-extra'); });
+    const more = document.querySelector('#show-more-deals'); if (more) more.hidden = value !== 'all';
+  }));
+</script>
+<style>.home-filters{display:flex;gap:.4rem;overflow-x:auto;padding:.3rem 0 .8rem;scrollbar-width:thin}.home-filters button{flex:none;padding:.4rem .65rem;background:var(--bg-card);border:1px solid var(--border);color:var(--text-secondary);font:.7rem var(--font-mono);cursor:pointer}.home-filters button[aria-pressed=true]{background:var(--accent);color:var(--bg-base);border-color:var(--accent)}</style>
