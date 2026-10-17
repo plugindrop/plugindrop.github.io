@@ -1,97 +1,91 @@
 ---
-title: "30% Off SubBoomBass 2 — Deep Bass Sounds for Tracks ($69)"
-description: "SubBoomBass 2 is discounted to $69 from $99 at Plugin Boutique, a 30% saving on this bass-focused synth plugin. If you produce hip-hop, trap, EDM, or..."
-pubDate: "2026-08-13T16:30:38Z"
-tags: ["sale", "vst-plugin", "virtual-instrument", "effects", "music-production"]
-affiliate: "https://www.pluginboutique.com/search?q=SubBoomBass%202&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=subboombass-2-cec3c4&chan=art&data1=subboombass-2-cec3c4"
+title: "30% Off SubBoomBass 2 — Deep Sub-Bass for Electronic Producers"
+description: "SubBoomBass 2 from Rob Papen is 30% off its $99 regular price at Plugin Boutique. The synth adds NKS compatibility, MPE support, and a granular..."
+pubDate: "2026-10-17T16:47:57Z"
+tags: ["sale", "music-production"]
+affiliate: "https://www.pluginboutique.com/search?q=SubBoomBass+2&a_aid=69cb95abe1763&chan=trk&data1=subboombass-2-cec3c4&utm_source=plugindrop&utm_medium=article&utm_campaign=subboombass-2-cec3c4"
 heroImage: "/images/subboombass-2-cec3c4.jpg"
-score: 7.13
+score: 8.61
+rawScore: 8.61
 dealPrice: "$69.00"
 originalPrice: "$99.00"
 discount: "30% OFF"
-draft: true
-saleExpiry: "2026-09-12"
-saleExpirySource: "fallback"
+saleExpiry: "2026-10-20"
+draft: false
 ---
-**TL;DR:** SubBoomBass 2 is discounted to $69 from ~~$99~~ at Plugin Boutique, a 30% saving on this bass-focused synth plugin. If you produce hip-hop, trap, EDM, or any genre that leans on low end, this is worth a look while the deal is live. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/3951-SubBoomBass-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=subboombass-2-cec3c4&chan=art&data1=subboombass-2-cec3c4).
-
-## Price Context (tracked by PluginDrop)
-- Regular: $99
+**TL;DR:** SubBoomBass 2 from Rob Papen is 30% off its ~~$99~~ regular price at Plugin Boutique. The synth adds NKS compatibility, MPE support, and a granular resynthesis mode built specifically for low-end sound design. [Check the current SubBoomBass 2 deal at Plugin Boutique](https://www.pluginboutique.com/search?q=SubBoomBass+2&a_aid=69cb95abe1763&chan=trk&data1=subboombass-2-cec3c4&utm_source=plugindrop&utm_medium=article&utm_campaign=subboombass-2-cec3c4).
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/e9unzOQ1lrU" title="30% Off SubBoomBass 2 — Deep Bass Sounds for Tracks ($69) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/e9unzOQ1lrU" title="30% Off SubBoomBass 2 — Deep Sub-Bass for Electronic Producers — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## What Is SubBoomBass 2?
 
-SubBoomBass 2 is a bass synthesizer plugin from AudioThing, built specifically for producing sub bass and low-end tones rather than general-purpose synthesis. It's designed to get usable bass sounds quickly, with a workflow aimed at electronic, hip-hop, and trap production. The plugin runs as a standard instrument plugin inside your DAW — check the product page for the full list of supported formats and operating systems.
+## What you actually get
 
-## Key Features
+SubBoomBass 2 is a dedicated bass synthesizer, and the feature list leans hard into that focus.
 
-- **Dedicated bass engine** — the synth architecture is built around sub and bass frequencies rather than trying to cover every sound category.
-- **Distortion/saturation stage** — an onboard drive section for adding grit and harmonic content to low-end signals.
-- **Preset library** — a collection of factory presets aimed at genres like trap, hip-hop, and EDM.
-- **MIDI-controllable parameters** — key synth controls can be mapped for hands-on tweaking or automation.
-- **Standard plugin formats** — works inside major DAWs as an instrument plugin. Verify VST/AU/AAX compatibility for your specific setup on the product page.
+- Rob Papen lists NKS compatibility, so Komplete Kontrol and Maschine users get mapped controls without manual setup.
+- According to the product listing, the update adds new zero-latency filter types and ring modulation, useful for shaping aggressive low-mid harmonics without added plugin latency in the signal chain.
+- A post-filter distortion mode is listed, letting you dirty up the bass after filtering rather than before, which keeps the low end tighter before it hits saturation.
+- The product page lists a new ratcheting feature inside the sequencer, handy for programming stuttering, rhythmic bass patterns without external MIDI editing.
+- Grain sample mode for granular resynthesis of samples is listed, which opens the oscillator section to textural and evolving bass sounds built from imported samples.
+- Rob Papen also lists MIDI MPE compatibility (Poly MPE), so players with MPE controllers can apply per-note expression to bass lines.
 
-If you need exact specs like oscillator count, filter types, or CPU requirements, confirm those details on the official product page before buying.
+## Where it fits in a session
 
-## Who Is It For?
+SubBoomBass 2 is built for the sound-design stage of a track, not mixing or mastering. It fits naturally when you're building a bass patch from scratch for house, dubstep, DnB, or similar bass-forward genres. The sequencer and ratcheting features also make it useful during the arrangement stage, when you're programming a rhythmic bass part directly inside the plugin instead of relying on a separate step sequencer. For performance-oriented producers, the MPE support means it can sit in a live rig alongside an expressive controller.
 
-- **Hip-hop and trap producers** — the plugin's design leans toward the deep 808-style bass tones common in these genres.
-- **EDM and bass music producers** — useful for building sub-heavy low end in club-focused tracks.
-- **Producers who want a fast bass workflow** — a dedicated bass synth can get you to a usable low end faster than dialing one in from scratch on a general-purpose synth.
-- **Budget-conscious buyers already using AudioThing tools** — if you own other AudioThing plugins, this deal adds a bass-specific tool to that ecosystem at a reduced price.
+## Pricing and deal details
 
-## Pricing & Deal Details
+Plugin Boutique has SubBoomBass 2 at 30% off its $99 regular price. That discount applies directly at checkout on the product page. Check the product page for current pricing before buying, since storewide promotions can have their own end dates.
 
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$99~~ | $69 | $30 (30%) |
+## Skip it if
 
-Plugin Boutique regularly runs promotions across its catalog, so a 30% discount on a plugin like this is a reasonable, though not exceptional, markdown to see.
+- You're on Windows and specifically need AU — AU is not listed among the formats for Windows, only VST and AAX are.
+- You're running Pro Tools on Mac — AAX is not listed among the Mac formats, only AU and VST are, so Mac Pro Tools users should confirm support first.
+- Your Mac is newer than OS X 10.15 as listed, or you need 32-bit Windows support beyond what's listed — verify compatibility before purchasing.
+- You already own a dedicated bass synth with a similar workflow and don't need a second one just for low-end sound design.
 
-pluginboutique.com/search?q=SubBoomBass+2&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=subboombass-2-cec3c4).
+## What producers say (with sources)
 
-## Alternatives at a Glance
+A Reddit deal post flagged SubBoomBass 2 at $69 through an exclusive affiliate sale running through October 20th, tracked separately from the current Plugin Boutique listing ([source](https://www.reddit.com/r/AudioProductionDeals/comments/1x5iwz0/rob_papen_subboombass_2_synth_bass_plugin_69/)). An earlier post in the same community tracked the identical $69 price point through an exclusive sale window ending August 31st ([source](https://www.reddit.com/r/AudioProductionDeals/comments/1vkbhgh/rob_papen_subboombass_2_synth_bass_plugin_69/)). Both posts point to the same product page and reflect sale pricing the community has tracked independently over time.
 
-| Name | Price | Key Difference |
-|---|---|---|
-| Xfer Serum | $249 | General-purpose wavetable synth, not bass-specific |
-| u-he Diva | ~$179 | Analog-modeled synth covering bass and a wide range of other sounds |
-| Initial Audio Touch Bass | Check product page | Bass-focused instrument built around sample-based low end |
+<!-- deal-context-formats:start -->
+## Formats and system requirements
+- Formats: VST, AU, AAX, NKS
+- Mac requirements: OS-X 10.9 - 10.15 (64 bits only); Formats:; AU; VST
+- Windows requirements: 7/ Windows 8/ Windows 10 (32 & 64 bits); Formats:; VST; AAX (Note: PC AAX for PT 12 or higher)
+- Source: pluginboutique.com product page, retrieved 2026-10-18
+<!-- deal-context-formats:end -->
 
-If you want a synth dedicated to bass without programming from a blank patch, SubBoomBass 2 or Touch Bass fit that need. If you want one synth that can also cover leads, pads, and other roles, Serum or Diva cover more ground for a higher price.
+<!-- deal-context-video:start -->
+## Hear it before you buy
+
+<iframe src="https://www.youtube.com/embed/esOjo0fO1fQ" title="SubBoomBass 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*SubBoomBass 2 Synthesizer by Rob Papen (No Talking) — Elektronick Musick*
+<!-- deal-context-video:end -->
 
 ## FAQ
 
-**Q: Does SubBoomBass 2 require iLok?**
-A: AudioThing plugins typically use a license key or machine-based activation system rather than a physical iLok dongle, but confirm this on the official product page before purchase.
+**Q: What is SubBoomBass 2?**
+A: It's a dedicated bass synthesizer plugin from Rob Papen, built around an oscillator, filter, and sequencer section, with granular resynthesis and sample-based sound design options.
 
-**Q: What DAWs is SubBoomBass 2 compatible with?**
-A: It works as a standard instrument plugin in VST/VST3/AU/AAX-compatible DAWs.
+**Q: Does SubBoomBass 2 support MPE controllers?**
+A: Yes, the product listing states it is MIDI MPE compatible (Poly MPE), so per-note expression works with MPE-capable hardware.
 
-**Q: Is this a one-time purchase or a subscription?**
-A: Plugin Boutique typically sells plugins like this as a perpetual license, meaning you own it after purchase. Confirm the license terms on the product page.
+**Q: How much does SubBoomBass 2 normally cost?**
+A: The regular price listed on Plugin Boutique is $99, with the current deal applying a 30% discount off that price.
 
-**Q: How long will the 30% discount last?**
-A: No end date was listed with this deal.
+**Q: Will SubBoomBass 2 work with my DAW and operating system?**
+A: Formats and OS compatibility are listed separately for Mac and Windows on the product page, so check it for your exact host and OS version before buying.
 
-## Get the Deal
+## Should you buy now?
 
-$69 instead of $99 is a straightforward 30% saving on a bass-focused synth plugin. If sub-heavy bass sounds are part of your workflow, now is a reasonable time to check it out.
+At 30% off the $99 regular price, this is a straightforward moment to buy if a dedicated bass synth already fits your workflow and the listed format support matches your system. There's no indication this discount is tied to a hard deadline in the current tracking data, so the main risk in waiting is losing the 30% markdown rather than missing a one-time window. If NKS mapping, MPE support, or the granular resynthesis mode solve a specific problem in your bass sound design, the discount off $99 makes this a reasonable time to act.
 
-[Get SubBoomBass 2 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/3951-SubBoomBass-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=subboombass-2-cec3c4&chan=art&data1=subboombass-2-cec3c4).
-
-## Is This Deal Worth It?
-
-A 30% discount is a common promotional depth for plugin retailers like Plugin Boutique, so this isn't an exceptional one-off markdown, but it's a solid entry point if you've been considering a dedicated bass synth. AudioThing plugins are generally sold as perpetual licenses, so there's no recurring subscription cost to factor in. If sub bass and low-end sound design are a regular part of your production work, buying now at $69 is reasonable; if you're not actively working in genres that lean on heavy bass, it's fine to wait and see if a deeper discount appears in a future sale.
+*Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
 
 ## Related Guides
 
-- [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-vst-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
----
-
-*This post contains affiliate links. We may earn a small commission at no extra cost to you.*
