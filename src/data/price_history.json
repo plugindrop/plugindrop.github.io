@@ -15921,6 +15921,30 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2022-12-21",
+          "regular": 24.79,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-04-04",
+          "regular": 29.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-12-01",
+          "regular": 29.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-03-18",
+          "regular": 19.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/cherry-audio-ps-20.jpg"
