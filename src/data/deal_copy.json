@@ -7478,5 +7478,3145 @@
     "tagline_model": "claude-sonnet (cli)",
     "status": "no_source",
     "reject_reason": "source_empty"
+  },
+  "Output EXHALE": {
+    "pbProductId": "1895",
+    "brand": null,
+    "product": "Output EXHALE",
+    "category": "Vocal",
+    "tagline": "Vocal loops and sliced phrases with tempo synced FX",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/1895-EXHALE",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/1895-EXHALE",
+    "tagline_source_quote": "Slices for sliced vocal phrases",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Output Movement": {
+    "pbProductId": "2352",
+    "brand": null,
+    "product": "Output Movement",
+    "category": "Effects",
+    "tagline": "Tempo-locked rhythms for drums, pads, guitars, and full mixes",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/2352-Movement",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/2352-Movement",
+    "tagline_source_quote": "tempo-locked rhythms",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Output Portal": {
+    "pbProductId": "5458",
+    "brand": null,
+    "product": "Output Portal",
+    "category": "Effects",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/45-Granular-FX/5458-Portal",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/45-Granular-FX/5458-Portal",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "generic_or_ungrounded"
+  },
+  "Output Signal": {
+    "pbProductId": "1511",
+    "brand": null,
+    "product": "Output Signal",
+    "category": "Instrument",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/1511-SIGNAL",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/1511-SIGNAL",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "banned_claim_or_price"
+  },
+  "Output Substance": {
+    "pbProductId": "2799",
+    "brand": null,
+    "product": "Output Substance",
+    "category": "Instrument",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/2799-SUBSTANCE",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/2799-SUBSTANCE",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "missing_or_long"
+  },
+  "PHAT 2": {
+    "pbProductId": "5506",
+    "brand": null,
+    "product": "PHAT 2",
+    "category": null,
+    "tagline": "Funky urban drum grooves for hip-hop production",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/5506-PHAT-2",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/5506-PHAT-2",
+    "tagline_source_quote": "grooving funky and urban drumming",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Phoscyon 2": {
+    "pbProductId": "9541",
+    "brand": null,
+    "product": "Phoscyon 2",
+    "category": null,
+    "tagline": "303 emulation with a convenient sequencer",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9541-Phoscyon-2",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9541-Phoscyon-2",
+    "tagline_source_quote": "303 emulation with a super-convenient sequencer",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Pick 5 Bundle VPS Avenger Expansions": {
+    "pbProductId": "11207",
+    "brand": null,
+    "product": "Pick 5 Bundle VPS Avenger Expansions",
+    "category": null,
+    "tagline": "Unlock five VPS Avenger expansion packs with one license code",
+    "source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11207--Pick-5-Bundle-VPS-Avenger-Expansions",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11207--Pick-5-Bundle-VPS-Avenger-Expansions",
+    "tagline_source_quote": "unlock 5 expansion packs",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Pigments 7": {
+    "pbProductId": "11867",
+    "brand": null,
+    "product": "Pigments 7",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "banned_claim_or_price"
+  },
+  "Playbeat 4": {
+    "pbProductId": "14265",
+    "brand": null,
+    "product": "Playbeat 4",
+    "category": null,
+    "tagline": "AI-powered drum designer creates genre-based patterns",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/24-Sequencer/14265-Playbeat-4",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/24-Sequencer/14265-Playbeat-4",
+    "tagline_source_quote": "AI-powered drum designer",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Plugin Alliance Lindell 80 Series": {
+    "pbProductId": "14090",
+    "brand": null,
+    "product": "Plugin Alliance Lindell 80 Series",
+    "category": "Effects",
+    "tagline": "Classic analogue hardware colour for your mix bus",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/50-Mastering-/14090-Lindell-Audio-80-Series",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/50-Mastering-/14090-Lindell-Audio-80-Series",
+    "tagline_source_quote": "classic analogue hardware",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Plugin Alliance Maag EQ4": {
+    "pbProductId": "10525",
+    "brand": null,
+    "product": "Plugin Alliance Maag EQ4",
+    "category": "EQ",
+    "tagline": "Mix bus EQ adds classic analogue hardware colour and life",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/10525-M-ag-Audio-EQ4",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/10525-M-ag-Audio-EQ4",
+    "tagline_source_quote": "classic analogue hardware",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Plugin Alliance SPL Vitalizer": {
+    "pbProductId": "15518",
+    "brand": null,
+    "product": "Plugin Alliance SPL Vitalizer",
+    "category": "Mastering",
+    "tagline": "Breathe life into your mix bus with classic analogue warmth",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/15518-SPL-Vitalizer-Mk3-T",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/15518-SPL-Vitalizer-Mk3-T",
+    "tagline_source_quote": "breathe life into your mix bus",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Pure Sub": {
+    "pbProductId": "17759",
+    "brand": null,
+    "product": "Pure Sub",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17759-Pure-Sub",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17759-Pure-Sub",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "banned_claim_or_price"
+  },
+  "REFERENCE 3": {
+    "pbProductId": "17100",
+    "brand": null,
+    "product": "REFERENCE 3",
+    "category": null,
+    "tagline": "Mix reference matching for vocals, drums, bass, and stereo width",
+    "source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/17100-REFERENCE-3",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/17100-REFERENCE-3",
+    "tagline_source_quote": "suggests gain moves for vocals, drums, music, and bass",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "ROWDY 2": {
+    "pbProductId": "6261",
+    "brand": null,
+    "product": "ROWDY 2",
+    "category": null,
+    "tagline": "Picked overdriven electric bass for punk, rock and modern metal",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6261-ROWDY-2",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6261-ROWDY-2",
+    "tagline_source_quote": "picked, overdriven electric bass sounds",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "ROYAL 2": {
+    "pbProductId": "6257",
+    "brand": null,
+    "product": "ROYAL 2",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6257-ROYAL-2",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6257-ROYAL-2",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "missing_or_long"
+  },
+  "ReSing MAX": {
+    "pbProductId": "15737",
+    "brand": null,
+    "product": "ReSing MAX",
+    "category": null,
+    "tagline": "Replace scratch vocals with expressive professional-quality voices",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15737-ReSing-MAX",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15737-ReSing-MAX",
+    "tagline_source_quote": "Replace scratch vocals with expressive, professional-quality voices",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Remix": {
+    "pbProductId": "11190",
+    "brand": null,
+    "product": "Remix",
+    "category": null,
+    "tagline": "Real-time vocals, piano, bass, and drums stem separation",
+    "source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/11190-Remix",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/11190-Remix",
+    "tagline_source_quote": "Separate mixes into five stems – Vocals, Piano, Bass, Drums and Other",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Roland Vintage Keys Essentials Bundle": {
+    "pbProductId": "17344",
+    "brand": null,
+    "product": "Roland Vintage Keys Essentials Bundle",
+    "category": null,
+    "tagline": "Classic analogue colour for digital mix bus processing",
+    "source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/17344-Roland-Vintage-Keys-Essentials-Bundle",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/17344-Roland-Vintage-Keys-Essentials-Bundle",
+    "tagline_source_quote": "classic analogue hardware",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "SILK 2": {
+    "pbProductId": "11871",
+    "brand": null,
+    "product": "SILK 2",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11871-SILK-2",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11871-SILK-2",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "generic_or_ungrounded"
+  },
+  "SOLID 2": {
+    "pbProductId": "5507",
+    "brand": null,
+    "product": "SOLID 2",
+    "category": null,
+    "tagline": "Five drum kits with tone-morphing presets and room-mic controls",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/5507-SOLID-2",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/5507-SOLID-2",
+    "tagline_source_quote": "six tone-morphing character presets",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "SPARKLE 2": {
+    "pbProductId": "9807",
+    "brand": null,
+    "product": "SPARKLE 2",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/9807-SPARKLE-2",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/9807-SPARKLE-2",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "generic_or_ungrounded"
+  },
+  "SSL Native X-Phase": {
+    "pbProductId": "8666",
+    "brand": null,
+    "product": "SSL Native X-Phase",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/22-Sound-Editor/8666-SSL-Native-X-Phase",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/22-Sound-Editor/8666-SSL-Native-X-Phase",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "generic_or_ungrounded"
+  },
+  "SSL Native X-Saturator": {
+    "pbProductId": "8667",
+    "brand": null,
+    "product": "SSL Native X-Saturator",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/44-Saturation/8667-SSL-Native-X-Saturator",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/44-Saturation/8667-SSL-Native-X-Saturator",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "missing_or_long"
+  },
+  "SSL X-Limit": {
+    "pbProductId": "9371",
+    "brand": null,
+    "product": "SSL X-Limit",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/9371-SSL-X-Limit",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/9371-SSL-X-Limit",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "banned_claim_or_price"
+  },
+  "SUBCRAFT": {
+    "pbProductId": "13267",
+    "brand": null,
+    "product": "SUBCRAFT",
+    "category": null,
+    "tagline": "808/sub bass instrument with MIDI phrases and kick drum engine",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/13267-SUBCRAFT",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/13267-SUBCRAFT",
+    "tagline_source_quote": "808/sub bass instrument with built-in MIDI phrases, creative FX and a kick drum engine",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Scaler 3": {
+    "pbProductId": "14563",
+    "brand": null,
+    "product": "Scaler 3",
+    "category": null,
+    "tagline": "Generate melodies, basslines and performances from chord progressions",
+    "source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3",
+    "tagline_source_quote": "Generate melodies, basslines and performances",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Skaka": {
+    "pbProductId": "8721",
+    "brand": null,
+    "product": "Skaka",
+    "category": null,
+    "tagline": "Humanized shaker patterns across 18 sampled instruments",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/8721-Skaka",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/8721-Skaka",
+    "tagline_source_quote": "18 different shaker instruments",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Slate Digital FG-X 2": {
+    "pbProductId": "15794",
+    "brand": null,
+    "product": "Slate Digital FG-X 2",
+    "category": "Mastering",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15794-FG-X-2",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15794-FG-X-2",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "generic_or_ungrounded"
+  },
+  "Slate Digital VTM": {
+    "pbProductId": "15817",
+    "brand": null,
+    "product": "Slate Digital VTM",
+    "category": "Saturation",
+    "tagline": "16-track tape and stereo mastering deck emulation",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/15817-Virtual-Tape-Machines",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/15817-Virtual-Tape-Machines",
+    "tagline_source_quote": "VTM emulates both a 16-track 2-inch tape machine and a 1/2 inch stereo mastering deck.",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Softube Drawmer S73": {
+    "pbProductId": "2833",
+    "brand": null,
+    "product": "Softube Drawmer S73",
+    "category": "Effects",
+    "tagline": "Mastering multi-band compression to balance and shape your mix",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/2833-Drawmer-S73-Intelligent-Master-Processor",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/2833-Drawmer-S73-Intelligent-Master-Processor",
+    "tagline_source_quote": "balance and shape your mix",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Softube Model 72": {
+    "pbProductId": "6888",
+    "brand": null,
+    "product": "Softube Model 72",
+    "category": "Effects",
+    "tagline": null,
+    "source_url": null,
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": null,
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "no_source",
+    "reject_reason": "source_empty"
+  },
+  "Softube Trident A-Range": {
+    "pbProductId": "2839",
+    "brand": null,
+    "product": "Softube Trident A-Range",
+    "category": "EQ",
+    "tagline": "Drum EQ with four bands and adjustable saturation",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/2839-Trident-A-Range",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/2839-Trident-A-Range",
+    "tagline_source_quote": "four bands of equalization plus high and low pass filters",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Softube Tube-Tech CL 1B Mk II": {
+    "pbProductId": "11535",
+    "brand": null,
+    "product": "Softube Tube-Tech CL 1B Mk II",
+    "category": "Compressor",
+    "tagline": "Optical compression for vocals and bass",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/11535-Tube-Tech-CL-1B-Mk-II",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/11535-Tube-Tech-CL-1B-Mk-II",
+    "tagline_source_quote": "optical compression for vocals, bass",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Softube Weiss DS1-MK3": {
+    "pbProductId": "4180",
+    "brand": null,
+    "product": "Softube Weiss DS1-MK3",
+    "category": "Mastering",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/50-Mastering-/4180-Weiss-DS1-MK3",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/50-Mastering-/4180-Weiss-DS1-MK3",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "missing_or_long"
+  },
+  "Sonible entropy:EQ": {
+    "pbProductId": "3104",
+    "brand": null,
+    "product": "Sonible entropy:EQ",
+    "category": "EQ",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/3104-entropy-EQ-",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/3104-entropy-EQ-",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "missing_or_long"
+  },
+  "Sonible prime vocal": {
+    "pbProductId": "14147",
+    "brand": null,
+    "product": "Sonible prime vocal",
+    "category": null,
+    "tagline": "Cleans vocal noise and reflections before mixing",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/14147-prime-vocal",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/14147-prime-vocal",
+    "tagline_source_quote": "mechanical noise and reverberant reflections",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Sonible proximity:EQ": {
+    "pbProductId": "3116",
+    "brand": null,
+    "product": "Sonible proximity:EQ",
+    "category": "EQ",
+    "tagline": "Shape room acoustics with direct sound and reverberation",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/3116-proximity-EQ-",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/3116-proximity-EQ-",
+    "tagline_source_quote": "direct sound and reverberation",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Sonible smart chain": {
+    "pbProductId": "17748",
+    "brand": null,
+    "product": "Sonible smart chain",
+    "category": null,
+    "tagline": "AI-powered mixing with EQ, compression, gating, and saturation",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/17748-smart-chain",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/17748-smart-chain",
+    "tagline_source_quote": "AI-powered mixing plug-in",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Sonible smart deess": {
+    "pbProductId": "11480",
+    "brand": null,
+    "product": "Sonible smart deess",
+    "category": null,
+    "tagline": "Spectral processing shapes vocal sibilants and plosives",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/59-De-Esser/11480-smart-deess",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/59-De-Esser/11480-smart-deess",
+    "tagline_source_quote": "spectral processing to shape and refine harsh sounds",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Sonible smart gate": {
+    "pbProductId": "10898",
+    "brand": null,
+    "product": "Sonible smart gate",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/20-Gate/10898-smart-gate",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/20-Gate/10898-smart-gate",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "quote_not_in_source"
+  },
+  "Sonible smart:EQ 4": {
+    "pbProductId": "11784",
+    "brand": null,
+    "product": "Sonible smart:EQ 4",
+    "category": "EQ",
+    "tagline": "AI EQ for tonal balance and cross-channel spectral mixing",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/11784-smart-EQ-4",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/11784-smart-EQ-4",
+    "tagline_source_quote": "achieve tonal balance",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Sonible smart:comp 3": {
+    "pbProductId": "16541",
+    "brand": null,
+    "product": "Sonible smart:comp 3",
+    "category": "Compressor",
+    "tagline": "Zero-latency processing for live use and recording",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/16541-smart-comp-3",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/16541-smart-comp-3",
+    "tagline_source_quote": "Minimum-phase processing for live use and recording with no delay",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Sonible smart:limit": {
+    "pbProductId": "8476",
+    "brand": null,
+    "product": "Sonible smart:limit",
+    "category": "Limiter",
+    "tagline": "Transparent limiting with extensive loudness and dynamics monitoring",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/8476-smart-limit",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/8476-smart-limit",
+    "tagline_source_quote": "extensive loudness and dynamics monitoring",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Sonible smart:reverb 2": {
+    "pbProductId": "15044",
+    "brand": null,
+    "product": "Sonible smart:reverb 2",
+    "category": "Reverb",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/15044-smart-reverb-2",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/15044-smart-reverb-2",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "generic_or_ungrounded"
+  },
+  "SoundID VoiceAI Perpetual License Key": {
+    "pbProductId": "13408",
+    "brand": null,
+    "product": "SoundID VoiceAI Perpetual License Key",
+    "category": null,
+    "tagline": "Transform vocal tracks into realistic singing voices",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/13408-SoundID-VoiceAI-Perpetual-License-Key",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/13408-SoundID-VoiceAI-Perpetual-License-Key",
+    "tagline_source_quote": "Transform your vocal track into a realistic singing voice",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Soundbox Instruments Bundle": {
+    "pbProductId": "13347",
+    "brand": null,
+    "product": "Soundbox Instruments Bundle",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/13347-Soundbox-Instruments-Bundle",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/13347-Soundbox-Instruments-Bundle",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "quote_not_in_source"
+  },
+  "Soundtoys Devil-Loc Deluxe": {
+    "pbProductId": "1803",
+    "brand": null,
+    "product": "Soundtoys Devil-Loc Deluxe",
+    "category": "Compressor",
+    "tagline": "Extreme compression creates huge drum sounds with gritty ambience",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/1803-Devil-Loc-Deluxe",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/1803-Devil-Loc-Deluxe",
+    "tagline_source_quote": "Extreme compression effect creates huge drum sounds",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Soundtoys EchoBoy": {
+    "pbProductId": "1798",
+    "brand": null,
+    "product": "Soundtoys EchoBoy",
+    "category": "Delay",
+    "tagline": "High-end tape sound for vocals with shuffle and swing",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/49-Echo/1798-EchoBoy",
+    "tagline_source_quote": "Warm-up vocals with high-end tape sound modelled on the Ampex ATR-102",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Soundtoys FilterFreak": {
+    "pbProductId": "1800",
+    "brand": null,
+    "product": "Soundtoys FilterFreak",
+    "category": "Effects",
+    "tagline": "Shape vocals and drums with resonant analog filter sweeps",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/19-Filter/1800-FilterFreak",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/19-Filter/1800-FilterFreak",
+    "tagline_source_quote": "analog filter sweeps",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Soundtoys Little AlterBoy": {
+    "pbProductId": "1807",
+    "brand": null,
+    "product": "Soundtoys Little AlterBoy",
+    "category": "Vocal",
+    "tagline": "Pitch and formant shifting for robotic hard-tuned vocals",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/1807-Little-AlterBoy",
+    "tagline_source_quote": "Vocal Formant and Pitch Shifting. Hard Tune FX. Robot/Vocoder Mode.",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Soundtoys MicroShift": {
+    "pbProductId": "1809",
+    "brand": null,
+    "product": "Soundtoys MicroShift",
+    "category": "Effects",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/1809-MicroShift",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/1809-MicroShift",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "generic_or_ungrounded"
+  },
+  "Soundtoys PanMan": {
+    "pbProductId": "1806",
+    "brand": null,
+    "product": "Soundtoys PanMan",
+    "category": "Effects",
+    "tagline": "Rhythmic auto-panning with vintage PanScan trigger divider",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/1806-PanMan",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/1806-PanMan",
+    "tagline_source_quote": "Recreates the clever “trigger divider” feature from the vintage PanScan hardware",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Soundtoys PhaseMistress": {
+    "pbProductId": "1808",
+    "brand": null,
+    "product": "Soundtoys PhaseMistress",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/29-Phaser/1808-PhaseMistress",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/29-Phaser/1808-PhaseMistress",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "generic_or_ungrounded"
+  },
+  "Soundtoys PrimalTap": {
+    "pbProductId": "1857",
+    "brand": null,
+    "product": "Soundtoys PrimalTap",
+    "category": null,
+    "tagline": "Retro dual delay with Freeze for lo-fi pitch-warped loops",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/10-Delay/1857-PrimalTap",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/10-Delay/1857-PrimalTap",
+    "tagline_source_quote": "Retro Dual Delay with 'Freeze' for Lo-Fi Pitch Warped Loops",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Soundtoys Radiator": {
+    "pbProductId": "1802",
+    "brand": null,
+    "product": "Soundtoys Radiator",
+    "category": null,
+    "tagline": "Add tube warmth and punch to bass and drums",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/44-Saturation/1802-Radiator",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/44-Saturation/1802-Radiator",
+    "tagline_source_quote": "warmth and punch",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Soundtoys Sie Q": {
+    "pbProductId": "4717",
+    "brand": null,
+    "product": "Soundtoys Sie Q",
+    "category": null,
+    "tagline": "EQ with spacious highs and smooth lows",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/4717-Sie-Q",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/4717-Sie-Q",
+    "tagline_source_quote": "Spacious Highs, Smooth Lows",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Soundtoys SpaceBlender": {
+    "pbProductId": "14961",
+    "brand": null,
+    "product": "Soundtoys SpaceBlender",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/14961-SpaceBlender",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/14961-SpaceBlender",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "quote_not_in_source"
+  },
+  "Soundtoys SuperPlate": {
+    "pbProductId": "10583",
+    "brand": null,
+    "product": "Soundtoys SuperPlate",
+    "category": null,
+    "tagline": "Five classic plate reverbs with Tube and Solid-State coloration",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/10583-SuperPlate",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/10583-SuperPlate",
+    "tagline_source_quote": "five classic electromechanical plate reverbs",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Soundtoys Tremolator": {
+    "pbProductId": "1810",
+    "brand": null,
+    "product": "Soundtoys Tremolator",
+    "category": "Effects",
+    "tagline": "Custom rhythmic auto-gate patterns with MIDI sync",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/40-Tremolo/1810-Tremolator",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/40-Tremolo/1810-Tremolator",
+    "tagline_source_quote": "write custom patterns and turn Tremolator into an outrageous rhythmic auto-gate",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Speakers": {
+    "pbProductId": "6487",
+    "brand": null,
+    "product": "Speakers",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/6487-Speakers",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/6487-Speakers",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "tagline_style"
+  },
+  "StageOne 2": {
+    "pbProductId": "10913",
+    "brand": null,
+    "product": "StageOne 2",
+    "category": null,
+    "tagline": "Stereo spreading with depth, mono spread, and phase recovery",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/10913-StageOne-2-",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/10913-StageOne-2-",
+    "tagline_source_quote": "stereo spreading and sound stage manipulation",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Super 8": {
+    "pbProductId": "11465",
+    "brand": null,
+    "product": "Super 8",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11465-Super-8",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11465-Super-8",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "banned_claim_or_price"
+  },
+  "Super-7": {
+    "pbProductId": "15978",
+    "brand": null,
+    "product": "Super-7",
+    "category": null,
+    "tagline": "Analog 106 architecture with 707-style PCM drums",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/15978-Super-7",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/15978-Super-7",
+    "tagline_source_quote": "analog 106 architecture with 707-style PCM drums",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Synthesizer V Studio 2 Pro": {
+    "pbProductId": "17506",
+    "brand": null,
+    "product": "Synthesizer V Studio 2 Pro",
+    "category": null,
+    "tagline": "Create vocal parts from lyrics, melodies, and custom expressions",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17506-Synthesizer-V-Studio-2-Pro",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17506-Synthesizer-V-Studio-2-Pro",
+    "tagline_source_quote": "entering notes and lyrics, choosing a voice, customising expressions",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "TOTAL VI MAX 2": {
+    "pbProductId": "16798",
+    "brand": null,
+    "product": "TOTAL VI MAX 2",
+    "category": null,
+    "tagline": "Virtual instruments for bass, drums, keyboards and orchestral sounds",
+    "source_url": "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/16798-TOTAL-VI-MAX-2",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/16798-TOTAL-VI-MAX-2",
+    "tagline_source_quote": "bass and drums, to keyboards and orchestral sounds",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "TR-808": {
+    "pbProductId": "15360",
+    "brand": null,
+    "product": "TR-808",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/15360-TR-808",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/15360-TR-808",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "missing_or_long"
+  },
+  "TR-909": {
+    "pbProductId": "15284",
+    "brand": null,
+    "product": "TR-909",
+    "category": null,
+    "tagline": "Hybrid analog/digital drum sounds for house and techno",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/15284-TR-909",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/15284-TR-909",
+    "tagline_source_quote": "hybrid analog/digital TR-909 drum machine",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "TRITON / TRITON Extreme": {
+    "pbProductId": "11203",
+    "brand": null,
+    "product": "TRITON / TRITON Extreme",
+    "category": null,
+    "tagline": "TRITON software with original PCM samples and effects",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11203-TRITON-TRITON-Extreme",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11203-TRITON-TRITON-Extreme",
+    "tagline_source_quote": "reproduces original PCM samples and effect circuits",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Tokyo Dawn Labs TDR Nova GE": {
+    "pbProductId": "4656",
+    "brand": null,
+    "product": "Tokyo Dawn Labs TDR Nova GE",
+    "category": "EQ",
+    "tagline": "Dynamic EQ for drum buses, sibilance, and mastering density",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/4656-TDR-Nova-GE",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/4656-TDR-Nova-GE",
+    "tagline_source_quote": "master lacking density, the drum bus asking for more crispiness",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Tomofon": {
+    "pbProductId": "10064",
+    "brand": null,
+    "product": "Tomofon",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10064-Tomofon",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10064-Tomofon",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "generic_or_ungrounded"
+  },
+  "Toontrack EZdrummer 3": {
+    "pbProductId": null,
+    "brand": null,
+    "product": "Toontrack EZdrummer 3",
+    "category": "Drums",
+    "tagline": "Seven-kit drum sounds with mix-ready presets",
+    "source_url": "https://www.toontrack.com/product/ezdrummer-3/",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.toontrack.com/product/ezdrummer-3/",
+    "tagline_source_quote": "drum VST with 7 kits, mix-ready presets",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Toontrack Superior Drummer 3": {
+    "pbProductId": null,
+    "brand": null,
+    "product": "Toontrack Superior Drummer 3",
+    "category": "Drums",
+    "tagline": "Acoustic drum samples with audio-to-MIDI conversion",
+    "source_url": "https://www.toontrack.com/product/superior-drummer-3/",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.toontrack.com/product/superior-drummer-3/",
+    "tagline_source_quote": "acoustic drum samples, drum audio to MIDI conversion",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Total Studio 5 MAX": {
+    "pbProductId": "15171",
+    "brand": null,
+    "product": "Total Studio 5 MAX",
+    "category": null,
+    "tagline": "Virtual instruments and mastering tools for composing and mixing",
+    "source_url": "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15171-Total-Studio-5-MAX",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15171-Total-Studio-5-MAX",
+    "tagline_source_quote": "virtual instruments, studio-grade effects, mixing and mastering tools",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Tube-Tech CL 1B Mk II": {
+    "pbProductId": "11535",
+    "brand": null,
+    "product": "Tube-Tech CL 1B Mk II",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/11535-Tube-Tech-CL-1B-Mk-II",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/11535-Tube-Tech-CL-1B-Mk-II",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "banned_claim_or_price"
+  },
+  "UAD 1176 Classic Limiter Collection": {
+    "pbProductId": "10153",
+    "brand": null,
+    "product": "UAD 1176 Classic Limiter Collection",
+    "category": "Compressor",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/10153-1176-Classic-Limiter-Collection",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/10153-1176-Classic-Limiter-Collection",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "missing_or_long"
+  },
+  "UAD A Type Multiband Dynamic Enhancer": {
+    "pbProductId": "15130",
+    "brand": null,
+    "product": "UAD A Type Multiband Dynamic Enhancer",
+    "category": null,
+    "tagline": "Vintage multiband compansion for vocals and instruments",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/15130-A-Type-Multiband-Dynamic-Enhancer",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/15130-A-Type-Multiband-Dynamic-Enhancer",
+    "tagline_source_quote": "vintage multiband “compansion” processor",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "UAD API 2500 Bus Compressor": {
+    "pbProductId": "10155",
+    "brand": null,
+    "product": "UAD API 2500 Bus Compressor",
+    "category": null,
+    "tagline": "Thrust circuitry adds punch to stereo mixes and subgroups",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10155-API-2500-Bus-Compressor",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10155-API-2500-Bus-Compressor",
+    "tagline_source_quote": "Punch up low frequencies with API's patented Thrust technology",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "UAD API Vision Channel Strip": {
+    "pbProductId": "10158",
+    "brand": null,
+    "product": "UAD API Vision Channel Strip",
+    "category": "Effects",
+    "tagline": "Add aggression to drums with 560L graphic EQ",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10158-API-Vision-Channel-Strip",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10158-API-Vision-Channel-Strip",
+    "tagline_source_quote": "add aggression to drums",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "UAD Ampex ATR 102 Mastering Tape Recorder": {
+    "pbProductId": "12716",
+    "brand": null,
+    "product": "UAD Ampex ATR 102 Mastering Tape Recorder",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/12716-Ampex-ATR-102-Mastering-Tape-Recorder",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/12716-Ampex-ATR-102-Mastering-Tape-Recorder",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "generic_or_ungrounded"
+  },
+  "UAD Brigade Chorus Pedal": {
+    "pbProductId": "10159",
+    "brand": null,
+    "product": "UAD Brigade Chorus Pedal",
+    "category": null,
+    "tagline": "Rich analog chorus for guitars, vocals, and synths",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/11-Chorus/10159-Brigade-Chorus-Pedal",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/11-Chorus/10159-Brigade-Chorus-Pedal",
+    "tagline_source_quote": "rich analog chorus",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "UAD Capitol Mastering Compressor": {
+    "pbProductId": "10562",
+    "brand": null,
+    "product": "UAD Capitol Mastering Compressor",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10562-Capitol-Mastering-Compressor",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10562-Capitol-Mastering-Compressor",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "missing_or_long"
+  },
+  "UAD Dream 65 Reverb Amp": {
+    "pbProductId": "13321",
+    "brand": null,
+    "product": "UAD Dream 65 Reverb Amp",
+    "category": null,
+    "tagline": "1965 reverb amp with tube breakup, spring reverb, and vibrato",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/13321-UAD-Dream-65-Reverb-Amp",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/13321-UAD-Dream-65-Reverb-Amp",
+    "tagline_source_quote": "sweet tube breakup, and divine spring reverb and vibrato",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "UAD Enigmatic 82 Overdrive Special Amp": {
+    "pbProductId": "17292",
+    "brand": null,
+    "product": "UAD Enigmatic 82 Overdrive Special Amp",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/17292-UAD-Enigmatic-82-Overdrive-Special-Amp",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/17292-UAD-Enigmatic-82-Overdrive-Special-Amp",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "generic_or_ungrounded"
+  },
+  "UAD Fairchild Tube Limiter Collection": {
+    "pbProductId": "10312",
+    "brand": null,
+    "product": "UAD Fairchild Tube Limiter Collection",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/10312-Fairchild-Tube-Limiter-Collection",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/10312-Fairchild-Tube-Limiter-Collection",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "banned_claim_or_price"
+  },
+  "UAD LA-2A Collection": {
+    "pbProductId": "10154",
+    "brand": null,
+    "product": "UAD LA-2A Collection",
+    "category": "Compressor",
+    "tagline": "Gentle optical compression textures for vocals, bass, and drums",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10154-Teletronix-LA-2A-Leveler-Collection",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10154-Teletronix-LA-2A-Leveler-Collection",
+    "tagline_source_quote": "Dial-in ideal optical compression textures for vocals, bass, drums, and more",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "UAD LUNA Studio": {
+    "pbProductId": "17812",
+    "brand": null,
+    "product": "UAD LUNA Studio",
+    "category": null,
+    "tagline": "Studer and Ampex tape built into every track",
+    "source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/23-DAW/17812-LUNA-Studio",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/23-DAW/17812-LUNA-Studio",
+    "tagline_source_quote": "Studer and Ampex tape built into every track",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "UAD Lion 68 Super Lead Amp": {
+    "pbProductId": "13323",
+    "brand": null,
+    "product": "UAD Lion 68 Super Lead Amp",
+    "category": null,
+    "tagline": "Vintage plexi amp tones with classic mic and speaker setups",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/13323-UAD-Lion-68-Super-Lead-Amp",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/13323-UAD-Lion-68-Super-Lead-Amp",
+    "tagline_source_quote": "classic mic/speaker pairings",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "UAD Little Labs Voice of God": {
+    "pbProductId": "17066",
+    "brand": null,
+    "product": "UAD Little Labs Voice of God",
+    "category": null,
+    "tagline": "Focused low-end thump for kick drums, bass, 808s, and synths",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/17066-Little-Labs-Voice-of-God",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/17066-Little-Labs-Voice-of-God",
+    "tagline_source_quote": "focused low-end thump on kick drums, bass, 808s, and synths",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "UAD Manley Vari Mu": {
+    "pbProductId": "11953",
+    "brand": null,
+    "product": "UAD Manley Vari Mu",
+    "category": null,
+    "tagline": "Tube compression for stereo buses, vocals, and mastering",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/11953-Manley-Vari-Mu",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/11953-Manley-Vari-Mu",
+    "tagline_source_quote": "signature Manley tube compression",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "UAD Moog Minimoog": {
+    "pbProductId": "10188",
+    "brand": null,
+    "product": "UAD Moog Minimoog",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10188-Moog-Minimoog",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10188-Moog-Minimoog",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "banned_claim_or_price"
+  },
+  "UAD Oxide Tape Recorder": {
+    "pbProductId": "10182",
+    "brand": null,
+    "product": "UAD Oxide Tape Recorder",
+    "category": "Saturation",
+    "tagline": "Analog tape warmth and punch for vocals, guitars, and drums",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/10182-Oxide-Tape-Recorder",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/10182-Oxide-Tape-Recorder",
+    "tagline_source_quote": "warmth, presence, and vibe of professional analog tape",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "UAD Ruby 63 Top Boost Amp": {
+    "pbProductId": "13322",
+    "brand": null,
+    "product": "UAD Ruby 63 Top Boost Amp",
+    "category": null,
+    "tagline": "British valve amp tones with classic vibrato effects",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/13322-UAD-Ruby-63-Top-Boost-Amp",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/13322-UAD-Ruby-63-Top-Boost-Amp",
+    "tagline_source_quote": "British valve amp tones",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "UAD Sound City Studios Plugin": {
+    "pbProductId": "11503",
+    "brand": null,
+    "product": "UAD Sound City Studios Plugin",
+    "category": null,
+    "tagline": "Place drums and vocals inside Sound City's famous Room A",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/11503-UAD-Sound-City-Studios-Plugin",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/11503-UAD-Sound-City-Studios-Plugin",
+    "tagline_source_quote": "Place your drums, guitars, vocals, and more inside Sound City's famous Room A",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "UAD Studio D Chorus": {
+    "pbProductId": "10186",
+    "brand": null,
+    "product": "UAD Studio D Chorus",
+    "category": null,
+    "tagline": "1979 Roland Dimension D emulation for guitars, drums, and vocals",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/11-Chorus/10186-Studio-D-Chorus",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/11-Chorus/10186-Studio-D-Chorus",
+    "tagline_source_quote": "An exacting emulation of the Roland Dimension D* introduced in 1979",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "UAD Teletronix LA 2A Leveler Collection": {
+    "pbProductId": "10154",
+    "brand": null,
+    "product": "UAD Teletronix LA 2A Leveler Collection",
+    "category": null,
+    "tagline": "Optical compression textures for vocals, bass, and drums",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10154-Teletronix-LA-2A-Leveler-Collection",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10154-Teletronix-LA-2A-Leveler-Collection",
+    "tagline_source_quote": "ideal optical compression textures for vocals, bass, drums",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "UAD Vibe Analog Machines": {
+    "pbProductId": "17163",
+    "brand": null,
+    "product": "UAD Vibe Analog Machines",
+    "category": null,
+    "tagline": "Gritty tape textures for drums, synths, and vocals",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17163-Vibe-Analog-Machines",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17163-Vibe-Analog-Machines",
+    "tagline_source_quote": "synths gritty tape textures",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "UAD Waterfall Rotary Speaker": {
+    "pbProductId": "10196",
+    "brand": null,
+    "product": "UAD Waterfall Rotary Speaker",
+    "category": null,
+    "tagline": "Vintage Leslie 147 rotary texture for vocals and keyboards",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/10196-Waterfall-Rotary-Speaker",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/10196-Waterfall-Rotary-Speaker",
+    "tagline_source_quote": "vintage Leslie 147 rotary speaker cabinet",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "UAD Woodrow 55 Instrument Amplifier": {
+    "pbProductId": "14600",
+    "brand": null,
+    "product": "UAD Woodrow 55 Instrument Amplifier",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/14600-UAD-Woodrow-55-Instrument-Amplifier",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/14600-UAD-Woodrow-55-Instrument-Amplifier",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "banned_claim_or_price"
+  },
+  "UAD dbx 160 Compressor Limiter": {
+    "pbProductId": "11176",
+    "brand": null,
+    "product": "UAD dbx 160 Compressor Limiter",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/11176-dbx-160-Compressor-Limiter",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/11176-dbx-160-Compressor-Limiter",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "banned_claim_or_price"
+  },
+  "UNMIX::DRUMS": {
+    "pbProductId": "2708",
+    "brand": null,
+    "product": "UNMIX::DRUMS",
+    "category": null,
+    "tagline": "Real-time drum level control for mixed music and drum buses",
+    "source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/80-Drum-Tools/2708-UNMIX-DRUMS",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/80-Drum-Tools/2708-UNMIX-DRUMS",
+    "tagline_source_quote": "Control of Drum Level in Mixed Music",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "UVI Falcon 3": {
+    "pbProductId": "14777",
+    "brand": null,
+    "product": "UVI Falcon 3",
+    "category": "Instrument",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14777-Falcon-2026",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14777-Falcon-2026",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "tagline_style"
+  },
+  "UVI World Suite 3": {
+    "pbProductId": "17123",
+    "brand": null,
+    "product": "UVI World Suite 3",
+    "category": "Instrument",
+    "tagline": "430 instruments with 1,900+ hand-crafted presets and 12,000+ loops",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3",
+    "tagline_source_quote": "430 instruments, 1,900+ hand-crafted presets, 12,000+ loops and phrases",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Usynth Core": {
+    "pbProductId": "8862",
+    "brand": null,
+    "product": "Usynth Core",
+    "category": null,
+    "tagline": "Synth basses, polys, leads, and arpeggios with delay presets",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/8862-Usynth-Core",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/8862-Usynth-Core",
+    "tagline_source_quote": "From basses to polys, from leads to arpeggios",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "VPS Avenger 2": {
+    "pbProductId": "11545",
+    "brand": null,
+    "product": "VPS Avenger 2",
+    "category": null,
+    "tagline": "Spectral granular synth with drum loops and random arpeggios",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11545-VPS-Avenger-2",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11545-VPS-Avenger-2",
+    "tagline_source_quote": "Spectral Granular module",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "VRAC+": {
+    "pbProductId": "17673",
+    "brand": null,
+    "product": "VRAC+",
+    "category": null,
+    "tagline": "Auto-slice samples into morphing kick, snare, hat and clap drums",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/17673-VRAC-",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/17673-VRAC-",
+    "tagline_source_quote": "auto-slice it to find every hit, and sculpt each pad by morphing",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Vengeance Sound Avenger 2": {
+    "pbProductId": "11545",
+    "brand": null,
+    "product": "Vengeance Sound Avenger 2",
+    "category": "Synth",
+    "tagline": "Granular oscillator synthesis with built-in drum sequencing",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11545-VPS-Avenger-2",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11545-VPS-Avenger-2",
+    "tagline_source_quote": "oscillator capable of working as a full granular module",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Virtual Bassist Bundle 2": {
+    "pbProductId": "6619",
+    "brand": null,
+    "product": "Virtual Bassist Bundle 2",
+    "category": null,
+    "tagline": null,
+    "source_url": null,
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": null,
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "no_source",
+    "reject_reason": "source_empty"
+  },
+  "Virtual Drummer 2 Bundle": {
+    "pbProductId": "11453",
+    "brand": null,
+    "product": "Virtual Drummer 2 Bundle",
+    "category": null,
+    "tagline": "Five drum kits with smart-mix presets for rock and funk",
+    "source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11453-Virtual-Drummer-2-Bundle",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11453-Virtual-Drummer-2-Bundle",
+    "tagline_source_quote": "five extensively sampled drum kits, ready-made smart-mix presets",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Virtual Guitarist Bundle": {
+    "pbProductId": "11881",
+    "brand": null,
+    "product": "Virtual Guitarist Bundle",
+    "category": null,
+    "tagline": "Ambient guitar textures and evolving pads",
+    "source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11881-Virtual-Guitarist-Bundle",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11881-Virtual-Guitarist-Bundle",
+    "tagline_source_quote": "ambient guitar textures for any musical situation",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Voca": {
+    "pbProductId": "11095",
+    "brand": null,
+    "product": "Voca",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/11095-Voca",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/11095-Voca",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "generic_or_ungrounded"
+  },
+  "WAVESTATION": {
+    "pbProductId": "11199",
+    "brand": null,
+    "product": "WAVESTATION",
+    "category": null,
+    "tagline": "Vector synthesis with wave sequence cross-fades",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11199-WAVESTATION",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11199-WAVESTATION",
+    "tagline_source_quote": "A wave sequence cross-fades a variety of waveforms",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Walls": {
+    "pbProductId": "15146",
+    "brand": null,
+    "product": "Walls",
+    "category": null,
+    "tagline": "Six acoustic algorithms for shaping sound spaces",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/15146-Walls",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/15146-Walls",
+    "tagline_source_quote": "Six different acoustics algorithms",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Waves Kramer Master Tape": {
+    "pbProductId": "13679",
+    "brand": null,
+    "product": "Waves Kramer Master Tape",
+    "category": "Saturation",
+    "tagline": "Analog tape compression and tape delay for tracks or masters",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/13679-Kramer-Master-Tape",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/13679-Kramer-Master-Tape",
+    "tagline_source_quote": "individual tracks or masters",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Waves Vocal Rider": {
+    "pbProductId": "13721",
+    "brand": null,
+    "product": "Waves Vocal Rider",
+    "category": "Vocal",
+    "tagline": "Automatically rides vocal gain while preserving full fidelity",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/13721-Vocal-Rider",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/13721-Vocal-Rider",
+    "tagline_source_quote": "riding gain automatically, while preserving the vocal’s full fidelity",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Wavesfactory Cassette": {
+    "pbProductId": "5905",
+    "brand": null,
+    "product": "Wavesfactory Cassette",
+    "category": "Saturation",
+    "tagline": "Vintage cassette saturation with hiss, wow, flutter, and compression",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/5905-Cassette",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/5905-Cassette",
+    "tagline_source_quote": "wow, flutter, random high-frequency loss",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Wavesfactory Spectre": {
+    "pbProductId": "4801",
+    "brand": null,
+    "product": "Wavesfactory Spectre",
+    "category": "EQ",
+    "tagline": "Add harmonics to individual tracks, mixes, and mastering",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/4801-Spectre",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/4801-Spectre",
+    "tagline_source_quote": "individual tracks, sub-mixes, the entire mix and is ideal for mastering",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Wavesfactory Trackspacer": {
+    "pbProductId": "3259",
+    "brand": null,
+    "product": "Wavesfactory Trackspacer",
+    "category": "Effects",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/3259-Trackspacer",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/3259-Trackspacer",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "generic_or_ungrounded"
+  },
+  "World Suite 3": {
+    "pbProductId": "17123",
+    "brand": null,
+    "product": "World Suite 3",
+    "category": null,
+    "tagline": "430 instruments and 12,000+ loops and phrases",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3",
+    "tagline_source_quote": "430 instruments, 1,900+ hand-crafted presets, 12,000+ loops and phrases",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "XLN Audio Addictive Drums 2 Custom": {
+    "pbProductId": "8236",
+    "brand": null,
+    "product": "XLN Audio Addictive Drums 2 Custom",
+    "category": "Drums",
+    "tagline": "Handpick drum kits, kit pieces, and MIDI beats",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8236-Addictive-Drums-2-Custom-Collection",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8236-Addictive-Drums-2-Custom-Collection",
+    "tagline_source_quote": "drum kits, kit pieces and MIDI beats",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "XLN Audio Addictive Keys": {
+    "pbProductId": "1191",
+    "brand": null,
+    "product": "XLN Audio Addictive Keys",
+    "category": "Instrument",
+    "tagline": "Classic Steinway Model D concert grand piano",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/1191-Addictive-Keys-Studio-Grand",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/1191-Addictive-Keys-Studio-Grand",
+    "tagline_source_quote": "classic Steinway Model D concert grand piano",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "XLN Audio DB 30 Drum Butter": {
+    "pbProductId": "17009",
+    "brand": null,
+    "product": "XLN Audio DB 30 Drum Butter",
+    "category": null,
+    "tagline": "Add punch, warmth, and character to drum buses",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/13-Drum-FX/17009-DB-30-Drum-Butter",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/13-Drum-FX/17009-DB-30-Drum-Butter",
+    "tagline_source_quote": "adding punch, warmth, character, and glue to drums",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "XLN Audio DS 10 Drum Shaper": {
+    "pbProductId": "1812",
+    "brand": null,
+    "product": "XLN Audio DS 10 Drum Shaper",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/36-Transient-Shaper/1812-DS-10-Drum-Shaper",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/36-Transient-Shaper/1812-DS-10-Drum-Shaper",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "banned_claim_or_price"
+  },
+  "XLN Audio Life": {
+    "pbProductId": "11740",
+    "brand": null,
+    "product": "XLN Audio Life",
+    "category": "Instrument",
+    "tagline": "Turn recordings into automatically sliced beats",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/5-Sampler/11740-Life",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/5-Sampler/11740-Life",
+    "tagline_source_quote": "automatically slices, processes, and generates beats",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "XLN Audio RC-20 Retro Color": {
+    "pbProductId": "3016",
+    "brand": null,
+    "product": "XLN Audio RC-20 Retro Color",
+    "category": "Effects",
+    "tagline": "Vintage vinyl crackle and tape hiss for drums, keys and guitars",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/44-Saturation/3016-RC-20-Retro-Color",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/44-Saturation/3016-RC-20-Retro-Color",
+    "tagline_source_quote": "subtle vinyl crackle and tape hiss",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "XLN Audio XO": {
+    "pbProductId": "5250",
+    "brand": null,
+    "product": "XLN Audio XO",
+    "category": "Utility",
+    "tagline": "Sort one-shot drum samples by similarity for faster beatmaking",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/5250-XO",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/5250-XO",
+    "tagline_source_quote": "one-shot drum samples and sorts them by similarity",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "XV-5080": {
+    "pbProductId": "15297",
+    "brand": null,
+    "product": "XV-5080",
+    "category": null,
+    "tagline": "PCM synth with over 900 presets for orchestral scoring",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/15297-XV-5080",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/15297-XV-5080",
+    "tagline_source_quote": "Over 900 versatile presets covering a vast range of instruments and styles",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Xpand!2": {
+    "pbProductId": "1560",
+    "brand": null,
+    "product": "Xpand!2",
+    "category": null,
+    "tagline": "Four-part workstation with subtractive and FM synthesis",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/1560-Xpand-2",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/1560-Xpand-2",
+    "tagline_source_quote": "Subtractive Synthesis & FM Synthesis",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Zen Delay Virtual": {
+    "pbProductId": "10200",
+    "brand": null,
+    "product": "Zen Delay Virtual",
+    "category": null,
+    "tagline": "Studio delay and filter effects for drums, vocals, and guitars",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/10-Delay/10200-Zen-Delay-Virtual",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/10-Delay/10200-Zen-Delay-Virtual",
+    "tagline_source_quote": "drums, basses, keys, guitars, vocals",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "iZotope FXEQ": {
+    "pbProductId": "15248",
+    "brand": null,
+    "product": "iZotope FXEQ",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/15248-FXEQ",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/15248-FXEQ",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "missing_or_long"
+  },
+  "iZotope Insight 2": {
+    "pbProductId": "4688",
+    "brand": null,
+    "product": "iZotope Insight 2",
+    "category": "Utility",
+    "tagline": "Visual monitoring for broadcast loudness and dialogue",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/25-Spectral-Analysis/4688-Insight-2",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/25-Spectral-Analysis/4688-Insight-2",
+    "tagline_source_quote": "measuring loudness for broadcast compliance",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "iZotope Nectar 4 Standard": {
+    "pbProductId": "11117",
+    "brand": null,
+    "product": "iZotope Nectar 4 Standard",
+    "category": "Vocal",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/11117-Nectar-4-Standard",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/11117-Nectar-4-Standard",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "generic_or_ungrounded"
+  },
+  "iZotope Neutron 5": {
+    "pbProductId": "13502",
+    "brand": null,
+    "product": "iZotope Neutron 5",
+    "category": "Utility",
+    "tagline": "Mix tools for presence, detail, and fullness",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5",
+    "tagline_source_quote": "presence, detail, and fullness",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "iZotope Ozone 12 Advanced": {
+    "pbProductId": "15503",
+    "brand": null,
+    "product": "iZotope Ozone 12 Advanced",
+    "category": "Mastering",
+    "tagline": "Mastering suite with Bass Control to balance low end",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced",
+    "tagline_source_quote": "Bass Control lets you easily balance low end energy",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "iZotope Ozone 12 Elements": {
+    "pbProductId": "15508",
+    "brand": null,
+    "product": "iZotope Ozone 12 Elements",
+    "category": "Mastering",
+    "tagline": "Master tracks with creative control and confidence",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15508-Ozone-12-Elements",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15508-Ozone-12-Elements",
+    "tagline_source_quote": "all without ever losing creative control",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "iZotope Ozone 12 Standard": {
+    "pbProductId": "15507",
+    "brand": null,
+    "product": "iZotope Ozone 12 Standard",
+    "category": "Mastering",
+    "tagline": "Mastering with Bass Control for clean open masters",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15507-Ozone-12-Standard",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15507-Ozone-12-Standard",
+    "tagline_source_quote": "Effortlessly craft clean, open masters",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "iZotope Ozone EQ": {
+    "pbProductId": "11504",
+    "brand": null,
+    "product": "iZotope Ozone EQ",
+    "category": null,
+    "tagline": "Breathe life into your mix bus",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/11504-iZotope-Ozone-EQ",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/11504-iZotope-Ozone-EQ",
+    "tagline_source_quote": "breathe life into your mix bus",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "iZotope RX 12 Advanced": {
+    "pbProductId": "17171",
+    "brand": null,
+    "product": "iZotope RX 12 Advanced",
+    "category": null,
+    "tagline": "Real-time dialogue and vocal noise restoration",
+    "source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/51-Audio-Restoration-/17171-RX-12-Advanced",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/51-Audio-Restoration-/17171-RX-12-Advanced",
+    "tagline_source_quote": "Dialogue Isolate, upgraded with state-of-the-art neural nets for finer accuracy across both offline and real-time modes",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "iZotope RX 12 Elements": {
+    "pbProductId": "17210",
+    "brand": null,
+    "product": "iZotope RX 12 Elements",
+    "category": null,
+    "tagline": "Intelligent noise reduction and audio restoration for content creators",
+    "source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/51-Audio-Restoration-/17210-RX-12-Elements",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/51-Audio-Restoration-/17210-RX-12-Elements",
+    "tagline_source_quote": "intelligent noise reduction and audio restoration",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "iZotope RX 12 Standard": {
+    "pbProductId": "17211",
+    "brand": null,
+    "product": "iZotope RX 12 Standard",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/51-Audio-Restoration-/17211-RX-12-Standard",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/51-Audio-Restoration-/17211-RX-12-Standard",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "generic_or_ungrounded"
+  },
+  "iZotope Tonal Balance Control 3": {
+    "pbProductId": "16973",
+    "brand": null,
+    "product": "iZotope Tonal Balance Control 3",
+    "category": "Utility",
+    "tagline": "Vocal Balance and Stereo Width meters for mastering references",
+    "source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/79-Metering/16973-Tonal-Balance-Control-3",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/79-Metering/16973-Tonal-Balance-Control-3",
+    "tagline_source_quote": "Vocal Balance, Dynamics, and Stereo Width",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "iZotope Trash": {
+    "pbProductId": "11987",
+    "brand": null,
+    "product": "iZotope Trash",
+    "category": "Saturation",
+    "tagline": "Split audio into low, mid, and high frequency bands",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/30-Distortion/11987-Trash",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/30-Distortion/11987-Trash",
+    "tagline_source_quote": "splitting it into low, mid, and high frequency bands",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "iZotope VEA": {
+    "pbProductId": "11847",
+    "brand": null,
+    "product": "iZotope VEA",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/11847-VEA",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/11847-VEA",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "generic_or_ungrounded"
+  },
+  "iZotope Velvet": {
+    "pbProductId": "14847",
+    "brand": null,
+    "product": "iZotope Velvet",
+    "category": null,
+    "tagline": "Smooth vocals with 6-band dynamic EQ and mouth-sound repair",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/59-De-Esser/14847-Velvet",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/59-De-Esser/14847-Velvet",
+    "tagline_source_quote": "6-band dynamic EQ",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "iZotope VocalSynth 2": {
+    "pbProductId": "4413",
+    "brand": null,
+    "product": "iZotope VocalSynth 2",
+    "category": "Vocal",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/4413-VocalSynth-2",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/4413-VocalSynth-2",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "missing_or_long"
+  },
+  "u-he Bazille": {
+    "pbProductId": "1399",
+    "brand": null,
+    "product": "u-he Bazille",
+    "category": "Synth",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/1399-Bazille",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/1399-Bazille",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "missing_or_long"
+  },
+  "u-he Diva": {
+    "pbProductId": "1396",
+    "brand": null,
+    "product": "u-he Diva",
+    "category": "Synth",
+    "tagline": "Classic analogue filter models for synth sounds",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/1396-Diva",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/1396-Diva",
+    "tagline_source_quote": "classic analogue hardware filter",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "u-he Filterscape": {
+    "pbProductId": "11231",
+    "brand": null,
+    "product": "u-he Filterscape",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/19-Filter/11231-Filterscape",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/19-Filter/11231-Filterscape",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "generic_or_ungrounded"
+  },
+  "u-he Hive 2": {
+    "pbProductId": "5392",
+    "brand": null,
+    "product": "u-he Hive 2",
+    "category": "Synth",
+    "tagline": "Wavetable synth with two oscillators and 16x unison",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5392-Hive-2",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5392-Hive-2",
+    "tagline_source_quote": "2 oscillators with standard waveforms or 2D wavetables, up to 16x unison",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "u-he MFM2": {
+    "pbProductId": "9610",
+    "brand": null,
+    "product": "u-he MFM2",
+    "category": null,
+    "tagline": "Four delay lines with granular reverse and diffusor reverb",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/10-Delay/9610-MFM2",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/10-Delay/9610-MFM2",
+    "tagline_source_quote": "4 delay lines with independent absolute time or tempo-synced modes",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "u-he Repro": {
+    "pbProductId": "3027",
+    "brand": null,
+    "product": "u-he Repro",
+    "category": "Synth",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/3027-Repro",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/3027-Repro",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "banned_claim_or_price"
+  },
+  "u-he Satin": {
+    "pbProductId": "1400",
+    "brand": null,
+    "product": "u-he Satin",
+    "category": "Saturation",
+    "tagline": "Tape saturation with four-tap delay and true tape flanging",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/1400-Satin",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/1400-Satin",
+    "tagline_source_quote": "through-zero tape flanging, host-synchronizable 4-tap stereo delay",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "u-he Twangstr m": {
+    "pbProductId": "5024",
+    "brand": null,
+    "product": "u-he Twangstr m",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/5024-Twangstr-m",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/5024-Twangstr-m",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "quote_not_in_source"
+  },
+  "u-he TyrellN6": {
+    "pbProductId": "17642",
+    "brand": null,
+    "product": "u-he TyrellN6",
+    "category": null,
+    "tagline": "Compact synth with authentic overdrive and filter feedback",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17642-TyrellN6",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17642-TyrellN6",
+    "tagline_source_quote": "authentic overdrive and filter feedback",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "u-he Uhbik 2": {
+    "pbProductId": "15854",
+    "brand": null,
+    "product": "u-he Uhbik 2",
+    "category": null,
+    "tagline": "Ten studio effects with reverb, delay, compression, and surround sound",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/15854-Uhbik-2",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/15854-Uhbik-2",
+    "tagline_source_quote": "supporting up to 8-channel surround sound",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "u-he Zebralette 3": {
+    "pbProductId": "17688",
+    "brand": null,
+    "product": "u-he Zebralette 3",
+    "category": null,
+    "tagline": "Spectral oscillator for morphing pads with shaping and FX",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17688-Zebralette-3",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17688-Zebralette-3",
+    "tagline_source_quote": "spectral oscillator with morphing, shaping and FX options",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
   }
 }
