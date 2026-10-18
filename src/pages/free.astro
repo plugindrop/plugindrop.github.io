@@ -4,10 +4,17 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
+import FreeCard from '../components/FreeCard.astro';
 import { SITE_TITLE } from '../consts';
 import freeFacts from '../data/free_plugin_facts.json';
 
 const allPosts = await getCollection('blog');
+const freeImages: Record<string,string> = { Vital:'/images/heroes/vital.jpg', 'Surge XT':'/images/heroes/surge-xt.jpg', Dexed:'/images/heroes/dexed.jpg', LABS:'/images/heroes/spitfire-labs.jpg' };
+const freeItems = Object.values(freeFacts.articles).flat()
+	.filter(item => /^https?:/.test(item.official_url ?? ''))
+	.filter((item, index, items) => items.findIndex(other => other.official_url === item.official_url) === index)
+	.map(item => ({ name: item.name, url: item.official_url, image: freeImages[item.name] ?? null }))
+	.slice(0, 12);
 const VERIFIED_GUIDES = Object.entries(freeFacts.articles).map(([slug, products]) => ({
 	slug,
 	title: allPosts.find(post => post.id.replace(/\.mdx?$/, '') === slug)?.data.title ?? slug,
@@ -158,6 +165,7 @@ const breadcrumbLD = {
 				<h1>Free VST Plugins & Sample Packs</h1>
 				<p>{freePosts.length} free music production tools — updated daily</p>
 			</div>
+			{freeItems.length > 0 && <section aria-label="Free plugin downloads"><h2>Download from the developer</h2><div class="free-grid">{freeItems.map(item => <FreeCard item={item} />)}</div></section>}
 
 			<section class="guide-section" aria-label="Developer verified comparisons">
 				<h2>Compare facts from developer pages</h2>
@@ -211,3 +219,4 @@ const breadcrumbLD = {
 		<Footer />
 	</body>
 </html>
+<style>.free-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:.7rem;margin:1rem 0 2rem}@media(max-width:800px){.free-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}</style>

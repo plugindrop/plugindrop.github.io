@@ -45,6 +45,7 @@ import {
 	dealState,
 	productNameOf,
 	shouldShowProductCta,
+	isSingleProductDeal,
 	ctaHref as buildCtaHref,
 	ctaLabel,
 	ctaShortLabel,
@@ -153,6 +154,7 @@ const _trackerMatch = findTrackerEntryForPost(_postForMatch, _allTrackerEntries,
 const _fact = _trackerMatch ? buildFactBox(_trackerMatch.entry, Date.now()) : null;
 const productName = productNameOf(_postForMatch);
 const _showProductCta = shouldShowProductCta({ slug: currentSlug, tags, kind: _catalog?.kind });
+const _isSingleProductDeal = isSingleProductDeal({ slug: currentSlug, tags, kind: _catalog?.kind, match: _trackerMatch, fact: _fact, dealPrice });
 // The tracker's own observation wins over stale frontmatter: if the last
 // actual store check found the sale ended but saleExpiry hasn't caught up
 // yet, treat this as ended everywhere the CTA/fact-box/Product schema look.
@@ -163,8 +165,8 @@ const _dealProduct = _trackerMatch && _dealBrand && _trackerMatch.name.toLowerCa
 const _dealCopyRecord = _trackerMatch ? (dealCopy as Record<string, any>)[_trackerMatch.name] : null;
 const _dealTagline = validatedTagline(_dealCopyRecord);
 const _dealOff = _dealState === 'live' && _fact ? pctOff(_fact.current, _fact.regular) : 0;
-const _composedTitle = _showProductCta && _trackerMatch && _fact && dealPrice ? composeHeadline({ brand: _dealBrand, product: _dealProduct, tagline: _dealTagline, off: _dealOff, state: _dealState, category: categoryForProduct(_trackerMatch.name, _trackerMatch.entry, _bundleNames.has(_trackerMatch.name)) }) : title;
-const _seoTitle = _showProductCta && _trackerMatch && _fact && dealPrice ? composeSeoTitle({ brand: _dealBrand, product: _dealProduct, off: _dealOff, state: _dealState }) : title;
+const _composedTitle = _isSingleProductDeal ? composeHeadline({ brand: _dealBrand, product: _dealProduct, tagline: _dealTagline, off: _dealOff, state: _dealState, category: categoryForProduct(_trackerMatch.name, _trackerMatch.entry, _bundleNames.has(_trackerMatch.name)) }) : title;
+const _seoTitle = _isSingleProductDeal ? composeSeoTitle({ brand: _dealBrand, product: _dealProduct, off: _dealOff, state: _dealState }) : title;
 const _urgency = _trackerMatch && _dealState === 'live' ? urgencyTag(_trackerMatch.entry, Date.now()) : null;
 const _rarity = _trackerMatch && _dealState === 'live' ? rarityTag(_trackerMatch.entry, Date.now()) : null;
 const _historyChips = _trackerMatch ? supportChips(_trackerMatch.entry, Date.now(), 3) : [];

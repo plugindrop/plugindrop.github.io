@@ -2,7 +2,11 @@
 import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
+import DealCard from '../../components/DealCard.astro';
 import priceData from '../../data/price_history.json';
+import copy from '../../data/deal_copy.json';
+import videos from '../../data/product_videos.json';
+import { buildDealPool, toCardModel } from '../../lib/homeDeals.mjs';
 import { siteStats } from '../../lib/siteStats.mjs';
 const { trackingSince } = siteStats(priceData);
 import { isBrandPageIndexable, isPricePageIndexable, slugifyProduct } from '../../lib/indexPolicy.mjs';
@@ -153,6 +157,9 @@ const brandSummaries: BrandSummary[] = [...groups.entries()]
 
 const pageTitle = 'Browse Plugin Deals by Brand | PluginDrop';
 const pageDescription = `Browse tracked VST/AU plugin prices and deals by manufacturer — ${brandSummaries.length} brands, updated daily.`;
+const cardEntries = { ...priceData.bundles, ...priceData.plugins };
+const cardNow = Date.now();
+const cards = buildDealPool(cardEntries, [], cardNow).map(deal => toCardModel(deal, { entries: cardEntries, priceData, now: cardNow, videos, copy }));
 ---
 
 <!doctype html>
@@ -211,12 +218,12 @@ const pageDescription = `Browse tracked VST/AU plugin prices and deals by manufa
 
       <div class="brand-grid">
         {brandSummaries.map((b) => (
-          <a href={`/brands/${b.slug}/`} class="brand-card">
+          <section class="brand-group"><a href={`/brands/${b.slug}/`} class="brand-card">
             <p class="brand-name">{b.brand}</p>
             <p class="brand-meta">
               {b.count} products tracked{b.onSaleCount > 0 && <span class="sale-flag"> · {b.onSaleCount} on sale</span>}
             </p>
-          </a>
+          </a><div class="deal-grid">{cards.filter(card => card.brand === b.brand && card.image.src).slice(0, 2).map(card => <DealCard deal={card} variant="compact" />)}</div></section>
         ))}
       </div>
 
@@ -225,3 +232,4 @@ const pageDescription = `Browse tracked VST/AU plugin prices and deals by manufa
     <Footer />
   </body>
 </html>
+<style>.brand-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.brand-group{min-width:0}.brand-card{margin-bottom:.5rem}.deal-grid{display:grid;gap:.5rem}@media(max-width:680px){.brand-grid{grid-template-columns:1fr}}</style>

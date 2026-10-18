@@ -2,8 +2,13 @@
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
+import DealCard from '../components/DealCard.astro';
 import { SITE_TITLE } from '../consts';
 import priceData from '../data/price_history.json';
+import dealCopy from '../data/deal_copy.json';
+import videos from '../data/product_videos.json';
+import { buildDealPool, toCardModel } from '../lib/homeDeals.mjs';
+import { siteStats } from '../lib/siteStats.mjs';
 import { inferCategory } from '../lib/categoryInference.mjs';
 import { dealScoreNumeric, isSearchUrl, sparklinePoints, pbLink } from '../lib/priceUtils';
 import { isPricePageIndexable, slugifyProduct } from '../lib/indexPolicy.mjs';
@@ -194,6 +199,10 @@ const bundleRows = Object.entries(bundles)
   .sort((a, b) => b.off - a.off);
 
 const allRows = [...pluginRows, ...bundleRows];
+const cardEntries = { ...priceData.bundles, ...priceData.plugins };
+const cardNow = Date.now();
+const featuredCards = buildDealPool(cardEntries, [], cardNow).map(deal => toCardModel(deal, { entries: cardEntries, priceData, now: cardNow, videos, copy: dealCopy })).filter(card => card.image.src).slice(0, 8);
+const stats = siteStats(priceData);
 const totalTracked = allRows.length;
 const categoryCounts = new Map<string, number>();
 const developerCounts = new Map<string, number>();
@@ -504,8 +513,7 @@ const pageLD = {
       <div class="page-header">
         <h1>VST Plugin Price Tracker</h1>
         <p class="subtitle">
-          Historical prices for major VST plugins and bundles — like CamelCamelCamel, but for music software.
-          Know the real value before you buy: see typical sale prices, lowest tracked prices, and when to wait.
+          Compare current plugin deals and browse the price records behind them.
         </p>
         <p class="meta">
           <a href="#individual">Individual Plugins</a> &nbsp;·&nbsp;
@@ -513,6 +521,8 @@ const pageLD = {
           <a href="/sale-stats/">Monthly sale statistics &rarr;</a>
         </p>
       </div>
+
+      {featuredCards.length > 0 && <section class="featured-deals"><h2>On sale now</h2><div class="featured-grid">{featuredCards.map(card => <DealCard deal={card} />)}</div></section>}
 
       <div class="stats-row">
         <div class="stat-chip">
@@ -620,7 +630,7 @@ const pageLD = {
         </aside>
 
         <div class="tracker-results">
-          <p class="score-legend mono">Deal Score: 100 = at all-time low · 0 = regular price · — = no discount history. Green ≥70 · Amber ≥40 · Red &lt;40</p>
+          <p class="score-legend mono">Deal Score uses recorded prices only. Green ≥70 · Amber ≥40 · Red &lt;40</p>
 
           <h2 id="individual" class="section-title">Individual Plugins</h2>
           <div class="ledger-wrap">
@@ -1193,3 +1203,4 @@ const pageLD = {
     </script>
   </body>
 </html>
+<style>.featured-deals{margin:2rem 0}.featured-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:.7rem}@media(max-width:800px){.featured-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}</style>

@@ -45,8 +45,12 @@ export function productNameOf(post) {
 
 export function shouldShowProductCta({ slug = '', tags = [], kind = '' } = {}) {
   if (slug.startsWith('news-') || tags.some((tag) => tag.toLowerCase() === 'news')) return false;
-  if (kind === 'list' || slug.startsWith('best-free-')) return false;
+  if (['list', 'comparison'].includes(kind) || /^(best-|how-to-)/.test(slug) || /(?:^|-)vs(?:-|$)/.test(slug)) return false;
   return true;
+}
+
+export function isSingleProductDeal({ slug = '', tags = [], kind = '', match, fact, dealPrice } = {}) {
+  return Boolean(shouldShowProductCta({ slug, tags, kind }) && match && fact && dealPrice);
 }
 
 function pbIdentity(url) {

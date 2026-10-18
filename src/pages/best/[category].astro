@@ -2,6 +2,7 @@
 import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
+import DealCard from '../../components/DealCard.astro';
 import { SITE_TITLE } from '../../consts';
 import FactsTable from '../../components/FactsTable.astro';
 import { buildCompareModel } from '../../lib/compareTable.mjs';
@@ -11,6 +12,9 @@ import { categoryForProduct } from '../../lib/categoryInference.mjs';
 import { getCollection } from 'astro:content';
 import manifestRaw from '../../data/programmatic_pages.json';
 import priceData from '../../data/price_history.json';
+import dealCopy from '../../data/deal_copy.json';
+import videos from '../../data/product_videos.json';
+import { buildDealPool, toCardModel } from '../../lib/homeDeals.mjs';
 import { indexablePricePagePaths } from '../../lib/indexPolicy.mjs';
 import {
   rowsFor,
@@ -59,6 +63,9 @@ const guides = (await getCollection('blog', (post) => !post.data.draft && !post.
   .filter((post) => postCategory(catalog[post.id] ?? { kind: '', products: [] }) === category.label)
   .sort((a, b) => (kindOrder[catalog[a.id]?.kind] ?? 4) - (kindOrder[catalog[b.id]?.kind] ?? 4) || a.data.title.localeCompare(b.data.title));
 const onSaleRows = rows.filter((r) => r.hasLiveDrop);
+const cardEntries = { ...priceData.bundles, ...priceData.plugins };
+const cardNow = Date.now();
+const saleCards = buildDealPool(cardEntries, [], cardNow).filter(deal => category.products.includes(deal.name)).map(deal => toCardModel(deal, { entries: cardEntries, priceData, now: cardNow, videos, copy: dealCopy })).sort((a,b) => Number(!!b.image.src) - Number(!!a.image.src));
 const rarelyDiscountsRows = rows.filter((r) => r.rarelyDiscounts);
 const faqs = categoryFaqs(category.label, rows);
 
@@ -165,6 +172,7 @@ function verdictClass(v: VerdictRow['verdict']): string {
 
       <h1>{category.label} plugin prices right now: what's a real discount</h1>
       <p class="page-intro">{copy.what_it_does}</p>
+      {saleCards.length > 0 && <section class="page-section"><h2 class="section-title">{category.label} on sale</h2><div class="deal-grid">{saleCards.slice(0, 8).map(card => <DealCard deal={card} />)}</div></section>}
       <section class="page-section">
         <h2 class="section-title">What to compare</h2>
         <ul>{copy.what_to_compare.map((point) => <li>{point}</li>)}</ul>
@@ -201,8 +209,8 @@ function verdictClass(v: VerdictRow['verdict']): string {
       </section>
 
       <section class="page-section">
-        <h2 class="section-title">Rarely discounts</h2>
-        <p class="section-sub">These don't tend to go on sale — waiting probably won't pay off.</p>
+        <h2 class="section-title">Products with limited recorded discounts</h2>
+        <p class="section-sub">These observations describe the period we have tracked. Future prices may differ.</p>
         {rarelyDiscountsRows.length > 0 ? (
           <ul class="rare-list">
             {rarelyDiscountsRows.map((row) => (
@@ -234,3 +242,4 @@ function verdictClass(v: VerdictRow['verdict']): string {
     <Footer />
   </body>
 </html>
+<style>.deal-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:.7rem}@media(max-width:850px){.deal-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}</style>

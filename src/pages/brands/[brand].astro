@@ -2,8 +2,12 @@
 import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
+import DealCard from '../../components/DealCard.astro';
 import { SITE_TITLE } from '../../consts';
 import priceData from '../../data/price_history.json';
+import dealCopy from '../../data/deal_copy.json';
+import videos from '../../data/product_videos.json';
+import { buildDealPool, toCardModel } from '../../lib/homeDeals.mjs';
 import { siteStats } from '../../lib/siteStats.mjs';
 const { trackingSince } = siteStats(priceData);
 import { isBrandPageIndexable, isPricePageIndexable, slugifyProduct } from '../../lib/indexPolicy.mjs';
@@ -158,6 +162,9 @@ const rows: Row[] = products
   .sort((a, b) => a.name.localeCompare(b.name));
 
 const onSaleRows = rows.filter((r) => r.onSale);
+const cardEntries = { ...priceData.bundles, ...priceData.plugins };
+const cardNow = Date.now();
+const saleCards = buildDealPool(cardEntries, [], cardNow).filter(deal => products.some(product => product.name === deal.name)).map(deal => toCardModel(deal, { entries: cardEntries, priceData, now: cardNow, videos, copy: dealCopy })).sort((a,b) => Number(!!b.image.src) - Number(!!a.image.src));
 
 // --- Honest, data-driven "when does {brand} go on sale" note ------------------
 // Synthesized purely from the numbers we actually have (how many tracked
@@ -313,6 +320,8 @@ const itemListLD = {
         )}
       </section>
 
+      {saleCards.length > 0 && <section aria-label={`${brand} products on sale`}><h2 class="section-title">{brand} on sale now</h2><div class="deal-grid">{saleCards.slice(0, 8).map(card => <DealCard deal={card} />)}</div></section>}
+
       {observationGroups.length > 0 && <section aria-label="Observed brand price history">
         <h2 class="section-title">{brand} price observations</h2>
         <p>These counts cover recorded checks through {priceData.last_updated}. Sale counts are distinct observed episodes, not individual sale rows. They do not predict future sales.</p>
@@ -373,3 +382,4 @@ const itemListLD = {
     <Footer />
   </body>
 </html>
+<style>.deal-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:.7rem}@media(max-width:850px){.deal-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}</style>

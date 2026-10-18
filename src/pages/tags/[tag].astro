@@ -1,8 +1,15 @@
 ---
 import { getCollection } from 'astro:content';
 import { prioritySlugs } from '../../lib/crawlPriority.mjs';
-import { isArticleDealPastWindow, isPostDealEnded } from '../../lib/articleDeal.mjs';
+import { isArticleDealPastWindow, isPostDealEnded, buildFactBox, isSingleProductDeal } from '../../lib/articleDeal.mjs';
+import postCatalogMap from '../../data/post_catalog_map.json';
 import priceDataRaw from '../../data/price_history.json';
+import dealCopy from '../../data/deal_copy.json';
+import { findTrackerEntryForPost, dealState } from '../../lib/articleDeal.mjs';
+import { taglineForProduct } from '../../lib/dealCopy.mjs';
+import { composeHeadline } from '../../lib/headline.mjs';
+import { detectBrand } from '../../lib/brands.mjs';
+import { resolveCardImage } from '../../lib/homeDeals.mjs';
 import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
 import FormattedDate from '../../components/FormattedDate.astro';
@@ -10,6 +17,18 @@ import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
 import { isTagPageIndexable, slugifyTag } from '../../lib/indexPolicy.mjs';
 const renderTrackerEntries = { ...(priceDataRaw.bundles ?? {}), ...(priceDataRaw.plugins ?? {}) };
+function displayFor(post: any) {
+  const match = findTrackerEntryForPost(post, renderTrackerEntries, post.body);
+  const fact = match ? buildFactBox(match.entry, Date.now()) : null;
+  const deal = isSingleProductDeal({ slug: post.id, tags: post.data.tags, kind: (postCatalogMap as Record<string, { kind: string }>)[post.id]?.kind, match, fact, dealPrice: post.data.dealPrice });
+  if (!deal) return { title: post.data.title, image: resolveCardImage({ post }).src, deal };
+  const brand = detectBrand(match.name, match.entry.notes);
+  const product = brand && match.name.toLowerCase().startsWith(brand.toLowerCase() + ' ') ? match.name.slice(brand.length).trim() : match.name;
+  const tagline = taglineForProduct(match.name, dealCopy);
+  const latest = [...(match.entry.history ?? [])].filter(row => ['auto_check','live_check'].includes(row.source)).sort((a,b) => a.date.localeCompare(b.date)).at(-1);
+  const off = latest?.sale != null && latest?.regular > latest.sale ? Math.round((1-latest.sale/latest.regular)*100) : 0;
+  return { title: composeHeadline({ brand, product, tagline, off, state: dealState(match.entry, Date.now()) }), image: resolveCardImage({ post, entry: match.entry }).src, deal };
+}
 
 export async function getStaticPaths() {
 	const posts = await getCollection('blog', (post) => !post.data.draft && !post.data.noindex && !isArticleDealPastWindow(post.data));
@@ -134,23 +153,23 @@ const breadcrumbLD = {
 				<p class="empty">No deals found for this tag.</p>
 			) : (
 				<ul class="post-list" role="list">
-					{posts.map(post => (
+					{posts.map(post => { const display = displayFor(post); return (
 						<li>
 							<a href={`/posts/${post.id.replace(/\.mdx?$/, '')}/`} class="post-card">
-								{post.data.heroImage && (
-									<img src={post.data.heroImage} alt="" loading="lazy" width="120" height="68" class="post-thumb" />
+								{display.image && (
+									<img src={display.image} alt="" loading="lazy" width="480" height="300" class="post-thumb" />
 								)}
 								<div class="post-info">
-									<p class="post-title">{post.data.title}</p>
+									<p class="post-title">{display.title}</p>
 									<p class="post-description">{post.data.description}</p>
 									<span class="post-meta">
 										<FormattedDate date={post.data.pubDate} />
-										{post.data.dealPrice && !isPostDealEnded(post, renderTrackerEntries) && <span class="post-price">{post.data.dealPrice}</span>}
+										{display.deal && post.data.dealPrice && !isPostDealEnded(post, renderTrackerEntries) && <span class="post-price">{post.data.dealPrice}</span>}
 									</span>
 								</div>
 							</a>
 						</li>
-					))}
+					); })}
 				</ul>
 			)}
 		</main>

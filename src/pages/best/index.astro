@@ -4,9 +4,15 @@ import { getCollection } from 'astro:content';
 import { eligiblePriorityPosts, rotatePriorityPosts } from '../../lib/crawlPriority.mjs';
 import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
+import DealCard from '../../components/DealCard.astro';
+import GuideCard from '../../components/GuideCard.astro';
 import { SITE_TITLE } from '../../consts';
 import manifestRaw from '../../data/programmatic_pages.json';
 import priceData from '../../data/price_history.json';
+import copy from '../../data/deal_copy.json';
+import videos from '../../data/product_videos.json';
+import { buildDealPool, toCardModel } from '../../lib/homeDeals.mjs';
+import { siteStats } from '../../lib/siteStats.mjs';
 import { rowsFor, sortRows, type ProgrammaticManifest, type ProgrammaticPriceData } from '../../lib/programmaticUtils';
 
 const manifest = manifestRaw as ProgrammaticManifest;
@@ -16,6 +22,10 @@ const categories = manifest.categories
   .map((c) => ({ ...c, rows: sortRows(rowsFor(c.products, data)) }))
   .sort((a, b) => b.rows.length - a.rows.length || a.label.localeCompare(b.label));
 const crawlPriorityPosts = rotatePriorityPosts(eligiblePriorityPosts(await getCollection('blog')), 16);
+const entries = { ...priceData.bundles, ...priceData.plugins };
+const now = Date.now();
+const cards = buildDealPool(entries, [], now).map(deal => toCardModel(deal, { entries, priceData, now, videos, copy }));
+const stats = siteStats(priceData);
 
 const pageTitle = `Best Plugin Deals by Category — Live Price Verdicts | ${SITE_TITLE}`;
 const pageDescription = `Browse ${categories.length} plugin categories with live, tracked price verdicts — updated from our own price history, not press releases.`;
@@ -67,27 +77,27 @@ const pageDescription = `Browse ${categories.length} plugin categories with live
 
       <h1>Best plugin deals, by category</h1>
       <p class="page-intro">Live price verdicts recalculated from our own tracker on every update — not a one-time "best of" list.</p>
-
       <p class="page-intro">These guides organize the plugins in each category by price rather than by opinion. For every tracked product they show the current price, the lowest price we have recorded, and whether the product is discounted right now. A category appears here once it has enough tracked products to compare. The data comes from PluginDrop's own price tracking, which records prices from vendor and manufacturer product pages and sale announcements. The verdicts are recalculated on each site update. The guides do not rate sound quality or features, and we have not hands-on tested every product. See <a href="/how-we-track-prices/">how we track prices</a> for the methodology and its limits.</p>
 
       <div class="category-grid">
         {categories.map((category) => {
           const onSaleCount = category.rows.filter((r) => r.hasLiveDrop).length;
           return (
-            <a href={`/best/${category.slug}/`} class="category-card">
+            <section class="category-group"><a href={`/best/${category.slug}/`} class="category-card">
               <p class="category-name">{category.label}</p>
               <p class="category-meta">
                 {category.rows.length} tracked
                 {onSaleCount > 0 && <> · <span class="category-sale">{onSaleCount} on sale</span></>}
               </p>
-            </a>
+            </a><div class="deal-grid">{cards.filter(card => category.products.includes(card.key) && card.image.src).slice(0, 2).map(card => <DealCard deal={card} variant="compact" />)}</div></section>
           );
         })}
       </div>
 
       <section aria-label="Popular and recovered guides"><h2>Popular and recovered guides</h2><ul>{crawlPriorityPosts.map(post => <li><a href={`/posts/${post.id}/`}>{post.data.title}</a></li>)}</ul><p><a href="/posts/">All guides</a></p></section>
-      <p class="trust-line">Prices checked daily. Automated tracking since Jul 2026.</p>
+      <p class="trust-line">{stats.trackedProducts} products tracked. Automated tracking since {stats.trackingSince}. <a href="/how-we-track-prices/">How we track prices</a>.</p>
     </main>
     <Footer />
   </body>
 </html>
+<style>.category-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.category-group{min-width:0}.category-card{margin-bottom:.5rem}.deal-grid{display:grid;gap:.5rem}.guide-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:.7rem}@media(max-width:680px){.category-grid{grid-template-columns:1fr}.guide-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}</style>

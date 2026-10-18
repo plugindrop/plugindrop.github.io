@@ -4,6 +4,13 @@ import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
 import priceData from '../../data/price_history.json';
+import dealCopy from '../../data/deal_copy.json';
+import { resolveCardImage } from '../../lib/homeDeals.mjs';
+import { taglineForProduct } from '../../lib/dealCopy.mjs';
+import { rarityTag, supportChips } from '../../lib/dealSignals.mjs';
+import { composeHeadline } from '../../lib/headline.mjs';
+import { detectBrand } from '../../lib/brands.mjs';
+import { dealState } from '../../lib/articleDeal.mjs';
 import manifestRaw from '../../data/programmatic_pages.json';
 import { categoryForProduct } from '../../lib/categoryInference.mjs';
 import { pdAttr } from '../../lib/interestTaxonomy.mjs';
@@ -134,6 +141,14 @@ const current = currentPrice(entry);
 const regular = regularPriceOf(entry);
 const onSale = isOnSale(entry);
 const off = onSale ? pctOff(current, regular) : 0;
+const productBrand = detectBrand(name, entry.notes);
+const productName = productBrand && name.toLowerCase().startsWith(productBrand.toLowerCase() + ' ') ? name.slice(productBrand.length).trim() : name;
+const tagline = taglineForProduct(name, dealCopy);
+const verifiedLive = dealState(entry, Date.now()) === 'live';
+const headline = composeHeadline({ brand: productBrand, product: productName, category, tagline, off, state: verifiedLive ? 'live' : 'ended' });
+const productImage = resolveCardImage({ entry, siblings: Object.values({ ...priceData.bundles, ...priceData.plugins }).filter(other => other.pb_url === entry.pb_url) });
+const rarity = verifiedLive ? rarityTag(entry, Date.now()) : null;
+const chips = supportChips(entry, Date.now(), 2);
 const facts = buildPageFacts(entry, { buildDate: data.last_updated });
 const seenLow = lowestSeen(entry);
 const verdictCopy = summarizeVerdict(name, facts);
@@ -789,7 +804,11 @@ const faqLD = {
       <section class="product-header">
         <span class="category-tag">{category}</span>
         {publishedHub && <a href={`/best/${publishedHub.slug}/`}>Compare {publishedHub.label} plugins and guides</a>}
-        <h1>{name}</h1>
+        <div class="product-showcase">
+          {productImage.src && <img src={productImage.large ?? productImage.src} alt="" width="640" height="400" loading="eager" />}
+          <div><h1>{headline}</h1>{tagline && <p class="product-tagline">{tagline}</p>}
+          <div class="product-signals">{rarity && <span data-rarity={rarity.type} title={rarity.full}>{rarity.text}</span>}{chips.map(chip => <span>{chip}</span>)}</div></div>
+        </div>
 
         {demoVideo && (
           <div id="demo-block" data-video-id={demoVideo.video_id} style="margin:0.75rem 0 1rem;display:flex;align-items:center;gap:0.75rem">
@@ -842,7 +861,7 @@ const faqLD = {
             rel="noopener sponsored"
             data-slug={slug}
           >
-            {isSearchUrl(entry.pb_url) ? 'Search on Plugin Boutique' : 'Check price at Plugin Boutique'}
+            {isSearchUrl(entry.pb_url) ? 'Find current price' : 'Check current price'}
           </a>
           <div class="watch-alert-wrap" id="watch-alert-wrap">
             <button
@@ -1262,3 +1281,4 @@ const faqLD = {
     </script>
   </body>
 </html>
+<style>.product-showcase{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.2fr);align-items:center;gap:1.5rem;margin:1rem 0}.product-showcase img{width:100%;height:auto;aspect-ratio:16/10;object-fit:contain;background:#161a1a}.product-showcase h1{font-family:var(--font-display);font-size:clamp(1.7rem,3vw,2.7rem);line-height:1.13}.product-tagline{color:var(--text-secondary)}.product-signals{display:flex;gap:.4rem;flex-wrap:wrap}.product-signals span{padding:.25rem .4rem;background:var(--bg-low);color:var(--text-muted);font-size:.7rem}@media(max-width:680px){.product-showcase{grid-template-columns:1fr}}</style>
