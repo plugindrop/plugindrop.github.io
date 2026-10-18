@@ -55,6 +55,7 @@ export async function getStaticPaths() {
 }
 
 const { tag, noindex = false } = Astro.props;
+const pageNoindex = noindex || tag === 'free';
 
 const allPosts = await getCollection('blog');
 const posts = allPosts
@@ -104,7 +105,7 @@ const breadcrumbLD = {
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={`${pageTitle} | ${SITE_TITLE}`} description={pageDesc} noindex={noindex} />
+		<BaseHead title={`${pageTitle} | ${SITE_TITLE}`} description={pageDesc} noindex={pageNoindex} canonicalPath={tag === 'free' ? '/free/' : undefined} />
 		<script type="application/ld+json" set:html={JSON.stringify(breadcrumbLD)} />
 		<style>
 			main { max-width: 960px; margin: 0 auto; padding: 2rem 1rem; }

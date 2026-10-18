@@ -24,7 +24,7 @@ Pricing and availability notes here come from PluginDrop's own price history tra
 |-------|-------|-------|
 | Full price | $199 (FabFilter list price, USD; our tracker had $179 earlier) | Rarely the best route |
 | Typical sale (recurring) | $134 | Achievable on a normal sale cycle |
-| All-time low (rare) | $134 | Lowest price we have ever recorded |
+| Lowest we've recorded | $134 | Lowest observed in our tracking window |
 
 [Check the current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=cheapest-way-to-get-fabfilter-pro-l-2).
 

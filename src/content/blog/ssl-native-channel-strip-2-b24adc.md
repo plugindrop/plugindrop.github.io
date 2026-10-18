@@ -10,8 +10,8 @@ rawScore: 7.70
 dealPrice: "$19.00"
 originalPrice: "$149.00"
 discount: "87% OFF"
-saleExpiry: "2027-10-12"
-draft: false
+saleExpiry: "2026-10-12"
+draft: true
 ---
 **TL;DR:** SSL Native Channel Strip 2 is discounted off its ~~$149~~ regular price, with this roundup tracking an 87% cut on the deal. It packs switchable E- and G-Series EQ, filters, compression, and a gate into one strip modeled on SSL's console designs. Grab it on [Plugin Boutique](https://www.pluginboutique.com/search?q=SSL+Native+Channel+Strip+2&a_aid=69cb95abe1763&chan=art&data1=ssl-native-channel-strip-2-b24adc&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-channel-strip-2-b24adc) while the sale is live.
 

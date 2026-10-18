@@ -21,7 +21,7 @@ saleExpirySource: "fallback"
 - Historical assessment: observed $69; current pricing is unconfirmed.
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/beGMKVpEjqQ" title="53% Off Zynaptiq Morph 3 — Spectral Sound Morphing Plugin ($69) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/beGMKVpEjqQ" title="Zynaptiq Morph 3 sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What Is Zynaptiq Morph 3?

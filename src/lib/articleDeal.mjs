@@ -125,6 +125,7 @@ export function dealState(entry, now) {
     const age = ageDaysOf(latestCheck.date, now);
     if (age >= 0 && age <= 7) {
       const { sale, regular } = latestCheck;
+      if (/^\d{4}-\d{2}-\d{2}$/.test(latestCheck.until ?? '') && Date.parse(`${latestCheck.until}T23:59:59Z`) < now) return 'ended';
       if (sale === null || (regular !== null && sale >= regular)) {
         return 'ended';
       }
@@ -319,6 +320,7 @@ export function hasTrustedExpiry(data) {
   const pubDate = data.pubDate ? new Date(data.pubDate) : null;
   if (Number.isNaN(expiry.getTime())) return false;
   if (pubDate && !Number.isNaN(pubDate.getTime()) && expiry <= pubDate) return false;
+  if (pubDate && !Number.isNaN(pubDate.getTime()) && expiry.getTime() - pubDate.getTime() > 60 * 86400000 && !data.trackerConfirmed) return false;
   return true;
 }
 
@@ -344,7 +346,6 @@ export function isArticleDealPastWindow(data, now = Date.now()) {
 }
 
 export function isPostDealEnded(post, trackerEntries, now = Date.now()) {
-  if (isArticleDealPastWindow(post.data, now)) return true;
   const match = findTrackerEntryForPost(post, trackerEntries, post.body);
-  return match ? dealState(match.entry, now) === 'ended' : false;
+  return match ? dealState(match.entry, now) !== 'live' : isArticleDealPastWindow(post.data, now);
 }

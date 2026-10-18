@@ -16,7 +16,7 @@ draft: false
 **TL;DR:** D16 Group's Phoscyon 2 TB-303 emulation is 50% off its regular ~~$119~~ price at Plugin Boutique. It ships with over 800 factory presets and patterns, a resizable GUI, and MIDI Learn for mapping hardware controllers. Check the [product page](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9541-Phoscyon-2?a_aid=69cb95abe1763&chan=trk&data1=phoscyon-2-304631&utm_source=plugindrop&utm_medium=article&utm_campaign=phoscyon-2-304631) for the current checkout price.
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/wIq2JEUg6bQ" title="50% Off Phoscyon 2 — TB-303 Acid Bassline Synth — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/wIq2JEUg6bQ" title="Phoscyon 2 sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

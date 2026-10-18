@@ -17,7 +17,7 @@ draft: false
 **TL;DR:** UJAM's Amber 2 is ~~$129~~ $29 at Plugin Boutique right now, matching the $29 lowest price PluginDrop has tracked since 2026-08-16 across 12 observations. It's part of UJAM's Virtual Guitarist line, built around 30 stompbox combinations and 60 Finisher FX chains for shaping guitar tone fast. [Grab it at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10597-AMBER-2?a_aid=69cb95abe1763&chan=trk&data1=amber-2-33f0f2&utm_source=plugindrop&utm_medium=article&utm_campaign=amber-2-33f0f2).
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lqPnryv4Ikc" title="78% Off AMBER 2 — Guitar Tone Shaping for Mixes ($29) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lqPnryv4Ikc" title="AMBER 2 sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

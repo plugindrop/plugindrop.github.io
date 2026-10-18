@@ -28,7 +28,7 @@ Ozone 11 Standard doesn't have one "cheapest price" — it has a price history, 
 |-------|-------|-------|
 | Full price | $199 | Rarely the best route |
 | Typical sale (recurring) | $99 | Achievable on a normal sale cycle |
-| All-time low (rare) | $70 | Lowest price we have ever recorded |
+| Lowest we've recorded | $70 | Lowest observed in our tracking window |
 
 [Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=iZotope%20Ozone%2011%20Standard&a_aid=69cb95abe1763&chan=art&data1=cheapest-way-to-get-izotope-ozone-11-standard).
 

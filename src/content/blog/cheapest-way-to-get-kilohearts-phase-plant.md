@@ -24,7 +24,7 @@ Pricing in this guide comes from PluginDrop's own price history tracking, not fr
 |-------|-------|-------|
 | Full price | $199 | Rarely the best route |
 | Typical sale (recurring) | $119 | Achievable on a normal sale cycle |
-| All-time low (rare) | $92 | Lowest price we have ever recorded |
+| Lowest we've recorded | $92 | Lowest observed in our tracking window |
 
 [Check the current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant?a_aid=69cb95abe1763&chan=art&data1=cheapest-way-to-get-kilohearts-phase-plant).
 

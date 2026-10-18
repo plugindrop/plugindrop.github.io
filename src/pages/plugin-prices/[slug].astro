@@ -145,7 +145,7 @@ const productBrand = detectBrand(name, entry.notes);
 const productName = productBrand && name.toLowerCase().startsWith(productBrand.toLowerCase() + ' ') ? name.slice(productBrand.length).trim() : name;
 const tagline = taglineForProduct(name, dealCopy);
 const verifiedLive = dealState(entry, Date.now()) === 'live';
-const headline = composeHeadline({ brand: productBrand, product: productName, category, tagline, off, state: verifiedLive ? 'live' : 'ended' });
+const headline = `${name.replace(/^Universal Audio UAD\s+/i, 'Universal Audio ').replace(/^Solid State Logic SSL\s+/i, 'Solid State Logic ')} price history`.slice(0, 70).trimEnd();
 const productImage = resolveCardImage({ entry, siblings: Object.values({ ...priceData.bundles, ...priceData.plugins }).filter(other => other.pb_url === entry.pb_url) });
 const rarity = verifiedLive ? rarityTag(entry, Date.now()) : null;
 const chips = supportChips(entry, Date.now(), 2);
@@ -361,7 +361,7 @@ const indexableEntries = allStaticEntries().filter((e) => isPricePageIndexable(e
 const peers = sameCategoryPeers(entry, name, indexableEntries);
 
 // --- Meta / JSON-LD -----------------------------------------------------------
-const pageTitle = `${name} Price History & Best Price 2026 | ${SITE_TITLE}`;
+const pageTitle = `${name} Price History & Sale Tracker | ${SITE_TITLE}`;
 const pageDescription = current !== null
   ? `${name} price history: currently ${formatPrice(current)}${regular !== null && onSale ? ` (regular ${formatPrice(regular)})` : ''}${seenLow ? `, lowest seen at Plugin Boutique ${formatPrice(seenLow.price)}` : ''}. Every sale we tracked, with dates.`
   : `Price history and sale tracking for ${name} at Plugin Boutique — updated regularly.`;

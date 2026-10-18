@@ -22,7 +22,7 @@ draft: false
 <!-- deal-context-sale-windows:end -->
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ph_y5V1vTz0" title="44% Off Sonible smart:chain — AI Mixing Channel Strip ($99) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ph_y5V1vTz0" title="Sonible smart:chain sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

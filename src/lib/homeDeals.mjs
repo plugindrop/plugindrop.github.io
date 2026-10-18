@@ -3,7 +3,7 @@ import { detectBrand, tierOf } from './brands.mjs';
 import { categoryForProduct } from './categoryInference.mjs';
 import { dealState, everydayPrice, findTrackerEntryForPost, isPostDealEnded } from './articleDeal.mjs';
 import { isProductNameIndexable, isBrandPageIndexable, isPricePageIndexable } from './indexPolicy.mjs';
-import { isSearchUrl, pbLink, slugify, pctOff } from './priceUtils.ts';
+import { isSearchUrl, pbLink, slugify } from './priceUtils.ts';
 import { ownChecks, rarityTag, urgencyTag, supportChips } from './dealSignals.mjs';
 import { composeHeadline } from './headline.mjs';
 import { taglineForProduct } from './dealCopy.mjs';
@@ -21,6 +21,7 @@ function postIsFree(post) { const price = String(post?.data?.dealPrice ?? '').to
 export function buildDealPool(entries, posts, now) {
   const byId = new Map();
   for (const deal of rankLiveDeals(entries, now, { limit: Number.MAX_SAFE_INTEGER, perKeyCap: Number.MAX_SAFE_INTEGER })) {
+    if (dealState(deal.entry, now) !== 'live') continue;
     if (everydayPrice(deal.entry, now)) continue;
     byId.set(pbProductId(deal.entry.pb_url), { ...deal, kind: 'tracker', post: null });
   }
@@ -32,13 +33,6 @@ export function buildDealPool(entries, posts, now) {
       if (byId.has(id) && !byId.get(id).post) byId.get(id).post = post;
       continue;
     }
-    if (isSearchUrl(post.data.affiliate) || !post.data.heroImage || post.data.aiImage || !post.data.discount || !post.data.dealPrice || !post.data.originalPrice) continue;
-    const id = pbProductId(post.data.affiliate);
-    if (byId.has(id)) continue;
-    const current = Number(String(post.data.dealPrice).replace(/[^0-9.]/g, ''));
-    const regular = Number(String(post.data.originalPrice).replace(/[^0-9.]/g, ''));
-    if (!(current > 0 && regular > current)) continue;
-    byId.set(id, { name: post.data.title, entry: { pb_url: post.data.affiliate, history: [] }, current, regular, off: pctOff(current, regular), score: 0, brand: null, kind: 'article', post });
   }
   return [...byId.values()].sort((a, b) => b.score - a.score || b.off - a.off || a.name.localeCompare(b.name));
 }
@@ -63,10 +57,13 @@ export function toCardModel(deal, { entries, priceData, now, videos = {}, copy =
   const image = resolveCardImage({ post: deal.post, entry: deal.entry, siblings });
   const ctaHref = pbLink(deal.entry.pb_url, 'chan=home', { medium: 'homepage', campaign: 'home-card', data1: slugify(deal.name) });
   const tagline = taglineForProduct(deal.name, copy);
-  return { key: deal.name, brand, product, category, tagline, headline: composeHeadline({ brand, product, category, tagline, off: deal.off, state: 'live' }), off: deal.off, current: deal.current, regular: deal.regular, until, urgency, rarity, chips: deal.kind === 'tracker' ? supportChips(deal.entry, now, 2) : [], image, href: cardTarget(deal, priceData), ctaHref, hasVideo: !!videos[deal.name], filters: [category.toLowerCase(), ...(urgency ? ['ending'] : []), ...(rarity?.type === 'new-low' ? ['new-low'] : []), ...(deal.current < 50 ? ['under-50'] : []), ...(category === 'Bundle' ? ['bundles'] : [])], score: deal.score, tier: tierOf(brand) };
+  const aboveUsual = Number(deal.entry.typical_sale) > 0 && deal.current > Number(deal.entry.typical_sale);
+  const credibleOff = aboveUsual ? 0 : deal.off;
+  const cardUrgency = aboveUsual ? null : urgency;
+  return { key: deal.name, brand, product, category, tagline, headline: composeHeadline({ brand, product, category, tagline, off: credibleOff, state: aboveUsual ? 'unknown' : 'live' }), off: credibleOff, current: deal.current, regular: deal.regular, until, urgency: cardUrgency, rarity: aboveUsual ? null : rarity, aboveUsual, chips: aboveUsual ? ['Above its usual sale price'] : deal.kind === 'tracker' ? supportChips(deal.entry, now, 2) : [], image, href: cardTarget(deal, priceData), ctaHref, hasVideo: !!videos[deal.name], filters: [category.toLowerCase(), ...(cardUrgency ? ['ending'] : []), ...(rarity?.type === 'new-low' && !aboveUsual ? ['new-low'] : []), ...(deal.current < 50 ? ['under-50'] : []), ...(category === 'Bundle' ? ['bundles'] : [])], score: deal.score, tier: tierOf(brand) };
 }
 
-export function pickSpotlight(cards) { return cards.find(c => c.image.kind !== 'typographic' && ['S', 'A'].includes(c.tier) && (c.rarity || c.off >= 50)) ?? cards.find(c => c.image.kind !== 'typographic') ?? cards[0] ?? null; }
+export function pickSpotlight(cards) { return cards.find(c => !c.aboveUsual && c.image.kind !== 'typographic' && ['S', 'A'].includes(c.tier) && (c.rarity || c.off >= 50)) ?? cards.find(c => !c.aboveUsual && c.image.kind !== 'typographic') ?? cards.find(c => !c.aboveUsual) ?? null; }
 export function endingSoon(cards) { return cards.filter(c => c.urgency && ['ends-today', 'ends-soon', 'ends-on'].includes(c.urgency.type)).sort((a, b) => a.until.localeCompare(b.until)).slice(0, 10); }
 export function brandSaleClusters(cards, entries = {}) {
   const groups = new Map();

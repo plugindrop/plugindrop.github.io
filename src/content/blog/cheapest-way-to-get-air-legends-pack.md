@@ -16,7 +16,7 @@ We track AIR Legends Pack's price history directly, so this is what buying it ha
 |-------|-------|-------|
 | Full price | $249 | Rarely the best route |
 | Typical sale (recurring) | $49 | Achievable on a normal sale cycle |
-| All-time low (rare) | $49 | Lowest price we have ever recorded |
+| Lowest we've recorded | $49 | Lowest observed in our tracking window |
 
 [Check the current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/7743-AIR-Legends-Pack?a_aid=69cb95abe1763&chan=art&data1=cheapest-way-to-get-air-legends-pack).
 

@@ -21,7 +21,7 @@ saleExpirySource: "fallback"
 - Historical assessment: observed $69; current pricing is unconfirmed.
 
 <div class="audio-embed">
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="65% Off Tube Tech CL 1B Mk II — Classic Tube Compression ($69) — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A912468763&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="Tube Tech CL 1B Mk II audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A912468763&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_reposts=false&show_teaser=true"></iframe>
 </div>
 
 ## What Is Tube Tech CL 1B Mk II?

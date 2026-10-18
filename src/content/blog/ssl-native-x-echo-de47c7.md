@@ -1,6 +1,6 @@
 ---
 title: "85% Off SSL Native X Echo — Tape-Style Delay for Mixes ($15)"
-description: "Observed at $15 (regular $99) before the estimated 2026-09-24 expiry; the sale has ended or was not confirmed afterward."
+description: "The price tracker records SSL Native X-Echo at $15 against a $99 regular price. Check the current listing for today's price."
 pubDate: "2026-08-25T14:13:47Z"
 tags: ["sale", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=SSL%20Native%20X%20Echo&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-x-echo-de47c7&chan=art&data1=ssl-native-x-echo-de47c7"
@@ -13,9 +13,9 @@ draft: false
 saleExpiry: "2026-09-24"
 saleExpirySource: "fallback"
 ---
-Observed at $15 (regular $99) before the estimated 2026-09-24 expiry; the sale has ended or was not confirmed afterward.
+The price tracker recorded SSL Native X-Echo at $15 against a $99 regular price. Check the current listing for today's price.
 
-**TL;DR:** Observed at $15 (regular $99) before the estimated 2026-09-24 expiry; the sale has ended or was not confirmed afterward. Check the live listing for the current price.
+**TL;DR:** The price tracker recorded SSL Native X-Echo at $15 against a $99 regular price. Check the live listing for the current price.
 
 ## Price Context (tracked by PluginDrop)
 - Tracked since 2022-08-08 (7 observations)
@@ -48,7 +48,7 @@ For exact parameter names, modulation options, and preset counts, verify directl
 
 ## Pricing & Deal Details
 
-| Regular Price | Advertised price (expired) | Advertised saving |
+| Regular Price | Observed sale price | Advertised saving |
 |---|---|---|
 | ~~$99.00~~ | $15.00 | $84.00 (85%) |
 

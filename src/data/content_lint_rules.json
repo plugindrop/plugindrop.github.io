@@ -28,7 +28,7 @@
     "\\breasonable time to buy\\b",
     "\\b(?:sale live now|on sale now|deal is live|offer is live)\\b"
   ],
-  "tagline_banned": ["\\b(?:best|amazing|incredible|legendary|iconic|must-have|essential|stunning|lush|warm|punchy|fat|world-class|ultimate|perfect|game-chang\\w*)\\b", "[$€£]\\s*\\d", "\\d+\\s*%"],
+  "tagline_banned": ["\\b(?:best|amazing|incredible|legendary|iconic|must-have|essential|stunning|lush|warm|punchy|fat|world-class|ultimate|perfect|game-chang\\w*|pristine|huge|massive|transparent|mastering.grade|confidence|professional(?:.quality)?|louder|deeper|bright|present|extreme|smooth|clean)\\b", "[$€£]\\s*\\d", "\\d+\\s*%"],
   "rarity_banned": ["all-time low", "lowest price ever", "best price ever", "lowest in 12 months", "\\brare\\b(?!.*\\d)"],
   "pb_host": "(?:www\\.)?pluginboutique\\.com",
   "pb_search": "(?:/search\\?|[?&]q=)",

@@ -16,7 +16,7 @@ We track AMBER 2's price history directly, so this is what buying it has actuall
 |-------|-------|-------|
 | Full price | $129 | Rarely the best route |
 | Typical sale (recurring) | $29 | Achievable on a normal sale cycle |
-| All-time low (rare) | $29 | Lowest price we have ever recorded |
+| Lowest we've recorded | $29 | Lowest observed in our tracking window |
 
 [Check the current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10597-AMBER-2?a_aid=69cb95abe1763&chan=art&data1=cheapest-way-to-get-amber-2).
 
