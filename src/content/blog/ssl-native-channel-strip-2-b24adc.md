@@ -1,88 +1,95 @@
 ---
-title: "87% Off SSL Native Channel Strip 2"
-description: "SSL Native Channel Strip 2 drops to $19.00 ($149.00) at Plugin Boutique — an 87% discount on an official first-party SSL plugin. That's $130 in..."
-pubDate: "2026-06-19T22:57:37Z"
+title: "87% Off SSL Native Channel Strip 2 — Console EQ & Compression"
+description: "SSL Native Channel Strip 2 is discounted off its $149 regular price, with this roundup tracking an 87% cut on the deal. It packs switchable E- and..."
+pubDate: "2026-10-18T15:41:34Z"
 tags: ["sale", "vst-plugin", "effects", "mixing", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/8653-SSL-Native-Channel-Strip-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-channel-strip-2-b24adc&chan=art&data1=ssl-native-channel-strip-2-b24adc"
+affiliate: "https://www.pluginboutique.com/search?q=SSL+Native+Channel+Strip+2&a_aid=69cb95abe1763&chan=art&data1=ssl-native-channel-strip-2-b24adc&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-channel-strip-2-b24adc"
 heroImage: "/images/ssl-native-channel-strip-2-b24adc.jpg"
-score: 10.00
+score: 7.70
+rawScore: 7.70
 dealPrice: "$19.00"
 originalPrice: "$149.00"
 discount: "87% OFF"
-xText: "ssl channel strip 2 just launched at 87% off. absolute sleeper deal. this is the standard every pro relies on. grab it while it stays this low."
-draft: true
+saleExpiry: "2027-10-12"
+draft: false
 ---
-**TL;DR:** SSL Native Channel Strip 2 drops to **$19.00** (~~$149.00~~) at Plugin Boutique — an 87% discount on an official first-party SSL plugin. That's $130 in savings for one of the most recognized channel strip workflows in professional audio. [Grab it here before the price changes.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/8653-SSL-Native-Channel-Strip-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-channel-strip-2-b24adc&chan=art&data1=ssl-native-channel-strip-2-b24adc)
-
----
+**TL;DR:** SSL Native Channel Strip 2 is discounted off its ~~$149~~ regular price, with this roundup tracking an 87% cut on the deal. It packs switchable E- and G-Series EQ, filters, compression, and a gate into one strip modeled on SSL's console designs. Grab it on [Plugin Boutique](https://www.pluginboutique.com/search?q=SSL+Native+Channel+Strip+2&a_aid=69cb95abe1763&chan=art&data1=ssl-native-channel-strip-2-b24adc&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-channel-strip-2-b24adc) while the sale is live.
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Ouvnr_Ffrxc" title="87% Off SSL Native Channel Strip 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/sYR1J8Cz2cA" title="87% Off SSL Native Channel Strip 2 — Console EQ & Compression — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
-## What Is SSL Native Channel Strip 2?
+## What you actually get
 
-Solid State Logic (SSL) is one of the most storied names in professional audio, responsible for the large-format consoles behind decades of commercial recordings. The SSL Native Channel Strip 2 is the company's own software recreation of their iconic console channel strip — combining classic SSL EQ and dynamics processing in a single plugin. Critically, this is not a third-party emulation; it is developed by SSL themselves, which is a meaningful distinction at any price point, let alone $19.
+The vendor lists this as a strip built on SSL's console channel strip designs, covering EQ, dynamics, and filtering in one plugin. According to the product listing, the 4-band parametric EQ switches between E-Series and G-Series tonal characters, so one plugin covers two classic SSL voicings instead of forcing you to pick a single emulation.
 
-## Key Features
+Other listed capabilities worth knowing about:
 
-- **Four-Band EQ Section** — High shelf, low shelf, and two parametric mid bands modeled on SSL's console circuitry.
-- **Compressor/Limiter** — The classic SSL dynamics compressor with adjustable attack, release, ratio, and threshold — the core of the recognizable "SSL sound."
-- **Gate/Expander** — A dedicated gate section for noise floor control and transient shaping, mirroring the original hardware layout.
-- **Native Operation** — No external DSP hardware required; runs directly inside your DAW on your existing system.
-- **First-Party Development** — Built by Solid State Logic, ensuring the character, response, and workflow accuracy of the original hardware source.
+- Variable highpass and lowpass filters for shaping the top and bottom of a track before it hits the EQ bands.
+- Customizable signal flow routing, so you can reorder the EQ, filters, and dynamics instead of being locked into a fixed chain.
+- Soft ratio compression with Ratio, Threshold, Release, and Fast Attack controls, which the vendor says keeps transient character intact while taming peaks.
+- Sidechain processing for frequency-dependent compression, useful for ducking or de-essing-style moves without a second plugin.
+- A gate/expander with a smooth release response for cleaning up noise between phrases.
 
-## Who Is It For?
+The plugin also integrates with SSL 360 and can be controlled from UC1 and UF8 hardware, which matters if you already run SSL's control surfaces.
 
-- **Mix Engineers** — The combined EQ-plus-dynamics workflow on a single channel strip is a foundational mixing approach, and this delivers it with SSL's own signal path character.
-- **Home Studio Producers** — At $19, this price removes the usual barrier to owning a professional-grade SSL plugin from the brand itself.
-- **Beatmakers and DAW Composers** — Useful for tightening samples, drums, and virtual instruments before they sit in a dense arrangement.
-- **SSL Hardware Fans** — Anyone already familiar with SSL console workflow will find the controls and signal flow immediately intuitive.
+## Where it fits in a session
 
-## Pricing & Deal Details
+This is a channel-strip plugin, so it sits early in a track's processing chain: right after gain staging, before time-based effects like reverb and delay. The switchable EQ curves and built-in gate make it a candidate for vocal and drum channels where you want tonal shaping and noise control from a single insert.
 
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$149.00~~ | **$19.00** | $130.00 (87%) |
+The customizable routing also makes it workable on a mix bus or group, where you might want compression before EQ instead of after. Because the sidechain input supports frequency-dependent compression, it can double as a de-essing or spectral-ducking tool on vocal or bass channels.
 
-SSL's Native plugin line doesn't regularly appear at discounts this steep. An 87% reduction on a first-party plugin from a brand at this tier is not a common occurrence — price history context suggests deals of this depth are worth acting on promptly. Verify current pricing on the product page — deals can change without notice.
+## Pricing and deal details
 
-[Get SSL Native Channel Strip 2 for $19 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/8653-SSL-Native-Channel-Strip-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-channel-strip-2-b24adc&chan=art&data1=ssl-native-channel-strip-2-b24adc)
+Plugin Boutique is running this SSL Native Channel Strip 2 deal off the $149 regular price tracked here, with this roundup flagging an 87% reduction. Check the product page for the exact current total, since promotional pricing on sale pages can shift during the promotion window.
 
-## Alternatives at a Glance
+Get it through this [SSL Native Channel Strip 2 search link](https://www.pluginboutique.com/search?q=SSL+Native+Channel+Strip+2&a_aid=69cb95abe1763&chan=art&data1=ssl-native-channel-strip-2-b24adc&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-channel-strip-2-b24adc) on Plugin Boutique.
 
-| Name | Price | Key Difference |
-|---|---|---|
-| Waves SSL G-Channel | Check Waves site | Third-party SSL emulation; frequently discounted during Waves promotions |
-| UAD SSL 4000 E Channel Strip | Check UAD site | Emulation that requires UAD hardware or a Spark subscription |
-| Softube SSL 4000 E | Check Softube site | Another licensed third-party emulation option |
+## Skip it if
 
-The Native Channel Strip 2 stands apart because it is SSL's own product — not a licensed or independent recreation. The UAD version carries an additional hardware cost. The Waves option often reaches low price points during sales but is a third-party build. At $19, it is the first-party SSL option, with no hardware requirement.
+- You need a CLAP build: CLAP is not listed among the formats, which cover VST3, VST2, AU, and AAX.
+- You're on a Mac running something outside macOS 11 Big Sur through macOS 13 Ventura, since that's the range the vendor lists support for.
+- Your machine doesn't meet the 4 GB RAM minimum (8 GB recommended) or the listed CPU floor on Mac or Windows.
+- You already own an SSL-style channel strip with switchable console EQ voicings and don't need a second one duplicating that workflow.
+- You don't use SSL 360 or UC1/UF8 hardware and have no interest in hardware-controlled mixing, since that integration is one of the plugin's distinguishing features.
+
+## What producers say (with sources)
+
+A sale roundup on r/AudioProductionDeals tracked SSL Native Channel Strip 2 at $19 during a Solid State Logic emulations sale running through October 12, alongside SSL Native Bus Compressor 2 at the same price. The post also flagged that an iLok account is required to activate the plugin ([source](https://www.reddit.com/r/AudioProductionDeals/comments/1wv4i1y/solid_state_logic_analogue_emulations_month_sale/)).
+
+A separate r/AudioProductionDeals post pointed to the same $19 price for SSL Native Channel Strip 2, describing it as inspired by consoles such as the SSL 9000 K, during a promotion running through June 26. That post also noted the iLok account requirement ([source](https://www.reddit.com/r/AudioProductionDeals/comments/1u9rs07/solid_state_logic_ssl_native_channel_strip_2/)).
+
+<!-- deal-context-formats:start -->
+## Formats and system requirements
+- Formats: VST3, VST2, AU, AAX
+- Mac requirements: macOS 11 Big Sur - macOS 13 Ventura (64-bit only) (M1 Mac supported); Intel Dual-Core Mac running at 2.4GHz or higher; 4 GB of RAM minimum (8 GB of RAM recommended); AU, VST2, VST3, AAX Native
+- Windows requirements: Windows 10 - Windows 11 (64-bit only); Intel Core 2 (or comparable) CPU running at 2.4GHz or higher; 4 GB of RAM minimum (8 GB of RAM recommended); VST 2, VST3, AAX Native
+- Source: pluginboutique.com product page, retrieved 2026-10-19
+<!-- deal-context-formats:end -->
 
 ## FAQ
 
-**Q: Does SSL Native Channel Strip 2 require an iLok dongle?**
-A: Activation and licensing requirements can vary — check the official product page on Plugin Boutique for current details before purchasing.
+**Q: What is SSL Native Channel Strip 2?**
+A: It's a channel-strip plugin modeled on SSL's console designs, combining a 4-band parametric EQ switchable between E-Series and G-Series tonal characteristics with filters, compression, sidechain processing, and a gate/expander.
 
-**Q: What plugin formats are supported?**
-A: Check the product page for the current supported format list (VST, AU, AAX, etc.) and confirmed DAW compatibility.
+**Q: What plugin formats does it support?**
+A: The vendor lists VST3, VST2, AU, and AAX.
 
-**Q: Is this an official SSL product or a third-party emulation?**
-A: SSL Native Channel Strip 2 is developed by Solid State Logic directly — not a third-party emulation of their hardware.
+**Q: What's the difference between the E-Series and G-Series EQ settings?**
+A: The product listing describes the 4-band parametric EQ as switchable between E-Series and G-Series tonal characteristics, letting you choose between two SSL console voicings in the same plugin.
 
-**Q: What is Plugin Boutique's refund policy for plugins?**
-A: Plugin Boutique's refund terms vary by product. Review their policy on the Plugin Boutique site before completing your purchase.
+**Q: Can I control it from SSL hardware?**
+A: Yes. The vendor lists integration with SSL 360 and control from SSL's UC1 and UF8 hardware controllers.
 
-## Get the Deal
+## Should you buy now?
 
-$19 for an official SSL channel strip plugin is the kind of price that doesn't last — 87% off is a rare window on a brand that rarely needs to discount. [Grab SSL Native Channel Strip 2 at Plugin Boutique while the deal is live.](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/8653-SSL-Native-Channel-Strip-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-channel-strip-2-b24adc&chan=art&data1=ssl-native-channel-strip-2-b24adc)
+The $149 regular price tracked here combined with the 87% reduction flagged in this roundup puts SSL Native Channel Strip 2 among the steeper cuts tracked on SSL's native plugin line right now. If the switchable E/G-Series EQ, built-in gate, and sidechain compression cover a gap in your channel-strip workflow, buying while the discount is active is reasonable rather than waiting.
+
+*Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
 
 ## Related Guides
 
+- [Best EQ Plugins 2026](/posts/best-eq-plugins-2026/)
+- [Best Compressor Plugins 2026](/posts/best-compressor-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
-
----
-
-*This post contains affiliate links. We may earn a small commission at no extra cost to you.*
