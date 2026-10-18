@@ -117,7 +117,8 @@ export default defineConfig({
 	},
 	integrations: [mdx(), sitemap({
 		filter(page) {
-			return !redirectUrls.has(page)
+			return !page.endsWith('/tags/free/')
+				&& !redirectUrls.has(page)
 				&& !noindexPriceUrls.has(page)
 				&& !unlistedCompareUrls.has(page)
 				&& !generatedPageHasNoindex(page);
