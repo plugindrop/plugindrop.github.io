@@ -55,7 +55,7 @@ export async function getStaticPaths() {
 }
 
 const { tag, noindex = false } = Astro.props;
-const pageNoindex = noindex || tag === 'free';
+const pageNoindex = noindex;
 
 const allPosts = await getCollection('blog');
 const posts = allPosts
@@ -66,7 +66,7 @@ const tagDisplay = tag.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
 
 // タグ別に最適化されたタイトル・ディスクリプション
 const TAG_META: Record<string, { title: string; desc: string }> = {
-	'free':             { title: 'Free VST Plugins & Sample Packs', desc: 'Download free VST plugins, sample packs, and presets. Updated daily with the latest free music production tools.' },
+	'free':             { title: 'Free Plugin Guides & Articles', desc: 'Articles and guides about free VST plugins, sample packs, and presets, collected in one place.' },
 	'sale':             { title: 'VST Plugin Sales & Deals', desc: 'Best VST plugin sales and discounts. Save on synths, effects, sample packs, and more — updated daily.' },
 	'vst-plugin':       { title: 'VST Plugin Deals', desc: 'The best VST plugin deals, discounts, and free downloads for music producers. Verified daily.' },
 	'synth':            { title: 'Synth Plugin Deals & Free Downloads', desc: 'Best deals on synthesizer plugins including wavetable, analog, and FM synths. Free and paid options.' },
@@ -105,7 +105,7 @@ const breadcrumbLD = {
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={`${pageTitle} | ${SITE_TITLE}`} description={pageDesc} noindex={pageNoindex} canonicalPath={tag === 'free' ? '/free/' : undefined} />
+		<BaseHead title={`${pageTitle} | ${SITE_TITLE}`} description={pageDesc} noindex={pageNoindex}  />
 		<script type="application/ld+json" set:html={JSON.stringify(breadcrumbLD)} />
 		<style>
 			main { max-width: 960px; margin: 0 auto; padding: 2rem 1rem; }

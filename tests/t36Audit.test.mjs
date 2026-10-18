@@ -53,10 +53,12 @@ test('built live article has no expired buy box and uses tracker deadline', () =
   assert.match(html, /priceValidUntil/);
 });
 
-test('free tag page is noindex and canonical to free hub', () => {
-  const html = readFileSync(join('dist', 'tags', 'free', 'index.html'), 'utf8');
-  assert.match(html, /noindex, follow/);
-  assert.match(html, /https:\/\/plugindrop\.net\/free\//);
+test('free tag page has its own title and h1, distinct from the free hub', () => {
+  const tag = readFileSync(join('dist', 'tags', 'free', 'index.html'), 'utf8');
+  const hub = readFileSync(join('dist', 'free', 'index.html'), 'utf8');
+  const h1 = (h) => h.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)?.[1].replace(/<[^>]+>/g, '').trim();
+  assert.notEqual(h1(tag), h1(hub));
+  assert.notEqual(tag.match(/<title>([^<]*)/)?.[1], hub.match(/<title>([^<]*)/)?.[1]);
 });
 
 test('every percentage card on the built home page has a live tracker entry', () => {
