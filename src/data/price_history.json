@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17",
+  "last_updated": "2026-10-18",
   "bundles": {
     "Arturia FX Collection 6 Pro": {
       "pb_url": "/product/81-Bundles/39-Effects-Bundles/16835-FX-Collection-6-PRO",
@@ -466,7 +466,8 @@
           "cur": "USD",
           "until": "2026-12-01"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cableguys-shaperbox-3.jpg"
     },
     "EastWest Composer Cloud+": {
       "pb_url": "https://www.soundsonline.com/composercloud",
@@ -3132,6 +3133,15 @@
         },
         {
           "date": "2026-10-17",
+          "sale": 199.0,
+          "regular": 499.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-10-18",
           "sale": 199.0,
           "regular": 499.0,
           "source": "pb_deals_poll",
@@ -20077,6 +20087,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-10-18",
+          "sale": 29.0,
+          "regular": 59.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/decimort-2.jpg"
@@ -21328,6 +21347,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-10-18",
+          "sale": 39.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/empirical-labs-el8-distressor-compressor.jpg"
@@ -21771,6 +21799,15 @@
         },
         {
           "date": "2026-10-17",
+          "sale": 49.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-10-18",
           "sale": 49.0,
           "regular": 99.0,
           "source": "pb_deals_poll",
@@ -23425,6 +23462,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-01"
+        },
+        {
+          "date": "2026-10-18",
+          "sale": 75.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "category": "Effects",
@@ -28863,6 +28909,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-10-18",
+          "sale": 379.0,
+          "regular": 758.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/excite-audio-bundle.jpg"
@@ -30055,7 +30110,8 @@
           "until": "2026-10-20"
         }
       ],
-      "category": "Compressor"
+      "category": "Compressor",
+      "image": "/images/plugin-prices/fabfilter-pro-c-3.jpg"
     },
     "FabFilter Pro-DS": {
       "pb_url": "/product/2-Effects/59-De-Esser/923-FabFilter-Pro-DS",
@@ -36554,6 +36610,15 @@
         },
         {
           "date": "2026-10-17",
+          "sale": 69.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-10-18",
           "sale": 69.0,
           "regular": 199.0,
           "source": "pb_deals_poll",
@@ -45019,6 +45084,15 @@
         },
         {
           "date": "2026-10-17",
+          "sale": 79.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-10-18",
           "sale": 79.0,
           "regular": 129.0,
           "source": "pb_deals_poll",
@@ -57411,7 +57485,8 @@
           "cur": "USD",
           "until": "2026-10-25"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/relab-development-lx480-complete.jpg"
     },
     "Relooper": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/17077-Relooper",
@@ -57664,6 +57739,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-10-19"
+        },
+        {
+          "date": "2026-10-18",
+          "sale": 19.0,
+          "regular": 79.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/relooper.jpg"
@@ -59634,6 +59718,24 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-01"
+        },
+        {
+          "date": "2026-10-17",
+          "sale": 15.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-10-18",
+          "sale": 15.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/ssl-native-x-eq-2.jpg"
@@ -60313,6 +60415,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-01"
+        },
+        {
+          "date": "2026-10-18",
+          "sale": 15.0,
+          "regular": 49.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/ssl-x-gate.jpg"
@@ -61424,7 +61535,8 @@
           "cur": "USD",
           "until": "2026-11-01"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/softube-producer-collection-exclusive.jpg"
     },
     "Softube Summit Audio TLA-100A": {
       "pb_url": "/product/2-Effects/8-Compressor/2849-Summit-Audio-TLA-100A-Compressor",
@@ -61521,7 +61633,8 @@
           "reg_src": "typical",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/softube-summit-audio-tla-100a.jpg"
     },
     "Softube Tape": {
       "pb_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/3416-Tape",
@@ -66493,6 +66606,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-10-18",
+          "sale": 59.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/soundtoys-decapitator.jpg"
@@ -70899,6 +71021,15 @@
         },
         {
           "date": "2026-10-17",
+          "sale": 39.0,
+          "regular": 80.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-10-18",
           "sale": 39.0,
           "regular": 80.0,
           "source": "pb_deals_poll",
@@ -78599,8 +78730,18 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-10-18",
+          "sale": 99.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-mix-tape-pro.jpg"
     },
     "UAD Moog Minimoog": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/10188-Moog-Minimoog",
@@ -80627,7 +80768,8 @@
           "cur": "USD",
           "until": "2026-11-01"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-studer-a800.jpg"
     },
     "UAD Studer A800 Tape Recorder": {
       "pb_url": "/product/2-Effects/96-Tape-Emulation/10185-Studer-A800-Tape-Recorder",
@@ -84920,6 +85062,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-10-19"
+        },
+        {
+          "date": "2026-10-18",
+          "sale": 49.0,
+          "regular": 89.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/vision-4x.jpg"
@@ -86553,7 +86704,8 @@
           "until": "2026-10-20"
         }
       ],
-      "category": "Utility"
+      "category": "Utility",
+      "image": "/images/plugin-prices/waves-bass-rider.jpg"
     },
     "Waves CLA-2A": {
       "pb_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13687-CLA-2A-Compressor-Limiter",
@@ -86787,7 +86939,8 @@
           "cur": "USD",
           "until": "2026-10-20"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/waves-cla-76.jpg"
     },
     "Waves H-Delay": {
       "pb_url": "/product/2-Effects/10-Delay/13813-H-Delay-Hybrid-Delay",
@@ -86887,7 +87040,8 @@
           "cur": "USD",
           "until": "2026-10-20"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/waves-h-delay.jpg"
     },
     "Waves H-Reverb": {
       "pb_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/13784-H-Reverb-Hybrid-Reverb",
@@ -86975,7 +87129,8 @@
           "cur": "USD",
           "until": "2026-10-20"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/waves-h-reverb.jpg"
     },
     "Waves Kramer Master Tape": {
       "pb_url": "/product/2-Effects/96-Tape-Emulation/13679-Kramer-Master-Tape",
@@ -87232,7 +87387,8 @@
           "until": "2026-10-20"
         }
       ],
-      "category": "EQ"
+      "category": "EQ",
+      "image": "/images/plugin-prices/waves-puigtec-eqs.jpg"
     },
     "Waves Renaissance Reverb": {
       "pb_url": "/product/2-Effects/17-Reverb/13674-Renaissance-Reverb",
@@ -91873,6 +92029,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-10-31"
+        },
+        {
+          "date": "2026-10-18",
+          "sale": 19.0,
+          "regular": 49.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/drivedat.jpg"
@@ -97032,7 +97197,8 @@
           "cur": "USD",
           "until": "2026-10-31"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/dandy.jpg"
     },
     "Esspresso": {
       "pb_url": "/product/2-Effects/59-De-Esser/8702-Esspresso",
@@ -97200,7 +97366,8 @@
           "cur": "USD",
           "until": "2026-10-31"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/motion-bundle-upgrade-from-any-motion-product.jpg"
     },
     "United Plugins Mirror": {
       "pb_url": "/product/2-Effects/10-Delay/8658-Mirror",
@@ -97602,8 +97769,18 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-10-18",
+          "sale": 99.0,
+          "regular": 229.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/zenology-pro.jpg"
     },
     "The Orb": {
       "pb_url": "/product/2-Effects/19-Filter/2888-The-Orb",
@@ -97775,7 +97952,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/the-orb.jpg"
     },
     "JUNO-60": {
       "pb_url": "/product/1-Instruments/4-Synth/15608-JUNO-60",
@@ -97937,8 +98115,18 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-10-18",
+          "sale": 69.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/juno-60.jpg"
     },
     "Motion Fractal Upgrade from any Motion Lite": {
       "pb_url": "/product/2-Effects/45-Granular-FX/15185-Motion-Fractal-Upgrade-from-any-Motion-Lite-",
@@ -97984,7 +98172,8 @@
           "cur": "USD",
           "until": "2026-10-31"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/motion-fractal-upgrade-from-any-motion-lite.jpg"
     },
     "73 JR Preamp": {
       "pb_url": "/product/2-Effects/74-Preamp/14618-73-JR-Preamp",
@@ -98030,7 +98219,8 @@
           "cur": "USD",
           "until": "2026-10-31"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/73-jr-preamp.jpg"
     },
     "Virtual Bassist Bundle 2": {
       "pb_url": "/product/81-Bundles/58-Instrument-Bundles/6619-Virtual-Bassist-Bundle-2",
@@ -98174,7 +98364,8 @@
           "cur": "USD",
           "until": "2026-11-01"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/bus-processor.jpg"
     },
     "SILK 2": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/11871-SILK-2",
@@ -98416,7 +98607,8 @@
           "cur": "USD",
           "until": "2026-10-31"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/lang-peq-2.jpg"
     },
     "Ultimate Vocal Chain Collection": {
       "pb_url": "/product/81-Bundles/39-Effects-Bundles/16492-Ultimate-Vocal-Chain-Collection",
@@ -98462,7 +98654,8 @@
           "cur": "USD",
           "until": "2026-10-31"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/ultimate-vocal-chain-collection.jpg"
     },
     "Baby Audio HyperWarp": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/17963-HyperWarp",
@@ -98491,7 +98684,8 @@
           "cur": "USD",
           "until": "2026-11-30"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/baby-audio-hyperwarp.jpg"
     },
     "AmpliTube 5": {
       "pb_url": "/product/2-Effects/18-Amp-Simulator/12669-AmpliTube-5",
@@ -98728,8 +98922,18 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-10-18",
+          "sale": 29.9,
+          "regular": 129.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/instacomposer-4.jpg"
     }
   }
 }
