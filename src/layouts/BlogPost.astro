@@ -21,6 +21,8 @@ import FactCard from '../components/FactCard.astro';
 import PlanTable from '../components/PlanTable.astro';
 import LegacyFactCard from '../components/LegacyFactCard.astro';
 import DealMath from '../components/DealMath.astro';
+import NotableUsers from '../components/NotableUsers.astro';
+import notableUsers from '../data/notable_users.json';
 import NewerVersionNotice from '../components/NewerVersionNotice.astro';
 import VersionHistory from '../components/VersionHistory.astro';
 import supersededReviews from '../data/superseded_reviews.json';
@@ -151,6 +153,7 @@ const _showFactsTable = _displayFacts && !_isPlanArticle && ['list', 'comparison
 const _showFactCard = _displayFacts && !_isPlanArticle && !_newerProduct && _catalog?.kind === 'review' && _catalogProducts.length + _currentVendorIds.length === 1 && _pricedCatalogCount === 1;
 const _postForMatch = { id: currentSlug, data: { title, priceTrack, productKey, affiliate } };
 const _trackerMatch = findTrackerEntryForPost(_postForMatch, _allTrackerEntries, rawBody);
+const _notableKey = _trackerMatch ? String(_trackerMatch.entry.pbProductId ?? _trackerMatch.entry.pb_url?.match(/\/(\d+)(?:-|$)/)?.[1] ?? _trackerMatch.name) : '';
 const _fact = _trackerMatch ? buildFactBox(_trackerMatch.entry, Date.now()) : null;
 const productName = productNameOf(_postForMatch);
 const _showProductCta = shouldShowProductCta({ slug: currentSlug, tags, kind: _catalog?.kind });
@@ -1207,6 +1210,8 @@ const featuredDeals = isEvergreen ? allPosts
 					)}
 
 					<!-- Article content (from markdown) -->
+					{/* Owner decides final placement; keep this after the deal-why copy. */}
+					{_isSingleProductDeal && <NotableUsers records={(notableUsers as Record<string, any[]>)[_notableKey] ?? []} brand={_dealBrand ?? ''} />}
 					{(_showFactsTable || _showFactCard || _showPlanTable || _showLegacyFactCard) && <section id="compare-table">
 						<h2>{_showPlanTable ? 'Editions and prices' : _showFactsTable && _compareModel.free ? 'Verified facts from developer pages' : 'Compare the products in this guide'}</h2>
 						{_showPlanTable ? <PlanTable vendorProducts={_currentVendorIds} kind={_catalog?.kind as 'comparison' | 'review'} /> : _showLegacyFactCard ? <LegacyFactCard vendorProduct={_legacyId!} /> : _showFactsTable ? _compareModel.mode === 'table' ? <FactsTable model={_compareModel} /> : <VerifiedFactsList model={_compareModel} /> : _currentVendorIds.length ? <FactCard vendorProduct={_currentVendorIds[0]} slug={currentSlug} /> : <FactCard product={_catalogProducts[0]} slug={currentSlug} />}

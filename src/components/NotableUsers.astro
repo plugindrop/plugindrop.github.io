@@ -1,0 +1,24 @@
+---
+type Record = { person?: string; role?: string; claim_type?: string; quote?: string; source_url?: string; publisher?: string; retrieved?: string; status?: string; brand?: string; vendor_domain?: string; verification?: { person_found?: boolean; product_found?: boolean; quote_found?: boolean; same_block?: boolean } };
+const ENABLE_NOTABLE_USERS = false;
+const ENABLE_PUBLICATION_INTERVIEWS = false;
+const { records = [], brand = '' } = Astro.props as { records?: Record[]; brand?: string };
+const row = ENABLE_NOTABLE_USERS && brand.trim() ? records.find((record) => record.status === 'verified'
+  && (record.claim_type === 'manufacturer_artist_page' || ENABLE_PUBLICATION_INTERVIEWS && record.claim_type === 'publication_interview')
+  && !/\b(?:artist_statement)\b/.test(record.claim_type ?? '')
+  && record.brand?.trim().toLowerCase() === brand.trim().toLowerCase()
+  && (record.claim_type !== 'manufacturer_artist_page' || !!record.vendor_domain && new URL(record.source_url ?? '', 'https://invalid.example').hostname.replace(/^www\./, '') === record.vendor_domain.replace(/^www\./, '').toLowerCase())
+  && Object.values(record.verification ?? {}).length === 4
+  && Object.values(record.verification ?? {}).every(Boolean)
+  && record.person && record.role && record.quote && record.source_url && record.retrieved
+  && record.quote.length >= 12 && record.quote.length <= 200) : undefined;
+---
+{row && <section class="notable-users" aria-labelledby="notable-users-h">
+  <h2 id="notable-users-h" class="notable-users__heading">On the record</h2>
+  <p class="notable-user__lead">{row.claim_type === 'manufacturer_artist_page' ? `On ${brand}'s artist page, ` : `In a ${row.publisher} article, `}{row.role} {row.person} is quoted as saying:</p>
+  <blockquote class="notable-user" cite={row.source_url}>
+    <p class="notable-user__quote">“{row.quote}”</p>
+    <footer class="notable-user__source">Source: <a href={row.source_url} rel="nofollow noopener" target="_blank">{row.claim_type === 'manufacturer_artist_page' ? `${brand} artist page` : row.publisher}</a> · retrieved {row.retrieved}</footer>
+  </blockquote>
+  <p class="notable-users__note">Quotes are reproduced word for word from the linked pages and are the manufacturer's or publication's own material. They are not endorsements of PluginDrop, of this price, or of any store. Quoted here and want it corrected or removed? <a href="/contact/">Contact us</a>.</p>
+</section>}
