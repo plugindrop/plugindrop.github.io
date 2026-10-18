@@ -6,11 +6,12 @@ import { isProductNameIndexable, isBrandPageIndexable, isPricePageIndexable } fr
 import { isSearchUrl, pbLink, slugify, pctOff } from './priceUtils.ts';
 import { ownChecks, rarityTag, urgencyTag, supportChips } from './dealSignals.mjs';
 import { composeHeadline } from './headline.mjs';
+import { taglineForProduct } from './dealCopy.mjs';
 
 export function resolveCardImage({ post, entry, siblings = [] }) {
   const hero = post?.data?.heroImage;
-  if (post?.data?.aiImage !== true && typeof hero === 'string' && hero.startsWith('/images/') && !hero.includes('placeholder')) return { src: hero, kind: 'article', aspect: '16/10' };
-  if (entry?.image) return { src: entry.image, kind: 'product', aspect: '16/10' };
+  if (post?.data?.aiImage !== true && typeof hero === 'string' && hero.startsWith('/images/') && !hero.includes('placeholder')) return { src: hero, large: entry?.image_lg ?? null, kind: 'article', aspect: '16/10' };
+  if (entry?.image) return { src: entry.image, large: entry.image_lg ?? null, kind: 'product', aspect: '16/10' };
   const sibling = siblings.find(s => s?.image);
   if (sibling) return { src: sibling.image, kind: 'product', aspect: '16/10' };
   return { src: null, kind: 'typographic', aspect: '16/10' };
@@ -48,7 +49,7 @@ export function cardTarget(deal, priceData) {
   return pbLink(deal.entry.pb_url, 'chan=home', { medium: 'homepage', campaign: 'home-card', data1: slugify(deal.name) });
 }
 
-export function toCardModel(deal, { entries, priceData, now, videos = {} }) {
+export function toCardModel(deal, { entries, priceData, now, videos = {}, copy = {} }) {
   const id = pbProductId(deal.entry.pb_url);
   const siblings = Object.values(entries).filter(entry => entry !== deal.entry && pbProductId(entry.pb_url) === id);
   const brand = deal.brand ?? detectBrand(deal.name, deal.entry.notes);
@@ -61,7 +62,8 @@ export function toCardModel(deal, { entries, priceData, now, videos = {} }) {
   const rarity = deal.kind === 'tracker' ? rarityTag(deal.entry, now) : null;
   const image = resolveCardImage({ post: deal.post, entry: deal.entry, siblings });
   const ctaHref = pbLink(deal.entry.pb_url, 'chan=home', { medium: 'homepage', campaign: 'home-card', data1: slugify(deal.name) });
-  return { key: deal.name, brand, product, category, tagline: null, headline: composeHeadline({ brand, product, category, tagline: null, off: deal.off, state: 'live' }), off: deal.off, current: deal.current, regular: deal.regular, until, urgency, rarity, chips: deal.kind === 'tracker' ? supportChips(deal.entry, now, 2) : [], image, href: cardTarget(deal, priceData), ctaHref, hasVideo: !!videos[deal.name], filters: [category.toLowerCase(), ...(urgency ? ['ending'] : []), ...(rarity?.type === 'new-low' ? ['new-low'] : []), ...(deal.current < 50 ? ['under-50'] : []), ...(category === 'Bundle' ? ['bundles'] : [])], score: deal.score, tier: tierOf(brand) };
+  const tagline = taglineForProduct(deal.name, copy);
+  return { key: deal.name, brand, product, category, tagline, headline: composeHeadline({ brand, product, category, tagline, off: deal.off, state: 'live' }), off: deal.off, current: deal.current, regular: deal.regular, until, urgency, rarity, chips: deal.kind === 'tracker' ? supportChips(deal.entry, now, 2) : [], image, href: cardTarget(deal, priceData), ctaHref, hasVideo: !!videos[deal.name], filters: [category.toLowerCase(), ...(urgency ? ['ending'] : []), ...(rarity?.type === 'new-low' ? ['new-low'] : []), ...(deal.current < 50 ? ['under-50'] : []), ...(category === 'Bundle' ? ['bundles'] : [])], score: deal.score, tier: tierOf(brand) };
 }
 
 export function pickSpotlight(cards) { return cards.find(c => c.image.kind !== 'typographic' && ['S', 'A'].includes(c.tier) && (c.rarity || c.off >= 50)) ?? cards.find(c => c.image.kind !== 'typographic') ?? cards[0] ?? null; }

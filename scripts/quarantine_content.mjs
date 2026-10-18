@@ -8,7 +8,7 @@ const scriptPath = fileURLToPath(import.meta.url);
 const rules = JSON.parse(fs.readFileSync(new URL('../src/data/content_lint_rules.json', import.meta.url), 'utf8'));
 const freePaid = JSON.parse(fs.readFileSync(new URL('../src/data/free_paid_product_links.json', import.meta.url), 'utf8'));
 const todayLocal = () => new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Tokyo', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date());
-if (!Array.isArray(rules.experience) || !Array.isArray(rules.expired_sale)) throw new Error('invalid content lint rules');
+if (!Array.isArray(rules.experience) || !Array.isArray(rules.expired_sale) || !Array.isArray(rules.tagline_banned) || !Array.isArray(rules.rarity_banned)) throw new Error('invalid content lint rules');
 
 export function lintContent(text, today, { trackerEnded = false } = {}) {
   const body = text.replace(/^---\s*\n[\s\S]*?\n---\s*\n/, '');
@@ -66,6 +66,7 @@ for (const slug of fs.readdirSync(path.join(root, 'posts'))) {
   const htmlPath = path.join(root, 'posts', slug, 'index.html');
   if (!fs.existsSync(htmlPath)) continue;
   const html = fs.readFileSync(htmlPath, 'utf8');
+  if (rules.tagline_banned.some(pattern => [...html.matchAll(/<p class="tagline"[^>]*>(.*?)<\/p>/g)].some(match => new RegExp(pattern, 'i').test(match[1])))) add(slug, 'tagline_banned');
   const ld = [...html.matchAll(/<script[^>]+type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/gi)];
   const expired = ld.some(match => [...match[1].matchAll(/"priceValidUntil"\s*:\s*"(\d{4}-\d{2}-\d{2})"/g)].some(date => date[1] < today));
   if (expired && /\b(?:sale live now|on sale now|deal is live|offer is live)\b/i.test(html)) add(slug, 'expired structured price date with live-sale claim');

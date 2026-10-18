@@ -28,6 +28,7 @@ const blog = defineCollection({
 			bundleValue: z.string().optional(),
 			noindex: z.boolean().optional(),
 			priceTrack: z.array(z.string()).default([]),
+			productKey: z.string().optional(),
 		}),
 });
 

@@ -1,7 +1,7 @@
 export function composeHeadline({ brand, product, tagline, off, state, category = 'plugin' }) {
-  const name = brand ? `${brand} "${product}"` : product;
+  const name = brand ? `${brand} ${product}` : product;
   if (state === 'free') return tagline ? `${tagline}: ${name} is free` : `${name} is free`;
-  if (state === 'live' && off > 0) return tagline ? `${tagline}: ${name} is ${off}% off` : `${name} is ${off}% off: ${category.toLowerCase()}`;
+  if (state === 'live' && off > 0) return tagline ? `${tagline}: ${name} is ${off}% off` : `${name} is ${off}% off`;
   return tagline ? `${tagline}: ${name}: price history and last sale` : `${name}: price history and last sale`;
 }
 

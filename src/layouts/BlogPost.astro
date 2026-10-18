@@ -29,6 +29,12 @@ import postVendorMap from '../data/post_vendor_map.json';
 import vendorCatalog from '../data/vendor_products.json';
 import manifestRaw from '../data/programmatic_pages.json';
 import { categoryForProduct } from '../lib/categoryInference.mjs';
+import { detectBrand } from '../lib/brands.mjs';
+import { pctOff } from '../lib/priceUtils';
+import { urgencyTag, rarityTag, supportChips } from '../lib/dealSignals.mjs';
+import { composeHeadline, composeSeoTitle } from '../lib/headline.mjs';
+import { validatedTagline } from '../lib/dealCopy.mjs';
+import dealCopy from '../data/deal_copy.json';
 import { comparisonPriceFacts } from '../lib/priceInsights.mjs';
 import { SITE_TITLE } from '../consts';
 import priceDataRaw from '../data/price_history.json';
@@ -36,6 +42,7 @@ import { type PriceEntry, formatPrice, pbLink } from '../lib/priceUtils';
 import {
 	findTrackerEntryForPost,
 	buildFactBox,
+	dealState,
 	productNameOf,
 	shouldShowProductCta,
 	ctaHref as buildCtaHref,
@@ -50,7 +57,7 @@ import {
 
 type Props = CollectionEntry<'blog'>['data'] & { readingTime?: string; rawBody?: string; slug?: string };
 
-const { title, description, pubDate, updatedDate, heroImage, tags = [], affiliate, dealPrice, originalPrice, discount, saleExpiry, saleExpirySource, score, allTimeLow, evergreen, onSaleNow, bundleValue, noindex, priceTrack = [], readingTime = '3 min read', rawBody = '', slug: currentSlug = '' } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, tags = [], affiliate, dealPrice, originalPrice, discount, saleExpiry, saleExpirySource, score, allTimeLow, evergreen, onSaleNow, bundleValue, noindex, priceTrack = [], productKey, readingTime = '3 min read', rawBody = '', slug: currentSlug = '' } = Astro.props;
 const imageStr = typeof heroImage === 'string' ? heroImage : undefined;
 // PR-8 (2026-09-25): a fallback-guessed saleExpiry is not a real deadline —
 // only show the countdown / "Ends" date / priceValidUntil when it's trusted.
@@ -89,6 +96,7 @@ const dealSource = affiliate ? getDealSource(affiliate) : '';
 // static frontmatter copy. Exact-match only — see articleDeal.mjs.
 const priceData = priceDataRaw as { last_updated: string; bundles: Record<string, PriceEntry>; plugins?: Record<string, PriceEntry> };
 const _allTrackerEntries = { ...priceData.bundles, ...(priceData.plugins ?? {}) };
+const _maxLiveOff = Math.max(0, ...Object.values(_allTrackerEntries).filter(entry => dealState(entry, Date.now()) === 'live').map(entry => { const checked = [...(entry.history ?? [])].filter(row => ['auto_check', 'live_check'].includes(row.source)).sort((a,b) => a.date.localeCompare(b.date)).at(-1); return pctOff(checked?.sale ?? null, checked?.regular ?? null); }));
 const _catalog = (postCatalogMap as Record<string, { kind: string; products: string[] }>)[currentSlug];
 const _catalogProducts = _catalog?.products ?? [];
 const _vendorIds = (postVendorMap as Record<string, string[]>)[currentSlug] ?? [];
@@ -140,7 +148,7 @@ const _showLegacyFactCard = _displayFacts && _catalog?.kind === 'review' && Bool
 const _compareModel = buildCompareModel({ slug: currentSlug, rawBody, catalog: _catalog, vendorMap: _currentVendorIds, vendorFacts: _vendorFacts, vendorProducts: _vendorProducts, priceEntries: _allTrackerEntries });
 const _showFactsTable = _displayFacts && !_isPlanArticle && ['list', 'comparison'].includes(_catalog?.kind ?? '') && _compareModel.mode !== 'none';
 const _showFactCard = _displayFacts && !_isPlanArticle && !_newerProduct && _catalog?.kind === 'review' && _catalogProducts.length + _currentVendorIds.length === 1 && _pricedCatalogCount === 1;
-const _postForMatch = { id: currentSlug, data: { title, priceTrack, affiliate } };
+const _postForMatch = { id: currentSlug, data: { title, priceTrack, productKey, affiliate } };
 const _trackerMatch = findTrackerEntryForPost(_postForMatch, _allTrackerEntries, rawBody);
 const _fact = _trackerMatch ? buildFactBox(_trackerMatch.entry, Date.now()) : null;
 const productName = productNameOf(_postForMatch);
@@ -149,6 +157,17 @@ const _showProductCta = shouldShowProductCta({ slug: currentSlug, tags, kind: _c
 // actual store check found the sale ended but saleExpiry hasn't caught up
 // yet, treat this as ended everywhere the CTA/fact-box/Product schema look.
 const _trackerSaysEnded = _fact?.state === 'ended' && !saleExpired;
+const _dealState = (saleExpired || _trackerSaysEnded) ? 'ended' : (_fact?.state ?? 'unknown');
+const _dealBrand = _trackerMatch ? detectBrand(_trackerMatch.name, _trackerMatch.entry.notes) : null;
+const _dealProduct = _trackerMatch && _dealBrand && _trackerMatch.name.toLowerCase().startsWith(`${_dealBrand.toLowerCase()} `) ? _trackerMatch.name.slice(_dealBrand.length + 1) : _trackerMatch?.name ?? '';
+const _dealCopyRecord = _trackerMatch ? (dealCopy as Record<string, any>)[_trackerMatch.name] : null;
+const _dealTagline = validatedTagline(_dealCopyRecord);
+const _dealOff = _dealState === 'live' && _fact ? pctOff(_fact.current, _fact.regular) : 0;
+const _composedTitle = _showProductCta && _trackerMatch && _fact && dealPrice ? composeHeadline({ brand: _dealBrand, product: _dealProduct, tagline: _dealTagline, off: _dealOff, state: _dealState, category: categoryForProduct(_trackerMatch.name, _trackerMatch.entry, _bundleNames.has(_trackerMatch.name)) }) : title;
+const _seoTitle = _showProductCta && _trackerMatch && _fact && dealPrice ? composeSeoTitle({ brand: _dealBrand, product: _dealProduct, off: _dealOff, state: _dealState }) : title;
+const _urgency = _trackerMatch && _dealState === 'live' ? urgencyTag(_trackerMatch.entry, Date.now()) : null;
+const _rarity = _trackerMatch && _dealState === 'live' ? rarityTag(_trackerMatch.entry, Date.now()) : null;
+const _historyChips = _trackerMatch ? supportChips(_trackerMatch.entry, Date.now(), 3) : [];
 
 // Brand is only derivable when the affiliate URL is the manufacturer's own site
 const BRAND_DOMAINS: Record<string, string> = {
@@ -182,7 +201,7 @@ const pageUrl = new URL(Astro.url.pathname, Astro.site).href;
 const articleLD = {
 	"@context": "https://schema.org",
 	"@type": "Article",
-	"headline": title,
+	"headline": _composedTitle,
 	"description": description,
 	"datePublished": pubDate.toISOString(),
 	...(updatedDate ? { "dateModified": updatedDate.toISOString() } : {}),
@@ -444,7 +463,7 @@ const featuredDeals = isEvergreen ? allPosts
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={title.length > 50 ? title : `${title} | ${SITE_TITLE}`} description={description} image={imageStr} ogType="article" articleSection={tags[0] ?? 'Music Production'} noindex={!!noindex} />
+		<BaseHead title={_seoTitle.length > 50 ? _seoTitle : `${_seoTitle} | ${SITE_TITLE}`} description={description} image={imageStr} ogType="article" articleSection={tags[0] ?? 'Music Production'} noindex={!!noindex} />
 		{pdAttr({ title, tags }) && <meta name="pd-interests" content={pdAttr({ title, tags })} />}
 		<script type="application/ld+json" set:html={JSON.stringify(articleLD)} />
 		<script type="application/ld+json" set:html={JSON.stringify(breadcrumbLD)} />
@@ -453,7 +472,8 @@ const featuredDeals = isEvergreen ? allPosts
 		{productLD && <script type="application/ld+json" set:html={JSON.stringify(productLD)} />}
 		{videoLD && <script type="application/ld+json" set:html={JSON.stringify(videoLD)} />}
 		<script type="application/ld+json" set:html={JSON.stringify(speakableLD)} />
-		<style>
+	<style>
+		.deal-signals{display:flex;flex-wrap:wrap;gap:.4rem;margin-bottom:.8rem}.deal-signals span{padding:.3rem .5rem;background:var(--sale-bg);color:var(--sale-text);font:700 .7rem var(--font-mono)}.deal-top-grid{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(250px,1fr);gap:1rem;align-items:stretch;margin:1.5rem 0}.deal-top-grid .deal-cta-box{margin:0;min-width:0}.deal-top-grid .deal-cta-btn{box-sizing:border-box;white-space:normal;overflow-wrap:anywhere;text-align:center;line-height:1.3}.deal-top-grid .hero-image{position:relative;margin:0;padding:0;min-height:280px;background:#161a1a}.deal-top-grid .hero-image img{width:100%;height:100%;max-height:440px;object-fit:contain}.deal-image-off{position:absolute;right:0;bottom:0;padding:.35rem .7rem;background:#b8463f;color:white;font:800 2rem var(--font-mono)}.deal-why{margin:.75rem 0;color:var(--text-secondary)}.deal-history-chips{display:flex;gap:.4rem;flex-wrap:wrap;margin-bottom:1rem}.deal-history-chips span{padding:.25rem .4rem;background:var(--bg-low);font-size:.75rem;color:var(--text-muted)}@media(max-width:680px){.deal-top-grid{grid-template-columns:1fr}.deal-top-grid .hero-image{min-height:0;aspect-ratio:16/10}}
 			main {
 				width: calc(100% - 2rem);
 				max-width: 100%;
@@ -617,8 +637,7 @@ const featuredDeals = isEvergreen ? allPosts
 				flex-wrap: wrap;
 			}
 			/* Hide the first H1 inside article content (already shown in header) */
-			.prose > h1:first-of-type,
-			.prose :global(h1:first-of-type) {
+			.prose > h1:first-of-type {
 				display: none;
 			}
 			.deal-cta-box.sale-expired {
@@ -1075,7 +1094,7 @@ const featuredDeals = isEvergreen ? allPosts
 		<Header />
 		<main id="main-content">
 			<article>
-				{imageStr && (
+				{imageStr && !_showProductCta && (
 					<div class="hero-image">
 						<img src={imageStr} alt={title} loading="eager" fetchpriority="high" data-fallback="/images/default-placeholder.jpg" />
 					</div>
@@ -1093,7 +1112,8 @@ const featuredDeals = isEvergreen ? allPosts
 
 					<!-- Article Header -->
 					<div class="article-header">
-						<h1>{title}</h1>
+						{_showProductCta && <div class="deal-signals"><span>{_trackerMatch ? categoryForProduct(_trackerMatch.name, _trackerMatch.entry, _bundleNames.has(_trackerMatch.name)) : 'Deal'}</span>{_urgency && <span>{_urgency.text}</span>}{_rarity && <span data-rarity={_rarity.type} title={_rarity.full}>{_rarity.text}</span>}</div>}
+						<h1 data-product-key={_trackerMatch?.name} data-deal-state={_dealState}>{_composedTitle}</h1>
 						<div class="meta">
 							<span class="author-byline">By <a href="/about/" rel="author">SignalDrop</a></span>
 							<span class="date">
@@ -1119,11 +1139,13 @@ const featuredDeals = isEvergreen ? allPosts
 
 					{/* Deal CTA Box — product widget style */}
 					{_showProductCta && affiliate && (dealPrice || discount || saleExpired || saleLapsed) && (
+						<>
+						<div class="deal-top-grid">
+						{imageStr && <div class="hero-image deal-hero"><img src={imageStr} alt={_trackerMatch?.name ?? title} loading="eager" fetchpriority="high" data-fallback="/images/default-placeholder.jpg" />{_dealOff > 0 && <span class="deal-image-off">-{_dealOff}%</span>}</div>}
 						<div class={`deal-cta-box${saleExpired ? ' sale-expired' : saleLapsed ? ' sale-expired sale-lapsed' : ''}`}>
 							{(saleExpired || _trackerSaysEnded || saleLapsed) ? (
 								<>
 									<div class="deal-expired-notice">{saleLapsed && !_trackerSaysEnded ? 'Our estimated sale window for this deal has passed — check the current price below' : 'This sale has ended — check current price below'}</div>
-									{dealSource && <div class="deal-source">Available via {dealSource}</div>}
 									<a href={_ctaHref} class="deal-cta-btn is-expired" target="_blank" rel="noopener sponsored">
 										{_ctaLabel}
 									</a>
@@ -1159,17 +1181,20 @@ const featuredDeals = isEvergreen ? allPosts
 											{_displayDiscount && !_trackerSaysEnded && (
 												<span class={`deal-save-badge${_isFreePrice ? ' is-free' : ''}`}>{_displayDiscount}</span>
 											)}
-											{allTimeLow && !_trackerSaysEnded && <span class="atl-badge">Lowest price we’ve tracked</span>}
 										</div>
 									)}
 									<DealFactBox fact={_fact} productName={productName} />
-									{dealSource && <div class="deal-source">Available via {dealSource}</div>}
 									<a href={_ctaHref} class="deal-cta-btn" target="_blank" rel="noopener sponsored" data-slug={currentSlug}>
 										{_ctaLabel}
 									</a>
 								</>
 							)}
 						</div>
+						</div>
+						{_dealTagline && <p class="deal-why">What it is: The manufacturer describes this product as “{_dealCopyRecord.tagline_source_quote}” <a href={_dealCopyRecord.tagline_source_url}>Source</a></p>}
+						{_rarity && <p class="deal-why">{_rarity.full}.</p>}
+						{_historyChips.length > 0 && <div class="deal-history-chips">{_historyChips.map(chip => <span>{chip}</span>)}</div>}
+						</>
 					)}
 
 					<!-- ON SALE NOW banner for when-does articles -->
@@ -1207,7 +1232,7 @@ const featuredDeals = isEvergreen ? allPosts
 
 					{isEvergreen && showGenericDealsBox && featuredDeals.length > 0 && (
 						<div class="pb-deals-box">
-							<div class="pb-deals-header">This week's top deals on Plugin Boutique</div>
+							<div class="pb-deals-header">More plugin deals this week</div>
 							<ul class="pb-deals-list">
 								{featuredDeals.map(deal => {
 									const dealsBoxUrl = pbLink(deal.data.affiliate, 'chan=home', { medium: 'deals-box', campaign: 'best-deals', data1: `${currentSlug}-deals-box` });
@@ -1277,7 +1302,7 @@ const featuredDeals = isEvergreen ? allPosts
 			</div>
 		) : (
 			<div class="sticky-cta sticky-cta-guide" id="sticky-cta">
-				<span class="sticky-title">Today's plugin deals — up to 90% off</span>
+				<span class="sticky-title">{_maxLiveOff ? `Today's plugin deals: up to ${_maxLiveOff}% off` : 'Browse current plugin deals'}</span>
 				<a href={`https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=sticky&utm_campaign=guide-cta&chan=home&data1=${currentSlug}-sticky-cta`} class="deal-cta-btn sticky-cta-link" target="_blank" rel="noopener sponsored">
 					Browse Deals →
 				</a>

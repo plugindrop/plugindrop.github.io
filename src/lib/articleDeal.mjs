@@ -64,6 +64,8 @@ function pbIdentity(url) {
  * in the article body (only when it resolves to exactly one entry).
  */
 export function findTrackerEntryForPost(post, entries, rawBody) {
+  const productKey = post?.data?.productKey;
+  if (productKey && entries[productKey]) return { name: productKey, entry: entries[productKey] };
   const alias = articleTrackerAliases[post?.id ?? post?.data?.articleSlug];
   if (alias) return entries[alias] ? { name: alias, entry: entries[alias] } : null;
   const trackedName = post?.data?.priceTrack?.[0];
