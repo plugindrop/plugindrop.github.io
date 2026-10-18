@@ -3298,5 +3298,1145 @@
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
     "reject_reason": "generic_or_ungrounded"
+  },
+  "Baby Audio Humanoid": {
+    "pbProductId": "12582",
+    "brand": null,
+    "product": "Baby Audio Humanoid",
+    "category": null,
+    "tagline": "Create robotic vocals with hard-tuning and wavetable synthesis",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/12582-Humanoid",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/12582-Humanoid",
+    "tagline_source_quote": "robotic vocals from any singing performance",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Baby Audio I Heart NY": {
+    "pbProductId": "5898",
+    "brand": null,
+    "product": "Baby Audio I Heart NY",
+    "category": "Compressor",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/5898-I-Heart-NY",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/5898-I-Heart-NY",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "banned_claim_or_price"
+  },
+  "Baby Audio IHNY-2": {
+    "pbProductId": "9542",
+    "brand": null,
+    "product": "Baby Audio IHNY-2",
+    "category": "Compressor",
+    "tagline": "Aggressive parallel compression for drums, mix buses, and mastering",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/9542-IHNY-2",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/9542-IHNY-2",
+    "tagline_source_quote": "drums, mix buses or even the master bus",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Baby Audio Magic Switch": {
+    "pbProductId": "6975",
+    "brand": null,
+    "product": "Baby Audio Magic Switch",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/11-Chorus/6975-Magic-Switch",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/11-Chorus/6975-Magic-Switch",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "generic_or_ungrounded"
+  },
+  "Baby Audio Parallel Aggressor": {
+    "pbProductId": "6639",
+    "brand": null,
+    "product": "Baby Audio Parallel Aggressor",
+    "category": "Compressor",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/6639-Parallel-Aggressor",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/6639-Parallel-Aggressor",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "generic_or_ungrounded"
+  },
+  "Baby Audio Smooth Operator Pro": {
+    "pbProductId": "14607",
+    "brand": null,
+    "product": "Baby Audio Smooth Operator Pro",
+    "category": null,
+    "tagline": "Tames masking and harsh resonances for clearer vocal mixes",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro",
+    "tagline_source_quote": "eliminating mud, harsh resonances and masking",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Baby Audio SubCulture": {
+    "pbProductId": "17589",
+    "brand": null,
+    "product": "Baby Audio SubCulture",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/17589-SubCulture",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/17589-SubCulture",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "generic_or_ungrounded"
+  },
+  "Baby Audio Super VHS": {
+    "pbProductId": "5900",
+    "brand": null,
+    "product": "Baby Audio Super VHS",
+    "category": "Effects",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/5900-Super-VHS",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/5900-Super-VHS",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "banned_claim_or_price"
+  },
+  "Baby Audio TAIP": {
+    "pbProductId": "8102",
+    "brand": null,
+    "product": "Baby Audio TAIP",
+    "category": "Saturation",
+    "tagline": "Add musical saturation and glue to drums and vocals",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/8102-TAIP",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/8102-TAIP",
+    "tagline_source_quote": "add musical saturation and glue to drums, instruments, vocals",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Baby Audio Tekno": {
+    "pbProductId": "15545",
+    "brand": null,
+    "product": "Baby Audio Tekno",
+    "category": null,
+    "tagline": "Creative sequencer for fast electronic beat generation",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/139-Drum-Synth/15545-Tekno",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/139-Drum-Synth/15545-Tekno",
+    "tagline_source_quote": "Fast beat generation",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Bismuth": {
+    "pbProductId": "17061",
+    "brand": null,
+    "product": "Bismuth",
+    "category": null,
+    "tagline": "Tune resonant filters to chords and scales for melodic textures",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17061-Bismuth",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17061-Bismuth",
+    "tagline_source_quote": "Tune resonant filters to any chord or scale",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Bloom Bass Impulse": {
+    "pbProductId": "11968",
+    "brand": null,
+    "product": "Bloom Bass Impulse",
+    "category": null,
+    "tagline": "BPM-synced bass loops with expressive modulation",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11968-Bloom-Bass-Impulse",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11968-Bloom-Bass-Impulse",
+    "tagline_source_quote": "14 bpm-synced bass loops",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Bloom Drum Breaks": {
+    "pbProductId": "11893",
+    "brand": null,
+    "product": "Bloom Drum Breaks",
+    "category": null,
+    "tagline": "BPM-synced drum loops with modulation and effects",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11893-Bloom-Drum-Breaks",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11893-Bloom-Drum-Breaks",
+    "tagline_source_quote": "bpm-synced drum loops",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Bloom Vocal Aether": {
+    "pbProductId": "11515",
+    "brand": null,
+    "product": "Bloom Vocal Aether",
+    "category": null,
+    "tagline": "Playable vocal phrases with BPM-synced triggering and effects",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11515-Bloom-Vocal-Aether",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11515-Bloom-Vocal-Aether",
+    "tagline_source_quote": "14 bpm-synced phrases",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Brusfri": {
+    "pbProductId": "8694",
+    "brand": null,
+    "product": "Brusfri",
+    "category": null,
+    "tagline": "Cleans noisy audio recordings with frequency-trimmed expanders",
+    "source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/51-Audio-Restoration-/8694-Brusfri",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/51-Audio-Restoration-/8694-Brusfri",
+    "tagline_source_quote": "Several frequency-trimmed expanders build an intelligent noise suppressor",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "CARBON": {
+    "pbProductId": "5842",
+    "brand": null,
+    "product": "CARBON",
+    "category": null,
+    "tagline": "Distorted 8-string guitar for electronic music and soundtracks",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/5842-CARBON",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/5842-CARBON",
+    "tagline_source_quote": "organic, distorted and processed rhythm guitar sounds",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cableguys Curve 2": {
+    "pbProductId": "632",
+    "brand": null,
+    "product": "Cableguys Curve 2",
+    "category": "Effects",
+    "tagline": "Custom waveforms for rhythmic wobbles and evolving pads",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/632-Curve-2",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/632-Curve-2",
+    "tagline_source_quote": "rhythmic from wobbles to FX loops and evolving pads",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cableguys x Excite Audio Bass Builder Bundle": {
+    "pbProductId": "15593",
+    "brand": null,
+    "product": "Cableguys x Excite Audio Bass Builder Bundle",
+    "category": null,
+    "tagline": "Breathe life into your mix bus",
+    "source_url": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15593-Cableguys-x-Excite-Audio-Bass-Builder-Bundle",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15593-Cableguys-x-Excite-Audio-Bass-Builder-Bundle",
+    "tagline_source_quote": "breathe life into your mix bus",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cherry Audio Atomika": {
+    "pbProductId": "13416",
+    "brand": null,
+    "product": "Cherry Audio Atomika",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/13416-Atomika",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/13416-Atomika",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "missing_or_long"
+  },
+  "Cherry Audio Blue3 Tonewheel Organ": {
+    "pbProductId": "13057",
+    "brand": null,
+    "product": "Cherry Audio Blue3 Tonewheel Organ",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/13057-Blue3-Tonewheel-Organ",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/13057-Blue3-Tonewheel-Organ",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "generic_or_ungrounded"
+  },
+  "Cherry Audio CA2600 Synthesizer": {
+    "pbProductId": "7033",
+    "brand": null,
+    "product": "Cherry Audio CA2600 Synthesizer",
+    "category": null,
+    "tagline": "Duophonic synth for chunky basses and cutting leads",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7033-CA2600-Synthesizer",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7033-CA2600-Synthesizer",
+    "tagline_source_quote": "capable of chunky basses, cutting leads",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cherry Audio CR 78 Drum Machine": {
+    "pbProductId": "11908",
+    "brand": null,
+    "product": "Cherry Audio CR 78 Drum Machine",
+    "category": null,
+    "tagline": "Modeled synthesis drums with 34 classic preset rhythms",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/11908-CR-78-Drum-Machine",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/11908-CR-78-Drum-Machine",
+    "tagline_source_quote": "uses modeled synthesis to recreate the original's classic tones",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cherry Audio Crumar Spirit": {
+    "pbProductId": "15451",
+    "brand": null,
+    "product": "Cherry Audio Crumar Spirit",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/15451-Crumar-Spirit",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/15451-Crumar-Spirit",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "missing_or_long"
+  },
+  "Cherry Audio DCO 106": {
+    "pbProductId": "6935",
+    "brand": null,
+    "product": "Cherry Audio DCO 106",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/6935-DCO-106",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/6935-DCO-106",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "banned_claim_or_price"
+  },
+  "Cherry Audio DCO-106": {
+    "pbProductId": "6935",
+    "brand": null,
+    "product": "Cherry Audio DCO-106",
+    "category": "Synth",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/6935-DCO-106",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/6935-DCO-106",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "banned_claim_or_price"
+  },
+  "Cherry Audio DS 2 Synthesizer": {
+    "pbProductId": "17088",
+    "brand": null,
+    "product": "Cherry Audio DS 2 Synthesizer",
+    "category": null,
+    "tagline": "Vintage digital synth with gritty tone and wild harmonics",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17088-DS-2-Synthesizer",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17088-DS-2-Synthesizer",
+    "tagline_source_quote": "gritty tone and wild harmonics",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cherry Audio Dreamsynth": {
+    "pbProductId": "8856",
+    "brand": null,
+    "product": "Cherry Audio Dreamsynth",
+    "category": null,
+    "tagline": "Hybrid synth with dual-wave oscillators and polyphonic strings",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/8856-Dreamsynth",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/8856-Dreamsynth",
+    "tagline_source_quote": "dual-wave morphing oscillators, stereo filters, fully polyphonic analog strings",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cherry Audio Eight Voice": {
+    "pbProductId": "7433",
+    "brand": null,
+    "product": "Cherry Audio Eight Voice",
+    "category": null,
+    "tagline": null,
+    "source_url": null,
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": null,
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "no_source",
+    "reject_reason": "source_empty"
+  },
+  "Cherry Audio Elka X": {
+    "pbProductId": "9504",
+    "brand": null,
+    "product": "Cherry Audio Elka X",
+    "category": null,
+    "tagline": "Vintage Synthex synth with modeled DCOs and dynamic filter",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9504-Elka-X",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9504-Elka-X",
+    "tagline_source_quote": "pristine vintage Synthex",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cherry Audio Ensoniq ESQ 1 Synthesizer": {
+    "pbProductId": "17462",
+    "brand": null,
+    "product": "Cherry Audio Ensoniq ESQ 1 Synthesizer",
+    "category": null,
+    "tagline": "Hybrid digital-analog synth with ESQ-1 waveforms and analog filters",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17462-Ensoniq-ESQ-1-Synthesizer",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17462-Ensoniq-ESQ-1-Synthesizer",
+    "tagline_source_quote": "original 32 ESQ-1 waveforms",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cherry Audio Filtomika": {
+    "pbProductId": "14150",
+    "brand": null,
+    "product": "Cherry Audio Filtomika",
+    "category": null,
+    "tagline": "Polivoks-inspired filter drive for drums, guitars, synths, and vocals",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/19-Filter/14150-Filtomika",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/19-Filter/14150-Filtomika",
+    "tagline_source_quote": "process any sound—whether it's drums, guitars, other synthesizers, or even vocals",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cherry Audio GX 80 Synthesizer": {
+    "pbProductId": "10001",
+    "brand": null,
+    "product": "Cherry Audio GX 80 Synthesizer",
+    "category": null,
+    "tagline": "Dual-layer GX-1 and CS-80 synthesizer with polyphonic aftertouch",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10001-GX-80-Synthesizer",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10001-GX-80-Synthesizer",
+    "tagline_source_quote": "All GX-1 and CS-80 voicing parameters reproduced",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cherry Audio GX-80": {
+    "pbProductId": "10001",
+    "brand": null,
+    "product": "Cherry Audio GX-80",
+    "category": "Synth",
+    "tagline": "GX-1 and CS-80 virtual synthesizer with dual layers",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10001-GX-80-Synthesizer",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10001-GX-80-Synthesizer",
+    "tagline_source_quote": "the GX-1 and CS-80",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cherry Audio Galactic Reverb": {
+    "pbProductId": "9260",
+    "brand": null,
+    "product": "Cherry Audio Galactic Reverb",
+    "category": null,
+    "tagline": "Classic digital reverb for guitars, drums, keys, and vocals",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/9260-Galactic-Reverb",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/9260-Galactic-Reverb",
+    "tagline_source_quote": "guitars, drums, keys, and even vocals",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cherry Audio Harmonia": {
+    "pbProductId": "11090",
+    "brand": null,
+    "product": "Cherry Audio Harmonia",
+    "category": null,
+    "tagline": "Evolving polyphonic tones from sample-based oscillators",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11090-Harmonia",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11090-Harmonia",
+    "tagline_source_quote": "rich, evolving polyphonic tones",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cherry Audio KR 55C Drum Machine": {
+    "pbProductId": "14523",
+    "brand": null,
+    "product": "Cherry Audio KR 55C Drum Machine",
+    "category": null,
+    "tagline": "Rhythms from both KR-55 models with effects",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/14523-KR-55C-Drum-Machine",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/14523-KR-55C-Drum-Machine",
+    "tagline_source_quote": "all the rhythms from both models",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cherry Audio Lowdown": {
+    "pbProductId": "9098",
+    "brand": null,
+    "product": "Cherry Audio Lowdown",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9098-Lowdown",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9098-Lowdown",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "missing_or_long"
+  },
+  "Cherry Audio Memorymode 2": {
+    "pbProductId": "17746",
+    "brand": null,
+    "product": "Cherry Audio Memorymode 2",
+    "category": null,
+    "tagline": "Dual-layer polyphonic synth with recreated ladder filter",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17746-Memorymode-2",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17746-Memorymode-2",
+    "tagline_source_quote": "Precisely recreated ladder filter",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cherry Audio Mercury 6": {
+    "pbProductId": "10332",
+    "brand": null,
+    "product": "Cherry Audio Mercury 6",
+    "category": null,
+    "tagline": "Analog Jupiter-6 synth sounds for techno and electro",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6",
+    "tagline_source_quote": "Jupiter-6 analog polyphonic synthesizer",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cherry Audio Mercury 8": {
+    "pbProductId": "16443",
+    "brand": null,
+    "product": "Cherry Audio Mercury 8",
+    "category": null,
+    "tagline": "JP-8 virtual analog synth with dual-layer 16-voice sound",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/16443-Mercury-8",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/16443-Mercury-8",
+    "tagline_source_quote": "virtual analog synthesis",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cherry Audio Mercury-4": {
+    "pbProductId": "8062",
+    "brand": null,
+    "product": "Cherry Audio Mercury-4",
+    "category": "Synth",
+    "tagline": "Raw raunchy synth tones with stereo ensemble and tape echo",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/8062-Mercury-4",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/8062-Mercury-4",
+    "tagline_source_quote": "raw, raunchy tone",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cherry Audio Miniverse": {
+    "pbProductId": "9030",
+    "brand": null,
+    "product": "Cherry Audio Miniverse",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9030-Miniverse",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9030-Miniverse",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "banned_claim_or_price"
+  },
+  "Cherry Audio ODC 2800 Synthesizer": {
+    "pbProductId": "15107",
+    "brand": null,
+    "product": "Cherry Audio ODC 2800 Synthesizer",
+    "category": null,
+    "tagline": "ARP Odyssey Mk I–III vintage analog tones",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/15107-ODC-2800-Synthesizer",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/15107-ODC-2800-Synthesizer",
+    "tagline_source_quote": "vintage analog tones",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cherry Audio Octave Cat": {
+    "pbProductId": "10885",
+    "brand": null,
+    "product": "Cherry Audio Octave Cat",
+    "category": null,
+    "tagline": "Emulates 1976 CAT with aggressive resonant filter and oscillator sync",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10885-Octave-Cat",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10885-Octave-Cat",
+    "tagline_source_quote": "aggressive resonant filter",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cherry Audio P 10 Synthesizer": {
+    "pbProductId": "14055",
+    "brand": null,
+    "product": "Cherry Audio P 10 Synthesizer",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/14055-P-10-Synthesizer",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/14055-P-10-Synthesizer",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "missing_or_long"
+  },
+  "Cherry Audio PS-20": {
+    "pbProductId": "7618",
+    "brand": null,
+    "product": "Cherry Audio PS-20",
+    "category": "Synth",
+    "tagline": "MS-style highpass and lowpass filters with 16-voice polyphony",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7618-PS-20",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7618-PS-20",
+    "tagline_source_quote": "MS-style highpass and lowpass filters",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cherry Audio Pentaphonic": {
+    "pbProductId": "17987",
+    "brand": null,
+    "product": "Cherry Audio Pentaphonic",
+    "category": null,
+    "tagline": "Early-80s DCO synth with 16x4 polyphonic step sequencer",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17987-Pentaphonic",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17987-Pentaphonic",
+    "tagline_source_quote": "16x4 pattern polyphonic step sequencer",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cherry Audio Polymode": {
+    "pbProductId": "7310",
+    "brand": null,
+    "product": "Cherry Audio Polymode",
+    "category": null,
+    "tagline": "Moog Polymoog-inspired evolving string, pad, and choral tones",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7310-Polymode",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7310-Polymode",
+    "tagline_source_quote": "animated, sonically evolving string, pad, and choral tones",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cherry Audio Pro Soloist": {
+    "pbProductId": "11669",
+    "brand": null,
+    "product": "Cherry Audio Pro Soloist",
+    "category": null,
+    "tagline": "ARP-based analog synth with dual-layer polyphonic voices",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11669-Pro-Soloist",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11669-Pro-Soloist",
+    "tagline_source_quote": "dual-layer voicing architecture, with 16 polyphonic voices per layer",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cherry Audio Quadra": {
+    "pbProductId": "8402",
+    "brand": null,
+    "product": "Cherry Audio Quadra",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/8402-Quadra",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/8402-Quadra",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "banned_claim_or_price"
+  },
+  "Cherry Audio SH MAX": {
+    "pbProductId": "16799",
+    "brand": null,
+    "product": "Cherry Audio SH MAX",
+    "category": null,
+    "tagline": "SH-series synth plugin for bass lines, leads, and rich chords",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/16799-SH-MAX",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/16799-SH-MAX",
+    "tagline_source_quote": "its bass lines and leads",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cherry Audio Stardust 201 Tape Echo": {
+    "pbProductId": "8125",
+    "brand": null,
+    "product": "Cherry Audio Stardust 201 Tape Echo",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/49-Echo/8125-Stardust-201-Tape-Echo",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/49-Echo/8125-Stardust-201-Tape-Echo",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "generic_or_ungrounded"
+  },
+  "Cherry Audio Surrealistic MG 1 Plus Synthesizer": {
+    "pbProductId": "7117",
+    "brand": null,
+    "product": "Cherry Audio Surrealistic MG 1 Plus Synthesizer",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7117-Surrealistic-MG-1-Plus-Synthesizer",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7117-Surrealistic-MG-1-Plus-Synthesizer",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "banned_claim_or_price"
+  },
+  "Cherry Audio Synthesizer Expander Module": {
+    "pbProductId": "12169",
+    "brand": null,
+    "product": "Cherry Audio Synthesizer Expander Module",
+    "category": null,
+    "tagline": "Classic Oberheim filter emulation with Phasor effect",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/12169-Synthesizer-Expander-Module",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/12169-Synthesizer-Expander-Module",
+    "tagline_source_quote": "filter section and Phasor effect",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cherry Audio Trident Mk III Synthesizer": {
+    "pbProductId": "15842",
+    "brand": null,
+    "product": "Cherry Audio Trident Mk III Synthesizer",
+    "category": null,
+    "tagline": "Recreated Synthesizer, Brass, and Strings sections with 16 voices each",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/15842-Trident-Mk-III-Synthesizer",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/15842-Trident-Mk-III-Synthesizer",
+    "tagline_source_quote": "Synthesizer, Brass, and Strings",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Cherry Audio Voltage Modular Core + Electro Drums": {
+    "pbProductId": "5033",
+    "brand": null,
+    "product": "Cherry Audio Voltage Modular Core + Electro Drums",
+    "category": "Synth",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5033-Voltage-Modular-Core-Electro-Drums",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5033-Voltage-Modular-Core-Electro-Drums",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "missing_or_long"
+  },
+  "Cherry Audio Voltage Modular Ignite": {
+    "pbProductId": "5034",
+    "brand": null,
+    "product": "Cherry Audio Voltage Modular Ignite",
+    "category": null,
+    "tagline": "45 modules and 296 presets for modular synthesis",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5034-Voltage-Modular-Ignite",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5034-Voltage-Modular-Ignite",
+    "tagline_source_quote": "45 modules and 296 presets are included",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
   }
 }
