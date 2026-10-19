@@ -1279,26 +1279,6 @@
     "status": "ok",
     "reject_reason": null
   },
-  "Soundtoys Decapitator": {
-    "pbProductId": "1801",
-    "brand": null,
-    "product": "Soundtoys Decapitator",
-    "category": "Saturation",
-    "tagline": null,
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/44-Saturation/1801-Decapitator",
-    "retrieved": "2026-10-18",
-    "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
-    },
-    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/44-Saturation/1801-Decapitator",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-18",
-    "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "quote_not_in_source"
-  },
   "SubLab XL": {
     "pbProductId": "9354",
     "brand": null,
@@ -9919,26 +9899,6 @@
     "status": "rejected",
     "reject_reason": "component_only"
   },
-  "SSL Native X-Comp": {
-    "pbProductId": "8664",
-    "brand": null,
-    "product": "SSL Native X-Comp",
-    "category": null,
-    "tagline": null,
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/8664-SSL-Native-X-Comp",
-    "retrieved": "2026-10-19",
-    "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
-    },
-    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/8664-SSL-Native-X-Comp",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
-    "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "banned_claim_or_price"
-  },
   "SSL Native X-Echo": {
     "pbProductId": "8674",
     "brand": null,
@@ -10219,6 +10179,86 @@
     "status": "rejected",
     "reject_reason": "component_only"
   },
+  "X-DynEQ": {
+    "pbProductId": "12266",
+    "brand": null,
+    "product": "X-DynEQ",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/12266-X-DynEQ",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/12266-X-DynEQ",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "generic_or_ungrounded"
+  },
+  "SSL Native X-Comp": {
+    "pbProductId": "8664",
+    "brand": null,
+    "product": "SSL Native X-Comp",
+    "category": null,
+    "tagline": "Analogue-feel mastering compression with dual-knee shaping",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/8664-SSL-Native-X-Comp",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/8664-SSL-Native-X-Comp",
+    "tagline_source_quote": "Dual symmetrical knee design for detailed compression shaping",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Soundtoys Decapitator": {
+    "pbProductId": "1801",
+    "brand": null,
+    "product": "Soundtoys Decapitator",
+    "category": "Saturation",
+    "tagline": "Hardware-modelled saturation for vocals, drums, guitars, and synths",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/44-Saturation/1801-Decapitator",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/44-Saturation/1801-Decapitator",
+    "tagline_source_quote": "vocals, drums, guitars, synths",
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "u-he Zebra 3": {
+    "pbProductId": "17180",
+    "brand": null,
+    "product": "u-he Zebra 3",
+    "category": "Synth",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17180-Zebra-3",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17180-Zebra-3",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "banned_claim_or_price"
+  },
   "Waves Abbey Road Reverb Plates": {
     "pbProductId": "13698",
     "brand": null,
@@ -10239,24 +10279,44 @@
     "status": "rejected",
     "reject_reason": "banned_claim_or_price"
   },
-  "X-DynEQ": {
-    "pbProductId": "12266",
+  "Addictive Drums 2 Custom XXL Collection": {
+    "pbProductId": "8238",
     "brand": null,
-    "product": "X-DynEQ",
+    "product": "Addictive Drums 2 Custom XXL Collection",
     "category": null,
     "tagline": null,
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/12266-X-DynEQ",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8238-Addictive-Drums-2-Custom-XXL-Collection",
     "retrieved": "2026-10-19",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
       "lint_pass": false
     },
-    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/12266-X-DynEQ",
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8238-Addictive-Drums-2-Custom-XXL-Collection",
     "tagline_source_quote": null,
     "tagline_checked": "2026-10-19",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "reject_reason": "component_only"
+  },
+  "INTENSITY 2": {
+    "pbProductId": "14846",
+    "brand": null,
+    "product": "INTENSITY 2",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "missing_or_long"
   }
 }
