@@ -42648,6 +42648,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-10-19",
+          "sale": 29.99,
+          "regular": 199.99,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/modo-bass-2.jpg"
@@ -73772,6 +73781,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-10-19",
+          "sale": 149.99,
+          "regular": 599.99,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/total-studio-5-max.jpg"
@@ -99552,6 +99570,15 @@
           "source": "auto_check",
           "store": "plugin_boutique",
           "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-10-19",
+          "sale": 29.99,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
           "cur": "USD"
         }
       ]
