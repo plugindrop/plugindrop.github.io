@@ -17,6 +17,7 @@ import { pdAttr } from '../../lib/interestTaxonomy.mjs';
 import productVideosRaw from '../../data/product_videos.json';
 import { latestCheckedDate, formatCheckedDate, dealScoreNumeric, isSearchUrl, pbLink, currentPriceOf, regularPriceOf, formatPrice } from '../../lib/priceUtils';
 import { isPricePageIndexable, slugifyProduct, listSaleEpisodes, MIN_SALE_EPISODES } from '../../lib/indexPolicy.mjs';
+import { uniquePricePaths } from '../../lib/uniquePricePaths.mjs';
 import { comparablePrices, lowestSeen } from '../../lib/priceBasis.mjs';
 import { buildPageFacts, buildDecisionAnswers, buildResearchNote, buildCoverageLine, summarizeVerdict, alertTarget, sameCategoryPeers } from '../../lib/priceInsights.mjs';
 import { getCollection } from 'astro:content';
@@ -90,7 +91,7 @@ export async function getStaticPaths() {
   for (const [n, e] of Object.entries(_plugins)) rows.push({ name: n, kind: 'plugin', entry: e, guides: [] });
   for (const [n, e] of Object.entries(_bundles)) rows.push({ name: n, kind: 'bundle', entry: e, guides: [] });
 
-  return rows.map(({ name, kind, entry }) => ({
+  return uniquePricePaths(rows).map(({ name, kind, entry }) => ({
     params: { slug: slugifyProduct(name) },
     props: { name, kind, entry, guides: findGuides(name) },
   }));
@@ -376,14 +377,15 @@ const productLD: Record<string, unknown> = {
 // Google に「現在の販売価格」として渡さない（Live Drops と同じ鮮度規律）。
 const freshObs = (() => {
   const obs = entry.history
-    .filter((h) => h.source === 'auto_check' && (h.sale ?? h.regular) !== null)
+    .filter((h) => h.source === 'auto_check')
     .sort((a, b) => (a.date < b.date ? -1 : 1))
     .at(-1);
-  if (!obs) return null;
+  if (!obs || (obs.sale ?? obs.regular) === null) return null;
   const age = Date.now() - new Date(`${obs.date}T00:00:00Z`).getTime();
   return age >= 0 && age <= 7 * 86400000 ? (obs.sale ?? obs.regular) : null;
 })();
-if (freshObs !== null && entry.pb_url && !isSearchUrl(entry.pb_url)) {
+const hasVerifiedOffer = freshObs !== null && entry.pb_url && !isSearchUrl(entry.pb_url);
+if (hasVerifiedOffer) {
   productLD.offers = {
     "@type": "Offer",
     "price": freshObs,
@@ -409,7 +411,7 @@ const faqLD = {
   <head>
     <BaseHead title={pageTitle} description={pageDescription} noindex={!isPricePageIndexable(entry)} />
 		{pdAttr({ title: name, extra: entry.category ?? '' }) && <meta name="pd-interests" content={pdAttr({ title: name, extra: entry.category ?? '' })} />}
-    <script type="application/ld+json" set:html={JSON.stringify(productLD)} />
+    {hasVerifiedOffer && <script type="application/ld+json" set:html={JSON.stringify(productLD)} />}
     <script type="application/ld+json" set:html={JSON.stringify(faqLD)} />
     <style>
       main { max-width: 960px; margin: 0 auto; padding: 2rem 1rem 3rem; }

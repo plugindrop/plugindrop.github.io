@@ -6,6 +6,7 @@ export function validatedTagline(record) {
   if (/de.ess/i.test(record.tagline) && !/de.ess/i.test(record.tagline_source_quote)) return null;
   if (/\b(?:experimental spatial reverb|hard.tuning and voice manipulation|lo.fi effects for guitar|plate reverb for drums)\b/i.test(record.tagline)) return null;
   if (/\b(?:pristine|huge|massive|transparent|mastering.grade|confidence|professional(?:.quality)?|louder|deeper|bright|present|extreme|smooth|clean|punchy|fat|lush|warm|best|amazing|incredible|legendary|iconic|essential|ultimate|perfect)\b/i.test(record.tagline)) return null;
+  if (/\b(?:medium fast attack|medium fast release|mono drum room phasing|before the original sound|gentle passive eq shaping|orchestral scoring|classic steinway model d|(?:19|20)\d{2}\s+(?:synth|five.voice))\b/i.test(record.tagline)) return null;
   return record.tagline.trim();
 }
 

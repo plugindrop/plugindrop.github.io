@@ -20,7 +20,7 @@ export function urgencyTag(entry, now) {
   if (!latest?.until || !/^\d{4}-\d{2}-\d{2}$/.test(latest.until)) return null;
   const days = Math.round((dateMs(latest.until) - dateMs(new Date(now + 9 * 3600000).toISOString().slice(0, 10))) / DAY);
   if (days < 0 || days > 21) return null;
-  return days === 0 ? { type: 'ends-today', text: 'Ends today' } : days <= 3 ? { type: 'ends-soon', text: `Ends in ${days} ${days === 1 ? 'day' : 'days'}` } : { type: 'ends-on', text: `Ends ${dateText(latest.until)}` };
+  return { type: days === 0 ? 'ends-today' : days <= 3 ? 'ends-soon' : 'ends-on', text: `Ends ${dateText(latest.until)}` };
 }
 
 export function rarityTag(entry, now) {

@@ -376,8 +376,8 @@ const _videoId = _videoMatch ? _videoMatch[1] : null;
 const videoLD = _videoId ? {
 	"@context": "https://schema.org",
 	"@type": "VideoObject",
-	"name": title,
-	"description": description,
+	"name": `${_dealProduct || _trackerMatch?.name || _composedTitle.replace(/\b\d{1,3}%\s*Off\b/ig, '').trim()} demo`,
+	"description": `${_dealProduct || _trackerMatch?.name || _composedTitle.replace(/\b\d{1,3}%\s*Off\b/ig, '').trim()} demo`,
 	"thumbnailUrl": `https://img.youtube.com/vi/${_videoId}/maxresdefault.jpg`,
 	"uploadDate": pubDate.toISOString(),
 	"contentUrl": `https://www.youtube.com/watch?v=${_videoId}`,
