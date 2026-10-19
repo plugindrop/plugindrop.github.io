@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18",
+  "generated_at": "2026-10-19",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,21 +10,31 @@
       "month": "2026-10",
       "label": "October 2026",
       "is_current": true,
-      "generated_at": "2026-10-18",
-      "observations": 1883,
-      "products_tracked": 508,
-      "products_on_sale": 181,
-      "on_sale_pct": 35.6,
-      "avg_discount_pct": 57.6,
-      "median_discount_pct": 61,
+      "generated_at": "2026-10-19",
+      "observations": 2022,
+      "products_tracked": 524,
+      "products_on_sale": 199,
+      "on_sale_pct": 38.0,
+      "avg_discount_pct": 56.9,
+      "median_discount_pct": 60,
       "discount_buckets": {
-        "1-19": 10,
-        "20-39": 28,
-        "40-59": 46,
-        "60+": 97
+        "1-19": 12,
+        "20-39": 34,
+        "40-59": 49,
+        "60+": 104
       },
-      "all_time_low_hits": 135,
+      "all_time_low_hits": 152,
       "deepest_discounts": [
+        {
+          "name": "Solid State Logic SSL Fusion Bundle",
+          "slug": "solid-state-logic-ssl-fusion-bundle",
+          "category": "Other",
+          "regular": 999.5,
+          "sale": 49.99,
+          "pct_off": 95,
+          "date": "2026-10-18",
+          "pb_url": "/product/81-Bundles/39-Effects-Bundles/14036-Solid-State-Logic-SSL-Fusion-Bundle"
+        },
         {
           "name": "TOTAL VI MAX 2",
           "slug": "total-vi-max-2",
@@ -146,6 +156,16 @@
           "pb_url": "/product/2-Effects/16-EQ/8665-SSL-Native-X-EQ-2"
         },
         {
+          "name": "TOTAL Guitar MAX",
+          "slug": "total-guitar-max",
+          "category": "Other",
+          "regular": 1019.93,
+          "sale": 99.99,
+          "pct_off": 90,
+          "date": "2026-10-18",
+          "pb_url": "/product/81-Bundles/97-Various-Category/17062-TOTAL-Guitar-MAX"
+        },
+        {
           "name": "Waves Platinum Bundle",
           "slug": "waves-platinum-bundle",
           "category": "Bundle",
@@ -154,29 +174,16 @@
           "pct_off": 90,
           "date": "2026-10-12",
           "pb_url": "/product/81-Bundles/84-Mix-Master/12542-Platinum-Bundle"
-        },
-        {
-          "name": "Softube Producer Collection Exclusive",
-          "slug": "softube-producer-collection-exclusive",
-          "category": "Other",
-          "regular": 1359.0,
-          "sale": 149.0,
-          "pct_off": 89,
-          "date": "2026-10-06",
-          "pb_url": "/product/81-Bundles/84-Mix-Master/15255-Softube-Producer-Collection-Exclusive-"
-        },
-        {
-          "name": "AmpliTube 5",
-          "slug": "amplitube-5",
-          "category": "Other",
-          "regular": 199.0,
-          "sale": 29.99,
-          "pct_off": 85,
-          "date": "2026-10-09",
-          "pb_url": "/product/2-Effects/18-Amp-Simulator/12669-AmpliTube-5"
         }
       ],
       "all_time_low_products": [
+        {
+          "name": "Solid State Logic SSL Fusion Bundle",
+          "slug": "solid-state-logic-ssl-fusion-bundle",
+          "sale": 49.99,
+          "all_time_low": 49.99,
+          "date": "2026-10-18"
+        },
         {
           "name": "TOTAL VI MAX 2",
           "slug": "total-vi-max-2",
@@ -255,6 +262,13 @@
           "date": "2026-10-16"
         },
         {
+          "name": "TOTAL Guitar MAX",
+          "slug": "total-guitar-max",
+          "sale": 99.99,
+          "all_time_low": 99.99,
+          "date": "2026-10-18"
+        },
+        {
           "name": "Softube Producer Collection Exclusive",
           "slug": "softube-producer-collection-exclusive",
           "sale": 149.0,
@@ -262,34 +276,20 @@
           "date": "2026-10-06"
         },
         {
-          "name": "AmpliTube 5",
-          "slug": "amplitube-5",
-          "sale": 29.99,
-          "all_time_low": 29.99,
-          "date": "2026-10-09"
-        },
-        {
-          "name": "Empirical Labs EL8 Distressor Compressor",
-          "slug": "empirical-labs-el8-distressor-compressor",
-          "sale": 29.0,
-          "all_time_low": 29.0,
-          "date": "2026-10-01"
-        },
-        {
-          "name": "MODO BASS 2",
-          "slug": "modo-bass-2",
-          "sale": 29.99,
-          "all_time_low": 29.99,
-          "date": "2026-10-01"
+          "name": "SSL Greatest Hits Bundle",
+          "slug": "ssl-greatest-hits-bundle",
+          "sale": 49.0,
+          "all_time_low": 49.0,
+          "date": "2026-10-18"
         }
       ],
       "by_category": [
         {
           "category": "Other",
-          "tracked": 356,
-          "on_sale": 135,
-          "on_sale_pct": 37.9,
-          "avg_discount_pct": 60.5
+          "tracked": 372,
+          "on_sale": 152,
+          "on_sale_pct": 40.9,
+          "avg_discount_pct": 59.4
         },
         {
           "category": "Synth",
@@ -329,9 +329,9 @@
         {
           "category": "Reverb",
           "tracked": 11,
-          "on_sale": 5,
-          "on_sale_pct": 45.5,
-          "avg_discount_pct": 66
+          "on_sale": 6,
+          "on_sale_pct": 54.5,
+          "avg_discount_pct": 59.2
         },
         {
           "category": "Saturation",
@@ -393,10 +393,10 @@
       "by_brand": [
         {
           "category": "Other",
-          "tracked": 164,
-          "on_sale": 86,
-          "on_sale_pct": 52.4,
-          "avg_discount_pct": 61.1
+          "tracked": 180,
+          "on_sale": 102,
+          "on_sale_pct": 56.7,
+          "avg_discount_pct": 59.7
         },
         {
           "category": "Universal Audio",
@@ -436,9 +436,9 @@
         {
           "category": "FabFilter",
           "tracked": 16,
-          "on_sale": 7,
-          "on_sale_pct": 43.8,
-          "avg_discount_pct": 17.4
+          "on_sale": 8,
+          "on_sale_pct": 50.0,
+          "avg_discount_pct": 18.4
         },
         {
           "category": "Baby Audio",
@@ -492,9 +492,9 @@
         {
           "category": "u-he",
           "tracked": 10,
-          "on_sale": 1,
-          "on_sale_pct": 10.0,
-          "avg_discount_pct": 9
+          "on_sale": 2,
+          "on_sale_pct": 20.0,
+          "avg_discount_pct": 19.5
         },
         {
           "category": "Output",
@@ -618,16 +618,16 @@
       ],
       "vs_previous_month": {
         "month": "2026-09",
-        "on_sale_pct_delta": -18.6,
-        "avg_discount_pct_delta": -0.2,
-        "products_tracked_delta": -9
+        "on_sale_pct_delta": -16.2,
+        "avg_discount_pct_delta": -0.9,
+        "products_tracked_delta": 7
       }
     },
     {
       "month": "2026-09",
       "label": "September 2026",
       "is_current": false,
-      "generated_at": "2026-10-18",
+      "generated_at": "2026-10-19",
       "observations": 3603,
       "products_tracked": 517,
       "products_on_sale": 280,
@@ -1258,7 +1258,7 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-10-18",
+      "generated_at": "2026-10-19",
       "observations": 3587,
       "products_tracked": 425,
       "products_on_sale": 258,
@@ -1854,7 +1854,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-10-18",
+      "generated_at": "2026-10-19",
       "observations": 1968,
       "products_tracked": 289,
       "products_on_sale": 142,
