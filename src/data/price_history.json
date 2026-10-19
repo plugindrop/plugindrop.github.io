@@ -100082,6 +100082,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-01"
+        },
+        {
+          "date": "2026-10-19",
+          "sale": 49.0,
+          "regular": 397.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/ssl-greatest-hits-bundle.jpg"
