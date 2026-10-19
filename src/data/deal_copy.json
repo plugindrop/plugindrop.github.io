@@ -10259,26 +10259,6 @@
     "status": "rejected",
     "reject_reason": "banned_claim_or_price"
   },
-  "Waves Abbey Road Reverb Plates": {
-    "pbProductId": "13698",
-    "brand": null,
-    "product": "Waves Abbey Road Reverb Plates",
-    "category": "Reverb",
-    "tagline": null,
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/13698-Abbey-Road-Reverb-Plates",
-    "retrieved": "2026-10-19",
-    "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
-    },
-    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/13698-Abbey-Road-Reverb-Plates",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
-    "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "banned_claim_or_price"
-  },
   "Addictive Drums 2 Custom XXL Collection": {
     "pbProductId": "8238",
     "brand": null,
@@ -10318,5 +10298,105 @@
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
     "reject_reason": "missing_or_long"
+  },
+  "KORG Collection 6": {
+    "pbProductId": "16094",
+    "brand": null,
+    "product": "KORG Collection 6",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16094-KORG-Collection-6",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16094-KORG-Collection-6",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "component_only"
+  },
+  "Addictive Drums 2 Custom Collection": {
+    "pbProductId": "8236",
+    "brand": null,
+    "product": "Addictive Drums 2 Custom Collection",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8236-Addictive-Drums-2-Custom-Collection",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8236-Addictive-Drums-2-Custom-Collection",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "component_only"
+  },
+  "Addictive Drums 2 Custom XL Collection": {
+    "pbProductId": "8237",
+    "brand": null,
+    "product": "Addictive Drums 2 Custom XL Collection",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8237-Addictive-Drums-2-Custom-XL-Collection",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8237-Addictive-Drums-2-Custom-XL-Collection",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "component_only"
+  },
+  "Waves Abbey Road Reverb Plates": {
+    "pbProductId": "13698",
+    "brand": null,
+    "product": "Waves Abbey Road Reverb Plates",
+    "category": "Reverb",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/13698-Abbey-Road-Reverb-Plates",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/13698-Abbey-Road-Reverb-Plates",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "banned_claim_or_price"
+  },
+  "Cherry Audio Year One Collection": {
+    "pbProductId": "5595",
+    "brand": null,
+    "product": "Cherry Audio Year One Collection",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5595-Cherry-Audio-Year-One-Collection",
+    "retrieved": "2026-10-19",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5595-Cherry-Audio-Year-One-Collection",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-19",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "component_only"
   }
 }
