@@ -10398,5 +10398,545 @@
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
     "reject_reason": "component_only"
+  },
+  "Drum Machine Collection": {
+    "pbProductId": "15283",
+    "brand": null,
+    "product": "Drum Machine Collection",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15283-Drum-Machine-Collection",
+    "retrieved": "2026-10-20",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15283-Drum-Machine-Collection",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "component_only"
+  },
+  "DynOne": {
+    "pbProductId": "5251",
+    "brand": null,
+    "product": "DynOne",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/5251-DynOne",
+    "retrieved": "2026-10-20",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/5251-DynOne",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "JSONDecodeError"
+  },
+  "FabFilter Simplon": {
+    "pbProductId": "930",
+    "brand": null,
+    "product": "FabFilter Simplon",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/19-Filter/930-FabFilter-Simplon",
+    "retrieved": "2026-10-20",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/19-Filter/930-FabFilter-Simplon",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "JSONDecodeError"
+  },
+  "JD 800": {
+    "pbProductId": "15315",
+    "brand": null,
+    "product": "JD 800",
+    "category": null,
+    "tagline": null,
+    "source_url": null,
+    "retrieved": "2026-10-20",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": null,
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "no_source",
+    "reject_reason": "source_empty"
+  },
+  "KOMPLETE Synthesizer Collection": {
+    "pbProductId": "12033",
+    "brand": null,
+    "product": "KOMPLETE Synthesizer Collection",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/12033-KOMPLETE-Synthesizer-Collection",
+    "retrieved": "2026-10-20",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/12033-KOMPLETE-Synthesizer-Collection",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "JSONDecodeError"
+  },
+  "MetaTune": {
+    "pbProductId": "15799",
+    "brand": null,
+    "product": "MetaTune",
+    "category": null,
+    "tagline": "Automatic tuner for vocals and instruments with negative speed FX",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15799-MetaTune",
+    "retrieved": "2026-10-20",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15799-MetaTune",
+    "tagline_source_quote": "Powerful automatic tuner for vocals and instruments with natural or extreme FX",
+    "tagline_checked": "2026-10-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null
+  },
+  "Minimal Audio Current Essential Bundle": {
+    "pbProductId": "17049",
+    "brand": null,
+    "product": "Minimal Audio Current Essential Bundle",
+    "category": null,
+    "tagline": null,
+    "source_url": null,
+    "retrieved": "2026-10-20",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": null,
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "no_source",
+    "reject_reason": "source_empty"
+  },
+  "Minimal Audio Flex Chorus": {
+    "pbProductId": "12037",
+    "brand": null,
+    "product": "Minimal Audio Flex Chorus",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/11-Chorus/12037-Flex-Chorus",
+    "retrieved": "2026-10-20",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/11-Chorus/12037-Flex-Chorus",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "banned_claim_or_price"
+  },
+  "Minimal Audio Formant": {
+    "pbProductId": "15630",
+    "brand": null,
+    "product": "Minimal Audio Formant",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15630-Formant",
+    "retrieved": "2026-10-20",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15630-Formant",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "JSONDecodeError"
+  },
+  "Minimal Audio x Excite Audio Effects Bundle Exclusive": {
+    "pbProductId": "15335",
+    "brand": null,
+    "product": "Minimal Audio x Excite Audio Effects Bundle Exclusive",
+    "category": null,
+    "tagline": null,
+    "source_url": null,
+    "retrieved": "2026-10-20",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": null,
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "no_source",
+    "reject_reason": "source_empty"
+  },
+  "Native Instruments Guitar Rig 7 Pro": {
+    "pbProductId": "11108",
+    "brand": null,
+    "product": "Native Instruments Guitar Rig 7 Pro",
+    "category": "Effects",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/11108-Guitar-Rig-7-Pro",
+    "retrieved": "2026-10-20",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/11108-Guitar-Rig-7-Pro",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "JSONDecodeError"
+  },
+  "Plugin Alliance Lindell 80 Series": {
+    "pbProductId": "14090",
+    "brand": null,
+    "product": "Plugin Alliance Lindell 80 Series",
+    "category": "Effects",
+    "tagline": null,
+    "source_url": null,
+    "retrieved": "2026-10-20",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": null,
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "no_source",
+    "reject_reason": "source_empty"
+  },
+  "Plugin Alliance Maag EQ4": {
+    "pbProductId": "10525",
+    "brand": null,
+    "product": "Plugin Alliance Maag EQ4",
+    "category": "EQ",
+    "tagline": null,
+    "source_url": null,
+    "retrieved": "2026-10-20",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": null,
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "no_source",
+    "reject_reason": "source_empty"
+  },
+  "Plugin Alliance SPL Vitalizer": {
+    "pbProductId": "15518",
+    "brand": null,
+    "product": "Plugin Alliance SPL Vitalizer",
+    "category": "Mastering",
+    "tagline": null,
+    "source_url": null,
+    "retrieved": "2026-10-20",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": null,
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "no_source",
+    "reject_reason": "source_empty"
+  },
+  "ReSing MAX": {
+    "pbProductId": "15737",
+    "brand": null,
+    "product": "ReSing MAX",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15737-ReSing-MAX",
+    "retrieved": "2026-10-20",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15737-ReSing-MAX",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "JSONDecodeError"
+  },
+  "Roland Vintage Keys Essentials Bundle": {
+    "pbProductId": "17344",
+    "brand": null,
+    "product": "Roland Vintage Keys Essentials Bundle",
+    "category": null,
+    "tagline": null,
+    "source_url": null,
+    "retrieved": "2026-10-20",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": null,
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "no_source",
+    "reject_reason": "source_empty"
+  },
+  "Sonible smart:limit": {
+    "pbProductId": "8476",
+    "brand": null,
+    "product": "Sonible smart:limit",
+    "category": "Limiter",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/8476-smart-limit",
+    "retrieved": "2026-10-20",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/8476-smart-limit",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "JSONDecodeError"
+  },
+  "Soundtoys Devil-Loc Deluxe": {
+    "pbProductId": "1803",
+    "brand": null,
+    "product": "Soundtoys Devil-Loc Deluxe",
+    "category": "Compressor",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/1803-Devil-Loc-Deluxe",
+    "retrieved": "2026-10-20",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/1803-Devil-Loc-Deluxe",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "JSONDecodeError"
+  },
+  "Soundtoys Sie Q": {
+    "pbProductId": "4717",
+    "brand": null,
+    "product": "Soundtoys Sie Q",
+    "category": null,
+    "tagline": null,
+    "source_url": null,
+    "retrieved": "2026-10-20",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": null,
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "no_source",
+    "reject_reason": "source_empty"
+  },
+  "UAD LA-2A Collection": {
+    "pbProductId": "10154",
+    "brand": null,
+    "product": "UAD LA-2A Collection",
+    "category": "Compressor",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10154-Teletronix-LA-2A-Leveler-Collection",
+    "retrieved": "2026-10-20",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10154-Teletronix-LA-2A-Leveler-Collection",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "JSONDecodeError"
+  },
+  "UAD Teletronix LA 2A Leveler Collection": {
+    "pbProductId": "10154",
+    "brand": null,
+    "product": "UAD Teletronix LA 2A Leveler Collection",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10154-Teletronix-LA-2A-Leveler-Collection",
+    "retrieved": "2026-10-20",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10154-Teletronix-LA-2A-Leveler-Collection",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "component_only"
+  },
+  "Virtual Guitarist Bundle": {
+    "pbProductId": "11881",
+    "brand": null,
+    "product": "Virtual Guitarist Bundle",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11881-Virtual-Guitarist-Bundle",
+    "retrieved": "2026-10-20",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11881-Virtual-Guitarist-Bundle",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "JSONDecodeError"
+  },
+  "XLN Audio Addictive Drums 2 Custom": {
+    "pbProductId": "8236",
+    "brand": null,
+    "product": "XLN Audio Addictive Drums 2 Custom",
+    "category": "Drums",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8236-Addictive-Drums-2-Custom-Collection",
+    "retrieved": "2026-10-20",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8236-Addictive-Drums-2-Custom-Collection",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "JSONDecodeError"
+  },
+  "iZotope Ozone 12 Elements": {
+    "pbProductId": "15508",
+    "brand": null,
+    "product": "iZotope Ozone 12 Elements",
+    "category": "Mastering",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15508-Ozone-12-Elements",
+    "retrieved": "2026-10-20",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15508-Ozone-12-Elements",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "JSONDecodeError"
+  },
+  "iZotope Ozone 12 Standard": {
+    "pbProductId": "15507",
+    "brand": null,
+    "product": "iZotope Ozone 12 Standard",
+    "category": "Mastering",
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15507-Ozone-12-Standard",
+    "retrieved": "2026-10-20",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15507-Ozone-12-Standard",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "JSONDecodeError"
+  },
+  "iZotope Ozone EQ": {
+    "pbProductId": "11504",
+    "brand": null,
+    "product": "iZotope Ozone EQ",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/11504-iZotope-Ozone-EQ",
+    "retrieved": "2026-10-20",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/11504-iZotope-Ozone-EQ",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "JSONDecodeError"
+  },
+  "iZotope Velvet": {
+    "pbProductId": "14847",
+    "brand": null,
+    "product": "iZotope Velvet",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/59-De-Esser/14847-Velvet",
+    "retrieved": "2026-10-20",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/59-De-Esser/14847-Velvet",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "JSONDecodeError"
   }
 }
