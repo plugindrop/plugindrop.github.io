@@ -24651,6 +24651,36 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2022-01-17",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-10-01",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-05-12",
+          "regular": 98.18,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-12-03",
+          "regular": 49.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-11-06",
+          "regular": 25.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/eventide-mangledverb.jpg"
@@ -25001,6 +25031,12 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2024-08-27",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/eventide-micropitch-immersive.jpg"
@@ -25164,6 +25200,30 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2022-05-28",
+          "regular": 199.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-06-23",
+          "regular": 49.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-11-02",
+          "regular": 197.34,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-12-10",
+          "regular": 49.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/eventide-octavox.jpg"
@@ -101399,6 +101459,38 @@
         }
       ],
       "image": "/images/plugin-prices/ace-studio-2-0-artist-pro-lifetime-license.jpg"
+    },
+    "UAD Emperical Labs FATSO Tape Simulator": {
+      "pb_url": "/product/2-Effects/96-Tape-Emulation/18051-Emperical-Labs-FATSO-Tape-Simulator",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-10-20",
+      "history": []
+    },
+    "Native Instruments Kithara": {
+      "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15877-Kithara",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-10-20",
+      "history": []
+    },
+    "Native Instruments Scene Magnolia": {
+      "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/18016-Scene-Magnolia-",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-10-20",
+      "history": []
+    },
+    "Cherry Audio DCO 106": {
+      "pb_url": "/product/1-Instruments/4-Synth/6935-DCO-106",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-10-20",
+      "history": []
     }
   }
 }

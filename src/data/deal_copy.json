@@ -10938,5 +10938,65 @@
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
     "reject_reason": "JSONDecodeError"
+  },
+  "Native Instruments Kithara": {
+    "pbProductId": "15877",
+    "brand": null,
+    "product": "Native Instruments Kithara",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15877-Kithara",
+    "retrieved": "2026-10-21",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15877-Kithara",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-21",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "JSONDecodeError"
+  },
+  "Native Instruments Scene Magnolia": {
+    "pbProductId": "18016",
+    "brand": null,
+    "product": "Native Instruments Scene Magnolia",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/18016-Scene-Magnolia-",
+    "retrieved": "2026-10-21",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/18016-Scene-Magnolia-",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-21",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "JSONDecodeError"
+  },
+  "UAD Emperical Labs FATSO Tape Simulator": {
+    "pbProductId": "18051",
+    "brand": null,
+    "product": "UAD Emperical Labs FATSO Tape Simulator",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/18051-Emperical-Labs-FATSO-Tape-Simulator",
+    "retrieved": "2026-10-21",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/18051-Emperical-Labs-FATSO-Tape-Simulator",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-21",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "JSONDecodeError"
   }
 }
