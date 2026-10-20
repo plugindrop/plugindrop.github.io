@@ -56993,7 +56993,7 @@
       "pb_url": "/product/1-Instruments/4-Synth/17444-Prophet-5",
       "typical_regular": 119.99,
       "typical_sale": 83.99,
-      "all_time_low": 83.99,
+      "all_time_low": 79.99,
       "notes": "auto-crawl 2026-07-19",
       "category": null,
       "history": [
@@ -57240,6 +57240,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-10-19"
+        },
+        {
+          "date": "2026-10-20",
+          "sale": 79.99,
+          "regular": 119.99,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/prophet-5.jpg"
@@ -101071,6 +101080,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-10-31"
+        },
+        {
+          "date": "2026-10-20",
+          "sale": 23.0,
+          "regular": 75.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/glow.jpg"
@@ -101126,6 +101144,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-10-20"
+        },
+        {
+          "date": "2026-10-20",
+          "sale": 69.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/subboombass-2.jpg"
@@ -101225,6 +101252,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-10-20"
+        },
+        {
+          "date": "2026-10-20",
+          "sale": 99.99,
+          "regular": 1019.93,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/total-guitar-max.jpg"
