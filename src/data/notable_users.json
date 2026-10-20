@@ -1,1 +1,186 @@
-{}
+{
+ "1798": [
+  {
+   "person": "Ryan Gilligan",
+   "claim_type": "manufacturer_artist_page",
+   "quote": "What can I say, Soundtoys plug-ins are my ride or die. I’ve been using EchoBoy for almost 20 years (wow!) and I’m still finding new sounds with it.",
+   "source_url": "https://www.soundtoys.com/artist/ryan-gilligan/",
+   "publisher": "soundtoys.com",
+   "brand": "Soundtoys",
+   "vendor_domain": "soundtoys.com",
+   "retrieved": "2026-10-20",
+   "owner_approved": "2026-10-20",
+   "verification": {
+    "person_found": true,
+    "role_found": false,
+    "product_found": true,
+    "quote_found": true
+   },
+   "status": "verified",
+   "product": "Soundtoys EchoBoy"
+  },
+  {
+   "person": "Andrew Sarlo",
+   "claim_type": "manufacturer_artist_page",
+   "quote": "Using EchoBoy set to 0ms changed my life. Open the style editor and go nuts.",
+   "source_url": "https://www.soundtoys.com/artist/andrew-sarlo/",
+   "publisher": "soundtoys.com",
+   "brand": "Soundtoys",
+   "vendor_domain": "soundtoys.com",
+   "retrieved": "2026-10-20",
+   "owner_approved": "2026-10-20",
+   "verification": {
+    "person_found": true,
+    "role_found": false,
+    "product_found": true,
+    "quote_found": true
+   },
+   "status": "verified",
+   "product": "Soundtoys EchoBoy"
+  },
+  {
+   "person": "Noah Georgeson",
+   "claim_type": "manufacturer_artist_page",
+   "quote": "I’m pretty sure I could mix a whole record with EchoBoy as my only effect. I use it for all sorts of things – occasionally even what it’s intended for.",
+   "source_url": "https://www.soundtoys.com/artist/noah-georgeson/",
+   "publisher": "soundtoys.com",
+   "brand": "Soundtoys",
+   "vendor_domain": "soundtoys.com",
+   "retrieved": "2026-10-20",
+   "owner_approved": "2026-10-20",
+   "verification": {
+    "person_found": true,
+    "role_found": false,
+    "product_found": true,
+    "quote_found": true
+   },
+   "status": "verified",
+   "product": "Soundtoys EchoBoy"
+  },
+  {
+   "person": "Ludwig Göransson",
+   "claim_type": "manufacturer_artist_page",
+   "quote": "On the track ‘Wakanda,’ I processed Baaba Maal’s vocals with EchoBoy and it immediately sounded like the future.",
+   "source_url": "https://www.soundtoys.com/artist/ludwig-goransson/",
+   "publisher": "soundtoys.com",
+   "brand": "Soundtoys",
+   "vendor_domain": "soundtoys.com",
+   "retrieved": "2026-10-20",
+   "owner_approved": "2026-10-20",
+   "verification": {
+    "person_found": true,
+    "role_found": false,
+    "product_found": true,
+    "quote_found": true
+   },
+   "status": "verified",
+   "product": "Soundtoys EchoBoy"
+  }
+ ],
+ "1808": [
+  {
+   "person": "Laurent “Tippy I” Alfred",
+   "claim_type": "manufacturer_artist_page",
+   "quote": "In my live dub set, PhaseMistress lives on my drum channels as a way to create the swooshing hi-hat sounds of so many classic dub albums from the 1970s. I also use her on most of my delay returns as a way to add cool texture to echo repeats.",
+   "source_url": "https://www.soundtoys.com/artist/tippy/",
+   "publisher": "soundtoys.com",
+   "brand": "Soundtoys",
+   "vendor_domain": "soundtoys.com",
+   "retrieved": "2026-10-20",
+   "owner_approved": "2026-10-20",
+   "verification": {
+    "person_found": true,
+    "role_found": true,
+    "product_found": true,
+    "quote_found": true
+   },
+   "status": "verified",
+   "role": "musician, producer and audio engineer",
+   "product": "Soundtoys PhaseMistress"
+  }
+ ],
+ "1807": [
+  {
+   "person": "Focus…",
+   "claim_type": "manufacturer_artist_page",
+   "quote": "I use Little AlterBoy on most of my productions to degenerate sounds/samples, giving them grit and hip hop elements as I see fit.",
+   "source_url": "https://www.soundtoys.com/artist/focus/",
+   "publisher": "soundtoys.com",
+   "brand": "Soundtoys",
+   "vendor_domain": "soundtoys.com",
+   "retrieved": "2026-10-20",
+   "owner_approved": "2026-10-20",
+   "verification": {
+    "person_found": true,
+    "role_found": true,
+    "product_found": true,
+    "quote_found": true
+   },
+   "status": "verified",
+   "role": "music producer",
+   "product": "Soundtoys Little AlterBoy"
+  },
+  {
+   "person": "Kenneth Blume",
+   "claim_type": "manufacturer_artist_page",
+   "quote": "On Unlocked by Denzel Curry & Kenny Beats, all of Denzel’s vocals are running through Little AlterBoy on any given moment, in any given song.",
+   "source_url": "https://www.soundtoys.com/artist/kenneth-blume/",
+   "publisher": "soundtoys.com",
+   "brand": "Soundtoys",
+   "vendor_domain": "soundtoys.com",
+   "retrieved": "2026-10-20",
+   "owner_approved": "2026-10-20",
+   "verification": {
+    "person_found": true,
+    "role_found": false,
+    "product_found": true,
+    "quote_found": true
+   },
+   "status": "verified",
+   "product": "Soundtoys Little AlterBoy"
+  }
+ ],
+ "6343": [
+  {
+   "person": "Paul “Willie Green” Womack",
+   "claim_type": "manufacturer_artist_page",
+   "quote": "Effect Rack is more like a musical instrumental than just effects. My favorite times to use it are either when I have a specific complicated idea I’m trying to execute, or when I have no idea at all and need some inspiration. It never lets me down.",
+   "source_url": "https://www.soundtoys.com/artist/paul-willie-green-womack/",
+   "publisher": "soundtoys.com",
+   "brand": "Soundtoys",
+   "vendor_domain": "soundtoys.com",
+   "retrieved": "2026-10-20",
+   "owner_approved": "2026-10-20",
+   "verification": {
+    "person_found": true,
+    "role_found": false,
+    "product_found": true,
+    "quote_found": true
+   },
+   "status": "verified",
+   "product": "Soundtoys Effect Rack"
+  }
+ ],
+ "1801": [
+  {
+   "person": "Mike Dean",
+   "claim_type": "manufacturer_artist_page",
+   "quote": "Decapitator made my 808 kicks on Desiigner’s ‘Timmy Turner’ growl and gave them great presence in the mix. Love it.",
+   "source_url": "https://www.soundtoys.com/artist/mike-dean/",
+   "publisher": "soundtoys.com",
+   "brand": "Soundtoys",
+   "vendor_domain": "soundtoys.com",
+   "retrieved": "2026-10-20",
+   "owner_approved": "2026-10-20",
+   "verification": {
+    "person_found": true,
+    "role_found": true,
+    "product_found": true,
+    "quote_found": true
+   },
+   "status": "verified",
+   "role": "hip-hop producer",
+   "product": "Soundtoys Decapitator"
+  }
+ ]
+}

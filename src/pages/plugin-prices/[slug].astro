@@ -5,6 +5,8 @@ import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
 import priceData from '../../data/price_history.json';
 import dealCopy from '../../data/deal_copy.json';
+import NotableUsers from '../../components/NotableUsers.astro';
+import notableUsers from '../../data/notable_users.json';
 import { resolveCardImage } from '../../lib/homeDeals.mjs';
 import { taglineForProduct } from '../../lib/dealCopy.mjs';
 import { rarityTag, supportChips } from '../../lib/dealSignals.mjs';
@@ -145,6 +147,7 @@ const off = onSale ? pctOff(current, regular) : 0;
 const productBrand = detectBrand(name, entry.notes);
 const productName = productBrand && name.toLowerCase().startsWith(productBrand.toLowerCase() + ' ') ? name.slice(productBrand.length).trim() : name;
 const tagline = taglineForProduct(name, dealCopy);
+const notableKey = String(entry.pbProductId ?? entry.pb_url?.match(/\/(\d+)(?:-[^/]*)?\/?$/)?.[1] ?? name);
 const verifiedLive = dealState(entry, Date.now()) === 'live';
 const headline = `${name.replace(/^Universal Audio UAD\s+/i, 'Universal Audio ').replace(/^Solid State Logic SSL\s+/i, 'Solid State Logic ')} price history`.slice(0, 70).trimEnd();
 const productImage = resolveCardImage({ entry, siblings: Object.values({ ...priceData.bundles, ...priceData.plugins }).filter(other => other.pb_url === entry.pb_url) });
@@ -812,7 +815,9 @@ const faqLD = {
           <div class="product-signals">{rarity && <span data-rarity={rarity.type} title={rarity.full}>{rarity.text}</span>}{chips.map(chip => <span>{chip}</span>)}</div></div>
         </div>
 
-        {demoVideo && (
+        <NotableUsers records={(notableUsers as Record<string, any[]>)[notableKey] ?? []} brand={productBrand ?? ''} />
+
+      {demoVideo && (
           <div id="demo-block" data-video-id={demoVideo.video_id} style="margin:0.75rem 0 1rem;display:flex;align-items:center;gap:0.75rem">
             <button id="demo-btn" type="button" style="display:flex;align-items:center;gap:0.5rem;border:1px solid var(--border);border-radius:6px;padding:0.4rem 0.85rem;font-size:0.85rem;background:transparent;color:var(--text-secondary);cursor:pointer;">
               <svg width="10" height="12" viewBox="0 0 10 12" fill="currentColor" aria-hidden="true"><path d="M0 0l10 6-10 6V0z"/></svg>
