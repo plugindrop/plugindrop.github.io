@@ -64,6 +64,20 @@ export function toCardModel(deal, { entries, priceData, now, videos = {}, copy =
 }
 
 export function pickSpotlight(cards) { return cards.find(c => !c.aboveUsual && c.image.kind !== 'typographic' && ['S', 'A'].includes(c.tier) && (c.rarity || c.off >= 50)) ?? cards.find(c => !c.aboveUsual && c.image.kind !== 'typographic') ?? cards.find(c => !c.aboveUsual) ?? null; }
+export function orderForVariety(cards) {
+  const ordered = [];
+  for (const group of [cards.filter(c => c.tagline?.trim()), cards.filter(c => !c.tagline?.trim())]) {
+    const pending = [...group];
+    while (pending.length) {
+      const last = ordered.at(-1);
+      const repeated = last?.brand && ordered.at(-2)?.brand === last.brand;
+      const index = repeated ? pending.findIndex(c => c.brand !== last.brand) : 0;
+      if (index < 0) { ordered.push(...pending); break; }
+      ordered.push(pending.splice(index, 1)[0]);
+    }
+  }
+  return ordered;
+}
 export function endingSoon(cards) { return cards.filter(c => c.urgency && ['ends-today', 'ends-soon', 'ends-on'].includes(c.urgency.type)).sort((a, b) => a.until.localeCompare(b.until)).slice(0, 10); }
 export function brandSaleClusters(cards, entries = {}) {
   const groups = new Map();

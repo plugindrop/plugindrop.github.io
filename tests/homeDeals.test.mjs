@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import { strict as assert } from 'node:assert';
-import { buildDealPool, resolveCardImage, toCardModel } from '../src/lib/homeDeals.mjs';
+import { buildDealPool, resolveCardImage, toCardModel, orderForVariety } from '../src/lib/homeDeals.mjs';
 const now=Date.parse('2026-10-17T12:00:00Z');
 const entry=(id,image)=>({pb_url:`/product/1/2/${id}-product`,image,history:[{date:'2026-10-16',source:'auto_check',sale:20,regular:100}]});
 test('PB id dedupe and search URLs excluded',()=>{
@@ -29,4 +29,19 @@ test('card headline uses tracker discount, not stale article copy',()=>{
   const model=toCardModel(deal,{entries:{'Waves Plate':tracked},priceData:{plugins:{'Waves Plate':tracked},bundles:{}},now});
   assert.match(model.headline,/80% off/);
   assert.match(model.ctaHref,/chan=home/);
+});
+test('variety order keeps tagline groups and stable order when no brand run needs breaking',()=>{
+  const cards=[{key:'a',brand:'A',tagline:'one'},{key:'b',brand:'B',tagline:''},{key:'c',brand:'A',tagline:'two'},{key:'d',brand:'B',tagline:' '}];
+  assert.deepEqual(orderForVariety(cards).map(c=>c.key),['a','c','b','d']);
+  assert.deepEqual(cards.map(c=>c.key),['a','b','c','d']);
+});
+test('variety order breaks brand runs where possible and retains every card',()=>{
+  const cards=[{key:'a1',brand:'A',tagline:'yes'},{key:'a2',brand:'A',tagline:'yes'},{key:'a3',brand:'A',tagline:'yes'},{key:'b1',brand:'B',tagline:'yes'},{key:'a4',brand:'A',tagline:'yes'},{key:'c1',brand:'C',tagline:''},{key:'c2',brand:'C',tagline:''},{key:'c3',brand:'C',tagline:''}];
+  const result=orderForVariety(cards);
+  assert.deepEqual(result.map(c=>c.key),['a1','a2','b1','a3','a4','c1','c2','c3']);
+  assert.equal(result.length,cards.length);
+  assert.deepEqual(new Set(result),new Set(cards));
+});
+test('variety order handles an empty list',()=>{
+  assert.deepEqual(orderForVariety([]),[]);
 });
