@@ -23,7 +23,7 @@ draft: false
 <!-- deal-context-sale-windows:end -->
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/vCepikBYXFI" title="17% Off Prophet 5 — Analog Poly Synth for Classic Pads ($99) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/vCepikBYXFI" title="Prophet 5 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
