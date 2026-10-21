@@ -17,23 +17,58 @@ priceTrack:
   - "Empirical Labs EL8 Distressor Compressor"
 ---
 
-**Summary:** The EL8 Distressor Compressor sold at Plugin Boutique is a Universal Audio (UAD) plugin version of the Empirical Labs Distressor hardware compressor. PluginDrop tracks a regular price of **$199** at Plugin Boutique, where it is currently listed at **$39** (80% off) until **November 1, 2026** (latest tracker check: 2026-10-04; lowest price we recorded: $29). Prices can change before then, so check the [current Plugin Boutique listing](https://www.pluginboutique.com/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=empirical-labs-el8-distressor-compressor-ff4241&chan=art&data1=empirical-labs-el8-distressor-compressor-ff4241) for today's price.
+**TL;DR:** The EL8 Distressor is Universal Audio's UAD plugin model of the Empirical Labs Distressor hardware compressor, sold at Plugin Boutique. PluginDrop's price history shows a regular price of **$199** and a most recent tracked price of **$39** (80% off) with a listed end date of **November 1, 2026** (latest tracker check: 2026-10-04). The lowest price recorded was $29. End dates have moved before, so [confirm the price on the Plugin Boutique listing](https://www.pluginboutique.com/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=empirical-labs-el8-distressor-compressor-ff4241&chan=art&data1=empirical-labs-el8-distressor-compressor-ff4241) before buying.
 
 ---
 
-## What It Is (from the Plugin Boutique product page)
+## What This Plugin Is
 
-The Plugin Boutique listing names Universal Audio as the maker and describes the plug-in as the "authentic UAD Distressor" modeling the Empirical Labs EL8 Distressor hardware compressor. The page says it includes **UAD Native** (runs on Mac or PC without UA hardware) and **Apollo Realtime & UAD-2** (runs accelerated on Apollo interfaces and UAD-2 hardware).
+The Plugin Boutique listing names Universal Audio as the maker. It describes the product as the "authentic UAD Distressor", a model of the Empirical Labs EL8 Distressor hardware compressor. This is not a first-party Empirical Labs release, and the difference matters for licensing and support.
+
+The page lists two formats:
+
+- **UAD Native:** runs on Mac or PC without Universal Audio hardware.
+- **Apollo Realtime & UAD-2:** runs hardware-accelerated on Apollo interfaces and UAD-2 devices.
+
+Producers without UA hardware can therefore use it, and Apollo owners get the accelerated version as well.
 
 ---
 
 ## Features Listed by the Vendor
 
 - **Ratios:** 1:1, 2:1, 3:1, 4:1, 6:1, 10:1, 20:1 and Nuke.
-- **Dist 2 and Dist 3 modes:** the page describes them as adding even or combined even/odd-order harmonic distortion, from subtle thickening to heavy saturation.
-- **Sidechain controls:** the page mentions a sidechain control aimed at low-frequency pumping and a Band Emphasis control.
+- **Dist 2 and Dist 3 modes:** the page describes these as adding even or combined even/odd-order harmonic distortion, from subtle thickening to heavy saturation.
+- **Sidechain controls:** a control aimed at low-frequency pumping, plus a Band Emphasis control.
 - **Plug-in-only features:** Dry/Wet mix for parallel compression, and a Headroom control for the operating level.
-- **Presets:** presets by engineers named on the page (Joe Chiccarelli, Vance Powell, Jacquire King, Jimmy Douglass and others).
+- **Presets:** presets by engineers named on the page, including Joe Chiccarelli, Vance Powell, Jacquire King and Jimmy Douglass.
+
+---
+
+## How These Features Map to Common Jobs
+
+This section is a practical reading of the listed specs, not a hands-on test.
+
+### Drums and Percussion
+
+- The wide ratio range, from gentle 2:1 to Nuke, covers both light bus control and aggressive squash.
+- Dry/Wet makes parallel compression a single-instance job. You do not need to build a send and return.
+- The Dist modes are the controls to try when a drum bus needs added density.
+
+### Vocals
+
+- Low ratios such as 2:1 to 4:1 are the usual starting range for leveling.
+- The named engineer presets are a quick way to hear how others configured the unit. Treat them as starting points.
+- The Band Emphasis control is relevant when sibilance or low-end build-up drives the detector.
+
+### Bass and Low-End Material
+
+- The listed sidechain control targets low-frequency pumping. That is relevant for bass-heavy sources where the compressor reacts too strongly to the lows.
+- Headroom changes the operating level, so gain staging affects how hard the modeled circuit is driven.
+
+### Mix Bus
+
+- Lower ratios and the Dry/Wet control suit gentle glue compression.
+- Compare bypassed and engaged signals at matched loudness, so that a level boost isn't mistaken for a better sound.
 
 ---
 
@@ -43,6 +78,12 @@ The Plugin Boutique listing names Universal Audio as the maker and describes the
 - Internet connection to download and authorize UADx plug-ins
 - A free iLok account with iLok Cloud or an iLok USB (2nd generation or higher). The page states a physical iLok dongle is not required to activate this product (online activation via iLok Cloud).
 - DAW compatibility listed: Pro Tools 2022 (AAX), Logic Pro (Audio Units), Ableton Live 11 (VST 3, Audio Units), Cubase 12 (VST 3), Studio One 5 (VST 3), LUNA. The page notes UAD plugins do not work in GarageBand.
+
+**Practical implications:**
+
+- If you work offline often, plan for iLok USB authorization instead of iLok Cloud.
+- If your DAW is not on the list (for example GarageBand), this plugin is not an option.
+- You need a free iLok account either way, so set it up before purchase day.
 
 ---
 
@@ -56,33 +97,58 @@ The Plugin Boutique listing names Universal Audio as the maker and describes the
 
 Recorded sale periods: 2026-07-12 to 2026-08-03, and 2026-09-01 to 2026-10-04. The latest USD tracker check (2026-10-04) shows $39 against the $199 regular price with an end date of 2026-11-01. The earlier end date shown on 2026-10-01 ("until Sep 30") has since moved, so end dates may shift again.
 
-[Check the current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=empirical-labs-el8-distressor-compressor-ff4241&chan=art&data1=empirical-labs-el8-distressor-compressor-ff4241).
+**Reading the price history:**
+
+- Two sale windows in about three months suggest discounts on this product recur. That is an observation of past checks, not a promise of future sales.
+- The $29 low was recorded on 2026-09-27, so the $39 price is above the lowest tracked level.
+- Dates between tracker checks may be missing, so the record is a guide rather than a complete log.
+
+You can view the product at [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=empirical-labs-el8-distressor-compressor-ff4241&chan=art&data1=empirical-labs-el8-distressor-compressor-ff4241).
 
 ---
 
-## Alternatives at a Glance
+## Decision Guide: Buy Now or Wait?
+
+**Reasons to act during a sale window:**
+
+- You already use iLok and a supported DAW, and you want a hardware-modeled compressor with parallel mixing built in.
+- The tracked sale price is far below the $199 regular price.
+- The sale end date has been listed as 2026-11-01.
+
+**Reasons to hold off:**
+
+- Your DAW or operating system is outside the compatibility list.
+- You need fully offline authorization and do not own an iLok USB.
+- You prefer a different compressor workflow (see the comparison below).
+
+---
+
+## How It Compares to Another Compressor
 
 | Name | Key Difference |
 |---|---|
 | FabFilter Pro-C 3 | A different compressor design; PluginDrop tracks a regular price of $199 at Plugin Boutique |
 
-Neither product is claimed here to sound better than the other; we have not tested either hands-on.
+The two products take different approaches. The EL8 Distressor models a specific hardware unit with a ratio-based layout and Dist modes. Pro-C 3 is a separate design with its own control set. Neither product is claimed here to sound better than the other, and we have not tested either hands-on. Choose based on workflow, licensing preference and price at the time you buy.
 
 ---
 
 ## FAQ
 
 **Q: Does this plugin require an iLok?**
-A: The product page requires a free iLok account and says a physical iLok dongle is not needed when you use iLok Cloud online; offline use needs an iLok USB.
+A: The product page requires a free iLok account and says a physical iLok dongle is not needed when you use iLok Cloud online. Offline use needs an iLok USB.
 
 **Q: Is it made by Empirical Labs?**
 A: The listing models the Empirical Labs Distressor and names Universal Audio as the plug-in's maker. An earlier version of this page called it a first-party Empirical Labs plugin, which the listing does not support.
 
 **Q: Does it need UAD hardware?**
-A: No. The page says the UAD Native version runs on Mac or PC without UA hardware; hardware-accelerated versions are also included.
+A: No. The page says the UAD Native version runs on Mac or PC without UA hardware. Hardware-accelerated versions are also included.
 
 **Q: Is the sale still on?**
-A: Yes. Plugin Boutique lists it at $39 (regular $199, 80% off) until November 1, 2026, according to PluginDrop tracking. Check the live listing to confirm.
+A: According to PluginDrop tracking, Plugin Boutique listed it at $39 (regular $199, 80% off) until November 1, 2026, as of the 2026-10-04 check. Prices and end dates can change between checks.
+
+**Q: Will it work in GarageBand?**
+A: No. The page notes UAD plugins do not work in GarageBand.
 
 ---
 
