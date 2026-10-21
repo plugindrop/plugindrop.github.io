@@ -8,6 +8,7 @@ import { defineConfig } from 'astro/config';
 import rehypeExternalLinks from 'rehype-external-links';
 import rehypeProductLinks from './src/lib/rehypeProductLinks.mjs';
 import rehypeLinkPolicy from './src/lib/rehypeLinkPolicy.mjs';
+import rehypeIframeTitle from './src/lib/rehypeIframeTitle.mjs';
 import { staticRedirects } from './src/data/plugin_price_redirects.mjs';
 import { noindexPricePagePaths } from './src/lib/indexPolicy.mjs';
 import yaml from 'js-yaml';
@@ -144,6 +145,7 @@ export default defineConfig({
 			// 内部リンク（追跡製品名→/plugin-prices/）を先に張り、後段で外部リンク属性を付与
 			rehypeProductLinks,
 			rehypeLinkPolicy,
+			rehypeIframeTitle,
 			[rehypeExternalLinks, {
 				target: '_blank',
 				rel: (node) => {
