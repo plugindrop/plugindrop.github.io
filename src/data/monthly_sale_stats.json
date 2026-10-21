@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20",
+  "generated_at": "2026-10-21",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-10",
       "label": "October 2026",
       "is_current": true,
-      "generated_at": "2026-10-20",
-      "observations": 2139,
-      "products_tracked": 524,
-      "products_on_sale": 205,
-      "on_sale_pct": 39.1,
-      "avg_discount_pct": 56.8,
-      "median_discount_pct": 60,
+      "generated_at": "2026-10-21",
+      "observations": 2262,
+      "products_tracked": 527,
+      "products_on_sale": 212,
+      "on_sale_pct": 40.2,
+      "avg_discount_pct": 56.7,
+      "median_discount_pct": 60.0,
       "discount_buckets": {
         "1-19": 12,
-        "20-39": 36,
-        "40-59": 50,
-        "60+": 107
+        "20-39": 37,
+        "40-59": 55,
+        "60+": 108
       },
-      "all_time_low_hits": 157,
+      "all_time_low_hits": 164,
       "deepest_discounts": [
         {
           "name": "Solid State Logic SSL Fusion Bundle",
@@ -156,6 +156,16 @@
           "pb_url": "/product/2-Effects/16-EQ/8665-SSL-Native-X-EQ-2"
         },
         {
+          "name": "SSL Native X-Phase",
+          "slug": "ssl-native-x-phase",
+          "category": "Other",
+          "regular": 99.0,
+          "sale": 10.0,
+          "pct_off": 90,
+          "date": "2026-10-20",
+          "pb_url": "/product/3-Studio-Tools/22-Sound-Editor/8666-SSL-Native-X-Phase"
+        },
+        {
           "name": "TOTAL Guitar MAX",
           "slug": "total-guitar-max",
           "category": "Other",
@@ -164,16 +174,6 @@
           "pct_off": 90,
           "date": "2026-10-18",
           "pb_url": "/product/81-Bundles/97-Various-Category/17062-TOTAL-Guitar-MAX"
-        },
-        {
-          "name": "Waves Platinum Bundle",
-          "slug": "waves-platinum-bundle",
-          "category": "Bundle",
-          "regular": 1999.0,
-          "sale": 199.0,
-          "pct_off": 90,
-          "date": "2026-10-12",
-          "pb_url": "/product/81-Bundles/84-Mix-Master/12542-Platinum-Bundle"
         }
       ],
       "all_time_low_products": [
@@ -262,6 +262,13 @@
           "date": "2026-10-16"
         },
         {
+          "name": "SSL Native X-Phase",
+          "slug": "ssl-native-x-phase",
+          "sale": 10.0,
+          "all_time_low": 10.0,
+          "date": "2026-10-20"
+        },
+        {
           "name": "TOTAL Guitar MAX",
           "slug": "total-guitar-max",
           "sale": 99.99,
@@ -274,22 +281,15 @@
           "sale": 149.0,
           "all_time_low": 149.0,
           "date": "2026-10-06"
-        },
-        {
-          "name": "SSL Greatest Hits Bundle",
-          "slug": "ssl-greatest-hits-bundle",
-          "sale": 49.0,
-          "all_time_low": 49.0,
-          "date": "2026-10-18"
         }
       ],
       "by_category": [
         {
           "category": "Other",
-          "tracked": 371,
-          "on_sale": 157,
-          "on_sale_pct": 42.3,
-          "avg_discount_pct": 59.4
+          "tracked": 374,
+          "on_sale": 164,
+          "on_sale_pct": 43.9,
+          "avg_discount_pct": 59.1
         },
         {
           "category": "Synth",
@@ -394,23 +394,23 @@
         {
           "category": "Other",
           "tracked": 180,
-          "on_sale": 106,
-          "on_sale_pct": 58.9,
-          "avg_discount_pct": 59.8
+          "on_sale": 108,
+          "on_sale_pct": 60.0,
+          "avg_discount_pct": 60.1
         },
         {
           "category": "Universal Audio",
-          "tracked": 52,
-          "on_sale": 35,
-          "on_sale_pct": 67.3,
-          "avg_discount_pct": 63.0
+          "tracked": 53,
+          "on_sale": 36,
+          "on_sale_pct": 67.9,
+          "avg_discount_pct": 62.5
         },
         {
           "category": "Cherry Audio",
           "tracked": 42,
-          "on_sale": 4,
-          "on_sale_pct": 9.5,
-          "avg_discount_pct": 40
+          "on_sale": 7,
+          "on_sale_pct": 16.7,
+          "avg_discount_pct": 42.4
         },
         {
           "category": "Eventide",
@@ -421,9 +421,9 @@
         },
         {
           "category": "Native Instruments",
-          "tracked": 32,
+          "tracked": 34,
           "on_sale": 4,
-          "on_sale_pct": 12.5,
+          "on_sale_pct": 11.8,
           "avg_discount_pct": 67.8
         },
         {
@@ -450,9 +450,9 @@
         {
           "category": "Minimal Audio",
           "tracked": 15,
-          "on_sale": 4,
-          "on_sale_pct": 26.7,
-          "avg_discount_pct": 33
+          "on_sale": 5,
+          "on_sale_pct": 33.3,
+          "avg_discount_pct": 34.6
         },
         {
           "category": "iZotope",
@@ -618,16 +618,16 @@
       ],
       "vs_previous_month": {
         "month": "2026-09",
-        "on_sale_pct_delta": -15.2,
-        "avg_discount_pct_delta": -1.0,
-        "products_tracked_delta": 8
+        "on_sale_pct_delta": -14.1,
+        "avg_discount_pct_delta": -1.1,
+        "products_tracked_delta": 11
       }
     },
     {
       "month": "2026-09",
       "label": "September 2026",
       "is_current": false,
-      "generated_at": "2026-10-20",
+      "generated_at": "2026-10-21",
       "observations": 3597,
       "products_tracked": 516,
       "products_on_sale": 280,
@@ -1258,7 +1258,7 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-10-20",
+      "generated_at": "2026-10-21",
       "observations": 3586,
       "products_tracked": 424,
       "products_on_sale": 258,
@@ -1854,7 +1854,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-10-20",
+      "generated_at": "2026-10-21",
       "observations": 1964,
       "products_tracked": 288,
       "products_on_sale": 142,
