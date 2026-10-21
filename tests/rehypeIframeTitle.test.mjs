@@ -11,3 +11,9 @@ test('strips stale discount claim from iframe titles only', () => {
   assert.equal(tree.children[0].properties.title, 'Prophet 5 — Analog Poly Synth — sound demo');
   assert.equal(tree.children[1].properties.title, '17% Off keep');
 });
+
+test('handles raw html nodes', () => {
+  const tree = { type: 'root', children: [{ type: 'raw', value: '<iframe src="x" title="60% Off Analog Polysynth ($199) — audio demo"></iframe>' }] };
+  plugin()(tree);
+  assert.equal(tree.children[0].value, '<iframe src="x" title="Analog Polysynth — audio demo"></iframe>');
+});
