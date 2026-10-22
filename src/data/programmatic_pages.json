@@ -42,9 +42,9 @@
         "Empirical Labs EL8 Distressor Compressor",
         "SSL Native X-Comp",
         "Sonible smart:comp 3",
-        "Tube-Tech CL 1B Mk II",
+        "Softube Tube-Tech CL 1B Mk II",
         "UAD API 2500 Bus Compressor",
-        "UAD Teletronix LA 2A Leveler Collection",
+        "UAD LA-2A Collection",
         "Waves CLA-2A"
       ],
       "editorial_post": "best-compressor-plugins-2026",
@@ -267,7 +267,7 @@
         "UAD Anthem Analog Synthesizer",
         "UAD Opal Morphing Synth",
         "Usynth Core",
-        "Vengeance Sound Avenger 2",
+        "VPS Avenger 2",
         "WAVESTATION",
         "u-he Repro"
       ],
@@ -354,7 +354,7 @@
       "slug": "arturia-pigments-vs-fabfilter-twin-3",
       "status": "unlisted",
       "first_published": "2026-09-14",
-      "a": "Arturia Pigments",
+      "a": "Pigments 7",
       "b": "FabFilter Twin 3",
       "category": "synth",
       "selection": {
@@ -373,7 +373,7 @@
       "slug": "arturia-pigments-vs-u-he-bazille",
       "status": "unlisted",
       "first_published": "2026-09-14",
-      "a": "Arturia Pigments",
+      "a": "Pigments 7",
       "b": "u-he Bazille",
       "category": "synth",
       "selection": {
@@ -392,7 +392,7 @@
       "slug": "arturia-pigments-vs-u-he-diva",
       "status": "unlisted",
       "first_published": "2026-09-14",
-      "a": "Arturia Pigments",
+      "a": "Pigments 7",
       "b": "u-he Diva",
       "category": "synth",
       "selection": {
@@ -411,7 +411,7 @@
       "slug": "arturia-pigments-vs-u-he-hive-2",
       "status": "unlisted",
       "first_published": "2026-09-14",
-      "a": "Arturia Pigments",
+      "a": "Pigments 7",
       "b": "u-he Hive 2",
       "category": "synth",
       "selection": {
@@ -430,7 +430,7 @@
       "slug": "arturia-pigments-vs-u-he-repro",
       "status": "unlisted",
       "first_published": "2026-09-14",
-      "a": "Arturia Pigments",
+      "a": "Pigments 7",
       "b": "u-he Repro",
       "category": "synth",
       "selection": {
@@ -449,7 +449,7 @@
       "slug": "arturia-pigments-vs-u-he-zebra-3",
       "status": "unlisted",
       "first_published": "2026-09-14",
-      "a": "Arturia Pigments",
+      "a": "Pigments 7",
       "b": "u-he Zebra 3",
       "category": "synth",
       "selection": {

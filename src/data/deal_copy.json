@@ -1019,26 +1019,6 @@
     "status": "ok",
     "reject_reason": null
   },
-  "Platinum": {
-    "pbProductId": "12542",
-    "brand": null,
-    "product": "Platinum",
-    "category": null,
-    "tagline": null,
-    "source_url": "https://www.pluginboutique.com/product/81-Bundles/84-Mix-Master/12542-Platinum",
-    "retrieved": "2026-10-18",
-    "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
-    },
-    "tagline_source_url": "https://www.pluginboutique.com/product/81-Bundles/84-Mix-Master/12542-Platinum",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-18",
-    "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
-  },
   "Prophet~5": {
     "pbProductId": "17444",
     "brand": null,
@@ -1698,26 +1678,6 @@
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
     "reject_reason": "banned_claim_or_price"
-  },
-  "UAD Studer A800": {
-    "pbProductId": "10185",
-    "brand": null,
-    "product": "UAD Studer A800",
-    "category": "Saturation",
-    "tagline": "Add warmth, presence, cohesion, and low-end punch to mixes",
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/10185-Studer-A800-Tape-Recorder",
-    "retrieved": "2026-10-18",
-    "machine_checks": {
-      "quote_in_source": true,
-      "grounded_noun": true,
-      "lint_pass": true
-    },
-    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/10185-Studer-A800-Tape-Recorder",
-    "tagline_source_quote": "Add warmth, presence, cohesion, and low-end punch",
-    "tagline_checked": "2026-10-18",
-    "tagline_model": "claude-sonnet (cli)",
-    "status": "ok",
-    "reject_reason": null
   },
   "UAD Studer A800 Tape Recorder": {
     "pbProductId": "10185",
@@ -2439,26 +2399,6 @@
     "status": "ok",
     "reject_reason": null
   },
-  "Analog Lab Pro": {
-    "pbProductId": "7149",
-    "brand": null,
-    "product": "Analog Lab Pro",
-    "category": null,
-    "tagline": "2,000 presets for organs, synth bass, and analogue pads",
-    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7149-Analog-Lab-Pro",
-    "retrieved": "2026-10-18",
-    "machine_checks": {
-      "quote_in_source": true,
-      "grounded_noun": true,
-      "lint_pass": true
-    },
-    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7149-Analog-Lab-Pro",
-    "tagline_source_quote": "Soulful organs, razor-sharp synth bass, warm analogue pads",
-    "tagline_checked": "2026-10-18",
-    "tagline_model": "claude-sonnet (cli)",
-    "status": "ok",
-    "reject_reason": null
-  },
   "Analog Monosynth Collection": {
     "pbProductId": "15320",
     "brand": null,
@@ -2613,26 +2553,6 @@
       "lint_pass": false
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10611-Piano-V3",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-18",
-    "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "missing_or_long"
-  },
-  "Arturia Pigments": {
-    "pbProductId": "11867",
-    "brand": null,
-    "product": "Arturia Pigments",
-    "category": "Synth",
-    "tagline": null,
-    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7",
-    "retrieved": "2026-10-18",
-    "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
-    },
-    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7",
     "tagline_source_quote": null,
     "tagline_checked": "2026-10-18",
     "tagline_model": "claude-sonnet (cli)",
@@ -3239,26 +3159,6 @@
     "status": "rejected",
     "reject_reason": "missing_or_long"
   },
-  "Cherry Audio DCO 106": {
-    "pbProductId": "6935",
-    "brand": null,
-    "product": "Cherry Audio DCO 106",
-    "category": null,
-    "tagline": null,
-    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/6935-DCO-106",
-    "retrieved": "2026-10-19",
-    "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
-    },
-    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/6935-DCO-106",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
-    "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "banned_claim_or_price"
-  },
   "Cherry Audio DCO-106": {
     "pbProductId": "6935",
     "brand": null,
@@ -3394,26 +3294,6 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/19-Filter/14150-Filtomika",
     "tagline_source_quote": "process any sound—whether it's drums, guitars, other synthesizers, or even vocals",
-    "tagline_checked": "2026-10-19",
-    "tagline_model": "claude-sonnet (cli)",
-    "status": "ok",
-    "reject_reason": null
-  },
-  "Cherry Audio GX 80 Synthesizer": {
-    "pbProductId": "10001",
-    "brand": null,
-    "product": "Cherry Audio GX 80 Synthesizer",
-    "category": null,
-    "tagline": "Dual-layer GX-1 and CS-80 synthesizer with polyphonic aftertouch",
-    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10001-GX-80-Synthesizer",
-    "retrieved": "2026-10-19",
-    "machine_checks": {
-      "quote_in_source": true,
-      "grounded_noun": true,
-      "lint_pass": true
-    },
-    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10001-GX-80-Synthesizer",
-    "tagline_source_quote": "All GX-1 and CS-80 voicing parameters reproduced",
     "tagline_checked": "2026-10-19",
     "tagline_model": "claude-sonnet (cli)",
     "status": "ok",
@@ -5519,26 +5399,6 @@
     "status": "ok",
     "reject_reason": null
   },
-  "Little Labs - Voice of God": {
-    "pbProductId": "17066",
-    "brand": null,
-    "product": "Little Labs - Voice of God",
-    "category": null,
-    "tagline": "Focused low-end thump for kick drums, bass, 808s, and synths",
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/17066-Little-Labs-Voice-of-God",
-    "retrieved": "2026-10-19",
-    "machine_checks": {
-      "quote_in_source": true,
-      "grounded_noun": true,
-      "lint_pass": true
-    },
-    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/17066-Little-Labs-Voice-of-God",
-    "tagline_source_quote": "focused low-end thump on kick drums, bass, 808s, and synths",
-    "tagline_checked": "2026-10-19",
-    "tagline_model": "claude-sonnet (cli)",
-    "status": "ok",
-    "reject_reason": null
-  },
   "Loop2Kit": {
     "pbProductId": "17478",
     "brand": null,
@@ -5694,26 +5554,6 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/20-Gate/119-MRhythmizer",
     "tagline_source_quote": "time, volume and filters",
-    "tagline_checked": "2026-10-19",
-    "tagline_model": "claude-sonnet (cli)",
-    "status": "ok",
-    "reject_reason": null
-  },
-  "Manley Vari-Mu": {
-    "pbProductId": "11953",
-    "brand": null,
-    "product": "Manley Vari-Mu",
-    "category": null,
-    "tagline": "Tube compression for stereo buses, vocals, and mastering",
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/11953-Manley-Vari-Mu",
-    "retrieved": "2026-10-19",
-    "machine_checks": {
-      "quote_in_source": true,
-      "grounded_noun": true,
-      "lint_pass": true
-    },
-    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/11953-Manley-Vari-Mu",
-    "tagline_source_quote": "signature Manley tube compression",
     "tagline_checked": "2026-10-19",
     "tagline_model": "claude-sonnet (cli)",
     "status": "ok",
@@ -8019,26 +7859,6 @@
     "status": "ok",
     "reject_reason": null
   },
-  "Tube-Tech CL 1B Mk II": {
-    "pbProductId": "11535",
-    "brand": null,
-    "product": "Tube-Tech CL 1B Mk II",
-    "category": null,
-    "tagline": null,
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/11535-Tube-Tech-CL-1B-Mk-II",
-    "retrieved": "2026-10-19",
-    "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
-    },
-    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/11535-Tube-Tech-CL-1B-Mk-II",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
-    "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "banned_claim_or_price"
-  },
   "UAD 1176 Classic Limiter Collection": {
     "pbProductId": "10153",
     "brand": null,
@@ -8619,26 +8439,6 @@
     "status": "ok",
     "reject_reason": null
   },
-  "Vengeance Sound Avenger 2": {
-    "pbProductId": "11545",
-    "brand": null,
-    "product": "Vengeance Sound Avenger 2",
-    "category": "Synth",
-    "tagline": "Granular oscillator synthesis with built-in drum sequencing",
-    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11545-VPS-Avenger-2",
-    "retrieved": "2026-10-19",
-    "machine_checks": {
-      "quote_in_source": true,
-      "grounded_noun": true,
-      "lint_pass": true
-    },
-    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11545-VPS-Avenger-2",
-    "tagline_source_quote": "oscillator capable of working as a full granular module",
-    "tagline_checked": "2026-10-19",
-    "tagline_model": "claude-sonnet (cli)",
-    "status": "ok",
-    "reject_reason": null
-  },
   "Virtual Bassist Bundle 2": {
     "pbProductId": "6619",
     "brand": null,
@@ -8839,26 +8639,6 @@
     "status": "rejected",
     "reject_reason": "generic_or_ungrounded"
   },
-  "World Suite 3": {
-    "pbProductId": "17123",
-    "brand": null,
-    "product": "World Suite 3",
-    "category": null,
-    "tagline": "430 instruments and 12,000+ loops and phrases",
-    "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3",
-    "retrieved": "2026-10-19",
-    "machine_checks": {
-      "quote_in_source": true,
-      "grounded_noun": true,
-      "lint_pass": true
-    },
-    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3",
-    "tagline_source_quote": "430 instruments, 1,900+ hand-crafted presets, 12,000+ loops and phrases",
-    "tagline_checked": "2026-10-19",
-    "tagline_model": "claude-sonnet (cli)",
-    "status": "ok",
-    "reject_reason": null
-  },
   "XLN Audio Addictive Keys": {
     "pbProductId": "1191",
     "brand": null,
@@ -8874,26 +8654,6 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/1191-Addictive-Keys-Studio-Grand",
     "tagline_source_quote": "classic Steinway Model D concert grand piano",
-    "tagline_checked": "2026-10-19",
-    "tagline_model": "claude-sonnet (cli)",
-    "status": "ok",
-    "reject_reason": null
-  },
-  "XLN Audio DB 30 Drum Butter": {
-    "pbProductId": "17009",
-    "brand": null,
-    "product": "XLN Audio DB 30 Drum Butter",
-    "category": null,
-    "tagline": "Add punch, warmth, and character to drum buses",
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/13-Drum-FX/17009-DB-30-Drum-Butter",
-    "retrieved": "2026-10-19",
-    "machine_checks": {
-      "quote_in_source": true,
-      "grounded_noun": true,
-      "lint_pass": true
-    },
-    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/13-Drum-FX/17009-DB-30-Drum-Butter",
-    "tagline_source_quote": "adding punch, warmth, character, and glue to drums",
     "tagline_checked": "2026-10-19",
     "tagline_model": "claude-sonnet (cli)",
     "status": "ok",
@@ -9939,26 +9699,6 @@
     "status": "ok",
     "reject_reason": null
   },
-  "ShaperBox 3 Bundle": {
-    "pbProductId": "9819",
-    "brand": null,
-    "product": "ShaperBox 3 Bundle",
-    "category": null,
-    "tagline": null,
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/9819-ShaperBox-3-Bundle",
-    "retrieved": "2026-10-19",
-    "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
-    },
-    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/9819-ShaperBox-3-Bundle",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
-    "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "component_only"
-  },
   "Snapback": {
     "pbProductId": "13655",
     "brand": null,
@@ -10799,26 +10539,6 @@
     "status": "rejected",
     "reject_reason": "JSONDecodeError"
   },
-  "UAD Teletronix LA 2A Leveler Collection": {
-    "pbProductId": "10154",
-    "brand": null,
-    "product": "UAD Teletronix LA 2A Leveler Collection",
-    "category": null,
-    "tagline": null,
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10154-Teletronix-LA-2A-Leveler-Collection",
-    "retrieved": "2026-10-20",
-    "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
-    },
-    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10154-Teletronix-LA-2A-Leveler-Collection",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-20",
-    "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "component_only"
-  },
   "Virtual Guitarist Bundle": {
     "pbProductId": "11881",
     "brand": null,
@@ -10833,26 +10553,6 @@
       "lint_pass": false
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11881-Virtual-Guitarist-Bundle",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-20",
-    "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "JSONDecodeError"
-  },
-  "XLN Audio Addictive Drums 2 Custom": {
-    "pbProductId": "8236",
-    "brand": null,
-    "product": "XLN Audio Addictive Drums 2 Custom",
-    "category": "Drums",
-    "tagline": null,
-    "source_url": "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8236-Addictive-Drums-2-Custom-Collection",
-    "retrieved": "2026-10-20",
-    "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
-    },
-    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8236-Addictive-Drums-2-Custom-Collection",
     "tagline_source_quote": null,
     "tagline_checked": "2026-10-20",
     "tagline_model": "claude-sonnet (cli)",

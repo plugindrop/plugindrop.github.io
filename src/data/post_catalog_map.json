@@ -117,7 +117,7 @@
     "confidence": "table",
     "kind": "list",
     "products": [
-      "Arturia Pigments",
+      "Pigments 7",
       "Kilohearts Phase Plant",
       "SubLab XL",
       "Vital",
@@ -547,7 +547,7 @@
     "confidence": "pb_id",
     "kind": "list",
     "products": [
-      "Arturia Pigments",
+      "Pigments 7",
       "FabFilter Pro-C 3",
       "FabFilter Pro-Q 4",
       "Soundtoys Decapitator",
@@ -685,7 +685,7 @@
       "Softube Tape",
       "Soundtoys 5.5",
       "Soundtoys Decapitator",
-      "UAD Studer A800",
+      "UAD Studer A800 Tape Recorder",
       "Waves Kramer Master Tape",
       "XLN Audio RC-20 Retro Color"
     ]
@@ -808,7 +808,7 @@
     "confidence": "explicit",
     "kind": "list",
     "products": [
-      "Arturia Pigments",
+      "Pigments 7",
       "Baby Audio Comeback Kid",
       "Baby Audio Super VHS",
       "FabFilter Pro-Q 4",

@@ -69,13 +69,6 @@
     "score": 10,
     "source": "yt_api_fill"
   },
-  "Arturia Pigments": {
-    "video_id": "XMmlkkgQ378",
-    "title": "Pigments 5 | Polychrome Software Synthesizer | ARTURIA",
-    "channel": "Arturia",
-    "score": 10,
-    "source": "article_embed"
-  },
   "Arturia Prophet-5 V": {
     "video_id": "BVDmnKwXvwk",
     "title": "Arturia Prophet 5-V | No Talking |",
@@ -272,13 +265,6 @@
     "score": 10,
     "source": "yt_api_fill"
   },
-  "Cherry Audio DCO 106": {
-    "video_id": "QPzn3kkHcI0",
-    "title": "Cherry Audio | DCO-106",
-    "channel": "Cherry Audio",
-    "score": 13,
-    "source": "yt_api_fill"
-  },
   "Cherry Audio DCO-106": {
     "video_id": "ruog9D8ch40",
     "title": "Cherry Audio | DCO 106 | Presets Preview (No Talking)",
@@ -312,13 +298,6 @@
     "title": "Introduction to Cherry Audio Elka-X Part 1 - Hosted by Tim Shoebridge",
     "channel": "Cherry Audio",
     "score": 11,
-    "source": "yt_api_fill"
-  },
-  "Cherry Audio GX 80 Synthesizer": {
-    "video_id": "1_Zv6uFG6D4",
-    "title": "Cherry Audio GX-80 Synthesizer Walkthrough And Sounds",
-    "channel": "Audio Tech TV",
-    "score": 9,
     "source": "yt_api_fill"
   },
   "Cherry Audio GX-80": {
@@ -2078,7 +2057,7 @@
     "score": 12,
     "source": "yt_api_fill"
   },
-  "UAD Studer A800": {
+  "UAD Studer A800 Tape Recorder": {
     "video_id": "3U6DZIIDTyE",
     "title": "Studer A800 Tape Machine | UAD Quick Tips",
     "channel": "Universal Audio",
@@ -2092,7 +2071,7 @@
     "score": 10,
     "source": "yt_api_fill"
   },
-  "UAD Teletronix LA 2A Leveler Collection": {
+  "UAD LA-2A Collection": {
     "video_id": "sFFPWqpDPXY",
     "title": "Teletronix LA-2A Classic Leveler Collection | UAD Quick Tips",
     "channel": "Universal Audio",
@@ -2257,20 +2236,6 @@
     "video_id": "r6SKWKPPkBg",
     "title": "Softube - Weiss MM-1 Mastering Maximizer (Demo)",
     "channel": "Jack Wryder",
-    "score": 8,
-    "source": "yt_api_fill"
-  },
-  "World Suite 3": {
-    "video_id": "Z3He4KIQI5Y",
-    "title": "UVI World Suite 3 | Overview",
-    "channel": "UVI",
-    "score": 8,
-    "source": "yt_api_fill"
-  },
-  "XLN Audio DB 30 Drum Butter": {
-    "video_id": "eEn6Vksq-9M",
-    "title": "XLN Audio DB-30 DRUM BUTTER | Extreme | Sounds Like This (No Talking)",
-    "channel": "Sounds Like This",
     "score": 8,
     "source": "yt_api_fill"
   },

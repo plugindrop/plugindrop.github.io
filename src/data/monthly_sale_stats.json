@@ -126,7 +126,7 @@
           "pb_url": "/product/1-Instruments/64-Virtual-Instruments/5507-SOLID-2"
         },
         {
-          "name": "Platinum",
+          "name": "Waves Platinum Bundle",
           "slug": "platinum",
           "category": "Other",
           "regular": 1999.0,
@@ -643,7 +643,7 @@
       "all_time_low_hits": 240,
       "deepest_discounts": [
         {
-          "name": "Platinum",
+          "name": "Waves Platinum Bundle",
           "slug": "platinum",
           "category": "Other",
           "regular": 1999.0,
@@ -795,7 +795,7 @@
       ],
       "all_time_low_products": [
         {
-          "name": "Platinum",
+          "name": "Waves Platinum Bundle",
           "slug": "platinum",
           "sale": 99.99,
           "all_time_low": 99.99,
@@ -1274,7 +1274,7 @@
       "all_time_low_hits": 197,
       "deepest_discounts": [
         {
-          "name": "Platinum",
+          "name": "Waves Platinum Bundle",
           "slug": "platinum",
           "category": "Other",
           "regular": 1999.0,
@@ -1426,7 +1426,7 @@
       ],
       "all_time_low_products": [
         {
-          "name": "Platinum",
+          "name": "Waves Platinum Bundle",
           "slug": "platinum",
           "sale": 99.99,
           "all_time_low": 99.99,
