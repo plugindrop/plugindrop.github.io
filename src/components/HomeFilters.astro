@@ -1,8 +1,8 @@
 ---
 const { categories = [] } = Astro.props;
-const filters = [['all','All'],['ending','Ending soon'],['new-low','New lows'],['under-50','Under $50'],['bundles','Bundles'],...categories.map(c => [c.toLowerCase(),c])];
+const filters = [['all','All'],['ending','Ending soon'],['new-low','New lows'],['under-50','Under $50'],['under-20','Under $20'],['has-demo','Has demo'],['bundles','Bundles'],...categories.map(c => [c.toLowerCase(),c])];
 ---
-<div class="home-filters" aria-label="Filter deals">{filters.map(([key,label],i) => <button type="button" data-filter-choice={key} aria-pressed={i===0 ? 'true':'false'}>{label}</button>)}</div><div class="view-toggle" aria-label="Deal view"><button type="button" data-view-choice="grid" aria-pressed="true" aria-label="Grid view">Grid</button><button type="button" data-view-choice="list" aria-pressed="false" aria-label="List view">List</button></div>
+<div class="home-filters" aria-label="Filter deals">{filters.map(([key,label],i) => <button type="button" data-filter-choice={key} aria-pressed={i===0 ? 'true':'false'}>{label}</button>)}</div><a class="free-filter-link" href="/free/">Free →</a><label class="sort-label">Sort <select aria-label="Sort deals"><option value="recommended">Recommended</option><option value="off">Biggest discount</option><option value="until">Ending soonest</option><option value="price">Lowest price</option><option value="low">Newest low first</option></select></label><div class="view-toggle" aria-label="Deal view"><button type="button" data-view-choice="grid" aria-pressed="true" aria-label="Grid view">Grid</button><button type="button" data-view-choice="list" aria-pressed="false" aria-label="List view">List</button></div>
 <script is:inline>
   const initView = () => {
     const saleGrid = document.querySelector('#sale-grid'); if (!saleGrid) return;
@@ -11,13 +11,19 @@ const filters = [['all','All'],['ending','Ending soon'],['new-low','New lows'],[
     document.querySelectorAll('[data-view-choice]').forEach(button => button.addEventListener('click', () => updateView(button.dataset.viewChoice)));
   };
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', initView); else initView();
+  document.querySelector('[aria-label="Sort deals"]')?.addEventListener('change', event => {
+    const key = event.target.value;
+    document.querySelectorAll('#sale-grid .grid-item').forEach(item => { item.style.order = key === 'recommended' ? '' : item.dataset['order' + key[0].toUpperCase() + key.slice(1)]; });
+  });
   document.querySelectorAll('[data-filter-choice]').forEach(button => button.addEventListener('click', () => {
     const value = button.dataset.filterChoice;
+    document.querySelector('#sale-grid').dataset.filtered = String(value !== 'all');
     document.querySelectorAll('[data-filter-choice]').forEach(b => b.setAttribute('aria-pressed', String(b === button)));
-    document.querySelectorAll('#sale-grid [data-deal-card]').forEach(card => { const item = card.closest('.grid-item'); item.hidden = value !== 'all' ? !card.dataset.filter.split(' ').includes(value) : false; if (value !== 'all') { item.removeAttribute('data-extra'); item.querySelectorAll('[data-image-src]').forEach(holder => { const img = document.createElement('img'); img.src = holder.dataset.imageSrc; img.alt = ''; img.width = 640; img.height = 400; img.loading = 'lazy'; img.decoding = 'async'; holder.replaceWith(img); }); } });
+    document.querySelectorAll('#sale-grid [data-deal-card]').forEach(card => { const item = card.closest('.grid-item'); item.hidden = value !== 'all' ? !card.dataset.filter.split(' ').includes(value) : false; if (value !== 'all' && !item.hidden) { item.querySelectorAll('[data-image-src]').forEach(holder => { const img = document.createElement('img'); img.src = holder.dataset.imageSrc; img.alt = ''; img.width = 640; img.height = 400; img.loading = 'lazy'; img.decoding = 'async'; holder.replaceWith(img); }); } });
     const more = document.querySelector('#show-more-deals'); if (more) more.hidden = value !== 'all';
   }));
 </script>
 <style>.home-filters{display:flex;gap:.4rem;overflow-x:auto;padding:.3rem 0 .8rem;scrollbar-width:thin}.home-filters button{flex:none;padding:.4rem .65rem;background:var(--bg-card);border:1px solid var(--border);color:var(--text-secondary);font:.7rem var(--font-mono);cursor:pointer}.home-filters button[aria-pressed=true]{background:var(--accent);color:var(--bg-base);border-color:var(--accent)}</style>
 
 <style>.view-toggle{display:flex;gap:.3rem;margin:-.4rem 0 .8rem}.view-toggle button{padding:.25rem .7rem;border:1px solid var(--border);background:var(--bg-card);color:var(--text-secondary);cursor:pointer}.view-toggle button[aria-pressed="true"]{background:var(--accent);color:var(--bg-base)}</style>
+<style>.free-filter-link,.sort-label{font:.7rem var(--font-mono);color:var(--text-secondary)}.free-filter-link{display:inline-block;margin:0 .8rem .7rem 0}.sort-label select{margin:0 0 .7rem .3rem;padding:.3rem;background:var(--bg-card);border:1px solid var(--border);color:var(--text-primary);font:inherit}</style>

@@ -24,3 +24,21 @@ test('home feature uses four rows, text category chips, and sourced formats', ()
   assert.equal((categories.match(/<img\b/g) ?? []).length, 0);
   assert.match(html, /variant-spotlight[^>]*data-formats="[^"]+"/);
 });
+test('every sale grid item has four order attributes', () => {
+  const html = readFileSync(new URL('../dist/index.html', import.meta.url), 'utf8');
+  const items = [...html.matchAll(/<div class="grid-item"[^>]*>/g)].map(match => match[0]);
+  assert.ok(items.length > 0);
+  assert.equal(items.filter(item => !item.includes('data-extra')).length, 12);
+  for (const item of items) for (const key of ['off', 'until', 'price', 'low']) assert.match(item, new RegExp(`data-order-${key}="\\d+"`));
+});
+test('has-demo filter matches video-bearing sale cards', () => {
+  const html = readFileSync(new URL('../dist/index.html', import.meta.url), 'utf8');
+  const items = [...html.matchAll(/<div class="grid-item"[^>]*>([\s\S]*?)<\/article><\/div>/g)].map(match => match[1]);
+  assert.ok(items.length > 0);
+  assert.equal(items.filter(item => /data-filter="[^"]*has-demo/.test(item)).length, items.filter(item => /data-video-id="[^"]+"/.test(item)).length);
+});
+test('sorting preserves the initial extra-card gate', () => {
+  const filters = readFileSync(new URL('../src/components/HomeFilters.astro', import.meta.url), 'utf8');
+  assert.match(filters, /item\.style\.order =/);
+  assert.doesNotMatch(filters, /removeAttribute\('data-extra'\)/);
+});
