@@ -8,6 +8,7 @@ import { ownChecks, ownLowBefore, rarityTag, urgencyTag, supportChips } from './
 import { composeHeadline } from './headline.mjs';
 import { taglineForProduct, makerQuoteForProduct } from './dealCopy.mjs';
 import { cardCopyLine } from './cardCopy.mjs';
+import { formatsLine } from './pluginFacts.mjs';
 
 export function aboveUsualState(entry, current, now) { const low = ownLowBefore(entry, now); return low ? { above: current > low.low + 0.01, ...low } : null; }
 
@@ -46,7 +47,7 @@ export function cardTarget(deal, priceData) {
   return pbLink(deal.entry.pb_url, 'chan=home', { medium: 'homepage', campaign: 'home-card', data1: slugify(deal.name) });
 }
 
-export function toCardModel(deal, { entries, priceData, now, videos = {}, copy = {} }) {
+export function toCardModel(deal, { entries, priceData, now, videos = {}, copy = {}, facts = {} }) {
   const id = pbProductId(deal.entry.pb_url);
   const siblings = Object.values(entries).filter(entry => entry !== deal.entry && pbProductId(entry.pb_url) === id);
   const brand = deal.brand ?? detectBrand(deal.name, deal.entry.notes);
@@ -65,7 +66,7 @@ export function toCardModel(deal, { entries, priceData, now, videos = {}, copy =
   const cardUrgency = aboveUsual ? null : urgency;
   const videoRecord = videos[deal.name];
   const video = videoRecord?.video_id || videoRecord?.id ? { id: videoRecord.video_id ?? videoRecord.id, official: videoRecord.official === true, title: videoRecord.title ?? '', channel: videoRecord.channel ?? '' } : null;
-  return { key: deal.name, brand, product, category, tagline, copyLine: cardCopyLine({ tagline, makerQuote: makerQuoteForProduct(deal.name, copy), brand }), headline: aboveUsual ? `${brand ? `${brand} ` : ''}${product}: above its previous low` : composeHeadline({ brand, product, category, tagline, off: deal.off, state: 'live' }), off: deal.off, offTone: aboveUsual ? 'muted' : 'strong', current: deal.current, regular: deal.regular, until, urgency: cardUrgency, rarity: aboveUsual ? null : rarity, aboveUsual, ownLow: aboveUsual ? aboveState : null, chips: aboveUsual ? [`Was $${Number.isInteger(aboveState.low) ? aboveState.low : aboveState.low.toFixed(2)} on sale in ${aboveState.month}`] : deal.kind === 'tracker' ? supportChips(deal.entry, now, 2) : [], image, href: cardTarget(deal, priceData), ctaHref, video, filters: [category.toLowerCase(), ...(cardUrgency ? ['ending'] : []), ...(rarity?.type === 'new-low' && !aboveUsual ? ['new-low'] : []), ...(deal.current < 50 ? ['under-50'] : []), ...(category === 'Bundle' ? ['bundles'] : [])], score: deal.score, tier: tierOf(brand) };
+  return { key: deal.name, brand, product, category, tagline, formats: formatsLine(facts[deal.name]), copyLine: cardCopyLine({ tagline, makerQuote: makerQuoteForProduct(deal.name, copy), brand }), headline: aboveUsual ? `${brand ? `${brand} ` : ''}${product}: above its previous low` : composeHeadline({ brand, product, category, tagline, off: deal.off, state: 'live' }), off: deal.off, offTone: aboveUsual ? 'muted' : 'strong', current: deal.current, regular: deal.regular, until, urgency: cardUrgency, rarity: aboveUsual ? null : rarity, aboveUsual, ownLow: aboveUsual ? aboveState : null, chips: aboveUsual ? [`Was $${Number.isInteger(aboveState.low) ? aboveState.low : aboveState.low.toFixed(2)} on sale in ${aboveState.month}`] : deal.kind === 'tracker' ? supportChips(deal.entry, now, 2) : [], image, href: cardTarget(deal, priceData), ctaHref, video, filters: [category.toLowerCase(), ...(cardUrgency ? ['ending'] : []), ...(rarity?.type === 'new-low' && !aboveUsual ? ['new-low'] : []), ...(deal.current < 50 ? ['under-50'] : []), ...(category === 'Bundle' ? ['bundles'] : [])], score: deal.score, tier: tierOf(brand) };
 }
 
 export function pickSpotlight(cards) { const eligible = cards.filter(c => !c.aboveUsual); const preferred = eligible.filter(c => c.image.kind !== 'typographic' && ['S', 'A'].includes(c.tier) && (c.rarity || c.off >= 50)); const group = preferred.length ? preferred : eligible.filter(c => c.image.kind !== 'typographic'); const first = group[0] ?? eligible[0]; const tierRank = tier => ({ S: 0, A: 1, B: 2, C: 3 })[tier] ?? 4; return group.find(c => c.copyLine?.text && tierRank(c.tier) <= tierRank(first?.tier)) ?? first ?? null; }

@@ -58,7 +58,7 @@ test('quarantine scans rendered DealCard tagline markup', () => {
   const markup = '<p class="card-copy-line" data-copy-kind="tagline">Pristine plate reverb</p>';
   assert.equal(hasBannedRenderedTagline(markup), true);
   assert.equal(hasBannedRenderedTagline('<p class="card-copy-line" data-copy-kind="maker_quote">Pristine plate reverb</p>'), false);
-  const source = readFileSync(new URL('../src/components/DealCard.astro', import.meta.url), 'utf8');
+  const source = fs.readFileSync(new URL('../src/components/DealCard.astro', import.meta.url), 'utf8');
   assert.match(source, /data-copy-kind="tagline"/);
   assert.match(source, /data-copy-kind="maker_quote"/);
 });
