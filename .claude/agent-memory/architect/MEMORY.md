@@ -1,0 +1,1 @@
+- [UX導線設計時のデプロイ乖離(2026-10-23)](project_ux_home_funnel_deploy_gap_2026-10-23.md) — T0〜T4はWindowsのみ・本番未反映。Mac innerと分岐。maker_quote/official/image_lg未生成。設計書 docs/design-ux-home-funnel-2026-10-23.md
