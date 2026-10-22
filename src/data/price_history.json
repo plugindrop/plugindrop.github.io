@@ -10039,7 +10039,7 @@
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/5842-CARBON",
       "typical_regular": 129.0,
       "typical_sale": 9.0,
-      "all_time_low": 9.0,
+      "all_time_low": 6.66,
       "notes": "auto-crawl 2026-07-12",
       "category": null,
       "history": [
@@ -10654,6 +10654,15 @@
           "source": "auto_check",
           "store": "plugin_boutique",
           "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-10-22",
+          "sale": 6.66,
+          "regular": 129.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
           "cur": "USD"
         }
       ],
@@ -86748,6 +86757,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2027-01-10"
+        },
+        {
+          "date": "2026-10-22",
+          "sale": 9.0,
+          "regular": 29.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/usynth-core.jpg"
@@ -94443,6 +94461,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-10-31"
+        },
+        {
+          "date": "2026-10-22",
+          "sale": 19.0,
+          "regular": 49.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/drivedat.jpg"

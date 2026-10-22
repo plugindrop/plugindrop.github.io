@@ -148,7 +148,7 @@ test('empty audit index only removes pages whose indexability depended on archiv
     'Arturia Augmented STRINGS', 'FabFilter Pro-G', 'FabFilter Pro-L 2', 'FabFilter Pro-MB',
     'FabFilter Pro-Q 4', 'FabFilter Saturn 2', 'FabFilter Timeless 3', 'FabFilter Twin 3',
     'FabFilter Total Bundle', 'Kilohearts Phase Plant', 'Soundtoys Decapitator',
-    'u-he Bazille', 'u-he Hive 2', 'u-he Repro', 'u-he Satin',
+    'Pigments 7', 'u-he Bazille', 'u-he Hive 2', 'u-he Repro', 'u-he Satin',
   ];
   const removed = all.filter(([, e]) => prior(e) && !empty(e)).map(([n]) => n);
   assert.ok(removed.every((n) => removedKnown.includes(n)), `unexpected archive-dependent pages: ${removed}`);

@@ -16,7 +16,7 @@ test('Phase D directories render product imagery and shared cards', () => {
 });
 
 test('Phase D detail keeps its price data below an image led buy box', () => {
-  const page = html('plugin-prices/arturia-pigments');
+  const page = html('plugin-prices/pigments-7');
   assert.match(page, /class="product-showcase"/);
   assert.match(page, /class="product-signals"/);
   assert.ok(page.indexOf('class="product-showcase"') < page.indexOf('>Price History</h2>'));
