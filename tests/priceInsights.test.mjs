@@ -71,31 +71,39 @@ const facts = (history, extras = {}) => buildPageFacts(entry(history, extras), {
 const answers = (f) => buildDecisionAnswers('Test', f, 'Available.');
 const peer = (name, category, price) => ({ name, entry: entry([], { category, typical_sale: price, typical_regular: price }) });
 
-test('sameCategoryPeers suppresses missing categories and fewer than two priced peers', () => {
+test('sameCategoryPeers resolves missing categories and excludes unmatched peers', () => {
   const self = entry([], { category: 'Reverb', typical_sale: 50 });
   assert.deepEqual(sameCategoryPeers(entry([]), 'Self', [peer('A', 'Reverb', 10), peer('B', 'Reverb', 20)]), []);
-  assert.deepEqual(sameCategoryPeers(self, 'Self', [peer('A', 'Reverb', 10), peer('B', 'Synth', 20)]), []);
-  assert.deepEqual(sameCategoryPeers(self, 'Self', [peer('A', 'Reverb', 10), peer('B', 'reverb', 20)]), []);
-  assert.deepEqual(sameCategoryPeers(self, 'Self', [peer('A', 'Reverb', 10), peer('B', 'Reverb', null)]), []);
+  assert.deepEqual(sameCategoryPeers(self, 'Self', [peer('A', 'Reverb', 10), peer('B', 'Synth', 20)]).map(({ name }) => name), ['A']);
+  const inferred = (name, candidate) => candidate.category ?? (name === 'Self' || name === 'A' ? 'Reverb' : 'Synth');
+  assert.deepEqual(sameCategoryPeers(entry([]), 'Self', [peer('A', 'Reverb', 10), peer('B', 'Synth', 20)], inferred).map(({ name }) => name), ['A']);
 });
 
-test('sameCategoryPeers returns at most three peers in current-price order', () => {
+test('sameCategoryPeers returns at most four peers in current-price order', () => {
   const self = entry([], { category: 'Reverb', typical_sale: 5 });
   const candidates = [peer('D', 'Reverb', 40), peer('B', 'Reverb', 20), peer('A', 'Reverb', 10), peer('C', 'Reverb', 30)];
-  assert.deepEqual(sameCategoryPeers(self, 'Self', candidates).map(({ name }) => name), ['A', 'B', 'C']);
+  assert.deepEqual(sameCategoryPeers(self, 'Self', candidates).map(({ name }) => name), ['A', 'B', 'C', 'D']);
   assert.deepEqual(candidates.map(({ name }) => name), ['D', 'B', 'A', 'C']);
 });
 
-test('sameCategoryPeers selects only cheaper peers when at least two qualify', () => {
+test('sameCategoryPeers includes tracked category peers in price order', () => {
   const self = entry([row('2026-09-26', 50, null)], { category: 'Reverb', typical_sale: 5 });
   const candidates = [peer('Expensive', 'Reverb', 60), peer('Cheap B', 'Reverb', 20), peer('Cheap A', 'Reverb', 10)];
-  assert.deepEqual(sameCategoryPeers(self, 'Self', candidates).map(({ name }) => name), ['Cheap A', 'Cheap B']);
+  assert.deepEqual(sameCategoryPeers(self, 'Self', candidates).map(({ name }) => name), ['Cheap A', 'Cheap B', 'Expensive']);
 });
 
 test('sameCategoryPeers excludes the current product even if passed as a candidate', () => {
   const self = entry([], { category: 'Reverb', typical_sale: 50 });
   const candidates = [{ name: 'Self', entry: self }, peer('A', 'Reverb', 10), peer('B', 'Reverb', 20)];
   assert.deepEqual(sameCategoryPeers(self, 'Self', candidates).map(({ name }) => name), ['A', 'B']);
+});
+
+test('sameCategoryPeers puts a current sale ahead of a cheaper list price', () => {
+  const today = new Date().toISOString().slice(0, 10);
+  const self = entry([], { category: 'Reverb' });
+  const live = { name: 'Live', entry: entry([{ date: today, sale: 25, regular: 50, source: 'auto_check' }], { category: 'Reverb' }) };
+  const list = peer('List', 'Reverb', 10);
+  assert.deepEqual(sameCategoryPeers(self, 'Self', [list, live]).map(({ name }) => name), ['Live', 'List']);
 });
 
 test('basis classifies only reviewed evidence and uses evidence date and price', () => {

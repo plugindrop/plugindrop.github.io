@@ -6,9 +6,15 @@ import { SITE_TITLE } from '../../consts';
 import priceData from '../../data/price_history.json';
 import dealCopy from '../../data/deal_copy.json';
 import NotableUsers from '../../components/NotableUsers.astro';
+import ProductFacts from '../../components/ProductFacts.astro';
+import PriceStatTiles from '../../components/PriceStatTiles.astro';
+import AlternativesRail from '../../components/AlternativesRail.astro';
+import pluginFacts from '../../data/plugin_facts.json';
 import notableUsers from '../../data/notable_users.json';
-import { resolveCardImage } from '../../lib/homeDeals.mjs';
-import { taglineForProduct } from '../../lib/dealCopy.mjs';
+import { resolveCardImage, toCardModel } from '../../lib/homeDeals.mjs';
+import { taglineForProduct, makerQuoteForProduct } from '../../lib/dealCopy.mjs';
+import { cardCopyLine } from '../../lib/cardCopy.mjs';
+import { priceStatTiles } from '../../lib/priceStats.mjs';
 import { rarityTag, supportChips } from '../../lib/dealSignals.mjs';
 import { composeHeadline } from '../../lib/headline.mjs';
 import { detectBrand } from '../../lib/brands.mjs';
@@ -147,6 +153,10 @@ const off = onSale ? pctOff(current, regular) : 0;
 const productBrand = detectBrand(name, entry.notes);
 const productName = productBrand && name.toLowerCase().startsWith(productBrand.toLowerCase() + ' ') ? name.slice(productBrand.length).trim() : name;
 const tagline = taglineForProduct(name, dealCopy);
+const makerQuote = makerQuoteForProduct(name, dealCopy);
+const copyLine = cardCopyLine({ tagline, makerQuote, brand: productBrand });
+const makerAttribution = productBrand ?? (makerQuote ? new URL(makerQuote.source_url).hostname.replace(/^www\./, '') : null);
+const productFacts = (pluginFacts as Record<string, any>)[name] ?? null;
 const notableKey = String(entry.pbProductId ?? entry.pb_url?.match(/\/(\d+)(?:-[^/]*)?\/?$/)?.[1] ?? name);
 const verifiedLive = dealState(entry, Date.now()) === 'live';
 const headline = `${name.replace(/^Universal Audio UAD\s+/i, 'Universal Audio ').replace(/^Solid State Logic SSL\s+/i, 'Solid State Logic ')} price history`.slice(0, 70).trimEnd();
@@ -154,6 +164,7 @@ const productImage = resolveCardImage({ entry, siblings: Object.values({ ...pric
 const rarity = verifiedLive ? rarityTag(entry, Date.now()) : null;
 const chips = supportChips(entry, Date.now(), 2);
 const facts = buildPageFacts(entry, { buildDate: data.last_updated });
+const statTiles = priceStatTiles(entry, Date.now());
 const seenLow = lowestSeen(entry);
 const verdictCopy = summarizeVerdict(name, facts);
 const researchNote = buildResearchNote(name, facts);
@@ -362,7 +373,11 @@ function versusToday(price: number): string {
 
 // --- Other tracked products in the same category ----------------------------
 const indexableEntries = allStaticEntries().filter((e) => isPricePageIndexable(e.entry));
-const peers = sameCategoryPeers(entry, name, indexableEntries);
+const peers = sameCategoryPeers(entry, name, indexableEntries, categoryForProduct);
+const peerDeals = peers.map(peer => {
+  const peerRegular = regularPriceOf(peer.entry);
+  return toCardModel({ name: peer.name, entry: peer.entry, kind: 'tracker', post: null, current: peer.price, regular: peerRegular ?? peer.price, off: peerRegular && peerRegular > peer.price ? Math.round((1 - peer.price / peerRegular) * 100) : 0, score: 0 }, { entries: { ...data.plugins, ...data.bundles }, priceData: data, now: Date.now(), videos: productVideos, copy: dealCopy, facts: pluginFacts });
+});
 
 // --- Meta / JSON-LD -----------------------------------------------------------
 const pageTitle = `${name} Price History & Sale Tracker | ${SITE_TITLE}`;
@@ -811,10 +826,11 @@ const faqLD = {
         {publishedHub && <a href={`/best/${publishedHub.slug}/`}>Compare {publishedHub.label} plugins and guides</a>}
         <div class="product-showcase">
           {productImage.src && <img src={productImage.large ?? productImage.src} alt="" width="640" height="400" loading="eager" />}
-          <div><h1>{headline}</h1>{tagline && <p class="product-tagline">{tagline}</p>}
+          <div><h1>{headline}</h1>{copyLine.kind === 'tagline' && <p class="product-tagline" data-copy-kind="tagline">{copyLine.text}</p>}{copyLine.kind === 'maker' && <p class="product-tagline" data-copy-kind="maker_quote"><q cite={copyLine.cite}>{copyLine.text}</q> — {copyLine.attribution}</p>}
           <div class="product-signals">{rarity && <span data-rarity={rarity.type} title={rarity.full}>{rarity.text}</span>}{chips.map(chip => <span>{chip}</span>)}</div></div>
         </div>
 
+        <ProductFacts facts={productFacts} />
         <NotableUsers records={(notableUsers as Record<string, any[]>)[notableKey] ?? []} brand={productBrand ?? ''} />
 
       {demoVideo && (
@@ -835,6 +851,7 @@ const faqLD = {
           {onSale && off > 0 && <span class="off-badge">-{off}%</span>}
         </div>
         <p class="last-checked">{checkedLabel}</p>
+        <PriceStatTiles tiles={statTiles} />
 
         {(() => {
           const cls = fableVerdict === 'BUY NOW' ? 'buy-now' : fableVerdict === 'FAIR SALE' ? 'fair-sale' : fableVerdict === 'AVERAGE' ? 'average' : 'wait';
@@ -843,6 +860,7 @@ const faqLD = {
               <div class="verdict-answer">
                 <span id="verdict-word" class={`verdict-chip-large ${cls}`}>{fableVerdict}</span>
                 <span class="verdict-score">{dealScore.score} / 100</span>
+                <a href="/how-we-track-prices/#deal-score">How we score →</a>
               </div>
               <p class="verdict-copy">{verdictCopy}</p>
               {showVerdictAlert && (
@@ -895,6 +913,8 @@ const faqLD = {
           </div>
         </div>
       </section>
+
+      {makerQuote && <section class="page-section" data-maker-quote><h2 class="section-title">What the maker says</h2><blockquote><q cite={makerQuote.source_url}>{makerQuote.quote}</q> — {makerAttribution}</blockquote><a href={makerQuote.source_url} rel="nofollow noopener" target="_blank">Source</a></section>}
 
       <section class="page-section" id="decision">
         <h2 class="section-title">Buy now or wait? — what our records show</h2>
@@ -1151,35 +1171,11 @@ const faqLD = {
         </section>
       )}
 
-      {demoVideo && (
-        <section class="page-section" data-video-official={String(demoVideo.official === true)}>
-          <h2 class="section-title">Watch It In Action</h2>
-          <div class="video-embed">
-            <iframe
-              loading="lazy"
-              src={`https://www.youtube-nocookie.com/embed/${demoVideo.video_id}`}
-              title={demoVideo.title}
-              allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
-          </div>
-          <p class="video-caption">{demoVideo.official === true ? 'Official demo' : `Demo by ${demoVideo.channel}`} · {demoVideo.title} — {demoVideo.channel} (YouTube)</p>
-        </section>
-      )}
-
-      {peers.length >= 2 && (
-        <section class="page-section">
-          <h2 class="section-title">Other {entry.category} plugins we track</h2>
-          <div class="alt-grid">
-            {peers.map((alt) => (
-              <a href={`/plugin-prices/${slugifyProduct(alt.name)}/`} class="alt-card">
-                <p class="alt-name">{alt.name}</p>
-                <span class="alt-price">{formatPrice(alt.price)}</span>
-              </a>
-            ))}
-          </div>
-        </section>
-      )}
+      <AlternativesRail deals={peerDeals} />
+      {demoVideo && <section class="page-section" data-video-official={String(demoVideo.official === true)} data-video-id={demoVideo.video_id} data-video-title={demoVideo.title}>
+        <h2 class="section-title">Watch It In Action</h2>
+        <button type="button" data-demo-open data-video-id={demoVideo.video_id} title={demoVideo.title} class="video-play" style="display:flex;align-items:center;gap:1rem;width:100%;max-width:640px;padding:.5rem;border:1px solid var(--border);background:var(--bg-card);color:var(--text-primary);cursor:pointer;text-align:left"><img src={`https://img.youtube.com/vi/${demoVideo.video_id}/hqdefault.jpg`} alt="" width="480" height="360" loading="lazy" style="width:45%;height:auto;aspect-ratio:4/3;object-fit:cover" /><span>▶ {demoVideo.official === true ? 'Watch the official demo' : `Watch a demo (${demoVideo.channel})`}</span></button>
+      </section>}
 
       {guides.length > 0 && (
         <section class="page-section">
@@ -1201,6 +1197,7 @@ const faqLD = {
 
     </main>
     <Footer />
+    <script src="/js/pip-preview.js" defer></script>
     <script is:inline>
       // Demo button
       (function() {
