@@ -87,7 +87,27 @@ export function endingSoon(cards) { return cards.filter(c => c.urgency && ['ends
 export function brandSaleClusters(cards, entries = {}) {
   const groups = new Map();
   for (const c of cards) if (c.brand && c.until && !c.aboveUsual) { const key = `${c.brand}|${c.until}`; groups.set(key, [...(groups.get(key) ?? []), c]); }
-  return [...groups.values()].filter(g => g.length >= 3).sort((a, b) => b.length - a.length).slice(0, 2).map(g => ({ brand: g[0].brand, until: g[0].until, cards: g.slice(0, 4), count: g.length, href: brandHref(g[0].brand, entries) }));
+  return [...groups.values()].filter(g => g.length >= 3).sort((a, b) => b.length - a.length).slice(0, 2).map(g => ({ brand: g[0].brand, until: g[0].until, cards: g.slice(0, 4), summary: clusterSummary(g), count: g.length, href: brandHref(g[0].brand, entries) }));
+}
+export function clusterSummary(cards) {
+  const discounts = cards.map(card => card.off).filter(off => Number.isFinite(off) && off > 0);
+  return { count: cards.length, min: discounts.length ? Math.min(...discounts) : null, max: discounts.length ? Math.max(...discounts) : null };
+}
+export function allocateSections(cards, budget = 28) {
+  const spotlight = cards.spotlight ?? null;
+  const hot = [...(cards.hot ?? [])];
+  const clusters = (cards.clusters ?? []).filter(cluster => cluster.cards?.length).map(cluster => ({ ...cluster, cards: [...cluster.cards] }));
+  const soon = [...(cards.soon ?? [])];
+  const grid = [...(cards.grid ?? [])];
+  let initial = Math.min(12, grid.length);
+  const total = () => Number(!!spotlight) + hot.length + clusters.reduce((sum, cluster) => sum + cluster.cards.length, 0) + soon.length + initial;
+  while (total() > budget && initial > 8) initial--;
+  while (total() > budget && soon.length) soon.pop();
+  while (total() > budget && clusters.length > 1) clusters.pop();
+  while (total() > budget && initial) initial--;
+  while (total() > budget && hot.length) hot.pop();
+  while (total() > budget && clusters.length) clusters.pop();
+  return { spotlight: total() <= budget ? spotlight : null, hot, clusters, soon, gridInitial: grid.slice(0, initial), gridExtra: grid.slice(initial) };
 }
 const CATEGORY_GROUPS = [
   ['Synths', ['Synth']], ['Reverb & Delay', ['Reverb', 'Delay']], ['Compression', ['Compressor']], ['EQ & Mixing', ['EQ', 'Utility']], ['Mastering', ['Mastering', 'Limiter']], ['Saturation', ['Saturation']], ['Instruments', ['Instrument', 'Drums', 'Vocal']], ['Bundles', ['Bundle']],

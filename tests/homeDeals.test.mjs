@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import { strict as assert } from 'node:assert';
-import { buildDealPool, resolveCardImage, toCardModel, orderForVariety, aboveUsualState, pickSpotlight, endingSoon, brandSaleClusters } from '../src/lib/homeDeals.mjs';
+import { buildDealPool, resolveCardImage, toCardModel, orderForVariety, aboveUsualState, pickSpotlight, endingSoon, brandSaleClusters, allocateSections, clusterSummary } from '../src/lib/homeDeals.mjs';
 const now=Date.parse('2026-10-17T12:00:00Z');
 const entry=(id,image)=>({pb_url:`/product/1/2/${id}-product`,image,history:[{date:'2026-10-16',source:'auto_check',sale:20,regular:100}]});
 test('PB id dedupe and search URLs excluded',()=>{
@@ -69,4 +69,20 @@ test('above usual needs a prior own sale, retains discount and mutes signals',()
   assert.deepEqual(endingSoon([model]),[]);
   assert.deepEqual(brandSaleClusters([model,model,model]),[]);
   assert.equal(aboveUsualState({...tracked,history:[tracked.history[2]]},20,now),null);
+});
+test('cluster summary uses every member, including cards beyond the displayed four',()=>{
+  assert.deepEqual(clusterSummary([{off:30},{off:55},{off:60},{off:70},{off:85}]),{count:5,min:30,max:85});
+});
+test('section budget trims grid, soon, then the second brand row',()=>{
+  const items=n=>Array.from({length:n},(_,i)=>({key:String(i),brand:`B${i}`}));
+  const input={spotlight:items(1)[0],hot:items(4),clusters:[{cards:items(4)},{cards:items(4)}],soon:items(4),grid:items(72)};
+  const at28=allocateSections(input);
+  assert.equal(1+at28.hot.length+at28.clusters.reduce((n,c)=>n+c.cards.length,0)+at28.soon.length+at28.gridInitial.length,28);
+  assert.equal(at28.gridInitial.length,11);
+  assert.equal(at28.gridExtra.length,61);
+  const at17=allocateSections(input,17);
+  assert.equal(at17.gridInitial.length,8);
+  assert.equal(at17.soon.length,0);
+  assert.equal(at17.clusters.length,1);
+  assert.deepEqual(allocateSections({spotlight:null,hot:[],clusters:[],soon:[],grid:[]}),{spotlight:null,hot:[],clusters:[],soon:[],gridInitial:[],gridExtra:[]});
 });
