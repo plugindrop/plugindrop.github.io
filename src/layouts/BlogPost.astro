@@ -21,6 +21,7 @@ import FactCard from '../components/FactCard.astro';
 import PlanTable from '../components/PlanTable.astro';
 import LegacyFactCard from '../components/LegacyFactCard.astro';
 import DealMath from '../components/DealMath.astro';
+import AlternativesRail from '../components/AlternativesRail.astro';
 import NotableUsers from '../components/NotableUsers.astro';
 import notableUsers from '../data/notable_users.json';
 import NewerVersionNotice from '../components/NewerVersionNotice.astro';
@@ -37,10 +38,14 @@ import { urgencyTag, rarityTag, supportChips } from '../lib/dealSignals.mjs';
 import { composeHeadline, composeSeoTitle } from '../lib/headline.mjs';
 import { validatedTagline } from '../lib/dealCopy.mjs';
 import dealCopy from '../data/deal_copy.json';
-import { comparisonPriceFacts } from '../lib/priceInsights.mjs';
+import pluginFacts from '../data/plugin_facts.json';
+import productVideos from '../data/product_videos.json';
+import { comparisonPriceFacts, sameCategoryPeers } from '../lib/priceInsights.mjs';
+import { toCardModel } from '../lib/homeDeals.mjs';
+import { isPricePageIndexable } from '../lib/indexPolicy.mjs';
 import { SITE_TITLE } from '../consts';
 import priceDataRaw from '../data/price_history.json';
-import { type PriceEntry, formatPrice, pbLink } from '../lib/priceUtils';
+import { type PriceEntry, formatPrice, pbLink, regularPriceOf } from '../lib/priceUtils';
 import {
 	findTrackerEntryForPost,
 	buildFactBox,
@@ -162,6 +167,14 @@ const _countdownExpiry = _trackerMatch ? (/^\d{4}-\d{2}-\d{2}$/.test(_trackerUnt
 const productName = productNameOf(_postForMatch);
 const _showProductCta = shouldShowProductCta({ slug: currentSlug, tags, kind: _catalog?.kind });
 const _isSingleProductDeal = isSingleProductDeal({ slug: currentSlug, tags, kind: _catalog?.kind, match: _trackerMatch, fact: _fact, dealPrice });
+const _alternativeCandidates = Object.entries(_allTrackerEntries)
+	.filter(([, entry]) => isPricePageIndexable(entry))
+	.map(([name, entry]) => ({ name, entry, kind: _bundleNames.has(name) ? 'bundle' : 'plugin' }));
+const _alternatives = _isSingleProductDeal && _trackerMatch
+	? sameCategoryPeers(_trackerMatch.entry, _trackerMatch.name, _alternativeCandidates, categoryForProduct).map((peer) => {
+		const regular = regularPriceOf(peer.entry);
+		return toCardModel({ name: peer.name, entry: peer.entry, kind: 'tracker', post: null, current: peer.price, regular: regular ?? peer.price, off: regular && regular > peer.price ? Math.round((1 - peer.price / regular) * 100) : 0, score: 0 }, { entries: _allTrackerEntries, priceData, now: Date.now(), videos: productVideos, copy: dealCopy, facts: pluginFacts });
+	}) : [];
 // The tracker's own observation wins over stale frontmatter: if the last
 // actual store check found the sale ended but saleExpiry hasn't caught up
 // yet, treat this as ended everywhere the CTA/fact-box/Product schema look.
@@ -1216,13 +1229,19 @@ const featuredDeals = isEvergreen ? allPosts
 					<!-- Article content (from markdown) -->
 					{/* Owner decides final placement; keep this after the deal-why copy. */}
 					{_isSingleProductDeal && <NotableUsers records={(notableUsers as Record<string, any[]>)[_notableKey] ?? []} brand={_dealBrand ?? ''} />}
-					{(_showFactsTable || _showFactCard || _showPlanTable || _showLegacyFactCard) && <section id="compare-table">
+					{(_showFactsTable || _showPlanTable || _showLegacyFactCard) && <section id="compare-table">
 						<h2>{_showPlanTable ? 'Editions and prices' : _showFactsTable && _compareModel.free ? 'Verified facts from developer pages' : 'Compare the products in this guide'}</h2>
 						{_showPlanTable ? <PlanTable vendorProducts={_currentVendorIds} kind={_catalog?.kind as 'comparison' | 'review'} /> : _showLegacyFactCard ? <LegacyFactCard vendorProduct={_legacyId!} /> : _showFactsTable ? _compareModel.mode === 'table' ? <FactsTable model={_compareModel} /> : <VerifiedFactsList model={_compareModel} /> : _currentVendorIds.length ? <FactCard vendorProduct={_currentVendorIds[0]} slug={currentSlug} /> : <FactCard product={_catalogProducts[0]} slug={currentSlug} />}
 						<DealMath names={_catalogProducts} entries={_catalogProducts.map((name) => _allTrackerEntries[name])} />
 					</section>}
 					{_newerProduct && <NewerVersionNotice product={_newerProduct} />}
 					<slot />
+					{_showFactCard && <section id="compare-table">
+						<h2>Compare the products in this guide</h2>
+						{_currentVendorIds.length ? <FactCard vendorProduct={_currentVendorIds[0]} slug={currentSlug} /> : <FactCard product={_catalogProducts[0]} slug={currentSlug} />}
+						<DealMath names={_catalogProducts} entries={_catalogProducts.map((name) => _allTrackerEntries[name])} />
+					</section>}
+					<AlternativesRail deals={_alternatives} />
 					{dealPrice && <PriceRecord entry={_trackerMatch?.entry} />}
 					{_catalogProducts.length === 1 && <VersionHistory product={_catalogProducts[0]} />}
 

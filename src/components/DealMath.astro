@@ -4,7 +4,7 @@ import { formatPrice } from '../lib/priceUtils.ts';
 
 interface Props { entries: any[]; names: string[] }
 const { entries, names } = Astro.props;
-const rows = entries.map((entry, index) => ({ name: names[index], value: nowVsTypical(entry) })).filter((row) => row.value !== null);
+const rows = entries.map((entry, index) => ({ name: names[index], value: nowVsTypical(entry) })).filter((row) => row.value !== null && row.value.difference !== 0);
 const total = entries.length >= 3 ? topNTotal(entries, 3) : null;
 ---
 {(rows.length > 0 || total) && <div class="price-math" data-price-math>
