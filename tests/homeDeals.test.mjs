@@ -87,3 +87,14 @@ test('section budget trims grid, soon, then the second brand row',()=>{
   assert.equal(at17.clusters.length,1);
   assert.deepEqual(allocateSections({spotlight:null,hot:[],clusters:[],soon:[],grid:[]}),{spotlight:null,hot:[],clusters:[],soon:[],gridInitial:[],gridExtra:[]});
 });
+
+test('alternative cards use their page channel and home keeps home channel', () => {
+  const tracked=entry(12345,'/images/product.jpg');
+  const deal={name:'Waves Plate',entry:tracked,kind:'tracker',post:null,current:20,regular:100,off:80,score:1};
+  const base={entries:{'Waves Plate':tracked},priceData:{plugins:{},bundles:{}},now};
+  for (const [source,chan] of [[undefined,'home'],['tracker','trk'],['article','art']]) {
+    const card=toCardModel(deal,{...base,source});
+    assert.equal(new URL(card.ctaHref).searchParams.get('chan'),chan);
+    assert.equal(new URL(card.href).searchParams.get('chan'),chan);
+  }
+});

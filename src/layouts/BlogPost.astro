@@ -173,7 +173,7 @@ const _alternativeCandidates = Object.entries(_allTrackerEntries)
 const _alternatives = _isSingleProductDeal && _trackerMatch
 	? sameCategoryPeers(_trackerMatch.entry, _trackerMatch.name, _alternativeCandidates, categoryForProduct).map((peer) => {
 		const regular = regularPriceOf(peer.entry);
-		return toCardModel({ name: peer.name, entry: peer.entry, kind: 'tracker', post: null, current: peer.price, regular: regular ?? peer.price, off: regular && regular > peer.price ? Math.round((1 - peer.price / regular) * 100) : 0, score: 0 }, { entries: _allTrackerEntries, priceData, now: Date.now(), videos: productVideos, copy: dealCopy, facts: pluginFacts });
+		return toCardModel({ name: peer.name, entry: peer.entry, kind: 'tracker', post: null, current: peer.price, regular: regular ?? peer.price, off: regular && regular > peer.price ? Math.round((1 - peer.price / regular) * 100) : 0, score: 0 }, { entries: _allTrackerEntries, priceData, now: Date.now(), videos: productVideos, copy: dealCopy, facts: pluginFacts, source: 'article' });
 	}) : [];
 // The tracker's own observation wins over stale frontmatter: if the last
 // actual store check found the sale ended but saleExpiry hasn't caught up

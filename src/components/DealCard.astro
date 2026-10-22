@@ -17,10 +17,10 @@ const external = /^https?:/.test(deal.href);
       {deal.copyLine?.kind === 'maker' && deal.copyLine.attribution && <p class="card-copy-line" data-copy-kind="maker_quote"><q cite={deal.copyLine.cite}>{deal.copyLine.text}</q><span class="copy-attribution">— {deal.copyLine.attribution}</span></p>}
       <h3 class:list={[variant === 'spotlight' && !deal.copyLine?.text && 'spotlight-name-heading']}>{deal.brand ? <>{deal.brand}{' '}<strong>{deal.product}</strong></> : <strong>{deal.product}</strong>}</h3>
       <p class="price">{variant === 'ended' && <span>Last sale price</span>}<strong>{formatPrice(deal.current)}</strong>{variant !== 'ended' && <s>{formatPrice(deal.regular)}</s>}</p>
-      {variant === "spotlight" && deal.formats && <p class="formats-line">{deal.formats}</p>}{deal.chips[0] && <p class="support-chip">{deal.chips[0]}</p>}{variant === 'spotlight' && deal.chips[1] && <p class="support-chip">{deal.chips[1]}</p>}
+      {variant === "spotlight" && deal.formats && <p class="formats-line" title={deal.formatsSource}>{deal.formats}</p>}{deal.chips[0] && <p class="support-chip">{deal.chips[0]}</p>}{variant === 'spotlight' && deal.chips[1] && <p class="support-chip">{deal.chips[1]}</p>}
     </div>
   </a>
-  <a class="card-cta" href={deal.ctaHref} target="_blank" rel="noopener sponsored">{variant === 'row' ? formatPrice(deal.current) : variant === 'ended' ? 'Check current price' : `Get it for ${formatPrice(deal.current)}`} <span aria-hidden="true">→</span></a>
+  <a class="card-cta" aria-label={variant === 'row' ? `Get ${deal.key} for ${formatPrice(deal.current)}` : undefined} href={deal.ctaHref} target="_blank" rel="noopener sponsored">{variant === 'row' ? formatPrice(deal.current) : variant === 'ended' ? 'Check current price' : `Get it for ${formatPrice(deal.current)}`} <span aria-hidden="true">→</span></a>
   {variant === 'spotlight' && deal.href.startsWith('/plugin-prices/') && <a class="history-link" href={deal.href}>See price history →</a>}
 </article>
 <style>

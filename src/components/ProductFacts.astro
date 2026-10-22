@@ -8,7 +8,7 @@ const source = facts?.source_url;
 ---
 {facts && (formats || mac || win) && <section class="product-facts" data-product-facts>
   <h2>Facts from the product page</h2>
-  <div class="fact-list">{formats && <p><strong>Formats:</strong> {formats}</p>}{mac && <p><strong>macOS:</strong> {mac}</p>}{win && <p><strong>Windows:</strong> {win}</p>}</div>
+  <div class="fact-list">{formats && <p><strong>Formats:</strong>{' '}{formats}</p>}{mac && <p><strong>macOS:</strong>{' '}{mac}</p>}{win && <p><strong>Windows:</strong>{' '}{win}</p>}</div>
   {(facts.mac_req?.includes(';') || facts.win_req?.includes(';')) && <details><summary>Full system requirements</summary>{facts.mac_req && <p>macOS: {facts.mac_req}</p>}{facts.win_req && <p>Windows: {facts.win_req}</p>}</details>}
   {source && <p class="fact-source">Source: <a href={source} rel="nofollow noopener" target="_blank">Plugin Boutique product page</a>{facts.retrieved_on && `, retrieved ${facts.retrieved_on}`}</p>}
 </section>}

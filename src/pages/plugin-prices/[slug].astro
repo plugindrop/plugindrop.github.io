@@ -155,7 +155,8 @@ const productName = productBrand && name.toLowerCase().startsWith(productBrand.t
 const tagline = taglineForProduct(name, dealCopy);
 const makerQuote = makerQuoteForProduct(name, dealCopy);
 const copyLine = cardCopyLine({ tagline, makerQuote, brand: productBrand });
-const makerAttribution = productBrand ?? (makerQuote ? new URL(makerQuote.source_url).hostname.replace(/^www\./, '') : null);
+const makerHost = makerQuote ? new URL(makerQuote.source_url).hostname.replace(/^www\./, '') : null;
+const makerAttribution = productBrand ?? (makerHost && !/(^|\.)pluginboutique\.com$/i.test(makerHost) ? makerHost : null);
 const productFacts = (pluginFacts as Record<string, any>)[name] ?? null;
 const notableKey = String(entry.pbProductId ?? entry.pb_url?.match(/\/(\d+)(?:-[^/]*)?\/?$/)?.[1] ?? name);
 const verifiedLive = dealState(entry, Date.now()) === 'live';
@@ -376,7 +377,7 @@ const indexableEntries = allStaticEntries().filter((e) => isPricePageIndexable(e
 const peers = sameCategoryPeers(entry, name, indexableEntries, categoryForProduct);
 const peerDeals = peers.map(peer => {
   const peerRegular = regularPriceOf(peer.entry);
-  return toCardModel({ name: peer.name, entry: peer.entry, kind: 'tracker', post: null, current: peer.price, regular: peerRegular ?? peer.price, off: peerRegular && peerRegular > peer.price ? Math.round((1 - peer.price / peerRegular) * 100) : 0, score: 0 }, { entries: { ...data.plugins, ...data.bundles }, priceData: data, now: Date.now(), videos: productVideos, copy: dealCopy, facts: pluginFacts });
+  return toCardModel({ name: peer.name, entry: peer.entry, kind: 'tracker', post: null, current: peer.price, regular: peerRegular ?? peer.price, off: peerRegular && peerRegular > peer.price ? Math.round((1 - peer.price / peerRegular) * 100) : 0, score: 0 }, { entries: { ...data.plugins, ...data.bundles }, priceData: data, now: Date.now(), videos: productVideos, copy: dealCopy, facts: pluginFacts, source: 'tracker' });
 });
 
 // --- Meta / JSON-LD -----------------------------------------------------------
@@ -914,7 +915,7 @@ const faqLD = {
         </div>
       </section>
 
-      {makerQuote && <section class="page-section" data-maker-quote><h2 class="section-title">What the maker says</h2><blockquote><q cite={makerQuote.source_url}>{makerQuote.quote}</q> — {makerAttribution}</blockquote><a href={makerQuote.source_url} rel="nofollow noopener" target="_blank">Source</a></section>}
+      {makerQuote && makerAttribution && copyLine.kind !== 'maker' && <section class="page-section" data-maker-quote><h2 class="section-title">What the maker says</h2><blockquote><q cite={makerQuote.source_url}>{makerQuote.quote}</q> — {makerAttribution}</blockquote><a href={makerQuote.source_url} rel="nofollow noopener" target="_blank">Source</a></section>}
 
       <section class="page-section" id="decision">
         <h2 class="section-title">Buy now or wait? — what our records show</h2>

@@ -41,13 +41,16 @@ export function buildDealPool(entries, posts, now) {
   return [...byId.values()].sort((a, b) => b.score - a.score || b.off - a.off || a.name.localeCompare(b.name));
 }
 
-export function cardTarget(deal, priceData) {
+function cardChannel(source) { return { home: ['home', 'homepage', 'home-card'], tracker: ['trk', 'tracker', 'plugin-prices'], article: ['art', 'article', 'alternatives'] }[source] ?? ['home', 'homepage', 'home-card']; }
+
+export function cardTarget(deal, priceData, source = 'home') {
   if (deal.post && !isPostDealEnded(deal.post, { [deal.name]: deal.entry })) return `/posts/${deal.post.id}/`;
   if (deal.kind === 'tracker' && isProductNameIndexable(priceData, deal.name)) return `/plugin-prices/${slugify(deal.name)}/`;
-  return pbLink(deal.entry.pb_url, 'chan=home', { medium: 'homepage', campaign: 'home-card', data1: slugify(deal.name) });
+  const channel = cardChannel(source);
+  return pbLink(deal.entry.pb_url, `chan=${channel[0]}`, { medium: channel[1], campaign: channel[2], data1: slugify(deal.name) });
 }
 
-export function toCardModel(deal, { entries, priceData, now, videos = {}, copy = {}, facts = {} }) {
+export function toCardModel(deal, { entries, priceData, now, videos = {}, copy = {}, facts = {}, source = 'home' }) {
   const id = pbProductId(deal.entry.pb_url);
   const siblings = Object.values(entries).filter(entry => entry !== deal.entry && pbProductId(entry.pb_url) === id);
   const brand = deal.brand ?? detectBrand(deal.name, deal.entry.notes);
@@ -59,14 +62,15 @@ export function toCardModel(deal, { entries, priceData, now, videos = {}, copy =
   const urgency = deal.kind === 'tracker' ? urgencyTag(deal.entry, now) : null;
   const rarity = deal.kind === 'tracker' ? rarityTag(deal.entry, now) : null;
   const image = resolveCardImage({ post: deal.post, entry: deal.entry, siblings });
-  const ctaHref = pbLink(deal.entry.pb_url, 'chan=home', { medium: 'homepage', campaign: 'home-card', data1: slugify(deal.name) });
+  const channel = cardChannel(source);
+  const ctaHref = pbLink(deal.entry.pb_url, `chan=${channel[0]}`, { medium: channel[1], campaign: channel[2], data1: slugify(deal.name) });
   const tagline = taglineForProduct(deal.name, copy);
   const aboveState = aboveUsualState(deal.entry, deal.current, now);
   const aboveUsual = aboveState?.above ?? false;
   const cardUrgency = aboveUsual ? null : urgency;
   const videoRecord = videos[deal.name];
   const video = videoRecord?.video_id || videoRecord?.id ? { id: videoRecord.video_id ?? videoRecord.id, official: videoRecord.official === true, title: videoRecord.title ?? '', channel: videoRecord.channel ?? '' } : null;
-  return { key: deal.name, brand, product, category, tagline, formats: formatsLine(facts[deal.name]), copyLine: cardCopyLine({ tagline, makerQuote: makerQuoteForProduct(deal.name, copy), brand }), headline: aboveUsual ? `${brand ? `${brand} ` : ''}${product}: above its previous low` : composeHeadline({ brand, product, category, tagline, off: deal.off, state: 'live' }), off: deal.off, offTone: aboveUsual ? 'muted' : 'strong', current: deal.current, regular: deal.regular, until, urgency: cardUrgency, rarity: aboveUsual ? null : rarity, aboveUsual, ownLow: aboveUsual ? aboveState : null, chips: aboveUsual ? [`Was $${Number.isInteger(aboveState.low) ? aboveState.low : aboveState.low.toFixed(2)} on sale in ${aboveState.month}`] : deal.kind === 'tracker' ? supportChips(deal.entry, now, 2) : [], image, href: cardTarget(deal, priceData), ctaHref, video, filters: [category.toLowerCase(), ...(cardUrgency ? ['ending'] : []), ...(rarity?.type === 'new-low' && !aboveUsual ? ['new-low'] : []), ...(deal.current < 50 ? ['under-50'] : []), ...(deal.current < 20 ? ['under-20'] : []), ...(video ? ['has-demo'] : []), ...(category === 'Bundle' ? ['bundles'] : [])], score: deal.score, tier: tierOf(brand) };
+  return { key: deal.name, brand, product, category, tagline, formats: formatsLine(facts[deal.name]), formatsSource: facts[deal.name]?.source_url && facts[deal.name]?.retrieved_on ? `${facts[deal.name].source_url} (retrieved ${facts[deal.name].retrieved_on})` : undefined, copyLine: cardCopyLine({ tagline, makerQuote: makerQuoteForProduct(deal.name, copy), brand }), headline: aboveUsual ? `${brand ? `${brand} ` : ''}${product}: above its previous low` : composeHeadline({ brand, product, category, tagline, off: deal.off, state: 'live' }), off: deal.off, offTone: aboveUsual ? 'muted' : 'strong', current: deal.current, regular: deal.regular, until, urgency: cardUrgency, rarity: aboveUsual ? null : rarity, aboveUsual, ownLow: aboveUsual ? aboveState : null, chips: aboveUsual ? [`Was $${Number.isInteger(aboveState.low) ? aboveState.low : aboveState.low.toFixed(2)} on sale in ${aboveState.month}`] : deal.kind === 'tracker' ? supportChips(deal.entry, now, 2) : [], image, href: cardTarget(deal, priceData, source), ctaHref, video, filters: [category.toLowerCase(), ...(cardUrgency ? ['ending'] : []), ...(rarity?.type === 'new-low' && !aboveUsual ? ['new-low'] : []), ...(deal.current < 50 ? ['under-50'] : []), ...(deal.current < 20 ? ['under-20'] : []), ...(video ? ['has-demo'] : []), ...(category === 'Bundle' ? ['bundles'] : [])], score: deal.score, tier: tierOf(brand) };
 }
 
 export function pickSpotlight(cards) { const eligible = cards.filter(c => !c.aboveUsual); const preferred = eligible.filter(c => c.image.kind !== 'typographic' && ['S', 'A'].includes(c.tier) && (c.rarity || c.off >= 50)); const group = preferred.length ? preferred : eligible.filter(c => c.image.kind !== 'typographic'); const first = group[0] ?? eligible[0]; const tierRank = tier => ({ S: 0, A: 1, B: 2, C: 3 })[tier] ?? 4; return group.find(c => c.copyLine?.text && tierRank(c.tier) <= tierRank(first?.tier)) ?? first ?? null; }

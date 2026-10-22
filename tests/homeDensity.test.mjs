@@ -37,8 +37,14 @@ test('has-demo filter matches video-bearing sale cards', () => {
   assert.ok(items.length > 0);
   assert.equal(items.filter(item => /data-filter="[^"]*has-demo/.test(item)).length, items.filter(item => /data-video-id="[^"]+"/.test(item)).length);
 });
+test('sorting reveals every deal and restored sort is applied on init', () => {
+  const filters = readFileSync(new URL('../src/components/HomeFilters.astro', import.meta.url), 'utf8');
+  assert.match(filters, /removeAttribute\('data-extra'\)/);
+  assert.match(filters, /sortSelect\.value/);
+  assert.match(filters, /more\.hidden = true/);
+});
 test('sorting preserves the initial extra-card gate', () => {
   const filters = readFileSync(new URL('../src/components/HomeFilters.astro', import.meta.url), 'utf8');
   assert.match(filters, /item\.style\.order =/);
-  assert.doesNotMatch(filters, /removeAttribute\('data-extra'\)/);
+  assert.match(filters, /removeAttribute\('data-extra'\)/);
 });
