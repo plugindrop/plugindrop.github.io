@@ -40,6 +40,11 @@ export function lintContent(text, today, { trackerEnded = false } = {}) {
   return [...new Set(hits)];
 }
 
+export function hasBannedRenderedTagline(html) {
+  const taglines = [...html.matchAll(/<p\b[^>]*(?:data-copy-kind="tagline"|class="tagline(?:\s[^"]*)?")[^>]*>(.*?)<\/p>/gis)];
+  return rules.tagline_banned.some(pattern => taglines.some(match => new RegExp(pattern, 'i').test(match[1].replace(/<[^>]+>/g, ''))));
+}
+
 if (process.argv[1] && path.resolve(process.argv[1]) === scriptPath) {
 
 const checkOnly = process.argv.includes('--check');
@@ -66,7 +71,7 @@ for (const slug of fs.readdirSync(path.join(root, 'posts'))) {
   const htmlPath = path.join(root, 'posts', slug, 'index.html');
   if (!fs.existsSync(htmlPath)) continue;
   const html = fs.readFileSync(htmlPath, 'utf8');
-  if (rules.tagline_banned.some(pattern => [...html.matchAll(/<p class="tagline"[^>]*>(.*?)<\/p>/g)].some(match => new RegExp(pattern, 'i').test(match[1])))) add(slug, 'tagline_banned');
+  if (hasBannedRenderedTagline(html)) add(slug, 'tagline_banned');
   const ld = [...html.matchAll(/<script[^>]+type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/gi)];
   const expired = ld.some(match => [...match[1].matchAll(/"priceValidUntil"\s*:\s*"(\d{4}-\d{2}-\d{2})"/g)].some(date => date[1] < today));
   if (expired && /\b(?:sale live now|on sale now|deal is live|offer is live)\b/i.test(html)) add(slug, 'expired structured price date with live-sale claim');

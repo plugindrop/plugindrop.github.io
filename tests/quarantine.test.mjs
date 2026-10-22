@@ -5,7 +5,7 @@ import os from 'node:os';
 import path from 'node:path';
 import { spawnSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
-import { lintContent } from '../scripts/quarantine_content.mjs';
+import { lintContent, hasBannedRenderedTagline } from '../scripts/quarantine_content.mjs';
 
 test('mandatory disclaimer alone does not quarantine; a real test claim does', () => {
   const disclaimer = 'We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.';
@@ -52,4 +52,13 @@ test('aliased MORPH 3 article is quarantined when tracker confirms sale ended be
   } finally {
     fs.rmSync(root, { recursive: true, force: true });
   }
+});
+
+test('quarantine scans rendered DealCard tagline markup', () => {
+  const markup = '<p class="card-copy-line" data-copy-kind="tagline">Pristine plate reverb</p>';
+  assert.equal(hasBannedRenderedTagline(markup), true);
+  assert.equal(hasBannedRenderedTagline('<p class="card-copy-line" data-copy-kind="maker_quote">Pristine plate reverb</p>'), false);
+  const source = readFileSync(new URL('../src/components/DealCard.astro', import.meta.url), 'utf8');
+  assert.match(source, /data-copy-kind="tagline"/);
+  assert.match(source, /data-copy-kind="maker_quote"/);
 });

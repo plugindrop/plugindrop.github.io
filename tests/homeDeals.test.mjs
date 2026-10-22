@@ -65,6 +65,7 @@ test('above usual needs a prior own sale, retains discount and mutes signals',()
   const model=toCardModel(deal,{entries:{'Waves Plate':tracked},priceData:{plugins:{'Waves Plate':tracked},bundles:{}},now});
   assert.equal(model.off,80); assert.equal(model.offTone,'muted'); assert.equal(model.urgency,null); assert.equal(model.rarity,null);
   assert.deepEqual(model.chips,['Was $10 on sale in Jun 2026']);
+  assert.match(model.headline, /above its previous low$/);
   assert.equal(pickSpotlight([model]),null);
   assert.deepEqual(endingSoon([model]),[]);
   assert.deepEqual(brandSaleClusters([model,model,model]),[]);
