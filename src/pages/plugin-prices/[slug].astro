@@ -114,7 +114,7 @@ const { slug } = Astro.params;
 
 // Verified demo video for this product (built by build_product_videos.py from
 // already-audited article embeds; only high-confidence matches are included).
-interface ProductVideo { video_id: string; title: string; channel: string }
+interface ProductVideo { video_id: string; title: string; channel: string; official?: boolean }
 const productVideos = productVideosRaw as Record<string, ProductVideo>;
 const demoVideo: ProductVideo | null = productVideos[name] ?? null;
 
@@ -818,12 +818,12 @@ const faqLD = {
         <NotableUsers records={(notableUsers as Record<string, any[]>)[notableKey] ?? []} brand={productBrand ?? ''} />
 
       {demoVideo && (
-          <div id="demo-block" data-video-id={demoVideo.video_id} style="margin:0.75rem 0 1rem;display:flex;align-items:center;gap:0.75rem">
+          <div id="demo-block" data-video-id={demoVideo.video_id} data-video-official={String(demoVideo.official === true)} style="margin:0.75rem 0 1rem;display:flex;align-items:center;gap:0.75rem">
             <button id="demo-btn" type="button" style="display:flex;align-items:center;gap:0.5rem;border:1px solid var(--border);border-radius:6px;padding:0.4rem 0.85rem;font-size:0.85rem;background:transparent;color:var(--text-secondary);cursor:pointer;">
               <svg width="10" height="12" viewBox="0 0 10 12" fill="currentColor" aria-hidden="true"><path d="M0 0l10 6-10 6V0z"/></svg>
-              Watch the official demo
+              {demoVideo.official === true ? 'Watch the official demo' : `Watch a demo (${demoVideo.channel})`}
             </button>
-            <span style="font-size:0.75rem;color:var(--text-muted)">Official demo · YouTube</span>
+            <span style="font-size:0.75rem;color:var(--text-muted)">{demoVideo.official === true ? 'Official demo · YouTube' : `${demoVideo.channel} (YouTube)`}</span>
           </div>
         )}
 
@@ -1152,7 +1152,7 @@ const faqLD = {
       )}
 
       {demoVideo && (
-        <section class="page-section">
+        <section class="page-section" data-video-official={String(demoVideo.official === true)}>
           <h2 class="section-title">Watch It In Action</h2>
           <div class="video-embed">
             <iframe
@@ -1163,7 +1163,7 @@ const faqLD = {
               allowfullscreen
             ></iframe>
           </div>
-          <p class="video-caption">{demoVideo.title} — {demoVideo.channel} (YouTube)</p>
+          <p class="video-caption">{demoVideo.official === true ? 'Official demo' : `Demo by ${demoVideo.channel}`} · {demoVideo.title} — {demoVideo.channel} (YouTube)</p>
         </section>
       )}
 
@@ -1218,7 +1218,7 @@ const faqLD = {
           iframe.style.cssText = 'width:100%;height:100%;border:0;';
           iframe.setAttribute('allowfullscreen', '');
           iframe.setAttribute('loading', 'lazy');
-          iframe.setAttribute('title', (document.querySelector('h1')?.textContent || 'Product') + ' official demo');
+          iframe.setAttribute('title', (document.querySelector('h1')?.textContent || 'Product') + ' demo');
           wrap.appendChild(iframe);
           demoBlock.parentNode.insertBefore(wrap, demoBlock.nextSibling);
         });
