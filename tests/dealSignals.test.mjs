@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import { strict as assert } from 'node:assert';
-import { ownChecks, ownSpanDays, urgencyTag, rarityTag } from '../src/lib/dealSignals.mjs';
+import { ownChecks, ownSpanDays, urgencyTag, rarityTag, ownLowBefore } from '../src/lib/dealSignals.mjs';
 const now = Date.parse('2026-10-17T12:00:00Z');
 const row = (date, sale, source='auto_check', until) => ({ date, regular:100, sale, source, until });
 test('own tracking excludes archives and requires 45 days for rarity', () => {
@@ -26,4 +26,9 @@ test('new low, matching low and deeper discount use previous own episodes', () =
   history.at(-1).sale=40; assert.equal(rarityTag(entry,now).type,'matches-low');
   history[2].sale=60; history.at(-1).sale=44; assert.equal(rarityTag(entry,now).type,'deeper-than-usual');
   history[2].source='research'; assert.notEqual(rarityTag(entry,now)?.type,'deeper-than-usual');
+});
+test('ownLowBefore ignores archives and current episode', () => {
+  const entry={history:[row('2026-05-01',5,'research'),row('2026-06-01',40),row('2026-06-02',35),row('2026-07-01',null),row('2026-10-16',20),row('2026-10-17',10)]};
+  assert.deepEqual(ownLowBefore(entry,now),{low:35,month:'Jun 2026'});
+  assert.equal(ownLowBefore({history:[row('2026-10-16',20)]},now),null);
 });

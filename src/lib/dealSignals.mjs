@@ -13,6 +13,13 @@ const median = ns => { const a = [...ns].sort((x, y) => x - y); return a.length 
 export function ownChecks(entry) { return (entry?.history ?? []).filter(valid).sort((a, b) => a.date.localeCompare(b.date)); }
 export function ownSpanDays(entry) { const rows = ownChecks(entry); return rows.length < 2 ? 0 : (dateMs(rows.at(-1).date) - dateMs(rows[0].date)) / DAY; }
 function episodes(entry) { const rows = ownChecks(entry); return listSaleEpisodes({ history: rows }).map(ep => ({ ...ep, low: Math.min(...rows.filter(r => r.date >= ep.start && r.date <= ep.end && typeof r.sale === 'number').map(r => r.sale)) })); }
+export function ownLowBefore(entry, now) {
+  const rows = ownChecks(entry).filter(r => dateMs(r.date) <= now);
+  const current = listSaleEpisodes({ history: rows })[0];
+  if (!current || !rows.some(r => r.date >= current.start && r.date <= current.end && typeof r.sale === 'number')) return null;
+  const prior = rows.filter(r => r.date < current.start && typeof r.sale === 'number' && Number.isFinite(r.sale) && r.sale > 0).sort((a,b) => a.sale - b.sale || a.date.localeCompare(b.date));
+  return prior.length ? { low: prior[0].sale, month: monthText(prior[0].date) } : null;
+}
 
 export function urgencyTag(entry, now) {
   if (dealState(entry, now) !== 'live') return null;

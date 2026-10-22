@@ -4,9 +4,12 @@ import { categoryForProduct } from './categoryInference.mjs';
 import { dealState, everydayPrice, findTrackerEntryForPost, isPostDealEnded } from './articleDeal.mjs';
 import { isProductNameIndexable, isBrandPageIndexable, isPricePageIndexable } from './indexPolicy.mjs';
 import { isSearchUrl, pbLink, slugify } from './priceUtils.ts';
-import { ownChecks, rarityTag, urgencyTag, supportChips } from './dealSignals.mjs';
+import { ownChecks, ownLowBefore, rarityTag, urgencyTag, supportChips } from './dealSignals.mjs';
 import { composeHeadline } from './headline.mjs';
-import { taglineForProduct } from './dealCopy.mjs';
+import { taglineForProduct, makerQuoteForProduct } from './dealCopy.mjs';
+import { cardCopyLine } from './cardCopy.mjs';
+
+export function aboveUsualState(entry, current, now) { const low = ownLowBefore(entry, now); return low ? { above: current > low.low + 0.01, ...low } : null; }
 
 export function resolveCardImage({ post, entry, siblings = [] }) {
   const hero = post?.data?.heroImage;
@@ -57,10 +60,12 @@ export function toCardModel(deal, { entries, priceData, now, videos = {}, copy =
   const image = resolveCardImage({ post: deal.post, entry: deal.entry, siblings });
   const ctaHref = pbLink(deal.entry.pb_url, 'chan=home', { medium: 'homepage', campaign: 'home-card', data1: slugify(deal.name) });
   const tagline = taglineForProduct(deal.name, copy);
-  const aboveUsual = Number(deal.entry.typical_sale) > 0 && deal.current > Number(deal.entry.typical_sale);
-  const credibleOff = aboveUsual ? 0 : deal.off;
+  const aboveState = aboveUsualState(deal.entry, deal.current, now);
+  const aboveUsual = aboveState?.above ?? false;
   const cardUrgency = aboveUsual ? null : urgency;
-  return { key: deal.name, brand, product, category, tagline, headline: composeHeadline({ brand, product, category, tagline, off: credibleOff, state: aboveUsual ? 'unknown' : 'live' }), off: credibleOff, current: deal.current, regular: deal.regular, until, urgency: cardUrgency, rarity: aboveUsual ? null : rarity, aboveUsual, chips: aboveUsual ? ['Above its usual sale price'] : deal.kind === 'tracker' ? supportChips(deal.entry, now, 2) : [], image, href: cardTarget(deal, priceData), ctaHref, hasVideo: !!videos[deal.name], filters: [category.toLowerCase(), ...(cardUrgency ? ['ending'] : []), ...(rarity?.type === 'new-low' && !aboveUsual ? ['new-low'] : []), ...(deal.current < 50 ? ['under-50'] : []), ...(category === 'Bundle' ? ['bundles'] : [])], score: deal.score, tier: tierOf(brand) };
+  const videoRecord = videos[deal.name];
+  const video = videoRecord?.video_id || videoRecord?.id ? { id: videoRecord.video_id ?? videoRecord.id, official: videoRecord.official === true, title: videoRecord.title ?? '', channel: videoRecord.channel ?? '' } : null;
+  return { key: deal.name, brand, product, category, tagline, copyLine: cardCopyLine({ tagline, makerQuote: makerQuoteForProduct(deal.name, copy) }), headline: composeHeadline({ brand, product, category, tagline, off: deal.off, state: 'live' }), off: deal.off, offTone: aboveUsual ? 'muted' : 'strong', current: deal.current, regular: deal.regular, until, urgency: cardUrgency, rarity: aboveUsual ? null : rarity, aboveUsual, ownLow: aboveUsual ? aboveState : null, chips: aboveUsual ? [`Was $${Number.isInteger(aboveState.low) ? aboveState.low : aboveState.low.toFixed(2)} on sale in ${aboveState.month}`] : deal.kind === 'tracker' ? supportChips(deal.entry, now, 2) : [], image, href: cardTarget(deal, priceData), ctaHref, video, filters: [category.toLowerCase(), ...(cardUrgency ? ['ending'] : []), ...(rarity?.type === 'new-low' && !aboveUsual ? ['new-low'] : []), ...(deal.current < 50 ? ['under-50'] : []), ...(category === 'Bundle' ? ['bundles'] : [])], score: deal.score, tier: tierOf(brand) };
 }
 
 export function pickSpotlight(cards) { return cards.find(c => !c.aboveUsual && c.image.kind !== 'typographic' && ['S', 'A'].includes(c.tier) && (c.rarity || c.off >= 50)) ?? cards.find(c => !c.aboveUsual && c.image.kind !== 'typographic') ?? cards.find(c => !c.aboveUsual) ?? null; }
@@ -81,7 +86,7 @@ export function orderForVariety(cards) {
 export function endingSoon(cards) { return cards.filter(c => c.urgency && ['ends-today', 'ends-soon', 'ends-on'].includes(c.urgency.type)).sort((a, b) => a.until.localeCompare(b.until)).slice(0, 10); }
 export function brandSaleClusters(cards, entries = {}) {
   const groups = new Map();
-  for (const c of cards) if (c.brand && c.until) { const key = `${c.brand}|${c.until}`; groups.set(key, [...(groups.get(key) ?? []), c]); }
+  for (const c of cards) if (c.brand && c.until && !c.aboveUsual) { const key = `${c.brand}|${c.until}`; groups.set(key, [...(groups.get(key) ?? []), c]); }
   return [...groups.values()].filter(g => g.length >= 3).sort((a, b) => b.length - a.length).slice(0, 2).map(g => ({ brand: g[0].brand, until: g[0].until, cards: g.slice(0, 4), count: g.length, href: brandHref(g[0].brand, entries) }));
 }
 const CATEGORY_GROUPS = [

@@ -23,16 +23,19 @@ test('expired store deadline and untracked posts never produce percentage cards'
   assert.equal(buildDealPool({ Test: entry }, [post], now).length, 0);
 });
 
-test('above-usual price has no percent badge or urgency and cannot be spotlighted', () => {
+test('above-usual price keeps a muted percent badge, drops urgency and cannot be spotlighted', () => {
   const entry = { pb_url: '/product/1/2/999-test', typical_sale: 80, history: [
+    { date: '2026-06-01', source: 'auto_check', sale: 80, regular: 1999 },
+    { date: '2026-07-01', source: 'auto_check', sale: null, regular: 1999 },
     { date: '2026-10-18', source: 'auto_check', sale: 199, regular: 1999, until: '2026-10-19' },
   ] };
   const deal = buildDealPool({ 'Waves Platinum': entry }, [], now)[0];
   assert.ok(deal);
   const card = toCardModel(deal, { entries: { 'Waves Platinum': entry }, priceData: { plugins: {}, bundles: {} }, now });
-  assert.equal(card.off, 0);
+  assert.ok(card.off > 0);
+  assert.equal(card.offTone, 'muted');
   assert.equal(card.urgency, null);
-  assert.equal(card.chips[0], 'Above its usual sale price');
+  assert.equal(card.chips[0], 'Was $80 on sale in Jun 2026');
 });
 
 test('unconfirmed expiry over 60 days after publication is rejected', () => {

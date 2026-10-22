@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import { strict as assert } from 'node:assert';
-import { buildDealPool, resolveCardImage, toCardModel, orderForVariety } from '../src/lib/homeDeals.mjs';
+import { buildDealPool, resolveCardImage, toCardModel, orderForVariety, aboveUsualState, pickSpotlight, endingSoon, brandSaleClusters } from '../src/lib/homeDeals.mjs';
 const now=Date.parse('2026-10-17T12:00:00Z');
 const entry=(id,image)=>({pb_url:`/product/1/2/${id}-product`,image,history:[{date:'2026-10-16',source:'auto_check',sale:20,regular:100}]});
 test('PB id dedupe and search URLs excluded',()=>{
@@ -44,4 +44,16 @@ test('variety order breaks brand runs where possible and retains every card',()=
 });
 test('variety order handles an empty list',()=>{
   assert.deepEqual(orderForVariety([]),[]);
+});
+test('above usual needs a prior own sale, retains discount and mutes signals',()=>{
+  const tracked={...entry(12345,'/images/product.jpg'),typical_sale:5,history:[{date:'2026-06-01',source:'auto_check',sale:10,regular:100},{date:'2026-07-01',source:'auto_check',sale:null,regular:100},{date:'2026-10-16',source:'auto_check',sale:20,regular:100,until:'2026-10-18'}]};
+  assert.deepEqual(aboveUsualState(tracked,20,now),{above:true,low:10,month:'Jun 2026'});
+  const deal=buildDealPool({'Waves Plate':tracked},[],now)[0];
+  const model=toCardModel(deal,{entries:{'Waves Plate':tracked},priceData:{plugins:{'Waves Plate':tracked},bundles:{}},now});
+  assert.equal(model.off,80); assert.equal(model.offTone,'muted'); assert.equal(model.urgency,null); assert.equal(model.rarity,null);
+  assert.deepEqual(model.chips,['Was $10 on sale in Jun 2026']);
+  assert.equal(pickSpotlight([model]),null);
+  assert.deepEqual(endingSoon([model]),[]);
+  assert.deepEqual(brandSaleClusters([model,model,model]),[]);
+  assert.equal(aboveUsualState({...tracked,history:[tracked.history[2]]},20,now),null);
 });
