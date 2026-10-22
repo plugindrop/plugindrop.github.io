@@ -33898,6 +33898,66 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2021-11-19",
+          "regular": 91.01,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2021-12-01",
+          "regular": 95.83,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-05-29",
+          "regular": 129.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-06-17",
+          "regular": 129.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-03-29",
+          "regular": 129.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-11-20",
+          "regular": 96.76,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-08-28",
+          "regular": 129.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-11-04",
+          "regular": 139.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-03-18",
+          "regular": 139.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-07-10",
+          "regular": 139.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/fabfilter-volcano-3.jpg"
@@ -34251,6 +34311,24 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2024-05-24",
+          "regular": 63.46,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-07-19",
+          "regular": 129.99,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-06-22",
+          "regular": 129.99,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "category": "Synth"
@@ -34306,6 +34384,36 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2024-05-23",
+          "regular": 85.77,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-02-11",
+          "regular": 79.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-04-20",
+          "regular": 64.99,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-05-14",
+          "regular": 64.99,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-06-06",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "category": "Synth"
