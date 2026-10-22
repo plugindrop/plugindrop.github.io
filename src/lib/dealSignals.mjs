@@ -1,4 +1,4 @@
-import { MIN_OWN_TRACKING_DAYS, listSaleEpisodes } from './indexPolicy.mjs';
+import { MIN_OWN_TRACKING_DAYS, SALE_EPISODE_MAX_GAP_DAYS, listSaleEpisodes } from './indexPolicy.mjs';
 import { dealState } from './articleDeal.mjs';
 
 const SOURCES = new Set(['auto_check', 'live_check', 'pb_deals_poll']);
@@ -17,7 +17,7 @@ export function ownLowBefore(entry, now) {
   const rows = ownChecks(entry).filter(r => dateMs(r.date) <= now);
   const current = listSaleEpisodes({ history: rows })[0];
   if (!current || !rows.some(r => r.date >= current.start && r.date <= current.end && typeof r.sale === 'number')) return null;
-  const prior = rows.filter(r => r.date < current.start && typeof r.sale === 'number' && Number.isFinite(r.sale) && r.sale > 0).sort((a,b) => a.sale - b.sale || a.date.localeCompare(b.date));
+  const prior = rows.filter(r => r.date < current.start && typeof r.sale === 'number' && Number.isFinite(r.sale) && r.sale > 0 && (typeof r.regular !== 'number' || r.sale < r.regular) && (dateMs(current.start) - dateMs(r.date)) / DAY > SALE_EPISODE_MAX_GAP_DAYS).sort((a,b) => a.sale - b.sale || a.date.localeCompare(b.date));
   return prior.length ? { low: prior[0].sale, month: monthText(prior[0].date) } : null;
 }
 

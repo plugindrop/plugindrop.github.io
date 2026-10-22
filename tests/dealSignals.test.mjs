@@ -32,3 +32,8 @@ test('ownLowBefore ignores archives and current episode', () => {
   assert.deepEqual(ownLowBefore(entry,now),{low:35,month:'Jun 2026'});
   assert.equal(ownLowBefore({history:[row('2026-10-16',20)]},now),null);
 });
+test('ownLowBefore boundaries: equal tie, merged gap, and invalid sale rows',()=>{
+  assert.deepEqual(ownLowBefore({history:[row('2026-06-01',20),row('2026-07-01',null),row('2026-10-16',20)]},now),{low:20,month:'Jun 2026'});
+  assert.equal(ownLowBefore({history:[row('2026-10-01',30),row('2026-10-03',30),row('2026-10-16',20)]},now),null);
+  assert.equal(ownLowBefore({history:[row('2026-06-01',100),row('2026-07-01',null),row('2026-10-16',20)]},now),null);
+});

@@ -45,6 +45,19 @@ test('variety order breaks brand runs where possible and retains every card',()=
 test('variety order handles an empty list',()=>{
   assert.deepEqual(orderForVariety([]),[]);
 });
+test('maker copy participates in variety ordering and spotlight selection',()=>{
+  const bare={key:'bare',brand:'A',tier:'S',score:100,off:70,image:{kind:'product'}};
+  const quoted={...bare,key:'quoted',copyLine:{kind:'maker',text:'A maker description'},score:100};
+  assert.deepEqual(orderForVariety([bare,quoted]).map(c=>c.key),['quoted','bare']);
+  assert.equal(pickSpotlight([bare,quoted]).key,'quoted');
+  assert.equal(pickSpotlight([bare,{...quoted,tier:'A'}]).key,'bare');
+});
+test('lower current price than own prior low stays strong even if typical sale is lower',()=>{
+  const tracked={...entry(12345,'/images/product.jpg'),typical_sale:5,history:[{date:'2026-06-01',source:'auto_check',sale:30,regular:100},{date:'2026-07-01',source:'auto_check',sale:null,regular:100},{date:'2026-10-16',source:'auto_check',sale:20,regular:100}]};
+  const deal=buildDealPool({'Waves Plate':tracked},[],now)[0];
+  const model=toCardModel(deal,{entries:{'Waves Plate':tracked},priceData:{plugins:{'Waves Plate':tracked},bundles:{}},now});
+  assert.equal(model.aboveUsual,false); assert.equal(model.offTone,'strong');
+});
 test('above usual needs a prior own sale, retains discount and mutes signals',()=>{
   const tracked={...entry(12345,'/images/product.jpg'),typical_sale:5,history:[{date:'2026-06-01',source:'auto_check',sale:10,regular:100},{date:'2026-07-01',source:'auto_check',sale:null,regular:100},{date:'2026-10-16',source:'auto_check',sale:20,regular:100,until:'2026-10-18'}]};
   assert.deepEqual(aboveUsualState(tracked,20,now),{above:true,low:10,month:'Jun 2026'});
