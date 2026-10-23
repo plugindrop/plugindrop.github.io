@@ -4,6 +4,7 @@ import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import { SITE_TITLE } from '../consts';
 import priceData from '../data/price_history.json';
+import programmaticPages from '../data/programmatic_pages.json';
 import { siteStats } from '../lib/siteStats.mjs';
 import { inferCategory } from '../lib/categoryInference.mjs';
 import { dealScoreNumeric, isSearchUrl, sparklinePoints, pbLink } from '../lib/priceUtils';
@@ -949,7 +950,7 @@ const pageLD = {
 
       <button id="tracker-more" class="tracker-more" type="button">Show 50 more</button>
       <details class="tracker-links"><summary>Browse categories and brands</summary>
-        <p>Categories: {CATEGORIES.filter(cat => cat !== 'All').map(cat => <a href={`/best/${cat.toLowerCase()}/`}>{cat}</a>)}</p>
+        <p>Categories: {CATEGORIES.filter(cat => cat !== 'All' && !programmaticPages.categories.some(c => c.slug === cat.toLowerCase() && c.status === 'unlisted')).map(cat => <a href={`/best/${cat.toLowerCase()}/`}>{cat}</a>)}</p>
         <p>Brands: {developers.filter(brand => brand.count >= 3).map(brand => <a href={`/brands/${slugifyProduct(brand.name)}/`}>{brand.name}</a>)}</p>
       </details>
       <details class="footer-note"><summary>How price tracking works</summary>
