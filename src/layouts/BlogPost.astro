@@ -1020,11 +1020,14 @@ const showInlineDeals = (rawBody.match(/^## /gm) ?? []).length >= 5 && saleCards
 				facts?.addEventListener('toggle', () => { if (facts.dataset.ready) facts.dataset.userToggled = 'true'; facts.dataset.ready = 'true'; });
 				const inlineDeals = article?.querySelector<HTMLElement>(':scope > .inline-deals');
 				const sections = Array.from(article?.querySelectorAll<HTMLHeadingElement>('h2') ?? []).filter(h => !h.closest('.related-guides'));
-				if (inlineDeals && sections.length >= 5) sections[2].insertAdjacentElement('afterend', inlineDeals);
+				if (inlineDeals && sections.length >= 5) {
+					const next = sections[3];
+					if (next) next.insertAdjacentElement('beforebegin', inlineDeals);
+				}
 				const updateProgress = () => {
 					if (!article) return;
 					const span = Math.max(1, article.offsetHeight - innerHeight);
-					const progress = Math.max(0, Math.min(100, (scrollY - article.offsetTop) / span * 100));
+					const progress = Math.max(0, Math.min(100, (scrollY - (article.getBoundingClientRect().top + scrollY)) / span * 100));
 					document.documentElement.style.setProperty('--reading-progress', `${progress}%`);
 				};
 				addEventListener('scroll', updateProgress, { passive: true }); addEventListener('resize', updateProgress); updateProgress();
@@ -1170,6 +1173,7 @@ const showInlineDeals = (rawBody.match(/^## /gm) ?? []).length >= 5 && saleCards
 						const mobile = document.createElement('details'); mobile.className = 'mobile-toc';
 						const summary = document.createElement('summary'); summary.textContent = 'In this guide'; mobile.appendChild(summary);
 						mobile.appendChild(tocList.cloneNode(true)); intro.insertAdjacentElement('afterend', mobile);
+						if (facts) mobile.insertAdjacentElement('afterend', facts);
 					}
 				})();
 			});
