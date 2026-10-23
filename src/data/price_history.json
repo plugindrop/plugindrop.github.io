@@ -528,7 +528,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/cableguys-shaperbox-3.jpg"
+      "image": "/images/plugin-prices/cableguys-shaperbox-3.jpg",
+      "image_lg": "/images/plugin-prices/cableguys-shaperbox-3-lg.jpg",
+      "image_lg_width": 625
     },
     "EastWest Composer Cloud+": {
       "pb_url": "https://www.soundsonline.com/composercloud",
@@ -787,7 +789,9 @@
         }
       ],
       "category": "Bundle",
-      "image": "/images/plugin-prices/fabfilter-creative-bundle.jpg"
+      "image": "/images/plugin-prices/fabfilter-creative-bundle.jpg",
+      "image_lg": "/images/plugin-prices/fabfilter-creative-bundle-lg.jpg",
+      "image_lg_width": 625
     },
     "FabFilter Total Bundle": {
       "pb_url": "/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle",
@@ -1011,7 +1015,9 @@
         }
       ],
       "category": "Bundle",
-      "image": "/images/plugin-prices/fabfilter-total-bundle.jpg"
+      "image": "/images/plugin-prices/fabfilter-total-bundle.jpg",
+      "image_lg": "/images/plugin-prices/fabfilter-total-bundle-lg.jpg",
+      "image_lg_width": 625
     },
     "NI Komplete 15 Standard": {
       "pb_url": "/search?q=NI%20Komplete%2015%20Standard",
@@ -1383,7 +1389,9 @@
         }
       ],
       "category": "Bundle",
-      "image": "/images/plugin-prices/soundtoys-5-5.jpg"
+      "image": "/images/plugin-prices/soundtoys-5-5.jpg",
+      "image_lg": "/images/plugin-prices/soundtoys-5-5-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Spark": {
       "pb_url": "https://www.uaudio.com/products/uad-spark",
@@ -1604,7 +1612,9 @@
         }
       ],
       "category": "Bundle",
-      "image": "/images/plugin-prices/waves-gold-bundle.jpg"
+      "image": "/images/plugin-prices/waves-gold-bundle.jpg",
+      "image_lg": "/images/plugin-prices/waves-gold-bundle-lg.jpg",
+      "image_lg_width": 625
     },
     "Waves Mercury Bundle": {
       "pb_url": "https://www.waves.com/bundles/mercury",
@@ -2001,7 +2011,9 @@
         }
       ],
       "category": "Bundle",
-      "image": "/images/plugin-prices/waves-platinum-bundle.jpg"
+      "image": "/images/plugin-prices/waves-platinum-bundle.jpg",
+      "image_lg": "/images/plugin-prices/waves-platinum-bundle-lg.jpg",
+      "image_lg_width": 625
     },
     "iZotope Music Production Suite": {
       "pb_url": "/meta_product/81-Bundles/39-Effects-Bundles/13854-iZotope-Music-Production-Suite",
@@ -2137,7 +2149,9 @@
           "until": "2026-11-02"
         }
       ],
-      "image": "/images/plugin-prices/air-legends-pack.jpg"
+      "image": "/images/plugin-prices/air-legends-pack.jpg",
+      "image_lg": "/images/plugin-prices/air-legends-pack-lg.jpg",
+      "image_lg_width": 620
     },
     "AMBER 2": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/10597-AMBER-2",
@@ -3417,7 +3431,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/analog-polysynth-collection.jpg"
+      "image": "/images/plugin-prices/analog-polysynth-collection.jpg",
+      "image_lg": "/images/plugin-prices/analog-polysynth-collection-lg.jpg",
+      "image_lg_width": 625
     },
     "Antares Auto-Tune Pro": {
       "pb_url": "https://www.pluginboutique.com/search?q=Antares%20Auto-Tune%20Pro",
@@ -4061,7 +4077,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/arturia-augmented-strings.jpg"
+      "image": "/images/plugin-prices/arturia-augmented-strings.jpg",
+      "image_lg": "/images/plugin-prices/arturia-augmented-strings-lg.jpg",
+      "image_lg_width": 625
     },
     "Arturia CS-80 V4": {
       "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10610-CS-80-V4",
@@ -6616,7 +6634,9 @@
         }
       ],
       "category": null,
-      "image": "/images/plugin-prices/baby-audio-grainferno.jpg"
+      "image": "/images/plugin-prices/baby-audio-grainferno.jpg",
+      "image_lg": "/images/plugin-prices/baby-audio-grainferno-lg.jpg",
+      "image_lg_width": 625
     },
     "Baby Audio Humanoid": {
       "pb_url": "/product/2-Effects/54-Vocal-Processing/12582-Humanoid",
@@ -11176,7 +11196,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/chandler-limited-curve-bender-mastering-eq.jpg"
+      "image": "/images/plugin-prices/chandler-limited-curve-bender-mastering-eq.jpg",
+      "image_lg": "/images/plugin-prices/chandler-limited-curve-bender-mastering-eq-lg.jpg",
+      "image_lg_width": 625
     },
     "Cherry Audio Atomika": {
       "pb_url": "/product/1-Instruments/4-Synth/13416-Atomika",
@@ -11316,7 +11338,9 @@
           "until": "2026-11-03"
         }
       ],
-      "image": "/images/plugin-prices/cherry-audio-atomika.jpg"
+      "image": "/images/plugin-prices/cherry-audio-atomika.jpg",
+      "image_lg": "/images/plugin-prices/cherry-audio-atomika-lg.jpg",
+      "image_lg_width": 625
     },
     "Cherry Audio Blue3 Tonewheel Organ": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/13057-Blue3-Tonewheel-Organ",
@@ -12018,7 +12042,9 @@
         }
       ],
       "category": null,
-      "image": "/images/plugin-prices/cherry-audio-crumar-spirit.jpg"
+      "image": "/images/plugin-prices/cherry-audio-crumar-spirit.jpg",
+      "image_lg": "/images/plugin-prices/cherry-audio-crumar-spirit-lg.jpg",
+      "image_lg_width": 625
     },
     "Cherry Audio DCO-106": {
       "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/6935-DCO-106",
@@ -13362,7 +13388,9 @@
           "until": "2026-11-03"
         }
       ],
-      "image": "/images/plugin-prices/cherry-audio-filtomika.jpg"
+      "image": "/images/plugin-prices/cherry-audio-filtomika.jpg",
+      "image_lg": "/images/plugin-prices/cherry-audio-filtomika-lg.jpg",
+      "image_lg_width": 625
     },
     "Cherry Audio GX-80": {
       "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10001-GX-80-Synthesizer",
@@ -15644,7 +15672,9 @@
           "until": "2026-11-03"
         }
       ],
-      "image": "/images/plugin-prices/cherry-audio-novachord-solovox.jpg"
+      "image": "/images/plugin-prices/cherry-audio-novachord-solovox.jpg",
+      "image_lg": "/images/plugin-prices/cherry-audio-novachord-solovox-lg.jpg",
+      "image_lg_width": 625
     },
     "Cherry Audio ODC 2800 Synthesizer": {
       "pb_url": "/product/1-Instruments/4-Synth/15107-ODC-2800-Synthesizer",
@@ -15935,7 +15965,9 @@
           "until": "2026-11-03"
         }
       ],
-      "image": "/images/plugin-prices/cherry-audio-octave-cat.jpg"
+      "image": "/images/plugin-prices/cherry-audio-octave-cat.jpg",
+      "image_lg": "/images/plugin-prices/cherry-audio-octave-cat-lg.jpg",
+      "image_lg_width": 625
     },
     "Cherry Audio P 10 Synthesizer": {
       "pb_url": "/product/1-Instruments/4-Synth/14055-P-10-Synthesizer",
@@ -16270,7 +16302,9 @@
           "until": "2026-11-03"
         }
       ],
-      "image": "/images/plugin-prices/cherry-audio-ps-3300.jpg"
+      "image": "/images/plugin-prices/cherry-audio-ps-3300.jpg",
+      "image_lg": "/images/plugin-prices/cherry-audio-ps-3300-lg.jpg",
+      "image_lg_width": 625
     },
     "Cherry Audio PS-20": {
       "pb_url": "/product/1-Instruments/4-Synth/7618-PS-20",
@@ -17354,7 +17388,9 @@
           "until": "2026-11-03"
         }
       ],
-      "image": "/images/plugin-prices/cherry-audio-sines-synthesizer.jpg"
+      "image": "/images/plugin-prices/cherry-audio-sines-synthesizer.jpg",
+      "image_lg": "/images/plugin-prices/cherry-audio-sines-synthesizer-lg.jpg",
+      "image_lg_width": 625
     },
     "Cherry Audio Stardust 201 Tape Echo": {
       "pb_url": "/product/2-Effects/49-Echo/8125-Stardust-201-Tape-Echo",
@@ -18934,7 +18970,9 @@
           "until": "2027-01-10"
         }
       ],
-      "image": "/images/plugin-prices/chromed.jpg"
+      "image": "/images/plugin-prices/chromed.jpg",
+      "image_lg": "/images/plugin-prices/chromed-lg.jpg",
+      "image_lg_width": 625
     },
     "Claro": {
       "pb_url": "/product/2-Effects/16-EQ/8182-Claro",
@@ -22103,7 +22141,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/empirical-labs-el8-distressor-compressor.jpg"
+      "image": "/images/plugin-prices/empirical-labs-el8-distressor-compressor.jpg",
+      "image_lg": "/images/plugin-prices/empirical-labs-el8-distressor-compressor-lg.jpg",
+      "image_lg_width": 625
     },
     "Eventide Blackhole": {
       "pb_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/2855-Blackhole",
@@ -22616,7 +22656,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/eventide-blackhole.jpg"
+      "image": "/images/plugin-prices/eventide-blackhole.jpg",
+      "image_lg": "/images/plugin-prices/eventide-blackhole-lg.jpg",
+      "image_lg_width": 625
     },
     "Eventide Blackhole Immersive": {
       "pb_url": "/product/2-Effects/17-Reverb/11474-Blackhole-Immersive",
@@ -24384,7 +24426,9 @@
         }
       ],
       "category": "Effects",
-      "image": "/images/plugin-prices/eventide-h3000-factory-mk-ii.jpg"
+      "image": "/images/plugin-prices/eventide-h3000-factory-mk-ii.jpg",
+      "image_lg": "/images/plugin-prices/eventide-h3000-factory-mk-ii-lg.jpg",
+      "image_lg_width": 625
     },
     "Eventide H910 Harmonizer": {
       "pb_url": "/product/2-Effects/35-Pitch-Shifter/2854-H910-Harmonizer",
@@ -24581,7 +24625,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/eventide-h910-harmonizer.jpg"
+      "image": "/images/plugin-prices/eventide-h910-harmonizer.jpg",
+      "image_lg": "/images/plugin-prices/eventide-h910-harmonizer-lg.jpg",
+      "image_lg_width": 625
     },
     "Eventide H949 Harmonizer": {
       "pb_url": "/product/2-Effects/91-Harmonizer/7947-H949-Harmonizer",
@@ -30111,7 +30157,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/excite-audio-bundle.jpg"
+      "image": "/images/plugin-prices/excite-audio-bundle.jpg",
+      "image_lg": "/images/plugin-prices/excite-audio-bundle-lg.jpg",
+      "image_lg_width": 625
     },
     "Excite Audio Bundle Crossgrade From Any Excite Audio Product": {
       "pb_url": "/product/81-Bundles/89-Complete-Collection/14789-Excite-Audio-Bundle-Crossgrade-From-Any-Excite-Audio-Product",
@@ -30747,7 +30795,9 @@
           "until": "2026-11-30"
         }
       ],
-      "image": "/images/plugin-prices/excite-audio-bundle-crossgrade-from-any-excite-audio-product.jpg"
+      "image": "/images/plugin-prices/excite-audio-bundle-crossgrade-from-any-excite-audio-product.jpg",
+      "image_lg": "/images/plugin-prices/excite-audio-bundle-crossgrade-from-any-excite-audio-product-lg.jpg",
+      "image_lg_width": 625
     },
     "Expanse 3D": {
       "pb_url": "/product/2-Effects/27-Stereo-Width/7594-Expanse-3D",
@@ -33326,7 +33376,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/fabfilter-saturn-2.jpg"
+      "image": "/images/plugin-prices/fabfilter-saturn-2.jpg",
+      "image_lg": "/images/plugin-prices/fabfilter-saturn-2-lg.jpg",
+      "image_lg_width": 625
     },
     "FabFilter Simplon": {
       "pb_url": "/product/2-Effects/19-Filter/930-FabFilter-Simplon",
@@ -33819,7 +33871,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/fabfilter-timeless-3.jpg"
+      "image": "/images/plugin-prices/fabfilter-timeless-3.jpg",
+      "image_lg": "/images/plugin-prices/fabfilter-timeless-3-lg.jpg",
+      "image_lg_width": 625
     },
     "FabFilter Twin 3": {
       "pb_url": "/product/1-Instruments/4-Synth/10192-Twin-3",
@@ -34387,7 +34441,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/fabfilter-volcano-3.jpg"
+      "image": "/images/plugin-prices/fabfilter-volcano-3.jpg",
+      "image_lg": "/images/plugin-prices/fabfilter-volcano-3-lg.jpg",
+      "image_lg_width": 625
     },
     "Falcon Extended Bundle": {
       "pb_url": "/search?q=Falcon%20Extended%20Bundle",
@@ -35703,7 +35759,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/heavyocity-ascend.jpg"
+      "image": "/images/plugin-prices/heavyocity-ascend.jpg",
+      "image_lg": "/images/plugin-prices/heavyocity-ascend-lg.jpg",
+      "image_lg_width": 547
     },
     "Heavyocity Damage 2": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/6669-Damage-2",
@@ -37175,7 +37233,9 @@
           "until": "2026-10-31"
         }
       ],
-      "image": "/images/plugin-prices/instacomposer-3.jpg"
+      "image": "/images/plugin-prices/instacomposer-3.jpg",
+      "image_lg": "/images/plugin-prices/instacomposer-3-lg.jpg",
+      "image_lg_width": 625
     },
     "Iona": {
       "pb_url": "/product/1-Instruments/4-Synth/15986-Iona",
@@ -38264,7 +38324,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/jupiter-8.jpg"
+      "image": "/images/plugin-prices/jupiter-8.jpg",
+      "image_lg": "/images/plugin-prices/jupiter-8-lg.jpg",
+      "image_lg_width": 625
     },
     "JV-1080": {
       "pb_url": "/product/1-Instruments/4-Synth/15268-JV-1080",
@@ -38743,7 +38805,9 @@
           "until": "2026-10-31"
         }
       ],
-      "image": "/images/plugin-prices/knock.jpg"
+      "image": "/images/plugin-prices/knock.jpg",
+      "image_lg": "/images/plugin-prices/knock-lg.jpg",
+      "image_lg_width": 625
     },
     "KOMPLETE Synthesizer Collection": {
       "pb_url": "/product/81-Bundles/58-Instrument-Bundles/12033-KOMPLETE-Synthesizer-Collection",
@@ -41881,7 +41945,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/l4-ultramaximizer.jpg"
+      "image": "/images/plugin-prices/l4-ultramaximizer.jpg",
+      "image_lg": "/images/plugin-prices/l4-ultramaximizer-lg.jpg",
+      "image_lg_width": 625
     },
     "LEGEND": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/11446-LEGEND",
@@ -42173,7 +42239,9 @@
           "until": "2026-10-25"
         }
       ],
-      "image": "/images/plugin-prices/lx480-essentials.jpg"
+      "image": "/images/plugin-prices/lx480-essentials.jpg",
+      "image_lg": "/images/plugin-prices/lx480-essentials-lg.jpg",
+      "image_lg_width": 624
     },
     "LennarDigital Sylenth1": {
       "pb_url": "/search?q=LennarDigital%20Sylenth1",
@@ -42328,7 +42396,9 @@
           "until": "2026-10-31"
         }
       ],
-      "image": "/images/plugin-prices/lifeline-bundle.jpg"
+      "image": "/images/plugin-prices/lifeline-bundle.jpg",
+      "image_lg": "/images/plugin-prices/lifeline-bundle-lg.jpg",
+      "image_lg_width": 625
     },
     "LiquidSonics Cinematic Rooms MKII": {
       "pb_url": "https://www.liquidsonics.com/software/cinematic-rooms/",
@@ -43410,7 +43480,9 @@
           "until": "2026-11-23"
         }
       ],
-      "image": "/images/plugin-prices/mc2000-multi-band-compressor-native-v7.jpg"
+      "image": "/images/plugin-prices/mc2000-multi-band-compressor-native-v7.jpg",
+      "image_lg": "/images/plugin-prices/mc2000-multi-band-compressor-native-v7-lg.jpg",
+      "image_lg_width": 625
     },
     "MELLOW 2": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/6259-MELLOW-2",
@@ -45807,7 +45879,9 @@
         }
       ],
       "category": null,
-      "image": "/images/plugin-prices/minimal-audio-evoke.jpg"
+      "image": "/images/plugin-prices/minimal-audio-evoke.jpg",
+      "image_lg": "/images/plugin-prices/minimal-audio-evoke-lg.jpg",
+      "image_lg_width": 625
     },
     "Minimal Audio Flex Chorus": {
       "pb_url": "/product/2-Effects/11-Chorus/12037-Flex-Chorus",
@@ -46852,7 +46926,9 @@
         }
       ],
       "category": null,
-      "image": "/images/plugin-prices/minimal-audio-lucid.jpg"
+      "image": "/images/plugin-prices/minimal-audio-lucid.jpg",
+      "image_lg": "/images/plugin-prices/minimal-audio-lucid-lg.jpg",
+      "image_lg_width": 625
     },
     "Minimal Audio Memory Rites": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/17485-Memory-Rites",
@@ -47653,7 +47729,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/minimal-audio-rift-2-0.jpg"
+      "image": "/images/plugin-prices/minimal-audio-rift-2-0.jpg",
+      "image_lg": "/images/plugin-prices/minimal-audio-rift-2-0-lg.jpg",
+      "image_lg_width": 625
     },
     "Minimal Audio Rift Feedback Lite": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/8537-Rift-Feedback-Lite",
@@ -48360,7 +48438,9 @@
           "until": "2026-10-26"
         }
       ],
-      "image": "/images/plugin-prices/minimal-audio-wave-shifter.jpg"
+      "image": "/images/plugin-prices/minimal-audio-wave-shifter.jpg",
+      "image_lg": "/images/plugin-prices/minimal-audio-wave-shifter-lg.jpg",
+      "image_lg_width": 625
     },
     "Minimal Audio x Excite Audio Effects Bundle Exclusive": {
       "pb_url": "/product/81-Bundles/39-Effects-Bundles/15335-Minimal-Audio-x-Excite-Audio-Effects-Bundle-Exclusive-",
@@ -49064,7 +49144,9 @@
           "until": "2026-10-31"
         }
       ],
-      "image": "/images/plugin-prices/motion-fractal.jpg"
+      "image": "/images/plugin-prices/motion-fractal.jpg",
+      "image_lg": "/images/plugin-prices/motion-fractal-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments 24K Drums": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15855-24K-Drums",
@@ -51015,7 +51097,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/native-instruments-kolor.jpg"
+      "image": "/images/plugin-prices/native-instruments-kolor.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-kolor-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Kontakt 8": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/13195-Kontakt-8",
@@ -52443,7 +52527,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/native-instruments-psyche-delay.jpg"
+      "image": "/images/plugin-prices/native-instruments-psyche-delay.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-psyche-delay-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Raum": {
       "pb_url": "https://www.pluginboutique.com/search?q=Native%20Instruments%20Raum",
@@ -54194,7 +54280,9 @@
           "until": "2026-10-26"
         }
       ],
-      "image": "/images/plugin-prices/native-instruments-supercharger-gt.jpg"
+      "image": "/images/plugin-prices/native-instruments-supercharger-gt.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-supercharger-gt-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Tape Wobble": {
       "pb_url": "/product/2-Effects/96-Tape-Emulation/16333-Tape-Wobble",
@@ -54309,7 +54397,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/native-instruments-tape-wobble.jpg"
+      "image": "/images/plugin-prices/native-instruments-tape-wobble.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-tape-wobble-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Traktor Play": {
       "pb_url": "/product/2-Effects/73-DJ-Tools/16211-Traktor-Play",
@@ -54795,7 +54885,9 @@
           "until": "2026-10-25"
         }
       ],
-      "image": "/images/plugin-prices/orange-vocoder-iv.jpg"
+      "image": "/images/plugin-prices/orange-vocoder-iv.jpg",
+      "image_lg": "/images/plugin-prices/orange-vocoder-iv-lg.jpg",
+      "image_lg_width": 625
     },
     "Oberheim OB-X": {
       "pb_url": "/product/1-Instruments/4-Synth/12021-Oberheim-OB-X",
@@ -55028,7 +55120,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/oberheim-tvs-pro.jpg"
+      "image": "/images/plugin-prices/oberheim-tvs-pro.jpg",
+      "image_lg": "/images/plugin-prices/oberheim-tvs-pro-lg.jpg",
+      "image_lg_width": 625
     },
     "Output Analog Brass and Winds": {
       "pb_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/4114-Output-ANALOG-BRASS-WINDS-Kontakt-Instrument",
@@ -56906,7 +57000,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/output-thermal.jpg"
+      "image": "/images/plugin-prices/output-thermal.jpg",
+      "image_lg": "/images/plugin-prices/output-thermal-lg.jpg",
+      "image_lg_width": 625
     },
     "PHAT 2": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/5506-PHAT-2",
@@ -57292,7 +57388,9 @@
           "until": "2026-10-25"
         }
       ],
-      "image": "/images/plugin-prices/pitchmap.jpg"
+      "image": "/images/plugin-prices/pitchmap.jpg",
+      "image_lg": "/images/plugin-prices/pitchmap-lg.jpg",
+      "image_lg_width": 625
     },
     "Pick 5 Bundle VPS Avenger Expansions": {
       "pb_url": "/product/81-Bundles/58-Instrument-Bundles/11207--Pick-5-Bundle-VPS-Avenger-Expansions",
@@ -58616,7 +58714,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/prophet-5.jpg"
+      "image": "/images/plugin-prices/prophet-5.jpg",
+      "image_lg": "/images/plugin-prices/prophet-5-lg.jpg",
+      "image_lg_width": 625
     },
     "Pure Sub": {
       "pb_url": "/product/1-Instruments/4-Synth/17759-Pure-Sub",
@@ -59735,7 +59835,9 @@
           "until": "2026-10-25"
         }
       ],
-      "image": "/images/plugin-prices/relab-development-lx480-complete.jpg"
+      "image": "/images/plugin-prices/relab-development-lx480-complete.jpg",
+      "image_lg": "/images/plugin-prices/relab-development-lx480-complete-lg.jpg",
+      "image_lg_width": 625
     },
     "Relooper": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/17077-Relooper",
@@ -60600,7 +60702,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/reveal-sound-spire.jpg"
+      "image": "/images/plugin-prices/reveal-sound-spire.jpg",
+      "image_lg": "/images/plugin-prices/reveal-sound-spire-lg.jpg",
+      "image_lg_width": 625
     },
     "Roland Legends Bundle": {
       "pb_url": "/search?q=Roland%20Legends%20Bundle",
@@ -61779,7 +61883,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/ssl-native-x-comp.jpg"
+      "image": "/images/plugin-prices/ssl-native-x-comp.jpg",
+      "image_lg": "/images/plugin-prices/ssl-native-x-comp-lg.jpg",
+      "image_lg_width": 625
     },
     "SSL Native X-EQ 2": {
       "pb_url": "/product/2-Effects/16-EQ/8665-SSL-Native-X-EQ-2",
@@ -62116,7 +62222,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/ssl-native-x-eq-2.jpg"
+      "image": "/images/plugin-prices/ssl-native-x-eq-2.jpg",
+      "image_lg": "/images/plugin-prices/ssl-native-x-eq-2-lg.jpg",
+      "image_lg_width": 625
     },
     "SSL Native X-Echo": {
       "pb_url": "/product/2-Effects/10-Delay/8674-SSL-Native-X-Echo",
@@ -62252,7 +62360,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/ssl-native-x-echo.jpg"
+      "image": "/images/plugin-prices/ssl-native-x-echo.jpg",
+      "image_lg": "/images/plugin-prices/ssl-native-x-echo-lg.jpg",
+      "image_lg_width": 625
     },
     "SSL Native X-Phase": {
       "pb_url": "/product/3-Studio-Tools/22-Sound-Editor/8666-SSL-Native-X-Phase",
@@ -62405,7 +62515,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/ssl-native-x-phase.jpg"
+      "image": "/images/plugin-prices/ssl-native-x-phase.jpg",
+      "image_lg": "/images/plugin-prices/ssl-native-x-phase-lg.jpg",
+      "image_lg_width": 625
     },
     "SSL Native X-Saturator": {
       "pb_url": "/product/2-Effects/44-Saturation/8667-SSL-Native-X-Saturator",
@@ -62546,7 +62658,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/ssl-native-x-saturator.jpg"
+      "image": "/images/plugin-prices/ssl-native-x-saturator.jpg",
+      "image_lg": "/images/plugin-prices/ssl-native-x-saturator-lg.jpg",
+      "image_lg_width": 625
     },
     "SSL Native X-ValveComp": {
       "pb_url": "/product/2-Effects/8-Compressor/8673-SSL-Native-X-ValveComp",
@@ -62700,7 +62814,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/ssl-native-x-valvecomp.jpg"
+      "image": "/images/plugin-prices/ssl-native-x-valvecomp.jpg",
+      "image_lg": "/images/plugin-prices/ssl-native-x-valvecomp-lg.jpg",
+      "image_lg_width": 625
     },
     "SSL X-Gate": {
       "pb_url": "/product/2-Effects/20-Gate/9258-SSL-X-Gate",
@@ -62899,7 +63015,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/ssl-x-gate.jpg"
+      "image": "/images/plugin-prices/ssl-x-gate.jpg",
+      "image_lg": "/images/plugin-prices/ssl-x-gate-lg.jpg",
+      "image_lg_width": 625
     },
     "SSL X-Limit": {
       "pb_url": "/product/2-Effects/9-Limiter/9371-SSL-X-Limit",
@@ -63082,7 +63200,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/ssl-x-limit.jpg"
+      "image": "/images/plugin-prices/ssl-x-limit.jpg",
+      "image_lg": "/images/plugin-prices/ssl-x-limit-lg.jpg",
+      "image_lg_width": 625
     },
     "SUBCRAFT": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/13267-SUBCRAFT",
@@ -64083,7 +64203,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/softube-producer-collection-exclusive.jpg"
+      "image": "/images/plugin-prices/softube-producer-collection-exclusive.jpg",
+      "image_lg": "/images/plugin-prices/softube-producer-collection-exclusive-lg.jpg",
+      "image_lg_width": 625
     },
     "Softube Summit Audio TLA-100A": {
       "pb_url": "/product/2-Effects/8-Compressor/2849-Summit-Audio-TLA-100A-Compressor",
@@ -64199,7 +64321,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/softube-summit-audio-tla-100a.jpg"
+      "image": "/images/plugin-prices/softube-summit-audio-tla-100a.jpg",
+      "image_lg": "/images/plugin-prices/softube-summit-audio-tla-100a-lg.jpg",
+      "image_lg_width": 625
     },
     "Softube Tape": {
       "pb_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/3416-Tape",
@@ -64402,7 +64526,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/softube-tape.jpg"
+      "image": "/images/plugin-prices/softube-tape.jpg",
+      "image_lg": "/images/plugin-prices/softube-tape-lg.jpg",
+      "image_lg_width": 625
     },
     "Softube Trident A-Range": {
       "pb_url": "/product/2-Effects/16-EQ/2839-Trident-A-Range",
@@ -67636,7 +67762,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/sonnox-oxford-eq.jpg"
+      "image": "/images/plugin-prices/sonnox-oxford-eq.jpg",
+      "image_lg": "/images/plugin-prices/sonnox-oxford-eq-lg.jpg",
+      "image_lg_width": 482
     },
     "Sonnox Oxford Inflator": {
       "pb_url": "https://sonnox.com/products/oxford-inflator",
@@ -68252,7 +68380,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/sonnox-oxford-supresser.jpg"
+      "image": "/images/plugin-prices/sonnox-oxford-supresser.jpg",
+      "image_lg": "/images/plugin-prices/sonnox-oxford-supresser-lg.jpg",
+      "image_lg_width": 625
     },
     "SoundID Reference for Headphones": {
       "pb_url": "/product/3-Studio-Tools/95-Referencing-Tools/7408-SoundID-Reference-for-Headphones",
@@ -69226,7 +69356,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/soundtoys-crystallizer.jpg"
+      "image": "/images/plugin-prices/soundtoys-crystallizer.jpg",
+      "image_lg": "/images/plugin-prices/soundtoys-crystallizer-lg.jpg",
+      "image_lg_width": 625
     },
     "Soundtoys Decapitator": {
       "pb_url": "/product/2-Effects/44-Saturation/1801-Decapitator",
@@ -74281,7 +74413,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/sublab-xl.jpg"
+      "image": "/images/plugin-prices/sublab-xl.jpg",
+      "image_lg": "/images/plugin-prices/sublab-xl-lg.jpg",
+      "image_lg_width": 625
     },
     "Super 8": {
       "pb_url": "/product/1-Instruments/4-Synth/11465-Super-8",
@@ -77771,7 +77905,9 @@
         }
       ],
       "category": null,
-      "image": "/images/plugin-prices/uad-anthem-analog-synthesizer.jpg"
+      "image": "/images/plugin-prices/uad-anthem-analog-synthesizer.jpg",
+      "image_lg": "/images/plugin-prices/uad-anthem-analog-synthesizer-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Avalon VT 737 Tube Channel Strip": {
       "pb_url": "/product/2-Effects/21-Channel-Strip/11495-Avalon-VT-737-Tube-Channel-Strip",
@@ -77972,7 +78108,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/uad-avalon-vt-737-tube-channel-strip.jpg"
+      "image": "/images/plugin-prices/uad-avalon-vt-737-tube-channel-strip.jpg",
+      "image_lg": "/images/plugin-prices/uad-avalon-vt-737-tube-channel-strip-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD B-Side Mix Tape Bundle": {
       "pb_url": "/search?q=UAD%20B-Side%20Mix%20Tape%20Bundle",
@@ -78451,7 +78589,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/uad-capitol-chambers.jpg"
+      "image": "/images/plugin-prices/uad-capitol-chambers.jpg",
+      "image_lg": "/images/plugin-prices/uad-capitol-chambers-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Capitol Mastering Compressor": {
       "pb_url": "/product/2-Effects/8-Compressor/10562-Capitol-Mastering-Compressor",
@@ -78923,7 +79063,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/uad-emt-140-classic-plate-reverberator.jpg"
+      "image": "/images/plugin-prices/uad-emt-140-classic-plate-reverberator.jpg",
+      "image_lg": "/images/plugin-prices/uad-emt-140-classic-plate-reverberator-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD EMT 250 Classic Electronic Reverb": {
       "pb_url": "/product/2-Effects/17-Reverb/17664-EMT-250-Classic-Electronic-Reverb",
@@ -79049,7 +79191,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/uad-emt-250-classic-electronic-reverb.jpg"
+      "image": "/images/plugin-prices/uad-emt-250-classic-electronic-reverb.jpg",
+      "image_lg": "/images/plugin-prices/uad-emt-250-classic-electronic-reverb-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Electra 88 Vintage Keyboard Studio": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/10563-Electra-88-Vintage-Keyboard-Studio",
@@ -79226,7 +79370,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/uad-electra-88-vintage-keyboard-studio.jpg"
+      "image": "/images/plugin-prices/uad-electra-88-vintage-keyboard-studio.jpg",
+      "image_lg": "/images/plugin-prices/uad-electra-88-vintage-keyboard-studio-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Enigmatic 82 Overdrive Special Amp": {
       "pb_url": "/product/2-Effects/18-Amp-Simulator/17292-UAD-Enigmatic-82-Overdrive-Special-Amp",
@@ -79692,7 +79838,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/uad-galaxy-tape-echo.jpg"
+      "image": "/images/plugin-prices/uad-galaxy-tape-echo.jpg",
+      "image_lg": "/images/plugin-prices/uad-galaxy-tape-echo-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Helios Type 69 Preamp and EQ Collection": {
       "pb_url": "/product/2-Effects/16-EQ/11854-Helios-Type-69-Preamp-and-EQ-Collection",
@@ -79833,7 +79981,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/uad-helios-type-69-preamp-and-eq-collection.jpg"
+      "image": "/images/plugin-prices/uad-helios-type-69-preamp-and-eq-collection.jpg",
+      "image_lg": "/images/plugin-prices/uad-helios-type-69-preamp-and-eq-collection-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Hitsville EQ Collection": {
       "pb_url": "/product/2-Effects/16-EQ/10171-Hitsville-EQ-Collection",
@@ -79992,7 +80142,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/uad-hitsville-eq-collection.jpg"
+      "image": "/images/plugin-prices/uad-hitsville-eq-collection.jpg",
+      "image_lg": "/images/plugin-prices/uad-hitsville-eq-collection-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Hitsville Reverb Chambers": {
       "pb_url": "/product/2-Effects/17-Reverb/10173-Hitsville-Reverb-Chambers",
@@ -80169,7 +80321,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/uad-hitsville-reverb-chambers.jpg"
+      "image": "/images/plugin-prices/uad-hitsville-reverb-chambers.jpg",
+      "image_lg": "/images/plugin-prices/uad-hitsville-reverb-chambers-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD LA-2A Collection": {
       "pb_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10154-Teletronix-LA-2A-Leveler-Collection",
@@ -80350,7 +80504,9 @@
           "until": "2026-10-31"
         }
       ],
-      "image": "/images/plugin-prices/uad-la-2a-collection.jpg"
+      "image": "/images/plugin-prices/uad-la-2a-collection.jpg",
+      "image_lg": "/images/plugin-prices/uad-la-2a-collection-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD LUNA Pro Mk 2": {
       "pb_url": "/search?q=UAD%20LUNA%20Pro%20Mk%202",
@@ -80689,7 +80845,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/uad-lexicon-224-digital-reverb.jpg"
+      "image": "/images/plugin-prices/uad-lexicon-224-digital-reverb.jpg",
+      "image_lg": "/images/plugin-prices/uad-lexicon-224-digital-reverb-lg.jpg",
+      "image_lg_width": 610
     },
     "UAD Lion 68 Super Lead Amp": {
       "pb_url": "/product/2-Effects/18-Amp-Simulator/13323-UAD-Lion-68-Super-Lead-Amp",
@@ -81303,7 +81461,9 @@
         }
       ],
       "category": null,
-      "image": "/images/plugin-prices/uad-manley-massive-passive.jpg"
+      "image": "/images/plugin-prices/uad-manley-massive-passive.jpg",
+      "image_lg": "/images/plugin-prices/uad-manley-massive-passive-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Manley Tube Preamp": {
       "pb_url": "/product/2-Effects/54-Vocal-Processing/11028-Manley-Tube-Preamp",
@@ -81510,7 +81670,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/uad-manley-tube-preamp.jpg"
+      "image": "/images/plugin-prices/uad-manley-tube-preamp.jpg",
+      "image_lg": "/images/plugin-prices/uad-manley-tube-preamp-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Manley VOXBOX Channel Strip": {
       "pb_url": "/product/2-Effects/54-Vocal-Processing/10956-Manley-VOXBOX-Channel-Strip-",
@@ -81687,7 +81849,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/uad-manley-voxbox-channel-strip.jpg"
+      "image": "/images/plugin-prices/uad-manley-voxbox-channel-strip.jpg",
+      "image_lg": "/images/plugin-prices/uad-manley-voxbox-channel-strip-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Manley Vari Mu": {
       "pb_url": "/product/2-Effects/71-Dynamics-Processor/11953-Manley-Vari-Mu",
@@ -82179,7 +82343,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/uad-mix-tape-pro.jpg"
+      "image": "/images/plugin-prices/uad-mix-tape-pro.jpg",
+      "image_lg": "/images/plugin-prices/uad-mix-tape-pro-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Moog Minimoog": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/10188-Moog-Minimoog",
@@ -82818,7 +82984,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/uad-ocean-way-studios-deluxe.jpg"
+      "image": "/images/plugin-prices/uad-ocean-way-studios-deluxe.jpg",
+      "image_lg": "/images/plugin-prices/uad-ocean-way-studios-deluxe-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Opal Morphing Synth": {
       "pb_url": "/product/1-Instruments/4-Synth/10189-Opal-Morphing-Synth",
@@ -83037,7 +83205,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/uad-opal-morphing-synth.jpg"
+      "image": "/images/plugin-prices/uad-opal-morphing-synth.jpg",
+      "image_lg": "/images/plugin-prices/uad-opal-morphing-synth-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Oxide Tape Recorder": {
       "pb_url": "/product/2-Effects/96-Tape-Emulation/10182-Oxide-Tape-Recorder",
@@ -83173,7 +83343,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/uad-pick-5-mix-tape.jpg"
+      "image": "/images/plugin-prices/uad-pick-5-mix-tape.jpg",
+      "image_lg": "/images/plugin-prices/uad-pick-5-mix-tape-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Pultec Passive EQ Collection": {
       "pb_url": "/product/2-Effects/16-EQ/10183-Pultec-Passive-EQ-Collection",
@@ -83357,7 +83529,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/uad-pultec-passive-eq-collection.jpg"
+      "image": "/images/plugin-prices/uad-pultec-passive-eq-collection.jpg",
+      "image_lg": "/images/plugin-prices/uad-pultec-passive-eq-collection-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Ravel Grand Piano": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/10191-Ravel-Grand-Piano",
@@ -83534,7 +83708,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/uad-ravel-grand-piano.jpg"
+      "image": "/images/plugin-prices/uad-ravel-grand-piano.jpg",
+      "image_lg": "/images/plugin-prices/uad-ravel-grand-piano-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Ruby 63 Top Boost Amp": {
       "pb_url": "/product/2-Effects/18-Amp-Simulator/13322-UAD-Ruby-63-Top-Boost-Amp",
@@ -83818,7 +83994,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/uad-ssl-4000-e-channel-strip.jpg"
+      "image": "/images/plugin-prices/uad-ssl-4000-e-channel-strip.jpg",
+      "image_lg": "/images/plugin-prices/uad-ssl-4000-e-channel-strip-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD SSL 4000 G Bus Compressor": {
       "pb_url": "/product/2-Effects/21-Channel-Strip/13325-SSL-4000-G-Bus-Compressor",
@@ -84065,7 +84243,9 @@
         }
       ],
       "category": null,
-      "image": "/images/plugin-prices/uad-ssl-4000-g-bus-compressor.jpg"
+      "image": "/images/plugin-prices/uad-ssl-4000-g-bus-compressor.jpg",
+      "image_lg": "/images/plugin-prices/uad-ssl-4000-g-bus-compressor-lg.jpg",
+      "image_lg_width": 579
     },
     "UAD Select 2": {
       "pb_url": "/search?q=UAD%20Select%202",
@@ -84220,7 +84400,9 @@
           "until": "2026-10-31"
         }
       ],
-      "image": "/images/plugin-prices/uad-sound-city-studios-plugin.jpg"
+      "image": "/images/plugin-prices/uad-sound-city-studios-plugin.jpg",
+      "image_lg": "/images/plugin-prices/uad-sound-city-studios-plugin-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Studer A800 Tape Recorder": {
       "pb_url": "/product/2-Effects/96-Tape-Emulation/10185-Studer-A800-Tape-Recorder",
@@ -84451,7 +84633,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/uad-studer-a800-tape-recorder.jpg"
+      "image": "/images/plugin-prices/uad-studer-a800-tape-recorder.jpg",
+      "image_lg": "/images/plugin-prices/uad-studer-a800-tape-recorder-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Studio D Chorus": {
       "pb_url": "/product/2-Effects/11-Chorus/10186-Studio-D-Chorus",
@@ -84843,7 +85027,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/uad-teletronix-la-3a-audio-leveler.jpg"
+      "image": "/images/plugin-prices/uad-teletronix-la-3a-audio-leveler.jpg",
+      "image_lg": "/images/plugin-prices/uad-teletronix-la-3a-audio-leveler-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Topline Vocal Suite": {
       "pb_url": "/product/2-Effects/54-Vocal-Processing/13320-Topline-Vocal-Suite",
@@ -85056,7 +85242,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/uad-topline-vocal-suite.jpg"
+      "image": "/images/plugin-prices/uad-topline-vocal-suite.jpg",
+      "image_lg": "/images/plugin-prices/uad-topline-vocal-suite-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Topline Vocal Tune": {
       "pb_url": "/product/2-Effects/54-Vocal-Processing/17399-Topline-Vocal-Tune",
@@ -85197,7 +85385,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/uad-topline-vocal-tune.jpg"
+      "image": "/images/plugin-prices/uad-topline-vocal-tune.jpg",
+      "image_lg": "/images/plugin-prices/uad-topline-vocal-tune-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD UA 175B 176 Tube Compressor Collection": {
       "pb_url": "/product/2-Effects/8-Compressor/10940-UA-175B-176-Tube-Compressor-Collection",
@@ -85323,7 +85513,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/uad-ua-175b-176-tube-compressor-collection.jpg"
+      "image": "/images/plugin-prices/uad-ua-175b-176-tube-compressor-collection.jpg",
+      "image_lg": "/images/plugin-prices/uad-ua-175b-176-tube-compressor-collection-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD UA LA 6176 Signature Channel Strip": {
       "pb_url": "/product/2-Effects/21-Channel-Strip/12389-UA-LA-6176-Signature-Channel-Strip",
@@ -85464,7 +85656,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/uad-ua-la-6176-signature-channel-strip.jpg"
+      "image": "/images/plugin-prices/uad-ua-la-6176-signature-channel-strip.jpg",
+      "image_lg": "/images/plugin-prices/uad-ua-la-6176-signature-channel-strip-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Vibe Analog Machines": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/17163-Vibe-Analog-Machines",
@@ -85745,7 +85939,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/uad-waterfall-b3-organ.jpg"
+      "image": "/images/plugin-prices/uad-waterfall-b3-organ.jpg",
+      "image_lg": "/images/plugin-prices/uad-waterfall-b3-organ-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Waterfall Rotary Speaker": {
       "pb_url": "/product/2-Effects/18-Amp-Simulator/10196-Waterfall-Rotary-Speaker",
@@ -86199,7 +86395,9 @@
           "until": "2026-10-31"
         }
       ],
-      "image": "/images/plugin-prices/uad-dbx-160-compressor-limiter.jpg"
+      "image": "/images/plugin-prices/uad-dbx-160-compressor-limiter.jpg",
+      "image_lg": "/images/plugin-prices/uad-dbx-160-compressor-limiter-lg.jpg",
+      "image_lg_width": 625
     },
     "UJAM SELECT 5 Bundle": {
       "pb_url": "/product/81-Bundles/97-Various-Category/15483-UJAM-SELECT-5-Bundle",
@@ -87680,7 +87878,9 @@
           "until": "2026-01-10"
         }
       ],
-      "image": "/images/plugin-prices/usynth-core.jpg"
+      "image": "/images/plugin-prices/usynth-core.jpg",
+      "image_lg": "/images/plugin-prices/usynth-core-lg.jpg",
+      "image_lg_width": 625
     },
     "VISION 4X": {
       "pb_url": "/product/2-Effects/25-Spectral-Analysis/9301-VISION-4X",
@@ -88666,7 +88866,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/vision-4x.jpg"
+      "image": "/images/plugin-prices/vision-4x.jpg",
+      "image_lg": "/images/plugin-prices/vision-4x-lg.jpg",
+      "image_lg_width": 625
     },
     "VPS Avenger 2": {
       "pb_url": "/product/1-Instruments/4-Synth/11545-VPS-Avenger-2",
@@ -89951,7 +90153,9 @@
           "until": "2026-10-25"
         }
       ],
-      "image": "/images/plugin-prices/wormhole.jpg"
+      "image": "/images/plugin-prices/wormhole.jpg",
+      "image_lg": "/images/plugin-prices/wormhole-lg.jpg",
+      "image_lg_width": 600
     },
     "Waves API 2500": {
       "pb_url": "/product/2-Effects/8-Compressor/13695-API-2500",
@@ -90111,7 +90315,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/waves-api-2500.jpg"
+      "image": "/images/plugin-prices/waves-api-2500.jpg",
+      "image_lg": "/images/plugin-prices/waves-api-2500-lg.jpg",
+      "image_lg_width": 625
     },
     "Waves Abbey Road Reverb Plates": {
       "pb_url": "/product/2-Effects/17-Reverb/13698-Abbey-Road-Reverb-Plates",
@@ -90268,7 +90474,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/waves-abbey-road-reverb-plates.jpg"
+      "image": "/images/plugin-prices/waves-abbey-road-reverb-plates.jpg",
+      "image_lg": "/images/plugin-prices/waves-abbey-road-reverb-plates-lg.jpg",
+      "image_lg_width": 625
     },
     "Waves Bass Rider": {
       "pb_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13661-Bass-Rider",
@@ -90356,7 +90564,9 @@
         }
       ],
       "category": "Utility",
-      "image": "/images/plugin-prices/waves-bass-rider.jpg"
+      "image": "/images/plugin-prices/waves-bass-rider.jpg",
+      "image_lg": "/images/plugin-prices/waves-bass-rider-lg.jpg",
+      "image_lg_width": 625
     },
     "Waves CLA-2A": {
       "pb_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13687-CLA-2A-Compressor-Limiter",
@@ -90522,7 +90732,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/waves-cla-2a.jpg"
+      "image": "/images/plugin-prices/waves-cla-2a.jpg",
+      "image_lg": "/images/plugin-prices/waves-cla-2a-lg.jpg",
+      "image_lg_width": 625
     },
     "Waves CLA-76": {
       "pb_url": "/product/2-Effects/8-Compressor/13688-CLA-76-Compressor-Limiter",
@@ -90631,7 +90843,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/waves-cla-76.jpg"
+      "image": "/images/plugin-prices/waves-cla-76.jpg",
+      "image_lg": "/images/plugin-prices/waves-cla-76-lg.jpg",
+      "image_lg_width": 600
     },
     "Waves H-Delay": {
       "pb_url": "/product/2-Effects/10-Delay/13813-H-Delay-Hybrid-Delay",
@@ -90752,7 +90966,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/waves-h-delay.jpg"
+      "image": "/images/plugin-prices/waves-h-delay.jpg",
+      "image_lg": "/images/plugin-prices/waves-h-delay-lg.jpg",
+      "image_lg_width": 625
     },
     "Waves H-Reverb": {
       "pb_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/13784-H-Reverb-Hybrid-Reverb",
@@ -90861,7 +91077,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/waves-h-reverb.jpg"
+      "image": "/images/plugin-prices/waves-h-reverb.jpg",
+      "image_lg": "/images/plugin-prices/waves-h-reverb-lg.jpg",
+      "image_lg_width": 625
     },
     "Waves Kramer Master Tape": {
       "pb_url": "/product/2-Effects/96-Tape-Emulation/13679-Kramer-Master-Tape",
@@ -91071,7 +91289,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/waves-l1-ultramaximizer.jpg"
+      "image": "/images/plugin-prices/waves-l1-ultramaximizer.jpg",
+      "image_lg": "/images/plugin-prices/waves-l1-ultramaximizer-lg.jpg",
+      "image_lg_width": 625
     },
     "Waves PuigTec EQs": {
       "pb_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/13694-PuigTec-EQs",
@@ -91159,7 +91379,9 @@
         }
       ],
       "category": "EQ",
-      "image": "/images/plugin-prices/waves-puigtec-eqs.jpg"
+      "image": "/images/plugin-prices/waves-puigtec-eqs.jpg",
+      "image_lg": "/images/plugin-prices/waves-puigtec-eqs-lg.jpg",
+      "image_lg_width": 600
     },
     "Waves Renaissance Reverb": {
       "pb_url": "/product/2-Effects/17-Reverb/13674-Renaissance-Reverb",
@@ -91409,7 +91631,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/waves-renaissance-reverb.jpg"
+      "image": "/images/plugin-prices/waves-renaissance-reverb.jpg",
+      "image_lg": "/images/plugin-prices/waves-renaissance-reverb-lg.jpg",
+      "image_lg_width": 625
     },
     "Waves Renaissance Vox": {
       "pb_url": "/product/2-Effects/8-Compressor/13665-Renaissance-Vox",
@@ -91626,7 +91850,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/waves-renaissance-vox.jpg"
+      "image": "/images/plugin-prices/waves-renaissance-vox.jpg",
+      "image_lg": "/images/plugin-prices/waves-renaissance-vox-lg.jpg",
+      "image_lg_width": 625
     },
     "Waves SSL E-Channel": {
       "pb_url": "https://www.waves.com/plugins/ssl-e-channel",
@@ -92785,7 +93011,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/weiss-mm-1.jpg"
+      "image": "/images/plugin-prices/weiss-mm-1.jpg",
+      "image_lg": "/images/plugin-prices/weiss-mm-1-lg.jpg",
+      "image_lg_width": 625
     },
     "XLN Audio Addictive Keys": {
       "pb_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/1191-Addictive-Keys-Studio-Grand",
@@ -95521,7 +95749,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/drivedat.jpg"
+      "image": "/images/plugin-prices/drivedat.jpg",
+      "image_lg": "/images/plugin-prices/drivedat-lg.jpg",
+      "image_lg_width": 625
     },
     "fiedler audio stage": {
       "pb_url": "/search?q=fiedler%20audio%20stage",
@@ -97585,7 +97815,9 @@
           "until": "2026-10-31"
         }
       ],
-      "image": "/images/plugin-prices/u-he-diva-free-ambient-depths-expansion.jpg"
+      "image": "/images/plugin-prices/u-he-diva-free-ambient-depths-expansion.jpg",
+      "image_lg": "/images/plugin-prices/u-he-diva-free-ambient-depths-expansion-lg.jpg",
+      "image_lg_width": 625
     },
     "u he Hive 2 FREE Synthwave Expansion": {
       "pb_url": "/product/81-Bundles/97-Various-Category/7683-u-he-Hive-2-FREE-Synthwave-Expansion",
@@ -97709,7 +97941,9 @@
           "until": "2026-10-31"
         }
       ],
-      "image": "/images/plugin-prices/u-he-hive-2-free-synthwave-expansion.jpg"
+      "image": "/images/plugin-prices/u-he-hive-2-free-synthwave-expansion.jpg",
+      "image_lg": "/images/plugin-prices/u-he-hive-2-free-synthwave-expansion-lg.jpg",
+      "image_lg_width": 620
     },
     "u-he ACE": {
       "pb_url": "https://u-he.com/products/ace/",
@@ -100578,7 +100812,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/u-he-zebra-3.jpg"
+      "image": "/images/plugin-prices/u-he-zebra-3.jpg",
+      "image_lg": "/images/plugin-prices/u-he-zebra-3-lg.jpg",
+      "image_lg_width": 625
     },
     "u-he Zebra Legacy": {
       "pb_url": "https://u-he.com/products/zebra2/",
@@ -100908,7 +101144,9 @@
           "until": "2026-10-31"
         }
       ],
-      "image": "/images/plugin-prices/dandy.jpg"
+      "image": "/images/plugin-prices/dandy.jpg",
+      "image_lg": "/images/plugin-prices/dandy-lg.jpg",
+      "image_lg_width": 625
     },
     "Esspresso": {
       "pb_url": "/product/2-Effects/59-De-Esser/8702-Esspresso",
@@ -101105,7 +101343,9 @@
           "until": "2026-10-31"
         }
       ],
-      "image": "/images/plugin-prices/motion-bundle-upgrade-from-any-motion-product.jpg"
+      "image": "/images/plugin-prices/motion-bundle-upgrade-from-any-motion-product.jpg",
+      "image_lg": "/images/plugin-prices/motion-bundle-upgrade-from-any-motion-product-lg.jpg",
+      "image_lg_width": 625
     },
     "United Plugins Mirror": {
       "pb_url": "/product/2-Effects/10-Delay/8658-Mirror",
@@ -101618,7 +101858,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/zenology-pro.jpg"
+      "image": "/images/plugin-prices/zenology-pro.jpg",
+      "image_lg": "/images/plugin-prices/zenology-pro-lg.jpg",
+      "image_lg_width": 625
     },
     "The Orb": {
       "pb_url": "/product/2-Effects/19-Filter/2888-The-Orb",
@@ -101829,7 +102071,9 @@
           "until": "2026-10-31"
         }
       ],
-      "image": "/images/plugin-prices/the-orb.jpg"
+      "image": "/images/plugin-prices/the-orb.jpg",
+      "image_lg": "/images/plugin-prices/the-orb-lg.jpg",
+      "image_lg_width": 625
     },
     "JUNO-60": {
       "pb_url": "/product/1-Instruments/4-Synth/15608-JUNO-60",
@@ -102057,7 +102301,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/juno-60.jpg"
+      "image": "/images/plugin-prices/juno-60.jpg",
+      "image_lg": "/images/plugin-prices/juno-60-lg.jpg",
+      "image_lg_width": 625
     },
     "Motion Fractal Upgrade from any Motion Lite": {
       "pb_url": "/product/2-Effects/45-Granular-FX/15185-Motion-Fractal-Upgrade-from-any-Motion-Lite-",
@@ -102114,7 +102360,9 @@
           "until": "2026-10-25"
         }
       ],
-      "image": "/images/plugin-prices/motion-fractal-upgrade-from-any-motion-lite.jpg"
+      "image": "/images/plugin-prices/motion-fractal-upgrade-from-any-motion-lite.jpg",
+      "image_lg": "/images/plugin-prices/motion-fractal-upgrade-from-any-motion-lite-lg.jpg",
+      "image_lg_width": 625
     },
     "73 JR Preamp": {
       "pb_url": "/product/2-Effects/74-Preamp/14618-73-JR-Preamp",
@@ -102171,7 +102419,9 @@
           "until": "2026-10-31"
         }
       ],
-      "image": "/images/plugin-prices/73-jr-preamp.jpg"
+      "image": "/images/plugin-prices/73-jr-preamp.jpg",
+      "image_lg": "/images/plugin-prices/73-jr-preamp-lg.jpg",
+      "image_lg_width": 625
     },
     "Virtual Bassist Bundle 2": {
       "pb_url": "/product/81-Bundles/58-Instrument-Bundles/6619-Virtual-Bassist-Bundle-2",
@@ -102344,7 +102594,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/bus-processor.jpg"
+      "image": "/images/plugin-prices/bus-processor.jpg",
+      "image_lg": "/images/plugin-prices/bus-processor-lg.jpg",
+      "image_lg_width": 625
     },
     "SILK 2": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/11871-SILK-2",
@@ -102623,7 +102875,9 @@
           "until": "2026-10-31"
         }
       ],
-      "image": "/images/plugin-prices/lang-peq-2.jpg"
+      "image": "/images/plugin-prices/lang-peq-2.jpg",
+      "image_lg": "/images/plugin-prices/lang-peq-2-lg.jpg",
+      "image_lg_width": 625
     },
     "Ultimate Vocal Chain Collection": {
       "pb_url": "/product/81-Bundles/39-Effects-Bundles/16492-Ultimate-Vocal-Chain-Collection",
@@ -102670,7 +102924,9 @@
           "until": "2026-10-31"
         }
       ],
-      "image": "/images/plugin-prices/ultimate-vocal-chain-collection.jpg"
+      "image": "/images/plugin-prices/ultimate-vocal-chain-collection.jpg",
+      "image_lg": "/images/plugin-prices/ultimate-vocal-chain-collection-lg.jpg",
+      "image_lg_width": 625
     },
     "Baby Audio HyperWarp": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/17963-HyperWarp",
@@ -102710,7 +102966,9 @@
           "until": "2026-11-30"
         }
       ],
-      "image": "/images/plugin-prices/baby-audio-hyperwarp.jpg"
+      "image": "/images/plugin-prices/baby-audio-hyperwarp.jpg",
+      "image_lg": "/images/plugin-prices/baby-audio-hyperwarp-lg.jpg",
+      "image_lg_width": 625
     },
     "AmpliTube 5": {
       "pb_url": "/product/2-Effects/18-Amp-Simulator/12669-AmpliTube-5",
@@ -103058,7 +103316,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/instacomposer-4.jpg"
+      "image": "/images/plugin-prices/instacomposer-4.jpg",
+      "image_lg": "/images/plugin-prices/instacomposer-4-lg.jpg",
+      "image_lg_width": 625
     },
     "Solid State Logic SSL Fusion Bundle": {
       "pb_url": "/product/81-Bundles/39-Effects-Bundles/14036-Solid-State-Logic-SSL-Fusion-Bundle",
@@ -103139,7 +103399,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/solid-state-logic-ssl-fusion-bundle.jpg"
+      "image": "/images/plugin-prices/solid-state-logic-ssl-fusion-bundle.jpg",
+      "image_lg": "/images/plugin-prices/solid-state-logic-ssl-fusion-bundle-lg.jpg",
+      "image_lg_width": 625
     },
     "FASTER MASTER": {
       "pb_url": "/product/2-Effects/52-Mastering-Suite/13871-FASTER-MASTER",
@@ -103346,7 +103608,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/snapback.jpg"
+      "image": "/images/plugin-prices/snapback.jpg",
+      "image_lg": "/images/plugin-prices/snapback-lg.jpg",
+      "image_lg_width": 625
     },
     "X-DynEQ": {
       "pb_url": "/product/2-Effects/16-EQ/12266-X-DynEQ",
@@ -103427,7 +103691,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/x-dyneq.jpg"
+      "image": "/images/plugin-prices/x-dyneq.jpg",
+      "image_lg": "/images/plugin-prices/x-dyneq-lg.jpg",
+      "image_lg_width": 625
     },
     "Glow": {
       "pb_url": "/product/2-Effects/17-Reverb/12153-Glow",
@@ -103518,7 +103784,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/glow.jpg"
+      "image": "/images/plugin-prices/glow.jpg",
+      "image_lg": "/images/plugin-prices/glow-lg.jpg",
+      "image_lg_width": 625
     },
     "SubBoomBass 2": {
       "pb_url": "/product/1-Instruments/4-Synth/3951-SubBoomBass-2",
@@ -103673,7 +103941,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/ssl-greatest-hits-bundle.jpg"
+      "image": "/images/plugin-prices/ssl-greatest-hits-bundle.jpg",
+      "image_lg": "/images/plugin-prices/ssl-greatest-hits-bundle-lg.jpg",
+      "image_lg_width": 625
     },
     "Lines": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/11434-Lines",
@@ -103700,7 +103970,9 @@
           "until": "2026-10-26"
         }
       ],
-      "image": "/images/plugin-prices/lines.jpg"
+      "image": "/images/plugin-prices/lines.jpg",
+      "image_lg": "/images/plugin-prices/lines-lg.jpg",
+      "image_lg_width": 625
     },
     "TOTAL Guitar MAX": {
       "pb_url": "/product/81-Bundles/97-Various-Category/17062-TOTAL-Guitar-MAX",
@@ -103790,7 +104062,9 @@
           "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/jura.jpg"
+      "image": "/images/plugin-prices/jura.jpg",
+      "image_lg": "/images/plugin-prices/jura-lg.jpg",
+      "image_lg_width": 625
     },
     "Reason Rack 14": {
       "pb_url": "/product/3-Studio-Tools/23-DAW/17336-Reason-Rack-14",
@@ -103954,7 +104228,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/uad-emperical-labs-fatso-tape-simulator.jpg"
+      "image": "/images/plugin-prices/uad-emperical-labs-fatso-tape-simulator.jpg",
+      "image_lg": "/images/plugin-prices/uad-emperical-labs-fatso-tape-simulator-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Kithara": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15877-Kithara",

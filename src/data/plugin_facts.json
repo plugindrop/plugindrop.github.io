@@ -10,7 +10,9 @@
     "mac_req": "OS 11+; 4 GB RAM; 4 cores CPU, 3.4 GHz (4.0 GHz Turbo-boost) or Apple Silicon CPU; 50GB free hard disk space",
     "win_req": "Win 10+ (64bit); 4 GB RAM; 4 cores CPU, 3.4 GHz (4.0 GHz Turbo-boost); 50GB free hard disk space",
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16835-FX-Collection-6-PRO",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 100,
+    "preset_quote": "100 presets for vocals, drums, guitars, synths, and abstract sound design"
   },
   "Arturia V Collection 11 Pro": {
     "formats": [
@@ -28,13 +30,14 @@
   "Baby Audio Complete Bundle": {
     "formats": [
       "VST3",
-      "VST2",
-      "AU"
+      "VST",
+      "AU",
+      "AAX"
     ],
-    "mac_req": "OS 10.7 or higher - AU",
-    "win_req": "7, 10 or 11 - VST 2.4 / VST 3; 64-bit only",
-    "source_url": "https://www.pluginboutique.com/product/1-Instruments/88-Bundle/8901-Baby-Audio-Complete-Bundle",
-    "retrieved_on": "2026-09-28"
+    "mac_req": "OS:; macOS X 10.7 or later (64-bit only); Intel or M1 Apple Silicon Processor (Native compatibility); Plugin Formats: VST, VST3, AU, AAX",
+    "win_req": "Windows 7 and up (32 / 64-bit); Plugin formats: VST, VST3, AAX; DAWs supported: Ableton Live, Pro Tools, Logic Pro, FL Studio, Cubase, Nuendo, Reaper, Reason + more.",
+    "source_url": "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/10815-Baby-Audio-Complete-Bundle",
+    "retrieved_on": "2026-10-23"
   },
   "Cableguys ShaperBox 3": {
     "formats": [
@@ -73,20 +76,6 @@
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle",
     "retrieved_on": "2026-09-28"
   },
-  "NI Komplete 15 Standard": {
-    "formats": [],
-    "mac_req": null,
-    "win_req": null,
-    "source_url": "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/13188-KOMPLETE-15-Standard",
-    "retrieved_on": "2026-09-28"
-  },
-  "NI Komplete 15 Ultimate": {
-    "formats": [],
-    "mac_req": null,
-    "win_req": null,
-    "source_url": "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/13187-KOMPLETE-15-Ultimate",
-    "retrieved_on": "2026-09-28"
-  },
   "Soundtoys 5.5": {
     "formats": [
       "VST3",
@@ -106,7 +95,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX",
+    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!",
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12534-Gold-Bundle",
     "retrieved_on": "2026-09-28"
   },
@@ -117,9 +106,11 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX",
+    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!",
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/84-Mix-Master/12542-Platinum-Bundle",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "included_count": 67,
+    "included_quote": "67 plugins: All plugins from Waves Gold plus 22 more"
   },
   "AIR Legends Pack": {
     "formats": [
@@ -171,18 +162,6 @@
     "source_url": "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12444-AmpliTube-5-MAX-v2",
     "retrieved_on": "2026-09-28"
   },
-  "Analog Lab Pro": {
-    "formats": [
-      "VST",
-      "AU",
-      "AAX",
-      "Standalone"
-    ],
-    "mac_req": "macOS 10.13 or later (64-bit only) (M1 Mac not yet officially supported); 4 GB RAM; 4 cores CPU, 3.4 GHz (4.0 GHz Turbo-boost) or Apple Silicon CPU; 4GB free hard disk space",
-    "win_req": "Win 10+ (64-bit only); 4 GB RAM; 4 cores CPU, 3.4 GHz (4.0 GHz Turbo-boost); OpenGL 2.0 compatible GPU",
-    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7149-Analog-Lab-Pro",
-    "retrieved_on": "2026-09-28"
-  },
   "Analog Monosynth Collection": {
     "formats": [
       "VST3",
@@ -222,7 +201,9 @@
     "mac_req": "macOS 10.13 or later (64-bit only) (M1 Mac not yet officially supported); 4 GB RAM; 4 cores CPU, 3.4 GHz (4.0 GHz Turbo-boost) or Apple Silicon CPU; 4GB free hard disk space",
     "win_req": "Win 10+ (64-bit only); 4 GB RAM; 4 cores CPU, 3.4 GHz (4.0 GHz Turbo-boost); OpenGL 2.0 compatible GPU",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7149-Analog-Lab-Pro",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "included_count": 2,
+    "included_quote": "New Studio view to add effects and combine 2 instruments (Multis)."
   },
   "Arturia Augmented STRINGS": {
     "formats": [
@@ -248,7 +229,9 @@
     "mac_req": "Mac OS 10.13+; 4 GB RAM; 4 cores CPU, 3.4 GHz (4.0 GHz Turbo-boost) or Apple Silicon CPU; 3GB free hard disk space",
     "win_req": "Win 10+ (64bit); 4 GB RAM; 4 cores CPU, 3.4 GHz (4.0 GHz Turbo-boost); 3GB free hard disk space",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10610-CS-80-V4",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 200,
+    "preset_quote": "Preset library with over 200 presets, including original factory patches"
   },
   "Arturia Jup-8 V": {
     "formats": [
@@ -274,7 +257,9 @@
     "mac_req": "OS 11+; 4 GB RAM; 4 cores CPU, 3.4 GHz (4.0 GHz Turbo-boost) or M1 CPU; 32GB free hard disk space",
     "win_req": "Win 10+ (64bit); 4 GB RAM; 4 cores CPU, 3.4 GHz (4.0 GHz Turbo-boost); 32GB free hard disk space",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/14096-Mini-V",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "included_count": 17,
+    "included_quote": "3 effects slots with 17 effects to choose from"
   },
   "Arturia Piano V3": {
     "formats": [
@@ -287,19 +272,6 @@
     "mac_req": "Mac OS 10.13+; 4 GB RAM; 4 cores CPU, 3.4 GHz (4.0 GHz Turbo-boost) or Apple Silicon CPU; 3GB free hard disk space",
     "win_req": "Win 10+ (64bit); 4 GB RAM; 4 cores CPU, 3.4 GHz (4.0 GHz Turbo-boost); 3GB free hard disk space",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10611-Piano-V3",
-    "retrieved_on": "2026-09-28"
-  },
-  "Arturia Pigments": {
-    "formats": [
-      "VST",
-      "AU",
-      "AAX",
-      "NKS",
-      "Standalone"
-    ],
-    "mac_req": "macOS 11+ or later (64-bit only) (M1 Mac Supported); 4 GB RAM; 4 cores CPU, 3.4 GHz (4.0 GHz Turbo-boost) or M1 CPU; 3 GB free hard disk space",
-    "win_req": "Win 10+ (64-bit only); 4 GB RAM; 4 cores CPU, 3.4 GHz (4.0 GHz Turbo-boost); 3 GB free hard disk space",
-    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7",
     "retrieved_on": "2026-09-28"
   },
   "Arturia Prophet-5 V": {
@@ -338,7 +310,9 @@
     "mac_req": "OS X 10.9 – macOS 13; Apple Silicon (M chips) Native (Universal 2 Binary); 2GHz CPU, 4 GB RAM; VST2, VST3, AU, AAX, CLAP (64-bit only)",
     "win_req": "Windows 7, 8, 10, 11; 2GHz CPU, 4 GB RAM; VST2, VST3, AAX, CLAP (64-bit only)",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/5380-Springs",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 50,
+    "preset_quote": "50 Presets"
   },
   "BALANCE": {
     "formats": [
@@ -552,28 +526,6 @@
     "source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17061-Bismuth",
     "retrieved_on": "2026-09-28"
   },
-  "Black Box Analog Design HG-2": {
-    "formats": [
-      "VST3",
-      "AU",
-      "AAX"
-    ],
-    "mac_req": "OS 15 down to macOS 12",
-    "win_req": "11 down to Windows 10",
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/44-Saturation/10203-Black-Box-Analog-Design-HG-2",
-    "retrieved_on": "2026-09-28"
-  },
-  "Black Box Analog Design HG-2MS": {
-    "formats": [
-      "VST3",
-      "AU",
-      "AAX"
-    ],
-    "mac_req": "OS 15 down to macOS 12",
-    "win_req": "11 down to Windows 10",
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/44-Saturation/10204-Black-Box-Analog-Design-HG-2MS",
-    "retrieved_on": "2026-09-28"
-  },
   "Bloom Bass Impulse": {
     "formats": [
       "VST3",
@@ -585,7 +537,9 @@
     "mac_req": "OS; macOS 10.15 or higher (Intel / Native Apple Silicon supported).; Plugin Formats: VST, VST3, AU, AAX, Standalone.",
     "win_req": "Windows 7 or higher; Plugin formats: VST, VST3, AAX, Standalone; DAWs supported: Ableton Live, Pro Tools, FL Studio, Cubase, Nuendo, Reaper, Reason + more.; Compatibility: 64-bit compatible only.",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11968-Bloom-Bass-Impulse",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 250,
+    "preset_quote": "250 Presets"
   },
   "Bloom Drum Breaks": {
     "formats": [
@@ -598,7 +552,9 @@
     "mac_req": "OS; macOS 10.15 or higher (Intel / Native Apple Silicon supported).; Plugin Formats: VST, VST3, AU, AAX, Standalone",
     "win_req": "Windows 7 or higher; Plugin formats: VST, VST3, AAX, Standalone; DAWs supported: Ableton Live, Pro Tools, FL Studio, Cubase, Nuendo, Reaper, Reason + more.; Compatibility: 64-bit compatible only.",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11893-Bloom-Drum-Breaks",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 250,
+    "preset_quote": "250 Presets"
   },
   "Bloom KSHMR": {
     "formats": [
@@ -611,7 +567,9 @@
     "mac_req": "OS; macOS 10.15 or higher (Intel / Native Apple Silicon supported).; Plugin Formats: VST, VST3, AU, AAX, Standalone.",
     "win_req": "Windows 7 or higher; Plugin formats: VST, VST3, AAX, Standalone; DAWs supported: Ableton Live, Pro Tools, FL Studio, Cubase, Nuendo, Reaper, Reason + more.; Compatibility: 64-bit compatible only.",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14907-Bloom-KSHMR",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 250,
+    "preset_quote": "250 Presets"
   },
   "Bloom Vocal Aether": {
     "formats": [
@@ -624,7 +582,9 @@
     "mac_req": "OS; macOS 10.15 or higher (Intel / Native Apple Silicon supported).; Plugin Formats: VST, VST3, AU, AAX, Standalone",
     "win_req": "Windows 7 or higher; Plugin formats: VST, VST3, AAX, Standalone; DAWs supported: Ableton Live, Pro Tools, FL Studio, Cubase, Nuendo, Reaper, Reason + more.; Compatibility: 64-bit compatible only.",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11515-Bloom-Vocal-Aether",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 250,
+    "preset_quote": "250 presets"
   },
   "Brusfri": {
     "formats": [
@@ -648,7 +608,9 @@
     "mac_req": "OS 10.14 - macOS 14 (64-bit only); You may run them on earlier versions but UJAM doesn’t support them.",
     "win_req": "7 or later (64-bit only)",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/5842-CARBON",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 100,
+    "preset_quote": "Finisher multi-effect rack combining 20 cutting-edge effect algorithms into 100 presets, live-controlled or automated by one single knob"
   },
   "CINEDREAM": {
     "formats": [
@@ -685,7 +647,9 @@
     "mac_req": "OS; macOS 10.15 or higher (Intel / Native Apple Silicon supported).; Plugin Formats: VST, VST3, AU, AAX, Standalone",
     "win_req": "Windows 7 or higher; Plugin formats: VST, VST3, AAX, Standalone; DAWs supported: Ableton Live, Pro Tools, FL Studio, Cubase, Nuendo, Reaper, Reason + more.; Compatibility: 64-bit compatible only.",
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15593-Cableguys-x-Excite-Audio-Bass-Builder-Bundle",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 250,
+    "preset_quote": "250 Presets"
   },
   "Chandler Limited Curve Bender Mastering EQ": {
     "formats": [
@@ -760,19 +724,6 @@
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/15451-Crumar-Spirit",
     "retrieved_on": "2026-09-28"
   },
-  "Cherry Audio DCO 106": {
-    "formats": [
-      "VST3",
-      "VST",
-      "AU",
-      "AAX",
-      "Standalone"
-    ],
-    "mac_req": "10.13 or above (macOS 13 Ventura supported).; 64-bit required.; Native Apple M1 processor support, including Apple M1 Ultra.; 3.4 GHz Quad-Core or M1 CPU with 8GB of RAM recommended.",
-    "win_req": "Windows 7 or above (including Windows 11), 64-bit required.; Quad-core computer with 8GB of RAM recommended.; Available in VST, VST3, AAX & Standalone formats",
-    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/6935-DCO-106",
-    "retrieved_on": "2026-09-28"
-  },
   "Cherry Audio DCO-106": {
     "formats": [
       "VST3",
@@ -823,7 +774,9 @@
     "mac_req": "10.13 or above (macOS 13 Ventura supported).; 64-bit required.; Native Apple M1 processor support, including Apple M1 Ultra.; 3.4 GHz Quad-Core or M1 CPU with 8GB of RAM recommended.",
     "win_req": "Windows 7 or above (including Windows 11), 64-bit required.; Quad-core computer with 8GB of RAM recommended.; Available in VST, VST3, AAX & Standalone formats; Testimonials",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7433-Eight-Voice",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 330,
+    "preset_quote": "Over 330 presets."
   },
   "Cherry Audio Elka X": {
     "formats": [
@@ -859,19 +812,6 @@
     "source_url": "https://www.pluginboutique.com/product/2-Effects/19-Filter/14150-Filtomika",
     "retrieved_on": "2026-09-28"
   },
-  "Cherry Audio GX 80 Synthesizer": {
-    "formats": [
-      "VST3",
-      "VST",
-      "AU",
-      "AAX",
-      "Standalone"
-    ],
-    "mac_req": "10.13 or above.; macOS 13 Ventura supported.; 64-bit required.; Native Apple M1 processor support, including Apple M1 Ultra.",
-    "win_req": "Windows 7 or above (including Windows 11), 64-bit required.; Quad-core computer with 8GB of RAM recommended.; Available in VST, VST3, AAX & Standalone formats",
-    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10001-GX-80-Synthesizer",
-    "retrieved_on": "2026-09-28"
-  },
   "Cherry Audio GX-80": {
     "formats": [
       "VST3",
@@ -896,7 +836,9 @@
     "mac_req": "10.13 or above.; macOS 13 Ventura supported.; 64-bit required.; Native Apple M1 processor support, including Apple M1 Ultra.",
     "win_req": "Windows 7 or above (including Windows 11), 64-bit required.; Quad-core computer with 8GB of RAM recommended.; Available in VST, VST3, AAX & Standalone formats",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/9260-Galactic-Reverb",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 50,
+    "preset_quote": "Preset browser with over 50 Presets for Drums, Ducking, Guitars, Keys, and Vocals, favouriting, and user presets"
   },
   "Cherry Audio Harmonia": {
     "formats": [
@@ -937,19 +879,12 @@
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9098-Lowdown",
     "retrieved_on": "2026-09-28"
   },
-  "Cherry Audio Memorymode": {
-    "formats": [],
-    "mac_req": null,
-    "win_req": null,
-    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7831-Memorymode",
-    "retrieved_on": "2026-09-28"
-  },
   "Cherry Audio Memorymode 2": {
     "formats": [
       "Standalone"
     ],
     "mac_req": null,
-    "win_req": "Windows 7 or above. 64-bit required. 3.4 GHz Quad-Core computer with 8GB of RAM recommended. Hard disk space: 186 MB.; NOTE: Internet connection is required for product activation.",
+    "win_req": "Windows 7 or above. 64-bit required. 3.4 GHz Quad-Core computer with 8GB of RAM recommended. Hard disk space: 186 MB.; NOTE: Internet connection is required for product activation.; Discover",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17746-Memorymode-2",
     "retrieved_on": "2026-09-28"
   },
@@ -963,7 +898,9 @@
     "mac_req": "10.13 or above (macOS 13 Ventura supported), 64-bit required.; Native Apple M1 processor or greater support, including Ultra.; 3.4 GHz Quad-Core or M1 CPU with 8GB of RAM is recommended",
     "win_req": "Windows 7 or above (including Windows 11), 64-bit required.; Quad-core computer with 8GB of RAM is recommended.; VST, VST3, AAX compatible",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10332-Mercury-6",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 500,
+    "preset_quote": "Over 500 presets, created by a talented team of sound design veterans, easily accessible in a convenient preset browser"
   },
   "Cherry Audio Mercury 8": {
     "formats": [
@@ -989,7 +926,9 @@
     "mac_req": "10.13 or above.; macOS 13 Ventura supported.; 64-bit required.; Native Apple M1 processor support, including Apple M1 Ultra.",
     "win_req": "Windows 7 or above (including Windows 11), 64-bit required.; Quad-core computer with 8GB of RAM recommended.; Available in VST, VST3, AAX & Standalone formats; Testimonials",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/8062-Mercury-4",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 300,
+    "preset_quote": "Over 300 presets, programmed by industry veterans"
   },
   "Cherry Audio Miniverse": {
     "formats": [
@@ -1041,7 +980,9 @@
     "mac_req": "OS; macOS 10.13 or above. macOS 13 Ventura supported.; 64-bit required.; Native Apple M1 processor support, including Apple M1 Ultra.",
     "win_req": "Windows 7 or above (including Windows 11); 64-bit required; Quad-core computer with 8GB of RAM recommended.; Hard disk space: 21 MB",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10885-Octave-Cat",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 300,
+    "preset_quote": "Over 300 presets"
   },
   "Cherry Audio P 10 Synthesizer": {
     "formats": [
@@ -1089,7 +1030,9 @@
     "mac_req": "10.13 or above (macOS 13 Ventura supported).; 64-bit required.; Native Apple M1 processor support, including Apple M1 Ultra.; 3.4 GHz Quad-Core or M1 CPU with 8GB of RAM recommended.",
     "win_req": "Windows 7 or above (including Windows 11), 64-bit required.; Quad-core computer with 8GB of RAM recommended.; Available in VST, VST3, AAX & Standalone formats; Testimonials",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7310-Polymode",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 150,
+    "preset_quote": "Over 150 presets"
   },
   "Cherry Audio Pro Soloist": {
     "formats": [
@@ -1102,7 +1045,9 @@
     "mac_req": "10.13 or above.; macOS 13 Ventura supported.; 64-bit required.; Native Apple Silicon processor support, including Ultra.",
     "win_req": "Windows 7 or above (including Windows 11), 64-bit required.; Quad-core computer with 8GB of RAM recommended.; Available in VST, VST3, AAX & Standalone formats",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11669-Pro-Soloist",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 400,
+    "preset_quote": "Over 400 presets, created by a talented team of sound design veterans, easily accessible in a convenient preset browser"
   },
   "Cherry Audio Quadra": {
     "formats": [
@@ -1115,7 +1060,9 @@
     "mac_req": "10.13 or above.; macOS 13 Ventura supported.; 64-bit required.; Native Apple M1 processor support, including Apple M1 Ultra.",
     "win_req": "Windows 7 or above (including Windows 11), 64-bit required.; Quad-core computer with 8GB of RAM recommended.; Available in VST, VST3, AAX & Standalone formats; Awards",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/8402-Quadra",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 400,
+    "preset_quote": "Over 400 presets, programmed by industry veterans."
   },
   "Cherry Audio SH MAX": {
     "formats": [
@@ -1167,7 +1114,9 @@
     "mac_req": "10.13 or above (macOS 13 Ventura supported).; 64-bit required.; Native Apple M1 processor support, including Apple M1 Ultra.; 3.4 GHz Quad-Core or M1 CPU with 8GB of RAM recommended.",
     "win_req": "Windows 7 or above (including Windows 11), 64-bit required.; Quad-core computer with 8GB of RAM recommended.; Available in VST, VST3, AAX & Standalone formats",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7117-Surrealistic-MG-1-Plus-Synthesizer",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 140,
+    "preset_quote": "Over 140 presets"
   },
   "Cherry Audio Synthesizer Expander Module": {
     "formats": [
@@ -1180,7 +1129,9 @@
     "mac_req": "macOS 10.13 or above. macOS 13 Ventura supported.; 64-bit required.; Native Apple M1 or greater processor support, including Ultra.; Hard disk space: 106 MB.",
     "win_req": "Windows 7 or above (including Windows 11); 64-bit required.; 3.4 GHz Quad-Core computer with 8GB of RAM recommended.; Hard disk space: 106 MB.",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/12169-Synthesizer-Expander-Module",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 100,
+    "preset_quote": "100 presets for Basses, Leads, and Percussion"
   },
   "Cherry Audio Trident Mk III Synthesizer": {
     "formats": [
@@ -1202,7 +1153,9 @@
     "mac_req": "11 or above (macOS 11.6 or higher required for Apple silicon processor support); 64-bit required; Native Apple M1 or greater processor support, including Ultra",
     "win_req": "Windows 7 or above (including Windows 11), 64-bit required.; Quad-core computer with 8GB of RAM recommended.; Available in VST, VST3, AAX & Standalone formats",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5033-Voltage-Modular-Core-Electro-Drums",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 551,
+    "preset_quote": "Core Presets (551 presets)"
   },
   "Cherry Audio Voltage Modular Ignite": {
     "formats": [
@@ -1215,7 +1168,9 @@
     "mac_req": "11 or above (macOS 11.6 or higher required for Apple silicon processor support); 64-bit required; Native Apple M1 or greater processor support, including Ultra",
     "win_req": "Windows 7 or above (including Windows 11), 64-bit required.; Quad-core computer with 8GB of RAM recommended.; Available in VST, VST3, AAX & Standalone formats",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5034-Voltage-Modular-Ignite",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 296,
+    "preset_quote": "Ignite Presets (296 presets)"
   },
   "Cherry Audio Voltage Modular Nucleus": {
     "formats": [
@@ -1228,7 +1183,9 @@
     "mac_req": "11 or above (macOS 11.6 or higher required for Apple silicon processor support); 64-bit required; Native Apple M1 or greater processor support, including Ultra",
     "win_req": "Windows 7 or above (including Windows 11), 64-bit required.; Quad-core computer with 8GB of RAM recommended.; Available in VST, VST3, AAX & Standalone formats",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5594-Voltage-Modular-Nucleus",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 176,
+    "preset_quote": "Nucleus Presets (176 presets)"
   },
   "Cherry Audio Wurlybird 140B": {
     "formats": [
@@ -1352,7 +1309,9 @@
     "mac_req": "OS 10.15 - macOS 12 (64-bit only); You may run them on earlier versions but UJAM doesn’t support them.",
     "win_req": "8 or later (64-bit only)",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/7235-DEEP",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 70,
+    "preset_quote": "70 sound designer presets"
   },
   "DeNoizzer": {
     "formats": [],
@@ -1444,7 +1403,9 @@
     "mac_req": "macOS 10.14 and later (Intel / Apple Silicon supported) (64-bit only); AAX, AU, VST2, VST3; Important Notes:",
     "win_req": "Windows 10 and later (Windows 11 supported) (64-bit only); AAX, VST2, VST3",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/2855-Blackhole",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 50,
+    "preset_quote": "Incredibly easy to use with over 50 presets; many created by Eventide artists"
   },
   "Eventide Blackhole Immersive": {
     "formats": [
@@ -1456,7 +1417,9 @@
     "mac_req": "macOS 10.14 and later (Intel / Apple Silicon supported) (64-bit only); AAX, AU, VST2, VST3; Important Notes:",
     "win_req": "Windows 10 and later (Windows 11 supported) (64-bit only); AAX, VST2, VST3",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/11474-Blackhole-Immersive",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 150,
+    "preset_quote": "Comprehensive Presets Library includes over 150 presets"
   },
   "Eventide CrushStation": {
     "formats": [
@@ -1469,7 +1432,9 @@
     "mac_req": "macOS 10.14 and later (Intel / Apple Silicon supported) (64-bit only); AAX, AU, VST2, VST3; Important Notes:",
     "win_req": "Windows 10 and later (Windows 11 supported) (64-bit only); AAX, VST2, VST3",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/30-Distortion/6313-CrushStation",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 35,
+    "preset_quote": "35 PRESETS painstakingly tailored to cover all the bases."
   },
   "Eventide Crystals": {
     "formats": [
@@ -1507,7 +1472,9 @@
     "mac_req": "macOS 10.14 and later (Intel / Apple Silicon supported) (64-bit only); AAX, AU, VST2, VST3; Important Notes:",
     "win_req": "Windows 10 and later (Windows 11 supported) (64-bit only); AAX, VST2, VST3",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/10567-EChannel",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 100,
+    "preset_quote": "Over 100 presets tailored for various instruments and use cases"
   },
   "Eventide EQ45": {
     "formats": [
@@ -1555,7 +1522,9 @@
     "mac_req": "macOS 10.14 and later (Intel / Apple Silicon supported) (64-bit only); AAX, AU, VST2, VST3; Important Notes:",
     "win_req": "Windows 10 and later (Windows 11 supported) (64-bit only); AAX, VST2, VST3",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/91-Harmonizer/12197-H3000-Factory-Mk-II",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "included_count": 18,
+    "included_quote": "Modular interface to combine up to 18 effects blocks together"
   },
   "Eventide H910 Harmonizer": {
     "formats": [
@@ -1615,7 +1584,9 @@
     "mac_req": "macOS 10.14 and later (Intel / Apple Silicon supported) (64-bit only); AAX, AU, VST2, VST3; Important Notes:",
     "win_req": "Windows 10 and later (Windows 11 supported) (64-bit only); AAX, VST2, VST3",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/3909-MangledVerb",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 180,
+    "preset_quote": "MangledVerb includes over 180 presets from the H9 and artists like:"
   },
   "Eventide MicroPitch": {
     "formats": [
@@ -1812,7 +1783,9 @@
     "mac_req": "macOS 10.14 and later (Intel / Apple Silicon supported) (64-bit only); AAX, AU, VST2, VST3; Important Notes:",
     "win_req": "Windows 10 and later (Windows 11 supported) (64-bit only); AAX, VST2, VST3",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/3064-UltraChannel",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 200,
+    "preset_quote": "Over 200 Presets"
   },
   "Eventide UltraReverb": {
     "formats": [
@@ -1836,7 +1809,9 @@
     "mac_req": "macOS 10.14 and later (Intel / Apple Silicon supported) (64-bit only); AAX, AU, VST2, VST3; Important Notes:",
     "win_req": "Windows 10 and later (Windows 11 supported) (64-bit only); AAX, VST2, VST3",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/10-Delay/3671-UltraTap",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 150,
+    "preset_quote": "Over 150 presets designed to inspire; including artist presets by Chris Carter, Colin Newman, Sasha and many more."
   },
   "Eventide Undulator": {
     "formats": [
@@ -1863,7 +1838,9 @@
     "mac_req": "OS; macOS 10.15 or higher (Intel / Native Apple Silicon supported).; Plugin Formats: VST, VST3, AU, AAX, Standalone.",
     "win_req": "Windows 7 or higher; Plugin formats: VST, VST3, AAX, Standalone; DAWs supported: Ableton Live, Pro Tools, FL Studio, Cubase, Nuendo, Reaper, Reason + more.; Compatibility: 64-bit compatible only.",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/13548-Bloom-Drum-Machine",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 250,
+    "preset_quote": "250 Presets"
   },
   "Excite Audio Bundle": {
     "formats": [
@@ -1876,7 +1853,9 @@
     "mac_req": "OS; macOS 10.15 or higher (Intel / Native Apple Silicon supported).; Plugin Formats: VST, VST3, AU, AAX, Standalone",
     "win_req": "Windows 7 or higher; Plugin formats: VST, VST3, AAX, Standalone; DAWs supported: Ableton Live, Pro Tools, FL Studio, Cubase, Nuendo, Reaper, Reason + more.; Compatibility: 64-bit compatible only.",
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/9866-Excite-Audio-Bundle",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 4,
+    "preset_quote": "4 Sound Sources (A, B, C, D)"
   },
   "Excite Audio Bundle Crossgrade From Any Excite Audio Product": {
     "formats": [
@@ -1889,7 +1868,9 @@
     "mac_req": "OS; macOS 10.15 or higher (Intel / Native Apple Silicon supported).; Plugin Formats: VST, VST3, AU, AAX, Standalone",
     "win_req": "Windows 7 or higher; Plugin formats: VST, VST3, AAX, Standalone; DAWs supported: Ableton Live, Pro Tools, FL Studio, Cubase, Nuendo, Reaper, Reason + more.; Compatibility: 64-bit compatible only.",
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/14789-Excite-Audio-Bundle-Crossgrade-From-Any-Excite-Audio-Product",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 4,
+    "preset_quote": "4 Sound Sources (A, B, C, D)"
   },
   "Expanse 3D": {
     "formats": [
@@ -1927,7 +1908,9 @@
     "mac_req": "macOS 10.12 or higher (Intel or M1 Apple Silicon processor) (64-bit only); VST2, VST3, AU, AAX Native",
     "win_req": "Windows 11, 10, 8, 7, or Vista (32 or 64-bit); VST2, VST3, AAX Native; Formats; All FabFilter plug-ins are available in VST, VST3, Audio Units, AAX Native and AudioSuite formats.",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/929-FabFilter-One",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 100,
+    "preset_quote": "Over 100 presets"
   },
   "FabFilter Pro-C 3": {
     "formats": [
@@ -2003,7 +1986,7 @@
       "AU",
       "AAX"
     ],
-    "mac_req": "",
+    "mac_req": "OS X macOS 10.13 or higher; CPU: Apple Silicon or Intel processor; Plugins: VST-2, VST-3, AU, AAX, OTHER",
     "win_req": "Windows 11, 10, 8, 7 or Vista; Plugins: VST-2, VST-3, AAX, OTHER",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4",
     "retrieved_on": "2026-09-28"
@@ -2087,13 +2070,6 @@
     "source_url": "https://www.pluginboutique.com/product/2-Effects/19-Filter/8389-FabFilter-Volcano-3",
     "retrieved_on": "2026-09-28"
   },
-  "Falcon Extended Bundle": {
-    "formats": [],
-    "mac_req": null,
-    "win_req": null,
-    "source_url": "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/16828-Falcon-Extended-Bundle",
-    "retrieved_on": "2026-09-28"
-  },
   "Fluid Chords 2": {
     "formats": [
       "VST3",
@@ -2142,7 +2118,9 @@
     "mac_req": "Standalone Application, AudioUnit, AAX, VST and VST3; PC: Standalone Application, AAX, VST and VST3; The Minimum System Requirements for Mac are as follows:; Intel or Apple Silicon Mac",
     "win_req": "7 and above",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/12272-impOSCar3",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 1800,
+    "preset_quote": "[New] Over 1800 presets, including 450+ new presets"
   },
   "H9 Plug-in Series Bundle": {
     "formats": [
@@ -2155,19 +2133,9 @@
     "mac_req": "macOS 10.14 and later (Intel / Apple Silicon supported) (64-bit only); AAX, AU, VST2, VST3; Important Notes:",
     "win_req": "Windows 10 and later (Windows 11 supported) (64-bit only); AAX, VST2, VST3",
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/7109-H9-Plug-in-Series-Bundle",
-    "retrieved_on": "2026-09-28"
-  },
-  "HEARS Perfection": {
-    "formats": [
-      "VST3",
-      "VST2",
-      "AU",
-      "AAX"
-    ],
-    "mac_req": "OS 15 down to macOS 12",
-    "win_req": "11 down to Windows 10",
-    "source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/15698-HEARS-Perfection",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 35,
+    "preset_quote": "35 PRESETS painstakingly tailored to cover all the bases."
   },
   "HEAVY 2": {
     "formats": [
@@ -2191,7 +2159,9 @@
     "mac_req": "macOS 10.12, 10.13 or 10.14 (latest update); i5 processor; PC",
     "win_req": "7, Windows 8, or Windows 10 (latest Service Pack); Intel Core i5 or equivalent CPU; 2 GB RAM; Testimonials",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/5714-ASCEND-Modern-Grand",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 16,
+    "preset_quote": "16 Sound Sources"
   },
   "Heavyocity Damage 2": {
     "formats": [
@@ -2285,7 +2255,9 @@
     "mac_req": null,
     "win_req": null,
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/15315-JD-800",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 64,
+    "preset_quote": "64 presets from the original JD-800, plus 64 new presets crafted by top sound designers"
   },
   "JUNO 106": {
     "formats": [
@@ -2336,7 +2308,9 @@
     "mac_req": "OS 11, 12 or 13 (latest update)",
     "win_req": "10 (64-bit, latest Service Pack) or Windows 11 (latest Service Pack); Intel Core i5 or equivalent CPU, or Apple Silicon (using Rosetta 2), 4 GB RAM (6 GB recommended)",
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/12033-KOMPLETE-Synthesizer-Collection",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 1300,
+    "preset_quote": "Over 1300 Sounds: Includes presets crafted by leading artists and sound designers with an intuitive search and filtering system."
   },
   "KORG Collection 6": {
     "formats": [
@@ -2533,18 +2507,11 @@
     "mac_req": "OS; macOS 10.15 or higher (Intel / Native Apple Silicon supported).; Plugin Formats: VST3, AU, AAX, Standalone",
     "win_req": "Windows 7 or higher; Plugin formats: VST3, AAX, Standalone; DAWs supported: Ableton Live, Pro Tools, FL Studio, Cubase, Nuendo, Reaper, Reason + more.; Compatibility: 64-bit compatible only.",
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/10033-Lifeline-Bundle",
-    "retrieved_on": "2026-09-28"
-  },
-  "Little Labs - Voice of God": {
-    "formats": [
-      "VST3",
-      "AU",
-      "AAX"
-    ],
-    "mac_req": "OS Big Sur 11, Monterey 12, Ventura 13, Sonoma 14, Sequoia 15 and Tahoe 26",
-    "win_req": "10 or Windows 11 (64-bit editions); Intel, AMD, or Apple silicon processor; Internet connection to download software and authorize UAD Native plug-ins (UADx); Free iLok account",
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/17066-Little-Labs-Voice-of-God",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "included_count": 5,
+    "included_quote": "5 Effects Modules (Re-amp, Dirt, Format, Width & Space)",
+    "preset_count": 350,
+    "preset_quote": "350 Presets + 250 Module Presets"
   },
   "Loop2Kit": {
     "formats": [
@@ -2581,7 +2548,9 @@
     "mac_req": "Mac OS X 11 or higher (latest update); Intel Core i5 or better (Core i7 or better recommended) (Apple Silicon Native supported); 8 GB RAM (16 GB or more recommended)",
     "win_req": "10 64bit or higher (latest update); Intel Core i5 or better (Core i7 or better recommended); 8 GB RAM (16 GB or more recommended); 8 GB free disk space (SSD recommended)",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11198-M1",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 3000,
+    "preset_quote": "A massive collection of over 3,000 preset sounds."
   },
   "MAutoAlign": {
     "formats": [
@@ -2669,17 +2638,6 @@
     "source_url": "https://www.pluginboutique.com/product/2-Effects/20-Gate/119-MRhythmizer",
     "retrieved_on": "2026-09-28"
   },
-  "Manley Vari-Mu": {
-    "formats": [
-      "VST3",
-      "AU",
-      "AAX"
-    ],
-    "mac_req": "OS Big Sur 11, Monterey 12, Ventura 13, Sonoma 14, Sequoia 15 and Tahoe 26",
-    "win_req": "10 or Windows 11 (64-bit editions); Intel, AMD, or Apple silicon processor; Internet connection to download software and authorize UAD Native plug-ins (UADx); Free iLok account",
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/11953-Manley-Vari-Mu",
-    "retrieved_on": "2026-09-28"
-  },
   "Melody Sauce 3": {
     "formats": [
       "VST3",
@@ -2737,7 +2695,9 @@
     "mac_req": "macOS 10.9 and higher, including native Apple silicon; 64-bit AAX, AU, VST2, and/or VST3 format",
     "win_req": "Windows 10 and higher.; 64-bit AAX,, VST2, and/or VST3 format; Important Note: Minimal Audio - Rift is used as an example.; Serial Code Redemption",
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/17049-Minimal-Audio-Current-Essential-Bundle",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 5,
+    "preset_quote": "5 Preset Expansions"
   },
   "Minimal Audio Evoke": {
     "formats": [
@@ -2814,7 +2774,9 @@
     "mac_req": "Your software is now activated and ready to use inside of your DAW!",
     "win_req": "Your software is now activated and ready to use inside of your DAW!",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/45-Granular-FX/17714-Lucid",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 350,
+    "preset_quote": "Explore 350 presets with searchable tags and performance-ready macros."
   },
   "Minimal Audio Memory Rites": {
     "formats": [
@@ -2828,7 +2790,9 @@
     "mac_req": "Your software is now activated and ready to use inside of your DAW!",
     "win_req": "Your software is now activated and ready to use inside of your DAW!",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17485-Memory-Rites",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 60,
+    "preset_quote": "Every purchase includes the Eprom Memory Rites Expansion — the same 60 presets, ready to open with full synthesis control inside Current."
   },
   "Minimal Audio Morph EQ": {
     "formats": [
@@ -2944,7 +2908,9 @@
     "mac_req": "Your software is now activated and ready to use inside of your DAW!",
     "win_req": "Your software is now activated and ready to use inside of your DAW!",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/28-Frequency-Shifter/14370-Wave-Shifter",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 70,
+    "preset_quote": "Inspiring Presets: Explore over 70 presets, from sci-fi gestures to distinctive harmonic distortion."
   },
   "Minimal Audio x Excite Audio Effects Bundle Exclusive": {
     "formats": [
@@ -2956,7 +2922,11 @@
     "mac_req": "OS 10.9 or higher",
     "win_req": "10 or higher; Activation: An internet connection is required for activation",
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15335-Minimal-Audio-x-Excite-Audio-Effects-Bundle-Exclusive-",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "included_count": 3,
+    "included_quote": "3 effects: 2 Delays + Reverb with flexible routing",
+    "preset_count": 250,
+    "preset_quote": "250 presets (127 dual, 99 FX/mapping, 24 path/cursor) + interactive tutorial"
   },
   "Model 80 Five Voice Synthesizer": {
     "formats": [
@@ -3040,7 +3010,9 @@
     "mac_req": "macOS 13, 14 or 15 (latest update); Intel Core i5/equivalent CPU or Apple Silicon; 4 GB RAM (6 GB recommended); Supports Core Audio",
     "win_req": "Windows 10 or 11 (64-bit, latest Service Pack) or Windows 11 (latest Service Pack); Intel Core i5 or equivalent CPU; 4 GB RAM (6 GB recommended); Supports ASIO and WASAPI",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15862-Discoteca-Drums",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 579,
+    "preset_quote": "579 sounds and 30 curated kits"
   },
   "Native Instruments FM8": {
     "formats": [
@@ -3058,7 +3030,9 @@
     "mac_req": "macOS 13, 14 or 15 (latest update); Intel Core i5/equivalent CPU or Apple Silicon; 4 GB RAM (6 GB recommended); Supports Core Audio",
     "win_req": "Windows 10 or 11 (64-bit, latest Service Pack) or Windows 11 (latest Service Pack); Intel Core i5 or equivalent CPU; 4 GB RAM (6 GB recommended); Supports ASIO and WASAPI",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15883-Glaze-2",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 151,
+    "preset_quote": "151 presets with diverse sound sources and Kontakt effects macros"
   },
   "Native Instruments Guitar Rig 7 Pro": {
     "formats": [],
@@ -3101,7 +3075,9 @@
     "mac_req": "macOS 12, 13 or 14 (latest update); 4 GB RAM (6 GB recommended); Graphics hardware support for Direct 3D 11.1 (Feature Level 11_0) or higher",
     "win_req": "Windows 10 or 11 (64-bit, latest Service Pack) or Windows 11 (latest Service Pack); Intel Core i5 or equivalent CPU; 4 GB RAM (6 GB recommended)",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/13195-Kontakt-8",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "included_count": 900,
+    "included_quote": "Kontakt 8 Factory Library 2 includes over 900 instruments."
   },
   "Native Instruments LCO Producer Strings": {
     "formats": [
@@ -3117,7 +3093,9 @@
     "mac_req": "macOS 13, 14 or 15 (latest update); Intel Core i5/equivalent CPU or Apple Silicon; 4 GB RAM (6 GB recommended); Supports Core Audio",
     "win_req": "Windows 10 or 11 (64-bit, latest Service Pack) or Windows 11 (latest Service Pack); Intel Core i5 or equivalent CPU; 4 GB RAM (6 GB recommended); Supports ASIO and WASAPI",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15867-Luxa",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 150,
+    "preset_quote": "150 presets including synths, keys, plucks, and basses"
   },
   "Native Instruments Marco Polo Drums": {
     "formats": [],
@@ -3179,7 +3157,9 @@
     "mac_req": "OS (64-bit only); Intel Core i5 or equivalent AMD CPU, 4 GB RAM; Stand-alone, VST, VST3, AU, AAX; macOS 11, 12 or 13",
     "win_req": "(64-bit only); Intel Core i5 or equivalent AMD CPU, 4 GB RAM; Stand-alone, VST, VST3, AAX; Windows 10 or 11",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10605-Reaktor-6",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "included_count": 70,
+    "included_quote": "Comes with more than 70 instruments and thousands of sounds in the user library"
   },
   "Native Instruments Replika XT": {
     "formats": [
@@ -3198,7 +3178,9 @@
     "mac_req": "macOS 13, 14 or 15 (latest update); Intel Core i5/equivalent CPU or Apple Silicon; 4 GB RAM (6 GB recommended); Supports Core Audio",
     "win_req": "Windows 10 or 11 (64-bit, latest Service Pack) or Windows 11 (latest Service Pack); Intel Core i5 or equivalent CPU; 4 GB RAM (6 GB recommended); Supports ASIO and WASAPI",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15872-Roux",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 150,
+    "preset_quote": "150 presets with intuitive macro controls"
   },
   "Native Instruments Scene Bloodplant": {
     "formats": [],
@@ -3311,7 +3293,9 @@
     "mac_req": "Oberheim OB-X is a virtual instrument in the following formats:; Intel & Apple Silicon Native.; Standalone Application; AudioUnit",
     "win_req": "Oberheim OB-X is a virtual instrument in the following formats:; Standalone Application; VST; VST3",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/12021-Oberheim-OB-X",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 400,
+    "preset_quote": "Over 400 presets"
   },
   "Oberheim TVS Pro": {
     "formats": [
@@ -3323,7 +3307,9 @@
     "mac_req": "Standalone Application, AudioUnit, AAX, VST2 and VST3; PC: Standalone Application, AAX, VST2 and VST3; Mac; Intel or Apple Silicon Mac",
     "win_req": "2GHz CPU with 2GB RAM; Windows 7 and above",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/14804-Oberheim-TVS-Pro",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 635,
+    "preset_quote": "Over 635 patches, with 220+ new sounds and 400+ adapted SEM patches"
   },
   "Output Analog Brass and Winds": {
     "formats": [
@@ -3339,7 +3325,9 @@
     "mac_req": "OS X 10.12 or later.",
     "win_req": "7 or later.; At least 4 GB of RAM (8 GB recommended), and 22 GB of free drive space.; Access to a stable internet connection for digital delivery and activation.",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/3239-ANALOG-STRINGS",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 500,
+    "preset_quote": "A playable instrument with 500 presets"
   },
   "Output EXHALE": {
     "formats": [],
@@ -3384,7 +3372,9 @@
     "mac_req": "OS X 10.12 or higher",
     "win_req": "7 or higher; At least 4 GB of RAM (8 GB recommended), and 5 GB of free drive space; Access to a stable internet connection for digital delivery; Testimonials",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/2799-SUBSTANCE",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 300,
+    "preset_quote": "A playable instrument with 300 presets"
   },
   "Output Thermal": {
     "formats": [
@@ -3437,17 +3427,6 @@
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7",
     "retrieved_on": "2026-09-28"
   },
-  "Platinum": {
-    "formats": [
-      "VST",
-      "AU",
-      "AAX"
-    ],
-    "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX",
-    "source_url": "https://www.pluginboutique.com/product/81-Bundles/84-Mix-Master/12542-Platinum",
-    "retrieved_on": "2026-09-28"
-  },
   "Playbeat 4": {
     "formats": [
       "VST3",
@@ -3488,28 +3467,6 @@
     "mac_req": "OS 12+",
     "win_req": "10+",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/15518-SPL-Vitalizer-Mk3-T",
-    "retrieved_on": "2026-09-28"
-  },
-  "Plugin Alliance Shadow Hills Mastering Compressor": {
-    "formats": [
-      "VST3",
-      "AU",
-      "AAX"
-    ],
-    "mac_req": "OS 15 down to macOS 12",
-    "win_req": "11 down to Windows 10",
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10209-Shadow-Hills-Mastering-Compressor",
-    "retrieved_on": "2026-09-28"
-  },
-  "Plugin Alliance bx_console SSL 4000E": {
-    "formats": [
-      "VST3",
-      "AU",
-      "AAX"
-    ],
-    "mac_req": "OS 15 down to macOS 12",
-    "win_req": "11 down to Windows 10",
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10239-bx-console-SSL-4000-E",
     "retrieved_on": "2026-09-28"
   },
   "Prophet~5": {
@@ -3627,13 +3584,6 @@
     "mac_req": "macOS 10.8 or higher required (Intel / M1 Apple Silicon supported) (64-bit only); Modern Intel, M1 or AMD processors required; AU, VST, AAX",
     "win_req": "7 - Windows 11 (32 / 64-bit); Modern Intel or AMD processors required; VST, AAX; Compatible host software (DAW):",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/3187-Spire",
-    "retrieved_on": "2026-09-28"
-  },
-  "Roland Legends Bundle": {
-    "formats": [],
-    "mac_req": null,
-    "win_req": null,
-    "source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/17348-Roland-Legends-Bundle",
     "retrieved_on": "2026-09-28"
   },
   "Roland Vintage Keys Essentials Bundle": {
@@ -3786,24 +3736,6 @@
     "mac_req": "OS; macOS 10.14 or higher; Natively compatible with Apple Silicon; Standalone and Plugin Formats: VST, VST3, AU, AAX",
     "win_req": "Windows 8 or higher; Standalone and Plugin formats: VST, VST3, AAX; DAWs supported: Ableton Live, Pro Tools, FL Studio, Cubase, Studio One, Bitwig, Reaper, Reason + more.",
     "source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/14563-Scaler-3",
-    "retrieved_on": "2026-09-28"
-  },
-  "Scaler EQ": {
-    "formats": [],
-    "mac_req": null,
-    "win_req": null,
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/11473-Scaler-EQ",
-    "retrieved_on": "2026-09-28"
-  },
-  "Shadow Hills Mastering Compressor Class A": {
-    "formats": [
-      "VST3",
-      "AU",
-      "AAX"
-    ],
-    "mac_req": "OS 15 down to macOS 12",
-    "win_req": "11 down to Windows 10",
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10210-Shadow-Hills-Mastering-Compressor-Class-A",
     "retrieved_on": "2026-09-28"
   },
   "Slate Digital FG-X 2": {
@@ -4378,7 +4310,9 @@
     "mac_req": "OS: macOS 11 (Big Sur) or later.; Other:; An internet connection is required for installing and activating Roland Cloud software.",
     "win_req": "Windows 10 (64-bit) or Windows 11.",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/15284-TR-909",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 909,
+    "preset_quote": "Classic 909 sounds: punchy kick, snappy snare, crisp hi-hats, claps, toms, and cymbals"
   },
   "TRITON / TRITON Extreme": {
     "formats": [
@@ -4414,7 +4348,11 @@
     "mac_req": "License Redemption; Your software is now activated and ready to use within your DAW",
     "win_req": "7 (SP1) or later,; AU, VST3 or AAX compatible 64-bit host.; Please Note: Pana is used as the example:",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10064-Tomofon",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "included_count": 124,
+    "included_quote": "124 instruments",
+    "preset_count": 180,
+    "preset_quote": "Over 180 presets"
   },
   "Total Studio 5 MAX": {
     "formats": [
@@ -4426,18 +4364,6 @@
     "mac_req": "(64-bits); Minimal: Intel® Core™ 2 Duo, 4 GB of RAM (8 GB suggested), macOS 10.10 or newer.; Supported Plug-in formats (64-bit): Audio Units, VST 2, VST 3, AAX.",
     "win_req": "® (64-bits); Supported Plug-in formats (64-bit): VST 2, VST 3, AAX.; Please note: EQual processor requires an OpenGL 2 compatible graphics adapter.",
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15171-Total-Studio-5-MAX",
-    "retrieved_on": "2026-09-28"
-  },
-  "Tube-Tech CL 1B Mk II": {
-    "formats": [
-      "VST3",
-      "VST",
-      "AU",
-      "AAX"
-    ],
-    "mac_req": "OS Big Sur 11, Monterey 12, Ventura 13",
-    "win_req": "10 (64-bit), Windows 11; Softube account; iLok account; Computer with AU, VST, VST3 and/or AAX compatible DAW host software",
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/11535-Tube-Tech-CL-1B-Mk-II",
     "retrieved_on": "2026-09-28"
   },
   "UAD 1176 Classic Limiter Collection": {
@@ -4515,13 +4441,6 @@
     "mac_req": "OS Big Sur 11, Monterey 12, Ventura 13, Sonoma 14, Sequoia 15 and Tahoe 26",
     "win_req": "10 or Windows 11 (64-bit editions); Intel, AMD, or Apple silicon processor; Internet connection to download software and authorize UAD Native plug-ins (UADx); Free iLok account",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/11495-Avalon-VT-737-Tube-Channel-Strip",
-    "retrieved_on": "2026-09-28"
-  },
-  "UAD B-Side Mix Tape Bundle": {
-    "formats": [],
-    "mac_req": null,
-    "win_req": null,
-    "source_url": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16916-UAD-B-Side-Mix-Tape-Bundle",
     "retrieved_on": "2026-09-28"
   },
   "UAD Brigade Chorus Pedal": {
@@ -4676,13 +4595,6 @@
     "mac_req": "OS Big Sur 11, Monterey 12, Ventura 13, Sonoma 14, Sequoia 15 and Tahoe 26",
     "win_req": "10 or Windows 11 (64-bit editions); Intel, AMD, or Apple silicon processor; Internet connection to download software and authorize UAD Native plug-ins (UADx); Free iLok account",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10154-Teletronix-LA-2A-Leveler-Collection",
-    "retrieved_on": "2026-09-28"
-  },
-  "UAD LUNA Pro Mk 2": {
-    "formats": [],
-    "mac_req": null,
-    "win_req": null,
-    "source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/23-DAW/15966-LUNA-Pro-Mk-2",
     "retrieved_on": "2026-09-28"
   },
   "UAD LUNA Studio": {
@@ -4886,13 +4798,6 @@
     "source_url": "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13325-SSL-4000-G-Bus-Compressor",
     "retrieved_on": "2026-09-28"
   },
-  "UAD Select 2": {
-    "formats": [],
-    "mac_req": null,
-    "win_req": null,
-    "source_url": "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/13907-UAD-Select-2",
-    "retrieved_on": "2026-09-28"
-  },
   "UAD Sound City Studios Plugin": {
     "formats": [
       "VST3",
@@ -4902,17 +4807,6 @@
     "mac_req": "OS 11 or above.",
     "win_req": "10 or Windows 11 (64-bit only Editions); Intel, AMD, or Apple silicon processor; Internet connection to download software and authorize UADx plug-ins",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/11503-UAD-Sound-City-Studios-Plugin",
-    "retrieved_on": "2026-09-28"
-  },
-  "UAD Studer A800": {
-    "formats": [
-      "VST3",
-      "AU",
-      "AAX"
-    ],
-    "mac_req": "OS Big Sur 11, Monterey 12, Ventura 13, Sonoma 14, Sequoia 15 and Tahoe 26",
-    "win_req": "10 or Windows 11 (64-bit editions); Intel, AMD, or Apple silicon processor; Internet connection to download software and authorize UAD Native plug-ins (UADx); Free iLok account",
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/10185-Studer-A800-Tape-Recorder",
     "retrieved_on": "2026-09-28"
   },
   "UAD Studer A800 Tape Recorder": {
@@ -4935,17 +4829,6 @@
     "mac_req": "OS Big Sur 11, Monterey 12, Ventura 13, Sonoma 14, Sequoia 15 and Tahoe 26",
     "win_req": "10 or Windows 11 (64-bit editions); Intel, AMD, or Apple silicon processor; Internet connection to download software and authorize UAD Native plug-ins (UADx); Free iLok account",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/11-Chorus/10186-Studio-D-Chorus",
-    "retrieved_on": "2026-09-28"
-  },
-  "UAD Teletronix LA 2A Leveler Collection": {
-    "formats": [
-      "VST3",
-      "AU",
-      "AAX"
-    ],
-    "mac_req": "OS Big Sur 11, Monterey 12, Ventura 13, Sonoma 14, Sequoia 15 and Tahoe 26",
-    "win_req": "10 or Windows 11 (64-bit editions); Intel, AMD, or Apple silicon processor; Internet connection to download software and authorize UAD Native plug-ins (UADx); Free iLok account",
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10154-Teletronix-LA-2A-Leveler-Collection",
     "retrieved_on": "2026-09-28"
   },
   "UAD Teletronix LA 3A Audio Leveler": {
@@ -5096,141 +4979,9 @@
     "mac_req": "OS 10.14 Mojave to macOS 26 Tahoe",
     "win_req": "10 to Windows 11 (64-bit); 36GB of disk space; Hard Drive: 7,200 rpm recommended or Solid State Drive (SSD); 4 GB RAM",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3",
-    "retrieved_on": "2026-09-28"
-  },
-  "Unfiltered Audio BYOME": {
-    "formats": [
-      "VST3",
-      "VST2",
-      "AU",
-      "AAX",
-      "NKS"
-    ],
-    "mac_req": "OS 15 down to macOS 12",
-    "win_req": "11 down to Windows 10",
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/14942-Unfiltered-Audio-BYOME",
-    "retrieved_on": "2026-09-28"
-  },
-  "Unfiltered Audio Battalion": {
-    "formats": [
-      "VST3",
-      "VST2",
-      "AU",
-      "AAX"
-    ],
-    "mac_req": "OS 15 down to macOS 12",
-    "win_req": "11 down to Windows 10",
-    "source_url": "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/14935-Unfiltered-Audio-Battalion",
-    "retrieved_on": "2026-09-28"
-  },
-  "Unfiltered Audio Fault": {
-    "formats": [
-      "VST3",
-      "VST2",
-      "AU",
-      "AAX"
-    ],
-    "mac_req": "OS 15 down to macOS 12",
-    "win_req": "11 down to Windows 10",
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/14925-Unfiltered-Audio-Fault",
-    "retrieved_on": "2026-09-28"
-  },
-  "Unfiltered Audio G8": {
-    "formats": [
-      "VST3",
-      "VST2",
-      "AU",
-      "AAX"
-    ],
-    "mac_req": "OS 15 down to macOS 12",
-    "win_req": "11 down to Windows 10",
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/20-Gate/14923-Unfiltered-Audio-G8",
-    "retrieved_on": "2026-09-28"
-  },
-  "Unfiltered Audio LION": {
-    "formats": [
-      "VST3",
-      "VST2",
-      "AU",
-      "AAX"
-    ],
-    "mac_req": "OS 15 down to macOS 12",
-    "win_req": "11 down to Windows 10",
-    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/14928-Unfiltered-Audio-LION",
-    "retrieved_on": "2026-09-28"
-  },
-  "Unfiltered Audio Needlepoint": {
-    "formats": [
-      "VST3",
-      "VST2",
-      "AU",
-      "AAX"
-    ],
-    "mac_req": "OS 15 down to macOS 12",
-    "win_req": "11 down to Windows 10",
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/14934-Unfiltered-Audio-Needlepoint",
-    "retrieved_on": "2026-09-28"
-  },
-  "Unfiltered Audio SILO": {
-    "formats": [
-      "VST3",
-      "VST2",
-      "AU",
-      "AAX"
-    ],
-    "mac_req": "OS 15 down to macOS 12",
-    "win_req": "11 down to Windows 10",
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/14933-Unfiltered-Audio-SILO",
-    "retrieved_on": "2026-09-28"
-  },
-  "Unfiltered Audio Sandman Pro": {
-    "formats": [
-      "VST3",
-      "VST2",
-      "AU",
-      "AAX"
-    ],
-    "mac_req": "OS 15 down to macOS 12",
-    "win_req": "11 down to Windows 10",
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/10-Delay/14927-Unfiltered-Audio-Sandman-Pro",
-    "retrieved_on": "2026-09-28"
-  },
-  "Unfiltered Audio SpecOps": {
-    "formats": [
-      "VST3",
-      "VST2",
-      "AU",
-      "AAX",
-      "NKS"
-    ],
-    "mac_req": "OS 15 down to macOS 12",
-    "win_req": "11 down to Windows 10",
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/14926-Unfiltered-Audio-SpecOps",
-    "retrieved_on": "2026-09-28"
-  },
-  "Unfiltered Audio TAILS": {
-    "formats": [
-      "VST3",
-      "VST2",
-      "AU",
-      "AAX"
-    ],
-    "mac_req": "OS 15 down to macOS 12",
-    "win_req": "11 down to Windows 10",
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/14932-Unfiltered-Audio-TAILS",
-    "retrieved_on": "2026-09-28"
-  },
-  "Unfiltered Audio TRIAD": {
-    "formats": [
-      "VST3",
-      "VST2",
-      "AU",
-      "AAX"
-    ],
-    "mac_req": "OS 15 down to macOS 12",
-    "win_req": "11 down to Windows 10",
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/14944-Unfiltered-Audio-TRIAD",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "included_count": 430,
+    "included_quote": "430 instruments, 1,900+ hand-crafted presets, 12,000+ loops and phrases"
   },
   "Usynth Core": {
     "formats": [
@@ -5280,18 +5031,6 @@
     "mac_req": "OS; macOS 10.13 High Sierra or later; Intel or Apple Silicon processor; At least 54MB free disk space",
     "win_req": "Windows 10 or later; 2GHz Pentium IV processor or equivalent; At least 23MB free disk space; A DAW that supports instrument plugins in one of these formats: VST, VST3, AAX",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/17673-VRAC-",
-    "retrieved_on": "2026-09-28"
-  },
-  "Vengeance Sound Avenger 2": {
-    "formats": [
-      "VST3",
-      "VST2",
-      "AU",
-      "AAX"
-    ],
-    "mac_req": "macOS 10.13 and later (Intel / M1 Apple Silicon supported) (64-bit only); Intel 2.8 GHz or Apple Silicon; 16 GB RAM; VST2, VST3, AU and AAX compliant host required (64-bit only)",
-    "win_req": "Windows 7 or higher (64-bit only); Intel Core 2.8 GHz with AVX extension; OpenGL 3.2 capable GPU; 16 GB RAM",
-    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11545-VPS-Avenger-2",
     "retrieved_on": "2026-09-28"
   },
   "Virtual Drummer 2 Bundle": {
@@ -5348,7 +5087,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX",
+    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13695-API-2500",
     "retrieved_on": "2026-09-28"
   },
@@ -5359,7 +5098,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX",
+    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/13698-Abbey-Road-Reverb-Plates",
     "retrieved_on": "2026-09-28"
   },
@@ -5370,7 +5109,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX",
+    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!; Discover",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13661-Bass-Rider",
     "retrieved_on": "2026-09-28"
   },
@@ -5381,7 +5120,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX",
+    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!; Discover",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13687-CLA-2A-Compressor-Limiter",
     "retrieved_on": "2026-09-28"
   },
@@ -5392,7 +5131,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX",
+    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13688-CLA-76-Compressor-Limiter",
     "retrieved_on": "2026-09-28"
   },
@@ -5403,7 +5142,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX",
+    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/10-Delay/13813-H-Delay-Hybrid-Delay",
     "retrieved_on": "2026-09-28"
   },
@@ -5414,7 +5153,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX",
+    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!; Discover",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/13784-H-Reverb-Hybrid-Reverb",
     "retrieved_on": "2026-09-28"
   },
@@ -5425,7 +5164,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX",
+    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/13679-Kramer-Master-Tape",
     "retrieved_on": "2026-09-28"
   },
@@ -5436,7 +5175,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX",
+    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!; Discover",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/13606-L1-Ultramaximizer",
     "retrieved_on": "2026-09-28"
   },
@@ -5447,7 +5186,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX",
+    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!; Discover",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/13694-PuigTec-EQs",
     "retrieved_on": "2026-09-28"
   },
@@ -5458,9 +5197,11 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX",
+    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/13674-Renaissance-Reverb",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 265,
+    "preset_quote": "265 presets from world-class, award-winning mix engineers"
   },
   "Waves Renaissance Vox": {
     "formats": [
@@ -5469,7 +5210,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX",
+    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13665-Renaissance-Vox",
     "retrieved_on": "2026-09-28"
   },
@@ -5480,7 +5221,7 @@
       "AAX"
     ],
     "mac_req": "macOS Monterey 12, Ventura 13, Sonoma 14, Sequoia 15; VST / AU / AAX; PC",
-    "win_req": "10+; VST / AAX",
+    "win_req": "10+; VST / AAX; Your Waves plugins are installed and ready to use, enjoy!",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/13721-Vocal-Rider",
     "retrieved_on": "2026-09-28"
   },
@@ -5527,25 +5268,6 @@
     "source_url": "https://www.pluginboutique.com/product/2-Effects/50-Mastering-/4181-Weiss-MM-1",
     "retrieved_on": "2026-09-28"
   },
-  "World Suite 3": {
-    "formats": [],
-    "mac_req": "OS 10.14 Mojave to macOS 26 Tahoe",
-    "win_req": "10 to Windows 11 (64-bit); 36GB of disk space; Hard Drive: 7,200 rpm recommended or Solid State Drive (SSD); 4 GB RAM",
-    "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17123-World-Suite-3",
-    "retrieved_on": "2026-09-28"
-  },
-  "XLN Audio Addictive Drums 2 Custom": {
-    "formats": [
-      "VST",
-      "AU",
-      "AAX",
-      "Standalone"
-    ],
-    "mac_req": "macOS 10.13 or later (M1 Native & macOS 12 Monterey supported) (64-bit only); 2 GB RAM (4 GB recommended); Internet connection (during installation only); Formats:",
-    "win_req": "Windows 7 - 11 (64-bit only); 2 GB RAM (4 GB recommended); Internet connection (during installation only); Formats:",
-    "source_url": "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8236-Addictive-Drums-2-Custom-Collection",
-    "retrieved_on": "2026-09-28"
-  },
   "XLN Audio Addictive Keys": {
     "formats": [
       "VST",
@@ -5556,13 +5278,6 @@
     "mac_req": "macOS 10.13 or later (M1 Native & macOS 12 Monterey supported) (64-bit only); 2 GB RAM (4 GB recommended); Internet connection (during installation only); Formats:",
     "win_req": "Windows 7 - 11 (64-bit only); 2 GB RAM (4 GB recommended); Internet connection (during installation only); Formats:",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/1191-Addictive-Keys-Studio-Grand",
-    "retrieved_on": "2026-09-28"
-  },
-  "XLN Audio DB 30 Drum Butter": {
-    "formats": [],
-    "mac_req": null,
-    "win_req": null,
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/13-Drum-FX/17009-DB-30-Drum-Butter",
     "retrieved_on": "2026-09-28"
   },
   "XLN Audio DS 10 Drum Shaper": {
@@ -5651,18 +5366,9 @@
     "mac_req": "OS 11 or later, Apple silicon and Intel, VST3 and Audio Unit.",
     "win_req": "10 or 11, 64-bit, VST3. The installer includes the Microsoft WebView2 runtime the interface uses.; A VST3 or AU host. Not available as AAX.; FORMATS; VST3 (macOS, Windows), AU (macOS). 64-bit only.",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/17783-driveDAT",
-    "retrieved_on": "2026-09-28"
-  },
-  "fiedler audio stage": {
-    "formats": [
-      "VST3",
-      "AU",
-      "AAX"
-    ],
-    "mac_req": "OS 15 down to macOS 12",
-    "win_req": "11 down to Windows 10; AAX Native, AU, VST3; Display resolution: 1440 × 900px or 1280 × 960px or higher; Memory: 2 GB RAM",
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/14921-fiedler-audio-stage",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "preset_count": 100,
+    "preset_quote": "100 presets in 10 banks, including a Jungle bank for early drum and bass"
   },
   "iZotope FXEQ": {
     "formats": [
@@ -5919,7 +5625,9 @@
     "mac_req": "Mac OS X 10.9 or newer (Intel and M1 Mac Supported) (64-bit only); AU2, VST2, VST3",
     "win_req": "Windows 7 or newer (32 / 64-bit); VST2, VST3; Minimum Requirements; Host software / DAW",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/3027-Repro",
-    "retrieved_on": "2026-09-28"
+    "retrieved_on": "2026-09-28",
+    "included_count": 5,
+    "included_quote": "5 effects: wavefolder/distortion, delay/chorus, EQ/resonator, reverb, sonic conditioner/dynamics processor"
   },
   "u-he Satin": {
     "formats": [
@@ -5991,5 +5699,578 @@
     "win_req": "(7 or newer); Linux (glibc version 2.28 or newer); 50–125 MB free disk space; 1280 × 1024 pixel or larger display",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17688-Zebralette-3",
     "retrieved_on": "2026-09-28"
+  },
+  "MetaTune": {
+    "formats": [
+      "VST3",
+      "VST2",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": "OS; Minimum OS - macOS 13 or later; Processor / RAM - Intel or Apple Silicon, 4GB RAM; Plugin Formats - AU, VST2, AAX (64-bit host)",
+    "win_req": "Operating System - Windows 10 or Windows 11; Processor / RAM - Intel or AMD Processor, 4GB RAM; Plugin Formats - VST2, VST3, AAX (64-bit host)",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15799-MetaTune",
+    "retrieved_on": "2026-10-23"
+  },
+  "E1": {
+    "formats": [
+      "VST",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": null,
+    "win_req": "window.dmPt('track');",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17922-E1",
+    "retrieved_on": "2026-10-23"
+  },
+  "Skaka": {
+    "formats": [
+      "VST",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": "OS 10.10 or later (optimized for the M1-processor)",
+    "win_req": "7 SP1 or later; AU, VST-2, VST-3, AAX; Please Note: Pana is used as the example:",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/8721-Skaka",
+    "retrieved_on": "2026-10-23"
+  },
+  "DANDY": {
+    "formats": [
+      "VST3",
+      "VST2",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": "OS 10.14 - macOS 14 (64-bit only); You may run them on earlier versions but UJAM doesn’t support them.",
+    "win_req": "7 or later (64-bit only)",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6618-DANDY",
+    "retrieved_on": "2026-10-23"
+  },
+  "Esspresso": {
+    "formats": [
+      "VST",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": "OS 10.10 or later (optimized for the M1-processor)",
+    "win_req": "7 SP1 or later; AU, VST-2, VST-3, AAX; Please Note: Pana is used as the example:",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/59-De-Esser/8702-Esspresso",
+    "retrieved_on": "2026-10-23"
+  },
+  "Walls": {
+    "formats": [
+      "VST3",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": "License Redemption; Your software is now activated and ready to use within your DAW",
+    "win_req": "7 (SP1) or later,; AU, VST3 or AAX compatible 64-bit host.; Please Note: Pana is used as the example:",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/15146-Walls",
+    "retrieved_on": "2026-10-23"
+  },
+  "Motion Bundle Upgrade from any Motion product": {
+    "formats": [
+      "VST3",
+      "VST",
+      "AU",
+      "AAX",
+      "Standalone"
+    ],
+    "mac_req": "OS; macOS 10.15 or higher (Intel / Native Apple Silicon supported).; Plugin Formats: VST, VST3, AU, AAX, Standalone",
+    "win_req": "Windows 7 or higher; Plugin formats: VST, VST3, AAX, Standalone; DAWs supported: Ableton Live, Pro Tools, FL Studio, Cubase, Nuendo, Reaper, Reason + more.; Compatibility: 64-bit compatible only.",
+    "source_url": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15190-Motion-Bundle-Upgrade-from-any-Motion-product-",
+    "retrieved_on": "2026-10-23",
+    "included_count": 5,
+    "included_quote": "5 effect sections: Grains Layer 1, Grains Layer 2, Gate, Repeat, Space"
+  },
+  "United Plugins Mirror": {
+    "formats": [
+      "VST3",
+      "VST2",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": "macOS 10.10 and later (M1 Silicon Mac and macOS 11 Big Sur supported); 64bit only; Intel/AMD processor with SSE2 support; VST2, VST3, AAX or AU compatible host",
+    "win_req": "Windows 8 - 10; 32bit or 64bit; Intel/AMD processor with SSE2 support; VST2, VST3 or AAX compatible host",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/10-Delay/8658-Mirror",
+    "retrieved_on": "2026-10-23"
+  },
+  "Ample Sound Ample Guitar M": {
+    "formats": [
+      "VST3",
+      "VST2",
+      "AU",
+      "AAX",
+      "Standalone"
+    ],
+    "mac_req": "macOS 10.15 or later.",
+    "win_req": "Windows 7 to Windows 11 (64-bit).; Plugin Formats: VST2, VST3, AU, AAX, and standalone host (Rectangles).; Disk Space: Over 20 GB, SSD is recommended.; CPU: Intel i5 or higher.",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/15078-Ample-Guitar-M",
+    "retrieved_on": "2026-10-23"
+  },
+  "Ample Guitar M Lite II": {
+    "formats": [
+      "VST2",
+      "AU",
+      "AAX",
+      "Standalone"
+    ],
+    "mac_req": "macOS 10.15 or later.",
+    "win_req": "Windows 7 to Windows 11 (64-bit).; Plugin Formats: VST2, AU, AAX, and standalone host (Rectangles).; Disk Space: Over 20 GB, SSD is recommended.; CPU: Intel i5 or higher.",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/4520-Ample-Guitar-M-Lite-II",
+    "retrieved_on": "2026-10-23"
+  },
+  "iZotope RX 12 Elements": {
+    "formats": [
+      "VST3",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": null,
+    "win_req": "Windows 10 (22H2), Windows 11 (24H2); Plugin formats; AU, AAX, AAX Audiosuite, VST3, AU ARA*, VST3 ARA*. All formats are 64-bit only.; Notes",
+    "source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/51-Audio-Restoration-/17210-RX-12-Elements",
+    "retrieved_on": "2026-10-23"
+  },
+  "iZotope RX 12 Standard": {
+    "formats": [
+      "VST3",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": null,
+    "win_req": "Windows 10 (22H2), Windows 11 (24H2); Plugin formats; AU, AAX, AAX Audiosuite, VST3, AU ARA*, VST3 ARA*. All formats are 64-bit only.; Notes",
+    "source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/51-Audio-Restoration-/17211-RX-12-Standard",
+    "retrieved_on": "2026-10-23"
+  },
+  "iZotope RX 12 Advanced": {
+    "formats": [
+      "VST3",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": null,
+    "win_req": "Windows 10 (22H2), Windows 11 (24H2); Plugin formats; AU, AAX, AAX Audiosuite, VST3, AU ARA*, VST3 ARA*. All formats are 64-bit only.; Notes",
+    "source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/51-Audio-Restoration-/17171-RX-12-Advanced",
+    "retrieved_on": "2026-10-23"
+  },
+  "ZENOLOGY PRO": {
+    "formats": [
+      "VST",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": "OS: macOS 11 (Big Sur) or later.; Other:; An internet connection is required for installing and activating Roland Cloud software.",
+    "win_req": "Windows 10 (64-bit) or Windows 11.",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/15308-ZENOLOGY-PRO",
+    "retrieved_on": "2026-10-23",
+    "included_count": 90,
+    "included_quote": "90 effects, including vintage Roland processors like the JUNO-106 chorus",
+    "preset_count": 3500,
+    "preset_quote": "Over 3500 patches and drum kits, easily expandable to over 7000"
+  },
+  "The Orb": {
+    "formats": [
+      "VST3",
+      "VST2",
+      "VST",
+      "AU",
+      "AAX",
+      "CLAP"
+    ],
+    "mac_req": "OS X 10.9 – macOS 14; Apple Silicon (M chips) Native (Universal 2 Binary); 2GHz CPU, 4 GB RAM; VST2, VST3, AU, AAX, CLAP (64-bit)",
+    "win_req": "Windows 7-11; 2GHz CPU, 4 GB RAM; VST2, VST3, AAX, CLAP (64-bit)",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/19-Filter/2888-The-Orb",
+    "retrieved_on": "2026-10-23"
+  },
+  "JUNO-60": {
+    "formats": [
+      "VST",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": "OS: macOS 11 (Big Sur) or later.; Other:; An internet connection is required for installing and activating Roland Cloud software.",
+    "win_req": "Windows 10 (64-bit) or Windows 11.",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/15608-JUNO-60",
+    "retrieved_on": "2026-10-04"
+  },
+  "Motion Fractal Upgrade from any Motion Lite": {
+    "formats": [
+      "VST3",
+      "VST",
+      "AU",
+      "AAX",
+      "Standalone"
+    ],
+    "mac_req": "OS; macOS 10.15 or higher (Intel / Native Apple Silicon supported).; Plugin Formats: VST, VST3, AU, AAX, Standalone",
+    "win_req": "Windows 7 or higher; Plugin formats: VST, VST3, AAX, Standalone; DAWs supported: Ableton Live, Pro Tools, FL Studio, Cubase, Nuendo, Reaper, Reason + more.; Compatibility: 64-bit compatible only.",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/45-Granular-FX/15185-Motion-Fractal-Upgrade-from-any-Motion-Lite-",
+    "retrieved_on": "2026-10-23"
+  },
+  "73 JR Preamp": {
+    "formats": [
+      "VST3",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": null,
+    "win_req": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/74-Preamp/14618-73-JR-Preamp",
+    "retrieved_on": "2026-10-23"
+  },
+  "Virtual Bassist Bundle 2": {
+    "formats": [
+      "VST3",
+      "VST",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": "OS 10.14 - macOS 12 (64-bit only); You may run it on earlier versions but UJAM doesn’t support them.",
+    "win_req": "7 or later (64-bit only)",
+    "source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/6619-Virtual-Bassist-Bundle-2",
+    "retrieved_on": "2026-10-23"
+  },
+  "Addictive Drums 2 Custom XL Collection": {
+    "formats": [
+      "VST",
+      "AU",
+      "AAX",
+      "Standalone"
+    ],
+    "mac_req": "macOS 10.13 or later (M1 Native & macOS 12 Monterey supported) (64-bit only); 2 GB RAM (4 GB recommended); Internet connection (during installation only); Formats:",
+    "win_req": "Windows 7 - 11 (64-bit only); 2 GB RAM (4 GB recommended); Internet connection (during installation only); Formats:",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8237-Addictive-Drums-2-Custom-XL-Collection",
+    "retrieved_on": "2026-10-23"
+  },
+  "Bus Processor": {
+    "formats": [
+      "VST3",
+      "VST",
+      "AU",
+      "AAX",
+      "RTAS"
+    ],
+    "mac_req": "OS Big Sur 11, Monterey 12, Ventura 13",
+    "win_req": "10 (64-bit), Windows 11; Softube account; iLok account; Computer with AU, VST, VST3, and/or AAX-compatible DAW host software",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10402-Bus-Processor",
+    "retrieved_on": "2026-10-23"
+  },
+  "SILK 2": {
+    "formats": [
+      "VST3",
+      "VST2",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": "macOS Catalina (10.15) — macOS Sonoma (14); You may have success on earlier versions but UJAM doesn’t support and fully qualify them.",
+    "win_req": "Windows 10 — Windows 11",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11871-SILK-2",
+    "retrieved_on": "2026-10-23"
+  },
+  "Virtual Guitarist Bundle": {
+    "formats": [
+      "VST3",
+      "VST2",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": "OS 10.15 Catalina and later (64-bit only)",
+    "win_req": "10 and later (64-bit only); Note: You may have success on earlier versions but UJAM doesn’t support and fully qualify them.",
+    "source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/11881-Virtual-Guitarist-Bundle",
+    "retrieved_on": "2026-10-23"
+  },
+  "Addictive Drums 2 Classic Rock Collection": {
+    "formats": [
+      "VST",
+      "AU",
+      "AAX",
+      "Standalone"
+    ],
+    "mac_req": "macOS 10.13 or later (M1 Native & macOS 12 Monterey supported) (64-bit only); 2 GB RAM (4 GB recommended); Internet connection (during installation only); Formats:",
+    "win_req": "Windows 7 - 11 (64-bit only); 2 GB RAM (4 GB recommended); Internet connection (during installation only); Formats:",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/70-Expansion-Packs/8235-Addictive-Drums-2-Classic-Rock-Collection",
+    "retrieved_on": "2026-10-23"
+  },
+  "Addictive Drums 2 Custom XXL Collection": {
+    "formats": [
+      "VST",
+      "AU",
+      "AAX",
+      "Standalone"
+    ],
+    "mac_req": "macOS 10.13 or later (M1 Native & macOS 12 Monterey supported) (64-bit only); 2 GB RAM (4 GB recommended); Internet connection (during installation only); Formats:",
+    "win_req": "Windows 7 - 11 (64-bit only); 2 GB RAM (4 GB recommended); Internet connection (during installation only); Formats:",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8238-Addictive-Drums-2-Custom-XXL-Collection",
+    "retrieved_on": "2026-10-23"
+  },
+  "LANG PEQ-2": {
+    "formats": [
+      "VST3",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": "OS: 10.15.7 and up (Both INTEL and Native Apple Silicon M1/M2/M3 Compatibility); PC: Windows 10 and 11; DAWs supported:",
+    "win_req": "window.dmPt('track');",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/14460-LANG-PEQ-2",
+    "retrieved_on": "2026-10-23"
+  },
+  "Ultimate Vocal Chain Collection": {
+    "formats": [],
+    "mac_req": null,
+    "win_req": null,
+    "source_url": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16492-Ultimate-Vocal-Chain-Collection",
+    "retrieved_on": "2026-10-23"
+  },
+  "Baby Audio HyperWarp": {
+    "formats": [
+      "VST3",
+      "VST",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": "OS 10.11 and up (including native Apple Silicon support).",
+    "win_req": "10 and newer.",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17963-HyperWarp",
+    "retrieved_on": "2026-10-23"
+  },
+  "AmpliTube 5": {
+    "formats": [
+      "VST3",
+      "VST2",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": "® (64-bits); Requires an OpenGL 2 compatible graphics adapter.; Supported Plug-in formats (64-bit): Audio Units, VST 2, VST 3, AAX.",
+    "win_req": "® (64-bits); Minimal: Intel® Core i5 Processor or equivalent, 8 GB of RAM, Windows 10 (64 bit) or newer. 3 GB of hard drive space.; Requires an ASIO compatible sound card.",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12669-AmpliTube-5",
+    "retrieved_on": "2026-10-23",
+    "included_count": 57,
+    "included_quote": "Up to 57 effects, 3 cabinets, and 3 amps simultaneously"
+  },
+  "Phoscyon 2": {
+    "formats": [
+      "VST3",
+      "VST2",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": "OS X 10.13 or newer; CPU : Intel based 2.8 GHz (Intel Based 3.2 GHz recommended) / Apple Silicon M1; 8 GB RAM (16 GB Recommended); AU / VST2 / VST3 / AAX compatible host application (64bit)",
+    "win_req": "7 or newer; CPU : 3.0 GHz SSE (Multicore 3.7 GHz recommended); 8 GB RAM (16 GB Recommended); VST2 / VST3 /AAX compatible host application (32bit or 64bit)",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9541-Phoscyon-2",
+    "retrieved_on": "2026-10-23",
+    "preset_count": 800,
+    "preset_quote": "Substantial Factory Content - over 800 presets and patterns out-of-the-box."
+  },
+  "Cherry Audio Pentaphonic": {
+    "formats": [
+      "Standalone"
+    ],
+    "mac_req": null,
+    "win_req": "Windows 7 or above. 64-bit required. 3.4 GHz Quad-Core computer with 8GB of RAM recommended. Hard disk space: 186 MB.; NOTE: Internet connection is required for product activation.",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17987-Pentaphonic",
+    "retrieved_on": "2026-10-23",
+    "preset_count": 375,
+    "preset_quote": "Over 375 presets in 14 categories, including the original 50 factory patches."
+  },
+  "InstaComposer 4": {
+    "formats": [
+      "VST3",
+      "VST",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": "macOS 10.15 and later (64-bit only); VST, VST3, AU and AAX; Apple Silicon and Intel both supported",
+    "win_req": "Windows 10 and later (64-bit); VST, VST3 and AAX; Discover; Instruments",
+    "source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/18029-InstaComposer-4",
+    "retrieved_on": "2026-10-15"
+  },
+  "Solid State Logic SSL Fusion Bundle": {
+    "formats": [
+      "VST3",
+      "VST2",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": "macOS 11 Big Sur - macOS 13 Ventura (64-bit only) (M1 Mac supported); Intel Dual-Core Mac running at 2.4GHz or higher; 4 GB of RAM minimum (8 GB of RAM recommended); AU, VST2, VST3, AAX Native",
+    "win_req": "Windows 10 - Windows 11 (64-bit only); Intel Core 2 (or comparable) CPU running at 2.4GHz or higher; 4 GB of RAM minimum (8 GB of RAM recommended); VST 2, VST3, AAX Native",
+    "source_url": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/14036-Solid-State-Logic-SSL-Fusion-Bundle",
+    "retrieved_on": "2026-10-23"
+  },
+  "FASTER MASTER": {
+    "formats": [
+      "VST3",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": "OS X 10.15 or higher. 64-bit AU, VST 3 or AAX host.; Apple Silicon Native.",
+    "win_req": "Windows 10 or higher. 64-bit VST 3 or 64-bit AAX host.",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/13871-FASTER-MASTER",
+    "retrieved_on": "2026-10-23"
+  },
+  "Shade": {
+    "formats": [
+      "VST3",
+      "VST",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": "OS 10.14 Mojave to macOS 15 Sequoia (64-bit, Intel or ARM)",
+    "win_req": "10 to Windows 11 (64-bit); Compatibility; Supported Formats: Audio Unit, AAX, VST, VST3",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/15226-Shade",
+    "retrieved_on": "2026-10-23"
+  },
+  "Snapback": {
+    "formats": [
+      "VST3",
+      "VST2",
+      "AU",
+      "AAX",
+      "CLAP"
+    ],
+    "mac_req": "Mac OS X 10.13 or later; Intel or Apple Silicon processor; VST 2, VST 3, AU or AAX host DAW; Testimonials",
+    "win_req": "Windows 7, 8, 10 or 11; 64-bit; VST 2, VST 3 or AAX host DAW",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/13-Drum-FX/13655-Snapback",
+    "retrieved_on": "2026-10-23"
+  },
+  "X-DynEQ": {
+    "formats": [
+      "VST3",
+      "VST2",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": "macOS 11 Big Sur - macOS 13 Ventura (64-bit only) (M1 Mac supported); Intel Dual-Core Mac running at 2.4GHz or higher; 4 GB of RAM minimum (8 GB of RAM recommended); AU, VST2, VST3, AAX Native",
+    "win_req": "Windows 10 - Windows 11 (64-bit only); Intel Core 2 (or comparable) CPU running at 2.4GHz or higher; 4 GB of RAM minimum (8 GB of RAM recommended); VST 2, VST3, AAX Native",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/12266-X-DynEQ",
+    "retrieved_on": "2026-10-23"
+  },
+  "Glow": {
+    "formats": [
+      "VST3",
+      "VST",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": null,
+    "win_req": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/12153-Glow",
+    "retrieved_on": "2026-10-23"
+  },
+  "SubBoomBass 2": {
+    "formats": [
+      "VST",
+      "AU",
+      "AAX",
+      "NKS"
+    ],
+    "mac_req": "OS-X 10.9 - 10.15 (64 bits only); Formats:; AU; VST",
+    "win_req": "7/ Windows 8/ Windows 10 (32 & 64 bits); Formats:; VST; AAX (Note: PC AAX for PT 12 or higher)",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/3951-SubBoomBass-2",
+    "retrieved_on": "2026-10-23"
+  },
+  "SSL Greatest Hits Bundle": {
+    "formats": [
+      "VST3",
+      "VST2",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": "macOS 11 Big Sur - macOS 13 Ventura (64-bit only) (M1 Mac supported); Intel Dual-Core Mac running at 2.4GHz or higher; 4 GB of RAM minimum (8 GB of RAM recommended); AU, VST2, VST3, AAX Native",
+    "win_req": "Windows 10 - Windows 11 (64-bit only); Intel Core 2 (or comparable) CPU running at 2.4GHz or higher; 4 GB of RAM minimum (8 GB of RAM recommended); VST 2, VST3, AAX Native",
+    "source_url": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15730-SSL-Greatest-Hits-Bundle",
+    "retrieved_on": "2026-10-23"
+  },
+  "Lines": {
+    "formats": [
+      "VST3",
+      "VST2",
+      "AU",
+      "AAX",
+      "CLAP"
+    ],
+    "mac_req": "OS X 10.9 – macOS 13; 2GHz CPU, 4 GB RAM; Apple Silicon (M chips) Native (Universal 2 Binary); VST2, VST3, AU, CLAP, or AAX (64-bit)",
+    "win_req": "7 - 11, Ubuntu 20.04 LTS; 2GHz CPU, 4 GB RAM; VST2, VST3, CLAP or AAX (64-bit)",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/11434-Lines",
+    "retrieved_on": "2026-10-23"
+  },
+  "TOTAL Guitar MAX": {
+    "formats": [],
+    "mac_req": null,
+    "win_req": null,
+    "source_url": "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17062-TOTAL-Guitar-MAX",
+    "retrieved_on": "2026-10-23"
+  },
+  "Jura": {
+    "formats": [],
+    "mac_req": "macOS 11.7 - macOS 13 Monterey (Apple Silicon native compatible); Dual-core 2.5GHz CPU or higher; 4 GB RAM (8 GB RAM recommended); 2 GB Free Disk Space (20GB for all content recommended)",
+    "win_req": "Windows 10 - Windows 11 (64-bit only); Dual-core 2.5GHz CPU or higher; 4 GB RAM (8 GB RAM recommended); 2 GB Free Disk Space (20GB for all content recommended)",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10612-Jura",
+    "retrieved_on": "2026-10-12"
+  },
+  "Reason Rack 14": {
+    "formats": [
+      "VST3",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": null,
+    "win_req": null,
+    "source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/23-DAW/17336-Reason-Rack-14",
+    "retrieved_on": "2026-10-23"
+  },
+  "Revoice Pro 5": {
+    "formats": [],
+    "mac_req": "Intel Processor; macOS 10.14 or higher; Audio File Format: As supported by host editor; Works with all Pro Tools hardware",
+    "win_req": "Windows 10+; Audio File Format: As supported by host editor; Works with all Pro Tools hardware; Supported DAWs include",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/11742-Revoice-Pro-5",
+    "retrieved_on": "2026-10-23"
+  },
+  "LANDR Mastering Plugin PRO": {
+    "formats": [
+      "VST3",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": "macOS 10.14 and higher; VST3, AU, AAX, 64b; File Size: 566 MB; The LANDR Mastering Plugin PRO is compatible with DAWs that support AU, AAX and VST3 plugins.",
+    "win_req": "Windows 10 or higher (64-bit); VST3, AU, AAX, 64b; File Size: 247 MB; The LANDR Mastering Plugin PRO is compatible with DAWs that support AU, AAX and VST3 plugins.",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/50-Mastering-/11463-LANDR-Mastering-Plugin-PRO",
+    "retrieved_on": "2026-10-23"
+  },
+  "ACE Studio 2 0 Artist Pro Lifetime License": {
+    "formats": [
+      "VST3",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": null,
+    "win_req": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/140-Vocal-Synth/15409-ACE-Studio-2-0-Artist-Pro-Lifetime-License",
+    "retrieved_on": "2026-10-23"
+  },
+  "UAD Emperical Labs FATSO Tape Simulator": {
+    "formats": [
+      "VST3",
+      "AU",
+      "AAX"
+    ],
+    "mac_req": "OS Big Sur 11, Monterey 12, Ventura 13, Sonoma 14, Sequoia 15 and Tahoe 26",
+    "win_req": "10 or Windows 11 (64-bit editions); Intel, AMD, or Apple silicon processor; Internet connection to download software and authorize UAD Native plug-ins (UADx); Free iLok account",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/18051-Emperical-Labs-FATSO-Tape-Simulator",
+    "retrieved_on": "2026-10-23"
+  },
+  "Native Instruments Kithara": {
+    "formats": [],
+    "mac_req": "macOS 13, 14 or 15 (latest update); Intel Core i5/equivalent CPU or Apple Silicon; 4 GB RAM (6 GB recommended); Supports Core Audio",
+    "win_req": "Windows 10 or 11 (64-bit, latest Service Pack) or Windows 11 (latest Service Pack); Intel Core i5 or equivalent CPU; 4 GB RAM (6 GB recommended); Supports ASIO and WASAPI",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15877-Kithara",
+    "retrieved_on": "2026-10-23",
+    "included_count": 4,
+    "included_quote": "Shape and layer up to 4 instruments simultaneously for immersive soundscapes"
+  },
+  "Native Instruments Scene Magnolia": {
+    "formats": [],
+    "mac_req": "macOS 13, 14 or 15 (latest update); Intel Core i5/equivalent CPU or Apple Silicon; 4 GB RAM (6 GB recommended); Supports Core Audio",
+    "win_req": "Windows 10 or 11 (64-bit, latest Service Pack) or Windows 11 (latest Service Pack); Intel Core i5 or equivalent CPU; 4 GB RAM (6 GB recommended); Supports ASIO and WASAPI",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/18016-Scene-Magnolia-",
+    "retrieved_on": "2026-10-23"
   }
 }
