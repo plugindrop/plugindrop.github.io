@@ -511,7 +511,7 @@ const pageLD = {
       .tracker-presets { margin-bottom:.35rem; }
       .tracker-presets button { padding:.45rem .7rem; border:1px solid var(--border); background:var(--bg-card); color:var(--text-secondary); font:.7rem var(--font-mono); cursor:pointer; }
       .tracker-presets button[aria-pressed="true"] { border-color:var(--accent); color:var(--accent); }
-      .ledger-thumb { float:left; width:96px; height:60px; object-fit:cover; margin-right:.55rem; background:var(--bg-low); }
+      .ledger-art { float:left; width:96px; height:60px; margin-right:.55rem; background:var(--bg-low); }.ledger-thumb[hidden]{display:none}.ledger-thumb { display:block; width:100%; height:100%; object-fit:cover; }.ledger-fallback[hidden]{display:none}.ledger-fallback{display:flex;width:100%;height:100%;align-items:center;justify-content:center;color:var(--text-muted);font:700 1.4rem var(--font-display)}
       .ledger-brand, .ends-label, .history-link { display:block; font-size:.65rem; color:var(--text-muted); }
       .history-link { color:var(--accent); margin-top:.2rem; }
       .ends-label { margin-top:.3rem; white-space:nowrap; }
@@ -521,7 +521,7 @@ const pageLD = {
       .tracker-more[hidden] { display:none; }
       .ledger-table th:nth-child(5), .ledger-table td:nth-child(5), .ledger-table th:nth-child(6), .ledger-table td:nth-child(6) { display:none; }
       .ledger-table tbody tr.ledger-row { height:60px; }
-      .ledger-thumb { height:60px; }
+      .ledger-art { height:60px; }
       .tracker-links { margin:.5rem 0; color:var(--text-secondary); }
       .tracker-links a { color:var(--accent); margin-right:.7rem; white-space:nowrap; }
       @media(max-width:700px) {
@@ -551,7 +551,7 @@ const pageLD = {
         .ledger-table td:nth-child(8) { grid-column:2; grid-row:3 / 5; }
         .ledger-table .ends-label { white-space:normal; font-size:.58rem; }
         .ledger-table .plugin-name-link { overflow-wrap:anywhere; }
-        .ledger-thumb { width:88px; height:56px; }
+        .ledger-art { width:88px; height:56px; }
         .plugin-name-link { font-size:.83rem; }
         .stats-row { margin-bottom:.5rem; }
       }
@@ -725,7 +725,7 @@ const pageLD = {
                 data-sale={row.currentIsSale && row.off > 0 ? 'true' : 'false'}
               >
                 <td>
-                  {row.bundle.image && <img class="ledger-thumb" src={row.bundle.image} width="96" height="60" loading={index < 12 ? 'eager' : 'lazy'} decoding="async" alt="" />}
+                  <span class="ledger-art">{row.bundle.image && <img class="ledger-thumb" src={row.bundle.image} width="96" height="60" loading={index < 12 ? 'eager' : 'lazy'} decoding="async" alt="" />}<span class="ledger-fallback" hidden={!!row.bundle.image} aria-hidden="true">{row.name.charAt(0).toUpperCase()}</span></span>
                   <span class="ledger-brand mono">{row.developer ?? '—'}</span>
                   <a
                     href={`/plugin-prices/${row.slug}/`}
@@ -851,7 +851,7 @@ const pageLD = {
                 data-sale={row.currentIsSale && row.off > 0 ? 'true' : 'false'}
               >
                 <td>
-                  {row.bundle.image && <img class="ledger-thumb" src={row.bundle.image} width="96" height="60" loading="lazy" decoding="async" alt="" />}
+                  <span class="ledger-art">{row.bundle.image && <img class="ledger-thumb" src={row.bundle.image} width="96" height="60" loading="lazy" decoding="async" alt="" />}<span class="ledger-fallback" hidden={!!row.bundle.image} aria-hidden="true">{row.name.charAt(0).toUpperCase()}</span></span>
                   <span class="ledger-brand mono">{row.developer ?? '—'}</span>
                   <a
                     href={`/plugin-prices/${row.slug}/`}
@@ -1327,5 +1327,6 @@ const pageLD = {
         applyFilters();
       })();
     </script>
+    <script>const showLedgerFallback=(img: HTMLImageElement)=>{if(!img.classList.contains('ledger-thumb'))return;img.hidden=true;const fallback=img.parentElement?.querySelector<HTMLElement>('.ledger-fallback');if(fallback)fallback.hidden=false};document.addEventListener('error',event=>{if(event.target instanceof HTMLImageElement)showLedgerFallback(event.target)},true);document.querySelectorAll<HTMLImageElement>('.ledger-thumb').forEach(img=>{if(img.complete&&!img.naturalWidth)showLedgerFallback(img)});</script>
   </body>
 </html>

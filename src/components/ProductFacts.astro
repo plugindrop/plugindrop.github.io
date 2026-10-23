@@ -5,10 +5,11 @@ const formats = formatsLine(facts);
 const mac = facts?.mac_req?.split(';')[0]?.trim();
 const win = facts?.win_req?.split(';')[0]?.trim();
 const source = facts?.source_url;
+const presets = typeof facts?.preset_count === 'number' && Number.isFinite(facts.preset_count) ? facts.preset_count : null;
 ---
-{facts && (formats || mac || win) && <section class="product-facts" data-product-facts>
+{facts && (formats || mac || win || presets !== null) && <section class="product-facts" data-product-facts>
   <h2>Facts from the product page</h2>
-  <dl class="fact-list">{formats && <div><dt>Formats</dt><dd>{formats}</dd></div>}{mac && <div><dt>macOS</dt><dd>{mac}</dd></div>}{win && <div><dt>Windows</dt><dd>{win}</dd></div>}</dl>
+  <dl class="fact-list">{presets !== null && <div><dt>Presets</dt><dd>{presets.toLocaleString()}</dd></div>}{formats && <div><dt>Formats</dt><dd>{formats}</dd></div>}{mac && <div><dt>macOS</dt><dd>{mac}</dd></div>}{win && <div><dt>Windows</dt><dd>{win}</dd></div>}</dl>
   {(facts.mac_req?.includes(';') || facts.win_req?.includes(';')) && <details><summary>Full system requirements</summary>{facts.mac_req && <p>macOS: {facts.mac_req}</p>}{facts.win_req && <p>Windows: {facts.win_req}</p>}</details>}
   {source && <p class="fact-source">Source: <a href={source} rel="nofollow noopener" target="_blank">Plugin Boutique product page</a>{facts.retrieved_on && `, retrieved ${facts.retrieved_on}`}</p>}
 </section>}
