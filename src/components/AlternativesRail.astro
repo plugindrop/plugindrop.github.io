@@ -2,5 +2,5 @@
 import DealCard from './DealCard.astro';
 const { deals = [] } = Astro.props;
 ---
-{deals.length >= 2 && <section class="page-section alternatives-rail" data-alternatives-count={deals.length}><h2 class="section-title">Alternatives we track</h2><div class="alternatives-list">{deals.slice(0, 4).map(deal => <DealCard deal={deal} variant="row" />)}</div></section>}
-<style>.alternatives-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.5rem}@media(max-width:680px){.alternatives-list{grid-template-columns:1fr}}</style>
+{deals.length >= 2 && <section class="page-section alternatives-rail" data-alternatives-count={deals.length}><h2 class="section-title">Alternatives we track</h2><div class="alternatives-list">{deals.slice(0, 4).map(deal => <DealCard deal={deal} variant="grid" />)}</div></section>}
+<style>.alternatives-list{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:.5rem}@media(max-width:680px){.alternatives-list{display:flex;overflow-x:auto;scroll-snap-type:x mandatory}.alternatives-list :global(.new-deal-card){flex:0 0 65%;scroll-snap-align:start}}</style>

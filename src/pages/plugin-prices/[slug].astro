@@ -14,7 +14,6 @@ import notableUsers from '../../data/notable_users.json';
 import { resolveCardImage, toCardModel } from '../../lib/homeDeals.mjs';
 import { taglineForProduct, makerQuoteForProduct } from '../../lib/dealCopy.mjs';
 import { cardCopyLine } from '../../lib/cardCopy.mjs';
-import { priceStatTiles } from '../../lib/priceStats.mjs';
 import { rarityTag, supportChips } from '../../lib/dealSignals.mjs';
 import { composeHeadline } from '../../lib/headline.mjs';
 import { detectBrand } from '../../lib/brands.mjs';
@@ -57,7 +56,7 @@ interface StaticEntry {
   name: string;
   kind: 'plugin' | 'bundle';
   entry: EntryData;
-  guides: Array<{ title: string; slug: string }>;
+  guides: Array<{ title: string; slug: string; image?: string }>;
 }
 
 const data = priceData as PriceData;
@@ -92,7 +91,7 @@ export async function getStaticPaths() {
         return sb - sa;
       })
       .slice(0, 5)
-      .map((p) => ({ title: p.data.title, slug: p.id }));
+      .map((p) => ({ title: p.data.title, slug: p.id, image: p.data.heroImage }));
   }
 
   const rows: StaticEntry[] = [];
@@ -165,8 +164,14 @@ const productImage = resolveCardImage({ entry, siblings: Object.values({ ...pric
 const rarity = verifiedLive ? rarityTag(entry, Date.now()) : null;
 const chips = supportChips(entry, Date.now(), 2);
 const facts = buildPageFacts(entry, { buildDate: data.last_updated });
-const statTiles = priceStatTiles(entry, Date.now());
 const seenLow = lowestSeen(entry);
+const lastSale = [...measuredRows].reverse().find(row => row.sale !== null);
+const statTiles = [
+  { label: 'Current', value: formatPrice(current), note: '' },
+  { label: 'Regular', value: formatPrice(regular), note: 'list price' },
+  { label: 'Lowest tracked', value: formatPrice(seenLow?.price ?? null), note: '' },
+  { label: 'Last sale', value: formatPrice(lastSale?.sale ?? null), note: lastSale?.date ?? '' },
+];
 const verdictCopy = summarizeVerdict(name, facts);
 const researchNote = buildResearchNote(name, facts);
 const coverageLine = buildCoverageLine(facts);
@@ -433,7 +438,7 @@ const faqLD = {
     {hasVerifiedOffer && <script type="application/ld+json" set:html={JSON.stringify(productLD)} />}
     <script type="application/ld+json" set:html={JSON.stringify(faqLD)} />
     <style>
-      main { max-width: 960px; margin: 0 auto; padding: 2rem 1rem 3rem; }
+      main { max-width: 1120px; margin: 0 auto; padding: 2rem 1rem 3rem; }
 
       .breadcrumb { font-size: 0.8rem; color: var(--text-muted); margin-bottom: 1.5rem; }
       .breadcrumb a { color: var(--text-muted); text-decoration: none; }
@@ -692,8 +697,9 @@ const faqLD = {
         padding: 0;
         margin: 0;
         display: flex;
-        flex-direction: column;
-        gap: 0.5rem;
+        overflow-x: auto;
+        scroll-snap-type: x mandatory;
+        gap: 0.75rem;
       }
       .guide-link {
         color: var(--accent);
@@ -762,6 +768,7 @@ const faqLD = {
 
       /* 640px breakpoint */
       @media (max-width: 640px) {
+        .guide-list { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; }
         .verdict-banner {
           padding: 0.75rem 1rem;
           grid-template-columns: minmax(0, 1fr);
@@ -823,36 +830,23 @@ const faqLD = {
       </nav>
 
       <section class="product-header">
-        <span class="category-tag">{category}</span>
-        {publishedHub && <a href={`/best/${publishedHub.slug}/`}>Compare {publishedHub.label} plugins and guides</a>}
         <div class="product-showcase">
-          {productImage.src && <img src={productImage.large ?? productImage.src} alt="" width="640" height="400" loading="eager" />}
-          <div><h1>{headline}</h1>{copyLine.kind === 'tagline' && <p class="product-tagline" data-copy-kind="tagline">{copyLine.text}</p>}{copyLine.kind === 'maker' && <p class="product-tagline" data-copy-kind="maker_quote"><q cite={copyLine.cite}>{copyLine.text}</q> — {copyLine.attribution}</p>}
-          <div class="product-signals">{rarity && <span data-rarity={rarity.type} title={rarity.full}>{rarity.text}</span>}{chips.map(chip => <span>{chip}</span>)}</div></div>
-        </div>
-
-        <ProductFacts facts={productFacts} />
-        <NotableUsers records={(notableUsers as Record<string, any[]>)[notableKey] ?? []} brand={productBrand ?? ''} />
-
-      {demoVideo && (
-          <div id="demo-block" data-video-id={demoVideo.video_id} data-video-official={String(demoVideo.official === true)} style="margin:0.75rem 0 1rem;display:flex;align-items:center;gap:0.75rem">
-            <button id="demo-btn" type="button" style="display:flex;align-items:center;gap:0.5rem;border:1px solid var(--border);border-radius:6px;padding:0.4rem 0.85rem;font-size:0.85rem;background:transparent;color:var(--text-secondary);cursor:pointer;">
-              <svg width="10" height="12" viewBox="0 0 10 12" fill="currentColor" aria-hidden="true"><path d="M0 0l10 6-10 6V0z"/></svg>
-              {demoVideo.official === true ? 'Watch the official demo' : `Watch a demo (${demoVideo.channel})`}
-            </button>
-            <span style="font-size:0.75rem;color:var(--text-muted)">{demoVideo.official === true ? 'Official demo · YouTube' : `${demoVideo.channel} (YouTube)`}</span>
+          {productImage.src && <img class="hero-image" src={productImage.large ?? productImage.src} alt="" width="640" height="400" loading="eager" />}
+          <div class="hero-copy">
+            <span class="hero-brand">{productBrand ?? category}</span>
+            <h1>{headline}</h1>
+            {copyLine.kind === 'tagline' && <p class="product-tagline" data-copy-kind="tagline">{copyLine.text}</p>}
+            {copyLine.kind === 'maker' && <p class="product-tagline" data-copy-kind="maker_quote"><q cite={copyLine.cite}>{copyLine.text}</q> — {copyLine.attribution}</p>}
+            <div class="price-row"><span class={onSale ? 'price-current on-sale' : 'price-current'}>{formatPrice(current)}</span>{onSale && regular !== null && <span class="price-regular-strike">{formatPrice(regular)}</span>}{onSale && off > 0 && <span class="off-badge">-{off}%</span>}</div>
+            <div class="product-signals">{rarity && <span data-rarity={rarity.type} title={rarity.full}>{rarity.text}</span>}{chips.map(chip => <span>{chip}</span>)}</div>
+            <div class="cta-row"><a href={pbLink(entry.pb_url, 'chan=trk', { medium: 'tracker', campaign: 'plugin-prices', data1: slug })} class="cta-primary" target="_blank" rel="noopener sponsored" data-slug={slug} data-hero-cta>{isSearchUrl(entry.pb_url) ? 'Find current price' : 'Check current price'}</a><a href="#price-history" class="cta-secondary">See full history</a></div>
+            <p class="last-checked">{checkedLabel}</p>
           </div>
-        )}
-
-        <div class="price-row">
-          <span class={onSale ? 'price-current on-sale' : 'price-current'}>{formatPrice(current)}</span>
-          {onSale && regular !== null && (
-            <span class="price-regular-strike">{formatPrice(regular)}</span>
-          )}
-          {onSale && off > 0 && <span class="off-badge">-{off}%</span>}
         </div>
-        <p class="last-checked">{checkedLabel}</p>
-        <PriceStatTiles tiles={statTiles} />
+        {publishedHub && <a class="category-link" href={`/best/${publishedHub.slug}/`}>Compare {publishedHub.label} plugins and guides</a>}
+      </section>
+      <PriceStatTiles tiles={statTiles} />
+      <NotableUsers records={(notableUsers as Record<string, any[]>)[notableKey] ?? []} brand={productBrand ?? ''} />
 
         {(() => {
           const cls = fableVerdict === 'BUY NOW' ? 'buy-now' : fableVerdict === 'FAIR SALE' ? 'fair-sale' : fableVerdict === 'AVERAGE' ? 'average' : 'wait';
@@ -879,16 +873,7 @@ const faqLD = {
           );
         })()}
 
-        <div class="cta-row">
-          <a
-            href={pbLink(entry.pb_url, 'chan=trk', { medium: 'tracker', campaign: 'plugin-prices', data1: slug })}
-            class="cta-primary"
-            target="_blank"
-            rel="noopener sponsored"
-            data-slug={slug}
-          >
-            {isSearchUrl(entry.pb_url) ? 'Find current price' : 'Check current price'}
-          </a>
+        <div class="watch-row">
           <div class="watch-alert-wrap" id="watch-alert-wrap">
             <button
               type="button"
@@ -913,20 +898,21 @@ const faqLD = {
             <p id="watch-msg" class="watch-msg" style="display:none"></p>
           </div>
         </div>
-      </section>
 
       {makerQuote && makerAttribution && copyLine.kind !== 'maker' && <section class="page-section" data-maker-quote><h2 class="section-title">What the maker says</h2><blockquote><q cite={makerQuote.source_url}>{makerQuote.quote}</q> — {makerAttribution}</blockquote><a href={makerQuote.source_url} rel="nofollow noopener" target="_blank">Source</a></section>}
 
       <section class="page-section" id="decision">
         <h2 class="section-title">Buy now or wait? — what our records show</h2>
+        <details class="decision-details"><summary>Read the price evidence</summary>
         {decisionAnswers.map(({ q, a }) => (<><h3>{q}</h3><p>{a}</p></>))}
         {researchNote && <p class="section-sub">{researchNote}</p>}
         {coverageLine && <p class="section-sub">{coverageLine}</p>}
+        </details>
       </section>
 
-      <section class="page-section">
+      <section class="page-section" id="price-history">
         <h2 class="section-title">Price History</h2>
-        <p class="section-sub">Every price point we've logged for {name} since we started tracking.</p>
+        <p class="section-sub">{series.length} logged price points for {name}{seenLow ? `, with a lowest tracked price of ${formatPrice(seenLow.price)}` : ''}.</p>
         {chartGeom ? (
           <div class="chart-card" id="price-chart-card">
             <svg
@@ -1132,9 +1118,11 @@ const faqLD = {
         </script>
       </section>
 
+      <ProductFacts facts={productFacts} />
       {saleRows.length > 0 && (
         <section class="page-section">
           <h2 class="section-title">Sales we tracked at Plugin Boutique</h2>
+          <details class="record-details"><summary>View tracked sale dates</summary>
           <p class="section-sub">Dates are our first and last on-sale checks; a sale can start before or end after them.{facts.confirmed.length > 0 && ' Rows marked "archived store page" come from a single saved copy of the Plugin Boutique page.'}</p>
           <div class="record-table-wrap">
             <table class="record-table">
@@ -1152,12 +1140,14 @@ const faqLD = {
               </tbody>
             </table>
           </div>
+          </details>
         </section>
       )}
 
       {facts.archive && (
         <section class="page-section">
           <h2 class="section-title">Prices shown on archived Plugin Boutique pages</h2>
+          <details class="record-details"><summary>View archived prices</summary>
           <p class="section-sub">The price the store page displayed when the Internet Archive saved it. It may be a sale price or the list price; the archive does not say which.{facts.archive.excluded.length > 0 && ` ${facts.archive.excluded.length} ${facts.archive.excluded.length === 1 ? 'snapshot' : 'snapshots'} in another or unknown currency ${facts.archive.excluded.length === 1 ? 'is' : 'are'} left out.`}</p>
           <div class="record-table-wrap">
             <table class="record-table">
@@ -1169,34 +1159,33 @@ const faqLD = {
               </tbody>
             </table>
           </div>
+          </details>
         </section>
       )}
 
       <AlternativesRail deals={peerDeals} />
-      {demoVideo && <section class="page-section" data-video-official={String(demoVideo.official === true)} data-video-id={demoVideo.video_id} data-video-title={demoVideo.title}>
-        <h2 class="section-title">Watch It In Action</h2>
-        <button type="button" data-demo-open data-video-id={demoVideo.video_id} title={demoVideo.title} class="video-play" style="display:flex;align-items:center;gap:1rem;width:100%;max-width:640px;padding:.5rem;border:1px solid var(--border);background:var(--bg-card);color:var(--text-primary);cursor:pointer;text-align:left"><img src={`https://img.youtube.com/vi/${demoVideo.video_id}/hqdefault.jpg`} alt="" width="480" height="360" loading="lazy" style="width:45%;height:auto;aspect-ratio:4/3;object-fit:cover" /><span>▶ {demoVideo.official === true ? 'Watch the official demo' : `Watch a demo (${demoVideo.channel})`}</span></button>
-      </section>}
+      {demoVideo && <section class="page-section demo-section" data-video-official={String(demoVideo.official === true)} data-video-id={demoVideo.video_id} data-video-title={demoVideo.title}><div id="demo-block" data-video-id={demoVideo.video_id} data-video-official={String(demoVideo.official === true)}><button id="demo-btn" type="button" data-demo-open data-video-id={demoVideo.video_id} title={demoVideo.title}>▶ Watch a demo</button></div></section>}
 
       {guides.length > 0 && (
         <section class="page-section">
           <h2 class="section-title">Guides featuring {name}</h2>
-          <ul class="guide-list">
+          <div class="guide-list">
             {guides.map((g) => (
-              <li class="guide-item">
-                <a href={`/posts/${g.slug}/`} class="guide-link">{g.title}</a>
-              </li>
+              <a href={`/posts/${g.slug}/`} class="guide-item">{g.image && <img src={g.image} alt="" width="480" height="300" loading="lazy" />}<span>{g.title}</span></a>
             ))}
-          </ul>
+          </div>
         </section>
       )}
 
       <section class="page-section">
         <h2 class="section-title">Observed sale episodes</h2>
+        <details class="record-details"><summary>View sale episodes</summary>
         {episodeDetails.length < MIN_SALE_EPISODES ? <p>Insufficient data for a sale pattern.</p> : <div class="record-table-wrap"><table class="record-table"><thead><tr><th>Episode</th><th>First seen</th><th>Last seen</th><th>Depth</th><th>Previous depth</th><th>Days since previous</th><th>Return to regular</th></tr></thead><tbody>{episodeDetails.map(item => <tr><td>{item.number}</td><td>{item.start}</td><td>{item.end}</td><td>{item.depth === null ? '—' : `${item.depth}%`}</td><td>{item.previousDepth === null ? '—' : `${item.previousDepth}%`}</td><td>{item.daysSincePrevious ?? '—'}</td><td>{item.returnDate ? `${formatPrice(item.returnPrice)} on ${item.returnDate}` : 'Not observed'}</td></tr>)}</tbody></table></div>}
+        </details>
       </section>
 
     </main>
+    <div class="sticky-buy" data-sticky-buy hidden><span class="sticky-name">{name}</span><strong>{formatPrice(current)}</strong><a href={pbLink(entry.pb_url, 'chan=trk', { medium: 'tracker', campaign: 'plugin-prices', data1: slug })} class="cta-primary" target="_blank" rel="noopener sponsored" data-slug={slug}>{isSearchUrl(entry.pb_url) ? 'Find current price' : 'Check current price'}</a></div>
     <Footer />
     <script src="/js/pip-preview.js" defer></script>
     <script is:inline>
@@ -1220,6 +1209,17 @@ const faqLD = {
           wrap.appendChild(iframe);
           demoBlock.parentNode.insertBefore(wrap, demoBlock.nextSibling);
         });
+      })();
+
+      // Show the mobile buy bar once the hero link scrolls above the viewport.
+      (function() {
+        var hero = document.querySelector('[data-hero-cta]');
+        var bar = document.querySelector('[data-sticky-buy]');
+        if (!hero || !bar || !('IntersectionObserver' in window)) return;
+        new IntersectionObserver(function(entries) {
+          var entry = entries[0];
+          bar.hidden = entry.isIntersecting || entry.boundingClientRect.top > 0;
+        }).observe(hero);
       })();
 
       // Watch alert toggle + submit
@@ -1287,3 +1287,49 @@ const faqLD = {
   </body>
 </html>
 <style>.product-showcase{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.2fr);align-items:center;gap:1.5rem;margin:1rem 0}.product-showcase img{width:100%;height:auto;aspect-ratio:16/10;object-fit:contain;background:#161a1a}.product-showcase h1{font-family:var(--font-display);font-size:clamp(1.7rem,3vw,2.7rem);line-height:1.13}.product-tagline{color:var(--text-secondary)}.product-signals{display:flex;gap:.4rem;flex-wrap:wrap}.product-signals span{padding:.25rem .4rem;background:var(--bg-low);color:var(--text-muted);font-size:.7rem}@media(max-width:680px){.product-showcase{grid-template-columns:1fr}}</style>
+<style is:global>
+  main#main-content .product-header{margin-bottom:.5rem}
+  main#main-content .product-showcase{grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:2rem;margin:0}
+  main#main-content .product-showcase .hero-image{max-height:380px;width:100%;object-fit:contain}
+  .hero-brand{font:700 .72rem var(--font-mono);letter-spacing:.12em;text-transform:uppercase;color:var(--accent)}
+  main#main-content .product-showcase h1{font:600 clamp(1.8rem,3vw,2.2rem)/1.12 var(--font-display);margin:.5rem 0}
+  .product-tagline{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;margin:.5rem 0 1rem}
+  .product-showcase .cta-row{margin-top:1rem}
+  .product-showcase .last-checked{margin:.7rem 0 0}
+  .category-link{display:inline-block;margin:.5rem 0;font-size:.78rem}
+  section.page-section{margin:1.25rem 0}
+  .decision-details summary,.record-details summary{cursor:pointer;color:var(--accent);font-size:.85rem;padding:.4rem 0}
+  .watch-row{margin:0 0 1rem}
+  .guide-list{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:.75rem}
+  .guide-item{display:block;flex:0 0 calc((100% - 2.25rem)/4);scroll-snap-align:start;min-width:0;border:1px solid var(--border);background:var(--bg-card);color:var(--text-primary);text-decoration:none}
+  .guide-item img{width:100%;height:150px;aspect-ratio:16/10;object-fit:cover;display:block}
+  .guide-item span{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden;padding:.75rem;font:600 .9rem/1.3 var(--font-display)}
+  .alternatives-list .new-deal-card{min-height:0;height:290px;overflow:hidden}
+  .alternatives-list .new-deal-card .card-art{height:145px;aspect-ratio:16/10}
+  .alternatives-list .new-deal-card .card-copy-line,.alternatives-list .new-deal-card .formats-line,.alternatives-list .new-deal-card .support-chip,.alternatives-list .new-deal-card .desktop-card-meta{display:none}
+  .demo-section button{width:100%;padding:.7rem 1rem;text-align:left;color:var(--accent);background:var(--bg-card);border:1px solid var(--border);cursor:pointer}
+  .sticky-buy{display:none}
+  @media(max-width:680px){
+    main#main-content{padding:.75rem .75rem 2rem}
+    main#main-content .breadcrumb{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;margin-bottom:.7rem}
+    main#main-content .product-showcase{display:flex;flex-direction:column;gap:.7rem;align-items:stretch}
+    main#main-content .product-showcase .hero-copy{display:contents}
+    .product-showcase .hero-brand{display:none}
+    main#main-content .product-showcase h1{order:0;font-size:1.65rem;margin:0}
+    .product-showcase .product-tagline{order:1;margin:0;font-size:.78rem}
+    .product-showcase .price-row{order:2;margin:0}
+    .product-showcase .product-signals{order:3}
+    .product-showcase .cta-row{order:4;margin:0}
+    .product-showcase .cta-row .cta-primary{width:100%}
+    .product-showcase .cta-row .cta-secondary{display:none}
+    main#main-content .product-showcase .hero-image{order:5;max-height:220px}
+    .product-showcase .last-checked{order:6;margin:0}
+    .chart-card .price-chart{min-height:240px}
+    .guide-list{display:flex;overflow-x:auto;scroll-snap-type:x mandatory}
+    .guide-item{flex:0 0 65%;scroll-snap-align:start}
+    .sticky-buy:not([hidden]){display:flex;align-items:center;gap:.5rem;position:fixed;z-index:100;bottom:0;left:0;right:0;padding:.55rem .75rem;background:var(--bg-card);border-top:1px solid var(--border)}
+    .sticky-name{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;flex:1;font-size:.75rem}
+    .sticky-buy strong{white-space:nowrap}
+    .sticky-buy .cta-primary{white-space:nowrap;padding:.55rem .65rem;font-size:.72rem}
+  }
+</style>

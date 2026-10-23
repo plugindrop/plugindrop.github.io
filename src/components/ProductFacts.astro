@@ -8,8 +8,8 @@ const source = facts?.source_url;
 ---
 {facts && (formats || mac || win) && <section class="product-facts" data-product-facts>
   <h2>Facts from the product page</h2>
-  <div class="fact-list">{formats && <p><strong>Formats:</strong>{' '}{formats}</p>}{mac && <p><strong>macOS:</strong>{' '}{mac}</p>}{win && <p><strong>Windows:</strong>{' '}{win}</p>}</div>
+  <dl class="fact-list">{formats && <div><dt>Formats</dt><dd>{formats}</dd></div>}{mac && <div><dt>macOS</dt><dd>{mac}</dd></div>}{win && <div><dt>Windows</dt><dd>{win}</dd></div>}</dl>
   {(facts.mac_req?.includes(';') || facts.win_req?.includes(';')) && <details><summary>Full system requirements</summary>{facts.mac_req && <p>macOS: {facts.mac_req}</p>}{facts.win_req && <p>Windows: {facts.win_req}</p>}</details>}
   {source && <p class="fact-source">Source: <a href={source} rel="nofollow noopener" target="_blank">Plugin Boutique product page</a>{facts.retrieved_on && `, retrieved ${facts.retrieved_on}`}</p>}
 </section>}
-<style>.product-facts{margin:1rem 0;padding:1rem;border:1px solid var(--border);border-radius:8px}.product-facts h2{font-size:1rem;margin:0 0 .6rem}.fact-list{display:flex;gap:.5rem 1.5rem;flex-wrap:wrap}.fact-list p{margin:0;font-size:.82rem}.product-facts details,.fact-source{font-size:.75rem;color:var(--text-muted);margin:.6rem 0 0}</style>
+<style>.product-facts{margin:1rem 0;padding:1rem;border:1px solid var(--border);border-radius:8px}.product-facts h2{font-size:1rem;margin:0 0 .6rem}.fact-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.5rem 1.5rem;margin:0}.fact-list div{min-width:0}.fact-list dt{font:.7rem var(--font-mono);color:var(--text-muted)}.fact-list dd{margin:.1rem 0 0;font-size:.82rem}.product-facts details,.fact-source{font-size:.75rem;color:var(--text-muted);margin:.6rem 0 0}</style>
