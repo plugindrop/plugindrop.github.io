@@ -30802,6 +30802,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-30"
+        },
+        {
+          "date": "2026-10-23",
+          "sale": 289.0,
+          "regular": 778.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/excite-audio-bundle-crossgrade-from-any-excite-audio-product.jpg",
