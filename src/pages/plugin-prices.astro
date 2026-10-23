@@ -2,12 +2,8 @@
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
-import DealCard from '../components/DealCard.astro';
 import { SITE_TITLE } from '../consts';
 import priceData from '../data/price_history.json';
-import dealCopy from '../data/deal_copy.json';
-import videos from '../data/product_videos.json';
-import { buildDealPool, toCardModel } from '../lib/homeDeals.mjs';
 import { siteStats } from '../lib/siteStats.mjs';
 import { inferCategory } from '../lib/categoryInference.mjs';
 import { dealScoreNumeric, isSearchUrl, sparklinePoints, pbLink } from '../lib/priceUtils';
@@ -26,6 +22,7 @@ interface HistoryEntry {
   sale: number | null;
   source: string;
   reg_src?: string;
+  until?: string;
 }
 
 interface BundleData {
@@ -36,6 +33,7 @@ interface BundleData {
   notes?: string;
   category?: string;
   history: HistoryEntry[];
+  image?: string;
 }
 
 interface PriceData {
@@ -164,6 +162,7 @@ interface Row {
   pts: string | null;
   lowestDate: string | null;
   searchText: string;
+  ends: string | null;
 }
 
 function buildRow(name: string, bundle: BundleData, isBundleSection: boolean): Row {
@@ -185,6 +184,7 @@ function buildRow(name: string, bundle: BundleData, isBundleSection: boolean): R
     pts: sparklinePoints(bundle.history),
     lowestDate: findLowestDate(bundle),
     searchText: `${name} ${developer ?? ''} ${bundle.notes ?? ''}`.toLowerCase(),
+    ends: [...bundle.history].reverse().find((h) => h.until && h.until >= last_updated)?.until ?? null,
   };
 }
 
@@ -199,9 +199,6 @@ const bundleRows = Object.entries(bundles)
   .sort((a, b) => b.off - a.off);
 
 const allRows = [...pluginRows, ...bundleRows];
-const cardEntries = { ...priceData.bundles, ...priceData.plugins };
-const cardNow = Date.now();
-const featuredCards = buildDealPool(cardEntries, [], cardNow).map(deal => toCardModel(deal, { entries: cardEntries, priceData, now: cardNow, videos, copy: dealCopy })).filter(card => card.image.src).slice(0, 8);
 const stats = siteStats(priceData);
 const totalTracked = allRows.length;
 const categoryCounts = new Map<string, number>();
@@ -236,20 +233,20 @@ const pageLD = {
     />
     <script type="application/ld+json" set:html={JSON.stringify(pageLD)} />
     <style>
-      main { max-width: 1100px; margin: 0 auto; padding: 2rem 1rem; }
+      main { max-width: 1360px; margin: 0 auto; padding: .3rem 1rem; }
 
-      .page-header { margin-bottom: 1.5rem; max-width: 720px; }
+      .page-header { margin-bottom: .35rem; max-width: 720px; }
       .page-header h1 { font-size: 1.8rem; font-weight: 800; margin: 0 0 0.6rem; line-height: 1.2; }
       .page-header .subtitle { color: var(--text-secondary); font-size: 0.95rem; line-height: 1.6; margin: 0 0 0.4rem; }
-      .page-header .meta { font-size: 0.78rem; color: var(--text-muted); }
+      .page-header .meta { display:none; font-size: 0.78rem; color: var(--text-muted); }
       .page-header .meta a { color: var(--accent); }
 
       /* Stat chips */
-      .stats-row { display: flex; flex-wrap: wrap; gap: 0.75rem; margin: 1.25rem 0 2.25rem; }
+      .stats-row { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: .1rem 0 .2rem; }
       .stat-chip {
         display: flex; align-items: center; gap: 0.65rem;
-        background: var(--bg-card); border: 1px solid var(--border);
-        padding: 0.6rem 1rem; border-radius: 8px;
+        background: transparent; border: 0;
+        padding: 0 .7rem 0 0; border-radius: 0;
       }
       .stat-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--accent); flex-shrink: 0; }
       .stat-dot.sale { background: var(--sale-text); }
@@ -260,8 +257,8 @@ const pageLD = {
       }
 
       h2.section-title {
-        font-size: 1.1rem; font-weight: 800; margin: 0 0 1rem; color: var(--text-primary);
-        padding-top: 0.5rem;
+        font-size: 1.1rem; font-weight: 800; margin: 0 0 .3rem; color: var(--text-primary);
+        padding-top: 0;
       }
 
       /* Toolbar: search + active filters */
@@ -270,13 +267,13 @@ const pageLD = {
         top: 0;
         z-index: 5;
         background: var(--bg-base);
-        padding: 0.85rem 0 1rem;
-        margin: 0 0 1.75rem;
+        padding: 0.35rem 0;
+        margin: 0 0 .5rem;
         border-bottom: 1px solid var(--border);
       }
       .search-wrap {
         display: flex; align-items: center; gap: 0.85rem; flex-wrap: wrap;
-        margin-bottom: 0.85rem;
+        margin-bottom: 0.4rem;
       }
       .search-input {
         flex: 1 1 260px; min-width: 200px;
@@ -286,7 +283,7 @@ const pageLD = {
       .search-input::placeholder { color: var(--text-muted); }
       .search-input:focus { outline: none; border-color: var(--accent-border-hover); }
       .search-count { font-size: 0.75rem; color: var(--text-muted); white-space: nowrap; }
-      .search-updated { font-size: 0.75rem; color: var(--text-muted); white-space: nowrap; }
+      .search-updated { display:none; font-size: 0.75rem; color: var(--text-muted); white-space: nowrap; }
 
       .active-filter-row { display: flex; align-items: center; flex-wrap: wrap; gap: 0.5rem; }
       .active-filter-row[hidden] { display: none; }
@@ -310,10 +307,10 @@ const pageLD = {
 
       /* Faceted tracker layout */
       .tracker-layout {
-        display: grid; grid-template-columns: 220px minmax(0, 1fr);
+        display: grid; grid-template-columns: minmax(0, 1fr);
         gap: 1.5rem; align-items: start;
       }
-      .tracker-sidebar {
+      .tracker-sidebar { display: none;
         position: sticky; top: 6rem; max-height: calc(100vh - 7rem); overflow-y: auto;
         border: 1px solid var(--border); background: var(--bg-low); border-radius: var(--radius);
       }
@@ -371,10 +368,10 @@ const pageLD = {
         border: 1px solid var(--border);
         border-radius: 10px;
         background: var(--bg-card);
-        margin-bottom: 3rem;
+        margin-bottom: 1rem;
         -webkit-overflow-scrolling: touch;
       }
-      .ledger-table { width: 100%; min-width: 700px; border-collapse: collapse; font-size: 0.85rem; }
+      .ledger-table { width: 100%; min-width: 700px; border-collapse: collapse; font-size: 0.78rem; }
       .ledger-table thead th {
         text-align: left; padding: 0.65rem 1rem; background: var(--bg-low);
         color: var(--text-muted); font-size: 0.68rem; text-transform: uppercase;
@@ -398,7 +395,7 @@ const pageLD = {
       .ledger-table tbody tr:nth-child(even) { background: rgba(255, 255, 255, 0.015); }
       .ledger-table tbody tr:hover { background: var(--bg-card-hover); }
       .ledger-table tbody tr.is-sale td:first-child { box-shadow: inset 3px 0 0 var(--sale-text); }
-      .ledger-table td { padding: 0.75rem 1rem; vertical-align: middle; color: var(--text-secondary); }
+      .ledger-table td { padding: 0 .4rem; vertical-align: middle; color: var(--text-secondary); }
 
       .mono {
         font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
@@ -424,7 +421,7 @@ const pageLD = {
       .off-badge {
         display: inline-block; padding: 0.15rem 0.55rem; border-radius: 4px;
         background: var(--sale-bg); color: var(--sale-text);
-        font-weight: 700; font-size: 0.78rem; white-space: nowrap;
+        font-weight: 700; font-size: 0.72rem; white-space: nowrap;
       }
       .off-none { color: var(--text-muted); }
 
@@ -447,9 +444,7 @@ const pageLD = {
       .vchip-fair { color: #facc15; }
       .vchip-avg  { color: var(--text-muted); }
       .score-none { color: var(--text-muted); }
-      .score-legend {
-        margin: 0.75rem 0; color: var(--text-muted); font-size: 0.7rem;
-      }
+      .score-legend { display:none; }
 
       .spark-svg { display: block; }
       .spark-placeholder { color: var(--text-muted); font-size: 0.85rem; }
@@ -460,7 +455,7 @@ const pageLD = {
 
       .cta-btn-sm {
         display: inline-block; padding: 0.4rem 0.85rem; border-radius: 6px;
-        background: var(--accent-muted); color: var(--accent-light);
+        background: transparent; color: var(--accent); border: 1px solid var(--accent);
         text-decoration: none; font-size: 0.78rem; font-weight: 700; white-space: nowrap;
         transition: background 0.15s, color 0.15s;
       }
@@ -504,6 +499,61 @@ const pageLD = {
         .stat-chip { padding: 0.5rem 0.75rem; }
         .facet-body { grid-template-columns: 1fr; }
       }
+      .quick-filters, .tracker-presets { display:flex; align-items:center; flex-wrap:wrap; gap:.45rem; }
+      .tracker-toolbar { display:flex; align-items:center; gap:.7rem; }
+      .search-wrap { flex:1 1 300px; min-width:250px; margin:0; }
+      .quick-filters { flex:none; }
+      .search-count { display:none; }
+      .quick-filters label { color:var(--text-muted); font:.68rem var(--font-mono); }
+      .quick-filters select { margin-left:.2rem; padding:.4rem; background:var(--bg-card); border:1px solid var(--border); color:var(--text-primary); font:inherit; }
+      .quick-filters .sale-toggle { display:flex; align-items:center; gap:.25rem; color:var(--text-primary); }
+      .tracker-presets { margin-bottom:.35rem; }
+      .tracker-presets button { padding:.45rem .7rem; border:1px solid var(--border); background:var(--bg-card); color:var(--text-secondary); font:.7rem var(--font-mono); cursor:pointer; }
+      .tracker-presets button[aria-pressed="true"] { border-color:var(--accent); color:var(--accent); }
+      .ledger-thumb { float:left; width:96px; height:60px; object-fit:cover; margin-right:.55rem; background:var(--bg-low); }
+      .ledger-brand, .ends-label, .history-link { display:block; font-size:.65rem; color:var(--text-muted); }
+      .history-link { color:var(--accent); margin-top:.2rem; }
+      .ends-label { margin-top:.3rem; white-space:nowrap; }
+      .plugin-notes { display:none; }
+      .cat-tag { margin-top:.1rem; }
+      .tracker-more { display:block; margin:0 auto 1rem; padding:.6rem 1rem; border:1px solid var(--accent); color:var(--accent); background:transparent; cursor:pointer; }
+      .tracker-more[hidden] { display:none; }
+      .ledger-table th:nth-child(5), .ledger-table td:nth-child(5), .ledger-table th:nth-child(6), .ledger-table td:nth-child(6) { display:none; }
+      .ledger-table tbody tr.ledger-row { height:60px; }
+      .ledger-thumb { height:60px; }
+      .tracker-links { margin:.5rem 0; color:var(--text-secondary); }
+      .tracker-links a { color:var(--accent); margin-right:.7rem; white-space:nowrap; }
+      @media(max-width:700px) {
+        main { overflow-x:hidden; }
+        .tracker-toolbar { display:block; }
+        .search-wrap { min-width:0; margin-bottom:.4rem; }
+        .stats-row { gap:.3rem; }
+        .stat-chip { padding:.3rem .4rem; }
+        .stat-value { font-size:.75rem; }
+        .tracker-presets { flex-wrap:nowrap; overflow-x:auto; }
+        .tracker-presets button { flex:none; }
+        .quick-filters select { max-width:130px; }
+        .tracker-toolbar { position:sticky; }
+        .ledger-wrap { overflow:visible; border:0; background:transparent; }
+        .ledger-table { min-width:0; display:block; }
+        .ledger-table thead { display:none; }
+        .ledger-table tbody { display:block; }
+        .ledger-table tbody tr.ledger-row { display:grid; grid-template-columns: minmax(0,1fr) 105px; height:auto; gap:.1rem .3rem; margin-bottom:.3rem; padding:.35rem; border:1px solid var(--border); background:var(--bg-card); }
+        .ledger-table tbody tr.ledger-row[style*="display: none"] { display:none; }
+        .ledger-table td { padding:.1rem; }
+        .ledger-table td:first-child { grid-column:1 / -1; min-height:56px; min-width:0; }
+        .ledger-table td:nth-child(2) { grid-column:1; grid-row:2; }
+        .ledger-table td:nth-child(3) { grid-column:1; grid-row:3; }
+        .ledger-table td:nth-child(4) { grid-column:2; grid-row:2; }
+        .ledger-table td:nth-child(5), .ledger-table td:nth-child(6) { display:none; }
+        .ledger-table td:nth-child(7) { grid-column:1; grid-row:4; }
+        .ledger-table td:nth-child(8) { grid-column:2; grid-row:3 / 5; }
+        .ledger-table .ends-label { white-space:normal; font-size:.58rem; }
+        .ledger-table .plugin-name-link { overflow-wrap:anywhere; }
+        .ledger-thumb { width:88px; height:56px; }
+        .plugin-name-link { font-size:.83rem; }
+        .stats-row { margin-bottom:.5rem; }
+      }
     </style>
   </head>
   <body>
@@ -522,13 +572,12 @@ const pageLD = {
         </p>
       </div>
 
-      {featuredCards.length > 0 && <section class="featured-deals"><h2>On sale now</h2><div class="featured-grid">{featuredCards.map(card => <DealCard deal={card} />)}</div></section>}
 
       <div class="stats-row">
         <div class="stat-chip">
           <span class="stat-dot"></span>
           <div>
-            <p class="stat-label">Plugins Tracked</p>
+            <p class="stat-label">Products Tracked</p>
             <p class="stat-value">{totalTracked}</p>
           </div>
         </div>
@@ -554,18 +603,30 @@ const pageLD = {
             type="search"
             id="plugin-search"
             class="search-input"
-            placeholder="Search plugins, developers, notes…"
+            placeholder="Search name or brand…"
             aria-label="Search tracked plugins"
             autocomplete="off"
           />
           <span class="search-count" id="search-count">Showing {totalTracked} of {totalTracked}</span>
           <span class="search-updated">Last updated {last_updated}</span>
         </div>
+        <div class="quick-filters">
+          <label>Category <select id="tracker-category"><option value="all">All categories</option>{CATEGORIES.filter(cat => cat !== 'All').map(cat => <option value={cat.toLowerCase()}>{cat}</option>)}</select></label>
+          <label>Brand <select id="tracker-brand"><option value="">All brands</option>{developers.slice().sort((a,b) => b.count - a.count).slice(0, 20).map(brand => <option value={brand.name}>{brand.name}</option>)}</select></label>
+          <label>Sort <select id="tracker-sort"><option value="off">Biggest discount</option><option value="price">Lowest price</option><option value="ends">Ending soonest</option><option value="name">A–Z</option></select></label>
+          <label class="sale-toggle"><input id="tracker-sale" type="checkbox" /> On sale only</label>
+        </div>
         <div class="active-filter-row" id="active-filters" aria-label="Active filters" hidden>
           <span class="active-filter-label">Active</span>
           <div class="active-filter-row" id="active-filter-chips"></div>
           <button type="button" class="clear-filters" id="clear-filters">Clear all</button>
         </div>
+      </div>
+
+      <div class="tracker-presets" aria-label="Price tracker views">
+        <button type="button" data-preset="drops" aria-pressed="true">Biggest drops</button>
+        <button type="button" data-preset="low">Matches lowest tracked</button>
+        <button type="button" data-preset="ending">Ending soon</button>
       </div>
 
       <div class="tracker-layout">
@@ -644,11 +705,11 @@ const pageLD = {
               <th data-sort="score">Score</th>
               <th>Trend</th>
               <th data-sort="low">Lowest Tracked</th>
-              <th></th>
+              <th data-sort="ends">Ends / Deal</th>
             </tr>
           </thead>
           <tbody>
-            {pluginRows.map((row) => (
+            {pluginRows.map((row, index) => (
               <tr
                 class={row.currentIsSale ? 'ledger-row is-sale' : 'ledger-row'}
                 data-category={row.category}
@@ -659,8 +720,12 @@ const pageLD = {
                 data-off={row.off}
                 data-score={row.dealScore.verdict === 'none' ? '' : row.dealScore.score}
                 data-low={row.bundle.all_time_low ?? ''}
+                data-ends={row.ends ?? ''}
+                data-sale={row.currentIsSale && row.off > 0 ? 'true' : 'false'}
               >
                 <td>
+                  {row.bundle.image && <img class="ledger-thumb" src={row.bundle.image} width="96" height="60" loading={index < 12 ? 'eager' : 'lazy'} decoding="async" alt="" />}
+                  <span class="ledger-brand mono">{row.developer ?? '—'}</span>
                   <a
                     href={`/plugin-prices/${row.slug}/`}
                     class="plugin-name-link"
@@ -669,6 +734,7 @@ const pageLD = {
                   </a>
                   {row.bundle.notes && <div class="plugin-notes">{row.bundle.notes}</div>}
                   <div class="cat-tag">{row.category}</div>
+                  <a class="history-link" href={`/plugin-prices/${row.slug}/`}>History</a>
                 </td>
                 <td class="mono">
                   <span class={row.currentIsSale ? 'price-current on-sale' : 'price-current'}>
@@ -742,6 +808,7 @@ const pageLD = {
                   >
                     Get deal
                   </a>
+                  <span class="ends-label">{row.ends ? `Ends ${row.ends}` : 'End date unavailable'}</span>
                 </td>
               </tr>
             ))}
@@ -764,7 +831,7 @@ const pageLD = {
               <th data-sort="score">Score</th>
               <th>Trend</th>
               <th data-sort="low">Lowest Tracked</th>
-              <th></th>
+              <th data-sort="ends">Ends / Deal</th>
             </tr>
           </thead>
           <tbody>
@@ -779,8 +846,12 @@ const pageLD = {
                 data-off={row.off}
                 data-score={row.dealScore.verdict === 'none' ? '' : row.dealScore.score}
                 data-low={row.bundle.all_time_low ?? ''}
+                data-ends={row.ends ?? ''}
+                data-sale={row.currentIsSale && row.off > 0 ? 'true' : 'false'}
               >
                 <td>
+                  {row.bundle.image && <img class="ledger-thumb" src={row.bundle.image} width="96" height="60" loading="lazy" decoding="async" alt="" />}
+                  <span class="ledger-brand mono">{row.developer ?? '—'}</span>
                   <a
                     href={`/plugin-prices/${row.slug}/`}
                     class="plugin-name-link"
@@ -789,6 +860,7 @@ const pageLD = {
                   </a>
                   {row.bundle.notes && <div class="plugin-notes">{row.bundle.notes}</div>}
                   <div class="cat-tag">{row.category}</div>
+                  <a class="history-link" href={`/plugin-prices/${row.slug}/`}>History</a>
                 </td>
                 <td class="mono">
                   <span class={row.currentIsSale ? 'price-current on-sale' : 'price-current'}>
@@ -862,6 +934,7 @@ const pageLD = {
                   >
                     Get deal
                   </a>
+                  <span class="ends-label">{row.ends ? `Ends ${row.ends}` : 'End date unavailable'}</span>
                 </td>
               </tr>
             ))}
@@ -874,7 +947,12 @@ const pageLD = {
         </div>
       </div>
 
-      <div class="footer-note">
+      <button id="tracker-more" class="tracker-more" type="button">Show 50 more</button>
+      <details class="tracker-links"><summary>Browse categories and brands</summary>
+        <p>Categories: {CATEGORIES.filter(cat => cat !== 'All').map(cat => <a href={`/best/${cat.toLowerCase()}/`}>{cat}</a>)}</p>
+        <p>Brands: {developers.filter(brand => brand.count >= 3).map(brand => <a href={`/brands/${slugifyProduct(brand.name)}/`}>{brand.name}</a>)}</p>
+      </details>
+      <details class="footer-note"><summary>How price tracking works</summary>
         <p>
           <strong>How this works:</strong> Prices are checked weekly via Plugin Boutique and logged automatically.
           "Regular" and "Current" reflect the most recent check. "Lowest tracked" is the lowest price we have
@@ -890,7 +968,7 @@ const pageLD = {
           <a href="/about/#affiliate" style="color: var(--accent);">Affiliate disclosure</a> &nbsp;|&nbsp;
           <a href="/bundle-comparison/" style="color: var(--accent);">Compare bundles by $/plugin</a>
         </p>
-      </div>
+      </details>
     </main>
     <Footer />
     <script>
@@ -906,6 +984,18 @@ const pageLD = {
         const clearFilters = document.getElementById('clear-filters');
         const filterSummaryCount = document.getElementById('filter-summary-count');
         const tables = Array.from(document.querySelectorAll('.ledger-table'));
+        const rowCache = new Map(tables.map(table => {
+          const rows = Array.from(table.querySelectorAll('tbody > tr.ledger-row'));
+          rows.forEach(row => row.remove());
+          return [table, rows];
+        }));
+        const categorySelect = document.getElementById('tracker-category');
+        const brandSelect = document.getElementById('tracker-brand');
+        const sortSelect = document.getElementById('tracker-sort');
+        const saleToggle = document.getElementById('tracker-sale');
+        const presetButtons = Array.from(document.querySelectorAll('[data-preset]'));
+        let activePreset = 'drops';
+        let visibleLimit = 12;
         let activeCategory = 'all';
         const activeDevelopers = new Set();
         let minScore = 0;
@@ -917,7 +1007,7 @@ const pageLD = {
         }
 
         function getDataRows(table) {
-          return Array.from(table.querySelectorAll('tbody > tr.ledger-row'));
+          return rowCache.get(table) || [];
         }
 
         function categoryInputs() {
@@ -978,6 +1068,9 @@ const pageLD = {
 
           tables.forEach((table) => {
             const rows = getDataRows(table);
+            const tbody = table.querySelector('tbody');
+            rows.forEach(row => row.remove());
+            const fragment = document.createDocumentFragment();
             let visibleInTable = 0;
             rows.forEach((row) => {
               totalAll++;
@@ -989,14 +1082,19 @@ const pageLD = {
               const matchesDevelopers = Array.from(activeDevelopers).every((selected) => developer === selected);
               const matchesScore = minScore === 0 || (score !== null && score >= minScore);
               const matchesSearch = q === '' || search.indexOf(q) !== -1;
-              const visible = matchesCategory && matchesDevelopers && matchesScore && matchesSearch;
-              row.style.display = visible ? '' : 'none';
+              const matchesQuickCategory = !categorySelect || categorySelect.value === 'all' || cat === categorySelect.value;
+              const matchesBrand = !brandSelect || !brandSelect.value || developer === brandSelect.value;
+              const matchesSale = !saleToggle || !saleToggle.checked || row.dataset.sale === 'true';
+              const matchesPreset = activePreset === 'drops' || (activePreset === 'low' && row.dataset.low !== '' && row.dataset.price === row.dataset.low) || (activePreset === 'ending' && row.dataset.ends !== '');
+              const visible = matchesCategory && matchesDevelopers && matchesScore && matchesSearch && matchesQuickCategory && matchesBrand && matchesSale && matchesPreset;
+              if (visible && totalVisible < visibleLimit) fragment.appendChild(row);
               if (visible) {
                 visibleInTable++;
                 totalVisible++;
               }
             });
             const noResultsRow = table.querySelector('.no-results-row');
+            tbody.insertBefore(fragment, noResultsRow);
             if (noResultsRow) {
               noResultsRow.style.display = visibleInTable === 0 ? '' : 'none';
             }
@@ -1005,8 +1103,26 @@ const pageLD = {
           if (countLabel) {
             countLabel.textContent = `Showing ${totalVisible} of ${totalAll}`;
           }
+          const more = document.getElementById('tracker-more');
+          if (more) more.hidden = totalVisible <= visibleLimit;
           renderActiveFilters();
         }
+
+        [categorySelect, brandSelect, saleToggle].forEach(control => control?.addEventListener('change', () => { visibleLimit = 12; applyFilters(); }));
+        sortSelect?.addEventListener('change', () => {
+          const key = sortSelect.value;
+          tables.forEach(table => sortTable(table, key, key === 'name' || key === 'price' || key === 'ends' ? 'asc' : 'desc'));
+          visibleLimit = 12;
+          applyFilters();
+        });
+        presetButtons.forEach(button => button.addEventListener('click', () => {
+          activePreset = button.dataset.preset;
+          presetButtons.forEach(item => item.setAttribute('aria-pressed', String(item === button)));
+          if (activePreset === 'drops') sortSelect.value = 'off';
+          if (activePreset === 'ending') sortSelect.value = 'ends';
+          sortSelect.dispatchEvent(new Event('change'));
+        }));
+        document.getElementById('tracker-more')?.addEventListener('click', () => { visibleLimit += 50; applyFilters(); });
 
         if (searchInput) {
           searchInput.addEventListener('input', applyFilters);
@@ -1157,7 +1273,7 @@ const pageLD = {
           const noResultsRow = table.querySelector('.no-results-row');
 
           function getValue(row) {
-            if (key === 'name') return row.getAttribute('data-name') || '';
+            if (key === 'name' || key === 'ends') return row.getAttribute('data-' + key) || '';
             return parseNum(row.getAttribute('data-' + key));
           }
 
@@ -1165,7 +1281,8 @@ const pageLD = {
             const va = getValue(a);
             const vb = getValue(b);
 
-            if (key === 'name') {
+            if (key === 'name' || key === 'ends') {
+              if (key === 'ends' && (!va || !vb)) return !va ? 1 : -1;
               return dir === 'asc' ? va.localeCompare(vb) : vb.localeCompare(va);
             }
 
@@ -1177,7 +1294,7 @@ const pageLD = {
             return dir === 'asc' ? va - vb : vb - va;
           });
 
-          rows.forEach((row) => tbody.insertBefore(row, noResultsRow || null));
+          rowCache.set(table, rows);
         }
 
         document.querySelectorAll('.ledger-table thead th[data-sort]').forEach((th) => {
@@ -1195,6 +1312,7 @@ const pageLD = {
             th.classList.add(nextDir === 'asc' ? 'sorted-asc' : 'sorted-desc');
 
             sortTable(table, key, nextDir);
+            applyFilters();
           });
         });
 
@@ -1203,4 +1321,3 @@ const pageLD = {
     </script>
   </body>
 </html>
-<style>.featured-deals{margin:2rem 0}.featured-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:.7rem}@media(max-width:800px){.featured-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}</style>
