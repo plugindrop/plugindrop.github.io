@@ -15,9 +15,11 @@ const external = /^https?:/.test(deal.href);
       {variant === 'ended' ? <div class="signal-row"><span class="signal ended-tag">Sale ended {deal.endedDate ?? ''}</span></div> : (deal.urgency || deal.rarity) && <div class="signal-row">{deal.urgency && <span class="signal urgency">{deal.urgency.text}</span>}{deal.rarity && <span class="signal rarity" title={deal.rarity.full}>{deal.rarity.text}<span class="sr-only">: {deal.rarity.full}</span></span>}</div>}
       {deal.copyLine?.kind === 'tagline' && <p class="card-copy-line" data-copy-kind="tagline">{deal.copyLine.text}</p>}
       {deal.copyLine?.kind === 'maker' && deal.copyLine.attribution && <p class="card-copy-line" data-copy-kind="maker_quote"><q cite={deal.copyLine.cite}>{deal.copyLine.text}</q><span class="copy-attribution">— {deal.copyLine.attribution}</span></p>}
-      <h3 class:list={[variant === 'spotlight' && !deal.copyLine?.text && 'spotlight-name-heading']}>{deal.brand ? <>{deal.brand}{' '}<strong>{deal.product}</strong></> : <strong>{deal.product}</strong>}</h3>
-      <p class="price">{variant === 'ended' && <span>Last sale price</span>}<strong>{formatPrice(deal.current)}</strong>{variant !== 'ended' && <s>{formatPrice(deal.regular)}</s>}</p>
-      {variant === "spotlight" && deal.formats && <p class="formats-line" title={deal.formatsSource}>{deal.formats}</p>}{deal.chips[0] && <p class="support-chip">{deal.chips[0]}</p>}{variant === 'spotlight' && deal.chips[1] && <p class="support-chip">{deal.chips[1]}</p>}
+      {deal.brand && <span class="desktop-brand-label">{deal.brand}</span>}
+      <h3 class:list={[variant === 'spotlight' && !deal.copyLine?.text && 'spotlight-name-heading']}>{deal.brand ? <><span class="name-brand">{deal.brand}{' '}</span><strong>{deal.product}</strong></> : <strong>{deal.product}</strong>}</h3>
+      {variant !== 'ended' && <p class="desktop-card-meta"><span>{deal.brand ?? deal.category}</span>{deal.until && <span>Ends {new Date(`${deal.until}T00:00:00Z`).toLocaleDateString('en-US',{month:'short',day:'numeric',timeZone:'UTC'})}</span>}</p>}
+      <p class="price">{variant === 'ended' && <span>Last sale price</span>}<strong>{formatPrice(deal.current)}</strong>{variant !== 'ended' && deal.regular != null && <s>{formatPrice(deal.regular)}</s>}{variant === 'spotlight' && deal.regular != null && deal.current != null && deal.regular > deal.current && <span class="desktop-save">Save {formatPrice(deal.regular - deal.current)}</span>}</p>
+      {(variant === 'spotlight' || variant === 'row' || variant === 'grid') && deal.formats && <p class="formats-line" title={deal.formatsSource}>{deal.formats}</p>}{deal.chips[0] && <p class="support-chip">{deal.chips[0]}</p>}{variant === 'spotlight' && deal.chips[1] && <p class="support-chip">{deal.chips[1]}</p>}
     </div>
   </a>
   <a class="card-cta" aria-label={variant === 'row' ? `Get ${deal.key} for ${formatPrice(deal.current)}` : undefined} href={deal.ctaHref} target="_blank" rel="noopener sponsored">{variant === 'row' ? formatPrice(deal.current) : variant === 'ended' ? 'Check current price' : `Get it for ${formatPrice(deal.current)}`} <span aria-hidden="true">→</span></a>
@@ -32,4 +34,62 @@ const external = /^https?:/.test(deal.href);
   .variant-spotlight{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);align-items:stretch}.variant-spotlight .card-main{display:contents}.variant-spotlight .card-art{grid-row:1/4;aspect-ratio:auto;height:100%;min-height:0;align-self:stretch}.variant-spotlight .card-art img{object-fit:cover}.formats-line{margin:.25rem 0;font:.67rem var(--font-mono);color:var(--text-muted)}.variant-spotlight .card-copy{padding:1.5rem}.variant-spotlight h3{font:600 clamp(1.45rem,2.5vw,2.2rem)/1.13 var(--font-display)}.variant-spotlight .price strong{font-size:1.7rem}.variant-spotlight .card-cta{align-self:end;margin:0 1.5rem 1rem}.variant-spotlight .history-link{margin:-.5rem 1.5rem 1rem}.variant-compact{display:grid;grid-template-columns:96px minmax(0,1fr)}.variant-compact .card-main{display:contents}.variant-compact .card-art{grid-row:1/3;aspect-ratio:1}.variant-compact .card-copy{padding:.45rem .65rem}.variant-compact .card-copy h3{font-size:.78rem}.variant-compact .price{margin:.25rem 0 0}.variant-compact .price strong{font-size:.85rem}.variant-compact .off-tag{font-size:.8rem}.variant-compact .category-tag,.variant-compact .signal-row,.variant-compact .support-chip,.variant-compact .card-cta{display:none}
   @media(max-width:680px){.variant-spotlight{display:grid;grid-template-columns:40% minmax(0,1fr)}.variant-spotlight .card-main{display:contents}.variant-spotlight .card-art{grid-row:1/3;aspect-ratio:auto;width:100%;min-width:0;height:100%;min-height:120px;overflow:hidden}.variant-spotlight .card-copy{padding:.55rem}.variant-spotlight .card-copy-line{font-size:1rem}.variant-spotlight .card-copy h3{font-size:.9rem}.variant-spotlight .price strong{font-size:1.2rem}.variant-spotlight .card-cta{grid-column:1/-1;margin:0 .55rem .55rem;min-height:40px;align-items:center}.variant-spotlight .history-link{grid-column:1/-1;margin:0 .55rem .55rem}.variant-grid .card-copy{padding:.6rem}.variant-grid .card-copy h3{font-size:.79rem;line-height:1.25}.variant-grid .price strong{font-size:.95rem}.variant-grid .signal{font-size:.55rem}.variant-grid .card-cta,.variant-grid .support-chip{display:none}.variant-grid .off-tag{font-size:1.2rem}.variant-grid .category-tag{font-size:.53rem}.variant-grid .card-art{aspect-ratio:1.15}.variant-grid .card-copy{min-height:100px}}
   .variant-spotlight .card-copy-line{font:600 clamp(1.45rem,2.5vw,2.2rem)/1.13 var(--font-display)}.variant-spotlight h3{font:500 1.1rem/1.3 var(--font-body)}.variant-spotlight h3.spotlight-name-heading{font:600 clamp(1.45rem,2.5vw,2.2rem)/1.13 var(--font-display)}.card-copy-line[data-copy-kind="maker_quote"]{display:block;-webkit-line-clamp:unset;overflow:visible}.copy-attribution{display:block;margin-top:.2rem;font:500 .72rem/1.3 var(--font-body)}.variant-compact .card-copy-line,.variant-row .card-copy-line{-webkit-line-clamp:1}.variant-row{display:grid;grid-template-columns:64px minmax(0,1fr)}.variant-row .card-main{display:contents}.variant-row .card-art{grid-row:1/3;aspect-ratio:1}.variant-row .card-copy{padding:.35rem .55rem}.variant-row .card-copy h3{font-size:.85rem}.variant-row .price{margin:.2rem 0 0}.variant-row .price strong{font-size:.9rem}.variant-row .off-tag{font-size:.8rem}.variant-row .category-tag,.variant-row .support-chip,.variant-row .signal-row .rarity{display:none}.variant-row .card-cta{display:inline-flex;width:auto;justify-self:end;align-self:center;grid-column:2;margin:.1rem .5rem .35rem;padding:.2rem .4rem;background:transparent;color:var(--accent)}@media(max-width:680px){.variant-row .card-cta{display:none}}.variant-compact .card-copy-line{font-size:.78rem}
+</style>
+<style is:global>
+  .desktop-brand-label,.desktop-card-meta,.desktop-save,.variant-row .formats-line,.variant-grid .formats-line{display:none}
+  @media(max-width:680px){.variant-row .formats-line,.variant-grid .formats-line{display:none}}
+  @media(min-width:681px){
+    .home-main .new-deal-card{border-radius:2px;box-shadow:none;transition:transform .18s ease,border-color .18s ease}
+    .home-main .new-deal-card:hover{border-color:var(--accent);transform:translateY(-2px)}
+    .home-main .variant-spotlight{grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);height:min(440px,calc(100vh - 160px));min-height:350px}
+    .home-main .variant-spotlight .card-art{grid-row:1/4;background:#111918;max-height:440px}
+    .home-main .variant-spotlight .card-art img{object-fit:contain!important}
+    .home-main .variant-spotlight .card-copy{display:flex;flex-direction:column;align-items:flex-start;padding:1.4rem 1.6rem .4rem}
+    .home-main .variant-spotlight .desktop-brand-label{display:block;order:0;margin:.35rem 0 .3rem;color:var(--accent);font:700 .72rem var(--font-mono);letter-spacing:.12em;text-transform:uppercase}
+    .home-main .variant-spotlight .card-copy h3{order:1;margin:0;font:600 clamp(2rem,3vw,2.4rem)/1.06 var(--font-display)}
+    .home-main .variant-spotlight .name-brand{display:none}
+    .home-main .variant-spotlight .card-copy-line{order:2;margin:.8rem 0 .35rem;color:var(--text-secondary);font:italic 400 1rem/1.45 var(--font-display);display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;overflow:hidden}
+    .home-main .variant-spotlight .card-copy-line[data-copy-kind="maker_quote"]{display:block;overflow:visible}
+    .home-main .variant-spotlight .card-copy-line[data-copy-kind="maker_quote"] q{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;overflow:hidden}
+    .home-main .variant-spotlight .copy-attribution{font:400 .8rem/1.3 var(--font-body)}
+    .home-main .variant-spotlight .signal-row{order:3;margin:.45rem 0}
+    .home-main .variant-spotlight .formats-line{order:4;font-size:.72rem}
+    .home-main .variant-spotlight .support-chip{order:5;font-size:.72rem}
+    .home-main .variant-spotlight .price{order:6;margin:auto 0 .45rem;gap:.75rem}
+    .home-main .variant-spotlight .price strong{font-size:2rem;color:var(--accent)}
+    .home-main .variant-spotlight .price s{font-size:.85rem}
+    .home-main .variant-spotlight .desktop-save{display:inline;color:var(--sale-text);font:600 .8rem var(--font-body)}
+    .home-main .variant-spotlight .card-cta{margin:0 1.6rem .65rem;justify-content:center;font-size:.85rem}
+    .home-main .variant-spotlight .history-link{margin:0 1.6rem 1rem;font-size:.8rem}
+    .hot-grid .variant-row{display:grid;grid-template-columns:112px minmax(0,1fr);min-height:0;height:100%}
+    .hot-grid .variant-row .card-art{grid-row:1/3;width:112px;height:70px;aspect-ratio:16/10;align-self:center;margin-left:.6rem}
+    .hot-grid .variant-row .card-art img{object-fit:cover}
+    .hot-grid .variant-row .card-copy{display:flex;flex-direction:column;justify-content:center;min-width:0;padding:.4rem .65rem .4rem 1.2rem}
+    .hot-grid .variant-row .desktop-brand-label{display:block;font:700 .72rem var(--font-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+    .hot-grid .variant-row .name-brand,.hot-grid .variant-row .card-copy-line,.hot-grid .variant-row .signal-row,.hot-grid .variant-row .desktop-card-meta,.hot-grid .variant-row .card-cta{display:none}
+    .hot-grid .variant-row h3{font-size:1rem;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+    .hot-grid .variant-row .price{margin:.2rem 0 0;justify-content:flex-end}
+    .hot-grid .variant-row .price strong{font-size:1rem}
+    .hot-grid .variant-row .price s{font-size:.8rem}
+    .hot-grid .variant-row .off-tag{top:.35rem;right:.35rem;bottom:auto;font-size:.72rem;letter-spacing:0}
+    .home-deal-rail .variant-row,.sale-grid .variant-grid{display:flex;flex-direction:column;height:100%}
+    .home-deal-rail .variant-row .card-main,.sale-grid .variant-grid .card-main{display:flex;flex-direction:column;flex:1}
+    .home-deal-rail .variant-row .card-art,.sale-grid .variant-grid .card-art{width:100%;aspect-ratio:16/10;flex:none}
+    .home-deal-rail .variant-row .card-art img,.sale-grid .variant-grid .card-art img{object-fit:cover}
+    .home-deal-rail .variant-row .off-tag,.sale-grid .variant-grid .off-tag{top:.5rem;right:.5rem;bottom:auto;font-size:.8rem;letter-spacing:0}
+    .home-deal-rail .variant-row .card-copy,.sale-grid .variant-grid .card-copy{display:flex;flex-direction:column;flex:1;padding:.7rem .8rem .25rem;min-height:0}
+    .home-deal-rail .variant-row .desktop-card-meta,.sale-grid .variant-grid .desktop-card-meta{display:flex;order:0;justify-content:space-between;gap:.3rem;width:100%;margin:0 0 .45rem;color:var(--text-muted);font:500 .72rem var(--font-mono);text-transform:uppercase}
+    .home-deal-rail .variant-row .desktop-card-meta span:last-child,.sale-grid .variant-grid .desktop-card-meta span:last-child{white-space:nowrap}
+    .home-deal-rail .variant-row .card-copy h3,.sale-grid .variant-grid .card-copy h3{order:1;min-height:0;font:600 1.05rem/1.25 var(--font-body);display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}
+    .home-deal-rail .variant-row .name-brand,.sale-grid .variant-grid .name-brand{display:none}
+    .home-deal-rail .variant-row .formats-line,.sale-grid .variant-grid .formats-line{display:block;order:2;margin:.35rem 0 0;font:.72rem var(--font-mono);color:var(--text-muted)}
+    .home-deal-rail .variant-row .card-copy-line,.sale-grid .variant-grid .card-copy-line,.home-deal-rail .variant-row .signal-row,.sale-grid .variant-grid .signal-row,.home-deal-rail .variant-row .support-chip,.sale-grid .variant-grid .support-chip{display:none}
+    .home-deal-rail .variant-row .price,.sale-grid .variant-grid .price{order:4;margin:auto 0 0;padding:.75rem 0 .65rem;max-width:60%;gap:.3rem}
+    .home-deal-rail .variant-row .price strong,.sale-grid .variant-grid .price strong{font-size:1.1rem}
+    .home-deal-rail .variant-row .price s,.sale-grid .variant-grid .price s{font-size:.8rem}
+    .home-deal-rail .variant-row .card-cta,.sale-grid .variant-grid .card-cta{position:relative;align-self:flex-end;display:block;width:auto;margin:-2.7rem .8rem .7rem;padding:.45rem .7rem;border:1px solid var(--accent);background:transparent;color:var(--accent);font-size:0;line-height:1.2}
+    .home-deal-rail .variant-row .card-cta::before,.sale-grid .variant-grid .card-cta::before{content:'Get deal';font:700 .8rem var(--font-body)}
+    .home-deal-rail .variant-row .card-cta span,.sale-grid .variant-grid .card-cta span{font-size:.8rem}
+    .home-deal-rail .variant-row .card-cta:hover,.sale-grid .variant-grid .card-cta:hover{background:var(--accent);color:var(--bg-base)}
+  }
 </style>
