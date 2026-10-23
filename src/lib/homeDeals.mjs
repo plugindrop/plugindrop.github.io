@@ -99,7 +99,7 @@ export function brandSaleClusters(cards, entries = {}) {
 }
 export function clusterSummary(cards) {
   const discounts = cards.map(card => card.off).filter(off => Number.isFinite(off) && off > 0);
-  return { count: cards.length, min: discounts.length ? Math.min(...discounts) : null, max: discounts.length ? Math.max(...discounts) : null, minPrice: Math.min(...cards.map(card => card.current)) };
+  return { count: cards.length, min: discounts.length ? Math.min(...discounts) : null, max: discounts.length ? Math.max(...discounts) : null, ...(cards.some(card => Number.isFinite(card.current)) ? { minPrice: Math.min(...cards.filter(card => Number.isFinite(card.current)).map(card => card.current)) } : {}) };
 }
 export function allocateSections(cards, budget = 28) {
   const spotlight = cards.spotlight ?? null;
