@@ -14,8 +14,10 @@ export function aboveUsualState(entry, current, now) { const low = ownLowBefore(
 
 export function resolveCardImage({ post, entry, siblings = [] }) {
   const hero = post?.data?.heroImage;
-  if (post?.data?.aiImage !== true && typeof hero === 'string' && hero.startsWith('/images/') && !hero.includes('placeholder')) return { src: hero, large: entry?.image_lg ?? null, kind: 'article', aspect: '16/10' };
-  if (entry?.image) return { src: entry.image, large: entry.image_lg ?? null, kind: 'product', aspect: '16/10' };
+  const large = entry?.image_lg ?? null;
+  const largeContain = Boolean(large && Number.isFinite(Number(entry?.image_lg_width)) && Number(entry.image_lg_width) > 0 && Number(entry.image_lg_width) < 800);
+  if (post?.data?.aiImage !== true && typeof hero === 'string' && hero.startsWith('/images/') && !hero.includes('placeholder')) return { src: hero, large, largeContain, kind: 'article', aspect: '16/10' };
+  if (entry?.image) return { src: entry.image, large, largeContain, kind: 'product', aspect: '16/10' };
   const sibling = siblings.find(s => s?.image);
   if (sibling) return { src: sibling.image, kind: 'product', aspect: '16/10' };
   return { src: null, kind: 'typographic', aspect: '16/10' };

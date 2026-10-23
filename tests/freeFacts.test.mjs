@@ -1,6 +1,13 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { extractFacts, supported, articleProducts, verifiedCount, tableEligible, renderFacts } from '../scripts/build_free_facts.mjs';
+import { freeFactsLine } from '../src/lib/freeFacts.mjs';
+
+test('free facts line uses only present sourced values in license, formats, OS order', () => {
+  assert.equal(freeFactsLine({ license: { value: 'Free' }, formats: { value: 'VST3/AU' }, os: { value: 'macOS/Windows' } }), 'License: Free · Formats: VST3/AU · OS: macOS/Windows');
+  assert.equal(freeFactsLine({ license: null, formats: { value: 'VST3' }, os: null }), 'Formats: VST3');
+  assert.equal(freeFactsLine({ license: null, formats: null, os: null }), '');
+});
 
 test('comparison requires three verified fields for at least 60 percent of entries', () => {
   const complete = { facts: { license: { value: 'Free' }, os: { value: 'Windows 10' }, formats: { value: 'VST3' } } };

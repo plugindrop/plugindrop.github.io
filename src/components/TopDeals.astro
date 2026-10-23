@@ -1,4 +1,4 @@
-﻿---
+---
 import priceData from '../data/price_history.json';
 import dealCopy from '../data/deal_copy.json';
 import videos from '../data/product_videos.json';
@@ -6,7 +6,7 @@ import { buildDealPool, toCardModel } from '../lib/homeDeals.mjs';
 import DealCard from './DealCard.astro';
 const entries = { ...priceData.bundles, ...priceData.plugins };
 const now = Date.now();
-const cards = buildDealPool(entries, [], now).map(deal => toCardModel(deal, { entries, priceData, now, videos, copy: dealCopy })).sort((a,b) => Number(!!b.image.src)-Number(!!a.image.src) || b.score-a.score).slice(0,5);
+const cards = buildDealPool(entries, [], now).map(deal => toCardModel(deal, { entries, priceData, now, videos, copy: dealCopy })).sort((a,b) => b.score-a.score).slice(0,5);
 ---
 {cards.length > 0 && <aside class="deals-rail" aria-label="Plugin deals"><h2>On sale now</h2><div class="rail-cards">{cards.map(card => <DealCard deal={card} variant="compact" />)}</div><a class="rail-more" href="/plugin-prices/">See all tracked prices →</a></aside>}
 <style>.deals-rail{padding:1rem;background:var(--bg-card);border:1px solid var(--border);border-left:3px solid var(--accent)}.deals-rail h2{margin:0 0 .8rem;font-size:.85rem;text-transform:uppercase;letter-spacing:.07em}.rail-cards{display:grid;gap:.5rem}.rail-more{display:inline-block;margin-top:.8rem;color:var(--accent);font-size:.75rem}</style>

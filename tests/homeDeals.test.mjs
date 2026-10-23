@@ -1,6 +1,13 @@
 import { test } from 'node:test';
 import { strict as assert } from 'node:assert';
 import { buildDealPool, resolveCardImage, toCardModel, cardTarget, orderForVariety, aboveUsualState, pickSpotlight, endingSoon, brandSaleClusters, allocateSections, clusterSummary } from '../src/lib/homeDeals.mjs';
+
+test('large image carries contain hint only for narrow originals', () => {
+  const narrow = resolveCardImage({ entry: { image: '/images/card.jpg', image_lg: '/images/card-lg.jpg', image_lg_width: 640 } });
+  assert.equal(narrow.large, '/images/card-lg.jpg');
+  assert.equal(narrow.largeContain, true);
+  assert.equal(resolveCardImage({ entry: { image: '/images/card.jpg', image_lg: '/images/card-lg.jpg', image_lg_width: 800 } }).largeContain, false);
+});
 const now=Date.parse('2026-10-17T12:00:00Z');
 const entry=(id,image)=>({pb_url:`/product/1/2/${id}-product`,image,history:[{date:'2026-10-16',source:'auto_check',sale:20,regular:100}]});
 test('PB id dedupe and search URLs excluded',()=>{

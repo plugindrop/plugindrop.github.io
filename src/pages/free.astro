@@ -5,6 +5,7 @@ import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import FreeCard from '../components/FreeCard.astro';
+import GuideCard from '../components/GuideCard.astro';
 import { SITE_TITLE } from '../consts';
 import freeFacts from '../data/free_plugin_facts.json';
 
@@ -13,7 +14,7 @@ const freeImages: Record<string,string> = { Vital:'/images/heroes/vital.jpg', 'S
 const freeItems = Object.values(freeFacts.articles).flat()
 	.filter(item => /^https?:/.test(item.official_url ?? ''))
 	.filter((item, index, items) => items.findIndex(other => other.official_url === item.official_url) === index)
-	.map(item => ({ name: item.name, url: item.official_url, image: freeImages[item.name] ?? null }))
+	.map(item => ({ name: item.name, url: item.official_url, image: freeImages[item.name] ?? null, facts: item.facts }))
 	.slice(0, 12);
 const VERIFIED_GUIDES = Object.entries(freeFacts.articles).map(([slug, products]) => ({
 	slug,
@@ -21,56 +22,7 @@ const VERIFIED_GUIDES = Object.entries(freeFacts.articles).map(([slug, products]
 	count: products.filter(product => ['license', 'os', 'formats', 'version_date', 'registration'].filter(field => product.facts[field]).length >= 3).length,
 })).filter(guide => guide.count > 0);
 
-const GUIDE_ARTICLES = [
-	{
-		slug: 'best-free-vst-plugins-2026',
-		title: 'Best Free VST Plugins 2026',
-		description: 'Top free plugins across every category — synths, effects, drums, and more.',
-		emoji: '🎛️',
-	},
-	{
-		slug: 'best-free-synth-plugins',
-		title: 'Best Free Synth Plugins',
-		description: '14 professional-grade synths you can download right now for free.',
-		emoji: '🎹',
-	},
-	{
-		slug: 'best-free-daw-software-2026',
-		title: 'Best Free DAW 2026',
-		description: 'GarageBand, REAPER, LMMS — 8 full DAWs with no cost, ranked.',
-		emoji: '💻',
-	},
-	{
-		slug: 'best-free-drum-plugins',
-		title: 'Best Free Drum Plugins',
-		description: 'Free drum machines and samplers for any genre.',
-		emoji: '🥁',
-	},
-	{
-		slug: 'best-free-reverb-vst-plugins',
-		title: 'Best Free Reverb Plugins 2026',
-		description: '15 free reverb VSTs — from lush halls to classic plates.',
-		emoji: '🌊',
-	},
-	{
-		slug: 'vital-synthesizer-review-2026',
-		title: 'Vital Synth Review 2026',
-		description: 'Is the free wavetable synth really that good? Full breakdown.',
-		emoji: '⚡',
-	},
-	{
-		slug: 'best-free-tape-saturation-vst',
-		title: 'Best Free Tape Saturation VST 2026',
-		description: '8 free saturation & warmth plugins — from subtle glue to full-on tape crunch.',
-		emoji: '🎚️',
-	},
-	{
-		slug: 'best-free-choir-vst-plugins',
-		title: 'Best Free Choir VST Plugins 2026',
-		description: '8 free choir & vocal ensemble plugins — from realistic choirs to ethereal pads.',
-		emoji: '🎵',
-	},
-];
+const guidePosts = allPosts.filter(post => !post.data.draft && post.data.heroImage && post.data.aiImage !== true && post.id.startsWith("best-free-")).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()).slice(0, 8);
 
 
 function isFree(post: any): boolean {
@@ -178,12 +130,7 @@ const breadcrumbLD = {
 			<div class="guide-section">
 				<h2>Free plugin guides</h2>
 				<div class="guide-grid">
-					{GUIDE_ARTICLES.map(g => (
-						<a href={`/posts/${g.slug}/`} class="guide-card">
-							<p class="guide-title">{g.title}</p>
-							<p class="guide-desc">{g.description}</p>
-						</a>
-					))}
+					{guidePosts.map(post => <GuideCard post={post} />)}
 				</div>
 			</div>
 
