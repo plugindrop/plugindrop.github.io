@@ -84,8 +84,8 @@ const guides = posts.filter(p => !p.data.noindex && (p.data.evergreen || p.data.
   <div class="home-intro"><span class="eyebrow">PLUGIN DEALS / LIVE PRICES</span><h1>On sale now</h1><p>{cards.length} deals tracked · prices checked {checked}</p></div>
   {sections.spotlight && <section class="feature-section" aria-label="Featured deals"><div class="feature-main"><DealCard deal={sections.spotlight} variant="spotlight" eager /></div><div class="hot-block"><h2>Worth a look</h2><div class="hot-grid">{sections.hot.map(card => <DealCard deal={card} variant="row" />)}</div></div></section>}
   <section class="home-section"><div class="section-heading"><div><span class="eyebrow">FIND YOUR SOUND</span><h2>What are you making?</h2></div><a href="/categories/">Browse categories →</a></div><CategoryTiles tiles={categories} chips /></section>
-  {sections.clusters.map(cluster => <section class="home-section brand-cluster"><div class="section-heading"><div><span class="eyebrow">BRAND SALE</span><h2>{cluster.brand} &middot; {cluster.summary.count} plugins &middot; {cluster.summary.min}&ndash;{cluster.summary.max}% off &middot; from ${cluster.summary.minPrice.toFixed(2)} &middot; ends {new Date(`${cluster.until}T00:00:00Z`).toLocaleDateString('en-US',{month:'short',day:'numeric',timeZone:'UTC'})}</h2></div><a href={cluster.href}>See all {cluster.count} →</a></div><div class="compact-rail">{cluster.cards.map(card => <DealCard deal={card} variant="row" />)}</div></section>)}
-  {sections.soon.length > 0 && <section class="home-section"><div class="section-heading"><div><span class="eyebrow">TIME LIMITED</span><h2>Ending soon</h2></div></div><div class="compact-rail">{sections.soon.map(card => <DealCard deal={card} variant="row" />)}</div></section>}
+  {sections.clusters.map(cluster => <section class="home-section brand-cluster home-deal-rail"><div class="section-heading"><div><span class="eyebrow">BRAND SALE</span><h2 class="brand-title">{cluster.brand}</h2><p class="brand-meta">{cluster.summary.count} plugins &middot; {cluster.summary.min}&ndash;{cluster.summary.max}% off &middot; from ${cluster.summary.minPrice.toFixed(2)} &middot; ends {new Date(`${cluster.until}T00:00:00Z`).toLocaleDateString('en-US',{month:'short',day:'numeric',timeZone:'UTC'})}</p><h2 class="brand-title-mobile">{cluster.brand} &middot; {cluster.summary.count} plugins &middot; {cluster.summary.min}&ndash;{cluster.summary.max}% off &middot; from ${cluster.summary.minPrice.toFixed(2)} &middot; ends {new Date(`${cluster.until}T00:00:00Z`).toLocaleDateString('en-US',{month:'short',day:'numeric',timeZone:'UTC'})}</h2></div><a href={cluster.href}>See all {cluster.count} →</a></div><div class="compact-rail">{cluster.cards.map(card => <DealCard deal={card} variant="row" />)}</div></section>)}
+  {sections.soon.length > 0 && <section class="home-section home-deal-rail"><div class="section-heading"><div><span class="eyebrow">TIME LIMITED</span><h2>Ending soon</h2></div></div><div class="compact-rail">{sections.soon.map(card => <DealCard deal={card} variant="row" />)}</div></section>}
   <section class="home-section" id="deals"><div class="section-heading"><div><span class="eyebrow">CURRENT DEALS</span><h2>On sale now <span>({cards.length})</span></h2></div><a href="/plugin-prices/">Explore price tracker →</a></div><HomeFilters categories={topCategories} /><div id="sale-grid" class="sale-grid">{gridCards.map((card,i) => <div class="grid-item" data-order-off={gridOrders[card.key].off} data-order-until={gridOrders[card.key].until} data-order-price={gridOrders[card.key].price} data-order-low={gridOrders[card.key].low} data-extra={i>=sections.gridInitial.length?'true':undefined}><DealCard deal={card} deferImage={i>=sections.gridInitial.length} /></div>)}</div>{sections.gridExtra.length>0 && <button type="button" id="show-more-deals">Show {sections.gridExtra.length} more deals ↓</button>}</section>
   {freeItems.length>0 && <section class="home-section"><div class="section-heading"><div><span class="eyebrow">OFFICIAL DOWNLOADS</span><h2>Free plugins worth downloading</h2></div><a href="/free/">More free plugins →</a></div><div class="free-grid">{freeItems.map(item => <FreeCard item={item} />)}</div></section>}
   {guides.length>0 && <section class="home-section"><div class="section-heading"><div><span class="eyebrow">READ & EXPLORE</span><h2>Guides</h2></div><a href="/posts/">All articles →</a></div><div class="guide-grid">{guides.map(post => <GuideCard post={post} />)}</div></section>}
@@ -101,7 +101,32 @@ const guides = posts.filter(p => !p.data.noindex && (p.data.evergreen || p.data.
 </style>
 
 <style is:global>
+  .brand-cluster .brand-title-mobile{display:none}
+  .brand-cluster .brand-meta{margin:.3rem 0 0;color:var(--text-muted);font:400 .85rem/1.4 var(--font-body)}
+  @media(min-width:681px){
+    .brand-cluster .section-heading h2.brand-title{font-size:1.6rem}
+    .home-deal-rail .compact-rail{display:grid;grid-template-columns:repeat(auto-fill,minmax(max(220px, (100% - 2.25rem)/4),1fr));grid-auto-rows:1fr;align-items:stretch;gap:.75rem}
+    .home-deal-rail:not(.brand-cluster) .compact-rail{grid-template-columns:repeat(auto-fit,minmax(max(220px, (100% - 2.25rem)/4),1fr))}
+    .home-deal-rail .variant-row{display:flex;flex-direction:column;height:100%}
+    .home-deal-rail .variant-row .card-main{display:flex;flex-direction:column;flex:1;min-width:0}
+    .home-deal-rail .variant-row .card-art{grid-row:auto;aspect-ratio:16/10;width:100%;flex:none}
+    .home-deal-rail .variant-row .card-art img{object-fit:cover}
+    .home-deal-rail .variant-row .card-copy{display:flex;flex-direction:column;flex:1;min-width:0;padding:.75rem .8rem .35rem}
+    .home-deal-rail .variant-row .card-copy h3{order:0;min-height:2.6em;font-size:1rem;line-height:1.3;font-weight:700;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}
+    .home-deal-rail .variant-row .signal-row{order:1;margin:.35rem 0 0}
+    .home-deal-rail .variant-row .card-copy-line{order:2;margin:.4rem 0 0;min-height:2.6em;font-size:.85rem;line-height:1.3;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}
+    .home-deal-rail .variant-row .card-copy-line[data-copy-kind="maker_quote"]{display:block;overflow:visible}
+    .home-deal-rail .variant-row .card-copy-line[data-copy-kind="maker_quote"] q{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}
+    .home-deal-rail .variant-row .copy-attribution{display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:.85rem}
+    .home-deal-rail .variant-row .price{order:3;margin:auto 0 0;padding-top:.7rem}
+    .home-deal-rail .variant-row .price strong{font-size:1.25rem}
+    .home-deal-rail .variant-row .price s{font-size:.85rem}
+    .home-deal-rail .variant-row .off-tag{font-size:1.1rem}
+    .home-deal-rail .variant-row .support-chip{display:none}
+    .home-deal-rail .variant-row .card-cta{display:flex;grid-column:auto;align-self:stretch;justify-content:center;margin:.3rem .8rem .8rem;padding:.55rem .65rem;background:var(--accent);color:var(--bg-base);font-size:.85rem}
+  }
 @media(max-width:680px){
+  .brand-cluster .brand-title,.brand-cluster .brand-meta{display:none}.brand-cluster .brand-title-mobile{display:block}
   .home-intro{padding:.2rem 0 .55rem}.home-intro .eyebrow{display:none}.home-intro h1{font-size:1.6rem}.home-intro p{margin:.25rem 0 0;font-size:.78rem;white-space:nowrap}
   .home-section{margin-top:1.35rem}.section-heading{margin-bottom:.55rem;padding-bottom:.4rem}.section-heading h2{font-size:1.2rem}.section-heading .eyebrow{font-size:.58rem}
   .brand-cluster .section-heading h2{font-size:1rem;line-height:1.3}.brand-cluster .section-heading>a{align-self:end}
