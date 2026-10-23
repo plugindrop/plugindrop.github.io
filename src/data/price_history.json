@@ -24423,6 +24423,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-01"
+        },
+        {
+          "date": "2026-10-23",
+          "sale": 75.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "category": "Effects",
@@ -44160,6 +44169,15 @@
           "source": "auto_check",
           "store": "plugin_boutique",
           "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-10-23",
+          "sale": 29.99,
+          "regular": 199.99,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
           "cur": "USD"
         }
       ],
@@ -87876,6 +87894,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-01-10"
+        },
+        {
+          "date": "2026-10-23",
+          "sale": 9.0,
+          "regular": 29.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/usynth-core.jpg",
@@ -103111,6 +103138,15 @@
         },
         {
           "date": "2026-10-21",
+          "sale": 29.99,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-10-23",
           "sale": 29.99,
           "regular": 199.0,
           "source": "pb_deals_poll",
