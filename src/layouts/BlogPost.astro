@@ -12,7 +12,8 @@ import Header from '../components/Header.astro';
 import NewsletterForm from '../components/NewsletterForm.astro';
 import PriceTracker from '../components/PriceTracker.astro';
 import PriceRecord from '../components/PriceRecord.astro';
-import TopDeals from '../components/TopDeals.astro';
+import DealCard from '../components/DealCard.astro';
+import GuideCard from '../components/GuideCard.astro';
 import DealFactBox from '../components/DealFactBox.astro';
 import FactsTable from '../components/FactsTable.astro';
 import VerifiedFactsList from '../components/VerifiedFactsList.astro';
@@ -480,6 +481,17 @@ const featuredDeals = isEvergreen ? allPosts
 		!isPostDealEnded(p, _allTrackerEntries))
 	.sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
 	.slice(0, 4) : [];
+const guidePosts = [...relatedPosts].sort((a, b) => Number(!!a.data.affiliate) - Number(!!b.data.affiliate)).slice(0, 3);
+const saleCandidates = Object.entries(_allTrackerEntries)
+	.filter(([, entry]) => dealState(entry, Date.now()) === 'live')
+	.map(([name, entry]) => ({ name, entry, category: categoryForProduct(name, entry, _bundleNames.has(name)) }))
+	.sort((a, b) => Number(b.category === _catalogCategory) - Number(a.category === _catalogCategory) || Number((b.entry as any).score ?? 0) - Number((a.entry as any).score ?? 0));
+const saleCards = saleCandidates.slice(0, 3).map(({ name, entry }) => {
+	const current = comparisonPriceFacts(entry)?.today ?? 0;
+	const regular = regularPriceOf(entry) ?? current;
+	return toCardModel({ name, entry, kind: 'tracker', post: null, current, regular, off: pctOff(current, regular), score: 0 }, { entries: _allTrackerEntries, priceData, now: Date.now(), videos: productVideos, copy: dealCopy, facts: pluginFacts, source: 'article' });
+});
+const showInlineDeals = (rawBody.match(/^## /gm) ?? []).length >= 5 && saleCards.length === 3;
 ---
 
 <!doctype html>
@@ -966,8 +978,56 @@ const featuredDeals = isEvergreen ? allPosts
 			}
 		</style>
 		<!-- Wrap tables in scrollable container -->
+		<style is:global>
+			.reading-progress{position:fixed;inset:0 auto auto 0;width:var(--reading-progress,0%);height:2px;background:var(--accent);z-index:1000;pointer-events:none}
+			main#main-content{width:100%;max-width:none;margin:0}
+			.content-layout{display:grid;grid-template-columns:220px minmax(0,72ch);gap:2rem;max-width:calc(220px + 72ch + 2rem);margin:0 auto;padding:0 1rem}
+			.content-layout .prose{grid-column:2;grid-row:1;width:100%;max-width:72ch;box-sizing:border-box;padding:1rem 0 3rem;font-size:1.0625rem;line-height:1.7}
+			.content-layout .toc-rail-wrap{grid-column:1;grid-row:1;width:220px;position:sticky;top:72px;align-self:start;max-height:calc(100vh - 80px);overflow:auto}
+			.content-layout .toc-rail{position:static;max-height:none}
+			.content-layout .hero-image{width:100%;max-width:none;box-sizing:border-box;margin:0 0 1.2rem;padding:0;aspect-ratio:21/9;max-height:320px;overflow:hidden;border-radius:var(--radius)}
+			.content-layout .hero-image img{width:100%;height:100%;max-height:320px;object-fit:cover}
+			.content-layout .article-header{margin-bottom:1.1rem;padding-bottom:.85rem}
+			.content-layout .article-header h1{font:500 clamp(2rem,3vw,2.4rem)/1.16 var(--font-display)}
+			.content-layout .prose h2{font:600 1.6rem/1.25 var(--font-display);margin:2.2rem 0 1rem;padding-top:.8rem;border-top:1px solid var(--border)}
+			.content-layout .prose h3{font:600 1.2rem/1.35 var(--font-display);margin:1.6rem 0 .6rem}
+			.content-layout .prose li{margin:.45rem 0}.content-layout .prose p{margin:0 0 1.15rem}
+			.content-layout .prose blockquote,.content-layout .prose .tldr{padding:1rem 1.2rem;border-left:3px solid var(--accent);background:var(--bg-card);border-radius:0 var(--radius) var(--radius) 0}
+			.content-layout .prose .quick-facts{margin:1.4rem 0;padding:.8rem 1rem;background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius)}
+			.content-layout .quick-facts summary{cursor:pointer;color:var(--accent);font:700 .8rem var(--font-mono);text-transform:uppercase;letter-spacing:.06em}
+			.content-layout .quick-facts .verified-facts{display:grid;gap:.65rem;padding:0;list-style:none}.content-layout .quick-facts .verified-facts li{padding:.65rem;background:var(--bg-low);border:1px solid var(--border)}
+			.content-layout .quick-facts .verified-facts a{display:inline-block;margin:.15rem;padding:.1rem .3rem;font:.72rem var(--font-mono);color:var(--accent);background:var(--accent-muted)}
+			.content-layout .table-wrap{max-width:100%;overflow-x:auto}.content-layout .prose table{font-size:max(.9rem,14px);border-collapse:collapse}.content-layout .prose th{font-family:var(--font-mono);font-size:.8rem}.content-layout .prose tr:nth-child(even){background:var(--bg-card)}
+			.content-layout .prose h3:has(+ p img),.content-layout .prose h3:has(+ img){padding:1rem 1rem 0;margin-bottom:0;background:var(--bg-card);border:1px solid var(--border);border-bottom:0;border-radius:var(--radius) var(--radius) 0 0}
+			.content-layout .prose h3 + p:has(img){padding:0 1rem 1rem;background:var(--bg-card);border:1px solid var(--border);border-top:0;border-radius:0 0 var(--radius) var(--radius)}
+			.content-layout .prose h3 + p img{display:block;max-height:280px;aspect-ratio:16/10;object-fit:cover;border-radius:var(--radius);border:1px solid var(--border)}
+			.content-layout .prose h3 ~ p a[href*="pluginboutique.com"]{border-color:var(--accent)}
+			.content-layout .table-wrap:has(tr:nth-child(8)){max-height:550px;overflow:auto}.content-layout .table-wrap:has(tr:nth-child(8)) table{min-width:850px}
+			.content-layout .prose .video-embed{max-width:480px;margin:1.2rem auto;padding-bottom:min(56.25%,270px)}
+			.content-layout .prose h3:has(+ ul){padding:1rem 1rem .25rem;margin-bottom:0;background:var(--bg-card);border:1px solid var(--border);border-bottom:0;border-radius:var(--radius) var(--radius) 0 0}
+			.content-layout .prose h3 + ul{padding:0 1rem 1rem 2.5rem;margin-top:0;background:var(--bg-card);border:1px solid var(--border);border-top:0;border-radius:0 0 var(--radius) var(--radius)}
+			.inline-deals,.related-guides{margin:2rem 0}.section-eyebrow{font:700 .72rem var(--font-mono);color:var(--text-muted);text-transform:uppercase;letter-spacing:.1em}.inline-card-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.7rem}.inline-card-grid>*{min-width:0}
+			@media(max-width:980px){.content-layout{display:block;max-width:72ch}.content-layout .prose{max-width:100%}.content-layout .toc-rail-wrap{display:none}.mobile-toc{margin:1rem 0;padding:.75rem;border:1px solid var(--border);background:var(--bg-card)}.mobile-toc summary{color:var(--accent);cursor:pointer}.mobile-toc ol{padding-left:1.2rem}.mobile-toc a{color:var(--text-secondary)}.content-layout .quick-facts:not([data-user-toggled]){padding:.75rem}}
+			@media(max-width:600px){.content-layout .prose{font-size:1.0625rem}.content-layout .article-header h1{font-size:clamp(1.8rem,7vw,2.2rem)}.content-layout .hero-image{aspect-ratio:21/9;margin:0 0 1rem;border-radius:var(--radius)}.content-layout .prose table th:first-child,.content-layout .prose table td:first-child{position:sticky;left:0;background:var(--bg-card);z-index:1}.inline-card-grid{grid-template-columns:1fr}.content-layout .prose img{max-width:100%;height:auto}}
+		</style>
 		<script>
 			document.addEventListener('DOMContentLoaded', () => {
+				const article = document.querySelector<HTMLElement>('.content-layout .prose');
+				const intro = article?.querySelector<HTMLElement>(':scope > p:not(.deal-why)');
+				const facts = article?.querySelector<HTMLElement>(':scope > .quick-facts');
+				if (intro && facts) intro.insertAdjacentElement('afterend', facts);
+				if (facts && matchMedia('(max-width: 980px)').matches) facts.removeAttribute('open');
+				facts?.addEventListener('toggle', () => { if (facts.dataset.ready) facts.dataset.userToggled = 'true'; facts.dataset.ready = 'true'; });
+				const inlineDeals = article?.querySelector<HTMLElement>(':scope > .inline-deals');
+				const sections = Array.from(article?.querySelectorAll<HTMLHeadingElement>('h2') ?? []).filter(h => !h.closest('.related-guides'));
+				if (inlineDeals && sections.length >= 5) sections[2].insertAdjacentElement('afterend', inlineDeals);
+				const updateProgress = () => {
+					if (!article) return;
+					const span = Math.max(1, article.offsetHeight - innerHeight);
+					const progress = Math.max(0, Math.min(100, (scrollY - article.offsetTop) / span * 100));
+					document.documentElement.style.setProperty('--reading-progress', `${progress}%`);
+				};
+				addEventListener('scroll', updateProgress, { passive: true }); addEventListener('resize', updateProgress); updateProgress();
 				document.querySelectorAll('.prose table').forEach(table => {
 					if (!table.parentElement?.classList.contains('table-wrap')) {
 						const wrap = document.createElement('div');
@@ -1106,21 +1166,22 @@ const featuredDeals = isEvergreen ? allPosts
 						});
 					}, { rootMargin: '-30% 0px -60% 0px' });
 					headings.forEach(function(h) { observer.observe(h); });
+					if (matchMedia('(max-width: 980px)').matches && intro) {
+						const mobile = document.createElement('details'); mobile.className = 'mobile-toc';
+						const summary = document.createElement('summary'); summary.textContent = 'In this guide'; mobile.appendChild(summary);
+						mobile.appendChild(tocList.cloneNode(true)); intro.insertAdjacentElement('afterend', mobile);
+					}
 				})();
 			});
 		</script>
 	</head>
 
 	<body>
+		<div class="reading-progress" aria-hidden="true"></div>
 		<a href="#main-content" class="skip-link">Skip to content</a>
 		<Header />
 		<main id="main-content">
 			<article>
-				{imageStr && !_showProductCta && (
-					<div class="hero-image">
-						<img src={imageStr} alt={title} loading="eager" fetchpriority="high" data-fallback="/images/default-placeholder.jpg" />
-					</div>
-				)}
 				<div class="content-layout">
 				<div class="prose">
 					<!-- Breadcrumb -->
@@ -1158,6 +1219,8 @@ const featuredDeals = isEvergreen ? allPosts
 							)}
 						</div>
 					</div>
+
+					{imageStr && !_showProductCta && <div class="hero-image"><img src={imageStr} alt={title} loading="eager" fetchpriority="high" data-fallback="/images/default-placeholder.jpg" /></div>}
 
 					{/* Deal CTA Box — product widget style */}
 					{_showProductCta && affiliate && (dealPrice || discount || saleExpired || saleLapsed) && (
@@ -1229,13 +1292,14 @@ const featuredDeals = isEvergreen ? allPosts
 					<!-- Article content (from markdown) -->
 					{/* Owner decides final placement; keep this after the deal-why copy. */}
 					{_isSingleProductDeal && <NotableUsers records={(notableUsers as Record<string, any[]>)[_notableKey] ?? []} brand={_dealBrand ?? ''} />}
-					{(_showFactsTable || _showPlanTable || _showLegacyFactCard) && <section id="compare-table">
-						<h2>{_showPlanTable ? 'Editions and prices' : _showFactsTable && _compareModel.free ? 'Verified facts from developer pages' : 'Compare the products in this guide'}</h2>
+					{(_showFactsTable || _showPlanTable || _showLegacyFactCard) && <details id="compare-table" class="quick-facts" open>
+						<summary>Quick facts</summary>
 						{_showPlanTable ? <PlanTable vendorProducts={_currentVendorIds} kind={_catalog?.kind as 'comparison' | 'review'} /> : _showLegacyFactCard ? <LegacyFactCard vendorProduct={_legacyId!} /> : _showFactsTable ? _compareModel.mode === 'table' ? <FactsTable model={_compareModel} /> : <VerifiedFactsList model={_compareModel} /> : _currentVendorIds.length ? <FactCard vendorProduct={_currentVendorIds[0]} slug={currentSlug} /> : <FactCard product={_catalogProducts[0]} slug={currentSlug} />}
 						<DealMath names={_catalogProducts} entries={_catalogProducts.map((name) => _allTrackerEntries[name])} />
-					</section>}
+					</details>}
 					{_newerProduct && <NewerVersionNotice product={_newerProduct} />}
 					<slot />
+					{showInlineDeals && <section class="inline-deals" aria-label="On sale now"><p class="section-eyebrow">On sale now</p><div class="inline-card-grid">{saleCards.map(deal => <DealCard deal={deal} variant="grid" />)}</div></section>}
 					{_showFactCard && <section id="compare-table">
 						<h2>Compare the products in this guide</h2>
 						{_currentVendorIds.length ? <FactCard vendorProduct={_currentVendorIds[0]} slug={currentSlug} /> : <FactCard product={_catalogProducts[0]} slug={currentSlug} />}
@@ -1279,6 +1343,7 @@ const featuredDeals = isEvergreen ? allPosts
 						</div>
 					)}
 
+					{guidePosts.length > 0 && <section class="related-guides" aria-label="Related guides"><h2>Related guides</h2><div class="inline-card-grid">{guidePosts.map(post => <GuideCard post={post} />)}</div></section>}
 					{isEvergreen && <NewsletterForm />}
 
 					<AuthorBox />
@@ -1296,7 +1361,6 @@ const featuredDeals = isEvergreen ? allPosts
 							<ol id="rail-toc-list"></ol>
 						</nav>
 					</aside>
-					{showDealsRail && <TopDeals />}
 				</div>
 				</div>
 			</article>
