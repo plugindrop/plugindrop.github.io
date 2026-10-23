@@ -35766,6 +35766,36 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2022-01-29",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-08-18",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-09-06",
+          "regular": 112.06,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-02-03",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-09-19",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/heavyocity-ascend.jpg",
@@ -35965,6 +35995,42 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2021-11-24",
+          "regular": 299.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-01-26",
+          "regular": 399.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-07-04",
+          "regular": 299.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-09-27",
+          "regular": 399.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-01-16",
+          "regular": 249.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-12-14",
+          "regular": 399.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/heavyocity-damage-2.jpg"
@@ -36054,6 +36120,12 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2021-12-02",
+          "regular": 274.5,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "category": "Instrument"

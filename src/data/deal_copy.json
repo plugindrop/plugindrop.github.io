@@ -3679,20 +3679,25 @@
     "brand": null,
     "product": "Cherry Audio Lowdown",
     "category": null,
-    "tagline": null,
+    "tagline": "Recreates dual-oscillator bass pedal synth with 24dB lowpass filter",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9098-Lowdown",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-24",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9098-Lowdown",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "dual-oscillator bass pedal synth",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "missing_or_long"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 1,
+    "maker_quote": "A free 30-day demo of Lowdown is available.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9098-Lowdown",
+    "maker_quote_retrieved": "2026-10-24"
   },
   "Cherry Audio Memorymode 2": {
     "pbProductId": "17746",
@@ -3779,20 +3784,25 @@
     "brand": null,
     "product": "Cherry Audio Miniverse",
     "category": null,
-    "tagline": null,
+    "tagline": "Thick, juicy analog sound for monstrous leads and funky basslines",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9030-Miniverse",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-24",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9030-Miniverse",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "monstrous leads, funky basslines",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "banned_claim_or_price"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": "Miniverse is a painstaking virtual emulation of perhaps the best-known and loved analog synthesizer ever made.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9030-Miniverse",
+    "maker_quote_retrieved": "2026-10-24"
   },
   "Cherry Audio ODC 2800 Synthesizer": {
     "pbProductId": "15107",
@@ -3841,7 +3851,7 @@
     "category": null,
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/14055-P-10-Synthesizer",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-24",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -3849,10 +3859,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/14055-P-10-Synthesizer",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "missing_or_long"
+    "reject_reason": "generic_or_ungrounded",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Cherry Audio’s P-10 is based on one of the most desirable flagship analog polysynths ever created.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/14055-P-10-Synthesizer",
+    "maker_quote_retrieved": "2026-10-24"
   },
   "Cherry Audio PS-20": {
     "pbProductId": "7618",
@@ -3941,7 +3956,7 @@
     "category": null,
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/8402-Quadra",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-24",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -3949,10 +3964,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/8402-Quadra",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "banned_claim_or_price"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "The awkward patch storage has been replaced with Cherry Audio’s extensive, unlimited patch browsing system.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/8402-Quadra",
+    "maker_quote_retrieved": "2026-10-24"
   },
   "Cherry Audio SH MAX": {
     "pbProductId": "16799",
@@ -3981,7 +4001,7 @@
     "category": null,
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/2-Effects/49-Echo/8125-Stardust-201-Tape-Echo",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-24",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -3989,10 +4009,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/49-Echo/8125-Stardust-201-Tape-Echo",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Compared to earlier tape echoes, they represented a giant leap in reliability and sound quality.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/49-Echo/8125-Stardust-201-Tape-Echo",
+    "maker_quote_retrieved": "2026-10-24"
   },
   "Cherry Audio Surrealistic MG 1 Plus Synthesizer": {
     "pbProductId": "7117",
@@ -4001,7 +4026,7 @@
     "category": null,
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7117-Surrealistic-MG-1-Plus-Synthesizer",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-24",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -4009,10 +4034,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7117-Surrealistic-MG-1-Plus-Synthesizer",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "banned_claim_or_price"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": null,
+    "maker_quote_source_url": null,
+    "maker_quote_retrieved": null
   },
   "Cherry Audio Synthesizer Expander Module": {
     "pbProductId": "12169",
@@ -4059,20 +4089,25 @@
     "brand": null,
     "product": "Cherry Audio Voltage Modular Core + Electro Drums",
     "category": "Synth",
-    "tagline": null,
+    "tagline": "Modular drum sequencer with vintage oscillator and filter modules",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5033-Voltage-Modular-Core-Electro-Drums",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-24",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5033-Voltage-Modular-Core-Electro-Drums",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "vintage oscillator and filter, our drum sequencer",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "missing_or_long"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": "Voltage Modular Core + Electro Drums is a powerhouse collection of modular madness.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5033-Voltage-Modular-Core-Electro-Drums",
+    "maker_quote_retrieved": "2026-10-24"
   },
   "Cherry Audio Voltage Modular Ignite": {
     "pbProductId": "5034",
@@ -4099,20 +4134,25 @@
     "brand": null,
     "product": "Cherry Audio Voltage Modular Nucleus",
     "category": null,
-    "tagline": null,
+    "tagline": "22 modules and 130 presets for subtractive analog synthesis",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5594-Voltage-Modular-Nucleus",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-24",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5594-Voltage-Modular-Nucleus",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "22 modules and over 130 presets",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "missing_or_long"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "This collection of 22 modules and over 130 presets is the ideal novice's introduction to modular synthesis.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5594-Voltage-Modular-Nucleus",
+    "maker_quote_retrieved": "2026-10-24"
   },
   "Cherry Audio Wurlybird 140B": {
     "pbProductId": "12636",
@@ -4201,7 +4241,7 @@
     "category": null,
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/2-Effects/10-Delay/17713-Continuum",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-24",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -4209,10 +4249,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/10-Delay/17713-Continuum",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Because most delays simply repeat the past, while Continuum feels it.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/10-Delay/17713-Continuum",
+    "maker_quote_retrieved": "2026-10-24"
   },
   "D-50": {
     "pbProductId": "15264",
@@ -4301,7 +4346,7 @@
     "category": null,
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/11175-Drumazon-2",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-24",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -4309,10 +4354,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/11175-Drumazon-2",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Drumazon emulates all the sounds of the original 909, matching each individual instrument with meticulous accuracy.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/11175-Drumazon-2",
+    "maker_quote_retrieved": "2026-10-24"
   },
   "E1": {
     "pbProductId": "17922",
@@ -4361,7 +4411,7 @@
     "category": null,
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/2-Effects/59-De-Esser/8702-Esspresso",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-24",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -4369,10 +4419,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/59-De-Esser/8702-Esspresso",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "missing_or_long"
+    "reject_reason": "generic_or_ungrounded",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Esspresso is a fast, beautiful & powerful de-esser for everyone doing audio recording.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/59-De-Esser/8702-Esspresso",
+    "maker_quote_retrieved": "2026-10-24"
   },
   "Eventide Blackhole Immersive": {
     "pbProductId": "11474",
@@ -4399,20 +4454,25 @@
     "brand": null,
     "product": "Eventide CrushStation",
     "category": null,
-    "tagline": null,
+    "tagline": "Stereo distortion with EQ, compression, octave mix, and sag control",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/30-Distortion/6313-CrushStation",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-24",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/30-Distortion/6313-CrushStation",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "stereo distortion platform for your Mac or PC",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "CrushStation is a versatile, best-in-class, stereo distortion platform for your Mac or PC.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/30-Distortion/6313-CrushStation",
+    "maker_quote_retrieved": "2026-10-24"
   },
   "Eventide Crystals": {
     "pbProductId": "6473",
@@ -4519,20 +4579,25 @@
     "brand": null,
     "product": "Eventide H3000 Band Delays Mk II",
     "category": null,
-    "tagline": null,
+    "tagline": "H3000 Harmonizer delays with eight-band filtering and stereo-widening",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/10-Delay/12198-H3000-Band-Delays-Mk-II",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-24",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/10-Delay/12198-H3000-Band-Delays-Mk-II",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "creative powerhouse for delays, filtering, stereo-widening, and dynamic rhythmic effects",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Brand new modeling of the analog-to-digital and digital-to-analog converter sections of the original H3000.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/10-Delay/12198-H3000-Band-Delays-Mk-II",
+    "maker_quote_retrieved": "2026-10-24"
   },
   "Eventide Instant Flanger Mk II": {
     "pbProductId": "5216",
@@ -4599,20 +4664,25 @@
     "brand": null,
     "product": "Eventide MicroPitch",
     "category": null,
-    "tagline": null,
+    "tagline": "Fine-resolution pitch shifter for tone fattening and slap back delays",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/6350-MicroPitch",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-24",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/6350-MicroPitch",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "fine-resolution pitch shifter for subtle tone fattening, plus delays for dramatic slap back effects",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": "MicroPitch is a fine-resolution pitch shifter for subtle tone fattening, plus delays for dramatic slap back effects.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/6350-MicroPitch",
+    "maker_quote_retrieved": "2026-10-24"
   },
   "Eventide MicroPitch Immersive": {
     "pbProductId": "11475",
@@ -4659,20 +4729,25 @@
     "brand": null,
     "product": "Eventide Omnipressor",
     "category": null,
-    "tagline": null,
+    "tagline": "1971 unit for gating, compression, limiting, and envelope reversal",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/2856-Omnipressor",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-24",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/2856-Omnipressor",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "Professional quality dynamic-modifier for gating, compression, limiting and expansion.",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "missing_or_long"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Introduced in 1971, the Omnipressor® rack unit was widely used on hit records throughout the last four decades.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/2856-Omnipressor",
+    "maker_quote_retrieved": "2026-10-24"
   },
   "Eventide Physion Mk II": {
     "pbProductId": "9621",
@@ -4699,40 +4774,50 @@
     "brand": null,
     "product": "Eventide Precision Time Align",
     "category": null,
-    "tagline": null,
+    "tagline": "Sub-sample delay fixes phase issues on multi-miked drums and vocals",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/10-Delay/3403-Precision-Time-Align",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-24",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/10-Delay/3403-Precision-Time-Align",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "phase issues from your mix, especially on multi-miked drums, vocals and instruments",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "missing_or_long"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 1,
+    "maker_quote": "Precision Time Align is a high precision sub-sample delay that can slide a track forward or backwards in time.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/10-Delay/3403-Precision-Time-Align",
+    "maker_quote_retrieved": "2026-10-24"
   },
   "Eventide Quadravox": {
     "pbProductId": "2853",
     "brand": null,
     "product": "Eventide Quadravox",
     "category": null,
-    "tagline": null,
+    "tagline": "Generate four voices from any instrument using key and timing interval",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/2853-Quadravox",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-24",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/2853-Quadravox",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "generate up to four voices based on the chosen key and timing interval",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "missing_or_long"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 1,
+    "maker_quote": "Quadravox controls are intuitive, allowing you to quickly adjust parameters or type in values.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/2853-Quadravox",
+    "maker_quote_retrieved": "2026-10-24"
   },
   "Eventide Rotary Mod": {
     "pbProductId": "6422",
@@ -4841,7 +4926,7 @@
     "category": null,
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/6077-Spring",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-24",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -4849,10 +4934,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/6077-Spring",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Spring has controls to independently manipulate the damping frequency for both the Low and High end.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/6077-Spring",
+    "maker_quote_retrieved": "2026-10-24"
   },
   "Eventide TriceraChorus": {
     "pbProductId": "6931",
@@ -4881,7 +4971,7 @@
     "category": "Reverb",
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/2916-Tverb",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-24",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -4889,10 +4979,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/2916-Tverb",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Tverb was developed in collaboration with legendary producer, engineer and musician, Tony Visconti.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/2916-Tverb",
+    "maker_quote_retrieved": "2026-10-24"
   },
   "Eventide UltraChannel": {
     "pbProductId": "3064",
@@ -4919,20 +5014,25 @@
     "brand": null,
     "product": "Eventide UltraReverb",
     "category": null,
-    "tagline": null,
+    "tagline": "Nine hardware reverb algorithms from the H8000 UltraHarmonizer",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/3061-UltraReverb",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-24",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/3061-UltraReverb",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "Halls, Chambers, Rooms, Plates, and Ambience derived from Eventide's flagship hardware processor, the H8000 UltraHarmonizer®",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": null,
+    "maker_quote_source_url": null,
+    "maker_quote_retrieved": null
   },
   "Eventide UltraTap": {
     "pbProductId": "3671",
@@ -4981,7 +5081,7 @@
     "category": "Drums",
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/13548-Bloom-Drum-Machine",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-24",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -4989,30 +5089,40 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/13548-Bloom-Drum-Machine",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "banned_claim_or_price"
+    "reject_reason": "generic_or_ungrounded",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Bloom Drum Machine provides you with instantaneous grooves to keep you in your flow, or get the ideas flowing.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/13548-Bloom-Drum-Machine",
+    "maker_quote_retrieved": "2026-10-24"
   },
   "Expanse 3D": {
     "pbProductId": "7594",
     "brand": null,
     "product": "Expanse 3D",
     "category": null,
-    "tagline": null,
+    "tagline": "Adds 3D depth and width to mixing, mastering, and drum mix bus work",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/7594-Expanse-3D",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-24",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/7594-Expanse-3D",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "I just dropped it straight on to a drum mix bus",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": "All the Expanse 3D processes are applied to the appropriate frequency ranges using high-quality filters.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/7594-Expanse-3D",
+    "maker_quote_retrieved": "2026-10-24"
   },
   "FabFilter Micro": {
     "pbProductId": "931",
@@ -5059,20 +5169,25 @@
     "brand": null,
     "product": "FabFilter Pro-DS",
     "category": "Vocal",
-    "tagline": null,
+    "tagline": "Single Vocal detection attenuates sibilance transparently in vocals",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/59-De-Esser/923-FabFilter-Pro-DS",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-24",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/59-De-Esser/923-FabFilter-Pro-DS",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "accurately identifies sibilance in vocal recordings and attenuates it transparently",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "missing_or_long"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "But don't worry, FabFilter Pro-DS comes to the rescue!",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/59-De-Esser/923-FabFilter-Pro-DS",
+    "maker_quote_retrieved": "2026-10-24"
   },
   "FabFilter Pro-G": {
     "pbProductId": "924",
@@ -5159,20 +5274,25 @@
     "brand": null,
     "product": "GForce M-Tron Pro IV",
     "category": "Instrument",
-    "tagline": null,
+    "tagline": "Tape-based Mellotron M400 sounds with wow, flutter, and amp simulation",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/12023-M-Tron-Pro-IV",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-24",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/12023-M-Tron-Pro-IV",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "tape-based playback with the new Tape Wow and Flutter feature",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "missing_or_long"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": null,
+    "maker_quote_source_url": null,
+    "maker_quote_retrieved": null
   },
   "GForce OB-E": {
     "pbProductId": null,
@@ -5219,20 +5339,25 @@
     "brand": null,
     "product": "GForce impOSCar3",
     "category": "Synth",
-    "tagline": null,
+    "tagline": "Recreates a hybrid synth with digital oscillators and analogue filters",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/12272-impOSCar3",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-24",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/12272-impOSCar3",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "hybrid architecture combines the precision of digital oscillators with the warmth of analogue filters",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "missing_or_long"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "At the heart of GForce's impOSCar3 lies the design of the legendary British hardware synth OSCar®.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/12272-impOSCar3",
+    "maker_quote_retrieved": "2026-10-24"
   },
   "H9 Plug-in Series Bundle": {
     "pbProductId": "7109",
@@ -9726,7 +9851,7 @@
     "category": null,
     "tagline": null,
     "source_url": null,
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-24",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -9734,10 +9859,15 @@
     },
     "tagline_source_url": null,
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
     "status": "no_source",
-    "reject_reason": "source_empty"
+    "reject_reason": "source_empty",
+    "validator_version": 2,
+    "attempts": 0,
+    "maker_quote": null,
+    "maker_quote_source_url": null,
+    "maker_quote_retrieved": null
   },
   "ACE Studio 2 0 Artist Pro Lifetime License": {
     "pbProductId": "15409",
@@ -10566,7 +10696,7 @@
     "category": null,
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5595-Cherry-Audio-Year-One-Collection",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-24",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -10574,10 +10704,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5595-Cherry-Audio-Year-One-Collection",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "component_only"
+    "reject_reason": "component_only",
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": "The Year One Collection includes all 19 commercial modules that Cherry Audio released in Voltage Modular's first year.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5595-Cherry-Audio-Year-One-Collection",
+    "maker_quote_retrieved": "2026-10-24"
   },
   "Drum Machine Collection": {
     "pbProductId": "15283",
@@ -10586,7 +10721,7 @@
     "category": null,
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15283-Drum-Machine-Collection",
-    "retrieved": "2026-10-20",
+    "retrieved": "2026-10-24",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -10594,10 +10729,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15283-Drum-Machine-Collection",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-20",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "component_only"
+    "reject_reason": "component_only",
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": "The Drum Machine Collection offers sophisticated integration with the Roland TR-8S Rhythm Performer.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15283-Drum-Machine-Collection",
+    "maker_quote_retrieved": "2026-10-24"
   },
   "DynOne": {
     "pbProductId": "5251",
@@ -10606,7 +10746,7 @@
     "category": null,
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/5251-DynOne",
-    "retrieved": "2026-10-20",
+    "retrieved": "2026-10-24",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -10614,30 +10754,40 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/5251-DynOne",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-20",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "JSONDecodeError"
+    "reject_reason": "banned_claim_or_price",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "DynOne was designed from the ground up to put 5 bands of quality parallel compression at your fingertips.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/5251-DynOne",
+    "maker_quote_retrieved": "2026-10-24"
   },
   "FabFilter Simplon": {
     "pbProductId": "930",
     "brand": null,
     "product": "FabFilter Simplon",
     "category": null,
-    "tagline": null,
+    "tagline": "Two self-oscillating multimode filters with up to 27 filter types",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/19-Filter/930-FabFilter-Simplon",
-    "retrieved": "2026-10-20",
+    "retrieved": "2026-10-24",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/19-Filter/930-FabFilter-Simplon",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-20",
+    "tagline_source_quote": "self-oscillating digital filters",
+    "tagline_checked": "2026-10-24",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "JSONDecodeError"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": "Simplon's filters sound raw but never cheap or ‘digital’, even at full resonance.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/19-Filter/930-FabFilter-Simplon",
+    "maker_quote_retrieved": "2026-10-24"
   },
   "JD 800": {
     "pbProductId": "15315",
