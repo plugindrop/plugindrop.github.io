@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import { strict as assert } from 'node:assert';
-import { buildDealPool, resolveCardImage, toCardModel, orderForVariety, aboveUsualState, pickSpotlight, endingSoon, brandSaleClusters, allocateSections, clusterSummary } from '../src/lib/homeDeals.mjs';
+import { buildDealPool, resolveCardImage, toCardModel, cardTarget, orderForVariety, aboveUsualState, pickSpotlight, endingSoon, brandSaleClusters, allocateSections, clusterSummary } from '../src/lib/homeDeals.mjs';
 const now=Date.parse('2026-10-17T12:00:00Z');
 const entry=(id,image)=>({pb_url:`/product/1/2/${id}-product`,image,history:[{date:'2026-10-16',source:'auto_check',sale:20,regular:100}]});
 test('PB id dedupe and search URLs excluded',()=>{
@@ -96,5 +96,19 @@ test('alternative cards use their page channel and home keeps home channel', () 
     const card=toCardModel(deal,{...base,source});
     assert.equal(new URL(card.ctaHref).searchParams.get('chan'),chan);
     assert.equal(new URL(card.href).searchParams.get('chan'),chan);
+  }
+});
+
+test('home PB links carry the section in data1 and retain chan=home', () => {
+  const tracked=entry(12345,'/images/product.jpg');
+  const deal={name:'Waves Plate',entry:tracked,kind:'tracker',post:null,current:20,regular:100,off:80,score:1};
+  const priceData={plugins:{},bundles:{}};
+  for (const section of ['spotlight','hot','cluster','soon','grid']) {
+    const card=toCardModel(deal,{entries:{'Waves Plate':tracked},priceData,now,section});
+    for (const href of [card.href,card.ctaHref,cardTarget(deal,priceData,'home',section)]) {
+      const params=new URL(href).searchParams;
+      assert.equal(params.get('chan'),'home');
+      assert.equal(params.get('data1'),`waves-plate--${section}`);
+    }
   }
 });
