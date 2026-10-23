@@ -500,9 +500,9 @@ const pageLD = {
         .facet-body { grid-template-columns: 1fr; }
       }
       .quick-filters, .tracker-presets { display:flex; align-items:center; flex-wrap:wrap; gap:.45rem; }
-      .tracker-toolbar { display:flex; align-items:center; gap:.7rem; }
+      .tracker-toolbar { display:flex; align-items:center; flex-wrap:wrap; gap:.7rem; }
       .search-wrap { flex:1 1 300px; min-width:250px; margin:0; }
-      .quick-filters { flex:none; }
+      .quick-filters { flex:1 1 auto; }
       .search-count { display:none; }
       .quick-filters label { color:var(--text-muted); font:.68rem var(--font-mono); }
       .quick-filters select { margin-left:.2rem; padding:.4rem; background:var(--bg-card); border:1px solid var(--border); color:var(--text-primary); font:inherit; }
@@ -1065,6 +1065,7 @@ const pageLD = {
           const q = ((searchInput && searchInput.value) || '').trim().toLowerCase();
           let totalVisible = 0;
           let totalAll = 0;
+          let hasMore = false;
 
           tables.forEach((table) => {
             const rows = getDataRows(table);
@@ -1072,6 +1073,7 @@ const pageLD = {
             rows.forEach(row => row.remove());
             const fragment = document.createDocumentFragment();
             let visibleInTable = 0;
+            let shownInTable = 0;
             rows.forEach((row) => {
               totalAll++;
               const cat = (row.getAttribute('data-category') || '').toLowerCase();
@@ -1087,10 +1089,15 @@ const pageLD = {
               const matchesSale = !saleToggle || !saleToggle.checked || row.dataset.sale === 'true';
               const matchesPreset = activePreset === 'drops' || (activePreset === 'low' && row.dataset.low !== '' && row.dataset.price === row.dataset.low) || (activePreset === 'ending' && row.dataset.ends !== '');
               const visible = matchesCategory && matchesDevelopers && matchesScore && matchesSearch && matchesQuickCategory && matchesBrand && matchesSale && matchesPreset;
-              if (visible && totalVisible < visibleLimit) fragment.appendChild(row);
               if (visible) {
                 visibleInTable++;
-                totalVisible++;
+                if (shownInTable < visibleLimit) {
+                  fragment.appendChild(row);
+                  shownInTable++;
+                  totalVisible++;
+                } else {
+                  hasMore = true;
+                }
               }
             });
             const noResultsRow = table.querySelector('.no-results-row');
@@ -1104,7 +1111,7 @@ const pageLD = {
             countLabel.textContent = `Showing ${totalVisible} of ${totalAll}`;
           }
           const more = document.getElementById('tracker-more');
-          if (more) more.hidden = totalVisible <= visibleLimit;
+          if (more) more.hidden = !hasMore;
           renderActiveFilters();
         }
 

@@ -531,20 +531,21 @@ const showInlineDeals = (rawBody.match(/^## /gm) ?? []).length >= 5 && saleCards
 			   Falls back gracefully to a single centered column when TopDeals
 			   renders nothing (no products currently on sale). */
 			.content-layout {
-				display: flex;
-				align-items: flex-start;
+				display: grid;
+				grid-template-columns: 220px minmax(0, 700px);
 				gap: 2rem;
-				max-width: 1040px;
+				max-width: calc(220px + 700px + 4rem);
 				margin: 0 auto;
+				padding: 0 1rem;
 			}
 			.prose {
-				width: 70ch;
-				max-width: calc(100% - 2rem);
-				margin: 0 auto;
-				padding: 1rem 1rem 3rem;
+				width: 100%;
+				max-width: 700px;
+				box-sizing: border-box;
+				margin: 0;
+				padding: 1rem 0 3rem;
 				color: var(--text-secondary);
 				line-height: 1.7;
-				flex: 1 1 70ch;
 				min-width: 0;
 			}
 			.prose :global(h2) {
@@ -559,7 +560,8 @@ const showInlineDeals = (rawBody.match(/^## /gm) ?? []).length >= 5 && saleCards
 			}
 			@media (max-width: 980px) {
 				.content-layout {
-					flex-direction: column;
+					display: block;
+					max-width: 72ch;
 				}
 				.content-layout :global(.deals-rail) {
 					position: static;
@@ -981,8 +983,8 @@ const showInlineDeals = (rawBody.match(/^## /gm) ?? []).length >= 5 && saleCards
 		<style is:global>
 			.reading-progress{position:fixed;inset:0 auto auto 0;width:var(--reading-progress,0%);height:2px;background:var(--accent);z-index:1000;pointer-events:none}
 			main#main-content{width:100%;max-width:none;margin:0}
-			.content-layout{display:grid;grid-template-columns:220px minmax(0,72ch);gap:2rem;max-width:calc(220px + 72ch + 2rem);margin:0 auto;padding:0 1rem}
-			.content-layout .prose{grid-column:2;grid-row:1;width:100%;max-width:72ch;box-sizing:border-box;padding:1rem 0 3rem;font-size:1.0625rem;line-height:1.7}
+			.content-layout{display:grid;grid-template-columns:220px minmax(0,700px);gap:2rem;max-width:calc(220px + 700px + 4rem);margin:0 auto;padding:0 1rem}
+			.content-layout .prose{grid-column:2;grid-row:1;width:100%;max-width:700px;box-sizing:border-box;padding:1rem 0 3rem;font-size:1.0625rem;line-height:1.7}
 			.content-layout .toc-rail-wrap{grid-column:1;grid-row:1;width:220px;position:sticky;top:72px;align-self:start;max-height:calc(100vh - 80px);overflow:auto}
 			.content-layout .toc-rail{position:static;max-height:none}
 			.content-layout .hero-image{width:100%;max-width:none;box-sizing:border-box;margin:0 0 1.2rem;padding:0;aspect-ratio:21/9;max-height:320px;overflow:hidden;border-radius:var(--radius)}
@@ -1007,7 +1009,7 @@ const showInlineDeals = (rawBody.match(/^## /gm) ?? []).length >= 5 && saleCards
 			.content-layout .prose h3:has(+ ul){padding:1rem 1rem .25rem;margin-bottom:0;background:var(--bg-card);border:1px solid var(--border);border-bottom:0;border-radius:var(--radius) var(--radius) 0 0}
 			.content-layout .prose h3 + ul{padding:0 1rem 1rem 2.5rem;margin-top:0;background:var(--bg-card);border:1px solid var(--border);border-top:0;border-radius:0 0 var(--radius) var(--radius)}
 			.inline-deals,.related-guides{margin:2rem 0}.section-eyebrow{font:700 .72rem var(--font-mono);color:var(--text-muted);text-transform:uppercase;letter-spacing:.1em}.inline-card-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.7rem}.inline-card-grid>*{min-width:0}
-			@media(max-width:980px){.content-layout{display:block;max-width:72ch}.content-layout .prose{max-width:100%}.content-layout .toc-rail-wrap{display:none}.mobile-toc{margin:1rem 0;padding:.75rem;border:1px solid var(--border);background:var(--bg-card)}.mobile-toc summary{color:var(--accent);cursor:pointer}.mobile-toc ol{padding-left:1.2rem}.mobile-toc a{color:var(--text-secondary)}.content-layout .quick-facts:not([data-user-toggled]){padding:.75rem}}
+			@media(max-width:980px){main .content-layout.content-layout{display:block;max-width:700px;padding:0}.content-layout .prose{max-width:100%}.content-layout .toc-rail-wrap{display:none}.mobile-toc{margin:1rem 0;padding:.75rem;border:1px solid var(--border);background:var(--bg-card)}.mobile-toc summary{color:var(--accent);cursor:pointer}.mobile-toc ol{padding-left:1.2rem}.mobile-toc a{color:var(--text-secondary)}.content-layout .quick-facts:not([data-user-toggled]){padding:.75rem}}
 			@media(max-width:600px){.content-layout .prose{font-size:1.0625rem}.content-layout .article-header h1{font-size:clamp(1.8rem,7vw,2.2rem)}.content-layout .hero-image{aspect-ratio:21/9;margin:0 0 1rem;border-radius:var(--radius)}.content-layout .prose table th:first-child,.content-layout .prose table td:first-child{position:sticky;left:0;background:var(--bg-card);z-index:1}.inline-card-grid{grid-template-columns:1fr}.content-layout .prose img{max-width:100%;height:auto}}
 		</style>
 		<script>
