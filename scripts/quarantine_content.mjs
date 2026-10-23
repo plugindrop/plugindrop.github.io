@@ -30,6 +30,7 @@ export function lintContent(text, today, { trackerEnded = false } = {}) {
     const pb = ['pluginboutique.com', 'www.pluginboutique.com'].includes(parsed.hostname.toLowerCase());
     if (label.toLowerCase().includes('plugin boutique') && !pb) hits.push('link_host_mismatch');
     if (pb && (new RegExp(rules.pb_search, 'i').test(url) || parsed.pathname === '/')) {
+      if (parsed.pathname === '/search' && parsed.searchParams.has('q') && new RegExp(rules.pb_search_bad_query, 'i').test(parsed.searchParams.get('q').trim())) hits.push('pb_search_bad_query');
       const cells = line.trimStart().startsWith('|') ? line.trim().replace(/^\||\|$/g, '').split('|').map(cell => cell.trim()) : [];
       if (cells.some(cell => /^Free(?:\s*\([^|)]*\))?$/i.test(cell)) || /\b(?:Download|Get)\b[^\]]*\bFree\b/i.test(label)) hits.push('pb_search_cta');
       const title = text.match(/^title:\s*["']?(.+?)["']?\s*$/m)?.[1];

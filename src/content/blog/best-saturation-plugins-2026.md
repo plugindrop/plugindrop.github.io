@@ -55,7 +55,7 @@ Saturation Knob gives you one knob, four saturation modes (Keep High, Neutral, K
 
 **Best for:** Producers who want consistent saturation across every channel in a session without setup time.
 
-[→ Get Saturation Knob on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Saturation%20Knob&a_aid=69cb95abe1763&chan=art&data1=best-saturation-plugins-2026)
+[Saturation Knob](https://www.softube.com/plug-ins/saturation-knob)
 
 ---
 

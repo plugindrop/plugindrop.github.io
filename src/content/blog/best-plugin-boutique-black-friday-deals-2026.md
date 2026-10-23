@@ -22,7 +22,7 @@ priceTrack:
 
 ## When Is Plugin Boutique Black Friday 2026?
 
-Plugin Boutique has not published its 2026 Black Friday dates at the time of writing. Black Friday itself falls on **November 27, 2026**, and the sales we recorded in earlier years started around November 20-22. Treat any date range as unconfirmed until Plugin Boutique announces it.
+Plugin Boutique has yet to announce its 2026 Black Friday dates at the time of writing. Black Friday itself falls on **November 27, 2026**, and the sales we recorded in earlier years started around November 20-22. Treat any date range as unconfirmed until Plugin Boutique announces it.
 
 [→ Check current deals at Plugin Boutique](https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=black-friday-2026&chan=art&data1=best-plugin-boutique-black-friday-deals-2026)
 

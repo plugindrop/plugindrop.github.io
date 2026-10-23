@@ -91,7 +91,7 @@ Waves list prices are close to meaningless — this plugin is discounted so ofte
 
 **Best for:** Mixing engineers who need a reliable, warm studio delay with tempo sync, modulation, and flexible filter controls in one plugin.
 
-[→ Get Waves H-Delay on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Waves%20H&a_aid=69cb95abe1763&chan=art&data1=best-delay-vst-plugins-2026)
+[Get Waves H-Delay](https://www.pluginboutique.com/search?q=Waves+H-Delay&a_aid=69cb95abe1763&chan=art&data1=best-delay-vst-plugins-2026)
 
 ---
 
@@ -110,7 +110,7 @@ Arturia frequently bundles this into FX Collection during their seasonal sales, 
 
 **Best for:** Guitarists, film composers, and producers chasing authentic vintage BBD delay character without investing in physical hardware.
 
-[→ Get Arturia Delay BRIGADE on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Arturia%20Delay%20BRIGADE&a_aid=69cb95abe1763&chan=art&data1=best-delay-vst-plugins-2026)
+[Get Arturia Delay BRIGADE](https://www.pluginboutique.com/search?q=Arturia+Delay+BRIGADE&a_aid=69cb95abe1763&chan=art&data1=best-delay-vst-plugins-2026)
 
 ---
 

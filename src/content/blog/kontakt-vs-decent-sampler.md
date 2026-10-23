@@ -142,7 +142,7 @@ For producers who have not yet committed to specific commercial libraries, start
 - **Price:** From $199 (varies by tier)
 - **Why upgrade:** If Kontakt 8 is your destination but you also want NI's synthesizers, drum machines, and effects — Massive X, Battery, Reaktor, and the rest — Komplete bundles all of it at a cost-per-plugin that makes buying Kontakt standalone look inefficient. The Standard tier and above include Kontakt 8 plus a substantial instrument library.
 
-[→ Get Native Instruments Komplete on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Native%20Instruments%20Komplete&a_aid=69cb95abe1763&chan=art&data1=kontakt-vs-decent-sampler)
+[Get Native Instruments Komplete](https://www.pluginboutique.com/search?q=Native+Instruments+Komplete&a_aid=69cb95abe1763&chan=art&data1=kontakt-vs-decent-sampler)
 
 ---
 

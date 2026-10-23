@@ -124,7 +124,7 @@ Analog Obsession releases LALA through a pay-what-you-want Patreon model — the
 
 **Best for:** Vocals, acoustic instruments, and bass lines where warmth matters more than precision.
 
-[→ Get Analog Obsession LALA on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Analog%20Obsession%20LALA&a_aid=69cb95abe1763&chan=art&data1=best-compressor-plugins-2026)
+[Analog Obsession LALA](https://www.patreon.com/analogobsession)
 
 ---
 
@@ -188,7 +188,7 @@ It does one job and does not pretend otherwise. Given its design, the release ma
 - **Price:** ~$75
 - **Why upgrade:** The Glue models the SSL 4000 G bus compressor. If you've outgrown free bus compression but aren't sure Pro-C 3 is the right tool for your mix bus, The Glue solves the problem directly.
 
-[→ Get Cytomic The Glue on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Cytomic%20The%20Glue&a_aid=69cb95abe1763&chan=art&data1=best-compressor-plugins-2026)
+[Get Cytomic The Glue](https://www.pluginboutique.com/search?q=Cytomic+The+Glue&a_aid=69cb95abe1763&chan=art&data1=best-compressor-plugins-2026)
 
 ---
 

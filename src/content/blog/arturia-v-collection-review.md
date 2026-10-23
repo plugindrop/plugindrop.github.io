@@ -265,7 +265,7 @@ The Yamaha DX7's 6-operator FM architecture is notoriously difficult to program 
 - **Price:** Varies by tier (Standard / Select / Ultimate / Collector's Edition)
 - **Why upgrade:** If you need orchestral libraries, modern synths, effects processing, and sampling tools alongside vintage keys, Komplete's scope is wider. It trades V Collection's depth of vintage accuracy for breadth across production categories — a better fit for composers who work across multiple genres and need everything in one ecosystem.
 
-[→ Get Native Instruments Komplete on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Native%20Instruments%20Komplete&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review)
+[Get Native Instruments Komplete](https://www.pluginboutique.com/search?q=Native+Instruments+Komplete&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review)
 
 ---
 

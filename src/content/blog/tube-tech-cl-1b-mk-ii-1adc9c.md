@@ -26,7 +26,7 @@ saleExpirySource: "fallback"
 
 ## What Is Tube Tech CL 1B Mk II?
 
-The Tube Tech CL 1B Mk II is a compressor plugin modeled on the classic Tube-Tech CL 1B hardware unit, known for its opto-tube compression circuit and warm, musical coloration. It's designed to emulate the tube saturation and gain-reduction behavior of the original analog gear in software form. Check the product page for the exact developer credit and modeling details.
+The Tube Tech CL 1B Mk II is a compressor plugin modeled on the classic Tube-Tech CL 1B hardware unit, known for its opto-tube compression circuit and warm, musical coloration. It's designed to emulate the tube saturation and gain-reduction behavior of the original analog gear in software form.
 
 ## Key Features
 

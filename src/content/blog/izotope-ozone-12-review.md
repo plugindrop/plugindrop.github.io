@@ -205,7 +205,7 @@ The separation is not perfect on every source, and artifacts are audible on heav
 - **Price:** Bundle (see current pricing)
 - **Why upgrade:** Ozone 12 Advanced covers mastering completely, but the Music Production Suite adds Neutron (mix bus processing), Nectar (vocal production), RX (audio repair), and the full iZotope plugin library. The Tonal Balance Control plugin — which lets you view the spectral balance of your mix against mastered references while mixing — is only available in the Suite and fundamentally changes how you mix into a master. For producers who want one subscription to cover the entire post-production workflow, this is the route.
 
-[→ Get iZotope Music Production Suite on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20iZotope%20Music%20Production%20Suite&a_aid=69cb95abe1763&chan=art&data1=izotope-ozone-12-review)
+[Get iZotope Music Production Suite](https://www.pluginboutique.com/search?q=iZotope+Music+Production+Suite&a_aid=69cb95abe1763&chan=art&data1=izotope-ozone-12-review)
 
 ---
 

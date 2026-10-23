@@ -210,7 +210,7 @@ The free picks above handle the majority of production scenarios. But when speci
 - **Price:** ~$29–$49 (frequently discounted)
 - **Why upgrade:** H-Delay is the practical hybrid between analog warmth and digital precision — a BPM-synced delay with an analog/digital tone blend control that free tape emulations approach but don't fully replicate. It's the default "clean tape character" delay on countless professional mixing sessions, and its Waves-standard reliability makes it the low-risk choice when creative experimentation isn't the brief.
 
-[→ Get Waves H-Delay on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20Waves%20H&a_aid=69cb95abe1763&chan=art&data1=best-free-delay-vst-plugins)
+[Get Waves H-Delay](https://www.pluginboutique.com/search?q=Waves+H-Delay&a_aid=69cb95abe1763&chan=art&data1=best-free-delay-vst-plugins)
 
 ---
 

@@ -195,7 +195,7 @@ A: V Collection is generally preferred for live keyboard work — the interfaces
 
 For vintage synthesis and classic keyboard sounds, Arturia V Collection 11 is the more decisive purchase — it's focused and deep. For producers who need sampling infrastructure, acoustic instruments, guitar processing, and a broader toolkit, Native Instruments Komplete Standard earns its place. The strongest setup for most working producers is V Collection for keys and a Komplete tier for everything else — bought when each brand's promotions suit you.
 
-[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) | [→ Get NI Komplete on Plugin Boutique](https://www.pluginboutique.com/search?q=%E2%86%92%20Get%20NI%20Komplete&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete)
+[→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete) | [Get NI Komplete](https://www.pluginboutique.com/search?q=NI+Komplete&a_aid=69cb95abe1763&chan=art&data1=arturia-vs-native-instruments-komplete)
 
 ---
 

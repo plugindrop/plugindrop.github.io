@@ -11,6 +11,7 @@
     "\\bit sounds (?:genuinely )?(?:excellent|amazing|great|fantastic)\\b"
   ],
   "experience_exclude": [
+    "\\bnot a hands-on (?:review|test(?:ing)?|experience)\\b",
     "^We have not tested these products hands-on\\. See our \\[editorial policy\\]\\(/editorial-policy/\\) for how we assess sources\\.$",
     "^This article brings together publicly available product information\\. We have not tested the product hands-on\\. Prices come from PluginDrop's tracking\\. See our \\[editorial policy\\]\\(/editorial-policy/\\) for how we assess sources\\.$",
     "^This guide lists plugins that cost \\$100 or less on the vendor's own product page\\. We have not tested these products hands-on; the descriptions below restate what each vendor says about its own product\\. See our \\[editorial policy\\]\\(/editorial-policy/\\) for how we assess sources\\.$",
@@ -32,6 +33,7 @@
   "rarity_banned": ["all-time low", "lowest price ever", "best price ever", "lowest in 12 months", "\\brare\\b(?!.*\\d)"],
   "pb_host": "(?:www\\.)?pluginboutique\\.com",
   "pb_search": "(?:/search\\?|[?&]q=)",
+  "pb_search_bad_query": "^(?:→|Get\\s+)|^.{0,2}$",
   "pb_product": "/product/",
   "boilerplate": ["This post contains affiliate links", "at no extra cost to you"]
 }

@@ -24,16 +24,16 @@ const vendorPrice = validFact(vendor?.is_free) && vendor.is_free.value === true 
 const officialUrl = (url: string) => { try { const clean = new URL(url); if (clean.protocol !== 'https:') return null; clean.search = ''; clean.hash = ''; return clean.toString(); } catch { return null; } };
 const sourceUrl = (url: string) => { const clean = new URL(url); for (const key of [...clean.searchParams.keys()]) if (/^utm_|^(a_aid|aff|affiliate|ref|referral)$/i.test(key)) clean.searchParams.delete(key); return clean.toString(); };
 const official = isVendor ? officialUrl(vp.product_url) : null;
-const display = (value: unknown) => value === null || value === undefined || value === '' ? 'not published' : Array.isArray(value) ? value.join(', ') : String(value);
-const money = (value: number | null | undefined) => value == null ? 'not published' : formatPrice(value);
+const display = (value: unknown) => value === null || value === undefined || value === '' ? null : Array.isArray(value) ? value.join(', ') : String(value);
+const money = (value: number | null | undefined) => value == null ? null : formatPrice(value);
 const fields = [
   ['Formats', display(facts?.formats)], ['macOS', formatOsRequirement(facts?.mac_req)], ['Windows', formatOsRequirement(facts?.win_req)],
   ...([['apple_silicon', 'Apple Silicon'], ['copy_protection', 'Copy protection'], ['trial', 'Trial']] as const)
     .filter(([key]) => vendor?.[key]?.value != null).map(([key, label]) => [label, display(vendor[key].value)]),
   ['Typical regular', money(price?.regular)], ['Typical sale', money(price?.sale)],
-  ['Sales recorded', price?.salesRecorded ?? 'not published'], ['Today', money(price?.today)],
-  ['Verdict', price?.verdict.label ?? 'not published'],
-];
+  ['Sales recorded', price?.salesRecorded], ['Today', money(price?.today)],
+  ['Verdict', price?.verdict.label],
+].filter(([, value]) => value !== null && value !== undefined && value !== '');
 const vendorFields = [
   ['Formats', vendor?.formats], ['macOS', vendor?.macos_min], ['Windows', vendor?.windows_min],
   ['Apple Silicon', vendor?.apple_silicon], ['Copy protection', vendor?.copy_protection], ['Trial', vendor?.trial],
