@@ -15,7 +15,7 @@ saleExpiry: "2026-11-21"
 saleExpirySource: "fallback"
 draft: true
 ---
-**TL;DR:** Super 7 is down to $19 ~~$79~~ at Plugin Boutique, tying the lowest price we've tracked across 19 observations since 2026-09-06. It's UVI's take on the Roland MKS-7, pairing 106-style analog synth architecture with PCM drum machine sounds in a single standalone instrument. If the retro synth-plus-drums workflow fits your sessions, this is priced at its tracked floor right now: [check the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Super+7&a_aid=69cb95abe1763&chan=art&data1=super-7-2ee0a2&utm_source=plugindrop&utm_medium=article&utm_campaign=super-7-2ee0a2).
+**TL;DR:** Super 7 is down to $19 ~~$79~~ at Plugin Boutique, tying the lowest price we've tracked across 19 observations since 2026-09-06. It's UVI's take on the Roland MKS-7, pairing 106-style analog synth architecture with PCM drum machine sounds in a single standalone instrument. If the retro synth-plus-drums workflow fits your sessions, this is priced at its tracked floor right now: [check the deal at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/15978-Super-7?a_aid=69cb95abe1763&chan=art&data1=super-7-2ee0a2&utm_source=plugindrop&utm_medium=article&utm_campaign=super-7-2ee0a2).
 
 <!-- deal-context-sale-windows:start -->
 ## Last three times this went on sale
@@ -47,7 +47,7 @@ It also fits sound-design passes where the synthwave, electro, or house patch ca
 
 Super 7 is listed at $19 against a $79 regular price, and that $19 figure is both the lowest price and the typical sale price we've tracked across 19 observations since 2026-09-06. In other words, this isn't a rare dip below the usual sale floor — it's the price point this deal has consistently landed on when discounted.
 
-That said, 19 tracked observations is a meaningful sample, and a sale price holding steady at $19 over that many checks suggests it's a recurring promotional price rather than a one-off. Grab it through [Plugin Boutique](https://www.pluginboutique.com/search?q=Super+7&a_aid=69cb95abe1763&chan=art&data1=super-7-2ee0a2&utm_source=plugindrop&utm_medium=article&utm_campaign=super-7-2ee0a2), and verify current pricing before checkout since sale windows can close.
+That said, 19 tracked observations is a meaningful sample, and a sale price holding steady at $19 over that many checks suggests it's a recurring promotional price rather than a one-off. Grab it through [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/15978-Super-7?a_aid=69cb95abe1763&chan=art&data1=super-7-2ee0a2&utm_source=plugindrop&utm_medium=article&utm_campaign=super-7-2ee0a2), and verify current pricing before checkout since sale windows can close.
 
 ## Skip it if
 

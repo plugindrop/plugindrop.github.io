@@ -14,7 +14,7 @@ discount: "51% OFF"
 saleExpiry: "2026-08-09"
 draft: true
 ---
-**TL;DR:** Fluid Chords 2 is on sale at Plugin Boutique for $49, down from ~~$99~~. That price matches the lowest this tool has tracked since 2026-08-09 across 15 observations, so this isn't a shallow discount. Grab it through the [Plugin Boutique listing](https://www.pluginboutique.com/search?q=Fluid+Chords+2&a_aid=69cb95abe1763&chan=art&data1=fluid-chords-2-4fd4e1&utm_source=plugindrop&utm_medium=article&utm_campaign=fluid-chords-2-4fd4e1) while it's active.
+**TL;DR:** Fluid Chords 2 is on sale at Plugin Boutique for $49, down from ~~$99~~. That price matches the lowest this tool has tracked since 2026-08-09 across 15 observations, so this isn't a shallow discount. Grab it through the [Plugin Boutique listing](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/15093-Fluid-Chords-2?a_aid=69cb95abe1763&chan=art&data1=fluid-chords-2-4fd4e1&utm_source=plugindrop&utm_medium=article&utm_campaign=fluid-chords-2-4fd4e1) while it's active.
 
 <!-- deal-context-sale-windows:start -->
 ## Last three times this went on sale

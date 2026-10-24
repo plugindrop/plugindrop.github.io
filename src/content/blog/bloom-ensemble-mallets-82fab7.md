@@ -16,7 +16,7 @@ draft: true
 ---
 If you only add one percussion instrument to your template this month, make it Bloom Ensemble Mallets — it's built specifically for tuned mallet work, not a general drum kit stretched to cover it.
 
-**TL;DR:** Bloom Ensemble Mallets is currently 34% off its regular ~~$59~~ price at Plugin Boutique. It's a sample-based mallet percussion instrument with 112 samples across 8 banks, 250 presets, and built-in rhythmic modifiers for scoring and sequencing work. [Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=Bloom+Ensemble+Mallets&a_aid=69cb95abe1763&chan=art&data1=bloom-ensemble-mallets-82fab7&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-ensemble-mallets-82fab7).
+**TL;DR:** Bloom Ensemble Mallets is currently 34% off its regular ~~$59~~ price at Plugin Boutique. It's a sample-based mallet percussion instrument with 112 samples across 8 banks, 250 presets, and built-in rhythmic modifiers for scoring and sequencing work. [Check the current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17900-Bloom-Ensemble-Mallets?a_aid=69cb95abe1763&chan=art&data1=bloom-ensemble-mallets-82fab7&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-ensemble-mallets-82fab7).
 
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="34% Off Bloom Ensemble Mallets — Cinematic Mallet Percussion — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%3Aplaylists%3A2317489683%3Fsecret_token%3Ds-WvTOlZeUegB&color=%23a64045&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
@@ -72,7 +72,7 @@ A: It lists for $59 and is currently discounted 34% at Plugin Boutique.
 
 ## Should you buy now?
 
-At 34% off a $59 regular price, the discount brings a focused mallet percussion instrument with 112 samples and 250 presets to a lower entry cost than its standard list price. If mallet percussion fills a gap in your current template, this is the kind of discount worth acting on rather than waiting for formats or specs to change. [Grab Bloom Ensemble Mallets while it's discounted at Plugin Boutique](https://www.pluginboutique.com/search?q=Bloom+Ensemble+Mallets&a_aid=69cb95abe1763&chan=art&data1=bloom-ensemble-mallets-82fab7&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-ensemble-mallets-82fab7).
+At 34% off a $59 regular price, the discount brings a focused mallet percussion instrument with 112 samples and 250 presets to a lower entry cost than its standard list price. If mallet percussion fills a gap in your current template, this is the kind of discount worth acting on rather than waiting for formats or specs to change. [Grab Bloom Ensemble Mallets while it's discounted at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17900-Bloom-Ensemble-Mallets?a_aid=69cb95abe1763&chan=art&data1=bloom-ensemble-mallets-82fab7&utm_source=plugindrop&utm_medium=article&utm_campaign=bloom-ensemble-mallets-82fab7).
 
 *Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
 
