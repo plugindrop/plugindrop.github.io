@@ -39973,6 +39973,48 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2024-08-21",
+          "regular": 29.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-11-09",
+          "regular": 24.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-12-01",
+          "regular": 24.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-01-16",
+          "regular": 24.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-02-18",
+          "regular": 49.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-03-05",
+          "regular": 24.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-08-04",
+          "regular": 24.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/kshmr-chain.jpg"
@@ -40182,6 +40224,30 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2024-09-03",
+          "regular": 125.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-10-03",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-12-23",
+          "regular": 79.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-03-05",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/kv331-audio-synthmaster-3.jpg"

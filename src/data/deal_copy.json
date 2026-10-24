@@ -814,20 +814,25 @@
     "brand": null,
     "product": "MAutoAlign",
     "category": null,
-    "tagline": null,
+    "tagline": "Automatically fixes delays and polarity across multi-mic recordings",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/29-Phaser/68-MAutoAlign",
-    "retrieved": "2026-10-18",
+    "retrieved": "2026-10-25",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/29-Phaser/68-MAutoAlign",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-18",
+    "tagline_source_quote": "finds the ideal delays and polarity inversions automatically",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": "MAutoAlign finds the ideal delays and polarity inversions automatically.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/29-Phaser/68-MAutoAlign",
+    "maker_quote_retrieved": "2026-10-25"
   },
   "MC2000 Multi Band Compressor Native v7": {
     "pbProductId": "8949",
@@ -5384,20 +5389,25 @@
     "brand": null,
     "product": "HEAVY 2",
     "category": null,
-    "tagline": null,
+    "tagline": "Hard-hitting rock drummer with relentless weight for rock and grunge",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/5508-HEAVY-2",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-25",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/5508-HEAVY-2",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "relentless weight and energy behind each hit",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "quote_not_in_source"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Virtual Drummer HEAVY is an authoritative, hard-hitting rock drummer, permanently set to beast mode!",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/5508-HEAVY-2",
+    "maker_quote_retrieved": "2026-10-25"
   },
   "Heavyocity Ascend": {
     "pbProductId": "5714",
@@ -5469,20 +5479,25 @@
     "brand": null,
     "product": "IRON 2",
     "category": null,
-    "tagline": null,
+    "tagline": "Roaring riffs and power chords with stomp box effects, Drop D tuning",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8111-IRON-2",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-25",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8111-IRON-2",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "roaring riffs and power chords",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": "IRON is suitable for all levels of music production experience.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8111-IRON-2",
+    "maker_quote_retrieved": "2026-10-25"
   },
   "Infiltrator 2": {
     "pbProductId": "7627",
@@ -5571,7 +5586,7 @@
     "category": null,
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/9641-KSHMR-Chain",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-25",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -5579,10 +5594,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/9641-KSHMR-Chain",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Within KSHMR Chain you can assign any plugin parameter to a Macro knob.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/72-Utility/9641-KSHMR-Chain",
+    "maker_quote_retrieved": "2026-10-25"
   },
   "KV331 Audio SynthMaster 3": {
     "pbProductId": "12813",
@@ -5629,20 +5649,25 @@
     "brand": null,
     "product": "Kilohearts Convolver",
     "category": null,
-    "tagline": null,
+    "tagline": "Convolution reverb with 300 factory impulse responses included",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/8218-Convolver",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-25",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/8218-Convolver",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "we've included over 300 factory IRs for a range of unique effects",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "missing_or_long"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": "But that's not all you can do with Convolver.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/8218-Convolver",
+    "maker_quote_retrieved": "2026-10-25"
   },
   "Kilohearts Disperser": {
     "pbProductId": "611",
@@ -5669,20 +5694,25 @@
     "brand": null,
     "product": "Kilohearts Faturator",
     "category": null,
-    "tagline": null,
+    "tagline": "Adds grit, width, and saturation to vocals, synths, and drums",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/30-Distortion/337-Faturator",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-25",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/30-Distortion/337-Faturator",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "add a nice grit to vocals, synths and even drums",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "banned_claim_or_price"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 1,
+    "maker_quote": "Kilohearts recommend keeping up to date with OS versions as they become available.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/30-Distortion/337-Faturator",
+    "maker_quote_retrieved": "2026-10-25"
   },
   "Kilohearts Filter Table": {
     "pbProductId": "14112",
@@ -5771,7 +5801,7 @@
     "category": "EQ",
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/3992-Slice-EQ",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-25",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -5779,30 +5809,40 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/3992-Slice-EQ",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Cut, or enhance, frequencies with surgical precision using Slice EQ.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/3992-Slice-EQ",
+    "maker_quote_retrieved": "2026-10-25"
   },
   "Kilohearts Snap Heap": {
     "pbProductId": "2397",
     "brand": null,
     "product": "Kilohearts Snap Heap",
     "category": null,
-    "tagline": null,
+    "tagline": "Build up to seven chains and modulate every parameter",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/2397-Snap-Heap",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-25",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/2397-Snap-Heap",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "build up to seven serial or parallel effects chains and modulate every parameter",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": "The open modular architecture of the Kilohearts Ecosystem gives you the freedom to design any effect you can imagine.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/2397-Snap-Heap",
+    "maker_quote_retrieved": "2026-10-25"
   },
   "LEGEND": {
     "pbProductId": "11446",
@@ -6069,20 +6109,25 @@
     "brand": null,
     "product": "Minimal Audio Fuse Compressor",
     "category": null,
-    "tagline": null,
+    "tagline": "Six-band dual compression with macro ratio control and spectral tilt",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10984-Fuse-Compressor",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-25",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10984-Fuse-Compressor",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "macro ratio control, spectral tilt, and adaptive time",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "missing_or_long"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": "Use multi-band compression like a standard compressor by adjusting all per-band thresholds or ratios simultaneously.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10984-Fuse-Compressor",
+    "maker_quote_retrieved": "2026-10-25"
   },
   "Minimal Audio Hybrid Filter": {
     "pbProductId": "11829",
@@ -6191,7 +6236,7 @@
     "category": null,
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/2-Effects/29-Phaser/12710-Ripple-Phaser",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-25",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -6199,10 +6244,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/29-Phaser/12710-Ripple-Phaser",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "missing_or_long"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "N.B if you do not already have a Minimal Audio account then you can still use this form to create one.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/29-Phaser/12710-Ripple-Phaser",
+    "maker_quote_retrieved": "2026-10-25"
   },
   "Minimal Audio Squash": {
     "pbProductId": "14398",
@@ -6296,7 +6346,7 @@
     "category": null,
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11727-Moog-Mariana",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-25",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -6304,10 +6354,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11727-Moog-Mariana",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Click 'Create an account' > If you already have a moog account, skip to step 5.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11727-Moog-Mariana",
+    "maker_quote_retrieved": "2026-10-25"
   },
   "Native Instruments 24K Drums": {
     "pbProductId": "15855",
@@ -6414,20 +6469,25 @@
     "brand": null,
     "product": "Native Instruments Discoteca Drums",
     "category": null,
-    "tagline": null,
+    "tagline": "Retro-futuristic Italo disco drum sounds from classic drum machines",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15862-Discoteca-Drums",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-25",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15862-Discoteca-Drums",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "classic drum machines",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "banned_claim_or_price"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": "Discoteca Drums was created in collaboration with producer and sound engineer Alexkid.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15862-Discoteca-Drums",
+    "maker_quote_retrieved": "2026-10-25"
   },
   "Native Instruments FM8": {
     "pbProductId": "8001",
@@ -6514,20 +6574,25 @@
     "brand": null,
     "product": "Native Instruments Kontakt 8",
     "category": "Instrument",
-    "tagline": null,
+    "tagline": "Sampling platform with Chords and Phrases, Leap, and Conflux tools",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/13195-Kontakt-8",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-25",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/13195-Kontakt-8",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "Chords and Phrases Tools",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": "Imagine any sound – Kontakt lets you find it, create it, and transform it.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/13195-Kontakt-8",
+    "maker_quote_retrieved": "2026-10-25"
   },
   "Native Instruments LCO Producer Strings": {
     "pbProductId": "15839",
@@ -6596,7 +6661,7 @@
     "category": "Synth",
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7998-MASSIVE",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-25",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -6604,10 +6669,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7998-MASSIVE",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "banned_claim_or_price"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Massive is a sonic monster – the ultimate synth for basses and leads.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7998-MASSIVE",
+    "maker_quote_retrieved": "2026-10-25"
   },
   "Native Instruments Massive X": {
     "pbProductId": "10604",
@@ -6916,7 +6986,7 @@
     "category": "Instrument",
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/4114-Output-ANALOG-BRASS-WINDS-Kontakt-Instrument",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-25",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -6924,10 +6994,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/4114-Output-ANALOG-BRASS-WINDS-Kontakt-Instrument",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Analog Brass and Winds is a virtual instrument for those who dare.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/4114-Output-ANALOG-BRASS-WINDS-Kontakt-Instrument",
+    "maker_quote_retrieved": "2026-10-25"
   },
   "Output Analog Strings": {
     "pbProductId": "3239",
@@ -6936,7 +7011,7 @@
     "category": "Instrument",
     "tagline": null,
     "source_url": null,
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-25",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -6944,10 +7019,15 @@
     },
     "tagline_source_url": null,
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
     "status": "no_source",
-    "reject_reason": "source_empty"
+    "reject_reason": "source_empty",
+    "validator_version": 2,
+    "attempts": 0,
+    "maker_quote": null,
+    "maker_quote_source_url": null,
+    "maker_quote_retrieved": null
   },
   "Output EXHALE": {
     "pbProductId": "1895",
@@ -6994,20 +7074,25 @@
     "brand": null,
     "product": "Output Portal",
     "category": "Effects",
-    "tagline": null,
+    "tagline": "Re-synthesizes vocals, drums, and guitar through granular synthesis",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/45-Granular-FX/5458-Portal",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-25",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/45-Granular-FX/5458-Portal",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "VSTs, drums, vocals, live guitar, you name it",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": "With PORTAL, granular synthesis takes your sounds to another dimension.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/45-Granular-FX/5458-Portal",
+    "maker_quote_retrieved": "2026-10-25"
   },
   "Output Signal": {
     "pbProductId": "1511",
@@ -7016,7 +7101,7 @@
     "category": "Instrument",
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/1511-SIGNAL",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-25",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -7024,10 +7109,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/1511-SIGNAL",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "banned_claim_or_price"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Use SIGNAL’s intuitive tagging system to quickly find the sound you are looking for.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/1511-SIGNAL",
+    "maker_quote_retrieved": "2026-10-25"
   },
   "Output Substance": {
     "pbProductId": "2799",
@@ -7036,7 +7126,7 @@
     "category": "Instrument",
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/2799-SUBSTANCE",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-25",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -7044,10 +7134,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/2799-SUBSTANCE",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "missing_or_long"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "SUBSTANCE combines three layers of sources to create one massive sound.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/2799-SUBSTANCE",
+    "maker_quote_retrieved": "2026-10-25"
   },
   "PHAT 2": {
     "pbProductId": "5506",
@@ -7114,20 +7209,25 @@
     "brand": null,
     "product": "Pigments 7",
     "category": null,
-    "tagline": null,
+    "tagline": "Six synthesis engines with colour-coded modulation for pads and basses",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-25",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "lush pads and evolving textures to razor-edged basses and punchy leads",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "banned_claim_or_price"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": "Explore an infinite spectrum of sound with Pigments’ multiengine architecture and deep modulation options.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-7",
+    "maker_quote_retrieved": "2026-10-25"
   },
   "Playbeat 4": {
     "pbProductId": "14265",
@@ -10796,7 +10896,7 @@
     "category": null,
     "tagline": null,
     "source_url": null,
-    "retrieved": "2026-10-20",
+    "retrieved": "2026-10-25",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -10804,10 +10904,15 @@
     },
     "tagline_source_url": null,
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-20",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
     "status": "no_source",
-    "reject_reason": "source_empty"
+    "reject_reason": "source_empty",
+    "validator_version": 2,
+    "attempts": 0,
+    "maker_quote": null,
+    "maker_quote_source_url": null,
+    "maker_quote_retrieved": null
   },
   "KOMPLETE Synthesizer Collection": {
     "pbProductId": "12033",
@@ -10816,7 +10921,7 @@
     "category": null,
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/12033-KOMPLETE-Synthesizer-Collection",
-    "retrieved": "2026-10-20",
+    "retrieved": "2026-10-25",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -10824,10 +10929,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/12033-KOMPLETE-Synthesizer-Collection",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-20",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "JSONDecodeError"
+    "reject_reason": "component_only",
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": "BLOCKS PRIMES is a collection of 23 advanced Blocks that deliver character, depth, and exceptional sound.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/12033-KOMPLETE-Synthesizer-Collection",
+    "maker_quote_retrieved": "2026-10-25"
   },
   "MetaTune": {
     "pbProductId": "15799",
@@ -10856,7 +10966,7 @@
     "category": null,
     "tagline": null,
     "source_url": null,
-    "retrieved": "2026-10-20",
+    "retrieved": "2026-10-25",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -10864,10 +10974,15 @@
     },
     "tagline_source_url": null,
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-20",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
     "status": "no_source",
-    "reject_reason": "source_empty"
+    "reject_reason": "source_empty",
+    "validator_version": 2,
+    "attempts": 0,
+    "maker_quote": null,
+    "maker_quote_source_url": null,
+    "maker_quote_retrieved": null
   },
   "Minimal Audio Flex Chorus": {
     "pbProductId": "12037",
@@ -10876,7 +10991,7 @@
     "category": null,
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/2-Effects/11-Chorus/12037-Flex-Chorus",
-    "retrieved": "2026-10-20",
+    "retrieved": "2026-10-25",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -10884,10 +10999,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/11-Chorus/12037-Flex-Chorus",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-20",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "banned_claim_or_price"
+    "reject_reason": "banned_claim_or_price",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Select 2 to 24 voices for classic to super-massive chorus effects.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/11-Chorus/12037-Flex-Chorus",
+    "maker_quote_retrieved": "2026-10-25"
   },
   "Minimal Audio Formant": {
     "pbProductId": "15630",
@@ -10896,7 +11016,7 @@
     "category": null,
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15630-Formant",
-    "retrieved": "2026-10-20",
+    "retrieved": "2026-10-25",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -10904,10 +11024,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15630-Formant",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-20",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "JSONDecodeError"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Transform your vocal’s character with pristine formant shifting and immediate controls.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15630-Formant",
+    "maker_quote_retrieved": "2026-10-25"
   },
   "Minimal Audio x Excite Audio Effects Bundle Exclusive": {
     "pbProductId": "15335",
@@ -10916,7 +11041,7 @@
     "category": null,
     "tagline": null,
     "source_url": null,
-    "retrieved": "2026-10-20",
+    "retrieved": "2026-10-25",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -10924,30 +11049,40 @@
     },
     "tagline_source_url": null,
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-20",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
     "status": "no_source",
-    "reject_reason": "source_empty"
+    "reject_reason": "source_empty",
+    "validator_version": 2,
+    "attempts": 0,
+    "maker_quote": null,
+    "maker_quote_source_url": null,
+    "maker_quote_retrieved": null
   },
   "Native Instruments Guitar Rig 7 Pro": {
     "pbProductId": "11108",
     "brand": null,
     "product": "Native Instruments Guitar Rig 7 Pro",
     "category": "Effects",
-    "tagline": null,
+    "tagline": "Four ICM-modeled tube amps with matching cabinet impulse responses",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/11108-Guitar-Rig-7-Pro",
-    "retrieved": "2026-10-20",
+    "retrieved": "2026-10-25",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/11108-Guitar-Rig-7-Pro",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-20",
+    "tagline_source_quote": "four new amp models with matching cabinet modules",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "JSONDecodeError"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Guitar Rig 7 Pro is so much more than realistic guitar tones.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/11108-Guitar-Rig-7-Pro",
+    "maker_quote_retrieved": "2026-10-25"
   },
   "Plugin Alliance Lindell 80 Series": {
     "pbProductId": "14090",
@@ -10956,7 +11091,7 @@
     "category": "Effects",
     "tagline": null,
     "source_url": null,
-    "retrieved": "2026-10-20",
+    "retrieved": "2026-10-25",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -10964,10 +11099,15 @@
     },
     "tagline_source_url": null,
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-20",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
     "status": "no_source",
-    "reject_reason": "source_empty"
+    "reject_reason": "source_empty",
+    "validator_version": 2,
+    "attempts": 0,
+    "maker_quote": null,
+    "maker_quote_source_url": null,
+    "maker_quote_retrieved": null
   },
   "Plugin Alliance Maag EQ4": {
     "pbProductId": "10525",
@@ -11241,7 +11381,7 @@
     "category": null,
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15877-Kithara",
-    "retrieved": "2026-10-21",
+    "retrieved": "2026-10-25",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -11249,30 +11389,40 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15877-Kithara",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-21",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "JSONDecodeError"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Kithara’s four-layer engine offers deep control of over 350 sound sources.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15877-Kithara",
+    "maker_quote_retrieved": "2026-10-25"
   },
   "Native Instruments Scene Magnolia": {
     "pbProductId": "18016",
     "brand": null,
     "product": "Native Instruments Scene Magnolia",
     "category": null,
-    "tagline": null,
+    "tagline": "Sixteen hybrid layers for pared-back arthouse cinematic scoring",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/18016-Scene-Magnolia-",
-    "retrieved": "2026-10-21",
+    "retrieved": "2026-10-25",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/18016-Scene-Magnolia-",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-21",
+    "tagline_source_quote": "pared-back intimacy of modern arthouse cinema scores",
+    "tagline_checked": "2026-10-25",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "JSONDecodeError"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": "Scene: Magnolia channels the pared-back intimacy of modern arthouse cinema scores.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/18016-Scene-Magnolia-",
+    "maker_quote_retrieved": "2026-10-25"
   },
   "UAD Emperical Labs FATSO Tape Simulator": {
     "pbProductId": "18051",
