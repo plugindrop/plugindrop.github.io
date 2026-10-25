@@ -1344,20 +1344,25 @@
     "brand": null,
     "product": "SoundID Reference for Headphones",
     "category": null,
-    "tagline": null,
+    "tagline": "Calibrates headphones to a flat, neutral studio reference sound",
     "source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/7408-SoundID-Reference-for-Headphones",
-    "retrieved": "2026-10-18",
+    "retrieved": "2026-10-26",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/7408-SoundID-Reference-for-Headphones",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-18",
+    "tagline_source_quote": "delivers consistently accurate studio reference sound on your existing headphones",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": "A headphone calibration software delivers consistently accurate studio reference sound on your existing headphones.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/7408-SoundID-Reference-for-Headphones",
+    "maker_quote_retrieved": "2026-10-26"
   },
   "Soundtoys Crystallizer": {
     "pbProductId": "1799",
@@ -7256,7 +7261,7 @@
     "category": null,
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17759-Pure-Sub",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-26",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -7264,10 +7269,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17759-Pure-Sub",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "banned_claim_or_price"
+    "reject_reason": "banned_claim_or_price",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Pure Sub is a synthesizer built for one thing: deep, punchy, characterful bass.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17759-Pure-Sub",
+    "maker_quote_retrieved": "2026-10-26"
   },
   "REFERENCE 3": {
     "pbProductId": "17100",
@@ -7316,7 +7326,7 @@
     "category": null,
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6257-ROYAL-2",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-26",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -7324,10 +7334,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6257-ROYAL-2",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "missing_or_long"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "ROYAL adapts to every situation, but especially primes in acoustic and electronic songs, bands and arrangements.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6257-ROYAL-2",
+    "maker_quote_retrieved": "2026-10-26"
   },
   "Remix": {
     "pbProductId": "11190",
@@ -7354,20 +7369,25 @@
     "brand": null,
     "product": "SILK 2",
     "category": null,
-    "tagline": null,
+    "tagline": "Nylon-string guitar phrases, chords and riffs for pop and rock songs",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11871-SILK-2",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-26",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11871-SILK-2",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "crafting elegant pop and rock songs",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 1,
+    "maker_quote": "SILK 2 beautifully captures the essence of nylon-string guitars with its completely new guitar model.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11871-SILK-2",
+    "maker_quote_retrieved": "2026-10-26"
   },
   "SOLID 2": {
     "pbProductId": "5507",
@@ -7394,20 +7414,25 @@
     "brand": null,
     "product": "SPARKLE 2",
     "category": null,
-    "tagline": null,
+    "tagline": "Vintage single-coil guitar for chords, octaves and riffs",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/9807-SPARKLE-2",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-26",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/9807-SPARKLE-2",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "chords, octaves and single-note electric guitar riffs",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 1,
+    "maker_quote": "Virtual Guitarist SPARKLE 2 is your session specialist for chords, octaves and single-note electric guitar riffs.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/9807-SPARKLE-2",
+    "maker_quote_retrieved": "2026-10-26"
   },
   "SSL Native X-Phase": {
     "pbProductId": "8666",
@@ -7550,19 +7575,24 @@
     "product": "Slate Digital FG-X 2",
     "category": "Mastering",
     "tagline": null,
-    "source_url": "https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15794-FG-X-2",
-    "retrieved": "2026-10-19",
+    "source_url": null,
+    "retrieved": "2026-10-26",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
       "lint_pass": false
     },
-    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15794-FG-X-2",
+    "tagline_source_url": null,
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "status": "no_source",
+    "reject_reason": "source_empty",
+    "validator_version": 2,
+    "attempts": 0,
+    "maker_quote": null,
+    "maker_quote_source_url": null,
+    "maker_quote_retrieved": null
   },
   "Slate Digital VTM": {
     "pbProductId": "15817",
@@ -7611,7 +7641,7 @@
     "category": "Effects",
     "tagline": null,
     "source_url": null,
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-26",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -7619,10 +7649,15 @@
     },
     "tagline_source_url": null,
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
     "status": "no_source",
-    "reject_reason": "source_empty"
+    "reject_reason": "source_empty",
+    "validator_version": 2,
+    "attempts": 0,
+    "maker_quote": null,
+    "maker_quote_source_url": null,
+    "maker_quote_retrieved": null
   },
   "Softube Trident A-Range": {
     "pbProductId": "2839",
@@ -7671,7 +7706,7 @@
     "category": "Mastering",
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/2-Effects/50-Mastering-/4180-Weiss-DS1-MK3",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-26",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -7679,10 +7714,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/50-Mastering-/4180-Weiss-DS1-MK3",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "missing_or_long"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Mastering compression, limiting, and de-essing without compromise.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/50-Mastering-/4180-Weiss-DS1-MK3",
+    "maker_quote_retrieved": "2026-10-26"
   },
   "Sonible entropy:EQ": {
     "pbProductId": "3104",
@@ -7691,7 +7731,7 @@
     "category": "EQ",
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/3104-entropy-EQ-",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-26",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -7699,10 +7739,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/3104-entropy-EQ-",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "missing_or_long"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "The entropy:EQ+ provides a handy solution in both cases.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/3104-entropy-EQ-",
+    "maker_quote_retrieved": "2026-10-26"
   },
   "Sonible prime vocal": {
     "pbProductId": "14147",
@@ -7791,7 +7836,7 @@
     "category": null,
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/2-Effects/20-Gate/10898-smart-gate",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-26",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -7799,10 +7844,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/20-Gate/10898-smart-gate",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "quote_not_in_source"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "You can also use smart:gate without its content-aware AI features, for operation as a conventional gate.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/20-Gate/10898-smart-gate",
+    "maker_quote_retrieved": "2026-10-26"
   },
   "Sonible smart:EQ 4": {
     "pbProductId": "11784",
@@ -7851,7 +7901,7 @@
     "category": "Reverb",
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/15044-smart-reverb-2",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-26",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -7859,10 +7909,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/15044-smart-reverb-2",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Note: Owners of smart:reverb version 1 can upgrade here.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/15044-smart-reverb-2",
+    "maker_quote_retrieved": "2026-10-26"
   },
   "SoundID VoiceAI Perpetual License Key": {
     "pbProductId": "13408",
@@ -7891,7 +7946,7 @@
     "category": null,
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/13347-Soundbox-Instruments-Bundle",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-26",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -7899,10 +7954,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/13347-Soundbox-Instruments-Bundle",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "quote_not_in_source"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Soundbox is a new MPE sampler, crafted to introduce cutting-edge virtual instruments with enhanced power and capability.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/13347-Soundbox-Instruments-Bundle",
+    "maker_quote_retrieved": "2026-10-26"
   },
   "Soundtoys EchoBoy": {
     "pbProductId": "1798",
@@ -7971,7 +8031,7 @@
     "category": "Effects",
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/1809-MicroShift",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-26",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -7979,10 +8039,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/1809-MicroShift",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "MicroShift gives you three different flavours of a classic stereo widening trick at the push of a button.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/1809-MicroShift",
+    "maker_quote_retrieved": "2026-10-26"
   },
   "Soundtoys PanMan": {
     "pbProductId": "1806",
@@ -8009,20 +8074,25 @@
     "brand": null,
     "product": "Soundtoys PhaseMistress",
     "category": null,
-    "tagline": null,
+    "tagline": "Rich analog phase sweeps with tempo-locked rhythmic modulation",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/29-Phaser/1808-PhaseMistress",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-26",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/29-Phaser/1808-PhaseMistress",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "Rich Phase Sweeps, Deep A nalog Vibe, and Tempo-Locked Modulation",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": "At Soundtoys, they have a bit of a phaser hoarding problem.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/29-Phaser/1808-PhaseMistress",
+    "maker_quote_retrieved": "2026-10-26"
   },
   "Soundtoys PrimalTap": {
     "pbProductId": "1857",
@@ -8069,20 +8139,25 @@
     "brand": null,
     "product": "Soundtoys SpaceBlender",
     "category": null,
-    "tagline": null,
+    "tagline": "Experimental algorithmic reverb for evolving ambient textures",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/14961-SpaceBlender",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-26",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/14961-SpaceBlender",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "experimental sound design, deep algorithmic craft, and certain characteristics of classic digital reverbs",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "quote_not_in_source"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": "SpaceBlender is your portal to a new dimension of space and time effects.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/14961-SpaceBlender",
+    "maker_quote_retrieved": "2026-10-26"
   },
   "Soundtoys SuperPlate": {
     "pbProductId": "10583",
@@ -8129,20 +8204,25 @@
     "brand": null,
     "product": "Speakers",
     "category": null,
-    "tagline": null,
+    "tagline": "Emulate loudspeakers and microphones from phones, radios, and cabinets",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/6487-Speakers",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-26",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/6487-Speakers",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "emulate a wide range of loudspeakers and microphones",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "tagline_style"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 1,
+    "maker_quote": "The Routing panel enables limitless reordering of Speakers’ signal flow.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/6487-Speakers",
+    "maker_quote_retrieved": "2026-10-26"
   },
   "StageOne 2": {
     "pbProductId": "10913",
@@ -8171,7 +8251,7 @@
     "category": null,
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11465-Super-8",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-26",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -8179,10 +8259,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11465-Super-8",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "banned_claim_or_price"
+    "reject_reason": "banned_claim_or_price",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Super 8 gives you a fun, easy way to bring the past into your present.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11465-Super-8",
+    "maker_quote_retrieved": "2026-10-26"
   },
   "Super-7": {
     "pbProductId": "15978",
@@ -8250,19 +8335,24 @@
     "product": "TR-808",
     "category": null,
     "tagline": null,
-    "source_url": "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/15360-TR-808",
-    "retrieved": "2026-10-19",
+    "source_url": null,
+    "retrieved": "2026-10-26",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
       "lint_pass": false
     },
-    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/15360-TR-808",
+    "tagline_source_url": null,
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "missing_or_long"
+    "status": "no_source",
+    "reject_reason": "source_empty",
+    "validator_version": 2,
+    "attempts": 0,
+    "maker_quote": null,
+    "maker_quote_source_url": null,
+    "maker_quote_retrieved": null
   },
   "TR-909": {
     "pbProductId": "15284",
@@ -8331,7 +8421,7 @@
     "category": null,
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10064-Tomofon",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-26",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -8339,10 +8429,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10064-Tomofon",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Tomofon is a groundbreaking new synth from Klevgrand.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10064-Tomofon",
+    "maker_quote_retrieved": "2026-10-26"
   },
   "Toontrack EZdrummer 3": {
     "pbProductId": null,
@@ -8411,7 +8506,7 @@
     "category": "Compressor",
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/10153-1176-Classic-Limiter-Collection",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-26",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -8419,10 +8514,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/10153-1176-Classic-Limiter-Collection",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "missing_or_long"
+    "reject_reason": "component_only",
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": "Exclusive plug‑in only features lend modern workflows to this classic processor collection.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/10153-1176-Classic-Limiter-Collection",
+    "maker_quote_retrieved": "2026-10-26"
   },
   "UAD A Type Multiband Dynamic Enhancer": {
     "pbProductId": "15130",
@@ -8491,7 +8591,7 @@
     "category": null,
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/12716-Ampex-ATR-102-Mastering-Tape-Recorder",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-26",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -8499,10 +8599,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/12716-Ampex-ATR-102-Mastering-Tape-Recorder",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "The Ampex ATR-102 Mastering Tape Recorder plug-in and LUNA Extension provides the final “analog glue” for your music.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/12716-Ampex-ATR-102-Mastering-Tape-Recorder",
+    "maker_quote_retrieved": "2026-10-26"
   },
   "UAD Brigade Chorus Pedal": {
     "pbProductId": "10159",
@@ -10194,20 +10299,25 @@
     "brand": null,
     "product": "Reason Rack 14",
     "category": null,
-    "tagline": null,
+    "tagline": "Modular rack synths, samplers, and effects inside any DAW",
     "source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/23-DAW/17336-Reason-Rack-14",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-26",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/23-DAW/17336-Reason-Rack-14",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "brings Reason's legendary modular Rack directly into any compatible DAW",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "missing_or_long"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 1,
+    "maker_quote": "Flip the Rack and you're looking at the patch bay.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/23-DAW/17336-Reason-Rack-14",
+    "maker_quote_retrieved": "2026-10-26"
   },
   "Revoice Pro 5": {
     "pbProductId": "11742",
@@ -10389,20 +10499,25 @@
     "brand": null,
     "product": "SubBoomBass 2",
     "category": null,
-    "tagline": null,
+    "tagline": "Analogue modelled waveforms, Karplus-Strong string synthesis for bass",
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/3951-SubBoomBass-2",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-26",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/3951-SubBoomBass-2",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_source_quote": "introducing Karplus-Strong string synthesis",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "missing_or_long"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "SubBoomBass 2 is the Successor of the Legendary SubBoomBass!",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/3951-SubBoomBass-2",
+    "maker_quote_retrieved": "2026-10-26"
   },
   "TOTAL Guitar MAX": {
     "pbProductId": "17062",
@@ -11116,7 +11231,7 @@
     "category": "EQ",
     "tagline": null,
     "source_url": null,
-    "retrieved": "2026-10-20",
+    "retrieved": "2026-10-26",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -11124,10 +11239,15 @@
     },
     "tagline_source_url": null,
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-20",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
     "status": "no_source",
-    "reject_reason": "source_empty"
+    "reject_reason": "source_empty",
+    "validator_version": 2,
+    "attempts": 0,
+    "maker_quote": null,
+    "maker_quote_source_url": null,
+    "maker_quote_retrieved": null
   },
   "Plugin Alliance SPL Vitalizer": {
     "pbProductId": "15518",
@@ -11136,7 +11256,7 @@
     "category": "Mastering",
     "tagline": null,
     "source_url": null,
-    "retrieved": "2026-10-20",
+    "retrieved": "2026-10-26",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -11144,30 +11264,40 @@
     },
     "tagline_source_url": null,
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-20",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
     "status": "no_source",
-    "reject_reason": "source_empty"
+    "reject_reason": "source_empty",
+    "validator_version": 2,
+    "attempts": 0,
+    "maker_quote": null,
+    "maker_quote_source_url": null,
+    "maker_quote_retrieved": null
   },
   "ReSing MAX": {
     "pbProductId": "15737",
     "brand": null,
     "product": "ReSing MAX",
     "category": null,
-    "tagline": null,
+    "tagline": "Replace scratch vocals with AI voice models tuned for timbre and tone",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15737-ReSing-MAX",
-    "retrieved": "2026-10-20",
+    "retrieved": "2026-10-26",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15737-ReSing-MAX",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-20",
+    "tagline_source_quote": "captures the unique timbre, tone, and expression of real artists",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "JSONDecodeError"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "ReSing bridges the gap between idea and masterpiece.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15737-ReSing-MAX",
+    "maker_quote_retrieved": "2026-10-26"
   },
   "Roland Vintage Keys Essentials Bundle": {
     "pbProductId": "17344",
@@ -11176,7 +11306,7 @@
     "category": null,
     "tagline": null,
     "source_url": null,
-    "retrieved": "2026-10-20",
+    "retrieved": "2026-10-26",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -11184,30 +11314,40 @@
     },
     "tagline_source_url": null,
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-20",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
     "status": "no_source",
-    "reject_reason": "source_empty"
+    "reject_reason": "source_empty",
+    "validator_version": 2,
+    "attempts": 0,
+    "maker_quote": null,
+    "maker_quote_source_url": null,
+    "maker_quote_retrieved": null
   },
   "Sonible smart:limit": {
     "pbProductId": "8476",
     "brand": null,
     "product": "Sonible smart:limit",
     "category": "Limiter",
-    "tagline": null,
+    "tagline": "Intelligent limiting that lets your mix breathe before publishing",
     "source_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/8476-smart-limit",
-    "retrieved": "2026-10-20",
+    "retrieved": "2026-10-26",
     "machine_checks": {
-      "quote_in_source": false,
-      "grounded_noun": false,
-      "lint_pass": false
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/8476-smart-limit",
-    "tagline_source_quote": null,
-    "tagline_checked": "2026-10-20",
+    "tagline_source_quote": "let your mix breathe",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
-    "status": "rejected",
-    "reject_reason": "JSONDecodeError"
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": "With smart:limit's extensive loudness and dynamics monitoring, you won’t have to use any additional metering plug-ins.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/8476-smart-limit",
+    "maker_quote_retrieved": "2026-10-26"
   },
   "Soundtoys Devil-Loc Deluxe": {
     "pbProductId": "1803",
@@ -11216,7 +11356,7 @@
     "category": "Compressor",
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/1803-Devil-Loc-Deluxe",
-    "retrieved": "2026-10-20",
+    "retrieved": "2026-10-26",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -11224,10 +11364,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/1803-Devil-Loc-Deluxe",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-20",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "JSONDecodeError"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Devil-Loc Deluxe also includes Devil-Loc.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/1803-Devil-Loc-Deluxe",
+    "maker_quote_retrieved": "2026-10-26"
   },
   "Soundtoys Sie Q": {
     "pbProductId": "4717",
@@ -11236,7 +11381,7 @@
     "category": null,
     "tagline": null,
     "source_url": null,
-    "retrieved": "2026-10-20",
+    "retrieved": "2026-10-26",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -11244,10 +11389,15 @@
     },
     "tagline_source_url": null,
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-20",
+    "tagline_checked": "2026-10-26",
     "tagline_model": "claude-sonnet (cli)",
     "status": "no_source",
-    "reject_reason": "source_empty"
+    "reject_reason": "source_empty",
+    "validator_version": 2,
+    "attempts": 0,
+    "maker_quote": null,
+    "maker_quote_source_url": null,
+    "maker_quote_retrieved": null
   },
   "UAD LA-2A Collection": {
     "pbProductId": "10154",
