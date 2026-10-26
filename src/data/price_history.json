@@ -107948,6 +107948,22 @@
       "image": "/images/plugin-prices/pythor-v2.jpg",
       "image_lg": "/images/plugin-prices/pythor-v2-lg.jpg",
       "image_lg_width": 625
+    },
+    "InstaComposer 2": {
+      "pb_url": "/product/3-Studio-Tools/93-Music-Theory-Tools/10891-InstaComposer-2",
+      "typical_regular": 109.0,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "auto-intake 2026-10-26",
+      "category": null,
+      "history": [
+        {
+          "date": "2026-10-26",
+          "regular": 109.0,
+          "sale": 43.6,
+          "source": "deal_intake"
+        }
+      ]
     }
   }
 }
