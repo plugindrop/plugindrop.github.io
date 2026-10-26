@@ -2914,7 +2914,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/amplitube-5-max-v2.jpg"
+      "image": "/images/plugin-prices/amplitube-5-max-v2.jpg",
+      "image_lg": "/images/plugin-prices/amplitube-5-max-v2-lg.jpg",
+      "image_lg_width": 625
     },
     "Analog Monosynth Collection": {
       "pb_url": "/product/81-Bundles/58-Instrument-Bundles/15320-Analog-Monosynth-Collection",
@@ -10212,7 +10214,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/bloom-kshmr.jpg"
+      "image": "/images/plugin-prices/bloom-kshmr.jpg",
+      "image_lg": "/images/plugin-prices/bloom-kshmr-lg.jpg",
+      "image_lg_width": 625
     },
     "Bloom Vocal Aether": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/11515-Bloom-Vocal-Aether",
@@ -10326,7 +10330,9 @@
           "until": "2026-11-01"
         }
       ],
-      "image": "/images/plugin-prices/bloom-vocal-aether.jpg"
+      "image": "/images/plugin-prices/bloom-vocal-aether.jpg",
+      "image_lg": "/images/plugin-prices/bloom-vocal-aether-lg.jpg",
+      "image_lg_width": 625
     },
     "Brusfri": {
       "pb_url": "/product/3-Studio-Tools/51-Audio-Restoration-/8694-Brusfri",
@@ -14661,7 +14667,9 @@
           "until": "2026-11-27"
         }
       ],
-      "image": "/images/plugin-prices/cherry-audio-harmonia.jpg"
+      "image": "/images/plugin-prices/cherry-audio-harmonia.jpg",
+      "image_lg": "/images/plugin-prices/cherry-audio-harmonia-lg.jpg",
+      "image_lg_width": 625
     },
     "Cherry Audio KR 55C Drum Machine": {
       "pb_url": "/product/1-Instruments/7-Drum-Machine/14523-KR-55C-Drum-Machine",
@@ -62958,7 +62966,9 @@
           "until": "2026-11-16"
         }
       ],
-      "image": "/images/plugin-prices/remix.jpg"
+      "image": "/images/plugin-prices/remix.jpg",
+      "image_lg": "/images/plugin-prices/remix-lg.jpg",
+      "image_lg_width": 625
     },
     "Reveal Sound Spire": {
       "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/3187-Spire",
@@ -78471,7 +78481,9 @@
           "until": "2026-11-30"
         }
       ],
-      "image": "/images/plugin-prices/total-vi-max-2.jpg"
+      "image": "/images/plugin-prices/total-vi-max-2.jpg",
+      "image_lg": "/images/plugin-prices/total-vi-max-2-lg.jpg",
+      "image_lg_width": 625
     },
     "TR-808": {
       "pb_url": "/product/1-Instruments/7-Drum-Machine/15360-TR-808",
@@ -79323,7 +79335,10 @@
           "cur": "USD",
           "until": "2026-11-19"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/tokyo-dawn-labs-tdr-nova-ge.jpg",
+      "image_lg": "/images/plugin-prices/tokyo-dawn-labs-tdr-nova-ge-lg.jpg",
+      "image_lg_width": 625
     },
     "Tomofon": {
       "pb_url": "/product/1-Instruments/4-Synth/10064-Tomofon",
@@ -108836,7 +108851,10 @@
           "cur": "USD",
           "until": "2026-11-01"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/instacomposer-2.jpg",
+      "image_lg": "/images/plugin-prices/instacomposer-2-lg.jpg",
+      "image_lg_width": 625
     }
   }
 }
