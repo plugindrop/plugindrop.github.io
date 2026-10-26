@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25",
+  "generated_at": "2026-10-26",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-10",
       "label": "October 2026",
       "is_current": true,
-      "generated_at": "2026-10-25",
-      "observations": 2700,
-      "products_tracked": 513,
-      "products_on_sale": 215,
-      "on_sale_pct": 41.9,
-      "avg_discount_pct": 56.9,
+      "generated_at": "2026-10-26",
+      "observations": 2824,
+      "products_tracked": 521,
+      "products_on_sale": 225,
+      "on_sale_pct": 43.2,
+      "avg_discount_pct": 57.2,
       "median_discount_pct": 60,
       "discount_buckets": {
         "1-19": 11,
         "20-39": 37,
-        "40-59": 58,
-        "60+": 109
+        "40-59": 62,
+        "60+": 115
       },
-      "all_time_low_hits": 170,
+      "all_time_low_hits": 178,
       "deepest_discounts": [
         {
           "name": "CARBON",
@@ -126,6 +126,16 @@
           "pb_url": "/product/1-Instruments/64-Virtual-Instruments/5507-SOLID-2"
         },
         {
+          "name": "Platinum",
+          "slug": "platinum",
+          "category": "Other",
+          "regular": 1999.0,
+          "sale": 199.0,
+          "pct_off": 90,
+          "date": "2026-10-25",
+          "pb_url": "/product/81-Bundles/84-Mix-Master/12542-Platinum"
+        },
+        {
           "name": "SSL Native X-Comp",
           "slug": "ssl-native-x-comp",
           "category": "Other",
@@ -164,16 +174,6 @@
           "pct_off": 90,
           "date": "2026-10-18",
           "pb_url": "/product/81-Bundles/97-Various-Category/17062-TOTAL-Guitar-MAX"
-        },
-        {
-          "name": "Waves Platinum Bundle",
-          "slug": "waves-platinum-bundle",
-          "category": "Bundle",
-          "regular": 1999.0,
-          "sale": 199.0,
-          "pct_off": 90,
-          "date": "2026-10-11",
-          "pb_url": "/product/81-Bundles/84-Mix-Master/12542-Platinum-Bundle"
         }
       ],
       "all_time_low_products": [
@@ -286,10 +286,10 @@
       "by_category": [
         {
           "category": "Other",
-          "tracked": 364,
-          "on_sale": 165,
-          "on_sale_pct": 45.3,
-          "avg_discount_pct": 59.3
+          "tracked": 372,
+          "on_sale": 175,
+          "on_sale_pct": 47.0,
+          "avg_discount_pct": 59.6
         },
         {
           "category": "Synth",
@@ -393,10 +393,10 @@
       "by_brand": [
         {
           "category": "Other",
-          "tracked": 173,
-          "on_sale": 107,
-          "on_sale_pct": 61.8,
-          "avg_discount_pct": 60.2
+          "tracked": 181,
+          "on_sale": 117,
+          "on_sale_pct": 64.6,
+          "avg_discount_pct": 60.5
         },
         {
           "category": "Universal Audio",
@@ -611,16 +611,16 @@
       ],
       "vs_previous_month": {
         "month": "2026-09",
-        "on_sale_pct_delta": -12.0,
-        "avg_discount_pct_delta": -0.6,
-        "products_tracked_delta": 10
+        "on_sale_pct_delta": -10.7,
+        "avg_discount_pct_delta": -0.3,
+        "products_tracked_delta": 18
       }
     },
     {
       "month": "2026-09",
       "label": "September 2026",
       "is_current": false,
-      "generated_at": "2026-10-25",
+      "generated_at": "2026-10-26",
       "observations": 3561,
       "products_tracked": 503,
       "products_on_sale": 271,
@@ -1244,7 +1244,7 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-10-25",
+      "generated_at": "2026-10-26",
       "observations": 3583,
       "products_tracked": 420,
       "products_on_sale": 255,
@@ -1833,7 +1833,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-10-25",
+      "generated_at": "2026-10-26",
       "observations": 1964,
       "products_tracked": 286,
       "products_on_sale": 141,
