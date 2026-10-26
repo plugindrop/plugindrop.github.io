@@ -47822,6 +47822,18 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2024-12-09",
+          "regular": 24.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-03-18",
+          "regular": 34.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/minimal-audio-flex-chorus.jpg"
@@ -77451,7 +77463,7 @@
       "pb_url": "/product/81-Bundles/97-Various-Category/16798-TOTAL-VI-MAX-2",
       "typical_regular": 1499.92,
       "typical_sale": 79.99,
-      "all_time_low": 79.99,
+      "all_time_low": 49.99,
       "notes": "auto-crawl 2026-08-30",
       "category": null,
       "history": [
@@ -77790,6 +77802,15 @@
           "source": "auto_check",
           "store": "plugin_boutique",
           "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-10-26",
+          "sale": 49.99,
+          "regular": 1499.92,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
           "cur": "USD"
         }
       ],
