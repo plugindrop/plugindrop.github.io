@@ -50456,6 +50456,42 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2024-01-13",
+          "regular": 29.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-06-13",
+          "regular": 48.59,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-11-03",
+          "regular": 49.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-12-09",
+          "regular": 24.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-03-18",
+          "regular": 34.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-09-12",
+          "regular": 49.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/minimal-audio-swarm-reverb.jpg"
@@ -50842,6 +50878,18 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2023-11-27",
+          "regular": 89.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-11-03",
+          "regular": 159.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/model-80-five-voice-synthesizer.jpg"
@@ -109071,6 +109119,30 @@
       "image": "/images/plugin-prices/instacomposer-2.jpg",
       "image_lg": "/images/plugin-prices/instacomposer-2-lg.jpg",
       "image_lg_width": 625
+    },
+    "UAD Teletronix LA 2A Leveler Collection": {
+      "pb_url": "/product/2-Effects/8-Compressor/10154-Teletronix-LA-2A-Leveler-Collection",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-10-27",
+      "history": []
+    },
+    "Cherry Audio GX 80 Synthesizer": {
+      "pb_url": "/product/1-Instruments/4-Synth/10001-GX-80-Synthesizer",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-10-27",
+      "history": []
+    },
+    "Cherry Audio DCO 106": {
+      "pb_url": "/product/1-Instruments/4-Synth/6935-DCO-106",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-10-27",
+      "history": []
     }
   }
 }

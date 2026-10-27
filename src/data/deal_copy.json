@@ -9821,7 +9821,7 @@
     "category": null,
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/2-Effects/19-Filter/11231-Filterscape",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-28",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -9829,10 +9829,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/19-Filter/11231-Filterscape",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-28",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "generic_or_ungrounded"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "With a sleek and future-proof new design, Filterscape has become more visually appealing and more comfortable to use.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/19-Filter/11231-Filterscape",
+    "maker_quote_retrieved": "2026-10-28"
   },
   "u-he Hive 2": {
     "pbProductId": "5392",
@@ -9881,7 +9886,7 @@
     "category": "Synth",
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/3027-Repro",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-28",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -9889,10 +9894,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/3027-Repro",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-28",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "banned_claim_or_price"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Repro dives into the past for analogue inspiration, meticulously modelling two famous synthesizers.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/3027-Repro",
+    "maker_quote_retrieved": "2026-10-28"
   },
   "u-he Satin": {
     "pbProductId": "1400",
@@ -9921,7 +9931,7 @@
     "category": null,
     "tagline": null,
     "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/5024-Twangstr-m",
-    "retrieved": "2026-10-19",
+    "retrieved": "2026-10-28",
     "machine_checks": {
       "quote_in_source": false,
       "grounded_noun": false,
@@ -9929,10 +9939,15 @@
     },
     "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/5024-Twangstr-m",
     "tagline_source_quote": null,
-    "tagline_checked": "2026-10-19",
+    "tagline_checked": "2026-10-28",
     "tagline_model": "claude-sonnet (cli)",
     "status": "rejected",
-    "reject_reason": "quote_not_in_source"
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Hitting your computer won’t make Twangström shatter, so we added a twang control.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/5024-Twangstr-m",
+    "maker_quote_retrieved": "2026-10-28"
   },
   "u-he TyrellN6": {
     "pbProductId": "17642",
@@ -11925,6 +11940,81 @@
     "reject_reason": null,
     "validator_version": 2,
     "attempts": 2,
+    "maker_quote": null,
+    "maker_quote_source_url": null,
+    "maker_quote_retrieved": null
+  },
+  "Cherry Audio DCO 106": {
+    "pbProductId": "6935",
+    "brand": null,
+    "product": "Cherry Audio DCO 106",
+    "category": null,
+    "tagline": null,
+    "source_url": null,
+    "retrieved": "2026-10-28",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": null,
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-28",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "no_source",
+    "reject_reason": "source_empty",
+    "validator_version": 2,
+    "attempts": 0,
+    "maker_quote": null,
+    "maker_quote_source_url": null,
+    "maker_quote_retrieved": null
+  },
+  "Cherry Audio GX 80 Synthesizer": {
+    "pbProductId": "10001",
+    "brand": null,
+    "product": "Cherry Audio GX 80 Synthesizer",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10001-GX-80-Synthesizer",
+    "retrieved": "2026-10-28",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10001-GX-80-Synthesizer",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-28",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "GX-80 is Cherry Audio's visionary flagship synthesizer, over a year in the making.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10001-GX-80-Synthesizer",
+    "maker_quote_retrieved": "2026-10-28"
+  },
+  "UAD Teletronix LA 2A Leveler Collection": {
+    "pbProductId": "10154",
+    "brand": null,
+    "product": "UAD Teletronix LA 2A Leveler Collection",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10154-Teletronix-LA-2A-Leveler-Collection",
+    "retrieved": "2026-10-28",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10154-Teletronix-LA-2A-Leveler-Collection",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-10-28",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
     "maker_quote": null,
     "maker_quote_source_url": null,
     "maker_quote_retrieved": null
