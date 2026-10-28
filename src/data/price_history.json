@@ -54147,6 +54147,30 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2024-10-08",
+          "regular": 299.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-11-27",
+          "regular": 299.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-01-20",
+          "regular": 299.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-03-31",
+          "regular": 299.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "category": "Instrument",
