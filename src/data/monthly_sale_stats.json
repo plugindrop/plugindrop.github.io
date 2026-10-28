@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27",
+  "generated_at": "2026-10-28",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-10",
       "label": "October 2026",
       "is_current": true,
-      "generated_at": "2026-10-27",
-      "observations": 2941,
-      "products_tracked": 522,
-      "products_on_sale": 230,
-      "on_sale_pct": 44.1,
-      "avg_discount_pct": 57.1,
-      "median_discount_pct": 60.0,
+      "generated_at": "2026-10-28",
+      "observations": 3064,
+      "products_tracked": 525,
+      "products_on_sale": 242,
+      "on_sale_pct": 46.1,
+      "avg_discount_pct": 57.0,
+      "median_discount_pct": 55.5,
       "discount_buckets": {
         "1-19": 11,
         "20-39": 38,
-        "40-59": 65,
-        "60+": 116
+        "40-59": 76,
+        "60+": 117
       },
-      "all_time_low_hits": 182,
+      "all_time_low_hits": 195,
       "deepest_discounts": [
         {
           "name": "TOTAL VI MAX 2",
@@ -54,6 +54,16 @@
           "pct_off": 95,
           "date": "2026-10-18",
           "pb_url": "/product/81-Bundles/39-Effects-Bundles/14036-Solid-State-Logic-SSL-Fusion-Bundle"
+        },
+        {
+          "name": "CINEDREAM",
+          "slug": "cinedream",
+          "category": "Other",
+          "regular": 129.0,
+          "sale": 9.0,
+          "pct_off": 93,
+          "date": "2026-10-27",
+          "pb_url": "/product/1-Instruments/64-Virtual-Instruments/14697-CINEDREAM"
         },
         {
           "name": "IRON 2",
@@ -164,16 +174,6 @@
           "pct_off": 90,
           "date": "2026-10-20",
           "pb_url": "/product/3-Studio-Tools/22-Sound-Editor/8666-SSL-Native-X-Phase"
-        },
-        {
-          "name": "TOTAL Guitar MAX",
-          "slug": "total-guitar-max",
-          "category": "Other",
-          "regular": 1019.93,
-          "sale": 99.99,
-          "pct_off": 90,
-          "date": "2026-10-18",
-          "pb_url": "/product/81-Bundles/97-Various-Category/17062-TOTAL-Guitar-MAX"
         }
       ],
       "all_time_low_products": [
@@ -197,6 +197,13 @@
           "sale": 49.99,
           "all_time_low": 49.99,
           "date": "2026-10-18"
+        },
+        {
+          "name": "CINEDREAM",
+          "slug": "cinedream",
+          "sale": 9.0,
+          "all_time_low": 9.0,
+          "date": "2026-10-27"
         },
         {
           "name": "IRON 2",
@@ -248,6 +255,13 @@
           "date": "2026-10-01"
         },
         {
+          "name": "Platinum",
+          "slug": "platinum",
+          "sale": 199.0,
+          "all_time_low": 199.0,
+          "date": "2026-10-25"
+        },
+        {
           "name": "SSL Native X-Comp",
           "slug": "ssl-native-x-comp",
           "sale": 10.0,
@@ -267,36 +281,22 @@
           "sale": 10.0,
           "all_time_low": 10.0,
           "date": "2026-10-20"
-        },
-        {
-          "name": "TOTAL Guitar MAX",
-          "slug": "total-guitar-max",
-          "sale": 99.99,
-          "all_time_low": 99.99,
-          "date": "2026-10-18"
-        },
-        {
-          "name": "Softube Producer Collection Exclusive",
-          "slug": "softube-producer-collection-exclusive",
-          "sale": 149.0,
-          "all_time_low": 149.0,
-          "date": "2026-10-06"
         }
       ],
       "by_category": [
         {
           "category": "Other",
-          "tracked": 373,
-          "on_sale": 179,
-          "on_sale_pct": 48.0,
-          "avg_discount_pct": 59.3
+          "tracked": 376,
+          "on_sale": 187,
+          "on_sale_pct": 49.7,
+          "avg_discount_pct": 59.2
         },
         {
           "category": "Synth",
           "tracked": 25,
-          "on_sale": 4,
-          "on_sale_pct": 16.0,
-          "avg_discount_pct": 42.2
+          "on_sale": 8,
+          "on_sale_pct": 32.0,
+          "avg_discount_pct": 46.9
         },
         {
           "category": "Effects",
@@ -396,21 +396,21 @@
           "tracked": 182,
           "on_sale": 121,
           "on_sale_pct": 66.5,
-          "avg_discount_pct": 60.2
+          "avg_discount_pct": 60.3
         },
         {
           "category": "Universal Audio",
-          "tracked": 51,
-          "on_sale": 38,
-          "on_sale_pct": 74.5,
-          "avg_discount_pct": 62.8
+          "tracked": 52,
+          "on_sale": 39,
+          "on_sale_pct": 75.0,
+          "avg_discount_pct": 63.1
         },
         {
           "category": "Cherry Audio",
-          "tracked": 41,
-          "on_sale": 8,
-          "on_sale_pct": 19.5,
-          "avg_discount_pct": 43.5
+          "tracked": 43,
+          "on_sale": 19,
+          "on_sale_pct": 44.2,
+          "avg_discount_pct": 48.4
         },
         {
           "category": "Eventide",
@@ -611,16 +611,16 @@
       ],
       "vs_previous_month": {
         "month": "2026-09",
-        "on_sale_pct_delta": -9.8,
-        "avg_discount_pct_delta": -0.4,
-        "products_tracked_delta": 19
+        "on_sale_pct_delta": -7.8,
+        "avg_discount_pct_delta": -0.5,
+        "products_tracked_delta": 22
       }
     },
     {
       "month": "2026-09",
       "label": "September 2026",
       "is_current": false,
-      "generated_at": "2026-10-27",
+      "generated_at": "2026-10-28",
       "observations": 3561,
       "products_tracked": 503,
       "products_on_sale": 271,
@@ -633,7 +633,7 @@
         "40-59": 86,
         "60+": 132
       },
-      "all_time_low_hits": 229,
+      "all_time_low_hits": 227,
       "deepest_discounts": [
         {
           "name": "TOTAL VI MAX 2",
@@ -1244,7 +1244,7 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-10-27",
+      "generated_at": "2026-10-28",
       "observations": 3583,
       "products_tracked": 420,
       "products_on_sale": 255,
@@ -1257,7 +1257,7 @@
         "40-59": 91,
         "60+": 94
       },
-      "all_time_low_hits": 189,
+      "all_time_low_hits": 188,
       "deepest_discounts": [
         {
           "name": "TOTAL VI MAX 2",
@@ -1833,7 +1833,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-10-27",
+      "generated_at": "2026-10-28",
       "observations": 1964,
       "products_tracked": 286,
       "products_on_sale": 141,
