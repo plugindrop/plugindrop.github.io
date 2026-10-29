@@ -58558,6 +58558,42 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2023-05-03",
+          "regular": 159.66,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-08-30",
+          "regular": 139.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-11-16",
+          "regular": 171.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-02-06",
+          "regular": 176.7,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-07-21",
+          "regular": 169.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-08-28",
+          "regular": 169.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/orange-vocoder-iv.jpg",
