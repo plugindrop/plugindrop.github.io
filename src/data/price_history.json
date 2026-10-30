@@ -60442,6 +60442,60 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2022-01-26",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-03-18",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-06-28",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-09-25",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-04-22",
+          "regular": 74.5,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-09-07",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-01-05",
+          "regular": 75.63,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-02-08",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-05-27",
+          "regular": 74.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/output-movement.jpg"
@@ -61285,6 +61339,30 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2022-01-21",
+          "regular": 172.12,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-05-28",
+          "regular": 199.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-08-13",
+          "regular": 199.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-09-10",
+          "regular": 205.63,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/output-substance.jpg"
@@ -61969,6 +62047,72 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2022-02-15",
+          "regular": 95.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-05-26",
+          "regular": 329.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-10-03",
+          "regular": 98.18,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-01-28",
+          "regular": 329.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-02-26",
+          "regular": 109.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-03-01",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-05-11",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-09-21",
+          "regular": 79.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-11-07",
+          "regular": 70.81,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-01-09",
+          "regular": 89.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-06-07",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/pitchmap.jpg",
@@ -109561,6 +109705,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-10-31"
+        },
+        {
+          "date": "2026-10-30",
+          "sale": 69.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/juno-60.jpg",
