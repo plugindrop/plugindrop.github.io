@@ -16,7 +16,7 @@ draft: true
 ---
 If you only add one MIDI tool to your rack this month, make it InstaComposer 2 — it's currently at its lowest tracked price. At $29.9 against a $129 regular price, the math does itself.
 
-**TL;DR:** InstaComposer 2 is an intelligent MIDI generation plugin that builds melodies, phrases, riffs, and chord progressions on demand. Plugin Boutique has it at $29.9, which matches the lowest price tracked since 2026-10-14 across 14 observations, down from ~~$129~~. [Grab it at Plugin Boutique](https://www.pluginboutique.com/search?q=InstaComposer+2&a_aid=69cb95abe1763&chan=art&data1=instacomposer-2-251d58&utm_source=plugindrop&utm_medium=article&utm_campaign=instacomposer-2-251d58).
+**TL;DR:** InstaComposer 2 is an intelligent MIDI generation plugin that builds melodies, phrases, riffs, and chord progressions on demand. Plugin Boutique has it at $29.9, which matches the lowest price tracked since 2026-10-14 across 14 observations, down from ~~$129~~. [Grab it at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/10891-InstaComposer-2?a_aid=69cb95abe1763&chan=art&data1=instacomposer-2-251d58&utm_source=plugindrop&utm_medium=article&utm_campaign=instacomposer-2-251d58).
 
 <!-- deal-context-sale-windows:start -->
 ## Last three times this went on sale
