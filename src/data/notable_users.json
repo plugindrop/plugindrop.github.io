@@ -204,6 +204,27 @@
       "product": "Crystallizer",
       "brand": "soundtoys",
       "vendor_domain": "soundtoys.com"
+    },
+    {
+      "person": "Peter Katis",
+      "person_source": "h1",
+      "role": null,
+      "claim_type": "manufacturer_artist_page",
+      "quote": "Crystallizer and Filter Freak are amazingly useful for a little instant randomness. I’ve used simple presets more than I’d like to admit. And EchoBoy and Tremolator have been invaluable to me the last couple of years. EchoBoy is quick, versatile and sounds great. Tremolator has made me self-conscious about overusing tremolo. It’s addictive because it’s so easy and effective. I love syncing the tremolo to the tempo of the song and using multiple instances of different note durations. As an example, there’s a track called Valentine on the new Trey Anastasio record I produced that demonstrates this nicely. After the horn intro, it breaks down to just vocals, guitar and an array of keyboards (Wurlitzer, Arp, Stylaphone, etc.). One keyboard has a deep 1/8 note tremolo, another a 1/16 note and another a 1/4 note. It helps create additional little rhythms and increases clarity.",
+      "source_url": "https://www.soundtoys.com/artist/peter-katis/",
+      "publisher": "soundtoys.com",
+      "retrieved": "2026-11-01",
+      "verification": {
+        "person_found": true,
+        "role_found": false,
+        "product_found": true,
+        "quote_found": false
+      },
+      "status": "rejected",
+      "reject_reason": "other_attribution",
+      "product": "Crystallizer",
+      "brand": "soundtoys",
+      "vendor_domain": "soundtoys.com"
     }
   ]
 }
