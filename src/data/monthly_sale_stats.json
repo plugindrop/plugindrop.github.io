@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01",
+  "generated_at": "2026-11-02",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -7,10 +7,459 @@
   "skipped_months": [],
   "months": [
     {
+      "month": "2026-11",
+      "label": "November 2026",
+      "is_current": true,
+      "generated_at": "2026-11-02",
+      "observations": 133,
+      "products_tracked": 112,
+      "products_on_sale": 49,
+      "on_sale_pct": 43.8,
+      "avg_discount_pct": 63.4,
+      "median_discount_pct": 61,
+      "discount_buckets": {
+        "1-19": 0,
+        "20-39": 5,
+        "40-59": 18,
+        "60+": 26
+      },
+      "all_time_low_hits": 43,
+      "deepest_discounts": [
+        {
+          "name": "Thenatan Full Bundle",
+          "slug": "thenatan-full-bundle",
+          "category": "Other",
+          "regular": 2759.5,
+          "sale": 39.0,
+          "pct_off": 99,
+          "date": "2026-11-01",
+          "pb_url": "/product/81-Bundles/89-Complete-Collection/16253-Thenatan-Full-Bundle"
+        },
+        {
+          "name": "TOTAL VI MAX 2",
+          "slug": "total-vi-max-2",
+          "category": "Other",
+          "regular": 1499.92,
+          "sale": 49.99,
+          "pct_off": 97,
+          "date": "2026-11-01",
+          "pb_url": "/product/81-Bundles/97-Various-Category/16798-TOTAL-VI-MAX-2"
+        },
+        {
+          "name": "CARBON",
+          "slug": "carbon",
+          "category": "Other",
+          "regular": 129.0,
+          "sale": 6.66,
+          "pct_off": 95,
+          "date": "2026-11-01",
+          "pb_url": "/product/1-Instruments/64-Virtual-Instruments/5842-CARBON"
+        },
+        {
+          "name": "CINEDREAM",
+          "slug": "cinedream",
+          "category": "Other",
+          "regular": 129.0,
+          "sale": 9.0,
+          "pct_off": 93,
+          "date": "2026-11-01",
+          "pb_url": "/product/1-Instruments/64-Virtual-Instruments/14697-CINEDREAM"
+        },
+        {
+          "name": "SSL Native X-EQ 2",
+          "slug": "ssl-native-x-eq-2",
+          "category": "Other",
+          "regular": 149.0,
+          "sale": 15.0,
+          "pct_off": 90,
+          "date": "2026-11-01",
+          "pb_url": "/product/2-Effects/16-EQ/8665-SSL-Native-X-EQ-2"
+        },
+        {
+          "name": "SSL Native X-Phase",
+          "slug": "ssl-native-x-phase",
+          "category": "Other",
+          "regular": 99.0,
+          "sale": 10.0,
+          "pct_off": 90,
+          "date": "2026-11-01",
+          "pb_url": "/product/3-Studio-Tools/22-Sound-Editor/8666-SSL-Native-X-Phase"
+        },
+        {
+          "name": "Solid State Logic SSL Fusion Bundle",
+          "slug": "solid-state-logic-ssl-fusion-bundle",
+          "category": "Other",
+          "regular": 495.0,
+          "sale": 49.99,
+          "pct_off": 90,
+          "date": "2026-11-01",
+          "pb_url": "/product/81-Bundles/39-Effects-Bundles/14036-Solid-State-Logic-SSL-Fusion-Bundle"
+        },
+        {
+          "name": "Softube Producer Collection Exclusive",
+          "slug": "softube-producer-collection-exclusive",
+          "category": "Other",
+          "regular": 1359.0,
+          "sale": 149.0,
+          "pct_off": 89,
+          "date": "2026-11-01",
+          "pb_url": "/product/81-Bundles/84-Mix-Master/15255-Softube-Producer-Collection-Exclusive-"
+        },
+        {
+          "name": "SSL Greatest Hits Bundle",
+          "slug": "ssl-greatest-hits-bundle",
+          "category": "Other",
+          "regular": 397.0,
+          "sale": 49.0,
+          "pct_off": 88,
+          "date": "2026-11-01",
+          "pb_url": "/product/81-Bundles/39-Effects-Bundles/15730-SSL-Greatest-Hits-Bundle"
+        },
+        {
+          "name": "AmpliTube 5",
+          "slug": "amplitube-5",
+          "category": "Other",
+          "regular": 199.0,
+          "sale": 29.99,
+          "pct_off": 85,
+          "date": "2026-11-01",
+          "pb_url": "/product/2-Effects/18-Amp-Simulator/12669-AmpliTube-5"
+        },
+        {
+          "name": "MODO BASS 2",
+          "slug": "modo-bass-2",
+          "category": "Other",
+          "regular": 199.99,
+          "sale": 29.99,
+          "pct_off": 85,
+          "date": "2026-11-01",
+          "pb_url": "/product/1-Instruments/64-Virtual-Instruments/12454-MODO-BASS-2"
+        },
+        {
+          "name": "SampleTank 4 MAX",
+          "slug": "sampletank-4-max",
+          "category": "Other",
+          "regular": 299.99,
+          "sale": 49.99,
+          "pct_off": 83,
+          "date": "2026-11-01",
+          "pb_url": "/product/1-Instruments/64-Virtual-Instruments/12447-SampleTank-4-MAX"
+        },
+        {
+          "name": "Essential Plugin Bundle",
+          "slug": "essential-plugin-bundle",
+          "category": "Other",
+          "regular": 772.0,
+          "sale": 150.0,
+          "pct_off": 81,
+          "date": "2026-11-01",
+          "pb_url": "/product/81-Bundles/39-Effects-Bundles/1480-Essential-Plugin-Bundle"
+        },
+        {
+          "name": "Empirical Labs EL8 Distressor Compressor",
+          "slug": "empirical-labs-el8-distressor-compressor",
+          "category": "Other",
+          "regular": 199.0,
+          "sale": 39.0,
+          "pct_off": 80,
+          "date": "2026-11-01",
+          "pb_url": "/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor"
+        },
+        {
+          "name": "InstaComposer 4",
+          "slug": "instacomposer-4",
+          "category": "Other",
+          "regular": 129.0,
+          "sale": 29.9,
+          "pct_off": 77,
+          "date": "2026-11-01",
+          "pb_url": "/product/3-Studio-Tools/93-Music-Theory-Tools/18029-InstaComposer-4"
+        }
+      ],
+      "all_time_low_products": [
+        {
+          "name": "Thenatan Full Bundle",
+          "slug": "thenatan-full-bundle",
+          "sale": 39.0,
+          "all_time_low": 39.0,
+          "date": "2026-11-01"
+        },
+        {
+          "name": "TOTAL VI MAX 2",
+          "slug": "total-vi-max-2",
+          "sale": 49.99,
+          "all_time_low": 49.99,
+          "date": "2026-11-01"
+        },
+        {
+          "name": "CARBON",
+          "slug": "carbon",
+          "sale": 6.66,
+          "all_time_low": 6.66,
+          "date": "2026-11-01"
+        },
+        {
+          "name": "CINEDREAM",
+          "slug": "cinedream",
+          "sale": 9.0,
+          "all_time_low": 9.0,
+          "date": "2026-11-01"
+        },
+        {
+          "name": "SSL Native X-EQ 2",
+          "slug": "ssl-native-x-eq-2",
+          "sale": 15.0,
+          "all_time_low": 15.0,
+          "date": "2026-11-01"
+        },
+        {
+          "name": "SSL Native X-Phase",
+          "slug": "ssl-native-x-phase",
+          "sale": 10.0,
+          "all_time_low": 10.0,
+          "date": "2026-11-01"
+        },
+        {
+          "name": "Solid State Logic SSL Fusion Bundle",
+          "slug": "solid-state-logic-ssl-fusion-bundle",
+          "sale": 49.99,
+          "all_time_low": 49.99,
+          "date": "2026-11-01"
+        },
+        {
+          "name": "Softube Producer Collection Exclusive",
+          "slug": "softube-producer-collection-exclusive",
+          "sale": 149.0,
+          "all_time_low": 149.0,
+          "date": "2026-11-01"
+        },
+        {
+          "name": "SSL Greatest Hits Bundle",
+          "slug": "ssl-greatest-hits-bundle",
+          "sale": 49.0,
+          "all_time_low": 49.0,
+          "date": "2026-11-01"
+        },
+        {
+          "name": "AmpliTube 5",
+          "slug": "amplitube-5",
+          "sale": 29.99,
+          "all_time_low": 29.99,
+          "date": "2026-11-01"
+        },
+        {
+          "name": "MODO BASS 2",
+          "slug": "modo-bass-2",
+          "sale": 29.99,
+          "all_time_low": 29.99,
+          "date": "2026-11-01"
+        },
+        {
+          "name": "SampleTank 4 MAX",
+          "slug": "sampletank-4-max",
+          "sale": 49.99,
+          "all_time_low": 49.99,
+          "date": "2026-11-01"
+        },
+        {
+          "name": "Essential Plugin Bundle",
+          "slug": "essential-plugin-bundle",
+          "sale": 150.0,
+          "all_time_low": 150.0,
+          "date": "2026-11-01"
+        },
+        {
+          "name": "InstaComposer 4",
+          "slug": "instacomposer-4",
+          "sale": 29.9,
+          "all_time_low": 29.9,
+          "date": "2026-11-01"
+        },
+        {
+          "name": "Total Studio 5 MAX",
+          "slug": "total-studio-5-max",
+          "sale": 149.99,
+          "all_time_low": 149.99,
+          "date": "2026-11-01"
+        }
+      ],
+      "by_category": [
+        {
+          "category": "Other",
+          "tracked": 90,
+          "on_sale": 44,
+          "on_sale_pct": 48.9,
+          "avg_discount_pct": 64.3
+        },
+        {
+          "category": "Mastering",
+          "tracked": 4,
+          "on_sale": 1,
+          "on_sale_pct": 25.0,
+          "avg_discount_pct": 75
+        },
+        {
+          "category": "Effects",
+          "tracked": 3,
+          "on_sale": 1,
+          "on_sale_pct": 33.3,
+          "avg_discount_pct": 47
+        },
+        {
+          "category": "Instrument",
+          "tracked": 3,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Saturation",
+          "tracked": 3,
+          "on_sale": 1,
+          "on_sale_pct": 33.3,
+          "avg_discount_pct": 50
+        },
+        {
+          "category": "Compressor",
+          "tracked": 2,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Reverb",
+          "tracked": 2,
+          "on_sale": 1,
+          "on_sale_pct": 50.0,
+          "avg_discount_pct": 51
+        },
+        {
+          "category": "Synth",
+          "tracked": 2,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "EQ",
+          "tracked": 1,
+          "on_sale": 1,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 52
+        },
+        {
+          "category": "Utility",
+          "tracked": 1,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Vocal",
+          "tracked": 1,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        }
+      ],
+      "by_brand": [
+        {
+          "category": "Other",
+          "tracked": 67,
+          "on_sale": 38,
+          "on_sale_pct": 56.7,
+          "avg_discount_pct": 65.4
+        },
+        {
+          "category": "Native Instruments",
+          "tracked": 15,
+          "on_sale": 1,
+          "on_sale_pct": 6.7,
+          "avg_discount_pct": 74
+        },
+        {
+          "category": "Universal Audio",
+          "tracked": 7,
+          "on_sale": 2,
+          "on_sale_pct": 28.6,
+          "avg_discount_pct": 40.5
+        },
+        {
+          "category": "Minimal Audio",
+          "tracked": 5,
+          "on_sale": 2,
+          "on_sale_pct": 40.0,
+          "avg_discount_pct": 43
+        },
+        {
+          "category": "iZotope",
+          "tracked": 5,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Output",
+          "tracked": 3,
+          "on_sale": 1,
+          "on_sale_pct": 33.3,
+          "avg_discount_pct": 50
+        },
+        {
+          "category": "Softube",
+          "tracked": 3,
+          "on_sale": 1,
+          "on_sale_pct": 33.3,
+          "avg_discount_pct": 89
+        },
+        {
+          "category": "Excite Audio",
+          "tracked": 2,
+          "on_sale": 2,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 56.5
+        },
+        {
+          "category": "Slate Digital",
+          "tracked": 2,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Eventide",
+          "tracked": 1,
+          "on_sale": 1,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 51
+        },
+        {
+          "category": "Relab",
+          "tracked": 1,
+          "on_sale": 0,
+          "on_sale_pct": 0.0,
+          "avg_discount_pct": 0.0
+        },
+        {
+          "category": "Sonnox",
+          "tracked": 1,
+          "on_sale": 1,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 75
+        }
+      ],
+      "vs_previous_month": {
+        "month": "2026-10",
+        "on_sale_pct_delta": -6.2,
+        "avg_discount_pct_delta": 6.3,
+        "products_tracked_delta": -414
+      }
+    },
+    {
       "month": "2026-10",
       "label": "October 2026",
       "is_current": false,
-      "generated_at": "2026-11-01",
+      "generated_at": "2026-11-02",
       "observations": 3527,
       "products_tracked": 526,
       "products_on_sale": 263,
@@ -620,7 +1069,7 @@
       "month": "2026-09",
       "label": "September 2026",
       "is_current": false,
-      "generated_at": "2026-11-01",
+      "generated_at": "2026-11-02",
       "observations": 3561,
       "products_tracked": 503,
       "products_on_sale": 271,
@@ -1244,7 +1693,7 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-11-01",
+      "generated_at": "2026-11-02",
       "observations": 3583,
       "products_tracked": 420,
       "products_on_sale": 255,
@@ -1257,7 +1706,7 @@
         "40-59": 91,
         "60+": 94
       },
-      "all_time_low_hits": 180,
+      "all_time_low_hits": 179,
       "deepest_discounts": [
         {
           "name": "TOTAL VI MAX 2",
@@ -1833,7 +2282,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-11-01",
+      "generated_at": "2026-11-02",
       "observations": 1964,
       "products_tracked": 286,
       "products_on_sale": 141,
