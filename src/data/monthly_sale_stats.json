@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31",
+  "generated_at": "2026-11-01",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -9,21 +9,21 @@
     {
       "month": "2026-10",
       "label": "October 2026",
-      "is_current": true,
-      "generated_at": "2026-10-31",
-      "observations": 3418,
+      "is_current": false,
+      "generated_at": "2026-11-01",
+      "observations": 3527,
       "products_tracked": 526,
-      "products_on_sale": 262,
-      "on_sale_pct": 49.8,
+      "products_on_sale": 263,
+      "on_sale_pct": 50.0,
       "avg_discount_pct": 57.1,
-      "median_discount_pct": 54.0,
+      "median_discount_pct": 54,
       "discount_buckets": {
         "1-19": 9,
         "20-39": 40,
-        "40-59": 90,
+        "40-59": 91,
         "60+": 123
       },
-      "all_time_low_hits": 213,
+      "all_time_low_hits": 214,
       "deepest_discounts": [
         {
           "name": "TOTAL VI MAX 2",
@@ -308,9 +308,9 @@
         {
           "category": "Instrument",
           "tracked": 19,
-          "on_sale": 4,
-          "on_sale_pct": 21.1,
-          "avg_discount_pct": 43.5
+          "on_sale": 5,
+          "on_sale_pct": 26.3,
+          "avg_discount_pct": 42.8
         },
         {
           "category": "Compressor",
@@ -513,9 +513,9 @@
         {
           "category": "Spitfire Audio",
           "tracked": 5,
-          "on_sale": 0,
-          "on_sale_pct": 0.0,
-          "avg_discount_pct": 0.0
+          "on_sale": 1,
+          "on_sale_pct": 20.0,
+          "avg_discount_pct": 40
         },
         {
           "category": "XLN Audio",
@@ -611,7 +611,7 @@
       ],
       "vs_previous_month": {
         "month": "2026-09",
-        "on_sale_pct_delta": -4.1,
+        "on_sale_pct_delta": -3.9,
         "avg_discount_pct_delta": -0.4,
         "products_tracked_delta": 23
       }
@@ -620,7 +620,7 @@
       "month": "2026-09",
       "label": "September 2026",
       "is_current": false,
-      "generated_at": "2026-10-31",
+      "generated_at": "2026-11-01",
       "observations": 3561,
       "products_tracked": 503,
       "products_on_sale": 271,
@@ -1244,7 +1244,7 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-10-31",
+      "generated_at": "2026-11-01",
       "observations": 3583,
       "products_tracked": 420,
       "products_on_sale": 255,
@@ -1833,7 +1833,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-10-31",
+      "generated_at": "2026-11-01",
       "observations": 1964,
       "products_tracked": 286,
       "products_on_sale": 141,
