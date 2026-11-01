@@ -68871,6 +68871,36 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-01"
+        },
+        {
+          "date": "2022-07-01",
+          "regular": 119.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-12-08",
+          "regular": 119.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-05-14",
+          "regular": 119.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-03-23",
+          "regular": 119.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-04-29",
+          "regular": 119.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/ssl-native-x-saturator.jpg",
