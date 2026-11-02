@@ -7,9 +7,11 @@ import priceData from '../../data/price_history.json';
 import copy from '../../data/deal_copy.json';
 import videos from '../../data/product_videos.json';
 import { buildDealPool, toCardModel } from '../../lib/homeDeals.mjs';
-import { siteStats } from '../../lib/siteStats.mjs';
+import { siteStats, brandStats } from '../../lib/siteStats.mjs';
 const { trackingSince } = siteStats(priceData);
-import { isBrandPageIndexable, isPricePageIndexable, slugifyProduct } from '../../lib/indexPolicy.mjs';
+import { isBrandPageIndexable, slugifyProduct } from '../../lib/indexPolicy.mjs';
+import { countIndexableBrandProducts } from '../../lib/brandIndexability.mjs';
+import { detectBrand } from '../../lib/brands.mjs';
 
 interface HistoryEntry {
   date: string;
@@ -37,87 +39,6 @@ interface Product {
   entry: EntryData;
 }
 
-// Same brand-detection rules as /brands/[brand].astro — kept in sync
-// manually since Astro pages don't share non-component modules here.
-const BRAND_ALIASES: Array<{ canonical: string; prefixes: string[] }> = [
-  { canonical: 'FabFilter', prefixes: ['FabFilter'] },
-  { canonical: 'u-he', prefixes: ['u-he'] },
-  { canonical: 'Native Instruments', prefixes: ['Native Instruments', 'NI Komplete'] },
-  { canonical: 'Arturia', prefixes: ['Arturia'] },
-  { canonical: 'iZotope', prefixes: ['iZotope'] },
-  { canonical: 'Waves', prefixes: ['Waves'] },
-  { canonical: 'Soundtoys', prefixes: ['Soundtoys'] },
-  { canonical: 'Softube', prefixes: ['Softube'] },
-  { canonical: 'Plugin Alliance', prefixes: ['Plugin Alliance'] },
-  { canonical: 'Universal Audio', prefixes: ['UAD', 'Universal Audio'] },
-  { canonical: 'Spitfire Audio', prefixes: ['Spitfire Audio', 'Spitfire'] },
-  { canonical: 'Output', prefixes: ['Output'] },
-  { canonical: 'Baby Audio', prefixes: ['Baby Audio'] },
-  { canonical: 'Cherry Audio', prefixes: ['Cherry Audio'] },
-  { canonical: 'Kilohearts', prefixes: ['Kilohearts'] },
-  { canonical: 'Xfer', prefixes: ['Xfer'] },
-  { canonical: 'Spectrasonics', prefixes: ['Spectrasonics'] },
-  { canonical: 'UVI', prefixes: ['UVI'] },
-  { canonical: 'Toontrack', prefixes: ['Toontrack'] },
-  { canonical: 'XLN Audio', prefixes: ['XLN Audio'] },
-  { canonical: 'Slate Digital', prefixes: ['Slate Digital'] },
-  { canonical: 'Valhalla', prefixes: ['Valhalla'] },
-  { canonical: 'Eventide', prefixes: ['Eventide'] },
-  { canonical: 'Sonnox', prefixes: ['Sonnox'] },
-  { canonical: 'Cableguys', prefixes: ['Cableguys'] },
-  { canonical: 'Newfangled Audio', prefixes: ['Newfangled Audio', 'Newfangled'] },
-  { canonical: 'GForce', prefixes: ['GForce'] },
-  { canonical: 'Sonible', prefixes: ['Sonible'] },
-  { canonical: 'oeksound', prefixes: ['oeksound'] },
-  { canonical: 'Wavesfactory', prefixes: ['Wavesfactory'] },
-  { canonical: 'Klanghelm', prefixes: ['Klanghelm'] },
-  { canonical: 'AudioThing', prefixes: ['AudioThing'] },
-  { canonical: 'Denise Audio', prefixes: ['Denise Audio'] },
-  { canonical: 'Minimal Audio', prefixes: ['Minimal Audio'] },
-  { canonical: 'Excite Audio', prefixes: ['Excite Audio'] },
-  { canonical: 'Heavyocity', prefixes: ['Heavyocity'] },
-  { canonical: 'ProjectSAM', prefixes: ['ProjectSAM'] },
-  { canonical: 'EastWest', prefixes: ['EastWest'] },
-  { canonical: 'Vengeance', prefixes: ['Vengeance Sound', 'Vengeance'] },
-  { canonical: 'reFX', prefixes: ['reFX'] },
-  { canonical: 'Reveal Sound', prefixes: ['Reveal Sound'] },
-  { canonical: 'KV331', prefixes: ['KV331 Audio', 'KV331'] },
-  { canonical: 'LennarDigital', prefixes: ['LennarDigital'] },
-  { canonical: 'Celemony', prefixes: ['Celemony'] },
-  { canonical: 'Antares', prefixes: ['Antares'] },
-  { canonical: 'Relab', prefixes: ['Relab Development', 'Relab'] },
-  { canonical: 'LiquidSonics', prefixes: ['LiquidSonics'] },
-  { canonical: 'DMG Audio', prefixes: ['DMG Audio'] },
-  { canonical: 'GetGood Drums', prefixes: ['GetGood Drums'] },
-];
-
-function escapeRegExp(s: string): string {
-  return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-}
-
-function flattenBrandPrefixes(defs: Array<{ canonical: string; prefixes: string[] }>) {
-  const flat: Array<{ prefix: string; canonical: string }> = [];
-  for (const d of defs) for (const p of d.prefixes) flat.push({ prefix: p, canonical: d.canonical });
-  return flat.sort((a, b) => b.prefix.length - a.prefix.length);
-}
-
-function detectBrand(
-  name: string,
-  notes: string | undefined,
-  flatPrefixes: Array<{ prefix: string; canonical: string }>
-): string | null {
-  for (const { prefix, canonical } of flatPrefixes) {
-    if (name === prefix || name.startsWith(prefix + ' ')) return canonical;
-  }
-  if (notes) {
-    for (const { prefix, canonical } of flatPrefixes) {
-      const re = new RegExp(`\\b${escapeRegExp(prefix)}\\b`);
-      if (re.test(notes)) return canonical;
-    }
-  }
-  return null;
-}
-
 const data = priceData as PriceData;
 const plugins = data.plugins ?? {};
 const bundles = data.bundles ?? {};
@@ -126,40 +47,40 @@ const allProducts: Product[] = [];
 for (const [n, e] of Object.entries(plugins)) allProducts.push({ name: n, kind: 'plugin', entry: e });
 for (const [n, e] of Object.entries(bundles)) allProducts.push({ name: n, kind: 'bundle', entry: e });
 
-const flatPrefixes = flattenBrandPrefixes(BRAND_ALIASES);
-
 const groups = new Map<string, Product[]>();
 for (const p of allProducts) {
-  const brand = detectBrand(p.name, p.entry.notes, flatPrefixes);
+  const brand = detectBrand(p.name, p.entry.notes);
   if (!brand) continue;
   const arr = groups.get(brand) ?? [];
   arr.push(p);
   groups.set(brand, arr);
 }
 
+const cardEntries = { ...priceData.bundles, ...priceData.plugins };
+const cardNow = Date.now();
+const dealPool = buildDealPool(cardEntries, [], cardNow);
+const stats = brandStats(priceData, { now: cardNow, dealPool });
+const cards = dealPool.map(deal => toCardModel(deal, { entries: cardEntries, priceData, now: cardNow, videos, copy }));
+
 interface BrandSummary {
   brand: string;
   slug: string;
-  count: number;
-  onSaleCount: number;
+  tracked: number;
+  onSaleNow: number;
 }
 
 const brandSummaries: BrandSummary[] = [...groups.entries()]
-  .filter(([, products]) => isBrandPageIndexable(products.filter((p) => isPricePageIndexable(p.entry)).length))
-  .map(([brand, products]) => {
-    const onSaleCount = products.filter((p) => {
-      const e = p.entry;
-      return e.typical_sale !== null && e.typical_regular !== null && e.typical_sale < e.typical_regular;
-    }).length;
-    return { brand, slug: slugifyProduct(brand), count: products.length, onSaleCount };
-  })
+  .filter(([, products]) => isBrandPageIndexable(countIndexableBrandProducts(products)))
+  .map(([brand]) => ({
+    brand,
+    slug: slugifyProduct(brand),
+    tracked: stats.get(brand)!.tracked,
+    onSaleNow: stats.get(brand)!.onSaleNow,
+  }))
   .sort((a, b) => a.brand.localeCompare(b.brand));
 
 const pageTitle = 'Browse Plugin Deals by Brand | PluginDrop';
 const pageDescription = `Browse tracked VST/AU plugin prices and deals by manufacturer — ${brandSummaries.length} brands, updated daily.`;
-const cardEntries = { ...priceData.bundles, ...priceData.plugins };
-const cardNow = Date.now();
-const cards = buildDealPool(cardEntries, [], cardNow).map(deal => toCardModel(deal, { entries: cardEntries, priceData, now: cardNow, videos, copy }));
 ---
 
 <!doctype html>
@@ -221,7 +142,7 @@ const cards = buildDealPool(cardEntries, [], cardNow).map(deal => toCardModel(de
           <section class="brand-group"><a href={`/brands/${b.slug}/`} class="brand-card">
             <p class="brand-name">{b.brand}</p>
             <p class="brand-meta">
-              {b.count} products tracked{b.onSaleCount > 0 && <span class="sale-flag"> · {b.onSaleCount} on sale</span>}
+              {b.tracked} products tracked<span class="sale-flag"> · {b.onSaleNow} on sale now</span>
             </p>
           </a><div class="deal-grid">{cards.filter(card => card.brand === b.brand && card.image.src).slice(0, 2).map(card => <DealCard deal={card} variant="compact" />)}</div></section>
         ))}

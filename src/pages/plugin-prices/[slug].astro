@@ -18,6 +18,7 @@ import { rarityTag, supportChips } from '../../lib/dealSignals.mjs';
 import { composeHeadline } from '../../lib/headline.mjs';
 import { detectBrand } from '../../lib/brands.mjs';
 import { dealState } from '../../lib/articleDeal.mjs';
+import { discountCheck } from '../../lib/discountCheck.mjs';
 import manifestRaw from '../../data/programmatic_pages.json';
 import { categoryForProduct } from '../../lib/categoryInference.mjs';
 import { pdAttr } from '../../lib/interestTaxonomy.mjs';
@@ -59,6 +60,7 @@ interface StaticEntry {
   guides: Array<{ title: string; slug: string; image?: string }>;
 }
 
+const DISCOUNT_CHECK_ENABLED = import.meta.env.DISCOUNT_CHECK_ENABLED !== 'false';
 const data = priceData as PriceData;
 const pluginEntries = data.plugins ?? {};
 const bundleEntries = data.bundles ?? {};
@@ -159,6 +161,7 @@ const makerAttribution = productBrand ?? (makerHost && !/(^|\.)pluginboutique\.c
 const productFacts = (pluginFacts as Record<string, any>)[name] ?? null;
 const notableKey = String(entry.pbProductId ?? entry.pb_url?.match(/\/(\d+)(?:-[^/]*)?\/?$/)?.[1] ?? name);
 const verifiedLive = dealState(entry, Date.now()) === 'live';
+const discount = DISCOUNT_CHECK_ENABLED && verifiedLive ? discountCheck(entry, { buildDate: new Date().toISOString().slice(0, 10) }) : null;
 const headline = `${name.replace(/^Universal Audio UAD\s+/i, 'Universal Audio ').replace(/^Solid State Logic SSL\s+/i, 'Solid State Logic ')} price history`.slice(0, 70).trimEnd();
 const productImage = resolveCardImage({ entry, siblings: Object.values({ ...priceData.bundles, ...priceData.plugins }).filter(other => other.pb_url === entry.pb_url) });
 const rarity = verifiedLive ? rarityTag(entry, Date.now()) : null;
@@ -513,6 +516,10 @@ const faqLD = {
         font-family: var(--font-mono); font-size: 0.82rem;
       }
       .verdict-copy { color: var(--text-secondary); font-size: 0.92rem; line-height: 1.55; margin: 0; }
+      .discount-check { color: var(--text-secondary); font-size: 0.92rem; line-height: 1.55; }
+      .discount-check p { margin: 0; }
+      .discount-check .dc-label { color: var(--text-muted); font-size: 0.78rem; font-weight: 600; margin-bottom: 0.2rem; }
+      .discount-check .dc-line + .dc-line { margin-top: 0.2rem; }
       .verdict-alert-cta {
         justify-self: end;
         border: 1px solid var(--accent);
@@ -778,6 +785,7 @@ const faqLD = {
         .verdict-answer { padding-right: 0; border-right: 0; }
         .verdict-alert-cta { display: none; }
         .verdict-copy { font-size: 0.82rem; }
+        .discount-check { font-size: 0.82rem; }
         .price-row {
           flex-wrap: wrap;
           gap: 0.5rem;
@@ -833,7 +841,7 @@ const faqLD = {
         <div class="product-showcase">
           {productImage.src && <img class="hero-image" src={productImage.large ?? productImage.src} alt="" width="640" height="400" loading="eager" />}
           <div class="hero-copy">
-            <span class="hero-brand">{productBrand ?? category}</span>
+            {productBrand && <span class="hero-brand">{productBrand}</span>}
             <h1>{headline}</h1>
             {copyLine.kind === 'tagline' && <p class="product-tagline" data-copy-kind="tagline">{copyLine.text}</p>}
             {copyLine.kind === 'maker' && <p class="product-tagline" data-copy-kind="maker_quote"><q cite={copyLine.cite}>{copyLine.text}</q> — {copyLine.attribution}</p>}
@@ -857,7 +865,12 @@ const faqLD = {
                 <span class="verdict-score">{dealScore.score} / 100</span>
                 <a href="/how-we-track-prices/#deal-score">How we score →</a>
               </div>
-              <p class="verdict-copy">{verdictCopy}</p>
+              {discount ? (
+                <div class="discount-check">
+                  <p class="dc-label">Is this discount real?</p>
+                  {discount.lines.map(({ text }) => <p class="dc-line">{text}</p>)}
+                </div>
+              ) : <p class="verdict-copy">{verdictCopy}</p>}
               {showVerdictAlert && (
                 <button
                   type="button"

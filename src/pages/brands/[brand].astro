@@ -8,7 +8,7 @@ import priceData from '../../data/price_history.json';
 import dealCopy from '../../data/deal_copy.json';
 import videos from '../../data/product_videos.json';
 import { buildDealPool, toCardModel } from '../../lib/homeDeals.mjs';
-import { siteStats } from '../../lib/siteStats.mjs';
+import { siteStats, brandStats, MEASURED_SOURCES } from '../../lib/siteStats.mjs';
 const { trackingSince } = siteStats(priceData);
 import { isBrandPageIndexable, isPricePageIndexable, slugifyProduct } from '../../lib/indexPolicy.mjs';
 import { isSearchUrl, pbLink, formatPrice } from '../../lib/priceUtils';
@@ -111,7 +111,11 @@ export async function getStaticPaths() {
 }
 
 const { brand, products } = Astro.props as BrandGroup;
-const trend = brandTrends(priceData).find(item => item.brand === brand);
+const cardEntries = { ...priceData.bundles, ...priceData.plugins };
+const cardNow = Date.now();
+const dealPool = buildDealPool(cardEntries, [], cardNow);
+const stats = brandStats(priceData, { now: cardNow, dealPool }).get(brand);
+const trend = brandTrends(priceData, { measuredPeriodSources: MEASURED_SOURCES }).find(item => item.brand === brand);
 const observationGroups = trend ? [['Measured checks', trend.measured], ['Research estimates', trend.estimated], ['Archived pages', trend.archived]].filter(([, stats]) => stats.checks > 0) : [];
 
 // --- Price helpers (render-time only) ---------------------------------------
@@ -162,22 +166,20 @@ const rows: Row[] = products
   .sort((a, b) => a.name.localeCompare(b.name));
 
 const onSaleRows = rows.filter((r) => r.onSale);
-const cardEntries = { ...priceData.bundles, ...priceData.plugins };
-const cardNow = Date.now();
-const saleCards = buildDealPool(cardEntries, [], cardNow).filter(deal => products.some(product => product.name === deal.name)).map(deal => toCardModel(deal, { entries: cardEntries, priceData, now: cardNow, videos, copy: dealCopy })).sort((a,b) => Number(!!b.image.src) - Number(!!a.image.src));
+const saleCards = dealPool.filter(deal => products.some(product => product.name === deal.name)).map(deal => toCardModel(deal, { entries: cardEntries, priceData, now: cardNow, videos, copy: dealCopy })).sort((a,b) => Number(!!b.image.src) - Number(!!a.image.src));
 
 // --- Honest, data-driven "when does {brand} go on sale" note ------------------
 // Synthesized purely from the numbers we actually have (how many tracked
 // products are currently discounted, and by how much) — no fabricated
 // discount calendar, no invented dates. Omitted entirely when there isn't
 // enough data to say anything meaningful (fewer than 3 tracked products).
-function buildSaleNote(brandName: string, allRows: Row[], saleRows: Row[]): string | null {
-  const total = allRows.length;
+function buildSaleNote(brandName: string, tracked: number, typicallyDiscounted: number, saleRows: Row[]): string | null {
+  const total = tracked;
   if (total < 3) return null;
-  const onSaleCount = saleRows.length;
+  const onSaleCount = typicallyDiscounted;
   const ratio = onSaleCount / total;
-  const avgOff = onSaleCount > 0
-    ? Math.round(saleRows.reduce((sum, r) => sum + r.off, 0) / onSaleCount)
+  const avgOff = saleRows.length > 0
+    ? Math.round(saleRows.reduce((sum, r) => sum + r.off, 0) / saleRows.length)
     : 0;
 
   if (onSaleCount === 0) {
@@ -191,7 +193,7 @@ function buildSaleNote(brandName: string, allRows: Row[], saleRows: Row[]): stri
   }
   return `${onSaleCount} of ${total} tracked ${brandName} products typically go on sale, averaging about ${avgOff}% off.`;
 }
-const saleNote = buildSaleNote(brand, rows, onSaleRows);
+const saleNote = buildSaleNote(brand, stats!.tracked, stats!.typicallyDiscounted, onSaleRows);
 
 // --- Meta --------------------------------------------------------------------
 const pageTitle = `${brand} Plugin Prices & Deals 2026 | ${SITE_TITLE}`;
@@ -308,7 +310,7 @@ const itemListLD = {
       <section class="brand-header">
         <h1>All {brand} Plugins: Prices, Deals &amp; When They Go On Sale (2026)</h1>
         <p class="brand-intro">
-          We track {rows.length} {brand} products. Here's each product's list price, its typical sale price, and the lowest price we've recorded. These are typical/expected prices from past sales — see a product's page for its latest tracked price.
+          We track {stats!.tracked} {brand} products. Here's each product's list price, its typical sale price, and the lowest price we've recorded. These are typical/expected prices from past sales — see a product's page for its latest tracked price.
         </p>
         {saleNote && (
           <div class="sale-note-box">
