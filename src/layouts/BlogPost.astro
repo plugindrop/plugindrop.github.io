@@ -442,7 +442,7 @@ const bestGuides = tags
 const allPosts = await getCollection('blog');
 const publicTagCounts = new Map<string, number>();
 for (const post of allPosts) {
-	if (post.data.draft || post.data.noindex) continue;
+	if (post.data.draft || post.data.noindex || isArticleDealPastWindow(post.data)) continue;
 	for (const tag of (post.data.tags ?? [])) {
 		const tagSlug = slugifyTag(tag);
 		publicTagCounts.set(tagSlug, (publicTagCounts.get(tagSlug) ?? 0) + 1);
