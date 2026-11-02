@@ -1,0 +1,613 @@
+{
+  "buildDate": "2026-11-02",
+  "source": "inner origin/main working-tree src/data/price_history.json (Mac is canonical; this is a snapshot)",
+  "sourceLastUpdated": "2026-11-01",
+  "productsChecked": 675,
+  "blocksShown": 49,
+  "indexablePricePages": 150,
+  "pricePagesWithBlock": 39,
+  "lineCounts": {
+    "L1": 33,
+    "L2": 35,
+    "L3": 0
+  },
+  "flags": [
+    {
+      "name": "Empirical Labs EL8 Distressor Compressor",
+      "flag": "list_price_needs_review"
+    },
+    {
+      "name": "SSL Native X-EQ 2",
+      "flag": "list_price_needs_review"
+    },
+    {
+      "name": "Waves Platinum Bundle",
+      "flag": "list_price_needs_review"
+    }
+  ],
+  "duplicateBlocks": [
+    [
+      "Cherry Audio DCO-106",
+      "Cherry Audio PS-20"
+    ],
+    [
+      "Empirical Labs EL8 Distressor Compressor",
+      "SubLab XL"
+    ]
+  ],
+  "uniqueBlocks": false,
+  "blocks": [
+    {
+      "name": "AmpliTube 5 MAX v2",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "Same price as its last sale ($99.99, Jul 2026). Not a new low."
+        },
+        {
+          "key": "L2",
+          "text": "On sale in 15 of 22 checks from 2026-07-19 to 2026-09-10; the median price we saw was $99.99. Today's price is not below that median."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Baby Audio Humanoid",
+      "lines": [
+        {
+          "key": "L2",
+          "text": "On sale in 8 of 8 checks from 2026-07-31 to 2026-08-30; the median price we saw was $69. Today's price is 29% below that, against the 62% shown from the $129 list price."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Baby Audio Smooth Operator Pro",
+      "lines": [
+        {
+          "key": "L2",
+          "text": "On sale in 12 of 12 checks from 2026-08-04 to 2026-08-30; the median price we saw was $79. Today's price is 25% below that, against the 54% shown from the $129 list price."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Baby Audio Transit 2",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "Lowest price we've recorded: $69, $10 below the previous low of $79 (Jul 2026)."
+        },
+        {
+          "key": "L2",
+          "text": "On sale in 13 of 19 checks from 2026-07-12 to 2026-08-29; the median price we saw was $79. Today's price is 13% below that, against the 47% shown from the $129 list price."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Bloom KSHMR",
+      "lines": [
+        {
+          "key": "L2",
+          "text": "On sale in 11 of 11 checks from 2026-07-19 to 2026-08-27; the median price we saw was $39. Today's price is not below that median."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Chandler Limited Curve Bender Mastering EQ",
+      "lines": [
+        {
+          "key": "L2",
+          "text": "On sale in 10 of 10 checks from 2026-08-09 to 2026-09-01; the median price we saw was $79. Today's price is 13% below that, against the 77% shown from the $299 list price."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Cherry Audio DCO-106",
+      "lines": [
+        {
+          "key": "L2",
+          "text": "Listed at $29 in 15 of 15 checks from 2026-07-12 to 2026-08-29, so the 52% is measured from the price the store charged most of the time."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Cherry Audio Mercury-4",
+      "lines": [
+        {
+          "key": "L2",
+          "text": "Listed at $49 in 15 of 15 checks from 2026-07-12 to 2026-08-29, so the 51% is measured from the price the store charged most of the time."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Cherry Audio PS-20",
+      "lines": [
+        {
+          "key": "L2",
+          "text": "Listed at $29 in 15 of 15 checks from 2026-07-12 to 2026-08-29, so the 52% is measured from the price the store charged most of the time."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Chromed",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "$10.92 above the $8.08 it reached in Aug 2026."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Claro",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "$1 above the $32 it reached in Jul 2026."
+        },
+        {
+          "key": "L2",
+          "text": "On sale in 17 of 24 checks from 2026-07-12 to 2026-08-31; the median price we saw was $32. Today's price is not below that median."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "DeNoizzer",
+      "lines": [
+        {
+          "key": "L2",
+          "text": "On sale in 8 of 8 checks from 2026-08-09 to 2026-08-29; the median price we saw was $11.96. Today's price is not below that median."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Decimort 2",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "Same price as its last sale ($35, Jul 2026). Not a new low."
+        },
+        {
+          "key": "L2",
+          "text": "On sale in 18 of 24 checks from 2026-07-19 to 2026-08-27; the median price we saw was $35. Today's price is not below that median."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Drumazon 2",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "Same price as its last sale ($71.40, Aug 2026). Not a new low."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Empirical Labs EL8 Distressor Compressor",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "Same price as its last sale ($39, Jul 2026). Not a new low."
+        }
+      ],
+      "flags": [
+        "list_price_needs_review"
+      ]
+    },
+    {
+      "name": "Eventide Blackhole",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "Same price as its last sale ($49, Jul 2026). Not a new low."
+        },
+        {
+          "key": "L2",
+          "text": "On sale in 16 of 29 checks from 2026-07-11 to 2026-09-07; the median price we saw was $49. Today's price is not below that median."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Excite Audio Bloom Drum Machine",
+      "lines": [
+        {
+          "key": "L2",
+          "text": "On sale in 48 of 55 checks from 2026-07-12 to 2026-09-15; the median price we saw was $39. Today's price is not below that median."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "L4 Ultramaximizer",
+      "lines": [
+        {
+          "key": "L2",
+          "text": "On sale in 10 of 10 checks from 2026-08-30 to 2026-09-25; the median price we saw was $29.99. Today's price is not below that median."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Loop2Kit",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "Same price as its last sale ($69, Jul 2026). Not a new low."
+        },
+        {
+          "key": "L2",
+          "text": "On sale in 4 of 8 checks from 2026-07-26 to 2026-08-28; the median price we saw was $99. Today's price is 30% below that, against the 47% shown from the $129 list price."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Melody Sauce 3",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "Lowest price we've recorded: $69, $10 below the previous low of $79 (Jul 2026)."
+        },
+        {
+          "key": "L2",
+          "text": "On sale in 15 of 18 checks from 2026-07-26 to 2026-10-05; the median price we saw was $79. Today's price is 13% below that, against the 30% shown from the $99 list price."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Melody Sauce 3 Upgrade from Melody Sauce 1 2",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "Lowest price we've recorded: $19, $10 below the previous low of $29 (Jul 2026)."
+        },
+        {
+          "key": "L2",
+          "text": "On sale in 24 of 27 checks from 2026-07-26 to 2026-10-04; the median price we saw was $29. Today's price is 34% below that, against the 51% shown from the $39 list price."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Minimal Audio Rift 2.0",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "Same price as 1 of its 2 earlier sales ($69, Jul 2026). Not a new low."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Prophet~5",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "Lowest price we've recorded: $79.99, $4 below the previous low of $83.99 (Jul 2026)."
+        },
+        {
+          "key": "L2",
+          "text": "On sale in 14 of 21 checks from 2026-07-19 to 2026-08-31; the median price we saw was $83.99. Today's price is 5% below that, against the 33% shown from the $119.99 list price."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Reveal Sound Spire",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "$18 above the $76 it reached in Jul 2026."
+        },
+        {
+          "key": "L2",
+          "text": "On sale in 27 of 33 checks from 2026-07-11 to 2026-10-01; the median price we saw was $76. Today's price is not below that median."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "SSL Native X-Comp",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "Same price as its last sale ($10, Jul 2026). Not a new low."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "SSL Native X-EQ 2",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "Same price as its last sale ($15, Jul 2026). Not a new low."
+        }
+      ],
+      "flags": [
+        "list_price_needs_review"
+      ]
+    },
+    {
+      "name": "SSL Native X-Phase",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "Same price as its last sale ($10, Aug 2026). Not a new low."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "SSL Native X-Saturator",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "Same price as its last sale ($10, Aug 2026). Not a new low."
+        },
+        {
+          "key": "L2",
+          "text": "On sale in 4 of 8 checks from 2026-08-09 to 2026-09-17; the median price we saw was $29.50. Today's price is 66% below that, against the 80% shown from the $49 list price."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "SSL Native X-ValveComp",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "Same price as its last sale ($10, Aug 2026). Not a new low."
+        },
+        {
+          "key": "L2",
+          "text": "On sale in 5 of 8 checks from 2026-08-16 to 2026-09-20; the median price we saw was $10. Today's price is not below that median."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "SSL X-Limit",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "Same price as its last sale ($15, Aug 2026). Not a new low."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Scaler 3",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "Lowest price we've recorded: $69, $10 below the previous low of $79 (Jul 2026)."
+        },
+        {
+          "key": "L2",
+          "text": "On sale in 28 of 33 checks from 2026-07-19 to 2026-08-31; the median price we saw was $79. Today's price is 13% below that, against the 30% shown from the $99 list price."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Softube Tape",
+      "lines": [
+        {
+          "key": "L2",
+          "text": "Listed at $99 in 17 of 17 checks from 2026-07-11 to 2026-08-28, so the 61% is measured from the price the store charged most of the time."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Sonnox Oxford Inflator",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "Same price as its last sale ($39, Jul 2026). Not a new low."
+        },
+        {
+          "key": "L2",
+          "text": "On sale in 22 of 29 checks from 2026-07-12 to 2026-08-31; the median price we saw was $39. Today's price is not below that median."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "SoundID Reference for Headphones",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "Same price as its last sale ($49, Jul 2026). Not a new low."
+        },
+        {
+          "key": "L2",
+          "text": "On sale in 34 of 37 checks from 2026-07-26 to 2026-09-21; the median price we saw was $49. Today's price is not below that median."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Soundtoys Crystallizer",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "Same price as its last sale ($149, Aug 2026). Not a new low."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "SubLab XL",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "Same price as its last sale ($39, Jul 2026). Not a new low."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Super-7",
+      "lines": [
+        {
+          "key": "L2",
+          "text": "On sale in 12 of 12 checks from 2026-09-06 to 2026-09-15; the median price we saw was $19. Today's price is not below that median."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Total Studio 5 MAX",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "Lowest price we've recorded: $149.99, $50 below the previous low of $199.99 (Jul 2026)."
+        },
+        {
+          "key": "L2",
+          "text": "On sale in 23 of 30 checks from 2026-07-12 to 2026-08-31; the median price we saw was $199.99. Today's price is 25% below that, against the 75% shown from the $599.99 list price."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "UAD Sound City Studios Plugin",
+      "lines": [
+        {
+          "key": "L2",
+          "text": "On sale in 11 of 11 checks from 2026-07-12 to 2026-09-25; the median price we saw was $79. Today's price is 38% below that, against the 80% shown from the $249 list price."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Waves API 2500",
+      "lines": [
+        {
+          "key": "L2",
+          "text": "On sale in 10 of 10 checks from 2026-08-18 to 2026-09-25; the median price we saw was $32.50. Today's price is 8% below that, against the 80% shown from the $149 list price."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Waves Abbey Road Reverb Plates",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "Lowest price we've recorded: $29.99, $10.01 below the previous low of $40 (Aug 2026)."
+        },
+        {
+          "key": "L2",
+          "text": "On sale in 7 of 9 checks from 2026-08-04 to 2026-09-25; the median price we saw was $35. Today's price is 14% below that, against the 80% shown from the $149 list price."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Waves CLA-2A",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "Same price as 1 of its 2 earlier sales ($34.99, Jul 2026). Not a new low."
+        },
+        {
+          "key": "L2",
+          "text": "On sale in 9 of 10 checks from 2026-07-11 to 2026-09-25; the median price we saw was $37.50. Today's price is 7% below that, against the 77% shown from the $149 list price."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Waves L1 Ultramaximizer",
+      "lines": [
+        {
+          "key": "L2",
+          "text": "On sale in 10 of 10 checks from 2026-08-18 to 2026-09-25; the median price we saw was $32.50. Today's price is 8% below that, against the 70% shown from the $99 list price."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Waves Renaissance Reverb",
+      "lines": [
+        {
+          "key": "L2",
+          "text": "On sale in 23 of 23 checks from 2026-07-12 to 2026-09-25; the median price we saw was $39.99. Today's price is 13% below that, against the 73% shown from the $129 list price."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Waves Renaissance Vox",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "$5 above the $34.99 it reached in Jul 2026."
+        },
+        {
+          "key": "L2",
+          "text": "On sale in 18 of 20 checks from 2026-07-12 to 2026-09-25; the median price we saw was $39.99. Today's price is not below that median."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Weiss MM-1",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "Lowest price we've recorded: $59, $10 below the previous low of $69 (Jul 2026)."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Soundtoys 5.5",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "$250 above the $349 it reached in Jul 2026."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Waves Gold Bundle",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "Same price as its last sale ($159, May 2026). Not a new low."
+        }
+      ],
+      "flags": []
+    },
+    {
+      "name": "Waves Platinum Bundle",
+      "lines": [
+        {
+          "key": "L1",
+          "text": "$139 above the $60 it reached in Jun 2026."
+        }
+      ],
+      "flags": [
+        "list_price_needs_review"
+      ]
+    }
+  ]
+}

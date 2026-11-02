@@ -1,13 +1,11 @@
-import * as siteStats from './siteStats.mjs';
+import { MEASURED_SOURCES } from './siteStats.mjs';
 import { listSaleEpisodes } from './indexPolicy.mjs';
 import { listPriceChanges } from './priceInsights.mjs';
 import { formatPrice } from './priceUtils.ts';
 
 export const BF_CHECK_ENABLED = false;
 const DAY_MS = 86400000;
-// T23 exports this shared definition. The fallback keeps this wave independent
-// while T23 is being implemented in a separate file.
-const measuredSources = new Set(siteStats.MEASURED_SOURCES ?? ['auto_check', 'pb_deals_poll']);
+const measuredSources = new Set(MEASURED_SOURCES);
 const finite = (value) => typeof value === 'number' && Number.isFinite(value) && value > 0;
 const validDate = (value) => typeof value === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(value)
   && !Number.isNaN(Date.parse(`${value}T00:00:00Z`))
@@ -35,8 +33,8 @@ function l1(rows, currentStart, p) {
   const earlier = previousSales(rows, currentStart);
   if (!earlier.length) return null;
   const m = Math.min(...earlier.map((episode) => episode.low));
-  const matched = earlier.filter((episode) => Math.abs(episode.low - m) <= m * 0.02);
-  const reference = matched.at(-1) ?? earlier.find((episode) => episode.low === m);
+  const matched = earlier.filter((episode) => episode.low === m);
+  const reference = matched[0];
   const M = month(reference.start);
   if (p < m * 0.98) return `Lowest price we've recorded: ${formatPrice(p)}, ${difference(m, p)} below the previous low of ${formatPrice(m)} (${M}).`;
   if (Math.abs(p - m) <= m * 0.02) {

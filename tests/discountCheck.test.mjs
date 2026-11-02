@@ -1,6 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { BF_CHECK_ENABLED, bfCheck, discountCheck } from '../src/lib/discountCheck.mjs';
+import { summarizeDiscountChecks } from '../scripts/discount_check_dryrun.mjs';
 
 const buildDate = '2026-11-01';
 const row = (date, sale = null, regular = 100, extra = {}) => ({ date, sale, regular, source: 'auto_check', store: 'plugin_boutique', cur: 'USD', reg_src: 'page', ...extra });
@@ -82,4 +83,14 @@ test('BF check stays disabled and gates baseline count, share and month', () => 
   assert.equal(bfCheck(base(50), baseline, { buildDate: '2026-12-01', enabled: true }), null);
   assert.equal(bfCheck(base(50), baseline, { buildDate, enabled: true }),
     'Black Friday check: $50 against a Jul–Oct median of $80 and low of $60 (2026-09-01), from 8 checks frozen on 2026-11-02.');
+});
+
+test('dry run detects identical complete blocks across products', () => {
+  const data = { last_updated: '2026-11-01', plugins: { Alpha: base(50), Beta: base(50), Gamma: base(40) } };
+  const report = summarizeDiscountChecks(data, buildDate);
+  assert.equal(report.productsChecked, 3);
+  assert.equal(report.blocksShown, 3);
+  assert.deepEqual(report.duplicateBlocks, [['Alpha', 'Beta']]);
+  assert.equal(report.uniqueBlocks, false);
+  assert.equal(report.lineCounts.L2, 3);
 });
