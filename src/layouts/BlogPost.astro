@@ -1293,7 +1293,7 @@ const showInlineDeals = (rawBody.match(/^## /gm) ?? []).length >= 5 && saleCards
 							)}
 						</div>
 						</div>
-						{_dealTagline && <p class="deal-why">What it is: The manufacturer describes this product as “{_dealCopyRecord.tagline_source_quote}” <a href={_dealCopyRecord.tagline_source_url}>Source</a></p>}
+						{_dealTagline && <p class="deal-why">What it is: The manufacturer describes this product as “{_dealCopyRecord.tagline_source_quote}” <a href={_dealCopyRecord.tagline_source_url} rel={getDealSource(_dealCopyRecord.tagline_source_url) === 'Plugin Boutique' ? 'noopener sponsored' : undefined}>Source</a></p>}
 						{_rarity && !_discountCheck?.lines.some(line => line.key === 'L1') && <p class="deal-why">{_rarity.full}.</p>}
 						{_discountCheck ? (
 							<div class="deal-discount-check">
@@ -1370,11 +1370,10 @@ const showInlineDeals = (rawBody.match(/^## /gm) ?? []).length >= 5 && saleCards
 
 					<AuthorBox />
 
-					{affiliate && (
-						<div class="affiliate-disclosure">
-							<p>This post contains affiliate links. We may earn a small commission at no extra cost to you.</p>
-						</div>
-					)}
+					{/* Every article has a sponsored Plugin Boutique link in its sticky CTA. */}
+					<div class="affiliate-disclosure">
+						<p>This post contains affiliate links. We may earn a small commission at no extra cost to you.</p>
+					</div>
 				</div>
 				<div class="toc-rail-wrap">
 					<aside class="toc-rail" aria-label="Article outline">
