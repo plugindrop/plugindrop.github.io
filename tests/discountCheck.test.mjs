@@ -15,7 +15,7 @@ test('needs eight distinct dates over 28 days, a live sale and a current check',
   const good = base().history;
   assert.ok(discountCheck(entry(good), { buildDate }));
   assert.equal(discountCheck(entry(good.slice(2)), { buildDate }), null);
-  assert.equal(discountCheck(entry(good.map((r, i) => i === 0 ? { ...r, date: good[1].date } : r)), { buildDate }), null);
+  assert.equal(discountCheck(entry(good.map((r, i) => i < 2 ? { ...r, date: good[2].date } : r)), { buildDate }), null);
   assert.equal(discountCheck(base(50, '2026-10-25'), { buildDate })?.lines.length > 0, true);
   assert.equal(discountCheck(base(50, '2026-10-24'), { buildDate }), null);
   assert.equal(discountCheck(base(null), { buildDate }), null);
@@ -41,22 +41,22 @@ test('L1 lower, tolerance and higher boundaries use completed episodes', () => {
 });
 
 test('L2 checks window count, sale share, displayed discount gap and median', () => {
-  const frequent = [...['2026-09-01', '2026-09-08', '2026-09-15', '2026-09-22', '2026-09-29', '2026-10-06', '2026-10-13', '2026-10-20'].map((d, i) => row(d, i < 4 ? 80 : null)), row(buildDate, 70)];
+  const frequent = [...['2026-09-01', '2026-09-08', '2026-09-15', '2026-09-22', '2026-09-29', '2026-10-06', '2026-10-13', '2026-10-20'].map((d, i) => row(d, i < 4 ? 80 : null)), row(buildDate, 90)];
   assert.match(lines(frequent).find((l) => l.key === 'L2')?.text ?? '', /On sale in 4 of 8 checks/);
   assert.equal(lines(frequent.slice(1)).find((l) => l.key === 'L2'), undefined);
-  const rare = frequent.map((r, i) => i < 2 ? { ...r, sale: 80 } : { ...r, sale: i === 8 ? 70 : null });
-  assert.match(lines(rare).find((l) => l.key === 'L2')?.text ?? '', /Listed at \$100 in 6 of 8 checks/);
+  const rare = frequent.map((r, i) => i < 1 ? { ...r, sale: 80 } : { ...r, sale: i === 8 ? 70 : null });
+  assert.match(lines(rare).find((l) => l.key === 'L2')?.text ?? '', /Listed at \$100 in 7 of 8 checks/);
   const neither = rare.map((r, i) => i === 2 ? { ...r, sale: 80 } : r);
   assert.equal(lines(neither).find((l) => l.key === 'L2'), undefined);
   assert.equal(lines(frequent.map((r, i) => i === 8 ? { ...r, reg_src: 'typical' } : r)).find((l) => l.key === 'L2'), undefined);
-  const gap9 = frequent.map((r, i) => i === 8 ? { ...r, sale: 91 } : r);
+  const gap9 = frequent.map((r, i) => i === 8 ? { ...r, sale: 81 } : r);
   assert.equal(lines(gap9).find((l) => l.key === 'L2'), undefined);
-  const gap10 = frequent.map((r, i) => i === 8 ? { ...r, sale: 90 } : r);
-  assert.match(lines(gap10).find((l) => l.key === 'L2')?.text ?? '', /On sale in/);
+  assert.match(lines(frequent).find((l) => l.key === 'L2')?.text ?? '', /On sale in/);
 });
 
 test('L2 suspicious regular suppresses the line and reports a flag', () => {
-  const result = discountCheck(base(50).history ? entry(base(50).history.map((r, i) => i === 8 ? { ...r, regular: 600 } : r)) : null, { buildDate });
+  const history = [...base(50).history.slice(0, -1), row('2026-10-21', 60), row('2026-10-22'), row(buildDate, 50, 600)];
+  const result = discountCheck(entry(history), { buildDate });
   assert.equal(result?.lines.some((l) => l.key === 'L2'), false);
   assert.ok(result?.flags.includes('list_price_needs_review'));
 });
