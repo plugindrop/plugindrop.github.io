@@ -49,6 +49,10 @@ test('L2 checks window count, sale share, displayed discount gap and median', ()
   assert.match(lines(rare).find((l) => l.key === 'L2')?.text ?? '', /Listed at \$100 in 7 of 8 checks/);
   const neither = rare.map((r, i) => i === 2 ? { ...r, sale: 80 } : r);
   assert.equal(lines(neither).find((l) => l.key === 'L2'), undefined);
+  const tenDates = ['2026-09-01', '2026-09-05', '2026-09-08', '2026-09-12', '2026-09-15', '2026-09-20', '2026-09-25', '2026-10-01', '2026-10-10', '2026-10-20'];
+  const share20 = [...tenDates.map((d, i) => row(d, i < 2 ? 80 : null)), row(buildDate, 70)];
+  assert.match(lines(share20).find((l) => l.key === 'L2')?.text ?? '', /Listed at \$100 in 8 of 10 checks/);
+  assert.equal(lines(share20.map((r, i) => i === 2 ? { ...r, sale: 80 } : r)).find((l) => l.key === 'L2'), undefined);
   assert.equal(lines(frequent.map((r, i) => i === 8 ? { ...r, reg_src: 'typical' } : r)).find((l) => l.key === 'L2'), undefined);
   const gap9 = frequent.map((r, i) => i === 8 ? { ...r, sale: 81 } : r);
   assert.equal(lines(gap9).find((l) => l.key === 'L2'), undefined);
