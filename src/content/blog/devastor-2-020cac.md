@@ -15,7 +15,7 @@ saleExpiry: "2026-12-02"
 saleExpirySource: "fallback"
 draft: false
 ---
-**TL;DR:** Devastor 2 is currently $35 at Plugin Boutique, down from ~~$59~~ — a 41% cut that matches the lowest price PluginDrop has tracked for this plugin. D16 Group's multiband distortion unit pairs a diode-clipper model with analogue-modelled filters and a built-in dynamics flattener. [Grab Devastor 2 while it's at $35](https://www.pluginboutique.com/search?q=Devastor+2&a_aid=69cb95abe1763&chan=trk&data1=devastor-2-020cac&utm_source=plugindrop&utm_medium=article&utm_campaign=devastor-2-020cac).
+**TL;DR:** Devastor 2 is currently $35 at Plugin Boutique, down from ~~$59~~ — a 41% cut that matches the lowest price PluginDrop has tracked for this plugin. D16 Group's multiband distortion unit pairs a diode-clipper model with analogue-modelled filters and a built-in dynamics flattener. [Grab Devastor 2 while it's at $35](https://www.pluginboutique.com/product/2-Effects/30-Distortion/1864-Devastor-2?a_aid=69cb95abe1763&chan=trk&data1=devastor-2-020cac&utm_source=plugindrop&utm_medium=article&utm_campaign=devastor-2-020cac).
 
 <!-- deal-context-sale-windows:start -->
 ## Last three times this went on sale

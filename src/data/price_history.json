@@ -61894,7 +61894,9 @@
           "until": "2026-11-22"
         }
       ],
-      "image": "/images/plugin-prices/output-analog-strings.jpg"
+      "image": "/images/plugin-prices/output-analog-strings.jpg",
+      "image_lg": "/images/plugin-prices/output-analog-strings-lg.jpg",
+      "image_lg_width": 625
     },
     "Output EXHALE": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/1895-EXHALE",
@@ -62170,7 +62172,9 @@
           "until": "2026-11-22"
         }
       ],
-      "image": "/images/plugin-prices/output-exhale.jpg"
+      "image": "/images/plugin-prices/output-exhale.jpg",
+      "image_lg": "/images/plugin-prices/output-exhale-lg.jpg",
+      "image_lg_width": 625
     },
     "Output Movement": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/2352-Movement",
@@ -72603,7 +72607,10 @@
           "until": "2026-11-08"
         }
       ],
-      "category": "Compressor"
+      "category": "Compressor",
+      "image": "/images/plugin-prices/softube-tube-tech-cl-1b-mk-ii.jpg",
+      "image_lg": "/images/plugin-prices/softube-tube-tech-cl-1b-mk-ii-lg.jpg",
+      "image_lg_width": 625
     },
     "Softube Weiss DS1-MK3": {
       "pb_url": "/product/2-Effects/50-Mastering-/4180-Weiss-DS1-MK3",
@@ -117194,7 +117201,9 @@
           "until": "2026-11-19"
         }
       ],
-      "image": "/images/plugin-prices/dime-tt.jpg"
+      "image": "/images/plugin-prices/dime-tt.jpg",
+      "image_lg": "/images/plugin-prices/dime-tt-lg.jpg",
+      "image_lg_width": 625
     },
     "Pitch 'N Time Pro": {
       "pb_url": "/product/2-Effects/35-Pitch-Shifter/5098-Pitch-N-Time-Pro",
@@ -117221,7 +117230,9 @@
           "until": "2026-11-30"
         }
       ],
-      "image": "/images/plugin-prices/pitch-n-time-pro.jpg"
+      "image": "/images/plugin-prices/pitch-n-time-pro.jpg",
+      "image_lg": "/images/plugin-prices/pitch-n-time-pro-lg.jpg",
+      "image_lg_width": 450
     },
     "ENGL Ampthology Vol 1": {
       "pb_url": "/product/2-Effects/18-Amp-Simulator/15561-ENGL-Ampthology-Vol-1",
@@ -117248,7 +117259,9 @@
           "until": "2026-11-11"
         }
       ],
-      "image": "/images/plugin-prices/engl-ampthology-vol-1.jpg"
+      "image": "/images/plugin-prices/engl-ampthology-vol-1.jpg",
+      "image_lg": "/images/plugin-prices/engl-ampthology-vol-1-lg.jpg",
+      "image_lg_width": 625
     }
   }
 }
