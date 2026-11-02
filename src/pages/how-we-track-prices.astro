@@ -4,10 +4,22 @@ import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import priceData from '../data/price_history.json';
 import { siteStats } from '../lib/siteStats.mjs';
+import { formatPrice } from '../lib/priceUtils';
 const { trackedProducts, trackingSince } = siteStats(priceData);
 const entries = Object.values({ ...priceData.bundles, ...priceData.plugins });
 const rows = entries.flatMap(entry => entry.history ?? []);
 const sourceCounts = ['auto_check', 'pb_deals_poll', 'wayback', 'research'].map(source => ({ source, count: rows.filter(row => source === 'research' ? row.source?.startsWith('research') : row.source === source).length }));
+sourceCounts.push({ source: 'other sources', count: rows.length - sourceCounts.reduce((sum, item) => sum + item.count, 0) });
+const sourceCount = source => sourceCounts.find(item => item.source === source)?.count ?? 0;
+const measuredCount = sourceCount('auto_check') + sourceCount('pb_deals_poll');
+const archivedCount = sourceCount('wayback') + sourceCount('research');
+const otherCount = sourceCount('other sources');
+const percent = count => rows.length ? Math.round(count / rows.length * 100) : 0;
+const archivedRows = rows.filter(row => row.source === 'wayback' || row.source?.startsWith('research'));
+const datedArchivedRows = archivedRows.filter(row => /^\d{4}-\d{2}-\d{2}$/.test(row.date ?? ''));
+const historicalYear = datedArchivedRows.length ? Math.min(...datedArchivedRows.map(row => Number(row.date.slice(0, 4)))) : null;
+const mostlyBeforeTracking = trackingSince && archivedCount > 0 && datedArchivedRows.filter(row => row.date < trackingSince).length / archivedCount > 0.5;
+const sourceSummary = `Automated checks (auto_check and pb_deals_poll) make up ${percent(measuredCount)}% of the ${rows.length} rows in my price history; archived pages and research entries account for ${percent(archivedCount)}%${mostlyBeforeTracking ? `, mostly dated before ${trackingSince}` : ''}${otherCount ? `; other source labels account for ${percent(otherCount)}%` : ''}.`;
 const regularChanges = Object.entries({ ...priceData.bundles, ...priceData.plugins }).flatMap(([name, entry]) => {
   let previous = null;
   return [...(entry.history ?? [])].filter(row => row.source === 'auto_check' && row.reg_src === 'page' && Number.isFinite(row.regular)).sort((a, b) => a.date.localeCompare(b.date)).flatMap(row => {
@@ -170,7 +182,7 @@ const regularChanges = Object.entries({ ...priceData.bundles, ...priceData.plugi
 					</div>
 					<div class="stat-box">
 						<span class="num" data-tracking-since={trackingSince ?? ''}>{trackingSince ?? '—'}</span>
-						<span class="lbl">automated checks began; historical data extends to 2021 where available</span>
+						<span class="lbl">automated checks began; historical data extends to {historicalYear ?? 'an earlier year'} where available</span>
 					</div>
 				</div>
 
@@ -185,9 +197,9 @@ const regularChanges = Object.entries({ ...priceData.bundles, ...priceData.plugi
 
 				<h2>Where My Data Comes From</h2>
 				<p>Tracked products are checked periodically, with the cadence varying by product and source. Each recorded row has a date, source label and, where recorded, a store. Brand summaries appear on the <a href="/brands/">brand pages</a>.</p>
-				<p>Direct price checks are measured observations. Research entries are estimates and wayback entries are archived data. Estimates and archives are excluded from measured discount figures. See <a href="/sale-stats/">sale statistics</a> and the <a href="/corrections/">corrections policy</a>.</p>
+				<p>Only auto_check and pb_deals_poll rows count as measured observations in site statistics. Wayback rows are archived data, and research rows are estimates. Those rows and the other source labels in the table are excluded from measured discount figures. See <a href="/sale-stats/">sale statistics</a> and the <a href="/corrections/">corrections policy</a>.</p>
 				<table><thead><tr><th>Source</th><th>Rows</th></tr></thead><tbody>{sourceCounts.map(item => <tr><td>{item.source}</td><td>{item.count}</td></tr>)}</tbody></table>
-				{regularChanges.length > 0 && <section><h2>Observed list price changes</h2><p>Changes between automated checks where the regular price came from the product page. Gaps between checks mean the exact change date is unknown.</p><table><thead><tr><th>Product</th><th>Observed on</th><th>Previous</th><th>Recorded</th></tr></thead><tbody>{regularChanges.slice(-30).map(item => <tr><td>{item.name}</td><td>{item.date}</td><td>${item.from}</td><td>${item.to}</td></tr>)}</tbody></table></section>}
+				{regularChanges.length > 0 && <section><h2>Observed list price changes</h2><p>Changes between automated checks where the regular price came from the product page. Gaps between checks mean the exact change date is unknown.</p><table><thead><tr><th>Product</th><th>Observed on</th><th>Previous</th><th>Recorded</th></tr></thead><tbody>{regularChanges.slice(-30).map(item => <tr><td>{item.name}</td><td>{item.date}</td><td>{formatPrice(item.from)}</td><td>{formatPrice(item.to)}</td></tr>)}</tbody></table></section>}
 				<p>
 					Price data on PluginDrop comes from a mix of sources, and I label my confidence
 					honestly rather than presenting every number as equally certain:
@@ -211,12 +223,7 @@ const regularChanges = Object.entries({ ...priceData.bundles, ...priceData.plugi
 					</li>
 				</ul>
 				<div class="callout">
-					<p>
-						I don't pretend every historical data point was captured live. Automated and
-						manually-verified checks make up a smaller share of my overall price history than
-						researched entries, particularly for older dates. I'd rather be upfront about that
-						mix than imply a level of live monitoring I don't have.
-					</p>
+					<p>{sourceSummary}</p>
 				</div>
 
 				<h2>What "Lowest Tracked" Means</h2>
