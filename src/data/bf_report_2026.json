@@ -1,0 +1,2931 @@
+{
+  "baseline_frozen_at": "2026-11-02T02:32:14Z",
+  "baseline_rows_sha256": "a6e3040ec07ffd2f1813d5312b67c21f049da95a827fab6b54b506749e0d4f12",
+  "baseline_window": {
+    "end": "2026-10-31",
+    "start": "2026-07-01"
+  },
+  "bf_window": {
+    "end": "2026-11-30",
+    "start": "2026-11-01"
+  },
+  "bucket_counts": {
+    "insufficient_data": 111,
+    "worse_than_baseline": 1
+  },
+  "exclusion_counts": {
+    "insufficient_observations": 33,
+    "missing_baseline": 12,
+    "mixed_store": 97,
+    "no_baseline_median": 21,
+    "no_baseline_price": 21,
+    "no_bf_price": 15,
+    "non_usd": 12
+  },
+  "product_count": 112,
+  "products": [
+    {
+      "baseline_low": {
+        "date": "2026-10-04",
+        "price": 36.75
+      },
+      "baseline_median": 36.75,
+      "baseline_orig_median": 49.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 49.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 1.3333333333333333,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "insufficient_observations",
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 6,
+      "n_bf": 1,
+      "name": "73 JR Preamp",
+      "orig_inflation_pct": null,
+      "real_off_pct": -0.33333333333333326,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-10-09",
+        "price": 29.99
+      },
+      "baseline_median": 29.99,
+      "baseline_orig_median": 199.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 29.99
+      },
+      "bf_page_orig": 199.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.8492964824120603,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 26,
+      "n_bf": 1,
+      "name": "AmpliTube 5",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-04",
+        "price": 199.0
+      },
+      "baseline_median": 199.0,
+      "baseline_orig_median": 499.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 199.0
+      },
+      "bf_page_orig": 499.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.6012024048096192,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 65,
+      "n_bf": 2,
+      "name": "Analog Polysynth Collection",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-10-22",
+        "price": 6.66
+      },
+      "baseline_median": 9.0,
+      "baseline_orig_median": 129.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 6.66
+      },
+      "bf_page_orig": 129.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.9483720930232558,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 98,
+      "n_bf": 1,
+      "name": "CARBON",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.26,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-10-27",
+        "price": 9.0
+      },
+      "baseline_median": 29.0,
+      "baseline_orig_median": 129.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 9.0
+      },
+      "bf_page_orig": 129.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.9302325581395349,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 18,
+      "n_bf": 1,
+      "name": "CINEDREAM",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.6896551724137931,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-27",
+        "price": 29.0
+      },
+      "baseline_median": 29.0,
+      "baseline_orig_median": 119.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 119.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 4.103448275862069,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 8,
+      "n_bf": 1,
+      "name": "DANDY",
+      "orig_inflation_pct": null,
+      "real_off_pct": -3.1034482758620694,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": null,
+      "baseline_median": null,
+      "baseline_orig_median": null,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 29.0
+      },
+      "bf_page_orig": 49.0,
+      "bf_vs_low": null,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.40816326530612246,
+      "exclusion_reasons": [
+        "missing_baseline",
+        "insufficient_observations",
+        "mixed_store",
+        "non_usd",
+        "no_baseline_price",
+        "no_baseline_median"
+      ],
+      "inflated_list": false,
+      "n_baseline": 0,
+      "n_bf": 2,
+      "name": "DC Snares",
+      "orig_inflation_pct": null,
+      "real_off_pct": null,
+      "store": null
+    },
+    {
+      "baseline_low": null,
+      "baseline_median": null,
+      "baseline_orig_median": null,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 35.0
+      },
+      "bf_page_orig": 59.0,
+      "bf_vs_low": null,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.4067796610169492,
+      "exclusion_reasons": [
+        "missing_baseline",
+        "insufficient_observations",
+        "mixed_store",
+        "non_usd",
+        "no_baseline_price",
+        "no_baseline_median"
+      ],
+      "inflated_list": false,
+      "n_baseline": 0,
+      "n_bf": 2,
+      "name": "Devastor 2",
+      "orig_inflation_pct": null,
+      "real_off_pct": null,
+      "store": null
+    },
+    {
+      "baseline_low": null,
+      "baseline_median": null,
+      "baseline_orig_median": null,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 24.0
+      },
+      "bf_page_orig": 36.0,
+      "bf_vs_low": null,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.33333333333333337,
+      "exclusion_reasons": [
+        "missing_baseline",
+        "insufficient_observations",
+        "mixed_store",
+        "non_usd",
+        "no_baseline_price",
+        "no_baseline_median"
+      ],
+      "inflated_list": false,
+      "n_baseline": 0,
+      "n_bf": 2,
+      "name": "Digitalis",
+      "orig_inflation_pct": null,
+      "real_off_pct": null,
+      "store": null
+    },
+    {
+      "baseline_low": null,
+      "baseline_median": null,
+      "baseline_orig_median": null,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 17.0
+      },
+      "bf_page_orig": 29.0,
+      "bf_vs_low": null,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.4137931034482759,
+      "exclusion_reasons": [
+        "missing_baseline",
+        "insufficient_observations",
+        "mixed_store",
+        "non_usd",
+        "no_baseline_price",
+        "no_baseline_median"
+      ],
+      "inflated_list": false,
+      "n_baseline": 0,
+      "n_bf": 2,
+      "name": "dime[ms]",
+      "orig_inflation_pct": null,
+      "real_off_pct": null,
+      "store": null
+    },
+    {
+      "baseline_low": null,
+      "baseline_median": null,
+      "baseline_orig_median": null,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 29.0
+      },
+      "bf_page_orig": 49.0,
+      "bf_vs_low": null,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.40816326530612246,
+      "exclusion_reasons": [
+        "missing_baseline",
+        "insufficient_observations",
+        "mixed_store",
+        "non_usd",
+        "no_baseline_price",
+        "no_baseline_median"
+      ],
+      "inflated_list": false,
+      "n_baseline": 0,
+      "n_bf": 2,
+      "name": "dime[tt]",
+      "orig_inflation_pct": null,
+      "real_off_pct": null,
+      "store": null
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-13",
+        "price": 19.0
+      },
+      "baseline_median": 19.0,
+      "baseline_orig_median": 49.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 19.0
+      },
+      "bf_page_orig": 49.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.6122448979591837,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 48,
+      "n_bf": 1,
+      "name": "driveDAT",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-27",
+        "price": 39.0
+      },
+      "baseline_median": 49.99,
+      "baseline_orig_median": 49.99,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 49.99
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 1.281794871794872,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "insufficient_observations",
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 7,
+      "n_bf": 1,
+      "name": "E1",
+      "orig_inflation_pct": null,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-01",
+        "price": 29.0
+      },
+      "baseline_median": 39.0,
+      "baseline_orig_median": 199.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 39.0
+      },
+      "bf_page_orig": 199.0,
+      "bf_vs_low": 1.3448275862068966,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.8040201005025126,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 87,
+      "n_bf": 1,
+      "name": "Empirical Labs EL8 Distressor Compressor",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": null,
+      "baseline_median": null,
+      "baseline_orig_median": null,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 49.99
+      },
+      "bf_page_orig": 99.99,
+      "bf_vs_low": null,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.5000500050005,
+      "exclusion_reasons": [
+        "missing_baseline",
+        "insufficient_observations",
+        "mixed_store",
+        "non_usd",
+        "no_baseline_price",
+        "no_baseline_median"
+      ],
+      "inflated_list": false,
+      "n_baseline": 0,
+      "n_bf": 2,
+      "name": "ENGL Ampthology Vol 1",
+      "orig_inflation_pct": null,
+      "real_off_pct": null,
+      "store": null
+    },
+    {
+      "baseline_low": null,
+      "baseline_median": null,
+      "baseline_orig_median": null,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 150.0
+      },
+      "bf_page_orig": 772.0,
+      "bf_vs_low": null,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.805699481865285,
+      "exclusion_reasons": [
+        "missing_baseline",
+        "insufficient_observations",
+        "mixed_store",
+        "non_usd",
+        "no_baseline_price",
+        "no_baseline_median"
+      ],
+      "inflated_list": false,
+      "n_baseline": 0,
+      "n_bf": 2,
+      "name": "Essential Plugin Bundle",
+      "orig_inflation_pct": null,
+      "real_off_pct": null,
+      "store": null
+    },
+    {
+      "baseline_low": {
+        "date": "2026-07-11",
+        "price": 49.0
+      },
+      "baseline_median": 49.0,
+      "baseline_orig_median": 99.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 49.0
+      },
+      "bf_page_orig": 99.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.505050505050505,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 67,
+      "n_bf": 1,
+      "name": "Eventide Blackhole",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-07-12",
+        "price": 369.0
+      },
+      "baseline_median": 379.0,
+      "baseline_orig_median": 778.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 389.0
+      },
+      "bf_page_orig": 778.0,
+      "bf_vs_low": 1.0542005420054201,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.5,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 113,
+      "n_bf": 1,
+      "name": "Excite Audio Bundle",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": -0.02638522427440626,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-07-12",
+        "price": 269.0
+      },
+      "baseline_median": 279.0,
+      "baseline_orig_median": 778.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 289.0
+      },
+      "bf_page_orig": 778.0,
+      "bf_vs_low": 1.0743494423791822,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.6285347043701799,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 95,
+      "n_bf": 1,
+      "name": "Excite Audio Bundle Crossgrade From Any Excite Audio Product",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": -0.03584229390680993,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-10-18",
+        "price": 56.0
+      },
+      "baseline_median": 56.0,
+      "baseline_orig_median": 80.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 80.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 1.4285714285714286,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "insufficient_observations",
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 7,
+      "n_bf": 1,
+      "name": "FASTER MASTER",
+      "orig_inflation_pct": null,
+      "real_off_pct": -0.4285714285714286,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-10-18",
+        "price": 23.0
+      },
+      "baseline_median": 23.0,
+      "baseline_orig_median": 75.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 75.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 3.260869565217391,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 13,
+      "n_bf": 1,
+      "name": "Glow",
+      "orig_inflation_pct": null,
+      "real_off_pct": -2.260869565217391,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-05",
+        "price": 39.9
+      },
+      "baseline_median": 39.9,
+      "baseline_orig_median": 119.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 119.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 2.982456140350877,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 16,
+      "n_bf": 1,
+      "name": "InstaComposer 3",
+      "orig_inflation_pct": null,
+      "real_off_pct": -1.9824561403508771,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-10-14",
+        "price": 29.9
+      },
+      "baseline_median": 29.9,
+      "baseline_orig_median": 129.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 29.9
+      },
+      "bf_page_orig": 129.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.7682170542635659,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 20,
+      "n_bf": 1,
+      "name": "InstaComposer 4",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-23",
+        "price": 199.0
+      },
+      "baseline_median": 199.0,
+      "baseline_orig_median": null,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 199.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "insufficient_observations"
+      ],
+      "inflated_list": false,
+      "n_baseline": 6,
+      "n_bf": 1,
+      "name": "iZotope Nectar 4 Standard",
+      "orig_inflation_pct": null,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-23",
+        "price": 55.0
+      },
+      "baseline_median": 55.0,
+      "baseline_orig_median": null,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 55.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "insufficient_observations"
+      ],
+      "inflated_list": false,
+      "n_baseline": 6,
+      "n_bf": 1,
+      "name": "iZotope Ozone 12 Elements",
+      "orig_inflation_pct": null,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-23",
+        "price": 219.0
+      },
+      "baseline_median": 219.0,
+      "baseline_orig_median": null,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 219.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "insufficient_observations"
+      ],
+      "inflated_list": false,
+      "n_baseline": 6,
+      "n_bf": 1,
+      "name": "iZotope Ozone 12 Standard",
+      "orig_inflation_pct": null,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-23",
+        "price": 129.0
+      },
+      "baseline_median": 129.0,
+      "baseline_orig_median": null,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 129.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "insufficient_observations"
+      ],
+      "inflated_list": false,
+      "n_baseline": 6,
+      "n_bf": 1,
+      "name": "iZotope Tonal Balance Control 3",
+      "orig_inflation_pct": null,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-23",
+        "price": 99.0
+      },
+      "baseline_median": 99.0,
+      "baseline_orig_median": null,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 99.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "insufficient_observations"
+      ],
+      "inflated_list": false,
+      "n_baseline": 6,
+      "n_bf": 1,
+      "name": "iZotope Trash",
+      "orig_inflation_pct": null,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-10-04",
+        "price": 69.0
+      },
+      "baseline_median": 69.0,
+      "baseline_orig_median": 199.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 69.0
+      },
+      "bf_page_orig": 199.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.6532663316582914,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 32,
+      "n_bf": 2,
+      "name": "JUNO-60",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-10-03",
+        "price": 69.0
+      },
+      "baseline_median": 69.0,
+      "baseline_orig_median": 199.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 69.0
+      },
+      "bf_page_orig": 199.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.6532663316582914,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 48,
+      "n_bf": 2,
+      "name": "JUPITER 8",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-08-23",
+        "price": 99.0
+      },
+      "baseline_median": 99.0,
+      "baseline_orig_median": 149.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 149.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 1.505050505050505,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 25,
+      "n_bf": 1,
+      "name": "KNOCK",
+      "orig_inflation_pct": null,
+      "real_off_pct": -0.505050505050505,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": null,
+      "baseline_median": null,
+      "baseline_orig_median": null,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 24.0
+      },
+      "bf_page_orig": 36.0,
+      "bf_vs_low": null,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.33333333333333337,
+      "exclusion_reasons": [
+        "missing_baseline",
+        "insufficient_observations",
+        "mixed_store",
+        "non_usd",
+        "no_baseline_price",
+        "no_baseline_median"
+      ],
+      "inflated_list": false,
+      "n_baseline": 0,
+      "n_bf": 2,
+      "name": "Lair",
+      "orig_inflation_pct": null,
+      "real_off_pct": null,
+      "store": null
+    },
+    {
+      "baseline_low": {
+        "date": "2026-10-04",
+        "price": 74.25
+      },
+      "baseline_median": 74.25,
+      "baseline_orig_median": 99.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 99.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 1.3333333333333333,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "insufficient_observations",
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 6,
+      "n_bf": 1,
+      "name": "LANG PEQ-2",
+      "orig_inflation_pct": null,
+      "real_off_pct": -0.33333333333333326,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-08-12",
+        "price": 79.0
+      },
+      "baseline_median": 79.0,
+      "baseline_orig_median": 129.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 79.0
+      },
+      "bf_page_orig": 129.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.3875968992248062,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 41,
+      "n_bf": 2,
+      "name": "Minimal Audio Evoke",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-08-25",
+        "price": 79.0
+      },
+      "baseline_median": 79.0,
+      "baseline_orig_median": 129.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 129.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 1.6329113924050633,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 54,
+      "n_bf": 1,
+      "name": "Minimal Audio Lucid",
+      "orig_inflation_pct": null,
+      "real_off_pct": -0.6329113924050633,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-08-06",
+        "price": 69.0
+      },
+      "baseline_median": 129.0,
+      "baseline_orig_median": 129.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 69.0
+      },
+      "bf_page_orig": 129.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.4651162790697675,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 41,
+      "n_bf": 1,
+      "name": "Minimal Audio Rift 2.0",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.4651162790697675,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-07-18",
+        "price": 29.0
+      },
+      "baseline_median": 29.0,
+      "baseline_orig_median": null,
+      "bf_best": null,
+      "bf_page_orig": null,
+      "bf_vs_low": null,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store",
+        "no_bf_price"
+      ],
+      "inflated_list": false,
+      "n_baseline": 21,
+      "n_bf": 1,
+      "name": "Minimal Audio Ripple Phaser",
+      "orig_inflation_pct": null,
+      "real_off_pct": null,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": null,
+      "baseline_median": null,
+      "baseline_orig_median": null,
+      "bf_best": null,
+      "bf_page_orig": null,
+      "bf_vs_low": null,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store",
+        "no_bf_price",
+        "no_baseline_price",
+        "no_baseline_median"
+      ],
+      "inflated_list": false,
+      "n_baseline": 21,
+      "n_bf": 1,
+      "name": "Minimal Audio Swarm Reverb",
+      "orig_inflation_pct": null,
+      "real_off_pct": null,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-08-02",
+        "price": 49.0
+      },
+      "baseline_median": 159.0,
+      "baseline_orig_median": 159.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 159.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 3.2448979591836733,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 15,
+      "n_bf": 1,
+      "name": "Model 80 Five Voice Synthesizer",
+      "orig_inflation_pct": null,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-26",
+        "price": 29.99
+      },
+      "baseline_median": 29.99,
+      "baseline_orig_median": 199.99,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 29.99
+      },
+      "bf_page_orig": 199.99,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.8500425021251062,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 53,
+      "n_bf": 1,
+      "name": "MODO BASS 2",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-22",
+        "price": 39.0
+      },
+      "baseline_median": 39.99,
+      "baseline_orig_median": 99.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 99.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 2.5384615384615383,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 53,
+      "n_bf": 1,
+      "name": "Moog Mariana",
+      "orig_inflation_pct": null,
+      "real_off_pct": -1.4756189047261814,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-10-04",
+        "price": 19.0
+      },
+      "baseline_median": 19.0,
+      "baseline_orig_median": 69.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 19.0
+      },
+      "bf_page_orig": 69.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.7246376811594203,
+      "exclusion_reasons": [
+        "insufficient_observations",
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 6,
+      "n_bf": 1,
+      "name": "Motion Fractal Upgrade from any Motion Lite",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-08-02",
+        "price": 39.0
+      },
+      "baseline_median": 39.0,
+      "baseline_orig_median": 79.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 39.0
+      },
+      "bf_page_orig": 79.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.5063291139240507,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 18,
+      "n_bf": 1,
+      "name": "Motion: Fractal",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-23",
+        "price": 299.0
+      },
+      "baseline_median": 299.0,
+      "baseline_orig_median": null,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 299.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "insufficient_observations"
+      ],
+      "inflated_list": false,
+      "n_baseline": 6,
+      "n_bf": 1,
+      "name": "Native Instruments Action Strings 2",
+      "orig_inflation_pct": null,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-08-11",
+        "price": 34.0
+      },
+      "baseline_median": 34.0,
+      "baseline_orig_median": null,
+      "bf_best": null,
+      "bf_page_orig": null,
+      "bf_vs_low": null,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store",
+        "no_bf_price"
+      ],
+      "inflated_list": false,
+      "n_baseline": 15,
+      "n_bf": 1,
+      "name": "Native Instruments Bouquet",
+      "orig_inflation_pct": null,
+      "real_off_pct": null,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-08-02",
+        "price": 10.0
+      },
+      "baseline_median": 10.0,
+      "baseline_orig_median": 99.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 99.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 9.9,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 45,
+      "n_bf": 1,
+      "name": "Native Instruments FM8",
+      "orig_inflation_pct": null,
+      "real_off_pct": -8.9,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-07-31",
+        "price": 34.0
+      },
+      "baseline_median": 34.0,
+      "baseline_orig_median": null,
+      "bf_best": null,
+      "bf_page_orig": null,
+      "bf_vs_low": null,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store",
+        "no_bf_price"
+      ],
+      "inflated_list": false,
+      "n_baseline": 22,
+      "n_bf": 1,
+      "name": "Native Instruments Glaze 2",
+      "orig_inflation_pct": null,
+      "real_off_pct": null,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": null,
+      "baseline_median": null,
+      "baseline_orig_median": null,
+      "bf_best": null,
+      "bf_page_orig": null,
+      "bf_vs_low": null,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store",
+        "no_bf_price",
+        "no_baseline_price",
+        "no_baseline_median"
+      ],
+      "inflated_list": false,
+      "n_baseline": 22,
+      "n_bf": 1,
+      "name": "Native Instruments Halo Vox",
+      "orig_inflation_pct": null,
+      "real_off_pct": null,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": null,
+      "baseline_median": null,
+      "baseline_orig_median": null,
+      "bf_best": null,
+      "bf_page_orig": null,
+      "bf_vs_low": null,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "insufficient_observations",
+        "no_bf_price",
+        "no_baseline_price",
+        "no_baseline_median"
+      ],
+      "inflated_list": false,
+      "n_baseline": 2,
+      "n_bf": 1,
+      "name": "Native Instruments Kithara",
+      "orig_inflation_pct": null,
+      "real_off_pct": null,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-10-08",
+        "price": 5.0
+      },
+      "baseline_median": 5.0,
+      "baseline_orig_median": 19.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 5.0
+      },
+      "bf_page_orig": 19.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.736842105263158,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 12,
+      "n_bf": 1,
+      "name": "Native Instruments Kolor",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-07-11",
+        "price": 299.0
+      },
+      "baseline_median": 299.0,
+      "baseline_orig_median": null,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 299.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 28,
+      "n_bf": 1,
+      "name": "Native Instruments Kontakt 8",
+      "orig_inflation_pct": null,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": null,
+      "baseline_median": null,
+      "baseline_orig_median": null,
+      "bf_best": null,
+      "bf_page_orig": null,
+      "bf_vs_low": null,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store",
+        "no_bf_price",
+        "no_baseline_price",
+        "no_baseline_median"
+      ],
+      "inflated_list": false,
+      "n_baseline": 22,
+      "n_bf": 1,
+      "name": "Native Instruments LCO Producer Strings",
+      "orig_inflation_pct": null,
+      "real_off_pct": null,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-08-02",
+        "price": 29.0
+      },
+      "baseline_median": 29.0,
+      "baseline_orig_median": 99.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 99.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 3.413793103448276,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 45,
+      "n_bf": 1,
+      "name": "Native Instruments Massive",
+      "orig_inflation_pct": null,
+      "real_off_pct": -2.413793103448276,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": null,
+      "baseline_median": null,
+      "baseline_orig_median": null,
+      "bf_best": null,
+      "bf_page_orig": null,
+      "bf_vs_low": null,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store",
+        "no_bf_price",
+        "no_baseline_price",
+        "no_baseline_median"
+      ],
+      "inflated_list": false,
+      "n_baseline": 22,
+      "n_bf": 1,
+      "name": "Native Instruments Scene Bloodplant",
+      "orig_inflation_pct": null,
+      "real_off_pct": null,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": null,
+      "baseline_median": null,
+      "baseline_orig_median": null,
+      "bf_best": null,
+      "bf_page_orig": null,
+      "bf_vs_low": null,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store",
+        "no_bf_price",
+        "no_baseline_price",
+        "no_baseline_median"
+      ],
+      "inflated_list": false,
+      "n_baseline": 22,
+      "n_bf": 1,
+      "name": "Native Instruments Scene Lotus",
+      "orig_inflation_pct": null,
+      "real_off_pct": null,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": null,
+      "baseline_median": null,
+      "baseline_orig_median": null,
+      "bf_best": null,
+      "bf_page_orig": null,
+      "bf_vs_low": null,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store",
+        "no_bf_price",
+        "no_baseline_price",
+        "no_baseline_median"
+      ],
+      "inflated_list": false,
+      "n_baseline": 22,
+      "n_bf": 1,
+      "name": "Native Instruments Scene Nightshade",
+      "orig_inflation_pct": null,
+      "real_off_pct": null,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": null,
+      "baseline_median": null,
+      "baseline_orig_median": null,
+      "bf_best": null,
+      "bf_page_orig": null,
+      "bf_vs_low": null,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store",
+        "no_bf_price",
+        "no_baseline_price",
+        "no_baseline_median"
+      ],
+      "inflated_list": false,
+      "n_baseline": 22,
+      "n_bf": 1,
+      "name": "Native Instruments Scene Saffron",
+      "orig_inflation_pct": null,
+      "real_off_pct": null,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": null,
+      "baseline_median": null,
+      "baseline_orig_median": null,
+      "bf_best": null,
+      "bf_page_orig": null,
+      "bf_vs_low": null,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store",
+        "no_bf_price",
+        "no_baseline_price",
+        "no_baseline_median"
+      ],
+      "inflated_list": false,
+      "n_baseline": 22,
+      "n_bf": 1,
+      "name": "Native Instruments Super Saw",
+      "orig_inflation_pct": null,
+      "real_off_pct": null,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-08-23",
+        "price": 59.99
+      },
+      "baseline_median": 59.99,
+      "baseline_orig_median": 119.99,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 59.99
+      },
+      "bf_page_orig": 119.99,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.5000416701391782,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 13,
+      "n_bf": 1,
+      "name": "Oberheim TVS Pro",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-08-16",
+        "price": 69.0
+      },
+      "baseline_median": 149.0,
+      "baseline_orig_median": 149.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 149.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 2.1594202898550723,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 15,
+      "n_bf": 1,
+      "name": "ORANGE VOCODER IV",
+      "orig_inflation_pct": null,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-18",
+        "price": 199.0
+      },
+      "baseline_median": 199.0,
+      "baseline_orig_median": null,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 199.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "insufficient_observations"
+      ],
+      "inflated_list": false,
+      "n_baseline": 7,
+      "n_bf": 1,
+      "name": "Output Analog Brass and Winds",
+      "orig_inflation_pct": null,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-08-31",
+        "price": 75.0
+      },
+      "baseline_median": 149.0,
+      "baseline_orig_median": 149.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 149.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 1.9866666666666666,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 38,
+      "n_bf": 1,
+      "name": "Output Portal",
+      "orig_inflation_pct": null,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-07-13",
+        "price": 74.5
+      },
+      "baseline_median": 149.0,
+      "baseline_orig_median": null,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 74.5
+      },
+      "bf_page_orig": 149.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.5,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 31,
+      "n_bf": 1,
+      "name": "Output Thermal",
+      "orig_inflation_pct": null,
+      "real_off_pct": 0.5,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-20",
+        "price": 125.0
+      },
+      "baseline_median": 125.0,
+      "baseline_orig_median": 250.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 250.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 2.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 20,
+      "n_bf": 1,
+      "name": "Pick 5 Bundle VPS Avenger Expansions",
+      "orig_inflation_pct": null,
+      "real_off_pct": -1.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-07-21",
+        "price": 129.0
+      },
+      "baseline_median": 129.0,
+      "baseline_orig_median": null,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 199.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 1.5426356589147288,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 60,
+      "n_bf": 1,
+      "name": "Pigments 7",
+      "orig_inflation_pct": null,
+      "real_off_pct": -0.5426356589147288,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": null,
+      "baseline_median": null,
+      "baseline_orig_median": null,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 559.0
+      },
+      "bf_page_orig": 799.0,
+      "bf_vs_low": null,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.3003754693366708,
+      "exclusion_reasons": [
+        "missing_baseline",
+        "insufficient_observations",
+        "mixed_store",
+        "non_usd",
+        "no_baseline_price",
+        "no_baseline_median"
+      ],
+      "inflated_list": false,
+      "n_baseline": 0,
+      "n_bf": 2,
+      "name": "Pitch 'N Time Pro",
+      "orig_inflation_pct": null,
+      "real_off_pct": null,
+      "store": null
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-13",
+        "price": 69.0
+      },
+      "baseline_median": 79.0,
+      "baseline_orig_median": 149.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 149.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 2.1594202898550723,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 11,
+      "n_bf": 1,
+      "name": "PITCHMAP",
+      "orig_inflation_pct": null,
+      "real_off_pct": -0.8860759493670887,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-08-02",
+        "price": 60.0
+      },
+      "baseline_median": 80.0,
+      "baseline_orig_median": null,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 80.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 1.3333333333333333,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 20,
+      "n_bf": 1,
+      "name": "REFERENCE 3",
+      "orig_inflation_pct": null,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-10-08",
+        "price": 149.0
+      },
+      "baseline_median": 349.0,
+      "baseline_orig_median": 349.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 349.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 2.3422818791946307,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "insufficient_observations"
+      ],
+      "inflated_list": false,
+      "n_baseline": 7,
+      "n_bf": 1,
+      "name": "Relab Development LX480 Complete",
+      "orig_inflation_pct": null,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-08-16",
+        "price": 19.0
+      },
+      "baseline_median": 19.0,
+      "baseline_orig_median": 79.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 79.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 4.157894736842105,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 39,
+      "n_bf": 1,
+      "name": "Relooper",
+      "orig_inflation_pct": null,
+      "real_off_pct": -3.1578947368421053,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-10-26",
+        "price": 24.0
+      },
+      "baseline_median": 49.0,
+      "baseline_orig_median": 49.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 24.0
+      },
+      "bf_page_orig": 49.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.5102040816326531,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 16,
+      "n_bf": 1,
+      "name": "Remix",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.5102040816326531,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-08-23",
+        "price": 129.99
+      },
+      "baseline_median": 199.99,
+      "baseline_orig_median": null,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 99.99
+      },
+      "bf_page_orig": 199.99,
+      "bf_vs_low": 0.7692130163858757,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.5000250012500626,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 13,
+      "n_bf": 1,
+      "name": "ReSing MAX",
+      "orig_inflation_pct": null,
+      "real_off_pct": 0.5000250012500626,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": null,
+      "baseline_median": null,
+      "baseline_orig_median": null,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 40.0
+      },
+      "bf_page_orig": 80.0,
+      "bf_vs_low": null,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.5,
+      "exclusion_reasons": [
+        "missing_baseline",
+        "insufficient_observations",
+        "mixed_store",
+        "non_usd",
+        "no_baseline_price",
+        "no_baseline_median"
+      ],
+      "inflated_list": false,
+      "n_baseline": 0,
+      "n_bf": 2,
+      "name": "RESO",
+      "orig_inflation_pct": null,
+      "real_off_pct": null,
+      "store": null
+    },
+    {
+      "baseline_low": null,
+      "baseline_median": null,
+      "baseline_orig_median": null,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 49.99
+      },
+      "bf_page_orig": 299.99,
+      "bf_vs_low": null,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.8333611120370679,
+      "exclusion_reasons": [
+        "missing_baseline",
+        "insufficient_observations",
+        "mixed_store",
+        "non_usd",
+        "no_baseline_price",
+        "no_baseline_median"
+      ],
+      "inflated_list": false,
+      "n_baseline": 0,
+      "n_bf": 2,
+      "name": "SampleTank 4 MAX",
+      "orig_inflation_pct": null,
+      "real_off_pct": null,
+      "store": null
+    },
+    {
+      "baseline_low": {
+        "date": "2026-10-18",
+        "price": 29.0
+      },
+      "baseline_median": 29.0,
+      "baseline_orig_median": 99.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 99.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 3.413793103448276,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "insufficient_observations",
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 7,
+      "n_bf": 1,
+      "name": "Shade",
+      "orig_inflation_pct": null,
+      "real_off_pct": -2.413793103448276,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-23",
+        "price": 74.5
+      },
+      "baseline_median": 149.0,
+      "baseline_orig_median": 149.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 149.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 2.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "insufficient_observations"
+      ],
+      "inflated_list": false,
+      "n_baseline": 7,
+      "n_bf": 1,
+      "name": "Slate Digital FG-X 2",
+      "orig_inflation_pct": null,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-18",
+        "price": 149.0
+      },
+      "baseline_median": 149.0,
+      "baseline_orig_median": null,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 149.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "insufficient_observations"
+      ],
+      "inflated_list": false,
+      "n_baseline": 7,
+      "n_bf": 1,
+      "name": "Slate Digital VTM",
+      "orig_inflation_pct": null,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-18",
+        "price": 49.0
+      },
+      "baseline_median": 149.0,
+      "baseline_orig_median": 159.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 149.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 3.0408163265306123,
+      "bucket": "worse_than_baseline",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [],
+      "inflated_list": false,
+      "n_baseline": 8,
+      "n_bf": 1,
+      "name": "Softube Model 72",
+      "orig_inflation_pct": null,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-08-16",
+        "price": 149.0
+      },
+      "baseline_median": 149.0,
+      "baseline_orig_median": 1359.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 149.0
+      },
+      "bf_page_orig": 1359.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.8903605592347315,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 16,
+      "n_bf": 1,
+      "name": "Softube Producer Collection Exclusive",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-08-02",
+        "price": 69.0
+      },
+      "baseline_median": 69.0,
+      "baseline_orig_median": 199.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 199.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 2.8840579710144927,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 55,
+      "n_bf": 1,
+      "name": "Softube Tube-Tech CL 1B Mk II",
+      "orig_inflation_pct": null,
+      "real_off_pct": -1.8840579710144927,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-10-18",
+        "price": 49.99
+      },
+      "baseline_median": 49.99,
+      "baseline_orig_median": 495.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 49.99
+      },
+      "bf_page_orig": 495.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.899010101010101,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 18,
+      "n_bf": 1,
+      "name": "Solid State Logic SSL Fusion Bundle",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-07-12",
+        "price": 39.0
+      },
+      "baseline_median": 39.0,
+      "baseline_orig_median": 156.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 39.0
+      },
+      "bf_page_orig": 156.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.75,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 34,
+      "n_bf": 1,
+      "name": "Sonnox Oxford Inflator",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-10-18",
+        "price": 49.0
+      },
+      "baseline_median": 49.0,
+      "baseline_orig_median": 397.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 49.0
+      },
+      "bf_page_orig": 397.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.8765743073047859,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 17,
+      "n_bf": 1,
+      "name": "SSL Greatest Hits Bundle",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-07-19",
+        "price": 15.0
+      },
+      "baseline_median": 15.0,
+      "baseline_orig_median": 149.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 15.0
+      },
+      "bf_page_orig": 149.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.8993288590604027,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 47,
+      "n_bf": 1,
+      "name": "SSL Native X-EQ 2",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-08-02",
+        "price": 10.0
+      },
+      "baseline_median": 99.0,
+      "baseline_orig_median": 99.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 10.0
+      },
+      "bf_page_orig": 99.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.898989898989899,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 20,
+      "n_bf": 1,
+      "name": "SSL Native X-Phase",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.898989898989899,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-06",
+        "price": 15.0
+      },
+      "baseline_median": 15.0,
+      "baseline_orig_median": 49.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 15.0
+      },
+      "bf_page_orig": 49.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.6938775510204082,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 28,
+      "n_bf": 1,
+      "name": "SSL X-Gate",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-06",
+        "price": 149.0
+      },
+      "baseline_median": 149.0,
+      "baseline_orig_median": 249.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 249.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 1.6711409395973154,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 29,
+      "n_bf": 1,
+      "name": "StageOne 2",
+      "orig_inflation_pct": null,
+      "real_off_pct": -0.6711409395973154,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-08-02",
+        "price": 19.0
+      },
+      "baseline_median": 69.0,
+      "baseline_orig_median": 69.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 69.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 3.6315789473684212,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 15,
+      "n_bf": 1,
+      "name": "SUBCRAFT",
+      "orig_inflation_pct": null,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-21",
+        "price": 25.0
+      },
+      "baseline_median": 39.0,
+      "baseline_orig_median": 80.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 80.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 3.2,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 47,
+      "n_bf": 1,
+      "name": "SubLab XL",
+      "orig_inflation_pct": null,
+      "real_off_pct": -1.051282051282051,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-06",
+        "price": 19.0
+      },
+      "baseline_median": 19.0,
+      "baseline_orig_median": 99.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 99.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 5.2105263157894735,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 11,
+      "n_bf": 1,
+      "name": "Super 8",
+      "orig_inflation_pct": null,
+      "real_off_pct": -4.2105263157894735,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-10-04",
+        "price": 19.0
+      },
+      "baseline_median": 19.0,
+      "baseline_orig_median": 49.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 49.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 2.5789473684210527,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 23,
+      "n_bf": 1,
+      "name": "The Orb",
+      "orig_inflation_pct": null,
+      "real_off_pct": -1.5789473684210527,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": null,
+      "baseline_median": null,
+      "baseline_orig_median": null,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 39.0
+      },
+      "bf_page_orig": 2759.5,
+      "bf_vs_low": null,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.9858670048921906,
+      "exclusion_reasons": [
+        "missing_baseline",
+        "insufficient_observations",
+        "mixed_store",
+        "non_usd",
+        "no_baseline_price",
+        "no_baseline_median"
+      ],
+      "inflated_list": false,
+      "n_baseline": 0,
+      "n_bf": 3,
+      "name": "Thenatan Full Bundle",
+      "orig_inflation_pct": null,
+      "real_off_pct": null,
+      "store": null
+    },
+    {
+      "baseline_low": {
+        "date": "2026-10-26",
+        "price": 29.0
+      },
+      "baseline_median": 60.0,
+      "baseline_orig_median": 60.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 29.0
+      },
+      "bf_page_orig": 60.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.5166666666666666,
+      "exclusion_reasons": [
+        "insufficient_observations"
+      ],
+      "inflated_list": false,
+      "n_baseline": 7,
+      "n_bf": 1,
+      "name": "Tokyo Dawn Labs TDR Nova GE",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.5166666666666666,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-20",
+        "price": 149.99
+      },
+      "baseline_median": 199.99,
+      "baseline_orig_median": 599.99,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 149.99
+      },
+      "bf_page_orig": 599.99,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.7500125002083368,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 59,
+      "n_bf": 2,
+      "name": "Total Studio 5 MAX",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.2500125006250312,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-10-26",
+        "price": 49.99
+      },
+      "baseline_median": 79.99,
+      "baseline_orig_median": 1499.92,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 49.99
+      },
+      "bf_page_orig": 1499.92,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.9666715558163101,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 46,
+      "n_bf": 2,
+      "name": "TOTAL VI MAX 2",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.3750468808601074,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-23",
+        "price": 49.0
+      },
+      "baseline_median": 84.0,
+      "baseline_orig_median": 149.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 149.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 3.0408163265306123,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 28,
+      "n_bf": 1,
+      "name": "TR-909",
+      "orig_inflation_pct": null,
+      "real_off_pct": -0.7738095238095237,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-07-19",
+        "price": 149.0
+      },
+      "baseline_median": 249.0,
+      "baseline_orig_median": 249.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 249.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 1.6711409395973154,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 26,
+      "n_bf": 1,
+      "name": "TRITON / TRITON Extreme",
+      "orig_inflation_pct": null,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-08-09",
+        "price": 179.0
+      },
+      "baseline_median": 179.0,
+      "baseline_orig_median": 198.89,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 198.89
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 1.1111173184357541,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 30,
+      "n_bf": 1,
+      "name": "u he Diva Free Ambient Depths Expansion",
+      "orig_inflation_pct": null,
+      "real_off_pct": -0.11111731843575412,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-13",
+        "price": 149.0
+      },
+      "baseline_median": 149.0,
+      "baseline_orig_median": 167.42,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 167.42
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 1.1236241610738253,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 12,
+      "n_bf": 1,
+      "name": "u he Hive 2 FREE Synthwave Expansion",
+      "orig_inflation_pct": null,
+      "real_off_pct": -0.12362416107382534,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-01",
+        "price": 29.0
+      },
+      "baseline_median": 29.0,
+      "baseline_orig_median": 99.0,
+      "bf_best": null,
+      "bf_page_orig": null,
+      "bf_vs_low": null,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store",
+        "no_bf_price"
+      ],
+      "inflated_list": false,
+      "n_baseline": 17,
+      "n_bf": 1,
+      "name": "UAD dbx 160 Compressor Limiter",
+      "orig_inflation_pct": null,
+      "real_off_pct": null,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-10-20",
+        "price": 79.0
+      },
+      "baseline_median": 79.0,
+      "baseline_orig_median": 149.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 79.0
+      },
+      "bf_page_orig": 149.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.4697986577181208,
+      "exclusion_reasons": [
+        "insufficient_observations"
+      ],
+      "inflated_list": false,
+      "n_baseline": 2,
+      "n_bf": 1,
+      "name": "UAD Emperical Labs FATSO Tape Simulator",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-03",
+        "price": 29.0
+      },
+      "baseline_median": 44.0,
+      "baseline_orig_median": 149.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 149.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 5.137931034482759,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 23,
+      "n_bf": 1,
+      "name": "UAD LA-2A Collection",
+      "orig_inflation_pct": null,
+      "real_off_pct": -2.3863636363636362,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-01",
+        "price": 39.0
+      },
+      "baseline_median": 39.0,
+      "baseline_orig_median": 149.0,
+      "bf_best": null,
+      "bf_page_orig": null,
+      "bf_vs_low": null,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store",
+        "no_bf_price"
+      ],
+      "inflated_list": false,
+      "n_baseline": 21,
+      "n_bf": 1,
+      "name": "UAD Manley Vari Mu",
+      "orig_inflation_pct": null,
+      "real_off_pct": null,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-20",
+        "price": 99.0
+      },
+      "baseline_median": 99.0,
+      "baseline_orig_median": 149.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 99.0
+      },
+      "bf_page_orig": 149.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.3355704697986577,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 39,
+      "n_bf": 1,
+      "name": "UAD Mix Tape Pro",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-07-12",
+        "price": 39.0
+      },
+      "baseline_median": 79.0,
+      "baseline_orig_median": 249.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 249.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 6.384615384615385,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 17,
+      "n_bf": 1,
+      "name": "UAD Sound City Studios Plugin",
+      "orig_inflation_pct": null,
+      "real_off_pct": -2.151898734177215,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-10-27",
+        "price": 39.0
+      },
+      "baseline_median": 39.0,
+      "baseline_orig_median": 149.0,
+      "bf_best": null,
+      "bf_page_orig": null,
+      "bf_vs_low": null,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "insufficient_observations",
+        "no_bf_price"
+      ],
+      "inflated_list": false,
+      "n_baseline": 1,
+      "n_bf": 1,
+      "name": "UAD Teletronix LA 2A Leveler Collection",
+      "orig_inflation_pct": null,
+      "real_off_pct": null,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-10-04",
+        "price": 111.75
+      },
+      "baseline_median": 111.75,
+      "baseline_orig_median": 149.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 149.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 1.3333333333333333,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "insufficient_observations",
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 6,
+      "n_bf": 1,
+      "name": "Ultimate Vocal Chain Collection",
+      "orig_inflation_pct": null,
+      "real_off_pct": -0.33333333333333326,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-13",
+        "price": 99.0
+      },
+      "baseline_median": 149.0,
+      "baseline_orig_median": 149.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 149.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 1.505050505050505,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 11,
+      "n_bf": 1,
+      "name": "UNMIX::DRUMS",
+      "orig_inflation_pct": null,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-07-12",
+        "price": 49.0
+      },
+      "baseline_median": 49.0,
+      "baseline_orig_median": 89.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 49.0
+      },
+      "bf_page_orig": 89.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.449438202247191,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 132,
+      "n_bf": 2,
+      "name": "VISION 4X",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-09-06",
+        "price": 69.0
+      },
+      "baseline_median": 79.0,
+      "baseline_orig_median": 149.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 149.0
+      },
+      "bf_page_orig": null,
+      "bf_vs_low": 2.1594202898550723,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": null,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 11,
+      "n_bf": 1,
+      "name": "WORMHOLE",
+      "orig_inflation_pct": null,
+      "real_off_pct": -0.8860759493670887,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-10-18",
+        "price": 29.0
+      },
+      "baseline_median": 29.0,
+      "baseline_orig_median": 99.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 29.0
+      },
+      "bf_page_orig": 99.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.7070707070707071,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 18,
+      "n_bf": 1,
+      "name": "X-DynEQ",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    },
+    {
+      "baseline_low": {
+        "date": "2026-10-04",
+        "price": 99.0
+      },
+      "baseline_median": 99.0,
+      "baseline_orig_median": 229.0,
+      "bf_best": {
+        "date": "2026-11-01",
+        "price": 99.0
+      },
+      "bf_page_orig": 229.0,
+      "bf_vs_low": 1.0,
+      "bucket": "insufficient_data",
+      "claimed_off_pct": 0.5676855895196506,
+      "exclusion_reasons": [
+        "mixed_store"
+      ],
+      "inflated_list": false,
+      "n_baseline": 34,
+      "n_bf": 2,
+      "name": "ZENOLOGY PRO",
+      "orig_inflation_pct": 0.0,
+      "real_off_pct": 0.0,
+      "store": "plugin_boutique"
+    }
+  ],
+  "year": 2026
+}
