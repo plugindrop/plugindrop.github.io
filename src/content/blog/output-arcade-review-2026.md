@@ -1,6 +1,6 @@
 ---
-title: "Output Arcade Review 2026: Is the Subscription Worth It?"
-description: "If you want a steady supply of tempo-synced loops and playable kits inside your DAW, Output Arcade is the most developed subscription instrument of its..."
+title: "Output Arcade in 2026: Subscription Pricing, Features and Specs"
+description: "Output Arcade is a subscription instrument with tempo-synced loops and playable kits. This guide covers its features, subscription pricing and available product details."
 pubDate: "2026-11-06T10:15:51Z"
 tags: ["guide", "vst", "instruments", "review"]
 affiliate: ""

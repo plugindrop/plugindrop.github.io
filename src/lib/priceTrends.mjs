@@ -32,7 +32,7 @@ function summarize(rows) {
   };
 }
 
-export function brandTrends(data) {
+export function brandTrends(data, { measuredPeriodSources = null } = {}) {
   const groups = new Map();
   for (const product of productsOf(data)) {
     if (!product.brand) continue;
@@ -41,7 +41,14 @@ export function brandTrends(data) {
   }
   return [...groups].map(([brand, products]) => {
     const rows = products.flatMap(product => (product.entry.history ?? []).map(row => ({ product, row })));
-    const measured = summarize(rows.filter(x => sourceKind(x.row.source) === 'measured'));
+    const measuredRows = rows.filter(x => sourceKind(x.row.source) === 'measured');
+    const measured = summarize(measuredRows);
+    if (measuredPeriodSources != null) {
+      const periodRows = measuredRows.filter(x => measuredPeriodSources.includes(x.row.source));
+      const dates = periodRows.map(x => x.row.date).filter(Boolean).sort();
+      measured.first = dates[0] ?? null;
+      measured.last = dates.at(-1) ?? null;
+    }
     return {
       brand, slug: slugifyProduct(brand), products, measured,
       estimated: summarize(rows.filter(x => sourceKind(x.row.source) === 'estimated')),

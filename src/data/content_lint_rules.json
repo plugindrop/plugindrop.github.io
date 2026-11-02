@@ -1,4 +1,6 @@
 {
+  "review_metadata_banned": ["\\bReviews?\\b"],
+  "review_body_banned": ["\\bin this review\\b", "\\bour review\\b"],
   "experience": [
     "\\b(?:I|we)(?:'ve| have)? (?:used|tested|tried|spent|found|loved|reach for)\\b",
     "\\bin (?:my|our) (?:experience|tests?|testing|sessions?)\\b",
