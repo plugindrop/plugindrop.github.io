@@ -87662,7 +87662,9 @@
         }
       ],
       "category": null,
-      "image": "/images/plugin-prices/uad-a-type-multiband-dynamic-enhancer.jpg"
+      "image": "/images/plugin-prices/uad-a-type-multiband-dynamic-enhancer.jpg",
+      "image_lg": "/images/plugin-prices/uad-a-type-multiband-dynamic-enhancer-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD API 2500 Bus Compressor": {
       "pb_url": "/product/2-Effects/8-Compressor/10155-API-2500-Bus-Compressor",
@@ -87884,7 +87886,9 @@
           "until": "2026-11-10"
         }
       ],
-      "image": "/images/plugin-prices/uad-api-2500-bus-compressor.jpg"
+      "image": "/images/plugin-prices/uad-api-2500-bus-compressor.jpg",
+      "image_lg": "/images/plugin-prices/uad-api-2500-bus-compressor-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD API Vision Channel Strip": {
       "pb_url": "/product/2-Effects/21-Channel-Strip/10158-API-Vision-Channel-Strip",
@@ -88325,7 +88329,9 @@
         }
       ],
       "category": null,
-      "image": "/images/plugin-prices/uad-ampex-atr-102-mastering-tape-recorder.jpg"
+      "image": "/images/plugin-prices/uad-ampex-atr-102-mastering-tape-recorder.jpg",
+      "image_lg": "/images/plugin-prices/uad-ampex-atr-102-mastering-tape-recorder-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Anthem Analog Synthesizer": {
       "pb_url": "/product/1-Instruments/4-Synth/15086-Anthem-Analog-Synthesizer",
@@ -90389,7 +90395,9 @@
           "until": "2026-11-10"
         }
       ],
-      "image": "/images/plugin-prices/uad-fairchild-tube-limiter-collection.jpg"
+      "image": "/images/plugin-prices/uad-fairchild-tube-limiter-collection.jpg",
+      "image_lg": "/images/plugin-prices/uad-fairchild-tube-limiter-collection-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Galaxy Tape Echo": {
       "pb_url": "/product/2-Effects/10-Delay/10170-Galaxy-Tape-Echo",
@@ -92090,7 +92098,9 @@
           "until": "2026-11-10"
         }
       ],
-      "image": "/images/plugin-prices/uad-little-labs-voice-of-god.jpg"
+      "image": "/images/plugin-prices/uad-little-labs-voice-of-god.jpg",
+      "image_lg": "/images/plugin-prices/uad-little-labs-voice-of-god-lg.jpg",
+      "image_lg_width": 624
     },
     "UAD Manley Massive Passive": {
       "pb_url": "/product/2-Effects/16-EQ/11498-Manley-Massive-Passive",
@@ -93881,7 +93891,9 @@
           "until": "2026-11-10"
         }
       ],
-      "image": "/images/plugin-prices/uad-moog-minimoog.jpg"
+      "image": "/images/plugin-prices/uad-moog-minimoog.jpg",
+      "image_lg": "/images/plugin-prices/uad-moog-minimoog-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Neve 1073": {
       "pb_url": "https://www.pluginboutique.com/search?q=UAD%20Neve%201073",
