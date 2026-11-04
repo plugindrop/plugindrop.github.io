@@ -6899,7 +6899,7 @@
       "pb_url": "/product/2-Effects/17-Reverb/8900-Crystalline",
       "typical_regular": 99,
       "typical_sale": 39,
-      "all_time_low": 39,
+      "all_time_low": 5.0,
       "notes": "Algorithmic reverb, regular $99 at Baby Audio & Plugin Boutique. Baby Audio runs frequent site-wide sales (~30-40% off across the catalog) but no Crystalline-specific sale price was confirmed in this research pass. / auto-crawl 2026-08-09",
       "history": [
         {
@@ -7176,6 +7176,15 @@
           "source": "auto_check",
           "store": "plugin_boutique",
           "reg_src": "typical",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-11-03",
+          "sale": 5.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
           "cur": "USD"
         }
       ],
@@ -115603,6 +115612,15 @@
         },
         {
           "date": "2026-11-02",
+          "sale": 29.99,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-11-03",
           "sale": 29.99,
           "regular": 199.0,
           "source": "pb_deals_poll",

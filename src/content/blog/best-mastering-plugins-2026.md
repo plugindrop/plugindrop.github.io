@@ -1,5 +1,4 @@
 ---
-title: "Best Mastering Plugins in 2026: Professional Tools Compared"
 description: "iZotope Ozone 12 Standard is an all-in-one mastering suite for bedroom producers in 2026, covering every stage of the mastering chain..."
 pubDate: "2026-06-10T16:22:12Z"
 tags: ["guide", "vst", "mastering"]
@@ -8,265 +7,207 @@ heroImage: "/images/best-mastering-plugins-2026.jpg"
 evergreen: true
 score: 8.00
 xText: "New guide: Best Mastering Plugins in 2026: Professional Tools Compared"
+title: "Best Mastering Plugins in 2026: Professional Tools Compared"
+priceTrack: ["FabFilter Saturn 2", "Sonnox Oxford EQ"]
+updatedDate: "2026-11-04"
 draft: false
 ---
-*Note: The previous Ozone 11 has been replaced by Ozone 12 (Elements $55 / Standard $219 / Advanced $499 at Plugin Boutique, as of 2026-10-01).*
+**TL;DR:** TDR Nova is a parallel dynamic equalizer with four dynamic EQ bands plus high-pass and low-pass filter sections, so one plugin covers parametric EQ, dynamic EQ, and wideband dynamics <sup><a href="https://www.tokyodawn.net/tdr-nova/" rel="nofollow noopener" target="_blank">[1]</a></sup><sup><a href="https://www.tokyodawn.net/tdr-nova/" rel="nofollow noopener" target="_blank">[2]</a></sup>. Youlean Loudness Meter is built for analysis only, checking perceived loudness against the ITU-R BS.1770 requirements and exporting measurements as PDF, PNG, or SVG, but it cannot alter the audio loudness <sup><a href="https://youlean.co/youlean-loudness-meter/" rel="nofollow noopener" target="_blank">[3]</a></sup><sup><a href="https://youlean.co/youlean-loudness-meter/" rel="nofollow noopener" target="_blank">[4]</a></sup><sup><a href="https://youlean.co/youlean-loudness-meter/" rel="nofollow noopener" target="_blank">[5]</a></sup>. FabFilter Saturn 2 offers multiband distortion with up to six bands, adjustable crossover slopes, and a linear phase mode for crossover filtering, and for the final stage, FabFilter Pro-L 2 provides true peak limiting with up to 32x oversampling and loudness metering to the EBU R128 standard, while Sonnox Oxford EQ is a 5-band parametric EQ whose Type 4 mode is aimed at mastering <sup><a href="https://www.fabfilter.com/help/saturn" rel="nofollow noopener" target="_blank">[6]</a></sup><sup><a href="https://www.fabfilter.com/help/saturn" rel="nofollow noopener" target="_blank">[7]</a></sup><sup><a href="https://www.fabfilter.com/help/saturn" rel="nofollow noopener" target="_blank">[8]</a></sup><sup><a href="https://www.fabfilter.com/help/pro-l/intro/fabfilterprol" rel="nofollow noopener" target="_blank">[9]</a></sup><sup><a href="https://www.fabfilter.com/help/pro-l/intro/fabfilterprol" rel="nofollow noopener" target="_blank">[10]</a></sup><sup><a href="https://sonnox.com/products/oxford-eq" rel="nofollow noopener" target="_blank">[11]</a></sup><sup><a href="https://sonnox.com/products/oxford-eq" rel="nofollow noopener" target="_blank">[12]</a></sup>.
 
-**TL;DR:** iZotope Ozone 12 Standard is an all-in-one mastering suite covering EQ, dynamics, imaging, and limiting with an AI Mastering Assistant. FabFilter Pro-L 2 is a standalone limiter with eight algorithms. Before spending anything, anchor your chain with Voxengo SPAN and Youlean Loudness Meter 2 — both free, both essential.
+<!--roundup:det:start-->
+## How we picked
 
+Research date: 2026-11-04. Reviewed 18 source URLs (forum: 1, interview: 1, press: 10, vendor_docs: 5, video: 1). Each pick has at least one verified official fact, mentions from at least two independent third-party domains, and no verified discontinuation notice. Picks are ordered by independent domain count, then priced check count for paid products, then name. No placement fees were accepted. Price observations are shown only for picks with sufficient tracker history.
+<!--roundup:det:end-->
 
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/KyrGhIWTtE0" title="Top 5 AI Mixing &amp; Mastering Tools Musicians Need in 2025 #musicproduction #mastering" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
+<!--roundup:det:start-->
+## Picks at a glance
 
-## Quick Picks at a Glance
+| Product | Role | License | Current price | Tracked low | On sale | Link |
+| --- | --- | --- | --- | --- | --- | --- |
+| TDR Nova | — | Free | Free | — | — | [Official site](https://www.tokyodawn.net/tdr-nova/) |
+| Youlean Loudness Meter | — | Free | Free | — | — | [Official site](https://youlean.co/youlean-loudness-meter/) |
+| FabFilter Saturn 2 | — | Paid | See live price card | See live price card | See live price card | [Official site](https://www.fabfilter.com/help/saturn) |
+| Sonnox Oxford EQ | — | Paid | See live price card | See live price card | See live price card | [Official site](https://sonnox.com/products/oxford-eq) |
 
-| Plugin | Price | Best For | Get It |
-|--------|-------|----------|--------|
-| iZotope Ozone 12 Standard | $219 | All-in-one mastering suite | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
-| FabFilter Pro-L 2 | ~$199 | Transparent mastering limiter | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
-| FabFilter Pro-Q 3 | ~$179 | Surgical mastering EQ | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
-| Gullfoss | ~$199 | Intelligent spectral enhancement | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
-| TDR Nova | Free | Dynamic EQ at zero cost | [TDR Nova (official site)](https://www.tokyodawn.net/tdr-nova/) |
-| Voxengo SPAN | Free | Spectrum analysis | [Voxengo SPAN (official site)](https://www.voxengo.com/product/span/) |
-| Youlean Loudness Meter 2 | Free | LUFS compliance metering | — |
+| Product | Role | License | Current price | Tracked low | On sale | Link |
+| --- | --- | --- | --- | --- | --- | --- |
+| FabFilter Pro-L 2 | — | Paid | Current price is not shown while price tracking is being set up. | — | — | [Official site](https://www.fabfilter.com/help/pro-l/intro/fabfilterprol) |
 
-## Introduction
+| Product | Role | License | Current price | Tracked low | On sale | Link |
+| --- | --- | --- | --- | --- | --- | --- |
+| iZotope Ozone 12 Advanced | — | Paid | Current price is not shown while price tracking is being set up. | — | — | [Official site](https://www.izotope.com/pages/release-notes/ozone-advanced) |
+<!--roundup:det:end-->
 
-The biggest misconception producers carry into mastering in 2026 is that one plugin does the job. A professional mastering chain is a sequence of distinct tools: EQ, compression, limiting, and metering — each solving a specific problem at a specific stage. Understanding that structure is what separates producers who get consistent results from those who keep reaching for a "louder" preset and wondering why their masters sound squashed.
-
-What makes 2026 particularly interesting is how capable the free tier has become. Tokyo Dawn Records' free tools compete directly with mid-priced paid alternatives, and the barrier to building a functional mastering chain from scratch is lower than at any point in the plugin market's history. Meanwhile, AI-assisted mastering analysis — pioneered by iZotope in Ozone 9 and now a baseline expectation in that segment — has become a meaningful productivity tool for producers still building mastering instincts.
-
-This guide covers the best mastering plugins available through Plugin Boutique, organized by function across the mastering chain. Every pick is selected on the basis of developer documentation and specs. Prices reflect standard rates — Plugin Boutique runs regular sales that can bring these down substantially, making it worth checking before committing to full price on any paid tool here.
-
-## All-in-One Mastering Suites
-
-### iZotope Ozone 12 Standard — The most complete starting point for in-the-box mastering
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/6dN6raXIkR0" title="iZotope Ozone 11 Standard — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-- **Developer:** iZotope
-- **Price:** ~$249 (Standard); ~$499 (Advanced)
-- **Platforms:** Windows, macOS
-- **Formats:** VST3, AU, AAX
-
-Ozone 12 Standard packages EQ, dynamic EQ, multiband compression, stereo imaging, spectral shaping, and a maximizer into a single interface with an AI Mastering Assistant that analyzes incoming audio and proposes a starting-point signal chain. It suits producers building a first mastering chain or who want a cohesive integrated workflow. The AI assistant doesn't replace decisions; treat it as a starting point, not an endpoint.
-
-The Standard tier omits the Vintage modules and some Advanced-exclusive features, but for most bedroom producers the Standard toolset covers every practical mastering need. The Advanced version earns consideration if mid/side processing flexibility across all modules is a priority.
-
-**Best for:** Producers who want an AI-guided all-in-one chain without assembling modules from multiple developers.
-
-[→ Get iZotope Ozone 12 on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026)
-
----
-
-## Mastering EQ
-
-### FabFilter Pro-Q 3 — A precision EQ for mastering
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Idhal0rRJj8" title="FabFilter Pro-Q 3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-- **Developer:** FabFilter
-- **Price:** ~$179
-- **Platforms:** Windows, macOS
-- **Formats:** VST, VST3, AU, AAX
-
-FabFilter Pro-Q 3 is a precision EQ. Its dynamic EQ mode — where individual bands respond to the incoming signal level rather than applying fixed corrections — is highlighted in FabFilter's developer documentation as a core differentiator from static EQ designs, which suits taming resonances that only become problems at louder levels. It can also display another Pro-Q 3 instance's curve on the same screen, enabling direct spectral comparison between a mix and master or between tracks on an album.
-
-For mastering specifically, the linear phase processing option delivers precise corrections without the pre-ringing artifacts of older linear phase designs.
-
-**Best for:** Surgical EQ correction and album-level spectral matching across sessions.
-
-[→ Get FabFilter Pro-Q 3 on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026)
-
----
-
-### TDR Nova — The best free dynamic EQ for mastering work
+## TDR Nova
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/1CHFv4mWQYM" title="TDR Nova — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-- **Developer:** Tokyo Dawn Records
-- **Price:** Free (GE version: ~$52)
-- **Platforms:** Windows, macOS
-- **Formats:** VST, VST3, AU, AAX
+TDR Nova is described in the vendor's documentation as a parallel dynamic equalizer. <sup><a href="https://www.tokyodawn.net/tdr-nova/" rel="nofollow noopener" target="_blank">[1]</a></sup> Dubspot, a press outlet, describes it as Tokyo Dawn Labs' free parallel dynamic equalizer for parametric EQ, dynamic EQ, multiband compression, and wideband dynamics. <sup><a href="https://blog.dubspot.com/plugins/tdr-nova" rel="nofollow noopener" target="_blank">[13]</a></sup> The vendor states that it has four dynamic EQ bands along with additional high-pass and low-pass filter sections. <sup><a href="https://www.tokyodawn.net/tdr-nova/" rel="nofollow noopener" target="_blank">[2]</a></sup>
 
-TDR Nova is a free parallel dynamic EQ. Its four-band dynamic architecture allows frequency-dependent compression — particularly effective for controlling low-mid buildup or upper-mid harshness that only surfaces at louder listening levels. The GE version adds bands and workflow refinements, but the free tier is a zero-cost alternative to paid dynamic EQ tools.
+Music Production Wiki explains that each band can act as a static filter or as a frequency-dependent compressor or expander. <sup><a href="https://musicproductionwiki.com/articles/best-plugins-for-mixing-2026" rel="nofollow noopener" target="_blank">[14]</a></sup> The vendor says its equal loudness functions help a user find a setting without being distracted by loudness differences. <sup><a href="https://www.tokyodawn.net/tdr-nova/" rel="nofollow noopener" target="_blank">[15]</a></sup> Its feature list also names a preset manager, undo and redo, A/B comparison, detailed documentation, and copy and paste. <sup><a href="https://www.tokyodawn.net/tdr-nova/" rel="nofollow noopener" target="_blank">[16]</a></sup>
 
-The interface is denser than FabFilter's, which reflects its design intent: it targets producers comfortable with compressor-style parameter thinking. For mastering applications, it suits corrective work on specific problem frequencies rather than broad spectral shaping.
+Dubspot's summary of the plugin as covering parametric EQ, dynamic EQ, multiband compression, and wideband dynamics is a press description rather than vendor copy. <sup><a href="https://blog.dubspot.com/plugins/tdr-nova" rel="nofollow noopener" target="_blank">[13]</a></sup> Music Production Wiki separately characterizes it as a four-band dynamic EQ with a wideband dynamics section, which is a second outside account of the structure. <sup><a href="https://musicproductionwiki.com/articles/best-plugins-for-mixing-2026" rel="nofollow noopener" target="_blank">[14]</a></sup> Two review excerpts appear on the vendor's own site and are labeled as press, so they are best read as reported opinion rather than independent verification. <sup><a href="https://www.tokyodawn.net/tdr-nova/" rel="nofollow noopener" target="_blank">[17]</a></sup>
 
-**Best for:** Producers who need dynamic EQ without any budget to spend.
+One reviewer calls the way the plugin changes from a simple parametric EQ into a super-precise dynamic equalizer the most impressive thing about it. <sup><a href="https://www.tokyodawn.net/tdr-nova/" rel="nofollow noopener" target="_blank">[17]</a></sup> Another excerpt says the built-in spectrum analyzer and equal loudness functionality make it an intuitive mixing and mastering equalizer for newcomers and experienced users. <sup><a href="https://www.tokyodawn.net/tdr-nova/" rel="nofollow noopener" target="_blank">[18]</a></sup> That excerpt is a reviewer's assessment and not a measured result. <sup><a href="https://www.tokyodawn.net/tdr-nova/" rel="nofollow noopener" target="_blank">[18]</a></sup>
 
-[TDR Nova (official site)](https://www.tokyodawn.net/tdr-nova/)
+The vendor's page lists version 2.2.3 as the latest release. <sup><a href="https://www.tokyodawn.net/tdr-nova/" rel="nofollow noopener" target="_blank">[19]</a></sup> Stated system requirements are Windows Vista or higher, Mac OS X 10.9 or higher, and Linux x86-64 with GLIBC 2.14 or higher. <sup><a href="https://www.tokyodawn.net/tdr-nova/" rel="nofollow noopener" target="_blank">[20]</a></sup> A changelog entry records a new 72dB/oct high-pass mode, which applies to both the HP and LP filters. <sup><a href="https://www.tokyodawn.net/tdr-nova/" rel="nofollow noopener" target="_blank">[21]</a></sup>
 
----
+The documented dynamic section is limited to four bands, with the high-pass and low-pass filters provided as separate sections. <sup><a href="https://www.tokyodawn.net/tdr-nova/" rel="nofollow noopener" target="_blank">[2]</a></sup> Equal loudness is presented by the vendor as an aid for finding settings, which makes it a workflow feature rather than a stated processing specification. <sup><a href="https://www.tokyodawn.net/tdr-nova/" rel="nofollow noopener" target="_blank">[15]</a></sup>
 
-## Mastering Limiters & Compression
-
-### FabFilter Pro-L 2 — The benchmark for transparent final limiting
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/oMJeWXtJODc" title="FabFilter Pro-L 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-- **Developer:** FabFilter
-- **Price:** ~$199
-- **Platforms:** Windows, macOS
-- **Formats:** VST, VST3, AU, AAX
-
-FabFilter Pro-L 2 is a mastering limiter. Its eight limiting algorithms are documented in FabFilter's developer manual with specific guidance on appropriate use cases — from the Transparent mode to the more aggressive modes suited to dance music and hip-hop. Built-in LUFS metering and true peak display mean you can monitor streaming compliance without a separate meter, though many engineers run a dedicated metering tool in parallel for redundancy.
-
-Pro-L 2's unity-gain auditioning compensates for level difference when bypassing, which helps compare the limited and unlimited signal without loudness bias.
-
-**Best for:** Final mastering limiting for streaming-ready masters across all genres.
-
-[→ Get FabFilter Pro-L 2 on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026)
-
----
-
-### TDR Kotelnikov — The best free compressor purpose-built for mastering
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Cpokm0j1DXQ" title="TDR Kotelnikov — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-- **Developer:** Tokyo Dawn Records
-- **Price:** Free (GE version: ~$52)
-- **Platforms:** Windows, macOS
-- **Formats:** VST, VST3, AU, AAX
-
-TDR Kotelnikov is a wideband mastering compressor that is free. Developer documentation describes it as a "wideband dynamics controller" with a frequency-selective sidechain option that reduces bass-triggered gain reduction — a behavior that suits mastering low-frequency-heavy genres. The GE version adds mid/side processing and extended sidechain flexibility for those who need them.
-
-The free version's deliberately minimal controls — attack, release, threshold, ratio, Stereo Link, and SC filter — keep the learning curve manageable. Gentle program compression ahead of a final limiter typically uses low ratios with a slow attack and fast release.
-
-**Best for:** Transparent program compression before the final limiter, at no cost.
-
-[TDR Kotelnikov (official site)](https://www.tokyodawn.net/tdr-kotelnikov/)
-
----
-
-## Metering & Analysis
-
-### Voxengo SPAN — A free spectrum analyzer
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/Enj39FWxHJ4" title="Voxengo SPAN — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-- **Developer:** Voxengo
-- **Price:** Free
-- **Platforms:** Windows, macOS
-- **Formats:** VST, VST3, AU, AAX
-
-Voxengo SPAN is a free spectrum analyzer. Its configurable display — adjustable slope, resolution, and ballistics — makes it usable as a fast real-time analysis tool or a slower, averaged view of spectral balance across a longer passage. There is no paid tier to upsell into; the free version includes everything most producers need.
-
-In a mastering context, SPAN's primary value is referential: load it on your master and on a commercially released reference track to compare spectral shapes. Used alongside critical listening, this visual reference helps identify where a master is spectrally imbalanced relative to releases in the same genre.
-
-**Best for:** Real-time spectrum analysis and commercial reference comparison at zero cost.
-
-[Voxengo SPAN (official site)](https://www.voxengo.com/product/span/)
-
----
-
-### Youlean Loudness Meter 2 — The standard free tool for streaming loudness compliance
+## Youlean Loudness Meter
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/XMKQeLHYutw" title="Youlean Loudness Meter 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-- **Developer:** Youlean
-- **Price:** Free (Pro version available)
-- **Platforms:** Windows, macOS
-- **Formats:** VST, VST3, AU, AAX
+Youlean Loudness Meter is described by its developer as a tool for finding the true perceived loudness of audio and preparing it for television or streaming service release. <sup><a href="https://youlean.co/youlean-loudness-meter/" rel="nofollow noopener" target="_blank">[22]</a></sup> A quick analysis is run by dropping an audio or video file onto the plugin, and the vendor states that results arrive in a few seconds. <sup><a href="https://youlean.co/youlean-loudness-meter/" rel="nofollow noopener" target="_blank">[23]</a></sup> Measurements can be exported as PDF, PNG or SVG files. <sup><a href="https://youlean.co/youlean-loudness-meter/" rel="nofollow noopener" target="_blank">[4]</a></sup>
 
-Youlean Loudness Meter 2 displays integrated LUFS, short-term LUFS, true peak, and dynamic range in a clear, large-format interface that is significantly easier to read at a glance than the integrated meters in most DAWs. The free version supports all measurements needed for Spotify (-14 LUFS), Apple Music (-16 LUFS), and YouTube (-14 LUFS) targets without feature limitations that affect standard session use. It is free, which makes it a no-cost first install for a mastering chain.
+It is distributed as a standalone application and in VST2, VST3, AU and AAX plugin formats. <sup><a href="https://youlean.co/youlean-loudness-meter/" rel="nofollow noopener" target="_blank">[24]</a></sup> The vendor states that the plugin is calibrated and tested against ITU-R BS2217 testing materials. <sup><a href="https://youlean.co/youlean-loudness-meter/" rel="nofollow noopener" target="_blank">[3]</a></sup> The same documentation says it satisfies all requirements defined in the ITU-R BS.1770 document. <sup><a href="https://youlean.co/youlean-loudness-meter/" rel="nofollow noopener" target="_blank">[3]</a></sup>
 
-The Pro version adds offline analysis, batch processing, and timeline visualization. For real-time mastering monitoring, the free version is enough.
+Dubspot describes Youlean Loudness Meter 2 as a free LUFS loudness meter with a Pro upgrade, intended for mix and master buses. <sup><a href="https://blog.dubspot.com/fr/plugins/youlean-loudness-meter-2" rel="nofollow noopener" target="_blank">[25]</a></sup> That description lists true peak, LRA and streaming-oriented presets among its features. <sup><a href="https://blog.dubspot.com/fr/plugins/youlean-loudness-meter-2" rel="nofollow noopener" target="_blank">[25]</a></sup> Home Studio Today reports that a Pro license comes with lifetime updates, so versions 3 and beyond would be provided to license holders. <sup><a href="https://www.homestudiotoday.com/youlean-loudness-meter-review/" rel="nofollow noopener" target="_blank">[26]</a></sup>
 
-**Best for:** LUFS and true peak monitoring for streaming platform compliance.
+A contributor on the Future Producers forum describes adjusting a threshold until the kick is hit reliably and then consulting the meter to see where the loudness stands. <sup><a href="https://www.futureproducers.com/forums/threads/one-mastering-engineers-guide-to-mastering.553581/" rel="nofollow noopener" target="_blank">[27]</a></sup> The vendor also states that the plugin won the KVR Developer Challenge 2016. <sup><a href="https://youlean.co/youlean-loudness-meter/" rel="nofollow noopener" target="_blank">[28]</a></sup>
 
-[Youlean Loudness Meter (official site)](https://youlean.co/youlean-loudness-meter/)
+The vendor's documentation states that the plugin currently performs analysis only and cannot alter audio loudness. <sup><a href="https://youlean.co/youlean-loudness-meter/" rel="nofollow noopener" target="_blank">[5]</a></sup> Operating system support is listed as Windows and macOS only. <sup><a href="https://youlean.co/youlean-loudness-meter/" rel="nofollow noopener" target="_blank">[24]</a></sup> Vendor documentation also states that every Pro user gets lifetime free updates. <sup><a href="https://youlean.co/youlean-loudness-meter/" rel="nofollow noopener" target="_blank">[29]</a></sup>
 
----
+Lifetime update coverage is tied to the Pro license rather than to every edition. <sup><a href="https://www.homestudiotoday.com/youlean-loudness-meter-review/" rel="nofollow noopener" target="_blank">[26]</a></sup>
 
-## Intelligent Spectral Processing
+## FabFilter Saturn 2
 
-### Gullfoss — Psychoacoustic spectral enhancement for already-balanced material
+FabFilter Saturn 2 is a multiband distortion and saturation plug-in, and the press description published by Dubspot lists 28 distortion styles together with extensive modulation options <sup><a href="https://blog.dubspot.com/it/plugins/saturn-2" rel="nofollow noopener" target="_blank">[30]</a></sup>. The vendor documentation at fabfilter.com describes multi-band distortion processing with up to 6 bands and a large variety of distortion styles, from subtle saturation to heavy guitar amps and bit crushing <sup><a href="https://www.fabfilter.com/help/saturn" rel="nofollow noopener" target="_blank">[6]</a></sup>. Musicproductionwiki, a second press source that is independent of the vendor, likewise describes a multiband architecture with up to six independent saturation bands <sup><a href="https://musicproductionwiki.com/articles/best-plugins-for-mixing-2026" rel="nofollow noopener" target="_blank">[31]</a></sup>.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/pRV15Fkfags" title="Gullfoss — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+That same source states that each band has its own saturation style, drive, feedback, and envelope follower <sup><a href="https://musicproductionwiki.com/articles/best-plugins-for-mixing-2026" rel="nofollow noopener" target="_blank">[32]</a></sup>. It also says the modulation section adds LFOs and envelope followers, which it presents as extending Saturn 2 from a mixing tool into a creative effect <sup><a href="https://musicproductionwiki.com/articles/best-plugins-for-mixing-2026" rel="nofollow noopener" target="_blank">[33]</a></sup>.
 
-- **Developer:** Soundtheory
-- **Price:** ~$199
-- **Platforms:** Windows, macOS
-- **Formats:** VST3, AU, AAX
+The vendor documentation lists a linear phase mode for crossover filtering and for the High Quality mode, and it says this makes the multi-band processing much more suitable for mastering purposes <sup><a href="https://www.fabfilter.com/help/saturn" rel="nofollow noopener" target="_blank">[8]</a></sup>. Crossover slopes are adjustable, with options of 6, 12, 24 and 48 dB/oct <sup><a href="https://www.fabfilter.com/help/saturn" rel="nofollow noopener" target="_blank">[7]</a></sup>. A 'Superb' HQ mode was added in addition to the existing HQ mode, and the vendor states that it reduces aliasing to an absolute minimum <sup><a href="https://www.fabfilter.com/help/saturn" rel="nofollow noopener" target="_blank">[34]</a></sup>.
 
-Gullfoss is an intelligent equalizer that applies real-time spectral corrections based on a psychoacoustic model documented by Soundtheory as reacting to masking relationships within the incoming audio — boosting frequencies that would otherwise be obscured by adjacent spectral content and attenuating overcrowded areas. It can be used as a finishing tool for adding clarity and air to well-balanced material, but it can also mask mixing problems that should be corrected at the source.
+Four new Amplifier distortion styles are described as modeled after famous American and British amps <sup><a href="https://www.fabfilter.com/help/saturn" rel="nofollow noopener" target="_blank">[35]</a></sup>. Three new Transformer distortion styles are described by the vendor as ranging from subtle to warm <sup><a href="https://www.fabfilter.com/help/saturn" rel="nofollow noopener" target="_blank">[36]</a></sup>.
 
-Gullfoss earns its place in a mastering chain when applied to material that doesn't need rescue; consider engaging it at moderate intensity rather than maximum effect.
+The number of XY controllers or sliders was increased to 6 <sup><a href="https://www.fabfilter.com/help/saturn" rel="nofollow noopener" target="_blank">[37]</a></sup>. Envelope followers also gained a Transient mode, which turns them into transient detectors <sup><a href="https://www.fabfilter.com/help/saturn" rel="nofollow noopener" target="_blank">[38]</a></sup>.
 
-**Best for:** Subtle spectral enhancement and clarity on already well-mixed material — not a mix correction tool.
+The vendor lists availability in VST, VST3, CLAP, AU (Audio Units), AAX Native and AudioSuite formats <sup><a href="https://www.fabfilter.com/help/saturn" rel="nofollow noopener" target="_blank">[39]</a></sup>. The stated system requirement is macOS 10.13 or higher, 64-bit only, with a VST 2/3, AU or CLAP host, or Pro Tools on an Intel or Apple Silicon processor <sup><a href="https://www.fabfilter.com/help/saturn" rel="nofollow noopener" target="_blank">[40]</a></sup>. Processing is divided into at most six bands according to the vendor, and the press source gives the same ceiling <sup><a href="https://www.fabfilter.com/help/saturn" rel="nofollow noopener" target="_blank">[6]</a></sup>.
 
-[→ Get Gullfoss on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026)
+Crossover slope choices are fixed at the four settings of 6, 12, 24 and 48 dB/oct <sup><a href="https://www.fabfilter.com/help/saturn" rel="nofollow noopener" target="_blank">[7]</a></sup>. The count of 28 distortion styles comes from the Dubspot description, while the vendor text quoted here describes the range of styles without giving a number <sup><a href="https://blog.dubspot.com/it/plugins/saturn-2" rel="nofollow noopener" target="_blank">[30]</a></sup>. The independent press statement about six bands matches the vendor figure, which supports treating that ceiling as consistent across sources <sup><a href="https://musicproductionwiki.com/articles/best-plugins-for-mixing-2026" rel="nofollow noopener" target="_blank">[31]</a></sup>.
 
----
+## Sonnox Oxford EQ
 
-## Full Comparison Table
+Sonnox describes Oxford EQ as a 5-band parametric EQ built around the OXF-R3 console and designed for the demands of modern production. <sup><a href="https://sonnox.com/products/oxford-eq" rel="nofollow noopener" target="_blank">[11]</a></sup> The vendor frames the design goal as giving professional users flexibility and transparency across that kind of work. <sup><a href="https://sonnox.com/products/oxford-eq" rel="nofollow noopener" target="_blank">[11]</a></sup> In its documentation, Type 2 is called The Surgeon and is positioned for more remedial work than the other curve modes. <sup><a href="https://sonnox.com/products/oxford-eq" rel="nofollow noopener" target="_blank">[41]</a></sup>
 
-| Plugin | Price | Type | Highlights | CTA |
-|--------|-------|------|------------|-----|
-| iZotope Ozone 12 Standard | $219 | All-in-one suite | AI Mastering Assistant, full chain in one plugin | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
-| FabFilter Pro-Q 3 | ~$179 | Mastering EQ | Dynamic EQ, linear phase, inter-instance spectrum matching | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
-| FabFilter Pro-L 2 | ~$199 | Mastering limiter | 8 algorithms, built-in LUFS metering, unity-gain bypass | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
-| Gullfoss | ~$199 | Intelligent EQ | Psychoacoustic spectral correction, real-time adaptation | [Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026) |
-| TDR Nova | Free / ~$52 GE | Dynamic EQ | Frequency-selective compression, parallel architecture | [TDR Nova (official site)](https://www.tokyodawn.net/tdr-nova/) |
-| TDR Kotelnikov | Free / ~$52 GE | Mastering compressor | Bass sidechain filtering, transparent program compression | [TDR Kotelnikov (official site)](https://www.tokyodawn.net/tdr-kotelnikov/) |
-| Voxengo SPAN | Free | Spectrum analyzer | Configurable display, real-time and averaged analysis | [Voxengo SPAN (official site)](https://www.voxengo.com/product/span/) |
-| Youlean Loudness Meter 2 | Free | LUFS metering | Streaming-target compliance, clear large-format display | — |
+That mode offers asymmetrical cut and boost curves, which the vendor presents as effective for resonance control and corrective EQing. <sup><a href="https://sonnox.com/products/oxford-eq" rel="nofollow noopener" target="_blank">[41]</a></sup> Type 4 is called The Polisher and is presented by the vendor as the go-to choice for mastering. <sup><a href="https://sonnox.com/products/oxford-eq" rel="nofollow noopener" target="_blank">[12]</a></sup> According to the same documentation, its gentle curves are meant to help blend and balance entire tracks so they finish cohesively. <sup><a href="https://sonnox.com/products/oxford-eq" rel="nofollow noopener" target="_blank">[12]</a></sup>
 
----
+An independent write-up on ampedstudio.com describes Oxford EQ as often used for subtle adjustments in the upper midrange and for eliminating problematic resonances. <sup><a href="https://ampedstudio.com/blog/mastering-eq/" rel="nofollow noopener" target="_blank">[42]</a></sup> That source also states that the high and low filters are available with an adjustable slope from 6 to 36 dB per octave. <sup><a href="https://ampedstudio.com/blog/mastering-eq/" rel="nofollow noopener" target="_blank">[43]</a></sup> In practice, this means the filter slope can be set anywhere between a shallow 6 dB per octave and a steep 36 dB per octave. <sup><a href="https://ampedstudio.com/blog/mastering-eq/" rel="nofollow noopener" target="_blank">[43]</a></sup>
 
-## How to Choose
+The same article describes Type 3 as modelling curves similar to those of Neve consoles. <sup><a href="https://ampedstudio.com/blog/mastering-eq/" rel="nofollow noopener" target="_blank">[44]</a></sup> For Type 4, it describes a more subtle adjustment with an aggressive relationship between gain and Q, and recommends it for the master bus. <sup><a href="https://ampedstudio.com/blog/mastering-eq/" rel="nofollow noopener" target="_blank">[45]</a></sup> The two sources therefore agree that Type 4 belongs in mastering and bus work, though each stresses a different trait of the curve. <sup><a href="https://ampedstudio.com/blog/mastering-eq/" rel="nofollow noopener" target="_blank">[45]</a></sup>
 
-- **If you're building your first mastering chain from scratch:** Start with Voxengo SPAN and Youlean Loudness Meter 2 (both free) — the visibility they provide will inform every other decision you make about your chain.
-- **If you want one paid plugin to anchor an all-in-one mastering workflow:** iZotope Ozone 12 Standard covers EQ, compression, imaging, and limiting in a single purchase, making it the most cost-efficient starting point in the paid tier.
-- **If you already have a basic chain and need a dedicated limiter:** FabFilter Pro-L 2 is our pick for a dedicated limiter — its built-in loudness metering also reduces your dependency on a separate metering plugin.
-- **If you need dynamic EQ and have no budget:** TDR Nova is a free option — learn it well before spending money on the GE upgrade or a paid alternative.
-- **If your mixes are already well-balanced and you want to add clarity in the final stage:** Gullfoss is the intelligent EQ option for this use case — apply it at conservative settings and treat it as enhancement, not correction.
+The vendor lists an AAX Native format that requires Pro Tools 11 or later. <sup><a href="https://sonnox.com/products/oxford-eq" rel="nofollow noopener" target="_blank">[46]</a></sup> Pro Tools releases earlier than version 11 therefore fall outside the listed support for that format. <sup><a href="https://sonnox.com/products/oxford-eq" rel="nofollow noopener" target="_blank">[46]</a></sup> On the operating system side, the vendor lists macOS 10.14 Mojave or later. <sup><a href="https://sonnox.com/products/oxford-eq" rel="nofollow noopener" target="_blank">[47]</a></sup>
 
----
+Systems running macOS versions older than Mojave are not covered by that requirement. <sup><a href="https://sonnox.com/products/oxford-eq" rel="nofollow noopener" target="_blank">[47]</a></sup> Each Oxford plugin license includes two simultaneous activations, according to the vendor. <sup><a href="https://sonnox.com/products/oxford-eq" rel="nofollow noopener" target="_blank">[48]</a></sup> That figure caps how many machines can run the plugin under one license at the same time. <sup><a href="https://sonnox.com/products/oxford-eq" rel="nofollow noopener" target="_blank">[48]</a></sup>
+
+## FabFilter Pro-L 2
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/oMJeWXtJODc" title="FabFilter Pro-L 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+FabFilter, the developer, describes Pro-L 2 as a professional true peak limiter that combines several limiting flavors and qualities in one plug-in, and it states that the plug-in suits any type of music or audio <sup><a href="https://www.fabfilter.com/help/pro-l/intro/fabfilterprol" rel="nofollow noopener" target="_blank">[49]</a></sup>. According to the developer's documentation, the plug-in offers four brand-new limiting algorithms, including Modern, which is named as the default algorithm, and Aggressive, which the developer associates with EDM and dance music <sup><a href="https://www.fabfilter.com/help/pro-l/intro/fabfilterprol" rel="nofollow noopener" target="_blank">[50]</a></sup>. With true peak limiting enabled, the final true peak level does not exceed the maximum true peak output level specified in the plug-in <sup><a href="https://www.fabfilter.com/help/pro-l/intro/fabfilterprol" rel="nofollow noopener" target="_blank">[51]</a></sup>.
+
+The documentation also lists an Audition Limiting option that lets the user listen only to the applied gain change, which is known as the delta signal <sup><a href="https://www.fabfilter.com/help/pro-l/intro/fabfilterprol" rel="nofollow noopener" target="_blank">[52]</a></sup>. Optional external side chain triggering is listed as well, and the developer describes it as useful for stem mastering <sup><a href="https://www.fabfilter.com/help/pro-l/intro/fabfilterprol" rel="nofollow noopener" target="_blank">[53]</a></sup>. The developer's documentation lists loudness metering for Momentary, Short Term and Integrated values that follows the ITU-R BS.1770-4 and EBU R128 standards <sup><a href="https://www.fabfilter.com/help/pro-l/intro/fabfilterprol" rel="nofollow noopener" target="_blank">[10]</a></sup>.
+
+Dubspot, a press outlet independent of the developer, summarizes the product as a true peak limiter with eight algorithms, up to 32x oversampling and EBU R128 loudness metering <sup><a href="https://blog.dubspot.com/best-mastering-plugins-2026" rel="nofollow noopener" target="_blank">[54]</a></sup>. The same outlet says the eight algorithms range from the clean Transparent and Modern styles to the punchier Aggressive and Bus styles, and it specifies that the oversampling is linear-phase <sup><a href="https://blog.dubspot.com/best-mastering-plugins-2026" rel="nofollow noopener" target="_blank">[55]</a></sup>. Dubspot reports that the loudness metering covers the EBU R128, ITU-R BS.1770-4 and ATSC A/85 standards <sup><a href="https://blog.dubspot.com/best-mastering-plugins-2026" rel="nofollow noopener" target="_blank">[56]</a></sup>.
+
+Dubspot adds that the plug-in handles surround and immersive formats up to Dolby Atmos 9.1.6 <sup><a href="https://blog.dubspot.com/best-mastering-plugins-2026" rel="nofollow noopener" target="_blank">[57]</a></sup>. It also lists the plug-in formats as VST, VST3, AU, CLAP, AAX and AudioSuite <sup><a href="https://blog.dubspot.com/best-mastering-plugins-2026" rel="nofollow noopener" target="_blank">[57]</a></sup>. The outlet describes a real-time level display that shows where gain reduction happens <sup><a href="https://blog.dubspot.com/best-mastering-plugins-2026" rel="nofollow noopener" target="_blank">[58]</a></sup>.
+
+Music Production Wiki, a second outlet independent of the developer, names the eight algorithms as Transparent, Aggressive, Bus, Dynamic, Safe, Allround, Surgical and Unity Gain <sup><a href="https://musicproductionwiki.com/articles/best-plugins-for-mixing-2026" rel="nofollow noopener" target="_blank">[59]</a></sup>. That site describes the Transparent mode as intended for classical and acoustic music <sup><a href="https://musicproductionwiki.com/articles/best-plugins-for-mastering" rel="nofollow noopener" target="_blank">[60]</a></sup>. It states that the true-peak limiter is compliant with inter-sample peak (ISP) detection <sup><a href="https://musicproductionwiki.com/articles/best-plugins-for-mastering" rel="nofollow noopener" target="_blank">[61]</a></sup>.
+
+The same site reports a lookahead of 0 to 20 ms, which lets the limiter anticipate transients before they arrive <sup><a href="https://musicproductionwiki.com/articles/best-plugins-for-mastering" rel="nofollow noopener" target="_blank">[62]</a></sup>. According to the site, the integrated loudness meter shows LUFS, true peak and dynamic range side by side <sup><a href="https://musicproductionwiki.com/articles/best-plugins-for-mastering" rel="nofollow noopener" target="_blank">[63]</a></sup>. The site further describes momentary, short-term and integrated loudness metering combined with real-time ISP detection <sup><a href="https://musicproductionwiki.com/articles/best-plugins-for-mixing-2026" rel="nofollow noopener" target="_blank">[64]</a></sup>.
+
+Music Production Wiki also mentions a large waveform display with a gain reduction history that shows what the limiter does to transients <sup><a href="https://musicproductionwiki.com/articles/best-plugins-for-mixing-2026" rel="nofollow noopener" target="_blank">[65]</a></sup>. The developer and Dubspot both name the ITU-R BS.1770-4 and EBU R128 standards for loudness metering <sup><a href="https://www.fabfilter.com/help/pro-l/intro/fabfilterprol" rel="nofollow noopener" target="_blank">[10]</a></sup><sup><a href="https://blog.dubspot.com/best-mastering-plugins-2026" rel="nofollow noopener" target="_blank">[56]</a></sup>. Both also give 32x as the oversampling ceiling <sup><a href="https://www.fabfilter.com/help/pro-l/intro/fabfilterprol" rel="nofollow noopener" target="_blank">[9]</a></sup><sup><a href="https://blog.dubspot.com/best-mastering-plugins-2026" rel="nofollow noopener" target="_blank">[54]</a></sup>.
+
+Surround support in the developer's documentation reaches 9.1.6 Dolby Atmos and includes smart surround channel linking <sup><a href="https://www.fabfilter.com/help/pro-l/intro/fabfilterprol" rel="nofollow noopener" target="_blank">[66]</a></sup>. The developer speaks of four brand-new algorithms while both outlets count eight, and the supplied sources do not explain how the two figures relate <sup><a href="https://www.fabfilter.com/help/pro-l/intro/fabfilterprol" rel="nofollow noopener" target="_blank">[50]</a></sup><sup><a href="https://musicproductionwiki.com/articles/best-plugins-for-mixing-2026" rel="nofollow noopener" target="_blank">[59]</a></sup>.
+
+The developer lists the plug-in as available in VST, VST3, CLAP, AU (Audio Units), AAX Native and AudioSuite formats <sup><a href="https://www.fabfilter.com/help/pro-l/intro/fabfilterprol" rel="nofollow noopener" target="_blank">[67]</a></sup>. The stated system requirement is macOS 10.13 or higher, 64-bit only, with a VST 2/3, AU or CLAP host, or Pro Tools on an Intel or Apple Silicon processor <sup><a href="https://www.fabfilter.com/help/pro-l/intro/fabfilterprol" rel="nofollow noopener" target="_blank">[68]</a></sup>. Oversampling is capped at up to 32x according to the developer <sup><a href="https://www.fabfilter.com/help/pro-l/intro/fabfilterprol" rel="nofollow noopener" target="_blank">[9]</a></sup>.
+
+Music Production Wiki states the lookahead range as 0 to 20 ms <sup><a href="https://musicproductionwiki.com/articles/best-plugins-for-mastering" rel="nofollow noopener" target="_blank">[62]</a></sup>. The surround and immersive ceiling is 9.1.6 for Dolby Atmos, as stated in the developer's documentation <sup><a href="https://www.fabfilter.com/help/pro-l/intro/fabfilterprol" rel="nofollow noopener" target="_blank">[66]</a></sup>. The Transparent mode's suitability for classical and acoustic music is a usage recommendation from one outlet, not a measured specification <sup><a href="https://musicproductionwiki.com/articles/best-plugins-for-mastering" rel="nofollow noopener" target="_blank">[60]</a></sup>.
+
+## iZotope Ozone 12 Advanced
+
+Dubspot describes Ozone 12 Advanced as iZotope's AI-assisted mastering suite with 20 modules, including Stem EQ, Bass Control, Unlimiter, and IRC 5 Maximizer. <sup><a href="https://blog.dubspot.com/plugins/best/mastering" rel="nofollow noopener" target="_blank">[69]</a></sup> iZotope's release notes list a chat assistant that is available only with a subscription. <sup><a href="https://www.izotope.com/pages/release-notes/ozone-advanced" rel="nofollow noopener" target="_blank">[70]</a></sup> The same notes add support for the BorisFX licensing method. <sup><a href="https://www.izotope.com/pages/release-notes/ozone-advanced" rel="nofollow noopener" target="_blank">[71]</a></sup>
+
+Another entry fixes a crash that occurred when Master Assistant ran in sessions at a 192k sample rate. <sup><a href="https://www.izotope.com/pages/release-notes/ozone-advanced" rel="nofollow noopener" target="_blank">[72]</a></sup> iZotope lists the plug-in formats as AU, AAX, and VST3, and states that all formats are 64-bit only. <sup><a href="https://www.izotope.com/pages/release-notes/ozone-advanced" rel="nofollow noopener" target="_blank">[73]</a></sup> Because the formats are 64-bit only, 32-bit hosts fall outside the stated support. <sup><a href="https://www.izotope.com/pages/release-notes/ozone-advanced" rel="nofollow noopener" target="_blank">[73]</a></sup>
+
+The Windows requirements name Windows 10 (22H2) and Windows 11 (24H2), so other Windows releases are not listed as supported. <sup><a href="https://www.izotope.com/pages/release-notes/ozone-advanced" rel="nofollow noopener" target="_blank">[74]</a></sup> In an independent video, Mastering The Mix compared Ozone 12 with FASTER MASTER and LANDR as automated mastering options, and reported that LANDR fell behind while the other two came out on a par. <sup><a href="https://www.masteringthemix.com/blogs/learn/best-plugins-for-mastering-electronic-music" rel="nofollow noopener" target="_blank">[75]</a></sup> The same video named FASTER MASTER as the best of the automated options, which reflects one reviewer's test rather than a general limit. <sup><a href="https://www.masteringthemix.com/blogs/learn/best-plugins-for-mastering-electronic-music" rel="nofollow noopener" target="_blank">[76]</a></sup>
+
+<!--roundup:det:start-->
+## When to buy
+
+On sale now: none confirmed.
+
+Rarely discounted in our observations: none confirmed.
+
+Insufficient observations: none confirmed. Pending picks have no verified price observation here. These observations do not predict future sales.
+<!--roundup:det:end-->
+
+## How to choose
+
+TDR Nova is a parallel dynamic equalizer with four dynamic EQ bands plus high-pass and low-pass filter sections. <sup><a href="https://www.tokyodawn.net/tdr-nova/" rel="nofollow noopener" target="_blank">[1]</a></sup><sup><a href="https://www.tokyodawn.net/tdr-nova/" rel="nofollow noopener" target="_blank">[2]</a></sup> Each band can act as a static filter or as a frequency-dependent compressor or expander. <sup><a href="https://musicproductionwiki.com/articles/best-plugins-for-mixing-2026" rel="nofollow noopener" target="_blank">[14]</a></sup>
+
+Equal loudness functions help with finding a setting without being distracted by loudness differences. <sup><a href="https://www.tokyodawn.net/tdr-nova/" rel="nofollow noopener" target="_blank">[15]</a></sup> It runs on Windows, Mac OS X and Linux. <sup><a href="https://www.tokyodawn.net/tdr-nova/" rel="nofollow noopener" target="_blank">[20]</a></sup>
+
+Youlean Loudness Meter measures the perceived loudness of audio and prepares it for TV or streaming release. <sup><a href="https://youlean.co/youlean-loudness-meter/" rel="nofollow noopener" target="_blank">[22]</a></sup> It satisfies all requirements defined in the ITU-R BS.1770 document. <sup><a href="https://youlean.co/youlean-loudness-meter/" rel="nofollow noopener" target="_blank">[3]</a></sup> Dropping an audio or video file on the plugin gives a complete analysis in a few seconds. <sup><a href="https://youlean.co/youlean-loudness-meter/" rel="nofollow noopener" target="_blank">[23]</a></sup>
+
+It only analyzes and cannot alter audio loudness. <sup><a href="https://youlean.co/youlean-loudness-meter/" rel="nofollow noopener" target="_blank">[5]</a></sup> Measurements export as PDF, PNG or SVG. <sup><a href="https://youlean.co/youlean-loudness-meter/" rel="nofollow noopener" target="_blank">[4]</a></sup>
+
+FabFilter Saturn 2 is a multiband distortion plug-in with up to six bands. <sup><a href="https://www.fabfilter.com/help/saturn" rel="nofollow noopener" target="_blank">[6]</a></sup> Each band has its own saturation style, drive, feedback and envelope follower. <sup><a href="https://musicproductionwiki.com/articles/best-plugins-for-mixing-2026" rel="nofollow noopener" target="_blank">[32]</a></sup>
+
+Crossover slopes can be set to 6, 12, 24 or 48 dB/oct. <sup><a href="https://www.fabfilter.com/help/saturn" rel="nofollow noopener" target="_blank">[7]</a></sup> Linear phase mode for crossover filtering makes the multiband processing more suitable for mastering. <sup><a href="https://www.fabfilter.com/help/saturn" rel="nofollow noopener" target="_blank">[8]</a></sup>
+
+Sonnox Oxford EQ is a 5-band parametric EQ based on the OXF-R3 console. <sup><a href="https://sonnox.com/products/oxford-eq" rel="nofollow noopener" target="_blank">[11]</a></sup> Type 2 offers asymmetrical cut and boost curves for resonance control and corrective work. <sup><a href="https://sonnox.com/products/oxford-eq" rel="nofollow noopener" target="_blank">[41]</a></sup>
+
+Type 4 is the mastering-oriented mode, intended to blend and balance entire tracks. <sup><a href="https://sonnox.com/products/oxford-eq" rel="nofollow noopener" target="_blank">[12]</a></sup> High and low filters have an adjustable slope from 6 to 36 dB per octave. <sup><a href="https://ampedstudio.com/blog/mastering-eq/" rel="nofollow noopener" target="_blank">[43]</a></sup>
+
+FabFilter Pro-L 2 is a true peak limiter. <sup><a href="https://www.fabfilter.com/help/pro-l/intro/fabfilterprol" rel="nofollow noopener" target="_blank">[49]</a></sup> It offers eight limiting algorithms and up to 32x oversampling. <sup><a href="https://blog.dubspot.com/best-mastering-plugins-2026" rel="nofollow noopener" target="_blank">[55]</a></sup><sup><a href="https://www.fabfilter.com/help/pro-l/intro/fabfilterprol" rel="nofollow noopener" target="_blank">[9]</a></sup>
+
+Loudness metering follows the ITU-R BS.1770-4 and EBU R128 standards. <sup><a href="https://www.fabfilter.com/help/pro-l/intro/fabfilterprol" rel="nofollow noopener" target="_blank">[10]</a></sup> Surround and immersive support reaches 9.1.6 Dolby Atmos. <sup><a href="https://www.fabfilter.com/help/pro-l/intro/fabfilterprol" rel="nofollow noopener" target="_blank">[66]</a></sup>
+
+Ozone 12 Advanced is iZotope's AI-assisted mastering suite with 20 modules, including Stem EQ, Bass Control, Unlimiter and IRC 5 Maximizer. <sup><a href="https://blog.dubspot.com/plugins/best/mastering" rel="nofollow noopener" target="_blank">[69]</a></sup> Its plug-in formats are AU, AAX and VST3, all 64-bit only. <sup><a href="https://www.izotope.com/pages/release-notes/ozone-advanced" rel="nofollow noopener" target="_blank">[73]</a></sup>
+
+Release notes list a chat assistant for subscribers only. <sup><a href="https://www.izotope.com/pages/release-notes/ozone-advanced" rel="nofollow noopener" target="_blank">[70]</a></sup> They also record a fix for a crash when running Master Assistant in sessions at a 192k sample rate. <sup><a href="https://www.izotope.com/pages/release-notes/ozone-advanced" rel="nofollow noopener" target="_blank">[72]</a></sup>
 
 ## FAQ
 
-**Do I need specialized mastering plugins, or can I use mix plugins?**
-Technically any EQ or compressor works. In practice, mastering-specific tools are designed with different defaults — gentler processing increments, higher-resolution metering, and mid/side capabilities — that make them better suited to the fine-scale adjustments appropriate at the mastering stage. The free TDR tools were built specifically for this context and are worth using over repurposed mix tools from day one.
+**What does TDR Nova do, and which operating systems can run it?**
+TDR Nova is described as a free parallel dynamic equalizer that covers parametric EQ, dynamic EQ, multiband compression, and wideband dynamics inside a single plugin, which makes it a flexible starting point for shaping tone and controlling level on individual tracks and buses. <sup><a href="https://blog.dubspot.com/plugins/tdr-nova" rel="nofollow noopener" target="_blank">[13]</a></sup> It offers four dynamic EQ bands plus additional high-pass and low-pass filter sections, and each band can act as a static filter or as a frequency-dependent compressor or expander depending on how it is configured. <sup><a href="https://www.tokyodawn.net/tdr-nova/" rel="nofollow noopener" target="_blank">[2]</a></sup><sup><a href="https://musicproductionwiki.com/articles/best-plugins-for-mixing-2026" rel="nofollow noopener" target="_blank">[14]</a></sup> Vendor requirements list Windows Vista or higher, Mac OS X 10.9 or higher, and Linux x86-64 with GLIBC 2.14 or higher, so the plugin is not tied to a single operating system. <sup><a href="https://www.tokyodawn.net/tdr-nova/" rel="nofollow noopener" target="_blank">[20]</a></sup>
 
-**What LUFS target should I master to in 2026?**
-The most consistently cited targets are -14 LUFS integrated for Spotify and YouTube, and -16 LUFS for Apple Music. Streaming platforms normalize on playback, so masters significantly louder than these targets will be turned down — you lose the loudness without gaining clarity. Youlean Loudness Meter 2 includes these platform targets as presets.
+**How do Youlean Loudness Meter and FabFilter Pro-L 2 differ for loudness work?**
+Youlean Loudness Meter is a free LUFS meter with a Pro upgrade, designed for mix and master buses, and it provides true peak readings, LRA, and presets oriented toward streaming delivery. <sup><a href="https://blog.dubspot.com/fr/plugins/youlean-loudness-meter-2" rel="nofollow noopener" target="_blank">[25]</a></sup> The vendor states that the plugin only performs analysis and cannot alter the audio loudness, so any gain changes must be made with other processors placed elsewhere in the signal chain. <sup><a href="https://youlean.co/youlean-loudness-meter/" rel="nofollow noopener" target="_blank">[5]</a></sup> FabFilter Pro-L 2 is a true peak limiter that also provides momentary, short-term, and integrated loudness metering following the ITU-R BS.1770-4 and EBU R128 standards, so it both changes levels and measures them in one place. <sup><a href="https://www.fabfilter.com/help/pro-l/intro/fabfilterprol" rel="nofollow noopener" target="_blank">[49]</a></sup><sup><a href="https://www.fabfilter.com/help/pro-l/intro/fabfilterprol" rel="nofollow noopener" target="_blank">[10]</a></sup>
 
-**Is iZotope Ozone's AI Mastering Assistant actually useful?**
-It is most useful for producers newer to mastering — it provides a starting chain to react to rather than a blank slate — and can serve as a comparison reference for experienced engineers. It does not replace judgment.
+**Which plugins cover saturation, corrective EQ, and mastering?**
+FabFilter Saturn 2 is a multiband distortion and saturation plugin with up to six bands, and each band has its own saturation style, drive, feedback, and envelope follower for independent control over different parts of the spectrum. <sup><a href="https://www.fabfilter.com/help/saturn" rel="nofollow noopener" target="_blank">[6]</a></sup><sup><a href="https://musicproductionwiki.com/articles/best-plugins-for-mixing-2026" rel="nofollow noopener" target="_blank">[32]</a></sup> Sonnox Oxford EQ is a five-band parametric EQ whose Type 2 mode offers asymmetrical cut and boost curves for resonance control and corrective work, while Type 4 is positioned as the go-to choice for mastering. <sup><a href="https://sonnox.com/products/oxford-eq" rel="nofollow noopener" target="_blank">[11]</a></sup><sup><a href="https://sonnox.com/products/oxford-eq" rel="nofollow noopener" target="_blank">[41]</a></sup><sup><a href="https://sonnox.com/products/oxford-eq" rel="nofollow noopener" target="_blank">[12]</a></sup> iZotope Ozone 12 Advanced is an AI-assisted mastering suite with 20 modules, including Stem EQ, Bass Control, Unlimiter, and IRC 5 Maximizer. <sup><a href="https://blog.dubspot.com/plugins/best/mastering" rel="nofollow noopener" target="_blank">[69]</a></sup>
 
-**Can I get professional mastering results using only free plugins?**
-Yes, meaningfully. A chain built from TDR Kotelnikov, TDR Nova, Voxengo SPAN, and Youlean Loudness Meter 2 covers compression, dynamic EQ, spectrum analysis, and loudness compliance at zero cost. The gap between this chain and a paid suite like Ozone is real: the suite adds an integrated chain and AI assistant.
-
-**FabFilter Pro-Q 3 or Ozone's EQ module — which should I use for mastering EQ?**
-Both are capable. If you already own Ozone, its EQ module handles most mastering EQ tasks inside a single interface, which is practically efficient. If you need a standalone EQ that will serve both mixing and mastering across different sessions without loading the full Ozone suite, Pro-Q 3 is more flexible when precision is the priority.
-
----
-
-## Related Guides
+## Related guides
 
 - [10 Best Mastering Limiter Plugins in 2026 (Ranked)](/posts/best-limiter-plugins-mastering/)
+
 - [iZotope Ozone 12 vs FabFilter Pro-L 2 2026: Which Mastering Suite Is Right for You?](/posts/izotope-ozone-vs-fabfilter-mastering/)
+
 - [10 Best EQ Plugins for Mixing & Mastering in 2026](/posts/best-eq-plugins-2026/)
+
 - [10 Best Free Mastering Plugins in 2026, Ranked (Limiter, EQ, Metering)](/posts/best-free-mastering-plugins/)
+
 - [LANDR Mastering Review 2026: Is the Subscription Worth It?](/posts/landr-mastering-worth-it-2026/)
 
----
+<!--roundup:det:start-->
+## Sources
 
-## Final Thoughts
+- [https://ampedstudio.com/blog/mastering-eq/](https://ampedstudio.com/blog/mastering-eq/) — accessed 2026-11-04
+- [https://blog.dubspot.com/fr/plugins/youlean-loudness-meter-2](https://blog.dubspot.com/fr/plugins/youlean-loudness-meter-2) — accessed 2026-11-04
+- [https://blog.dubspot.com/it/plugins/saturn-2](https://blog.dubspot.com/it/plugins/saturn-2) — accessed 2026-11-04
+- [https://blog.dubspot.com/plugins/tdr-nova](https://blog.dubspot.com/plugins/tdr-nova) — accessed 2026-11-04
+- [https://musicproductionwiki.com/articles/best-plugins-for-mixing-2026](https://musicproductionwiki.com/articles/best-plugins-for-mixing-2026) — accessed 2026-11-04
+- [https://sonnox.com/products/oxford-eq](https://sonnox.com/products/oxford-eq) — accessed 2026-11-04
+- [https://www.fabfilter.com/help/saturn](https://www.fabfilter.com/help/saturn) — accessed 2026-11-04
+- [https://www.futureproducers.com/forums/threads/one-mastering-engineers-guide-to-mastering.553581/](https://www.futureproducers.com/forums/threads/one-mastering-engineers-guide-to-mastering.553581/) — accessed 2026-11-04
+- [https://www.homestudiotoday.com/youlean-loudness-meter-review/](https://www.homestudiotoday.com/youlean-loudness-meter-review/) — accessed 2026-11-04
+- [https://www.tokyodawn.net/tdr-nova/](https://www.tokyodawn.net/tdr-nova/) — accessed 2026-11-04
+- [https://youlean.co/youlean-loudness-meter/](https://youlean.co/youlean-loudness-meter/) — accessed 2026-11-04
+<!--roundup:det:end-->
 
-Download SPAN and Youlean Loudness Meter 2 before spending a dollar — they're free, and give you the visual foundation to make informed decisions about everything else in your chain. When you're ready to invest, iZotope Ozone 12 Standard is the most complete entry point for producers building a full mastering setup from scratch, and FabFilter Pro-L 2 is our pick for the final limiter.
-
-[→ Browse All Mastering Plugins on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-mastering-plugins-2026)
-
----
-
-*This post contains affiliate links. We may earn a small commission at no extra cost to you.*
-
-<!-- pd:method:start -->
-## How this list was made
-
-This list brings together publicly available feature information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
-<!-- pd:method:end -->
+<!--roundup:det:start-->
+Affiliate disclosure: We may earn a commission from qualifying purchases through some links, at no extra cost to you.
+<!--roundup:det:end-->
