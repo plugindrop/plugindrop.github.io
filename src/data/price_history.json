@@ -78482,6 +78482,24 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2025-02-02",
+          "regular": 79.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-04-18",
+          "regular": 69.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-05-05",
+          "regular": 62.3,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/soundbox-instruments-bundle.jpg"
@@ -80781,6 +80799,12 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2024-10-08",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/soundtoys-little-alterboy.jpg"
@@ -81262,6 +81286,36 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2022-06-22",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-03-20",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-04-14",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-11-12",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-08-18",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/soundtoys-panman.jpg"
@@ -81678,6 +81732,42 @@
           "store": "plugin_boutique",
           "reg_src": null,
           "cur": "USD"
+        },
+        {
+          "date": "2022-01-26",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-11-17",
+          "regular": 29.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-10-04",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-09-18",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-11-22",
+          "regular": 39.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-06-21",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/soundtoys-primaltap.jpg"
