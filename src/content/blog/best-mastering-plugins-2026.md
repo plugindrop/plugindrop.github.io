@@ -1,5 +1,5 @@
 ---
-description: "iZotope Ozone 12 Standard is an all-in-one mastering suite for bedroom producers in 2026, covering every stage of the mastering chain..."
+description: "A source-cited comparison of mastering plugins in 2026, from free tools like TDR Nova and Youlean Loudness Meter to FabFilter Saturn 2, Sonnox Oxford EQ, FabFilter Pro-L 2 and iZotope Ozone 12 Advanced."
 pubDate: "2026-06-10T16:22:12Z"
 tags: ["guide", "vst", "mastering"]
 affiliate: ""
