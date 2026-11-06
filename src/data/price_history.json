@@ -88933,6 +88933,24 @@
           "regular": 149,
           "sale": null,
           "source": "auto_check"
+        },
+        {
+          "date": "2023-06-06",
+          "regular": 89.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-02-08",
+          "regular": 324.28,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-11-06",
+          "regular": 163.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/uad-1176-classic-limiter-collection.jpg"
