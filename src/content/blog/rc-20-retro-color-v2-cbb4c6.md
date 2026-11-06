@@ -14,7 +14,7 @@ saleExpiry: "2026-12-06"
 saleExpirySource: "fallback"
 draft: false
 ---
-**TL;DR:** RC 20 Retro Color v2 is discounted at Plugin Boutique, cutting into its regular ~~$129~~ list price. It's a vintage-style color and saturation plugin built around tape, vinyl, and lo-fi degradation effects for mix bus and sound-design work. Check the [product page](https://www.pluginboutique.com/search?q=RC+20+Retro+Color+v2&a_aid=69cb95abe1763&chan=art&data1=rc-20-retro-color-v2-cbb4c6&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-retro-color-v2-cbb4c6) for the current sale price before it ends.
+**TL;DR:** RC 20 Retro Color v2 is discounted at Plugin Boutique, cutting into its regular ~~$129~~ list price. It's a vintage-style color and saturation plugin built around tape, vinyl, and lo-fi degradation effects for mix bus and sound-design work. Check the [product page](https://www.pluginboutique.com/product/2-Effects/44-Saturation/18184-RC-20-Retro-Color-v2?a_aid=69cb95abe1763&chan=art&data1=rc-20-retro-color-v2-cbb4c6&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-retro-color-v2-cbb4c6) for the current sale price before it ends.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/dYtDcIJKBi4" title="23% Off RC 20 Retro Color v2 — Vintage Color and Saturation — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -75,7 +75,7 @@ A: It's available in VST3, VST, AU, and AAX, running on macOS 10.13 or later (Ap
 A: An internet connection is required during installation only, according to the system requirements.
 
 **Q: Where can I check the current sale price?**
-A: Pricing can change, so confirm the live discount on the [product page](https://www.pluginboutique.com/search?q=RC+20+Retro+Color+v2&a_aid=69cb95abe1763&chan=art&data1=rc-20-retro-color-v2-cbb4c6&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-retro-color-v2-cbb4c6) at Plugin Boutique.
+A: Pricing can change, so confirm the live discount on the [product page](https://www.pluginboutique.com/product/2-Effects/44-Saturation/18184-RC-20-Retro-Color-v2?a_aid=69cb95abe1763&chan=art&data1=rc-20-retro-color-v2-cbb4c6&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-retro-color-v2-cbb4c6) at Plugin Boutique.
 
 ## Should you buy now?
 

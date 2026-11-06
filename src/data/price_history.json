@@ -20313,7 +20313,9 @@
           "until": "2026-12-01"
         }
       ],
-      "image": "/images/plugin-prices/cherry-audio-voltage-modular-core-electro-drums.jpg"
+      "image": "/images/plugin-prices/cherry-audio-voltage-modular-core-electro-drums.jpg",
+      "image_lg": "/images/plugin-prices/cherry-audio-voltage-modular-core-electro-drums-lg.jpg",
+      "image_lg_width": 625
     },
     "Cherry Audio Voltage Modular Ignite": {
       "pb_url": "/product/1-Instruments/4-Synth/5034-Voltage-Modular-Ignite",
