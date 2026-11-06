@@ -349,6 +349,13 @@
     "source": "yt_api_fill",
     "official": true
   },
+  "Cherry Audio Filtomika": {
+    "video_id": "bBZaHxoBZGk",
+    "title": "Cherry Audio | Filtomika - A Filter to Atomize Your Sound",
+    "channel": "Cherry Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
   "Cherry Audio GX 80 Synthesizer": {
     "video_id": "1_Zv6uFG6D4",
     "title": "Cherry Audio GX-80 Synthesizer Walkthrough And Sounds",
@@ -1067,6 +1074,13 @@
     "source": "yt_api_fill",
     "official": false
   },
+  "JD 800": {
+    "video_id": "VPbi4UPnn4U",
+    "title": "Roland JD-800 Digital Synthesizer - sound demo",
+    "channel": "RetroSound",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "JUNO 106": {
     "video_id": "a19TB86isrA",
     "title": "Roland Juno-106 Synthesizer ~ Best of RetroSound Demo",
@@ -1315,6 +1329,13 @@
     "source": "yt_api_fill",
     "official": true
   },
+  "Native Instruments Marco Polo Drums": {
+    "video_id": "tSACxiyN4qY",
+    "title": "Introducing Marco Polo Drums | Native Instruments",
+    "channel": "Native Instruments",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Native Instruments Massive": {
     "video_id": "T4mfM73egsQ",
     "title": "MASSIVE X Walkthrough | Native Instruments",
@@ -1354,6 +1375,13 @@
     "score": 10,
     "source": "yt_api_fill",
     "official": true
+  },
+  "Native Instruments Roux": {
+    "video_id": "QjQfFrAcIq8",
+    "title": "Datsunn explores Roux and Brass n Bounce | Native Instruments",
+    "channel": "Native Instruments",
+    "score": 10,
+    "source": "yt_api_fill"
   },
   "Native Instruments Scene Nightshade": {
     "video_id": "ASHhU6QFlQE",
@@ -2423,6 +2451,13 @@
     "score": 13,
     "source": "yt_api_fill",
     "official": true
+  },
+  "UAD dbx 160 Compressor Limiter": {
+    "video_id": "--FV2XoQ6WU",
+    "title": "Understanding UAD dbx 160 Compressor/Limiter",
+    "channel": "amagrasmusic",
+    "score": 9,
+    "source": "yt_api_fill"
   },
   "UVI Falcon 3": {
     "video_id": "kIMGFF0VskQ",
