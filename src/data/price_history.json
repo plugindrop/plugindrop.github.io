@@ -92947,6 +92947,48 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-10"
+        },
+        {
+          "date": "2023-03-07",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-07-24",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-11-07",
+          "regular": 163.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-12-07",
+          "regular": 29.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-01-16",
+          "regular": 29.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-03-07",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-04-29",
+          "regular": 39.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/uad-fairchild-tube-limiter-collection.jpg",
@@ -93136,6 +93178,30 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-03"
+        },
+        {
+          "date": "2023-02-14",
+          "regular": 74.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-03-26",
+          "regular": 74.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-05-06",
+          "regular": 168.43,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-08-06",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/uad-galaxy-tape-echo.jpg",
