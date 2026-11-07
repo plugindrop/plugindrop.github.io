@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06",
+  "generated_at": "2026-11-07",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-11",
       "label": "November 2026",
       "is_current": true,
-      "generated_at": "2026-11-06",
-      "observations": 628,
+      "generated_at": "2026-11-07",
+      "observations": 745,
       "products_tracked": 211,
-      "products_on_sale": 83,
-      "on_sale_pct": 39.3,
-      "avg_discount_pct": 57.6,
-      "median_discount_pct": 54,
+      "products_on_sale": 84,
+      "on_sale_pct": 39.8,
+      "avg_discount_pct": 57.5,
+      "median_discount_pct": 53.0,
       "discount_buckets": {
         "1-19": 7,
         "20-39": 9,
-        "40-59": 27,
+        "40-59": 28,
         "60+": 40
       },
-      "all_time_low_hits": 61,
+      "all_time_low_hits": 62,
       "deepest_discounts": [
         {
           "name": "Thenatan Full Bundle",
@@ -294,9 +294,9 @@
         {
           "category": "Synth",
           "tracked": 13,
-          "on_sale": 1,
-          "on_sale_pct": 7.7,
-          "avg_discount_pct": 9
+          "on_sale": 2,
+          "on_sale_pct": 15.4,
+          "avg_discount_pct": 29
         },
         {
           "category": "Effects",
@@ -513,9 +513,9 @@
         {
           "category": "Cherry Audio",
           "tracked": 1,
-          "on_sale": 0,
-          "on_sale_pct": 0.0,
-          "avg_discount_pct": 0.0
+          "on_sale": 1,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 49
         },
         {
           "category": "Relab",
@@ -534,8 +534,8 @@
       ],
       "vs_previous_month": {
         "month": "2026-10",
-        "on_sale_pct_delta": -10.7,
-        "avg_discount_pct_delta": 0.5,
+        "on_sale_pct_delta": -10.2,
+        "avg_discount_pct_delta": 0.4,
         "products_tracked_delta": -315
       }
     },
@@ -543,7 +543,7 @@
       "month": "2026-10",
       "label": "October 2026",
       "is_current": false,
-      "generated_at": "2026-11-06",
+      "generated_at": "2026-11-07",
       "observations": 3527,
       "products_tracked": 526,
       "products_on_sale": 263,
@@ -1153,7 +1153,7 @@
       "month": "2026-09",
       "label": "September 2026",
       "is_current": false,
-      "generated_at": "2026-11-06",
+      "generated_at": "2026-11-07",
       "observations": 3561,
       "products_tracked": 503,
       "products_on_sale": 271,
@@ -1777,7 +1777,7 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-11-06",
+      "generated_at": "2026-11-07",
       "observations": 3583,
       "products_tracked": 420,
       "products_on_sale": 255,
@@ -2366,7 +2366,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-11-06",
+      "generated_at": "2026-11-07",
       "observations": 1964,
       "products_tracked": 286,
       "products_on_sale": 141,

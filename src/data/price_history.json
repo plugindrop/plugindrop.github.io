@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06",
+  "last_updated": "2026-11-07",
   "bundles": {
     "Arturia FX Collection 6 Pro": {
       "pb_url": "/product/81-Bundles/39-Effects-Bundles/16835-FX-Collection-6-PRO",
@@ -1909,6 +1909,12 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-01"
+        },
+        {
+          "date": "2026-11-07",
+          "regular": 799,
+          "sale": 100,
+          "source": "auto_check"
         }
       ],
       "category": "Bundle",
@@ -1939,30 +1945,6 @@
       "all_time_low": 60,
       "notes": "Waves Platinum list price is ~$1999 but almost always on deep sale ($77-$199). PB 14th Anniversary: £99. July 2025: $199. ATL ~$77 (recurring flash sales).",
       "history": [
-        {
-          "date": "2026-05-04",
-          "regular": 131,
-          "sale": 77,
-          "source": "live_check"
-        },
-        {
-          "date": "2026-05-17",
-          "regular": 119,
-          "sale": 60,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-05-30",
-          "regular": 119,
-          "sale": 70,
-          "source": "auto_check"
-        },
-        {
-          "date": "2026-06-20",
-          "regular": 119,
-          "sale": 60,
-          "source": "auto_check"
-        },
         {
           "date": "2026-06-27",
           "regular": 119,
@@ -2368,6 +2350,12 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-26"
+        },
+        {
+          "date": "2026-11-07",
+          "regular": 1999,
+          "sale": 129,
+          "source": "auto_check"
         }
       ],
       "category": "Bundle",
