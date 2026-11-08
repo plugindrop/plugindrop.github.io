@@ -12318,5 +12318,30 @@
     "maker_quote": null,
     "maker_quote_source_url": null,
     "maker_quote_retrieved": null
+  },
+  "MORPH 3 PRO": {
+    "pbProductId": "12205",
+    "brand": null,
+    "product": "MORPH 3 PRO",
+    "category": null,
+    "tagline": "Real-time audio morphing with 11 algorithms and a formant shifter",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/33-Modulator/12205-MORPH-3-PRO",
+    "retrieved": "2026-11-09",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/33-Modulator/12205-MORPH-3-PRO",
+    "tagline_source_quote": "a stunningly clean formant shifter",
+    "tagline_checked": "2026-11-09",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Creature voices, alien hardware, futuristic ambiences, unique new instruments - you name it, MORPH has you covered.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/33-Modulator/12205-MORPH-3-PRO",
+    "maker_quote_retrieved": "2026-11-09"
   }
 }
