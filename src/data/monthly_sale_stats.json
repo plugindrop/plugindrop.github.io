@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07",
+  "generated_at": "2026-11-08",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,18 +10,18 @@
       "month": "2026-11",
       "label": "November 2026",
       "is_current": true,
-      "generated_at": "2026-11-07",
-      "observations": 745,
-      "products_tracked": 211,
-      "products_on_sale": 84,
-      "on_sale_pct": 39.8,
-      "avg_discount_pct": 57.5,
-      "median_discount_pct": 53.0,
+      "generated_at": "2026-11-08",
+      "observations": 863,
+      "products_tracked": 212,
+      "products_on_sale": 85,
+      "on_sale_pct": 40.1,
+      "avg_discount_pct": 57.8,
+      "median_discount_pct": 54,
       "discount_buckets": {
         "1-19": 7,
         "20-39": 9,
         "40-59": 28,
-        "60+": 40
+        "60+": 41
       },
       "all_time_low_hits": 62,
       "deepest_discounts": [
@@ -136,6 +136,16 @@
           "pb_url": "/product/81-Bundles/39-Effects-Bundles/15730-SSL-Greatest-Hits-Bundle"
         },
         {
+          "name": "Waves Gold Bundle",
+          "slug": "waves-gold-bundle",
+          "category": "Bundle",
+          "regular": 799,
+          "sale": 100,
+          "pct_off": 87,
+          "date": "2026-11-07",
+          "pb_url": "/product/81-Bundles/97-Various-Category/12534-Gold-Bundle"
+        },
+        {
           "name": "AmpliTube 5",
           "slug": "amplitube-5",
           "category": "Other",
@@ -164,16 +174,6 @@
           "pct_off": 84,
           "date": "2026-11-02",
           "pb_url": "/product/2-Effects/53-Multi-Effect-/12062-Rekraft"
-        },
-        {
-          "name": "SampleTank 4 MAX",
-          "slug": "sampletank-4-max",
-          "category": "Other",
-          "regular": 299.99,
-          "sale": 49.99,
-          "pct_off": 83,
-          "date": "2026-11-01",
-          "pb_url": "/product/1-Instruments/64-Virtual-Instruments/12447-SampleTank-4-MAX"
         }
       ],
       "all_time_low_products": [
@@ -334,6 +334,13 @@
           "avg_discount_pct": 61.5
         },
         {
+          "category": "Bundle",
+          "tracked": 5,
+          "on_sale": 5,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 41.6
+        },
+        {
           "category": "Compressor",
           "tracked": 5,
           "on_sale": 1,
@@ -353,13 +360,6 @@
           "on_sale": 0,
           "on_sale_pct": 0.0,
           "avg_discount_pct": 0.0
-        },
-        {
-          "category": "Bundle",
-          "tracked": 4,
-          "on_sale": 4,
-          "on_sale_pct": 100.0,
-          "avg_discount_pct": 30.2
         },
         {
           "category": "EQ",
@@ -484,10 +484,10 @@
         },
         {
           "category": "Waves",
-          "tracked": 3,
-          "on_sale": 3,
+          "tracked": 4,
+          "on_sale": 4,
           "on_sale_pct": 100.0,
-          "avg_discount_pct": 81.3
+          "avg_discount_pct": 82.8
         },
         {
           "category": "Excite Audio",
@@ -534,16 +534,16 @@
       ],
       "vs_previous_month": {
         "month": "2026-10",
-        "on_sale_pct_delta": -10.2,
-        "avg_discount_pct_delta": 0.4,
-        "products_tracked_delta": -315
+        "on_sale_pct_delta": -9.9,
+        "avg_discount_pct_delta": 0.7,
+        "products_tracked_delta": -314
       }
     },
     {
       "month": "2026-10",
       "label": "October 2026",
       "is_current": false,
-      "generated_at": "2026-11-07",
+      "generated_at": "2026-11-08",
       "observations": 3527,
       "products_tracked": 526,
       "products_on_sale": 263,
@@ -1153,7 +1153,7 @@
       "month": "2026-09",
       "label": "September 2026",
       "is_current": false,
-      "generated_at": "2026-11-07",
+      "generated_at": "2026-11-08",
       "observations": 3561,
       "products_tracked": 503,
       "products_on_sale": 271,
@@ -1777,7 +1777,7 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-11-07",
+      "generated_at": "2026-11-08",
       "observations": 3583,
       "products_tracked": 420,
       "products_on_sale": 255,
@@ -2366,7 +2366,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-11-07",
+      "generated_at": "2026-11-08",
       "observations": 1964,
       "products_tracked": 286,
       "products_on_sale": 141,
