@@ -14,7 +14,7 @@ discount: "33% OFF"
 saleExpiry: "2026-10-18"
 draft: true
 ---
-**TL;DR:** Reason Rack 14 is down to $149 at Plugin Boutique, matching the lowest price PluginDrop has tracked across 4 observations since 2026-10-18. It packs 68 devices and browsing access to 30,000+ sounds into a modular rack you run inside any major DAW via VST3, AU, or AAX. [Grab it at Plugin Boutique](https://www.pluginboutique.com/search?q=Reason+Rack+14&a_aid=69cb95abe1763&chan=art&data1=reason-rack-14-514cf0&utm_source=plugindrop&utm_medium=article&utm_campaign=reason-rack-14-514cf0).
+**TL;DR:** Reason Rack 14 is down to $149 at Plugin Boutique, matching the lowest price PluginDrop has tracked across 4 observations since 2026-10-18. It packs 68 devices and browsing access to 30,000+ sounds into a modular rack you run inside any major DAW via VST3, AU, or AAX. [Grab it at Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/23-DAW/17336-Reason-Rack-14?a_aid=69cb95abe1763&chan=art&data1=reason-rack-14-514cf0&utm_source=plugindrop&utm_medium=article&utm_campaign=reason-rack-14-514cf0).
 
 <!-- deal-context-sale-windows:start -->
 ## Last three times this went on sale
@@ -42,7 +42,7 @@ The Combinator is handy mid-arrangement when you've built a layered patch across
 
 ## Pricing and deal details
 
-Plugin Boutique has Reason Rack 14 at $149, down from a ~~$199~~ regular price. PluginDrop has tracked this listing since 2026-10-18 across 4 observations, and $149 is both the lowest price recorded in that window and the typical sale price, so this isn't a short-lived dip below the usual discount floor. Check the product page for current pricing before you buy, then use the [link to Plugin Boutique](https://www.pluginboutique.com/search?q=Reason+Rack+14&a_aid=69cb95abe1763&chan=art&data1=reason-rack-14-514cf0&utm_source=plugindrop&utm_medium=article&utm_campaign=reason-rack-14-514cf0) to check out.
+Plugin Boutique has Reason Rack 14 at $149, down from a ~~$199~~ regular price. PluginDrop has tracked this listing since 2026-10-18 across 4 observations, and $149 is both the lowest price recorded in that window and the typical sale price, so this isn't a short-lived dip below the usual discount floor. Check the product page for current pricing before you buy, then use the [link to Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/23-DAW/17336-Reason-Rack-14?a_aid=69cb95abe1763&chan=art&data1=reason-rack-14-514cf0&utm_source=plugindrop&utm_medium=article&utm_campaign=reason-rack-14-514cf0) to check out.
 
 ## Skip it if
 
