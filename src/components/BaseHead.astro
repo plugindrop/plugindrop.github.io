@@ -5,6 +5,7 @@ import '@fontsource-variable/jetbrains-mono';
 import PersonalizationScript from './PersonalizationScript.astro';
 import { SITE_TITLE, SITE_TWITTER } from '../consts';
 import { stripMarkdownEmphasis } from '../lib/textUtils';
+import { resolveInternalFlag, tagPbHrefForInternal } from '../lib/internalTraffic.mjs';
 
 interface Props {
 	title: string;
@@ -21,42 +22,62 @@ const resolvedImage = new URL(image, Astro.site);
 // description は <meta> にプレーンテキストとして出力される場所なので、生Markdown記号が
 // 紛れ込んでいても表示に出ないよう保険でstripする（本来の除去は生成側で行う）
 const plainDescription = stripMarkdownEmphasis(description);
+// Keep the tested helpers in the classic inline script so gtag runs before config.
+const internalTrafficScript = `${resolveInternalFlag.toString()}
+${tagPbHrefForInternal.toString()}
+window.dataLayer = window.dataLayer || [];
+function gtag() { window.dataLayer.push(arguments); }
+gtag('js', new Date());
+var internalParams = new URLSearchParams(location.search);
+var storedInternal = null;
+try { storedInternal = localStorage.getItem('pd_internal'); } catch (e) { /* storage unavailable */ }
+var internalState = resolveInternalFlag(location.search, storedInternal);
+try {
+  if (internalState.write === '1') localStorage.setItem('pd_internal', '1');
+  if (internalState.write === 'clear') localStorage.removeItem('pd_internal');
+} catch (e) { /* storage unavailable */ }
+if (internalParams.has('internal')) {
+  var cleanUrl = new URL(location.href);
+  cleanUrl.searchParams.delete('internal');
+  history.replaceState(history.state, '', cleanUrl.pathname + cleanUrl.search + cleanUrl.hash);
+}
+if (internalState.flag) gtag('set', { traffic_type: 'internal' });
+gtag('config', 'G-X5T5VNEGW5', internalState.flag ? { traffic_type: 'internal' } : {});
+if (internalState.flag) {
+  var showInternal = function () {
+    var badge = document.createElement('span');
+    badge.textContent = 'internal';
+    badge.style.cssText = 'position:fixed;right:8px;bottom:8px;z-index:2147483647;padding:2px 5px;background:#222;color:#fff;font:11px sans-serif;opacity:.8;pointer-events:none';
+    document.body.appendChild(badge);
+  };
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', showInternal, { once: true });
+  else showInternal();
+}
+document.addEventListener('click', function (ev) {
+  try {
+    var a = ev.target && ev.target.closest && ev.target.closest('a[href]');
+    if (!a) return;
+    var url = new URL(a.href, location.href);
+    if (url.hostname !== 'pluginboutique.com' && url.hostname !== 'www.pluginboutique.com') return;
+    var host = a.closest('[data-slug]');
+    var slug = host ? host.getAttribute('data-slug') : (a.getAttribute('data-slug') || '');
+    var eventData = { slug: slug, chan: url.searchParams.get('chan') || '' };
+    var placement = url.searchParams.get('data2');
+    if (placement) eventData.placement = placement;
+    if (internalState.flag) {
+      eventData.traffic_type = 'internal';
+      a.href = tagPbHrefForInternal(a.href);
+    }
+    gtag('event', 'pb_click', eventData);
+  } catch (e) { /* noop */ }
+}, { capture: true, passive: true });`;
 ---
 
 <meta charset="utf-8" />
 
 <!-- Google Analytics 4 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-X5T5VNEGW5"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  var _pdInternal = (function() {
-    try { return localStorage.getItem('pd_internal') === '1'; } catch(e) { return false; }
-  })();
-  gtag('config', 'G-X5T5VNEGW5', _pdInternal ? { traffic_type: 'internal' } : {});
-</script>
-<script is:inline>
-(function () {
-  // 上のGA4初期化スクリプトは is:inline が無いためAstroにtype="module"へバンドルされ、
-  // その中の gtag はモジュールスコープに閉じ込められグローバルに出てこない。
-  // ここで直接 dataLayer に積む同等の gtag を再定義して依存を切る。
-  function gtag(){ window.dataLayer = window.dataLayer || []; window.dataLayer.push(arguments); }
-  document.addEventListener('click', function (ev) {
-    try {
-      var a = ev.target && ev.target.closest && ev.target.closest('a[href*="pluginboutique.com"]');
-      if (!a) return;
-      var host = a.closest('[data-slug]');
-      var slug = host ? host.getAttribute('data-slug') : (a.getAttribute('data-slug') || '');
-      var url = new URL(a.href, location.href);
-      var chan = url.searchParams.get('chan') || '';
-      if (typeof gtag === 'function') {
-        gtag('event', 'pb_click', { slug: slug, chan: chan });
-      }
-    } catch (e) { /* noop */ }
-  }, { capture: true, passive: true });
-})();
-</script>
+<script is:inline set:html={internalTrafficScript} />
 
 <!-- Google AdSense: indexable pages only (noindex pages carry no ad tag) -->
 {!noindex && (
