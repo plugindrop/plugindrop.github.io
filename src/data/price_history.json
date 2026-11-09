@@ -2498,16 +2498,6 @@
       "typical_regular": 149,
       "history": [
         {
-          "date": "2026-11-09",
-          "regular": 149.0,
-          "sale": 39.0,
-          "source": "auto_check",
-          "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD",
-          "until": "2026-11-30"
-        },
-        {
           "date": "2023-04-04",
           "regular": 315.12,
           "sale": null,
@@ -2524,6 +2514,16 @@
           "regular": 329.99,
           "sale": null,
           "source": "wayback"
+        },
+        {
+          "date": "2026-11-09",
+          "regular": 149.0,
+          "sale": 39.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD",
+          "until": "2026-11-30"
         }
       ],
       "all_time_low": 39.0,
@@ -26212,12 +26212,13 @@
         },
         {
           "date": "2026-11-09",
-          "regular": 99,
-          "sale": null,
+          "regular": 99.0,
+          "sale": 49.0,
           "source": "auto_check",
           "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
+          "reg_src": "page",
+          "cur": "USD",
+          "until": "2026-12-01"
         }
       ],
       "image": "/images/plugin-prices/eventide-blackhole.jpg",
@@ -26473,12 +26474,13 @@
         },
         {
           "date": "2026-11-09",
-          "regular": null,
-          "sale": null,
+          "regular": 199.0,
+          "sale": 99.0,
           "source": "auto_check",
           "store": "plugin_boutique",
-          "reg_src": null,
-          "cur": "USD"
+          "reg_src": "page",
+          "cur": "USD",
+          "until": "2026-12-01"
         }
       ],
       "image": "/images/plugin-prices/eventide-blackhole-immersive.jpg"
@@ -28578,12 +28580,13 @@
         },
         {
           "date": "2026-11-09",
-          "regular": 149,
-          "sale": null,
+          "regular": 149.0,
+          "sale": 75.0,
           "source": "auto_check",
           "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
+          "reg_src": "page",
+          "cur": "USD",
+          "until": "2026-12-01"
         }
       ],
       "category": "Effects",
@@ -30450,12 +30453,13 @@
         },
         {
           "date": "2026-11-09",
-          "regular": null,
-          "sale": null,
+          "regular": 199.0,
+          "sale": 99.0,
           "source": "auto_check",
           "store": "plugin_boutique",
-          "reg_src": null,
-          "cur": "USD"
+          "reg_src": "page",
+          "cur": "USD",
+          "until": "2026-12-01"
         }
       ],
       "image": "/images/plugin-prices/eventide-micropitch-immersive.jpg"
@@ -30980,12 +30984,13 @@
         },
         {
           "date": "2026-11-09",
-          "regular": null,
-          "sale": null,
+          "regular": 99.0,
+          "sale": 49.0,
           "source": "auto_check",
           "store": "plugin_boutique",
-          "reg_src": null,
-          "cur": "USD"
+          "reg_src": "page",
+          "cur": "USD",
+          "until": "2026-12-01"
         }
       ],
       "image": "/images/plugin-prices/eventide-omnipressor.jpg"
@@ -32198,12 +32203,13 @@
         },
         {
           "date": "2026-11-09",
-          "regular": 99,
-          "sale": null,
+          "regular": 99.0,
+          "sale": 49.0,
           "source": "auto_check",
           "store": "plugin_boutique",
-          "reg_src": "typical",
-          "cur": "USD"
+          "reg_src": "page",
+          "cur": "USD",
+          "until": "2026-12-01"
         }
       ],
       "image": "/images/plugin-prices/eventide-sp2016-reverb.jpg"
@@ -77587,13 +77593,12 @@
         },
         {
           "date": "2026-11-09",
-          "regular": 199.0,
-          "sale": 69.0,
+          "regular": 199,
+          "sale": null,
           "source": "auto_check",
           "store": "plugin_boutique",
-          "reg_src": "page",
-          "cur": "USD",
-          "until": "2026-11-08"
+          "reg_src": "typical",
+          "cur": "USD"
         }
       ],
       "category": "Compressor",
@@ -100798,6 +100803,30 @@
       "notes": "Auto-discovered 2026-07-17",
       "history": [
         {
+          "date": "2023-04-04",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-09-20",
+          "regular": 59.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-04-07",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-07-19",
+          "regular": 199.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
           "date": "2026-07-17",
           "regular": 99.0,
           "sale": 29.0,
@@ -100973,30 +101002,6 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-03"
-        },
-        {
-          "date": "2023-04-04",
-          "regular": 99.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2024-09-20",
-          "regular": 59.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-04-07",
-          "regular": 99.0,
-          "sale": null,
-          "source": "wayback"
-        },
-        {
-          "date": "2025-07-19",
-          "regular": 199.0,
-          "sale": null,
-          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/uad-teletronix-la-3a-audio-leveler.jpg",
