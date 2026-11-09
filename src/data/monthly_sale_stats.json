@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09",
+  "generated_at": "2026-11-10",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-11",
       "label": "November 2026",
       "is_current": true,
-      "generated_at": "2026-11-09",
-      "observations": 998,
-      "products_tracked": 229,
-      "products_on_sale": 101,
-      "on_sale_pct": 44.1,
-      "avg_discount_pct": 56.6,
+      "generated_at": "2026-11-10",
+      "observations": 1129,
+      "products_tracked": 232,
+      "products_on_sale": 109,
+      "on_sale_pct": 47.0,
+      "avg_discount_pct": 56.2,
       "median_discount_pct": 51,
       "discount_buckets": {
         "1-19": 7,
-        "20-39": 13,
-        "40-59": 35,
-        "60+": 46
+        "20-39": 14,
+        "40-59": 41,
+        "60+": 47
       },
-      "all_time_low_hits": 64,
+      "all_time_low_hits": 77,
       "deepest_discounts": [
         {
           "name": "Thenatan Full Bundle",
@@ -286,10 +286,10 @@
       "by_category": [
         {
           "category": "Other",
-          "tracked": 150,
-          "on_sale": 77,
-          "on_sale_pct": 51.3,
-          "avg_discount_pct": 60.1
+          "tracked": 153,
+          "on_sale": 83,
+          "on_sale_pct": 54.2,
+          "avg_discount_pct": 59.4
         },
         {
           "category": "Synth",
@@ -301,16 +301,16 @@
         {
           "category": "Effects",
           "tracked": 12,
-          "on_sale": 4,
-          "on_sale_pct": 33.3,
-          "avg_discount_pct": 33.5
+          "on_sale": 5,
+          "on_sale_pct": 41.7,
+          "avg_discount_pct": 36.8
         },
         {
           "category": "Reverb",
           "tracked": 7,
-          "on_sale": 3,
-          "on_sale_pct": 42.9,
-          "avg_discount_pct": 74.3
+          "on_sale": 4,
+          "on_sale_pct": 57.1,
+          "avg_discount_pct": 68.5
         },
         {
           "category": "Saturation",
@@ -393,17 +393,17 @@
       "by_brand": [
         {
           "category": "Other",
-          "tracked": 88,
-          "on_sale": 57,
-          "on_sale_pct": 64.8,
-          "avg_discount_pct": 60.5
+          "tracked": 91,
+          "on_sale": 60,
+          "on_sale_pct": 65.9,
+          "avg_discount_pct": 60.0
         },
         {
           "category": "Eventide",
           "tracked": 26,
-          "on_sale": 1,
-          "on_sale_pct": 3.8,
-          "avg_discount_pct": 51
+          "on_sale": 6,
+          "on_sale_pct": 23.1,
+          "avg_discount_pct": 50.5
         },
         {
           "category": "Native Instruments",
@@ -534,16 +534,16 @@
       ],
       "vs_previous_month": {
         "month": "2026-10",
-        "on_sale_pct_delta": -5.9,
-        "avg_discount_pct_delta": -0.5,
-        "products_tracked_delta": -297
+        "on_sale_pct_delta": -3.0,
+        "avg_discount_pct_delta": -0.9,
+        "products_tracked_delta": -294
       }
     },
     {
       "month": "2026-10",
       "label": "October 2026",
       "is_current": false,
-      "generated_at": "2026-11-09",
+      "generated_at": "2026-11-10",
       "observations": 3527,
       "products_tracked": 526,
       "products_on_sale": 263,
@@ -1153,7 +1153,7 @@
       "month": "2026-09",
       "label": "September 2026",
       "is_current": false,
-      "generated_at": "2026-11-09",
+      "generated_at": "2026-11-10",
       "observations": 3561,
       "products_tracked": 503,
       "products_on_sale": 271,
@@ -1777,7 +1777,7 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-11-09",
+      "generated_at": "2026-11-10",
       "observations": 3583,
       "products_tracked": 420,
       "products_on_sale": 255,
@@ -2366,7 +2366,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-11-09",
+      "generated_at": "2026-11-10",
       "observations": 1964,
       "products_tracked": 286,
       "products_on_sale": 141,

@@ -8,12 +8,11 @@ heroImage: "/images/ssl-blitzer-4287ec.jpg"
 score: 10.00
 rawScore: 12.15
 productKey: "SSL Blitzer"
-priceRecordPending: true
 dealPrice: "$19.99"
 originalPrice: "$99.00"
 discount: "80% OFF"
 saleExpiry: "2026-11-30"
-draft: true
+draft: false
 ---
 **TL;DR:** SSL Blitzer is discounted 80% off its regular $99 price at Plugin Boutique right now. It's a character compressor modeled on classic hardware behavior (think 1176 and LA-2A style response) with 10 selectable compression curves, a DRIVE stage, and an "all in" BLITZ! mode for aggressive leveling. Grab it on the [Plugin Boutique deal page](https://www.pluginboutique.com/search?q=SSL+Blitzer&a_aid=69cb95abe1763&chan=art&data1=ssl-blitzer-4287ec&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-blitzer-4287ec) while the markdown is live.
 

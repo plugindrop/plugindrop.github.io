@@ -2527,7 +2527,10 @@
         }
       ],
       "all_time_low": 39.0,
-      "typical_sale": 39.0
+      "typical_sale": 39.0,
+      "image": "/images/plugin-prices/ssl-4k-b.jpg",
+      "image_lg": "/images/plugin-prices/ssl-4k-b-lg.jpg",
+      "image_lg_width": 625
     },
     "AIR Legends Pack": {
       "pb_url": "/product/81-Bundles/58-Instrument-Bundles/7743-AIR-Legends-Pack",
@@ -26483,7 +26486,9 @@
           "until": "2026-12-01"
         }
       ],
-      "image": "/images/plugin-prices/eventide-blackhole-immersive.jpg"
+      "image": "/images/plugin-prices/eventide-blackhole-immersive.jpg",
+      "image_lg": "/images/plugin-prices/eventide-blackhole-immersive-lg.jpg",
+      "image_lg_width": 625
     },
     "Eventide CrushStation": {
       "pb_url": "/product/2-Effects/30-Distortion/6313-CrushStation",
@@ -30462,7 +30467,9 @@
           "until": "2026-12-01"
         }
       ],
-      "image": "/images/plugin-prices/eventide-micropitch-immersive.jpg"
+      "image": "/images/plugin-prices/eventide-micropitch-immersive.jpg",
+      "image_lg": "/images/plugin-prices/eventide-micropitch-immersive-lg.jpg",
+      "image_lg_width": 625
     },
     "Eventide Octavox": {
       "pb_url": "/product/2-Effects/91-Harmonizer/3065-Octavox",
@@ -30993,7 +31000,9 @@
           "until": "2026-12-01"
         }
       ],
-      "image": "/images/plugin-prices/eventide-omnipressor.jpg"
+      "image": "/images/plugin-prices/eventide-omnipressor.jpg",
+      "image_lg": "/images/plugin-prices/eventide-omnipressor-lg.jpg",
+      "image_lg_width": 625
     },
     "Eventide Physion Mk II": {
       "pb_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/9621-Physion-Mk-II",
@@ -32212,7 +32221,9 @@
           "until": "2026-12-01"
         }
       ],
-      "image": "/images/plugin-prices/eventide-sp2016-reverb.jpg"
+      "image": "/images/plugin-prices/eventide-sp2016-reverb.jpg",
+      "image_lg": "/images/plugin-prices/eventide-sp2016-reverb-lg.jpg",
+      "image_lg_width": 625
     },
     "Eventide Sheen Machine": {
       "pb_url": "/product/2-Effects/16-EQ/11692-Sheen-Machine",
@@ -125538,8 +125549,20 @@
     },
     "SSL Blitzer": {
       "pb_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10384-SSL-Blitzer?a_aid=69cb95abe1763&chan=art&data2=deal-article",
-      "history": [],
-      "article_slug": "ssl-blitzer-4287ec"
+      "history": [
+        {
+          "date": "2026-11-09",
+          "sale": 19.99,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        }
+      ],
+      "article_slug": "ssl-blitzer-4287ec",
+      "all_time_low": 19.99,
+      "typical_sale": 19.99
     },
     "Evolve Elastic Lite": {
       "pb_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16352-Evolve-Elastic-Lite",
