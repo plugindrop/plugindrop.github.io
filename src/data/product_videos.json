@@ -1431,6 +1431,13 @@
     "source": "yt_api_fill",
     "official": true
   },
+  "Oberheim Matrix-12": {
+    "video_id": "addyVmd7qbc",
+    "title": "Oberheim Matrix-12 Synthesizer Demo #7",
+    "channel": "gstormelectro",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "Output Analog Brass and Winds": {
     "video_id": "DZHglCy0img",
     "title": "ANALOG BRASS & WINDS by Output - Walkthrough",
@@ -1590,6 +1597,13 @@
     "score": 8,
     "source": "yt_api_fill",
     "official": false
+  },
+  "RC-20 Retro Color v2": {
+    "video_id": "dYtDcIJKBi4",
+    "title": "XLN Audio RC-20 Retro Color V2 | Sounds Like This (No Talking)",
+    "channel": "Sounds Like This",
+    "score": 8,
+    "source": "yt_api_fill"
   },
   "ROWDY 2": {
     "video_id": "2p01I2pxfIg",
