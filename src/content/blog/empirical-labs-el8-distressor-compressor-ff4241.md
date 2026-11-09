@@ -46,7 +46,7 @@ Producers without UA hardware can therefore use it, and Apollo owners get the ac
 
 ## How These Features Map to Common Jobs
 
-This section is a practical reading of the listed specs, not a hands-on test.
+This section is a practical reading of the listed specs; we have not used the plugin ourselves.
 
 ### Drums and Percussion
 
