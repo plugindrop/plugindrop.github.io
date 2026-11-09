@@ -43,8 +43,8 @@ export function slugify(name: string): string {
     .replace(/^-+|-+$/g, '');
 }
 
-export function formatPrice(val: number | null): string {
-  if (val === null) return '—';
+export function formatPrice(val: number | null | undefined): string {
+  if (val === null || val === undefined) return '—';
   return `$${Number.isInteger(val) ? val : val.toFixed(2).replace(/\.00$/, '')}`;
 }
 

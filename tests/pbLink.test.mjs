@@ -40,17 +40,20 @@ test('placement fills data2 without replacing existing data2', () => {
   assert.equal(new URL(pbLink('/product/1?data2=original', 'chan=trk', { placement: 'pp-hero' })).searchParams.get('data2'), 'original');
 });
 
-test('missing chan throws in development and falls back to art in production', () => {
+test('missing chan falls back to art when Vite DEV is absent, regardless of NODE_ENV', () => {
   const previous = process.env.NODE_ENV;
   try {
-    process.env.NODE_ENV = 'development';
-    assert.throws(() => pbLink('/product/1', '', { placement: 'body' }), /chan/);
-    process.env.NODE_ENV = 'production';
     const originalWarn = console.warn;
     const warnings = [];
     console.warn = (message) => warnings.push(message);
-    try { assert.equal(new URL(pbLink('/product/1', '', { placement: 'body' })).searchParams.get('chan'), 'art'); }
+    try {
+      for (const env of [undefined, 'production', 'development']) {
+        if (env === undefined) delete process.env.NODE_ENV;
+        else process.env.NODE_ENV = env;
+        assert.equal(new URL(pbLink('/product/1', '', { placement: 'body' })).searchParams.get('chan'), 'art');
+      }
+    }
     finally { console.warn = originalWarn; }
-    assert.equal(warnings.length, 1);
+    assert.equal(warnings.length, 3);
   } finally { process.env.NODE_ENV = previous; }
 });
