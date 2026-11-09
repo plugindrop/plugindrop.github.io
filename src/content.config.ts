@@ -29,6 +29,7 @@ const blog = defineCollection({
 			noindex: z.boolean().optional(),
 			priceTrack: z.array(z.string()).default([]),
 			productKey: z.string().optional(),
+			priceRecordPending: z.boolean().optional(),
 		}),
 });
 
