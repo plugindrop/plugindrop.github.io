@@ -2496,7 +2496,20 @@
       "pb_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10385-SSL-4K-B",
       "article_slug": "ssl-4k-b-e4a7af",
       "typical_regular": 149,
-      "history": []
+      "history": [
+        {
+          "date": "2026-11-09",
+          "regular": 149.0,
+          "sale": 39.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD",
+          "until": "2026-11-30"
+        }
+      ],
+      "all_time_low": 39.0,
+      "typical_sale": 39.0
     },
     "AIR Legends Pack": {
       "pb_url": "/product/81-Bundles/58-Instrument-Bundles/7743-AIR-Legends-Pack",
