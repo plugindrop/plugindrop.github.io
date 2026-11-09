@@ -1,17 +1,13 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { freeToPaid } from '../src/lib/freeToPaid.mjs';
+import realPrices from '../src/data/price_history.json' with { type: 'json' };
 
 const slug = 'best-free-synth-plugins';
 const map = { [slug]: { free_reference: 'Vital', paid_product_key: 'Paid Synth', category: 'Synth', pb_check: { in_stock: true } } };
-const history = [
-  { date: '2026-10-01', regular: 100, sale: null, source: 'auto_check' },
-  { date: '2026-10-20', regular: 100, sale: 50, source: 'auto_check' },
-  { date: '2026-10-22', regular: 100, sale: null, source: 'auto_check' },
-  { date: '2026-11-09', regular: 100, sale: 50, source: 'auto_check' },
-];
-const entry = { pb_url: '/product/1-Synth/4-Synth/123-Paid-Synth', history,
-  typical_sale: 50, all_time_low: 50 };
+const source = realPrices.plugins['u-he Repro'];
+const entry = { ...source, history: [...source.history, { date: '2026-11-10', regular: 100, sale: 50, source: 'auto_check' }] };
+map[slug].paid_product_key = 'Paid Synth';
 const prices = { plugins: { 'Paid Synth': entry } };
 
 test('missing map, price entry, and product URL do not render', () => {
@@ -21,7 +17,7 @@ test('missing map, price entry, and product URL do not render', () => {
 });
 
 test('fresh sale gives price and percentage without forbidden claims', () => {
-  const model = freeToPaid(slug, map, prices, new Date('2026-11-10'));
+  const model = freeToPaid(slug, map, prices, new Date('2026-11-11'));
   assert.ok(model);
   assert.equal(model.pct, 50);
   assert.match(model.body, /50% off right now/);

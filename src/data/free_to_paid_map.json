@@ -1,0 +1,68 @@
+{
+    "best-free-plugins-fl-studio":  {
+                                        "free_reference":  "Vital",
+                                        "paid_product_key":  "u-he Repro",
+                                        "category":  "Synth",
+                                        "reviewed_on":  "2026-11-10",
+                                        "pb_check":  {
+                                                         "url":  "/product/1-Instruments/4-Synth/3027-Repro",
+                                                         "checked_on":  "2026-11-10",
+                                                         "in_stock":  true
+                                                     }
+                                    },
+    "best-free-plugins-ableton":  {
+                                      "free_reference":  "Vital",
+                                      "paid_product_key":  "u-he Repro",
+                                      "category":  "Synth",
+                                      "reviewed_on":  "2026-11-10",
+                                      "pb_check":  {
+                                                       "url":  "/product/1-Instruments/4-Synth/3027-Repro",
+                                                       "checked_on":  "2026-11-10",
+                                                       "in_stock":  true
+                                                   }
+                                  },
+    "best-free-vst-plugins-2026":  {
+                                       "free_reference":  "Vital",
+                                       "paid_product_key":  "u-he Repro",
+                                       "category":  "Synth",
+                                       "reviewed_on":  "2026-11-10",
+                                       "pb_check":  {
+                                                        "url":  "/product/1-Instruments/4-Synth/3027-Repro",
+                                                        "checked_on":  "2026-11-10",
+                                                        "in_stock":  true
+                                                    }
+                                   },
+    "best-free-synth-plugins":  {
+                                    "free_reference":  "Vital",
+                                    "paid_product_key":  "u-he Repro",
+                                    "category":  "Synth",
+                                    "reviewed_on":  "2026-11-10",
+                                    "pb_check":  {
+                                                     "url":  "/product/1-Instruments/4-Synth/3027-Repro",
+                                                     "checked_on":  "2026-11-10",
+                                                     "in_stock":  true
+                                                 }
+                                },
+    "best-free-tape-saturation-vst":  {
+                                          "free_reference":  "Chow Tape Model",
+                                          "paid_product_key":  "u-he Satin",
+                                          "category":  "Saturation",
+                                          "reviewed_on":  "2026-11-10",
+                                          "pb_check":  {
+                                                           "url":  "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/1400-Satin",
+                                                           "checked_on":  "2026-11-10",
+                                                           "in_stock":  true
+                                                       }
+                                      },
+    "best-free-drum-plugins":  {
+                                   "free_reference":  "Steven Slate Drums SSD5.5 FREE",
+                                   "paid_product_key":  "Excite Audio Bloom Drum Machine",
+                                   "category":  "Drums",
+                                   "reviewed_on":  "2026-11-10",
+                                   "pb_check":  {
+                                                    "url":  "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/13548-Bloom-Drum-Machine",
+                                                    "checked_on":  "2026-11-10",
+                                                    "in_stock":  true
+                                                }
+                               }
+}
