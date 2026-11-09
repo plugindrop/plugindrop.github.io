@@ -62,7 +62,7 @@ export function pbLink(path: string, extraParams = '', ctx?: { medium?: string; 
   const extra = new URLSearchParams(extraParams);
   let chan = url.searchParams.get('chan') ?? extra.get('chan');
   if (!chan) {
-    if (import.meta.env?.DEV || process.env.NODE_ENV !== 'production') throw new Error(`pbLink: missing chan for ${path}`);
+    if (import.meta.env?.DEV) throw new Error(`pbLink: missing chan for ${path}`);
     console.warn(`pbLink: missing chan for ${path}; using art`);
     chan = 'art';
   }

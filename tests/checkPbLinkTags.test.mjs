@@ -21,3 +21,13 @@ test('PB tag checker decodes entities, ignores third-party hosts and reports mis
     assert.equal(result.failures, 6);
   } finally { await rm(dir, { recursive: true, force: true }); }
 });
+
+test('PB tag checker rejects affiliate URLs inside JSON-LD', async () => {
+  const dir = await mkdtemp(path.join(tmpdir(), 'pb-jsonld-'));
+  try {
+    await writeFile(path.join(dir, 'index.html'), '<script type="application/ld+json">{"offers":{"url":"https://www.pluginboutique.com/product/1?a_aid=69cb95abe1763"}}</script>');
+    const result = await checkPbLinkTags(dir);
+    assert.equal(result.failures, 1);
+    assert.equal(result.jsonLdExamples.length, 1);
+  } finally { await rm(dir, { recursive: true, force: true }); }
+});

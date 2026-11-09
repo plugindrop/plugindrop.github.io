@@ -15,6 +15,8 @@ export async function checkPbLinkTags(distDir) {
     throw new Error(`dist directory not found: ${distDir}`);
   }
   const examples = [];
+  const jsonLdExamples = [];
+  let jsonLdFailures = 0;
   const counts = Object.fromEntries(REQUIRED.map((key) => [key, 0]));
   let checked = 0;
   async function scan(dir, entries) {
@@ -24,6 +26,12 @@ export async function checkPbLinkTags(distDir) {
       if (info.isDirectory()) { await scan(filename, await readdir(filename)); continue; }
       if (!entry.endsWith('.html')) continue;
       const html = await readFile(filename, 'utf8');
+      for (const script of html.matchAll(/<script\b[^>]*\btype\s*=\s*["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)) {
+        if (/a_aid=/i.test(script[1])) {
+          jsonLdFailures++;
+          if (jsonLdExamples.length < 20) jsonLdExamples.push(filename);
+        }
+      }
       for (const anchor of html.matchAll(/<a\b[^>]*>/gi)) {
         const href = anchor[0].match(/\bhref\s*=\s*(["'])(.*?)\1/i)?.[2];
         if (!href) continue;
@@ -38,7 +46,7 @@ export async function checkPbLinkTags(distDir) {
     }
   }
   await scan(distDir, files);
-  return { checked, counts, examples, failures: Object.values(counts).reduce((a, b) => a + b, 0) };
+  return { checked, counts, examples, jsonLdExamples, jsonLdFailures, failures: Object.values(counts).reduce((a, b) => a + b, 0) + jsonLdFailures };
 }
 
 if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
@@ -49,6 +57,7 @@ if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.me
     if (result.failures) {
       console.error(`Missing tags: ${JSON.stringify(result.counts)}`);
       for (const example of result.examples) console.error(`${example.file}: ${example.missing.join(', ')} ${example.href}`);
+      for (const file of result.jsonLdExamples) console.error(`${file}: JSON-LD contains a_aid=`);
       process.exitCode = 1;
     } else console.log('PB affiliate tags: pass');
   } catch (error) {
