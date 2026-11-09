@@ -12,7 +12,9 @@ originalPrice: "$149.00"
 discount: "74% OFF"
 saleExpiry: "2026-12-04"
 saleExpirySource: "fallback"
-draft: false
+productKey: "SSL 4K B"
+priceRecordPending: true
+draft: true
 ---
 **TL;DR:** Solid State Logic's SSL 4K B, a modeled version of the historic SL 4000 B console channel, is 74% off its ~~$149~~ regular price at Plugin Boutique right now. The plugin recreates the mic preamp, EQ, and VCA compression of the desk that shaped decades of recorded music. [Grab SSL 4K B at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10385-SSL-4K-B?a_aid=69cb95abe1763&chan=art&data1=ssl-4k-b-e4a7af&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-b-e4a7af) while the discount is live.
 

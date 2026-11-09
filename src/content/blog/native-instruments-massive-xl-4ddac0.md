@@ -11,7 +11,9 @@ dealPrice: "$99"
 originalPrice: "$199"
 discount: "50% OFF"
 saleExpiry: "2026-12-31"
-draft: false
+productKey: "Native Instruments Massive XL"
+priceRecordPending: true
+draft: true
 ---
 **TL;DR:** Native Instruments Massive XL is ~~$199~~ $99 at PluginFox, a 50% cut on the vendor's sound design synth. PluginDrop's tracker has logged this product as low as $85 before, so $99 is a real discount but not the floor. [Check the deal at PluginFox](https://pluginfox.com/products/native-instruments-massive-xl?aff=580&utm_source=plugindrop&utm_medium=article&utm_campaign=native-instruments-massive-xl-4ddac0) if you need a synth for sound design work now.
 

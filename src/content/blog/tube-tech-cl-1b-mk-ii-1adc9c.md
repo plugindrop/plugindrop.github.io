@@ -9,7 +9,8 @@ score: 7.08
 dealPrice: "$69.00"
 originalPrice: "$199.00"
 discount: "65% OFF"
-draft: false
+productKey: "Softube Tube-Tech CL 1B Mk II"
+draft: true
 saleExpiry: "2026-09-23"
 saleExpirySource: "fallback"
 ---
