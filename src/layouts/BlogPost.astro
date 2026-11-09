@@ -489,6 +489,10 @@ const featuredDeals = isEvergreen ? allPosts
 	.sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
 	.slice(0, 4) : [];
 const guidePosts = [...relatedPosts].sort((a, b) => Number(!!a.data.affiliate) - Number(!!b.data.affiliate)).slice(0, 3);
+const crossGuideSlugs = ['best-free-plugins-fl-studio', 'best-free-plugins-ableton', 'best-free-synth-plugins'];
+const crossGuides = crossGuideSlugs.includes(currentSlug)
+	? allPosts.filter(post => crossGuideSlugs.includes(post.id.replace(/\.mdx?$/, '')) && post.id.replace(/\.mdx?$/, '') !== currentSlug && !post.data.draft && !post.data.noindex)
+	: [];
 const saleCandidates = Object.entries(_allTrackerEntries)
 	.filter(([, entry]) => dealState(entry, Date.now()) === 'live')
 	.map(([name, entry]) => ({ name, entry, category: categoryForProduct(name, entry, _bundleNames.has(name)) }))
@@ -1370,7 +1374,7 @@ const showInlineDeals = (rawBody.match(/^## /gm) ?? []).length >= 5 && saleCards
 						</div>
 					)}
 
-					{guidePosts.length > 0 && <section class="related-guides" aria-label="Related guides"><h2>Related guides</h2><div class="inline-card-grid">{guidePosts.map(post => <GuideCard post={post} />)}</div></section>}
+					{(guidePosts.length > 0 || crossGuides.length > 0) && <section class="related-guides" aria-label="Related guides"><h2>Related guides</h2><div class="inline-card-grid">{[...crossGuides, ...guidePosts.filter(post => !crossGuides.some(guide => guide.id === post.id))].slice(0, 3).map(post => <GuideCard post={post} />)}</div></section>}
 					{isEvergreen && <NewsletterForm />}
 
 					<AuthorBox />
