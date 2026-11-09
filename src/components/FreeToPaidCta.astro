@@ -1,0 +1,17 @@
+---
+import { pbLink, slugify } from '../lib/priceUtils';
+const { model } = Astro.props;
+const pbUrl = model.showPrice ? pbLink(model.entry.pb_url, 'chan=freecta', { placement: 'free-cta', campaign: model.slug, data1: model.slug }) : null;
+---
+<aside class="free-paid-cta" aria-label="Paid plugin price information">
+  <span class="ad-label">[Ad]</span>
+  <h2>{model.heading}</h2>
+  <p>{model.body}</p>
+  <div class="actions"><a href={`/plugin-prices/${slugify(model.name)}/`}>See price history</a>{pbUrl && <a href={pbUrl} target="_blank" rel="noopener sponsored">Check current price</a>}</div>
+</aside>
+<style>
+.free-paid-cta{border:1px solid var(--border);border-radius:var(--radius);padding:1.25rem;margin:2rem 0 5rem;background:var(--bg-card)}
+.free-paid-cta h2{margin:.4rem 0}.ad-label{font-size:.75rem;color:var(--text-muted)}
+.actions{display:flex;gap:.75rem;flex-wrap:wrap}.actions a{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:.65rem 1rem;border:1px solid var(--accent);border-radius:4px;text-align:center}
+@media(max-width:600px){.actions{flex-direction:column}.actions a{width:100%}}
+</style>

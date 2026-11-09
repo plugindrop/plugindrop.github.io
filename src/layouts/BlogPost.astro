@@ -23,6 +23,9 @@ import PlanTable from '../components/PlanTable.astro';
 import LegacyFactCard from '../components/LegacyFactCard.astro';
 import DealMath from '../components/DealMath.astro';
 import AlternativesRail from '../components/AlternativesRail.astro';
+import FreeToPaidCta from '../components/FreeToPaidCta.astro';
+import freeToPaidMap from '../data/free_to_paid_map.json';
+import { freeToPaid } from '../lib/freeToPaid.mjs';
 import NotableUsers from '../components/NotableUsers.astro';
 import notableUsers from '../data/notable_users.json';
 import NewerVersionNotice from '../components/NewerVersionNotice.astro';
@@ -68,6 +71,7 @@ import {
 type Props = CollectionEntry<'blog'>['data'] & { readingTime?: string; rawBody?: string; slug?: string };
 
 const { title, description, pubDate, updatedDate, heroImage, tags = [], affiliate, dealPrice, originalPrice, discount, saleExpiry, saleExpirySource, score, allTimeLow, evergreen, onSaleNow, bundleValue, noindex, priceTrack = [], productKey, readingTime = '3 min read', rawBody = '', slug: currentSlug = '' } = Astro.props;
+const freePaidModel = freeToPaid(currentSlug, freeToPaidMap, priceDataRaw);
 const imageStr = typeof heroImage === 'string' ? heroImage : undefined;
 // PR-8 (2026-09-25): a fallback-guessed saleExpiry is not a real deadline —
 // only show the countdown / "Ends" date / priceValidUntil when it's trusted.
@@ -1321,6 +1325,7 @@ const showInlineDeals = (rawBody.match(/^## /gm) ?? []).length >= 5 && saleCards
 					</details>}
 					{_newerProduct && <NewerVersionNotice product={_newerProduct} />}
 					<slot />
+					{freePaidModel && <FreeToPaidCta model={freePaidModel} />}
 					{showInlineDeals && <section class="inline-deals" aria-label="On sale now"><p class="section-eyebrow">On sale now</p><div class="inline-card-grid">{saleCards.map(deal => <DealCard deal={deal} variant="grid" />)}</div></section>}
 					{_showFactCard && <section id="compare-table">
 						<h2>Compare the products in this guide</h2>
