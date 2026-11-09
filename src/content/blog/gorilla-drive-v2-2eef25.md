@@ -12,7 +12,7 @@ originalPrice: "$79.00"
 discount: "38% OFF"
 saleExpiry: "2026-12-09"
 saleExpirySource: "fallback"
-draft: false
+draft: true
 ---
 **TL;DR:** Gorilla Drive V2 drum bus compressor is currently 38% off its regular ~~$79~~ price at Plugin Boutique. It's built for fast, transparent drum bus glue with an added distortion stage for grit when you want it. [Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=Gorilla+Drive+V2&a_aid=69cb95abe1763&chan=art&data1=gorilla-drive-v2-2eef25&utm_source=plugindrop&utm_medium=article&utm_campaign=gorilla-drive-v2-2eef25).
 

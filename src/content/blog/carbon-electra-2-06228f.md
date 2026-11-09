@@ -11,7 +11,7 @@ dealPrice: "$69.00"
 originalPrice: "$99.00"
 discount: "30% OFF"
 saleExpiry: "2026-07-12"
-draft: false
+draft: true
 ---
 **TL;DR:** Carbon Electra 2 is 30% off at Plugin Boutique, dropping from ~~$129~~ to $69. PluginDrop has tracked this plugin across 107 observations since 2026-07-12, and the typical sale price lands at $9, with a low of $6.66 — so $69 is a weak discount by this plugin's own history. If scale-locked oscillators and wave terrain synthesis solve a problem you have today, [check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=Carbon+Electra+2&a_aid=69cb95abe1763&chan=art&data1=carbon-electra-2-06228f&utm_source=plugindrop&utm_medium=article&utm_campaign=carbon-electra-2-06228f); otherwise the data says wait.
 
