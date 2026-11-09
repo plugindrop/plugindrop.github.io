@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08",
+  "generated_at": "2026-11-09",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-11",
       "label": "November 2026",
       "is_current": true,
-      "generated_at": "2026-11-08",
-      "observations": 863,
-      "products_tracked": 212,
-      "products_on_sale": 85,
-      "on_sale_pct": 40.1,
-      "avg_discount_pct": 57.8,
-      "median_discount_pct": 54,
+      "generated_at": "2026-11-09",
+      "observations": 998,
+      "products_tracked": 229,
+      "products_on_sale": 101,
+      "on_sale_pct": 44.1,
+      "avg_discount_pct": 56.6,
+      "median_discount_pct": 51,
       "discount_buckets": {
         "1-19": 7,
-        "20-39": 9,
-        "40-59": 28,
-        "60+": 41
+        "20-39": 13,
+        "40-59": 35,
+        "60+": 46
       },
-      "all_time_low_hits": 62,
+      "all_time_low_hits": 64,
       "deepest_discounts": [
         {
           "name": "Thenatan Full Bundle",
@@ -166,14 +166,14 @@
           "pb_url": "/product/1-Instruments/64-Virtual-Instruments/12454-MODO-BASS-2"
         },
         {
-          "name": "Rekraft",
-          "slug": "rekraft",
+          "name": "Sonnox Producer Power Bundle Oxford Inflator Oxford Limiter",
+          "slug": "sonnox-producer-power-bundle-oxford-inflator-oxford-limiter",
           "category": "Other",
-          "regular": 119.0,
-          "sale": 19.0,
-          "pct_off": 84,
-          "date": "2026-11-02",
-          "pb_url": "/product/2-Effects/53-Multi-Effect-/12062-Rekraft"
+          "regular": 420.0,
+          "sale": 64.0,
+          "pct_off": 85,
+          "date": "2026-11-08",
+          "pb_url": "/product/81-Bundles/39-Effects-Bundles/16123-Sonnox-Producer-Power-Bundle-Oxford-Inflator-Oxford-Limiter"
         }
       ],
       "all_time_low_products": [
@@ -286,10 +286,10 @@
       "by_category": [
         {
           "category": "Other",
-          "tracked": 133,
-          "on_sale": 61,
-          "on_sale_pct": 45.9,
-          "avg_discount_pct": 62.7
+          "tracked": 150,
+          "on_sale": 77,
+          "on_sale_pct": 51.3,
+          "avg_discount_pct": 60.1
         },
         {
           "category": "Synth",
@@ -393,10 +393,10 @@
       "by_brand": [
         {
           "category": "Other",
-          "tracked": 77,
-          "on_sale": 47,
-          "on_sale_pct": 61.0,
-          "avg_discount_pct": 63.8
+          "tracked": 88,
+          "on_sale": 57,
+          "on_sale_pct": 64.8,
+          "avg_discount_pct": 60.5
         },
         {
           "category": "Eventide",
@@ -414,10 +414,10 @@
         },
         {
           "category": "Universal Audio",
-          "tracked": 15,
-          "on_sale": 10,
-          "on_sale_pct": 66.7,
-          "avg_discount_pct": 56.1
+          "tracked": 19,
+          "on_sale": 14,
+          "on_sale_pct": 73.7,
+          "avg_discount_pct": 53.5
         },
         {
           "category": "FabFilter",
@@ -490,6 +490,13 @@
           "avg_discount_pct": 82.8
         },
         {
+          "category": "Sonnox",
+          "tracked": 3,
+          "on_sale": 3,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 80.3
+        },
+        {
           "category": "Excite Audio",
           "tracked": 2,
           "on_sale": 2,
@@ -523,27 +530,20 @@
           "on_sale": 0,
           "on_sale_pct": 0.0,
           "avg_discount_pct": 0.0
-        },
-        {
-          "category": "Sonnox",
-          "tracked": 1,
-          "on_sale": 1,
-          "on_sale_pct": 100.0,
-          "avg_discount_pct": 75
         }
       ],
       "vs_previous_month": {
         "month": "2026-10",
-        "on_sale_pct_delta": -9.9,
-        "avg_discount_pct_delta": 0.7,
-        "products_tracked_delta": -314
+        "on_sale_pct_delta": -5.9,
+        "avg_discount_pct_delta": -0.5,
+        "products_tracked_delta": -297
       }
     },
     {
       "month": "2026-10",
       "label": "October 2026",
       "is_current": false,
-      "generated_at": "2026-11-08",
+      "generated_at": "2026-11-09",
       "observations": 3527,
       "products_tracked": 526,
       "products_on_sale": 263,
@@ -556,7 +556,7 @@
         "40-59": 91,
         "60+": 123
       },
-      "all_time_low_hits": 213,
+      "all_time_low_hits": 212,
       "deepest_discounts": [
         {
           "name": "TOTAL VI MAX 2",
@@ -1153,7 +1153,7 @@
       "month": "2026-09",
       "label": "September 2026",
       "is_current": false,
-      "generated_at": "2026-11-08",
+      "generated_at": "2026-11-09",
       "observations": 3561,
       "products_tracked": 503,
       "products_on_sale": 271,
@@ -1166,7 +1166,7 @@
         "40-59": 86,
         "60+": 132
       },
-      "all_time_low_hits": 222,
+      "all_time_low_hits": 221,
       "deepest_discounts": [
         {
           "name": "TOTAL VI MAX 2",
@@ -1777,7 +1777,7 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-11-08",
+      "generated_at": "2026-11-09",
       "observations": 3583,
       "products_tracked": 420,
       "products_on_sale": 255,
@@ -1790,7 +1790,7 @@
         "40-59": 91,
         "60+": 94
       },
-      "all_time_low_hits": 177,
+      "all_time_low_hits": 176,
       "deepest_discounts": [
         {
           "name": "TOTAL VI MAX 2",
@@ -2366,7 +2366,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-11-08",
+      "generated_at": "2026-11-09",
       "observations": 1964,
       "products_tracked": 286,
       "products_on_sale": 141,
