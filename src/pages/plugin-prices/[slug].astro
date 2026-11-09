@@ -417,7 +417,7 @@ if (hasVerifiedOffer) {
     "@type": "Offer",
     "price": freshObs,
     "priceCurrency": "USD",
-    "url": pbLink(entry.pb_url, 'chan=trk', { medium: 'tracker', campaign: 'plugin-prices', data1: slug }),
+    "url": new URL(Astro.url.pathname, Astro.site).toString(),
     "availability": "https://schema.org/InStock",
   };
 }
@@ -849,7 +849,7 @@ const faqLD = {
             {copyLine.kind === 'maker' && <p class="product-tagline" data-copy-kind="maker_quote"><q cite={copyLine.cite}>{copyLine.text}</q> — {copyLine.attribution}</p>}
             <div class="price-row"><span class={onSale ? 'price-current on-sale' : 'price-current'}>{formatPrice(current)}</span>{onSale && regular !== null && <span class="price-regular-strike">{formatPrice(regular)}</span>}{onSale && off > 0 && <span class="off-badge">-{off}%</span>}</div>
             <div class="product-signals">{rarity && <span data-rarity={rarity.type} title={rarity.full}>{rarity.text}</span>}{chips.map(chip => <span>{chip}</span>)}</div>
-            <div class="cta-row"><a href={pbLink(entry.pb_url, 'chan=trk', { medium: 'tracker', campaign: 'plugin-prices', data1: slug })} class="cta-primary" target="_blank" rel="noopener sponsored" data-slug={slug} data-hero-cta>{isSearchUrl(entry.pb_url) ? 'Find current price' : 'Check current price'}</a><a href="#price-history" class="cta-secondary">See full history</a></div>
+            <div class="cta-row"><a href={pbLink(entry.pb_url, 'chan=trk', { medium: 'tracker', campaign: 'plugin-prices', data1: slug, placement: 'pp-hero' })} class="cta-primary" target="_blank" rel="noopener sponsored" data-slug={slug} data-hero-cta>{isSearchUrl(entry.pb_url) ? 'Find current price' : 'Check current price'}</a><a href="#price-history" class="cta-secondary">See full history</a></div>
             <p class="last-checked">{checkedLabel}</p>
           </div>
         </div>
@@ -914,7 +914,7 @@ const faqLD = {
           </div>
         </div>
 
-      {makerQuote && makerAttribution && copyLine.kind !== 'maker' && <section class="page-section" data-maker-quote><h2 class="section-title">What the maker says</h2><blockquote><q cite={makerQuote.source_url}>{makerQuote.quote}</q> — {makerAttribution}</blockquote><a href={makerQuote.source_url} rel="nofollow noopener" target="_blank">Source</a></section>}
+      {makerQuote && makerAttribution && copyLine.kind !== 'maker' && <section class="page-section" data-maker-quote><h2 class="section-title">What the maker says</h2><blockquote><q cite={makerQuote.source_url}>{makerQuote.quote}</q> — {makerAttribution}</blockquote><a href={makerQuote.source_url} rel="nofollow noopener sponsored" target="_blank">Source</a></section>}
 
       <section class="page-section" id="decision">
         <h2 class="section-title">Buy now or wait? — what our records show</h2>
@@ -1200,7 +1200,7 @@ const faqLD = {
       </section>
 
     </main>
-    <div class="sticky-buy" data-sticky-buy hidden><span class="sticky-name">{name}</span><strong>{formatPrice(current)}</strong><a href={pbLink(entry.pb_url, 'chan=trk', { medium: 'tracker', campaign: 'plugin-prices', data1: slug })} class="cta-primary" target="_blank" rel="noopener sponsored" data-slug={slug}>{isSearchUrl(entry.pb_url) ? 'Find current price' : 'Check current price'}</a></div>
+    <div class="sticky-buy" data-sticky-buy hidden><span class="sticky-name">{name}</span><strong>{formatPrice(current)}</strong><a href={pbLink(entry.pb_url, 'chan=trk', { medium: 'tracker', campaign: 'plugin-prices', data1: slug, placement: 'pp-sticky' })} class="cta-primary" target="_blank" rel="noopener sponsored" data-slug={slug}>{isSearchUrl(entry.pb_url) ? 'Find current price' : 'Check current price'}</a></div>
     <Footer />
     <script src="/js/pip-preview.js" defer></script>
     <script is:inline>

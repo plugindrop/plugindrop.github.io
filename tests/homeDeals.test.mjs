@@ -99,7 +99,7 @@ test('alternative cards use their page channel and home keeps home channel', () 
   const tracked=entry(12345,'/images/product.jpg');
   const deal={name:'Waves Plate',entry:tracked,kind:'tracker',post:null,current:20,regular:100,off:80,score:1};
   const base={entries:{'Waves Plate':tracked},priceData:{plugins:{},bundles:{}},now};
-  for (const [source,chan] of [[undefined,'home'],['tracker','trk'],['article','art']]) {
+  for (const [source,chan] of [[undefined,'home'],['tracker','home'],['article','art']]) {
     const card=toCardModel(deal,{...base,source});
     assert.equal(new URL(card.ctaHref).searchParams.get('chan'),chan);
     assert.equal(new URL(card.href).searchParams.get('chan'),chan);

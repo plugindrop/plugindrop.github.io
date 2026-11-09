@@ -17,6 +17,7 @@ test('PB tag checker decodes entities, ignores third-party hosts and reports mis
     assert.equal(result.checked, 2);
     assert.equal(result.counts.chan, 0);
     assert.equal(result.counts.data1, 1);
-    assert.equal(result.failures, 4);
+    assert.equal(result.counts.data2, 2);
+    assert.equal(result.failures, 6);
   } finally { await rm(dir, { recursive: true, force: true }); }
 });

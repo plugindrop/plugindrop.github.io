@@ -52,7 +52,7 @@ export function formatPrice(val: number | null): string {
 // product-page URL instead of a relative path; those still need the
 // affiliate id appended (previously passed through untouched, losing
 // commission on 19 tracked products). Non-PB full URLs pass through as-is.
-export function pbLink(path: string, extraParams = '', ctx?: { medium?: string; campaign?: string; data1?: string }): string {
+export function pbLink(path: string, extraParams = '', ctx?: { medium?: string; campaign?: string; data1?: string; placement?: string }): string {
   if (!path) return '#';
   let url: URL;
   try { url = new URL(path, 'https://www.pluginboutique.com'); } catch { return path; }
@@ -60,7 +60,12 @@ export function pbLink(path: string, extraParams = '', ctx?: { medium?: string; 
   const aid = url.searchParams.get('a_aid');
   if (aid && aid !== AFF.slice('a_aid='.length)) return path;
   const extra = new URLSearchParams(extraParams);
-  const chan = url.searchParams.get('chan') ?? extra.get('chan') ?? 'trk';
+  let chan = url.searchParams.get('chan') ?? extra.get('chan');
+  if (!chan) {
+    if (import.meta.env?.DEV || process.env.NODE_ENV !== 'production') throw new Error(`pbLink: missing chan for ${path}`);
+    console.warn(`pbLink: missing chan for ${path}; using art`);
+    chan = 'art';
+  }
   const medium = ctx?.medium ?? ({ trk: 'tracker', home: 'homepage', art: 'article', rail: 'rail' } as Record<string, string>)[chan] ?? 'tracker';
   const campaign = ctx?.campaign ?? ctx?.data1 ?? 'site';
   const values = new URLSearchParams();
@@ -70,6 +75,7 @@ export function pbLink(path: string, extraParams = '', ctx?: { medium?: string; 
   values.set('utm_campaign', campaign);
   values.set('chan', chan);
   values.set('data1', ctx?.data1 ?? url.searchParams.get('utm_campaign') ?? extra.get('utm_campaign') ?? campaign);
+  values.set('data2', ctx?.placement ?? 'body');
   // Existing URL keys win, then the second argument, then inferred defaults.
   for (const [key, value] of extra) if (!url.searchParams.has(key)) url.searchParams.set(key, value);
   for (const [key, value] of values) if (!url.searchParams.has(key)) url.searchParams.set(key, value);

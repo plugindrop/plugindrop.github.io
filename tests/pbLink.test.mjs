@@ -8,7 +8,7 @@ test('pbLink adds all required tags with context and is idempotent', () => {
   const parsed = new URL(url);
   assert.deepEqual(Object.fromEntries(parsed.searchParams), {
     chan: 'art', a_aid: '69cb95abe1763', utm_source: 'plugindrop',
-    utm_medium: 'article', utm_campaign: 'post-facts', data1: 'post-facts',
+    utm_medium: 'article', utm_campaign: 'post-facts', data1: 'post-facts', data2: 'body',
   });
   assert.equal(pbLink(url, 'chan=home', { campaign: 'other' }), url);
 });
@@ -27,10 +27,30 @@ test('pbLink preserves existing tags and leaves third-party URLs alone', () => {
   const own = pbLink('https://www.pluginboutique.com/product/1?a_aid=69cb95abe1763&utm_medium=custom&chan=home');
   assert.equal(new URL(own).searchParams.get('utm_medium'), 'custom');
   assert.equal(new URL(own).searchParams.get('data1'), 'site');
-  const campaign = pbLink('/product/1?utm_campaign=existing');
+  const campaign = pbLink('/product/1?utm_campaign=existing', 'chan=art');
   assert.equal(new URL(campaign).searchParams.get('data1'), 'existing');
   const other = 'https://www.pluginboutique.com/product/1?a_aid=615ec2abe7821';
   assert.equal(pbLink(other, 'chan=art'), other);
   const archive = 'https://web.archive.org/web/https://www.pluginboutique.com/product/1';
   assert.equal(pbLink(archive), archive);
+});
+
+test('placement fills data2 without replacing existing data2', () => {
+  assert.equal(new URL(pbLink('/product/1', 'chan=trk', { placement: 'pp-hero' })).searchParams.get('data2'), 'pp-hero');
+  assert.equal(new URL(pbLink('/product/1?data2=original', 'chan=trk', { placement: 'pp-hero' })).searchParams.get('data2'), 'original');
+});
+
+test('missing chan throws in development and falls back to art in production', () => {
+  const previous = process.env.NODE_ENV;
+  try {
+    process.env.NODE_ENV = 'development';
+    assert.throws(() => pbLink('/product/1', '', { placement: 'body' }), /chan/);
+    process.env.NODE_ENV = 'production';
+    const originalWarn = console.warn;
+    const warnings = [];
+    console.warn = (message) => warnings.push(message);
+    try { assert.equal(new URL(pbLink('/product/1', '', { placement: 'body' })).searchParams.get('chan'), 'art'); }
+    finally { console.warn = originalWarn; }
+    assert.equal(warnings.length, 1);
+  } finally { process.env.NODE_ENV = previous; }
 });

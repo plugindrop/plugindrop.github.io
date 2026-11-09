@@ -267,17 +267,17 @@ export function ctaHref(post, match, rawBody, slug) {
     // truncation even when the utm_ params that follow get cut off.
     return basePbLink(
       match.entry.pb_url,
-      `chan=art&data1=${slug}&utm_source=plugindrop&utm_medium=article-cta&utm_campaign=${slug}`,
+      `chan=art&data1=${slug}&utm_source=plugindrop&utm_medium=article-cta&utm_campaign=${slug}`, { placement: 'deal-article' },
     );
   }
 
   if (rawBody) {
     const m = rawBody.match(/https:\/\/(?:www\.)?pluginboutique\.com\/product\/[^\s)\]"'<>]+/);
-    if (m) return basePbLink(m[0], `chan=art&data1=${slug}&utm_source=plugindrop&utm_medium=article-cta&utm_campaign=${slug}`);
+    if (m) return basePbLink(m[0], `chan=art&data1=${slug}&utm_source=plugindrop&utm_medium=article-cta&utm_campaign=${slug}`, { placement: 'deal-article' });
   }
 
   const aff = post?.data?.affiliate;
-  return aff ? basePbLink(aff, `chan=art&data1=${slug}&utm_source=plugindrop&utm_medium=article-cta&utm_campaign=${slug}`) : '#';
+  return aff ? basePbLink(aff, `chan=art&data1=${slug}&utm_source=plugindrop&utm_medium=article-cta&utm_campaign=${slug}`, { placement: 'deal-article' }) : '#';
 }
 
 function truncateAtWordBoundary(str, maxLen) {

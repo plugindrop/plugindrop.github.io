@@ -43,14 +43,14 @@ export function buildDealPool(entries, posts, now) {
   return [...byId.values()].sort((a, b) => b.score - a.score || b.off - a.off || a.name.localeCompare(b.name));
 }
 
-function cardChannel(source) { return { home: ['home', 'homepage', 'home-card'], tracker: ['trk', 'tracker', 'plugin-prices'], article: ['art', 'article', 'alternatives'] }[source] ?? ['home', 'homepage', 'home-card']; }
+function cardChannel(source) { return { home: ['home', 'homepage', 'home-card'], tracker: ['home', 'homepage', 'home-card'], article: ['art', 'article', 'alternatives'] }[source] ?? ['home', 'homepage', 'home-card']; }
 
 const sectionData1 = (name, section) => `${slugify(name)}${section ? `--${section}` : ''}`;
 export function cardTarget(deal, priceData, source = 'home', section) {
   if (deal.post && !isPostDealEnded(deal.post, { [deal.name]: deal.entry })) return `/posts/${deal.post.id}/`;
   if (deal.kind === 'tracker' && isProductNameIndexable(priceData, deal.name)) return `/plugin-prices/${slugify(deal.name)}/`;
   const channel = cardChannel(source);
-  return pbLink(deal.entry.pb_url, `chan=${channel[0]}`, { medium: channel[1], campaign: channel[2], data1: sectionData1(deal.name, section) });
+  return pbLink(deal.entry.pb_url, `chan=${channel[0]}`, { medium: channel[1], campaign: channel[2], data1: sectionData1(deal.name, section), placement: 'home-card' });
 }
 
 export function toCardModel(deal, { entries, priceData, now, videos = {}, copy = {}, facts = {}, source = 'home', section }) {
@@ -66,7 +66,7 @@ export function toCardModel(deal, { entries, priceData, now, videos = {}, copy =
   const rarity = deal.kind === 'tracker' ? rarityTag(deal.entry, now) : null;
   const image = resolveCardImage({ post: deal.post, entry: deal.entry, siblings });
   const channel = cardChannel(source);
-  const ctaHref = pbLink(deal.entry.pb_url, `chan=${channel[0]}`, { medium: channel[1], campaign: channel[2], data1: sectionData1(deal.name, section) });
+  const ctaHref = pbLink(deal.entry.pb_url, `chan=${channel[0]}`, { medium: channel[1], campaign: channel[2], data1: sectionData1(deal.name, section), placement: 'home-card' });
   const tagline = taglineForProduct(deal.name, copy);
   const aboveState = aboveUsualState(deal.entry, deal.current, now);
   const aboveUsual = aboveState?.above ?? false;

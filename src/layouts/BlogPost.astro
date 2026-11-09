@@ -1351,7 +1351,7 @@ const showInlineDeals = (rawBody.match(/^## /gm) ?? []).length >= 5 && saleCards
 							<div class="pb-deals-header">More plugin deals this week</div>
 							<ul class="pb-deals-list">
 								{featuredDeals.map(deal => {
-									const dealsBoxUrl = pbLink(deal.data.affiliate, 'chan=home', { medium: 'deals-box', campaign: 'best-deals', data1: `${currentSlug}-deals-box` });
+									const dealsBoxUrl = pbLink(deal.data.affiliate, 'chan=home', { medium: 'deals-box', campaign: 'best-deals', data1: `${currentSlug}-deals-box`, placement: 'deals-box' });
 									return (
 									<li class="pb-deal-item">
 										<a href={dealsBoxUrl} target="_blank" rel="noopener sponsored" class="pb-deal-link">
@@ -1361,7 +1361,7 @@ const showInlineDeals = (rawBody.match(/^## /gm) ?? []).length >= 5 && saleCards
 									</li>
 								);})}
 							</ul>
-							<a href={`https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=deals-box&utm_campaign=see-all&chan=home&data1=${currentSlug}-deals-box`} class="pb-deals-more" target="_blank" rel="noopener sponsored">See all current deals →</a>
+							<a href={pbLink('/deals', 'chan=home', { medium: 'deals-box', campaign: 'see-all', data1: `${currentSlug}-deals-box`, placement: 'deals-box' })} class="pb-deals-more" target="_blank" rel="noopener sponsored">See all current deals →</a>
 						</div>
 					)}
 
@@ -1418,7 +1418,7 @@ const showInlineDeals = (rawBody.match(/^## /gm) ?? []).length >= 5 && saleCards
 		) : (
 			<div class="sticky-cta sticky-cta-guide" id="sticky-cta">
 				<span class="sticky-title">{_maxLiveOff ? `Today's plugin deals: up to ${_maxLiveOff}% off` : 'Browse current plugin deals'}</span>
-				<a href={`https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=sticky&utm_campaign=guide-cta&chan=home&data1=${currentSlug}-sticky-cta`} class="deal-cta-btn sticky-cta-link" target="_blank" rel="noopener sponsored">
+				<a href={pbLink('/deals', 'chan=home', { medium: 'sticky', campaign: 'guide-cta', data1: `${currentSlug}-sticky-cta`, placement: 'sticky-guide' })} class="deal-cta-btn sticky-cta-link" target="_blank" rel="noopener sponsored">
 					Browse Deals →
 				</a>
 				<button class="sticky-cta-close" id="sticky-cta-close" aria-label="Dismiss">✕</button>

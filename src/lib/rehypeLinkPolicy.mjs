@@ -7,7 +7,7 @@ export default function rehypeLinkPolicy() {
     const slug = path.basename(file?.path ?? file?.history?.[0] ?? 'article').replace(/\.mdx?$/i, '');
     function tagAffiliateLinks(node) {
       if (node.type === 'element' && node.tagName === 'a' && /^https?:\/\//i.test(node.properties?.href ?? '')) {
-        node.properties.href = pbLink(node.properties.href, '', { campaign: slug, data1: slug });
+        node.properties.href = pbLink(node.properties.href, 'chan=art', { campaign: slug, data1: slug, placement: 'body' });
       }
       for (const child of node.children ?? []) tagAffiliateLinks(child);
     }

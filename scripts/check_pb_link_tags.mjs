@@ -3,7 +3,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const OWN_AID = '69cb95abe1763';
-const REQUIRED = ['chan', 'data1', 'utm_source', 'utm_medium', 'utm_campaign'];
+const REQUIRED = ['chan', 'data1', 'data2', 'utm_source', 'utm_medium', 'utm_campaign'];
 
 function decodeEntities(value) {
   return value.replace(/&(?:amp|#38|#x26);/gi, '&');
