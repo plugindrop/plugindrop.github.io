@@ -1352,6 +1352,13 @@
     "source": "article_embed",
     "official": true
   },
+  "Native Instruments Massive XL": {
+    "video_id": "Clok_r58WeA",
+    "title": "Introducing Massive XL | Native Instruments",
+    "channel": "Native Instruments",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Native Instruments Raum": {
     "video_id": "A8Ry94NDve0",
     "title": "RAUM Walkthrough | Native Instruments",
@@ -1636,6 +1643,20 @@
     "score": 9,
     "source": "yt_api_fill",
     "official": false
+  },
+  "SSL 4K B": {
+    "video_id": "X0G7oGdBJ4Y",
+    "title": "SSL 4K B Channel Strip plug-in and history of the SL 4000 B console with Chris Jenkins",
+    "channel": "Solid State Logic",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "SSL Blitzer": {
+    "video_id": "JwrWXTV2PL0",
+    "title": "SSL Blitzer Plug-in Tutorial: Overheads, drum bus, lead vocals and full mix processing.",
+    "channel": "Solid State Logic",
+    "score": 11,
+    "source": "yt_api_fill"
   },
   "SSL Native X-Comp": {
     "video_id": "PMB0_DnCbKI",
