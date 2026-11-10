@@ -194,7 +194,9 @@ const alertLabel = alertTargetPrice !== null
   : 'Alert me if it ever drops';
 
 // --- Provenance: when we actually last scraped this product (D4) --------
-const checkedDate = latestCheckedDate(entry);
+const ownCheckedDate = latestCheckedDate(entry);
+const polledDate = lastCheck ? new Date(`${lastCheck}T00:00:00Z`) : null;
+const checkedDate = ownCheckedDate && polledDate ? (polledDate > ownCheckedDate ? polledDate : ownCheckedDate) : (polledDate ?? ownCheckedDate);
 const checkedLabel = checkedDate
   ? `Last checked: ${formatCheckedDate(checkedDate)}`
   : 'Check date unknown';
