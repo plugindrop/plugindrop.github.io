@@ -12,6 +12,7 @@ originalPrice: "$129.00"
 discount: "77% OFF"
 saleExpiry: "2026-10-31"
 draft: false
+productKey: "InstaComposer 4"
 ---
 If you build melodies, chords, or full song sketches from scratch, InstaComposer 4 is worth a look right now. It's priced at $29.9, matching its lowest tracked point across three observations since 2026-10-14.
 

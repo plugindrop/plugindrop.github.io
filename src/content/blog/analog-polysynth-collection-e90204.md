@@ -13,6 +13,7 @@ discount: "60% OFF"
 saleExpiry: "2026-11-02"
 saleExpirySource: "fallback"
 draft: false
+productKey: "Analog Polysynth Collection"
 ---
 If you only add one synth bundle to your rack this quarter, make it this one — it collects five classic Roland polysynth emulations at the lowest price PluginDrop has tracked for the set.
 

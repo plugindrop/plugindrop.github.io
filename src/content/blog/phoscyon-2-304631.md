@@ -12,6 +12,7 @@ originalPrice: "$119.00"
 discount: "50% OFF"
 saleExpiry: "2026-10-11"
 draft: false
+productKey: "Phoscyon 2"
 ---
 **TL;DR:** D16 Group's Phoscyon 2 TB-303 emulation is 50% off its regular ~~$119~~ price at Plugin Boutique. It ships with over 800 factory presets and patterns, a resizable GUI, and MIDI Learn for mapping hardware controllers. Check the [product page](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9541-Phoscyon-2?a_aid=69cb95abe1763&chan=art&data1=phoscyon-2-304631&utm_source=plugindrop&utm_medium=article&utm_campaign=phoscyon-2-304631) for the current checkout price.
 

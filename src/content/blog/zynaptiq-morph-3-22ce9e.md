@@ -12,6 +12,7 @@ discount: "53% OFF"
 draft: false
 saleExpiry: "2026-09-25"
 saleExpirySource: "fallback"
+productKey: "MORPH 3"
 ---
 **TL;DR:** Observed at $69 (regular $149) before the estimated 2026-09-25 expiry; the sale has ended or was not confirmed afterward. Check the live listing for the current price.
 

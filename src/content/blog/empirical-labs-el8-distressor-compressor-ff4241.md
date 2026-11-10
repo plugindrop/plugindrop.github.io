@@ -15,6 +15,7 @@ discount: "80% OFF"
 draft: false
 priceTrack:
   - "Empirical Labs EL8 Distressor Compressor"
+productKey: "Empirical Labs EL8 Distressor Compressor"
 ---
 
 **TL;DR:** The EL8 Distressor is Universal Audio's UAD plugin model of the Empirical Labs Distressor hardware compressor, sold at Plugin Boutique. PluginDrop's price history shows a regular price of **$199** and a most recent tracked price of **$39** (80% off) with a listed end date of **November 1, 2026** (latest tracker check: 2026-10-04). The lowest price recorded was $29. End dates have moved before, so [confirm the price on the Plugin Boutique listing](https://www.pluginboutique.com/product/2-Effects/8-Compressor/11502-Empirical-Labs-EL8-Distressor-Compressor?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=empirical-labs-el8-distressor-compressor-ff4241&chan=art&data1=empirical-labs-el8-distressor-compressor-ff4241) before buying.

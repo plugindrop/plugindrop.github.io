@@ -12,6 +12,7 @@ discount: "85% OFF"
 draft: false
 saleExpiry: "2026-09-24"
 saleExpirySource: "fallback"
+productKey: "SSL Native X-Echo"
 ---
 The price tracker recorded SSL Native X-Echo at $15 against a $99 regular price. Check the current listing for today's price.
 

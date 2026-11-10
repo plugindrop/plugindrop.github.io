@@ -13,6 +13,7 @@ discount: "44% OFF"
 saleExpiry: "2026-11-02"
 saleExpirySource: "fallback"
 draft: false
+productKey: "Sonible smart chain"
 ---
 **TL;DR:** Sonible smart:chain is $99, down from a regular price of ~~$179~~ — a 44% discount. PluginDrop has tracked $99 as the price across all 23 checks recorded since 2026-09-01, making this an everyday price rather than a flash sale. [Get it at PluginFox](https://pluginfox.com/search?aff=580&utm_source=plugindrop&utm_medium=article&utm_campaign=sonible-smart-chain-4e492e) if a single channel-strip plugin fits your mixing workflow.
 

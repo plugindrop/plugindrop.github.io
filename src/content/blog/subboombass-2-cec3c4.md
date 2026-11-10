@@ -12,6 +12,7 @@ originalPrice: "$99.00"
 discount: "30% OFF"
 saleExpiry: "2026-10-20"
 draft: false
+productKey: "SubBoomBass 2"
 ---
 **TL;DR:** SubBoomBass 2 from Rob Papen is 30% off its ~~$99~~ regular price at Plugin Boutique. The synth adds NKS compatibility, MPE support, and a granular resynthesis mode built specifically for low-end sound design. [Check the current SubBoomBass 2 deal at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/3951-SubBoomBass-2?a_aid=69cb95abe1763&chan=art&data1=subboombass-2-cec3c4&utm_source=plugindrop&utm_medium=article&utm_campaign=subboombass-2-cec3c4).
 

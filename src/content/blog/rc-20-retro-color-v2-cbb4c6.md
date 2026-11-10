@@ -13,6 +13,7 @@ discount: "23% OFF"
 saleExpiry: "2026-12-06"
 saleExpirySource: "fallback"
 draft: false
+productKey: "RC-20 Retro Color v2"
 ---
 **TL;DR:** RC 20 Retro Color v2 is discounted at Plugin Boutique, cutting into its regular ~~$129~~ list price. It's a vintage-style color and saturation plugin built around tape, vinyl, and lo-fi degradation effects for mix bus and sound-design work. Check the [product page](https://www.pluginboutique.com/product/2-Effects/44-Saturation/18184-RC-20-Retro-Color-v2?a_aid=69cb95abe1763&chan=art&data1=rc-20-retro-color-v2-cbb4c6&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-retro-color-v2-cbb4c6) for the current sale price before it ends.
 

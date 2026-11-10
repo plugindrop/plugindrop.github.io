@@ -13,6 +13,7 @@ discount: "47% OFF"
 draft: false
 saleExpiry: "2026-11-01"
 saleExpirySource: "tracker_until"
+productKey: "UAD EMT 140 Classic Plate Reverberator"
 ---
 If you only install one, make it EMT 140 Classic Plate Reverberator if you specifically need a UAD Native plate reverb modeled after three vintage EMT 140 units.
 

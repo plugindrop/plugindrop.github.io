@@ -15,6 +15,7 @@ discount: "65% OFF"
 saleExpiry: "2026-11-03"
 saleExpirySource: "fallback"
 draft: false
+productKey: "JUNO-60"
 ---
 If you want Roland's signature chorus-laden analog poly sound inside your DAW without hunting down vintage hardware, JUNO 60 at 65% off its $199 list price is worth a look this week.
 
