@@ -11,6 +11,7 @@ const { trackingSince } = siteStats(priceData);
 import { staticRedirects } from '../../data/plugin_price_redirects.mjs';
 import { indexablePricePagePaths } from '../../lib/indexPolicy.mjs';
 import { pbLink, formatPrice, isSearchUrl } from '../../lib/priceUtils';
+import { monthEventDifference } from '../../lib/hubPriceFacts.mjs';
 
 interface DeepDiscount {
   name: string; slug: string; category: string;
@@ -60,6 +61,7 @@ export function getStaticPaths() {
 }
 
 const month = Astro.props.month as MonthBlock;
+const eventDifference = monthEventDifference(priceData, month.month);
 const deepestDiscounts = month.deepest_discounts.filter((d) => !isSearchUrl(d.pb_url));
 const idx = months.findIndex((m) => m.month === month.month);
 // months は新しい順。prev = 1つ古い月（idx+1）、next = 1つ新しい月（idx-1）。
@@ -252,6 +254,14 @@ const datasetLD = {
             <span class="bucket-count mono">{month.discount_buckets[key] ?? 0}</span>
           </div>
         ))}
+      </section>
+      <section class="page-section">
+        <h2 class="section-title">Change from {eventDifference.previousMonth}</h2>
+        <div class="data-table-wrap"><table class="data-table"><thead><tr><th>Event</th><th>{month.month}</th><th>Change</th></tr></thead><tbody>
+          <tr><td>Sale starts</td><td>{eventDifference.starts.count}</td><td>{fmtDelta(eventDifference.starts.delta)}</td></tr>
+          <tr><td>Sale ends</td><td>{eventDifference.ends.count}</td><td>{fmtDelta(eventDifference.ends.delta)}</td></tr>
+          <tr><td>New recorded lows</td><td>{eventDifference.newLows.count}</td><td>{fmtDelta(eventDifference.newLows.delta)}</td></tr>
+        </tbody></table></div>
       </section>
 
       <section class="page-section">

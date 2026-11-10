@@ -15,6 +15,7 @@ import { isSearchUrl, pbLink, formatPrice } from '../../lib/priceUtils';
 import { detectBrand } from '../../lib/brands.mjs';
 import { countIndexableBrandProducts } from '../../lib/brandIndexability.mjs';
 import { brandTrends } from '../../lib/priceTrends.mjs';
+import { productEvidenceRows } from '../../lib/hubPriceFacts.mjs';
 
 // --- Shared types ------------------------------------------------------------
 interface HistoryEntry {
@@ -164,6 +165,7 @@ const rows: Row[] = products
     };
   })
   .sort((a, b) => a.name.localeCompare(b.name));
+const evidenceByName = new Map(productEvidenceRows(products).map(row => [row.name, row]));
 
 const onSaleRows = rows.filter((r) => r.onSale);
 const saleCards = dealPool.filter(deal => products.some(product => product.name === deal.name)).map(deal => toCardModel(deal, { entries: cardEntries, priceData, now: cardNow, videos, copy: dealCopy })).sort((a,b) => Number(!!b.image.src) - Number(!!a.image.src));
@@ -346,6 +348,9 @@ const itemListLD = {
               <th>Regular</th>
               <th>Typical Off</th>
               <th>Lowest Tracked</th>
+              <th>Sale checks</th>
+              <th>Max recorded discount</th>
+              <th>Last sale</th>
               <th></th>
             </tr>
           </thead>
@@ -370,6 +375,9 @@ const itemListLD = {
                 </td>
                 <td>{r.onSale && r.off > 0 ? <span class="off-badge">-{r.off}%</span> : '—'}</td>
                 <td class="mono">{formatPrice(r.allTimeLow)}</td>
+                <td class="mono">{evidenceByName.get(r.name)?.saleShare ? `${evidenceByName.get(r.name)!.saleShare!.saleDays}/${evidenceByName.get(r.name)!.saleShare!.totalDays}` : '—'}</td>
+                <td class="mono">{evidenceByName.get(r.name)?.maxDiscount == null ? '—' : `${evidenceByName.get(r.name)!.maxDiscount}%`}</td>
+                <td class="mono">{evidenceByName.get(r.name)?.lastSale ?? '—'}</td>
                 <td>
                   <a href={pbLink(r.pbUrl, 'chan=trk', { campaign: `brand-${slugifyProduct(brand)}`, data1: r.slug, placement: 'brand' })} class="cta-btn" target="_blank" rel="noopener sponsored">See deal</a>
                 </td>

@@ -16,6 +16,7 @@ import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
 import { isTagPageIndexable, slugifyTag } from '../../lib/indexPolicy.mjs';
+import { tagArticlePriceRows } from '../../lib/hubPriceFacts.mjs';
 const renderTrackerEntries = { ...(priceDataRaw.bundles ?? {}), ...(priceDataRaw.plugins ?? {}) };
 function displayFor(post: any) {
   const match = findTrackerEntryForPost(post, renderTrackerEntries, post.body);
@@ -61,6 +62,9 @@ const allPosts = await getCollection('blog');
 const posts = allPosts
 	.filter(p => !p.data.draft && !p.data.noindex && !isArticleDealPastWindow(p.data) && (p.data.tags ?? []).some((t: string) => slugifyTag(t) === tag))
 	.sort((a, b) => Number(prioritySlugs.has(b.id)) - Number(prioritySlugs.has(a.id)) || b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const priceRows = tagArticlePriceRows(posts, posts.map(post => findTrackerEntryForPost(post, renderTrackerEntries, post.body)), priceDataRaw);
+// The current rendered pages for these tags are close enough to 600 words for the per-article data to clear it.
+const showPriceRows = new Set(['mastering', 'tutorials']).has(tag) && posts.length >= 13;
 
 const tagDisplay = tag.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
 
@@ -165,6 +169,7 @@ const breadcrumbLD = {
 									<p class="post-description">{post.data.description}</p>
 									<span class="post-meta">
 										<FormattedDate date={post.data.pubDate} />
+										{showPriceRows && <span> · {priceRows.find(row => row.id === post.id)?.lastCheck ? `Price record · checked ${priceRows.find(row => row.id === post.id)?.lastCheck}` : 'No price record'}</span>}
 										{display.deal && post.data.dealPrice && !isPostDealEnded(post, renderTrackerEntries) && <span class="post-price">{post.data.dealPrice}</span>}
 									</span>
 								</div>

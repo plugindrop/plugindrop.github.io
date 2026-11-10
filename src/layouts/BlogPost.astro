@@ -48,6 +48,7 @@ import { comparisonPriceFacts, sameCategoryPeers } from '../lib/priceInsights.mj
 import { discountCheck } from '../lib/discountCheck.mjs';
 import { toCardModel } from '../lib/homeDeals.mjs';
 import { isPricePageIndexable } from '../lib/indexPolicy.mjs';
+import { dealsBoxLinks } from '../lib/dealsBoxLinks.mjs';
 import { SITE_TITLE } from '../consts';
 import priceDataRaw from '../data/price_history.json';
 import { type PriceEntry, formatPrice, pbLink, regularPriceOf } from '../lib/priceUtils';
@@ -474,20 +475,20 @@ const relatedPosts = allPosts
 // 短い記事ほど汎用部品の比率が過剰になるため、本文語数が閾値未満の記事では出さない。
 // 記事固有のCTA(deal-cta-box / sticky CTA / 本文内リンク)はガード対象外。
 const _bodyWords = rawBody.replace(/```[\s\S]*?```/g, ' ').split(/\s+/).filter(Boolean).length;
-const MIN_WORDS_PB_DEALS_BOX = 0; // pb-deals-box(約5リンク)
+const MIN_WORDS_PB_DEALS_BOX = 0;
 const MIN_WORDS_DEALS_RAIL = 0; // TopDeals サイドバー(約14リンク)
 const showGenericDealsBox = _bodyWords >= MIN_WORDS_PB_DEALS_BOX;
 const showDealsRail = _bodyWords >= MIN_WORDS_DEALS_RAIL;
 
 // Featured PB deals box — shown on evergreen guide pages (no affiliate link)
 const isEvergreen = !!evergreen && !affiliate;
-const featuredDeals = isEvergreen ? allPosts
+const featuredDeals = isEvergreen ? dealsBoxLinks(allPosts
 	.filter(p => !p.data.draft &&
 		p.data.affiliate?.includes('pluginboutique.com') &&
 		p.data.dealPrice &&
 		!isPostDealEnded(p, _allTrackerEntries))
 	.sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
-	.slice(0, 4) : [];
+	.map(p => ({ post: p, productName: findTrackerEntryForPost(p, _allTrackerEntries, p.body)?.name ?? null })), priceData) : [];
 const guidePosts = [...relatedPosts].sort((a, b) => Number(!!a.data.affiliate) - Number(!!b.data.affiliate)).slice(0, 3);
 const crossGuideSlugs = ['best-free-plugins-fl-studio', 'best-free-plugins-ableton', 'best-free-synth-plugins'];
 const crossGuides = crossGuideSlugs.includes(currentSlug)
@@ -1360,12 +1361,12 @@ const showInlineDeals = (rawBody.match(/^## /gm) ?? []).length >= 5 && saleCards
 							<div class="pb-deals-header">More plugin deals this week</div>
 							<ul class="pb-deals-list">
 								{featuredDeals.map(deal => {
-									const dealsBoxUrl = pbLink(deal.data.affiliate, 'chan=home', { medium: 'deals-box', campaign: 'best-deals', data1: `${currentSlug}-deals-box`, placement: 'deals-box' });
+									const dealsBoxUrl = deal.pricePath ?? pbLink(deal.post.data.affiliate, 'chan=home', { medium: 'deals-box', campaign: 'best-deals', data1: `${currentSlug}-deals-box`, placement: 'deals-box' });
 									return (
 									<li class="pb-deal-item">
-										<a href={dealsBoxUrl} target="_blank" rel="noopener sponsored" class="pb-deal-link">
-											<span class="pb-deal-title">{deal.data.title}</span>
-											{deal.data.dealPrice && <span class="pb-deal-price">{deal.data.dealPrice}</span>}
+										<a href={dealsBoxUrl} target={deal.pricePath ? undefined : '_blank'} rel={deal.pricePath ? undefined : 'noopener sponsored'} class="pb-deal-link">
+											<span class="pb-deal-title">{deal.post.data.title}</span>
+											{deal.post.data.dealPrice && <span class="pb-deal-price">{deal.post.data.dealPrice}</span>}
 										</a>
 									</li>
 								);})}
