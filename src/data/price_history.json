@@ -94228,7 +94228,9 @@
           "until": "2026-11-10"
         }
       ],
-      "image": "/images/plugin-prices/uad-capitol-mastering-compressor.jpg"
+      "image": "/images/plugin-prices/uad-capitol-mastering-compressor.jpg",
+      "image_lg": "/images/plugin-prices/uad-capitol-mastering-compressor-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Dream 65 Reverb Amp": {
       "pb_url": "/product/2-Effects/18-Amp-Simulator/13321-UAD-Dream-65-Reverb-Amp",
@@ -94420,7 +94422,9 @@
           "until": "2026-11-10"
         }
       ],
-      "image": "/images/plugin-prices/uad-dream-65-reverb-amp.jpg"
+      "image": "/images/plugin-prices/uad-dream-65-reverb-amp.jpg",
+      "image_lg": "/images/plugin-prices/uad-dream-65-reverb-amp-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD EMT 140 Classic Plate Reverberator": {
       "pb_url": "/product/2-Effects/17-Reverb/17663-EMT-140-Classic-Plate-Reverberator",
@@ -95038,7 +95042,9 @@
           "until": "2026-11-10"
         }
       ],
-      "image": "/images/plugin-prices/uad-enigmatic-82-overdrive-special-amp.jpg"
+      "image": "/images/plugin-prices/uad-enigmatic-82-overdrive-special-amp.jpg",
+      "image_lg": "/images/plugin-prices/uad-enigmatic-82-overdrive-special-amp-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Fairchild Tube Limiter Collection": {
       "pb_url": "/product/2-Effects/9-Limiter/10312-Fairchild-Tube-Limiter-Collection",
@@ -96857,7 +96863,9 @@
           "until": "2026-11-10"
         }
       ],
-      "image": "/images/plugin-prices/uad-lion-68-super-lead-amp.jpg"
+      "image": "/images/plugin-prices/uad-lion-68-super-lead-amp.jpg",
+      "image_lg": "/images/plugin-prices/uad-lion-68-super-lead-amp-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Little Labs Voice of God": {
       "pb_url": "/product/2-Effects/42-Enhancer/17066-Little-Labs-Voice-of-God",
@@ -100374,7 +100382,9 @@
           "until": "2026-11-10"
         }
       ],
-      "image": "/images/plugin-prices/uad-ruby-63-top-boost-amp.jpg"
+      "image": "/images/plugin-prices/uad-ruby-63-top-boost-amp.jpg",
+      "image_lg": "/images/plugin-prices/uad-ruby-63-top-boost-amp-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD SSL 4000 E Channel Strip": {
       "pb_url": "/product/2-Effects/21-Channel-Strip/13324-SSL-4000-E-Channel-Strip",
@@ -101554,7 +101564,9 @@
           "until": "2026-11-10"
         }
       ],
-      "image": "/images/plugin-prices/uad-studio-d-chorus.jpg"
+      "image": "/images/plugin-prices/uad-studio-d-chorus.jpg",
+      "image_lg": "/images/plugin-prices/uad-studio-d-chorus-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Teletronix LA 3A Audio Leveler": {
       "pb_url": "/product/2-Effects/8-Compressor/10416-Teletronix-LA-3A-Audio-Leveler",
@@ -102609,7 +102621,9 @@
           "until": "2026-11-10"
         }
       ],
-      "image": "/images/plugin-prices/uad-vibe-analog-machines.jpg"
+      "image": "/images/plugin-prices/uad-vibe-analog-machines.jpg",
+      "image_lg": "/images/plugin-prices/uad-vibe-analog-machines-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Waterfall B3 Organ": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/10187-Waterfall-B3-Organ",
@@ -102964,7 +102978,9 @@
           "until": "2026-11-10"
         }
       ],
-      "image": "/images/plugin-prices/uad-waterfall-rotary-speaker.jpg"
+      "image": "/images/plugin-prices/uad-waterfall-rotary-speaker.jpg",
+      "image_lg": "/images/plugin-prices/uad-waterfall-rotary-speaker-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD Woodrow 55 Instrument Amplifier": {
       "pb_url": "/product/2-Effects/18-Amp-Simulator/14600-UAD-Woodrow-55-Instrument-Amplifier",
@@ -103162,7 +103178,9 @@
           "until": "2026-11-10"
         }
       ],
-      "image": "/images/plugin-prices/uad-woodrow-55-instrument-amplifier.jpg"
+      "image": "/images/plugin-prices/uad-woodrow-55-instrument-amplifier.jpg",
+      "image_lg": "/images/plugin-prices/uad-woodrow-55-instrument-amplifier-lg.jpg",
+      "image_lg_width": 625
     },
     "UAD dbx 160 Compressor Limiter": {
       "pb_url": "/product/2-Effects/8-Compressor/11176-dbx-160-Compressor-Limiter",
@@ -126261,7 +126279,10 @@
           "cur": "USD",
           "until": "2026-01-12"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/rc-20-retro-color-v2-upgrade.jpg",
+      "image_lg": "/images/plugin-prices/rc-20-retro-color-v2-upgrade-lg.jpg",
+      "image_lg_width": 625
     },
     "VocAlign 7 Pro Upgrade": {
       "pb_url": "/product/2-Effects/54-Vocal-Processing/17931-VocAlign-7-Pro-Upgrade",
@@ -126314,7 +126335,8 @@
           "cur": "USD",
           "until": "2026-12-01"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/vocalign-7-pro-upgrade.jpg"
     },
     "RC-20 Retro Color v2": {
       "pb_url": "/product/2-Effects/44-Saturation/18184-RC-20-Retro-Color-v2",
@@ -126367,7 +126389,8 @@
           "cur": "USD",
           "until": "2026-01-12"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/rc-20-retro-color-v2.jpg"
     },
     "VocAlign 7 Pro": {
       "pb_url": "/product/2-Effects/54-Vocal-Processing/17930-VocAlign-7-Pro",
@@ -126420,7 +126443,8 @@
           "cur": "USD",
           "until": "2026-12-01"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/vocalign-7-pro.jpg"
     },
     "UAD Native Classics Bundle": {
       "pb_url": "/product/81-Bundles/97-Various-Category/17615-UAD-Native-Classics-Bundle",
@@ -126464,7 +126488,8 @@
           "cur": "USD",
           "until": "2026-11-10"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-native-classics-bundle.jpg"
     },
     "Sonnox Producer Power Bundle Oxford Inflator Oxford Limiter": {
       "pb_url": "/product/81-Bundles/39-Effects-Bundles/16123-Sonnox-Producer-Power-Bundle-Oxford-Inflator-Oxford-Limiter",
@@ -126490,7 +126515,8 @@
           "cur": "USD",
           "until": "2026-12-17"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/sonnox-producer-power-bundle-oxford-inflator-oxford-limiter.jpg"
     },
     "Oberheim Matrix-12": {
       "pb_url": "/product/1-Instruments/4-Synth/18205-Oberheim-Matrix-12",
@@ -126516,7 +126542,8 @@
           "cur": "USD",
           "until": "2026-11-28"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/oberheim-matrix-12.jpg"
     },
     "KNOCK 2 Upgrade": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/18220-KNOCK-2-Upgrade",
@@ -126567,7 +126594,8 @@
           "cur": "USD",
           "until": "2026-12-06"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/sonic-bundle.jpg"
     },
     "KNOCK 2": {
       "pb_url": "/product/2-Effects/53-Multi-Effect-/17645-KNOCK-2",
@@ -126593,7 +126621,8 @@
           "cur": "USD",
           "until": "2026-12-01"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/knock-2.jpg"
     },
     "UAD Native Producer Bundle": {
       "pb_url": "/product/81-Bundles/97-Various-Category/17613-UAD-Native-Producer-Bundle",
@@ -126619,7 +126648,8 @@
           "cur": "USD",
           "until": "2026-11-10"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-native-producer-bundle.jpg"
     },
     "UAD Native Pro Bundle": {
       "pb_url": "/product/81-Bundles/97-Various-Category/17617-UAD-Native-Pro-Bundle",
@@ -126645,7 +126675,8 @@
           "cur": "USD",
           "until": "2026-11-10"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-native-pro-bundle.jpg"
     },
     "TONEX MAX": {
       "pb_url": "/product/2-Effects/18-Amp-Simulator/12452-TONEX-MAX",
@@ -126671,7 +126702,8 @@
           "cur": "USD",
           "until": "2026-11-11"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/tonex-max.jpg"
     },
     "Sonnox Vocal Production Bundle Oxford Inflator Claro": {
       "pb_url": "/product/2-Effects/54-Vocal-Processing/18171-Sonnox-Vocal-Production-Bundle-Oxford-Inflator-Claro",
@@ -126697,7 +126729,8 @@
           "cur": "USD",
           "until": "2026-12-17"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/sonnox-vocal-production-bundle-oxford-inflator-claro.jpg"
     },
     "UAD Native Studio Bundle": {
       "pb_url": "/product/81-Bundles/97-Various-Category/17616-UAD-Native-Studio-Bundle",
@@ -126723,7 +126756,8 @@
           "cur": "USD",
           "until": "2026-11-10"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-native-studio-bundle.jpg"
     },
     "SSL Blitzer": {
       "pb_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10384-SSL-Blitzer?a_aid=69cb95abe1763&chan=art&data2=deal-article",
@@ -126759,7 +126793,8 @@
       ],
       "article_slug": "ssl-blitzer-4287ec",
       "all_time_low": 19.99,
-      "typical_sale": 19.99
+      "typical_sale": 19.99,
+      "image": "/images/plugin-prices/ssl-blitzer.jpg"
     },
     "Evolve Elastic Lite": {
       "pb_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16352-Evolve-Elastic-Lite",
@@ -126777,7 +126812,8 @@
       ],
       "article_slug": "evolve-elastic-lite-327ffb",
       "all_time_low": 19.0,
-      "typical_sale": 19.0
+      "typical_sale": 19.0,
+      "image": "/images/plugin-prices/evolve-elastic-lite.jpg"
     },
     "UAD Capitol Studios": {
       "pb_url": "/product/2-Effects/17-Reverb/18187-UAD-Capitol-Studios",

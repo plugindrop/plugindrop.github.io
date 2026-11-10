@@ -14,7 +14,7 @@ discount: "80% OFF"
 saleExpiry: "2026-11-30"
 draft: false
 ---
-**TL;DR:** SSL Blitzer is discounted 80% off its regular $99 price at Plugin Boutique right now. It's a character compressor modeled on classic hardware behavior (think 1176 and LA-2A style response) with 10 selectable compression curves, a DRIVE stage, and an "all in" BLITZ! mode for aggressive leveling. Grab it on the [Plugin Boutique deal page](https://www.pluginboutique.com/search?q=SSL+Blitzer&a_aid=69cb95abe1763&chan=art&data1=ssl-blitzer-4287ec&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-blitzer-4287ec) while the markdown is live.
+**TL;DR:** SSL Blitzer is discounted 80% off its regular $99 price at Plugin Boutique right now. It's a character compressor modeled on classic hardware behavior (think 1176 and LA-2A style response) with 10 selectable compression curves, a DRIVE stage, and an "all in" BLITZ! mode for aggressive leveling. Grab it on the [Plugin Boutique deal page](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10384-SSL-Blitzer?a_aid=69cb95abe1763&chan=art&data1=ssl-blitzer-4287ec&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-blitzer-4287ec) while the markdown is live.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/JwrWXTV2PL0" title="80% Off SSL Blitzer — Character Compression for Vocals & Drums — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
