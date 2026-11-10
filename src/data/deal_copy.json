@@ -12743,5 +12743,80 @@
     "maker_quote": "Adjustments made in RePitch 2 are automatically reflected in VocAlign 7.",
     "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/17931-VocAlign-7-Pro-Upgrade",
     "maker_quote_retrieved": "2026-11-10"
+  },
+  "SSL Blitzer": {
+    "pbProductId": "10384",
+    "brand": null,
+    "product": "SSL Blitzer",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10384-SSL-Blitzer?a_aid=69cb95abe1763&chan=art&data2=deal-article",
+    "retrieved": "2026-11-11",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10384-SSL-Blitzer?a_aid=69cb95abe1763&chan=art&data2=deal-article",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-11-11",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "generic_or_ungrounded",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": null,
+    "maker_quote_source_url": null,
+    "maker_quote_retrieved": null
+  },
+  "Evolve Elastic Lite": {
+    "pbProductId": "16352",
+    "brand": null,
+    "product": "Evolve Elastic Lite",
+    "category": null,
+    "tagline": "Sample-based synth with Melt, Bounce, Stretch and Gloss macro effects",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16352-Evolve-Elastic-Lite",
+    "retrieved": "2026-11-11",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16352-Evolve-Elastic-Lite",
+    "tagline_source_quote": "macro effects: Melt, Bounce, Stretch and Gloss",
+    "tagline_checked": "2026-11-11",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": "The source of Evolve Elastic Lite’s sounds is its quad-layer engine.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16352-Evolve-Elastic-Lite",
+    "maker_quote_retrieved": "2026-11-11"
+  },
+  "UAD Capitol Studios": {
+    "pbProductId": "18187",
+    "brand": null,
+    "product": "UAD Capitol Studios",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/18187-UAD-Capitol-Studios",
+    "retrieved": "2026-11-11",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/18187-UAD-Capitol-Studios",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-11-11",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Hear your tracks through vintage microphones with setups curated by Capitol alum Steve Genewick.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/18187-UAD-Capitol-Studios",
+    "maker_quote_retrieved": "2026-11-11"
   }
 }

@@ -104201,6 +104201,36 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-01-10"
+        },
+        {
+          "date": "2022-03-26",
+          "regular": 48.72,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-06-20",
+          "regular": 33.76,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-02-14",
+          "regular": 23.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-04-27",
+          "regular": 19.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-07-03",
+          "regular": 19.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/usynth-core.jpg",
@@ -125775,6 +125805,14 @@
       "pb_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16352-Evolve-Elastic-Lite",
       "history": [],
       "article_slug": "evolve-elastic-lite-327ffb"
+    },
+    "UAD Capitol Studios": {
+      "pb_url": "/product/2-Effects/17-Reverb/18187-UAD-Capitol-Studios",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-11-10",
+      "history": []
     }
   }
 }
