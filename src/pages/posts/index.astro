@@ -422,7 +422,7 @@ function isSaleDeal(tags: string[], hasPriceOrAffiliate: boolean): boolean {
 										{display.deal && post.data.discount && (
 											<span class="price-discount">{post.data.discount}</span>
 										)}
-										{display.deal && saleExpiry && !expired && hasTrustedExpiry(post.data) && (
+										{display.deal && saleExpiry && !expired && hasTrustedExpiry(post.data) && !(/^\d{4}-\d{2}-\d{2}/.test(saleExpiry) && Date.parse(`${saleExpiry.slice(0, 10)}T23:59:59Z`) < Date.now()) && (
 											<span class="sale-ends">Ends {formatExpiry(saleExpiry)}</span>
 										)}
 									</>
