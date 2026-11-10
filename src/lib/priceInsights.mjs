@@ -125,11 +125,12 @@ const basisLine = (n, f) => f.basis.kind === 'page'
 const earlier = (f) => f.sales.slice(0, -1);
 const lowOf = (s) => Math.min(...s.map((x) => x.low));
 
-export function buildDecisionAnswers(name, f, availabilityAnswer) {
+export function buildDecisionAnswers(name, f, availabilityAnswer, { buildDate } = {}) {
   const out = [];
   const add = (key, q, parts) => out.push({ key, q, a: parts.filter(Boolean).join(' ') });
   if (f.state === 'on_sale') {
     const r = f.latestPriced, p = r.sale, e = earlier(f), m = lowOf(e);
+    const stale = buildDate && (days(r.date, buildDate) < 0 || days(r.date, buildDate) > 7);
     let comparison = 'This is the first sale our checks have caught.';
     if (e.length && p < m) comparison = `That is ${diff(m, p)} below ${e.length === 1 ? 'the one earlier sale' : `the lowest of the ${e.length} earlier sales`} we tracked (${money(m)}).`;
     else if (e.length && p === m && e.every((s) => s.low === m)) comparison = e.length === 1
@@ -143,15 +144,15 @@ export function buildDecisionAnswers(name, f, availabilityAnswer) {
     const pctPart = finite(r.regular) && r.regular > p ? r.reg_src === 'page'
       ? ` (${pct(p, r.regular)}% off ${money(r.regular)})`
       : ` (${pct(p, r.regular)}% below our reference list price of ${money(r.regular)})` : '';
-    add('compare', `How does today's ${money(p)} compare with past prices for ${name}?`, [
+    add('compare', stale ? `How did the ${money(p)} we last recorded compare with past prices for ${name}?` : `How does today's ${money(p)} compare with past prices for ${name}?`, [
       `Plugin Boutique listed ${name} at ${money(p)}${pctPart} on ${r.date}.`, comparison,
-      confirmedLine(f), archiveLine(f, p), unreadable(f)]);
+      confirmedLine(f), archiveLine(f, stale ? null : p), unreadable(f)]);
     const cur = f.sales.at(-1), done = e.filter((s) => !s.leftCensored);
     let duration = null;
     if (done.length === 1) duration = `The one earlier sale we could follow from start to finish was visible for ${plural(done[0].days, 'day')} (${done[0].start}${done[0].start === done[0].end ? '' : ` to ${done[0].end}`}).`;
     else if (done.length > 1 && done.every((s) => s.days === done[0].days)) duration = `The ${done.length} earlier sales we could follow from start to finish were each visible for ${plural(done[0].days, 'day')}.`;
     else if (done.length > 1) duration = `The ${done.length} earlier sales we could follow from start to finish were visible for ${nums(done.map((s) => s.days))} days.`;
-    const end = f.until ? `The store page said the offer runs until ${f.until} when we checked on ${r.date}.` : 'We have no end date from the store page for this sale.';
+    const end = f.until ? `The store page said the offer runs until ${f.until} when we checked on ${r.date}.` : null;
     const start = cur.start === r.date ? f.until ? 'This sale first appeared in that check.' : `This sale first appeared in our check on ${r.date}.`
       : cur.leftCensored ? `Every price check since our tracking began on ${cur.start} has shown it on sale.`
         : `Every price check since ${cur.start} has shown it on sale.`;
@@ -202,9 +203,9 @@ export function buildCoverageLine(f) {
   let line = n === 1 ? `This record: 1 price check, on ${first}`
     : `This record: ${n} price checks since ${first} (about every ${plural(Math.max(1, Math.round(days(first, last) / (n - 1))), 'day')})`;
   if (f.archive) line += `, plus ${plural(f.archive.count, 'archived Plugin Boutique page')} ${range(f.archive)}`;
-  return `${line}. ${f.archive ? 'Sales between archived pages would not appear here.' : `Sales before ${first} would not appear here.`}`;
+  return `${line}.`;
 }
-export function summarizeVerdict(name, f) {
+export function summarizeVerdict(name, f, { buildDate } = {}) {
   if (f.state === 'no_checks') return `We have not read a price for ${name} from the store page yet.`;
   if (f.state === 'no_tracked_sale') return `No sale price in ${plural(f.checks.length, 'price check')} since ${f.checks[0].date}.`;
   if (f.state === 'list') {

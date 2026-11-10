@@ -5,6 +5,7 @@ import { lowestSeen } from './priceBasis.mjs';
 
 export const MIN_CATEGORY_PEERS = 5;
 export const FRESH_DAYS = 7;
+const depthCache = new WeakMap();
 const measured = new Set(MEASURED_SOURCES);
 const finite = (value) => typeof value === 'number' && Number.isFinite(value) && value > 0;
 const validDate = (value) => typeof value === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(value)
@@ -68,8 +69,11 @@ export function saleGaps(facts, buildDate) {
 }
 
 export function maxRecordedDepth(entry) {
+  if (entry && depthCache.has(entry)) return depthCache.get(entry);
   const depths = episodeRows(entry).map((row) => row.depth).filter((depth) => depth !== null);
-  return depths.length ? Math.max(...depths) : null;
+  const depth = depths.length ? Math.max(...depths) : null;
+  if (entry) depthCache.set(entry, depth);
+  return depth;
 }
 
 export function categoryDepthRank(name, entry, peers) {

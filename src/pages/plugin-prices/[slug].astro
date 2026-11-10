@@ -24,10 +24,11 @@ import { categoryForProduct } from '../../lib/categoryInference.mjs';
 import { pdAttr } from '../../lib/interestTaxonomy.mjs';
 import productVideosRaw from '../../data/product_videos.json';
 import { latestCheckedDate, formatCheckedDate, dealScoreNumeric, isSearchUrl, pbLink, currentPriceOf, regularPriceOf, formatPrice } from '../../lib/priceUtils';
-import { isPricePageIndexable, slugifyProduct, listSaleEpisodes, MIN_SALE_EPISODES } from '../../lib/indexPolicy.mjs';
+import { isPricePageIndexable, slugifyProduct } from '../../lib/indexPolicy.mjs';
 import { uniquePricePaths } from '../../lib/uniquePricePaths.mjs';
 import { comparablePrices, lowestSeen } from '../../lib/priceBasis.mjs';
 import { buildPageFacts, buildDecisionAnswers, buildResearchNote, buildCoverageLine, summarizeVerdict, alertTarget, sameCategoryPeers } from '../../lib/priceInsights.mjs';
+import { measuredPriceChecks, saleShare, episodeRows, saleGaps, categoryDepthRank, freshness, distanceFromLow } from '../../lib/pricePageEvidence.mjs';
 import { getCollection } from 'astro:content';
 
 interface HistoryEntry {
@@ -71,6 +72,7 @@ function allStaticEntries(): StaticEntry[] {
   for (const [name, entry] of Object.entries(bundleEntries)) rows.push({ name, kind: 'bundle', entry, guides: [] });
   return rows;
 }
+const indexableEntries = allStaticEntries().filter((e) => isPricePageIndexable(e.entry));
 
 export async function getStaticPaths() {
   const _data = priceData as PriceData;
@@ -107,16 +109,8 @@ export async function getStaticPaths() {
 }
 
 const { name, kind, entry, guides } = Astro.props as StaticEntry;
-const measuredRows = (entry.history ?? []).filter(row => ['auto_check', 'pb_deals_poll'].includes(row.source)).sort((a, b) => a.date.localeCompare(b.date));
-const measuredEpisodes = listSaleEpisodes({ history: measuredRows });
-const episodeDetails = measuredEpisodes.map((episode, index) => {
-  const rows = measuredRows.filter(row => row.date >= episode.start && row.date <= episode.end && row.sale !== null && row.regular !== null && row.regular > row.sale);
-  const depth = rows.length ? Math.max(...rows.map(row => Math.round((1 - row.sale / row.regular) * 100))) : null;
-  const after = measuredRows.find(row => row.date > episode.end && row.sale === null && row.regular !== null);
-  const previous = measuredEpisodes[index + 1];
-  const previousDepths = previous ? measuredRows.filter(row => row.date >= previous.start && row.date <= previous.end && row.sale !== null && row.regular !== null && row.regular > row.sale).map(row => Math.round((1 - row.sale / row.regular) * 100)) : [];
-  return { ...episode, number: measuredEpisodes.length - index, depth, previousDepth: previousDepths.length ? Math.max(...previousDepths) : null, daysSincePrevious: previous ? Math.round((Date.parse(episode.start) - Date.parse(previous.end)) / 86400000) : null, returnPrice: after?.regular ?? null, returnDate: after?.date ?? null };
-});
+const measuredRows = measuredPriceChecks(entry);
+const episodeDetails = episodeRows(entry);
 const { slug } = Astro.params;
 
 // Verified demo video for this product (built by build_product_videos.py from
@@ -161,7 +155,9 @@ const makerAttribution = productBrand ?? (makerHost && !/(^|\.)pluginboutique\.c
 const productFacts = (pluginFacts as Record<string, any>)[name] ?? null;
 const notableKey = String(entry.pbProductId ?? entry.pb_url?.match(/\/(\d+)(?:-[^/]*)?\/?$/)?.[1] ?? name);
 const verifiedLive = dealState(entry, Date.now()) === 'live';
-const discount = DISCOUNT_CHECK_ENABLED && verifiedLive ? discountCheck(entry, { buildDate: new Date().toISOString().slice(0, 10) }) : null;
+const buildDate = new Date().toISOString().slice(0, 10);
+const { fresh, lastCheck } = freshness(entry, buildDate);
+const discount = DISCOUNT_CHECK_ENABLED && verifiedLive ? discountCheck(entry, { buildDate }) : null;
 const headline = `${name.replace(/^Universal Audio UAD\s+/i, 'Universal Audio ').replace(/^Solid State Logic SSL\s+/i, 'Solid State Logic ')} price history`.slice(0, 70).trimEnd();
 const productImage = resolveCardImage({ entry, siblings: Object.values({ ...priceData.bundles, ...priceData.plugins }).filter(other => other.pb_url === entry.pb_url) });
 const rarity = verifiedLive ? rarityTag(entry, Date.now()) : null;
@@ -170,12 +166,12 @@ const facts = buildPageFacts(entry, { buildDate: data.last_updated });
 const seenLow = lowestSeen(entry);
 const lastSale = [...measuredRows].reverse().find(row => row.sale !== null);
 const statTiles = [
-  { label: 'Current', value: formatPrice(current), note: '' },
+  { label: fresh ? 'Current' : 'Last recorded', value: formatPrice(current), note: fresh ? '' : (lastCheck ?? '') },
   { label: 'Regular', value: formatPrice(regular), note: 'list price' },
   { label: 'Lowest tracked', value: formatPrice(seenLow?.price ?? null), note: '' },
   { label: 'Last sale', value: formatPrice(lastSale?.sale ?? null), note: lastSale?.date ?? '' },
 ];
-const verdictCopy = summarizeVerdict(name, facts);
+const verdictCopy = summarizeVerdict(name, facts, { buildDate });
 const researchNote = buildResearchNote(name, facts);
 const coverageLine = buildCoverageLine(facts);
 const dealScore = dealScoreNumeric(entry);
@@ -365,10 +361,11 @@ const chartGeom = buildChartGeom(series, entry.typical_regular, seenLow?.price ?
 function faqAvailabilityAnswer(e: EntryData): string {
   if (!e.pb_url) return `We don't currently have a Plugin Boutique link for ${name}.`;
   if (isSearchUrl(e.pb_url)) return `We only have a Plugin Boutique search link for ${name}, not a verified product page.`;
-  return `Yes — ${name} is sold through Plugin Boutique, currently listed around ${formatPrice(current)}${onSale ? ' (on sale)' : ''}.`;
+  return fresh ? `Yes — ${name} is sold through Plugin Boutique, currently listed around ${formatPrice(current)}${onSale ? ' (on sale)' : ''}.`
+    : `Yes — ${name} was last recorded at ${formatPrice(current)} on ${lastCheck}.`;
 }
 
-const decisionAnswers = buildDecisionAnswers(name, facts, faqAvailabilityAnswer(entry));
+const decisionAnswers = buildDecisionAnswers(name, facts, faqAvailabilityAnswer(entry), { buildDate });
 const saleRows = [
   ...facts.sales.map((sale) => ({ ...sale, type: 'tracked', date: sale.end })),
   ...facts.confirmed.map((sale) => ({ ...sale, type: 'confirmed' })),
@@ -381,7 +378,11 @@ function versusToday(price: number): string {
 }
 
 // --- Other tracked products in the same category ----------------------------
-const indexableEntries = allStaticEntries().filter((e) => isPricePageIndexable(e.entry));
+const share = saleShare(entry);
+const gaps = saleGaps(facts, buildDate);
+const rank = categoryDepthRank(name, entry, indexableEntries);
+const distance = distanceFromLow(entry, buildDate);
+const alertEpisode = facts.sales.find(sale => sale.low === alertTargetPrice);
 const peers = sameCategoryPeers(entry, name, indexableEntries, categoryForProduct);
 const peerDeals = peers.map(peer => {
   const peerRegular = regularPriceOf(peer.entry);
@@ -461,6 +462,9 @@ const faqLD = {
         line-height: 1.15; color: var(--text-primary);
       }
       .price-row { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.85rem; margin-bottom: 0.5rem; }
+      .pp-facts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.75rem 1.5rem}
+      .pp-facts dt{font-weight:700}.pp-facts dd{margin:.3rem 0 0}
+      @media(max-width:640px){.pp-facts{grid-template-columns:1fr}}
       .price-current {
         font-size: 2rem; font-weight: 800; color: var(--text-primary);
         font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
@@ -847,7 +851,7 @@ const faqLD = {
             <h1>{headline}</h1>
             {copyLine.kind === 'tagline' && <p class="product-tagline" data-copy-kind="tagline">{copyLine.text}</p>}
             {copyLine.kind === 'maker' && <p class="product-tagline" data-copy-kind="maker_quote"><q cite={copyLine.cite}>{copyLine.text}</q> — {copyLine.attribution}</p>}
-            <div class="price-row"><span class={onSale ? 'price-current on-sale' : 'price-current'}>{formatPrice(current)}</span>{onSale && regular !== null && <span class="price-regular-strike">{formatPrice(regular)}</span>}{onSale && off > 0 && <span class="off-badge">-{off}%</span>}</div>
+            <div class="price-row"><span class={onSale && verifiedLive ? 'price-current on-sale' : 'price-current'}>{formatPrice(current)}</span>{onSale && verifiedLive && regular !== null && <span class="price-regular-strike">{formatPrice(regular)}</span>}{onSale && verifiedLive && off > 0 && <span class="off-badge">-{off}%</span>}{!verifiedLive && lastCheck && <span class="price-asof">recorded {lastCheck}</span>}</div>
             <div class="product-signals">{rarity && <span data-rarity={rarity.type} title={rarity.full}>{rarity.text}</span>}{chips.map(chip => <span>{chip}</span>)}</div>
             <div class="cta-row"><a href={pbLink(entry.pb_url, 'chan=trk', { medium: 'tracker', campaign: 'plugin-prices', data1: slug, placement: 'pp-hero' })} class="cta-primary" target="_blank" rel="noopener sponsored" data-slug={slug} data-hero-cta>{isSearchUrl(entry.pb_url) ? 'Find current price' : 'Check current price'}</a><a href="#price-history" class="cta-secondary">See full history</a></div>
             <p class="last-checked">{checkedLabel}</p>
@@ -913,6 +917,18 @@ const faqLD = {
             <p id="watch-msg" class="watch-msg" style="display:none"></p>
           </div>
         </div>
+
+      {(share || gaps || rank || distance || alertTargetPrice !== null || episodeDetails.length > 0) && <section class="page-section pp-evidence" id="evidence" data-pp-evidence aria-labelledby="pp-evidence-title">
+        <h2 class="section-title" id="pp-evidence-title">What our checks show for {name}</h2>
+        <dl class="pp-facts">
+          {share && <div data-pp-element="sale-share" data-sale-days={share.saleDays} data-total-days={share.totalDays}><dt>Sale price in our checks</dt><dd>{share.saleDays} of {share.totalDays} check days ({share.first} to {share.last}). {share.everyCheck ? `Every check showed a sale price; ${formatPrice(share.levels[0].price)} appeared on ${share.levels[0].days} of those days.` : `Prices seen: ${share.levels.map(level => `${formatPrice(level.price)} on ${level.days} days`).join(', ')}.`}</dd></div>}
+          {gaps && <div data-pp-element="sale-gaps"><dt>Time between sales</dt><dd>{gaps.gaps.length > 0 && `${gaps.gaps.length} observed gap${gaps.gaps.length === 1 ? '' : 's'}: ${gaps.gaps.join(', ')} days.`} {gaps.sinceLastSale !== null && `Last sale seen ${gaps.lastSaleEnd}; ${gaps.sinceLastSale} days to our latest check without one.`}</dd></div>}
+          {rank && <div data-pp-element="category-depth" data-category={rank.category} data-peers={rank.peers} data-deeper={rank.deeper}><dt>Deepest discount we recorded</dt><dd>{rank.depth}% off list. Of the {rank.peers} {rank.category} products we track with a price page, {rank.deeper === 0 ? 'none had a deeper recorded discount' : `${rank.deeper} had a deeper recorded discount`}.</dd></div>}
+          {distance && <div data-pp-element="distance-low"><dt>Against the lowest we recorded</dt><dd>{distance.diff === 0 ? `${formatPrice(distance.latestPrice)} on ${distance.latestDate} matches the lowest we recorded (${distance.lowDate}).` : `${formatPrice(distance.latestPrice)} on ${distance.latestDate} is ${formatPrice(distance.diff)} above the lowest we recorded, ${formatPrice(distance.low)} on ${distance.lowDate}.`}</dd></div>}
+          {alertTargetPrice !== null && alertEpisode && <div data-pp-element="alert-basis"><dt>Alert price</dt><dd>{formatPrice(alertTargetPrice)}: the lowest of the {facts.sales.length} sales we tracked ({alertEpisode.start}).</dd></div>}
+        </dl>
+        {episodeDetails.length > 0 && <div class="record-table-wrap" data-pp-element="episodes" data-episodes={episodeDetails.length}><table class="record-table"><thead><tr><th>Episode</th><th>First seen</th><th>Last seen</th><th>Depth</th>{episodeDetails.length > 1 && <><th>Previous depth</th><th>Days since previous</th></>}<th>Return to regular</th></tr></thead><tbody>{episodeDetails.map(item => <tr><td>{item.number}</td><td>{item.start}</td><td>{item.end}</td><td>{item.depth === null ? '—' : `${item.depth}%`}</td>{episodeDetails.length > 1 && <><td>{item.previousDepth === null ? '—' : `${item.previousDepth}%`}</td><td>{item.daysSincePrevious ?? '—'}</td></>}<td>{item.returnDate ? `${formatPrice(item.returnPrice)} on ${item.returnDate}` : 'Not observed'}</td></tr>)}</tbody></table></div>}
+      </section>}
 
       {makerQuote && makerAttribution && copyLine.kind !== 'maker' && <section class="page-section" data-maker-quote><h2 class="section-title">What the maker says</h2><blockquote><q cite={makerQuote.source_url}>{makerQuote.quote}</q> — {makerAttribution}</blockquote><a href={makerQuote.source_url} rel="nofollow noopener sponsored" target="_blank">Source</a></section>}
 
@@ -1163,7 +1179,7 @@ const faqLD = {
         <section class="page-section">
           <h2 class="section-title">Prices shown on archived Plugin Boutique pages</h2>
           <details class="record-details"><summary>View archived prices</summary>
-          <p class="section-sub">The price the store page displayed when the Internet Archive saved it. It may be a sale price or the list price; the archive does not say which.{facts.archive.excluded.length > 0 && ` ${facts.archive.excluded.length} ${facts.archive.excluded.length === 1 ? 'snapshot' : 'snapshots'} in another or unknown currency ${facts.archive.excluded.length === 1 ? 'is' : 'are'} left out.`}</p>
+          <p class="section-sub">The price the store page displayed when the Internet Archive saved it. <a href="/how-we-track-prices/#archived-prices">How archived prices are read</a>.{facts.archive.excluded.length > 0 && ` ${facts.archive.excluded.length} ${facts.archive.excluded.length === 1 ? 'snapshot' : 'snapshots'} in another or unknown currency ${facts.archive.excluded.length === 1 ? 'is' : 'are'} left out.`}</p>
           <div class="record-table-wrap">
             <table class="record-table">
               <thead><tr><th scope="col">Price</th><th scope="col">Pages</th><th scope="col">First seen</th><th scope="col">Last seen</th></tr></thead>
@@ -1178,7 +1194,7 @@ const faqLD = {
         </section>
       )}
 
-      <AlternativesRail deals={peerDeals} />
+      <AlternativesRail deals={peerDeals} compact />
       {demoVideo && <section class="page-section demo-section" data-video-official={String(demoVideo.official === true)} data-video-id={demoVideo.video_id} data-video-title={demoVideo.title}><div id="demo-block" data-video-id={demoVideo.video_id} data-video-official={String(demoVideo.official === true)}><button id="demo-btn" type="button" data-video-id={demoVideo.video_id} title={demoVideo.title}>▶ Watch a demo</button></div></section>}
 
       {guides.length > 0 && (
@@ -1191,13 +1207,6 @@ const faqLD = {
           </div>
         </section>
       )}
-
-      <section class="page-section">
-        <h2 class="section-title">Observed sale episodes</h2>
-        <details class="record-details"><summary>View sale episodes</summary>
-        {episodeDetails.length < MIN_SALE_EPISODES ? <p>Insufficient data for a sale pattern.</p> : <div class="record-table-wrap"><table class="record-table"><thead><tr><th>Episode</th><th>First seen</th><th>Last seen</th><th>Depth</th><th>Previous depth</th><th>Days since previous</th><th>Return to regular</th></tr></thead><tbody>{episodeDetails.map(item => <tr><td>{item.number}</td><td>{item.start}</td><td>{item.end}</td><td>{item.depth === null ? '—' : `${item.depth}%`}</td><td>{item.previousDepth === null ? '—' : `${item.previousDepth}%`}</td><td>{item.daysSincePrevious ?? '—'}</td><td>{item.returnDate ? `${formatPrice(item.returnPrice)} on ${item.returnDate}` : 'Not observed'}</td></tr>)}</tbody></table></div>}
-        </details>
-      </section>
 
     </main>
     <div class="sticky-buy" data-sticky-buy hidden><span class="sticky-name">{name}</span><strong>{formatPrice(current)}</strong><a href={pbLink(entry.pb_url, 'chan=trk', { medium: 'tracker', campaign: 'plugin-prices', data1: slug, placement: 'pp-sticky' })} class="cta-primary" target="_blank" rel="noopener sponsored" data-slug={slug}>{isSearchUrl(entry.pb_url) ? 'Find current price' : 'Check current price'}</a></div>

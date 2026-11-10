@@ -1,6 +1,7 @@
 ---
 import DealCard from './DealCard.astro';
-const { deals = [] } = Astro.props;
+import { formatPrice } from '../lib/priceUtils';
+const { deals = [], compact = false } = Astro.props;
 ---
-{deals.length >= 2 && <section class="page-section alternatives-rail" data-alternatives-count={deals.length}><h2 class="section-title">Alternatives we track</h2><div class="alternatives-list">{deals.slice(0, 4).map(deal => <DealCard deal={deal} variant="grid" />)}</div></section>}
-<style>.alternatives-list{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:.5rem}@media(max-width:680px){.alternatives-list{display:flex;overflow-x:auto;scroll-snap-type:x mandatory}.alternatives-list :global(.new-deal-card){flex:0 0 65%;scroll-snap-align:start}}</style>
+{deals.length >= 2 && <section class="page-section alternatives-rail" data-alternatives-count={deals.length}><h2 class="section-title">Alternatives we track</h2><div class="alternatives-list">{deals.slice(0, 4).map(deal => compact ? <article class="compact-alternative"><a href={deal.href}><strong>{deal.key}</strong></a><span>{formatPrice(deal.current)}</span><a href={deal.ctaHref} target="_blank" rel="noopener sponsored">Check price</a></article> : <DealCard deal={deal} variant="grid" />)}</div></section>}
+<style>.alternatives-list{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:.5rem}.compact-alternative{display:flex;flex-direction:column;gap:.45rem;padding:.8rem;border:1px solid var(--border);background:var(--bg-card)}.compact-alternative a{color:var(--accent)}@media(max-width:680px){.alternatives-list{display:flex;overflow-x:auto;scroll-snap-type:x mandatory}.alternatives-list :global(.new-deal-card),.compact-alternative{flex:0 0 65%;scroll-snap-align:start}}</style>

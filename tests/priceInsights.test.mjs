@@ -183,7 +183,7 @@ test('exact decision text for each state', () => {
     { key: 'availability', q: 'Is Test available on Plugin Boutique?', a: 'Available.' },
   ]);
   assert.equal(summarizeVerdict('Test', current), '$40 on 2026-09-26; the first sale our checks have caught.');
-  assert.equal(buildCoverageLine(current), 'This record: 1 price check, on 2026-09-26. Sales before 2026-09-26 would not appear here.');
+  assert.equal(buildCoverageLine(current), 'This record: 1 price check, on 2026-09-26.');
   const noSale = facts([row('2026-09-26', 100, null, 'auto_check', { reg_src: 'typical' })]);
   assert.deepEqual(answers(noSale), [
     { key: 'sale', q: 'Does Test go on sale at Plugin Boutique?', a: 'Not in our checks so far: our one price check, on 2026-09-26, did not show a sale price. Our check on 2026-09-26 found no sale price; our reference list price is $100.' },
@@ -243,12 +243,19 @@ test('every product decision stays dated, countable, and free of predictions', (
       assert.match(a, /\d{4}-\d{2}-\d{2}|\b\d+\s+(?:price checks?|sales?|pages?|days?|snapshots?)\b/, name);
       assert.doesNotMatch(a, prediction, name);
       assert.doesNotMatch(a, /\b(good|great|worth|cheap|best)\b/i, name);
-      assert.doesNotMatch(a, /\b(1 days|1 checks|1 pages)\b|between (\$[\d.]+) and \1\b/, name);
+      assert.doesNotMatch(a, /\b(1 checks|1 pages)\b|between (\$[\d.]+) and \1\b/, name);
       assert.doesNotMatch(a, /\b(?:\w+ \d{4}) to \1\b/, name);
     }
     if (f.state === 'list' && f.latestPriced.reg_src === 'typical')
       assert.match(stateAnswers[0].a, /our reference list price is/, name);
   }
+});
+
+test('old on-sale check does not call its price today', () => {
+  const f = buildPageFacts({ history: [row('2026-10-01', 100, 50, 'auto_check')] }, { buildDate: '2026-11-10' });
+  const answer = buildDecisionAnswers('Test Plugin', f, 'Available.', { buildDate: '2026-11-10' })[0];
+  assert.match(answer.q, /last recorded/);
+  assert.doesNotMatch(`${answer.q} ${answer.a}`, /today's/i);
 });
 
 test('comparison branches cover earlier lows, gaps, archive counts and unreadable checks', () => {
@@ -310,17 +317,17 @@ test('sale end and break wording covers end dates, censoring, equal and varied d
   const question = 'When does the current Test sale end?';
   const withSales = (prior, cur = current, until = null, breaks = []) => ({ ...base, sales: [...prior, cur], until, breaks });
   assert.equal(answers(withSales([], { ...current, start: '2026-09-26' }, null))[1].a,
-    'We have no end date from the store page for this sale. This sale first appeared in our check on 2026-09-26.');
+    'This sale first appeared in our check on 2026-09-26.');
   assert.equal(answers(withSales([], { ...current, start: '2026-09-26' }, '2026-10-01'))[1].a,
     'The store page said the offer runs until 2026-10-01 when we checked on 2026-09-26. This sale first appeared in that check.');
   assert.equal(answers(withSales([e('2026-01-01', 1)], { ...current, leftCensored: true }))[1].a,
-    'We have no end date from the store page for this sale. Every price check since our tracking began on 2026-09-01 has shown it on sale. The one earlier sale we could follow from start to finish was visible for 1 day (2026-01-01).');
+    'Every price check since our tracking began on 2026-09-01 has shown it on sale. The one earlier sale we could follow from start to finish was visible for 1 day (2026-01-01).');
   assert.equal(answers(withSales([e('2026-01-01', 2), e('2026-02-01', 2)]))[1].a,
-    'We have no end date from the store page for this sale. Every price check since 2026-09-01 has shown it on sale. The 2 earlier sales we could follow from start to finish were each visible for 2 days.');
+    'Every price check since 2026-09-01 has shown it on sale. The 2 earlier sales we could follow from start to finish were each visible for 2 days.');
   assert.equal(answers(withSales([e('2026-01-01', 2), e('2026-02-01', 3)]))[1].a,
-    'We have no end date from the store page for this sale. Every price check since 2026-09-01 has shown it on sale. The 2 earlier sales we could follow from start to finish were visible for 2 and 3 days.');
+    'Every price check since 2026-09-01 has shown it on sale. The 2 earlier sales we could follow from start to finish were visible for 2 and 3 days.');
   assert.equal(answers(withSales([e('2026-01-01', 2, true)]))[1].a,
-    'We have no end date from the store page for this sale. Every price check since 2026-09-01 has shown it on sale.');
+    'Every price check since 2026-09-01 has shown it on sale.');
   const oneBreak = answers(withSales([e('2026-01-01', 2)], current, null, [19]))[2];
   assert.deepEqual(oneBreak, { key: 'breaks', q: 'How soon did Test go back on sale in the past?',
     a: 'Counting from the last check that showed an earlier sale, our checks next found it on sale 19 days later.' });
@@ -400,7 +407,7 @@ test('verdict and coverage branches use exact wording', () => {
   }
   const archive = { first: '2020-01-01', last: '2020-01-01', count: 1, excluded: [], levels: [{ price: 50, count: 1, first: '2020-01-01', last: '2020-01-01' }] };
   assert.equal(buildCoverageLine({ ...current, archive }),
-    'This record: 1 price check, on 2026-09-26, plus 1 archived Plugin Boutique page from Jan 2020. Sales between archived pages would not appear here.');
+    'This record: 1 price check, on 2026-09-26, plus 1 archived Plugin Boutique page from Jan 2020.');
   assert.equal(buildResearchNote('Test', current), null);
 });
 
