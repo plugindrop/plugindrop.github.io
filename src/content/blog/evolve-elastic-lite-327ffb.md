@@ -8,13 +8,12 @@ heroImage: "/images/evolve-elastic-lite-327ffb.jpg"
 score: 10.00
 rawScore: 10.24
 productKey: "Evolve Elastic Lite"
-priceRecordPending: true
 dealPrice: "$19.00"
 originalPrice: "$29.00"
 discount: "34% OFF"
 saleExpiry: "2026-12-09"
 saleExpirySource: "fallback"
-draft: true
+draft: false
 ---
 **TL;DR:** Evolve Elastic Lite is down to $19, cut from a tracked regular price of $29. That's roughly 34% off a $10 saving on a four-engine sound design instrument built around 125 included sound sources. Grab it on the [Plugin Boutique deal page](https://www.pluginboutique.com/search?q=Evolve+Elastic+Lite&a_aid=69cb95abe1763&chan=art&data1=evolve-elastic-lite-327ffb&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-elastic-lite-327ffb) while the $19 price holds.
 
