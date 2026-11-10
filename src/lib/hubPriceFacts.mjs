@@ -1,4 +1,4 @@
-import { isProductNameIndexable, slugifyProduct } from './indexPolicy.mjs';
+import { slugifyProduct } from './indexPolicy.mjs';
 import { measuredPriceChecks, saleShare, episodeRows, maxRecordedDepth, freshness } from './pricePageEvidence.mjs';
 import { productsOf } from './priceTrends.mjs';
 
@@ -9,7 +9,7 @@ export function productEvidenceRows(products) {
     return {
       name, slug: slugifyProduct(name), saleShare: saleShare(entry),
       maxDiscount: maximum,
-      maxDate: maximum === null ? null : episodes.find(row => row.depth === maximum)?.start ?? null,
+      maxDate: maximum === null ? null : episodes.find(row => row.depth === maximum)?.depthDate ?? null,
       lastSale: episodes[0]?.end ?? null,
     };
   });
@@ -19,19 +19,18 @@ export function monthEventDifference(data, month) {
   const monthCounts = (value) => {
     const counts = { starts: 0, ends: 0, newLows: 0 };
     for (const product of productsOf(data)) {
+      for (const episode of episodeRows(product.entry)) {
+        if (episode.start.startsWith(value)) counts.starts++;
+        if (episode.end.startsWith(value)) counts.ends++;
+      }
       let priorLow = Infinity;
-      let wasSale = false;
       for (const row of measuredPriceChecks(product.entry)) {
-        const onSale = Number.isFinite(row.sale) && Number.isFinite(row.regular) && row.sale >= 0 && row.sale < row.regular;
         if (row.date.startsWith(value)) {
-          if (onSale && !wasSale) counts.starts++;
-          if (!onSale && wasSale) counts.ends++;
           if (priorLow < Infinity && Number.isFinite(row.sale) && row.sale >= 0 && row.sale < priorLow) counts.newLows++;
         }
         for (const price of [row.reg_src === 'typical' ? null : row.regular, row.sale]) {
           if (Number.isFinite(price) && price >= 0) priorLow = Math.min(priorLow, price);
         }
-        wasSale = onSale;
       }
     }
     return counts;
@@ -44,13 +43,11 @@ export function monthEventDifference(data, month) {
   return { previousMonth, ...Object.fromEntries(Object.keys(current).map(key => [key, { count: current[key], delta: current[key] - before[key] }])) };
 }
 
-export function tagArticlePriceRows(posts, matches, priceData) {
+export function tagArticlePriceRows(posts, matches) {
   return posts.map((post, index) => {
-    const name = matches[index]?.name ?? null;
     const entry = matches[index]?.entry;
     return {
       id: post.id,
-      pricePath: name && isProductNameIndexable(priceData, name) ? `/plugin-prices/${slugifyProduct(name)}/` : null,
       lastCheck: entry ? freshness(entry).lastCheck : null,
     };
   });

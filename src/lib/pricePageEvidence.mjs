@@ -47,14 +47,16 @@ export function episodeRows(entry) {
   const depthOf = (episode) => {
     const depths = checks.filter((row) => row.date >= episode.start && row.date <= episode.end
       && finite(row.sale) && finite(row.regular) && row.regular > row.sale)
-      .map((row) => Math.round((1 - row.sale / row.regular) * 100));
-    return depths.length ? Math.max(...depths) : null;
+      .map((row) => ({ depth: Math.round((1 - row.sale / row.regular) * 100), date: row.date }));
+    return depths.reduce((best, row) => row.depth > (best?.depth ?? -1) ? row : best, null);
   };
   return episodes.map((episode, index) => {
     const previous = episodes[index + 1];
     const after = checks.find((row) => row.date > episode.end && !finite(row.sale) && finite(row.regular));
-    return { ...episode, number: episodes.length - index, depth: depthOf(episode),
-      previousDepth: previous ? depthOf(previous) : null,
+    const maximum = depthOf(episode);
+    return { ...episode, number: episodes.length - index, depth: maximum?.depth ?? null,
+      depthDate: maximum?.date ?? null,
+      previousDepth: previous ? depthOf(previous)?.depth ?? null : null,
       daysSincePrevious: previous ? days(previous.end, episode.start) : null,
       returnPrice: after?.regular ?? null, returnDate: after?.date ?? null };
   });

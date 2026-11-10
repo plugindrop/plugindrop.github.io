@@ -255,14 +255,14 @@ const datasetLD = {
           </div>
         ))}
       </section>
-      <section class="page-section">
+      {!month.is_current && month.vs_previous_month && <section class="page-section">
         <h2 class="section-title">Change from {eventDifference.previousMonth}</h2>
         <div class="data-table-wrap"><table class="data-table"><thead><tr><th>Event</th><th>{month.month}</th><th>Change</th></tr></thead><tbody>
           <tr><td>Sale starts</td><td>{eventDifference.starts.count}</td><td>{fmtDelta(eventDifference.starts.delta)}</td></tr>
           <tr><td>Sale ends</td><td>{eventDifference.ends.count}</td><td>{fmtDelta(eventDifference.ends.delta)}</td></tr>
           <tr><td>New recorded lows</td><td>{eventDifference.newLows.count}</td><td>{fmtDelta(eventDifference.newLows.delta)}</td></tr>
         </tbody></table></div>
-      </section>
+      </section>}
 
       <section class="page-section">
         <h2 class="section-title">Deepest Discounts This Month</h2>

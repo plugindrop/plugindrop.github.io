@@ -62,9 +62,10 @@ const allPosts = await getCollection('blog');
 const posts = allPosts
 	.filter(p => !p.data.draft && !p.data.noindex && !isArticleDealPastWindow(p.data) && (p.data.tags ?? []).some((t: string) => slugifyTag(t) === tag))
 	.sort((a, b) => Number(prioritySlugs.has(b.id)) - Number(prioritySlugs.has(a.id)) || b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-const priceRows = tagArticlePriceRows(posts, posts.map(post => findTrackerEntryForPost(post, renderTrackerEntries, post.body)), priceDataRaw);
+const priceRows = tagArticlePriceRows(posts, posts.map(post => findTrackerEntryForPost(post, renderTrackerEntries, post.body)));
 // The current rendered pages for these tags are close enough to 600 words for the per-article data to clear it.
-const showPriceRows = new Set(['mastering', 'tutorials']).has(tag) && posts.length >= 13;
+const MIN_POSTS_FOR_PRICE_TABLE = 13;
+const showPriceRows = new Set(['mastering', 'tutorials']).has(tag) && posts.length >= MIN_POSTS_FOR_PRICE_TABLE;
 
 const tagDisplay = tag.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
 
