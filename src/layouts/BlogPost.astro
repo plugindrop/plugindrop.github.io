@@ -1374,7 +1374,7 @@ const showInlineDeals = (rawBody.match(/^## /gm) ?? []).length >= 5 && saleCards
 						</div>
 					)}
 
-					{(guidePosts.length > 0 || crossGuides.length > 0) && <section class="related-guides" aria-label="Related guides"><h2>Related guides</h2><div class="inline-card-grid">{[...crossGuides, ...guidePosts.filter(post => !crossGuides.some(guide => guide.id === post.id))].slice(0, 3).map(post => <GuideCard post={post} />)}</div></section>}
+					{(guidePosts.length > 0 || crossGuides.length > 0) && !/## Related guides\b/i.test(rawBody) && <section class="related-guides" aria-label="Related guides"><h2>Related guides</h2><div class="inline-card-grid">{[...crossGuides, ...guidePosts.filter(post => !crossGuides.some(guide => guide.id === post.id))].slice(0, 3).map(post => <GuideCard post={post} />)}</div></section>}
 					{isEvergreen && <NewsletterForm />}
 
 					<AuthorBox />

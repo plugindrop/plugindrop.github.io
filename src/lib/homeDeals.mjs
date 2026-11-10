@@ -61,7 +61,7 @@ export function toCardModel(deal, { entries, priceData, now, videos = {}, copy =
   const product = prefix ? deal.name.slice(prefix.length).trim() : deal.name;
   const category = categoryForProduct(deal.name, deal.entry, !!priceData.bundles?.[deal.name]);
   const latest = ownChecks(deal.entry).filter(r => r.source === 'auto_check').at(-1);
-  const until = /^\d{4}-\d{2}-\d{2}$/.test(latest?.until ?? '') ? latest.until : null;
+  const until = /^\d{4}-\d{2}-\d{2}$/.test(latest?.until ?? '') && Date.parse(`${latest.until}T23:59:59Z`) >= now ? latest.until : null;
   const urgency = deal.kind === 'tracker' ? urgencyTag(deal.entry, now) : null;
   const rarity = deal.kind === 'tracker' ? rarityTag(deal.entry, now) : null;
   const image = resolveCardImage({ post: deal.post, entry: deal.entry, siblings });

@@ -6,6 +6,7 @@ import { SITE_TITLE } from '../../consts';
 import statsData from '../../data/monthly_sale_stats.json';
 import priceData from '../../data/price_history.json';
 import { siteStats } from '../../lib/siteStats.mjs';
+import { inferCategory } from '../../lib/categoryInference.mjs';
 const { trackingSince } = siteStats(priceData);
 import { staticRedirects } from '../../data/plugin_price_redirects.mjs';
 import { indexablePricePagePaths } from '../../lib/indexPolicy.mjs';
@@ -269,7 +270,7 @@ const datasetLD = {
                     <td>{isResolvedProductIndexable(d.slug)
                       ? <a href={`/plugin-prices/${resolveProductSlug(d.slug)}/`} class="prod-link">{d.name}</a>
                       : <span class="prod-link">{d.name}</span>}</td>
-                    <td>{d.category}</td>
+                    <td>{d.category && d.category !== 'Other' ? d.category : inferCategory(d.name, '', d.pb_url, false)}</td>
                     <td class="mono">{formatPrice(d.regular)}</td>
                     <td class="mono">{formatPrice(d.sale)}</td>
                     <td><span class="off-badge">-{d.pct_off}%</span></td>
