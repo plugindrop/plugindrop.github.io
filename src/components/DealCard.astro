@@ -9,7 +9,7 @@ const external = /^https?:/.test(deal.href);
       {deal.image.src ? deferImage ? <span class="deferred-art" data-image-src={deal.image.src}></span> : <img src={variant === 'spotlight' && deal.image.large ? deal.image.large : deal.image.src} style={variant === 'spotlight' && deal.image.largeContain ? 'object-fit: contain' : undefined} alt="" width="640" height="400" loading={eager ? 'eager' : 'lazy'} decoding="async" /> : null}
       <div class="type-art" hidden={!!deal.image.src}>{deal.brand && <small>{deal.brand}</small>}<strong>{deal.product}</strong><span>{deal.category}</span></div>
       <span class="category-tag">{deal.category}</span>
-      {deal.video && <span class="demo-tag" aria-label={deal.video.official ? 'Official demo video' : 'Demo video'} title={`${deal.video.title} — ${deal.video.channel}`}>▶</span>}
+      {deal.video && <span class="demo-tag" aria-label="Demo video" title={deal.video.title}>▶</span>}
       {variant !== 'ended' && deal.off > 0 && <span class:list={['off-tag', deal.offTone === 'muted' && 'is-muted']} title={deal.offTone === 'muted' ? `vs list price ${formatPrice(deal.regular)}. We've seen it at ${formatPrice(deal.ownLow.low)} (${deal.ownLow.month})` : undefined}>-{deal.off}%</span>}
     </div>
     <div class="card-copy">

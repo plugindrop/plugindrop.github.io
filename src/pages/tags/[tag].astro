@@ -16,6 +16,7 @@ import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
 import { isTagPageIndexable, slugifyTag } from '../../lib/indexPolicy.mjs';
+import { publicTagCounts } from '../../lib/tagIndexPolicy.mjs';
 import { tagArticlePriceRows } from '../../lib/hubPriceFacts.mjs';
 const renderTrackerEntries = { ...(priceDataRaw.bundles ?? {}), ...(priceDataRaw.plugins ?? {}) };
 function displayFor(post: any) {
@@ -33,15 +34,7 @@ function displayFor(post: any) {
 
 export async function getStaticPaths() {
 	const posts = await getCollection('blog', (post) => !post.data.draft && !post.data.noindex && !isArticleDealPastWindow(post.data));
-	const tagCounts = new Map<string, number>();
-	for (const post of posts) {
-		for (const tag of (post.data.tags ?? [])) {
-			if (tag && tag.trim()) {
-				const slug = slugifyTag(tag);
-				tagCounts.set(slug, (tagCounts.get(slug) ?? 0) + 1);
-			}
-		}
-	}
+	const tagCounts = publicTagCounts(posts);
 	const tagMetaSlugs = new Set([
 		'free', 'sale', 'vst-plugin', 'synth', 'reverb', 'eq', 'compressor',
 		'drums', 'sample-pack', 'preset-pack', 'bundle', 'mixing', 'mastering',
