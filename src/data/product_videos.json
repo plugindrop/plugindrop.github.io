@@ -103,11 +103,17 @@
     "official": false
   },
   "AudioThing Outer Space 2": {
-    "video_id": "fS2OG6C9c7I",
-    "title": "iOS - AudioThing Outer Space 2 Tape Echo - Tutorial and Demo",
-    "channel": "SoundForMore Tutorials",
-    "score": 8,
-    "source": "yt_api_fill",
+    "video_id": "xv5Up5LLxMI",
+    "title": "Outer Space - Tape Echo / Space Echo Plugin (Overview) - AudioThing",
+    "channel": "AudioThing",
+    "source": "pb_page",
+    "official": false
+  },
+  "AudioThing Type A": {
+    "video_id": "Jv7n5YqIsBw",
+    "title": "Type A Explained – Dolby A Trick Vintage Enhancer Plugin by AudioThing",
+    "channel": "AudioThing",
+    "source": "pb_page",
     "official": false
   },
   "BEAM 2.0": {
@@ -231,12 +237,11 @@
     "official": true
   },
   "Baby Audio TAIP": {
-    "video_id": "CbRucOvuXW8",
-    "title": "TAIP - BABY Audio - CJ Beatz Tutorial",
-    "channel": "Baby Audio",
-    "score": 10,
-    "source": "yt_api_fill",
-    "official": true
+    "video_id": "-1MkHotfxwg",
+    "title": "Introducing TAIP by Baby Audio | AI Infused Tape Saturation & Distortion",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
   },
   "Baby Audio Tekno": {
     "video_id": "C-iLairdqno",
@@ -619,12 +624,11 @@
     "official": false
   },
   "Eventide Blackhole": {
-    "video_id": "_r4P47EkDOs",
-    "title": "Eventide Blackhole Reverb Pedal - Synth Presets Demo",
-    "channel": "Eventide Audio",
-    "score": 12,
-    "source": "yt_api_fill",
-    "official": true
+    "video_id": "u-iAl5xirsQ",
+    "title": "TMT | Spring Reverb Effect with Blackhole by Eventide",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
   },
   "Eventide Blackhole Immersive": {
     "video_id": "5dFgkAzFwew",
@@ -882,6 +886,20 @@
     "source": "yt_api_fill",
     "official": true
   },
+  "Evolve Elastic Lite": {
+    "video_id": "SJq4AF4JkIE",
+    "title": "Evolve Elastic - Futuristic Synthesis",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
+  "Excite Audio Bloom Drum Machine": {
+    "video_id": "6mdE7RresxQ",
+    "title": "Bloom Drum Machine - Vintage Drum Discovery",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
   "FabFilter One": {
     "video_id": "rzHC3fbzY5Q",
     "title": "Fabfilter One / VST synth / demo play only",
@@ -992,6 +1010,20 @@
     "channel": "SumnSumnSumn HTK",
     "score": 8,
     "source": "yt_api_fill",
+    "official": false
+  },
+  "GForce M-Tron Pro IV": {
+    "video_id": "VLAFAxxCxJw",
+    "title": "M-Tron Pro IV by Gforce Software - Mellotron M400 Tape-based Keyboard Emulation",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
+  "GForce impOSCar3": {
+    "video_id": "1objVd7fqx0",
+    "title": "impOSCar3 by GForce Software | Based on legendary British hardware synth OSCar",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
     "official": false
   },
   "HEAVY 2": {
@@ -1353,11 +1385,11 @@
     "official": true
   },
   "Native Instruments Massive XL": {
-    "video_id": "Clok_r58WeA",
-    "title": "Introducing Massive XL | Native Instruments",
+    "video_id": "XAlSga0m4xQ",
+    "title": "Massive XL - What's new? | Native Instruments",
     "channel": "Native Instruments",
-    "score": 10,
-    "source": "yt_api_fill"
+    "source": "pb_page",
+    "official": true
   },
   "Native Instruments Raum": {
     "video_id": "A8Ry94NDve0",
@@ -1620,6 +1652,13 @@
     "source": "yt_api_fill",
     "official": false
   },
+  "Reveal Sound Spire": {
+    "video_id": "3ZpgDJCcBrw",
+    "title": "Spire 1.5.17 with Reveal Sound AI tutorial",
+    "channel": "Reveal Sound",
+    "source": "pb_page",
+    "official": false
+  },
   "SILK 2": {
     "video_id": "4v2yt7pgN50",
     "title": "Ujam SILK 2 - ALL PRESETS Demo! Nylon Acoustic Plugin",
@@ -1645,11 +1684,11 @@
     "official": false
   },
   "SSL 4K B": {
-    "video_id": "X0G7oGdBJ4Y",
-    "title": "SSL 4K B Channel Strip plug-in and history of the SL 4000 B console with Chris Jenkins",
-    "channel": "Solid State Logic",
-    "score": 11,
-    "source": "yt_api_fill"
+    "video_id": "XDS_r_pPFFQ",
+    "title": "SSL 4K B: The \"Rare\" Analog Sound That Started It All",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
   },
   "SSL Blitzer": {
     "video_id": "JwrWXTV2PL0",
@@ -2638,6 +2677,13 @@
     "source": "yt_api_fill",
     "official": true
   },
+  "Wavesfactory Trackspacer": {
+    "video_id": "LKEkoQbsOsk",
+    "title": "TMT | Mixing Vocals Tutorial in 2 Minutes with TrackSpacer",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
   "Weiss MM-1": {
     "video_id": "r6SKWKPPkBg",
     "title": "Softube - Weiss MM-1 Mastering Maximizer (Demo)",
@@ -2727,11 +2773,10 @@
     "official": false
   },
   "iZotope Ozone 12 Advanced": {
-    "video_id": "mirNm_31fNw",
-    "title": "What's New & Improved With iZotope Ozone 12 Advanced or Standard",
-    "channel": "Audio Tech TV",
-    "score": 7,
-    "source": "article_embed",
+    "video_id": "UtH5djPb0Sc",
+    "title": "Ozone 12 Is Here",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
     "official": false
   },
   "iZotope Ozone 12 Elements": {
@@ -2766,12 +2811,11 @@
     "official": true
   },
   "iZotope Trash": {
-    "video_id": "pBw6N3kS6zg",
-    "title": "How to use the new iZotope Trash | Creative distortion plugin",
-    "channel": "iZotope, Inc.",
-    "score": 11,
-    "source": "yt_api_fill",
-    "official": true
+    "video_id": "d_WNn5FfYbg",
+    "title": "It's Finally HERE?!",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
   },
   "iZotope Trash 2": {
     "video_id": "xqzbiTSPhaA",
@@ -2814,11 +2858,10 @@
     "official": false
   },
   "u-he ACE": {
-    "video_id": "etTTULJ8sdg",
-    "title": "U-he | Ace v1.4.1 | Rhythmic Presets",
-    "channel": "Simon Le Grec",
-    "score": 8,
-    "source": "yt_api_fill",
+    "video_id": "5YgUhNaWtN0",
+    "title": "Introduction to ACE - Part 1 of 4",
+    "channel": "u-he",
+    "source": "pb_page",
     "official": false
   },
   "u-he Bazille": {
