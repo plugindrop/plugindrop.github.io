@@ -7,6 +7,13 @@ import priceData from '../../data/price_history.json';
 import dealCopy from '../../data/deal_copy.json';
 import NotableUsers from '../../components/NotableUsers.astro';
 import ProductFacts from '../../components/ProductFacts.astro';
+import ProductOverview from '../../components/ProductOverview.astro';
+import BeforeYouBuy from '../../components/BeforeYouBuy.astro';
+import CompareTable from '../../components/CompareTable.astro';
+import AtAGlance from '../../components/AtAGlance.astro';
+import productContentRaw from '../../data/product_content.json';
+import contentRollout from '../../data/content_rollout.json';
+import { hasContentDepth } from '../../lib/productContent.mjs';
 import PriceStatTiles from '../../components/PriceStatTiles.astro';
 import AlternativesRail from '../../components/AlternativesRail.astro';
 import pluginFacts from '../../data/plugin_facts.json';
@@ -153,6 +160,11 @@ const copyLine = cardCopyLine({ tagline, makerQuote, brand: productBrand });
 const makerHost = makerQuote ? new URL(makerQuote.source_url).hostname.replace(/^www\./, '') : null;
 const makerAttribution = productBrand ?? (makerHost && !/(^|\.)pluginboutique\.com$/i.test(makerHost) ? makerHost : null);
 const productFacts = (pluginFacts as Record<string, any>)[name] ?? null;
+const storedContent = (productContentRaw as Record<string, any>)[name] ?? null;
+const content = import.meta.env.PRODUCT_CONTENT_ENABLED !== 'false' && hasContentDepth(name, productContentRaw, contentRollout)
+  ? { ...storedContent, tagline, vendor: productBrand ?? undefined, hasVideo: Boolean(demoVideo), hasFacts: Boolean(productFacts) } : null;
+const savedPeers = content?.peers?.filter((peer: string) => Boolean((priceData as any).plugins?.[peer] || (priceData as any).bundles?.[peer])) ?? [];
+const showCompare = savedPeers.length >= 2;
 const notableKey = String(entry.pbProductId ?? entry.pb_url?.match(/\/(\d+)(?:-[^/]*)?\/?$/)?.[1] ?? name);
 const verifiedLive = dealState(entry, Date.now()) === 'live';
 const buildDate = new Date().toISOString().slice(0, 10);
@@ -920,6 +932,18 @@ const faqLD = {
           </div>
         </div>
 
+      {content && <AtAGlance content={content} verdict={verdictCopy} peers={savedPeers} />}
+      {content && <ProductOverview content={content} tagline={tagline} makerQuote={makerQuote} name={name} />}
+      {content && (demoVideo || content.sound?.length || content.lineage?.length) && <section class="page-section about-product content-depth" data-content-block="sound"><h2 class="section-title">How it sounds</h2>
+        {demoVideo && <div class="demo-section" data-video-official={String(demoVideo.official === true)} data-video-id={demoVideo.video_id} data-video-title={demoVideo.title}>
+          <div id="demo-block" data-video-id={demoVideo.video_id} data-video-official={String(demoVideo.official === true)}><button id="demo-btn" type="button" data-video-id={demoVideo.video_id} title={`Play ${demoVideo.title}`} aria-label={`Play ${demoVideo.title}`}><img src={`https://i.ytimg.com/vi/${demoVideo.video_id}/hqdefault.jpg`} alt="" loading="lazy" width="480" height="270" /><span class="demo-play" aria-hidden="true">▶</span></button></div><p class="demo-caption">{demoVideo.title}</p>
+        </div>}
+        {content.sound?.filter((item: any) => item.term && item.evidence?.toLowerCase().includes(item.term.toLowerCase())).slice(0, 1).map((item: any) => <blockquote><q>{item.evidence}</q> — {productBrand}</blockquote>)}
+        {content.lineage?.filter((item: any) => item.evidence).slice(0, 1).map((item: any) => <blockquote><q>{item.evidence}</q> — {productBrand}</blockquote>)}
+      </section>}
+      {content && content.uses?.filter((item: any) => item.label && item.evidence).length >= 2 && <section class="page-section content-depth" data-content-block="uses"><h2 class="section-title">What the maker says it's for</h2><p>Uses named on the product page: {content.uses.filter((item: any) => item.label && item.evidence).map((item: any) => item.label).join(' · ')}</p></section>}
+      {content && <BeforeYouBuy content={content} facts={productFacts} />}
+      {content && showCompare && <CompareTable name={name} content={content} priceData={priceData} pluginFacts={pluginFacts} category={category} />}
       {(share || gaps || rank || distance || alertTargetPrice !== null || episodeDetails.length > 0) && <section class="page-section pp-evidence" id="evidence" data-pp-evidence aria-labelledby="pp-evidence-title">
         <h2 class="section-title" id="pp-evidence-title">What our checks show for {name}</h2>
         <dl class="pp-facts">
@@ -932,7 +956,7 @@ const faqLD = {
         {episodeDetails.length > 0 && <div class="record-table-wrap" data-pp-element="episodes" data-episodes={episodeDetails.length}><table class="record-table"><thead><tr><th>Episode</th><th>First seen</th><th>Last seen</th><th>Depth</th>{episodeDetails.length > 1 && <><th>Previous depth</th><th>Days since previous</th></>}<th>Return to regular</th></tr></thead><tbody>{episodeDetails.map(item => <tr><td>{item.number}</td><td>{item.start}</td><td>{item.end}</td><td>{item.depth === null ? '—' : `${item.depth}%`}</td>{episodeDetails.length > 1 && <><td>{item.previousDepth === null ? '—' : `${item.previousDepth}%`}</td><td>{item.daysSincePrevious ?? '—'}</td></>}<td>{item.returnDate ? `${formatPrice(item.returnPrice)} on ${item.returnDate}` : 'Not observed'}</td></tr>)}</tbody></table></div>}
       </section>}
 
-      {(demoVideo || (makerQuote && makerAttribution && copyLine.kind !== 'maker')) && <section class="page-section about-product" aria-labelledby="about-product-title">
+      {!content && (demoVideo || (makerQuote && makerAttribution && copyLine.kind !== 'maker')) && <section class="page-section about-product" aria-labelledby="about-product-title">
         <h2 class="section-title" id="about-product-title">About {name}</h2>
         {demoVideo && <div class="demo-section" data-video-official={String(demoVideo.official === true)} data-video-id={demoVideo.video_id} data-video-title={demoVideo.title}>
           <h3>Demo video</h3>
@@ -1161,7 +1185,7 @@ const faqLD = {
         </script>
       </section>
 
-      <ProductFacts facts={productFacts} />
+      {!content && <ProductFacts facts={productFacts} />}
       {saleRows.length > 0 && (
         <section class="page-section">
           <h2 class="section-title">Sales we tracked at Plugin Boutique</h2>
@@ -1206,7 +1230,7 @@ const faqLD = {
         </section>
       )}
 
-      <AlternativesRail deals={peerDeals} compact />
+      {!showCompare && <AlternativesRail deals={peerDeals} compact />}
 
       {guides.length > 0 && (
         <section class="page-section">

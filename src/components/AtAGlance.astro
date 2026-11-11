@@ -1,0 +1,10 @@
+---
+import { atAGlanceRows } from '../lib/productContent.mjs';
+const { content, verdict, peers } = Astro.props;
+const rows = atAGlanceRows(content, verdict, peers);
+---
+{rows.length >= 2 && <section class="page-section content-depth" data-content-block="glance" aria-label="At a glance">
+  <h2 class="section-title">At a glance</h2>
+  <dl>{rows.map(row => <div><dt>{row.label}</dt><dd>{row.href ? <a href={row.href}>{row.text}</a> : row.text}</dd></div>)}</dl>
+</section>}
+<style>.content-depth dl{display:grid;gap:.65rem}.content-depth dl div{display:grid;grid-template-columns:7rem 1fr;gap:1rem}.content-depth dt{font-weight:700}.content-depth dd{margin:0}@media(max-width:600px){.content-depth dl div{grid-template-columns:1fr;gap:.1rem}}</style>

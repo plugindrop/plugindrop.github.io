@@ -1,0 +1,35 @@
+---
+import { formatPrice, currentPriceOf, regularPriceOf } from '../lib/priceUtils';
+import { lowestSeen } from '../lib/priceBasis.mjs';
+import { formatsLine, displayPresetCount } from '../lib/pluginFacts.mjs';
+import { categoryShareLine, priceRankLine } from '../lib/productContent.mjs';
+const { name, content, priceData, pluginFacts, category } = Astro.props;
+const peers = (content?.peers ?? []).filter(peer => typeof peer === 'string' && peer !== name && (priceData.plugins?.[peer] || priceData.bundles?.[peer])).slice(0, 3);
+const names = [name, ...peers];
+const records = names.map(n => priceData.plugins?.[n] || priceData.bundles?.[n]);
+const facts = names.map(n => pluginFacts[n]);
+const shown = value => value == null || value === '' ? 'Not listed' : String(value);
+const rows = [
+  ['Price at our last check', records.map(e => e ? formatPrice(currentPriceOf(e)) : null)],
+  ['Regular', records.map(e => e ? formatPrice(regularPriceOf(e)) : null)],
+  ["Lowest we've tracked", records.map(e => e ? formatPrice(lowestSeen(e)?.price ?? null) : null)],
+  ['Formats', facts.map(f => formatsLine(f))],
+  ['macOS', facts.map(f => f?.mac_req?.split(';')[0]?.trim())],
+  ['Windows', facts.map(f => f?.win_req?.split(';')[0]?.trim())],
+  ['Presets', facts.map(f => displayPresetCount(f))],
+  ["What the maker says it's for", names.map(n => n === name ? content?.uses?.slice(0, 3).map(u => u.label).join(', ') : null)],
+];
+const allNames = Object.keys({ ...priceData.plugins, ...priceData.bundles });
+const categoryNames = allNames.filter(n => (priceData.plugins?.[n] || priceData.bundles?.[n])?.category === category);
+const share = categoryShareLine({ count: categoryNames.length, aax: categoryNames.filter(n => /\bAAX\b/i.test(formatsLine(pluginFacts[n]) || '')).length, appleSilicon: categoryNames.filter(n => /Apple Silicon|\bM[123]\b|Universal 2/i.test(pluginFacts[n]?.mac_req || '')).length, category });
+const date = records[0]?.history?.filter(row => row.date).at(-1)?.date;
+const sameDay = categoryNames.filter(n => (priceData.plugins?.[n] || priceData.bundles?.[n])?.history?.some(row => row.date === date));
+const ownPrice = currentPriceOf(records[0]);
+const rank = ownPrice == null ? null : 1 + sameDay.filter(n => currentPriceOf(priceData.plugins?.[n] || priceData.bundles?.[n]) < ownPrice).length;
+const rankLine = priceRankLine({ rank, count: sameDay.length, category, price: formatPrice(ownPrice), date });
+---
+{peers.length >= 2 && <section class="page-section content-depth" data-content-block="compare" id="how-it-compares">
+  <h2 class="section-title">How it compares</h2>
+  <div class="record-table-wrap"><table class="record-table"><thead><tr><th scope="col">Measure</th>{names.map(n => <th scope="col">{n}</th>)}</tr></thead><tbody>{rows.map(([label, values]) => <tr><th scope="row">{label}</th>{values.map(value => <td>{shown(value)}</td>)}</tr>)}</tbody></table></div>
+  {share && <p>{share}</p>}{rankLine && <p>{rankLine}</p>}
+</section>}
