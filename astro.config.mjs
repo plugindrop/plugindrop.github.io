@@ -13,6 +13,7 @@ import { staticRedirects } from './src/data/plugin_price_redirects.mjs';
 import { noindexPricePagePaths } from './src/lib/indexPolicy.mjs';
 import yaml from 'js-yaml';
 import { sitemapLastmod } from './src/lib/sitemapLastmod.mjs';
+import { publicTagCounts, isIndexableTagUrl } from './src/lib/tagIndexPolicy.mjs';
 
 // config.yaml の affiliate_links で "TEST" プレースホルダのドメイン（未承認・非収益）は含めない。
 // generator.py の承認済み判定（TESTプレースホルダなし＝承認済み）と揃える。
@@ -69,6 +70,8 @@ const sitemapPosts = fs.readdirSync(blogDir).filter((name) => /\.mdx?$/.test(nam
 	return [{ id, data }];
 });
 
+const sitemapTagCounts = publicTagCounts(sitemapPosts);
+
 const redirectUrls = new Set([
 	...Object.keys(activeExpiredRedirects).map((slug) => new URL(`/posts/${slug}/`, siteUrl).href),
 	...Object.keys(staticRedirects).map((path) => new URL(path, siteUrl).href),
@@ -119,6 +122,7 @@ export default defineConfig({
 	integrations: [mdx(), sitemap({
 		filter(page) {
 			return new URL(page).pathname !== '/compare/'
+				&& isIndexableTagUrl(page, sitemapTagCounts)
 				&& !redirectUrls.has(page)
 				&& !noindexPriceUrls.has(page)
 				&& !unlistedCompareUrls.has(page)
