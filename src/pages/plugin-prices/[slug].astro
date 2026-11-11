@@ -115,7 +115,7 @@ const { slug } = Astro.params;
 
 // Verified demo video for this product (built by build_product_videos.py from
 // already-audited article embeds; only high-confidence matches are included).
-interface ProductVideo { video_id: string; title: string; channel: string; official?: boolean }
+interface ProductVideo { video_id: string; title: string; channel: string; official?: boolean; source?: string }
 const productVideos = productVideosRaw as Record<string, ProductVideo>;
 const demoVideo: ProductVideo | null = productVideos[name] ?? null;
 
@@ -932,7 +932,17 @@ const faqLD = {
         {episodeDetails.length > 0 && <div class="record-table-wrap" data-pp-element="episodes" data-episodes={episodeDetails.length}><table class="record-table"><thead><tr><th>Episode</th><th>First seen</th><th>Last seen</th><th>Depth</th>{episodeDetails.length > 1 && <><th>Previous depth</th><th>Days since previous</th></>}<th>Return to regular</th></tr></thead><tbody>{episodeDetails.map(item => <tr><td>{item.number}</td><td>{item.start}</td><td>{item.end}</td><td>{item.depth === null ? '—' : `${item.depth}%`}</td>{episodeDetails.length > 1 && <><td>{item.previousDepth === null ? '—' : `${item.previousDepth}%`}</td><td>{item.daysSincePrevious ?? '—'}</td></>}<td>{item.returnDate ? `${formatPrice(item.returnPrice)} on ${item.returnDate}` : 'Not observed'}</td></tr>)}</tbody></table></div>}
       </section>}
 
-      {makerQuote && makerAttribution && copyLine.kind !== 'maker' && <section class="page-section" data-maker-quote><h2 class="section-title">What the maker says</h2><blockquote><q cite={makerQuote.source_url}>{makerQuote.quote}</q> — {makerAttribution}</blockquote><a href={makerQuote.source_url} rel="nofollow noopener sponsored" target="_blank">Source</a></section>}
+      {(demoVideo || (makerQuote && makerAttribution && copyLine.kind !== 'maker')) && <section class="page-section about-product" aria-labelledby="about-product-title">
+        <h2 class="section-title" id="about-product-title">About {name}</h2>
+        {demoVideo && <div class="demo-section" data-video-official={String(demoVideo.official === true)} data-video-id={demoVideo.video_id} data-video-title={demoVideo.title}>
+          <h3>Demo video</h3>
+          <div id="demo-block" data-video-id={demoVideo.video_id} data-video-official={String(demoVideo.official === true)}>
+            <button id="demo-btn" type="button" data-video-id={demoVideo.video_id} title={`Play ${demoVideo.title}`} aria-label={`Play ${demoVideo.title}`}><img src={`https://i.ytimg.com/vi/${demoVideo.video_id}/hqdefault.jpg`} alt="" loading="lazy" width="480" height="270" /><span class="demo-play" aria-hidden="true">▶</span></button>
+          </div>
+          <p class="demo-caption">{demoVideo.title} — {demoVideo.channel} {demoVideo.official && <span class="demo-badge">Official</span>} {demoVideo.source === 'pb_page' && <span>As shown on Plugin Boutique</span>}</p>
+        </div>}
+        {makerQuote && makerAttribution && copyLine.kind !== 'maker' && <div class="maker-quote" data-maker-quote><h3>What the maker says</h3><blockquote><q cite={makerQuote.source_url}>{makerQuote.quote}</q><footer>— {makerAttribution} · <a href={makerQuote.source_url} rel="nofollow noopener sponsored" target="_blank">Source</a></footer></blockquote></div>}
+      </section>}
 
       <section class="page-section" id="decision">
         <h2 class="section-title">Buy now or wait? — what our records show</h2>
@@ -1197,7 +1207,6 @@ const faqLD = {
       )}
 
       <AlternativesRail deals={peerDeals} compact />
-      {demoVideo && <section class="page-section demo-section" data-video-official={String(demoVideo.official === true)} data-video-id={demoVideo.video_id} data-video-title={demoVideo.title}><div id="demo-block" data-video-id={demoVideo.video_id} data-video-official={String(demoVideo.official === true)}><button id="demo-btn" type="button" data-video-id={demoVideo.video_id} title={demoVideo.title}>▶ Watch a demo</button></div></section>}
 
       {guides.length > 0 && (
         <section class="page-section">
@@ -1334,7 +1343,16 @@ const faqLD = {
   .alternatives-list .new-deal-card{min-height:0;height:290px;overflow:hidden}
   .alternatives-list .new-deal-card .card-art{height:145px;aspect-ratio:16/10}
   .alternatives-list .new-deal-card .card-copy-line,.alternatives-list .new-deal-card .formats-line,.alternatives-list .new-deal-card .support-chip,.alternatives-list .new-deal-card .desktop-card-meta{display:none}
-  .demo-section button{width:100%;padding:.7rem 1rem;text-align:left;color:var(--accent);background:var(--bg-card);border:1px solid var(--border);cursor:pointer}
+  .about-product{border:1px solid var(--border);background:var(--bg-card);padding:1.25rem}
+  .about-product h3{font:700 1.1rem var(--font-display);margin:1rem 0 .65rem}
+  .demo-section{max-width:720px}
+  .demo-section button{position:relative;display:block;width:100%;padding:0;border:0;background:#000;cursor:pointer;aspect-ratio:16/9;overflow:hidden}
+  .demo-section button img{display:block;width:100%;height:100%;object-fit:cover}
+  .demo-play{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);display:grid;place-items:center;width:4rem;height:4rem;border-radius:50%;background:var(--accent);color:#fff;font-size:1.7rem}
+  .demo-caption{font-size:.9rem;line-height:1.5;margin:.6rem 0}
+  .demo-badge{font-size:.75rem;font-weight:700;color:var(--accent);margin-left:.4rem}
+  .maker-quote blockquote{margin:.5rem 0;padding:1rem 1.2rem;border-left:3px solid var(--accent);line-height:1.6}
+  .maker-quote footer{margin-top:.65rem;font-size:.85rem;color:var(--text-secondary)}
   .sticky-buy{display:none}
   @media(max-width:680px){
     main#main-content{padding:.75rem .75rem 2rem}
