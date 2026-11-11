@@ -1,3 +1,6 @@
+import productContent from '../data/product_content.json' with { type: 'json' };
+import contentRollout from '../data/content_rollout.json' with { type: 'json' };
+import { hasContentDepth } from './productContent.mjs';
 import { rankLiveDeals, pbProductId } from './dealRanking.mjs';
 import { detectBrand, tierOf } from './brands.mjs';
 import { categoryForProduct } from './categoryInference.mjs';
@@ -46,9 +49,12 @@ export function buildDealPool(entries, posts, now) {
 function cardChannel(source) { return { home: ['home', 'homepage', 'home-card'], tracker: ['home', 'homepage', 'home-card'], article: ['art', 'article', 'alternatives'] }[source] ?? ['home', 'homepage', 'home-card']; }
 
 const sectionData1 = (name, section) => `${slugify(name)}${section ? `--${section}` : ''}`;
-export function cardTarget(deal, priceData, source = 'home', section) {
-  if (deal.post && !isPostDealEnded(deal.post, { [deal.name]: deal.entry })) return `/posts/${deal.post.id}/`;
-  if (deal.kind === 'tracker' && isProductNameIndexable(priceData, deal.name)) return `/plugin-prices/${slugify(deal.name)}/`;
+export function cardTarget(deal, priceData, source = 'home', section, contentData = productContent, rollout = contentRollout) {
+  const pricePage = deal.kind === 'tracker' && isProductNameIndexable(priceData, deal.name);
+  const postPage = deal.post && !isPostDealEnded(deal.post, { [deal.name]: deal.entry });
+  if (process.env.HOME_CARD_TARGET !== 'post_first' && pricePage && hasContentDepth(deal.name, contentData, rollout)) return `/plugin-prices/${slugify(deal.name)}/`;
+  if (postPage) return `/posts/${deal.post.id}/`;
+  if (pricePage) return `/plugin-prices/${slugify(deal.name)}/`;
   const channel = cardChannel(source);
   return pbLink(deal.entry.pb_url, `chan=${channel[0]}`, { medium: channel[1], campaign: channel[2], data1: sectionData1(deal.name, section), placement: 'home-card' });
 }
