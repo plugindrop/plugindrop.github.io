@@ -47,7 +47,7 @@ import productVideos from '../data/product_videos.json';
 import { comparisonPriceFacts, sameCategoryPeers } from '../lib/priceInsights.mjs';
 import { discountCheck } from '../lib/discountCheck.mjs';
 import { toCardModel } from '../lib/homeDeals.mjs';
-import { isPricePageIndexable } from '../lib/indexPolicy.mjs';
+import { isPricePageIndexable, slugifyProduct } from '../lib/indexPolicy.mjs';
 import { dealsBoxLinks } from '../lib/dealsBoxLinks.mjs';
 import { SITE_TITLE } from '../consts';
 import priceDataRaw from '../data/price_history.json';
@@ -167,6 +167,7 @@ const _postForMatch = { id: currentSlug, data: { title, priceTrack, productKey, 
 const _trackerMatch = findTrackerEntryForPost(_postForMatch, _allTrackerEntries, rawBody);
 const _notableKey = _trackerMatch ? String(_trackerMatch.entry.pbProductId ?? _trackerMatch.entry.pb_url?.match(/\/(\d+)(?:-[^/]*)?\/?$/)?.[1] ?? _trackerMatch.name) : '';
 const _fact = _trackerMatch ? buildFactBox(_trackerMatch.entry, Date.now()) : null;
+const _fullPriceHistoryName = productKey && _allTrackerEntries[productKey] && isPricePageIndexable(_allTrackerEntries[productKey]) ? productKey : null;
 const saleExpired = _trackerMatch ? _fact?.state === 'ended' : frontmatterSaleExpired;
 const saleLapsed = _trackerMatch ? false : frontmatterSaleLapsed;
 const _trackerUntil = _trackerMatch && _fact?.state === 'live' ? [...(_trackerMatch.entry.history ?? [])].filter(row => ['auto_check', 'live_check'].includes(row.source)).sort((a,b) => a.date.localeCompare(b.date)).at(-1)?.until : null;
@@ -1295,6 +1296,7 @@ const showInlineDeals = (rawBody.match(/^## /gm) ?? []).length >= 5 && saleCards
 										</div>
 									)}
 									<DealFactBox fact={_fact} productName={productName} />
+                                    {_fullPriceHistoryName && <p><a href={`/plugin-prices/${slugifyProduct(_fullPriceHistoryName)}/`}>Full price history for {_fullPriceHistoryName} ?</a></p>}
 									<a href={_ctaHref} class="deal-cta-btn" target="_blank" rel="noopener sponsored" data-slug={currentSlug}>
 										{_ctaLabel}
 									</a>

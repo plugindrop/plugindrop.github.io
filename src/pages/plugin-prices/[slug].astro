@@ -66,6 +66,7 @@ interface StaticEntry {
   kind: 'plugin' | 'bundle';
   entry: EntryData;
   guides: Array<{ title: string; slug: string; image?: string }>;
+  salePost: { title: string; slug: string } | null;
 }
 
 const DISCOUNT_CHECK_ENABLED = import.meta.env.DISCOUNT_CHECK_ENABLED !== 'false';
@@ -105,17 +106,19 @@ export async function getStaticPaths() {
       .map((p) => ({ title: p.data.title, slug: p.id, image: p.data.heroImage }));
   }
 
+  const salePostFor = (productName: string) => allPosts.find((p) => p.data.productKey === productName && typeof p.data.saleExpiry === 'string' && p.data.saleExpiry >= new Date().toISOString().slice(0, 10));
   const rows: StaticEntry[] = [];
   for (const [n, e] of Object.entries(_plugins)) rows.push({ name: n, kind: 'plugin', entry: e, guides: [] });
   for (const [n, e] of Object.entries(_bundles)) rows.push({ name: n, kind: 'bundle', entry: e, guides: [] });
 
   return uniquePricePaths(rows).map(({ name, kind, entry }) => ({
     params: { slug: slugifyProduct(name) },
-    props: { name, kind, entry, guides: findGuides(name) },
+    props: { name, kind, entry, guides: findGuides(name), salePost: salePostFor(name) ? { title: salePostFor(name)!.data.title, slug: salePostFor(name)!.id } : null },
   }));
 }
 
-const { name, kind, entry, guides } = Astro.props as StaticEntry;
+const { name, kind, entry, guides, salePost } = Astro.props as StaticEntry;
+const remainingGuides = guides.filter((guide) => guide.slug !== salePost?.slug);
 const measuredRows = measuredPriceChecks(entry);
 const episodeDetails = episodeRows(entry);
 const { slug } = Astro.params;
@@ -934,6 +937,7 @@ const faqLD = {
 
       {content && <AtAGlance content={content} verdict={verdictCopy} peers={savedPeers} />}
       {content && <ProductOverview content={content} tagline={tagline} makerQuote={makerQuote} name={name} />}
+      {salePost && <p class="page-section"><a href={`/posts/${salePost.slug}/`}>Read the full write-up: {salePost.title} ?</a></p>}
       {content && (demoVideo || content.sound?.length || content.lineage?.length) && <section class="page-section about-product content-depth" data-content-block="sound"><h2 class="section-title">How it sounds</h2>
         {demoVideo && <div class="demo-section" data-video-official={String(demoVideo.official === true)} data-video-id={demoVideo.video_id} data-video-title={demoVideo.title}>
           <div id="demo-block" data-video-id={demoVideo.video_id} data-video-official={String(demoVideo.official === true)}><button id="demo-btn" type="button" data-video-id={demoVideo.video_id} title={`Play ${demoVideo.title}`} aria-label={`Play ${demoVideo.title}`}><img src={`https://i.ytimg.com/vi/${demoVideo.video_id}/hqdefault.jpg`} alt="" loading="lazy" width="480" height="270" /><span class="demo-play" aria-hidden="true">▶</span></button></div><p class="demo-caption">{demoVideo.title}</p>
@@ -1232,11 +1236,11 @@ const faqLD = {
 
       {!showCompare && <AlternativesRail deals={peerDeals} compact />}
 
-      {guides.length > 0 && (
+      {remainingGuides.length > 0 && (
         <section class="page-section">
           <h2 class="section-title">Guides featuring {name}</h2>
           <div class="guide-list">
-            {guides.map((g) => (
+            {remainingGuides.map((g) => (
               <a href={`/posts/${g.slug}/`} class="guide-item">{g.image && <img src={g.image} alt="" width="480" height="300" loading="lazy" />}<span>{g.title}</span></a>
             ))}
           </div>

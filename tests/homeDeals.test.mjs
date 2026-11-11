@@ -119,3 +119,36 @@ test('home PB links carry the section in data1 and retain chan=home', () => {
     }
   }
 });
+
+for (const flag of ['price_first', 'post_first']) {
+  test(`cardTarget routing table: ${flag}`, () => {
+    const old = process.env.HOME_CARD_TARGET;
+    process.env.HOME_CARD_TARGET = flag;
+    try {
+      const name = 'Waves Plate';
+      const tracked = { ...entry(12345, '/images/product.jpg'), history: [
+        { date: '2026-01-01', source: 'auto_check', sale: 20, regular: 100 },
+        { date: '2026-02-01', source: 'auto_check', sale: null, regular: 100 },
+        { date: new Date().toISOString().slice(0, 10), source: 'auto_check', sale: 20, regular: 100 },
+      ] };
+      const deep = { overview: 'A plate reverb.', uses: [{ label: 'Vocals', evidence: 'Vocals' }, { label: 'Drums', evidence: 'Drums' }], before_you_buy: [{ evidence: 'Check compatibility' }] };
+      const post = { id: 'plate-sale', data: { productKey: name, saleExpiry: '2099-01-01', affiliate: tracked.pb_url } };
+      const cases = [
+        { label: 'post and depth', post, indexable: true, content: deep, expected: flag === 'price_first' ? '/plugin-prices/waves-plate/' : '/posts/plate-sale/' },
+        { label: 'post without depth', post, indexable: true, content: {}, expected: '/posts/plate-sale/' },
+        { label: 'indexable without post', post: null, indexable: true, content: {}, expected: '/plugin-prices/waves-plate/' },
+        { label: 'neither', post: null, indexable: false, content: {}, expected: 'pb' },
+      ];
+      for (const row of cases) {
+        const deal = { name, entry: tracked, kind: 'tracker', post: row.post };
+        const priceData = { plugins: row.indexable ? { [name]: tracked } : {}, bundles: {} };
+        const href = cardTarget(deal, priceData, 'home', undefined, { [name]: row.content }, { allow: [name] });
+        if (row.expected === 'pb') assert.match(href, /chan=home/, row.label);
+        else assert.equal(href, row.expected, row.label);
+      }
+    } finally {
+      if (old === undefined) delete process.env.HOME_CARD_TARGET;
+      else process.env.HOME_CARD_TARGET = old;
+    }
+  });
+}
