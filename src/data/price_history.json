@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11",
+  "last_updated": "2026-11-12",
   "bundles": {
     "Arturia FX Collection 6 Pro": {
       "pb_url": "/product/81-Bundles/39-Effects-Bundles/16835-FX-Collection-6-PRO",
@@ -2895,7 +2895,9 @@
           "until": "2026-12-09"
         }
       ],
-      "image": "/images/plugin-prices/amber-2.jpg"
+      "image": "/images/plugin-prices/amber-2.jpg",
+      "image_lg": "/images/plugin-prices/amber-2-lg.jpg",
+      "image_lg_width": 625
     },
     "Addictive Drums 2 Custom Collection": {
       "pb_url": "/product/1-Instruments/57-Complete-Collection/8236-Addictive-Drums-2-Custom-Collection",
@@ -4748,7 +4750,10 @@
           "until": "2026-11-29"
         }
       ],
-      "category": "Synth"
+      "category": "Synth",
+      "image": "/images/plugin-prices/arturia-analog-lab-pro.jpg",
+      "image_lg": "/images/plugin-prices/arturia-analog-lab-pro-lg.jpg",
+      "image_lg_width": 625
     },
     "Arturia Augmented STRINGS": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/9812-Augmented-STRINGS",
@@ -6307,7 +6312,9 @@
           "until": "2026-12-09"
         }
       ],
-      "image": "/images/plugin-prices/atoms.jpg"
+      "image": "/images/plugin-prices/atoms.jpg",
+      "image_lg": "/images/plugin-prices/atoms-lg.jpg",
+      "image_lg_width": 625
     },
     "AudioThing Outer Space 2": {
       "pb_url": "https://www.audiothing.net/effects/outer-space/",
@@ -7007,9 +7014,20 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-11"
+        },
+        {
+          "date": "2026-11-12",
+          "sale": 49.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/beam-2-0.jpg"
+      "image": "/images/plugin-prices/beam-2-0.jpg",
+      "image_lg": "/images/plugin-prices/beam-2-0-lg.jpg",
+      "image_lg_width": 625
     },
     "BFD 3.5": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/848-BFD-3-5",
@@ -7415,9 +7433,20 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-25"
+        },
+        {
+          "date": "2026-11-12",
+          "sale": 35.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
-      "image": "/images/plugin-prices/bfd-3-5.jpg"
+      "image": "/images/plugin-prices/bfd-3-5.jpg",
+      "image_lg": "/images/plugin-prices/bfd-3-5-lg.jpg",
+      "image_lg_width": 625
     },
     "Baby Audio Comeback Kid": {
       "pb_url": "/product/2-Effects/10-Delay/6204-Comeback-Kid",
@@ -7660,7 +7689,9 @@
           "until": "2026-12-09"
         }
       ],
-      "image": "/images/plugin-prices/baby-audio-comeback-kid.jpg"
+      "image": "/images/plugin-prices/baby-audio-comeback-kid.jpg",
+      "image_lg": "/images/plugin-prices/baby-audio-comeback-kid-lg.jpg",
+      "image_lg_width": 625
     },
     "Baby Audio Crystalline": {
       "pb_url": "/product/2-Effects/17-Reverb/8900-Crystalline",
@@ -8035,10 +8066,21 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-12-09"
+        },
+        {
+          "date": "2026-11-12",
+          "sale": 5.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "category": "Reverb",
-      "image": "/images/plugin-prices/baby-audio-crystalline.jpg"
+      "image": "/images/plugin-prices/baby-audio-crystalline.jpg",
+      "image_lg": "/images/plugin-prices/baby-audio-crystalline-lg.jpg",
+      "image_lg_width": 625
     },
     "Baby Audio Grainferno": {
       "pb_url": "/product/1-Instruments/4-Synth/16951-Grainferno",
@@ -8727,7 +8769,9 @@
           "until": "2026-12-09"
         }
       ],
-      "image": "/images/plugin-prices/baby-audio-i-heart-ny.jpg"
+      "image": "/images/plugin-prices/baby-audio-i-heart-ny.jpg",
+      "image_lg": "/images/plugin-prices/baby-audio-i-heart-ny-lg.jpg",
+      "image_lg_width": 600
     },
     "Baby Audio IHNY-2": {
       "pb_url": "/product/2-Effects/8-Compressor/9542-IHNY-2",
@@ -8925,7 +8969,9 @@
           "until": "2026-12-09"
         }
       ],
-      "image": "/images/plugin-prices/baby-audio-ihny-2.jpg"
+      "image": "/images/plugin-prices/baby-audio-ihny-2.jpg",
+      "image_lg": "/images/plugin-prices/baby-audio-ihny-2-lg.jpg",
+      "image_lg_width": 625
     },
     "Baby Audio Magic Switch": {
       "pb_url": "/product/2-Effects/11-Chorus/6975-Magic-Switch",
@@ -9186,7 +9232,9 @@
           "until": "2026-12-09"
         }
       ],
-      "image": "/images/plugin-prices/baby-audio-parallel-aggressor.jpg"
+      "image": "/images/plugin-prices/baby-audio-parallel-aggressor.jpg",
+      "image_lg": "/images/plugin-prices/baby-audio-parallel-aggressor-lg.jpg",
+      "image_lg_width": 625
     },
     "Baby Audio Smooth Operator Pro": {
       "pb_url": "/product/2-Effects/16-EQ/14607-Smooth-Operator-Pro",
@@ -13353,6 +13401,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-12-09"
+        },
+        {
+          "date": "2026-11-12",
+          "sale": 9.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/cinedream.jpg",
@@ -26514,6 +26571,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-11-12",
+          "sale": 39.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/empirical-labs-el8-distressor-compressor.jpg",
@@ -37394,6 +37460,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-30"
+        },
+        {
+          "date": "2026-11-12",
+          "sale": 389.0,
+          "regular": 778.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/excite-audio-bundle.jpg",
@@ -38232,6 +38307,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-30"
+        },
+        {
+          "date": "2026-11-12",
+          "sale": 289.0,
+          "regular": 778.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/excite-audio-bundle-crossgrade-from-any-excite-audio-product.jpg",
@@ -44855,7 +44939,8 @@
           "until": "2026-12-18"
         }
       ],
-      "category": "Instrument"
+      "category": "Instrument",
+      "image": "/images/plugin-prices/heavyocity-novo-modern-strings.jpg"
     },
     "INTENSITY 2": {
       "pb_url": "/product/2-Effects/71-Dynamics-Processor/14846-INTENSITY-2",
@@ -69129,6 +69214,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-11-12",
+          "sale": 74.5,
+          "regular": 149.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "category": "Effects",
@@ -71141,6 +71235,15 @@
         },
         {
           "date": "2026-11-11",
+          "sale": 99.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-11-12",
           "sale": 99.0,
           "regular": 199.0,
           "source": "pb_deals_poll",
@@ -77884,6 +77987,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-12-07"
+        },
+        {
+          "date": "2026-11-12",
+          "sale": 69.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/scaler-3.jpg",
@@ -83043,6 +83155,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-11-12",
+          "sale": 39.0,
+          "regular": 156.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ]
     },
@@ -83819,6 +83940,15 @@
         },
         {
           "date": "2026-11-11",
+          "sale": 49.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-11-12",
           "sale": 49.0,
           "regular": 99.0,
           "source": "pb_deals_poll",
@@ -91790,6 +91920,15 @@
         },
         {
           "date": "2026-11-11",
+          "sale": 49.99,
+          "regular": 1499.92,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-11-12",
           "sale": 49.99,
           "regular": 1499.92,
           "source": "pb_deals_poll",
@@ -107814,6 +107953,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-30"
+        },
+        {
+          "date": "2026-11-12",
+          "sale": 49.0,
+          "regular": 89.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/vision-4x.jpg",
@@ -112058,6 +112206,24 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-12-01"
+        },
+        {
+          "date": "2026-11-11",
+          "sale": 49.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-11-12",
+          "sale": 49.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/wavesfactory-spectre.jpg"
@@ -112385,6 +112551,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-12-01"
+        },
+        {
+          "date": "2026-11-12",
+          "sale": 29.0,
+          "regular": 59.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/wavesfactory-trackspacer.jpg"
@@ -122208,7 +122383,8 @@
           "cur": "USD",
           "until": "2026-11-15"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/metatune.jpg"
     },
     "E1": {
       "pb_url": "/product/2-Effects/71-Dynamics-Processor/17922-E1",
@@ -124247,7 +124423,8 @@
           "cur": "USD",
           "until": "2026-12-09"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/virtual-bassist-bundle-2.jpg"
     },
     "Addictive Drums 2 Custom XL Collection": {
       "pb_url": "/product/1-Instruments/57-Complete-Collection/8237-Addictive-Drums-2-Custom-XL-Collection",
@@ -124498,7 +124675,8 @@
           "cur": "USD",
           "until": "2026-12-09"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/silk-2.jpg"
     },
     "Virtual Guitarist Bundle": {
       "pb_url": "/product/81-Bundles/58-Instrument-Bundles/11881-Virtual-Guitarist-Bundle",
@@ -124580,7 +124758,8 @@
           "cur": "USD",
           "until": "2026-12-09"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/virtual-guitarist-bundle.jpg"
     },
     "Addictive Drums 2 Classic Rock Collection": {
       "pb_url": "/product/1-Instruments/70-Expansion-Packs/8235-Addictive-Drums-2-Classic-Rock-Collection",
@@ -125327,6 +125506,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-30"
+        },
+        {
+          "date": "2026-11-12",
+          "sale": 29.99,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/amplitube-5.jpg",
@@ -126315,6 +126503,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-12-01"
+        },
+        {
+          "date": "2026-11-12",
+          "sale": 29.0,
+          "regular": 49.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/snapback.jpg",
@@ -128587,6 +128784,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-11-12",
+          "sale": 19.0,
+          "regular": 39.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/rc-20-retro-color-v2-upgrade.jpg",
@@ -128652,6 +128858,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-11-12",
+          "sale": 59.4,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/vocalign-7-pro-upgrade.jpg"
@@ -128709,6 +128924,15 @@
         },
         {
           "date": "2026-11-11",
+          "sale": 99.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-11-12",
           "sale": 99.0,
           "regular": 129.0,
           "source": "pb_deals_poll",
@@ -129134,6 +129358,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-11-12",
+          "sale": 19.99,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "article_slug": "ssl-blitzer-4287ec",
@@ -129177,6 +129410,11 @@
           "cur": "USD"
         }
       ]
+    },
+    "SSL Native Bus Compressor 2": {
+      "pb_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/8651-SSL-Native-Bus-Compressor-2?a_aid=69cb95abe1763&chan=art&data2=deal-article",
+      "history": [],
+      "article_slug": "ssl-native-bus-compressor-2-50a0ef"
     }
   }
 }

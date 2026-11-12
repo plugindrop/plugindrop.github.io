@@ -1,112 +1,81 @@
 ---
-title: "87% Off SSL Native Bus Compressor 2"
-description: "SSL Native Bus Compressor 2 is now $19 ($149) at Plugin Boutique — roughly 87% off one of the most iconic mix bus compressors in software form..."
-pubDate: "2026-05-13T09:40:57Z"
-tags: ["sale", "vst-plugin", "effects", "compressor", "music-production"]
-affiliate: "https://www.pluginboutique.com/product/2-Effects/8-Compressor/8651-SSL-Native-Bus-Compressor-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-bus-compressor-2-50a0ef&chan=art&data1=ssl-native-bus-compressor-2-50a0ef"
+title: "87% Off SSL Native Bus Compressor 2 — Mix Bus Glue Compression"
+description: "SSL Native Bus Compressor 2 is down 87% off its regular $149 price at Plugin Boutique. It's the plugin version of SSL's console bus compressor, built to..."
+pubDate: "2026-11-12T07:10:37Z"
+tags: ["sale", "music-production"]
+affiliate: "https://www.pluginboutique.com/search?q=SSL+Native+Bus+Compressor+2&a_aid=69cb95abe1763&chan=art&data1=ssl-native-bus-compressor-2-50a0ef&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-bus-compressor-2-50a0ef"
 heroImage: "/images/ssl-native-bus-compressor-2-50a0ef.jpg"
-score: 9.84
-dealPrice: "$19"
-originalPrice: "$149"
+score: 10.00
+rawScore: 12.75
+productKey: "SSL Native Bus Compressor 2"
+priceRecordPending: true
+dealPrice: "$19.00"
+originalPrice: "$149.00"
 discount: "87% OFF"
-xText: "ssl bus compressor 2 launched today and honestly it's wild that it's already discounted. 87% off doesn't sound like much but ssl never goes on sale. this is the glue your mix is missing."
+saleExpiry: "2026-12-12"
+saleExpirySource: "fallback"
 draft: true
 ---
-**TL;DR:** SSL Native Bus Compressor 2 is now $19 (~~$149~~) at Plugin Boutique — roughly 87% off one of the most iconic mix bus compressors in software form, built by the original hardware manufacturer. [Grab it at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8651-SSL-Native-Bus-Compressor-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-bus-compressor-2-50a0ef&chan=art&data1=ssl-native-bus-compressor-2-50a0ef)
-
----
+**TL;DR:** SSL Native Bus Compressor 2 is down 87% off its regular ~~$149~~ price at Plugin Boutique. It's the plugin version of SSL's console bus compressor, built to glue a mix together while keeping the dynamic feel of the material even when you push the ratio. [Check the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=SSL+Native+Bus+Compressor+2&a_aid=69cb95abe1763&chan=art&data1=ssl-native-bus-compressor-2-50a0ef&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-bus-compressor-2-50a0ef) before it goes back up.
 
 <div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_MAhfOUnZpM" title="87% off SSL Native Bus Compressor 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/LYcPQkvnPVI" title="87% Off SSL Native Bus Compressor 2 — Mix Bus Glue Compression — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
-## What Is SSL Native Bus Compressor 2?
+## What you actually get
 
-SSL Native Bus Compressor 2 is Solid State Logic's official software recreation of the legendary SSL G-Series Bus Compressor — the hardware unit found on SSL 4000 G consoles that helped shape the sound of decades of chart-topping records. Crucially, this plugin comes from the original hardware manufacturer itself, not a third-party emulation house. It's designed to bring that classic "console glue" compression behavior to any DAW-based setup without the hardware overhead.
+SSL lists this as the long-running "glue & punch maker" updated for 2021, the same character engineers have reached for on mix buses for years. According to the product listing, it's specifically known for its ability to "glue together" a mix rather than squashing it flat.
 
----
+- SSL lists updated Attack, Release, and Compression Ratio controls, giving you finer shaping on the bus than older versions allowed.
+- The product listing notes the compressor retains the dynamic character of a mix even at higher ratios, which matters if you compress hard but still want transients to breathe.
+- SSL lists a dry/wet parallel processing control and a sidechain highpass filter, so you can blend in compression without losing low-end punch or triggering pumping from bass content.
+- According to the product listing, it integrates with SSL 360 and can be controlled from 360-enabled hardware surfaces such as the UC1 and UF8, useful if you're already on an SSL-based control workflow.
 
-## Key Features
+## Where it fits in a session
 
-- **SSL G-Series Circuit Modeling:** Built from the original hardware architecture, targeting the VCA-style compression that engineers have leaned on for mix bus work for decades.
-- **Multiple Attack and Release Options:** Selectable attack and release times let you control how the compressor responds to transients — from punchy to smooth.
-- **Auto-Release Mode:** Dynamically adapts release timing to incoming audio material, reducing manual tweaking on complex mixes.
-- **Sidechain High-Pass Filter:** Prevents low-frequency energy from driving unnecessary gain reduction — key for keeping kick and bass from causing unwanted pumping on the bus.
-- **Mix Knob for Parallel Compression:** Blend wet and dry signals directly in the plugin without extra routing, making New York-style parallel compression straightforward.
-- **Multiple Ratio Settings:** Covers light glue compression through to more assertive bus control depending on the mix's needs.
+This is a bus tool, not a channel-strip compressor. Drop it across the full mix bus, a drum bus, or a vocal stack where you want multiple elements to sit together as one unit. The dry/wet control makes it workable as a parallel compression trick on a drum group, blending the squashed signal under the uncompressed one. The sidechain highpass filter is the piece that matters most when the source has heavy low end, since it keeps kick and bass from dragging the gain reduction around.
 
----
+## Pricing and deal details
 
-## What Producers Are Saying
+Plugin Boutique has this listed at 87% off the regular $149 price. That's the context tracked for this deal; check the product page for the current checkout price before buying, since storewide promotions can change without notice. There's no bundle or per-unit math here, it's a single plugin at a single discounted rate.
 
-The SSL G-Series Bus Compressor is one of the most consistently referenced tools in mixing communities. The Native version is frequently mentioned alongside the hardware as the closest software equivalent, given its origin from the same manufacturer rather than a reverse-engineered emulation.
+## Skip it if
 
----
+- You're on a DAW or system older than what's supported: the listing specifies macOS 11 Big Sur through macOS 13 Ventura (64-bit only) or Windows 10/11 (64-bit only), so older OS versions aren't a fit.
+- You need a format outside VST3, VST2, AU, or AAX; anything else is not listed among the formats.
+- You already own an SSL-style bus compressor, hardware or plugin, that covers the same glue-compression role, since the workflow overlap would be redundant.
+- You're working on a machine at or near the 4 GB RAM minimum; SSL recommends 8 GB for comfortable headroom alongside everything else running in your session.
 
-## Who Is It For?
-
-- **Mix Engineers:** The SSL bus compressor is purpose-designed for 2-bus and mix bus processing, where adding cohesion across a full arrangement matters most.
-- **In-the-Box Producers:** Those wanting authentic SSL console character without the cost or logistics of outboard hardware.
-- **Mastering Engineers:** The plugin's reputation for transparency at lower ratios makes it a candidate for light mastering compression where color and character play a role.
-- **Studio Owners Leveling Up Their Signal Chain:** Producers ready to invest in a flagship bus compressor from a brand whose hardware has been standard in major studios for decades.
-
----
-
-## Pricing & Deal Details
-
-| Regular Price | Deal Price | You Save |
-|---|---|---|
-| ~~$149~~ | $19 | ~$139.43 (~3%) |
-
-SSL's Native lineup doesn't see aggressive discounting often — any reduction here is worth noting if this plugin is already on your radar. A 3% drop is modest, but on a premium product at this price point, it's still meaningful savings on the list price.
-
-Verify current pricing on the product page — deals can change without notice.
-
-[Get SSL Native Bus Compressor 2 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8651-SSL-Native-Bus-Compressor-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-bus-compressor-2-50a0ef&chan=art&data1=ssl-native-bus-compressor-2-50a0ef)
-
----
-
-## Alternatives at a Glance
-
-| Name | Price | Key Difference |
-|---|---|---|
-| Waves SSL G-Master Buss Compressor | Check product page | Third-party SSL G emulation, typically available at lower price points |
-| UAD SSL G Bus Compressor | Check product page | Hardware-accelerated version requiring UAD DSP hardware |
-| FabFilter Pro-C 3 | Check product page | More surgical, modern compressor with multiple compression modes |
-
-If authentic SSL G-Series character from the original manufacturer is the priority and you work fully in-the-box, the Native version is the direct route. The Waves SSL G covers similar sonic territory at a lower buy-in, while FabFilter Pro-C 3 serves producers who want more clinical precision and broader algorithmic flexibility over vintage character.
-
----
+<!-- deal-context-formats:start -->
+## Formats and system requirements
+- Formats: VST3, VST2, AU, AAX
+- Mac requirements: macOS 11 Big Sur - macOS 13 Ventura (64-bit only) (M1 Mac supported); Intel Dual-Core Mac running at 2.4GHz or higher; 4 GB of RAM minimum (8 GB of RAM recommended); AU, VST2, VST3, AAX Native
+- Windows requirements: Windows 10 - Windows 11 (64-bit only); Intel Core 2 (or comparable) CPU running at 2.4GHz or higher; 4 GB of RAM minimum (8 GB of RAM recommended); VST 2, VST3, AAX Native
+- Source: pluginboutique.com product page, retrieved 2026-11-12
+<!-- deal-context-formats:end -->
 
 ## FAQ
 
-**Q: Does SSL Native Bus Compressor 2 require an iLok dongle?**
-A: Activation requirements can vary by version. Check the Plugin Boutique product page or SSL's official site for current licensing details before purchasing.
+**Q: What is SSL Native Bus Compressor 2 actually for?**
+A: It's a bus compressor modeled on SSL's console compression, used to glue multiple tracks or a full mix together while keeping dynamics intact at higher ratios.
 
-**Q: Which DAW formats does SSL Native Bus Compressor 2 support?**
-A: Check the product page for the current list of supported formats (VST, AU, AAX, etc.) and minimum system requirements.
+**Q: Can I use it for parallel compression?**
+A: Yes. SSL lists a dry/wet parallel processing control, so you can blend compressed and uncompressed signal on the same bus instead of committing fully to one or the other.
 
-**Q: Is this an upgrade over the original SSL Bus Compressor plugin?**
-A: SSL Native Bus Compressor 2 is a newer iteration of SSL's software bus compressor. For a full breakdown of what's changed between versions, check SSL's official product page.
+**Q: Does it work with hardware control surfaces?**
+A: According to the listing, it integrates with SSL 360 and can be driven from 360-enabled surfaces like the UC1 and UF8.
 
-**Q: Is this deal exclusive to Plugin Boutique?**
-A: This specific discount is available through Plugin Boutique. Always verify availability and pricing directly on the product listing, as promotions can expire.
+**
+A: The Plugin Boutique product page has the current price and full requirements listed.
 
----
+## Should you buy now?
 
-## Get the Deal
+The tracked discount puts this at 87% off its regular $149 price, which is the number to weigh against whether you need a dedicated SSL-style glue compressor on your mix bus right now. If that role is already covered in your template, there's no urgency; if it isn't, an 87% markdown off a $149 plugin is the kind of gap that's worth acting on before the price reverts.
 
-SSL Native Bus Compressor 2 is currently $19 — a ~$139 reduction off the standard price, direct from the original hardware manufacturer's software lineup. If authentic SSL bus compression is on your shortlist, this is a window worth acting on.
-
-[Grab SSL Native Bus Compressor 2 at Plugin Boutique →](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8651-SSL-Native-Bus-Compressor-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-bus-compressor-2-50a0ef&chan=art&data1=ssl-native-bus-compressor-2-50a0ef)
+*Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
 
 ## Related Guides
 
 - [Best Compressor Plugins 2026](/posts/best-compressor-plugins-2026/)
 - [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
-
----
-
-*This post contains affiliate links. We may earn a small commission at no extra cost to you.*
