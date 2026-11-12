@@ -129413,8 +129413,20 @@
     },
     "SSL Native Bus Compressor 2": {
       "pb_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/8651-SSL-Native-Bus-Compressor-2?a_aid=69cb95abe1763&chan=art&data2=deal-article",
-      "history": [],
-      "article_slug": "ssl-native-bus-compressor-2-50a0ef"
+      "history": [
+        {
+          "date": "2026-11-12",
+          "sale": 19.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        }
+      ],
+      "article_slug": "ssl-native-bus-compressor-2-50a0ef",
+      "all_time_low": 19.0,
+      "typical_sale": 19.0
     }
   }
 }

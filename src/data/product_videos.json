@@ -2499,6 +2499,13 @@
     "source": "pb_page",
     "official": true
   },
+  "SSL Native Bus Compressor 2": {
+    "video_id": "96CNODa-o9Y",
+    "title": "SSL Native Bus Compressor 2. This Thing Rocks! Super Glue Your Mix",
+    "channel": "The Mix Club — Studio Hang with Rhett James",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
   "SSL Native X-Comp": {
     "video_id": "tF412FJEBY8",
     "title": "SSL Native X Comp",
@@ -3803,6 +3810,13 @@
     "channel": "Waves Audio",
     "source": "pb_page",
     "official": true
+  },
+  "Waves Mercury Bundle": {
+    "video_id": "eCHkyLi9MOU",
+    "title": "Mercury Bundle by Waves",
+    "channel": "WavesUniverse",
+    "score": 8,
+    "source": "yt_api_fill"
   },
   "Waves Platinum Bundle": {
     "video_id": "-XuHbj_63cY",
