@@ -8,13 +8,12 @@ heroImage: "/images/outro-eternal-serum-bank-91851e.jpg"
 score: 10.00
 rawScore: 10.95
 productKey: "Outro Eternal Serum Bank"
-priceRecordPending: true
 dealPrice: "$6"
 originalPrice: "$12"
 discount: "50% OFF"
 saleExpiry: "2026-12-12"
 saleExpirySource: "fallback"
-draft: true
+draft: false
 ---
 **TL;DR:** Outro Eternal Serum Bank is discounted 50% off its ~~$12~~ regular price at [ADSR Sounds](https://www.adsrsounds.com/product/presets/outro-eternal-serum-bank/?a_aid=plugindrop&data1=outro-eternal-serum-bank-91851e&utm_source=plugindrop&utm_medium=article&utm_campaign=outro-eternal-serum-bank-91851e). It's a Serum preset bank built around sounds for track endings rather than a general-purpose pack. At this price point, it's a low-risk pickup if outro and transition sounds are a gap in your library.
 
