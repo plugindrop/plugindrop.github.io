@@ -15,7 +15,7 @@ saleExpiry: "2026-12-12"
 saleExpirySource: "fallback"
 draft: false
 ---
-**TL;DR:** SSL Native Bus Compressor 2 is down 87% off its regular ~~$149~~ price at Plugin Boutique. It's the plugin version of SSL's console bus compressor, built to glue a mix together while keeping the dynamic feel of the material even when you push the ratio. [Check the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=SSL+Native+Bus+Compressor+2&a_aid=69cb95abe1763&chan=art&data1=ssl-native-bus-compressor-2-50a0ef&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-bus-compressor-2-50a0ef) before it goes back up.
+**TL;DR:** SSL Native Bus Compressor 2 is down 87% off its regular ~~$149~~ price at Plugin Boutique. It's the plugin version of SSL's console bus compressor, built to glue a mix together while keeping the dynamic feel of the material even when you push the ratio. [Check the deal at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8651-SSL-Native-Bus-Compressor-2?a_aid=69cb95abe1763&chan=art&data1=ssl-native-bus-compressor-2-50a0ef&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-bus-compressor-2-50a0ef) before it goes back up.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/LYcPQkvnPVI" title="87% Off SSL Native Bus Compressor 2 — Mix Bus Glue Compression — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
