@@ -12818,5 +12818,55 @@
     "maker_quote": "Hear your tracks through vintage microphones with setups curated by Capitol alum Steve Genewick.",
     "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/18187-UAD-Capitol-Studios",
     "maker_quote_retrieved": "2026-11-11"
+  },
+  "SSL Native Bus Compressor 2": {
+    "pbProductId": "8651",
+    "brand": null,
+    "product": "SSL Native Bus Compressor 2",
+    "category": null,
+    "tagline": "SSL G-Series bus compressor that glues mixes to sound like a record",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/8651-SSL-Native-Bus-Compressor-2?a_aid=69cb95abe1763&chan=art&data2=deal-article",
+    "retrieved": "2026-11-13",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/8651-SSL-Native-Bus-Compressor-2?a_aid=69cb95abe1763&chan=art&data2=deal-article",
+    "tagline_source_quote": "sound like a record",
+    "tagline_checked": "2026-11-13",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": "Put the final shine on your mixes with SSL's legendary Bus Compressor.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/8651-SSL-Native-Bus-Compressor-2?a_aid=69cb95abe1763&chan=art&data2=deal-article",
+    "maker_quote_retrieved": "2026-11-13"
+  },
+  "Outro Eternal Serum Bank": {
+    "pbProductId": null,
+    "brand": null,
+    "product": "Outro Eternal Serum Bank",
+    "category": null,
+    "tagline": "30 Xfer Serum presets with macro controls for reggaeton and trap",
+    "source_url": "https://www.adsrsounds.com/product/presets/outro-eternal-serum-bank/",
+    "retrieved": "2026-11-13",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.adsrsounds.com/product/presets/outro-eternal-serum-bank/",
+    "tagline_source_quote": "30 custom Xfer Serum presets",
+    "tagline_checked": "2026-11-13",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 1,
+    "maker_quote": null,
+    "maker_quote_source_url": null,
+    "maker_quote_retrieved": null
   }
 }

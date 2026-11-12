@@ -115809,6 +115809,12 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2025-08-07",
+          "regular": 91.24,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/xv-5080.jpg"
@@ -116818,6 +116824,12 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2023-03-16",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/zen-delay-virtual.jpg"
