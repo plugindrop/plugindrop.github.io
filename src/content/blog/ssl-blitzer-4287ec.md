@@ -13,50 +13,52 @@ originalPrice: "$99.00"
 discount: "80% OFF"
 saleExpiry: "2026-11-30"
 draft: false
+updatedDate: "2026-11-13"
 ---
-**TL;DR:** SSL Blitzer is discounted 80% off its regular $99 price at Plugin Boutique right now. It's a character compressor modeled on classic hardware behavior (think 1176 and LA-2A style response) with 10 selectable compression curves, a DRIVE stage, and an "all in" BLITZ! mode for aggressive leveling. Grab it on the [Plugin Boutique deal page](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10384-SSL-Blitzer?a_aid=69cb95abe1763&chan=art&data1=ssl-blitzer-4287ec&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-blitzer-4287ec) while the markdown is live.
+**TL;DR:** SSL Blitzer is SSL’s multi-character compressor plug-in, built for compression, harmonic drive, transient shaping, and limiting. It can be used on room mics, drum busses, vocals, instruments, and a full mix, with controls for parallel compression and frequency-dependent detection. It is currently [80% off at Plugin Boutique](https://www.pluginboutique.com/search?q=SSL+Blitzer&a_aid=69cb95abe1763&chan=art&data1=ssl-blitzer-ssl-bl&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-blitzer-ssl-bl) for $19.99—its tracked low—so this is a buy-now deal.
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/JwrWXTV2PL0" title="80% Off SSL Blitzer — Character Compression for Vocals & Drums — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+## What SSL Blitzer does
 
+SSL Blitzer is a compressor plug-in designed to cover a wide range of compression jobs from one interface. In plain terms, it can control dynamics, reshape the attack of a signal, add harmonic drive, and push processing as far as brick-wall limiting. SSL describes it as a multi-character compressor inspired by classic hardware such as the 1176 and LA-2A.
 
-## What you actually get
+The plug-in provides 10 compression curves across 10 ratios. SSL states that each curve has its own shape and tone, allowing producers to select different compression behavior without changing plug-ins. Its ATTACK and RELEASE controls tailor the compressor response to the source material, while the TRANSIENTS attack modification control can reintroduce some of the original signal’s dynamics.
 
-SSL lists Blitzer as a classic analogue-knee compressor inspired by hardware such as the 1176 and LA-2A. That lineage shows up in how the compressor reacts to transients rather than just squashing peaks.
+DRIVE is the control for harmonic treatment. According to SSL, it can add gentle warmth or decimate the signal, while the 1:1 ratio can warm tracks with soft saturation and gentle harmonics without applying compression. MIX supports parallel compression, letting a producer blend processed and unprocessed signal for punch.
 
-- **10 unique compression curves** — each curve has its own shape and tonal character, so switching curves changes the feel of the compression without touching attack or release.
-- **DRIVE control** — according to the product listing, this adds color ranging from gentle warmth to fully decimated signal, useful for pushing a track past clean compression into deliberate grit.
-- **1:1 ratio mode** — lets you run soft saturation and harmonic warmth across a track without any actual gain reduction, which is handy when you want tone but not dynamics control.
-- **MIX control** — dials in parallel compression directly inside the plugin, skipping the need to build a separate parallel bus.
-- **BLITZ! mode** — an "all in" setting the vendor describes as suited to slamming room mics or energizing a full mix.
-- **Sidechain bell filter and HPF** — the HPF removes unwanted low end (useful on drum busses), and the detection sidechain bell filter targets harshness so the compressor reacts less to problem frequencies.
+Blitzer also includes AUTO GAIN, which maintains levels according to threshold and ratio settings. Its detection sidechain has an HPF to remove unwanted low frequencies from triggering compression, plus a bell filter for frequency-dependent compression. There are A/B preset switching, undo/redo, cross-platform preset management, built-in contextual help, and native Apple silicon M1/ARM support through a Universal 2 binary.
 
-AUTO GAIN rounds things out by compensating level based on threshold and ratio settings, so A/B comparisons while dialing in a curve stay closer to apples-to-apples.
+<!-- deal-context-video:start -->
+<iframe src="https://www.youtube.com/embed/JwrWXTV2PL0" title="SSL Blitzer Plug-in Tutorial: Overheads, drum bus, lead vocals and full mix processing." frameborder="0" allowfullscreen></iframe>
 
-## Where it fits in a session
+*SSL Blitzer Plug-in Tutorial: Overheads, drum bus, lead vocals and full mix processing.*
+<!-- deal-context-video:end -->
 
-On individual tracks, Blitzer sits naturally on vocals and drums where the 1176/LA-2A-style response and TRANSIENTS control let you shape attack character before anything hits the bus. The HPF makes it a reasonable drum-bus tool too, since you can clear low-end buildup while compressing in the same stage.
+## How SSL describes the sound
 
-For parallel work, the built-in MIX control removes a step from a typical parallel-compression chain. For texture rather than dynamics, the 1:1 ratio mode works more like a saturation stage, so it can sit on a track or bus purely for harmonic coloring.
+SSL describes Blitzer as capable of “soft, saturating compression” through to “explosive brick-wall limiting.” The maker also positions it around the distinct response of vintage tube, VCA, and optical compressors, while noting inspiration from hardware such as the 1176 and LA-2A.
 
-## Skip it if
+Its DRIVE control is described by SSL as a way to add colour to instruments, ranging from gentle warmth to a more extreme decimated result. The 10 compression curves are presented as having individual shapes and tones, rather than as one fixed compressor behavior.
 
-- You run a DAW or host that only supports plugin formats outside VST3, VST, AU, and AAX — anything else isn't listed among the formats.
-- You're on a Mac OS version older than Big Sur (macOS 11) or newer than Ventura (macOS 13), since that's the stated compatibility window.
-- You're on Windows and need anything other than a 64-bit host — Blitzer requires Windows 10–11, 64-bit only.
-- You want a standalone application: a standalone mode isn't listed among the formats, only plugin formats are.
-- You already own a compressor covering the same 1176/LA-2A-style ground and don't need the added curve selection or BLITZ! mode specifically.
+## Who SSL Blitzer suits
 
-## Pricing and deal details
+SSL Blitzer suits producers who need compression options across several common production tasks. SSL specifically identifies room mics as a use for its “all in” BLITZ! mode, which can also be used to energize an entire mix. For drum busses, the detection sidechain HPF can prevent unwanted low-end frequencies from triggering the compressor.
 
-Blitzer's regular price is tracked at $99. The current promotion knocks 80% off that price at Plugin Boutique. Check the product page for current pricing to confirm the exact checkout total, since markdown percentages can round differently at checkout depending on region and tax.
+For vocal processing, SSL says the detection sidechain bell filter can tame unruly vocals and harshness. The plug-in can also be used to add colour to instruments through DRIVE, or to use 1:1 ratio processing for soft saturation and gentle harmonics without compression.
 
-## What producers say (with sources)
+Producers working with parallel compression have a dedicated MIX control for dialing in parallel compression and punch. Those who want to maintain output level as they adjust compression can use AUTO GAIN, while the TRANSIENTS control offers an option for restoring some original dynamics after compression.
 
-One tracked community post described Blitzer as a "multi-character compressor inspired by classic hardware such as the 1176 and LA-2A for soft, saturating compression or brick-wall limiting with 10 compression curves," pricing the deal at $19.99 running through November 30 and noting an iLok account requirement ([source](https://www.reddit.com/r/AudioProductionDeals/comments/1xlo1ge/solid_state_logic_ssl_blitzer_multicharacter/)).
+<!-- deal-context-sale-windows:start -->
+## Last three times this went on sale
+- 2026-11-09 → 2026-11-13: as low as $19.99
+<!-- deal-context-sale-windows:end -->
 
-A separate community post referenced the same plugin description at a $39 price point through March 23, also flagging the iLok account requirement and listing multiple retailers carrying the title ([source](https://www.reddit.com/r/AudioProductionDeals/comments/1rretcp/solid_state_logic_ssl_blitzer_multicharacter/)).
+## Is $19.99 a good price for SSL Blitzer?
+
+Yes. SSL Blitzer is $19.99 at Plugin Boutique, down from a regular price of $99—an 80% reduction.
+
+PluginDrop has tracked the deal since 2026-11-09 across seven observations. The lowest tracked price is $19.99, the typical sale price is also $19.99, and the regular price is $99. The current $19.99 price is within 5% of the tracked low, producing a **BUY NOW** verdict.
+
+The offer is available through [Plugin Boutique](https://www.pluginboutique.com/search?q=SSL+Blitzer&a_aid=69cb95abe1763&chan=art&data1=ssl-blitzer-ssl-bl&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-blitzer-ssl-bl).
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements
@@ -66,36 +68,18 @@ A separate community post referenced the same plugin description at a $39 price 
 - Source: pluginboutique.com product page, retrieved 2026-11-10
 <!-- deal-context-formats:end -->
 
-<!-- deal-context-video:start -->
-## Hear it before you buy
-
-<iframe src="https://www.youtube.com/embed/JwrWXTV2PL0" title="SSL Blitzer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-*SSL Blitzer Plug-in Tutorial: Overheads, drum bus, lead vocals and full mix processing. — Solid State Logic*
-<!-- deal-context-video:end -->
-
 ## FAQ
 
-**Q: What does SSL Blitzer actually do?**
-A: It's a character compressor with a classic analogue-knee design inspired by hardware like the 1176 and LA-2A, offering 10 compression curves, a DRIVE stage for coloration, and a BLITZ! mode for heavier leveling.
+### Q: What kind of plug-in is SSL Blitzer?
 
-**Q: Can I use it for parallel compression?**
-A: Yes. The MIX control is built in specifically to dial in a parallel blend without routing a separate bus.
+A: SSL Blitzer is a multi-character compressor plug-in. SSL states that it can move from soft, saturating compression to explosive brick-wall limiting, with harmonic drive, transient shaping, parallel compression, and sidechain filtering.
 
-**Q: Does it work in Pro Tools?**
-A: AAX is listed among the supported formats alongside VST3, VST, and AU, so it should load in AAX-compatible hosts.
+### Q: Can SSL Blitzer be used without compressing the signal?
 
-**Q: Where can I check the exact sale price before buying?**
-A: The Plugin Boutique product page shows current pricing and any time-limited terms for the promotion.
+A: Yes. SSL says its 1:1 ratio can warm tracks with soft saturation and gentle harmonics without compression. DRIVE can also add colour, from gentle warmth to a decimated signal.
 
-## Should you buy now?
+### Q: What sources does SSL identify for Blitzer?
 
-The tracked data shows a regular price of $99 with the current promotion cutting that by 80%, which is a steep markdown relative to the full price. Given the depth of that discount against the $99 baseline, this is a reasonable window to buy if the feature set (10 curves, DRIVE, BLITZ! mode) fits a workflow you already have a use for.
+A: SSL identifies room mics, drum busses, vocals, instruments, and an entire mix. The maker specifically calls out BLITZ! mode for room mics and mix energy, HPF for drum busses, and the sidechain bell filter for vocal harshness.
 
 *Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
-
-## Related Guides
-
-- [Best Compressor Plugins 2026](/posts/best-compressor-plugins-2026/)
-- [Complete Drum Mixing Plugin Chain](/posts/drum-mixing-plugin-chain/)
-- [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
