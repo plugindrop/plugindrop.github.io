@@ -16,7 +16,7 @@ saleExpirySource: "fallback"
 draft: false
 updatedDate: "2026-11-13"
 ---
-**TL;DR:** D16 Devastor 2 is a multiband distortion plug-in built to reshape and distort an input signal with separate processing blocks. Its dynamics flattener, diode-clipper, filter sections, and optional limiter make it a focused option for producers who want detailed control over distortion processing. It is now $29.50 at Plugin Boutique—[get the Devastor 2 deal here](https://www.pluginboutique.com/search?q=Devastor+2&a_aid=69cb95abe1763&chan=art&data1=devastor-2-devast&utm_source=plugindrop&utm_medium=article&utm_campaign=devastor-2-devast).
+**TL;DR:** D16 Devastor 2 is a multiband distortion plug-in built to reshape and distort an input signal with separate processing blocks. Its dynamics flattener, diode-clipper, filter sections, and optional limiter make it a focused option for producers who want detailed control over distortion processing. It is now $29.50 at Plugin Boutique—[get the Devastor 2 deal here](https://www.pluginboutique.com/product/2-Effects/30-Distortion/1864-Devastor-2?a_aid=69cb95abe1763&chan=art&data1=devastor-2-devast&utm_source=plugindrop&utm_medium=article&utm_campaign=devastor-2-devast).
 
 ## What Devastor 2 does
 
@@ -51,7 +51,7 @@ Yes—$29.50 is below PluginDrop’s tracked low for Devastor 2. The tracked his
 
 At $29.50, this new-release deal is $5.50 below both the tracked lowest price and typical sale price. It is also presented as 41% off the $59 regular price. For a producer specifically looking for D16’s multiband distortion design, the current offer is stronger than the available tracked sale history.
 
-[See the $29.50 Devastor 2 deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Devastor+2&a_aid=69cb95abe1763&chan=art&data1=devastor-2-devast&utm_source=plugindrop&utm_medium=article&utm_campaign=devastor-2-devast).
+[See the $29.50 Devastor 2 deal at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/30-Distortion/1864-Devastor-2?a_aid=69cb95abe1763&chan=art&data1=devastor-2-devast&utm_source=plugindrop&utm_medium=article&utm_campaign=devastor-2-devast).
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements

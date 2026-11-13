@@ -16,7 +16,7 @@ saleExpirySource: "fallback"
 draft: false
 updatedDate: "2026-11-13"
 ---
-**TL;DR:** Evolve Elastic Lite is a sample-based synthesizer whose supplied maker description presents it as a tool for morphing layered sounds into unexpected forms. It can combine four sample or synth sound sources, morph them with an XY Pad, and reshape the result with four macro effects. It is now $19.00 at [Plugin Boutique](https://www.pluginboutique.com/search?q=Evolve+Elastic+Lite&a_aid=69cb95abe1763&chan=art&data1=evolve-elastic-lite-evolve&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-elastic-lite-evolve), a 34% reduction from its $29 regular price.
+**TL;DR:** Evolve Elastic Lite is a sample-based synthesizer whose supplied maker description presents it as a tool for morphing layered sounds into unexpected forms. It can combine four sample or synth sound sources, morph them with an XY Pad, and reshape the result with four macro effects. It is now $19.00 at [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16352-Evolve-Elastic-Lite?a_aid=69cb95abe1763&chan=art&data1=evolve-elastic-lite-evolve&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-elastic-lite-evolve), a 34% reduction from its $29 regular price.
 
 ## What Evolve Elastic Lite does
 
@@ -50,7 +50,7 @@ It also differs from CARBON’s stated focus. CARBON is described as having a La
 
 At $19.00, Evolve Elastic Lite is 34% off its listed regular price of $29. PluginDrop has tracked the deal since November 10, 2026, across two observations. The lowest tracked price is $19, and the typical sale price is also $19.
 
-That makes the current offer the lowest price PluginDrop has tracked, but it also matches the typical sale price in the available history. For a buyer specifically looking for Evolve Elastic Lite’s four-layer sample-or-synth workflow, XY Pad, randomisation, and elastic-inspired macros, $19 is a grounded deal price rather than evidence of an unusually rare discount. [Check the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Evolve+Elastic+Lite&a_aid=69cb95abe1763&chan=art&data1=evolve-elastic-lite-evolve&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-elastic-lite-evolve).
+That makes the current offer the lowest price PluginDrop has tracked, but it also matches the typical sale price in the available history. For a buyer specifically looking for Evolve Elastic Lite’s four-layer sample-or-synth workflow, XY Pad, randomisation, and elastic-inspired macros, $19 is a grounded deal price rather than evidence of an unusually rare discount. [Check the deal at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16352-Evolve-Elastic-Lite?a_aid=69cb95abe1763&chan=art&data1=evolve-elastic-lite-evolve&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-elastic-lite-evolve).
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements

@@ -16,7 +16,7 @@ draft: false
 productKey: "RC-20 Retro Color v2"
 updatedDate: "2026-11-13"
 ---
-**TL;DR:** RC-20 Retro Color v2 is a saturation effect designed to add character and analog warmth to tracks or mixes. Its maker describes it as recreating the sound and imperfections of vintage recording gear, with Echo and an expanded effects palette for adding movement, depth, and texture. It is currently $99, or 23% off the $129 regular price—[get the RC-20 Retro Color v2 deal at Plugin Boutique](https://www.pluginboutique.com/search?q=RC+20+Retro+Color+v2&a_aid=69cb95abe1763&chan=art&data1=rc-20-retro-color-v2-rc-20-&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-retro-color-v2-rc-20-).
+**TL;DR:** RC-20 Retro Color v2 is a saturation effect designed to add character and analog warmth to tracks or mixes. Its maker describes it as recreating the sound and imperfections of vintage recording gear, with Echo and an expanded effects palette for adding movement, depth, and texture. It is currently $99, or 23% off the $129 regular price—[get the RC-20 Retro Color v2 deal at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/18184-RC-20-Retro-Color-v2?a_aid=69cb95abe1763&chan=art&data1=rc-20-retro-color-v2-rc-20-&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-retro-color-v2-rc-20-).
 
 ## What RC-20 Retro Color v2 does
 
@@ -61,7 +61,7 @@ Yes. PluginDrop’s tracked price context lists RC-20 Retro Color v2 at **$99**,
 
 The product has been tracked since **2026-11-08**, across **9 observations**. The lowest tracked price is **$99**, and the typical sale price is also **$99**. That places the current offer at the lowest price observed in this tracking window.
 
-The verdict is **BUY NOW**: the current $99 price is within 5% of the $99 lowest tracked price. For a producer already planning to use the effect’s vintage-recording-gear-inspired processing, Echo loop, or expanded effects palette, the current price matches the tracked low rather than merely sitting near it. [See the $99 RC-20 Retro Color v2 offer at Plugin Boutique](https://www.pluginboutique.com/search?q=RC+20+Retro+Color+v2&a_aid=69cb95abe1763&chan=art&data1=rc-20-retro-color-v2-rc-20-&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-retro-color-v2-rc-20-).
+The verdict is **BUY NOW**: the current $99 price is within 5% of the $99 lowest tracked price. For a producer already planning to use the effect’s vintage-recording-gear-inspired processing, Echo loop, or expanded effects palette, the current price matches the tracked low rather than merely sitting near it. [See the $99 RC-20 Retro Color v2 offer at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/18184-RC-20-Retro-Color-v2?a_aid=69cb95abe1763&chan=art&data1=rc-20-retro-color-v2-rc-20-&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-retro-color-v2-rc-20-).
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements

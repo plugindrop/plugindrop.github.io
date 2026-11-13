@@ -16,7 +16,7 @@ draft: false
 productKey: "SSL 4K B"
 updatedDate: "2026-11-13"
 ---
-**TL;DR:** SSL 4K B is an SSL channel strip plug-in that brings an emulation of the SL 4000 B-series console into a DAW. It combines EQ and compression derived from the 4000 B design, including a compressor with peak detection, a feedback VCA sidechain topology, and a De-Esser mode. It is now $39 at Plugin Boutique—[get the SSL 4K B deal here](https://www.pluginboutique.com/search?q=SSL+4K+B&a_aid=69cb95abe1763&chan=art&data1=ssl-4k-b-ssl-4k&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-b-ssl-4k).
+**TL;DR:** SSL 4K B is an SSL channel strip plug-in that brings an emulation of the SL 4000 B-series console into a DAW. It combines EQ and compression derived from the 4000 B design, including a compressor with peak detection, a feedback VCA sidechain topology, and a De-Esser mode. It is now $39 at Plugin Boutique—[get the SSL 4K B deal here](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10385-SSL-4K-B?a_aid=69cb95abe1763&chan=art&data1=ssl-4k-b-ssl-4k&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-b-ssl-4k).
 
 ## What SSL 4K B does
 
@@ -54,7 +54,7 @@ In other words, these listings identify different source designs and scopes. CLA
 
 Yes. PluginDrop has tracked SSL 4K B since April 4, 2023, across 5 observations. The current $39 price matches both the lowest tracked price of $39 and the typical sale price of $39. Its stated regular price is $149.
 
-That makes the $39 offer 74% below the $149 regular price, and the tracked verdict is **BUY NOW**: the current price is within 5% of the $39 lowest tracked price. For a producer specifically seeking SSL’s 4K B channel-strip emulation, this is the tracked floor rather than a modest discount from its normal sale level. [See the $39 SSL 4K B offer at Plugin Boutique](https://www.pluginboutique.com/search?q=SSL+4K+B&a_aid=69cb95abe1763&chan=art&data1=ssl-4k-b-ssl-4k&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-b-ssl-4k).
+That makes the $39 offer 74% below the $149 regular price, and the tracked verdict is **BUY NOW**: the current price is within 5% of the $39 lowest tracked price. For a producer specifically seeking SSL’s 4K B channel-strip emulation, this is the tracked floor rather than a modest discount from its normal sale level. [See the $39 SSL 4K B offer at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10385-SSL-4K-B?a_aid=69cb95abe1763&chan=art&data1=ssl-4k-b-ssl-4k&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-b-ssl-4k).
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements

@@ -15,7 +15,7 @@ saleExpiry: "2026-11-30"
 draft: false
 updatedDate: "2026-11-13"
 ---
-**TL;DR:** SSL Blitzer is SSL’s multi-character compressor plug-in, built for compression, harmonic drive, transient shaping, and limiting. It can be used on room mics, drum busses, vocals, instruments, and a full mix, with controls for parallel compression and frequency-dependent detection. It is currently [80% off at Plugin Boutique](https://www.pluginboutique.com/search?q=SSL+Blitzer&a_aid=69cb95abe1763&chan=art&data1=ssl-blitzer-ssl-bl&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-blitzer-ssl-bl) for $19.99—its tracked low—so this is a buy-now deal.
+**TL;DR:** SSL Blitzer is SSL’s multi-character compressor plug-in, built for compression, harmonic drive, transient shaping, and limiting. It can be used on room mics, drum busses, vocals, instruments, and a full mix, with controls for parallel compression and frequency-dependent detection. It is currently [80% off at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10384-SSL-Blitzer?a_aid=69cb95abe1763&chan=art&data1=ssl-blitzer-ssl-bl&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-blitzer-ssl-bl) for $19.99—its tracked low—so this is a buy-now deal.
 
 ## What SSL Blitzer does
 
@@ -58,7 +58,7 @@ Yes. SSL Blitzer is $19.99 at Plugin Boutique, down from a regular price of $99�
 
 PluginDrop has tracked the deal since 2026-11-09 across seven observations. The lowest tracked price is $19.99, the typical sale price is also $19.99, and the regular price is $99. The current $19.99 price is within 5% of the tracked low, producing a **BUY NOW** verdict.
 
-The offer is available through [Plugin Boutique](https://www.pluginboutique.com/search?q=SSL+Blitzer&a_aid=69cb95abe1763&chan=art&data1=ssl-blitzer-ssl-bl&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-blitzer-ssl-bl).
+The offer is available through [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10384-SSL-Blitzer?a_aid=69cb95abe1763&chan=art&data1=ssl-blitzer-ssl-bl&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-blitzer-ssl-bl).
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements
