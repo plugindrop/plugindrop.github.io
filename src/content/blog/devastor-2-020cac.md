@@ -16,7 +16,7 @@ saleExpirySource: "fallback"
 draft: false
 updatedDate: "2026-11-14"
 ---
-**TL;DR:** D16’s Devastor 2 is a multiband distortion effect built around a dynamics flattener, diode-clipper, filter sections, and an optional limiter. Its routing options make it relevant when a producer wants controlled distortion processing rather than an amp-simulator setup. It is now $29.50—50% off its $59 regular price—so check the [Devastor 2 deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Devastor+2&a_aid=69cb95abe1763&chan=art&data1=devastor-2-devast&utm_source=plugindrop&utm_medium=article&utm_campaign=devastor-2-devast).
+**TL;DR:** D16’s Devastor 2 is a multiband distortion effect built around a dynamics flattener, diode-clipper, filter sections, and an optional limiter. Its routing options make it relevant when a producer wants controlled distortion processing rather than an amp-simulator setup. It is now $29.50—50% off its $59 regular price—so check the [Devastor 2 deal at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/30-Distortion/1864-Devastor-2?a_aid=69cb95abe1763&chan=art&data1=devastor-2-devast&utm_source=plugindrop&utm_medium=article&utm_campaign=devastor-2-devast).
 
 ## Nine Routing Topologies for the Diode-Clipper
 <!-- role:product -->
@@ -58,7 +58,7 @@ D16 further describes its filters as analogue-modelled and refined, and calls th
 
 The current $29.50 price matches the lowest price PluginDrop has tracked for Devastor 2, compared with a $35 typical sale price and $59 regular price. PluginDrop has tracked the deal since November 1, 2026, across six observations, and its verdict is **BUY NOW** because the current figure is within 5% of the recorded low.
 
-At 50% below the regular $59 price, the deal applies to a distortion plug-in whose listed tools include the dynamics flattener, diode-clipper, three multi-mode filter sections, optional output limiter, tag-based presets, MIDI learn, and nine filter/clipper connection topologies. The purchase page is available through [Plugin Boutique’s Devastor 2 listing](https://www.pluginboutique.com/search?q=Devastor+2&a_aid=69cb95abe1763&chan=art&data1=devastor-2-devast&utm_source=plugindrop&utm_medium=article&utm_campaign=devastor-2-devast).
+At 50% below the regular $59 price, the deal applies to a distortion plug-in whose listed tools include the dynamics flattener, diode-clipper, three multi-mode filter sections, optional output limiter, tag-based presets, MIDI learn, and nine filter/clipper connection topologies. The purchase page is available through [Plugin Boutique’s Devastor 2 listing](https://www.pluginboutique.com/product/2-Effects/30-Distortion/1864-Devastor-2?a_aid=69cb95abe1763&chan=art&data1=devastor-2-devast&utm_source=plugindrop&utm_medium=article&utm_campaign=devastor-2-devast).
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements

@@ -14,7 +14,7 @@ saleExpiry: "2026-12-09"
 saleExpirySource: "fallback"
 draft: true
 ---
-**TL;DR:** Gorilla Drive V2 drum bus compressor is currently 38% off its regular ~~$79~~ price at Plugin Boutique. It's built for fast, transparent drum bus glue with an added distortion stage for grit when you want it. [Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=Gorilla+Drive+V2&a_aid=69cb95abe1763&chan=art&data1=gorilla-drive-v2-2eef25&utm_source=plugindrop&utm_medium=article&utm_campaign=gorilla-drive-v2-2eef25).
+**TL;DR:** Gorilla Drive V2 drum bus compressor is currently 38% off its regular ~~$79~~ price at Plugin Boutique. It's built for fast, transparent drum bus glue with an added distortion stage for grit when you want it. [Check the current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/18021-Gorilla-Drive-V2?a_aid=69cb95abe1763&chan=art&data1=gorilla-drive-v2-2eef25&utm_source=plugindrop&utm_medium=article&utm_campaign=gorilla-drive-v2-2eef25).
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/2MMyeXClc6M" title="38% Off Gorilla Drive V2 — Tighter Drum Bus Compression — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -79,7 +79,7 @@ A: The listing cites a new Transient Shaper, independent Lows and Highs drive st
 
 ## Should you buy now?
 
-Based on the tracked pricing, Gorilla Drive V2 is listed at a regular price of $79 and is currently discounted by 38%, which is the deal driving this roundup. Whether that counts as a strong buy point depends on how the current price compares once you [check it directly at Plugin Boutique](https://www.pluginboutique.com/search?q=Gorilla+Drive+V2&a_aid=69cb95abe1763&chan=art&data1=gorilla-drive-v2-2eef25&utm_source=plugindrop&utm_medium=article&utm_campaign=gorilla-drive-v2-2eef25), since no lower historical price or sale-price figure is confirmed in the tracked data here.
+Based on the tracked pricing, Gorilla Drive V2 is listed at a regular price of $79 and is currently discounted by 38%, which is the deal driving this roundup. Whether that counts as a strong buy point depends on how the current price compares once you [check it directly at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/18021-Gorilla-Drive-V2?a_aid=69cb95abe1763&chan=art&data1=gorilla-drive-v2-2eef25&utm_source=plugindrop&utm_medium=article&utm_campaign=gorilla-drive-v2-2eef25), since no lower historical price or sale-price figure is confirmed in the tracked data here.
 
 *Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
 

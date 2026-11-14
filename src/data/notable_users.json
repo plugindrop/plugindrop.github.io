@@ -225,6 +225,48 @@
       "product": "Crystallizer",
       "brand": "soundtoys",
       "vendor_domain": "soundtoys.com"
+    },
+    {
+      "person": "Noah Georgeson",
+      "person_source": "h1",
+      "role": null,
+      "claim_type": "manufacturer_artist_page",
+      "quote": "Andy Shauf’s ‘ The Party ‘ is a very tight, controlled, and considered album, punctuated by moments of expansive, explosive wildness. 99% of the record needed the subtle application of effects, and 1% needed ALL of the effects! Soundtoys was incredibly helpful in achieving both. A gentle application of PhaseMistress on the drums and backing vocals, a subtle chorus from EchoBoy on the bass, and a very slight slap delay on the lead vocal were enough for most of the record. And then those moments came that needed EVERYTHING! Echoboy and Crystallizer to create expanses of space and dimension, fuzzy bursts of Decapitator, and sweeping and shifting spectral waves from FilterFreak!",
+      "source_url": "https://www.soundtoys.com/artist/noah-georgeson/",
+      "publisher": "soundtoys.com",
+      "retrieved": "2026-11-15",
+      "verification": {
+        "person_found": true,
+        "role_found": false,
+        "product_found": true,
+        "quote_found": false
+      },
+      "status": "rejected",
+      "reject_reason": "other_attribution",
+      "product": "Crystallizer",
+      "brand": "soundtoys",
+      "vendor_domain": "soundtoys.com"
+    },
+    {
+      "person": "Marc Urselli",
+      "person_source": "h1",
+      "role": null,
+      "claim_type": "manufacturer_artist_page",
+      "quote": "Another plugin I love is Crystallizer. I’ve been using that one since the days of the gray interface (pre-wood!!!), old school digital baby! It always reminded me of my days of working with the H3000 hardware and I loved all the creative sound shaping one can do with it. I use it a lot on electronic productions.",
+      "source_url": "https://www.soundtoys.com/artist/marc-urselli/",
+      "publisher": "soundtoys.com",
+      "retrieved": "2026-11-15",
+      "verification": {
+        "person_found": true,
+        "role_found": false,
+        "product_found": true,
+        "quote_found": false
+      },
+      "status": "rejected",
+      "reject_reason": "other_section",
+      "product": "Crystallizer",
+      "brand": "soundtoys",
+      "vendor_domain": "soundtoys.com"
     }
   ]
 }

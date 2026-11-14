@@ -16,7 +16,7 @@ draft: false
 productKey: "SSL 4K B"
 updatedDate: "2026-11-14"
 ---
-**TL;DR:** SSL’s SSL 4K B is a channel strip plug-in that brings the SL 4000 B-series console into a DAW, combining an EQ and compressor section. Its compressor supports sidechain work with peak detection and a Feedback VCA topology in the sidechain. Get it for $39 at Plugin Boutique while this 74%-off deal matches the lowest price PluginDrop has tracked: [check the SSL 4K B deal](https://www.pluginboutique.com/search?q=SSL+4K+B&a_aid=69cb95abe1763&chan=art&data1=ssl-4k-b-ssl-4k&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-b-ssl-4k).
+**TL;DR:** SSL’s SSL 4K B is a channel strip plug-in that brings the SL 4000 B-series console into a DAW, combining an EQ and compressor section. Its compressor supports sidechain work with peak detection and a Feedback VCA topology in the sidechain. Get it for $39 at Plugin Boutique while this 74%-off deal matches the lowest price PluginDrop has tracked: [check the SSL 4K B deal](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10385-SSL-4K-B?a_aid=69cb95abe1763&chan=art&data1=ssl-4k-b-ssl-4k&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-b-ssl-4k).
 
 ## SL 4000 B Circuit Modelling for a DAW Channel Strip
 
@@ -65,7 +65,7 @@ The current $39 price matches PluginDrop’s recorded $39 low, versus the regula
 
 For compatibility, SSL lists native Apple Silicon M1/ARM support. Supported formats are VST, VST3, AU, and AAX on macOS 11 Big Sur through macOS 13 Ventura; on Windows 10 through Windows 11, the listed formats are VST, VST3, and AAX. SSL also states that 4K B integrates with the 360° Plug-in Mixer ecosystem and is controllable from UC1 and UF8 through SSL 360° and the Plug-in Mixer.
 
-At the tracked-low $39 price, this deal is a direct way to buy SSL’s SL 4000 B-based channel-strip model: [see the current Plugin Boutique listing](https://www.pluginboutique.com/search?q=SSL+4K+B&a_aid=69cb95abe1763&chan=art&data1=ssl-4k-b-ssl-4k&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-b-ssl-4k).
+At the tracked-low $39 price, this deal is a direct way to buy SSL’s SL 4000 B-based channel-strip model: [see the current Plugin Boutique listing](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10385-SSL-4K-B?a_aid=69cb95abe1763&chan=art&data1=ssl-4k-b-ssl-4k&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-b-ssl-4k).
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements

@@ -16,7 +16,7 @@ saleExpirySource: "fallback"
 draft: false
 updatedDate: "2026-11-14"
 ---
-**TL;DR:** Its maker describes Evolve Elastic Lite as a bold sample-based synthesizer built to morph sounds through four layers, an XY Pad, and four macro effects. Producers can blend samples or synths, randomise ideas, and shape them into new synth parts. It is currently $19 at Plugin Boutique—34% off the $29 regular price—so [grab the deal here](https://www.pluginboutique.com/search?q=Evolve+Elastic+Lite&a_aid=69cb95abe1763&chan=art&data1=evolve-elastic-lite-evolve&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-elastic-lite-evolve).
+**TL;DR:** Its maker describes Evolve Elastic Lite as a bold sample-based synthesizer built to morph sounds through four layers, an XY Pad, and four macro effects. Producers can blend samples or synths, randomise ideas, and shape them into new synth parts. It is currently $19 at Plugin Boutique—34% off the $29 regular price—so [grab the deal here](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16352-Evolve-Elastic-Lite?a_aid=69cb95abe1763&chan=art&data1=evolve-elastic-lite-evolve&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-elastic-lite-evolve).
 
 ## Four Layers, One Elastic-Inspired Instrument
 <!-- role:product -->
@@ -61,7 +61,7 @@ CARBON’s listed approach is different again: its Unique Layerer soundstage com
 
 The current $19 price matches PluginDrop’s recorded $19 low, versus a $29 regular price. The deal represents 34% off, and tracking began on 2026-11-10 with three observations: $19 is both the lowest tracked price and the typical sale price.
 
-PluginDrop’s verdict is **BUY NOW** because the current price is within 5% of the recorded low. For a producer specifically looking for four-layer sample/synth blending, XY Pad morphing, randomisation, and the Melt, Bounce, Stretch, and Gloss macro set, the current pricing is aligned with the best tracked level. [See the Evolve Elastic Lite deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Evolve+Elastic+Lite&a_aid=69cb95abe1763&chan=art&data1=evolve-elastic-lite-evolve&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-elastic-lite-evolve).
+PluginDrop’s verdict is **BUY NOW** because the current price is within 5% of the recorded low. For a producer specifically looking for four-layer sample/synth blending, XY Pad morphing, randomisation, and the Melt, Bounce, Stretch, and Gloss macro set, the current pricing is aligned with the best tracked level. [See the Evolve Elastic Lite deal at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16352-Evolve-Elastic-Lite?a_aid=69cb95abe1763&chan=art&data1=evolve-elastic-lite-evolve&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-elastic-lite-evolve).
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements

@@ -16,7 +16,7 @@ draft: false
 productKey: "RC-20 Retro Color v2"
 updatedDate: "2026-11-14"
 ---
-**TL;DR:** The maker presents RC-20 Retro Color v2 as an effects tool that recreates vintage recording-gear imperfections while adding a creative Echo. It is built for adding character, movement, depth, and texture to tracks, mixes, and repeated echoes. Plugin Boutique has it for $99—[see the RC-20 Retro Color v2 deal](https://www.pluginboutique.com/search?q=RC+20+Retro+Color+v2&a_aid=69cb95abe1763&chan=art&data1=rc-20-retro-color-v2-rc-20-&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-retro-color-v2-rc-20-) while the tracked price supports a buy-now decision.
+**TL;DR:** The maker presents RC-20 Retro Color v2 as an effects tool that recreates vintage recording-gear imperfections while adding a creative Echo. It is built for adding character, movement, depth, and texture to tracks, mixes, and repeated echoes. Plugin Boutique has it for $99—[see the RC-20 Retro Color v2 deal](https://www.pluginboutique.com/product/2-Effects/44-Saturation/18184-RC-20-Retro-Color-v2?a_aid=69cb95abe1763&chan=art&data1=rc-20-retro-color-v2-rc-20-&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-retro-color-v2-rc-20-) while the tracked price supports a buy-now decision.
 
 ## Creative Echo puts RC-20’s effects inside the repeats
 
@@ -65,7 +65,7 @@ The current $99 price matches the $99 lowest price PluginDrop has tracked, versu
 
 PluginDrop has tracked the deal since November 8, 2026, with 11 observations. Its verdict is **BUY NOW** because the current price sits within 5% of the recorded low. For producers specifically looking for the new creative Echo and the maker-listed Wobble, Distort, Digital, Space, Loss, and Grain options, the present offer is at the best tracked level rather than merely a modest discount from regular pricing.
 
-[Get RC-20 Retro Color v2 for $99 at Plugin Boutique](https://www.pluginboutique.com/search?q=RC+20+Retro+Color+v2&a_aid=69cb95abe1763&chan=art&data1=rc-20-retro-color-v2-rc-20-&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-retro-color-v2-rc-20-)
+[Get RC-20 Retro Color v2 for $99 at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/44-Saturation/18184-RC-20-Retro-Color-v2?a_aid=69cb95abe1763&chan=art&data1=rc-20-retro-color-v2-rc-20-&utm_source=plugindrop&utm_medium=article&utm_campaign=rc-20-retro-color-v2-rc-20-)
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements

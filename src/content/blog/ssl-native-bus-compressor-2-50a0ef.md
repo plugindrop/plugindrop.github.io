@@ -65,7 +65,7 @@ For workflows already based around SSL’s ecosystem, Native Bus Compressor 2 in
 
 At $19, the current deal matches PluginDrop’s recorded lowest tracked price of $19, versus the regular $149 price. PluginDrop has tracked the offer since November 12, 2026, across five observations; its typical sale price is also $19.
 
-That puts the advertised 87% discount at the same level as the tracked low, and PluginDrop’s verdict is **BUY NOW** because the $19 offer is within 5% of that lowest recorded price. For producers specifically looking for SSL’s bus-compression workflow, dry/wet parallel control, and a sidechain highpass filter, the [Plugin Boutique deal](https://www.pluginboutique.com/search?q=SSL+Native+Bus+Compressor+2&a_aid=69cb95abe1763&chan=art&data1=ssl-native-bus-compressor-2-ssl-na&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-bus-compressor-2-ssl-na) is priced at the tracked floor.
+That puts the advertised 87% discount at the same level as the tracked low, and PluginDrop’s verdict is **BUY NOW** because the $19 offer is within 5% of that lowest recorded price. For producers specifically looking for SSL’s bus-compression workflow, dry/wet parallel control, and a sidechain highpass filter, the [Plugin Boutique deal](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8651-SSL-Native-Bus-Compressor-2?a_aid=69cb95abe1763&chan=art&data1=ssl-native-bus-compressor-2-ssl-na&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-bus-compressor-2-ssl-na) is priced at the tracked floor.
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements
