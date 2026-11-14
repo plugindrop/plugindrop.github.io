@@ -1,5 +1,39 @@
 const list = value => Array.isArray(value) ? value : [];
 const nonempty = value => typeof value === 'string' && value.trim() ? value.trim() : null;
+const normalized = value => String(value ?? '').normalize('NFKC').toLowerCase().replace(/\s+/g, ' ').trim().replace(/[\s.!?。]+$/u, '');
+
+export function dedupeChecks(items, compat = '') {
+  const seen = new Set();
+  const compatibility = normalized(compat).split(' · ').map(normalized);
+  return list(items).filter(item => {
+    const key = normalized(item?.text);
+    if (!key || seen.has(key) || compatibility.includes(key)) return false;
+    seen.add(key);
+    return true;
+  });
+}
+
+export function cleanEvidence(text) {
+  const value = nonempty(text);
+  if (!value || /^[a-z]/.test(value) || value.split(/\s+/).length < 6 || /^mode\s*,/i.test(value)) return null;
+  return value;
+}
+
+export function sanitizeReq(value) {
+  const text = nonempty(value);
+  return text && text.length >= 6 && /(?:macOS|OS X|Windows|Win\s*\d)/i.test(text) && /\d/.test(text) ? text : null;
+}
+
+export function ownFactsFromContent(content) {
+  const checks = list(content?.before_you_buy).map(item => nonempty(item?.text)).filter(Boolean);
+  const find = pattern => checks.find(value => pattern.test(value)) || null;
+  const formats = find(/\b(?:VST\d?|AU|AAX)\b/i)?.match(/\b(?:VST\d?|AU|AAX)\b/gi) || [];
+  return {
+    formats: [...new Set(formats.map(x => x.toUpperCase()))],
+    mac_req: sanitizeReq(find(/macOS|OS X|^Mac:/i)),
+    win_req: sanitizeReq(find(/Windows|^Win:/i)),
+  };
+}
 
 export function selectBlocks(content) {
   if (!content || typeof content !== 'object') return [];

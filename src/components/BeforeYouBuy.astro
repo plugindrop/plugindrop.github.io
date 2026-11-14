@@ -1,14 +1,14 @@
 ---
 import ProductFacts from './ProductFacts.astro';
-import { compatSummary } from '../lib/productContent.mjs';
-const { content, facts } = Astro.props;
-const checks = (content?.before_you_buy ?? []).filter(item => item?.text && item?.evidence);
+import { compatSummary, dedupeChecks } from '../lib/productContent.mjs';
+const { content, facts, name } = Astro.props;
 const compat = compatSummary(content?.compat);
+const checks = dedupeChecks((content?.before_you_buy ?? []).filter(item => item?.text && item?.evidence), compat);
 const hasFacts = Boolean(facts?.formats?.length || facts?.mac_req || facts?.win_req || facts?.preset_count != null);
 ---
 {(checks.length || compat || hasFacts) && <section class="page-section content-depth" data-content-block="before" aria-label="Before you buy">
-  <h2 class="section-title">Before you buy</h2>
-  {checks.length > 0 && <><p>Listed on the product page:</p><ul>{checks.map(item => <li title={item.evidence}>{item.text}</li>)}</ul></>}
+  <h2 class="section-title">{name} system requirements and licensing</h2>
+  {checks.length > 0 && <ul>{checks.map(item => <li title={item.evidence}>{item.text}</li>)}</ul>}
   {compat && <p>{compat}</p>}
   {content?.source_url && checks.length > 0 && <p class="section-sub">Source: <a href={content.source_url} rel="nofollow noopener" target="_blank">Plugin Boutique product page</a>{content.retrieved_on && `, retrieved ${content.retrieved_on}`}</p>}
   <ProductFacts facts={facts} />

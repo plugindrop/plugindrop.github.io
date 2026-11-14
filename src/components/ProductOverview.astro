@@ -1,12 +1,13 @@
 ---
-const { content, tagline, makerQuote, name } = Astro.props;
+const { content, tagline, makerQuote, name, brand } = Astro.props;
 const overview = typeof content?.overview === 'string' ? content.overview.trim() : '';
-const lead = overview || tagline || makerQuote?.quote || '';
+const lead = overview || makerQuote?.quote || tagline || '';
 const features = (content?.features ?? []).filter(item => item?.text).slice(0, 6);
 ---
 {(lead || features.length) && <section class="page-section content-depth" data-content-block="overview" aria-label="What it is">
-  <h2 class="section-title">What it is</h2>
+  <h2 class="section-title">{lead ? `What ${name} is` : `${name}: features listed by ${brand || 'the maker'}`}</h2>
   {lead && <p>{lead}</p>}
+  {lead && tagline && tagline !== lead && <p>{tagline}</p>}
   {content?.source_url && content?.retrieved_on && <p class="section-sub">Source: <a href={content.source_url} rel="nofollow noopener" target="_blank">Plugin Boutique product page</a>, retrieved {content.retrieved_on}</p>}
   {features.length > 0 && <ul>{features.map(item => <li>{item.text}</li>)}</ul>}
 </section>}
