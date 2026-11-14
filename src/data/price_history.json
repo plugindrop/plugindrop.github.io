@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13",
+  "last_updated": "2026-11-14",
   "bundles": {
     "Arturia FX Collection 6 Pro": {
       "pb_url": "/product/81-Bundles/39-Effects-Bundles/16835-FX-Collection-6-PRO",
@@ -7460,6 +7460,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-12-06"
+        },
+        {
+          "date": "2026-11-14",
+          "sale": 49.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/beam-2-0.jpg",
@@ -7908,6 +7917,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-25"
+        },
+        {
+          "date": "2026-11-14",
+          "sale": 35.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/bfd-3-5.jpg",
@@ -8590,6 +8608,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-12-09"
+        },
+        {
+          "date": "2026-11-14",
+          "sale": 5.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "category": "Reverb",
@@ -14322,6 +14349,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-12-09"
+        },
+        {
+          "date": "2026-11-14",
+          "sale": 9.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/cinedream.jpg",
@@ -28595,6 +28631,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-30"
+        },
+        {
+          "date": "2026-11-14",
+          "sale": 39.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/empirical-labs-el8-distressor-compressor.jpg",
@@ -40808,6 +40853,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-30"
+        },
+        {
+          "date": "2026-11-14",
+          "sale": 289.0,
+          "regular": 778.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/excite-audio-bundle-crossgrade-from-any-excite-audio-product.jpg",
@@ -75763,6 +75817,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-29"
+        },
+        {
+          "date": "2026-11-14",
+          "sale": 99.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/pigments-7.jpg"
@@ -82884,6 +82947,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-12-07"
+        },
+        {
+          "date": "2026-11-14",
+          "sale": 69.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/scaler-3.jpg",
@@ -88328,6 +88400,15 @@
         },
         {
           "date": "2026-11-13",
+          "sale": 39.0,
+          "regular": 156.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-11-14",
           "sale": 39.0,
           "regular": 156.0,
           "source": "pb_deals_poll",
@@ -97566,6 +97647,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-30"
+        },
+        {
+          "date": "2026-11-14",
+          "sale": 49.99,
+          "regular": 1499.92,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/total-vi-max-2.jpg",
@@ -110634,6 +110724,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-11-14",
+          "sale": 10.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/uad-vibe-analog-machines.jpg",
@@ -118876,6 +118975,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-12-01"
+        },
+        {
+          "date": "2026-11-14",
+          "sale": 49.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/wavesfactory-spectre.jpg"
@@ -119241,6 +119349,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-12-01"
+        },
+        {
+          "date": "2026-11-14",
+          "sale": 29.0,
+          "regular": 59.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/wavesfactory-trackspacer.jpg"
@@ -133193,6 +133310,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-30"
+        },
+        {
+          "date": "2026-11-14",
+          "sale": 29.99,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/amplitube-5.jpg",
@@ -137342,6 +137468,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-01-12"
+        },
+        {
+          "date": "2026-11-14",
+          "sale": 19.0,
+          "regular": 39.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/rc-20-retro-color-v2-upgrade.jpg",
@@ -137445,6 +137580,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-12-01"
+        },
+        {
+          "date": "2026-11-14",
+          "sale": 59.4,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/vocalign-7-pro-upgrade.jpg"
@@ -137546,6 +137690,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-01-12"
+        },
+        {
+          "date": "2026-11-14",
+          "sale": 99.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/rc-20-retro-color-v2.jpg"
@@ -137638,6 +137791,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-12-01"
+        },
+        {
+          "date": "2026-11-14",
+          "sale": 119.4,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/vocalign-7-pro.jpg"
@@ -138250,6 +138412,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-30"
+        },
+        {
+          "date": "2026-11-14",
+          "sale": 19.99,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "article_slug": "ssl-blitzer-4287ec",
@@ -138372,6 +138543,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-30"
+        },
+        {
+          "date": "2026-11-14",
+          "sale": 19.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "article_slug": "ssl-native-bus-compressor-2-50a0ef",
