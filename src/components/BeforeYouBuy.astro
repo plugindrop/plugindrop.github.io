@@ -10,6 +10,6 @@ const hasFacts = Boolean(facts?.formats?.length || facts?.mac_req || facts?.win_
   <h2 class="section-title">{name} system requirements and licensing</h2>
   {checks.length > 0 && <ul>{checks.map(item => <li title={item.evidence}>{item.text}</li>)}</ul>}
   {compat && <p>{compat}</p>}
-  {content?.source_url && checks.length > 0 && <p class="section-sub">Source: <a href={content.source_url} rel="nofollow noopener" target="_blank">Plugin Boutique product page</a>{content.retrieved_on && `, retrieved ${content.retrieved_on}`}</p>}
   <ProductFacts facts={facts} />
+  {content?.source_url && <p class="section-sub">Source: <a href={content.source_url} rel="nofollow noopener" target="_blank">Plugin Boutique product page</a>{content.retrieved_on && `, retrieved ${content.retrieved_on}`}</p>}
 </section>}

@@ -941,14 +941,14 @@ const faqLD = {
       {AT_A_GLANCE_ENABLED && content && <AtAGlance content={content} verdict={verdictCopy} peers={savedPeers} />}
       {content && <ProductOverview content={content} tagline={tagline} makerQuote={makerQuote} name={name} brand={productBrand} />}
       {salePost && <p class="page-section"><a href={`/posts/${salePost.slug}/`}>Read the full write-up: {salePost.title} &rarr;</a></p>}
-      {content && (demoVideo || content.sound?.some((item: any) => cleanEvidence(item.evidence)) || content.lineage?.some((item: any) => cleanEvidence(item.evidence))) && <section class="page-section about-product content-depth" data-content-block="sound"><h2 class="section-title">{(content.sound?.some((item: any) => cleanEvidence(item.evidence)) || content.lineage?.some((item: any) => cleanEvidence(item.evidence))) ? `How ${productBrand ?? 'the maker'} describes ${name}` : `${name} demo video`}</h2>
+      {content && (content.prose?.sound || demoVideo || content.sound?.some((item: any) => cleanEvidence(item.evidence)) || content.lineage?.some((item: any) => cleanEvidence(item.evidence))) && <section class="page-section about-product content-depth" data-content-block="sound"><h2 class="section-title">{content.prose?.sound ? `What ${name} sounds like` : demoVideo ? `${name} demo video` : 'From the product page'}</h2>
+        {content.prose?.sound && <p>{content.prose.sound}</p>}
         {demoVideo && <div class="demo-section" data-video-official={String(demoVideo.official === true)} data-video-id={demoVideo.video_id} data-video-title={demoVideo.title}>
           <div id="demo-block" data-video-id={demoVideo.video_id} data-video-official={String(demoVideo.official === true)}><button id="demo-btn" type="button" data-video-id={demoVideo.video_id} title={`Play ${demoVideo.title}`} aria-label={`Play ${demoVideo.title}`}><img src={`https://i.ytimg.com/vi/${demoVideo.video_id}/hqdefault.jpg`} alt="" loading="lazy" width="480" height="270" /><span class="demo-play" aria-hidden="true">▶</span></button></div><p class="demo-caption">{demoVideo.title}</p>
         </div>}
-        {content.sound?.filter((item: any) => cleanEvidence(item.evidence) && item.term && item.evidence?.toLowerCase().includes(item.term.toLowerCase())).slice(0, 1).map((item: any) => <blockquote><q>{item.evidence}</q> — {productBrand ?? 'product page'}</blockquote>)}
-        {content.lineage?.filter((item: any) => cleanEvidence(item.evidence)).slice(0, 1).map((item: any) => <blockquote><q>{item.evidence}</q> — {productBrand ?? 'product page'}</blockquote>)}
+        {(() => { const quote = content.sound?.find((item: any) => cleanEvidence(item.evidence) && item.term && item.evidence?.toLowerCase().includes(item.term.toLowerCase()))?.evidence || content.lineage?.find((item: any) => cleanEvidence(item.evidence))?.evidence; return quote && <div class="maker-quote-small"><span>From the product page</span><q>{quote}</q> <a href={content.source_url} rel="nofollow noopener" target="_blank">Source</a></div>; })()}
       </section>}
-      {content && content.uses?.filter((item: any) => item.label && item.evidence).length >= 2 && <section class="page-section content-depth" data-content-block="uses"><h2 class="section-title">What the maker says it's for</h2><p>Uses named on the product page: {content.uses.filter((item: any) => item.label && item.evidence).map((item: any) => item.label).join(' · ')}</p></section>}
+      {content && (content.prose?.audience || content.uses?.filter((item: any) => item.label && item.evidence).length >= 2) && <section class="page-section content-depth" data-content-block="uses"><h2 class="section-title">Who {name} suits</h2><p>{content.prose?.audience || `Works for: ${content.uses.filter((item: any) => item.label && item.evidence).map((item: any) => item.label).join(' · ')}`}</p></section>}
       {content && <BeforeYouBuy content={content} facts={productFacts} name={name} />}
       {content && showCompare && <CompareTable name={name} content={content} priceData={priceData} pluginFacts={pluginFacts} category={category} />}
       {(share || gaps || rank || distance || alertTargetPrice !== null || episodeDetails.length > 0) && <section class="page-section pp-evidence" id="evidence" data-pp-evidence aria-labelledby="pp-evidence-title">
@@ -972,7 +972,7 @@ const faqLD = {
           </div>
           <p class="demo-caption">{demoVideo.title}</p>
         </div>}
-        {makerQuote && makerAttribution && copyLine.kind !== 'maker' && <div class="maker-quote" data-maker-quote><h3>What the maker says</h3><blockquote><q cite={makerQuote.source_url}>{makerQuote.quote}</q><footer>— {makerAttribution} · <a href={makerQuote.source_url} rel="nofollow noopener sponsored" target="_blank">Source</a></footer></blockquote></div>}
+        {makerQuote && makerAttribution && copyLine.kind !== 'maker' && <div class="maker-quote-small" data-maker-quote><span>From the product page</span><q cite={makerQuote.source_url}>{makerQuote.quote}</q> <a href={makerQuote.source_url} rel="nofollow noopener sponsored" target="_blank">Source</a></div>}
       </section>}
 
       <section class="page-section" id="decision">
@@ -1383,6 +1383,9 @@ const faqLD = {
   .demo-caption{font-size:.9rem;line-height:1.5;margin:.6rem 0}
   .maker-quote blockquote{margin:.5rem 0;padding:1rem 1.2rem;border-left:3px solid var(--accent);line-height:1.6}
   .maker-quote footer{margin-top:.65rem;font-size:.85rem;color:var(--text-secondary)}
+  .maker-quote-small{margin-top:1rem;padding:.65rem .85rem;border-left:2px solid var(--border);font-size:.85rem;line-height:1.5;color:var(--text-secondary)}
+  .maker-quote-small span{display:block;font-weight:600;margin-bottom:.2rem}
+  .maker-quote-small q{margin-right:.35rem}
   .sticky-buy{display:none}
   @media(max-width:680px){
     main#main-content{padding:.75rem .75rem 2rem}

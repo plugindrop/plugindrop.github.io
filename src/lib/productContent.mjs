@@ -38,9 +38,9 @@ export function ownFactsFromContent(content) {
 export function selectBlocks(content) {
   if (!content || typeof content !== 'object') return [];
   return [
-    (nonempty(content.overview) || nonempty(content.tagline) || list(content.features).some(x => nonempty(x?.text))) && 'overview',
-    (list(content.sound).some(x => nonempty(x?.evidence)) || list(content.lineage).some(x => nonempty(x?.evidence)) || content.hasVideo) && 'sound',
-    list(content.uses).filter(x => nonempty(x?.label) && nonempty(x?.evidence)).length >= 2 && 'uses',
+    (nonempty(content.prose?.intro) || nonempty(content.overview) || nonempty(content.tagline) || list(content.features).some(x => nonempty(x?.text))) && 'overview',
+    (nonempty(content.prose?.sound) || list(content.sound).some(x => nonempty(x?.evidence)) || list(content.lineage).some(x => nonempty(x?.evidence)) || content.hasVideo) && 'sound',
+    (nonempty(content.prose?.audience) || list(content.uses).filter(x => nonempty(x?.label) && nonempty(x?.evidence)).length >= 2) && 'uses',
     (list(content.before_you_buy).some(x => nonempty(x?.evidence)) || content.hasFacts) && 'before',
     list(content.peers).filter(nonempty).length >= 2 && 'compare',
   ].filter(Boolean);
@@ -54,9 +54,9 @@ export function hasContentDepth(name, productContent, rollout) {
 export function compatSummary(compat) {
   if (!compat) return null;
   const parts = [];
-  if (compat.mac_min || compat.mac_max) parts.push(compat.mac_max ? `Listed up to macOS ${compat.mac_max}` : `macOS ${compat.mac_min} or later`);
+  if (compat.mac_min || compat.mac_max) parts.push(compat.mac_min && compat.mac_max ? `macOS ${compat.mac_min}–${compat.mac_max}` : compat.mac_max ? `macOS ${compat.mac_max} or earlier` : `macOS ${compat.mac_min} or later`);
   if (compat.win_min) parts.push(`Windows ${compat.win_min} or later`);
-  if (compat.apple_silicon === true) parts.push('Apple Silicon native support listed');
+  if (compat.apple_silicon === true) parts.push('Apple Silicon native support');
   if (compat.licensing) parts.push(String(compat.licensing));
   if (compat.host) parts.push(String(compat.host));
   return parts.join(' · ') || null;
