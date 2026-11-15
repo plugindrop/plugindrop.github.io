@@ -4,6 +4,7 @@ import { readFile, mkdir } from 'node:fs/promises';
 import path from 'node:path';
 
 const slugs = (process.env.GUIDE_SCREENSHOT_SLUGS ?? 'best-free-compressor-vst-plugins,best-vst-plugins-under-100-dollars,best-mastering-plugins-2026,fabfilter-pro-c-2-review,serum-vs-vital-comparison,how-to-use-reverb-in-mixing').split(',');
+const requireAll = process.argv.includes('--require-all');
 const output = path.resolve('../../reports/_design');
 await mkdir(output, { recursive: true });
 const mime = { '.html': 'text/html', '.css': 'text/css', '.js': 'text/javascript', '.png': 'image/png', '.svg': 'image/svg+xml', '.webp': 'image/webp', '.woff2': 'font/woff2' };
@@ -28,7 +29,7 @@ try {
   for (const slug of slugs) for (const width of [1440, 390]) {
     const page = await browser.newPage({ viewport: { width, height: 900 } });
     const response = await page.goto(`${base}/posts/${slug}/`, { waitUntil: 'networkidle' });
-    if (response?.status() === 404) { console.log(`${slug} ${width}: SKIP (no v4 fixture)`); await page.close(); continue; }
+    if (response?.status() === 404) { console.log(`${slug} ${width}: MISSING`); failures++; await page.close(); continue; }
     const m = await page.evaluate(() => {
       const rect = selector => { const r = document.querySelector(selector)?.getBoundingClientRect(); return r && { x: r.x, width: r.width, top: r.top, right: r.right }; };
       const jump = document.querySelector('.guide-v4 .jump');
@@ -37,9 +38,10 @@ try {
       return { v4: !!document.querySelector('.guide-v4'), scroll: document.documentElement.scrollWidth,
         layout: rect('.guide-v4'), video: rect('.guide-v4 iframe'), table: rect('.guide-v4 [data-picks-table]'),
         rail: document.querySelectorAll('.toc-rail-wrap').length, videoPicks: videoPicks.length,
+        wideBlocks: [...document.querySelectorAll('.guide-v4 [data-picks-table], .guide-v4 [data-cheaper-table], .guide-v4 .guide-pick')].map(el => ({ width: el.getBoundingClientRect().width, right: el.getBoundingClientRect().right })),
         jump: !jump || jump.scrollLeft + jump.clientWidth >= jump.scrollWidth - 1 };
     });
-    if (!m.v4) { console.log(`${slug} ${width}: SKIP (legacy article)`); await page.close(); continue; }
+    if (!m.v4) { console.log(`${slug} ${width}: ${requireAll ? 'FAIL (legacy article)' : 'SKIP (legacy article)'}`); failures += Number(requireAll); await page.close(); continue; }
     checked++;
     const errors = [];
     if (m.scroll > width) errors.push(`overflow ${m.scroll}px`);
@@ -51,7 +53,11 @@ try {
       if (m.layout && Math.abs(m.layout.x - (width - m.layout.right)) > 8) errors.push('column alignment');
       if (m.video && m.video.top > 1350) errors.push('video below 1.5 screens');
       if (m.table && m.table.width < 900) errors.push('narrow table');
-    } else if (!m.jump) errors.push('jump bar unreachable');
+      if (m.wideBlocks.some(block => block.width < 900)) errors.push('narrow wide block');
+    } else {
+      if (!m.jump) errors.push('jump bar unreachable');
+      if (m.wideBlocks.some(block => block.right > width + 1)) errors.push('wide block clipped');
+    }
     await page.screenshot({ path: path.join(output, `guide-${slug}-${width}.png`), fullPage: true });
     console.log(`${slug} ${width}: ${errors.length ? errors.join('; ') : 'PASS'}`);
     failures += Number(errors.length > 0);

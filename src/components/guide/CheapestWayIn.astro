@@ -1,8 +1,15 @@
 ---
 import { priceTableRow } from '../../lib/guideV4.mjs';
-const { picks = [], free = false } = Astro.props;
+import { cheaperPeers } from '../../lib/priceInsights.mjs';
+import { categoryForProduct } from '../../lib/categoryInference.mjs';
+import { comparisonPriceFacts } from '../../lib/priceInsights.mjs';
+const { picks = [], free = false, candidates = [] } = Astro.props;
 const sales = picks.filter(p => { const f = p.priceFacts; return Number.isFinite(f?.today) && Number.isFinite(f?.regular) && f.today < f.regular; })
   .sort((a, b) => (1 - b.priceFacts.today / b.priceFacts.regular) - (1 - a.priceFacts.today / a.priceFacts.regular)).slice(0, 5);
+const peers = sales.length ? [] : picks.flatMap(p => p.entry ? (cheaperPeers(p.entry, p.name, candidates, categoryForProduct) ?? []) : [])
+  .filter((p, i, all) => all.findIndex(other => other.name === p.name) === i)
+  .slice(0, 5).map(p => ({ ...p, priceFacts: comparisonPriceFacts(p.entry), priceTiles: [] }));
+const options = sales.length ? sales : peers;
 ---
-{sales.length > 0 && <section class="cheapest"><h2>{free ? 'Paid upgrades on sale now' : 'Cheapest way in'}</h2><ul>{sales.map(p => <li>{p.name}: {priceTableRow(p).current} ({priceTableRow(p).off} off)</li>)}</ul></section>}
+{options.length > 0 && <section class="cheapest"><h2>{free ? 'Paid upgrades on sale now' : sales.length ? 'Cheapest way in' : 'Lower priced peers'}</h2><ul>{options.map(p => <li>{p.name}: {priceTableRow(p).current}{sales.length > 0 && ` (${priceTableRow(p).off} off)`}</li>)}</ul></section>}
 <style>.cheapest{margin:1.5rem 0;padding:1rem;border:1px solid var(--border)}.cheapest h2{margin-top:0}</style>
