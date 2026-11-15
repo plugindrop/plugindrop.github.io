@@ -21,3 +21,10 @@ test('price row comes from tracked data and unresolved pick returns null', () =>
   assert.equal(priceTableRow(a).regular, '$100');
   assert.equal(priceTableRow(resolvePick('Plugin B', data)).current, 'Not tracked');
 });
+
+test('free fact resolves without price history', () => {
+  const data = { freeFacts: { articles: { sample: [{ name: 'Free Compressor', official_url: 'https://example.org/free' }] } } };
+  const pick = resolvePick('Free Compressor', data);
+  assert.equal(pick.freeFact.official_url, 'https://example.org/free');
+  assert.equal(priceTableRow(pick).current, 'Free');
+});

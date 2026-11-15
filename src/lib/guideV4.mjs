@@ -38,11 +38,12 @@ export function resolvePick(name, data) {
       if (query.toLowerCase().startsWith(prefix.toLowerCase() + ' ')) query = brand.canonical + query.slice(prefix.length);
     }
   }
-  const keys = new Set([...Object.keys(entries), ...Object.keys(content), ...Object.keys(data.videos ?? {})]);
+  const freeRows = Object.values(data.freeFacts?.articles ?? {}).flat();
+  const keys = new Set([...Object.keys(entries), ...Object.keys(content), ...Object.keys(data.videos ?? {}), ...freeRows.map(row => row.name).filter(Boolean)]);
   const canonical = [...keys].find(key => clean(key) === clean(query));
   if (!canonical) return null;
   const entry = entries[canonical] ?? null;
-  const freeFact = data.freeFacts?.articles && Object.values(data.freeFacts.articles).flat().find(row => clean(row.name) === clean(canonical)) || null;
+  const freeFact = freeRows.find(row => clean(row.name) === clean(canonical)) ?? null;
   const priceFacts = entry ? comparisonPriceFacts(entry) : null;
   const pricePath = entry && isPricePageIndexable(entry) ? `/plugin-prices/${slugifyProduct(canonical)}/` : null;
   return { name: canonical, entry, content: content[canonical] ?? null, video: data.videos?.[canonical] ?? null,
