@@ -137779,6 +137779,15 @@
           "store": "plugin_boutique",
           "reg_src": "typical",
           "cur": "USD"
+        },
+        {
+          "date": "2026-11-14",
+          "sale": 49.99,
+          "regular": 495.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/solid-state-logic-ssl-fusion-bundle.jpg",
