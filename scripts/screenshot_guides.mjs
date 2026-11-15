@@ -32,10 +32,11 @@ try {
     const m = await page.evaluate(() => {
       const rect = selector => { const r = document.querySelector(selector)?.getBoundingClientRect(); return r && { x: r.x, width: r.width, top: r.top, right: r.right }; };
       const jump = document.querySelector('.guide-v4 .jump');
+      const videoPicks = [...document.querySelectorAll('.guide-v4 [data-pick]')].filter(el => el.querySelector('iframe'));
       if (jump) jump.scrollLeft = jump.scrollWidth;
       return { v4: !!document.querySelector('.guide-v4'), scroll: document.documentElement.scrollWidth,
         layout: rect('.guide-v4'), video: rect('.guide-v4 iframe'), table: rect('.guide-v4 [data-picks-table]'),
-        rail: document.querySelectorAll('.toc-rail-wrap').length,
+        rail: document.querySelectorAll('.toc-rail-wrap').length, videoPicks: videoPicks.length,
         jump: !jump || jump.scrollLeft + jump.clientWidth >= jump.scrollWidth - 1 };
     });
     if (!m.v4) { console.log(`${slug} ${width}: SKIP (legacy article)`); await page.close(); continue; }
@@ -43,6 +44,8 @@ try {
     const errors = [];
     if (m.scroll > width) errors.push(`overflow ${m.scroll}px`);
     if (m.rail) errors.push('TOC rail');
+    if (!m.table && page.url().includes('fixture')) errors.push('price table missing');
+    if (m.videoPicks && !m.video) errors.push('video missing');
     if (width === 1440) {
       if (!m.layout || m.layout.width < 900 || m.layout.width > 961) errors.push('column width');
       if (m.layout && Math.abs(m.layout.x - (width - m.layout.right)) > 8) errors.push('column alignment');
