@@ -14,58 +14,54 @@ saleExpiry: "2026-12-04"
 saleExpirySource: "fallback"
 draft: false
 productKey: "SSL 4K B"
-updatedDate: "2026-11-14"
+updatedDate: "2026-11-15"
 ---
-**TL;DR:** SSL’s SSL 4K B is a channel strip plug-in that brings the SL 4000 B-series console into a DAW, combining an EQ and compressor section. Its compressor supports sidechain work with peak detection and a Feedback VCA topology in the sidechain. Get it for $39 at Plugin Boutique while this 74%-off deal matches the lowest price PluginDrop has tracked: [check the SSL 4K B deal](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10385-SSL-4K-B?a_aid=69cb95abe1763&chan=art&data1=ssl-4k-b-ssl-4k&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-b-ssl-4k).
+**TL;DR:** SSL 4K B is an SSL channel strip plug-in that brings the SL 4000 B-series console design into a DAW. Its EQ, compressor, and sidechain design suit producers seeking the B-series console approach within a channel-strip workflow. It is now $39 at Plugin Boutique—74% off the $149 regular price—so this is a strong time to buy.
 
-## SL 4000 B Circuit Modelling for a DAW Channel Strip
+## SL 4000 B Circuit Modelling in a DAW
 
 <!-- role:product -->
 
-Released in 1976, the SL 4000 B console is the hardware lineage SSL models in the SSL 4K B channel strip. The plug-in is built to bring that B-series console design into a DAW, with detailed circuit modelling down to component level. SSL lists a Jensen JE-115K-E Transformer Mic Pre, dbx “black can” 202 VCA fader, the 4000 B EQ, and the 4000 B Compressor among the modelled elements.
+Released in 1976, the SL 4000 B console is the source design for SSL 4K B. This channel strip plug-in brings that console’s approach into a DAW, combining an EQ and compressor in one processor rather than requiring separate plug-ins for those functions. It is based on the rare SL 4000 B, a console installed in Studio 2, known as the Stone Room, at London’s Townhouse Studios.
 
-For a producer new to the plug-in, a channel strip places several console-style processing sections in one plug-in. Here, those supported sections include the EQ and compressor. SSL says the 4000 B EQ preceded the Brown Knob EQ found on the 4000 E and describes it as “very musical sounding.” The compressor differs in its design: SSL says it is based on the Bus Compressor design, with peak detection, a Feedback VCA topology in the sidechain, and a unique De-Esser mode.
+The plug-in’s detailed circuit modelling covers the Jensen JE-115K-E Transformer Mic Pre, dbx “black can” 202 VCA fader, 4000 B EQ, and 4000 B Compressor. The EQ precedes the Brown Knob EQ found on the 4000 E. The compressor has a design based on the Bus Compressor, using peak detection and a Feedback VCA topology in the sidechain; it also includes a De-Esser mode.
 
-The supplied demo is titled *SSL 4K B: The “Rare” Analog Sound That Started It All*. Its title frames the product around the early SSL console lineage rather than a modern clean-channel-strip approach.
+SSL 4K B integrates with the SSL 360° Plug-in Mixer ecosystem and is controllable from UC1 and UF8 hardware. The supplied video, *SSL 4K B Channel Strip plug-in and history of the SL 4000 B console with Chris Jenkins*, focuses on the channel strip and the history of the SL 4000 B console.
 
 <!-- deal-context-video:start -->
-<iframe src="https://www.youtube.com/embed/XDS_r_pPFFQ" title="SSL 4K B: The &quot;Rare&quot; Analog Sound That Started It All" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/X0G7oGdBJ4Y" title="SSL 4K B Channel Strip plug-in and history of the SL 4000 B console with Chris Jenkins" frameborder="0" allowfullscreen></iframe>
 
-*SSL 4K B: The "Rare" Analog Sound That Started It All*
+*SSL 4K B Channel Strip plug-in and history of the SL 4000 B console with Chris Jenkins*
 <!-- deal-context-video:end -->
 
-## Tone, Punch, and a Non-Linear Analogue Character
+## Peak Detection and the B-Series Sound Direction
 
 <!-- role:sound -->
 
-SSL describes the 4K B as an authentic emulation “full of tone, punch and rich non-linear analogue character.” Those are the maker’s sound descriptors, tied directly to its modelling of the rare SL 4000 B. The historical console was installed in Studio 2, known as the Stone Room, at London’s Townhouse Studios; SSL also names recordings including Phil Collins’ *In the Air Tonight*, The Buggles’ *Video Killed the Radio Star*, and Peter Gabriel’s *Intruder* in its background for the console.
+Peak detection and a Feedback VCA topology in the sidechain distinguish the 4000 B Compressor design. That makes sidechain work a specifically named use for SSL 4K B, while the built-in De-Esser mode extends the compressor section beyond straightforward compression duties.
 
-The maker positions this character against its own 9K-inspired Channel Strip 2. SSL calls the 4K B a companion for that cleaner product, so the distinction supplied by SSL is clear: 4K B is associated with tone, punch, and rich non-linear analogue character, while Channel Strip 2 is described as cleaner. That is a maker-stated positioning comparison, not a claim about an independently heard result.
+Its sound character is full of tone, punch, and rich non-linear analogue character. The 4000 B EQ is described as musical, and the plug-in is positioned as a companion to the cleaner 9K-inspired Channel Strip 2. In practical terms, that establishes a clear choice within SSL’s own channel-strip direction: 4K B centers the SL 4000 B lineage and its non-linear analogue character, while Channel Strip 2 is the cleaner 9K-inspired companion.
 
-## SSL 4K B Compared with CLA-76 and API 2500
+## Two Listed Compressor Peers, Two Different Briefs
 
 <!-- role:peers -->
 
-Peak detection and a Feedback VCA topology in the sidechain set the SSL 4K B compressor’s stated design apart from the peer facts available here. Waves describes CLA-76’s attack and release times as tracking drum dynamics, while its exclusive ALL ratio mode delivers an explosive compression sound. Those claims identify CLA-76 through its attack/release behaviour and ALL ratio mode; SSL instead identifies 4K B through B-series channel-strip modelling, peak detection, and its sidechain topology.
+Waves CLA-76 emphasizes attack and release times that track drum dynamics, plus an exclusive ALL ratio mode for explosive compression sound. SSL 4K B instead combines its B-series EQ and compressor inside a channel strip, with a Bus Compressor-based design, peak detection, Feedback VCA sidechain topology, and a De-Esser mode.
 
-Waves API 2500 is described as an official emulation of the famed API bus compressor, modelled in close collaboration with API. SSL 4K B, by contrast, is presented as a full channel strip based on the SL 4000 B console, with an EQ and compressor among its modelled sections. The comparison is therefore one of stated product scope and lineage: the supplied API 2500 information centres on an API bus-compressor emulation, whereas SSL’s brief centres on a B-series console channel strip and a compressor based on the Bus Compressor design.
-
-Neither comparison requires assuming a preferred sound. The available facts support different design descriptions: CLA-76 has an ALL ratio mode; API 2500 is an API bus-compressor emulation; and SSL 4K B combines SL 4000 B console modelling with its stated EQ, compressor, and De-Esser mode.
+Waves API 2500 is modelled in close collaboration with API and is an official emulation of the famed API bus compressor. SSL 4K B takes a broader channel-strip route: it models the SL 4000 B console design and includes the 4000 B EQ alongside its compressor section. For producers comparing the listed options, the API 2500’s supplied description centers on a bus compressor, while SSL 4K B’s supplied description centers on the SL 4000 B channel-strip architecture.
 
 <!-- deal-context-sale-windows:start -->
 ## Last three times this went on sale
-- 2026-11-12 → 2026-11-13: as low as $39
+- 2026-11-12 → 2026-11-14: as low as $39
 <!-- deal-context-sale-windows:end -->
 
-## $39 Matches the Lowest Recorded SSL 4K B Price
+## $39 Matches PluginDrop’s Recorded Low
 
 <!-- role:price -->
 
-The current $39 price matches PluginDrop’s recorded $39 low, versus the regular $149 price. PluginDrop has tracked six observations since April 4, 2023, and lists $39 as both the lowest tracked price and typical sale price. Its verdict is **BUY NOW**, because the current price is within 5% of that recorded low.
+At $39 today versus a recorded regular price of $149, SSL 4K B matches PluginDrop’s lowest tracked price. PluginDrop has tracked the deal since April 4, 2023 across seven observations; its typical sale price is also $39. That means the present offer is not merely below list price—it is at the same level as the tracked low and typical sale.
 
-For compatibility, SSL lists native Apple Silicon M1/ARM support. Supported formats are VST, VST3, AU, and AAX on macOS 11 Big Sur through macOS 13 Ventura; on Windows 10 through Windows 11, the listed formats are VST, VST3, and AAX. SSL also states that 4K B integrates with the 360° Plug-in Mixer ecosystem and is controllable from UC1 and UF8 through SSL 360° and the Plug-in Mixer.
-
-At the tracked-low $39 price, this deal is a direct way to buy SSL’s SL 4000 B-based channel-strip model: [see the current Plugin Boutique listing](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10385-SSL-4K-B?a_aid=69cb95abe1763&chan=art&data1=ssl-4k-b-ssl-4k&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-b-ssl-4k).
+The price context verdict is **BUY NOW** because $39 is within 5% of the $39 lowest tracked price. Producers who want the SL 4000 B-inspired channel-strip design, including its EQ, peak-detection compressor, sidechain topology, and De-Esser mode, can [check the $39 SSL 4K B deal at Plugin Boutique](https://www.pluginboutique.com/search?q=SSL+4K+B&a_aid=69cb95abe1763&chan=art&data1=ssl-4k-b-ssl-4k&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-b-ssl-4k).
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements
@@ -79,16 +75,20 @@ At the tracked-low $39 price, this deal is a direct way to buy SSL’s SL 4000 B
 
 <!-- role:faq -->
 
-### Q: What console does SSL 4K B model?
+### Q: What does the Feedback VCA topology apply to?
 
-A: SSL says it models the rare SL 4000 B, a console released in 1976.
+A: It applies to the 4000 B Compressor’s sidechain. The compressor also uses peak detection and is based on the Bus Compressor design.
 
-### Q: What makes the SSL 4K B compressor distinct in the supplied product information?
+### Q: How does SSL 4K B differ from Waves CLA-76?
 
-A: SSL says it is based on the Bus Compressor design, with peak detection, a Feedback VCA topology in the sidechain, and a unique De-Esser mode.
+A: The listed CLA-76 facts emphasize drum-dynamics tracking through attack and release controls and its ALL ratio mode. SSL 4K B is a channel strip with a B-series EQ, Bus Compressor-based compressor design, sidechain topology, and De-Esser mode.
 
-### Q: How does SSL position 4K B next to Channel Strip 2?
+### Q: How does it differ from Waves API 2500?
 
-A: SSL describes 4K B as full of tone, punch, and rich non-linear analogue character, and calls it a companion for the cleaner 9K-inspired Channel Strip 2.
+A: The listed API 2500 facts identify it as an official emulation of the famed API bus compressor. SSL 4K B models the SL 4000 B console design and incorporates both EQ and compressor sections.
+
+### Q: Is $39 a notable SSL 4K B price?
+
+A: Yes. PluginDrop records $39 as both the lowest tracked price and the typical sale price, against a $149 regular price.
 
 *Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*

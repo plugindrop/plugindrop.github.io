@@ -29,12 +29,33 @@
     "source": "yt_api_fill",
     "official": false
   },
+  "Arturia Analog Lab Pro": {
+    "video_id": "8gaoY7W13zY",
+    "title": "Arturia Analog Lab Pro Presets",
+    "channel": "muzykujkropkacom",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "Arturia Augmented STRINGS": {
     "video_id": "cMeoG8v7FYY",
     "title": "Augmented STRINGS | Acoustic Instruments Reinvented | ARTURIA",
     "channel": "Arturia",
     "source": "pb_page",
     "official": true
+  },
+  "Arturia CS-80 V4": {
+    "video_id": "ut3uIWrTSVI",
+    "title": "Arturia CS-80 V4 | No Talking |",
+    "channel": "DKS SYNTH LAB",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Arturia Jup-8 V": {
+    "video_id": "aKth4B3Qi2A",
+    "title": "Arturia Jup-8 V4: Demo and Tutorial",
+    "channel": "CatSynth TV",
+    "score": 10,
+    "source": "yt_api_fill"
   },
   "Arturia Mini V": {
     "video_id": "0zLx3Eiy1Tc",
@@ -50,6 +71,13 @@
     "score": 11,
     "source": "yt_api_fill",
     "official": true
+  },
+  "Arturia Piano V3": {
+    "video_id": "Y1XrdvPuZIU",
+    "title": "ARTURIA PIANO V3 - Amazing Factory Presets | 4K",
+    "channel": "Artur Sekura",
+    "score": 10,
+    "source": "yt_api_fill"
   },
   "Arturia Prophet-5 V": {
     "video_id": "vlthG5utYHA",
@@ -73,12 +101,40 @@
     "source": "pb_page",
     "official": false
   },
+  "AudioThing Outer Space 2": {
+    "video_id": "fS2OG6C9c7I",
+    "title": "iOS - AudioThing Outer Space 2 Tape Echo - Tutorial and Demo",
+    "channel": "SoundForMore MusicTech Tutorials",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "BFD 3.5": {
+    "video_id": "-1l8q0ZXyXE",
+    "title": "BFD 3.5 Virtual Drum Software | Overview",
+    "channel": "bfddrums",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Baby Audio Comeback Kid": {
+    "video_id": "I7cDWJgrZfw",
+    "title": "BABY AUDIO COMEBACK KID Delay Plugin | Tutorial & Demonstration",
+    "channel": "Ed Thorne | Mixing & Mastering",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "Baby Audio Crystalline": {
     "video_id": "FquRvVSInZc",
     "title": "Crystalline - Baby Audio - Official Tutorial",
     "channel": "Baby Audio",
     "source": "pb_page",
     "official": true
+  },
+  "Baby Audio Grainferno": {
+    "video_id": "LxhjUk2ZlOI",
+    "title": "Grainferno - Baby Audio - Official Tutorial",
+    "channel": "Baby Audio",
+    "score": 11,
+    "source": "yt_api_fill"
   },
   "Baby Audio Humanoid": {
     "video_id": "RvLd6MCnShM",
@@ -93,6 +149,13 @@
     "channel": "Baby Audio",
     "source": "pb_page",
     "official": true
+  },
+  "Baby Audio I Heart NY": {
+    "video_id": "Mw0MB6xchQc",
+    "title": "Baby Audio I Heart NY | Parallel Compressor | In Depth Review",
+    "channel": "Jimijaymes Productions",
+    "score": 8,
+    "source": "yt_api_fill"
   },
   "Baby Audio IHNY-2": {
     "video_id": "-AGTprq6Ssg",
@@ -130,12 +193,40 @@
     "source": "yt_api_fill",
     "official": true
   },
+  "Baby Audio SubCulture": {
+    "video_id": "nFFESpv3IoM",
+    "title": "SubCulture - Baby Audio - Official Tutorial",
+    "channel": "Baby Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Baby Audio Super VHS": {
+    "video_id": "3DCmpRXq8co",
+    "title": "Best retro plugin? Super VHS by Baby Audio",
+    "channel": "Baby Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Baby Audio TAIP": {
+    "video_id": "CbRucOvuXW8",
+    "title": "TAIP - BABY Audio - CJ Beatz Tutorial",
+    "channel": "Baby Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Baby Audio Tekno": {
     "video_id": "TH1J3Ywh6DY",
     "title": "Tekno v1.1 Free Update - New Sequencer + More - Baby Audio",
     "channel": "Baby Audio",
     "source": "pb_page",
     "official": true
+  },
+  "Baby Audio Transit 2": {
+    "video_id": "yYNSbjCvxMU",
+    "title": "Transit 2 Sound Examples - Modes, Effect Modules and Presets - Baby Audio",
+    "channel": "Baby Audio",
+    "score": 11,
+    "source": "yt_api_fill"
   },
   "Black Box Analog Design HG-2": {
     "video_id": "q0m3u4TkYbM",
@@ -201,12 +292,26 @@
     "source": "pb_page",
     "official": false
   },
+  "Cableguys ShaperBox 3": {
+    "video_id": "SCPWwVZD1XE",
+    "title": "25 Ways To Use Cableguys ShaperBox 3 (No Talking)",
+    "channel": "Cableguys",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "Cherry Audio Atomika": {
     "video_id": "Hs6qnoiShFg",
     "title": "Cherry Audio | Atomika Synthesizer",
     "channel": "Cherry Audio",
     "source": "pb_page",
     "official": true
+  },
+  "Cherry Audio CR 78 Drum Machine": {
+    "video_id": "KSxlhlDPhIY",
+    "title": "CR-78 Drum Machine | Cherry Audio",
+    "channel": "Cherry Audio",
+    "score": 10,
+    "source": "yt_api_fill"
   },
   "Cherry Audio Crumar Spirit": {
     "video_id": "Qu9MQ2eOBGk",
@@ -236,6 +341,13 @@
     "score": 10,
     "source": "yt_api_fill",
     "official": true
+  },
+  "Cherry Audio Dreamsynth": {
+    "video_id": "aRycGp5Y664",
+    "title": "Dreamsynth | Cherry Audio",
+    "channel": "Cherry Audio",
+    "score": 10,
+    "source": "yt_api_fill"
   },
   "Cherry Audio Eight Voice": {
     "video_id": "XpK5utIhIqQ",
@@ -286,6 +398,13 @@
     "channel": "Cherry Audio",
     "source": "pb_page",
     "official": true
+  },
+  "Cherry Audio KR 55C Drum Machine": {
+    "video_id": "UVvu1_aFGXQ",
+    "title": "Cherry Audio | KR-55C Drum Machine",
+    "channel": "Cherry Audio",
+    "score": 11,
+    "source": "yt_api_fill"
   },
   "Cherry Audio Lowdown": {
     "video_id": "RgfAmRS0JhU",
@@ -359,6 +478,13 @@
     "source": "yt_api_fill",
     "official": true
   },
+  "Cherry Audio P 10 Synthesizer": {
+    "video_id": "xxSahItqCHM",
+    "title": "Cherry Audio | P-10 Synthesizer",
+    "channel": "Cherry Audio",
+    "score": 13,
+    "source": "yt_api_fill"
+  },
   "Cherry Audio PS 3300": {
     "video_id": "qK_KyC0atMY",
     "title": "Cherry Audio's PS-3300 Teaser: A Giant Monster of a Synth",
@@ -410,6 +536,13 @@
     "source": "pb_page",
     "official": true
   },
+  "Cherry Audio Sines Synthesizer": {
+    "video_id": "a_n_awi5ad0",
+    "title": "Introduction to Cherry Audio Sines Synthesizer with Tim Shoebridge",
+    "channel": "Cherry Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
   "Cherry Audio Stardust 201 Tape Echo": {
     "video_id": "0UTyTmpiOF8",
     "title": "Cherry Audio Stardust 201 Tape Echo ~ Demo (no talking)",
@@ -417,6 +550,13 @@
     "score": 10,
     "source": "yt_api_fill",
     "official": false
+  },
+  "Cherry Audio Surrealistic MG 1 Plus Synthesizer": {
+    "video_id": "ancycEaaBeE",
+    "title": "Free VST - Cherry Audio Surrealistic MG-1 Plus Synthesizer",
+    "channel": "HRS Courses",
+    "score": 9,
+    "source": "yt_api_fill"
   },
   "Cherry Audio Synthesizer Expander Module": {
     "video_id": "8TpAzeWpS3I",
@@ -469,6 +609,13 @@
     "source": "pb_page",
     "official": false
   },
+  "DB-30 Drum Butter": {
+    "video_id": "FwTxc6uPvc0",
+    "title": "XLN Audio DB-30 DRUM BUTTER | Classic Acoustic | Sounds Like This (No Talking)",
+    "channel": "Sounds Like This",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "DC Snares": {
     "video_id": "p9WMLf854Kw",
     "title": "DC Snares in 4 Minutes",
@@ -519,6 +666,13 @@
     "source": "pb_page",
     "official": false
   },
+  "Eventide Blackhole": {
+    "video_id": "5dFgkAzFwew",
+    "title": "Eventide Blackhole® Immersive Plug-in: Overview & Demo",
+    "channel": "Eventide Audio",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
   "Eventide Blackhole Immersive": {
     "video_id": "5dFgkAzFwew",
     "title": "Eventide Blackhole® Immersive Plug-in: Overview & Demo",
@@ -526,6 +680,13 @@
     "score": 12,
     "source": "yt_api_fill",
     "official": true
+  },
+  "Eventide CrushStation": {
+    "video_id": "oKRRC8o5kPw",
+    "title": "Eventide CrushStation Plug-in for Desktop & iOS",
+    "channel": "Eventide Audio",
+    "score": 11,
+    "source": "yt_api_fill"
   },
   "Eventide Crystals": {
     "video_id": "jMXjxPD8kIQ",
@@ -550,6 +711,13 @@
     "source": "pb_page",
     "official": true
   },
+  "Eventide EQ45": {
+    "video_id": "JcJt0ko_yDY",
+    "title": "Eventide EQ65 and EQ45 plugins",
+    "channel": "Eventide Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Eventide EQ65": {
     "video_id": "JcJt0ko_yDY",
     "title": "Eventide EQ65 and EQ45 plugins",
@@ -558,6 +726,13 @@
     "source": "yt_api_fill",
     "official": true
   },
+  "Eventide H3000 Band Delays Mk II": {
+    "video_id": "nLpUhXQQydc",
+    "title": "Eventide - H3000 Band Delays Mk II - Demo",
+    "channel": "felice music labs",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "Eventide H3000 Factory": {
     "video_id": "DXSDyCeZPpU",
     "title": "Eventide Artist Spotlight JC Losada on H3000 Factory",
@@ -565,6 +740,13 @@
     "score": 10,
     "source": "yt_api_fill",
     "official": true
+  },
+  "Eventide H910 Harmonizer": {
+    "video_id": "977Sri5EcCE",
+    "title": "History of the Eventide H910 Harmonizer®",
+    "channel": "Eventide Audio",
+    "score": 11,
+    "source": "yt_api_fill"
   },
   "Eventide H949 Harmonizer": {
     "video_id": "CGizvwbDi98",
@@ -646,12 +828,26 @@
     "source": "pb_page",
     "official": true
   },
+  "Eventide SP2016 Reverb": {
+    "video_id": "7tGVASqP42A",
+    "title": "Eventide SP2016 Reverb Position Control Demo",
+    "channel": "Eventide Audio",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
   "Eventide ShimmerVerb": {
     "video_id": "T9MCwivHN10",
     "title": "Introducing Eventide ShimmerVerb Plug-in - Massive Reverb + Pitch Shifting (Audio Demo)",
     "channel": "Eventide Audio",
     "source": "pb_page",
     "official": true
+  },
+  "Eventide SplitEQ": {
+    "video_id": "8zWl-Yh2nMI",
+    "title": "Eventide SplitEQ Plug-in Overview & Demo",
+    "channel": "Eventide Audio",
+    "score": 12,
+    "source": "yt_api_fill"
   },
   "Eventide TriceraChorus": {
     "video_id": "kiPE_BcEuo8",
@@ -1435,6 +1631,13 @@
     "source": "yt_api_fill",
     "official": false
   },
+  "SSL 4K B": {
+    "video_id": "X0G7oGdBJ4Y",
+    "title": "SSL 4K B Channel Strip plug-in and history of the SL 4000 B console with Chris Jenkins",
+    "channel": "Solid State Logic",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
   "SSL Blitzer": {
     "video_id": "JwrWXTV2PL0",
     "title": "SSL Blitzer Plug-in Tutorial: Overheads, drum bus, lead vocals and full mix processing.",
@@ -1557,6 +1760,13 @@
     "channel": "Universal Audio",
     "source": "pb_page",
     "official": false
+  },
+  "Soundtoys 5.5": {
+    "video_id": "NlGqjb1ncF4",
+    "title": "Introducing Soundtoys 5.5",
+    "channel": "soundtoys",
+    "score": 13,
+    "source": "yt_api_fill"
   },
   "Soundtoys FilterFreak": {
     "video_id": "Gu1x0iN7wGM",
@@ -2109,6 +2319,13 @@
     "channel": "Waves Audio",
     "source": "pb_page",
     "official": true
+  },
+  "Waves Mercury Bundle": {
+    "video_id": "eCHkyLi9MOU",
+    "title": "Mercury Bundle by Waves",
+    "channel": "WavesUniverse",
+    "score": 8,
+    "source": "yt_api_fill"
   },
   "Waves Tune Real-Time": {
     "video_id": "wEYV9FH91Vo",
