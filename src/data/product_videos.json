@@ -21,6 +21,13 @@
     "source": "pb_page",
     "official": false
   },
+  "Antares Auto-Tune Pro": {
+    "video_id": "ubao3QtGBhc",
+    "title": "Antares Auto-Tune Pro 11 - Demo",
+    "channel": "Apollo Academy",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "Arturia Analog Lab": {
     "video_id": "BKN2Rf8Ss8o",
     "title": "Arturia Analog Lab: NO TALKING...just Sounds. | Gear4music Synths & Tech",
@@ -105,6 +112,27 @@
     "video_id": "fS2OG6C9c7I",
     "title": "iOS - AudioThing Outer Space 2 Tape Echo - Tutorial and Demo",
     "channel": "SoundForMore MusicTech Tutorials",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "AudioThing Springs": {
+    "video_id": "sAuU9XFTGpM",
+    "title": "iOS - AudioThing Springs Reverb - Tutorial and Demo",
+    "channel": "SoundForMore MusicTech Tutorials",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "AudioThing Type A": {
+    "video_id": "STd8cgMkNjU",
+    "title": "AudioThing Type A Vintage Enhancer // Walkthrough, Demo, Review (AUv3, VST3, VST2, AAX, CLAP)",
+    "channel": "Gavinski’s Tutorials",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "BEAM 2.0": {
+    "video_id": "t0ndQfWEJ5E",
+    "title": "BEAM 2.0 - Creative Modular Effects Playground - Full Walkthrough & Demo - PC & Mac",
+    "channel": "The Sound Test Room",
     "score": 8,
     "source": "yt_api_fill"
   },
@@ -666,6 +694,27 @@
     "source": "pb_page",
     "official": false
   },
+  "EastWest Fab Four": {
+    "video_id": "aUrkaPOzTsc",
+    "title": "EastWest Fab Four Walkthrough",
+    "channel": "EastWest Sounds",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
+  "EastWest Ghostwriter": {
+    "video_id": "ABv2lZOrTFg",
+    "title": "EastWest Ghostwriter Walkthrough",
+    "channel": "EastWest Sounds",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
+  "EastWest Hollywood Orchestra Opus Edition": {
+    "video_id": "wfN8z4LCP4Q",
+    "title": "EastWest Hollywood Orchestra Opus Edition Walkthrough",
+    "channel": "EastWest Sounds",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
   "Eventide Blackhole": {
     "video_id": "5dFgkAzFwew",
     "title": "Eventide Blackhole® Immersive Plug-in: Overview & Demo",
@@ -849,6 +898,13 @@
     "score": 12,
     "source": "yt_api_fill"
   },
+  "Eventide Spring": {
+    "video_id": "clSFLe9z8Lo",
+    "title": "Eventide Spring Reverb Plug-in Overview for AUv3, VST, AU, AAX",
+    "channel": "Eventide Audio",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
   "Eventide TriceraChorus": {
     "video_id": "kiPE_BcEuo8",
     "title": "Eventide TriceraChorus Pedal Presets Demo",
@@ -856,6 +912,20 @@
     "score": 12,
     "source": "yt_api_fill",
     "official": true
+  },
+  "Eventide Tverb": {
+    "video_id": "4xP7onNavdw",
+    "title": "Eventide Tverb Plug-In Presets Demo: Piano, Drums, Flute & Vocals",
+    "channel": "Eventide Audio",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
+  "Eventide UltraChannel": {
+    "video_id": "-fBPYACO7UU",
+    "title": "Eventide UltraChannel Overview",
+    "channel": "Eventide Audio",
+    "score": 12,
+    "source": "yt_api_fill"
   },
   "Eventide UltraReverb": {
     "video_id": "KeVi2FikcDw",
@@ -870,6 +940,13 @@
     "channel": "Plugin Boutique",
     "source": "pb_page",
     "official": false
+  },
+  "Eventide Undulator": {
+    "video_id": "wHtRI0H6PSI",
+    "title": "Eventide Undulator Plug-in: Audio Presets Demo",
+    "channel": "Eventide Audio",
+    "score": 12,
+    "source": "yt_api_fill"
   },
   "FASTER MASTER": {
     "video_id": "c0-4tRja-x8",
