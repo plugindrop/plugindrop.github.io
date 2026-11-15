@@ -54,7 +54,9 @@ export function episodeRows(entry) {
     const previous = episodes[index + 1];
     const after = checks.find((row) => row.date > episode.end && !finite(row.sale) && finite(row.regular));
     const maximum = depthOf(episode);
+    const salePrices = checks.filter((row) => row.date >= episode.start && row.date <= episode.end && finite(row.sale)).map((row) => row.sale);
     return { ...episode, number: episodes.length - index, depth: maximum?.depth ?? null,
+      low: salePrices.length ? Math.min(...salePrices) : null,
       depthDate: maximum?.date ?? null,
       previousDepth: previous ? depthOf(previous)?.depth ?? null : null,
       daysSincePrevious: previous ? days(previous.end, episode.start) : null,

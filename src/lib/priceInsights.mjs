@@ -1,4 +1,4 @@
-import { comparableHistory, listSaleEpisodes } from './indexPolicy.mjs';
+import { comparableHistory, listSaleEpisodes, isPricePageIndexable } from './indexPolicy.mjs';
 import { dealState } from './articleDeal.mjs';
 import { DEFAULT_AUDIT_INDEX, OBSERVED_SOURCES, confirmedSaleOf, isStandardCents, latestTrackerRow, pbPathOf, sourceKindOf } from './priceBasis.mjs';
 import { currentPriceOf, formatPrice, dealScore } from './priceUtils.ts';
@@ -204,6 +204,18 @@ export function buildCoverageLine(f) {
     : `This record: ${n} price checks since ${first} (about every ${plural(Math.max(1, Math.round(days(first, last) / (n - 1))), 'day')})`;
   if (f.archive) line += `, plus ${plural(f.archive.count, 'archived Plugin Boutique page')} ${range(f.archive)}`;
   return `${line}.`;
+}
+
+export function cheaperPeers(entry, name, candidates, resolveCategory = (n, e, bundle) => e?.category, limit = 5) {
+  const category = resolveCategory(name, entry, candidates.find(candidate => candidate.name === name)?.kind === 'bundle');
+  const ownPrice = currentPriceOf(entry);
+  if (!category || ownPrice == null) return null;
+  const peers = candidates.filter(candidate => candidate.name !== name && isPricePageIndexable(candidate.entry)
+    && resolveCategory(candidate.name, candidate.entry, candidate.kind === 'bundle') === category)
+    .map(candidate => ({ ...candidate, price: currentPriceOf(candidate.entry) }))
+    .filter(candidate => candidate.price != null && candidate.price < ownPrice)
+    .sort((a, b) => a.price - b.price || a.name.localeCompare(b.name)).slice(0, limit);
+  return peers.length >= 2 ? peers : null;
 }
 export function summarizeVerdict(name, f, { buildDate } = {}) {
   if (f.state === 'no_checks') return `We have not read a price for ${name} from the store page yet.`;

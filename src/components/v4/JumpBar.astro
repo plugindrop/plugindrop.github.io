@@ -1,0 +1,7 @@
+---
+const sections = Astro.props.sections ?? [];
+const idFor = (role, fallback) => sections.find(section => section.role === role)?.id ?? fallback;
+const links = [['What it is',idFor('product','product')],['Sound',idFor('sound','sound')],['Who it suits',idFor('audience','audience')],['Price check','price-check'],['Specs','formats'],['FAQ',idFor('faq','faq')]];
+---
+<nav class="jump" aria-label="Jump to section">{links.map(([label,id]) => <a href={`#${id}`}>{label}</a>)}</nav>
+<style>.jump{display:flex;gap:.45rem;overflow-x:auto;scrollbar-width:thin;white-space:nowrap;margin:1rem 0 2rem;padding-bottom:.5rem}.jump a{flex:none;border:1px solid var(--border);background:var(--bg-card);padding:.45rem .7rem;font:700 .76rem var(--font-mono);text-decoration:none;color:var(--text-secondary)}.jump a:hover{color:var(--accent)}</style>

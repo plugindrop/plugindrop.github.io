@@ -1,0 +1,26 @@
+---
+import DealSummaryCard from './DealSummaryCard.astro';
+import JumpBar from './JumpBar.astro';
+import PriceEvidence from './PriceEvidence.astro';
+import CheaperOptionsTable from './CheaperOptionsTable.astro';
+const { parsed, entry, name, image, state, href, pricePath, expiry, candidates, lastUpdated, writtenDate, ctaText } = Astro.props;
+const byRole = (role) => parsed.sections.filter(section => section.role === role);
+const readSections = parsed.sections.filter(section => !['price', 'claim', 'bundle', 'formats', 'faq'].includes(section.role));
+const priceCopy = parsed.sections.filter(section => ['price', 'claim', 'bundle'].includes(section.role));
+const priceCopyHtml = priceCopy.map(section => state === 'live' ? section.html : section.html.replace(/BUY NOW/g, 'the verdict at publication'));
+const formatCopy = byRole('formats');
+const faqCopy = byRole('faq');
+---
+<div class="v4-layout">
+  <div class="v4-read prose"><slot name="header" /></div>
+  <DealSummaryCard {entry} {name} {image} {state} {href} {pricePath} {expiry} />
+  <JumpBar sections={parsed.sections} />
+  <div class="v4-read prose" set:html={parsed.tldrHtml} />
+  {readSections.map(section => <div class="v4-read prose"><div set:html={section.html} />{parsed.videoHtml && (section.role === 'sound' || (section.role === 'product' && !readSections.some(item => item.role === 'sound'))) && <div class="v4-video" set:html={parsed.videoHtml} />}</div>)}
+  <PriceEvidence {entry} {state} {writtenDate} {href} {ctaText}>{priceCopyHtml.map(html => <div set:html={html} />)}</PriceEvidence>
+  <CheaperOptionsTable {entry} {name} {candidates} {lastUpdated} />
+  <div class="v4-read prose" id="formats">{formatCopy.map(section => <div set:html={section.html} />)}<div set:html={parsed.formatsHtml} /></div>
+  <div class="v4-read prose">{faqCopy.map(section => <div set:html={section.html} />)}</div>
+  <div class="v4-read prose"><slot name="footer" /></div>
+</div>
+<style>.v4-layout{max-width:1080px;margin:0 auto;padding:0 16px;box-sizing:border-box}.v4-read{max-width:720px;margin-inline:auto;font-size:1.0625rem;line-height:1.7}.v4-video{width:100%;max-width:720px;margin:1rem auto}.v4-video :global(iframe){display:block;width:100%;aspect-ratio:16/9;height:auto}.v4-read :global(img){max-width:100%;height:auto}.v4-read :global(table){width:100%;max-width:100%}@media(min-width:700px) and (max-width:1099px){.v4-layout{max-width:calc(100% - 32px)}}@media(max-width:699px){.v4-layout{padding:0 12px}.v4-read{max-width:100%}}</style>

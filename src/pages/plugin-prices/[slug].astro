@@ -26,6 +26,7 @@ import { rarityTag, supportChips } from '../../lib/dealSignals.mjs';
 import { composeHeadline } from '../../lib/headline.mjs';
 import { detectBrand } from '../../lib/brands.mjs';
 import { dealState } from '../../lib/articleDeal.mjs';
+import { verdictLabel } from '../../lib/verdict.mjs';
 import { discountCheck } from '../../lib/discountCheck.mjs';
 import manifestRaw from '../../data/programmatic_pages.json';
 import { categoryForProduct } from '../../lib/categoryInference.mjs';
@@ -193,16 +194,7 @@ const researchNote = buildResearchNote(name, facts);
 const coverageLine = buildCoverageLine(facts);
 const dealScore = dealScoreNumeric(entry);
 
-// Fable v4 verdict label
-function fableVerdictLabel(e: EntryData): 'BUY NOW' | 'FAIR SALE' | 'AVERAGE' | 'WAIT' {
-  const ds = dealScoreNumeric(e);
-  if (ds.verdict === 'none') return 'WAIT';
-  if (ds.verdict === 'good') return 'BUY NOW';
-  if (ds.verdict === 'ok') return 'FAIR SALE';
-  if (isOnSale(e)) return 'AVERAGE';
-  return 'WAIT';
-}
-const fableVerdict = fableVerdictLabel(entry);
+const fableVerdict = verdictLabel(entry);
 const verdictIsNone = dealScore.verdict === 'none';
 const showVerdictAlert = fableVerdict === 'WAIT' || verdictIsNone;
 const alertTargetPrice = alertTarget(facts);

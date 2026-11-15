@@ -1,0 +1,7 @@
+---
+import { sparklineGeom } from '../../lib/priceSparkline.mjs';
+import { measuredPriceChecks } from '../../lib/pricePageEvidence.mjs';
+const geom = sparklineGeom(measuredPriceChecks(Astro.props.entry));
+---
+{geom && <svg viewBox={`0 0 ${geom.width} ${geom.height}`} role="img" aria-label="Tracked price history" preserveAspectRatio="none"><path d={geom.path} fill="none" stroke="currentColor" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" /><circle cx={geom.points.find(p => p.value === geom.low)?.x} cy={geom.points.find(p => p.value === geom.low)?.y} r="4" fill="currentColor" /></svg>}
+<style>svg{display:block;width:100%;height:64px;color:var(--accent);margin:1rem 0}</style>

@@ -12,6 +12,9 @@ import Header from '../components/Header.astro';
 import NewsletterForm from '../components/NewsletterForm.astro';
 import PriceTracker from '../components/PriceTracker.astro';
 import PriceRecord from '../components/PriceRecord.astro';
+import V4ArticleBody from '../components/v4/V4ArticleBody.astro';
+import { isV4Article } from '../lib/articleTemplate.mjs';
+import { splitV4Article } from '../lib/v4Article.mjs';
 import DealCard from '../components/DealCard.astro';
 import GuideCard from '../components/GuideCard.astro';
 import DealFactBox from '../components/DealFactBox.astro';
@@ -266,11 +269,18 @@ const breadcrumbLD = {
 };
 
 // Extract FAQ pairs from raw markdown for FAQPage schema
+const _v4Rendered = isV4Article(rawBody) ? await Astro.slots.render('default') : null;
+const _v4Parsed = _v4Rendered ? splitV4Article(_v4Rendered) : null;
 const faqPairs: { q: string; a: string }[] = [];
-const faqRegex = /\*\*Q:\s*(.+?)\*\*\s*\nA:\s*(.+?)(?=\n\s*\*\*Q:|\n\s*##|\s*$)/gs;
+const faqRegex = isV4Article(rawBody)
+  ? /(?:\*\*)?Q:\s*(.+?)(?:\*\*)?\s*\n+\s*A:\s*(.+?)(?=\n\s*(?:\*\*)?Q:|\n\s*##|\s*$)/gs
+  : /\*\*Q:\s*(.+?)\*\*\s*\nA:\s*(.+?)(?=\n\s*\*\*Q:|\n\s*##|\s*$)/gs;
 let faqMatch;
 while ((faqMatch = faqRegex.exec(rawBody)) !== null) {
 	faqPairs.push({ q: faqMatch[1].trim(), a: faqMatch[2].trim() });
+}
+if (_v4Parsed?.faqItems.length) {
+  faqPairs.splice(0, faqPairs.length, ..._v4Parsed.faqItems.map(item => ({ q: item.q, a: item.aHtml.replace(/<[^>]*>/g, '') })));
 }
 // Strip markdown syntax from FAQ answers for valid Google rich-result JSON-LD
 function stripMarkdown(s: string): string {
@@ -1035,7 +1045,7 @@ const showInlineDeals = (rawBody.match(/^## /gm) ?? []).length >= 5 && saleCards
 		</style>
 		<script>
 			document.addEventListener('DOMContentLoaded', () => {
-				const article = document.querySelector<HTMLElement>('.content-layout .prose');
+				const article = document.querySelector<HTMLElement>('.content-layout .prose, .v4-layout .prose');
 				const intro = article?.querySelector<HTMLElement>(':scope > p:not(.deal-why)');
 				const facts = article?.querySelector<HTMLElement>(':scope > .quick-facts');
 				if (intro && facts) intro.insertAdjacentElement('afterend', facts);
@@ -1209,6 +1219,15 @@ const showInlineDeals = (rawBody.match(/^## /gm) ?? []).length >= 5 && saleCards
 		<Header />
 		<main id="main-content">
 			<article>
+				{_v4Parsed && _trackerMatch ? (
+					<V4ArticleBody parsed={_v4Parsed} entry={_trackerMatch.entry} name={_trackerMatch.name} image={imageStr} state={_dealState} href={_ctaHref} pricePath={_fullPriceHistoryName ? `/plugin-prices/${slugifyProduct(_fullPriceHistoryName)}/` : null} expiry={_countdownExpiry} candidates={_alternativeCandidates} lastUpdated={priceData.last_updated} writtenDate={(updatedDate ?? pubDate).toISOString().slice(0, 10)} ctaText={_ctaLabel}>
+						<Fragment slot="header">
+							<nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span class="sep">/</span><a href="/posts/">Deals</a><span class="sep">/</span><span>{_composedTitle}</span></nav>
+							<div class="article-header"><h1 data-product-key={_trackerMatch.name} data-deal-state={_dealState}>{_composedTitle}</h1><div class="meta"><span class="author-byline">By <a href="/about/" rel="author">SignalDrop</a></span><span class="date"><FormattedDate date={pubDate} /></span><span class="reading-time">{readingTime}</span></div></div>
+						</Fragment>
+						<Fragment slot="footer"><AuthorBox /><div class="affiliate-disclosure"><p>This post contains affiliate links. We may earn a small commission at no extra cost to you.</p></div></Fragment>
+					</V4ArticleBody>
+				) : (
 				<div class="content-layout">
 				<div class="prose">
 					<!-- Breadcrumb -->
@@ -1396,6 +1415,7 @@ const showInlineDeals = (rawBody.match(/^## /gm) ?? []).length >= 5 && saleCards
 					</aside>
 				</div>
 				</div>
+				)}
 			</article>
 
 			{relatedPosts.length > 0 && (
