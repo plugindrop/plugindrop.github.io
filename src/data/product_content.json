@@ -35960,7 +35960,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/1399-Bazille",
     "retrieved_on": "2026-11-11",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "sound": "The character of Bazille's sound is defined by its digital oscillators, which support frequency modulation, phase distortion, and fractal resonance. The modelled effects, including stereo delay, distortion, phaser, and spring reverb, add depth and texture to the signal, allowing for rich and dynamic sonic shaping.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "u-he Colour Copy": {
     "features": [],
@@ -36179,7 +36184,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5392-Hive-2",
     "retrieved_on": "2026-11-11",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "sound": "Hive 2 delivers a clear and flexible audio signal through its three synth engines, supporting wavetable oscillators, standard waveforms, and tunable sub-oscillators. The plugin includes seven rearrangeable effects such as distortion, chorus, and reverb, which can be applied in real time to shape the tone and character of the sound.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "u-he MFM2": {
     "features": [
@@ -36540,7 +36550,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/15854-Uhbik-2",
     "retrieved_on": "2026-11-11",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "sound": "The compressor adds punch and clarity with upward compression and adaptive release, shaping the signal with precision. The flanger simulates tape machines or BBD units, creating classic flanging or lush chorus effects that add depth and movement to the sound.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "u-he Zebra 3": {
     "features": [
@@ -36640,7 +36655,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17180-Zebra-3",
     "retrieved_on": "2026-11-11",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "sound": "The sound is rich and dynamic, with modulation tools that can shape signals in intricate ways — from smooth, tempo-synced LFOs to abrupt, rhythmic changes via MSEGs. The reverb models range from tight and focused to vast and immersive, while the TextureVerb effect adds abstract, shimmering textures by scattering granular audio fragments.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "u-he Zebra Legacy": {
     "features": [],
@@ -36775,7 +36795,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15799-MetaTune",
     "retrieved_on": "2026-11-11",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "intro": "MetaTune is a powerful automatic tuner for vocals and instruments, capable of applying natural or extreme effects. Its most distinctive feature is the Negative Speed & Note Stabilizer, which delivers ultra-hard-hitting tuning with zero flutter.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "E1": {
     "features": [],
@@ -36891,7 +36916,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/8721-Skaka",
     "retrieved_on": "2026-11-11",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "intro": "Skaka is a sample-based sequencer plugin designed for shaker percussion instruments. Its most distinctive feature is 12 parallel slots, each with individual settings for instrument and pattern, allowing for complex and layered percussion arrangements.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "DANDY": {
     "features": [],
@@ -37555,7 +37585,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/15308-ZENOLOGY-PRO",
     "retrieved_on": "2026-11-11",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "sound": "The sound of ZENOLOGY PRO is lush and dynamic, blending vintage Roland oscillators and filters with PCM waveforms that support sync and cross modulation. It combines multiple synthesis types, allowing for deep modulation and a wide range of sonic possibilities, from classic analog tones to modern digital textures.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "The Orb": {
     "features": [],
@@ -37862,7 +37897,13 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/6619-Virtual-Bassist-Bundle-2",
     "retrieved_on": "2026-11-11",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "intro": "The Virtual Bassist Bundle 2 is a collection of virtual instrument plug-ins designed to deliver realistic bass guitar lines for music production. Its most distinctive feature is the use of AI-assisted articulations and detailed sampling of professional performances.",
+      "sound": "The sound is rich and full, with a clear presence that supports musical harmony and bridges the gap between rhythm and melody. It delivers a wide range of tones, from the smooth, vintage warmth of flat-wound strings to the rough, twangy character of a rock bass with saturation and distortion.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "Addictive Drums 2 Custom XL Collection": {
     "features": [],
@@ -37973,7 +38014,13 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/10402-Bus-Processor",
     "retrieved_on": "2026-11-11",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "intro": "Bus Processor is a modern bus compressor and saturator that glues your mix together. Its most distinctive feature is the ability to take sounds from clean to colorful without the loss of clarity.",
+      "sound": "It provides a smooth, luxe, rich sound that flawlessly fits your source. The compressor section offers total control of super clean or musically-colored sound and gain reduction behavior, allowing you to glue things together with sustained clarity.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "SILK 2": {
     "features": [
@@ -38643,7 +38690,13 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17987-Pentaphonic",
     "retrieved_on": "2026-11-11",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "intro": "Cherry Audio Pentaphonic is a virtual synthesizer based on the rare 1981 Pentaphonic by Gleeman Instruments. Its most distinctive feature is the recreation of the original five-voice polyphonic digitally-controlled oscillator (DCO) synth engine, expanded with modern enhancements.",
+      "sound": "The sound is rich and thick, with a unique character derived from the original DCOs and analog filter architecture. The oscillators offer stair-stepped waveforms such as Complex 1, Complex 2, 3% Pulse, and Ramp, producing a textured and dynamic tone that can range from warm analog to sharp digital.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "InstaComposer 4": {
     "features": [
@@ -38811,7 +38864,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/13871-FASTER-MASTER",
     "retrieved_on": "2026-11-11",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "sound": "The sound is transparent and phase-accurate, with adjustments automatically level-matched so every change in EQ, compression, or stereo width is heard in context. The compression module offers adaptive thresholds and four modes, allowing for musical control over dynamics.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "Shade": {
     "features": [],
@@ -38946,7 +39004,13 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/13-Drum-FX/13655-Snapback",
     "retrieved_on": "2026-11-11",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "audience": "Snapback suits producers working on drum tracks who want to add punch, style, and flair beyond standard processing. It is ideal for those looking to use pro-level components typically used in top-tier drum design for more tailored sound shaping.",
+      "sound": "Snapback adds punch to kicks, stereo sizzle to snares, and natural tails to claps with precise timing. It uses special analog sauce samples, vinyl air, and foley FX to enrich sounds, giving them a dynamic and textured character that stands out in a mix.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "X-DynEQ": {
     "features": [],
@@ -39041,7 +39105,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/12266-X-DynEQ",
     "retrieved_on": "2026-11-11",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "sound": "X-DynEQ delivers a transparent and musical result, maintaining clarity, dynamics, and balance in the mix while effectively addressing specific frequency issues. It ensures that sculpting instruments, vocals, and entire mixes does not significantly alter their natural character or introduce unnecessary artifacts.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "Glow": {
     "features": [],
@@ -39095,7 +39164,13 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/12153-Glow",
     "retrieved_on": "2026-11-11",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "intro": "Glow is a reverb plugin that revives the iconic sound of the 1980s RMX reverb. Its most distinctive feature is the ability to deliver punchy, gated drum sounds and ethereal, atmospheric textures with a character that is instantly recognizable.",
+      "sound": "Glow imparts a punchy, gated quality to drum sounds, reminiscent of the legendary RMX reverb used in 1980s recordings. It also adds lush, ambient depth to synths and vocals, creating a sense of space that feels both retro and otherworldly.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "SubBoomBass 2": {
     "features": [
@@ -39271,7 +39346,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/11434-Lines",
     "retrieved_on": "2026-11-11",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "sound": "The sound of Lines is warm and textured, with a character that mimics the imperfections of vintage telephone lines and analog test equipment. It adds subtle jitter, noise, and frequency shifts that give signals a lo-fi, organic feel, while also allowing for deep, evolving feedback-driven tones.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "TOTAL Guitar MAX": {
     "features": [],
@@ -39458,7 +39538,13 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/23-DAW/17336-Reason-Rack-14",
     "retrieved_on": "2026-11-11",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "sound": "The sound is shaped by a modular routing system where signals can split, merge, and feedback in real time. LFOs modulate filters, step sequencers drive pitch, and feedback loops evolve sounds dynamically, creating expressive and evolving tones that are difficult to achieve with conventional plugin chains.",
+      "intro": "Reason Rack is a plugin that brings Reason's modular Rack into any compatible DAW. Its most distinctive feature is the virtual hardware rack with customizable signal flow and modulation routing.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "Revoice Pro 5": {
     "features": [],
@@ -39486,7 +39572,13 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/11742-Revoice-Pro-5",
     "retrieved_on": "2026-11-11",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "intro": "Revoice Pro 5 is a vocal editing tool designed to refine and enhance vocal performances. Its most distinctive feature is the ability to automatically transfer pitch, timing, vibrato, and volume inflections from one audio track to another.",
+      "sound": "Revoice Pro 5 offers precise control over vocal characteristics, allowing users to shape pitch and level curves with surgical accuracy. It intelligently matches pitch when appropriate and adjusts vibrato naturally without affecting other vocal elements.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "LANDR Mastering Plugin PRO": {
     "features": [
@@ -39872,7 +39964,14 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/44-Saturation/18123-Mass",
     "retrieved_on": "2026-11-11",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "intro": "Mass is a saturation plugin designed for adding weight, drive, and character to audio signals. Its most distinctive feature is the single 'Mass' control that evenly spreads the range from subtle bus glue to heavy parallel crush.",
+      "sound": "Modern is clean and dense, adding solidity without obvious colour. Vintage is warm and asymmetric, with a slow, tape-like drift that keeps sustained sounds alive. Resonant drives a tuneable mid band into clipping and adds it in parallel, so a reese can growl and a snare can crack while the sub underneath stays exactly where it was.",
+      "audience": "Mass suits producers working with bass music, drum and bass, hip-hop, vocals, guitars, and mix buses. It is ideal for adding presence, weight, and character to drum buses, sub and mid-bass, and vocals that need clarity without grit.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "Phrasebox 2": {
     "features": [],
@@ -40074,7 +40173,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/12062-Rekraft",
     "retrieved_on": "2026-11-11",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "audience": "Rekraft suits music producers and sound designers who want to add warmth and vintage charm to their tracks, particularly for lo-fi and retro-style productions.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "Reelight PRO": {
     "features": [],
@@ -40299,7 +40403,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/13136-Pythor-V2",
     "retrieved_on": "2026-11-11",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "sound": "The compressor delivers fast, aggressive compression that enhances the punch and presence of signals. It breathes life into drums, vocals, and instruments with a tone that is both precise and expressive, shaping dynamics with a bold yet musical response.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "InstaComposer 2": {
     "features": [
@@ -40405,7 +40514,14 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/10891-InstaComposer-2",
     "retrieved_on": "2026-11-11",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "audience": "InstaComposer 2 suits musicians and producers looking to generate melodic, rhythmic, and harmonic content quickly. It is ideal for those working on compositions that require varied tracks, chord progressions, and rhythmic patterns across multiple instruments.",
+      "intro": "InstaComposer 2 is an intelligent MIDI generation plugin that creates melodies, phrases, riffs, chords, and more. Its most distinctive feature is the ability to generate five tracks simultaneously, offering a wide range of musical ideas at the click of a button.",
+      "sound": "InstaComposer 2 uses complex algorithms to generate rhythmic and melodic structures that sound natural and contextually appropriate. It creates cohesive phrases that align with selected scales and chords, producing musical ideas that mimic human creativity and pattern recognition in music.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "UAD Teletronix LA 2A Leveler Collection": {
     "features": [],
@@ -40978,7 +41094,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/12405-Lair",
     "retrieved_on": "2026-11-11",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "sound": "Lair produces dark, diffuse, and spring-like reverberant washes with the Artifact device, while the Mirror device generates metallic, shimmering tones reminiscent of a steel plate in purgatory. The Rift device conjures mystical echoes from other planes, and the Swarm device creates a chaotic whirlwind of fragmented repeats with adjustable density and speed.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "SampleTank 4 MAX": {
     "features": [
@@ -41132,7 +41253,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/14937-dime-ms-",
     "retrieved_on": "2026-11-11",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "sound": "Dime[ms] allows for the application of subtle saturation to the side channels while keeping the central frequencies focused and clear. It enables the boosting of high-end frequencies in the mid channel for added presence without affecting the stereo width.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "Essential Plugin Bundle": {
     "features": [],
@@ -41381,7 +41507,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/15561-ENGL-Ampthology-Vol-1",
     "retrieved_on": "2026-11-11",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "audience": "It suits studio guitarists, live performers, and tone chasers seeking authentic high-gain amplification for metal, prog, and hard rock.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "MORPH 3 PRO": {
     "features": [],
@@ -41455,7 +41586,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/33-Modulator/12205-MORPH-3-PRO",
     "retrieved_on": "2026-11-11",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "audience": "MORPH 3 PRO suits sound designers for film and games seeking unique and signature audio effects, as well as music producers and remix artists looking to generate new content from existing recordings.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "RC-20 Retro Color v2 Upgrade": {
     "features": [],
@@ -41514,7 +41650,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/44-Saturation/18211-RC-20-Retro-Color-v2-Upgrade",
     "retrieved_on": "2026-11-11",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "sound": "The plugin introduces subtle vintage warmth and can transform sounds into warped, otherworldly textures. Echoes within the feedback loop take on a life of their own, with each pass adding more color, texture, and character to the signal.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "VocAlign 7 Pro Upgrade": {
     "features": [
@@ -41650,7 +41791,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/17930-VocAlign-7-Pro",
     "retrieved_on": "2026-11-11",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "audience": "VocAlign 7 Pro suits audio professionals who need precise control over timing, pitch, and formants in vocal recordings. It is ideal for engineers working with lead vocals, doubles, and harmonies that require alignment and creative separation in the mix.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "UAD Native Classics Bundle": {
     "features": [],
@@ -42853,7 +42999,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/8394-FabFilter-Creative-Bundle",
     "retrieved_on": "2026-11-11",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "sound": "The bundle offers a wide range of distortion styles, from subtle tube saturation to aggressive bit crushing, with per-band controls for drive, mix, and feedback. The interactive multiband display and modulation visualization help users shape and modulate sound with clarity and depth.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "FabFilter Total Bundle": {
     "features": [
@@ -43217,7 +43368,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/12534-Gold-Bundle",
     "retrieved_on": "2026-11-11",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "audience": "It suits producers, mixers, and engineers working on a wide range of material, from vocals and instruments to mastering and special effects.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-15"
+    }
   },
   "Waves Mercury Bundle": {
     "features": [],
