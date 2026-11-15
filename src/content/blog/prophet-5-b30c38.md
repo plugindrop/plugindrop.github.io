@@ -16,14 +16,12 @@ draft: false
 productKey: "Prophet~5"
 updatedDate: "2026-11-15"
 ---
-**TL;DR:** Sequential and GForce Software built Prophet~5 as the first official software recreation of the 1978 five-voice analogue synthesizer, modeling the instrument's Rev1, Rev2 and Rev3 hardware revisions inside one plugin. Producers can split or layer two independent patches across the keyboard, run a separate arpeggiator and chord mode per layer, and reshape movement with the X-Modifiers section's per-parameter envelopes and LFOs. Plugin Boutique currently lists it at $79.99, matching the lowest price PluginDrop has tracked since 2026-07-19 — [get Prophet~5 at Plugin Boutique](https://www.pluginboutique.com/search?q=Prophet+5&a_aid=69cb95abe1763&chan=art&data1=prophet-5-prophe&utm_source=plugindrop&utm_medium=article&utm_campaign=prophet-5-prophe).
+**TL;DR:** Sequential and GForce Software have built Prophet~5, a software recreation of the 1978 five-voice analogue polysynth, as a plugin for Mac and Windows DAWs. Its dual-layer architecture and per-parameter X-Modifiers suit producers who want the original's warmth with modern modulation and layering options. Plugin Boutique has it at $79.99, 33% off the $119.99 regular price — [grab it here](https://www.pluginboutique.com/search?q=Prophet+5&a_aid=69cb95abe1763&chan=art&data1=prophet-5-prophe&utm_source=plugindrop&utm_medium=article&utm_campaign=prophet-5-prophe).
 
-## Inside the Rev1, Rev2 and Rev3 Character Models
+## Inside the X-Modifiers: How Prophet~5 Rebuilds a 1978 Polysynth
 <!-- role:product -->
 
-Sequential collaborated directly with GForce Software to turn the original 1978 Prophet~5 hardware into this plugin, the first officially sanctioned software version of the instrument. The synth models three separate hardware revisions — Rev1, Rev2 and Rev3 — so a single instance covers the SSM-based circuitry of the earliest units alongside the later Curtis-filter design, rather than approximating one fixed version of the hardware. All of the original instrument's functionality carries over, and the plugin ships with the 38 factory presets from 1978 alongside a newly built library that brings the total past 460 patches.
-
-Beyond reproducing the hardware, Prophet~5 adds two independent layers that can run in Layer, Split or Alternate mode, each with its own arpeggiator and chord mode, so a single instance can hold a keyboard split, a doubled sound, or an alternating pattern between two patches. The newly redesigned X-Modifiers section gives almost every parameter its own dedicated envelope and LFO, letting a patch evolve over the course of a performance instead of sitting static. Two selectable FX slots plus dedicated delay, reverb and pan-spread effects — including chorus, phaser, filtering, distortion, tremolo and compression — sit on top of the voice architecture. Full MPE compatibility and comprehensive MIDI CC mapping extend control to expressive hardware controllers.
+Dave Smith's original Prophet~5, released by Sequential Circuits in 1978, was a five-voice analogue synthesizer that paired polyphony with patch memory and hands-on control. This plugin, built by GForce Software in partnership with Sequential, carries that design into software with three selectable character models — Rev1, Rev2, and Rev3 — reproducing the SSM-based circuits of the earlier hardware and the Curtis filter and envelope stage used in the later revision. The instrument adds two independent layers with Layer, Split, and Alternate modes, each holding up to 10 voices and its own arpeggiator and chord mode, so a single instance can hold stacked textures, keyboard splits, or alternating patterns. At the center of the modern additions is the redesigned X-Modifiers section, which gives almost every parameter its own envelope and LFO. The instrument ships with the original 38 factory presets from 1978 alongside a library of more than 420 newly designed patches, plus full MPE compatibility and comprehensive MIDI CC mapping. A demonstration video titled "Introducing the Official Sequential Prophet~5 by GForce Software" walks through the collaboration on screen.
 
 <!-- deal-context-video:start -->
 <iframe src="https://www.youtube.com/embed/vCepikBYXFI" title="Introducing the Official Sequential Prophet~5 by GForce Software" frameborder="0" allowfullscreen></iframe>
@@ -31,22 +29,25 @@ Beyond reproducing the hardware, Prophet~5 adds two independent layers that can 
 *Introducing the Official Sequential Prophet~5 by GForce Software*
 <!-- deal-context-video:end -->
 
-## The Tone Behind the SSM and Curtis Filter Paths
+## The SSM Warmth and Curtis Punch Behind Its Tone
 <!-- role:sound -->
 
-Two distinct circuit lineages drive how Prophet~5 sounds depending on which revision is loaded. Rev1 and Rev2 carry the warmth associated with the original SSM chip designs, while Rev3 carries the punch and presence of the later Curtis filter and envelope circuitry. The instrument's reputation as a benchmark for analogue tone and musical immediacy has outlasted its original era, and its sound has shown up across genres from Genesis to Radiohead, Madonna to Aphex Twin — a span the maker points to as evidence of how versatile and durable the five-voice design has proven over decades of use. The plugin preserves that character while adding the X-Modifiers' modulation routing, so the same SSM warmth or Curtis punch can be set in motion rather than staying locked to a fixed, static patch.
+The Rev1 and Rev2 character models trace their tone to the SSM designs used in the earliest Prophet~5 units, which this plugin describes as a source of warmth. The Rev3 model instead carries the punch and presence associated with the Curtis filter and envelope circuits introduced on later hardware. Sequential says the dual-layer architecture lets players stack textures, split keyboards, and alternate sounds during performance. That tonal lineage is also a cultural one: the Prophet~5 sound has appeared across recordings by Genesis, Radiohead, Madonna, and Aphex Twin, spanning genres and decades on the strength of what the brief calls a versatile and powerful sound.
 
-## Who Gets the Most from Dual-Layer Patching
+## Where Prophet~5's Layers and Modifiers Fit
 <!-- role:audience -->
 
-- **Keyboard split players** — Layer, Split and Alternate modes across two independent layers let a single instance hold a bass-and-lead split or an alternating pattern without external routing.
-- **MPE controller users** — full MPE compatibility and comprehensive MIDI CC mapping give expressive controllers continuous control over the synth's parameters during a performance.
-- **Evolving pad design** — the X-Modifiers section's dedicated envelopes and LFOs on nearly every parameter suit patches built to move and change shape over a long sustain rather than stay fixed.
+The combination of dual layers, per-layer arpeggiators, and MPE support points to a few concrete working styles:
 
-## This Week's $79.99 Against Its $119.99 List Price
+- **Layered live performance** — Split or Alternate mode divides the keyboard or swaps between two patches as a player performs, without leaving the instance.
+- **Evolving pad design** — The X-Modifiers section attaches a dedicated envelope and LFO to nearly any parameter, letting sound designers build patches that move and develop over a held note.
+- **Rhythmic pattern building** — Independent arpeggiator and chord modes on each layer allow two patterns to run against each other for stacked rhythmic textures.
+- **Expressive MPE performance** — Full MPE compatibility and comprehensive MIDI CC mapping extend per-note control to controllers built for it.
+
+## What $79.99 Means Against Prophet~5's Tracking History
 <!-- role:price -->
 
-$79.99 at Plugin Boutique sits right at the floor PluginDrop has recorded for Prophet~5 across 57 observations since tracking began on 2026-07-19, against a $119.99 regular price and an $83.99 typical sale level. That makes the current listing a match for the $79.99 lowest price tracked rather than just another markdown above it, which is why PluginDrop's verdict on this listing is BUY NOW. [See the current Prophet~5 price at Plugin Boutique](https://www.pluginboutique.com/search?q=Prophet+5&a_aid=69cb95abe1763&chan=art&data1=prophet-5-prophe&utm_source=plugindrop&utm_medium=article&utm_campaign=prophet-5-prophe).
+At $79.99, Prophet~5's current Plugin Boutique price matches the $79.99 low that PluginDrop has tracked across 57 observations since July 19, 2026, and sits below both the $83.99 typical sale price and the $119.99 regular price — a 33% reduction from regular. That puts the current listing within 5% of the lowest price tracked, which is why the verdict on this deal is BUY NOW rather than wait-and-see. Producers weighing the three character models, the dual-layer system, and the 460-plus preset library against the asking price are looking at the floor of its recorded range, not a mid-cycle markdown. The deal is available now at [Plugin Boutique](https://www.pluginboutique.com/search?q=Prophet+5&a_aid=69cb95abe1763&chan=art&data1=prophet-5-prophe&utm_source=plugindrop&utm_medium=article&utm_campaign=prophet-5-prophe).
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements
@@ -59,16 +60,16 @@ $79.99 at Plugin Boutique sits right at the floor PluginDrop has recorded for Pr
 ## FAQ
 <!-- role:faq -->
 
-Q: What does the X-Modifiers section control?
-A: It assigns a dedicated envelope and LFO to almost every parameter in Prophet~5, letting sounds move and evolve while keeping the tone of the original hardware.
+Q: Does Prophet~5 include the original factory sounds?
+A: Yes — it ships with the original 38 factory presets from 1978 alongside a library of more than 420 newly designed patches.
 
-Q: How many layers can run at once?
-A: Two independent layers, switchable between Layer, Split and Alternate modes, each with its own arpeggiator and chord mode.
+Q: Can each layer run its own arpeggiator?
+A: Yes, each of the two independent layers has its own arpeggiator and chord mode, so patterns can combine or alternate between layers.
 
-Q: How many presets ship with the plugin?
-A: Over 460 presets in total, including the original 38 factory patches from the 1978 hardware.
+Q: What drives the movement in Prophet~5's modern patches?
+A: The X-Modifiers section assigns a dedicated envelope and LFO to almost every parameter, letting sounds evolve while keeping the character of the original hardware.
 
-Q: Is the current $79.99 price the lowest Prophet~5 has been tracked at?
-A: Yes — PluginDrop's 57 tracked observations since 2026-07-19 show $79.99 as the lowest price recorded, against a $119.99 regular price.
+Q: Was this plugin made with Sequential's involvement?
+A: Yes — GForce Software built it in partnership with Sequential, marking the first Prophet~5 plugin developed with the original maker.
 
 *Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
