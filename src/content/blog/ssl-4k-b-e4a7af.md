@@ -61,7 +61,7 @@ Waves API 2500 is modelled in close collaboration with API and is an official em
 
 At $39 today versus a recorded regular price of $149, SSL 4K B matches PluginDrop’s lowest tracked price. PluginDrop has tracked the deal since April 4, 2023 across seven observations; its typical sale price is also $39. That means the present offer is not merely below list price—it is at the same level as the tracked low and typical sale.
 
-The price context verdict is **BUY NOW** because $39 is within 5% of the $39 lowest tracked price. Producers who want the SL 4000 B-inspired channel-strip design, including its EQ, peak-detection compressor, sidechain topology, and De-Esser mode, can [check the $39 SSL 4K B deal at Plugin Boutique](https://www.pluginboutique.com/search?q=SSL+4K+B&a_aid=69cb95abe1763&chan=art&data1=ssl-4k-b-ssl-4k&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-b-ssl-4k).
+The price context verdict is **BUY NOW** because $39 is within 5% of the $39 lowest tracked price. Producers who want the SL 4000 B-inspired channel-strip design, including its EQ, peak-detection compressor, sidechain topology, and De-Esser mode, can [check the $39 SSL 4K B deal at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10385-SSL-4K-B?a_aid=69cb95abe1763&chan=art&data1=ssl-4k-b-ssl-4k&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-4k-b-ssl-4k).
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements

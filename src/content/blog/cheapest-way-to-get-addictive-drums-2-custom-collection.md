@@ -18,7 +18,7 @@ We track Addictive Drums 2 Custom Collection's price history directly, so this i
 | Typical sale (recurring) | $107.4 | Achievable on a normal sale cycle |
 | All-time low (rare) | $107 | Lowest price we have ever recorded |
 
-[Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=Addictive%20Drums%202%20Custom%20Collection&a_aid=69cb95abe1763&chan=art&data1=cheapest-way-to-get-addictive-drums-2-custom-collection).
+[Check the current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/8236-Addictive-Drums-2-Custom-Collection?a_aid=69cb95abe1763&chan=art&data1=cheapest-way-to-get-addictive-drums-2-custom-collection).
 
 ## Data source
 

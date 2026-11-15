@@ -16,7 +16,7 @@ saleExpirySource: "fallback"
 draft: false
 updatedDate: "2026-11-15"
 ---
-**TL;DR:** Evolve Elastic Lite by Evolve is a sample-based synthesizer built to blend, morph, and reshape layered samples or synths. Its four-source quad-engine, XY Pad, randomisation, and four macros support building synth parts from scratch or starting with 75 presets. It is now $19, down from $29—[get the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=Evolve+Elastic+Lite&a_aid=69cb95abe1763&chan=art&data1=evolve-elastic-lite-evolve&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-elastic-lite-evolve).
+**TL;DR:** Evolve Elastic Lite by Evolve is a sample-based synthesizer built to blend, morph, and reshape layered samples or synths. Its four-source quad-engine, XY Pad, randomisation, and four macros support building synth parts from scratch or starting with 75 presets. It is now $19, down from $29—[get the deal at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16352-Evolve-Elastic-Lite?a_aid=69cb95abe1763&chan=art&data1=evolve-elastic-lite-evolve&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-elastic-lite-evolve).
 
 ## Quad-Engine Layers Meet an XY Pad
 <!-- role:product -->
@@ -57,7 +57,7 @@ At $19 today versus the recorded regular price of $29, Evolve Elastic Lite is di
 
 For $19, the deal covers an instrument with four sound sources, sample and synth OSC engines, an XY Pad with Sounds and FX modes, one-click sound randomisation, 75 presets, and four macros. It supports macOS 10.15 or later on Intel and Native Apple Silicon, plus Windows 7 or later; it is 64-bit only. Available formats are VST, VST3, AU, AAX, and Standalone, with listed support for Ableton Live, Pro Tools, Logic Pro, FL Studio, Cubase, Nuendo, Reaper, Reason, and more.
 
-[Buy Evolve Elastic Lite for $19 at Plugin Boutique](https://www.pluginboutique.com/search?q=Evolve+Elastic+Lite&a_aid=69cb95abe1763&chan=art&data1=evolve-elastic-lite-evolve&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-elastic-lite-evolve).
+[Buy Evolve Elastic Lite for $19 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/16352-Evolve-Elastic-Lite?a_aid=69cb95abe1763&chan=art&data1=evolve-elastic-lite-evolve&utm_source=plugindrop&utm_medium=article&utm_campaign=evolve-elastic-lite-evolve).
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements

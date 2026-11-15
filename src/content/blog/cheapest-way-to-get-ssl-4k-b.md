@@ -18,7 +18,7 @@ We track SSL 4K B's price history directly, so this is what buying it has actual
 | Typical sale (recurring) | $39 | Achievable on a normal sale cycle |
 | All-time low (rare) | $39 | Lowest price we have ever recorded |
 
-[Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=SSL%204K%20B&a_aid=69cb95abe1763&chan=art&data1=cheapest-way-to-get-ssl-4k-b).
+[Check the current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/10385-SSL-4K-B?a_aid=69cb95abe1763&chan=art&data1=cheapest-way-to-get-ssl-4k-b).
 
 We could not confirm with confidence which bundles currently include SSL 4K B, so this guide sticks to the standalone price history above.
 

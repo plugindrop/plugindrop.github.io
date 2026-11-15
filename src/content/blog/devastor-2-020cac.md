@@ -16,7 +16,7 @@ saleExpirySource: "fallback"
 draft: false
 updatedDate: "2026-11-15"
 ---
-**TL;DR:** D16’s Devastor 2 is a multiband distortion plug-in that combines dynamics flattening, diode-clipper distortion, multi-mode filters, and optional limiting. Its signal path controls make it suited to producers who want to shape distortion across different frequency areas rather than rely on one undivided treatment. The Plugin Boutique deal cuts it to $29.50—[check the Devastor 2 offer here](https://www.pluginboutique.com/search?q=Devastor+2&a_aid=69cb95abe1763&chan=art&data1=devastor-2-devast&utm_source=plugindrop&utm_medium=article&utm_campaign=devastor-2-devast).
+**TL;DR:** D16’s Devastor 2 is a multiband distortion plug-in that combines dynamics flattening, diode-clipper distortion, multi-mode filters, and optional limiting. Its signal path controls make it suited to producers who want to shape distortion across different frequency areas rather than rely on one undivided treatment. The Plugin Boutique deal cuts it to $29.50—[check the Devastor 2 offer here](https://www.pluginboutique.com/product/2-Effects/30-Distortion/1864-Devastor-2?a_aid=69cb95abe1763&chan=art&data1=devastor-2-devast&utm_source=plugindrop&utm_medium=article&utm_campaign=devastor-2-devast).
 
 ## Four signal blocks put multiband processing in reach
 
@@ -60,7 +60,7 @@ At $29.50, the current Plugin Boutique price equals PluginDrop’s recorded low 
 
 PluginDrop has tracked the price since November 1, 2026, across seven observations. Its verdict is **BUY NOW** because the present price falls within 5% of the recorded low. For a producer specifically looking for D16’s combination of a dynamics flattener, diode clipping, multi-mode filters, alternate filter/clipper routings, and optional limiting, this is the tracked price floor.
 
-[Get Devastor 2 from Plugin Boutique for $29.50](https://www.pluginboutique.com/search?q=Devastor+2&a_aid=69cb95abe1763&chan=art&data1=devastor-2-devast&utm_source=plugindrop&utm_medium=article&utm_campaign=devastor-2-devast).
+[Get Devastor 2 from Plugin Boutique for $29.50](https://www.pluginboutique.com/product/2-Effects/30-Distortion/1864-Devastor-2?a_aid=69cb95abe1763&chan=art&data1=devastor-2-devast&utm_source=plugindrop&utm_medium=article&utm_campaign=devastor-2-devast).
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements

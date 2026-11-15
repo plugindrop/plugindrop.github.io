@@ -16,7 +16,7 @@ draft: false
 productKey: "Prophet~5"
 updatedDate: "2026-11-15"
 ---
-**TL;DR:** Sequential and GForce Software have built Prophet~5, a software recreation of the 1978 five-voice analogue polysynth, as a plugin for Mac and Windows DAWs. Its dual-layer architecture and per-parameter X-Modifiers suit producers who want the original's warmth with modern modulation and layering options. Plugin Boutique has it at $79.99, 33% off the $119.99 regular price — [grab it here](https://www.pluginboutique.com/search?q=Prophet+5&a_aid=69cb95abe1763&chan=art&data1=prophet-5-prophe&utm_source=plugindrop&utm_medium=article&utm_campaign=prophet-5-prophe).
+**TL;DR:** Sequential and GForce Software have built Prophet~5, a software recreation of the 1978 five-voice analogue polysynth, as a plugin for Mac and Windows DAWs. Its dual-layer architecture and per-parameter X-Modifiers suit producers who want the original's warmth with modern modulation and layering options. Plugin Boutique has it at $79.99, 33% off the $119.99 regular price — [grab it here](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17444-Prophet-5?a_aid=69cb95abe1763&chan=art&data1=prophet-5-prophe&utm_source=plugindrop&utm_medium=article&utm_campaign=prophet-5-prophe).
 
 ## Inside the X-Modifiers: How Prophet~5 Rebuilds a 1978 Polysynth
 <!-- role:product -->
@@ -47,7 +47,7 @@ The combination of dual layers, per-layer arpeggiators, and MPE support points t
 ## What $79.99 Means Against Prophet~5's Tracking History
 <!-- role:price -->
 
-At $79.99, Prophet~5's current Plugin Boutique price matches the $79.99 low that PluginDrop has tracked across 57 observations since July 19, 2026, and sits below both the $83.99 typical sale price and the $119.99 regular price — a 33% reduction from regular. That puts the current listing within 5% of the lowest price tracked, which is why the verdict on this deal is BUY NOW rather than wait-and-see. Producers weighing the three character models, the dual-layer system, and the 460-plus preset library against the asking price are looking at the floor of its recorded range, not a mid-cycle markdown. The deal is available now at [Plugin Boutique](https://www.pluginboutique.com/search?q=Prophet+5&a_aid=69cb95abe1763&chan=art&data1=prophet-5-prophe&utm_source=plugindrop&utm_medium=article&utm_campaign=prophet-5-prophe).
+At $79.99, Prophet~5's current Plugin Boutique price matches the $79.99 low that PluginDrop has tracked across 57 observations since July 19, 2026, and sits below both the $83.99 typical sale price and the $119.99 regular price — a 33% reduction from regular. That puts the current listing within 5% of the lowest price tracked, which is why the verdict on this deal is BUY NOW rather than wait-and-see. Producers weighing the three character models, the dual-layer system, and the 460-plus preset library against the asking price are looking at the floor of its recorded range, not a mid-cycle markdown. The deal is available now at [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17444-Prophet-5?a_aid=69cb95abe1763&chan=art&data1=prophet-5-prophe&utm_source=plugindrop&utm_medium=article&utm_campaign=prophet-5-prophe).
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements

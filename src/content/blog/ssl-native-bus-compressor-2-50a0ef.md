@@ -16,7 +16,7 @@ saleExpirySource: "fallback"
 draft: false
 updatedDate: "2026-11-15"
 ---
-**TL;DR:** SSL Native Bus Compressor 2 is an SSL-designed compressor plug-in built to bring stereo bus compression to a mix. Its dry/wet blend and sidechain highpass filter support parallel processing and help reduce low-end pumping. The price is $19, 87% below the $149 regular price—[get the deal at Plugin Boutique](https://www.pluginboutique.com/search?q=SSL+Native+Bus+Compressor+2&a_aid=69cb95abe1763&chan=art&data1=ssl-native-bus-compressor-2-ssl-na&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-bus-compressor-2-ssl-na).
+**TL;DR:** SSL Native Bus Compressor 2 is an SSL-designed compressor plug-in built to bring stereo bus compression to a mix. Its dry/wet blend and sidechain highpass filter support parallel processing and help reduce low-end pumping. The price is $19, 87% below the $149 regular price—[get the deal at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8651-SSL-Native-Bus-Compressor-2?a_aid=69cb95abe1763&chan=art&data1=ssl-native-bus-compressor-2-ssl-na&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-bus-compressor-2-ssl-na).
 
 ## G-Series bus compression with dry/wet control
 <!-- role:product -->
@@ -59,7 +59,7 @@ The current $19 deal matches PluginDrop’s recorded low price of $19, compared 
 
 That places the current offer within 5% of the recorded low, with PluginDrop’s verdict marked **BUY NOW**. For producers who want the listed dry/wet blending, sidechain highpass filtering, and expanded attack, release, and ratio controls, the discount reduces the regular price by 87%.
 
-[See SSL Native Bus Compressor 2 at Plugin Boutique](https://www.pluginboutique.com/search?q=SSL+Native+Bus+Compressor+2&a_aid=69cb95abe1763&chan=art&data1=ssl-native-bus-compressor-2-ssl-na&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-bus-compressor-2-ssl-na).
+[See SSL Native Bus Compressor 2 at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/8651-SSL-Native-Bus-Compressor-2?a_aid=69cb95abe1763&chan=art&data1=ssl-native-bus-compressor-2-ssl-na&utm_source=plugindrop&utm_medium=article&utm_campaign=ssl-native-bus-compressor-2-ssl-na).
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements
