@@ -672,6 +672,13 @@
     "source": "pb_page",
     "official": false
   },
+  "Devastor 2": {
+    "video_id": "tZkAhFnGE3I",
+    "title": "D16 Devastor 2 Demo: Can You Mix Only Using Saturation?",
+    "channel": "Tobisonics",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "Drum Machine Collection": {
     "video_id": "7EjBu4s4kC4",
     "title": "Drum Machine Collection Lifetime Key Bundle",
@@ -1012,12 +1019,26 @@
     "source": "pb_page",
     "official": true
   },
+  "FabFilter Pro-Q 4": {
+    "video_id": "IXWkViqU2K8",
+    "title": "Introduction to FabFilter Pro-Q 4",
+    "channel": "FabFilter",
+    "score": 13,
+    "source": "yt_api_fill"
+  },
   "FabFilter Pro-R 2": {
     "video_id": "BuIXvKKtVSw",
     "title": "Introduction to FabFilter Pro-R 2",
     "channel": "FabFilter",
     "source": "pb_page",
     "official": true
+  },
+  "FabFilter Saturn 2": {
+    "video_id": "LYwY8VTR1eE",
+    "title": "Introduction to FabFilter Saturn 2",
+    "channel": "FabFilter",
+    "score": 13,
+    "source": "yt_api_fill"
   },
   "FabFilter Simplon": {
     "video_id": "A4EDBkCjGnw",
@@ -1061,6 +1082,34 @@
     "source": "pb_page",
     "official": false
   },
+  "GForce M-Tron Pro IV": {
+    "video_id": "1nYRk7joNC0",
+    "title": "GForce M-Tron Pro IV Mini Demos",
+    "channel": "GForce Software",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "GForce OB-E": {
+    "video_id": "4c1SaJR8jho",
+    "title": "Dubby OB-E - A demo of GForce's OB-E.",
+    "channel": "GForce Software",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
+  "GForce Oddity3": {
+    "video_id": "Vb7e5GYy50U",
+    "title": "GForce Oddity3 Tutorial",
+    "channel": "GForce Software",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
+  "GForce impOSCar3": {
+    "video_id": "t97u-tfjmuA",
+    "title": "GForce impOSCar3 Mini Demos",
+    "channel": "GForce Software",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Glow": {
     "video_id": "jqtF39osDtc",
     "title": "Glow by Wave Alchemy - 80's Reverb Reborn",
@@ -1068,12 +1117,33 @@
     "source": "pb_page",
     "official": false
   },
+  "H9 Plug-in Series Bundle": {
+    "video_id": "RT1nOeFPPeQ",
+    "title": "H9 Plug-in Series Bundle Tips: Chaining ShimmerVerb & MicroPitch",
+    "channel": "Eventide Audio",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
   "HEAVY 2": {
     "video_id": "M5EbrJguqd4",
     "title": "UJAM Instruments presents: Virtual Drummer HEAVY 2",
     "channel": "ujam Instruments",
     "source": "pb_page",
     "official": false
+  },
+  "Heavyocity Ascend": {
+    "video_id": "1I8-u60NN70",
+    "title": "\"Trusty Companion\" by Adam Hanley | ASCEND Demo | Heavyocity",
+    "channel": "Heavyocity Media",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Heavyocity Damage 2": {
+    "video_id": "-VFDHhFapZI",
+    "title": "Damage 2 - Content Overview | Heavyocity",
+    "channel": "Heavyocity Media",
+    "score": 11,
+    "source": "yt_api_fill"
   },
   "Heavyocity Gravity": {
     "video_id": "9lP05N2AR3k",
@@ -1170,6 +1240,13 @@
     "source": "pb_page",
     "official": false
   },
+  "JV-1080": {
+    "video_id": "yUh3cqu8qts",
+    "title": "Roland JV-1080 Demo & Review",
+    "channel": "musictrackjp",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Jura": {
     "video_id": "K8lbbhzvM28",
     "title": "Introducing AIR: Jura The Synth Of 82",
@@ -1205,6 +1282,34 @@
     "source": "pb_page",
     "official": true
   },
+  "Kilohearts Disperser": {
+    "video_id": "8EoHkVodHSE",
+    "title": "Disperser by Kilohearts – Magic All-Pass Filter",
+    "channel": "Kilohearts",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Kilohearts Faturator": {
+    "video_id": "viMMyYSBWSE",
+    "title": "Kilohearts Faturator & Convolver | Metal Demo",
+    "channel": "Michael Macasiano",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Kilohearts Multipass": {
+    "video_id": "JH7QqEH6up8",
+    "title": "Kilohearts Multipass – Band-Splitting Multi-Effect Plugin",
+    "channel": "Kilohearts",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Kilohearts Phase Plant": {
+    "video_id": "yLnIUf63P-8",
+    "title": "Kilohearts Phase Plant Demo Song by Nasko",
+    "channel": "Kilohearts",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
   "Kilohearts Shaper Table": {
     "video_id": "YWcYRq5NjA4",
     "title": "Kilohearts Shaper Table – Wavetable-powered Distortion",
@@ -1219,6 +1324,27 @@
     "source": "pb_page",
     "official": true
   },
+  "Kilohearts Snap Heap": {
+    "video_id": "7No8ZX4S160",
+    "title": "Sound Design Snacks 81 – Snap Heap's Secret Weapon #phaseplant #sounddesign #kilohearts #snapheap",
+    "channel": "Kilohearts",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Klanghelm SDRR": {
+    "video_id": "j1nNbQAXhYI",
+    "title": "Cool Gear Demo - Klanghelm SDRR - Affordable Saturation Plugin",
+    "channel": "ReaperTV",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "L4 Ultramaximizer": {
+    "video_id": "agzeEzNJN9w",
+    "title": "Get Started with L4 Ultramaximizer: More Than Just Loud",
+    "channel": "Waves Audio",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
   "LANG PEQ-2": {
     "video_id": "vKTLnsKoIdw",
     "title": "Heritage Audio - Introducing the LANG PEQ-2 Plugin",
@@ -1232,6 +1358,13 @@
     "channel": "ujam Instruments",
     "source": "pb_page",
     "official": false
+  },
+  "LennarDigital Sylenth1": {
+    "video_id": "H4Q4yVx2WBw",
+    "title": "LennarDigital Sylenth1 VSTi",
+    "channel": "LennarDigital",
+    "score": 9,
+    "source": "yt_api_fill"
   },
   "Loop2Kit": {
     "video_id": "unr0bjBRb0Q",
@@ -1721,6 +1854,13 @@
     "channel": "Solid State Logic",
     "source": "pb_page",
     "official": true
+  },
+  "SSL Native Bus Compressor 2": {
+    "video_id": "96CNODa-o9Y",
+    "title": "SSL Native Bus Compressor 2. This Thing Rocks! Super Glue Your Mix",
+    "channel": "The Mix Club — Studio Hang with Rhett James",
+    "score": 9,
+    "source": "yt_api_fill"
   },
   "SSL Native X-Comp": {
     "video_id": "tF412FJEBY8",
