@@ -25,7 +25,7 @@ try {
     if (metrics.cta?.bottom > 900) failures.push('first CTA below fold');
     if (width === 1440) {
       if (metrics.read && Math.abs(metrics.read.x - (width - metrics.read.x - metrics.read.width)) > 8) failures.push('reading column off center');
-      if ((metrics.card?.width ?? 0) < 1000 || (metrics.evidence?.width ?? 0) < 1000) failures.push('wide block too narrow');
+      if ((metrics.card?.width ?? 0) < 900 || (metrics.evidence?.width ?? 0) < 900) failures.push('wide block too narrow');
       if (metrics.video && metrics.video.width < 700) failures.push('video too narrow');
     } else {
       if (metrics.scrollWidth > 390) failures.push(`horizontal overflow: ${metrics.scrollWidth}`);

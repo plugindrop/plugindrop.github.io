@@ -16,11 +16,12 @@ const faqCopy = byRole('faq');
   <DealSummaryCard {entry} {name} {image} {state} {href} {pricePath} {expiry} />
   <JumpBar sections={parsed.sections} />
   <div class="v4-read prose" set:html={parsed.tldrHtml} />
-  {readSections.map(section => <div class="v4-read prose"><div set:html={section.html} />{parsed.videoHtml && (section.role === 'sound' || (section.role === 'product' && !readSections.some(item => item.role === 'sound'))) && <div class="v4-video" set:html={parsed.videoHtml} />}</div>)}
+  {parsed.videoHtml && <div class="v4-video" set:html={parsed.videoHtml} />}
+  {readSections.map(section => <div class="v4-read prose"><div set:html={section.html} /></div>)}
   <PriceEvidence {entry} {state} {writtenDate} {href} {ctaText}>{priceCopyHtml.map(html => <div set:html={html} />)}</PriceEvidence>
   <CheaperOptionsTable {entry} {name} {candidates} {lastUpdated} />
   <div class="v4-read prose" id="formats">{formatCopy.map(section => <div set:html={section.html} />)}<div set:html={parsed.formatsHtml} /></div>
   <div class="v4-read prose">{faqCopy.map(section => <div set:html={section.html} />)}</div>
   <div class="v4-read prose"><slot name="footer" /></div>
 </div>
-<style>.v4-layout{max-width:1080px;margin:0 auto;padding:0 16px;box-sizing:border-box}.v4-read{max-width:720px;margin-inline:auto;font-size:1.0625rem;line-height:1.7}.v4-video{width:100%;max-width:720px;margin:1rem auto}.v4-video :global(iframe){display:block;width:100%;aspect-ratio:16/9;height:auto}.v4-read :global(img){max-width:100%;height:auto}.v4-read :global(table){width:100%;max-width:100%}@media(min-width:700px) and (max-width:1099px){.v4-layout{max-width:calc(100% - 32px)}}@media(max-width:699px){.v4-layout{padding:0 12px}.v4-read{max-width:100%}}</style>
+<style>.v4-layout{max-width:960px;margin:0 auto;padding:0 16px;box-sizing:border-box}.v4-read{max-width:none;font-size:1.125rem;line-height:1.75}.v4-video{width:100%;max-width:none;margin:1rem auto}.v4-video :global(iframe){display:block;width:100%;aspect-ratio:16/9;height:auto}.v4-read.prose :global(a[href*="pluginboutique"]){display:inline;background:none;border:0;padding:0;margin:0;color:var(--accent)!important;font:inherit;text-decoration:underline;box-shadow:none;white-space:normal}.v4-read :global(img){max-width:100%;height:auto}.v4-read :global(table){width:100%;max-width:100%}@media(min-width:700px) and (max-width:1099px){.v4-layout{max-width:calc(100% - 32px)}}@media(max-width:699px){.v4-layout{padding:0 12px}.v4-read{max-width:100%}}</style>
