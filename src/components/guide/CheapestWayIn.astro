@@ -1,0 +1,8 @@
+---
+import { priceTableRow } from '../../lib/guideV4.mjs';
+const { picks = [], free = false } = Astro.props;
+const sales = picks.filter(p => { const f = p.priceFacts; return Number.isFinite(f?.today) && Number.isFinite(f?.regular) && f.today < f.regular; })
+  .sort((a, b) => (1 - b.priceFacts.today / b.priceFacts.regular) - (1 - a.priceFacts.today / a.priceFacts.regular)).slice(0, 5);
+---
+{sales.length > 0 && <section class="cheapest"><h2>{free ? 'Paid upgrades on sale now' : 'Cheapest way in'}</h2><ul>{sales.map(p => <li>{p.name}: {priceTableRow(p).current} ({priceTableRow(p).off} off)</li>)}</ul></section>}
+<style>.cheapest{margin:1.5rem 0;padding:1rem;border:1px solid var(--border)}.cheapest h2{margin-top:0}</style>

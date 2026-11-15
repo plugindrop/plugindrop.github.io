@@ -1,0 +1,7 @@
+---
+import { priceTableRow } from '../../lib/guideV4.mjs';
+const { picks = [], lastUpdated = '' } = Astro.props;
+const rows = picks.map(priceTableRow).filter(Boolean);
+---
+<div class="guide-price-table" data-picks-table><table><thead><tr><th>Product</th><th>Free/Paid</th><th>Current tracked price</th><th class="optional">Regular</th><th>Off</th><th class="optional">Lowest we've tracked</th><th>Buy</th></tr></thead><tbody>{rows.map((row, i) => <tr><th>{row.pricePath ? <a href={row.pricePath}>{row.name}</a> : row.name}</th><td>{row.type}</td><td>{row.current}</td><td class="optional">{row.regular}</td><td>{row.off}</td><td class="optional">{row.low}</td><td>{picks[i].freeFact?.official_url ? <a href={picks[i].freeFact.official_url}>Get free</a> : '—'}</td></tr>)}</tbody></table><p>Prices from PluginDrop's checks, last updated {lastUpdated}.</p></div>
+<style>.guide-price-table{width:100%;overflow-x:auto;margin:1.5rem 0}.guide-price-table table{width:100%;border-collapse:collapse;font-size:.9rem}.guide-price-table th,.guide-price-table td{padding:.6rem;border:1px solid var(--border);text-align:left}.guide-price-table p{font-size:.8rem;color:var(--text-secondary)}@media(max-width:500px){.optional{display:none}}</style>

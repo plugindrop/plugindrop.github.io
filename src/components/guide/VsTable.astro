@@ -1,0 +1,18 @@
+---
+import { priceTableRow } from '../../lib/guideV4.mjs';
+import { episodeRows } from '../../lib/pricePageEvidence.mjs';
+const { picks = [] } = Astro.props;
+const columns = picks.slice(0, 3);
+const display = (value) => value == null ? '—' : typeof value === 'boolean' ? value ? 'Yes' : 'No' : String(value);
+const rows = [
+  ['Current tracked price', p => priceTableRow(p).current],
+  ['Regular', p => priceTableRow(p).regular],
+  ["Lowest we've tracked", p => priceTableRow(p).low],
+  ['Last sale', p => { const e = p.entry ? episodeRows(p.entry)[0] : null; return e ? `${e.start}–${e.end}` : '—'; }],
+  ['Formats', p => display(p.content?.compat?.formats)],
+  ['Mac', p => display(p.content?.compat?.mac_min)],
+  ['Windows', p => display(p.content?.compat?.windows_min)],
+];
+---
+{columns.length >= 2 && <div class="vs-table"><table><thead><tr><th>Compare</th>{columns.map(p => <th>{p.name}</th>)}</tr></thead><tbody>{rows.map(([label, value]) => <tr><th>{label}</th>{columns.map(p => <td>{value(p)}</td>)}</tr>)}</tbody></table></div>}
+<style>.vs-table{width:100%;overflow-x:auto;margin:1.5rem 0}.vs-table table{width:100%;border-collapse:collapse}.vs-table th,.vs-table td{padding:.65rem;border:1px solid var(--border);text-align:left;min-width:7rem}</style>
