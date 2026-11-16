@@ -8,13 +8,12 @@ heroImage: "/images/fusion-hybrid-serum-presets-3b1308.jpg"
 score: 10.00
 rawScore: 10.50
 productKey: "FUSION"
-priceRecordPending: true
 dealPrice: "$15"
 originalPrice: "$29.99"
 discount: "50% OFF"
 saleExpiry: "2026-12-16"
 saleExpirySource: "fallback"
-draft: true
+draft: false
 ---
 If you already build sounds in Xfer Serum and want more hybrid textures without designing every patch from scratch, FUSION is worth a look while it's discounted.
 

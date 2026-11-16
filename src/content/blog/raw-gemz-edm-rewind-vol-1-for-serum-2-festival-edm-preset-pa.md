@@ -8,13 +8,12 @@ heroImage: "/images/raw-gemz-edm-rewind-vol-1-for-serum-2-festival-edm-preset-pa
 score: 10.00
 rawScore: 14.50
 productKey: "RAW GEMZ EDM Rewind"
-priceRecordPending: true
 dealPrice: "$16.98"
 originalPrice: "$33.95"
 discount: "50% OFF"
 saleExpiry: "2026-12-16"
 saleExpirySource: "fallback"
-draft: true
+draft: false
 ---
 **TL;DR:** RAW GEMZ' EDM REWIND Vol.1 for Serum 2 is currently listed at $16.98, well under the ~~$249~~ regular price PluginDrop has tracked for this product. PluginDrop has followed this listing since 2025-03-20 across 4 observations, with a lowest recorded price of $99. [Grab it at ADSR Sounds](https://www.adsrsounds.com/product/presets/resonance-sound-raw-gemz-edm-rewind-vol-1-for-serum-2/?a_aid=plugindrop&data1=raw-gemz-edm-rewind-vol-1-for-serum-2-festival-edm-preset-pa&utm_source=plugindrop&utm_medium=article&utm_campaign=raw-gemz-edm-rewind-vol-1-for-serum-2-festival-edm-preset-pa) while the current price holds.
 
