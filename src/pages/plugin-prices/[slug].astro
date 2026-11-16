@@ -885,6 +885,7 @@ const faqLD = {
               {discount ? (
                 <div class="discount-check">
                   <p class="dc-label">Is this discount real?</p>
+                  <p class="dc-line">{name} sale history:</p>
                   {discount.lines.map(({ text }) => <p class="dc-line">{text}</p>)}
                 </div>
               ) : <p class="verdict-copy">{verdictCopy}</p>}
