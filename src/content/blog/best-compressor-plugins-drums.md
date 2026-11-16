@@ -179,7 +179,7 @@ Available directly at klanghelm.com.
 | Tracked price | $26.00 |
 |---|---|
 
-[View Klanghelm MJUC on Plugin Boutique](https://klanghelm.com/contents/products/MJUC.html)
+[View Klanghelm MJUC (official page)](https://klanghelm.com/contents/products/MJUC.html)
 
 ## Rough Rider 3
 

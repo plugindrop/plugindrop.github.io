@@ -348,7 +348,7 @@ Unless you need it for a paying gig this week, this is close to the textbook "wa
 | Tracked price | $449.00 |
 |---|---|
 
-[View Spitfire Albion ONE on Plugin Boutique](https://www.spitfireaudio.com/albion-one)
+[View Spitfire Albion ONE (official page)](https://www.spitfireaudio.com/albion-one)
 
 [Watch Spitfire Albion ONE demo](https://www.youtube.com/watch?v=33R4c8HrwUc)
 

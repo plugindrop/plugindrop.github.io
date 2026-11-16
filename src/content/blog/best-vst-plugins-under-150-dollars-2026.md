@@ -148,7 +148,7 @@ Valhalla DSP's interface is sparse, with few parameters. That is a deliberate en
 | Tracked price | $50.00 |
 |---|---|
 
-[View Valhalla Room on Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-room/)
+[View Valhalla Room (official page)](https://valhalladsp.com/shop/reverb/valhalla-room/)
 
 [Watch Valhalla Room demo](https://www.youtube.com/watch?v=p9iAQ1hmKm4)
 
@@ -173,7 +173,7 @@ Valhalla Delay covers tape-style, digital, diffusion, and pitch-shifting delay m
 | Tracked price | $50.00 |
 |---|---|
 
-[View Valhalla Delay on Plugin Boutique](https://valhalladsp.com/shop/delay/valhalla-delay/)
+[View Valhalla Delay (official page)](https://valhalladsp.com/shop/delay/valhalla-delay/)
 
 [Watch Valhalla Delay demo](https://www.youtube.com/watch?v=1pDVayo9GWc)
 
@@ -416,7 +416,7 @@ Valhalla VintageVerb — Algorithm variety that Valhalla Room doesn't cover
 | Tracked price | $50.00 |
 |---|---|
 
-[View Valhalla VintageVerb on Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/)
+[View Valhalla VintageVerb (official page)](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/)
 
 ## Soundtoys 5
 

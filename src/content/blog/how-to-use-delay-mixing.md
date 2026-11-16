@@ -101,7 +101,7 @@ This guide brings together publicly available product information and prices tra
 | Tracked price | $50.00 |
 |---|---|
 
-[View Valhalla Delay on Plugin Boutique](https://valhalladsp.com/shop/delay/valhalla-delay/)
+[View Valhalla Delay (official page)](https://valhalladsp.com/shop/delay/valhalla-delay/)
 
 [Watch Valhalla Delay demo](https://www.youtube.com/watch?v=1pDVayo9GWc)
 

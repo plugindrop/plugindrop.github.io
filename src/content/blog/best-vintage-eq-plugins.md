@@ -51,7 +51,7 @@ It emulates the SSL 4000E channel strip EQ. For producers who have read about "S
 | Tracked price | $149.00 |
 |---|---|
 
-[View Waves SSL E-Channel on Plugin Boutique](https://www.waves.com/plugins/ssl-e-channel)
+[View Waves SSL E-Channel (official page)](https://www.waves.com/plugins/ssl-e-channel)
 
 ## FabFilter Pro-Q 4
 

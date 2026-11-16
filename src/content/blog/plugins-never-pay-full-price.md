@@ -147,7 +147,7 @@ This guide brings together publicly available product information and prices tra
 
 Last recorded sale: $39.00 on 2026-11-15.
 
-[View Sonnox Oxford Inflator on Plugin Boutique](https://sonnox.com/products/oxford-inflator)
+[View Sonnox Oxford Inflator (official page)](https://sonnox.com/products/oxford-inflator)
 
 ## How to choose
 

@@ -249,7 +249,7 @@ Valhalla Room packs 12 room algorithms that convincingly model spaces from tight
 | Tracked price | $50.00 |
 |---|---|
 
-[View Valhalla Room on Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-room/)
+[View Valhalla Room (official page)](https://valhalladsp.com/shop/reverb/valhalla-room/)
 
 [Watch Valhalla Room demo](https://www.youtube.com/watch?v=p9iAQ1hmKm4)
 
@@ -302,7 +302,7 @@ The SSL E-Channel emulates the console strip that defined the sound of records f
 | Tracked price | $149.00 |
 |---|---|
 
-[View Waves SSL E-Channel on Plugin Boutique](https://www.waves.com/plugins/ssl-e-channel)
+[View Waves SSL E-Channel (official page)](https://www.waves.com/plugins/ssl-e-channel)
 
 ## Serum
 

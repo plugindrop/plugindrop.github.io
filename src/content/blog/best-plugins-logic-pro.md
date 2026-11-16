@@ -158,7 +158,7 @@ Valhalla VintageVerb models reverb algorithms from the 1970s and 1980s — the R
 | Tracked price | $50.00 |
 |---|---|
 
-[View Valhalla VintageVerb on Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/)
+[View Valhalla VintageVerb (official page)](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/)
 
 ## ValhallaDelay
 

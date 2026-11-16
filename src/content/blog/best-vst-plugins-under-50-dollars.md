@@ -47,7 +47,7 @@ Valhalla Room delivers multiple algorithm options — plate, room, hall, sanctua
 | Tracked price | $50.00 |
 |---|---|
 
-[View Valhalla Room on Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-room/)
+[View Valhalla Room (official page)](https://valhalladsp.com/shop/reverb/valhalla-room/)
 
 [Watch Valhalla Room demo](https://www.youtube.com/watch?v=p9iAQ1hmKm4)
 
@@ -102,7 +102,7 @@ Valhalla Delay packs tape, BBD, digital, pitch-shifting, and reverb-hybrid modes
 | Tracked price | $50.00 |
 |---|---|
 
-[View Valhalla Delay on Plugin Boutique](https://valhalladsp.com/shop/delay/valhalla-delay/)
+[View Valhalla Delay (official page)](https://valhalladsp.com/shop/delay/valhalla-delay/)
 
 [Watch Valhalla Delay demo](https://www.youtube.com/watch?v=1pDVayo9GWc)
 

@@ -49,7 +49,7 @@ Waves Tune Real-Time is the most-cited practical pitch correction option in the 
 | Tracked price | $199.00 |
 |---|---|
 
-[View Waves Tune Real-Time on Plugin Boutique](https://www.waves.com/plugins/waves-tune-real-time)
+[View Waves Tune Real-Time (official page)](https://www.waves.com/plugins/waves-tune-real-time)
 
 [Watch Waves Tune Real-Time demo](https://www.youtube.com/watch?v=wEYV9FH91Vo)
 

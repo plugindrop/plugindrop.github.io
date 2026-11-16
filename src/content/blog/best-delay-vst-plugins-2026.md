@@ -153,7 +153,7 @@ Valhalla DSP rarely discounts its plugins, so unlike most entries on this list, 
 | Tracked price | $50.00 |
 |---|---|
 
-[View Valhalla Delay on Plugin Boutique](https://valhalladsp.com/shop/delay/valhalla-delay/)
+[View Valhalla Delay (official page)](https://valhalladsp.com/shop/delay/valhalla-delay/)
 
 [Watch Valhalla Delay demo](https://www.youtube.com/watch?v=1pDVayo9GWc)
 
@@ -287,7 +287,7 @@ Colour Copy models bucket-brigade delay circuits. u-he lists the paid license at
 
 Last recorded sale: $67.00 on 2024-11-28.
 
-[View u-he Colour Copy on Plugin Boutique](https://u-he.com/products/colour-copy/)
+[View u-he Colour Copy (official page)](https://u-he.com/products/colour-copy/)
 
 ## Chow Matrix
 

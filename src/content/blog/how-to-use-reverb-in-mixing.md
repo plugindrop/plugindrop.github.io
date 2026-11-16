@@ -104,7 +104,7 @@ This step is where reverb plugins with built-in EQ controls earn their position 
 | Tracked price | $50.00 |
 |---|---|
 
-[View Valhalla Room on Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-room/)
+[View Valhalla Room (official page)](https://valhalladsp.com/shop/reverb/valhalla-room/)
 
 [Watch Valhalla Room demo](https://www.youtube.com/watch?v=p9iAQ1hmKm4)
 

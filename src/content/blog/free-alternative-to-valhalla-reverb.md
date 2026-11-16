@@ -163,7 +163,7 @@ Before you buy, it's worth knowing Valhalla's pricing behavior specifically: the
 | Tracked price | $50.00 |
 |---|---|
 
-[View Valhalla VintageVerb on Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/)
+[View Valhalla VintageVerb (official page)](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/)
 
 ## Valhalla Room
 
@@ -258,7 +258,7 @@ This guide brings together publicly available product information and prices tra
 | Tracked price | $50.00 |
 |---|---|
 
-[View Valhalla Room on Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-room/)
+[View Valhalla Room (official page)](https://valhalladsp.com/shop/reverb/valhalla-room/)
 
 [Watch Valhalla Room demo](https://www.youtube.com/watch?v=p9iAQ1hmKm4)
 

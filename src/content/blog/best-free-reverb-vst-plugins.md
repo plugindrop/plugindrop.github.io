@@ -196,7 +196,7 @@ Valhalla VintageVerb — The natural next step from Supermassive
 | Tracked price | $50.00 |
 |---|---|
 
-[View Valhalla VintageVerb on Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/)
+[View Valhalla VintageVerb (official page)](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/)
 
 ## FabFilter Pro-R 2
 

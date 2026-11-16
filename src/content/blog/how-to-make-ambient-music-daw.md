@@ -176,7 +176,7 @@ Shimmer reverb — pitch-shifted audio feeding back through a reverb tail — is
 | Tracked price | $50.00 |
 |---|---|
 
-[View Valhalla Room on Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-room/)
+[View Valhalla Room (official page)](https://valhalladsp.com/shop/reverb/valhalla-room/)
 
 [Watch Valhalla Room demo](https://www.youtube.com/watch?v=p9iAQ1hmKm4)
 
@@ -209,7 +209,7 @@ Once the reverb chain is established, the ambient texture needs to move on its o
 | Tracked price | $50.00 |
 |---|---|
 
-[View Valhalla Shimmer on Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-shimmer/)
+[View Valhalla Shimmer (official page)](https://valhalladsp.com/shop/reverb/valhalla-shimmer/)
 
 [Watch Valhalla Shimmer demo](https://www.youtube.com/watch?v=avjdyKfCLs8)
 

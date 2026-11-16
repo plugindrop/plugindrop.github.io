@@ -45,7 +45,7 @@ Valhalla's product page says VintageVerb "features 22 classic digital reverbs an
 | Tracked price | $50.00 |
 |---|---|
 
-[View Valhalla VintageVerb on Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/)
+[View Valhalla VintageVerb (official page)](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/)
 
 ## Native Instruments Replika XT
 

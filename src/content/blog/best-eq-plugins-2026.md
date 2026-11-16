@@ -336,7 +336,7 @@ This list brings together publicly available feature information and prices trac
 | Tracked price | $149.00 |
 |---|---|
 
-[View Waves SSL E-Channel on Plugin Boutique](https://www.waves.com/plugins/ssl-e-channel)
+[View Waves SSL E-Channel (official page)](https://www.waves.com/plugins/ssl-e-channel)
 
 ## How to choose
 

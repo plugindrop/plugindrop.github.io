@@ -90,7 +90,7 @@ Strings are the section most producers reach for first, so this is where library
 | Tracked price | $399.00 |
 |---|---|
 
-[View EastWest Hollywood Orchestra Opus Edition on Plugin Boutique](https://www.soundsonline.com/hollywood-orchestra)
+[View EastWest Hollywood Orchestra Opus Edition (official page)](https://www.soundsonline.com/hollywood-orchestra)
 
 [Watch EastWest Hollywood Orchestra Opus Edition demo](https://www.youtube.com/watch?v=wfN8z4LCP4Q)
 

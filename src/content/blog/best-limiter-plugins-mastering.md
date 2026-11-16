@@ -244,7 +244,7 @@ DMG Audio Limitless is a multi-band, mid-side capable limiter built for engineer
 | Tracked price | $200.00 |
 |---|---|
 
-[View DMG Audio Limitless on Plugin Boutique](https://dmgaudio.com/products_limitless.php)
+[View DMG Audio Limitless (official page)](https://dmgaudio.com/products_limitless.php)
 
 ## Sonnox Oxford Limiter V3
 

@@ -84,7 +84,7 @@ Keyscape follows the same house style. Spectrasonics avoids the large seasonal m
 | Tracked price | $399.00 |
 |---|---|
 
-[View Spectrasonics Keyscape on Plugin Boutique](https://www.spectrasonics.net/products/keyscape/buykeyscape.php)
+[View Spectrasonics Keyscape (official page)](https://www.spectrasonics.net/products/keyscape/buykeyscape.php)
 
 [Watch Spectrasonics Keyscape demo](https://www.youtube.com/watch?v=1A2-jz5zwi8)
 
@@ -111,7 +111,7 @@ Deep discounts only show up on version-upgrade paths for existing owners, not on
 | Tracked price | $699.00 |
 |---|---|
 
-[View Celemony Melodyne 5 Studio on Plugin Boutique](https://shop.celemony.com/)
+[View Celemony Melodyne 5 Studio (official page)](https://shop.celemony.com/)
 
 ## FabFilter Pro-Q 4
 
