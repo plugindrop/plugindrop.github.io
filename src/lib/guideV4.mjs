@@ -6,6 +6,17 @@ const marker = /^<!-- guide:v4 kind=(roundup|review|vs|guide|report) -->/;
 const heading = /<h2\b[^>]*\bid="([^"]+)"[^>]*>[\s\S]*?<\/h2>/gi;
 const clean = value => value.toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
 
+export function sponsorPluginBoutiqueLinks(html) {
+  return html.replace(/<a\b[^>]*>/gi, tag => {
+    if (!/\bhref=["']https?:\/\/(?:www\.)?pluginboutique\.com(?:[\/?:#]|["'])/i.test(tag)) return tag;
+    if (/\brel=["'][^"']*["']/i.test(tag)) {
+      return tag.replace(/\brel=(["'])([^"']*)\1/i, (_, quote, rel) =>
+        `rel=${quote}${[...new Set([...rel.split(/\s+/).filter(Boolean), 'sponsored'])].join(' ')}${quote}`);
+    }
+    return tag.replace(/>$/, ' rel="sponsored">');
+  });
+}
+
 export function isGuideV4(body) { return typeof body === 'string' && marker.test(body); }
 
 export function splitGuideV4(html, rawBody) {
@@ -14,7 +25,7 @@ export function splitGuideV4(html, rawBody) {
   const headings = [...html.matchAll(heading)];
   if (!headings.length) return null;
   const sections = headings.map((h, i) => {
-    const part = html.slice(h.index, headings[i + 1]?.index ?? html.length);
+    const part = sponsorPluginBoutiqueLinks(html.slice(h.index, headings[i + 1]?.index ?? html.length));
     const role = part.match(/<!-- role:([a-z]+) -->/)?.[1];
     const pick = part.match(/<!-- pick:([^>]+) -->/)?.[1]?.trim() ?? null;
     return role ? { role, id: h[1], html: part, pick } : null;
@@ -23,7 +34,7 @@ export function splitGuideV4(html, rawBody) {
   const faq = sections.find(s => s.role === 'faq')?.html ?? '';
   const faqItems = [...faq.matchAll(/<p>Q:\s*([\s\S]*?)<\/p>\s*<p>A:\s*([\s\S]*?)<\/p>/gi)]
     .map(m => ({ q: m[1].replace(/<[^>]*>/g, '').trim(), a: m[2].replace(/<[^>]*>/g, '').trim() }));
-  return { kind, tldrHtml: html.slice(0, headings[0].index), sections, faqItems };
+  return { kind, tldrHtml: sponsorPluginBoutiqueLinks(html.slice(0, headings[0].index)), sections, faqItems };
 }
 
 export function resolvePick(name, data) {
