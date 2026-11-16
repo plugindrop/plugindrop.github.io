@@ -1,6 +1,6 @@
 ---
-title: "Soundtoys Effect Rack: Features, Pricing & Is It Worth It? (2026)"
-description: "Soundtoys Effect Rack is the complete bundle from Soundtoys, a plugin developer with a long track record in professional studios."
+title: "Soundtoys Effect Rack: price history and last sale"
+description: "The last recorded sale on Soundtoys Effect Rack was $179.00, down from the $299.00 regular price, seen on 2026-08-01. This page tracks its price history at Plugin Boutique."
 pubDate: '2026-04-23T18:27:33Z'
 tags: ["review", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/6343-Soundtoys-Effect-Rack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-effect-rack-f99acc&chan=art&data1=soundtoys-effect-rack-f99acc"
@@ -8,95 +8,55 @@ heroImage: /images/soundtoys-effect-rack-f99acc.jpg
 score: 10.00
 draft: false
 converted: true
+dealPrice: "$179.00"
+originalPrice: "$299.00"
+discount: "40% OFF"
+updatedDate: "2026-11-16"
 ---
-**Soundtoys Effect Rack** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/6343-Soundtoys-Effect-Rack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-effect-rack-f99acc&chan=art&data1=soundtoys-effect-rack-f99acc)
+**TL;DR:** Soundtoys Effect Rack has a recorded sale history. Its last recorded sale was $179.00 on 2026-08-01; that sale has ended. The recorded regular price was $299.00. The tracked low was $179.00.
 
----
+## The Recycle Loop Built Into Effect Rack's 14-Plugin Chain
+<!-- role:product -->
 
-<div class="video-embed">
-<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/7j-p8xyoLlI" title="Crystallizer - Crystalline Guitar Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
-</div>
+Soundtoys packages 14 of its own effects—among them EchoBoy, PrimalTap, Decapitator, Radiator, Tremolator, and FilterFreak—into Effect Rack, a single plug-in that runs as one self-contained chain rather than 14 separate inserts. Producers can arrange the included effects in any order inside the Rack and store the resulting chain as a preset, so a layered delay-into-saturation-into-filter combination loads back as one unit on a new track. A global Mix knob blends the processed chain with the dry signal for parallel processing, and a global Recycle control routes the chain's output back into its input, which the brief describes as a way to construct modulated reverbs and extended delay tails without patching several plug-ins together. Compared with Virtual Guitarist Bundle, which centers on an instrument mode and a guitar model built around picking and strumming phrases, or Excite Audio Bundle, which draws on four sound sources run through sample and synth oscillator engines, Effect Rack is built around processing an existing signal through a configurable chain of 14 effects rather than generating new instrument material.
 
-## What Is Soundtoys Effect Rack?
+<!-- deal-context-video:start -->
+<iframe src="https://www.youtube.com/embed/19bqeQ4mXjA" title="Get Started With Soundtoys Effect Rack" frameborder="0" allowfullscreen></iframe>
 
-Soundtoys Effect Rack is the complete bundle from Soundtoys, a plugin developer with a long track record in professional studios. The bundle packages their full lineup of effects into a single purchase — covering everything from analog-modeled saturation and vintage delay to modulation and pitch manipulation. Soundtoys plugins are built around analog circuit emulation and creative sound design, making the Effect Rack a broad toolkit rather than a single-purpose tool.
+*Get Started With Soundtoys Effect Rack*
+<!-- deal-context-video:end -->
 
----
+## The Pitch and Chorus Tone Crystallizer and MicroShift Recreate
+<!-- role:sound -->
 
-## Key Features
+Within Effect Rack, Crystallizer and MicroShift carry over pitch-shift, chorus, and stereo-widening character modeled on classic studio processing, per the plugin's documented lineage. That gives the Rack a route into vintage-style doubling and widening textures alongside its delay and saturation effects, without needing either plugin loaded as a separate insert.
 
-- **EchoBoy** — Soundtoys' flagship delay plugin, modeling tape, analog, and digital echo units with deep rhythm and timing controls.
-- **Decapitator** — Analog saturation/drive modeled after five classic hardware units, used across genres for adding warmth or controlled aggression.
-- **Little AlterBoy** — Pitch shifting and formant manipulation plugin, widely used for vocal effects and character processing.
-- **FilterFreak** — Analog-modeled filter with rhythmic sequencing capabilities for dynamic, tempo-synced filter sweeps.
-- **PhaseMistress** — Vintage phaser emulation with extensive modulation routing options.
-- **Crystallizer** — Granular echo and reverse pitch-shifting tool for experimental and textural sound design.
-- **MicroShift** — Stereo widening and ADT (Automatic Double Tracking) effect based on classic studio hardware.
-- **Tremolator** — Tremolo and auto-gate plugin with tempo-sync and rhythmic pattern control.
+## Effect Rack's $179.00 Low Against Its $299.00 Regular Price
+<!-- role:price -->
 
----
+Plugin Boutique last recorded Effect Rack on sale for $179.00 on 2026-08-01, matching the lowest price tracked for the bundle. That sale price sat $120.00 under the bundle's $299.00 regular and typical price. No current sale or confirmed future date is in effect, so the figure worth watching on a future sale is a return to at or near that $179.00 tracked low against the $299.00 regular price.
 
-## What Producers Are Saying
-
-Soundtoys has been a go-to name in mixing and production discussions for well over a decade. EchoBoy consistently appears in "best delay plugins" threads alongside much pricier hardware alternatives. The Effect Rack bundle is commonly recommended as a high-value entry point for producers looking to acquire the full Soundtoys lineup at once rather than buying individual plugins over time.
-
----
-
-## Who Is It For?
-
-- **Mix engineers** — The bundle's saturation, EQ, and spatial tools fit naturally into a mixing-focused workflow.
-- **Electronic music producers** — FilterFreak, Tremolator, and Crystallizer are designed for sound design and rhythmic processing central to electronic production.
-- **Vocal producers** — Little AlterBoy and EchoBoy address pitch manipulation and creative delay processing common in modern vocal chains.
-
----
-
-## Current Pricing
-
-Verify current pricing on the product page, as deals can change without notice.
-
-Verify current pricing on the product page — deals can change.
-
-[Check current pricing and buy at Plugin Boutique →](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/6343-Soundtoys-Effect-Rack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-effect-rack-f99acc&chan=art&data1=soundtoys-effect-rack-f99acc)
-
----
-
-## Alternatives at a Glance
-
-| Name | Price | Key Difference |
-|---|---|---|
-| Waves Signature Series bundles | Varies (frequent sales) | Larger plugin count, different saturation/delay character |
-| FabFilter Total Bundle | ~$699–$899 | Stronger surgical EQ/compression focus, less saturation/creative FX depth |
-| iZotope Everything Bundle | ~$499+ on sale | Includes mastering, repair, and mixing tools; less focused on analog character |
-
-If analog-modeled saturation and creative delay are the priority, the Soundtoys Effect Rack is purpose-built for that. If you need a broader toolkit including mastering and audio repair, iZotope's bundle covers more ground at a higher price point.
-
----
+<!-- deal-context-formats:start -->
+## Formats and system requirements
+- Formats: VST3, VST2, AU, AAX
+- Mac requirements: macOS 10.12 Sierra and later (Intel / M1 / M2 Apple Silicon supported) (64-bit only); VST2, VST3, AU, AAX Native, AAX AudioSuite
+- Windows requirements: Windows 10 and later (64-bit only); VST2, VST3, AAX Native, AAX AudioSuite; Supported Sample Rates:; Minimum - 44.1 kHz
+- Source: pluginboutique.com product page, retrieved 2026-11-16
+<!-- deal-context-formats:end -->
 
 ## FAQ
+<!-- role:faq -->
 
-**Q: Does Soundtoys Effect Rack require iLok?**
-A: Soundtoys uses iLok license management. An iLok account is required; check the product page for whether a physical iLok dongle is needed or if machine-based activation is supported.
+Q: What does the Recycle control do in Effect Rack?
+A: It routes the chain's output back into its input, which the brief describes as a way to build modulated reverbs and extended delay effects without separate routing between plug-ins.
 
-**Q: What formats are included (VST, AU, AAX)?**
-A: Soundtoys plugins support major DAW formats including VST, AU, and AAX. Check the official product page for the full list of supported formats and DAWs.
+Q: Is the $179.00 Effect Rack price still active?
+A: No. That price was last recorded on 2026-08-01, and no current or upcoming sale on Effect Rack is confirmed.
 
-**Q: Can I upgrade from individual Soundtoys plugins I already own?**
-A: Upgrade pricing options may be available. Check the Plugin Boutique product page or Soundtoys directly for crossgrade/upgrade eligibility.
+Q: How does Effect Rack store a custom effect chain?
+A: The arrangement of the 14 included effects, along with the global Mix, Recycle, and tempo-sync settings, can be saved together as a single preset.
 
----
+Q: What tone do Crystallizer and MicroShift add inside the Rack?
+A: They carry over classic studio pitch-shift, chorus, and widening character, giving the Rack a vintage-style doubling option alongside its delay and saturation effects.
 
-## Where to Buy
-
-The complete Soundtoys library is a deal worth bookmarking — but deal pricing moves fast. Lock in $149.00 before it reverts to the full $299.00 price.
-
-[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/6343-Soundtoys-Effect-Rack?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-effect-rack-f99acc&chan=art&data1=soundtoys-effect-rack-f99acc)
-
----
-
-*This post contains affiliate links. We may earn a small commission at no extra cost to you.*
-
-## Related Guides
-
-- [Best Mixing Plugins 2026](/posts/best-mixing-plugins-2026/)
-- [Best Creative FX Plugins](/posts/best-creative-fx-plugins/)
-- [Best Free VST Plugins 2026](/posts/best-free-vst-plugins-2026/)
+*Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*

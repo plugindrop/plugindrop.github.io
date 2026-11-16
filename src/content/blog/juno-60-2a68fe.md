@@ -1,8 +1,8 @@
 ---
-title: "65% Off JUNO 60 — Warm Analog Pads and Basslines"
-description: "Plugin Boutique has Roland Cloud's JUNO 60 marked down 65% from its regular $199 price. It's a plugin reproduction of the original 1982 Juno-60 analog..."
+title: "JUNO-60: price history and last sale"
+description: "The last recorded sale on JUNO-60 was $69.00, down from the $199.00 regular price, seen on 2026-11-01. This page tracks its price history at Plugin Boutique."
 pubDate: "2026-10-04T06:45:04Z"
-updatedDate: "2026-10-04T06:49:03Z"
+updatedDate: "2026-11-16"
 tags: ["sale", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=JUNO+60&a_aid=69cb95abe1763&chan=art&data1=juno-60-2a68fe&utm_source=plugindrop&utm_medium=article&utm_campaign=juno-60-2a68fe"
 heroImage: "/images/juno-60-2a68fe_comfyui.png"
@@ -17,76 +17,58 @@ saleExpirySource: "fallback"
 draft: false
 productKey: "JUNO-60"
 ---
-If you want Roland's signature chorus-laden analog poly sound inside your DAW without hunting down vintage hardware, JUNO 60 at 65% off its $199 list price is worth a look this week.
+**TL;DR:** JUNO-60 has a recorded sale history. Its last recorded sale was $69.00 on 2026-11-01; that sale has ended. The recorded regular price was $199.00. The tracked low was $69.00.
 
-**TL;DR:** Plugin Boutique has Roland Cloud's JUNO 60 marked down 65% from its regular $199 price. It's a plugin reproduction of the original 1982 Juno-60 analog polysynth, built for VST, AU, and AAX hosts on Mac or Windows. [Grab the deal at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/15608-JUNO-60?a_aid=69cb95abe1763&chan=art&data1=juno-60-2a68fe&utm_source=plugindrop&utm_medium=article&utm_campaign=juno-60-2a68fe).
+## Roland's ACB circuit modeling and Circuit Mod macro define the JUNO-60 plug-in
+<!-- role:product -->
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lH28E6vJIS0" title="65% Off JUNO 60 — Warm Analog Pads and Basslines — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+The JUNO-60 Software Synthesizer recreates the 1982 JUNO-60 keyboard, the model that succeeded the JUNO-6 and introduced the series' first patch-save memory, ahead of the later JUNO-106. Roland rebuilds that circuit path — a single DCO, a sub-oscillator, and the JUNO filter, plus the chorus stage — using its ACB (Analog Circuit Behavior) technology, which models the original analog components rather than sampling them. A Circuit Mod macro sweeps several internal trim points at once, echoing the manual trim adjustments a technician once made on the hardware, while a separate Condition parameter simulates how those trims drift as a unit ages. The filter section can also switch to the HPF circuit carried over from the later JUNO-106, adding that model's bass bump. For comparison, Roland's own JUPITER 8 plug-in carries a Circuit Mod function too, but there it runs alongside switchable two-to-eight-voice polyphony rather than trim-and-aging simulation. GForce's impOSCar3 takes a different route again, built around emulating a specific British synth design. Running the JUNO-60 plug-in requires a VST, AU, or AAX host and an internet connection to activate through Roland Cloud, on Windows 10/11 or macOS 11 and later.
 
+<!-- deal-context-video:start -->
+<iframe src="https://www.youtube.com/embed/lH28E6vJIS0" title="Roland JUNO-60 Software Synthesizer in Roland Cloud" frameborder="0" allowfullscreen></iframe>
 
-## What you actually get
+*Roland JUNO-60 Software Synthesizer in Roland Cloud*
+<!-- deal-context-video:end -->
 
-JUNO 60 is Roland Cloud's software version of the brand's 1982 analog polysynth, delivered as a plugin instrument rather than a hardware unit. It installs as a VST, AU, or AAX plugin, so it drops into most major DAWs on either platform. Roland notes that Roland Cloud software needs an internet connection to install and activate, which is worth planning around if you're setting up on an offline studio rig.
+## The fat, lush tone the single-DCO engine is built around
+<!-- role:sound -->
 
-## Where it fits in a session
+The chorus circuit carries most of the plug-in's identity: the maker describes it as "insanely lush," layered over the fat, punchy character attributed to the DCO-plus-sub-oscillator signal path. That combination sits between the JUNO-6 that preceded it and the JUNO-106 that followed, with Roland pointing to the JUNO-60 specifically for its fatness and hi-fi punch within the series. A demo video titled "Roland JUNO-60 Software Synthesizer in Roland Cloud" presents the plug-in within the Roland Cloud platform it ships through.
 
-As a subtractive analog-style synth, JUNO 60 is suited to the sound-design pass early in a session, when you're sketching pads, basslines, or sustained chord textures. Producers working in genres built around vintage polysynth character often load this kind of instrument before layering effects or automation. Put it on its own track so its tone sits as a foundation under vocals or lead lines rather than competing with them.
+## Where the bass bump switch and chorus pads get used
+<!-- role:audience -->
 
-## Pricing and deal details
+Two of the uses Roland points to for the JUNO-60 plug-in land in specific spots of a mix:
 
-Plugin Boutique is running this deal at 65% off JUNO 60's regular ~~$199~~ price. That's a significant markdown off the standard rate, though the exact checkout total can shift slightly with region or ongoing promotions, so check the product page for current pricing before you buy. The [JUNO 60 deal page](https://www.pluginboutique.com/product/1-Instruments/4-Synth/15608-JUNO-60?a_aid=69cb95abe1763&chan=art&data1=juno-60-2a68fe&utm_source=plugindrop&utm_medium=article&utm_campaign=juno-60-2a68fe) is where the discount is applied.
+- **Bass patches** — the HPF switch borrowed from the JUNO-106 circuit adds the bass bump Roland cites as part of the filter's low end.
+- **Pad layers** — the chorus-driven DCO and sub-oscillator path extends into the pad sounds Roland lists among the plug-in's intended uses.
 
-## Skip it if
+## $69.00: how the last JUNO-60 sale compares to its $199.00 list price
+<!-- role:price -->
 
-- Your system runs an OS older than macOS 11 (Big Sur) or Windows 10 (64-bit), since those are the stated minimums.
-- You need a plugin format outside VST, AU, or AAX — anything else is not listed among the formats.
-- You don't have a reliable internet connection, since Roland Cloud software requires one to install and activate.
-- You already own another Juno-60-style emulation and don't need a second take on the same analog polysynth sound.
-
-## What producers say (with sources)
-
-A Reddit deal roundup covering Roland's lineup of analogue emulations flagged the Juno-60 title as part of a broader sale spanning several vintage Roland synth models ([source](https://www.reddit.com/r/AudioProductionDeals/comments/1wv4q19/roland_analogue_emulations_month_sale_analog/)).
-
-Community deal trackers have also pointed to AIR Music Technology's Jura, a synthesizer explicitly built around the same Roland Juno-60 design, which speaks to the continued interest in that architecture among producers ([source](https://www.reddit.com/r/AudioProductionDeals/comments/1tmyyo6/air_music_technology_jura_synthesiser_based_on/)).
+Plugin Boutique's most recently recorded JUNO-60 sale priced the plug-in at $69.00 on 2026-11-01, against a $199.00 regular price. That $69.00 figure matches the tracked low logged for this title, and $199.00 is also the typical price recorded outside of sale periods — meaning the last sale reached the floor of JUNO-60's recorded pricing rather than a partial markdown. No current sale or future sale date is confirmed for the JUNO-60 plug-in; present pricing can be checked directly on the [Plugin Boutique JUNO-60 listing](https://www.pluginboutique.com/search?q=JUNO+60&a_aid=69cb95abe1763&chan=art&data1=juno-60-juno-6&utm_source=plugindrop&utm_medium=article&utm_campaign=juno-60-juno-6). Anyone watching this title again should treat renewed pricing at or near $69.00 as matching its historical low, with $199.00 as the standard reference point between sale periods.
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements
 - Formats: VST, AU, AAX
 - Mac requirements: OS: macOS 11 (Big Sur) or later.; Other:; An internet connection is required for installing and activating Roland Cloud software.
 - Windows requirements: Windows 10 (64-bit) or Windows 11.
-- Source: pluginboutique.com product page, retrieved 2026-10-04
+- Source: pluginboutique.com product page, retrieved 2026-11-15
 <!-- deal-context-formats:end -->
 
-<!-- deal-context-video:start -->
-## Hear it before you buy
-
-<iframe src="https://www.youtube.com/embed/GaTLk6ea9jo" title="JUNO 60 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-*ROLAND JUNO-60 Analog Synthesizer 1982  | HQ DEMO | NEW PATCHES — AnalogAudio1*
-<!-- deal-context-video:end -->
-
 ## FAQ
+<!-- role:faq -->
 
-**Q: What is JUNO 60?**
-A: It's Roland Cloud's software reproduction of the original 1982 Juno-60 analog polysynth, delivered as a plugin instrument for use inside a DAW.
+Q: What was the lowest recorded price for the JUNO-60 plug-in?
+A: The lowest tracked price is $69.00, reached during the sale recorded on 2026-11-01.
 
-**Q: What platforms and formats does it run on?**
-A: It supports macOS 11 (Big Sur) or later and Windows 10 (64-bit) or Windows 11, in VST, AU, or AAX formats.
+Q: How does $69.00 compare to the regular price?
+A: It sits well below the $199.00 regular and typical price recorded for the JUNO-60 plug-in, a roughly 65% reduction.
 
-**Q: Do I need an internet connection to use it?**
-A: Yes. Roland Cloud software requires an internet connection for installing and activating it.
+Q: Is the Circuit Mod function unique to the JUNO-60 plug-in?
+A: No. Roland's JUPITER 8 plug-in also includes a Circuit Mod function, though it works alongside adjustable two-to-eight-voice polyphony rather than the JUNO-60's trim-and-aging simulation.
 
-**Q: Where can I get the 65% discount?**
-A: The deal is active at Plugin Boutique through the link in this article.
-
-## Should you buy now?
-
-At 65% off its regular $199 price, JUNO 60 is available at a fraction of its usual cost, which makes this a reasonable window to buy if the Juno-60 character fits your workflow. Wait only if you're unsure about platform compatibility or don't currently need another analog polysynth in your plugin folder.
+Q: What does the Condition parameter simulate?
+A: It simulates how a JUNO-60's internal trims drift as the hardware ages, letting the plug-in be set anywhere between factory-fresh and well-worn.
 
 *Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
-
-## Related Guides
-
-- [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)

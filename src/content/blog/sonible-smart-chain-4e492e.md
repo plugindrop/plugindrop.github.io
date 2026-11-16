@@ -1,80 +1,69 @@
 ---
-title: "44% Off Sonible smart:chain — AI Mixing Channel Strip ($99)"
-description: "Sonible smart:chain is $99, down from a regular price of $179 — a 44% discount. PluginDrop has tracked $99 as the price across all 23 checks recorded..."
+title: "Sonible smart chain: price history and last sale"
+description: "The last recorded sale on Sonible smart chain was $99.00, down from the $179.00 regular price, seen on 2026-10-13. This page tracks its price history at Plugin Boutique."
 pubDate: "2026-10-03T08:30:06Z"
 tags: ["vst-plugin", "pluginfox", "sale", "music-production"]
 affiliate: "https://pluginfox.com/search?aff=580&utm_source=plugindrop&utm_medium=article&utm_campaign=sonible-smart-chain-4e492e"
 heroImage: "/images/sonible-smart-chain-4e492e.jpg"
 score: 10.00
 rawScore: 12.74
-dealPrice: "$99"
-originalPrice: "$179"
-discount: "44% OFF"
+dealPrice: "$99.00"
+originalPrice: "$179.00"
+discount: "45% OFF"
 saleExpiry: "2026-11-02"
 saleExpirySource: "fallback"
 draft: false
 productKey: "Sonible smart chain"
+updatedDate: "2026-11-16"
 ---
-**TL;DR:** Sonible smart:chain is $99, down from a regular price of ~~$179~~ — a 44% discount. PluginDrop has tracked $99 as the price across all 23 checks recorded since 2026-09-01, making this an everyday price rather than a flash sale. [Get it at PluginFox](https://pluginfox.com/search?aff=580&utm_source=plugindrop&utm_medium=article&utm_campaign=sonible-smart-chain-4e492e) if a single channel-strip plugin fits your mixing workflow.
+**TL;DR:** Sonible smart chain has a recorded sale history. Its last recorded sale was $99.00 on 2026-10-13; that sale has ended. The recorded regular price was $179.00. The tracked low was $99.00.
 
-<!-- deal-context-sale-windows:start -->
-## Last three times this went on sale
-- 2026-09-15 → 2026-10-01: as low as $99
-<!-- deal-context-sale-windows:end -->
+## Sonible's single-plugin approach to channel strip mixing
+<!-- role:product -->
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ph_y5V1vTz0" title="Sonible smart:chain sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+Sonible built smart:chain as an AI-assisted channel strip that folds EQ, compression, de-harshing, gating, input riding, saturation, and leveling into one plug-in rather than separate modules loaded track by track. Instead of each processor working on its own, the modules share a single analysis of the incoming signal, so EQ curves, compression settings, and leveling choices start from the same read of the material rather than conflicting guesses. Every parameter set by that analysis stays editable, so a mixer can nudge or override any stage without starting from a blank slate.
 
+Beyond a single track, smart:chain instances placed across a session can communicate with each other, letting a mixer assign tracks to Front, Middle, or Back depth layers and centrally manage groups and navigation from one window. A project-wide auto-leveling feature analyzes relationships between tracks tagged for learning and proposes a genre-aware starting balance, with dedicated trim controls available to adjust that balance without disturbing how tracks sit relative to each other. Rather than replacing a mixer's judgment, the listed design intent keeps every processing stage transparent and user-controlled, so the automated starting point is a shortcut past repetitive setup rather than a fixed result.
 
-## What you actually get
-
-Sonible markets smart:chain as a chain plugin suite built around its smart automation technology, aimed at streamlining channel processing into a single pass. The pitch is efficiency: fewer plugin windows open during a mix, fewer manual EQ and compression decisions, and a more automated route from a raw track to a leveled, balanced channel. It's positioned as part of sonible's broader "smart" product family rather than a standalone one-trick effect.
-
-## Where it fits in a session
-
-As a channel strip, smart:chain is meant to sit early in the mixing chain, typically after input gain staging and before send-based effects like reverb or delay. That makes it a candidate for any session where you're processing a lot of tracks quickly, such as drum bus leveling, dialogue cleanup, or vocal chains that need consistent corrective work pass after pass. Producers tracking overdubs or working through a dense multitrack session can drop it per channel instead of assembling a separate EQ, compressor, and saturation stack for each one.
-
-## Pricing and deal details
-
-Sonible smart:chain is priced at $99, down from a regular price of ~~$179~~. PluginDrop has tracked this listing since 2026-09-01 across 23 separate checks, and $99 has come up every single time — both the lowest price tracked and the typical sale price. That pattern is why PluginDrop calls it an everyday price rather than a time-limited markdown: there's no countdown to watch and no deeper discount recorded in that window. Check the product page for current pricing before you commit, since listings can shift.
-
-## Skip it if
-
-Skip smart:chain if you already have a full channel-strip workflow you're satisfied with, or if you prefer setting every EQ band and compressor stage by hand rather than leaning on automated suggestions. If most of your work happens at the mastering stage rather than per-track mixing, a tool built for full-channel processing may not be the best match for your chain. And if $99 is a stretch right now, it's worth noting this isn't a one-time flash price you need to rush — PluginDrop's tracking shows it's been stable for weeks.
-
-## What producers say (with sources)
-
-A roundup on r/AudioProductionDeals described smart:chain as an AI-powered mixing plugin that combines EQing, compression, de-harshing, gating, input riding, saturation, and leveling in a single workflow, listed at the same $99 intro price PluginDrop has tracked since early September ([source](https://www.reddit.com/r/AudioProductionDeals/comments/1vyz98h/sonible_smartchain_channel_strip_and_aipowered/)).
+The plug-in runs on macOS 10.9+ (including Apple Silicon) and Windows 10+, in AU, VST2, VST3, AAX, and MultiRack Native formats, at sample rates from 44.1 kHz to 192 kHz. Listed system requirements call for at least 4 GB of RAM and an Intel Dual-Core i5 processor as recommended minimums, putting smart:chain within reach of a typical modern production machine rather than demanding specialized hardware.
 
 <!-- deal-context-video:start -->
-## Hear it before you buy
+<iframe src="https://www.youtube.com/embed/GPF0SxiCxGc" title="smart:chain by sonible | The intelligent channel-strip" frameborder="0" allowfullscreen></iframe>
 
-<iframe src="https://www.youtube.com/embed/UzqhZ-Wm1do" title="Sonible smart:chain — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-*Sonible smart:chain First Look | Mixing an Entire Track FAST (No Talking) — Colorful Tones Studio*
+*smart:chain by sonible | The intelligent channel-strip*
 <!-- deal-context-video:end -->
 
+## How smart:chain's channel strip differs from Plugin Boutique's amp and preamp tools
+<!-- role:peers -->
+
+Among the plugins Plugin Boutique lists in related effects categories, the 73 JR Preamp recreates a single hardware preamp's gain stage, offering up to 80dB of gain in 5dB steps — a narrower, single-stage tool next to smart:chain's multi-module chain. AmpliTube 5 is built for studio and live guitar and bass rigs, running up to 57 effects with three cabinets and three amps simultaneously, a different signal path than smart:chain's mix-bus-oriented EQ, compression, and leveling chain. AmpliTube 5 MAX v2 adds a universal upgrade path that restores gear purchased in earlier AmpliTube versions through the Custom Shop, a licensing structure not described anywhere in smart:chain's own listing.
+
+## $99.00 marked smart:chain's last recorded sale
+<!-- role:price -->
+
+Plugin Boutique's last recorded sale on smart:chain priced it at $99.00 on 2026-10-13, measured against a $179.00 regular price — a reduction of roughly 45%. That $99.00 also matches the plugin's tracked low, meaning the October sale represents the best price recorded for smart:chain so far rather than a one-off dip below an even lower figure. No typical regular price beyond the $179.00 figure is on record, and no current or upcoming sale is confirmed at this time. Anyone tracking smart:chain for a future discount has $99.00 as the benchmark to watch for, since it stands as both the last recorded sale price and the tracked low.
+
+<!-- deal-context-formats:start -->
+## Formats and system requirements
+- Formats: VST3, VST2, AU, AAX
+- Mac requirements: macOS 10.9+ (M1 Apple Silicon supported) (64-bit only); RAM - at least 4 GB (recommended); CPU - at least Intel DualCore i5 (recommended); Plugin Formats - AU, VST2, VST3, AAX, MultiRack Native
+- Windows requirements: 10+ (64-bit only); RAM - at least 4 GB (recommended); CPU - at least Intel DualCore i5 (recommended); Plugin Formats - VST2, VST3, AAX, MultiRack Native
+- Source: pluginboutique.com product page, retrieved 2026-11-15
+<!-- deal-context-formats:end -->
+
 ## FAQ
+<!-- role:faq -->
 
-**Q: What is Sonible smart:chain?**
-A: It's sonible's AI-assisted channel strip plugin, built to handle multiple stages of channel processing in one tool as part of sonible's smart automation product line.
+Q: Is the $99.00 smart:chain sale still active?
+A: No. The $99.00 price was recorded on 2026-10-13 and is historical; no current sale is confirmed.
 
-**Q: How much is Sonible smart:chain right now, and is this a temporary discount?**
-A: It's $99, down from a regular price of $179. PluginDrop has tracked $99 as the price at all 23 checks recorded since 2026-09-01, so this behaves as an everyday price rather than a limited-time flash sale.
+Q: Is $99.00 the lowest price smart:chain has reached?
+A: Yes, $99.00 is the tracked low recorded for smart:chain, matching the October 2026 sale price.
 
-**Q: Where can I buy smart:chain for $99?**
-A: This deal is active at PluginFox.
+Q: What price should buyers watch for on smart:chain?
+A: $99.00, since it marks both the last recorded sale and the lowest tracked price against the $179.00 regular price.
 
-**Q: Does smart:chain replace my existing EQ and compressor plugins?**
-A: That depends on your workflow. It's positioned as an all-in-one channel strip, so it can stand in for a chain of separate EQ, compression, and saturation plugins, or run alongside them on specific tracks.
-
-## Should you buy now?
-
-PluginDrop's tracking verdict is that $99 is an everyday price for smart:chain, not a temporary promo. It's held at $99 across all 23 checks recorded since 2026-09-01, against a regular price of $179, with no lower price observed in that window. If you've been holding out for a deeper discount, there's no tracked evidence one is coming — but there's also no rush, since the price hasn't moved in weeks. If $99 fits your budget, [get it at PluginFox](https://pluginfox.com/search?aff=580&utm_source=plugindrop&utm_medium=article&utm_campaign=sonible-smart-chain-4e492e).
+Q: How does smart:chain's price history compare with its regular price?
+A: The $99.00 recorded sale sits roughly 45% below the $179.00 regular price, and no lower figure has been tracked for the plug-in.
 
 *Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
-
-## Related Guides
-
-- [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
