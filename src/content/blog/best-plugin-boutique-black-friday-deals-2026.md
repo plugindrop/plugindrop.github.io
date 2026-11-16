@@ -8,7 +8,7 @@ affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=
 heroImage: "/images/best-plugin-boutique-black-friday-deals-2026.jpg"
 evergreen: true
 score: 9.00
-draft: false
+draft: true
 priceTrack:
   - "FabFilter Pro-Q 4"
   - "FabFilter Pro-L 2"

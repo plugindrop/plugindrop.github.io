@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Cheapest Way to Get FabFilter Pro-Q 4 in 2026"
 description: "How to get FabFilter Pro-Q 4 at the lowest verified price — standalone tracked low and bundle routes, based on our own price-tracker history."
 pubDate: "2026-07-15T00:42:49Z"

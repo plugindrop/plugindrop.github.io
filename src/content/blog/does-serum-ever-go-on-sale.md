@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Does Xfer Serum 2 Ever Go On Sale? (The Real Answer in 2026)"
 description: "Xfer lists the Serum 2 standard perpetual license at $249 (checked 2026-10-01). An older $99 research intro-offer row has no verified license type; no recurring standard-license sale is tracked."
 pubDate: "2026-06-29"

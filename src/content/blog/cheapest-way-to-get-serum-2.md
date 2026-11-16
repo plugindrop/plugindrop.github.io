@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Cheapest Way to Get Serum 2 in 2026"
 description: "Serum 2: the official price Xfer lists today, the Splice Rent-to-Own terms, and PluginDrop's dated price records, kept separate."
 pubDate: "2026-09-15T00:29:06Z"

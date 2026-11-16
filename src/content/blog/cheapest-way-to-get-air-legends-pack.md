@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Cheapest Way to Get AIR Legends Pack in 2026"
 description: "How to get AIR Legends Pack at the lowest verified price — standalone typical sale, all-time low, and bundle routes, based on our own price-tracker history."
 pubDate: "2026-10-15T00:41:41Z"

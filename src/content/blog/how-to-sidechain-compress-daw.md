@@ -11,9 +11,26 @@ score: 8.00
 xText: "New guide: How to Sidechain Compress in Your DAW: Step-by-Step Plugin G..."
 draft: false
 ---
-**TL;DR:** FabFilter Pro-C 3 is a compressor for sidechain work — its real-time visual display and dedicated sidechain routing make the workflow precise and repeatable. If you want the pumping effect without actual dynamic compression, Cableguys VolumeShaper delivers it through tempo-synced volume curves, which sidesteps the timing sensitivity of compressor-based routing entirely.
+<!-- guide:v4 kind=guide -->
 
-## Quick Picks at a Glance
+FabFilter Pro-C 3 is a top-tier compressor built for sidechain work, offering a flexible set of fourteen compressor styles organized into Modern, Classic, and Utility categories. What sets it apart is its ability to combine upward and downward multiband dynamics processing at the same time, giving it unusual flexibility for shaping sound.
+
+The plugin covers a wide range of sonic territory. It can deliver transparent, precise control suited to mastering work, or add punchy glue to a mixbus. On the character side, it offers classic opto-style warmth, modern upward dynamics, and aggressive pumping effects, all while keeping a distinctive sound. Built-in character modes layer in analog-style saturation, coloring, and drift through Tube, Diode, and Bright options, letting users dial in anything from clean, controlled compression to more colored and textured results.
+
+## Introduction
+
+<!-- role:intro -->
+
+Pro-C 3 is a stereo and surround compressor with fourteen compressor styles split across Modern, Classic, and Utility categories. Its standout feature is dynamics processing that combines upward and downward multiband control through its TTM system, giving it a wide range of behavior in one plug-in.
+
+That range covers everything from transparent mastering control to punchy mixbus glue, classic opto warmth, modern upward dynamics, or aggressive pumping, each delivered with its own distinct character. Beyond the core compression styles, character modes let users dial in analog-style saturation, coloring, and drift using Tube, Diode, and Bright options, adding texture on top of the compression itself while leaving the transparent settings untouched for cleaner mastering work.
+
+## How to
+
+<!-- role:howto -->
+
+
+**TL;DR:** FabFilter Pro-C 3 is a compressor for sidechain work — its real-time visual display and dedicated sidechain routing make the workflow precise and repeatable. If you want the pumping effect without actual dynamic compression, Cableguys VolumeShaper delivers it through tempo-synced volume curves, which sidesteps the timing sensitivity of compressor-based routing entirely. ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |
 |--------|-------|----------|--------|
@@ -27,58 +44,28 @@ draft: false
 
 ## Introduction
 
-Most sidechain guides teach routing. Almost none explain why your compressor is triggering on the wrong transient. The kick's attack spike — not its body — is what typically fires the gain reduction, which means your bass ducks a few milliseconds early and recovers before the kick even lands. Understanding this single timing issue separates producers who dial in sidechain by feel from those who dial it in on purpose.
-
-Learning how to sidechain compress in a DAW is foundational to modern dance music, hip-hop, and pop production. In 2026, it remains one of the techniques that most separates a flat, static mix from one that moves and breathes. Whether you're chasing the exaggerated pump of classic French house or the subtle glue of a radio mix, the principle is the same: one signal controls the dynamics of another in a rhythmic, intentional way.
-
-This guide walks through the full sidechain workflow step by step — from understanding the concept, to setting up routing, to choosing between a compressor-based and curve-based approach. It covers both primary tool categories and is aimed at producers who understand basic mixing but want a reliable, repeatable method for getting how to sidechain compress in a DAW working correctly the first time.
-
----
+Most sidechain guides teach routing. Almost none explain why your compressor is triggering on the wrong transient. The kick's attack spike — not its body — is what typically fires the gain reduction, which means your bass ducks a few milliseconds early and recovers before the kick even lands. Understanding this single timing issue separates producers who dial in sidechain by feel from those who dial it in on purpose. Learning how to sidechain compress in a DAW is foundational to modern dance music, hip-hop, and pop production. In 2026, it remains one of the techniques that most separates a flat, static mix from one that moves and breathes. Whether you're chasing the exaggerated pump of classic French house or the subtle glue of a radio mix, the principle is the same: one signal controls the dynamics of another in a rhythmic, intentional way. This guide walks through the full sidechain workflow step by step — from understanding the concept, to setting up routing, to choosing between a compressor-based and curve-based approach. It covers both primary tool categories and is aimed at producers who understand basic mixing but want a reliable, repeatable method for getting how to sidechain compress in a DAW working correctly the first time. ---
 
 ## Step 1: Understand What Sidechain Compression Actually Does
 
-A compressor normally responds to the level of the signal running through it. In sidechain mode, the compressor's detector circuit listens to a *different* signal — the "sidechain" or "key" input — while its gain reduction is still applied to the original track.
-
-In practice: you put a compressor on your bass or synth pad, route your kick drum into that compressor's sidechain input, and the kick's level tells the compressor when to duck the bass. The bass continues to play at all times — it simply gets quieter every time the kick hits, then recovers in between beats.
-
-The result, when tuned correctly, is a rhythmic pumping or breathing effect that creates space for both the kick and bass in the same frequency range without either element competing for headroom. The tighter the release, the more pronounced the pump. The longer the release, the more it reads as mix glue.
-
----
+A compressor normally responds to the level of the signal running through it. In sidechain mode, the compressor's detector circuit listens to a *different* signal — the "sidechain" or "key" input — while its gain reduction is still applied to the original track. In practice: you put a compressor on your bass or synth pad, route your kick drum into that compressor's sidechain input, and the kick's level tells the compressor when to duck the bass. The bass continues to play at all times — it simply gets quieter every time the kick hits, then recovers in between beats. The result, when tuned correctly, is a rhythmic pumping or breathing effect that creates space for both the kick and bass in the same frequency range without either element competing for headroom. The tighter the release, the more pronounced the pump. The longer the release, the more it reads as mix glue. ---
 
 ## Step 2: Set Up Your Routing
 
 Routing is DAW-specific, but the core logic is consistent across all major platforms:
 
-1. **Create a send or auxiliary bus from your kick track.** This is your sidechain source. It does not need to be audible in isolation — its job is to carry the signal that triggers the compressor.
-2. **Route that send into the sidechain input of the compressor** placed on your target track (bass, pad, or any element you want to duck).
-3. **Enable the external sidechain input inside the compressor plugin.** This is typically labeled "SC," "Key," or "Ext" — most compressors require you to activate this manually inside the plugin UI.
-
-In Ableton Live, the sidechain source is set via the "Audio From" dropdown inside the compressor. In FL Studio, you use the mixer routing panel with a peak controller or a sidechain-enabled compressor. In Logic Pro, the sidechain input is assigned via a dropdown at the top of the plugin window.
-
-DAW-native compressors — including Ableton's built-in Compressor, Logic Pro's Compressor, and FL's included options — handle basic sidechain routing competently. They are a legitimate starting point and the right place to learn the signal flow before adding a third-party plugin into the chain.
-
----
+1. **Create a send or auxiliary bus from your kick track.** This is your sidechain source. It does not need to be audible in isolation — its job is to carry the signal that triggers the compressor. 2. **Route that send into the sidechain input of the compressor** placed on your target track (bass, pad, or any element you want to duck). 3. **Enable the external sidechain input inside the compressor plugin.** This is typically labeled "SC," "Key," or "Ext" — most compressors require you to activate this manually inside the plugin UI. In Ableton Live, the sidechain source is set via the "Audio From" dropdown inside the compressor. In FL Studio, you use the mixer routing panel with a peak controller or a sidechain-enabled compressor. In Logic Pro, the sidechain input is assigned via a dropdown at the top of the plugin window. DAW-native compressors — including Ableton's built-in Compressor, Logic Pro's Compressor, and FL's included options — handle basic sidechain routing competently. They are a legitimate starting point and the right place to learn the signal flow before adding a third-party plugin into the chain. ---
 
 ## Step 3: Apply Dynamic Compression — FabFilter Pro-C 3
 
 ### FabFilter Pro-C 3 — Visual Sidechain Compression
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/mSzvpCz-M2k" title="FabFilter Pro-C 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - **Developer:** FabFilter
 - **Price:** ~€179
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
-FabFilter Pro-C 3 is a third-party compressor suited to sidechain work for one primary reason: the real-time gain reduction display shows you exactly when the compressor fires and by how much, making sidechain setup visual and repeatable rather than purely by ear.
-
-The plugin includes a dedicated external sidechain input that activates with a single button, and a Range parameter that limits maximum gain reduction depth — useful for subtle glue applications where you want ducking without obvious pumping. Pro-C 3 also supports host tempo sync triggering, which is one path to tempo-matched sidechain behavior.
-
-For the classic hard pump, a common starting point is fast attack (1–5ms), release synced to a half-beat or full beat at the session tempo, ratio between 4:1 and 10:1, and a low threshold that catches every kick hit. These are documented starting points — final settings depend on tempo and how dramatic the effect needs to be.
-
-**Best for:** Producers who want visual feedback, precise timing control, and a compressor that functions as a long-term investment across all mix compression tasks — not just sidechain.
-
-[→ Get FabFilter Pro-C 3](https://www.fabfilter.com/products/pro-c-3-compressor-plug-in)
+FabFilter Pro-C 3 is a third-party compressor suited to sidechain work for one primary reason: the real-time gain reduction display shows you exactly when the compressor fires and by how much, making sidechain setup visual and repeatable rather than purely by ear. The plugin includes a dedicated external sidechain input that activates with a single button, and a Range parameter that limits maximum gain reduction depth — useful for subtle glue applications where you want ducking without obvious pumping. Pro-C 3 also supports host tempo sync triggering, which is one path to tempo-matched sidechain behavior. For the classic hard pump, a common starting point is fast attack (1–5ms), release synced to a half-beat or full beat at the session tempo, ratio between 4:1 and 10:1, and a low threshold that catches every kick hit. These are documented starting points — final settings depend on tempo and how dramatic the effect needs to be. **Best for:** Producers who want visual feedback, precise timing control, and a compressor that functions as a long-term investment across all mix compression tasks — not just sidechain. [→ Get FabFilter Pro-C 3](https://www.fabfilter.com/products/pro-c-3-compressor-plug-in)
 
 ---
 
@@ -86,22 +73,12 @@ For the classic hard pump, a common starting point is fast attack (1–5ms), rel
 
 ### Cableguys VolumeShaper — Pump Without a Compressor
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/dxuHTLJHdsw" title="Cableguys VolumeShaper — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Cableguys
 - **Price:** Free (core version) / Paid (full version)
 - **Platforms:** Windows, macOS
 - **Formats:** VST, VST3, AU, AAX
 
-VolumeShaper takes a fundamentally different approach. Instead of using a compressor triggered by an external sidechain signal, it applies a drawn volume curve that repeats in sync with your session tempo. There is no compressor involved — the plugin functions as a tempo-locked volume automation tool with a visual curve editor.
-
-The practical distinction matters: VolumeShaper produces an identical pump on every beat because the curve is fixed, not reactive to your kick's dynamics. This is both an advantage and a constraint. The advantage is total consistency and predictability — the effect sounds identical regardless of how the kick is mixed. The constraint is that it doesn't respond to actual kick-level variation, which means it lacks the organic feel of a compressor responding to a real signal.
-
-VolumeShaper's free tier provides the core functionality. Its curve editor is the defining feature: you draw the exact shape of the volume reduction, sync it to a beat subdivision, and apply it to any track. This makes it useful well beyond sidechain — the same tool handles tremolo effects, rhythmic gating, and custom LFO-style volume modulation on any element in the mix.
-
-**Best for:** EDM and electronic producers who want a metronomic, consistent pump tied to the session grid, without needing to route a kick signal through a compressor.
-
-*(No purchase link available for VolumeShaper — search for Cableguys VolumeShaper directly on the Cableguys website.)*
+VolumeShaper takes a fundamentally different approach. Instead of using a compressor triggered by an external sidechain signal, it applies a drawn volume curve that repeats in sync with your session tempo. There is no compressor involved — the plugin functions as a tempo-locked volume automation tool with a visual curve editor. The practical distinction matters: VolumeShaper produces an identical pump on every beat because the curve is fixed, not reactive to your kick's dynamics. This is both an advantage and a constraint. The advantage is total consistency and predictability — the effect sounds identical regardless of how the kick is mixed. The constraint is that it doesn't respond to actual kick-level variation, which means it lacks the organic feel of a compressor responding to a real signal. VolumeShaper's free tier provides the core functionality. Its curve editor is the defining feature: you draw the exact shape of the volume reduction, sync it to a beat subdivision, and apply it to any track. This makes it useful well beyond sidechain — the same tool handles tremolo effects, rhythmic gating, and custom LFO-style volume modulation on any element in the mix. **Best for:** EDM and electronic producers who want a metronomic, consistent pump tied to the session grid, without needing to route a kick signal through a compressor. *(No purchase link available for VolumeShaper — search for Cableguys VolumeShaper directly on the Cableguys website.)*
 
 ---
 
@@ -109,37 +86,21 @@ VolumeShaper's free tier provides the core functionality. Its curve editor is th
 
 Regardless of which plugin you use, these parameters determine the final character of the sidechain effect:
 
-- **Attack:** Controls how quickly the compressor responds after the trigger signal fires. Too fast removes the kick's initial transient impact; too slow means the compression arrives late. For the classic pump, 1–10ms is where most producers land.
-- **Release:** This is where the pumping character lives. A release set to tempo — a half-beat or full beat — makes the mix breathe in rhythm with the track. Mismatched release is the most common reason sidechain sounds wrong.
-- **Ratio:** 4:1 to 8:1 covers most sidechain use cases. Higher ratios (10:1 and above) push toward the extreme French house pump. Lower ratios (2:1–3:1) work for transparent mix glue.
-- **Range (where available):** Limits the maximum depth of gain reduction. FabFilter Pro-C 3 includes a Range setting.
-- **Threshold:** Set low enough to catch every kick hit, but above any ambient noise or room bleed that might false-trigger the compressor.
-
----
+- **Attack:** Controls how quickly the compressor responds after the trigger signal fires. Too fast removes the kick's initial transient impact; too slow means the compression arrives late. For the classic pump, 1–10ms is where most producers land. - **Release:** This is where the pumping character lives. A release set to tempo — a half-beat or full beat — makes the mix breathe in rhythm with the track. Mismatched release is the most common reason sidechain sounds wrong. - **Ratio:** 4:1 to 8:1 covers most sidechain use cases. Higher ratios (10:1 and above) push toward the extreme French house pump. Lower ratios (2:1–3:1) work for transparent mix glue. - **Range (where available):** Limits the maximum depth of gain reduction. FabFilter Pro-C 3 includes a Range setting. - **Threshold:** Set low enough to catch every kick hit, but above any ambient noise or room bleed that might false-trigger the compressor. ---
 
 ## Worth Upgrading To (Paid Options)
 
-If you're currently working with a DAW-native compressor for sidechain, these are two plugins to consider as a step up.
-
-### FabFilter Pro-C 3 — Upgrade When Visual Feedback and Precision Matter
-
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/2zjQNeM2RxU" title="FabFilter Pro-C 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+If you're currently working with a DAW-native compressor for sidechain, these are two plugins to consider as a step up. ### FabFilter Pro-C 3 — Upgrade When Visual Feedback and Precision Matter
 
 - **Developer:** FabFilter
 - **Price:** ~€179
-- **Why upgrade:** Native DAW compressors provide minimal feedback on when gain reduction is occurring and by how much. FabFilter Pro-C 3's real-time display, range parameter, and host tempo sync triggering make it substantially easier to dial in consistent, repeatable sidechain behavior — particularly valuable when working across multiple sessions or building reusable templates.
-
-[→ Get FabFilter Pro-C 3](https://www.fabfilter.com/products/pro-c-3-compressor-plug-in)
+- **Why upgrade:** Native DAW compressors provide minimal feedback on when gain reduction is occurring and by how much. FabFilter Pro-C 3's real-time display, range parameter, and host tempo sync triggering make it substantially easier to dial in consistent, repeatable sidechain behavior — particularly valuable when working across multiple sessions or building reusable templates. [→ Get FabFilter Pro-C 3](https://www.fabfilter.com/products/pro-c-3-compressor-plug-in)
 
 ### Cableguys VolumeShaper — Upgrade for Extended Curve Flexibility
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/OjGs-l_-LWI" title="Cableguys VolumeShaper — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** Cableguys
 - **Price:** Free (core) / Paid (full version)
-- **Why upgrade:** The paid version unlocks additional LFO shapes, deeper curve customization, and more flexibility in the types of rhythmic volume shapes you can create beyond what the free tier provides. For producers building complex templates around specific volume patterns, the extended feature set is the documented functional difference.
-
-*(No purchase link available — search for Cableguys VolumeShaper directly.)*
+- **Why upgrade:** The paid version unlocks additional LFO shapes, deeper curve customization, and more flexibility in the types of rhythmic volume shapes you can create beyond what the free tier provides. For producers building complex templates around specific volume patterns, the extended feature set is the documented functional difference. *(No purchase link available — search for Cableguys VolumeShaper directly.)*
 
 ---
 
@@ -157,38 +118,20 @@ If you're currently working with a DAW-native compressor for sidechain, these ar
 
 ## How to Choose
 
-- **If you want the metronomic EDM pump on every beat:** Cableguys VolumeShaper's fixed-curve approach suits this specific result, since the effect doesn't vary with kick dynamics.
-- **If you want compression that reacts to the actual kick and works across genres:** FabFilter Pro-C 3 is an option. Its visual display is the fastest path to understanding what sidechain compression is actually doing in real time.
-- **If you're just starting out or learning the concept:** Your DAW's native compressor is fully functional for learning signal flow. Master the routing there before adding a third-party plugin.
-- **If you want subtle sidechain glue rather than obvious pump:** Low ratio settings with FabFilter Pro-C 3's range parameter limiting maximum depth will deliver more precision and control than most native options.
-- **If you're building templates for live performance:** VolumeShaper's tempo-locked curve is more predictable in a live context than a dynamic compressor reacting to the actual kick's level in real time.
-
----
+- **If you want the metronomic EDM pump on every beat:** Cableguys VolumeShaper's fixed-curve approach suits this specific result, since the effect doesn't vary with kick dynamics. - **If you want compression that reacts to the actual kick and works across genres:** FabFilter Pro-C 3 is an option. Its visual display is the fastest path to understanding what sidechain compression is actually doing in real time. - **If you're just starting out or learning the concept:** Your DAW's native compressor is fully functional for learning signal flow. Master the routing there before adding a third-party plugin. - **If you want subtle sidechain glue rather than obvious pump:** Low ratio settings with FabFilter Pro-C 3's range parameter limiting maximum depth will deliver more precision and control than most native options. - **If you're building templates for live performance:** VolumeShaper's tempo-locked curve is more predictable in a live context than a dynamic compressor reacting to the actual kick's level in real time. ---
 
 ## FAQ
 
 **What is sidechain compression used for in music production?**
-Sidechain compression is most commonly used to create space between a kick drum and a bass line by making the bass duck every time the kick hits. It is also used for subtle mix glue between elements, rhythmic volume effects on pads and synths, and ducking reverb returns to keep transients clear in a busy mix.
-
-**Do I need a third-party plugin to sidechain in my DAW?**
-No. Ableton Live, Logic Pro, FL Studio, and most major DAWs include native compressors with functional sidechain inputs. Third-party plugins like FabFilter Pro-C 3 add precision and visual feedback, but the routing concept works with built-in tools. Learning with a native compressor first is a reasonable approach.
-
-**What is the difference between sidechain compression and a volume shaper?**
-A sidechain compressor responds dynamically to the level of the trigger signal (typically your kick) and applies gain reduction accordingly — the effect varies with how loud each kick hit is. A volume shaper like VolumeShaper applies a fixed, drawn volume curve that repeats in time with the grid regardless of the kick's actual level. The pump effect can sound similar, but the mechanism and responsiveness are fundamentally different.
-
-**What attack and release settings produce the classic pump sound?**
-A common starting point is fast attack (1–5ms), release set to a half-beat or full beat at the track's tempo, ratio between 4:1 and 8:1, and a low enough threshold to catch every kick hit cleanly. These are starting points — the correct settings shift with tempo and how deep the effect needs to be.
-
-**Why does my sidechain compression pump at the wrong time?**
-The most common cause is release time that doesn't match the session tempo. If the compressor releases too quickly, the bass recovers too early and the effect sounds rushed. If it releases too slowly, the bass stays ducked across beat boundaries and the mix loses energy. Host tempo sync triggering in FabFilter Pro-C 3 is one way to keep the ducking locked to the session tempo.
-
----
+Sidechain compression is most commonly used to create space between a kick drum and a bass line by making the bass duck every time the kick hits. It is also used for subtle mix glue between elements, rhythmic volume effects on pads and synths, and ducking reverb returns to keep transients clear in a busy mix. **Do I need a third-party plugin to sidechain in my DAW?**
+No. Ableton Live, Logic Pro, FL Studio, and most major DAWs include native compressors with functional sidechain inputs. Third-party plugins like FabFilter Pro-C 3 add precision and visual feedback, but the routing concept works with built-in tools. Learning with a native compressor first is a reasonable approach. **What is the difference between sidechain compression and a volume shaper?**
+A sidechain compressor responds dynamically to the level of the trigger signal (typically your kick) and applies gain reduction accordingly — the effect varies with how loud each kick hit is. A volume shaper like VolumeShaper applies a fixed, drawn volume curve that repeats in time with the grid regardless of the kick's actual level. The pump effect can sound similar, but the mechanism and responsiveness are fundamentally different. **What attack and release settings produce the classic pump sound?**
+A common starting point is fast attack (1–5ms), release set to a half-beat or full beat at the track's tempo, ratio between 4:1 and 8:1, and a low enough threshold to catch every kick hit cleanly. These are starting points — the correct settings shift with tempo and how deep the effect needs to be. **Why does my sidechain compression pump at the wrong time?**
+The most common cause is release time that doesn't match the session tempo. If the compressor releases too quickly, the bass recovers too early and the effect sounds rushed. If it releases too slowly, the bass stays ducked across beat boundaries and the mix loses energy. Host tempo sync triggering in FabFilter Pro-C 3 is one way to keep the ducking locked to the session tempo. ---
 
 ## Final Thoughts
 
-For most producers working through how to sidechain compress in a DAW in 2026, the practical path is this: start with your DAW's native compressor to learn the routing, then move to FabFilter Pro-C 3 when you want visual control, host tempo triggering, and a plugin that grows with your skill level. If your target is the metronomic EDM pump, Cableguys VolumeShaper's curve-based approach solves a slightly different problem than traditional compression — both tools belong in the same workflow.
-
-[→ Get FabFilter Pro-C 3](https://www.fabfilter.com/products/pro-c-3-compressor-plug-in)
+For most producers working through how to sidechain compress in a DAW in 2026, the practical path is this: start with your DAW's native compressor to learn the routing, then move to FabFilter Pro-C 3 when you want visual control, host tempo triggering, and a plugin that grows with your skill level. If your target is the metronomic EDM pump, Cableguys VolumeShaper's curve-based approach solves a slightly different problem than traditional compression — both tools belong in the same workflow. [→ Get FabFilter Pro-C 3](https://www.fabfilter.com/products/pro-c-3-compressor-plug-in)
 
 ---
 
@@ -207,5 +150,89 @@ For most producers working through how to sidechain compress in a DAW in 2026, t
 <!-- pd:method:start -->
 ## Sources for this guide
 
-This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
-<!-- pd:method:end -->
+This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources. <!-- pd:method:end -->
+
+
+## FabFilter Pro-C 3
+
+<!-- role:pick -->
+
+<!-- pick:FabFilter Pro-C 3 -->
+
+FabFilter Pro-C 3 is built around flexibility of sound rather than one fixed character. The plug-in can deliver transparent control suited to mastering work, where the compression stays clean and barely noticeable. On a mixbus, it can act as glue, adding a punchy cohesion that ties elements together without drawing attention to itself. For a vintage feel, it can recreate the warmth associated with classic opto-style compressors. It's also capable of modern upward dynamics processing, and on the more extreme end, it can produce an aggressive pumping effect when pushed. Whatever style is chosen, the plugin is designed to deliver results with a distinct, unmistakable character suited to that particular application.
+
+| Tracked price | $199.00 |
+|---|---|
+
+Last recorded sale: $149.00 on 2026-10-17.
+
+[View FabFilter Pro-C 3 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3)
+
+[Watch FabFilter Pro-C 3 demo](https://www.youtube.com/watch?v=mSzvpCz-M2k)
+
+## Cableguys VolumeShaper
+
+<!-- role:pick -->
+
+<!-- pick:Cableguys VolumeShaper -->
+
+Cableguys VolumeShaper — Pump Without a Compressor
+
+- **Developer:** Cableguys
+
+- **Platforms:** Windows, macOS
+
+- **Formats:** VST, VST3, AU, AAX
+
+VolumeShaper takes a fundamentally different approach. Instead of using a compressor triggered by an external sidechain signal, it applies a drawn volume curve that repeats in sync with your session tempo. There is no compressor involved — the plugin functions as a tempo-locked volume automation tool with a visual curve editor.
+
+The practical distinction matters: VolumeShaper produces an identical pump on every beat because the curve is fixed, not reactive to your kick's dynamics. This is both an advantage and a constraint. The advantage is total consistency and predictability — the effect sounds identical regardless of how the kick is mixed. The constraint is that it doesn't respond to actual kick-level variation, which means it lacks the organic feel of a compressor responding to a real signal.
+
+VolumeShaper's free tier provides the core functionality. Its curve editor is the defining feature: you draw the exact shape of the volume reduction, sync it to a beat subdivision, and apply it to any track. This makes it useful well beyond sidechain — the same tool handles tremolo effects, rhythmic gating, and custom LFO-style volume modulation on any element in the mix.
+
+**Best for:** EDM and electronic producers who want a metronomic, consistent pump tied to the session grid, without needing to route a kick signal through a compressor.
+
+*(No purchase link available for VolumeShaper — search for Cableguys VolumeShaper directly on the Cableguys website.)*
+
+---
+
+Regardless of which plugin you use, these parameters determine the final character of the sidechain effect:
+
+- **Attack:** Controls how quickly the compressor responds after the trigger signal fires. Too fast removes the kick's initial transient impact; too slow means the compression arrives late. For the classic pump, 1–10ms is where most producers land.
+
+- **Release:** This is where the pumping character lives. A release set to tempo — a half-beat or full beat — makes the mix breathe in rhythm with the track. Mismatched release is the most common reason sidechain sounds wrong.
+
+- **Ratio:** 4:1 to 8:1 covers most sidechain use cases. Higher ratios (10:1 and above) push toward the extreme French house pump. Lower ratios (2:1–3:1) work for transparent mix glue.
+
+- **Range (where available):** Limits the maximum depth of gain reduction. FabFilter Pro-C 3 includes a Range setting.
+
+- **Threshold:** Set low enough to catch every kick hit, but above any ambient noise or room bleed that might false-trigger the compressor.
+
+---
+
+If you're currently working with a DAW-native compressor for sidechain, these are two plugins to consider as a step up.
+
+
+
+## FAQ
+
+<!-- role:faq -->
+
+Q: What is sidechain compression used for in music production?
+A: Sidechain compression is commonly used to create space between a kick drum and a bass line by making the bass line quieter every time the kick hits. It is also used for subtle glue between mix elements, for rhythmic volume effects on pads and synths, and for ducking reverb returns so that transients stay clear in a busy mix.
+
+Q: Do I need a third-party plugin to sidechain in my DAW?
+A: No. Most major digital audio workstations, including Ableton Live, Logic Pro, and FL Studio, include native compressors with working sidechain inputs. A third-party compressor such as FabFilter Pro-C 3 adds extra precision and visual feedback, but the basic routing concept works the same way with built-in tools. Learning the technique with a native compressor first is a reasonable approach.
+
+Q: What is the difference between sidechain compression and a volume shaper?
+A: A sidechain compressor reacts dynamically to the level of a trigger signal, usually a kick drum, and reduces the gain of another track based on how loud each hit is. A volume shaper, such as Cableguys VolumeShaper, instead applies a fixed, hand-drawn volume curve that repeats in time with the song's tempo, no matter how loud the kick actually plays. The resulting pumping effect can sound similar in both cases, but the underlying mechanism and how responsive it is to the real performance are different.
+
+Q: What attack and release settings produce the classic pump sound?
+A: A common starting point is a fast attack of around one to five milliseconds, a release time set to a half beat or full beat of the track's tempo, a ratio somewhere between four-to-one and eight-to-one, and a threshold set low enough to catch every kick hit cleanly. These figures are only starting points; the right settings shift depending on the tempo of the track and how strong the effect needs to be.
+
+Q: Why does my sidechain compression pump at the wrong time?
+A: The most common cause is a release time that does not match the tempo of the song. If the release is too fast, the ducked element recovers too early and the effect feels rushed. If the release is too slow, the ducked element stays quiet across beat boundaries and the mix loses energy. Compressors that can sync their timing to the host tempo, such as FabFilter Pro-C 3, offer one way to keep the ducking effect locked to the track.
+
+## Sources
+
+<!-- role:method -->

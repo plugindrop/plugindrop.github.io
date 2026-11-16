@@ -9,7 +9,7 @@ evergreen: true
 score: 8.00
 xText: "New guide: Best Reverb Plugins 2026: Free & Paid Options Compared"
 saleExpiry: '2026-08-28'
-draft: false
+draft: true
 priceTrack:
   - "FabFilter Pro-R 2"
   - "Eventide Blackhole"

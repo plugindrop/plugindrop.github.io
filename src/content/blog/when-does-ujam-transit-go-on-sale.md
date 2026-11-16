@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "When Does Baby Audio Transit 2 Go On Sale? (Updated 2026)"
 description: "Our Plugin Boutique checks recorded 2 sale periods for Baby Audio Transit 2 between 2026-07-12 and 2026-08-29; the lowest observed sale price was $79."
 pubDate: "2026-06-29"

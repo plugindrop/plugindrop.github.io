@@ -6,7 +6,7 @@ updatedDate: "2026-10-04T12:21:20Z"
 tags: ["guide", "price", "vst-plugin", "music-production"]
 evergreen: true
 score: 8.00
-draft: false
+draft: true
 priceTrack:
   - "FabFilter Pro-Q 4"
   - "Valhalla Room"

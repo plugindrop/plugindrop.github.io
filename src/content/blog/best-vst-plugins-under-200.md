@@ -9,7 +9,7 @@ evergreen: true
 score: 8.00
 xText: "New guide: 14 Best VST Plugins Under $200 in 2026"
 heroImage: "/images/best-vst-plugins-under-200.jpg"
-draft: false
+draft: true
 priceTrack:
   - "FabFilter Pro-Q 4"
   - "FabFilter Pro-C 3"

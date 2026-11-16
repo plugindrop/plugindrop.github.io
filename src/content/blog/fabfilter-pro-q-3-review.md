@@ -8,7 +8,7 @@ evergreen: true
 heroImage: "/images/fabfilter-pro-q-3-review.jpg"
 score: 8.00
 xText: "New guide: FabFilter Pro-Q 3 Review: Is It Still the Best EQ Plugin in ..."
-draft: false
+draft: true
 noindex: true
 ---
 

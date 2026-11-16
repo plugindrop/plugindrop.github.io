@@ -7,7 +7,7 @@ affiliate: "https://www.thomann.de/intl/prod_AR_642182.html?offid=1&affid=5792&u
 heroImage: "/images/arturia-augmented-persia-the-sound-of-the-middle-east-reimag.jpg"
 score: 4.07
 xText: "caught the new arturia augmented persia and honestly the middle eastern sound design is unlike anything else out there rn. this is the move"
-draft: false
+draft: true
 ---
 
 ## TL;DR

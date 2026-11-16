@@ -7,7 +7,7 @@ affiliate: "https://www.native-instruments.com/en/products/komplete/bundles/komp
 heroImage: "/images/poplab-sounds-modern-live-drums-drum-sounds-from-current-pop.jpg"
 score: 5.18
 xText: "forget hunting sample packs for months. POPlab Sounds Modern Live-Drums literally sources from current chart hits. so they just... work. grab it."
-draft: false
+draft: true
 ---
 
 ## What Is POPlab Sounds Modern Live-Drums?

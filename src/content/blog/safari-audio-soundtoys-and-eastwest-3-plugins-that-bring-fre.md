@@ -6,7 +6,7 @@ tags: ["deals", "audio plugin sale", "cinematic sounds", "creative audio plugins
 affiliate: "https://www.thomann.de/intl/special_downloaddeals.html?offid=1&affid=5792&utm_source=plugindrop&utm_medium=article&utm_campaign=safari-audio-soundtoys-and-eastwest-3-plugins-that-bring-fre"
 heroImage: "/images/safari-audio-soundtoys-and-eastwest-3-plugins-that-bring-fre.jpg"
 score: 5.94
-draft: false
+draft: true
 ---
 
 ## What Are Safari Audio, Soundtoys, and EastWest?

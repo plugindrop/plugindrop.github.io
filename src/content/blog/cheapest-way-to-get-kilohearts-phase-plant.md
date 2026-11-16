@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Cheapest Way to Get Kilohearts Phase Plant in 2026"
 description: "How to get Kilohearts Phase Plant at the lowest verified price — standalone typical sale, all-time low, and bundle routes, based on our own price-tracker..."
 pubDate: "2026-08-15T00:29:04Z"

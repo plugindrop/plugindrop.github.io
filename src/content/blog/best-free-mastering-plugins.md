@@ -13,41 +13,32 @@ draft: false
 priceTrack:
   - "FabFilter Pro-L 2"
 ---
-**TL;DR:** A free mastering toolkit in 2026 can start with Youlean Loudness Meter 2 for streaming-accurate LUFS analysis, TDR Nova for precise dynamic EQ, and Limiter 6 GE for a multi-stage limiting chain. All three are actively maintained, technically serious tools — not compromised freebies.
+<!-- guide:v4 kind=roundup -->
 
-## Quick Picks at a Glance
-
-> **Quick Answer:** The best free mastering plugins in 2026 are **Youlean Loudness Meter 2** (streaming-compliant LUFS and True Peak metering for Spotify, Apple Music, and YouTube targets), **TDR Nova** (dynamic parametric EQ for precise mastering corrections without paying for FabFilter), and **Limiter 6 GE** (multi-stage brickwall limiter with a True Peak stage). All are free to download with no time limits.
-
-| Plugin | Price | Best For | Get It |
-|--------|-------|----------|--------|
-| Youlean Loudness Meter 2 | Free | LUFS & True Peak metering | [Free Download](https://youlean.co/youlean-loudness-meter/) |
-| SPAN (Voxengo) | Free | Real-time spectrum analysis | [Free Download](https://www.voxengo.com/product/span/) |
-| TDR Nova | Free | Dynamic EQ for mastering | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
-| Limiter 6 GE | Free | Multi-stage brickwall limiting | [Free Download](https://www.tokyodawn.net/tdr-limiter6-ge/) |
-| TDR VOS SlickEQ | Free | Analog-voiced mastering EQ | [Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/) |
-| LoudMax | Free | Simple transparent brickwall | [Free Download](https://loudmax.blogspot.com/) |
-| TDR Kotelnikov | Free | Transparent mastering compression | [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
+Building a solid free mastering setup in 2026 doesn't require buying expensive software. A good starting lineup includes Youlean Loudness Meter 2 for checking loudness levels against streaming platform standards, TDR Nova for making precise, dynamic equalizer adjustments, and Limiter 6 GE for applying a multi-stage limiting process to finished tracks. These three tools are kept up to date and are built with real technical depth, rather than being stripped-down or limited versions of paid software.
 
 ## Introduction
 
-Here is the point worth examining before you spend anything: TBProAudio's Limiter 6 GE is free and chains RMS compression, peak clipping, brickwall limiting and a True Peak stage in a single plugin. That should reset your expectations about what the best free mastering plugins in 2026 are capable of.
+<!-- role:intro -->
 
-The free mastering plugin space in 2026 is the direct result of a decade of developer generosity from Tokyo Dawn Records, Voxengo, and TBProAudio — three developers who have built and maintained a toolkit covering every essential stage of the mastering chain at zero cost. For producers targeting Spotify, Apple Music, and YouTube, the introduction of platform loudness normalization has made LUFS metering non-negotiable, and the free tools in this category match anything sold commercially.
+The free mastering plugin landscape in 2026 has grown into genuinely capable territory, and a lot of it costs nothing at all. Three tools stand out as the core of a solid free mastering setup: a loudness meter built for streaming-platform targets, a dynamic equalizer for precise corrections, and a multi-stage limiter for the final brickwall stage.
 
-This guide covers 10 free mastering plugins across the three categories that matter most: loudness metering, EQ, and limiting. It is written for producers building a complete, deliberate mastering chain — not for those looking for a single one-click solution. Every pick here is based on developer documentation.
+The loudness meter handles LUFS and True Peak analysis so a track can be checked against the loudness targets used by services like Spotify, Apple Music, and YouTube. The dynamic EQ allows for the kind of careful, frequency-specific corrections that mastering work typically calls for, without needing to buy a premium equalizer plugin. The limiter combines several stages in one tool — RMS-style compression, peak clipping, brickwall limiting, and a dedicated True Peak stage — which is the kind of layered approach that used to be reserved for paid software.
 
-## Metering & Analysis
+None of these are stripped-down trial versions or limited demos. They are fully free, maintained with ongoing updates, and built with the same technical seriousness found in commercial alternatives. That combination — real functionality with no cost and no time restriction — is what makes the current crop of free mastering tools worth taking seriously rather than treating as a compromise until a budget opens up for paid options.
 
-Accurate metering is the prerequisite for every other mastering decision. Streaming platforms use loudness normalization at specific LUFS targets, and a master submitted outside those parameters will sound quieter or dynamically squashed relative to everything around it.
+## Youlean Loudness Meter 2
 
-### Youlean Loudness Meter 2 — Streaming-oriented loudness metering
+<!-- role:pick -->
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/XMKQeLHYutw" title="Youlean Loudness Meter 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<!-- pick:Youlean Loudness Meter 2 -->
+
+Youlean Loudness Meter 2 — Streaming-oriented loudness metering
 
 - **Developer:** Youlean
-- **Price:** Free (Pro version available)
+
 - **Platforms:** Windows, macOS
+
 - **Formats:** VST2, VST3, AU, AAX
 
 Youlean Loudness Meter 2 displays Integrated LUFS, Short-term LUFS, Momentary LUFS, True Peak, and Loudness Range — the full set of measurements required for Spotify, Apple Music, YouTube, and broadcast compliance. Its preset system lets you switch between platform-specific targets instantly, and the graphical loudness history display shows exactly where your track exceeds normalization targets over time.
@@ -58,13 +49,20 @@ Youlean Loudness Meter 2 displays Integrated LUFS, Short-term LUFS, Momentary LU
 
 ---
 
-### SPAN (Voxengo) — The always-on spectrum analyzer
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/zFkqzZxSv6A" title="SPAN — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## SPAN (Voxengo)
+
+<!-- role:pick -->
+
+<!-- pick:SPAN (Voxengo) -->
+
+SPAN (Voxengo) — The always-on spectrum analyzer
 
 - **Developer:** Voxengo
-- **Price:** Free
+
 - **Platforms:** Windows, macOS, Linux
+
 - **Formats:** VST2, VST3, AU, AAX
 
 SPAN is a real-time FFT spectrum analyzer that Voxengo has kept free across its entire development history. It supports stereo, mid/side, and individual channel analysis modes, includes a built-in correlation meter for mono compatibility checking, and displays RMS and peak levels alongside the spectrum. SPAN works well as a reference layer on the master bus regardless of what else is running.
@@ -75,13 +73,20 @@ SPAN is a real-time FFT spectrum analyzer that Voxengo has kept free across its 
 
 ---
 
-### Voxengo Correlometer — Phase correlation in a micro-plugin
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/zvk3vtlTKbk" title="Voxengo Correlometer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## Voxengo Correlometer
+
+<!-- role:pick -->
+
+<!-- pick:Voxengo Correlometer -->
+
+Voxengo Correlometer — Phase correlation in a micro-plugin
 
 - **Developer:** Voxengo
-- **Price:** Free
+
 - **Platforms:** Windows, macOS
+
 - **Formats:** VST2, VST3, AU, AAX
 
 The Correlometer is a dedicated stereo phase correlation meter: a single reading that shows whether your stereo signal leans toward mono compatibility (near +1) or toward phase cancellation issues (near -1). It is a minimal-UI utility designed to sit alongside SPAN without UI overhead. Mastering engineers use it as a fast sanity check — a reading below +0.5 signals stereo width or phase issues that need addressing before the limiting stage.
@@ -92,17 +97,22 @@ The Correlometer is a dedicated stereo phase correlation meter: a single reading
 
 ---
 
-## EQ for Mastering
-
 Mastering EQ operates at smaller scales than mixing EQ — subtle shelves, gentle cuts, and dynamic adjustments measured in single dB increments. The tools below are each suited to mastering work but differ significantly in workflow. For a full comparison of free EQ options across mixing and mastering, see our [best free EQ VST plugins guide](/posts/best-free-eq-vst-plugins/).
 
-### TDR Nova — Dynamic EQ with full surgical precision
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1CHFv4mWQYM" title="TDR Nova — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## TDR Nova
+
+<!-- role:pick -->
+
+<!-- pick:TDR Nova -->
+
+TDR Nova — Dynamic EQ with full surgical precision
 
 - **Developer:** Tokyo Dawn Records
-- **Price:** Free (GE version available)
+
 - **Platforms:** Windows, macOS, Linux
+
 - **Formats:** VST2, VST3, AU, AAX
 
 TDR Nova is a parallel dynamic equalizer that functions simultaneously as a conventional static EQ, a multi-band compressor, or a blend of both. Its band detection offers peak and broadband modes, making it useful for de-essing on the master bus, taming resonances, or gently correcting tonal balance without affecting the full frequency range. Tokyo Dawn's developer documentation confirms it processes at high internal precision.
@@ -113,13 +123,20 @@ TDR Nova is a parallel dynamic equalizer that functions simultaneously as a conv
 
 ---
 
-### TDR VOS SlickEQ — Analog-voiced mastering EQ
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/a6VVpQql0HY" title="TDR VOS SlickEQ — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## TDR VOS SlickEQ
+
+<!-- role:pick -->
+
+<!-- pick:TDR VOS SlickEQ -->
+
+TDR VOS SlickEQ — Analog-voiced mastering EQ
 
 - **Developer:** Tokyo Dawn Records
-- **Price:** Free (M version available)
+
 - **Platforms:** Windows, macOS, Linux
+
 - **Formats:** VST2, VST3, AU, AAX
 
 TDR VOS SlickEQ is a program-oriented mastering EQ with musically selected frequency centers designed to complement rather than cut across harmonic relationships in a full mix. It includes a selectable output saturation stage, which adds a subtle analog texture on the master bus. The free version covers the core EQ and saturation workflow; the paid M version adds mid/side operation. Tokyo Dawn's documentation positions it explicitly as a mastering tool.
@@ -130,13 +147,20 @@ TDR VOS SlickEQ is a program-oriented mastering EQ with musically selected frequ
 
 ---
 
-### Voxengo Marvel GEQ — Linear-phase graphic EQ for spectral correction
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gZf46Iz8RMA" title="Voxengo Marvel GEQ — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## Voxengo Marvel GEQ
+
+<!-- role:pick -->
+
+<!-- pick:Voxengo Marvel GEQ -->
+
+Voxengo Marvel GEQ — Linear-phase graphic EQ for spectral correction
 
 - **Developer:** Voxengo
-- **Price:** Free
+
 - **Platforms:** Windows, macOS
+
 - **Formats:** VST2, VST3, AU
 
 Marvel GEQ is a 16-band graphic equalizer implementing linear-phase processing — meaning EQ operations do not introduce phase distortion between frequency bands. This makes it more appropriate for mastering than for mixing, where linear-phase latency would cause problems. It also supports mid/side processing, enabling differential EQ adjustments that affect stereo width directly. Voxengo's developer documentation confirms the linear-phase algorithm, and it is a practical option for spectral correction tasks that require precise, artifact-free results.
@@ -147,17 +171,22 @@ Marvel GEQ is a 16-band graphic equalizer implementing linear-phase processing �
 
 ---
 
-## Limiters & Dynamics
-
 The limiter is the final gate before delivery, and it is the stage where the difference between a professional-sounding master and a clipped or dynamically crushed one is determined. The tools below span from a two-control brickwall to a multi-stage professional chain.
 
-### Limiter 6 GE — The free limiter that changed the conversation
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/I4DPPsQAU2A" title="Limiter 6 GE — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## Limiter 6 GE
+
+<!-- role:pick -->
+
+<!-- pick:Limiter 6 GE -->
+
+Limiter 6 GE — The free limiter that changed the conversation
 
 - **Developer:** TBProAudio
-- **Price:** Free
+
 - **Platforms:** Windows, macOS
+
 - **Formats:** VST2, VST3, AU
 
 Limiter 6 GE chains high-frequency limiting, RMS compression, peak clipping, a brickwall limiter, and a True Peak limiter into a single plugin — the same architectural approach used by high-end commercial limiters. The True Peak stage is critical for preventing inter-sample clipping that streaming encoders can introduce during format conversion. It is a strong example of a free plugin covering the full mastering limiting chain.
@@ -168,13 +197,20 @@ Limiter 6 GE chains high-frequency limiting, RMS compression, peak clipping, a b
 
 ---
 
-### LoudMax — Set it, forget it
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/kbLBePZFHr8" title="LoudMax — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## LoudMax
+
+<!-- role:pick -->
+
+<!-- pick:LoudMax -->
+
+LoudMax — Set it, forget it
 
 - **Developer:** Thomas Mundt
-- **Price:** Free
+
 - **Platforms:** Windows, macOS
+
 - **Formats:** VST2, AU
 
 LoudMax is a look-ahead brickwall limiter with exactly two controls: Threshold and Output. Developer Thomas Mundt designed it specifically for transparent results with minimal coloration, for producers who want a fast, uncolored result without navigating complex interfaces. It does not implement True Peak limiting, which makes Limiter 6 GE the stronger choice for streaming delivery — but for producers who want frictionless rendering and understand the trade-off, LoudMax is the fastest path to a ceiling.
@@ -185,13 +221,20 @@ LoudMax is a look-ahead brickwall limiter with exactly two controls: Threshold a
 
 ---
 
-### TDR Kotelnikov — Transparent compression before the limiter
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Cpokm0j1DXQ" title="TDR Kotelnikov — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## TDR Kotelnikov
+
+<!-- role:pick -->
+
+<!-- pick:TDR Kotelnikov -->
+
+TDR Kotelnikov — Transparent compression before the limiter
 
 - **Developer:** Tokyo Dawn Records
-- **Price:** Free (GE version available)
+
 - **Platforms:** Windows, macOS, Linux
+
 - **Formats:** VST2, VST3, AU, AAX
 
 TDR Kotelnikov is a program-dependent mastering compressor with a deliberately restrained control set. Tokyo Dawn Records' developer documentation describes its detection as a modern implementation of program-dependent gain control — the approach used in vintage mastering hardware where the compressor reacts differently to transient-heavy passages than to sustained material. It is suited to 1–3 dB of gain reduction before the limiting stage.
@@ -202,13 +245,20 @@ TDR Kotelnikov is a program-dependent mastering compressor with a deliberately r
 
 ---
 
-### Klanghelm IVGI — Harmonic saturation for analog warmth
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/8cpkf88v95A" title="Klanghelm IVGI — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## Klanghelm IVGI
+
+<!-- role:pick -->
+
+<!-- pick:Klanghelm IVGI -->
+
+Klanghelm IVGI — Harmonic saturation for analog warmth
 
 - **Developer:** Klanghelm
-- **Price:** Free
+
 - **Platforms:** Windows, macOS
+
 - **Formats:** VST2, VST3, AU
 
 IVGI is a harmonic saturation plugin modeled on the soft-knee saturation behavior of analog input stages — the subtle warmth that occurs when audio passes through a well-designed analog circuit near its headroom ceiling. On the master bus at very low drive settings, producers use it to add a sense of analog density without audible distortion. It works as a micro-coloration tool: not a corrective processor, but a finishing layer that takes some of the edge off a purely digital signal path.
@@ -219,91 +269,76 @@ IVGI is a harmonic saturation plugin modeled on the soft-knee saturation behavio
 
 ---
 
-## Worth Upgrading To (Paid Options)
-
 The free toolkit above covers a complete mastering chain. These two paid tools become relevant once you've exhausted what free plugins offer — or once the scale and budget of your work justifies the investment.
 
-### iZotope Ozone 12 — AI-assisted mastering for producers who want guided workflows
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/lwIuaD8O61M" title="iZotope Ozone 12 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## iZotope Ozone 12
+
+<!-- role:pick -->
+
+<!-- pick:iZotope Ozone 12 -->
+
+iZotope Ozone 12 — AI-assisted mastering for producers who want guided workflows
 
 - **Developer:** iZotope
-- **Price:** From $49 (Elements) / $249 (Standard)
+
 - **Why upgrade:** The free toolkit requires you to calibrate every stage manually — there is no reference point, no automatic loudness targeting, and no integrated workflow. Ozone 12's Master Assistant analyzes your track and proposes initial settings for EQ, dynamics, and loudness targeting, which accelerates the starting point considerably. It also adds a dedicated Imager module for mid/side stereo control and a Tonal Balance reference system not available in any free tool.
 
 [→ Get iZotope Ozone 12 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-free-mastering-plugins)
 
 ---
 
-### FabFilter Pro-L 2 — Professional True Peak limiting for critical delivery
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/oMJeWXtJODc" title="FabFilter Pro-L 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-- **Developer:** FabFilter
-- **Price:** $199
-- **Why upgrade:** Limiter 6 GE performs comparably to Pro-L 2 at moderate gain reduction, but FabFilter's tool provides eight distinct limiting algorithms (Transparent, Dynamic, Aggressive, Bus, and others), a Unity Gain monitoring mode for accurate A/B comparison, and a precision True Peak implementation that professional mastering engineers cite as their preferred option for final delivery sign-off. The real-time statistics display is also more detailed than anything available free.
+## FabFilter Pro-L 2
 
-[→ Get FabFilter Pro-L 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-free-mastering-plugins)
+<!-- role:pick -->
 
----
+<!-- pick:FabFilter Pro-L 2 -->
 
-## Full Comparison Table
+FabFilter Pro-L 2 is a professional-grade true peak limiter built for mastering and mixing engineers who need maximum control over final loudness and transparency. It combines a genuinely transparent sound with the ability to push a track to maximum loudness without introducing obvious artifacts, making it a go-to tool when the goal is a clean, polished master rather than an obviously squashed one.
 
-| Plugin | Price | Type | Highlights | CTA |
-|--------|-------|------|------------|-----|
-| Youlean Loudness Meter 2 | Free | Metering | LUFS, True Peak, streaming presets | [Download](https://youlean.co/youlean-loudness-meter/) |
-| SPAN (Voxengo) | Free | Spectrum Analyzer | M/S mode, correlation meter | [Download](https://www.voxengo.com/product/span/) |
-| Voxengo Correlometer | Free | Metering | Phase correlation display | [Download](https://www.voxengo.com/product/correlometer/) |
-| TDR Nova | Free | Dynamic EQ | Parallel dynamic bands, de-essing | [Free Download](https://www.tokyodawn.net/tdr-nova/) |
-| TDR VOS SlickEQ | Free | Mastering EQ | Analog-voiced, saturation stage | [Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/) |
-| Voxengo Marvel GEQ | Free | Graphic EQ | 16-band linear phase, M/S | [Download](https://www.voxengo.com/product/marvelgeq/) |
-| Limiter 6 GE | Free | Limiter | Multi-stage chain, True Peak | [Download](https://www.tokyodawn.net/tdr-limiter6-ge/) |
-| LoudMax | Free | Limiter | 2-control transparent brickwall | [Download](https://loudmax.blogspot.com/) |
-| TDR Kotelnikov | Free | Compressor | Program-dependent, mastering-tuned | [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
-| Klanghelm IVGI | Free | Saturation | Harmonic warmth, soft-knee | [Download](https://klanghelm.com/contents/products/IVGI) |
-| iZotope Ozone 12 | From $55 (as of 2026-10-01) | Suite | AI mastering, integrated workflow | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-free-mastering-plugins) |
-| FabFilter Pro-L 2 | $199 | Limiter | 8 algorithms, True Peak, pro delivery | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-free-mastering-plugins) |
+What sets it apart is its selection of eight distinct limiting algorithms, each with its own character and intended purpose. Rather than offering a single one-size-fits-all limiting curve, the plugin lets engineers choose an algorithm suited to the material at hand, whether that calls for a more transparent touch or a more aggressive, colored result. This flexibility is paired with true peak limiting, which catches inter-sample peaks that a standard sample-peak limiter would miss, helping ensure a mix stays compliant after it's encoded for streaming or broadcast.
 
----
+To support that precision, the plugin offers up to 32x linear-phase oversampling, giving it very fine resolution when detecting and controlling peaks. Metering is similarly thorough: output and gain reduction are tracked with high accuracy, including dedicated true peak metering, so engineers can monitor exactly how hard the limiter is working and how the signal behaves at the sample level. An optional DC offset filter rounds out the processing tools, letting unwanted low-frequency offset be removed from the signal path when needed.
 
-## How to Choose
+Taken together, these features make the plugin well suited to professional delivery work across mono, stereo, or surround material, and its support for external side-chain triggering also makes it workable in stem mastering contexts where multiple related stems need to be controlled together.
 
-- **If you're releasing to streaming platforms,** start with Youlean Loudness Meter 2 — it has platform-specific LUFS presets built in, including for Spotify and Apple Music.
-- **If you want a complete limiter chain in a single plugin,** Limiter 6 GE is the answer — it handles HF limiting, compression, clipping, brickwall, and True Peak in one interface and competes with tools costing $200.
-- **If you want a no-setup brickwall limiter,** LoudMax has two controls and works — just understand it does not implement True Peak limiting.
-- **If your master needs tonal correction,** use TDR Nova for dynamic, content-aware adjustments (like taming a resonant low-mid buildup), and TDR VOS SlickEQ for broad shelf corrections with a touch of analog character.
-- **If you're ready for a paid upgrade,** FabFilter Pro-L 2 is the tool most cited by professional mastering engineers — but only invest in it after you have maximized what Limiter 6 GE can do for your specific workflow.
+| Tracked price | $199.00 |
+|---|---|
 
----
+Last recorded sale: $149.00 on 2026-10-16.
+
+[View FabFilter Pro-L 2 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2)
+
+[Watch FabFilter Pro-L 2 demo](https://www.youtube.com/watch?v=RSQoMiZkuGI)
+
+## How to choose
+
+<!-- role:choose -->
+
+FabFilter Pro-L 2 is a true peak limiter built for mastering and mixing engineers working across mono, stereo, or surround material, and it also supports external side-chain triggering for stem mastering work. It pairs transparent sound with the ability to push loudness to its maximum, and it offers eight distinct limiting algorithms, each with its own character and intended use. True peak limiting is built in, backed by up to 32x linear-phase oversampling for accurate results. Look-ahead, attack, and release settings can all be adjusted to shape how the limiting behaves. Metering is highly accurate, covering both output level and gain reduction, including dedicated true peak metering. An optional DC offset filter is also included.
 
 ## FAQ
-**Q: What LUFS target should I aim for in 2026?**
-A: Spotify and YouTube both normalize to -14 LUFS Integrated; Apple Music normalizes to -16 LUFS; Tidal targets -14 LUFS. The practical standard is to master to -14 LUFS Integrated with a True Peak ceiling of -1 dBTP — this covers the widest range of platforms without requiring separate masters for each service. Youlean Loudness Meter 2 includes presets for each major platform.
 
-**Q: Can free mastering plugins produce commercially competitive results?**
-A: For most genres and delivery destinations, a free chain of Youlean Loudness Meter 2, TDR Nova and Limiter 6 GE covers metering, EQ and limiting, including True Peak control. Check the result against your own reference tracks; the paid tools mainly add workflow speed and extra features.
+<!-- role:faq -->
 
-**Q: What is the correct plugin order for a free mastering chain?**
-A: A standard signal path using these tools: SPAN (reference, always on) → TDR Nova (corrective EQ) → TDR Kotelnikov (gentle compression) → TDR VOS SlickEQ (tonal shaping) → Limiter 6 GE (brickwall and True Peak) → Youlean Loudness Meter 2 (final LUFS check). This order is not a rigid rule, but it reflects the processing hierarchy most mastering engineers follow.
+Q: What LUFS target should be used in 2026?
+A: Spotify and YouTube both normalize to -14 LUFS Integrated, Apple Music normalizes to -16 LUFS, and Tidal targets -14 LUFS. A practical standard is to master to -14 LUFS Integrated with a True Peak ceiling of -1 dBTP, since this covers the widest range of platforms without requiring a separate master for each service. Youlean Loudness Meter 2 includes presets for each major platform to help with this.
 
-**Q: Does LoudMax support True Peak limiting?**
-A: No. LoudMax is a sample-peak brickwall limiter, not a True Peak limiter. Sample-peak limiting can allow inter-sample peaks above 0 dBFS to pass through, which streaming encoders can then clip during format conversion. For streaming delivery, Limiter 6 GE's True Peak stage is the more reliable choice. LoudMax is appropriate for offline rendering contexts or when inter-sample compliance is handled separately.
+Q: Can free mastering plugins produce commercially competitive results?
+A: For most genres and delivery destinations, a free chain made up of a loudness meter, a dynamic EQ, and a multi-stage limiter can cover metering, equalization, and limiting, including True Peak control. It is worth checking the result against reference tracks. Paid tools mainly add workflow speed and extra features rather than a fundamentally different result.
 
-**Q: Is Limiter 6 GE genuinely free with no restrictions?**
-A: TBProAudio makes Limiter 6 GE available as a free download from their official site with no time limits, no watermarking, and no required registration. The developer has maintained it as freeware alongside their commercial product lineup. There is no catch beyond the absence of dedicated technical support.
+Q: What is a reasonable plugin order for a free mastering chain?
+A: A standard signal path uses a spectrum analyzer as an always-on reference, followed by corrective equalization, gentle compression, broader tonal shaping, a brickwall limiter with a True Peak stage, and a final loudness check. This order is not a rigid rule, but it reflects the processing hierarchy most mastering engineers follow.
 
----
-## Related Guides
+Q: Does LoudMax support True Peak limiting?
+A: No. LoudMax is a sample-peak brickwall limiter rather than a True Peak limiter. Sample-peak limiting can let inter-sample peaks above 0 dBFS pass through, and streaming encoders can then clip those peaks during format conversion. For streaming delivery, a limiter with a dedicated True Peak stage is the more reliable choice. LoudMax remains suitable for offline rendering, or for situations where inter-sample compliance is handled elsewhere in the chain.
 
-- [iZotope Ozone 12 Review: The Best Mastering Plugin?](/posts/izotope-ozone-12-review/)
-- [FabFilter Pro-L 2 Review: Industry-Standard Limiter?](/posts/fabfilter-pro-l-2-review/)
-- [iZotope Ozone vs FabFilter Mastering: Which Wins?](/posts/izotope-ozone-vs-fabfilter-mastering/)
-- [Mastering Chain Plugins: Step-by-Step Pro Setup](/posts/mastering-chain-plugins/)
-- [Best Limiter Plugins for Mastering 2026](/posts/best-limiter-plugins-mastering/)
-- [Best Free VST Plugins 2026: The Complete Roundup Across All Categories](/posts/best-free-vst-plugins-2026/)
+Q: Is Limiter 6 GE genuinely free with no restrictions?
+A: Yes. Limiter 6 GE can be downloaded at no cost, with no time limit, no watermarking, and no required registration. It continues to be maintained as a free tool alongside a commercial product lineup from the same line. The main limitation is the absence of dedicated technical support.
 
-<!-- pd:method:start -->
-## Sources for this guide
+## Sources
 
-This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
-<!-- pd:method:end -->
+<!-- role:method -->

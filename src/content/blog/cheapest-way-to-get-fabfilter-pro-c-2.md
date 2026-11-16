@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Cheapest Way to Get FabFilter Pro-C 3 in 2026"
 description: "FabFilter Pro-C 3 list price, free trial, and existing-customer pricing. We do not have verified price-tracker history for Pro-C 3 yet."
 pubDate: "2026-07-15T00:42:49Z"

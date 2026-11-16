@@ -6,7 +6,7 @@ tags: ["audio restoration", "editor", "izotope", "mastering", "mixing", "noise r
 affiliate: "https://www.pluginboutique.com/search?q=izotope%20rx.html&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=news-izotope-releases-rx-12-audio-editing-and-restoration-su&chan=art&data1=news-izotope-releases-rx-12-audio-editing-and-restoration-su"
 score: 5.50
 xText: "rx 12 landed. this tool fixes what shouldn't be fixable – your recording's a disaster, rx makes it usable. dialogue cleaning, noise removal, spectral editing. iZotope keeps the magic sharp."
-draft: false
+draft: true
 heroImage: "/images/news-izotope-releases-rx-12-audio-editing-and-restoration-su_og.jpg"
 ---
 

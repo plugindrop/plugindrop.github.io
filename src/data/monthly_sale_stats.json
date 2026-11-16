@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15",
+  "generated_at": "2026-11-16",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-11",
       "label": "November 2026",
       "is_current": true,
-      "generated_at": "2026-11-15",
-      "observations": 2937,
-      "products_tracked": 552,
-      "products_on_sale": 311,
-      "on_sale_pct": 56.3,
-      "avg_discount_pct": 58.0,
-      "median_discount_pct": 52,
+      "generated_at": "2026-11-16",
+      "observations": 3433,
+      "products_tracked": 574,
+      "products_on_sale": 325,
+      "on_sale_pct": 56.6,
+      "avg_discount_pct": 57.8,
+      "median_discount_pct": 51,
       "discount_buckets": {
         "1-19": 9,
-        "20-39": 35,
-        "40-59": 127,
-        "60+": 140
+        "20-39": 38,
+        "40-59": 135,
+        "60+": 143
       },
-      "all_time_low_hits": 259,
+      "all_time_low_hits": 273,
       "deepest_discounts": [
         {
           "name": "Thenatan Full Bundle",
@@ -44,6 +44,16 @@
           "pct_off": 97,
           "date": "2026-11-01",
           "pb_url": "/product/81-Bundles/97-Various-Category/16798-TOTAL-VI-MAX-2"
+        },
+        {
+          "name": "SampleTraxx Everything Bundle",
+          "slug": "sampletraxx-everything-bundle",
+          "category": "Other",
+          "regular": 2504.0,
+          "sale": 99.0,
+          "pct_off": 96,
+          "date": "2026-11-15",
+          "pb_url": "/product/81-Bundles/89-Complete-Collection/15668-SampleTraxx-Everything-Bundle"
         },
         {
           "name": "Baby Audio Crystalline",
@@ -94,6 +104,16 @@
           "pct_off": 93,
           "date": "2026-11-01",
           "pb_url": "/product/1-Instruments/64-Virtual-Instruments/14697-CINEDREAM"
+        },
+        {
+          "name": "Virtual Pianist VIBE",
+          "slug": "virtual-pianist-vibe",
+          "category": "Other",
+          "regular": 129.0,
+          "sale": 9.0,
+          "pct_off": 93,
+          "date": "2026-11-15",
+          "pb_url": "/product/1-Instruments/64-Virtual-Instruments/10074-Virtual-Pianist-VIBE"
         },
         {
           "name": "DANDY",
@@ -154,26 +174,6 @@
           "pct_off": 92,
           "date": "2026-11-11",
           "pb_url": "/product/1-Instruments/64-Virtual-Instruments/6257-ROYAL-2"
-        },
-        {
-          "name": "SOLID 2",
-          "slug": "solid-2",
-          "category": "Other",
-          "regular": 119.0,
-          "sale": 9.0,
-          "pct_off": 92,
-          "date": "2026-11-11",
-          "pb_url": "/product/1-Instruments/64-Virtual-Instruments/5507-SOLID-2"
-        },
-        {
-          "name": "SSL Native X-EQ 2",
-          "slug": "ssl-native-x-eq-2",
-          "category": "Other",
-          "regular": 149.0,
-          "sale": 15.0,
-          "pct_off": 90,
-          "date": "2026-11-01",
-          "pb_url": "/product/2-Effects/16-EQ/8665-SSL-Native-X-EQ-2"
         }
       ],
       "all_time_low_products": [
@@ -190,6 +190,13 @@
           "sale": 49.99,
           "all_time_low": 49.99,
           "date": "2026-11-01"
+        },
+        {
+          "name": "SampleTraxx Everything Bundle",
+          "slug": "sampletraxx-everything-bundle",
+          "sale": 99.0,
+          "all_time_low": 99.0,
+          "date": "2026-11-15"
         },
         {
           "name": "Baby Audio Crystalline",
@@ -218,6 +225,13 @@
           "sale": 9.0,
           "all_time_low": 9.0,
           "date": "2026-11-01"
+        },
+        {
+          "name": "Virtual Pianist VIBE",
+          "slug": "virtual-pianist-vibe",
+          "sale": 9.0,
+          "all_time_low": 9.0,
+          "date": "2026-11-15"
         },
         {
           "name": "DANDY",
@@ -267,29 +281,15 @@
           "sale": 9.0,
           "all_time_low": 9.0,
           "date": "2026-11-11"
-        },
-        {
-          "name": "SSL Native X-EQ 2",
-          "slug": "ssl-native-x-eq-2",
-          "sale": 15.0,
-          "all_time_low": 15.0,
-          "date": "2026-11-01"
-        },
-        {
-          "name": "SSL Native X-Phase",
-          "slug": "ssl-native-x-phase",
-          "sale": 10.0,
-          "all_time_low": 10.0,
-          "date": "2026-11-01"
         }
       ],
       "by_category": [
         {
           "category": "Other",
-          "tracked": 408,
-          "on_sale": 239,
-          "on_sale_pct": 58.6,
-          "avg_discount_pct": 59.6
+          "tracked": 430,
+          "on_sale": 253,
+          "on_sale_pct": 58.8,
+          "avg_discount_pct": 59.2
         },
         {
           "category": "Synth",
@@ -393,10 +393,10 @@
       "by_brand": [
         {
           "category": "Other",
-          "tracked": 207,
-          "on_sale": 134,
-          "on_sale_pct": 64.7,
-          "avg_discount_pct": 59.9
+          "tracked": 223,
+          "on_sale": 148,
+          "on_sale_pct": 66.4,
+          "avg_discount_pct": 59.3
         },
         {
           "category": "Universal Audio",
@@ -407,9 +407,9 @@
         },
         {
           "category": "Cherry Audio",
-          "tracked": 43,
+          "tracked": 46,
           "on_sale": 27,
-          "on_sale_pct": 62.8,
+          "on_sale_pct": 58.7,
           "avg_discount_pct": 50.7
         },
         {
@@ -425,6 +425,13 @@
           "on_sale": 2,
           "on_sale_pct": 5.9,
           "avg_discount_pct": 62
+        },
+        {
+          "category": "Minimal Audio",
+          "tracked": 17,
+          "on_sale": 14,
+          "on_sale_pct": 82.4,
+          "avg_discount_pct": 49.2
         },
         {
           "category": "Soundtoys",
@@ -448,15 +455,8 @@
           "avg_discount_pct": 56.4
         },
         {
-          "category": "Minimal Audio",
-          "tracked": 15,
-          "on_sale": 14,
-          "on_sale_pct": 93.3,
-          "avg_discount_pct": 49.2
-        },
-        {
           "category": "iZotope",
-          "tracked": 14,
+          "tracked": 15,
           "on_sale": 0,
           "on_sale_pct": 0.0,
           "avg_discount_pct": 0.0
@@ -611,16 +611,16 @@
       ],
       "vs_previous_month": {
         "month": "2026-10",
-        "on_sale_pct_delta": 6.3,
-        "avg_discount_pct_delta": 0.9,
-        "products_tracked_delta": 26
+        "on_sale_pct_delta": 6.6,
+        "avg_discount_pct_delta": 0.7,
+        "products_tracked_delta": 48
       }
     },
     {
       "month": "2026-10",
       "label": "October 2026",
       "is_current": false,
-      "generated_at": "2026-11-15",
+      "generated_at": "2026-11-16",
       "observations": 3527,
       "products_tracked": 526,
       "products_on_sale": 263,
@@ -1230,7 +1230,7 @@
       "month": "2026-09",
       "label": "September 2026",
       "is_current": false,
-      "generated_at": "2026-11-15",
+      "generated_at": "2026-11-16",
       "observations": 3561,
       "products_tracked": 503,
       "products_on_sale": 271,
@@ -1854,7 +1854,7 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-11-15",
+      "generated_at": "2026-11-16",
       "observations": 3583,
       "products_tracked": 420,
       "products_on_sale": 255,
@@ -2443,7 +2443,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-11-15",
+      "generated_at": "2026-11-16",
       "observations": 1964,
       "products_tracked": 286,
       "products_on_sale": 141,

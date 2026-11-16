@@ -12,59 +12,35 @@ draft: false
 priceTrack:
   - "FabFilter Pro-C 3"
 ---
+<!-- guide:v4 kind=roundup -->
 
----
-
-**TL;DR:** FabFilter Pro-C 3 ($199) is the most capable drum compressor for producers who want surgical control across bus and channel work in a single plugin. Waves SSL G-Master Buss Compressor (routinely $29–49) is the industry-standard pick for classic drum bus glue, and Waves' sale cadence means you should almost never pay full price. Rough Rider 3 is the best free option — and it's not close. Below, every recommendation includes what it actually costs right now, whether that price is likely to drop, and whether you should buy today or wait.
-
----
-
-## Quick Picks at a Glance
-
-| Plugin | Price | Best For | Get It |
-|--------|-------|----------|--------|
-| FabFilter Pro-C 3 | $199 | Versatile bus & channel compression | [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&chan=art&data1=best-compressor-plugins-drums) |
-| Waves SSL G-Master Buss | ~$29–49 | Classic drum bus glue | [Developer Site](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
-| Cytomic The Glue | ~$40 | Analog-modeled SSL bus emulation | cytomic.com |
-| Rough Rider 3 | Free | Character compression & pumping | [Free Download](https://www.audiodamage.com/pages/free-and-legacy) |
-| TDR Kotelnikov | Free | Transparent drum bus | [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
-| Waves CLA-76 | $149 list ($34.99 sale on Waves, 2026-10-01) | FET transients on snare & rooms | waves.com |
-| Klanghelm MJUC jr. | Free | Tube warmth on drum bus | klanghelm.com |
-
----
+FabFilter Pro-C 3 is the most capable drum compressor for producers who want precise, detailed control across both bus and channel work in a single plugin. The SSL G-Master Buss Compressor is the industry-standard choice for classic drum bus glue, and it goes on sale often enough that paying full price is rarely necessary. Rough Rider 3 is the best free option, and by a wide margin. Below, each recommendation explains what it costs right now, whether that price is likely to drop, and whether it makes sense to buy today or wait.
 
 ## Introduction
 
-Two VCA bus compressors dominate this category: the SSL G-Master Buss Compressor from Waves and Cytomic The Glue — the compressor Ableton licensed from Cytomic's Andrew Simper to build the Glue Compressor inside Live. Both are modeled on the same VCA bus-compressor design, so the practical choice comes down to price, interface, and how each fits your drum bus. That choice between two similar designs shapes the best compressor plugins for drums 2026 more than any other category in mixing.
+<!-- role:intro -->
 
-But there's a second gap that matters just as much when you're actually deciding what to buy this week: the gap between list price and street price. Waves plugins almost never sell at their nominal $29–49 price outside of a sale window, but Waves also runs sales often enough that "full price" is rarely what anyone actually pays. FabFilter, by contrast, holds its pricing firm almost year-round — waiting for a FabFilter discount is a much longer game than waiting for a Waves one. Knowing which category a plugin falls into changes whether you should buy today or bookmark it for next month.
+## Introduction
 
-Drum compression splits into three distinct problems. Glue is what you put across the drum bus to make individually recorded or programmed hits feel like one instrument playing together. Punch is the channel compression on kick and snare that makes each hit cut through a dense mix without sounding harsh. Transient control is the precision work — fast attack compressors on snare channels and room mics that shape the initial hit without killing the room's natural character. Each problem calls for a different tool, and each tool has a different buying pattern.
+Two compressors built around the same classic VCA bus design lead this category: the SSL-style buss compressor from Waves, and The Glue from Cytomic, created by Andrew Simper, whose design was also licensed by Ableton to build the Glue Compressor that ships inside Live. Because both plugins share the same underlying VCA bus-compression approach, the real decision between them comes down to cost, how the interface feels to work with, and which one suits the way a given drum bus is put together. That choice between two closely related designs ends up shaping the buying decision more than any difference in core sound.
 
-This guide covers 10 real compressors — paid and free, character-driven and transparent — across all three categories. It is written for producers who already understand what compression does and want to know which specific plugin does it best, what it should actually cost you, and when to pull the trigger.
+## Waves SSL G-Master Buss Compressor
 
----
+<!-- role:pick -->
 
-<!-- crawl-boost:start -->
-**Related reading:** [Best Free Drum Plugins in 2026 — 10 Picks for Any Genre](/posts/best-free-drum-plugins/) — free drum instruments to feed into the compressor choices covered here
-<!-- crawl-boost:end -->
+<!-- pick:Waves SSL G-Master Buss Compressor -->
 
-## Drum Bus Glue: Making the Kit Sound Like One Instrument
-
-These compressors go across your drum bus or mix bus, where the goal is cohesion rather than individual channel shaping.
-
-### Waves SSL G-Master Buss Compressor — The industry-standard drum bus workhorse
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/rYLE97NbenM" title="Waves SSL G-Master Buss Compressor — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Waves SSL G-Master Buss Compressor — The industry-standard drum bus workhorse
 
 - **Developer:** Waves Audio
-- **Price:** Frequently $29–49 (routine sale pricing at Waves); list price is considerably higher but almost nobody pays it
+
 - **Platforms:** Windows, macOS
+
 - **Formats:** VST3, AU, AAX, Native
 
 The SSL G-Master Buss Compressor emulates the VCA bus compressor built into the SSL 4000 G series console — one of the most recorded pieces of outboard gear in pop and rock history. Its fixed attack options (0.1, 0.3, 1, 3, 10, and 30ms) and release options (0.1, 0.4, 4s, plus Auto) keep the interface minimal. The Auto release mode adjusts release timing to the incoming signal, which is why it suits rhythmic material such as a drum bus.
 
-Waves runs sitewide and plugin-specific promotions frequently enough that this compressor rarely sits at full list price for more than a few weeks at a time. If you track its history, $29–49 is closer to the "normal" price than an exception. For a full breakdown of when Waves plugins historically hit their lowest prices, see When Does the Waves SSL G-Master Buss Compressor Go On Sale?.
+Waves runs sitewide and plugin-specific promotions frequently enough that this compressor rarely sits at full list price for more than a few weeks at a time. For a full breakdown of when Waves plugins historically hit their lowest prices, see When Does the Waves SSL G-Master Buss Compressor Go On Sale?.
 
 **Best for:** Producers who want classic VCA bus glue with minimal setup time.
 
@@ -72,18 +48,25 @@ Waves runs sitewide and plugin-specific promotions frequently enough that this c
 
 ---
 
-### Cytomic The Glue — The most circuit-accurate SSL bus emulation available
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TZ96omNpppg" title="Cytomic The Glue — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## Cytomic The Glue
+
+<!-- role:pick -->
+
+<!-- pick:Cytomic The Glue -->
+
+Cytomic The Glue — The most circuit-accurate SSL bus emulation available
 
 - **Developer:** Cytomic
-- **Price:** ~$40, sold directly through cytomic.com with no subscription option
+
 - **Platforms:** Windows, macOS
+
 - **Formats:** VST3, AU, AAX
 
-Cytomic The Glue is the compressor that Ableton licensed from developer Andrew Simper to build Live's built-in Glue Compressor — that's documented product history, not marketing. The controls mirror the hardware layout with ratio, attack, release, threshold, and makeup gain. At approximately $40, it is one of the better-value paid compressors in this specific category.
+Cytomic The Glue is the compressor that Ableton licensed from developer Andrew Simper to build Live's built-in Glue Compressor — that's documented product history, not marketing. The controls mirror the hardware layout with ratio, attack, release, threshold, and makeup gain.
 
-Cytomic doesn't run the kind of aggressive, recurring discount cycle that Waves does — its pricing is comparatively stable, and Cytomic occasionally runs modest promotional windows rather than deep sales. If $40 fits your budget, there's little reason to wait on a bigger discount that may not materialize.
+Cytomic doesn't run the kind of aggressive, recurring discount cycle that Waves does — its pricing is comparatively stable, and Cytomic occasionally runs modest promotional windows rather than deep sales.
 
 **Best for:** Ableton users seeking a step beyond Live's native Glue Compressor, or any producer who prioritizes analog circuit accuracy in their SSL bus emulation.
 
@@ -93,13 +76,20 @@ Available directly at cytomic.com.
 
 ---
 
-### TDR Kotelnikov — The precision tool for transparent drum bus work
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Cpokm0j1DXQ" title="TDR Kotelnikov — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## TDR Kotelnikov
+
+<!-- role:pick -->
+
+<!-- pick:TDR Kotelnikov -->
+
+TDR Kotelnikov — The precision tool for transparent drum bus work
 
 - **Developer:** Tokyo Dawn Labs
-- **Price:** Free (GE Gentleman's Edition upgrade available for expanded controls, typically under $50)
+
 - **Platforms:** Windows, macOS, Linux
+
 - **Formats:** VST3, AU, AAX
 
 TDR Kotelnikov is technically sophisticated for a free plugin, and Tokyo Dawn Labs' documentation covers its wideband/peak detection architecture in detail. What distinguishes it on a drum bus is the independent stereo link control, which lets you dial in the relationship between left and right channels without forcing them into mono compression behavior — a meaningful feature when working with stereo overhead or room mics.
@@ -112,41 +102,40 @@ Because the base plugin costs nothing, there's no "wait for a sale" calculus her
 
 ---
 
-## Punch & Transient Control: Channel Compression for Kick and Snare
-
 These compressors go on individual drum channels where the job is shaping how each hit lands — not how the kit holds together.
 
-### FabFilter Pro-C 3 — The most versatile drum compressor on the market
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/mSzvpCz-M2k" title="FabFilter Pro-C 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-- **Developer:** FabFilter
-- **Price:** $179, standalone or as part of FabFilter bundles at a modest per-plugin discount
-- **Platforms:** Windows, macOS
-- **Formats:** VST3, AU, AAX, RTAS
+## FabFilter Pro-C 3
 
-FabFilter Pro-C 3 includes 14 compression styles each producing meaningfully different timing and character behavior. The real-time gain reduction display is the clearest visual feedback available in any compressor plugin, making it a genuinely useful tool for understanding compression while you're working.
+<!-- role:pick -->
 
-The price is high relative to the category. For context on the list price, see [When Does FabFilter Pro-C 3 Go On Sale?](/posts/when-does-fabfilter-pro-c-2-go-on-sale/).
+<!-- pick:FabFilter Pro-C 3 -->
 
-**Best for:** Producers who want a single plugin to handle kick and snare channel compression, drum bus glue, and parallel compression without switching tools.
+FabFilter Pro-C 3 brings serious range to how it shapes sound. It can deliver clean, transparent control suited to mastering work, add punchy glue when used across a mix bus, bring warmth reminiscent of classic opto-style compressors, apply modern upward dynamics processing, or push into aggressive, pumping compression when that character is wanted. Across all of these modes, the plugin keeps a distinct, recognizable style, letting it move fluidly between subtle mastering duties and more heavily styled compression effects depending on what the material calls for.
 
-[→ Get FabFilter Pro-C 3 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&chan=art&data1=best-compressor-plugins-drums)
+| Tracked price | $199.00 |
+|---|---|
 
----
+Last recorded sale: $149.00 on 2026-10-17.
 
-### Waves CLA-76 — FET compressor for snare punch and room character
+[View FabFilter Pro-C 3 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3)
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/_Bdq_4Otu5U" title="Waves CLA-76 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+[Watch FabFilter Pro-C 3 demo](https://www.youtube.com/watch?v=mSzvpCz-M2k)
 
-- **Developer:** Waves Audio (Chris Lord-Alge Signature Series)
-- **Price:** Frequently $29–49 during routine Waves sales
-- **Platforms:** Windows, macOS
-- **Formats:** VST3, AU, AAX, Native
+## Waves CLA-76
 
-The CLA-76 emulates the UREI 1176 FET compressor, a classic FET compressor in drum production. The original hardware's extremely fast attack capability makes it suited for transient shaping on snare hits and room mics where VCA-style compressors are too slow to catch the initial attack. Waves' documentation describes the CLA-76 as including both the Blacky (black-face 1176LN) and Bluey (blue-stripe 1176) circuit variations with distinct harmonic characteristics. The "all buttons in" mode — a technique from the original hardware — is a technique from the original hardware.
+<!-- role:pick -->
 
-Like the SSL G-Master, the CLA-76 belongs to Waves' catalog-wide sale rotation, and full list price is effectively a ceiling rather than a realistic purchase point. See When Does Waves CLA-76 Go On Sale? for the typical discount windows before buying.
+<!-- pick:Waves CLA-76 -->
+
+Waves CLA-76 — FET compressor for snare punch and room character
+
+The CLA-76 emulates the UREI 1176 FET compressor, a classic choice for drum production. Attack and release times track drum dynamics closely, letting the unit follow transients the way the original hardware does. The design includes an exclusive ALL ratio mode (all buttons in) that delivers a notably explosive compression sound, along with modeled preamp distortion that adds an extra-aggressive edge. A super-fast attack time keeps fast transients under control, which suits snare hits and room mics where slower, VCA-style compressors can't catch the initial attack. Two circuit models are included, "Blacky" and "Bluey," each offering a different tonal color so engineers can pick the character that fits the source. For vocals and similar material, the leveling-amp style design gives a more consistent, controlled sound.
+
+Unlike the smooth sound of optical compressors, the CLA-76 is tight and aggressive, with a big, bold character, reflecting the ultra-fast response and tube-like distortion of FET control circuitry.
+
+**Platforms:** Windows 10 and later, macOS. **Formats:** VST, AU, AAX (Windows and Mac).
 
 **Best for:** Snare channel compression, room mic character, and fast FET-style transient control.
 
@@ -154,18 +143,30 @@ Like the SSL G-Master, the CLA-76 belongs to Waves' catalog-wide sale rotation, 
 
 Available directly at waves.com.
 
----
+| Tracked price | $29.99 |
+|---|---|
 
-### Klanghelm MJUC — Tube warmth for drum buses that need organic body
+Last recorded sale: $29.99 on 2026-11-13.
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/x8QMB86-T8s" title="Klanghelm MJUC — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+[View Waves CLA-76 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/13688-CLA-76-Compressor-Limiter)
+
+[Watch Waves CLA-76 demo](https://www.youtube.com/watch?v=EoOOfgo4NSs)
+
+## Klanghelm MJUC
+
+<!-- role:pick -->
+
+<!-- pick:Klanghelm MJUC -->
+
+Klanghelm MJUC — Tube warmth for drum buses that need organic body
 
 - **Developer:** Klanghelm
-- **Price:** ~$24 (MJUC jr. is free)
+
 - **Platforms:** Windows, macOS, Linux
+
 - **Formats:** VST3, AU, AAX
 
-Klanghelm MJUC is a variable-mu tube compressor modeled across three vintage circuit types (mkI, mkII, mkIII), each producing different harmonic and timing characteristics. On a parallel compression bus or as secondary drum bus processing, the variable-mu design offers a different response from VCA compressors. The free MJUC jr. strips back the circuit options to a simplified interface while retaining the core variable-mu character. At $24 for the full version, it is one of the better-value paid tube compressors in the plugin market, and Klanghelm periodically runs modest anniversary or holiday discounts on top of that.
+Klanghelm MJUC is a variable-mu tube compressor modeled across three vintage circuit types (mkI, mkII, mkIII), each producing different harmonic and timing characteristics. On a parallel compression bus or as secondary drum bus processing, the variable-mu design offers a different response from VCA compressors. The free MJUC jr. strips back the circuit options to a simplified interface while retaining the core variable-mu character.
 
 **Best for:** Producers using parallel compression and wanting tube-style body rather than modern punch — particularly effective on kicks that need weight without added attack.
 
@@ -175,15 +176,23 @@ Available directly at klanghelm.com.
 
 ---
 
-## Free Compressors That Actually Deliver
+| Tracked price | $26.00 |
+|---|---|
 
-### Rough Rider 3 — A free character compressor for drums
+[View Klanghelm MJUC on Plugin Boutique](https://klanghelm.com/contents/products/MJUC.html)
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/j47NrMNeaf0" title="Rough Rider 3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+## Rough Rider 3
+
+<!-- role:pick -->
+
+<!-- pick:Rough Rider 3 -->
+
+Rough Rider 3 — A free character compressor for drums
 
 - **Developer:** Audio Damage
-- **Price:** Free
+
 - **Platforms:** Windows, macOS, Linux
+
 - **Formats:** VST3, AU, AAX
 
 Rough Rider 3 is a free compressor from Audio Damage designed explicitly for pumping compression effects. The built-in mix knob makes parallel compression straightforward without requiring parallel routing setup in your DAW.
@@ -196,18 +205,23 @@ There's no purchase decision to make here beyond deciding to download it — it'
 
 ---
 
-### Klanghelm DC1A — Two-knob drum bus compression with harmonic character
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/84lWz_HWoqM" title="Klanghelm DC1A — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## Klanghelm DC1A
+
+<!-- role:pick -->
+
+<!-- pick:Klanghelm DC1A -->
+
+Klanghelm DC1A — Two-knob drum bus compression with harmonic character
 
 - **Developer:** Klanghelm
-- **Price:** Free
+
 - **Platforms:** Windows, macOS, Linux
+
 - **Formats:** VST3, AU
 
 DC1A is a two-knob compressor (Compression and Tone) that Klanghelm built to prioritize feel over control. With only two controls, it keeps settings simple, which makes over-compression harder. It adds subtle harmonic character, distinguishing it from purely transparent free compressors like TDR Kotelnikov.
-
-
 
 [→ Search Klanghelm DC1A](https://klanghelm.com/contents/products/DC1A)
 
@@ -215,36 +229,43 @@ Available directly at klanghelm.com.
 
 ---
 
-## Character Compression: Saturation and Color
 
-### Native Instruments Supercharger GT — Tube compression and harmonic saturation together
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/TKARPBtXOjU" title="Native Instruments Supercharger GT — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+## Native Instruments Supercharger GT
 
-- **Developer:** Native Instruments
-- **Price:** Included in Komplete/Complete packages; standalone pricing varies and is rarely the cheapest path to owning it
-- **Platforms:** Windows, macOS
-- **Formats:** VST3, AU, AAX
+<!-- role:pick -->
 
-Supercharger GT combines tube-style compression with harmonic saturation in a single processing chain. Native Instruments' documentation describes it as based on a VT (vacuum tube) circuit model. On drum buses or parallel compression chains, it combines compression and saturation in a single plugin, so no separate saturation plugin is needed in the chain. It is less a surgical compressor and more a tone-shaping tool that happens to reduce dynamic range — a meaningful distinction for producers mixing drum machine samples that feel sterile.
+<!-- pick:Native Instruments Supercharger GT -->
 
-Because it's rarely worth buying standalone, the real purchase decision is whether a Komplete tier's full bundle price is justified by everything else included — not by Supercharger GT alone. Native Instruments runs major sitewide sales around Black Friday and its anniversary, which is the best time to evaluate a Komplete upgrade.
+Supercharger GT brings together tube-style compression and harmonic saturation in one processor. It's built around a vacuum tube circuit model, so instead of behaving like a purely surgical compressor, it leans into shaping tone while it reduces dynamic range — useful for programmed drums or parallel compression chains that feel sterile and need warmth without reaching for a separate saturation plugin.
 
-**Best for:** Producers who want to add warmth and harmonic density to programmed drums alongside compression in a single plugin.
+The character side of the plugin runs on Fat, Warm, and Aggressive modes, each turning a single knob to fill in missing low end or smooth out harsh high frequencies. Saturation is handled separately through Mild, Crisp, and Slam modes, which range from subtle harmonic enhancement to raw, scorching intensity. There's also a mid/side mode for carving out space within a mix, plus attack, release, and response controls for fine-tuning exactly how the compression behaves. A detector high-pass filter keeps low-end rumble in the sidechain signal from falsely triggering the compressor, so the processing stays controlled even on bass-heavy material.
 
-[→ Search Native Instruments Supercharger GT](https://www.native-instruments.com/en/products/komplete/effects/supercharger-gt/)
+It's designed with intuitive, nuanced sound-shaping in mind — the kind of plugin that lets you dial in a specific tone quickly rather than fighting with a large number of technical parameters.
 
-Available through native-instruments.com.
+On the system side, it runs on both Windows and Mac. Windows needs Windows 10 or 11, 64-bit, with the latest Service Pack. Mac needs macOS 11, 12, or 13 with the latest update, and it runs natively on Apple Silicon or through Rosetta 2 on Intel-based setups. Minimum hardware is an Intel Core i5 or equivalent AMD processor with 4 GB of RAM, though 6 GB is recommended for smoother performance. Plugin formats include VST, VST3, and AAX on Windows, with AU added on Mac alongside those three.
 
----
+| Tracked price | $49.00 |
+|---|---|
 
-### Slate Digital FG-116 — 1176 emulation for snare transient control in the Slate ecosystem
+Last recorded sale: $33.00 on 2026-10-25.
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/2LORQFAET88" title="Slate Digital FG-116 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+[View Native Instruments Supercharger GT on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/11005-Supercharger-GT)
+
+[Watch Native Instruments Supercharger GT demo](https://www.youtube.com/watch?v=COlY_Qar3b0)
+
+## Slate Digital FG-116
+
+<!-- role:pick -->
+
+<!-- pick:Slate Digital FG-116 -->
+
+Slate Digital FG-116 — 1176 emulation for snare transient control in the Slate ecosystem
 
 - **Developer:** Slate Digital
-- **Price:** Part of the Slate Digital All-Access subscription (~$14.99/month, with annual plans reducing the effective monthly cost)
+
 - **Platforms:** Windows, macOS
+
 - **Formats:** VST3, AU, AAX
 
 The FG-116 is Slate Digital's 1176-style FET compressor, included in the All-Access subscription. Slate's documentation describes it as modeled from both the blue stripe and black face 1176 hardware variants, with selectable circuit behavior between the two. Slate positions it as an 1176-style FET compressor. For existing All-Access subscribers, it is among the most accessible 1176 emulations in terms of total cost.
@@ -259,102 +280,43 @@ Available through slatedigital.com.
 
 ---
 
-## Worth Upgrading To (Paid Options)
 
-### Waves SSL G-Master Buss Compressor — The most accessible paid drum bus upgrade
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/DE-fz6h5GkU" title="Waves SSL G-Master Buss Compressor — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+## How to choose
 
-- **Developer:** Waves Audio
-- **Price:** Frequently $29–49 during Waves' routine sales
-- **Why upgrade:** Free bus compressors like TDR Kotelnikov deliver transparent control but not the VCA coloration that defines the SSL G sound. The SSL G's Auto release mode is specifically tuned for rhythmic material in ways that general-purpose transparent compressors are not — and the hardware character it emulates is documented across decades of commercial drum production. At $29–49, this is one of the lowest-cost upgrades in this entire guide relative to what it does for a mix.
+<!-- role:choose -->
 
-[→ Get Waves SSL G-Master Buss Compressor](https://www.waves.com/plugins/ssl-g-master-buss-compressor)
+Here's the "How to Choose" section rewritten in plain English, with no prices, vendor attribution phrasing, first-person claims, invented quotes, or ratings:
 
----
+If the goal is one paid compressor that can handle every drum job, Pro-C 3's many compression styles cover bus glue, snare punch, transient control, and parallel compression all in a single plugin. Its real-time gain reduction display also makes it the easiest tool in this group to learn from, since it shows clearly what the compression is doing while you listen.
 
-### FabFilter Pro-C 3 — The most versatile paid upgrade for drum compression
+If drum bus glue is the only need, a classic VCA-style bus compressor built specifically for that job is usually the simplest and most affordable route. An alternative built for tighter analog circuit accuracy suits producers working inside Ableton who want a closer match to the original hardware behavior, though it tends to go on sale less often.
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/2zjQNeM2RxU" title="FabFilter Pro-C 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+For a zero-cost setup, pairing a pumping, character-driven compressor for electronic drums with a transparent bus compressor for cleaner material covers most drum compression needs without spending anything. There's no reason to wait on either, since both are free to use right away.
 
-- **Developer:** FabFilter
-- **Price:** $179
-- **Why upgrade:** Rough Rider 3 has one defined sound, and that sound is useful in specific contexts. Pro-C 3's 14 compression modes and real-time gain reduction display cover every drum compression scenario — punch, glue, transient control, parallel compression — in a single plugin with enough visual feedback to understand exactly what the compressor is doing to the signal. It replaces multiple single-purpose compressors, which is the strongest argument for the $199 price tag: compare it against buying an SSL bus emulation, a FET compressor, and a transparent limiter separately.
+For rock mixing where snare punch matters most, an FET-style compressor delivers a faster attack response than VCA-style bus compressors can manage, which is especially useful on snare channels where catching the initial transient cleanly is the priority. It's worth checking current pricing before committing to a purchase.
 
-[→ Get FabFilter Pro-C 3 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&chan=art&data1=best-compressor-plugins-drums)
-
----
-
-## Full Comparison Table
-
-| Plugin | Price | Type | Highlights | CTA |
-|--------|-------|------|------------|-----|
-| Waves SSL G-Master Buss | ~$29–49 | VCA Bus Emulation | Auto release, minimal controls, industry-standard | [Get It](https://www.waves.com/plugins/ssl-g-master-buss-compressor) |
-| FabFilter Pro-C 3 | $199 | Multi-Style | 14 compression modes, visual GR display, sidechain EQ | [Get via Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/16644-Pro-C-3?a_aid=69cb95abe1763&chan=art&data1=best-compressor-plugins-drums) |
-| Cytomic The Glue | ~$40 | VCA Bus Emulation | Circuit-modeled SSL, basis for Ableton's Glue Compressor | cytomic.com |
-| TDR Kotelnikov | Free | Precision/Transparent | Stereo link control, no coloration | [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/) |
-| Rough Rider 3 | Free | Character/Pumping | Mix knob, drum-focused design | [Free](https://www.audiodamage.com/pages/free-and-legacy) |
-| Waves CLA-76 | $149 list ($34.99 sale on Waves, 2026-10-01) | FET Emulation | 1176 circuit, Blacky/Bluey variants, all-buttons-in mode | waves.com |
-| Klanghelm MJUC | Free/~$24 | Variable-Mu | Three tube circuit modes, parallel compression warmth | klanghelm.com |
-| Klanghelm DC1A | Free | Character | 2-knob simplicity, harmonic character, beginner-friendly | klanghelm.com |
-| NI Supercharger GT | Bundled | Tube/Saturation | Compression + harmonic saturation in one plugin | native-instruments.com |
-| Slate Digital FG-116 | Subscription (~$14.99/mo) | FET Emulation | Blue/black face 1176 variants, Slate ecosystem | slatedigital.com |
-
----
-
-## How to Choose
-
-- **If you want one paid compressor for every drum compression job:** FabFilter Pro-C 3's 14 styles cover bus glue, snare punch, transient control, and parallel compression in a single plugin. The visual feedback makes it the best learning tool in the category, and the list price is $199.
-
-- **If you only need drum bus glue:** The Waves SSL G-Master Buss Compressor is purpose-built for this job and frequently available for under $50. Cytomic The Glue is the better pick if you're in the Ableton ecosystem and want closer analog accuracy, though it discounts less aggressively.
-
-- **If budget is zero:** Rough Rider 3 handles character compression for electronic drums, and TDR Kotelnikov handles transparent bus work. Together they cover most drum compression scenarios without spending anything, and there's no reason to delay downloading either.
-
-- **If you're mixing rock and need snare punch:** A FET-style compressor — CLA-76 or Slate FG-116 — gives you the fast attack that VCA bus compressors can't match. This is specifically useful for snare channel work where the transient definition matters. Check Waves' current sale status before buying the CLA-76 outright.
-
-- **If your programmed drums sound sterile:** Klanghelm MJUC or Native Instruments Supercharger GT add harmonic character alongside compression, which can add organic density to sample-based drums without heavy saturation processing.
-
----
+If programmed drums sound sterile, a tube-modeled or saturation-based compressor can add harmonic character on top of the compression itself, giving sample-based drums more organic density without needing a separate heavy saturation stage.
 
 ## FAQ
 
-**Q: What type of compressor is best for a drum bus?**
-A: VCA-style bus compressors are a common choice on drum buses. Their timing characteristics — especially automatic release modes — respond musically to rhythmic material. The Waves SSL G-Master Buss Compressor and Cytomic The Glue are both VCA emulations built specifically for this application, and both are built specifically for this application.
+<!-- role:faq -->
 
-**Q: Should I compress individual drums or just the drum bus?**
-A: Both. Channel compression on kick, snare, and room mics shapes transients and corrects dynamic inconsistencies within each hit. Bus compression then glues those compressed channels together into a cohesive sound. Most commercial drum sounds in pop, hip-hop, and rock use both stages, which is one reason a versatile plugin like FabFilter Pro-C 3 can be more cost-effective than it first appears — it can fill both roles.
+**Q:** What type of compressor works best on a drum bus?
+**A:** VCA-style bus compressors are a common choice for drum bus work. Their timing behavior, especially automatic release modes, responds musically to rhythmic material, which is why compressors built around classic console bus-compression circuits are often used in this role. The Waves SSL G-Master Buss Compressor and Cytomic The Glue are both examples of VCA emulations designed specifically for this kind of bus work.
 
-**Q: What compression ratio works best on a drum bus?**
-A: Ratios of 2:1 to 4:1 with slow-to-medium attack are a common starting point for drum bus work — enough to reduce peaks and add glue without killing transients. For snare channel compression using a fast FET-style compressor, ratios of 4:1 to 8:1 with faster attack are standard.
+**Q:** Should drums be compressed individually or just as a bus?
+**A:** Both approaches are generally used together. Channel compression on kick, snare, and room microphones shapes the transient of each hit and corrects inconsistencies within that single sound. Bus compression is then applied afterward to glue those individually compressed channels into one cohesive sound. Most commercial drum sounds in pop, hip-hop, and rock use both stages, which is one reason a versatile compressor that can fill either role, such as FabFilter Pro-C 3 with its range of compression styles, can be more useful than it first appears.
 
-**Q: Is FabFilter Pro-C 3 worth $199 specifically for drums?**
-A: Its value depends on versatility, since one plugin can replace several single-purpose compressors. If you're doing drum bus glue, snare channel compression, and parallel compression in the same project, the ability to use one plugin across all three saves the cost of separate tools.
+**Q:** What compression ratio works best on a drum bus?
+**A:** Ratios between 2:1 and 4:1 with a slow-to-medium attack are a common starting point for drum bus work, reducing peaks and adding cohesion without flattening the transients. For snare channel compression using a fast, transient-focused compressor, ratios between 4:1 and 8:1 with a faster attack are more typical.
 
-**Q: What is the difference between Rough Rider 3 and a paid FET compressor like the CLA-76?**
-A: Rough Rider 3 is designed around one strong, pumping character and a simple mix knob for parallel blending — it's excellent for electronic drum groups but has less nuance in attack and release shaping than a modeled FET compressor. The CLA-76 models specific 1176 hardware variants with selectable circuit behavior, giving finer control over transient shaping on snare and room channels. For EDM drum bus work, Rough Rider 3's single pumping character is the simpler fit; for tracked or sampled rock and pop snares, the CLA-76 offers FET behavior modeled on 1176 hardware.
+**Q:** Is FabFilter Pro-C 3 a worthwhile choice specifically for drum work?
+**A:** Its usefulness comes down to versatility, since a single plugin with multiple compression styles can stand in for several single-purpose compressors. Pro-C 3 offers fourteen compressor styles across modern, classic, and utility categories, spanning transparent mastering control, punchy mixbus glue, classic opto warmth, and aggressive pumping, along with combined upward and downward dynamics processing. For a project that needs drum bus glue, snare channel compression, and parallel compression, being able to use one plugin across all of those tasks can be more practical than keeping separate tools for each job.
 
----
+**Q:** What is the difference between Rough Rider 3 and a paid FET-style compressor such as CLA-76?
+**A:** Rough Rider 3 centers on one strong, pumping character with a simple mix control for parallel blending, which suits electronic drum groups but offers less nuance in attack and release shaping than a modeled FET compressor. A FET-style compressor such as CLA-76 tracks drum dynamics closely, with attack and release behavior that follows the transient, a super-fast attack time that keeps transients under control, and modeled preamp distortion that adds an aggressive edge. It also offers two distinct tonal character models, giving finer control over transient shaping on snare and room channels than a single-character compressor. For electronic drum bus work, a single pumping character is the simpler fit; for tracked or sampled rock and pop snares, the FET-style approach offers finer transient control.
 
-## When to Buy
+## Sources
 
-Not every plugin in this guide belongs on the same shopping timeline. Here's how to think about timing your purchases:
-
-**Buy now, don't wait for a sale:**
-- **FabFilter Pro-C 3** ($199) — FabFilter's list price is $199. We do not have verified sale history for Pro-C 3, so check the current price before you buy.
-- **Cytomic The Glue** (~$40) — Cytomic doesn't run deep recurring sales, so treat the current price as close to final.
-- **Any free plugin** (Rough Rider 3, TDR Kotelnikov, Klanghelm MJUC jr., Klanghelm DC1A) — there's no financial reason to delay; download them today and start using them.
-
-**Wait for a sale window:**
-- **Waves SSL G-Master Buss Compressor and Waves CLA-76** — Waves lists both at $149, and waves.com showed $34.99 sale prices on 2026-10-01. If you're not in a rush, check current pricing against recent history before buying — see When Does Waves SSL G-Master Buss Go On Sale? and When Does Waves CLA-76 Go On Sale?.
-- **Native Instruments Supercharger GT / Komplete bundles** — Black Friday and NI's anniversary sales are historically the deepest discount windows for Komplete tiers. Unless you need it for a session this week, it's worth waiting for one of those windows.
-
-**Evaluate the ongoing cost, not just the entry price:**
-- **Slate Digital FG-116** — this only makes financial sense if you're using enough of the All-Access catalog to justify ~$15/month on an ongoing basis. If FG-116 is the only plugin drawing you in, a one-time purchase like the CLA-76 will be cheaper within the first year.
-
-The short version: if a plugin is made by FabFilter or Cytomic, buy it when you need it. If it's made by Waves, wait a few weeks and watch for a sale — you'll almost certainly get one.
-
-<!-- pd:method:start -->
-## Sources for this guide
-
-This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
-<!-- pd:method:end -->
+<!-- role:method -->

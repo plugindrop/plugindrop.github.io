@@ -6,7 +6,7 @@ tags: ["review", "equalizer", "music-production"]
 affiliate: "https://www.pluginboutique.com/products/11473-Scaler-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-eq-musical-equalizer-effect-plugin-on-sale-for-39-usd&chan=art&data1=scaler-eq-musical-equalizer-effect-plugin-on-sale-for-39-usd"
 heroImage: /images/scaler-eq-musical-equalizer-effect-plugin-on-sale-for-39-usd.jpg
 score: 7.49
-draft: false
+draft: true
 converted: true
 ---
 **Scaler EQ musical equalizer effect plugin** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/products/11473-Scaler-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=scaler-eq-musical-equalizer-effect-plugin-on-sale-for-39-usd&chan=art&data1=scaler-eq-musical-equalizer-effect-plugin-on-sale-for-39-usd)

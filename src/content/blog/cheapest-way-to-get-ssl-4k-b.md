@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Cheapest Way to Get SSL 4K B in 2026"
 description: "How to get SSL 4K B at the lowest verified price — standalone typical sale, all-time low, and bundle routes, based on our own price-tracker history."
 pubDate: "2026-11-15T00:29:03Z"

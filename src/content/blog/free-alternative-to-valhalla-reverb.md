@@ -14,49 +14,36 @@ priceTrack:
   - "Valhalla Room"
   - "Valhalla VintageVerb"
 ---
+<!-- guide:v4 kind=roundup -->
 
-The rewrite is complete — 3,197 words, all originals preserved (video embeds, tables, FAQ, Related Guides, affiliate links) and enhanced with current 2026 pricing ($49.99), a new "When to Buy" section, and links to the Valhalla sale-tracking page woven into the VintageVerb/Room sections and FAQ. Here's the final article body:
-
----
-
-**TL;DR:** A free alternative to Valhalla's paid reverbs is Valhalla's own Supermassive — free, fully featured, and purpose-built for ambient and spatial work. For natural room simulation and vintage character, Dragonfly Reverb and TAL-Reverb-4 cover the gaps Supermassive leaves. If your work regularly demands precision room ambience or the full range of hardware-era reverb types, Valhalla VintageVerb at $49.99 and Valhalla Room at $49.99 are the upgrades with no real free equivalent — and knowing when to buy them matters, because neither one goes on sale.
-
----
-
-## Quick Picks at a Glance
-
-| Plugin | Price | Best For | Get It |
-|--------|-------|----------|--------|
-| Valhalla Supermassive | Free | Ambient, space, cinematic tails | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| TAL-Reverb-4 | Free | Plate reverb, vocals, vintage shimmer | [Free Download](https://tal-software.com/products/tal-reverb-4) |
-| Dragonfly Reverb | Free | Rooms, halls, early reflections | [Free Download](https://michaelwillis.github.io/dragonfly-reverb/) |
-| OldSkoolVerb | Free | Lush vintage algorithmic reverb | [Free Download](https://www.meldaproduction.com/MCharmVerb) |
-| Valhalla VintageVerb | $49.99 | All-around studio reverb, 18 algorithms | [Get It Here](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//) |
-| Valhalla Room | $49.99 | Tight room simulation, drums, vocals | [Valhalla Room](https://valhalladsp.com/shop/reverb/valhalla-room/) |
-
----
-
-> **Considering the upgrade?** Valhalla VintageVerb and Room are priced at $49.99 with essentially no discounting history — Valhalla doesn't run the aggressive seasonal sales that competitors like FabFilter or Melda do. → [Does Valhalla DSP Go On Sale?](/posts/does-valhalla-dsp-ever-go-on-sale/) | [Valhalla Room](https://valhalladsp.com/shop/reverb/valhalla-room/)
+A free option exists for anyone who wants Valhalla-style reverb without paying for it: Supermassive itself is free, fully featured, and built specifically for ambient and spatial sound design. For natural-sounding room simulation and vintage tonal character, Dragonfly Reverb and TAL-Reverb-4 fill in the gaps Supermassive leaves open. For work that consistently calls for precise room ambience or the full range of hardware-style reverb tones, the paid VintageVerb and Room plugins remain upgrades with no true free substitute. Timing a purchase matters here, since neither of these paid plugins is typically discounted, so buyers should expect to pay full price whenever they decide to get them.
 
 ## Introduction
 
-Here's what catches most producers off guard when they start looking for a free alternative to Valhalla reverb: one option is made by Valhalla themselves. Supermassive has been free since 2020 and carries no feature restrictions. If you're hunting for a free alternative specifically because of price, Supermassive eliminates the problem before it starts — and it isn't a consolation prize you settle for until you can afford something better.
+<!-- role:intro -->
 
-That framing matters because it sets honest expectations for everything else in this guide. The third-party free options here aren't chasing Supermassive's territory — they cover what Supermassive deliberately doesn't. Supermassive is built for large, diffuse, otherworldly spaces. It does not simulate a real drum room, a convincing concert hall, or the tight ambience a mix engineer needs on a vocal track. That's where TAL-Reverb-4, Dragonfly Reverb, and Melda's OldSkoolVerb each earn a place in the conversation — and where a growing number of bedroom producers eventually decide it's worth spending $49.99 on Valhalla's paid tier instead of stacking free plugins to approximate the same result.
-
-This guide is for bedroom producers and home studio engineers who want a clear map of the free reverb landscape before committing to anything — free or paid. Every pick is based on developer documentation, and every recommendation below is framed around a specific decision: install this now, or set money aside for that. The paid upsells at the end are included because the gap between free and paid is real in specific contexts, and this guide tells you exactly where that line sits and exactly when it's worth crossing it.
+Here's the final article body:
 
 ---
 
-## The Free Valhalla Option
+**TL;DR:** A free alternative to Valhalla's paid reverbs is Valhalla's own Supermassive — free, fully featured, and purpose-built for ambient and spatial work. For natural room simulation and vintage character, Dragonfly Reverb and TAL-Reverb-4 cover the gaps Supermassive leaves.
 
-### Valhalla Supermassive — the free reverb that makes the paid tier hard to justify for ambient work
+---
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/OZuKRaZK86k" title="Valhalla Supermassive — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+---
+
+## Valhalla Supermassive
+
+<!-- role:pick -->
+
+<!-- pick:Valhalla Supermassive -->
+
+Valhalla Supermassive — the free reverb that makes the paid tier hard to justify for ambient work
 
 - **Developer:** Valhalla DSP
-- **Price:** Free
+
 - **Platforms:** Windows, macOS
+
 - **Formats:** VST, VST3, AU, AAX
 
 Valhalla DSP released Supermassive as a permanently free plugin in 2020, and developer documentation confirms the algorithm runs 16 delay lines with variable feedback, a DENSITY knob that shifts the plugin from multi-tap delay into full reverb territory, and a WARP control that shapes the tail's character. The plugin ships with distinct modes — GEMINI, HYDRA, CENTAURUS, SAGITTARIUS, and others — each offering a different spatial character within the diffuse, large-space family.
@@ -71,15 +58,20 @@ The tradeoff is deliberate scope. Supermassive's identity is large and diffuse s
 
 ---
 
-## Third-Party Free Alternatives
 
-### TAL-Reverb-4 — a free plate reverb with a shimmer mode
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/27tJgiDYcXQ" title="TAL-Reverb-4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+## TAL-Reverb-4
+
+<!-- role:pick -->
+
+<!-- pick:TAL-Reverb-4 -->
+
+TAL-Reverb-4 — a free plate reverb with a shimmer mode
 
 - **Developer:** TAL Software (Togu Audio Line)
-- **Price:** Free
+
 - **Platforms:** Windows, macOS, Linux
+
 - **Formats:** VST, VST3, AU, AAX
 
 TAL-Reverb-4 is a free plate and hall reverb from Swiss developer Togu Audio Line. The plugin includes a shimmer mode that adds pitch-shifted feedback into the reverb tail, a feature suited to lush, ethereal pad processing.
@@ -94,20 +86,27 @@ If you're deciding whether to install this today or wait for something better, t
 
 ---
 
-### Dragonfly Reverb — the free open-source suite for natural rooms and halls
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/USp0xBkoz2c" title="Dragonfly Reverb — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## Dragonfly Reverb
+
+<!-- role:pick -->
+
+<!-- pick:Dragonfly Reverb -->
+
+Dragonfly Reverb — the free open-source suite for natural rooms and halls
 
 - **Developer:** Michael Willis (open source, GitHub)
-- **Price:** Free
+
 - **Platforms:** Windows, macOS, Linux
+
 - **Formats:** VST, VST3, AU, LV2
 
 Dragonfly Reverb is an open-source project built on the Freeverb3 signal processing library and distributed as a suite of four separate plugins: Dragonfly Room, Dragonfly Hall, Dragonfly Plate, and Dragonfly Early Reflections — all free with no registration required. Dragonfly Hall and Dragonfly Room are aimed at natural acoustic simulation.
 
 The suite architecture is a genuine advantage. Rather than stretching one algorithm across every use case, each plugin is built for a specific reverb type. Dragonfly Early Reflections adds early reflections for depth on drum tracks and acoustic instruments. Dragonfly Hall is aimed at orchestral and ambient work.
 
-The interface is utilitarian — functional but not refined. For producers who value sound quality over visual design, the tradeoff is straightforward: Dragonfly Reverb is a free option for acoustic simulation. Install it first, run it on real material for a few weeks, and only then decide whether a paid room simulator such as Valhalla Room is needed. If you do, decide whether the $49.99 upgrade is worth it for your workflow.
+The interface is utilitarian — functional but not refined. For producers who value sound quality over visual design, the tradeoff is straightforward: Dragonfly Reverb is a free option for acoustic simulation. Install it first, run it on real material for a few weeks, and only then decide whether a paid room simulator such as Valhalla Room is needed.
 
 **Best for:** Natural room and hall simulation, acoustic instruments, drum room ambience, early reflections for mix depth.
 
@@ -115,13 +114,20 @@ The interface is utilitarian — functional but not refined. For producers who v
 
 ---
 
-### OldSkoolVerb — Melda's vintage algorithmic reverb, free inside a massive bundle
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/RW7qKjwDfWc" title="OldSkoolVerb — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## OldSkoolVerb
+
+<!-- role:pick -->
+
+<!-- pick:OldSkoolVerb -->
+
+OldSkoolVerb — Melda's vintage algorithmic reverb, free inside a massive bundle
 
 - **Developer:** Melda Production
-- **Price:** Free (part of MFreeFXBundle)
+
 - **Platforms:** Windows, macOS
+
 - **Formats:** VST, VST3, AU, AAX
 
 MOldSkoolVerb is included in Melda Production's MFreeFXBundle — one of the most substantial free plugin packages in the industry, containing over 40 plugins. Melda's own documentation describes it as a "vintage-style algorithmic reverb," positioning it toward classic, lush reverb character rather than accuracy or transparency. Its vintage-style character suits analog-emulated production styles and mix contexts where a soft reverb is preferable to a clean one.
@@ -136,108 +142,162 @@ Worth noting for anyone comparison-shopping Melda's catalog: Melda runs frequent
 
 ---
 
-## Worth Upgrading To (Paid Options)
 
-### Valhalla VintageVerb — an all-around studio reverb under $50
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/EzPouHxa18s" title="Valhalla VintageVerb — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+## Valhalla VintageVerb
+
+<!-- role:pick -->
+
+<!-- pick:Valhalla VintageVerb -->
 
 - **Developer:** Valhalla DSP
-- **Price:** $49.99
+
 - **Why upgrade:** Supermassive covers ambient and spatial work at no cost, but VintageVerb adds 18 distinct reverb algorithms explicitly modeled on specific eras of reverb hardware, including Hall, Room, Plate, Chamber, and Postmodern modes that Supermassive's architecture doesn't include. The gap between the free tier and VintageVerb is tied to algorithmic range.
 
-Before you buy, it's worth knowing Valhalla's pricing behavior specifically: the company does not discount VintageVerb or Room during Black Friday, Plugin Boutique flash sales, or any other seasonal promotion that regularly moves prices on competing plugins from FabFilter, Waves, or iZotope. The $49.99 you'd pay today is functionally the same price you'll see in six months. See [Does Valhalla DSP Go On Sale?](/posts/does-valhalla-dsp-ever-go-on-sale/) for the full pricing history if you're weighing whether to wait.
+Before you buy, it's worth knowing Valhalla's pricing behavior specifically: the company does not discount VintageVerb or Room during Black Friday, Plugin Boutique flash sales, or any other seasonal promotion that regularly moves prices on competing plugins from FabFilter, Waves, or iZotope. See [Does Valhalla DSP Go On Sale?](/posts/does-valhalla-dsp-ever-go-on-sale/) for the full pricing history if you're weighing whether to wait.
 
 [→ Get Valhalla VintageVerb](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb//)
 
 ---
 
-### Valhalla Room — precision room simulation that free options don't fully replicate
+| Tracked price | $50.00 |
+|---|---|
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ogaodQa-fb0" title="Valhalla Room — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+[View Valhalla VintageVerb on Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/)
+
+## Valhalla Room
+
+<!-- role:pick -->
+
+<!-- pick:Valhalla Room -->
+
+Valhalla Room — precision room simulation that free options don't fully replicate
 
 - **Developer:** Valhalla DSP
-- **Price:** $49.99
+
 - **Why upgrade:** Dragonfly Room is a free option for natural room simulation, but Valhalla Room's algorithm is built specifically for tight, controlled ambience with precise early reflection shaping. Valhalla Room offers deeper controls — particularly for drum rooms, vocal presence, and short ambience on instruments — which may matter if room reverb is a primary tool rather than an occasional effect.
 
-Same pricing note applies here as with VintageVerb: Valhalla Room sits at $49.99 with no meaningful sale history, so there's no tactical advantage to delaying the purchase if you already know you need it. See [Does Valhalla DSP Go On Sale?](/posts/does-valhalla-dsp-ever-go-on-sale/) for confirmation before you plan around a discount that isn't coming.
+See [Does Valhalla DSP Go On Sale?](/posts/does-valhalla-dsp-ever-go-on-sale/) for confirmation before you plan around a discount that isn't coming.
 
 [Valhalla Room](https://valhalladsp.com/shop/reverb/valhalla-room/)
 
 ---
 
-## Full Comparison Table
-
-| Plugin | Price | Type | Highlights | CTA |
-|--------|-------|------|------------|-----|
-| Valhalla Supermassive | Free | Algorithmic | 16 delay lines, massive diffuse tails, shimmer modes | [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) |
-| TAL-Reverb-4 | Free | Plate/Hall | Warm vintage character, shimmer mode | [Free Download](https://tal-software.com/products/tal-reverb-4) |
-| Dragonfly Reverb | Free | Algorithmic Suite | 4 separate plugins: Room, Hall, Plate, Early Reflections | [Download Free](https://michaelwillis.github.io/dragonfly-reverb/) |
-| OldSkoolVerb | Free | Algorithmic | Vintage warmth, smooth tail, part of MFreeFXBundle | [Download Free](https://www.meldaproduction.com/MCharmVerb) |
-| Valhalla VintageVerb | $49.99 | Algorithmic | 18 hardware-era algorithms | [valhalladsp.com (official)](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) |
-| Valhalla Room | $49.99 | Room Simulator | Tight early reflections, precision room ambience | [Valhalla Room](https://valhalladsp.com/shop/reverb/valhalla-room/) |
-
 ---
-
-## How to Choose
 
 - **If you make ambient, electronic, or cinematic music** and need lush, long reverb tails: Valhalla Supermassive is the starting point — it is free and comes from the same developer as the paid options you're considering. Install it today; there's no version of this decision where waiting helps you.
+
 - **If you need a plate reverb for vocals or a warm, classic reverb tone:** TAL-Reverb-4 is a free option in this category, suited to a smooth character over clinical accuracy.
-- **If you need natural room or hall simulation:** Dragonfly Reverb's suite is a free option with dedicated algorithms for each reverb type — particularly Dragonfly Hall for orchestral or acoustic work. Run it for a project or two before deciding whether Valhalla Room's extra control depth is worth $49.99 to you.
+
+- **If you need natural room or hall simulation:** Dragonfly Reverb's suite is a free option with dedicated algorithms for each reverb type — particularly Dragonfly Hall for orchestral or acoustic work.
+
 - **If you want vintage warmth and are open to a larger plugin bundle:** OldSkoolVerb via Melda's MFreeFXBundle offers genuine value, especially if you end up using other tools from the same package.
-- **If your mix work demands all-around studio reverb across room, hall, plate, and chamber types:** Valhalla VintageVerb at $49.99 is the paid upgrade for that. The paid leap earns its cost specifically when the free alternatives leave audible or creative gaps — and since VintageVerb doesn't go on sale, the decision to buy shouldn't be gated on finding a discount.
+
+The paid leap earns its cost specifically when the free alternatives leave audible or creative gaps — and since VintageVerb doesn't go on sale, the decision to buy shouldn't be gated on finding a discount.
 
 ---
-
-## When to Buy
 
 Free vs. paid is really two separate decisions, and it's worth separating them clearly before you spend anything.
 
 **Buy nothing right now if:**
+
 - You haven't yet installed Supermassive, TAL-Reverb-4, or Dragonfly Reverb. All three are free, cover distinct reverb categories, and there is zero opportunity cost to installing all of them today. Any purchase decision should come after you've actually run these on your own tracks, not before.
-- You're not sure whether your workflow needs precision room simulation or hardware-era algorithm variety. Use Dragonfly Room and Dragonfly Hall for a few sessions first — if they cover what you need, there's no reason to spend $49.99 on Valhalla Room just because it's the "upgrade path."
+
+- You're not sure whether your workflow needs precision room simulation or hardware-era algorithm variety.
 
 **Buy now — don't wait for a sale — if:**
+
 - You've identified a specific gap the free tier can't close, such as needing VintageVerb's 18 hardware-era algorithms or Valhalla Room's tight early-reflection control on drum busses and vocal chains.
-- You're basing your purchase timing on catching a Valhalla sale. Don't. Valhalla DSP has one of the flattest pricing histories in the plugin market — VintageVerb and Room have held at $49.99 through Black Friday, Cyber Monday, and every Plugin Boutique flash sale for years, with no indication that's changing in 2026. Waiting for a discount on these two plugins specifically costs you time for no expected savings. Full pricing history: [Does Valhalla DSP Go On Sale?](/posts/does-valhalla-dsp-ever-go-on-sale/).
+
+- You're basing your purchase timing on catching a Valhalla sale. Don't. Waiting for a discount on these two plugins specifically costs you time for no expected savings. Full pricing history: [Does Valhalla DSP Go On Sale?](/posts/does-valhalla-dsp-ever-go-on-sale/).
+
 - You're comparing against Melda's OldSkoolVerb ecosystem and considering Melda's paid tools — that's a different calculus, since Melda runs frequent, steep sales (often 90%+ off during their sales cycles), so if you're eyeing a Melda purchase specifically, that one is worth timing around a sale window.
 
 The short version: free installs are zero-risk and should happen immediately. Valhalla purchases are fixed-price decisions — buy when the need is confirmed, not when you're hoping for a discount that Valhalla's pricing history says won't arrive.
 
 ---
 
-## FAQ
 **Q: Is Valhalla Supermassive actually free, or is it a limited trial?**
+
 A: Supermassive is fully free with no feature limitations and no trial period. Valhalla's official page lists it as free. The only practical limitation is scope — it's purpose-built for large, diffuse spaces and is not a general-purpose studio reverb.
 
 **Q: What's the best free reverb for vocals?**
+
 A: TAL-Reverb-4 is a free plate and hall reverb that can be used on vocals. For a more transparent plate-style vocal reverb, Dragonfly Plate is a well-documented alternative in the same free tier.
 
 **Q: Can free reverbs genuinely compete with Valhalla VintageVerb?**
+
 A: For ambient and spatial work specifically: yes, Supermassive is genuinely competitive and it comes from the same developer. For all-around studio use — spanning room, hall, plate, and chamber types with hardware-era modeling — VintageVerb lists 18 algorithms, a breadth none of the free options here match.
 
 **Q: Should I wait for a sale before buying Valhalla VintageVerb or Valhalla Room?**
-A: No. Both plugins are priced at $49.99 and Valhalla does not run seasonal discounts on them the way many other developers do. If you've confirmed you need what the paid tier offers, buying now costs the same as buying later. See [Does Valhalla DSP Go On Sale?](/posts/does-valhalla-dsp-ever-go-on-sale/) for the full history.
+
+A: No. If you've confirmed you need what the paid tier offers, buying now costs the same as buying later. See [Does Valhalla DSP Go On Sale?](/posts/does-valhalla-dsp-ever-go-on-sale/) for the full history.
 
 **Q: What's the difference between algorithmic reverb and convolution reverb?**
+
 A: Algorithmic reverbs — all the picks in this guide — generate reverb using mathematical models. They are highly tweakable and don't require impulse response files. Convolution reverbs use recordings of real acoustic spaces and can sound more realistic for specific rooms, but require IR files and offer less creative flexibility. For most music production contexts, algorithmic reverbs are the more practical tool.
 
 **Q: Is the Melda MFreeFXBundle worth installing just to get OldSkoolVerb?**
+
 A: The bundle includes over 40 free plugins, so the value proposition is real if you're open to adding Melda tools to your workflow. If you want a single clean reverb install without bundle overhead, TAL-Reverb-4 or Valhalla Supermassive are the simpler options.
 
 ---
-## Related Guides
 
 - [Best Free Reverb VST Plugins 2026](/posts/best-free-reverb-vst-plugins/)
+
 - [Valhalla Room vs VintageVerb: Which Is Right for You?](/posts/valhalla-room-vs-vintageverb/)
-- [Valhalla VintageVerb Review: The $50 Reverb That Wins](/posts/valhalla-vintageverb-review/)
+
 - [15 Best Mixing Plugins in 2026 (Free & Paid, Ranked)](/posts/best-mixing-plugins-2026/)
+
 - [10 Best Mastering Limiter Plugins in 2026 (Ranked)](/posts/best-limiter-plugins-mastering/)
 
 - [stereo widening plugins](/posts/best-stereo-widener-plugins/)
 
-<!-- pd:method:start -->
-## Sources for this guide
-
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
-<!-- pd:method:end -->
+
+| Tracked price | $50.00 |
+|---|---|
+
+[View Valhalla Room on Plugin Boutique](https://valhalladsp.com/shop/reverb/valhalla-room/)
+
+[Watch Valhalla Room demo](https://www.youtube.com/watch?v=p9iAQ1hmKm4)
+
+## How to choose
+
+<!-- role:choose -->
+
+For ambient, electronic, or cinematic music that calls for lush, long reverb tails, Valhalla Supermassive is a sensible starting point. It is free, so there is no real downside to installing it right away rather than waiting.
+
+For a plate-style reverb suited to vocals, or for a warm, classic tone, TAL-Reverb-4 is a free option that favors a smooth, musical character over strict accuracy.
+
+For natural room or hall simulation, the Dragonfly Reverb suite is a free choice with dedicated algorithms for each reverb type, with its hall mode suited to orchestral or acoustic material. It is worth running on a project or two first, then deciding afterward whether a room simulator with deeper control, such as Valhalla Room, adds enough to be worth paying for.
+
+For anyone who wants vintage-style warmth and doesn't mind adding a larger plugin bundle, OldSkoolVerb, included as part of Melda's MFreeFXBundle, offers real value, especially for those who end up using other tools from the same package.
+
+For mix work that calls for an all-around studio reverb spanning room, hall, plate, and chamber types, Valhalla VintageVerb is the paid option built for that purpose. Paying for it makes the most sense once the free alternatives have shown a clear audible or creative gap, rather than as an automatic upgrade.
+
+## FAQ
+
+<!-- role:faq -->
+
+Q: Is Valhalla Supermassive actually free, or is it a limited trial?
+A: Supermassive is fully free, with no feature limitations and no trial period attached to it. The only practical limitation is one of scope — it is built specifically for large, diffuse spaces, so it does not function as a general-purpose studio reverb.
+
+Q: What's the best free reverb for vocals?
+A: TAL-Reverb-4 is a free plate and hall reverb that works on vocals. For a more transparent, plate-style vocal reverb, Dragonfly Plate is another option within the same free category.
+
+Q: Can free reverbs genuinely compete with Valhalla VintageVerb?
+A: For ambient and spatial work specifically, yes — Supermassive holds up well there. For all-around studio use spanning room, hall, plate, and chamber types with hardware-era modeling, VintageVerb offers a much wider range of algorithms than any of the free options covered here.
+
+Q: Should I wait for a sale before buying Valhalla VintageVerb or Valhalla Room?
+A: No. These two plugins are not typically put on seasonal discount the way many competing developers' products are. If you've already confirmed that the paid tier offers something you need, buying now is no different from waiting.
+
+Q: What's the difference between algorithmic reverb and convolution reverb?
+A: Algorithmic reverbs, which cover every pick in this guide, generate their sound using mathematical models. They are highly adjustable and do not require impulse response files. Convolution reverbs instead use recordings of real acoustic spaces, which can sound more realistic for a specific room but require impulse response files and offer less creative flexibility. For most music production purposes, algorithmic reverbs remain the more practical choice.
+
+Q: Is the Melda MFreeFXBundle worth installing just to get OldSkoolVerb?
+A: The bundle contains a large number of free plugins beyond just OldSkoolVerb, so it holds real value if you're open to adding other Melda tools to your setup. If you'd rather have a single, simple reverb install without the rest of the bundle, TAL-Reverb-4 or Valhalla Supermassive are the more straightforward choices.
+
+## Sources
+
+<!-- role:method -->

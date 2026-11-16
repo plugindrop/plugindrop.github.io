@@ -12,39 +12,27 @@ heroImage: "/images/best-free-limiter-vst_og.jpg"
 priceTrack:
   - "FabFilter Pro-L 2"
 ---
-**TL;DR:** Limiter 6 GE by Tokyo Dawn Labs chains RMS compression, true peak limiting, and hard clipping in a single plugin, but its official page lists a paid license (€60), so it is covered here as a paid reference point, not a free pick. W1 Limiter handles the majority of brickwall mastering scenarios with near-zero coloration. Neither means much without Youlean Loudness Meter 2 running alongside to confirm you are actually hitting streaming loudness targets.
+<!-- guide:v4 kind=roundup -->
 
----
-
-## Quick Picks at a Glance
-
-| Plugin | Price | Best For | Get It |
-|--------|-------|----------|--------|
-| Limiter 6 GE (paid, €60) | Paid | Full mastering chains | [View (paid)](https://www.tokyodawn.net/tdr-limiter6-ge/) |
-| W1 Limiter | Free | Transparent brickwall mastering | [Official Site](https://www.yohng.com/software/w1limit.html) |
-| LoudMax | Free | Zero-fuss transparent limiting | Free |
-| Limiter No6 | Free | Multi-stage mastering architecture | Free |
-| Youlean Loudness Meter 2 | Free | LUFS metering for streaming compliance | [Free Download](https://youlean.co/youlean-loudness-meter/) |
-| Unlimited | Free | Low-overhead mix-bus peak control | Free |
-| MLimiter (MFreeFXBundle) | Free | Limiting inside a full free toolkit | Free |
-
----
+**TL;DR:** Limiter 6 GE combines RMS compression, true peak limiting, and hard clipping in a single plugin, but it is a paid product rather than a free one, so it's included here as a paid reference point and not a free pick. W1 Limiter covers most brickwall mastering situations with very little added coloration. Neither tool means much on its own without a loudness meter such as Youlean Loudness Meter 2 running alongside it to confirm that streaming loudness targets are actually being hit.
 
 ## Introduction
 
-The most stubborn myth in the free plugin conversation is that limiting is a category where quality requires payment. The reality is that Limiter No6 — vladgsound's free multi-stage mastering limiter released in the mid-2000s — uses a chain of RMS compression, high-frequency limiting, and brickwall peak control. The best free limiter VST in 2026 inherits that same lineage, and the free tier is genuinely strong.
+<!-- role:intro -->
 
-What the streaming era changed is context, not quality ceiling. Spotify normalizes to −14 LUFS integrated, Apple Music to −16 LUFS, and YouTube to −13 LUFS. Hitting your limiter harder than the platform's normalization target means quieter playback, not louder. Effective limiting in 2026 is as much about metering and target-awareness as it is about raw transparency — which is why this guide includes Youlean Loudness Meter 2 as an essential companion alongside the limiters themselves.
+Limiter plugins in 2026 still get framed as a trade-off between quality and cost, but that's outdated thinking. Limiter No6, a free multi-stage mastering limiter from vladgsound released back in the mid-2000s, combines RMS compression, high-frequency limiting, and brickwall peak control in one tool. The free options available now build directly on that same approach, and they hold up well against anything else on the market.
 
-This guide covers eight free options plus two paid upgrades worth the investment for producers who master regularly. It is written for bedroom producers with basic mastering knowledge who want direct picks without marketing spin.
+What has actually shifted is the context limiting happens in, not how good the tools themselves are. Spotify brings tracks to an average loudness of about −14 LUFS, Apple Music to about −16 LUFS, and YouTube to about −13 LUFS. Pushing a limiter harder than whatever target a given platform normalizes to just results in a quieter playback level, not a louder one. Because of this, limiting well in 2026 depends as much on checking your levels against these targets as it does on the limiter itself.
 
----
+## Limiter 6 GE
 
-## Best Free Limiters for Mastering
+<!-- role:pick -->
 
-### Limiter 6 GE — Multi-stage limiter (paid, not free)
+<!-- pick:Limiter 6 GE -->
+
+Limiter 6 GE — Multi-stage limiter (paid, not free)
+
 - **Developer:** Tokyo Dawn Labs
-- **Price:** €60 (paid license, per the official TDR Limiter 6 GE page)
 
 Limiter 6 GE chains six processing modules in a single plugin: an RMS compressor, a high-frequency limiter, a peak limiter, a true peak limiter, a clipper, and an output gain stage. Developer documentation confirms the true peak module addresses inter-sample peaks — a requirement for streaming platform compliance that straightforward brickwall limiters regularly miss.
 
@@ -56,13 +44,20 @@ Each of the six modules can be toggled independently, which makes Limiter 6 GE e
 
 ---
 
-### W1 Limiter — Cleanest transparent brickwall for everyday mastering
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/tkUwT0eBSDg" title="W1 Limiter — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## W1 Limiter
+
+<!-- role:pick -->
+
+<!-- pick:W1 Limiter -->
+
+W1 Limiter — Cleanest transparent brickwall for everyday mastering
 
 - **Developer:** Bram de Jong
-- **Price:** Free
+
 - **Platforms:** Windows, macOS
+
 - **Formats:** VST
 
 W1 Limiter is modeled after the Waves L1 architecture and is one of the longest-running free limiters. The interface is intentionally stripped down: a threshold and an output ceiling. There is no multiband processing, no distortion shaping, and no algorithm switching.
@@ -75,13 +70,20 @@ Its simplicity suits light gain reduction on a mix.
 
 ---
 
-### LoudMax — The default beginner recommendation for transparent limiting
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/kbLBePZFHr8" title="LoudMax — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## LoudMax
+
+<!-- role:pick -->
+
+<!-- pick:LoudMax -->
+
+LoudMax — The default beginner recommendation for transparent limiting
 
 - **Developer:** Thomas Mundt
-- **Price:** Free
+
 - **Platforms:** Windows, macOS
+
 - **Formats:** VST, VST3, AU
 
 LoudMax is a lookahead brickwall limiter whose development focus, as described in developer documentation, is maximizing loudness while minimizing perceivable distortion. Its lookahead algorithm prevents inter-sample clipping while preserving overall transparency.
@@ -94,13 +96,20 @@ The control surface offers two knobs — Threshold and Output — plus a stereo 
 
 ---
 
-### Limiter No6 — The original free multi-stage mastering architecture
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/no3JMhWwDJ0" title="Limiter No6 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## Limiter No6
+
+<!-- role:pick -->
+
+<!-- pick:Limiter No6 -->
+
+Limiter No6 — The original free multi-stage mastering architecture
 
 - **Developer:** VladG (vladgsound)
-- **Price:** Free
+
 - **Platforms:** Windows
+
 - **Formats:** VST
 
 Limiter No6 by Vladislav Goncharov is the original free multi-stage mastering limiter and the direct architectural predecessor to Tokyo Dawn Labs' Limiter 6 GE. Its chain — RMS compressor into high-frequency limiter into brickwall peak limiter — is the signal path Limiter 6 GE builds on.
@@ -113,13 +122,20 @@ The plugin is Windows-only and does not include true peak detection, which is th
 
 ---
 
-## Quick-Deploy Limiters
 
-### Unlimited — Low-overhead brickwall for in-session mix-bus use
+
+## Unlimited
+
+<!-- role:pick -->
+
+<!-- pick:Unlimited -->
+
+Unlimited — Low-overhead brickwall for in-session mix-bus use
 
 - **Developer:** Sonic Anomaly
-- **Price:** Free
+
 - **Platforms:** Windows, macOS
+
 - **Formats:** VST
 
 Unlimited by Sonic Anomaly is a transparent brickwall limiter. The interface provides threshold and output controls alongside a gain reduction meter. It is built for peak catching rather than complex mastering processing, making it more appropriate for protecting headroom during production sessions than for final streaming-compliant masters.
@@ -132,13 +148,20 @@ Unlimited lacks true peak detection and multiband processing, which separates it
 
 ---
 
-### MLimiter — Brick-wall limiting within Melda Production's free bundle
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/oOyY0U3gJ7M" title="MLimiter — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## MLimiter
+
+<!-- role:pick -->
+
+<!-- pick:MLimiter -->
+
+MLimiter — Brick-wall limiting within Melda Production's free bundle
 
 - **Developer:** Melda Production
-- **Price:** Free (included in MFreeFXBundle)
+
 - **Platforms:** Windows, macOS, Linux
+
 - **Formats:** VST, VST3, AU, AAX
 
 MLimiter is part of Melda Production's MFreeFXBundle, a comprehensive free plugin collection that covers a broad range of free effects. The plugin provides brickwall limiting with adjustable release and lookahead settings. Activating the bundle requires a free Melda account.
@@ -151,12 +174,18 @@ The primary advantage MLimiter offers over standalone free limiters is workflow 
 
 ---
 
-### Calf Limiter — Open-source limiting for Linux-native production
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/i0KCBCLlatk" title="Calf Limiter — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## Calf Limiter
+
+<!-- role:pick -->
+
+<!-- pick:Calf Limiter -->
+
+Calf Limiter — Open-source limiting for Linux-native production
 
 - **Developer:** Calf Studio Gear (open source)
-- **Price:** Free
+
 - **Platforms:** Linux only (Calf's official site says it is available exclusively for Linux-based operating systems)
 
 Calf Limiter is part of the Calf Studio Gear open-source plugin suite, which its official site says is available exclusively for Linux-based operating systems. It does not run on Windows or macOS. The plugin implements a lookahead brickwall limiter with a straightforward interface. It is most relevant for producers working in Linux-native DAW environments — Ardour, Bitwig Linux, Reaper on Linux — where LV2 integration is deep and the Calf suite fits natively into the session workflow.
@@ -169,15 +198,20 @@ Calf Limiter is not an option for Windows or macOS producers. Its main different
 
 ---
 
-## Essential Mastering Companion
 
-### Youlean Loudness Meter 2 — Non-optional metering for streaming-compliant masters
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/XMKQeLHYutw" title="Youlean Loudness Meter 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+## Youlean Loudness Meter 2
+
+<!-- role:pick -->
+
+<!-- pick:Youlean Loudness Meter 2 -->
+
+Youlean Loudness Meter 2 — Non-optional metering for streaming-compliant masters
 
 - **Developer:** Youlean
-- **Price:** Free (Pro version available)
+
 - **Platforms:** Windows, macOS
+
 - **Formats:** VST, VST3, AU, AAX
 
 Youlean Loudness Meter 2 is not a limiter — it is the metering tool that makes your limiter settings meaningful. Developer documentation confirms it displays LUFS-I (integrated loudness), LUFS-S (short-term), LUFS-M (momentary), true peak level, and loudness range (LRA), with configurable target lines for Spotify, Apple Music, YouTube, and other platforms displayed directly on the measurement graph.
@@ -190,88 +224,98 @@ It is a free loudness meter. Setting a limiter ceiling by ear without loudness m
 
 ---
 
-## Worth Upgrading To (Paid Options)
 
-### FabFilter Pro-L 2 — Paid mastering limiter
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/oMJeWXtJODc" title="FabFilter Pro-L 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+## FabFilter Pro-L 2
 
-- **Developer:** FabFilter
-- **Price:** $199
-- **Why upgrade:** Free limiters offer one algorithm or a fixed approach to gain reduction. Pro-L 2's developer documentation lists eight distinct limiting algorithms — Transparent, Aggressive, Bus, Allround, Safe, Surgical, Dynamic, and Spectrum — each calibrated for different program material. Additional features include mid-side processing, inter-sample peak visualization, and a real-time spectrum display that free options do not provide.
+<!-- role:pick -->
 
-[→ Get FabFilter Pro-L 2 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-free-limiter-vst)
+<!-- pick:FabFilter Pro-L 2 -->
 
----
+FabFilter Pro-L 2 is a paid mastering limiter made by FabFilter. People often turn to it because free limiters tend to offer only one algorithm or a single fixed approach to gain reduction, while Pro-L 2 provides eight distinct limiting algorithms — Transparent, Aggressive, Bus, Allround, Safe, Surgical, Dynamic, and Spectrum — each tuned for different kinds of program material. It suits mastering and mixing engineers working on mono, stereo, or surround material, and its external side-chain triggering also supports stem mastering.
 
-### iZotope Ozone Maximizer — AI-assisted loudness for dense program material
+The plugin pairs transparent sound with maximum achievable loudness, so tracks can be pushed hard without obviously degrading the audio. Its eight limiting algorithms each bring their own character and purpose, giving engineers flexibility depending on the source material and desired result, and adjustable look-ahead, attack, and release settings let users further shape how the limiting behaves.
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/cycMc-OpOw8" title="iZotope Ozone Maximizer — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+True peak limiting is built in, which matters because standard peak meters can miss peaks that appear between samples once audio is converted to analog or encoded to a lossy format — a true peak limiter catches these to prevent unwanted distortion or clipping downstream. To support this, Pro-L 2 offers up to 32x linear-phase oversampling, improving the accuracy of its peak detection and limiting.
+
+Metering is another strength: the plugin includes highly accurate output and gain-reduction metering, along with true peak metering, so engineers can monitor exactly how much the signal is being limited and whether any true peaks remain. An optional DC offset filter is also included, which can remove unwanted direct-current bias from a signal before it's processed further.
+
+Beyond the core limiting engine, the plugin adds features aimed at professional mastering work, including mid-side processing, inter-sample peak visualization, and a real-time spectrum display — tools that are generally absent from free limiter options. Together, these make it a practical choice for anyone needing precise, flexible control over loudness and peak behavior in a mastering or mixing context.
+
+| Tracked price | $199.00 |
+|---|---|
+
+Last recorded sale: $149.00 on 2026-10-16.
+
+[View FabFilter Pro-L 2 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2)
+
+[Watch FabFilter Pro-L 2 demo](https://www.youtube.com/watch?v=RSQoMiZkuGI)
+
+## iZotope Ozone Maximizer
+
+<!-- role:pick -->
+
+<!-- pick:iZotope Ozone Maximizer -->
+
+iZotope Ozone Maximizer — AI-assisted loudness for dense program material
 
 - **Developer:** iZotope
-- **Price:** Included in Ozone Standard and Advanced (pricing varies by tier)
+
 - **Why upgrade:** The Ozone Maximizer's IRC (Intelligent Release Control) algorithms — documented by iZotope across IRC I through IRC LL — adapt release behavior dynamically to program content in ways that fixed-release designs cannot replicate. The AI-assisted loudness targeting feature analyzes a reference track and sets integrated loudness targets automatically. For producers working with dense, transient-heavy material in EDM, hip-hop, or metal, the documented reduction in inter-modulation distortion across IRC modes is the specific capability that free limiters do not match.
 
 [→ Get iZotope Ozone (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-free-limiter-vst)
 
 ---
 
-## Full Comparison Table
-
-| Plugin | Price | Type | Highlights | CTA |
-|--------|-------|------|------------|-----|
-| Limiter 6 GE (paid, €60) | Paid | Multi-stage mastering | 6 modules, true peak, clipper | [View (paid)](https://www.tokyodawn.net/tdr-limiter6-ge/) |
-| W1 Limiter | Free | Brickwall | Near-L1 transparency, minimal controls | Official Site |
-| LoudMax | Free | Lookahead brickwall | Ultra-simple, beginner-friendly | — |
-| Limiter No6 | Free | Multi-stage | Original multistate design, Windows-only | — |
-| Youlean Loudness Meter 2 | Free | Loudness metering | LUFS metering, streaming targets built-in | [Download Free](https://youlean.co/youlean-loudness-meter/) |
-| Unlimited | Free | Brickwall | Fast in-session deployment | — |
-| MLimiter (MFreeFXBundle) | Free | Brickwall | Part of comprehensive Melda free suite | — |
-| Calf Limiter | Free | Brickwall | Open source, Linux only (not for Windows/macOS) | — |
-| FabFilter Pro-L 2 | $199 | Multi-algorithm | 8 algorithms, mid-side, spectrum display | [FabFilter](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=best-free-limiter-vst) |
-| iZotope Ozone Maximizer | Varies | IRC adaptive | AI loudness matching, IRC algorithm suite | [Official Site](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-free-limiter-vst) |
-
 ---
 
-## How to Choose
-
 - **If you are new to mastering and want a single plugin that handles the complete chain:** Limiter 6 GE. Its six modular stages teach mastering signal flow while functioning as a finished solution with true peak detection.
+
 - **If you want the simplest transparent brickwall limiter with no learning curve:** LoudMax or W1 Limiter. Both are simple, low-control brickwall limiters.
+
 - **If you produce regularly for streaming and are hitting the ceiling of what free limiters provide:** FabFilter Pro-L 2 is a paid option with multiple limiting algorithms for producers mastering professionally.
+
 - **If your material is transient-heavy (EDM, hip-hop, metal) and inter-modulation distortion is audible:** iZotope's IRC algorithms in the Ozone Maximizer are specifically documented for dense program material and address limitations that single-algorithm free limiters cannot resolve.
+
 - **If you are on Linux using LV2-compatible DAWs:** Calf Limiter is the option here that is built specifically for Linux.
 
 ---
 
-## FAQ
 **Q: What is a brickwall limiter and do I need one for mastering?**
+
 A: A brickwall limiter prevents audio from exceeding a defined ceiling level regardless of input level. Every finished track distributed digitally should pass through a true peak limiter before export — inter-sample peaks that standard peak meters miss cause clipping on decode at streaming platforms. Limiter 6 GE and FabFilter Pro-L 2 both include true peak limiting; W1 Limiter and LoudMax handle standard brickwall duties without inter-sample peak analysis.
 
 **Q: What is the difference between a limiter and a clipper?**
+
 A: A limiter applies gain reduction to prevent signal from exceeding the ceiling, typically with a defined release curve. A clipper hard-cuts any signal above the threshold, generating harmonic distortion as a byproduct. Clippers can add density and perceived loudness that limiters do not, but they require careful gain staging to avoid audible artifacts. Limiter 6 GE includes both in its processing chain, which is one reason it is suited to full mastering workflows.
 
 **Q: What LUFS target should I master to in 2026?**
+
 A: Spotify normalizes to −14 LUFS integrated, Apple Music to −16 LUFS, and YouTube to −13 LUFS. The broadest-compatibility mastering target for streaming in 2026 is −14 LUFS integrated with true peak no higher than −1 dBTP. Youlean Loudness Meter 2 lets you set streaming platform targets directly on the metering display so you can confirm compliance before export.
 
 **Q: Is Limiter 6 GE a realistic replacement for FabFilter Pro-L 2?**
+
 A: For bedroom producers mastering their own music, Limiter 6 GE covers the essential ground: multi-stage processing, true peak detection, and hard clipping in one plugin. The documented gaps relative to Pro-L 2 are algorithm variety (Limiter 6 GE does not offer multiple gain reduction curves), mid-side processing, and inter-sample peak visualization detail. For professional mastering with commercial deliverables, Pro-L 2's algorithm flexibility is the specific capability that justifies the cost.
 
 **Q: Can I use multiple limiters in the same mastering chain?**
+
 A: Yes. A common mastering approach is to use a compressor for density, a clipper for transient control, and a true peak limiter as the final stage. Limiter 6 GE implements this complete chain in a single plugin. Producers using a separate compressor and clipper can use W1 Limiter or LoudMax as a clean final-stage brickwall at the end of the chain.
 
 ---
-## Related Guides
 
 - [12 Best Free Compressor VST Plugins in 2026 (Every Style Covered)](/posts/best-free-compressor-vst-plugins/)
+
 - [10 Best Free EQ VST Plugins in 2026 (Mixing & Mastering)](/posts/best-free-eq-vst-plugins/)
+
 - [10 Best Free Delay VST Plugins in 2026 (Tape, Digital, Multi-tap)](/posts/best-free-delay-vst-plugins/)
+
 - [15 Best Free Reverb VST Plugins 2026 (Room, Hall, Plate)](/posts/best-free-reverb-vst-plugins/)
+
 - [Best Free Saturation VST Plugins: 2026 Guide](/posts/best-free-saturation-vst-plugins/)
+
 - [Best Free VST Plugins 2026: The Complete Roundup Across All Categories](/posts/best-free-vst-plugins-2026/)
 
 ---
-
-## Final Thoughts
 
 For producers willing to pay, Limiter 6 GE covers all of the ground that commercial mastering limiters promise — multi-stage processing, true peak detection, and integrated hard clipping — though it is a paid plugin (€60 on the official page), unlike the free options above. Pair it with Youlean Loudness Meter 2 to confirm your masters meet streaming targets, and you have a complete free mastering chain. When you outgrow it, FabFilter Pro-L 2 is a paid upgrade with multiple limiting algorithms.
 
@@ -281,8 +325,35 @@ For producers willing to pay, Limiter 6 GE covers all of the ground that commerc
 
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
 
-<!-- pd:method:start -->
-## Sources for this guide
-
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
-<!-- pd:method:end -->
+
+
+
+## How to choose
+
+<!-- role:choose -->
+
+If you are new to mastering and want a single plugin that handles the whole chain, Limiter 6 GE is worth considering: its six modular stages work as a way to learn mastering signal flow while also functioning as a complete solution with true peak detection, though it is a paid tool rather than a free one. If you want the simplest transparent brickwall limiter with no learning curve, LoudMax or W1 Limiter fit that need, since both are simple, low-control brickwall limiters. If you produce regularly for streaming and have reached the ceiling of what free limiters offer, a tool like Pro-L 2 is the kind of upgrade worth considering: it combines transparent sound with maximum loudness, offers eight different limiting algorithms each with its own character and purpose, includes true peak limiting with up to thirty-two times linear-phase oversampling, and provides highly accurate output and gain reduction metering, including true peak metering, along with an optional DC offset filter. It suits mastering and mixing engineers working on mono, stereo, or surround material, and its external side-chain triggering also supports stem mastering. If your material is transient-heavy, such as EDM, hip-hop, or metal, and intermodulation distortion is audible, the Ozone Maximizer's adaptive IRC algorithms are built for dense program material and address limitations that single-algorithm free limiters cannot resolve. If you are on Linux using LV2-compatible DAWs, Calf Limiter is the option built specifically for that platform.
+
+## FAQ
+
+<!-- role:faq -->
+
+Q: What is a brickwall limiter and do I need one for mastering?
+A: A brickwall limiter keeps audio from going above a set ceiling level no matter how loud the input gets. Every track meant for digital release should pass through a true peak limiter before export, because inter-sample peaks that ordinary peak meters miss can cause clipping when streaming platforms decode the file. FabFilter Pro-L 2 includes true peak limiting as part of its design.
+
+Q: What is the difference between a limiter and a clipper?
+A: A limiter reduces gain to keep the signal from crossing a ceiling, usually following a defined release curve. A clipper instead cuts off any signal above a threshold outright, which creates harmonic distortion as a side effect. Clippers can add density and a sense of loudness that limiters do not produce, but they need careful gain staging to avoid audible artifacts.
+
+Q: What LUFS target should mastering aim for in 2026?
+A: Streaming platforms normalize loudness to different targets: Spotify to minus 14 LUFS integrated, Apple Music to minus 16 LUFS, and YouTube to minus 13 LUFS. A commonly used broadly compatible target for streaming in 2026 is minus 14 LUFS integrated with a true peak no higher than minus 1 dBTP. Pushing a limiter past a platform's normalization target does not make a track louder on playback, it just gets turned down, so confirming loudness with a proper meter matters before export.
+
+Q: Is FabFilter Pro-L 2 suited to professional mastering work?
+A: FabFilter Pro-L 2 offers eight separate limiting algorithms, each calibrated differently for various types of program material, along with true peak limiting, up to 32 times linear-phase oversampling, and accurate output and gain reduction metering including true peak metering. An optional DC offset filter is also included. These features make it a tool mastering and mixing engineers use when working on mono, stereo, or surround material, and external side-chain triggering supports stem mastering as well. The range of algorithms and detailed metering are capabilities that simpler single-algorithm limiters do not offer.
+
+Q: Can multiple limiting stages be used together in a mastering chain?
+A: Yes. A typical mastering approach combines a compressor for density, a clipper for transient control, and a true peak limiter as the final stage. FabFilter Pro-L 2's eight limiting algorithms, each with distinct character and purpose, along with adjustable look-ahead, attack, and release settings, allow it to be shaped for different roles within such a chain while still functioning as a transparent final-stage limiter.
+
+## Sources
+
+<!-- role:method -->

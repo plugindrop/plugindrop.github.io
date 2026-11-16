@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Cheapest Way to Get Addictive Drums 2 Custom Collection in 2026"
 description: "How to get Addictive Drums 2 Custom Collection at the lowest verified price — standalone typical sale, all-time low, and bundle routes, based on our own..."
 pubDate: "2026-11-15T00:29:03Z"

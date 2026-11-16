@@ -11,42 +11,30 @@ xText: "New guide: 12 Best Vintage Synth VST Emulations in 2026 (Moog, Roland, .
 heroImage: "/images/best-vintage-synth-vst-plugins.jpg"
 draft: false
 ---
-**TL;DR:** u-he Diva is a circuit-modeled analog emulation in 2026 — but OB-Xd (free) and the Arturia V Collection give you genre-ready vintage tones at a fraction of the cost and CPU overhead. This guide covers 12 vetted vintage synth VSTs across Moog, Roland, Oberheim, Sequential, ARP, and Yamaha lineages.
+<!-- guide:v4 kind=roundup -->
 
-## Quick Picks at a Glance
-
-| Plugin | Price | Best For | Get It |
-|--------|-------|----------|--------|
-| u-he Diva | $179 | Circuit-accurate multi-vintage emulation | [Official Site](https://www.pluginboutique.com/search?q=u-he%20Diva&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins&chan=art&data1=best-vintage-synth-vst-plugins) |
-| Arturia Mini V3 | $99 | Minimoog bass and monophonic leads | [Official Site](https://www.arturia.com/products/software-instruments/mini-v/overview) |
-| Arturia Prophet-5 V | $99 | Lush polysynth pads and chords | [Official Site](https://www.arturia.com/products/software-instruments/prophet-5-v/overview) |
-| TAL-U-NO-LX | ~$60 | Roland Juno-60 chorus and arpeggios | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/423-TAL-U-NO-LX-Synth?a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins) |
-| OB-Xd | Free | Oberheim brass, strings, and pads | [Free Download](https://www.discodsp.com/obxd/) |
-| Dexed | Free | Yamaha DX7 FM electric pianos and bells | [Free Download](https://asb2m10.github.io/dexed/) |
-| Surge XT | Free | Multi-vintage analog filter exploration | [Free Download](https://surge-synthesizer.github.io/) |
+u-he Diva remains a circuit-modeled analog emulation as of 2026, but alternatives such as OB-Xd, which costs nothing, and the Arturia V Collection deliver vintage-style tones suited to many genres while demanding less computing power and less money overall. This guide reviews twelve vetted vintage synthesizer VST plugins drawn from classic Moog, Roland, Oberheim, Sequential, ARP, and Yamaha instrument lines.
 
 ## Introduction
 
-A used Minimoog Model D listed on Reverb in early 2026 will run you north of $6,000 — and it will arrive needing a tune-up. u-he Diva, the plugin that models that same transistor ladder filter down to its non-linearities, costs $179. OB-Xd, which nails a huge slice of the Oberheim polysynth sound, costs nothing at all. That is the strange economics of vintage emulation in 2026: the gap between free and paid is far narrower than the price tags suggest, and the real question is never "should I pay?" — it's "which specific instrument's signature do I actually need on this track?"
+<!-- role:intro -->
 
-Vintage synthesizer emulations matter because the hardware originals are either financially out of reach or mechanically unreliable. A working Sequential Prophet-5 changes hands for $3,000–$8,000. A Minimoog Model D commands four figures even in rough shape. VST emulations now model transistor ladder filters, BBD chorus circuits, and oscillator drift at a detail level that makes them compositionally indistinguishable from hardware in most mix contexts.
+A used Minimoog Model D in good working condition is costly to buy, and even after purchase it typically still needs servicing before it sounds its best. By contrast, u-he Diva recreates that same transistor ladder filter, including its non-linear quirks, as an affordable piece of software. OB-Xd, offered at no cost, reproduces a large share of the classic Oberheim polysynth character. This contrast says a lot about where vintage synth emulation stands now: plugins have closed much of the gap between owning rare, aging hardware and getting a comparable sound through software, usually for far less money and without the upkeep hardware demands.
 
-**If you only get one, make it u-he Diva** — it's the single plugin here that simulates the actual circuits rather than approximating their behavior, so one instrument gives you Moog, Roland, and Oberheim flavors that hold up under solo scrutiny. Everything else in this guide exists to cover a cheaper, lighter, or more specialized corner of that same map.
+## OB-Xd
 
-This guide covers 12 vintage synthesizer VST emulations. The focus spans Moog, Roland, Oberheim, Sequential, ARP, and Yamaha CS-80 lineages, with both free starting points and paid precision options. Every price and URL reflects current 2026 availability.
+<!-- role:pick -->
 
-## Free Vintage Emulations: Where to Start
+<!-- pick:OB-Xd -->
 
-If you are new to synthesis and want to explore a broader range of modern free options beyond vintage emulations, our [best free synth VST plugins guide](/posts/best-free-synth-plugins/) covers Vital, Surge XT, and 14 other zero-cost instruments.
-
-### OB-Xd — The Free Oberheim That Earns Its Place
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/jLwauTGsvYc" title="OB-Xd — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+OB-Xd — The Free Oberheim That Earns Its Place
 
 - **Developer:** DiscoDSP
-- **Price:** Free
+
 - **Platforms:** Windows, macOS, Linux
+
 - **Formats:** VST3, AU, AAX
+
 - **Emulates:** Oberheim OB-X / OB-Xa
 
 OB-Xd models the Oberheim OB-X and OB-Xa — polyphonic synthesizers known for wide, punchy pads and aggressive brass. DiscoDSP's documentation confirms per-voice detuning, switchable 2-pole and 4-pole filter modes, and timing differences between voices that replicate the hardware's organic character. It is a free polyphonic vintage emulation.
@@ -59,14 +47,22 @@ OB-Xd models the Oberheim OB-X and OB-Xa — polyphonic synthesizers known for w
 
 ---
 
-### Dexed — The DX7 in Your DAW for Free
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/wSs1-020nNY" title="Dexed — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## Dexed
+
+<!-- role:pick -->
+
+<!-- pick:Dexed -->
+
+Dexed — The DX7 in Your DAW for Free
 
 - **Developer:** Digital Suburban
-- **Price:** Free
+
 - **Platforms:** Windows, macOS, Linux
+
 - **Formats:** VST2, VST3, AU, Standalone
+
 - **Emulates:** Yamaha DX7 (6-operator FM)
 
 Dexed models the Yamaha DX7 — the FM synthesizer behind the electric piano, metallic bass, and bell tones that defined 1980s pop production. Developer documentation confirms full DX7 SysEx compatibility, meaning you can load original hardware patch banks directly. Dexed is a free DX7 substitute suited to Rhodes-style pads, glassy leads, and woody FM basses.
@@ -79,14 +75,22 @@ Dexed models the Yamaha DX7 — the FM synthesizer behind the electric piano, me
 
 ---
 
-### Surge XT — Open-Source Vintage with Modern Depth
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/GpcyyBBQzzA" title="Surge XT — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## Surge XT
+
+<!-- role:pick -->
+
+<!-- pick:Surge XT -->
+
+Surge XT — Open-Source Vintage with Modern Depth
 
 - **Developer:** Surge Synth Team
-- **Price:** Free (open source)
+
 - **Platforms:** Windows, macOS, Linux
+
 - **Formats:** VST3, AU, CLAP, LV2, Standalone
+
 - **Emulates:** Filter characters from Moog ladder, OB-Xa, Korg MS-20 (K35) and more
 
 Surge XT includes analog-modeled filter circuits drawn from classic hardware architectures — Moog ladder, OB-Xa, K35 (Korg MS-20), and others, as documented in the official developer notes. It suits producers who want to explore multiple vintage filter characters before committing to a specific paid emulation. Its CLAP format support makes it forward-compatible with modern DAW workflows.
@@ -99,13 +103,22 @@ Surge XT includes analog-modeled filter circuits drawn from classic hardware arc
 
 ---
 
-## Moog Emulations: The Ladder Filter Legacy
 
-### Arturia Mini V3 — The Minimoog Standard
+
+## Arturia Mini V3
+
+<!-- role:pick -->
+
+<!-- pick:Arturia Mini V3 -->
+
+Arturia Mini V3 — The Minimoog Standard
+
 - **Developer:** Arturia
-- **Price:** $99 (also included in V Collection 11)
+
 - **Platforms:** Windows, macOS
+
 - **Formats:** VST, VST3, AU, AAX
+
 - **Emulates:** Minimoog Model D
 
 Mini V3 models the Minimoog Model D using Arturia's TAE (True Analog Emulation) engine, documented as a transistor-level circuit simulation approach. It is one of several Minimoog emulations in this guide. The plugin adds polyphony and extended modulation routing beyond what the original hardware offered.
@@ -118,34 +131,40 @@ Mini V3 models the Minimoog Model D using Arturia's TAE (True Analog Emulation) 
 
 ---
 
-### Cherry Audio Memorymode 2 — The Budget Poly-Moog
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/g_OXoyaalTE" title="Cherry Audio Memorymode 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-- **Developer:** Cherry Audio
-- **Price:** ~$39
-- **Platforms:** Windows, macOS
-- **Formats:** VST, VST3, AU, AAX
-- **Emulates:** Moog Memorymoog (essentially a six-voice polyphonic Minimoog)
+## Cherry Audio Memorymode 2
 
-Cherry Audio's Memorymode 2 targets the Moog Memorymoog — a polyphonic instrument built from six Minimoog-style voices — a lower-priced way to get Moog ladder character in a polysynth. When you need Moog warmth across chords and don't need the maximum accuracy u-he Diva provides, this is the pragmatic choice.
+<!-- role:pick -->
 
-**Best for:** Producers on a budget who want authentic Moog character across pads and chords without the $99–$179 outlay.
+<!-- pick:Cherry Audio Memorymode 2 -->
 
-**Skip it if:** you specifically want the raw mono Minimoog Model D voice. Memorymode 2 is the smoother, polyphonic Memorymoog — glorious for pads, less of a snarling single-oscillator bass monster.
+Cherry Audio Memorymode 2, nicknamed the budget poly-Moog, is a virtual instrument built around the Memorymoog, one of the most iconic polyphonic programmable analog synthesizers of the 1980s, essentially six Minimoog-style voices combined into a single polyphonic instrument. It runs on both Windows and macOS, in VST, VST3, AU, and AAX formats, and offers a lower-cost way to bring that Moog ladder-filter warmth to full chords and pads rather than to a single mono voice.
 
-[→ Get Cherry Audio Memorymode 2](https://cherryaudio.com/products/memorymode-v2)
+Under the hood it uses a newly optimized dual-layer architecture, giving two complete 16-voice polyphonic synthesizer layers that can be stacked or split within one preset. The ladder filter itself is precisely recreated with selectable 12- and 24-dB-per-octave slopes, and a Modern setting adds beefier low end and more crystalline highs. Each layer carries two tempo-syncable LFOs with seven waveforms and a reset option, and an analog drift control adds subtle pitch and timing variation for a more organic, hardware-like feel. It is available as a standalone instrument as well as a plug-in, with user-adjustable oversampling, and an innovative Touch Animator ties expressive automation to four touch controls. Over 800 presets are included, among them recreations of the 100 factory patches from the original hardware, organized in a redesigned preset browser.
 
----
+This makes it a good fit for producers who want authentic Moog-style character spread across pads and chords, along with layered polyphonic parts, keyboard splits, stacked sounds, arpeggios, and step-sequenced patterns, without reaching for a pricier, more exacting standalone emulation. It is a weaker fit for anyone who specifically wants the raw, snarling single-oscillator bass tone of a true mono Minimoog: Memorymode 2 trades that edge for a smoother, polyphonic voice that shines on pads rather than biting basslines.
 
-### Synapse Audio The Legend — Minimoog Precision at Full Price
+Get Cherry Audio Memorymode 2: https://cherryaudio.com/products/memorymode-v2
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/u70GfIMXX_s" title="Synapse Audio The Legend — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+[View Cherry Audio Memorymode 2 on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17746-Memorymode-2)
+
+[Watch Cherry Audio Memorymode 2 demo](https://www.youtube.com/watch?v=DGiVmJhfkg4)
+
+## Synapse Audio The Legend
+
+<!-- role:pick -->
+
+<!-- pick:Synapse Audio The Legend -->
+
+Synapse Audio The Legend — Minimoog Precision at Full Price
 
 - **Developer:** Synapse Audio
-- **Price:** ~$99
+
 - **Platforms:** Windows, macOS
+
 - **Formats:** VST, VST3, AU, AAX
+
 - **Emulates:** Minimoog Model D
 
 The Legend models the Minimoog with a documented zero-delay-feedback filter implementation — a technical approach associated with higher accuracy at audio-rate modulation compared to earlier modeling methods. It is a Minimoog emulation aimed at oscillator and filter interaction at extreme settings.
@@ -158,16 +177,22 @@ The Legend models the Minimoog with a documented zero-delay-feedback filter impl
 
 ---
 
-## Roland Emulations: Juno and Jupiter Heritage
 
-### TAL-U-NO-LX — Roland Juno-60 Emulation
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/FLtIpEmfBgg" title="TAL-U-NO-LX — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+## TAL-U-NO-LX
+
+<!-- role:pick -->
+
+<!-- pick:TAL-U-NO-LX -->
+
+TAL-U-NO-LX — Roland Juno-60 Emulation
 
 - **Developer:** TAL Software
-- **Price:** ~$60 (CHF pricing; regional equivalent varies)
+
 - **Platforms:** Windows, macOS
+
 - **Formats:** VST, VST3, AU, AAX
+
 - **Emulates:** Roland Juno-60
 
 TAL's U-NO-LX is a Roland Juno-60 emulation. Developer documentation emphasizes emulation of the Juno-60's BBD (Bucket Brigade Device) chorus circuit — a defining feature of the Juno sound.
@@ -180,14 +205,22 @@ TAL's U-NO-LX is a Roland Juno-60 emulation. Developer documentation emphasizes 
 
 ---
 
-### Arturia Jup-8 V — Jupiter-8 Grandeur in Software
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/tih7PqwyPc4" title="Arturia Jup-8 V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## Arturia Jup-8 V
+
+<!-- role:pick -->
+
+<!-- pick:Arturia Jup-8 V -->
+
+Arturia Jup-8 V — Jupiter-8 Grandeur in Software
 
 - **Developer:** Arturia
-- **Price:** $99 (also included in V Collection 11)
+
 - **Platforms:** Windows, macOS
+
 - **Formats:** VST, VST3, AU, AAX
+
 - **Emulates:** Roland Jupiter-8
 
 Jup-8 V models the Roland Jupiter-8, known for rich polyphonic filter sweeps and the wide, layered sound that defined 1980s cinematic and synth-pop production. Arturia's TAE engine is documented for this instrument. It is a software option for Jupiter-8 character for producers without Roland Cloud subscriptions.
@@ -200,16 +233,29 @@ Jup-8 V models the Roland Jupiter-8, known for rich polyphonic filter sweeps and
 
 ---
 
-## Sequential & Oberheim: Polysynth Gold Standards
+| Tracked price | $149.00 |
+|---|---|
 
-### Arturia Prophet-5 V — The Polysynth Reference
+Last recorded sale: $99.00 on 2026-08-17.
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/xoRYgl8T_K8" title="Arturia Prophet-5 V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+[View Arturia Jup-8 V on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/7147-Jup-8-V)
+
+[Watch Arturia Jup-8 V demo](https://www.youtube.com/watch?v=aKth4B3Qi2A)
+
+## Arturia Prophet-5 V
+
+<!-- role:pick -->
+
+<!-- pick:Arturia Prophet-5 V -->
+
+Arturia Prophet-5 V — The Polysynth Reference
 
 - **Developer:** Arturia
-- **Price:** $99 (also included in V Collection 11)
+
 - **Platforms:** Windows, macOS
+
 - **Formats:** VST, VST3, AU, AAX
+
 - **Emulates:** Sequential Prophet-5
 
 Prophet-5 V models Sequential's Prophet-5 — a five-voice polysynth whose Curtis chip filters and voltage-controlled oscillators defined 1980s film scores and electronic music. It models the Prophet-5's filter and oscillator behavior. Arturia's developer documentation for the V4 lineage confirms collaboration with Sequential during development.
@@ -222,16 +268,27 @@ Prophet-5 V models Sequential's Prophet-5 — a five-voice polysynth whose Curti
 
 ---
 
-## The Premium Pick: Circuit Simulation at Its Ceiling
+| Tracked price | $149.00 |
+|---|---|
 
-### u-he Diva — The Most Accurate Analog Emulation Available
+[View Arturia Prophet-5 V on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11232-Prophet-5-V)
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/q8LGFteoC1g" title="u-he Diva — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+[Watch Arturia Prophet-5 V demo](https://www.youtube.com/watch?v=vlthG5utYHA)
+
+## u-he Diva
+
+<!-- role:pick -->
+
+<!-- pick:u-he Diva -->
+
+u-he Diva — The Most Accurate Analog Emulation Available
 
 - **Developer:** u-he
-- **Price:** $179
+
 - **Platforms:** Windows, macOS, Linux
+
 - **Formats:** VST2, VST3, AU, AAX
+
 - **Emulates:** Multi-vintage — Minimoog, SH-101, Jupiter-8, and Juno filter/oscillator sections
 
 Diva is not an emulation of one synthesizer — it models components from multiple classic instruments (Minimoog, SH-101, Jupiter-8, Juno circuits, and others as documented in u-he's official notes) and lets you mix oscillator, filter, and envelope sections from different hardware lineages. Developer documentation explicitly describes the approach as near-sample-accurate circuit simulation rather than behavioral approximation, which is why CPU cost is high by design. Of the plugins here, it is the one that simulates the real circuits most directly.
@@ -244,16 +301,27 @@ Diva is not an emulation of one synthesizer — it models components from multip
 
 ---
 
-## Expanded Vintage Arsenal: ARP and Yamaha CS-80
+| Tracked price | $179.00 |
+|---|---|
 
-### Arturia ARP 2600 V3 — Semi-Modular Vintage Without the Patch Cables
+Last recorded sale: $119.00 on 2026-09-01.
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/RNkofQKGX6Q" title="Arturia ARP 2600 V3 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+[View u-he Diva on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1396-Diva)
+
+## Arturia ARP 2600 V3
+
+<!-- role:pick -->
+
+<!-- pick:Arturia ARP 2600 V3 -->
+
+Arturia ARP 2600 V3 — Semi-Modular Vintage Without the Patch Cables
 
 - **Developer:** Arturia
-- **Price:** $99 (also included in V Collection 11)
+
 - **Platforms:** Windows, macOS
+
 - **Formats:** VST, VST3, AU, AAX
+
 - **Emulates:** ARP 2600 (early-1970s semi-modular)
 
 The ARP 2600 is a semi-modular synthesizer from the early 1970s known for its built-in spring reverb, distinctive oscillator-filter feedback routing, and flexible patchable signal path. Arturia's ARP 2600 V3 documents a TAE modeling approach to these circuits. It suits producers seeking the grittier, more textural side of vintage synthesis — the opposite end of the spectrum from Juno warmth.
@@ -266,14 +334,22 @@ The ARP 2600 is a semi-modular synthesizer from the early 1970s known for its bu
 
 ---
 
-### Arturia CS-80 V — The Yamaha Polyphonic Giant
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/JL00ZNDI-JE" title="Arturia CS-80 V — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## Arturia CS-80 V
+
+<!-- role:pick -->
+
+<!-- pick:Arturia CS-80 V -->
+
+Arturia CS-80 V — The Yamaha Polyphonic Giant
 
 - **Developer:** Arturia
-- **Price:** $99 (also included in V Collection 11)
+
 - **Platforms:** Windows, macOS
+
 - **Formats:** VST, VST3, AU, AAX
+
 - **Emulates:** Yamaha CS-80
 
 The Yamaha CS-80 was used by Vangelis on the Blade Runner soundtrack — one of the most recognizable vintage synthesizer timbres in film history. Arturia's CS-80 V models the instrument's unusual dual-filter architecture and ribbon controller behavior. It suits cinematic polyphonic pads. Developer documentation confirms emulation of the CS-80's "fat" unison mode.
@@ -286,126 +362,42 @@ The Yamaha CS-80 was used by Vangelis on the Blade Runner soundtrack — one of 
 
 ---
 
-## Ready for the Next Level?
-
 The free tier gets you making music today. But there's a point — usually when a mix needs one signature sound to sit exactly right — where a paid emulation earns its price in minutes saved and character gained. Here's how the best paid vintage-synth options stack up in 2026, including when they typically go on sale so you can time the buy.
 
-| Plugin | Emulates | ~2026 Price | Typical Sale Window | Get It |
-|--------|----------|-------------|---------------------|--------|
-| Arturia V Collection 11 | 40+ vintage synths (Mini, Prophet, Jupiter, CS-80, ARP…) | $599 | Drops to ~50% ($299) at Black Friday and Arturia's summer sale | [Plugin Boutique](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins) |
-| u-he Diva | Multi-vintage circuit simulation | $179 | u-he rarely discounts deeply; expect ~25% off ($135ish) a few times a year, never much lower | [Plugin Boutique](https://www.pluginboutique.com/search?q=u-he%20Diva&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins&chan=art&data1=best-vintage-synth-vst-plugins) |
-| u-he Repro | Prophet-5 & Pro-One | ~$149 | Falls toward ~$99 during u-he's occasional sales | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/3027-Repro?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins&chan=art&data1=best-vintage-synth-vst-plugins) |
-| GForce Minimonsta2 | Minimoog | ~$99 | GForce runs frequent 40–50% off promos (~$50) | [Plugin Boutique](https://www.pluginboutique.com/search?q=GForce%20Minimonsta&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins&chan=art&data1=best-vintage-synth-vst-plugins) |
-| Cherry Audio Memorymode 2 | Moog Memorymoog | ~$69 (as of 2026-10-01) | Official price | [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17746-Memorymode-2?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins&chan=art&data1=best-vintage-synth-vst-plugins) |
+And if Diva is on your list, buy it the moment u-he posts any sale, because the discounts are shallow and infrequent; it holds its value harder than almost anything else on this table.
 
-Two practical rules from these price patterns: if you want V Collection, there is almost no reason to pay full $599 — Black Friday reliably halves it. And if Diva is on your list, buy it the moment u-he posts any sale, because the discounts are shallow and infrequent; it holds its value harder than almost anything else on this table.
 
-### u-he Diva — The Step Up From Any Free Emulation
-- **Developer:** u-he
-- **Price:** $179 (watch for ~25% u-he sales)
-- **Why upgrade:** Free emulations like OB-Xd and Surge XT model circuit behavior — Diva models circuits. When you need accurate oscillator drift, filter self-oscillation, or the specific non-linearities of vintage VCAs, the free tier hits a hard ceiling that Diva does not share.
 
-[→ Get u-he Diva (via Plugin Boutique)](https://www.pluginboutique.com/search?q=u-he%20Diva&a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-vintage-synth-vst-plugins&chan=art&data1=best-vintage-synth-vst-plugins)
+## How to choose
 
----
-
-### Arturia V Collection 11 — The Full Vintage Library in One Purchase
-
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/gjIwo3Pnorg" title="Arturia V Collection 11 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-- **Developer:** Arturia
-- **Price:** $599 (frequently discounted to ~$299; individual instruments sold at ~$99 each)
-- **Why upgrade:** V Collection 11 contains Mini V3, Prophet-5 V, Jup-8 V, ARP 2600 V3, CS-80 V, and over 25 additional instruments. If you're buying more than two Arturia emulations individually, the bundle math favors the collection at any discount price below $400 — and Black Friday routinely takes it to $299.
-
-[→ Get Arturia V Collection 11 (via Plugin Boutique)](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins)
-
----
-
-## Full Comparison Table
-
-| Plugin | Price | Vintage Source | Key Technical Differentiator | CTA |
-|--------|-------|----------------|-------------------------------|-----|
-| u-he Diva | $179 | Multi-vintage | Near-sample-accurate circuit simulation | [Official Site](https://www.pluginboutique.com/search?q=u-he%20Diva&a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins) |
-| Arturia Mini V3 | $99 | Minimoog Model D | TAE transistor-level engine | [Official Site](https://www.pluginboutique.com/search?q=Arturia%20Mini%20V3&a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins) |
-| Arturia Prophet-5 V | $99 | Sequential Prophet-5 | Curtis filter model, Sequential collaboration | [Official Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11232-Prophet-5-V?a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins) |
-| Arturia Jup-8 V | $99 | Roland Jupiter-8 | TAE, wide polyphonic filter sweep | [Official Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/7147-Jup-8-V?a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins) |
-| Arturia ARP 2600 V3 | $99 | ARP 2600 | Semi-modular routing, spring reverb | [Official Site](https://www.pluginboutique.com/search?q=Arturia%20ARP%202600%20V3&a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins) |
-| Arturia CS-80 V | $99 | Yamaha CS-80 | Dual filter, ribbon controller model | [Official Site](https://www.pluginboutique.com/search?q=Arturia%20CS-80%20V&a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins) |
-| Synapse Audio The Legend | ~$99 | Minimoog | Zero-delay-feedback filter | [Official Site](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/11446-LEGEND?a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins) |
-| TAL-U-NO-LX | ~$60 | Roland Juno-60 | BBD chorus circuit emulation | [Official Site](https://www.pluginboutique.com/search?q=TAL-U-NO-LX&a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins) |
-| Cherry Audio Memorymode 2 | ~$69 | Moog Memorymoog | Best price-to-accuracy ratio | [Official Site](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17746-Memorymode-2?a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins) |
-| OB-Xd | Free | Oberheim OB-Xa | Per-voice detuning, 2/4-pole filter | [Free Download](https://www.discodsp.com/obxd/) |
-| Dexed | Free | Yamaha DX7 | Full SysEx compatibility | [Developer Site](https://asb2m10.github.io/dexed/) |
-| Surge XT | Free | Multi-vintage | Ladder, K35, OB filters; CLAP support | [Developer Site](https://surge-synthesizer.github.io/) |
-
----
+<!-- role:choose -->
 
 ## How to Choose
 
-- **If maximum circuit accuracy is the priority**, go with u-he Diva — it is the only plugin in this guide that uses near-sample-accurate simulation rather than behavioral modeling.
-- **If you primarily need Moog bass and leads on a budget**, Cherry Audio Memorymode 2 (~$69) delivers comparable character to Arturia Mini V3 ($99) at a lower price.
-- **If the Roland Juno chorus is your target**, TAL-U-NO-LX is the Juno-60 emulation in this guide — there is no meaningful free alternative for that specific BBD chorus circuit.
-- **If you're buying three or more Arturia instruments**, Arturia V Collection 11 is almost always the better financial decision compared to individual purchases at full price — and it drops to ~$299 on Black Friday.
-- **If you're starting with no budget**, OB-Xd (Oberheim), Dexed (DX7), and Surge XT (multi-vintage filters) cover three distinct vintage sound palettes at zero cost.
-
----
+If circuit accuracy matters most, u-he Diva stands out as the top option, since it is the only plugin in this guide built on near-sample-accurate circuit simulation rather than behavioral modeling. For producers who want Moog-style bass and lead tones on a tighter budget, Cherry Audio Memorymode 2 offers character comparable to Arturia Mini V3 at a lower cost. Anyone chasing the Roland Juno chorus sound specifically should look at TAL-U-NO-LX, the Juno-60 emulation covered here — there is no meaningful free alternative that reproduces that particular bucket-brigade-device chorus circuit. For those planning to pick up three or more Arturia instruments, the Arturia V Collection 11 bundle is generally the better financial choice compared with buying each one separately at full price, especially when the bundle goes on sale. And for anyone starting out with no budget at all, OB-Xd (modeled on the Oberheim), Dexed (modeled on the Yamaha DX7), and Surge XT (covering several vintage filter styles) together provide three distinct vintage sound palettes at no cost.
 
 ## FAQ
+
+<!-- role:faq -->
+
 **Q: What's the single most accurate vintage synth VST in 2026?**
-A: u-he Diva, and it isn't close. It's the only plugin here that simulates the actual circuits rather than approximating how they behave. The catch is CPU — it's built to be heavy.
+A: Diva is considered the most accurate, and not by a small margin. It is the only plugin in this guide that simulates the actual circuits rather than approximating how they behave. That accuracy comes with a CPU cost, since it is built to be heavy on processing power.
 
 **Q: Is OB-Xd really a proper Oberheim, or just a free stand-in?**
-A: DiscoDSP models the OB-X and OB-Xa down to per-voice detuning and switchable filter poles. It is free, so it suits anyone who won't pay for a vintage polysynth.
+A: This plugin models the OB-X and OB-Xa down to per-voice detuning and switchable filter poles. It is available at no cost, which suits anyone who does not want to pay for a vintage polysynth.
 
 **Q: Can I run these on Linux?**
-A: Some of them. u-he Diva, OB-Xd, Dexed, and Surge XT all ship Linux builds. Arturia and TAL-U-NO-LX are Windows and macOS only, per their current documentation — no Linux support.
+A: Some of them. Diva, OB-Xd, Dexed, and Surge XT all offer Linux versions. The other paid instruments covered in this guide, including TAL-U-NO-LX, are limited to Windows and macOS, with no Linux support currently offered.
 
-**Q: Should I buy V Collection 11 if I already own one Arturia synth?**
-A: If you own one and want two more, the bundle usually wins the math — but don't pay $599. Arturia halves it to around $299 at Black Friday and again in its summer sale, so unless you need it this week, wait for the drop.
+**Q: Should I buy the full collection if I already own one synth from the same lineup?**
+A: If you own one instrument from that lineup and want two or more others, buying the bundled collection usually makes more financial sense than buying them separately, particularly when the bundle is on sale. Waiting for a sale period rather than buying it at its regular price is generally the smarter approach unless you need it right away.
 
 **Q: Mini V3 or Diva for Minimoog tones — what's the actual difference?**
-A: Mini V3 is the more playable of the two: it adds polyphony and modulation the hardware never had, using TAE modeling. Diva's Minimoog-derived voice uses full circuit simulation and reproduces the specific hardware non-linearities more faithfully. In short: Mini V3 is the more playable, Diva the more accurate.
+A: Mini V3 is the more playable of the two: it adds polyphony and modulation that the original hardware never had, built on a transistor-level emulation approach. Diva's Minimoog-derived voice instead relies on full circuit simulation and reproduces the hardware's specific irregularities more faithfully. In short, Mini V3 favors playability while Diva favors accuracy.
 
 **Q: What's the cheapest way to get a real Moog sound?**
-A: Cherry Audio Memorymode 2 at ~$69 (as of 2026-10-01). It's the polyphonic Memorymoog rather than the mono Model D, so it leans smooth and lush, but the ladder-filter character is unmistakably Moog.
+A: Memorymode 2 offers the most affordable path to genuine Moog character. It emulates the polyphonic Memorymoog rather than the monophonic Model D, so it leans smooth and lush, but its ladder-filter character remains unmistakably Moog.
 
----
-## Related Guides
+## Sources
 
-- [14 Best Free Synth VST Plugins in 2026 (Try Before You Buy)](/posts/best-free-synth-plugins/)
-- [Arturia V Collection 10 Review: 40+ Vintage Synths Worth the Price?](/posts/arturia-v-collection-review/)
-- [Best Synth VST Plugins 2026: Top 12 Picks Ranked](/posts/best-synth-vst-plugins-2026/)
-- [Arturia V Collection vs NI Komplete: Which Bundle Is Worth Your Money?](/posts/arturia-vs-native-instruments-komplete/)
-- [Serum VST Review 2026: Is It Still the Best Wavetable Synth?](/posts/serum-vst-review/)
-
----
-
-<!-- pd:method:start -->
-## Sources for this guide
-
-This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
-<!-- pd:method:end -->
-
-<!-- pd:price-records:start -->
-## PluginDrop price records for the products in this list
-
-| Product | Typical regular | Typical sale | Sales recorded | Latest sale period | Today's price position |
-| --- | ---: | ---: | ---: | --- | --- |
-| Arturia Jup-8 V | $149 | $89 | 2 | 2026-07-22 to 2026-08-17 | At or above typical regular |
-| u-he Diva | $179 | $89 | 3 | 2026-08-16 to 2026-09-01 | At or above typical regular |
-| [u-he Repro](/plugin-prices/u-he-repro/) | $149 | $99 | 3 | 2026-08-15 to 2026-08-31 | At or above typical regular |
-
-Prices reflect recorded checks, not every day of a sale.
-<!-- pd:price-records:end -->
-
-## Final Thoughts
-
-For most producers, the free tier — OB-Xd, Dexed, and Surge XT — covers enough vintage ground to make serious music without spending anything. When you're ready to invest, u-he Diva is the defensible top pick for producers who need circuit-level accuracy, and Arturia V Collection 11 is the most efficient path to a full vintage keyboard library in one purchase.
-
-Concrete next step: download OB-Xd, Dexed, and Surge XT today, build one track with each, and note which sound you keep reaching for. That single instrument tells you exactly which paid emulation to grab when the next sale lands.
-
-[→ Get u-he Diva (via Plugin Boutique)](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins)
-
----
-
-*This post contains affiliate links. We may earn a small commission at no extra cost to you.*
+<!-- role:method -->

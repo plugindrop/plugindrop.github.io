@@ -7,7 +7,7 @@ affiliate: "https://www.thomann.de/intl/rane_serato_vinyl_black.htm?offid=1&affi
 heroImage: "/images/nap-works-devious-pocket-is-a-standalone-dvs-device-no-more-.jpg"
 score: 6.90
 xText: "never thought i'd see a standalone dvs that actually works. no laptop tether. nap works devious pocket genuinely changes how you can move around and still handle your full mixing setup."
-draft: false
+draft: true
 ---
 
 ## TL;DR

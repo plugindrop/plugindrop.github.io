@@ -7,7 +7,7 @@ affiliate: "https://www.thomann.de/intl/softube_flow_studio.htm?offid=1&affid=57
 heroImage: "/images/softube-flow-studio-powerful-macro-mixing-with-a-hardware-tw.jpg"
 score: 5.28
 xText: "macro mixing with actual hardware controls instead of diving through menus. softube flow studio is the first to actually get it. this is the move."
-draft: false
+draft: true
 ---
 
 This page is based on published specifications and price records. It does not assess sound quality.

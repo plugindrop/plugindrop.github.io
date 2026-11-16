@@ -8,7 +8,7 @@ heroImage: "/images/news-ik-multimedia-launches-resing-voices-japanese-pack-for-
 aiImage: true
 score: 6.19
 xText: "resing's japanese pack is what jpop producers have been waiting for—actually models character and tone. this sits different. if you make japanese music, this changes your workflow."
-draft: false
+draft: true
 ---
 
 ## IK Multimedia ReSing Voices Japanese Pack: Buyer's Guide

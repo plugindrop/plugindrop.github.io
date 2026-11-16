@@ -9,7 +9,7 @@ aiImage: true
 evergreen: true
 score: 8.00
 xText: "New guide: Best Limiter Plugins in 2026: Mastering-Grade Tools Compared"
-draft: false
+draft: true
 ---
 **TL;DR:** FabFilter Pro-L 2 is a standalone mastering limiter with eight distinct algorithms and integrated streaming-target loudness metering in a single plugin. iZotope Ozone 12 wins when you need a complete AI-assisted mastering chain rather than a dedicated ceiling tool. Waves L3 earns its place for producers already inside the Waves ecosystem who need multiband limiting at aggressively discounted sale pricing.
 
