@@ -21,7 +21,7 @@ import { buildDealPool, toCardModel, pickSpotlight, orderForVariety, endingSoon,
 
 const now = Date.now();
 const entries = { ...priceData.bundles, ...priceData.plugins };
-const posts = (await getCollection('blog')).filter(p => !p.data.draft && p.data.pubDate.valueOf() <= now);
+const posts = (await getCollection('blog')).filter(p => !p.data.draft && !p.data.noindex && p.data.pubDate.valueOf() <= now);
 const pool = buildDealPool(entries, posts, now);
 const cards = pool.map(deal => toCardModel(deal, { entries, priceData, now, videos, copy, facts })).sort((a, b) => (a.image.kind === 'typographic') - (b.image.kind === 'typographic'));
 const spotlight = pickSpotlight(cards);
