@@ -1242,7 +1242,7 @@ const showInlineDeals = (rawBody.match(/^## /gm) ?? []).length >= 5 && saleCards
 							<nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span class="sep">/</span><a href="/posts/">Deals</a><span class="sep">/</span><span>{_composedTitle}</span></nav>
 							<div class="article-header"><h1 data-product-key={_trackerMatch.name} data-deal-state={_dealState}>{_composedTitle}</h1><div class="meta"><span class="author-byline">By <a href="/about/" rel="author">SignalDrop</a></span><span class="date"><FormattedDate date={pubDate} /></span><span class="reading-time">{readingTime}</span></div></div>
 						</Fragment>
-						<Fragment slot="footer"><AuthorBox /><div class="affiliate-disclosure"><p>This post contains affiliate links. We may earn a small commission at no extra cost to you.</p></div></Fragment>
+						<Fragment slot="footer"><PriceRecord entry={_trackerMatch.entry} /><AuthorBox /><div class="affiliate-disclosure"><p>This post contains affiliate links. We may earn a small commission at no extra cost to you.</p></div></Fragment>
 					</V4ArticleBody>
 				) : (
 				<div class="content-layout">
@@ -1340,7 +1340,7 @@ const showInlineDeals = (rawBody.match(/^## /gm) ?? []).length >= 5 && saleCards
 							)}
 						</div>
 						</div>
-						{_dealTagline && <p class="deal-why">What it is: The manufacturer describes this product as “{_dealCopyRecord.tagline_source_quote}” <a href={_dealCopyRecord.tagline_source_url} rel={getDealSource(_dealCopyRecord.tagline_source_url) === 'Plugin Boutique' ? 'noopener sponsored' : undefined}>Source</a></p>}
+						{_dealTagline && <p class="deal-why">What it is: The manufacturer describes this product as “{_dealCopyRecord.tagline_source_quote}” <a href={_dealCopyRecord.tagline_source_url} rel="noopener sponsored">Source</a></p>}
 						{_rarity && !_discountCheck?.lines.some(line => line.key === 'L1') && <p class="deal-why">{_rarity.full}.</p>}
 						{_discountCheck ? (
 							<div class="deal-discount-check">
