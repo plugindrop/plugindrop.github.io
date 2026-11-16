@@ -30,7 +30,14 @@ export function splitGuideV4(html, rawBody) {
     const pick = part.match(/<!-- pick:([^>]+) -->/)?.[1]?.trim() ?? null;
     return role ? { role, id: h[1], html: part, pick } : null;
   });
-  if (sections.some(s => !s)) return null;
+  // Headings without a role marker (e.g. a duplicated model-written heading) fold into the previous section.
+  const merged = [];
+  sections.forEach((s, i) => {
+    if (s) merged.push(s);
+    else if (merged.length) merged[merged.length - 1].html += sponsorPluginBoutiqueLinks(html.slice(headings[i].index, headings[i + 1]?.index ?? html.length));
+  });
+  if (!merged.length || !sections[0]) return null;
+  sections.splice(0, sections.length, ...merged);
   const faq = sections.find(s => s.role === 'faq')?.html ?? '';
   const faqItems = [...faq.matchAll(/<p>Q:\s*([\s\S]*?)<\/p>\s*<p>A:\s*([\s\S]*?)<\/p>/gi)]
     .map(m => ({ q: m[1].replace(/<[^>]*>/g, '').trim(), a: m[2].replace(/<[^>]*>/g, '').trim() }));
