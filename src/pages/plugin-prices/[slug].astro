@@ -938,7 +938,7 @@ const faqLD = {
         {demoVideo && <div class="demo-section" data-video-official={String(demoVideo.official === true)} data-video-id={demoVideo.video_id} data-video-title={demoVideo.title}>
           <div id="demo-block" data-video-id={demoVideo.video_id} data-video-official={String(demoVideo.official === true)}><button id="demo-btn" type="button" data-video-id={demoVideo.video_id} title={`Play ${demoVideo.title}`} aria-label={`Play ${demoVideo.title}`}><img src={`https://i.ytimg.com/vi/${demoVideo.video_id}/hqdefault.jpg`} alt="" loading="lazy" width="480" height="270" /><span class="demo-play" aria-hidden="true">▶</span></button></div><p class="demo-caption">{demoVideo.title}</p>
         </div>}
-        {(() => { const quote = content.sound?.find((item: any) => cleanEvidence(item.evidence) && item.term && item.evidence?.toLowerCase().includes(item.term.toLowerCase()))?.evidence || content.lineage?.find((item: any) => cleanEvidence(item.evidence))?.evidence; return quote && <div class="maker-quote-small"><span>From the product page</span><q>{quote}</q> <a href={content.source_url} rel="nofollow noopener" target="_blank">Source</a></div>; })()}
+        {(() => { const quote = content.sound?.find((item: any) => cleanEvidence(item.evidence) && item.term && item.evidence?.toLowerCase().includes(item.term.toLowerCase()))?.evidence || content.lineage?.find((item: any) => cleanEvidence(item.evidence))?.evidence; return quote && <div class="maker-quote-small"><span>From the product page</span><q>{quote}</q> <a href={content.source_url} rel="nofollow noopener sponsored" target="_blank">Source</a></div>; })()}
       </section>}
       {content && (content.prose?.audience || content.uses?.filter((item: any) => item.label && item.evidence).length >= 2) && <section class="page-section content-depth" data-content-block="uses"><h2 class="section-title">Who {name} suits</h2><p>{content.prose?.audience || `Works for: ${content.uses.filter((item: any) => item.label && item.evidence).map((item: any) => item.label).join(' · ')}`}</p></section>}
       {content && <BeforeYouBuy content={content} facts={productFacts} name={name} />}
@@ -1201,7 +1201,7 @@ const faqLD = {
                     <td>{versusToday(row.low)}</td><td>our checks</td></tr>
                 ) : (
                   <tr><td>{row.date}</td><td>1 snapshot</td><td>{formatPrice(row.price)}</td><td></td>
-                    <td>{versusToday(row.price)}</td><td><a href={row.url} rel="nofollow noopener" target="_blank">archived store page</a></td></tr>
+                    <td>{versusToday(row.price)}</td><td><a href={row.url} rel="nofollow noopener sponsored" target="_blank">archived store page</a></td></tr>
                 ))}
               </tbody>
             </table>
