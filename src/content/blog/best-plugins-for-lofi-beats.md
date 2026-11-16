@@ -19,8 +19,6 @@ TL;DR: iZotope Vinyl is a free lo-fi plugin that has been available at no cost s
 
 <!-- role:intro -->
 
-Here's the rewritten intro:
-
 Lo-fi production has a quirk worth noting up front: many of the genre's best tools have been free for a long time. iZotope Vinyl has been given away at no cost since 2002. Valhalla DSP, a developer whose other reverbs are sold at premium prices, offers Supermassive as a permanent free download. Chow Tape Model, a tape emulator built on physical modeling, is open source. None of this is a watered-down or trial-limited tier — it's full-featured software available for free, built specifically to recreate the crackle, warp, saturation, and grit that define the lo-fi sound.
 
 That raises a fair question: with so much free ground covered, is there any reason to pay for a lo-fi plugin at all? The answer is yes, but only for a specific use case. For producers who want every stage of the lo-fi chain — texture, saturation, modulation, and degradation — bundled into one tool instead of stacking several free plugins, a paid all-in-one option can save setup time and simplify a session. This guide lays out ten free picks that come with no trial period or expiration date, alongside two paid options worth considering once a producer is ready to consolidate their workflow or go beyond what the free tools offer.

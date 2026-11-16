@@ -407,8 +407,6 @@ This guide brings together publicly available product information and prices tra
 
 <!-- role:choose -->
 
-Here's the rewritten "How to Choose" section in plain English prose, keeping the same five scenarios and their key details:
-
 Producers starting from zero should begin with ADSR Sounds' free section, since it is searchable by type and tempo and covers drums, textures, and chords in a single session, avoiding the need to open and sort through multiple separate downloads.
 
 For those who care most about getting authentic vinyl crackle, the better path is to go straight to Freesound.org and search for vinyl crackle recordings, because real recordings taken from actual vinyl carry a noise floor behavior that neither synthetic crackle generators nor even well-curated sample packs are able to reproduce.

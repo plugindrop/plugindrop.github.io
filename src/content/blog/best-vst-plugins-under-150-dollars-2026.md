@@ -25,8 +25,6 @@ Vital was used on major-label releases, and many of the other plugins on this li
 
 <!-- role:intro -->
 
-This guide's introduction, rewritten as plain prose:
-
 This same pattern, where a lower-cost tool matches the results of a pricier alternative, shows up throughout today's plugin market, not just in reverb. The affordable VST plugins covered here can match plugins that cost far more, at least for the specific jobs they are built to do.
 
 This has become possible because of a broader shift in how plugins are made: independent developers have shown that sound quality does not simply rise in step with price. Some developers publish their technical approach openly, and the free versions of their tools often share the same core processing as the paid versions.

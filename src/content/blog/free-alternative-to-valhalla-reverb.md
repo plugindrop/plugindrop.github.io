@@ -22,8 +22,6 @@ A free option exists for anyone who wants Valhalla-style reverb without paying f
 
 <!-- role:intro -->
 
-Here's the final article body:
-
 ---
 
 **TL;DR:** A free alternative to Valhalla's paid reverbs is Valhalla's own Supermassive — free, fully featured, and purpose-built for ambient and spatial work. For natural room simulation and vintage character, Dragonfly Reverb and TAL-Reverb-4 cover the gaps Supermassive leaves.

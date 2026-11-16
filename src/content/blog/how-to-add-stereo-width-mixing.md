@@ -17,8 +17,6 @@ FabFilter Pro-Q 4 is an EQ plug-in that gives you up to 24 bands to shape sound,
 
 <!-- role:intro -->
 
-Here's the rewritten intro section:
-
 FabFilter Pro-Q 4 is a parametric equalizer that supports up to 24 bands, giving detailed control over the frequency spectrum. What sets it apart is a feature called Spectral Dynamics, which allows more precise and efficient handling of problem frequencies, letting engineers target narrow trouble spots without disturbing the surrounding sound. The plugin is built to work across stereo, surround, and Dolby Atmos sessions, making it flexible for a range of mixing and mastering environments. It offers display range options at 3 dB and 6 dB for the fine detail work typical of mastering, along with wider 12 dB and 30 dB ranges suited to the broader moves made during mixing. Alongside Spectral Dynamics, it includes a Dynamic EQ mode with adjustable Attack and Release controls and optional free-form side-chain filtering, so specific bands can respond dynamically to the signal rather than applying a static boost or cut. Processing improvements aim to reduce distortion and keep the sound cleaner across its zero-latency, Natural Phase, and linear-phase modes, giving users a choice between speed and phase accuracy depending on the task at hand.
 
 ## How to

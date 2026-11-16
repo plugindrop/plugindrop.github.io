@@ -18,8 +18,6 @@ Xfer Cthulhu is a dedicated arpeggiator and chord MIDI plugin, while Scaler 2 pr
 
 <!-- role:intro -->
 
-Here's the rewritten introduction:
-
 A common mistake when shopping for arpeggiator plugins is treating them as a simple "set it and forget it" tool — something you attach to a synth as a stand-in for a melody idea, just to stagger notes across pitches. That view is outdated. Modern arpeggiator plugins function as complete MIDI composition tools. They understand harmony, allow multi-step rhythmic patterns to be built with control over the velocity of each individual note, and can generate melodic phrases that would otherwise take hours to write by hand. The gap between the old idea of an arpeggiator and what these tools actually do now is significant.
 
 This matters because the arpeggiator you choose directly affects the melodic character of a track. A basic up-and-down arpeggio pattern played over a preset synth sound tends to blend in with countless similar tracks already out there. By contrast, a producer who takes the time to understand how a plugin's chord-triggering system works is able to get more varied and distinctive results out of it.

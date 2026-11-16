@@ -286,8 +286,6 @@ Available through slatedigital.com.
 
 <!-- role:choose -->
 
-Here's the "How to Choose" section rewritten in plain English, with no prices, vendor attribution phrasing, first-person claims, invented quotes, or ratings:
-
 If the goal is one paid compressor that can handle every drum job, Pro-C 3's many compression styles cover bus glue, snare punch, transient control, and parallel compression all in a single plugin. Its real-time gain reduction display also makes it the easiest tool in this group to learn from, since it shows clearly what the compression is doing while you listen.
 
 If drum bus glue is the only need, a classic VCA-style bus compressor built specifically for that job is usually the simplest and most affordable route. An alternative built for tighter analog circuit accuracy suits producers working inside Ableton who want a closer match to the original hardware behavior, though it tends to go on sale less often.

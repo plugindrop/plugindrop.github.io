@@ -12,8 +12,6 @@ draft: false
 ---
 <!-- guide:v4 kind=roundup -->
 
-Here's the rewritten section as plain prose:
-
 A handful of glitch plugins cover most needs, split between free and paid options. On the free side, Illformed's Glitch 2 handles sequenced multi-effect glitching, Glitchmachines' Fracture pushes buffer-based audio destruction to extremes, and Glitchmachines' Hysteresis is suited to ambient feedback and drone-style glitch textures. Among paid options, iZotope's Stutter Edit 2 brings MIDI-controlled, professional-grade stutter editing; Output's Portal focuses on granular textures and real-time glitch manipulation; and Sugar Bytes' Effectrix offers a compositional, sequencer-driven approach to glitch effects.
 
 Illformed's Glitch 2 is offered at no cost, while iZotope's Stutter Edit 2 is a paid tool built around a MIDI-gesture-driven design that works differently from free sequencer-style plugins. The difference between free and paid tools in this category isn't as large as many producers assume in most situations, though in certain cases the gap is still meaningful, since paid tools generally offer deeper control, more refined workflows, and tighter integration with a producer's existing setup.

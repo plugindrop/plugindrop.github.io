@@ -211,8 +211,6 @@ Last recorded sale: $1069.00 on 2026-11-14.
 
 <!-- role:faq -->
 
-Here's the rewritten FAQ section only, in plain English with Q:/A: lines, keeping the same five questions and comparable length/detail, with no prices, vendor attribution, first-person claims, invented quotes, or star ratings:
-
 ---
 
 **Q: What LUFS target should I aim for on Spotify and Apple Music in 2026?**

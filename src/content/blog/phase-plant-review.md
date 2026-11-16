@@ -19,8 +19,6 @@ Phase Plant is a synthesizer built around a fully open, modular design, so inste
 
 <!-- role:intro -->
 
-Here is the rewritten introduction, in plain prose only:
-
 A mistake many producers make when shopping for a new synthesizer is treating synthesis style as a fixed category — wavetable, FM, analog, granular — and picking a plugin based on which of those labels fits. Phase Plant works differently. It is built around generators, modulators, and effects that can be combined in almost any configuration, rather than locking the user into one synthesis method. Wavetable oscillators, FM operators, sample players, and noise sources can all live inside a single patch at the same time. Any of these elements can be used to modulate any other, and the combined result can then be sent through a chain of effect modules, all within one instrument rather than across separate tools. This open, building-block approach is what sets the instrument apart: instead of offering one style of sound generation done well, it offers a flexible framework that can be shaped into many different styles depending on how the pieces are arranged.
 
 ## Phase Plant

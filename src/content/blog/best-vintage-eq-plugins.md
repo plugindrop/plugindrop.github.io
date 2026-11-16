@@ -223,8 +223,6 @@ Last recorded sale: $1069.00 on 2026-11-14.
 
 <!-- role:choose -->
 
-Here is the rewritten section in plain prose:
-
 Choosing among these options comes down to where someone is starting from and what matters most to them. Anyone wanting SSL console EQ character from a standing start can begin with the SSL E-Channel, a low-cost entry point that frequently goes on sale. For those who want precision control to matter as much as tonal character, FabFilter Pro-Q 4 handles corrective work and analog-style curve shaping better than any single-purpose vintage emulation, and it can be used alongside console emulations rather than in place of them. Producers who want to try the classic Pultec low-end effect, where the same frequency is boosted and cut at once, without spending anything can start with PTEq-X, a free passive EQ emulation, before considering a paid Pultec plugin. Anyone building a complete vintage-style signal chain rather than focusing on EQ alone can add VC 76 to cover the FET compression stage, which sits before or after the EQ in a hardware-style channel path. Finally, anyone ready to grow beyond the single SSL E-Channel strip into a full SSL-style workflow can move up to the SSL 4000 Collection, which adds the G-series console character along with a mix bus compressor.
 
 ## FAQ

@@ -360,8 +360,6 @@ This list brings together publicly available feature information and prices trac
 
 <!-- role:choose -->
 
-Here's the "How to Choose" section rewritten in plain prose, with prices and vendor-attribution phrasing removed:
-
 The right choice depends on what job needs doing. For surgical equalization with dynamic control at no cost, the free dynamic EQ option is the most complete, covering the same core functions as a paid dynamic equalizer without a subscription. For replacing a Pultec-style equalizer, the free Pultec-style EQ option follows the same circuit design as that vintage unit, making it a close match for warmth and low-end shaping. For clean bus or mastering compression, the free mastering compressor offers mid/side processing and stereo linking while avoiding added coloration and ongoing subscription cost. For optical-style compression suited to vocals or bass, the free optical compressor reproduces that smooth, program-dependent behavior, with its continued development supported through a Patreon-style model rather than a purchase price. For reverb suited to atmospheric, ambient, or large spaces, the free algorithmic reverb is built specifically for long, expansive tails and textured wash rather than realistic room simulation. For productions that instead call for convincing acoustic room simulation, the paid room reverb is the more direct upgrade, offering controllable early reflections and natural decay behavior that the free atmospheric reverb isn't designed to provide.
 
 ## FAQ

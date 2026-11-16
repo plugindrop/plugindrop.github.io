@@ -18,8 +18,6 @@ Komplete 26 Standard from Native Instruments is worth buying when picked up duri
 
 <!-- role:intro -->
 
-Here's the plain-English rewrite of the intro section:
-
 Whether this bundle makes sense to buy in 2026 comes down to which tier is being offered and how deep the current markdown goes. The core comparison is simple: buying the full sampler plugin on its own costs about the same as what the mid-tier bundle costs once discounted. So for anyone who already intended to pick up that sampler by itself, the bundle ends up being the better deal almost every time.
 
 That said, this bundle in 2026 isn't the automatic purchase it used to be a few years back.

@@ -20,8 +20,6 @@ Four plugins made this round of the guide because their current pricing keeps th
 
 <!-- role:intro -->
 
-Here's the rewritten intro section only, in plain English, keeping the same structure and roughly the same length:
-
 ## Introduction
 
 This roundup gathers plugins priced at or under a modest budget ceiling, based on what each product's own listing page shows. None of these have been tried out firsthand; the write-ups below simply restate what each product's page says about itself. See the [editorial policy](/editorial-policy/) page for how sources are evaluated.

@@ -137,8 +137,6 @@ EchoBoy is a delay plugin built around models of vintage tape and digital delay 
 
 <!-- role:choose -->
 
-Here's the rewritten "How to Choose" section in plain prose, with no prices, vendor attribution, first-person claims, invented quotes, or ratings:
-
 Producers starting house music from nothing are well served by combining a wavetable synthesizer with a virtual analog synthesizer, since together they cover both the synthesis styles used in the genre: wavetable tools suit contemporary, processed sounds, while virtual analog tools suit the period-authentic chord and stab sounds associated with classic house. It makes sense to begin with one of these and add the other once sound design needs grow beyond what a single synth can do.
 
 For producers whose mixes don't hold up on club sound systems, a precise multiband equalizer is the upgrade most likely to improve mix quality. The feature that matters most here is a linear-phase processing mode, which avoids the phase distortion that can occur when steep filters are used to manage low-end and bass frequencies, along with a spectrum analyzer that lets a mix be compared directly against a reference track to match the tonal balance of released music.

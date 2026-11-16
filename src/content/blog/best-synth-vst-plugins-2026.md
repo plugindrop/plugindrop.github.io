@@ -614,8 +614,6 @@ Prices reflect recorded checks, not every day of a sale.
 
 <!-- role:choose -->
 
-Diva covers the second and third blocks are thin or already strong; the first has essentially nothing to draw from. Here's the rewritten section, one paragraph per entry in the order given:
-
 For buyers weighing this category of instrument, reasonable alternatives to look at include the Analog Monosynth Collection, the Analog Polysynth Collection, and Arturia Analog Lab Intro. These cover similar ground to one another, so choosing between them comes down to which specific sound engines and preset libraries actually fit the way someone wants to work.
 
 Hive 2 combines three synthesis engines — including wavetable oscillators, standard waveforms, and tunable sub-oscillators — with a design built around low CPU usage and quick patching. Modulation is assigned by dragging a source onto a target, and four user-definable XY pads give hands-on control over several parameters at once. An eight-step shape sequencer drives four independent outputs, a separate arpeggiator and step sequencer support real-time recording, and a scale quantizer keeps patterns locked to a chosen scale from a pre-defined list. Seven effects, including distortion, chorus, and reverb, can be freely rearranged and applied in real time to shape the tone further. The package also comes with a set of wavetables, along with scripts written in a dedicated wavetable generation and manipulation language, plus documentation for anyone who wants to build their own wavetables. This is a synth to choose when speed and directness matter more than deep menu-diving, while still wanting real sound-design depth through its sequencing and modulation tools.

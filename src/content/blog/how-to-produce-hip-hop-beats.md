@@ -18,8 +18,6 @@ MT Power Drum Kit 2, TAL-NoiseMaker, Rough Rider 3, iZotope Vinyl, and Valhalla 
 
 <!-- role:intro -->
 
-Here's a plain-English rewrite of the intro section:
-
 ---
 
 ## Introduction

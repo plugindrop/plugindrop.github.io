@@ -21,8 +21,6 @@ Phase Plant stands out as the best choice for producers who feel limited by Seru
 
 <!-- role:intro -->
 
-Here's the rewritten introduction, in plain declarative English, with no prices, vendor attribution, first-person claims, quotes, or ratings:
-
 The strongest alternatives to Serum do not try to copy it — they do things its design simply does not allow. One option offers a fully modular signal path, where Serum relies on a fixed oscillator-and-filter layout. Another combines several synthesis engines — including modal, wavetable, granular, harmonic, and virtual analog methods — within a single patch, giving it unusual range. A third is built specifically for dense, full-spectrum electronic dance leads and comes with genre-focused presets already in place. Serum remains the point of comparison throughout, and each alternative sets itself apart from it in its own particular way.
 
 This comparison is relevant now because a new version of Serum reset expectations across the category, while competing synths continued to mature. The multi-engine option reached a new major version. The modular option's add-on ecosystem grew into a genuine reason on its own to consider that platform, giving producers a deeper library of expandable sound-design tools to draw on.

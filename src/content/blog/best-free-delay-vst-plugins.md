@@ -19,8 +19,6 @@ For free delay plugins in 2026, a good starting point is Valhalla Supermassive, 
 
 <!-- role:intro -->
 
-Here's the rewritten intro section:
-
 ---
 
 ## Introduction

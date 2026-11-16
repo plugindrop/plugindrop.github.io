@@ -22,8 +22,6 @@ Waves Platinum Bundle is marketed with a steep official list price, but tracked 
 
 <!-- role:intro -->
 
-Here's the rewritten intro section in plain prose, with no prices, vendor names, first-person claims, or ratings:
-
 Waves Platinum Bundle carries a steep list price, but tracked price history shows it consistently selling for a small fraction of that amount on every check logged since earlier in the year — the discounted price functions as the real price rather than a temporary markdown. This isn't an isolated case. Several well-known plugin makers show the same pattern in their pricing history: a high list price that almost nobody actually pays, paired with a recurring discount deep enough that paying full price is close to a mistake.
 
 The pattern extends across a range of related products from these makers. Waves' Gold Bundle follows the same cycle as its Platinum sibling, dropping sharply during the brand's frequent flash sales. A cluster of well-regarded plugins — including console emulations, equalizers, compressors, and other processing tools from one major plugin maker — regularly fall to a single low flat price during a recurring storewide promotion covering any plugin in that catalog. Suites and individual tools from several other well-known plugin developers follow similar cycles, dropping during seasonal sales windows such as summer promotions, year-end release events, and major shopping holidays.

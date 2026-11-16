@@ -361,8 +361,6 @@ This guide brings together publicly available product information and prices tra
 
 <!-- role:choose -->
 
-Here's the plain-English rewrite of the "How to Choose" section:
-
 Choosing among these options comes down to what the work actually needs. For the most realistic free choir sound, LABS Choir is the strongest pick, since it draws from a professional ensemble recording rather than a lighter sample set. Anyone assembling a full orchestral template should look at BBC Symphony Orchestra Discover instead, because it places choir alongside every other orchestral section, all recorded in the same acoustic space, at no cost. For producers working on machines that struggle to run large sample players, DSK Choirs is the more practical choice: it runs as a self-contained plugin and sidesteps the extra CPU load that player-based libraries add. Those working on Linux, or anyone who needs open and portable file formats, are better served by Sonatina Symphonic Orchestra and VSCO2 Community Edition, since both rely on SFZ and SF2 formats that function in any compatible setup without proprietary restrictions. If the goal is a synthetic or experimental choir sound rather than recorded voices, Alter/Ego stands apart as the only algorithmic option covered here, generating vocal audio through a synthesis model instead of playing back recordings. Finally, for anyone scoring film or television at a professional level, the free tier of choir plugins won't hold up for exposed, front-and-center choral writing — Requiem Professional is the paid library worth considering once sustain-pad textures are no longer sufficient.
 
 ## FAQ

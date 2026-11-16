@@ -344,8 +344,6 @@ When the free tier runs out — typically when you need more articulations, high
 
 <!-- role:choose -->
 
-Here is the "How to Choose" section rewritten in plain English prose, keeping the same content and roughly the same length:
-
 Picking the right tool from this list comes down to what you actually need to do. For anyone who simply wants the strongest free strings option available today, the starting point is Spitfire LABS paired with BBC Symphony Orchestra Discover. Both come from the same installer system, both require the same account, and together they set the quality ceiling for everything in the free category.
 
 If the goal is writing real orchestral arrangements rather than building atmospheric textures, VSCO2 Community Edition is the better fit. It offers the range of articulations needed for convincing section string writing, which LABS does not reliably provide on its own.

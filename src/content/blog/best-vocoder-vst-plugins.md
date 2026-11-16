@@ -18,8 +18,6 @@ draft: false
 
 <!-- role:intro -->
 
-Here's the rewritten introduction:
-
 ---
 
 ## Introduction
