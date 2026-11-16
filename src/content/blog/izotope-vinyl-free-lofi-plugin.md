@@ -10,6 +10,11 @@ evergreen: true
 
 score: 1.89
 ---
+
+
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/r0Q6I3y8tKY" title="iZotope Vinyl — FREE Lo-Fi Plugin (Always Free) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 <!-- guide:v4 kind=guide -->
 
 This plugin is available at no cost, with no time limit or catch. It is a lo-fi effect that recreates the character of vinyl records, built by an audio software company also known for mastering, repair, and mixing tools. It adds dust and crackle, surface scratches, warp and flutter, and electrical hum, plus a year dial that shifts the sound from heavily degraded to barely noticeable. It has been around for decades and is one of the most widely downloaded free plugins available.
