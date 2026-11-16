@@ -3921,5 +3921,19 @@
     "channel": "u-he",
     "source": "pb_page",
     "official": true
+  },
+  "Vital": {
+    "video_id": "7qQX6YGBQEA",
+    "title": "Free Vital Synth - Full Tutorial",
+    "channel": "In The Mix",
+    "source": "manual_verified",
+    "official": false
+  },
+  "Waves SSL E-Channel": {
+    "video_id": "pmupessEC_Q",
+    "title": "How to mix with an SSL Channel 3 Steps",
+    "channel": "Waves Audio",
+    "source": "manual_verified",
+    "official": true
   }
 }
