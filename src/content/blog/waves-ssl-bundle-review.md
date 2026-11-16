@@ -108,8 +108,6 @@ The mix knob is genuinely useful. Running the compressor at 30–50% wet allows 
 
 ### FabFilter Total Bundle — The Modern Precision Alternative
 
-<div class="video-embed"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/I_I_3ojs2Ps" title="FabFilter Total Bundle — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 - **Developer:** FabFilter
 - **Price:** Premium bundle pricing (check current price)
 - **Why upgrade:** The Waves SSL tools prioritize analog character and speed. FabFilter's Total Bundle — anchored by Pro-Q 4, Pro-C 3, and Pro-L 2 — prioritizes precision, transparency, and modern workflow features including dynamic EQ, mid/side processing, and linear-phase modes unavailable in the SSL emulations. For producers who want both worlds, the Waves SSL bundle handles the character work while FabFilter handles the surgical corrections. Together, they cover every scenario across tracking, mixing, and mastering.
