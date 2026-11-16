@@ -44026,7 +44026,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/19-Filter/11231-Filterscape",
     "retrieved_on": "2026-11-16",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "intro": "Filterscape is a dual-filter and 4-band parametric EQ plugin, and its most distinctive feature is a set of 8 morphable EQ snapshots that can transition into one another and be modulated independently.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "u-he Hive 2": {
     "features": [
@@ -44322,7 +44327,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/1400-Satin",
     "retrieved_on": "2026-11-16",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "intro": "Satin is a tape emulation plugin that recreates a wide range of historical tape machines in software, with a Studio mode that links multiple instances into groups so they behave as one multitrack tape.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "u-he Twangstr m": {
     "features": [
@@ -44380,7 +44390,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/5024-Twangstr-m",
     "retrieved_on": "2026-11-16",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "intro": "Twangstr m is a spring reverb that emulates a hand-picked selection of the most popular units found in classic guitar and instrument amplifiers. Shakeable springs built into 3 different reverberation tanks recreate the odd character of real springs.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "u-he TyrellN6": {
     "features": [
@@ -45004,7 +45019,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/6618-DANDY",
     "retrieved_on": "2026-11-13",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "audience": "DANDY suits mixes that call for a seasoned, professional bassist with no indie-rock attitude in the playing, staying present without ever sounding shouty or taking up too much room in a mix.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "Esspresso": {
     "features": [
@@ -45246,7 +45266,13 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15190-Motion-Bundle-Upgrade-from-any-Motion-product-",
     "retrieved_on": "2026-11-16",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "intro": "The Motion Bundle combines Motion: Harmonic, Motion: Dimension and Motion: Fractal into one package for shaping, modulating and transforming audio. A Cursor, Path and Timeline Page drives a Reactive 3D Visualiser across all three plugins.",
+      "audience": "The bundle suits producers seeking to push the boundaries of sound design, sculpting intricate textures, crafting expansive soundscapes, or generating complex granular atmospheres and rhythms.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "United Plugins Mirror": {
     "features": [],
@@ -45582,7 +45608,13 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/51-Audio-Restoration-/17210-RX-12-Elements",
     "retrieved_on": "2026-11-13",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "intro": "iZotope RX 12 Elements is intelligent noise reduction and audio restoration software for content creators and musicians, built around six plugins including the Repair Assistant. It works as an essential toolkit for clean, clear, and compelling sound.",
+      "audience": "iZotope RX 12 Elements suits content creators and musicians who want clean, clear, and compelling sound through noise reduction and audio restoration. The six-plugin toolkit, led by Repair Assistant, gives that sound the pro polish.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "iZotope RX 12 Standard": {
     "features": [],
@@ -46118,7 +46150,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/74-Preamp/14618-73-JR-Preamp",
     "retrieved_on": "2026-11-13",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "audience": "Music producers and engineers aiming to create their own vintage mixer sound across many channels suit this preamp, running it on tracking and mixing sessions in professional audio studios.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "Virtual Bassist Bundle 2": {
     "features": [],
@@ -46739,7 +46776,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/70-Expansion-Packs/8235-Addictive-Drums-2-Classic-Rock-Collection",
     "retrieved_on": "2026-11-16",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "intro": "Addictive Drums 2: Classic Rock Collection is an expansion for Addictive Drums 2 built around an authentic late-60s drum kit and a Ludwig plexi kit. Production-ready presets and over 200 live-recorded performances span classic and modern sounds from hard rock to Motown.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "Addictive Drums 2 Custom XXL Collection": {
     "features": [
@@ -47041,7 +47083,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17963-HyperWarp",
     "retrieved_on": "2026-11-16",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "intro": "HyperWarp is a granular effect plugin built around time-bending manipulation, generating motion, texture, and color from a signal. Seven effect profiles cover transformations from clean pitch and time shifts to lo-fi degradation and harmonic density.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "AmpliTube 5": {
     "features": [
@@ -48770,7 +48817,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/140-Vocal-Synth/15409-ACE-Studio-2-0-Artist-Pro-Lifetime-License",
     "retrieved_on": "2026-11-16",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "intro": "ACE Studio 2.0 Artist Pro Lifetime License is an AI vocal production suite that turns lyrics and MIDI notes into sung vocal tracks, with voice cloning that builds a custom AI voice from a user's own vocal samples.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "UAD Emperical Labs FATSO Tape Simulator": {
     "features": [],
@@ -48823,7 +48875,14 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/18051-Emperical-Labs-FATSO-Tape-Simulator",
     "retrieved_on": "2026-11-16",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "intro": "The Empirical Labs FATSO Tape Simulator brings tape saturation, compression, and high-frequency smoothing together under one set of knobs.",
+      "sound": "Thick tape saturation and punchy compression glue a mix together with warmth. Variable transformer saturation and high-frequency smoothing go from subtle color to total destruction on drums, bass, and vocal. Four compression modes — Buss, G.P., Tracking, and Spank — glue buses and mixes together or pop bass on small speakers.",
+      "audience": "Mix engineers working with drums, vocals, and full mixes can use it to slam drums into saturation, warm a vocal, and glue a mix together.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "Native Instruments Kithara": {
     "features": [
@@ -48877,7 +48936,13 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15877-Kithara",
     "retrieved_on": "2026-11-16",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "intro": "Kithara is a cinematic library of guitars and plucked string instruments gathered from around the world for Kontakt and Kontakt Player, built so up to four instruments can be shaped and layered at once.",
+      "audience": "This library suits composers building cinematic scores, pairing eclectic guitars and plucked string instruments from around the world into evolving, organic soundscapes.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "Native Instruments Scene Magnolia": {
     "features": [],
@@ -48931,7 +48996,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/18016-Scene-Magnolia-",
     "retrieved_on": "2026-11-12",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "intro": "Scene Magnolia is a lightweight Kontakt instrument built around contemporary arthouse cinema scores, blending smoothly between 16 hybrid sound layers, effects, and controls.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "IconDrum": {
     "features": [
@@ -49450,7 +49520,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/7476-Reelight-PRO",
     "retrieved_on": "2026-11-16",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "audience": "Sound engineers and musicians seeking the tape sound and sonics of analogue-era recordings suit this plugin, since it offers six sought-after tape machines with tape speed, bias, input saturation, crosstalk, and compression controls for shaping their recordings.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "Fluid Pitch": {
     "features": [],
@@ -49559,7 +49634,13 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/35-Pitch-Shifter/7552-Fluid-Pitch",
     "retrieved_on": "2026-11-16",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "intro": "Fluid Pitch is a MIDI pitch bend system for musicians using any standard MIDI keyboard, built around a Scale-Locked-Pitch-Bend engine that converts MIDI to MPE so the pitch wheel always resolves to a note in the current scale.",
+      "audience": "Fluid Pitch suits musicians playing any standard MIDI keyboard who want pitch bending, micro-tuning, and MPE synth control without a new learning curve. It fits any style of music performed on stage or in productions that use scale-locked pitch bends on individual notes.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "Pythor V2": {
     "features": [
@@ -50229,7 +50310,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12467-DC-Snares",
     "retrieved_on": "2026-11-16",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "intro": "DC Snares is a snare construction instrument with four sample layering slots, pitch and amp envelopes, and a built-in sequencer for programming snare rolls. A one-click randomiser generates new snare combinations from its four flexible sound slots.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "Devastor 2": {
     "features": [
@@ -50362,7 +50448,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/8908-Digitalis",
     "retrieved_on": "2026-11-16",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "intro": "Digitalis is a multi-effect digital degradation and glitch tool built around the sound of bad converters, unearthed CDs, weak internet connections, and catastrophic digital errors.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "Lair": {
     "features": [],
@@ -50505,7 +50596,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12447-SampleTank-4-MAX",
     "retrieved_on": "2026-11-16",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "intro": "SampleTank 4 MAX is a multi-platform virtual instrument that runs as a plug-in or a standalone application, pairing a 640 GB sound library with 16-part multitimbral performance and 16 individual stereo outputs.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "dime[ms]": {
     "features": [
@@ -50694,7 +50790,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/1480-Essential-Plugin-Bundle",
     "retrieved_on": "2026-11-16",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "audience": "The de-esser and dynamic EQ suit vocal and dialogue material where harsh frequencies need transparent, corrective control, while the EQ, dynamics and reverb sections suit broader music mixing and post-production work, backed by more than 100 presets as starting points.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "RESO": {
     "features": [],
@@ -50743,7 +50844,13 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/8320-RESO",
     "retrieved_on": "2026-11-16",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "intro": "RESO is a dynamic resonance suppressor that identifies and resolves resonance build-up in a mix. It uses automatic Q optimization to target only the frequencies carrying excess energy relative to the rest of the mix.",
+      "sound": "Resonance build-up makes music sound harsh and unpleasant, masking elements and thinning the punch of transients. RESO resolves specific frequencies dynamically, reducing resonant issues without taking away the character of the mix. High-quality filters deliver mastering-grade transparency, with automatic Q optimization for musical results on every mix.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "dime[tt]": {
     "features": [
@@ -50817,7 +50924,13 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/36-Transient-Shaper/14948-dime-tt-",
     "retrieved_on": "2026-11-16",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "intro": "dime[tt] splits any audio signal into a transient-attack layer and a tonal-sustain layer. Each layer runs through its own plugin effect chain, giving independent control over attack and sustain at the same time.",
+      "audience": "Vocal and drum tracks that need more clarity or punch without losing impact suit dime[tt], as do mixes where reverb needs to sit on the sustain without washing out the transient.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "Pitch 'N Time Pro": {
     "features": [
@@ -51156,7 +51269,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/17931-VocAlign-7-Pro-Upgrade",
     "retrieved_on": "2026-11-16",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "intro": "VocAlign 7 Pro Upgrade is a vocal alignment plug-in that brings every lead, double, and harmony into one multi-track workspace, letting any track lead while the rest follow in a single operation.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "RC-20 Retro Color v2": {
     "features": [],
@@ -51463,7 +51581,13 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16123-Sonnox-Producer-Power-Bundle-Oxford-Inflator-Oxford-Limiter",
     "retrieved_on": "2026-11-16",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "audience": "It suits mixing and mastering engineers who want vocals or guitars to push forward in a mix and masters that hit loudness targets without losing dynamic impact.",
+      "intro": "This bundle combines the Oxford Inflator's warmth-adding saturation with the Oxford Limiter's peak limiting and loudness maximization. The Limiter's Recon meter reads the actual signal rather than a sampled version, catching true peaks for accurate limiting.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "Oberheim Matrix-12": {
     "features": [
@@ -51589,7 +51713,13 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/18220-KNOCK-2-Upgrade",
     "retrieved_on": "2026-11-16",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "sound": "The COMP module blends classic hardware-style dynamics with multiband processing, while PUNCH applies multiband transient shaping to push drum hits forward. SATURATE adds GRIT, CREAM, BUMP, or WEAR character, CLIP contributes CRUNCH, ROUND, or FRESH texture alongside a gain reduction meter, and SUB applies DUCK, COLOR, and LO CUT to tighten the low end, giving drums more slap and punch through a mix.",
+      "intro": "KNOCK 2 is a plugin for making drums slap and punch through a mix. It is inspired by the signature sound of the drum kit series Drums That Knock, which has helped shape the sonics of contemporary music.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "Sonic Bundle": {
     "features": [],
@@ -51651,7 +51781,13 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/14774-Sonic-Bundle",
     "retrieved_on": "2026-11-16",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "intro": "Sonic Bundle gathers synths, effects, solo instruments, and orchestral libraries into a single collection built around the hybrid instrument Falcon.",
+      "sound": "Sonic Bundle leverages sampling, synthesis, and DSP research to build hand-crafted sounds with their own character. Synths, effects, sound FX, foley, solo instruments, and orchestras run signal through the hybrid instrument Falcon, coloring presets into tones for any genre. The result gives tracks unique sounds not found elsewhere, drawn from an award winning collection in a single bundle.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "KNOCK 2": {
     "features": [],
@@ -51720,7 +51856,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17645-KNOCK-2",
     "retrieved_on": "2026-11-16",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "sound": "COMP and PUNCH compress and reshape transients across multiple bands for added snap and punch, while SATURATE layers grit, cream, bump, and wear onto the signal and CLIP adds crunch, round, or fresh-style gain reduction with its own reduction meter. SUB tightens the low end through ducking, coloring, and low cut, and AIR applies dynamic EQ with stereo control to the top of the signal.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "UAD Native Producer Bundle": {
     "features": [
@@ -51937,7 +52078,13 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17617-UAD-Native-Pro-Bundle",
     "retrieved_on": "2026-11-16",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "intro": "UAD Native Pro Bundle brings together 60+ plug-ins covering compressors, equalizers, reverbs, tape machines, amps, and instruments modeled on hardware from SSL, API, Manley, and Teletronix circuits. Every plug-in runs with any audio interface, with no UA hardware required.",
+      "audience": "The bundle suits producers and mixing engineers running a studio who need compressors, EQs, reverbs, and instruments spanning tracking through mastering. It covers vocals, drums, bass, synths, and guitars for material across R&B, soul, hip-hop, rock, and electronic production.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "TONEX MAX": {
     "features": [
@@ -52005,7 +52152,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12452-TONEX-MAX",
     "retrieved_on": "2026-11-16",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "intro": "TONEX MAX is a standalone application and plug-in for creating, playing and sharing Tone Models, with its most distinctive feature being the ability to model amps, cabinets, combos and pedals from regular studio gear in as little as 5 minutes per model.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "Sonnox Vocal Production Bundle Oxford Inflator Claro": {
     "features": [],
@@ -52042,7 +52194,14 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/18171-Sonnox-Vocal-Production-Bundle-Oxford-Inflator-Claro",
     "retrieved_on": "2026-11-16",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "sound": "Claro's extended high-frequency range gives the top end an airy, smooth quality, shaping vocals and mix busses without harshness. Inflator adds warmth, depth, and character to a track through saturation that ranges from subtle warmth to full-on intensity. It raises loudness without flattening the track's dynamics, keeping its energy and emotional impact intact in today's loudness-driven market.",
+      "intro": "This bundle pairs the Oxford Inflator with Claro's EQ. Inflator adds warmth, depth, and character to any track, and Claro's 26 bands offer Left, Right, Mid, Side, Mono, or Stereo channel processing to correct, widen, narrow, or make space within each track.",
+      "audience": "This bundle suits engineers mixing vocals, guitars, and mix busses who need correction, widening, or excitement without flattening dynamics in today's loudness-driven market.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "UAD Native Studio Bundle": {
     "features": [
@@ -52157,7 +52316,13 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17616-UAD-Native-Studio-Bundle",
     "retrieved_on": "2026-11-16",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "intro": "The UAD Native Studio Bundle gathers 25 hardware emulations spanning preamps, compressors, equalizers, reverbs, tape machines, and guitar amps for every stage from tracking to final mix. Every plug-in runs with any audio interface, with no UA hardware required.",
+      "audience": "The bundle suits engineers moving vocals, drums, and guitar tracks from tracking to mixing to mastering.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "SSL Blitzer": {
     "features": [
@@ -52445,7 +52610,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/18187-UAD-Capitol-Studios",
     "retrieved_on": "2026-11-13",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "intro": "UAD Capitol Studios is a room modeling and reverb plug-in that places vocals and instruments in Capitol's Studios A and B, with signal paths through vintage mics, the studio's consoles, and four underground echo chambers.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "SSL Native Bus Compressor 2": {
     "features": [
@@ -52525,7 +52695,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/8651-SSL-Native-Bus-Compressor-2",
     "retrieved_on": "2026-11-13",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "intro": "This is a native plug-in version of the SSL G-Series center section bus compressor, carrying over dry/wet signal blending for parallel processing and a sidechain highpass filter not found on the original hardware.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "Outro Eternal Serum Bank": {
     "features": [],
@@ -52615,7 +52790,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5391-Phase-Plant",
     "retrieved_on": "2026-11-14",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "audience": "Phase Plant suits sound designers and producers who want to build everything from compact synth patches to complex, evolving sounds by freely combining generators, modulators, and effects.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "Virtual Pianist VIBE": {
     "features": [],
@@ -52706,7 +52886,13 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10074-Virtual-Pianist-VIBE",
     "retrieved_on": "2026-11-16",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "intro": "Virtual Pianist VIBE is UJAM's electric piano instrument plugin, modeled on a hand-picked 1972 vintage electric piano and built to produce full grooves and phrases without requiring piano-playing skill.",
+      "audience": "This suits artists and producers working across jazz, funk, soul, hip-hop, rock, or EDM who want electric piano grooves and phrases without piano skills.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "SSL Native Channel Strip 2": {
     "features": [
@@ -52886,7 +53072,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/18104-Massive-XL-Update-from-Massive-X",
     "retrieved_on": "2026-11-16",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "intro": "Massive XL is Native Instruments' flagship wavetable synthesizer built on the open architecture of Massive X, compatible with its presets and Expansions. Its most distinctive feature is the preset generator, which turns an audio reference into a playable, tweakable synth patch.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "Triaz": {
     "features": [
@@ -52979,7 +53170,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/11945-Triaz",
     "retrieved_on": "2026-11-16",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "intro": "Triaz is a drum engine plugin built on 15,000 drum samples and 700+ presets spanning 18 genres, sequenced through independent polyrhythmic lanes with per-step control over pitch, chance, repeats, and note offset.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "RePitch 2 Standard": {
     "features": [],
@@ -53127,7 +53323,14 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15819-VMR-Essentials",
     "retrieved_on": "2026-11-16",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "intro": "VMR Essentials is a modular channel strip builder that lets users drag and drop processing modules to construct and rearrange a signal chain in seconds, combining vintage EQs and modern limiters in one customizable interface.",
+      "sound": "This channel strip adds airy highs and thick low end to a signal in seconds, then smooths it out with buttery compression that controls dynamics on vocals, bass, and leads without killing the vibe. When a mix needs more force, it adds aggressive punch to drums, room mics, or buses, and intelligent de-essing smooths harsh vocals without dulling the top end.",
+      "audience": "Engineers building signal chains for drums, vocals, bass, leads, room mics, and buses suit this channel strip, and presets from award-winning engineers give a fast start for mixing work.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "SEQUND": {
     "features": [],
@@ -53304,7 +53507,13 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/17934-Scaler-EQ-Pro-Upgrade",
     "retrieved_on": "2026-11-16",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "intro": "Scaler EQ Pro Upgrade is a note-aware equalizer built on patented technology that detects a track's key and scale and adapts its filtering to match, boosting frequencies that belong to the scale and reducing those that fall outside it.",
+      "audience": "It suits musicians and producers working across mixing, mastering, and sound design who want their instruments to stay in harmony with a track's key, as well as those turning recorded sounds, pads, and drum parts into playable material through MIDI-controlled filtering.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "SampleTraxx Everything Bundle": {
     "features": [],
@@ -53356,7 +53565,13 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15668-SampleTraxx-Everything-Bundle",
     "retrieved_on": "2026-11-16",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "audience": "It suits composers and sound designers working on trailer music, cinematic scoring, and game audio, particularly horror, thriller, and sci-fi projects that call for tortured, organic textures alongside trailer-ready braams, impacts, and risers.",
+      "intro": "SampleTraxx Everything Bundle gathers 56 individual sound libraries into one collection of cinematic sound effects, covering braams, impacts, risers, and haunting soundscapes. Thousands of WAV files span trailer music, scoring, and game audio in a single package.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "VocAlign 7 Standard": {
     "features": [
@@ -53419,7 +53634,13 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/17927-VocAlign-7-Standard",
     "retrieved_on": "2026-11-16",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "intro": "VocAlign 7 Standard is a vocal alignment plugin that brings every lead, double, and harmony into one multi-track view, letting producers assign any track as the guide and align the entire vocal stack in a single operation.",
+      "audience": "It suits producers and vocal engineers working with multiple takes, doubles, and harmony stacks who need every vocal locked to a single guide without processing each track separately.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "PEACH": {
     "features": [],
@@ -53546,7 +53767,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/11457-Virtual-Monitoring-Add-On-for-SoundID-Reference",
     "retrieved_on": "2026-11-16",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "audience": "This suits headphone mixers who need the stereo listening field of regular studio monitors for mix decisions. It fits audio production and mix work done through headphones instead of traditionally configured stereo speakers.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "RootOne": {
     "features": [
@@ -53627,7 +53853,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/6713-RootOne",
     "retrieved_on": "2026-11-16",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "intro": "RootOne is a multi-band subharmonic generator that adds and shapes 3 bands of subharmonic content for tonal balance, built on an analysis-synthesis algorithm that works by pitch-detection rather than pitch-shifting.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "Scaler EQ Pro": {
     "features": [
@@ -53735,7 +53966,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/17795-Scaler-EQ-Pro",
     "retrieved_on": "2026-11-16",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "audience": "Musicians and producers working across mixing, mastering and sound design who want instruments and drum parts to sit in tune with a track's key and scale, including performers using MIDI notes and chords to play the EQ in Live Mode.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "RAW GEMZ EDM Rewind": {
     "features": [],
@@ -53963,7 +54199,13 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/16835-FX-Collection-6-PRO",
     "retrieved_on": "2026-11-16",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "intro": "FX Collection 6 Pro bundles 39 effects covering distortion, compression, filtering, delay, reverb, and modulation, with circuit-accurate analog modeling via Arturia's TAE technology running through the emulations.",
+      "audience": "Producers and mixing engineers working on vocals, drums, guitars, and synths can draw on the collection for corrective mixing tasks and abstract sound design work.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "Arturia V Collection 11 Pro": {
     "features": [],
@@ -54042,7 +54284,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/14665-V-Collection-11-Pro",
     "retrieved_on": "2026-11-16",
-    "status": "partial"
+    "status": "partial",
+    "prose": {
+      "intro": "V Collection 11 Pro is a suite of 45 reference instruments spanning analog, digital, sampler-based, and electro-acoustic sounds, unified under Analog Lab Pro's single browsing and performance interface.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "Baby Audio Complete Bundle": {
     "features": [
@@ -54233,7 +54480,13 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/10815-Baby-Audio-Complete-Bundle",
     "retrieved_on": "2026-11-16",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "intro": "The Complete Bundle combines Baby Audio's full line of plugins in one collection, covering modern mix effects, retro-style processors, drum creation, and vocal transformation, built around Atoms, a time-bending granular effect plugin for shaping motion, texture, and color.",
+      "audience": "The bundle suits producers building drums, synth basslines, leads and pads, and vocal-processing chains, as well as mix engineers shaping drum bus, bass-heavy material, and guitar or synth signals with tape saturation, parallel compression, and reverb.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "Cableguys ShaperBox 3": {
     "features": [],
@@ -54507,7 +54760,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/16649-FabFilter-Total-Bundle",
     "retrieved_on": "2026-11-16",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "audience": "The bundle suits mixing and mastering engineers who need EQ, compression, limiting, de-essing and reverb within one consistent workflow, as well as producers building synthesizer parts and multiband distortion effects for full productions.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "NI Komplete 15 Standard": {
     "features": [],
@@ -54865,7 +55123,12 @@
     ],
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/84-Mix-Master/12542-Platinum-Bundle",
     "retrieved_on": "2026-11-16",
-    "status": "ok"
+    "status": "ok",
+    "prose": {
+      "audience": "The bundle suits producers and engineers handling full sessions from tracking through mixing and mastering, who need bass enhancement, transient shaping, stereo imaging, and loudness control for music production and final masters.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "iZotope Music Production Suite": {
     "features": [],
