@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "MC2000 Multi Band Compressor Native v7: Features, Pricing & Is It Worth It? (2026)"
 description: "The MC2000 is a multiband compressor plugin developed by McDSP, a company with a long-standing reputation in. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:27:52Z'

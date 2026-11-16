@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Shadow Hills Mastering Compressor Class A: Features, Pricing & Is It Worth It? (2026)"
 description: "The Shadow Hills Mastering Compressor Class A is a plugin emulation of the legendary Shadow Hills Industries hardware unit — a mastering-grade outboard."
 pubDate: '2026-04-23T18:28:11Z'

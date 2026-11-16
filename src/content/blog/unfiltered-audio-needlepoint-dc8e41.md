@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Unfiltered Audio Needlepoint Vinyl Simulation Plugin: $30 Sale Recorded Through Sept 2026"
 description: "Needlepoint is Unfiltered Audio's physically modeled vinyl and turntable plugin. PluginDrop recorded $30 (regular $78) at Plugin Boutique through 2026-09-25; the listed end date was 2026-09-30."
 pubDate: "2026-08-30T23:16:53Z"

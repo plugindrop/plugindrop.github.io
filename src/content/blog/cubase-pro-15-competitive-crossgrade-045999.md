@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Cubase Pro 15 Competitive Crossgrade: Features, Pricing & Is It Worth It? (2026)"
 description: "Cubase Pro 15 is Steinberg's professional-tier digital audio workstation, covering music production, recording. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:27:30Z'

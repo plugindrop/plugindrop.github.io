@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Chandler Limited Curve Bender Mastering EQ: Features, Pricing & Is It Worth It? (2026)"
 description: "Chandler Limited is a boutique analog hardware manufacturer with a reputation built on high-end studio gear — most. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:27:42Z'

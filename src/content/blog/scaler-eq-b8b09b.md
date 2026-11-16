@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Scaler EQ: Features, Pricing & Is It Worth It? (2026)"
 description: "Scaler EQ is a harmonic equalizer developed by ScalerAudio — the same team behind the widely used Scaler 2 chord and. Check current pricing at Plugin Boutique."
 pubDate: '2026-05-02T15:36:43Z'

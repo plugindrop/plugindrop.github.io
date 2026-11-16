@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "50% Off Phoscyon 2 — TB-303 Acid Bassline Synth"
 description: "D16 Group's Phoscyon 2 TB-303 emulation is 50% off its regular $119 price at Plugin Boutique. It ships with over 800 factory presets and patterns, a..."
 pubDate: "2026-10-07T16:47:30Z"

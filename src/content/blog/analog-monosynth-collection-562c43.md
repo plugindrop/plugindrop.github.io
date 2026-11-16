@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Analog Monosynth Collection: A Recorded 50% Sale at Plugin Boutique"
 description: "Analog Monosynth Collection is a bundle of analog-modeled monosynths. PluginDrop recorded $149.50 (regular $299) at Plugin Boutique in September 2026; this page is a dated record, not a current-sale alert."
 pubDate: "2026-09-04T16:14:07Z"

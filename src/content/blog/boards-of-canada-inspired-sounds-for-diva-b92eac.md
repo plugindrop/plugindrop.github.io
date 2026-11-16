@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Boards of Canada inspired sounds for Diva"
 description: "The CMYK preset pack for u-he Diva brought Boards of Canada-style analog warmth to a soft synth — but the developer (Like..."
 pubDate: "2026-05-03T20:19:08Z"

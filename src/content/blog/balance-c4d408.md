@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "BALANCE: Features, Pricing & Is It Worth It? (2026)"
 description: "BALANCE is an EQ plugin available at Plugin Boutique, categorized under Effects/EQ. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-29T13:25:56Z'

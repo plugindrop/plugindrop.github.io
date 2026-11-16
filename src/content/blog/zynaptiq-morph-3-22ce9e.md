@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "53% Off Zynaptiq Morph 3 — Spectral Sound Morphing Plugin ($69)"
 description: "Observed at $69 (regular $149) before the estimated 2026-09-25 expiry; the sale has ended or was not confirmed afterward."
 pubDate: "2026-08-26T10:21:16Z"

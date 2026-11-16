@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "WORMHOLE: Features, Pricing & Is It Worth It? (2026)"
 description: "WORMHOLE is a multi-effect plugin available at Plugin Boutique, categorized under creative effects processing. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-28T15:49:25Z'

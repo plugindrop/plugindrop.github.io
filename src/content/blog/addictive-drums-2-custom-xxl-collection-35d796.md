@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Addictive Drums 2 Custom XXL Collection: Features, Pricing & Is It Worth It? (2026)"
 description: "Addictive Drums 2 (AD2) is a virtual drum instrument developed by XLN Audio, built around a high-quality sample library with an intuitive drag-and-drop."
 pubDate: '2026-04-23T18:27:32Z'

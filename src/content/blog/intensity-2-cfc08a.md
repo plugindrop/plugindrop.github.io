@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "INTENSITY 2: Features, Pricing & Is It Worth It? (2026)"
 description: "INTENSITY 2 is a dynamics processor plugin available through Plugin Boutique. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:28:07Z'

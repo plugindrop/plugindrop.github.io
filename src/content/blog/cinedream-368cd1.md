@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "CINEDREAM: Features, Pricing & Is It Worth It? (2026)"
 description: "CINEDREAM is a virtual instrument by UJAM that transforms real guitar recordings into cinematic pads and evolving. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-28T17:11:38Z'

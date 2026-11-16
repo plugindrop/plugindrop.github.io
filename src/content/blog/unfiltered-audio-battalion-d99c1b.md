@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Unfiltered Audio Battalion: Features, Pricing & Is It Worth It? (2026)"
 description: "Unfiltered Audio Battalion is a drum machine synthesizer plugin developed by Unfiltered Audio — a company known in. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T18:27:58Z'

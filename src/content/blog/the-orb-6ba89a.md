@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "The Orb: Features, Pricing & Is It Worth It? (2026)"
 description: "The Orb is a creative filter effect plugin sold through Plugin Boutique. Check current pricing at Plugin Boutique."
 pubDate: '2026-04-23T23:42:54Z'

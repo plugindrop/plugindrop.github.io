@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "60% Off Analog Polysynth Collection — Vintage Synth Sounds ($199)"
 description: "The Analog Polysynth Collection is $499 $199 at Plugin Boutique, a 60% cut from list. PluginDrop has tracked this bundle since 2026-09-04 across 30 price..."
 pubDate: "2026-10-03T08:33:29Z"

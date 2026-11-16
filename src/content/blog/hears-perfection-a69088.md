@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "HEARS Perfection: Features, Pricing & Is It Worth It? (2026)"
 description: "HEARS Perfection is a referencing and mix analysis plugin available through Plugin Boutique, categorized under Studio Tools."
 pubDate: '2026-04-23T18:27:53Z'

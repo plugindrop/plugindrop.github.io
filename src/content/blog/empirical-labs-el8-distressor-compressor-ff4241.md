@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Empirical Labs EL8 Distressor (UAD) Compressor: Features, Price History and $39 Sale Until Nov 1, 2026"
 description: "EL8 Distressor is a Universal Audio UAD plugin of the Empirical Labs Distressor, sold at Plugin Boutique. Facts from the product page, regular $199, and the current $39 sale (80% off) listed until 2026-11-01."
 pubDate: '2026-04-23T18:27:48Z'

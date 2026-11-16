@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Soundtoys 5.5 Effects Bundle: Features, Pricing & Is It Worth It? (2026)"
 description: "Soundtoys 5.5 Effects Bundle is available at Plugin Boutique. Check current pricing and product details on the product page."
 pubDate: '2026-04-19T02:32:59Z'
