@@ -52838,7 +52838,12 @@
     "source_url": "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17613-UAD-Native-Producer-Bundle",
     "retrieved_on": "2026-11-16",
     "status": "ok",
-    "overview": "15 production essentials. Instruments, effects and vocal tools. Built for the creator in you."
+    "overview": "15 production essentials. Instruments, effects and vocal tools. Built for the creator in you.",
+    "prose": {
+      "sound": "The bundle delivers punchy, fat, and gritty tones, with the ability to add warmth, overdriven saturation, and vintage character to any signal. It includes tools that can shape vocals, enhance bass, and add depth to piano and other instruments with no extra layering needed.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "UAD Native Pro Bundle": {
     "features": [
@@ -53868,7 +53873,12 @@
     "source_url": "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/8653-SSL-Native-Channel-Strip-2",
     "retrieved_on": "2026-11-16",
     "status": "ok",
-    "overview": "The SSL Native Channel Strip 2 Plug-in delivers the legendary tone, features and workflow of an SSL 9000K console channel strip, now featuring SSL's proprietary 'Anti-Cramping' technology and external Side Chain input."
+    "overview": "The SSL Native Channel Strip 2 Plug-in delivers the legendary tone, features and workflow of an SSL 9000K console channel strip, now featuring SSL's proprietary 'Anti-Cramping' technology and external Side Chain input.",
+    "prose": {
+      "sound": "The compressor applies soft ratio compression that maintains dynamic character while evening out peaks. The EQ section provides a classic 4-band design with parametric and shelving controls, offering distinct tonal options for shaping the signal.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "Massive XL Update from Massive X": {
     "features": [],
@@ -54281,7 +54291,13 @@
     "source_url": "https://www.pluginboutique.com/product/2-Effects/24-Sequencer/9931-SEQUND",
     "retrieved_on": "2026-11-16",
     "status": "partial",
-    "overview": "SEQUND is a powerful VST/AU polyrhythmic sequencer combining -and improving- all the best features from the already successful Max4Live sequencers created by electronic musician Alexkid, redesigned in collaboration with Tadashi Tsuginomori from HY-Plugins."
+    "overview": "SEQUND is a powerful VST/AU polyrhythmic sequencer combining -and improving- all the best features from the already successful Max4Live sequencers created by electronic musician Alexkid, redesigned in collaboration with Tadashi Tsuginomori from HY-Plugins.",
+    "prose": {
+      "sound": "SEQUND generates intricate polyrhythms and evolving patterns by allowing independent control over gate and pitch lanes. It enables the creation of complex, groove-filled sequences with subtle variations and unexpected shifts, all while maintaining musical coherence.",
+      "intro": "SEQUND is a polyrhythmic sequencer designed for creating complex and evolving musical patterns. Its most distinctive feature is the ability to separate rhythm from melody through independent gate and pitch lanes.",
+      "model": "claude-sonnet",
+      "checked": "2026-11-17"
+    }
   },
   "Scaler EQ Pro Upgrade": {
     "features": [
