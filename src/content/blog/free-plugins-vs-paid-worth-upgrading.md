@@ -108,7 +108,7 @@ Three wavetable oscillators, spectral warping, drag-and-drop modulation, visual 
 | Tracked price | $0.00 |
 |---|---|
 
-[View Vital on Plugin Boutique](https://www.pluginboutique.com/search?q=Vital)
+[View Vital](https://vital.audio/)
 
 ## Serum
 

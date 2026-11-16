@@ -53,7 +53,7 @@ The spectral morphing approach means Vital produces the kind of evolving, animat
 | Tracked price | $0.00 |
 |---|---|
 
-[View Vital on Plugin Boutique](https://www.pluginboutique.com/search?q=Vital)
+[View Vital](https://vital.audio/)
 
 ## Surge XT
 
@@ -210,7 +210,7 @@ Serum 2 — The Industry Standard Wavetable Synth
 
 Last recorded sale: $99.00 on 2025-03-20.
 
-[View Serum 2 on Plugin Boutique](https://www.pluginboutique.com/search?q=Serum%202)
+[View Serum 2](https://xferrecords.com/products/serum-2)
 
 [Watch Serum 2 demo](https://www.youtube.com/watch?v=3gjqON4gTQU)
 

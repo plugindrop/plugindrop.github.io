@@ -56,7 +56,7 @@ Vital is a spectral warping wavetable synthesizer with a drag-and-drop modulatio
 | Tracked price | $0.00 |
 |---|---|
 
-[View Vital on Plugin Boutique](https://www.pluginboutique.com/search?q=Vital)
+[View Vital](https://vital.audio/)
 
 ## Surge XT
 

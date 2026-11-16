@@ -129,7 +129,7 @@ Producers who build their own patches won't notice the difference. Those who rel
 | Tracked price | $0.00 |
 |---|---|
 
-[View Vital on Plugin Boutique](https://www.pluginboutique.com/search?q=Vital)
+[View Vital](https://vital.audio/)
 
 ## Sylenth1
 

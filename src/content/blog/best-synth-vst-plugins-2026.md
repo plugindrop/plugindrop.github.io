@@ -52,7 +52,7 @@ There's no purchase decision to time here: Vital's core engine has been free sin
 | Tracked price | $0.00 |
 |---|---|
 
-[View Vital on Plugin Boutique](https://www.pluginboutique.com/search?q=Vital)
+[View Vital](https://vital.audio/)
 
 ## Surge XT
 

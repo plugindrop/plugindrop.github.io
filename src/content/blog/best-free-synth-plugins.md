@@ -70,7 +70,7 @@ Vital is a free wavetable synth. The wavetable engine supports spectral warping,
 | Tracked price | $0.00 |
 |---|---|
 
-[View Vital on Plugin Boutique](https://www.pluginboutique.com/search?q=Vital)
+[View Vital](https://vital.audio/)
 
 ## Surge XT
 

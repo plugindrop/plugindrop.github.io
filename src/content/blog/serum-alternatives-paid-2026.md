@@ -228,7 +228,7 @@ This list brings together publicly available feature information and prices trac
 
 Last recorded sale: $99.00 on 2025-03-20.
 
-[View Serum 2 on Plugin Boutique](https://www.pluginboutique.com/search?q=Serum%202)
+[View Serum 2](https://xferrecords.com/products/serum-2)
 
 [Watch Serum 2 demo](https://www.youtube.com/watch?v=3gjqON4gTQU)
 

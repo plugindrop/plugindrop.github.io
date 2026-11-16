@@ -72,7 +72,7 @@ Because the free tier includes the full synthesis engine, it is enough to start 
 | Tracked price | $0.00 |
 |---|---|
 
-[View Vital on Plugin Boutique](https://www.pluginboutique.com/search?q=Vital)
+[View Vital](https://vital.audio/)
 
 ## TAL-Bassline-101
 

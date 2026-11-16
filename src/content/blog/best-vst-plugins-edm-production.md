@@ -76,7 +76,7 @@ Developer documentation confirms Vital uses spectral warping on its wavetables â
 | Tracked price | $0.00 |
 |---|---|
 
-[View Vital on Plugin Boutique](https://www.pluginboutique.com/search?q=Vital)
+[View Vital](https://vital.audio/)
 
 ## Massive X
 

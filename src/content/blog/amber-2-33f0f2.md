@@ -16,7 +16,7 @@ draft: false
 productKey: "AMBER 2"
 updatedDate: "2026-11-16"
 ---
-**TL;DR:** ujam's Virtual Guitarist AMBER 2 is a steel-string acoustic guitar instrument plugin built around an on-demand session player. It's aimed at producers who need strummed and picked acoustic parts for rock and pop tracks without recording a real guitarist. Plugin Boutique currently has it at $29, tying the lowest price PluginDrop has tracked and 78% below the $129 regular price — [grab it here](https://www.pluginboutique.com/search?q=AMBER+2&a_aid=69cb95abe1763&chan=art&data1=amber-2-amber-&utm_source=plugindrop&utm_medium=article&utm_campaign=amber-2-amber-).
+**TL;DR:** ujam's Virtual Guitarist AMBER 2 is a steel-string acoustic guitar instrument plugin built around an on-demand session player. It's aimed at producers who need strummed and picked acoustic parts for rock and pop tracks without recording a real guitarist. Plugin Boutique currently has it at $29, tying the lowest price PluginDrop has tracked and 78% below the $129 regular price — [grab it here](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10597-AMBER-2?a_aid=69cb95abe1763&chan=art&data1=amber-2-amber-&utm_source=plugindrop&utm_medium=article&utm_campaign=amber-2-amber-).
 
 ## Instrument Mode Brings a New Guitar Model to AMBER 2
 <!-- role:product -->
@@ -46,7 +46,7 @@ Against ujam's IRON 2, the overlap is in processing: IRON 2 is also built around
 ## $29 Ties AMBER 2's Lowest Tracked Price
 <!-- role:price -->
 
-AMBER 2's current $29 tag at Plugin Boutique sits right at the $29 floor PluginDrop has recorded across 22 observations since tracking began on 2026-08-16, and typical sale pricing has also landed at $29 — so this isn't a temporary dip below the usual promo, it's the plugin's established sale price. Against the $129 regular price, that's a 78% reduction. Given the price has held steady at this level across tracked observations rather than fluctuating, there's little reason to expect a materially better number later. [Buy AMBER 2 at Plugin Boutique](https://www.pluginboutique.com/search?q=AMBER+2&a_aid=69cb95abe1763&chan=art&data1=amber-2-amber-&utm_source=plugindrop&utm_medium=article&utm_campaign=amber-2-amber-).
+AMBER 2's current $29 tag at Plugin Boutique sits right at the $29 floor PluginDrop has recorded across 22 observations since tracking began on 2026-08-16, and typical sale pricing has also landed at $29 — so this isn't a temporary dip below the usual promo, it's the plugin's established sale price. Against the $129 regular price, that's a 78% reduction. Given the price has held steady at this level across tracked observations rather than fluctuating, there's little reason to expect a materially better number later. [Buy AMBER 2 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10597-AMBER-2?a_aid=69cb95abe1763&chan=art&data1=amber-2-amber-&utm_source=plugindrop&utm_medium=article&utm_campaign=amber-2-amber-).
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements

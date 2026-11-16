@@ -52,7 +52,7 @@ The modulation system is fully drag-and-drop — connect any source to any desti
 | Tracked price | $0.00 |
 |---|---|
 
-[View Vital on Plugin Boutique](https://www.pluginboutique.com/search?q=Vital)
+[View Vital](https://vital.audio/)
 
 [Watch Vital demo](https://www.youtube.com/watch?v=7qQX6YGBQEA)
 

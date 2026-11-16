@@ -226,7 +226,7 @@ For producers already using Serum from Step 2, the same instrument handles melod
 | Tracked price | $0.00 |
 |---|---|
 
-[View Vital on Plugin Boutique](https://www.pluginboutique.com/search?q=Vital)
+[View Vital](https://vital.audio/)
 
 ## LABS by Spitfire Audio
 

@@ -54,7 +54,7 @@ The paid tiers add preset content and wavetable packs, not a different or expand
 | Tracked price | $0.00 |
 |---|---|
 
-[View Vital on Plugin Boutique](https://www.pluginboutique.com/search?q=Vital)
+[View Vital](https://vital.audio/)
 
 ## Surge XT
 

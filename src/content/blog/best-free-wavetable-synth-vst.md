@@ -50,7 +50,7 @@ For producers who work heavily with third-party or user-designed wavetables, Vit
 | Tracked price | $0.00 |
 |---|---|
 
-[View Vital on Plugin Boutique](https://www.pluginboutique.com/search?q=Vital)
+[View Vital](https://vital.audio/)
 
 ## Surge XT
 

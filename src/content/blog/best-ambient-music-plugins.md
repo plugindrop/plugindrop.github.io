@@ -170,7 +170,7 @@ Vital's developer documentation describes its "spectral warping" engine as a dis
 | Tracked price | $0.00 |
 |---|---|
 
-[View Vital on Plugin Boutique](https://www.pluginboutique.com/search?q=Vital)
+[View Vital](https://vital.audio/)
 
 ## Odin 2
 

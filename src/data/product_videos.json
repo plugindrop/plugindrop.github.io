@@ -28,6 +28,13 @@
     "source": "pb_page",
     "official": false
   },
+  "Addictive Drums 2 Classic Rock Collection": {
+    "video_id": "ikaSahd3KFQ",
+    "title": "What's new in Addictive Drums 2 (version 2.5.0)",
+    "channel": "XLN Audio",
+    "source": "pb_page",
+    "official": false
+  },
   "Ample Guitar M Lite II": {
     "video_id": "rky282TCYx4",
     "title": "This Guitar VST Shouldn't be FREE after this Huge Update!!",
@@ -691,6 +698,13 @@
     "source": "pb_page",
     "official": true
   },
+  "Cherry Audio Voltage Modular Core + Electro Drums": {
+    "video_id": "g5yeH3Sc9zA",
+    "title": "Voltage Modular 2 | Updates & Overview",
+    "channel": "Cherry Audio",
+    "source": "pb_page",
+    "official": true
+  },
   "Cherry Audio Voltage Modular Ignite": {
     "video_id": "g5yeH3Sc9zA",
     "title": "Voltage Modular 2 | Updates & Overview",
@@ -847,6 +861,13 @@
     "channel": "EastWest Sounds",
     "score": 9,
     "source": "yt_api_fill"
+  },
+  "Empirical Labs EL8 Distressor Compressor": {
+    "video_id": "-pAuHW4qMpI",
+    "title": "UAD's Swiss Army Knife | EL8 Distressor Compressor",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
   },
   "Essential Plugin Bundle": {
     "video_id": "2ggnE0uTOmg",
@@ -1117,6 +1138,13 @@
     "official": false
   },
   "Excite Audio Bundle": {
+    "video_id": "APnJR6VaXYw",
+    "title": "The Sound of the Future | Evolve Elastic",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
+  "Excite Audio Bundle Crossgrade From Any Excite Audio Product": {
     "video_id": "APnJR6VaXYw",
     "title": "The Sound of the Future | Evolve Elastic",
     "channel": "Plugin Boutique",
@@ -1646,6 +1674,13 @@
     "source": "pb_page",
     "official": false
   },
+  "MC2000 Multi Band Compressor Native v7": {
+    "video_id": "gReVtSMTH5s",
+    "title": "McDSP Classic Pack- Vintage Overview",
+    "channel": "McDSPTV",
+    "source": "pb_page",
+    "official": false
+  },
   "MELLOW 2": {
     "video_id": "0Q1RsCn_Oxc",
     "title": "UJAM Presents: Virtual Bassist MELLOW 2",
@@ -1682,6 +1717,13 @@
     "official": false
   },
   "Melody Sauce 3": {
+    "video_id": "1732S58ZlYo",
+    "title": "I made Melody Sauce",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
+  "Melody Sauce 3 Upgrade from Melody Sauce 1 2": {
     "video_id": "1732S58ZlYo",
     "title": "I made Melody Sauce",
     "channel": "Plugin Boutique",
@@ -2566,6 +2608,13 @@
     "source": "yt_api_fill",
     "official": false
   },
+  "Solid State Logic SSL Fusion Bundle": {
+    "video_id": "JeM5q486Uss",
+    "title": "How to Get the \"Expensive\" Analog Sound",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
   "Sonible prime vocal": {
     "video_id": "bmIsT7YgaTc",
     "title": "prime:vocal by sonible – the intelligent vocal enhancer",
@@ -2612,6 +2661,34 @@
     "video_id": "F_gC2Hlw5no",
     "title": "Oxford SuprEsser tutorial",
     "channel": "Sonnox Plugins",
+    "source": "pb_page",
+    "official": false
+  },
+  "Sonnox Producer Power Bundle Oxford Inflator Oxford Limiter": {
+    "video_id": "aufcxFhiUx0",
+    "title": "Sonnox Quick Tips #11 - Enhancing a mix with Limiter & Inflator",
+    "channel": "Sonnox Plugins",
+    "source": "pb_page",
+    "official": false
+  },
+  "Sonnox Vocal Production Bundle Oxford Inflator Claro": {
+    "video_id": "z6UBc--teCE",
+    "title": "Inflator tutorial",
+    "channel": "Sonnox Plugins",
+    "source": "pb_page",
+    "official": false
+  },
+  "SoundID Reference for Headphones": {
+    "video_id": "Hs3hU_Pm_Co",
+    "title": "The All-New SoundID Reference from Sonarworks",
+    "channel": "SoundID from Sonarworks",
+    "source": "pb_page",
+    "official": false
+  },
+  "SoundID VoiceAI Perpetual License Key": {
+    "video_id": "WNfxoStBLVc",
+    "title": "🎙️ SoundID VoiceAI – Own a Signature Vocal in Minutes",
+    "channel": "SoundID from Sonarworks",
     "source": "pb_page",
     "official": false
   },
@@ -2918,6 +2995,13 @@
     "source": "pb_page",
     "official": true
   },
+  "UAD Ampex ATR 102 Mastering Tape Recorder": {
+    "video_id": "RKz5FME2fL0",
+    "title": "Turn Your Recordings Into Records | Ampex ATR-102 Mastering Tape Recorder",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
   "UAD Anthem Analog Synthesizer": {
     "video_id": "J3C0vGZGppE",
     "title": "Introducing Anthem Analog Synthesizer | UAD Instruments",
@@ -2968,9 +3052,30 @@
     "source": "pb_page",
     "official": false
   },
+  "UAD EMT 140 Classic Plate Reverberator": {
+    "video_id": "kpri-pUuuQo",
+    "title": "UAD EMT 140 Plate Reverb",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
+  "UAD EMT 250 Classic Electronic Reverb": {
+    "video_id": "AthxUJxGwyM",
+    "title": "The Original Digital Reverb",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
   "UAD Electra 88 Vintage Keyboard Studio": {
     "video_id": "rHR57cUDZeY",
     "title": "Electra 88 Vintage Keyboard Studio Sound Examples | UAD Instruments",
+    "channel": "Universal Audio",
+    "source": "pb_page",
+    "official": true
+  },
+  "UAD Emperical Labs FATSO Tape Simulator": {
+    "video_id": "JNYVAwgCn1U",
+    "title": "The BEST UAD Plug-In for Adding Warmth to Your Entire Mix | Native FATSO Tutorial",
     "channel": "Universal Audio",
     "source": "pb_page",
     "official": true
@@ -2981,6 +3086,13 @@
     "channel": "Universal Audio",
     "score": 13,
     "source": "yt_api_fill",
+    "official": true
+  },
+  "UAD Fairchild Tube Limiter Collection": {
+    "video_id": "wNjpUhS7mLA",
+    "title": "The Ultimate Tube Compressor & Tone Box for Vocals",
+    "channel": "Universal Audio",
+    "source": "pb_page",
     "official": true
   },
   "UAD Galaxy Tape Echo": {
@@ -3210,6 +3322,13 @@
     "source": "pb_page",
     "official": true
   },
+  "UAD Teletronix LA 2A Leveler Collection": {
+    "video_id": "Id7ckY-5atc",
+    "title": "Teletronix LA-2A Collection Plug-Ins Sound Examples | UAD Native & UAD-2",
+    "channel": "Universal Audio",
+    "source": "pb_page",
+    "official": true
+  },
   "UAD Teletronix LA 3A Audio Leveler": {
     "video_id": "EkSJ82XusNU",
     "title": "Teletronix LA-3A Sound Examples | UAD Native & UAD-2",
@@ -3227,6 +3346,20 @@
   "UAD Topline Vocal Tune": {
     "video_id": "9uiB2TZuEss",
     "title": "Stacy Epps Tries Topline Vocal Tune for the First Time",
+    "channel": "Universal Audio",
+    "source": "pb_page",
+    "official": true
+  },
+  "UAD UA 175B 176 Tube Compressor Collection": {
+    "video_id": "Qef4G8y5iaM",
+    "title": "Return of the Original - UAD 175B & 176 Tube Compressor Collection",
+    "channel": "Universal Audio",
+    "source": "pb_page",
+    "official": true
+  },
+  "UAD UA LA 6176 Signature Channel Strip": {
+    "video_id": "8d_Ulrru_DU",
+    "title": "Experience Analog Heaven with New UAD LA-6176",
     "channel": "Universal Audio",
     "source": "pb_page",
     "official": true
@@ -3405,6 +3538,13 @@
     "source": "pb_page",
     "official": false
   },
+  "Vital": {
+    "video_id": "7qQX6YGBQEA",
+    "title": "Free Vital Synth - Full Tutorial",
+    "channel": "In The Mix",
+    "source": "manual_verified",
+    "official": false
+  },
   "Voca": {
     "video_id": "iREEiZW9W1U",
     "title": "The New Best VST for Vocals??!!",
@@ -3536,6 +3676,13 @@
     "title": "Mixing Beats & Vocals with Renaissance Plugins: MarioSo DeJesus",
     "channel": "Waves Audio",
     "source": "pb_page",
+    "official": true
+  },
+  "Waves SSL E-Channel": {
+    "video_id": "pmupessEC_Q",
+    "title": "How to mix with an SSL Channel 3 Steps",
+    "channel": "Waves Audio",
+    "source": "manual_verified",
     "official": true
   },
   "Waves Tune Real-Time": {
@@ -3920,20 +4067,6 @@
     "title": "Zebralette 3 – Docked from the Mothership",
     "channel": "u-he",
     "source": "pb_page",
-    "official": true
-  },
-  "Vital": {
-    "video_id": "7qQX6YGBQEA",
-    "title": "Free Vital Synth - Full Tutorial",
-    "channel": "In The Mix",
-    "source": "manual_verified",
-    "official": false
-  },
-  "Waves SSL E-Channel": {
-    "video_id": "pmupessEC_Q",
-    "title": "How to mix with an SSL Channel 3 Steps",
-    "channel": "Waves Audio",
-    "source": "manual_verified",
     "official": true
   }
 }

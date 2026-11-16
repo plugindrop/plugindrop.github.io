@@ -355,7 +355,7 @@ Vital delivers spectral warping, full wavetable editing, and a modulation system
 | Tracked price | $0.00 |
 |---|---|
 
-[View Vital on Plugin Boutique](https://www.pluginboutique.com/search?q=Vital)
+[View Vital](https://vital.audio/)
 
 ## Softube Saturation Knob
 

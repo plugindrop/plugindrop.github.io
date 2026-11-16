@@ -74,7 +74,7 @@ Vital's free tier unlocks the full core synthesis engine, which combines wavetab
 | Tracked price | $0.00 |
 |---|---|
 
-[View Vital on Plugin Boutique](https://www.pluginboutique.com/search?q=Vital)
+[View Vital](https://vital.audio/)
 
 ## Surge XT
 

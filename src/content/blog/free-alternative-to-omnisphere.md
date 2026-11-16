@@ -85,7 +85,7 @@ The free tier's boundaries are in preset content and wavetable packs, not in the
 | Tracked price | $0.00 |
 |---|---|
 
-[View Vital on Plugin Boutique](https://www.pluginboutique.com/search?q=Vital)
+[View Vital](https://vital.audio/)
 
 ## Phase Plant Lite
 
