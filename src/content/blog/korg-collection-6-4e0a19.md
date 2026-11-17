@@ -7,6 +7,7 @@ affiliate: "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bund
 heroImage: /images/korg-collection-6-4e0a19.jpg
 score: 10.00
 draft: false
+productKey: "KORG Collection 6"
 converted: true
 saleExpiry: "2026-11-30"
 dealPrice: "$199.00"
