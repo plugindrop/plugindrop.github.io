@@ -1,52 +1,61 @@
 ---
-title: "InstaComposer 4: price history and last sale"
-description: "The last recorded sale on InstaComposer 4 was $29.90, down from the $129.00 regular price, seen on 2026-11-02. This page tracks its price history at Plugin Boutique."
-pubDate: "2026-10-16T15:01:45Z"
-tags: ["sale", "music-production"]
+title: "InstaComposer 4 77% Off"
+description: "InstaComposer 4 is down from $129 to $29.90 at Plugin Boutique, matching the lowest price tracked across 28 observations since 2026-10-14. That's also the..."
+pubDate: "2026-11-17T07:38:40Z"
+tags: ["sale", "vst-plugin", "synth", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=InstaComposer+4&a_aid=69cb95abe1763&chan=art&data1=instacomposer-4-edb92a&utm_source=plugindrop&utm_medium=article&utm_campaign=instacomposer-4-edb92a"
 heroImage: "/images/instacomposer-4-edb92a.jpg"
-score: 8.87
-rawScore: 8.87
+score: 10.00
+rawScore: 12.48
+productKey: "InstaComposer 4"
 dealPrice: "$29.90"
 originalPrice: "$129.00"
 discount: "77% OFF"
-saleExpiry: "2026-10-31"
-draft: false
-productKey: "InstaComposer 4"
-updatedDate: "2026-11-15"
+saleExpiry: "2026-12-17"
+saleExpirySource: "fallback"
+draft: true
 ---
-683 words — within the 650-950 range. Here's the final article.
+**TL;DR:** InstaComposer 4 is down from ~~$129~~ to $29.90 at Plugin Boutique, matching the lowest price tracked across 28 observations since 2026-10-14. That's also the typical sale price, so this isn't a one-off dip. [Grab it here](https://www.pluginboutique.com/search?q=InstaComposer+4&a_aid=69cb95abe1763&chan=art&data1=instacomposer-4-edb92a&utm_source=plugindrop&utm_medium=article&utm_campaign=instacomposer-4-edb92a) while the deal price is live.
 
----
+<!-- deal-context-sale-windows:start -->
+## Last three times this went on sale
+- 2026-10-14 → 2026-11-02: as low as $29.9
+<!-- deal-context-sale-windows:end -->
 
-TITLE: InstaComposer 4: price history and last sale
+<div class="video-embed">
+<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/1qULnUVqyFE" title="InstaComposer 4 77% Off — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-**TL;DR:** InstaComposer 4 has a recorded sale history. Its last recorded sale was $29.90 on 2026-11-02; that sale has ended. The recorded regular price was $129.00. The tracked low was $29.90.
 
-## Inside InstaComposer 4's MIDI Engine 2.0
-<!-- role:product -->
+## What you actually get
 
-InstaComposer 4 centers on a rebuilt generation engine that the plugin's maker says delivers more satisfying musical results across its many features. Five existing modes — Melody, Ostinato, Chord, Rhythm and Drums — now draw on sharper rhythmic feel, more deliberate pitch choices, tighter timing and stronger musical cohesion, and two new modes, Arpeggiator and Rhythm V2, add further generation options. Foliage lets a main melody grow extra complementary notes, with a dial that moves from a light touch to dense, expressive layering. Pattern feel is shaped by five groove parameters — Syncopation, Gallop, Density, Burst and Congestion — while a separate Humanize control loosens generated timing and velocity away from a strict grid. One-click generation can build out an entire song structure, covering intros, verses, choruses, bridges and outros, and any generated result can be regenerated again afterward. Against Effectrix 2, a 32-step effect sequencer that processes audio through 14 effects, and Minimal Audio Lucid, which rebuilds incoming sound grain by grain into granular textures, InstaComposer 4 sits apart by generating original MIDI material rather than processing existing audio. Playback draws on a built-in acoustic piano, a General MIDI-style instrument collection, and optional loaded SoundFont instruments, with an integrated mixer adding reverb and delay for balancing the generated tracks. Beyond generation, InstaComposer 4 offers comprehensive MIDI editing with range controls, two-way MIDI import and export for blending generated and existing material, a chord progression generator with slash chord support, and scale coverage spanning Major, Minor, Harmonic, Pentatonic, Spanish, Arabic and other modes. Probability, complexity and variation controls shape note density, repetition, velocity and timing, while Timeline Playback allows jumping to any point in a composition for faster auditioning, and Advanced Chord and Scale Analysis identifies chords, progressions, scales and tonal centres from imported MIDI.
+InstaComposer 4 is a MIDI generation plugin built to turn blank sessions into usable musical ideas fast. The vendor lists several updates for this version, not just a reskin.
 
-<!-- deal-context-video:start -->
-<iframe src="https://www.youtube.com/embed/x_As7ciaDYQ" title="InstaComposer 4 - Creative Companion (VST / AU / AAX)" frameborder="0" allowfullscreen></iframe>
+- The product listing cites MIDI Engine 2.0 for rhythm, melody, timing, and phrasing, which affects how natural the generated parts feel before you start editing them.
+- Plugin Boutique lists built-in acoustic piano and General MIDI instruments, plus support for loading your own SoundFont (SF2) files, so you can audition ideas without routing to another instrument first.
+- An integrated mixer with reverb and delay is listed, letting you shape a rough sketch inside the plugin before exporting.
+- Arpeggiator and Rhythm V2 generation modes are included, useful for building movement into static chord ideas.
+- One-click full song generation is listed as well, covering songs, melodies, phrases, riffs, and chords from a single workflow.
 
-*InstaComposer 4 - Creative Companion (VST / AU / AAX)*
-<!-- deal-context-video:end -->
+## Where it fits in a session
 
-## Who Reaches for InstaComposer 4's Built-In Instruments
-<!-- role:audience -->
+This sits earliest in the writing stage, before arrangement and mixing begin. It's suited to generating starting material: a chord progression, a melodic hook, or a rhythmic MIDI pattern you then drag into your DAW's piano roll.
 
-Three maker-named uses point to where InstaComposer 4 fits into a session:
+Producers who hit writer's block on a track can use it to produce several variations quickly, then pick and edit the best one. The built-in mixer and timeline playback also make it workable as a quick scratch space before committing ideas to your main session.
 
-- **Drum pattern sketching** — The Rhythm and Drums generation modes are built for rhythmic feel, pitch selection and timing, making them a starting point for drum ideas.
-- **Piano-led auditioning** — The built-in acoustic piano and General MIDI-style instrument collection let generated material play back instantly, without routing to an external instrument.
-- **Mix-ready arranging** — The integrated mixer, with its own reverb and delay, lets generated tracks be balanced before they leave the plugin.
+## Pricing and deal details
 
-## The $29.90 Historical Low for InstaComposer 4
-<!-- role:price -->
+At $29.90, InstaComposer 4 matches both the lowest price and the typical sale price tracked by PluginDrop across 28 observations since 2026-10-14. The regular price is listed at $129, so the current deal reflects a steep drop from that baseline rather than a shallow markdown.
 
-Plugin Boutique's last recorded sale brought InstaComposer 4 down to $29.90 on 2026-11-02, matching the plugin's tracked low and sitting far under its $129.00 regular price. That $29.90 figure is also the lowest point this plugin has reached, since the tracked low and the last sale price are the same number, with no record of it selling for less. The $129.00 regular price is InstaComposer 4's typical listed price outside of a sale window. This sale has since ended, and no current or upcoming discount is confirmed; the listing remains at [Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/18029-InstaComposer-4?a_aid=69cb95abe1763&chan=art&data1=instacomposer-4-instac&utm_source=plugindrop&utm_medium=article&utm_campaign=instacomposer-4-instac). Anyone tracking the next price drop should watch for offers approaching that $29.90 mark, since it represents the lowest point recorded so far.
+Because $29.90 is also the typical sale price, this isn't an unusually aggressive discount compared to past sales, but it is at the floor of what's been tracked. Check the product page for current pricing before checkout, since storewide promotions can end without notice.
+
+## Skip it if
+
+- You're on Windows and need AU support — AU is not listed among the formats for the Windows build (VST, VST3, and AAX are listed there).
+- You need a format outside VST3, VST, AU, or AAX; nothing else is listed among the supported formats.
+- Your Mac runs an OS older than macOS 10.15, since that's the minimum listed for Mac support.
+- You already own a MIDI generation tool with a similar built-in mixer and instrument set and don't need a second one for this workflow.
+- You're looking for a full DAW or a mixing/mastering tool rather than an idea-generation and MIDI-writing plugin.
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements
@@ -56,19 +65,38 @@ Plugin Boutique's last recorded sale brought InstaComposer 4 down to $29.90 on 2
 - Source: pluginboutique.com product page, retrieved 2026-11-15
 <!-- deal-context-formats:end -->
 
+<!-- deal-context-video:start -->
+## Hear it before you buy
+
+<iframe src="https://www.youtube.com/embed/x_As7ciaDYQ" title="InstaComposer 4 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*InstaComposer 4 - Creative Companion (VST / AU / AAX)*
+<!-- deal-context-video:end -->
+
 ## FAQ
-<!-- role:faq -->
 
-Q: Does InstaComposer 4 support presets from earlier versions?
-A: Yes, legacy support lets users load presets originally created in Instacomposer 1, 2 and 3.
+**Q: What does InstaComposer 4 actually generate?**
+A: According to the product listing, it generates complete songs, melodies, phrases, riffs, and chords, with one-click full song generation as an option.
 
-Q: How many tracks can InstaComposer 4 generate at once?
-A: Up to six independent tracks, with as many as eight Scenes per song section for building arrangement variations.
+**Q: Can I use my own sounds with it?**
+A: Yes. The listing states you can load your own SoundFont (SF2) instruments in addition to the built-in acoustic piano and General MIDI sounds.
 
-Q: Is $29.90 the lowest price InstaComposer 4 has reached?
-A: Yes, $29.90 on 2026-11-02 matches the plugin's tracked low, far below its $129.00 regular price.
+**Q: What formats does it support?**
+A: VST3, VST, AU, and AAX are listed, with the Windows build supporting VST, VST3, and AAX.
 
-Q: Can InstaComposer 4 load custom instrument sounds?
-A: Yes, SoundFont (SF2) support lets users load their own instruments alongside the built-in acoustic piano and General MIDI-style collection.
+**Q: Is $29.90 a good price for InstaComposer 4?**
+A: It matches both the lowest price and the typical sale price tracked across 28 observations since 2026-10-14, against a $129 regular price.
+
+## Should you buy now?
+
+Yes, based on the tracked pricing: $29.90 is both the lowest price and the typical sale price recorded across 28 observations since 2026-10-14, compared to a $129 regular price. Since the deal price isn't unusually below the typical sale price, there's little reason to wait for a deeper discount, but it's also not a fleeting flash sale given how often it's hit this level.
+
+pluginboutique.com/search?q=InstaComposer+4&a_aid=69cb95abe1763&chan=art&data1=instacomposer-4-edb92a&utm_source=plugindrop&utm_medium=article&utm_campaign=instacomposer-4-edb92a).
 
 *Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
+
+## Related Guides
+
+- [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
+- [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-vst-plugins-2026/)
+- [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
