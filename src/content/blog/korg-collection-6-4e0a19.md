@@ -13,6 +13,7 @@ dealPrice: "$199.00"
 originalPrice: "$399.00"
 discount: "50% OFF"
 updatedDate: "2026-11-17"
+allTimeLow: true
 ---
 **TL;DR:** KORG makes the KORG Collection, a suite of software synthesizers that recreates the sound and behavior of its own hardware instruments, from analog synths to digital workstations, organs, and pianos. Producers can use it to combine analog patching sounds from the MS-20 and Polysix with workstation-era samples from the M1 and TRITON inside one plugin collection. [KORG Collection 6](https://www.pluginboutique.com/search?q=KORG+Collection+6&a_aid=69cb95abe1763&chan=art&data1=korg-collection-6-korg-c&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-korg-c) is $199 at Plugin Boutique, down from $399.
 
