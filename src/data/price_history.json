@@ -146620,7 +146620,7 @@
       "pb_url": "/product/1-Instruments/4-Synth/9541-Phoscyon-2",
       "typical_regular": 119.0,
       "typical_sale": 59.0,
-      "all_time_low": 59.0,
+      "all_time_low": 39.0,
       "notes": "auto-crawl 2026-10-11",
       "category": null,
       "history": [
@@ -146752,6 +146752,16 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-12-01"
+        },
+        {
+          "date": "2026-11-17",
+          "regular": 119.0,
+          "sale": 39.0,
+          "source": "auto_check",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD",
+          "until": "2026-11-19"
         }
       ],
       "image": "/images/plugin-prices/phoscyon-2.jpg",
