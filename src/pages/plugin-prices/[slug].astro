@@ -27,6 +27,7 @@ import { composeHeadline } from '../../lib/headline.mjs';
 import { detectBrand } from '../../lib/brands.mjs';
 import { dealState } from '../../lib/articleDeal.mjs';
 import { verdictLabel } from '../../lib/verdict.mjs';
+import { priceVerdict } from '../../lib/priceVerdict.mjs';
 import { discountCheck } from '../../lib/discountCheck.mjs';
 import manifestRaw from '../../data/programmatic_pages.json';
 import { categoryForProduct } from '../../lib/categoryInference.mjs';
@@ -393,6 +394,7 @@ const share = saleShare(entry);
 const gaps = saleGaps(facts, buildDate);
 const rank = categoryDepthRank(name, entry, indexableEntries);
 const distance = distanceFromLow(entry, buildDate);
+const pageVerdict = priceVerdict({ name, facts, low: seenLow, rank, label: fableVerdict, buildDate, shownPrice: current });
 const alertEpisode = facts.sales.find(sale => sale.low === alertTargetPrice);
 const peers = sameCategoryPeers(entry, name, indexableEntries, categoryForProduct);
 const peerDeals = peers.map(peer => {
@@ -970,6 +972,7 @@ const faqLD = {
 
       <section class="page-section" id="decision">
         <h2 class="section-title">Buy now or wait? — what our records show</h2>
+        {pageVerdict && <p class="decision-verdict" data-pp-element="verdict" data-verdict-key={pageVerdict.key}>{pageVerdict.text}</p>}
         <details class="decision-details" open><summary>Read the price evidence</summary>
         {decisionAnswers.map(({ q, a }) => (<><h3>{q}</h3><p>{a}</p></>))}
         {researchNote && <p class="section-sub">{researchNote}</p>}
@@ -1358,6 +1361,7 @@ const faqLD = {
   .product-showcase .last-checked{margin:.7rem 0 0}
   .category-link{display:inline-block;margin:.5rem 0;font-size:.78rem}
   section.page-section{margin:1.25rem 0}
+  .decision-verdict{font-size:1.05rem;line-height:1.6;font-weight:600;margin:.25rem 0 .75rem;padding:.75rem 1rem;border-left:3px solid var(--accent);background:rgba(127,127,127,.06);border-radius:4px}
   .decision-details summary,.record-details summary{cursor:pointer;color:var(--accent);font-size:.85rem;padding:.4rem 0}
   .watch-row{margin:0 0 1rem}
   .guide-list{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:.75rem;contain:paint}
