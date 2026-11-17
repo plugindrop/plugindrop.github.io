@@ -1,89 +1,68 @@
 ---
-noindex: true
-title: "CINEDREAM: Features, Pricing & Is It Worth It? (2026)"
-description: "CINEDREAM is a virtual instrument by UJAM that transforms real guitar recordings into cinematic pads and evolving. Check current pricing at Plugin Boutique."
+title: "CINEDREAM: 93% off at $9.00"
+description: "CINEDREAM is $9.00 at Plugin Boutique, down from the $129.00 regular price (93% off). Check the current tracked price."
 pubDate: '2026-04-28T17:11:38Z'
 tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14697-CINEDREAM?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinedream-368cd1&chan=art&data1=cinedream-368cd1"
 heroImage: /images/cinedream-368cd1.jpg
 score: 7.35
 draft: false
+productKey: "CINEDREAM"
 converted: true
+dealPrice: "$9.00"
+originalPrice: "$129.00"
+discount: "93% OFF"
+updatedDate: "2026-11-17"
 ---
-**CINEDREAM** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14697-CINEDREAM?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinedream-368cd1&chan=art&data1=cinedream-368cd1)
+**TL;DR:** UJAM builds CINEDREAM as a virtual guitar instrument for shaping ambient guitar textures, pads, and underscore. Composers and sound designers can use its cinematic guitar styles and contour-based envelope control to turn guitar-style material into slow-moving backdrops rather than straight guitar parts. At $9, matching the lowest price PluginDrop has tracked for this plugin, it's live now at [Plugin Boutique](https://www.pluginboutique.com/search?q=CINEDREAM&a_aid=69cb95abe1763&chan=art&data1=cinedream-cinedr&utm_source=plugindrop&utm_medium=article&utm_campaign=cinedream-cinedr).
 
----
+## Inside CINEDREAM's Contour Knob and 30 Guitar Styles
+<!-- role:product -->
+Thirty styles focused on cinematic guitar make up CINEDREAM's core library, with the maker describing the goal as making it "dead easy to create ambient guitar textures for any musical situation." A contour knob sits at the center of the instrument, fading between slow attacks and long sustains so a single style can move from a plucked phrase to a held, swelling texture without switching patches. Five amp models run underneath that control, moving tone from clean shimmer to distorted grit, and two multi-effect engines sit after them, built for pads, pulses, and ambiences rather than for a conventional guitar sound. Together, the style library supplies the source material, the contour knob reshapes its envelope, the amp stage colors its surface, and the multi-effect engines push the result toward score-style backing. CINEDREAM loads as VST2, VST3, AU 2, or AAX, with the AU 2 build limited to Logic Pro X and newer, and all formats run 64-bit only.
 
-Now I have confirmed facts. Writing the article now.
+<!-- deal-context-video:start -->
+<iframe src="https://www.youtube.com/embed/rpVwmNglFTM" title="‪@ujamInstruments‬ presents: Virtual Guitarist CINEDREAM | Official Walkthrough" frameborder="0" allowfullscreen></iframe>
 
----
+*‪@ujamInstruments‬ presents: Virtual Guitarist CINEDREAM | Official Walkthrough*
+<!-- deal-context-video:end -->
 
----
+## The Tone Range From Clean Shimmer to Distorted Grit
+<!-- role:sound -->
+Five amp models carry CINEDREAM's tone across a single range, from clean shimmer through to distorted grit, giving the same guitar-based material different surface color before it reaches the effects stage. Each style starts from real guitar and is then shaped by sound design, so the resulting textures keep a string-instrument character even as the contour knob stretches short attacks into long, pad-like sustains. The two multi-effect engines that follow are built specifically for pads, pulses, and ambiences, moving the amp-shaped signal further from a conventional guitar part and toward slow-building, film-style underscoring.
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/rpVwmNglFTM" title="CINEDREAM — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+## Who Reaches for CINEDREAM's Ambient Guitar Textures
+<!-- role:audience -->
+Four named uses point to who CINEDREAM is built for:
 
-## What Is CINEDREAM?
+- **Score composers** — draw on the cinematic guitar styles to build moody, underscore-style backing for picture or narrative work.
+- **Pad designers** — stretch guitar-based material into evolving, slow-moving textures using the contour knob's long-sustain setting.
+- **Sound designers** — reshape real guitar recordings through the two multi-effect engines built for pulses and ambiences.
+- **Ambient producers** — apply ambient guitar textures across a project without relying on a standard guitar sound.
 
-CINEDREAM is a virtual instrument by UJAM that transforms real guitar recordings into cinematic pads and evolving ambient textures. The tagline is "guitars that don't sound like guitars" — the source material is guitar, but the output is atmospheric layers suited to film scoring, trailer music, and ambient production. It's a self-contained tool: styles, amp shaping, and effects are all built in, with no external signal chain required.
+## $9 Matches CINEDREAM's Lowest Tracked Price
+<!-- role:price -->
+$9 matches the $9 lowest price PluginDrop has tracked for CINEDREAM across 41 observations since August 30, 2026, against a typical sale of $29 and a regular price of $129. That history puts the current Plugin Boutique listing at PluginDrop's BUY NOW threshold, within 5% of the lowest point it has recorded. [See the current CINEDREAM listing at Plugin Boutique](https://www.pluginboutique.com/search?q=CINEDREAM&a_aid=69cb95abe1763&chan=art&data1=cinedream-cinedr&utm_source=plugindrop&utm_medium=article&utm_campaign=cinedream-cinedr).
 
-## Key Features
-
-- **30 Cinematic Guitar Styles** — Pre-designed tonal characters covering a range of moods, from clean shimmer to dense, layered ambience.
-- **Player Mode** — Hold a key or chord and CINEDREAM generates automatic evolving phrases; useful for quickly laying down backgrounds without manual programming.
-- **Instrument Mode** — Triggers individual notes for custom phrasing and more deliberate melodic control.
-- **5 Amp Models** — Shapes the core tone from clean shimmer through to distorted character before effects processing is applied.
-- **Contour Knob** — Single macro control for dynamic shaping, adjusting expressiveness without menu diving.
-- **Dual Multi-Effect Engines** — Stomp Box and Finisher FX units handle modulation, reverb, and further processing directly inside the plugin.
-
-## Who Is It For?
-
-- **Film and TV composers** — The ambient texture focus maps directly to underscore and transitional cue work where evolving pads are a constant need.
-- **Trailer music producers** — Player Mode combined with the built-in FX chain covers the sweeping, layered sound that defines the format.
-- **Beatmakers in ambient or lo-fi genres** — Automatic phrase generation makes guitar character accessible without any recording or performance skill.
-- **Producers without guitar access** — All expression is handled internally; no DI box, mic, or external instrument needed.
-
-UJAM runs promotional discounts through Plugin Boutique on a recurring basis, typically several times per year. Their standard sale windows tend to sit in the 50–60% range.  At $29, the effective cost per included amp model works out to under $6.
-
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14697-CINEDREAM?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinedream-368cd1&chan=art&data1=cinedream-368cd1)
-
-## Alternatives at a Glance
-
-| Name | Price | Key Difference |
-|---|---|---|
-| Spitfire LABS | Free | Wide range of cinematic patches; no built-in playback modes or amp shaping |
-| UJAM Virtual Guitarist AMBER | ~$99 | Warm acoustic guitar focus within the same UJAM ecosystem; less cinematic ambient range |
-| Heavyocity Mosaic Tape | ~$99 | Tape-sourced cinematic textures; broader orchestral palette, not guitar-derived |
-
-Spitfire LABS handles cinematic basics at no cost but lacks CINEDREAM's playback engine and effects chain. AMBER fits producers wanting warm acoustic character rather than ambient pads; Mosaic Tape addresses similar cinematic territory from different source material.
+<!-- deal-context-formats:start -->
+## Formats and system requirements
+- Formats: VST3, VST2, AU, AAX
+- Mac requirements: macOS Monterey (12) — macOS Sequoia (15); Supported on Intel Macs & Apple silicon Macs (Rosetta and native).; You may have success on earlier versions but UJAM doesn’t support and fully qualify them.
+- Windows requirements: Windows 10 — Windows 11
+- Source: pluginboutique.com product page, retrieved 2026-11-17
+<!-- deal-context-formats:end -->
 
 ## FAQ
+<!-- role:faq -->
+Q: What does the contour knob actually control?
+A: It fades between slow attacks and long sustains, letting one style shift from a plucked phrase to a held, pad-like texture.
 
-**Q: Does CINEDREAM require iLok?**
-A: No. Authorization runs through UJAM's own system — either via the UJAM App or in-plugin email and password entry.
+Q: Why do the multi-effect engines matter for ambient work?
+A: They're built specifically for pads, pulses, and ambiences, pushing guitar-based material toward backdrops rather than a straight guitar part.
 
-**Q: What plugin formats does CINEDREAM support?**
-A: VST2, VST3, AU2, and AAX. All formats are 64-bit only.
+Q: What do the amp models change in the sound?
+A: They move the tone across a range from clean shimmer to distorted grit, shaping the color of each cinematic guitar style.
 
-**Q: What are the minimum system requirements?**
-A: Windows 10/11 or macOS Monterey (12) through Sequoia (15), 8GB RAM, and 4GB free disk space. Both Intel and Apple Silicon Macs are supported natively.
+Q: How low has CINEDREAM's price gone before this listing?
+A: PluginDrop's lowest tracked price is $9, which the current listing matches, against a $129 regular price and a $29 typical sale.
 
-**Q: How is CINEDREAM installed?**
-A: Through the UJAM App or a downloadable installer provided at purchase.
-
-## Where to Buy
-
-CINEDREAM is $100 below its standard price at this 78% discount — and UJAM's deeper sale windows are not a constant fixture. For producers building a cinematic or ambient toolkit, this sits at a price point where the risk of trying it is minimal.
-
-[→ Check current price at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14697-CINEDREAM?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinedream-368cd1&chan=art&data1=cinedream-368cd1)
-
----
-
-*This post contains affiliate links. We may earn a small commission at no extra cost to you.*
-
-## Related Guides
-
-- [Best Mixing Plugins 2026](/posts/best-mixing-plugins-2026/)
-- [Best Creative FX Plugins](/posts/best-creative-fx-plugins/)
-- [Best Free VST Plugins 2026](/posts/best-free-vst-plugins-2026/)
+*Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*

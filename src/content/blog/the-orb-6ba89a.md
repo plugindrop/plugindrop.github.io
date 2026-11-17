@@ -1,91 +1,71 @@
 ---
-noindex: true
-title: "The Orb: Features, Pricing & Is It Worth It? (2026)"
-description: "The Orb is a creative filter effect plugin sold through Plugin Boutique. Check current pricing at Plugin Boutique."
+title: "The Orb: 61% off at $19.00"
+description: "The Orb is $19.00 at Plugin Boutique, down from the $49.00 regular price (61% off). The sale is tracked through 2026-11-29."
 pubDate: '2026-04-23T23:42:54Z'
 tags: ["review", "vst-plugin", "effects", "music-production"]
 affiliate: "https://www.pluginboutique.com/product/2-Effects/19-Filter/2888-The-Orb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=the-orb-6ba89a&chan=art&data1=the-orb-6ba89a"
 heroImage: /images/the-orb-6ba89a.jpg
 score: 6.65
 draft: false
+productKey: "The Orb"
 converted: true
+saleExpiry: "2026-11-29"
+dealPrice: "$19.00"
+originalPrice: "$49.00"
+discount: "61% OFF"
+updatedDate: "2026-11-17"
 ---
-**The Orb** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/19-Filter/2888-The-Orb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=the-orb-6ba89a&chan=art&data1=the-orb-6ba89a)
+**TL;DR:** AudioThing's The Orb runs three ZDF-designed band-pass filters that reshape any input into vowel-like formant tones, with three LFOs cycling the Vowel, Emphasis/Resonance, and Drift of each formant. Sound designers can morph a sustained source between Male, Female, Child, or custom vowel sets while the LFOs push Emphasis and Drift for continuously shifting formant movement. Plugin Boutique currently has The Orb at $19, 61% off its $49 regular price — [grab it here](https://www.pluginboutique.com/search?q=The+Orb&a_aid=69cb95abe1763&chan=art&data1=the-orb-the-or&utm_source=plugindrop&utm_medium=article&utm_campaign=the-orb-the-or).
 
----
+## Three Band-Pass Filters Drive AudioThing's Formant Engine
+<!-- role:product -->
 
-## What Is The Orb?
+Three band-pass filters, built with a ZDF design, sit at the center of The Orb's processing: each one simulates a vowel formant and can be aimed at any incoming sound rather than only vocal recordings. Clicking a vowel name inside one of the orb's three sectors swaps that formant between the plugin's Male, Female, Child, or Custom sets, and the Custom Vowels window lets a user rename each vowel and reset its frequency, with every custom set stored inside the preset or DAW session. Inside each sector, the dot's distance from center sets Emphasis (resonance) for that formant, while the angle sets Drift, a Hz value added to or subtracted from the vowel's frequency. Three LFOs can run against Vowel, Emphasis, or Drift independently, so a formant can cycle between vowel positions or wander in resonance and pitch without manual automation. AudioThing lists the plugin as lightweight on CPU and ships a preset system with a randomizer for generating new vowel combinations quickly. A companion video, "The ORB Formant Filter By AudioThing - Show & Reveal," walks through this filter-and-LFO layout on screen. Cherry Audio's Filtomika, by contrast, is built to work as an insert or bus effect across mono or stereo sources; The Orb's three-filter layout is built specifically around vowel formant shaping rather than that kind of general-purpose bus filtering.
 
-The Orb is a creative filter effect plugin sold through Plugin Boutique. It sits in the Effects > Filter category, designed to bring animated, modulated filtering to your productions. Whether you're sculpting movement into synth pads, chopping rhythmic cuts into drum buses, or adding sweeping texture to full mixes, filter plugins like this one are a go-to tool for adding life to static sounds. Check the product page for the full developer and version details.
+<!-- deal-context-video:start -->
+<iframe src="https://www.youtube.com/embed/wmyQHKgxOQo" title="The ORB Formant Filter By AudioThing - Show &amp; Reveal" frameborder="0" allowfullscreen></iframe>
 
----
+*The ORB Formant Filter By AudioThing - Show & Reveal*
+<!-- deal-context-video:end -->
 
-## Key Features
+## What the Three LFOs Do to a Signal
+<!-- role:sound -->
 
-- **Multi-Mode Filtering:** Offers multiple filter types (lowpass, highpass, bandpass, and more) to cover a wide range of tonal shaping needs — verify exact modes on the product page.
-- **Modulation System:** Built-in modulation sources let you animate the filter cutoff and resonance over time, from subtle movement to dramatic sweeps.
-- **Envelope Follower:** Allows the incoming audio signal to drive the filter dynamically, making it reactive to the transients in your source material.
-- **LFO Control:** Syncable LFO for rhythmically synced filter movement — essential for house, techno, and electronic production workflows.
-- **Resonance Control:** Dial in everything from gentle tone shaping to screaming self-oscillation at the extremes.
-- **DAW Compatibility:** Works as a VST/AU plugin; check the official product page for exact format support and system requirements.
+Running any input through The Orb's formant stage, the maker says, turns it into a vowel-like, formant-filtered sound shaped by whichever vowel set is active. The default configuration mirrors the Male vowel settings, and switching sectors to Female, Child, or a Custom set changes which formant frequencies the three band-pass filters track. Because Vowel, Emphasis, and Drift can each run under their own LFO, the formant character can drift continuously between vowel positions instead of sitting on one static setting.
 
----
+## Who Reaches for Vowel-Shaped Filtering
+<!-- role:audience -->
 
-## Who Is It For?
+- **Sound designers** — can route percussion, drones, or field recordings through the three band-pass filters to add vowel-like formant color that a standard filter doesn't produce.
+- **Synth programmers** — can assign the LFOs to Vowel, Emphasis, and Drift to build slowly evolving formant movement into a patch without manual automation.
+- **Preset builders** — can use the randomizer inside the preset system to generate new vowel and modulation combinations quickly.
 
-- **Electronic Music Producers:** Filter animation is a cornerstone of techno, house, and synth-wave production — this type of plugin handles that territory well.
-- **Sound Designers:** Modulated filters are a primary tool for creating evolving textures and transitions in film, game, or trailer sound work.
-- **Beatmakers and Hip-Hop Producers:** Filter sweeps on samples and drum loops add character and movement that static EQ simply can't replicate.
-- **Mix Engineers Wanting Creative Tools:** A dedicated filter plugin can do things a standard EQ won't — useful for anything from subtle warmth to wild FX processing.
+## $19 Matches The Orb's Own Tracked Floor
+<!-- role:price -->
 
----
+Plugin Boutique's current listing for The Orb sits at $19, the same figure PluginDrop has recorded as both the lowest and the typical sale price across 36 observations tracked since 2022-07-29. That price is 61% below the $49 regular price AudioThing lists for the plugin. PluginDrop's verdict calls this an everyday price rather than a limited drop: $19 has held at every one of 29 checks since 2026-10-04. Buyers get the VST, AU, and AAX (64-bit) builds for OSX and Windows at that price through Plugin Boutique: [The Orb at Plugin Boutique](https://www.pluginboutique.com/search?q=The+Orb&a_aid=69cb95abe1763&chan=art&data1=the-orb-the-or&utm_source=plugindrop&utm_medium=article&utm_campaign=the-orb-the-or).
 
- Plugin Boutique does run periodic sales, but this level of discount on individual plugins is worth paying attention to — it's not a guaranteed recurring event. If The Orb has been on your radar, now is a more informed time to act than waiting for an unknown future sale.
-
-Note: Verify current pricing on the product page — deals can change without notice.
-
-[Pick up The Orb at the discounted price on Plugin Boutique.](https://www.pluginboutique.com/product/2-Effects/19-Filter/2888-The-Orb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=the-orb-6ba89a&chan=art&data1=the-orb-6ba89a)
-
----
-
-## Alternatives at a Glance
-
-| Name | Price | Key Difference |
-|---|---|---|
-| FabFilter Volcano 3 | ~$99 | More advanced modulation routing and filter types; higher price point |
-| Sugar Bytes WOW2 | ~$89 | Strong rhythmic filter focus with a step sequencer built in |
-| Xfer Records LFOTool | ~$20 | Primarily a volume/panning LFO tool with basic filter; lighter scope |
-
-If budget is the deciding factor, LFOTool covers simpler filter-plus-LFO use cases at a lower price. Volcano 3 is the premium option with broader modulation architecture. The Orb at its discounted $28.42 sits in a competitive middle ground for producers who want a dedicated creative filter without paying flagship prices.
-
----
+<!-- deal-context-formats:start -->
+## Formats and system requirements
+- Formats: VST3, VST2, VST, AU, AAX, CLAP
+- Mac requirements: OS X 10.9 – macOS 14; Apple Silicon (M chips) Native (Universal 2 Binary); 2GHz CPU, 4 GB RAM; VST2, VST3, AU, AAX, CLAP (64-bit)
+- Windows requirements: Windows 7-11; 2GHz CPU, 4 GB RAM; VST2, VST3, AAX, CLAP (64-bit)
+- Source: pluginboutique.com product page, retrieved 2026-11-17
+<!-- deal-context-formats:end -->
 
 ## FAQ
+<!-- role:faq -->
 
-**Q: Does The Orb require iLok?**
-A: Check the official product page for activation and license details — iLok requirements vary by developer.
+Q: Can custom vowel sets be saved for reuse?
+A: Yes — the Custom Vowels window lets a user rename each vowel and change its frequency, and AudioThing saves every custom set inside the preset or DAW session.
 
-**Q: What DAW formats are supported?**
-A: Verify VST, VST3, AU, and AAX support on the Plugin Boutique product page, as format availability depends on the developer's current build.
+Q: What do the three LFOs actually modulate?
+A: They can target Vowel, Emphasis, or Drift independently, cycling the active vowel, shifting each formant's resonance, or sliding its frequency up or down in Hz.
 
-**Q: Is there a free trial available?**
-A: Check the product page — some plugins on Plugin Boutique offer demo versions, but this varies by title.
+Q: Does the preset browser include randomization?
+A: Yes, The Orb ships with a preset system that includes a randomizer for generating new vowel and modulation combinations.
 
-**Q: What are the system requirements?**
-A: Minimum OS and CPU specs are listed on the official product page; check there before purchasing.
+Q: Can Emphasis and Drift move independently across the three formants?
+A: Each of the three sectors has its own Emphasis (resonance) and Drift value, and each can be driven by its own LFO, so the three formants can move independently rather than in lockstep.
 
----
-
-## Where to Buy
-
-42** — a straightforward saving on a creative filter plugin with no bundle strings attached. [Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/19-Filter/2888-The-Orb?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=the-orb-6ba89a&chan=art&data1=the-orb-6ba89a)
-
----
-
-*This post contains affiliate links. We may earn a small commission at no extra cost to you.*
-
-## Related Guides
-
-- [Best Mixing Plugins 2026](/posts/best-mixing-plugins-2026/)
-- [Best Creative FX Plugins](/posts/best-creative-fx-plugins/)
-- [Best Free VST Plugins 2026](/posts/best-free-vst-plugins-2026/)
+*Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
