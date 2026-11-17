@@ -5,6 +5,7 @@ pubDate: "2026-03-23T12:00:00Z"
 updatedDate: "2026-10-04T12:21:20Z"
 tags: ["free", "guide", "music-production"]
 affiliate: "https://www.pluginboutique.com/deals?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=free-plugins-vs-paid-worth-upgrading&chan=art&data1=free-plugins-vs-paid-worth-upgrading"
+saleExpiry: '2025-11-22'
 draft: false
 heroImage: "/images/free-plugins-vs-paid-worth-upgrading.jpg"
 score: 1.68

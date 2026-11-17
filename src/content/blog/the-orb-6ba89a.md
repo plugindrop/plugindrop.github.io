@@ -15,7 +15,7 @@ originalPrice: "$49.00"
 discount: "61% OFF"
 updatedDate: "2026-11-17"
 ---
-**TL;DR:** AudioThing's The Orb runs three ZDF-designed band-pass filters that reshape any input into vowel-like formant tones, with three LFOs cycling the Vowel, Emphasis/Resonance, and Drift of each formant. Sound designers can morph a sustained source between Male, Female, Child, or custom vowel sets while the LFOs push Emphasis and Drift for continuously shifting formant movement. Plugin Boutique currently has The Orb at $19, 61% off its $49 regular price — [grab it here](https://www.pluginboutique.com/search?q=The+Orb&a_aid=69cb95abe1763&chan=art&data1=the-orb-the-or&utm_source=plugindrop&utm_medium=article&utm_campaign=the-orb-the-or).
+**TL;DR:** AudioThing's The Orb runs three ZDF-designed band-pass filters that reshape any input into vowel-like formant tones, with three LFOs cycling the Vowel, Emphasis/Resonance, and Drift of each formant. Sound designers can morph a sustained source between Male, Female, Child, or custom vowel sets while the LFOs push Emphasis and Drift for continuously shifting formant movement. Plugin Boutique currently has The Orb at $19, 61% off its $49 regular price — [grab it here](https://www.pluginboutique.com/product/2-Effects/19-Filter/2888-The-Orb?a_aid=69cb95abe1763&chan=art&data1=the-orb-the-or&utm_source=plugindrop&utm_medium=article&utm_campaign=the-orb-the-or).
 
 ## Three Band-Pass Filters Drive AudioThing's Formant Engine
 <!-- role:product -->
@@ -47,7 +47,7 @@ Running any input through The Orb's formant stage, the maker says, turns it into
 ## $19 Matches The Orb's Own Tracked Floor
 <!-- role:price -->
 
-Plugin Boutique's current listing for The Orb sits at $19, the same figure PluginDrop has recorded as both the lowest and the typical sale price across 36 observations tracked since 2022-07-29. That price is 61% below the $49 regular price AudioThing lists for the plugin. PluginDrop's verdict calls this an everyday price rather than a limited drop: $19 has held at every one of 29 checks since 2026-10-04. Buyers get the VST, AU, and AAX (64-bit) builds for OSX and Windows at that price through Plugin Boutique: [The Orb at Plugin Boutique](https://www.pluginboutique.com/search?q=The+Orb&a_aid=69cb95abe1763&chan=art&data1=the-orb-the-or&utm_source=plugindrop&utm_medium=article&utm_campaign=the-orb-the-or).
+Plugin Boutique's current listing for The Orb sits at $19, the same figure PluginDrop has recorded as both the lowest and the typical sale price across 36 observations tracked since 2022-07-29. That price is 61% below the $49 regular price AudioThing lists for the plugin. PluginDrop's verdict calls this an everyday price rather than a limited drop: $19 has held at every one of 29 checks since 2026-10-04. Buyers get the VST, AU, and AAX (64-bit) builds for OSX and Windows at that price through Plugin Boutique: [The Orb at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/19-Filter/2888-The-Orb?a_aid=69cb95abe1763&chan=art&data1=the-orb-the-or&utm_source=plugindrop&utm_medium=article&utm_campaign=the-orb-the-or).
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements

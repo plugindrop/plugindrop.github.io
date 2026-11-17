@@ -6,6 +6,7 @@ tags: ["review", "vst-plugin", "effects", "eq", "music-production"]
 affiliate: https://www.pluginboutique.com/product/2-Effects/16-EQ/5618-Chandler-Limited-Curve-Bender-Mastering-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chandler-limited-curve-bender-mastering-eq-4785a9&chan=art&data1=chandler-limited-curve-bender-mastering-eq-4785a9
 heroImage: /images/chandler-limited-curve-bender-mastering-eq-4785a9.jpg
 score: 9.05
+saleExpiry: '2026-10-28'
 draft: false
 converted: true
 dealPrice: "$69.00"
@@ -45,7 +46,7 @@ Sonnox's Oxford EQ covers five bands with variable-slope high-pass and low-pass 
 
 The last recorded sale on the Curve Bender brought it to $69.00 on 2026-10-28, against a $299.00 regular price. That $69.00 figure also matches the plugin's tracked low, meaning the October sale hit the lowest price recorded for it rather than stopping short of it. The $299.00 regular price is also the typical regular price tracked for the plugin, so there has been no meaningful discount tier between full price and the lowest recorded sale — it has moved between roughly $299.00 and $69.00 rather than settling at intermediate price points.
 
-No sale is currently active, and no future sale date is confirmed; the figure to watch for next time is $69.00, since that is the floor this plugin has reached so far. Current listing details are available through [Plugin Boutique](https://www.pluginboutique.com/search?q=Chandler+Limited+Curve+Bender+Mastering+EQ&a_aid=69cb95abe1763&chan=art&data1=chandler-limited-curve-bender-mastering-eq-chandl&utm_source=plugindrop&utm_medium=article&utm_campaign=chandler-limited-curve-bender-mastering-eq-chandl).
+No sale is currently active, and no future sale date is confirmed; the figure to watch for next time is $69.00, since that is the floor this plugin has reached so far. Current listing details are available through [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/5618-Chandler-Limited-Curve-Bender-Mastering-EQ?a_aid=69cb95abe1763&chan=art&data1=chandler-limited-curve-bender-mastering-eq-chandl&utm_source=plugindrop&utm_medium=article&utm_campaign=chandler-limited-curve-bender-mastering-eq-chandl).
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements

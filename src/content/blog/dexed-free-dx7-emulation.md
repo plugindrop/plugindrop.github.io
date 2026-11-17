@@ -5,6 +5,7 @@ pubDate: "2026-03-24T09:00:00Z"
 tags: ["free", "vst-plugin", "synth", "fm", "music-production"]
 affiliate: "https://asb2m10.github.io/dexed/"
 dealPrice: "FREE"
+saleExpiry: '2026-09-26'
 draft: false
 heroImage: "/images/dexed-free-dx7-emulation.jpg"
 score: 1.56

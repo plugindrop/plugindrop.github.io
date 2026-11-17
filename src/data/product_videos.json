@@ -1223,11 +1223,11 @@
     "official": true
   },
   "FabFilter Pro-Q 4": {
-    "video_id": "IXWkViqU2K8",
-    "title": "Introduction to FabFilter Pro-Q 4",
-    "channel": "FabFilter",
-    "score": 13,
-    "source": "yt_api_fill"
+    "video_id": "I5oyKXSkHeI",
+    "title": "Pro-Q 4 by FabFilter - Whats New & Improved",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
   },
   "FabFilter Pro-R 2": {
     "video_id": "BuIXvKKtVSw",
@@ -1695,10 +1695,24 @@
     "source": "pb_page",
     "official": false
   },
+  "MODO MAX": {
+    "video_id": "_KFX7jjy9Cc",
+    "title": "MODO DRUM 1.5 - What's New - get realistic, natural and customizable drum tracks",
+    "channel": "ikmultimedia",
+    "source": "pb_page",
+    "official": false
+  },
   "MORPH 3 PRO": {
     "video_id": "Bw8-HuVh2Pk",
     "title": "Zynaptiq MORPH 3 PRO: Transforming Drums Using the MODELER.",
     "channel": "Zynaptiq",
+    "source": "pb_page",
+    "official": false
+  },
+  "MRhythmizer": {
+    "video_id": "7z0UOiLfOUM",
+    "title": "MRythmizer by Melda Production | Automatic & Amazing D&B Drum Fills Tutorial",
+    "channel": "Plugin Boutique",
     "source": "pb_page",
     "official": false
   },
@@ -1831,6 +1845,13 @@
   "Motion Bundle Upgrade from any Motion product": {
     "video_id": "T_RSXMuoM1Y",
     "title": "Motion: Harmonic - Quick Start Guide",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
+  "Motion Fractal Upgrade from any Motion Lite": {
+    "video_id": "ivYiUr_H_l4",
+    "title": "Next Level Granular FX Unit",
     "channel": "Plugin Boutique",
     "source": "pb_page",
     "official": false
@@ -2046,6 +2067,13 @@
     "channel": "Native Instruments",
     "source": "pb_page",
     "official": true
+  },
+  "Notes": {
+    "video_id": "NSZhwEmA13M",
+    "title": "Chord Ideas To Start Songs | What’s New in Notes",
+    "channel": "Future Audio Workshop",
+    "source": "pb_page",
+    "official": false
   },
   "Oberheim Matrix-12": {
     "video_id": "Z82CZIRhZ0g",
@@ -2689,6 +2717,13 @@
     "video_id": "WNfxoStBLVc",
     "title": "🎙️ SoundID VoiceAI – Own a Signature Vocal in Minutes",
     "channel": "SoundID from Sonarworks",
+    "source": "pb_page",
+    "official": false
+  },
+  "Soundbox Instruments Bundle": {
+    "video_id": "5LOtwT9u-GQ",
+    "title": "Mind-Blown by Synth Sampling: Soundbox’s Secret Weapon!",
+    "channel": "Doctor Mix",
     "source": "pb_page",
     "official": false
   },

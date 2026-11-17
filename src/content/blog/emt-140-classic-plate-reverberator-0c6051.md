@@ -15,7 +15,7 @@ saleExpiry: "2026-11-30"
 saleExpirySource: "tracker_until"
 productKey: "UAD EMT 140 Classic Plate Reverberator"
 ---
-**TL;DR:** Universal Audio built the EMT 140 Classic Plate Reverberator as a UAD Native plate reverb plugin that recreates the natural warmth and presence of the original hardware plate unit. Its damping and filter controls, plus plug-in-only Balance, Width, and Modulation settings, are built around pushing lead vocals above a dense mix. Plugin Boutique has it at $49, matching the lowest price PluginDrop has tracked — [grab the EMT 140 Classic Plate Reverberator](https://www.pluginboutique.com/search?q=EMT+140+Classic+Plate+Reverberator&a_aid=69cb95abe1763&chan=art&data1=uad-emt-140-classic-plate-reverberator-emt-14&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-emt-140-classic-plate-reverberator-emt-14).
+**TL;DR:** Universal Audio built the EMT 140 Classic Plate Reverberator as a UAD Native plate reverb plugin that recreates the natural warmth and presence of the original hardware plate unit. Its damping and filter controls, plus plug-in-only Balance, Width, and Modulation settings, are built around pushing lead vocals above a dense mix. Plugin Boutique has it at $49, matching the lowest price PluginDrop has tracked — [grab the EMT 140 Classic Plate Reverberator](https://www.pluginboutique.com/product/2-Effects/17-Reverb/17663-EMT-140-Classic-Plate-Reverberator?a_aid=69cb95abe1763&chan=art&data1=uad-emt-140-classic-plate-reverberator-emt-14&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-emt-140-classic-plate-reverberator-emt-14).
 
 ## Inside the EMT 140 Plug-In's Damping and Filter Controls
 <!-- role:product -->
@@ -47,7 +47,7 @@ Eventide's Blackhole ships with over 50 presets, many created by Eventide artist
 
 ## $49 today, down from $149
 <!-- role:price -->
-At $49, the EMT 140 Classic Plate Reverberator matches the lowest price PluginDrop has tracked since it started monitoring on 2026-08-11 across 19 observations, undercutting the $79 typical sale price and sitting well below the $149 regular price. PluginDrop's verdict calls this a buy-now price, since $49 lands within 5% of the lowest price tracked for this plugin. [Grab the EMT 140 Classic Plate Reverberator at Plugin Boutique](https://www.pluginboutique.com/search?q=EMT+140+Classic+Plate+Reverberator&a_aid=69cb95abe1763&chan=art&data1=uad-emt-140-classic-plate-reverberator-emt-14&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-emt-140-classic-plate-reverberator-emt-14) while it holds at this tracked low.
+At $49, the EMT 140 Classic Plate Reverberator matches the lowest price PluginDrop has tracked since it started monitoring on 2026-08-11 across 19 observations, undercutting the $79 typical sale price and sitting well below the $149 regular price. PluginDrop's verdict calls this a buy-now price, since $49 lands within 5% of the lowest price tracked for this plugin. [Grab the EMT 140 Classic Plate Reverberator at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/17663-EMT-140-Classic-Plate-Reverberator?a_aid=69cb95abe1763&chan=art&data1=uad-emt-140-classic-plate-reverberator-emt-14&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-emt-140-classic-plate-reverberator-emt-14) while it holds at this tracked low.
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements

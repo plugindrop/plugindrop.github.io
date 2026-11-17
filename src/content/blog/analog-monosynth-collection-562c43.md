@@ -15,7 +15,7 @@ draft: false
 productKey: "Analog Monosynth Collection"
 updatedDate: "2026-11-17"
 ---
-**TL;DR:** Roland's Analog Monosynth Collection is a five-instrument software bundle that rebuilds its SH-101, SH-2, TB-303, SYSTEM-100, and PROMARS hardware synths using Analog Circuit Behavior (ACB) modeling, for use inside a DAW or on SYSTEM-8 hardware. It suits productions that need the exact vintage circuit character of those specific machines, including the original instabilities the modeling reproduces, rather than a generic analog-style patch. Plugin Boutique currently has the bundle at $199, 33% off its $299 regular price — [grab it here](https://www.pluginboutique.com/search?q=Analog+Monosynth+Collection&a_aid=69cb95abe1763&chan=art&data1=analog-monosynth-collection-analog&utm_source=plugindrop&utm_medium=article&utm_campaign=analog-monosynth-collection-analog).
+**TL;DR:** Roland's Analog Monosynth Collection is a five-instrument software bundle that rebuilds its SH-101, SH-2, TB-303, SYSTEM-100, and PROMARS hardware synths using Analog Circuit Behavior (ACB) modeling, for use inside a DAW or on SYSTEM-8 hardware. It suits productions that need the exact vintage circuit character of those specific machines, including the original instabilities the modeling reproduces, rather than a generic analog-style patch. Plugin Boutique currently has the bundle at $199, 33% off its $299 regular price — [grab it here](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15320-Analog-Monosynth-Collection?a_aid=69cb95abe1763&chan=art&data1=analog-monosynth-collection-analog&utm_source=plugindrop&utm_medium=article&utm_campaign=analog-monosynth-collection-analog).
 
 ## Five Roland Hardware Synths Rebuilt With ACB Modeling
 <!-- role:product -->
@@ -38,7 +38,7 @@ In practice, that means the SH-101's and TB-303's circuit-level behavior, SYSTEM
 
 Plugin Boutique's current $199 price is 33% off the Analog Monosynth Collection's $299 regular price, but PluginDrop has tracked this bundle since 2026-09-04 across 19 observations, and $149 has been both the lowest recorded price and the typical sale price in that window. That puts today's $199 more than 15% above the typical sale figure, which is why the tracked verdict reads WAIT rather than buy-now.
 
-For anyone who needs all five synths immediately — or wants PLUG-OUT access on SYSTEM-8 hardware right away — the current discount off the regular price is still real; for anyone with flexibility on timing, the bundle has historically gone lower. Either way, the deal is live now at [Plugin Boutique](https://www.pluginboutique.com/search?q=Analog+Monosynth+Collection&a_aid=69cb95abe1763&chan=art&data1=analog-monosynth-collection-analog&utm_source=plugindrop&utm_medium=article&utm_campaign=analog-monosynth-collection-analog).
+For anyone who needs all five synths immediately — or wants PLUG-OUT access on SYSTEM-8 hardware right away — the current discount off the regular price is still real; for anyone with flexibility on timing, the bundle has historically gone lower. Either way, the deal is live now at [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15320-Analog-Monosynth-Collection?a_aid=69cb95abe1763&chan=art&data1=analog-monosynth-collection-analog&utm_source=plugindrop&utm_medium=article&utm_campaign=analog-monosynth-collection-analog).
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements

@@ -15,7 +15,7 @@ draft: false
 productKey: "Phoscyon 2"
 updatedDate: "2026-11-17"
 ---
-**TL;DR:** D16 makes Phoscyon 2, a software emulation of the Roland TB-303 bassline synthesizer built around a redesigned signal path and a built-in sequencer. Producers use it to program acid-style basslines and to dial in the per-unit calibration quirks that original 303 hardware is known for. Plugin Boutique currently has it at $39, matching the lowest price this tracker has recorded — [get Phoscyon 2 at Plugin Boutique](https://www.pluginboutique.com/search?q=Phoscyon+2&a_aid=69cb95abe1763&chan=art&data1=phoscyon-2-phoscy&utm_source=plugindrop&utm_medium=article&utm_campaign=phoscyon-2-phoscy).
+**TL;DR:** D16 makes Phoscyon 2, a software emulation of the Roland TB-303 bassline synthesizer built around a redesigned signal path and a built-in sequencer. Producers use it to program acid-style basslines and to dial in the per-unit calibration quirks that original 303 hardware is known for. Plugin Boutique currently has it at $39, matching the lowest price this tracker has recorded — [get Phoscyon 2 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9541-Phoscyon-2?a_aid=69cb95abe1763&chan=art&data1=phoscyon-2-phoscy&utm_source=plugindrop&utm_medium=article&utm_campaign=phoscyon-2-phoscy).
 
 ## Phoscyon 2 Rebuilds The 303 Signal Path From Scratch
 <!-- role:product -->
@@ -48,7 +48,7 @@ GForce's impOSCar3 is positioned as an authentic-sounding emulation of a British
 
 ## $39 today, down from $119
 <!-- role:price -->
-Plugin Boutique currently lists Phoscyon 2 at $39, equal to the $39 floor this tracker has recorded across 15 observations since October 11, 2026, and well under both the $119 regular price and the $59 typical sale price. At this level the plugin sits at the bottom of its own tracked range rather than partway through a discount. [Get Phoscyon 2 at Plugin Boutique](https://www.pluginboutique.com/search?q=Phoscyon+2&a_aid=69cb95abe1763&chan=art&data1=phoscyon-2-phoscy&utm_source=plugindrop&utm_medium=article&utm_campaign=phoscyon-2-phoscy).
+Plugin Boutique currently lists Phoscyon 2 at $39, equal to the $39 floor this tracker has recorded across 15 observations since October 11, 2026, and well under both the $119 regular price and the $59 typical sale price. At this level the plugin sits at the bottom of its own tracked range rather than partway through a discount. [Get Phoscyon 2 at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/9541-Phoscyon-2?a_aid=69cb95abe1763&chan=art&data1=phoscyon-2-phoscy&utm_source=plugindrop&utm_medium=article&utm_campaign=phoscyon-2-phoscy).
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements

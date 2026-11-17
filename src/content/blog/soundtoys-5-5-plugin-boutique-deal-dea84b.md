@@ -6,6 +6,7 @@ tags: ["review", "vst-plugin", "effects", "music-production", "bundle"]
 affiliate: "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-5-5-plugin-boutique-deal-dea84b&a_aid=69cb95abe1763&chan=art&data1=soundtoys-5-5-plugin-boutique-deal-dea84b"
 heroImage: /images/soundtoys-5-5-plugin-boutique-deal-dea84b.jpg
 score: 10.00
+saleExpiry: '2025-07-22'
 draft: false
 productKey: "Soundtoys 5.5"
 converted: true
@@ -15,7 +16,7 @@ discount: "9% OFF"
 updatedDate: "2026-11-17"
 allTimeLow: true
 ---
-**TL;DR:** Soundtoys packages 22 named effects plugins — Decapitator, EchoBoy, Crystallizer, Effect Rack, and 18 others — into the 5.5 collection, activated through a single Soundtoys account and iLok license. Producers register the bundle once with a 10-digit code from their purchase and then pull any of the included plugins into a session rather than buying effects one at a time. Plugin Boutique currently lists the bundle at $599, a level PluginDrop's tracked history flags as worth waiting on; the deal and current price are available on [Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys+5+5&a_aid=69cb95abe1763&chan=art&data1=soundtoys-5-5-soundt&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-5-5-soundt).
+**TL;DR:** Soundtoys packages 22 named effects plugins — Decapitator, EchoBoy, Crystallizer, Effect Rack, and 18 others — into the 5.5 collection, activated through a single Soundtoys account and iLok license. Producers register the bundle once with a 10-digit code from their purchase and then pull any of the included plugins into a session rather than buying effects one at a time. Plugin Boutique currently lists the bundle at $599, a level PluginDrop's tracked history flags as worth waiting on; the deal and current price are available on [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=soundtoys-5-5-soundt&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-5-5-soundt).
 
 ## 22 Soundtoys Effects Plugins Under One iLok License
 <!-- role:product -->
@@ -40,7 +41,7 @@ FabFilter's Total Bundle takes a different route to the same shelf of mix effect
 
 $599 sits above every benchmark PluginDrop has logged for this bundle since tracking began on 2025-07-22: more than double the $239 lowest recorded price, roughly $300 over the $299 typical sale price, and only $60 under the $659 regular price. Across 46 observations, that gap is enough for PluginDrop's verdict to read **WAIT** rather than buy, since the current listing runs over 15% above the typical sale point. The timing works against the current price too — in November 2026, every one of the 9 bundle-category products PluginDrop tracked went on sale at some point, which argues for a lower number showing up on Soundtoys 5.5 before long.
 
-Shoppers pricing out effects bundles in the same category also have lower-cost options sitting on the shelf right now: [Cableguys ShaperBox 3](/plugin-prices/cableguys-shaperbox-3/) at $89, [Waves Gold Bundle](/plugin-prices/waves-gold-bundle/) at $99.99, [Output One (Arcade)](/plugin-prices/output-one-arcade/) at $119.99, [Waves Platinum Bundle](/plugin-prices/waves-platinum-bundle/) at $129, and [EastWest Composer Cloud+](/plugin-prices/eastwest-composer-cloud/) at $149. None of those carry the same 22-plugin lineup, but they set a far lower entry point for the same shopping session. The current Soundtoys 5.5 listing is available on [Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys+5+5&a_aid=69cb95abe1763&chan=art&data1=soundtoys-5-5-soundt&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-5-5-soundt) for anyone tracking the next drop.
+Shoppers pricing out effects bundles in the same category also have lower-cost options sitting on the shelf right now: [Cableguys ShaperBox 3](/plugin-prices/cableguys-shaperbox-3/) at $89, [Waves Gold Bundle](/plugin-prices/waves-gold-bundle/) at $99.99, [Output One (Arcade)](/plugin-prices/output-one-arcade/) at $119.99, [Waves Platinum Bundle](/plugin-prices/waves-platinum-bundle/) at $129, and [EastWest Composer Cloud+](/plugin-prices/eastwest-composer-cloud/) at $149. None of those carry the same 22-plugin lineup, but they set a far lower entry point for the same shopping session. The current Soundtoys 5.5 listing is available on [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=soundtoys-5-5-soundt&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-5-5-soundt) for anyone tracking the next drop.
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements

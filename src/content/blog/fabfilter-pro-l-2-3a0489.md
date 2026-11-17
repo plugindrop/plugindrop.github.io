@@ -15,7 +15,7 @@ saleExpiry: "2026-12-17"
 saleExpirySource: "fallback"
 draft: false
 ---
-**TL;DR:** FabFilter Pro L 2 is down to $149 at Plugin Boutique, a 25% cut off the ~~$199~~ regular price. PluginDrop has tracked this plugin since 2021-11-26 across 55 observations, and the lowest price seen in that window is $134 — so $149 is a real discount but not the floor. [Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter+Pro+L+2&a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-l-2-3a0489&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-l-2-3a0489).
+**TL;DR:** FabFilter Pro L 2 is down to $149 at Plugin Boutique, a 25% cut off the ~~$199~~ regular price. PluginDrop has tracked this plugin since 2021-11-26 across 55 observations, and the lowest price seen in that window is $134 — so $149 is a real discount but not the floor. [Check the current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/3955-FabFilter-Pro-L-2?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-l-2-3a0489&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-l-2-3a0489).
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/oMJeWXtJODc" title="FabFilter Pro-L 2 25% Off — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

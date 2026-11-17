@@ -6,6 +6,7 @@ tags: ["review", "vst-plugin", "virtual-instrument", "effects", "music-productio
 affiliate: "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14697-CINEDREAM?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=cinedream-368cd1&chan=art&data1=cinedream-368cd1"
 heroImage: /images/cinedream-368cd1.jpg
 score: 7.35
+saleExpiry: '2026-11-17'
 draft: false
 productKey: "CINEDREAM"
 converted: true
@@ -14,7 +15,7 @@ originalPrice: "$129.00"
 discount: "93% OFF"
 updatedDate: "2026-11-17"
 ---
-**TL;DR:** UJAM builds CINEDREAM as a virtual guitar instrument for shaping ambient guitar textures, pads, and underscore. Composers and sound designers can use its cinematic guitar styles and contour-based envelope control to turn guitar-style material into slow-moving backdrops rather than straight guitar parts. At $9, matching the lowest price PluginDrop has tracked for this plugin, it's live now at [Plugin Boutique](https://www.pluginboutique.com/search?q=CINEDREAM&a_aid=69cb95abe1763&chan=art&data1=cinedream-cinedr&utm_source=plugindrop&utm_medium=article&utm_campaign=cinedream-cinedr).
+**TL;DR:** UJAM builds CINEDREAM as a virtual guitar instrument for shaping ambient guitar textures, pads, and underscore. Composers and sound designers can use its cinematic guitar styles and contour-based envelope control to turn guitar-style material into slow-moving backdrops rather than straight guitar parts. At $9, matching the lowest price PluginDrop has tracked for this plugin, it's live now at [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14697-CINEDREAM?a_aid=69cb95abe1763&chan=art&data1=cinedream-cinedr&utm_source=plugindrop&utm_medium=article&utm_campaign=cinedream-cinedr).
 
 ## Inside CINEDREAM's Contour Knob and 30 Guitar Styles
 <!-- role:product -->
@@ -46,7 +47,7 @@ Four named uses point to who CINEDREAM is built for:
 
 ## $9 Matches CINEDREAM's Lowest Tracked Price
 <!-- role:price -->
-$9 matches the $9 lowest price PluginDrop has tracked for CINEDREAM across 41 observations since August 30, 2026, against a typical sale of $29 and a regular price of $129. That history puts the current Plugin Boutique listing at PluginDrop's BUY NOW threshold, within 5% of the lowest point it has recorded. [See the current CINEDREAM listing at Plugin Boutique](https://www.pluginboutique.com/search?q=CINEDREAM&a_aid=69cb95abe1763&chan=art&data1=cinedream-cinedr&utm_source=plugindrop&utm_medium=article&utm_campaign=cinedream-cinedr).
+$9 matches the $9 lowest price PluginDrop has tracked for CINEDREAM across 41 observations since August 30, 2026, against a typical sale of $29 and a regular price of $129. That history puts the current Plugin Boutique listing at PluginDrop's BUY NOW threshold, within 5% of the lowest point it has recorded. [See the current CINEDREAM listing at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/14697-CINEDREAM?a_aid=69cb95abe1763&chan=art&data1=cinedream-cinedr&utm_source=plugindrop&utm_medium=article&utm_campaign=cinedream-cinedr).
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements

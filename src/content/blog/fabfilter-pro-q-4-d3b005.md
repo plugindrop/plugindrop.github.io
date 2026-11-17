@@ -14,7 +14,7 @@ discount: "25% OFF"
 saleExpiry: "2024-12-12"
 draft: false
 ---
-**TL;DR:** FabFilter Pro-Q 4 is down to $149 from a ~~$199~~ regular price at Plugin Boutique, a 25% cut on one of the most widely used equalizers in mixing and mastering. PluginDrop has tracked this plugin since 2024-12-12 across 54 observations, and $149 is the typical sale price rather than a new low. [Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=FabFilter+Pro+Q+4&a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-d3b005&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-q-4-d3b005).
+**TL;DR:** FabFilter Pro-Q 4 is down to $149 from a ~~$199~~ regular price at Plugin Boutique, a 25% cut on one of the most widely used equalizers in mixing and mastering. PluginDrop has tracked this plugin since 2024-12-12 across 54 observations, and $149 is the typical sale price rather than a new low. [Check the current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-d3b005&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-q-4-d3b005).
 
 <!-- deal-context-sale-windows:start -->
 ## Last three times this went on sale
@@ -99,7 +99,7 @@ A: Yes, the listing includes dedicated display ranges of 3 dB and 6 dB for maste
 
 ## Should you buy now?
 
-Based on the tracked pricing, the verdict is to wait. The current $149 price is not within 5% of the $105 lowest price PluginDrop has tracked for this plugin across 54 observations since 2024-12-12, so a cheaper window has happened before and could happen again. If you need an EQ today and $149 fits your budget, [Plugin Boutique's current listing](https://www.pluginboutique.com/search?q=FabFilter+Pro+Q+4&a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-d3b005&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-q-4-d3b005) is a real discount off the $199 regular price, but patient buyers have historically gotten a better number.
+Based on the tracked pricing, the verdict is to wait. The current $149 price is not within 5% of the $105 lowest price PluginDrop has tracked for this plugin across 54 observations since 2024-12-12, so a cheaper window has happened before and could happen again. If you need an EQ today and $149 fits your budget, [Plugin Boutique's current listing](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-d3b005&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-q-4-d3b005) is a real discount off the $199 regular price, but patient buyers have historically gotten a better number.
 
 *Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
 

@@ -16,7 +16,7 @@ discount: "50% OFF"
 updatedDate: "2026-11-17"
 allTimeLow: true
 ---
-**TL;DR:** KORG makes the KORG Collection, a suite of software synthesizers that recreates the sound and behavior of its own hardware instruments, from analog synths to digital workstations, organs, and pianos. Producers can use it to combine analog patching sounds from the MS-20 and Polysix with workstation-era samples from the M1 and TRITON inside one plugin collection. [KORG Collection 6](https://www.pluginboutique.com/search?q=KORG+Collection+6&a_aid=69cb95abe1763&chan=art&data1=korg-collection-6-korg-c&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-korg-c) is $199 at Plugin Boutique, down from $399.
+**TL;DR:** KORG makes the KORG Collection, a suite of software synthesizers that recreates the sound and behavior of its own hardware instruments, from analog synths to digital workstations, organs, and pianos. Producers can use it to combine analog patching sounds from the MS-20 and Polysix with workstation-era samples from the M1 and TRITON inside one plugin collection. [KORG Collection 6](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16094-KORG-Collection-6?a_aid=69cb95abe1763&chan=art&data1=korg-collection-6-korg-c&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-korg-c) is $199 at Plugin Boutique, down from $399.
 
 ## Inside the KORG Collection 6 Synthesizer Museum
 <!-- role:product -->
@@ -55,7 +55,7 @@ The Lifeline Bundle takes a different shape again: five effects modules — Re-a
 ## Why $199 Matches the Floor PluginDrop Has Tracked
 <!-- role:price -->
 
-At $199, KORG Collection 6 is priced at the same level PluginDrop has recorded as its lowest point across 52 tracked observations since 2026-07-12, against a $399 regular price. Typical sale pricing also lands at $199, so this isn't a temporary dip below the usual discount — it's the floor repeating. That puts the deal within the "BUY NOW" range PluginDrop flags when a live price sits within 5% of the lowest tracked figure. The bundle covers every model from the MS-20 and ARP 2600 through the M1, TRITON, and Prophecy under one license. Grab it at [Plugin Boutique](https://www.pluginboutique.com/search?q=KORG+Collection+6&a_aid=69cb95abe1763&chan=art&data1=korg-collection-6-korg-c&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-korg-c) while it's at the tracked low.
+At $199, KORG Collection 6 is priced at the same level PluginDrop has recorded as its lowest point across 52 tracked observations since 2026-07-12, against a $399 regular price. Typical sale pricing also lands at $199, so this isn't a temporary dip below the usual discount — it's the floor repeating. That puts the deal within the "BUY NOW" range PluginDrop flags when a live price sits within 5% of the lowest tracked figure. The bundle covers every model from the MS-20 and ARP 2600 through the M1, TRITON, and Prophecy under one license. Grab it at [Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16094-KORG-Collection-6?a_aid=69cb95abe1763&chan=art&data1=korg-collection-6-korg-c&utm_source=plugindrop&utm_medium=article&utm_campaign=korg-collection-6-korg-c) while it's at the tracked low.
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements
