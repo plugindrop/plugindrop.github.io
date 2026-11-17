@@ -46,6 +46,14 @@ For anyone who needs all five synths immediately — or wants PLUG-OUT access on
 - Source: pluginboutique.com product page, retrieved 2026-11-16
 <!-- deal-context-formats:end -->
 
+<!-- deal-context-video:start -->
+## Hear it before you buy
+
+<iframe src="https://www.youtube.com/embed/MLspUtI6tLg" title="Analog Monosynth Collection — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Introducing Analog Monosynth Collection!*
+<!-- deal-context-video:end -->
+
 ## FAQ
 <!-- role:faq -->
 

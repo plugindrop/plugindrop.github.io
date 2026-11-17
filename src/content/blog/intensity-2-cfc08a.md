@@ -40,6 +40,14 @@ Plugin Boutique's tracked history shows INTENSITY 2 was last discounted to $99.0
 - Source: pluginboutique.com product page, retrieved 2026-11-17
 <!-- deal-context-formats:end -->
 
+<!-- deal-context-video:start -->
+## Hear it before you buy
+
+<iframe src="https://www.youtube.com/embed/66b4Sz-l3eU" title="INTENSITY 2 — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Mixing with Zynaptiq Intensity 2 - Is this new plug-in a gamechanger? || Usage & Sound (no talking)*
+<!-- deal-context-video:end -->
+
 ## FAQ
 <!-- role:faq -->
 Q: What does the single control on INTENSITY 2 adjust?

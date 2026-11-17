@@ -55,6 +55,14 @@ No sale is currently active, and no future sale date is confirmed; the figure to
 - Source: pluginboutique.com product page, retrieved 2026-11-17
 <!-- deal-context-formats:end -->
 
+<!-- deal-context-video:start -->
+## Hear it before you buy
+
+<iframe src="https://www.youtube.com/embed/rw_gOCbLjz8" title="Chandler Limited Curve Bender — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*UAD Chandler Limited Curve Bender Mastering EQ Plug In*
+<!-- deal-context-video:end -->
+
 ## FAQ
 <!-- role:faq -->
 
