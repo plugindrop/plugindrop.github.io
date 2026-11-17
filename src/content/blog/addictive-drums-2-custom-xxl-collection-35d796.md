@@ -9,6 +9,7 @@ score: 10.00
 draft: false
 converted: true
 dealPrice: "$329.40"
+productKey: "Addictive Drums 2 Custom XXL Collection"
 originalPrice: "$549.00"
 discount: "40% OFF"
 updatedDate: "2026-11-17"
