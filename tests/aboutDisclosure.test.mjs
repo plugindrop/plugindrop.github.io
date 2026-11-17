@@ -14,7 +14,7 @@ test('about describes the affiliate disclosure used by article and store links',
     source('src/pages/plugin-prices/[slug].astro'),
   ]);
 
-  assert.match(about, /Pages with affiliate links say so: posts carry a disclosure note, and every store link is tagged rel="sponsored"\. See the <a href="\/editorial-policy\/#affiliate">affiliate disclosure<\/a>\./);
+  assert.match(about, /Pages with affiliate links say so: posts carry a disclosure note, and every affiliate link is tagged rel="sponsored"\. See the <a href="\/editorial-policy\/#affiliate">affiliate disclosure<\/a>\./);
   assert.doesNotMatch(about, /\[Ad\]|marked with \[Ad\]/);
   assert.match(article, /This post contains affiliate links\. We may earn a small commission/);
   for (const markup of [article, dealCard, pricePage]) {
