@@ -1,92 +1,53 @@
 ---
-noindex: true
-title: "Analog Monosynth Collection: A Recorded 50% Sale at Plugin Boutique"
-description: "Analog Monosynth Collection is a bundle of analog-modeled monosynths. PluginDrop recorded $149.50 (regular $299) at Plugin Boutique in September 2026; this page is a dated record, not a current-sale alert."
+title: "Analog Monosynth Collection: 33% off at $199.00"
+description: "Analog Monosynth Collection is $199.00 at Plugin Boutique, down from the $299.00 regular price (33% off). The sale is tracked through 2026-11-29."
 pubDate: "2026-09-04T16:14:07Z"
 tags: ["sale", "effects", "bundle", "synth", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=Analog+Monosynth+Collection&a_aid=69cb95abe1763&chan=art&data1=analog-monosynth-collection-562c43&utm_source=plugindrop&utm_medium=article&utm_campaign=analog-monosynth-collection-562c43"
 heroImage: "/images/analog-monosynth-collection-562c43.jpg"
 score: 10.00
-dealPrice: "$149.00"
+dealPrice: "$199.00"
 originalPrice: "$299.00"
-discount: "50% OFF"
-saleExpiry: "2026-10-04"
+discount: "33% OFF"
+saleExpiry: "2026-11-29"
 saleExpirySource: "fallback"
 draft: false
 productKey: "Analog Monosynth Collection"
+updatedDate: "2026-11-17"
 ---
-**TL;DR:** PluginDrop recorded the Analog Monosynth Collection at **$149.50** (regular ~~$299~~, 50% off) at Plugin Boutique in September 2026. Our expiry field for that offer is an estimate (2026-10-04), not a vendor-confirmed date, so treat this page as a dated record, not a current-sale alert. Check the live price: [Analog Monosynth Collection at Plugin Boutique](https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/15320-Analog-Monosynth-Collection?a_aid=69cb95abe1763&chan=art&data1=analog-monosynth-collection-562c43&utm_source=plugindrop&utm_medium=article&utm_campaign=analog-monosynth-collection-562c43).
+**TL;DR:** Roland's Analog Monosynth Collection is a five-instrument software bundle that rebuilds its SH-101, SH-2, TB-303, SYSTEM-100, and PROMARS hardware synths using Analog Circuit Behavior (ACB) modeling, for use inside a DAW or on SYSTEM-8 hardware. It suits productions that need the exact vintage circuit character of those specific machines, including the original instabilities the modeling reproduces, rather than a generic analog-style patch. Plugin Boutique currently has the bundle at $199, 33% off its $299 regular price — [grab it here](https://www.pluginboutique.com/search?q=Analog+Monosynth+Collection&a_aid=69cb95abe1763&chan=art&data1=analog-monosynth-collection-analog&utm_source=plugindrop&utm_medium=article&utm_campaign=analog-monosynth-collection-analog).
 
-<div class="audio-embed">
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="Analog Monosynth Collection audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/584059617&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-</div>
+## Five Roland Hardware Synths Rebuilt With ACB Modeling
+<!-- role:product -->
 
+Roland built the Analog Monosynth Collection as a bundle of five of its own late-'70s and early-'80s monosynths: the SH-101, SH-2, TB-303, SYSTEM-100, and PROMARS. Each is recreated with Analog Circuit Behavior (ACB) technology, Roland's circuit-modeling process that analyzes the original hardware units, their circuit diagrams, and other historical data to rebuild how each synth's circuitry actually behaves rather than just approximating its sound. The interfaces are detailed enough to give the feel of working with the original hardware, while extended parameters, an onboard arpeggiator, and built-in effects add workflow options the vintage units never had. Every instrument carries its original factory patches plus new presets aimed at contemporary production. For studios built around Roland's SYSTEM-8 hardware synth, PLUG-OUT compatibility lets any of the five run directly on that hardware instead of staying confined to a DAW. The bundle installs as VST3, AU, and AAX plugins with native Apple silicon support. By comparison, Roland's standalone JUNO-106 plugin takes a different approach entirely: it's a single synth with adjustable polyphony from two to eight notes and a Circuit Mod function for tweaking its sonic character in real time, rather than five separate vintage monosynths bundled together.
 
-## What you actually get
+## The Vintage Quirks ACB Modeling Keeps Intact
+<!-- role:sound -->
 
-The Analog Monosynth Collection bundles multiple virtual analog monosynth instruments into a single package. The focus is on classic, single-voice synth architecture rather than sprawling multitimbral workstations.
+The sound character here comes directly from how the ACB process works: Roland studies original circuit behavior down to its flaws, then rebuilds those same flaws in software instead of smoothing them out. Per Roland's own description, the result is that these recreations "sound and behave exactly like the original hardware with stunning accuracy." That accuracy extends to the instabilities themselves — the modeling carries over the vintage instrument's quirks and drift rather than cleaning them up, which is what gives each of the five synths its lifelike, organic response instead of a sanitized approximation. In practice, that means the SH-101's and TB-303's circuit-level behavior, SYSTEM-100's and PROMARS's included, arrives with the same organic unpredictability the original hardware had, not a quantized emulation of it.
 
-For exact plugin titles, formats, and licensing mechanism, check the product page for details. What's confirmed is the pricing structure: a bundled discount against the combined regular value of $299.
+## What $199 Buys Against the Bundle's Tracked History
+<!-- role:price -->
 
-## Bundle value breakdown
+Plugin Boutique's current $199 price is 33% off the Analog Monosynth Collection's $299 regular price, but PluginDrop has tracked this bundle since 2026-09-04 across 19 observations, and $149 has been both the lowest recorded price and the typical sale price in that window. That puts today's $199 more than 15% above the typical sale figure, which is why the tracked verdict reads WAIT rather than buy-now. For anyone who needs all five synths immediately — or wants PLUG-OUT access on SYSTEM-8 hardware right away — the current discount off the regular price is still real; for anyone with flexibility on timing, the bundle has historically gone lower. Either way, the deal is live now at [Plugin Boutique](https://www.pluginboutique.com/search?q=Analog+Monosynth+Collection&a_aid=69cb95abe1763&chan=art&data1=analog-monosynth-collection-analog&utm_source=plugindrop&utm_medium=article&utm_campaign=analog-monosynth-collection-analog).
 
-Here's the math on the price we recorded:
-
-- Regular price: ~~$299~~
-- Recorded sale price: $149.50
-- Savings: $149.50 (50% off)
-
-That's a straightforward half-off bundle rather than a tiered or pay-what-you-want structure. Because the exact instrument count and per-unit retail pricing aren't published in the tracked deal data, a per-plugin cost breakdown isn't possible here — check the product page for the individual instrument list if you want to price-compare against buying separately.
-
-## Where it fits in a session
-
-Monosynth collections like this typically sit at the sound-design and lead/bass-writing stage of a session, before layering or heavy processing. They're a natural fit for:
-
-- Building analog-style bass and lead patches from scratch
-- Adding vintage character to a track that's otherwise built on digital or sample-based instruments
-- Quick sound sketching, since single-voice synths tend to have simpler, faster-to-navigate signal paths than full subtractive/wavetable hybrids
-
-If your workflow already leans on a couple of go-to analog-modeled synths for these roles, this is more of a tone-palette expansion than a workflow change.
-
-## Skip it if
-
-- You already own several analog-modeled monosynths and don't need more overlapping tones in that category
-- Your projects lean toward polyphonic pads, orchestral, or sample-based sound design where monosynth architecture isn't the priority
-- You're not sure about format or DAW compatibility — confirm VST/AU/AAX support and system requirements on the product page before buying, since specifics aren't listed in the tracked deal data
+<!-- deal-context-formats:start -->
+## Formats and system requirements
+- Formats: VST3, AU, AAX
+- Source: pluginboutique.com product page, retrieved 2026-11-16
+<!-- deal-context-formats:end -->
 
 ## FAQ
+<!-- role:faq -->
 
-**Q: Is the Analog Monosynth Collection a one-time purchase or a subscription?**
-A: Plugin Boutique bundle deals are typically sold as one-time purchases with a permanent license, but confirm the exact license terms on the product page before checkout.
+Q: Can the five synths in this bundle run on SYSTEM-8 hardware instead of just in a DAW?
+A: Yes — PLUG-OUT compatibility with the SYSTEM-8 hardware synth is listed as a feature, so any of the five instruments can run directly on that hardware.
 
-**Q: Do I need an iLok or other dongle to use it?**
-A: Licensing and authorization methods vary by developer within a bundle. Check the official product page for iLok, challenge-response, or online activation requirements.
+Q: Does the collection only include the original hardware's factory sounds?
+A: No — it ships with all the original patches plus new sounds created for contemporary production, on top of the vintage presets.
 
-**Q: What formats does it support?**
-A: Format support (VST, VST3, AU, AAX) isn't specified in the tracked deal data. Check the product page for a full compatibility list before buying.
-
-**Q: Is 50% off a typical discount for this bundle?**
-A: The price context we recorded shows a regular price of $299 and a sale price of $149.50, a 50% reduction. Historical pricing patterns beyond this snapshot aren't available here.
-
-## Should you buy?
-
-The price we recorded cut the $299 regular price in half to $149.50, a straightforward discount that may or may not still be available. If you're actively looking to add analog-modeled monosynth tones to your instrument collection, check the live price first. If you're unsure how many instruments are included or whether they overlap with synths you already own, check the product page for the full contents before committing.
+Q: Is $199 the lowest this bundle has been priced?
+A: No — PluginDrop's tracking shows $149 as both the lowest recorded price and the typical sale price since 2026-09-04, making the current $199 higher than its usual discount point.
 
 *Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
-
-## Related Guides
-
-- [14 Best Free Synth VST Plugins in 2026](/posts/best-free-synth-plugins/)
-- [Best Synth Plugins 2026: Free & Paid](/posts/best-synth-vst-plugins-2026/)
-- [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
-
----
-
-*This post contains affiliate links. We may earn a small commission at no extra cost to you.*
-
-<!-- pd:method:start -->
-## Sources for this guide
-
-This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
-<!-- pd:method:end -->
