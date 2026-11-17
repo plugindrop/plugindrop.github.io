@@ -3,6 +3,7 @@ import { hasContentDepth } from './productContent.mjs';
 import priceHistory from '../data/price_history.json' with { type: 'json' };
 import productContent from '../data/product_content.json' with { type: 'json' };
 import contentRollout from '../data/content_rollout.json' with { type: 'json' };
+import { staticRedirects } from '../data/plugin_price_redirects.mjs';
 export { OBSERVED_SOURCES } from './priceBasis.mjs';
 
 export const MIN_TAG_POSTS = 3;
@@ -130,9 +131,13 @@ export function ownTrackingDays(entry) {
   return (Date.parse(dates.at(-1)) - Date.parse(dates[0])) / DAY_MS;
 }
 
+const priceEntries = [...Object.entries(priceHistory.plugins ?? {}), ...Object.entries(priceHistory.bundles ?? {})];
+const isRedirectedName = (name) => `/plugin-prices/${slugifyProduct(name)}/` in staticRedirects;
+const redirectedPbUrls = new Set(priceEntries.filter(([name, entry]) => isRedirectedName(name) && typeof entry?.pb_url === 'string').map(([, entry]) => entry.pb_url));
+// Keyed by pb_url so any copy of the price data resolves the same way. Redirected legacy names never count (their pages are noindex stubs).
 const contentDepthPbUrls = new Set(
-  [...Object.entries(priceHistory.plugins ?? {}), ...Object.entries(priceHistory.bundles ?? {})]
-    .filter(([name, entry]) => typeof entry?.pb_url === 'string' && !entry.pb_url.includes('/search?') && hasContentDepth(name, productContent, contentRollout))
+  priceEntries
+    .filter(([name, entry]) => typeof entry?.pb_url === 'string' && !entry.pb_url.includes('/search?') && !isRedirectedName(name) && !redirectedPbUrls.has(entry.pb_url) && hasContentDepth(name, productContent, contentRollout))
     .map(([, entry]) => entry.pb_url),
 );
 
