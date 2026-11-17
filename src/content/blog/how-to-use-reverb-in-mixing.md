@@ -102,15 +102,9 @@ In a send/return setup, set Mix to 100% wet on the return track. The Pre-Delay, 
 
 ---
 
-Pre-delay is the most underused parameter in reverb mixing. It introduces a gap between the dry signal and the onset of the reverb tail — even 15–30ms creates enough perceptual separation that the dry transient lands clearly before the reverb follows behind. On vocals and snares especially, pre-delay is what prevents a reverb from washing over the attack and making the mix sound dated or amateur.
-
-A common rule of thumb is to sync pre-delay loosely to tempo. A pre-delay of one 1/16th or 1/8th note keeps the reverb rhythmically coherent with the arrangement. In Valhalla Room, the Pre-Delay knob accepts millisecond values, so calculate your target (60,000 ÷ BPM = one beat in ms, then divide for subdivisions) and dial it in directly.
-
 Decay is the second adjustment. Short decay (0.4–0.8 seconds) keeps elements tight and present — correct for drums and percussion where groove clarity matters. Longer decay (1.5–4 seconds) creates depth and emotional space on pads, vocal tails, and sustained melodic elements. A common approach is to use at least two reverb returns per session: one short for the rhythm section, one longer for melodic material. One-size-fits-all reverb settings are the most common source of muddy amateur mixes.
 
 ---
-
-A reverb tail left untreated introduces low-mid buildup and high-frequency harshness into the mix. The standard correction is to high-pass and low-pass the reverb return — cutting below 200–300Hz removes the mud that clouds kick drums and bass, and rolling off above 8–10kHz removes shimmer that competes with high-frequency detail in vocals and synths.
 
 This step is where reverb plugins with built-in EQ controls earn their position in a workflow. When EQ is integrated into the reverb itself, you shape the tail before it reaches the mix bus — a more targeted approach than stacking a separate EQ after the reverb return.
 

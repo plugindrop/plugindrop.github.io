@@ -178,8 +178,6 @@ Superior Drummer 3 is Toontrack's flagship drum production suite. Its relevance 
 
 ---
 
-The 808 is the defining element of trap. There are two common approaches: either sample and repitch a classic Roland TR-808 bass hit, or synthesize from scratch using a wavetable or subtractive synth. Synthesis gives more control over pitch envelope behavior — the defining variable in whether an 808 sounds professional or amateur — and Serum is one tool for this.
-
 ## Serum
 
 <!-- role:pick -->
@@ -255,8 +253,6 @@ LABS is Spitfire Audio's ongoing free library delivered through a plugin host. I
 
 ---
 
-Raw trap sounds — particularly sine-based 808s and clean pluck leads — lose audibility on consumer playback systems without harmonic content. A pure sine wave that hits hard in studio monitors can completely disappear on phone speakers. This step is about adding controlled distortion and parallel saturation to anchor low-end elements across playback systems.
-
 ## Neural DSP Archetype: Gojira
 
 <!-- role:pick -->
@@ -278,10 +274,6 @@ Neural DSP's Archetype: Gojira is a guitar amp modeling and processing plugin bu
 *(No affiliate link available for Neural DSP Archetype: Gojira — search "Neural DSP Archetype Gojira" for current pricing from the developer.)*
 
 ---
-
-Trap mixes succeed or fail in the low end. The kick and 808 must occupy complementary frequency zones — the kick handling transient punch in the 50–80Hz range while the 808 sustains from 40–120Hz depending on the pitch of the note played. Frequency collision between the two is the most common technical problem in amateur trap mixes.
-
-Sidechain compression between kick and 808 is a common technique in trap production. One controlled approach is transient-sensitive sidechain routing — optical or VCA emulations at medium attack (5–15ms) and medium release (100–250ms) — letting the 808 breathe after each kick hit without an audible pumping artifact. Ghost sidechain techniques, where a duplicated kick MIDI event triggers the compressor without being heard in the mix, give independent timing control over the ducking behavior.
 
 For mix bus processing, high-pass filtering at 28–32Hz removes sub-rumble before limiting. Streaming loudness targets cluster around -14 LUFS integrated, though competitive trap masters frequently land at -8 to -10 LUFS short-term due to the genre's loudness expectations. True peak control at -1dBTP is standard before export.
 

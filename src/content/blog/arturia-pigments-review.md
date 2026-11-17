@@ -20,8 +20,6 @@ draft: false
 
 <!-- role:intro -->
 
-**TL;DR:** The current version is Pigments 7, not Pigments 5. A free, reduced version called Pigments Play is also available. This page sticks to what the vendor documents. We have not tested it hands-on.
-
 ---
 
 If you searched for Pigments 5, note that Arturia now sells Pigments 7. The vendor's update page says the Pigments 7 update is free for Pigments users and can be installed through the Arturia Software Center. We do not have vendor information on how long older versions such as Pigments 5 stay supported, so check Arturia's support pages if that matters for you.
@@ -141,11 +139,7 @@ Last recorded sale: $99.00 on 2026-11-16.
 
 <!-- role:verdict -->
 
-**TL;DR:** The current version is Pigments 7, not Pigments 5. A free, reduced version called Pigments Play is also available. This page sticks to what the vendor documents. We have not tested it hands-on.
-
 ---
-
-If you searched for Pigments 5, note that Arturia now sells Pigments 7. The vendor's update page says the Pigments 7 update is free for Pigments users and can be installed through the Arturia Software Center. We do not have vendor information on how long older versions such as Pigments 5 stay supported, so check Arturia's support pages if that matters for you.
 
 - **Developer:** Arturia
 

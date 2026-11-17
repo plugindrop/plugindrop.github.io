@@ -20,8 +20,6 @@ draft: false
 
 <!-- role:intro -->
 
-**TL;DR:** The current version is Kontakt 8, not Kontakt 7. This page sticks to what the vendor documents: price, editions, what is included, and what is new. We have not tested it hands-on.
-
 ---
 
 If you searched for Kontakt 7, note that Native Instruments now sells Kontakt 8 as the current version. The Kontakt 8 page offers a discounted Update version for owners of an earlier Kontakt. That update is priced at checkout and its exact amount depends on your account, so we do not quote a number here.
@@ -138,15 +136,9 @@ If you searched for Kontakt 7, note that Native Instruments now sells Kontakt 8 
 
 <!-- role:verdict -->
 
-**TL;DR:** The current version is Kontakt 8, not Kontakt 7. This page sticks to what the vendor documents: price, editions, what is included, and what is new. We have not tested it hands-on.
-
 ---
 
-If you searched for Kontakt 7, note that Native Instruments now sells Kontakt 8 as the current version. The Kontakt 8 page offers a discounted Update version for owners of an earlier Kontakt. That update is priced at checkout and its exact amount depends on your account, so we do not quote a number here.
-
 - **Developer:** Native Instruments
-
-- **Platforms:** macOS 14, 15 and 26; Windows 10 or 11. As of Kontakt 8.8, macOS 13 is no longer supported.
 
 - **Formats:** Standalone, VST3, AU and AAX on macOS; Standalone, VST3 and AAX on Windows
 

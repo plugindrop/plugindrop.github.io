@@ -135,21 +135,11 @@ The honest context: active development on Helm stopped when Tytel shifted focus 
 
 <!-- pick:Phase Plant -->
 
-Phase Plant Lite — Modular Entry Point Into the Kilohearts Ecosystem
-
 - **Developer:** Kilohearts
 
 - **Platforms:** Windows, macOS
 
 - **Formats:** VST3, AU, AAX, Standalone
-
-Phase Plant takes a modular signal path: you build the synthesizer by stacking generator modules (oscillators, wavetable generators, samplers, analog oscillators) and shaping modules in a vertical chain, then routing through an effects lane that accepts Kilohearts' Snapin effects as inline processors. The Lite version provides access to the core modular structure with a restricted module selection. The full plugin's capabilities are visible but require upgrading.
-
-Phase Plant Lite does not map onto Serum's workflow. It is a fundamentally different design philosophy — bottom-up, modular, build-your-own — and producers specifically trying to replicate Serum's layout will find Vital a more transferable entry point. The argument for Phase Plant Lite is different: it's a substantive introduction to Kilohearts' ecosystem before committing to the full version, and for producers drawn to modular synthesis thinking, the learning curve leads somewhere worth going.
-
-**Best for:** Producers curious about modular synthesis workflows who want a free starting point before deciding on the full Phase Plant.
-
-**Skip it if:** you specifically want to replicate Serum's layout — Phase Plant Lite is modular/build-your-own and doesn't map onto Serum's workflow, so Vital is the more transferable entry point.
 
 ---
 
@@ -193,9 +183,6 @@ Serum — The Paid Reference Point
 [→ Get Serum by Xfer Records](https://xferrecords.com/products/serum-2)
 
 ---
-
----
-
 - **If you want a direct Serum workflow replacement at no cost**, go with Vital — the wavetable engine, modulation matrix, and visual interface are close enough to Serum's that it is the natural first try for most producers making this switch.
 
 - **If you want a free synthesizer with maximum depth regardless of complexity**, go with Surge XT — its hybrid oscillator architecture covers synthesis types Serum does not, and the open-source team behind it is actively expanding it.
