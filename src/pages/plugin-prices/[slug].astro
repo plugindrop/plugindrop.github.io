@@ -970,7 +970,7 @@ const faqLD = {
 
       <section class="page-section" id="decision">
         <h2 class="section-title">Buy now or wait? — what our records show</h2>
-        <details class="decision-details"><summary>Read the price evidence</summary>
+        <details class="decision-details" open><summary>Read the price evidence</summary>
         {decisionAnswers.map(({ q, a }) => (<><h3>{q}</h3><p>{a}</p></>))}
         {researchNote && <p class="section-sub">{researchNote}</p>}
         {coverageLine && <p class="section-sub">{coverageLine}</p>}
