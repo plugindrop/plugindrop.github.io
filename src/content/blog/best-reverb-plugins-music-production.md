@@ -73,8 +73,6 @@ The original Eventide SP2016 hardware unit (1982) produced some of the most reco
 
 ---
 
-
-
 ## Valhalla VintageVerb
 
 <!-- role:pick -->
@@ -124,8 +122,6 @@ The EMT 140 plate reverb has appeared on studio recordings from Frank Sinatra se
 
 ---
 
-
-
 ## Valhalla Supermassive
 
 <!-- role:pick -->
@@ -147,8 +143,6 @@ Valhalla DSP released Supermassive as a free tool in 2020 as a free plugin. Deve
 [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
 
 ---
-
-
 
 ## TAL-Reverb-4
 
@@ -172,8 +166,6 @@ TAL Software also makes the free TAL-U-NO-LX Juno emulation and TAL-Chorus-LX. T
 
 ---
 
-
-
 ## OldSkoolVerb
 
 <!-- role:pick -->
@@ -195,8 +187,6 @@ Voxengo is known for technically precise DSP — their paid plugins like SPAN an
 [→ Download OldSkoolVerb Free](https://www.voxengo.com/product/oldskoolverb/)
 
 ---
-
-
 
 ## Dragonfly Reverb
 
@@ -220,8 +210,6 @@ Dragonfly Reverb is an open-source suite that ships as four separate plugins: Ro
 
 ---
 
-
-
 ## Raum
 
 <!-- role:pick -->
@@ -243,8 +231,6 @@ Raum is a genuine Native Instruments plugin — sold individually and also bundl
 [→ Download Raum Free via Komplete Start](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/)
 
 ---
-
-
 
 ## Oril River
 
@@ -268,8 +254,6 @@ Oril River is a free reverb. Denis Tihanov built a parametric algorithmic reverb
 
 ---
 
-
-
 ## MConvolutionEZ
 
 <!-- role:pick -->
@@ -292,8 +276,6 @@ MConvolutionEZ is included in MeldaProduction's MFreeFXBundle — a collection o
 
 ---
 
-
-
 ## Convology XT
 
 <!-- role:pick -->
@@ -315,8 +297,6 @@ Convology XT comes from Impulse Record, a company whose primary business is sell
 [→ Download Convology XT Free (Official)](https://www.impulserecord.com/convology-xt/)
 
 ---
-
-
 
 ## How to choose
 

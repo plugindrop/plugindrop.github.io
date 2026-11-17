@@ -48,8 +48,6 @@ TAL-Chorus-LX (official TAL page was unreachable when checked 2026-10-03)
 
 ---
 
-
-
 ## MChorus (MeldaProduction)
 
 <!-- role:pick -->
@@ -73,8 +71,6 @@ The interface follows MeldaProduction's house style — dense, customizable, wit
 [→ Download MChorus Free](https://www.meldaproduction.com/MFreeFXBundle)
 
 ---
-
-
 
 ## Valhalla SuperMassive
 
@@ -100,8 +96,6 @@ Valhalla DSP also makes VintageVerb, a paid algorithmic reverb. Getting SuperMas
 
 ---
 
-
-
 ## Blue Cat's Chorus
 
 <!-- role:pick -->
@@ -123,8 +117,6 @@ Blue Cat Audio maintains a freeware plugin collection alongside their paid lineu
 [→ Download Blue Cat's Chorus Free](https://www.bluecataudio.com/Products/Product_Chorus/)
 
 ---
-
-
 
 ## MFlanger (MeldaProduction)
 
@@ -152,8 +144,6 @@ The UI density is the tradeoff, consistent with all MeldaProduction plugins. Fir
 
 ---
 
-
-
 ## TAL-Flanger
 
 <!-- role:pick -->
@@ -175,8 +165,6 @@ TAL-Flanger follows the same design philosophy as TAL-Chorus-LX: analog-modeled 
 [→ Download TAL-Flanger Free](https://tal-software.com/products/tal-effects)
 
 ---
-
-
 
 ## GVST GChorus
 
@@ -200,8 +188,6 @@ GVST has been publishing free VST plugins since the format's early days. GChorus
 
 ---
 
-
-
 ## AirWindows Ensemble
 
 <!-- role:pick -->
@@ -224,8 +210,6 @@ Chris Johnson's AirWindows project is a large collection of free, open-source au
 
 ---
 
-
-
 ## Arturia Chorus DIMENSION-D
 
 <!-- role:pick -->
@@ -243,8 +227,6 @@ Arturia Chorus DIMENSION-D — The Roland Dimension D without the hardware hunt
 [Watch Demo](https://www.youtube.com/watch?v=zWDahsu8vFE)
 
 ---
-
-
 
 ## Valhalla Chorus
 
@@ -323,8 +305,6 @@ TAL-Chorus-LX (official TAL page was unreachable when checked 2026-10-03)
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
 
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
-
-
 
 ## How to choose
 

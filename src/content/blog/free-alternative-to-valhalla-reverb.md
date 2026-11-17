@@ -56,8 +56,6 @@ The tradeoff is deliberate scope. Supermassive's identity is large and diffuse s
 
 ---
 
-
-
 ## TAL-Reverb-4
 
 <!-- role:pick -->
@@ -83,8 +81,6 @@ If you're deciding whether to install this today or wait for something better, t
 [Free Download](https://tal-software.com/products/tal-reverb-4)
 
 ---
-
-
 
 ## Dragonfly Reverb
 
@@ -112,8 +108,6 @@ The interface is utilitarian — functional but not refined. For producers who v
 
 ---
 
-
-
 ## OldSkoolVerb
 
 <!-- role:pick -->
@@ -139,8 +133,6 @@ Worth noting for anyone comparison-shopping Melda's catalog: Melda runs frequent
 [→ Download OldSkoolVerb Free](https://www.meldaproduction.com/MCharmVerb)
 
 ---
-
-
 
 ## Valhalla VintageVerb
 

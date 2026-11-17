@@ -36,19 +36,11 @@ If you searched for Pigments 5, note that Arturia now sells Pigments 7. The vend
 
 <!-- pick:Edition -->
 
-
-
-
-
 ## Pigments Play
 
 <!-- role:pick -->
 
 <!-- pick:Pigments Play -->
-
-
-
-
 
 ## Pigments 7
 
@@ -79,19 +71,11 @@ Last recorded sale: $99.00 on 2026-11-16.
 
 <!-- pick:Update from an earlier Pigments -->
 
-
-
-
-
 ## Feature
 
 <!-- role:pick -->
 
 <!-- pick:Feature -->
-
-
-
-
 
 ## Price
 
@@ -99,19 +83,11 @@ Last recorded sale: $99.00 on 2026-11-16.
 
 <!-- pick:Price -->
 
-
-
-
-
 ## Number of presets
 
 <!-- role:pick -->
 
 <!-- pick:Number of presets -->
-
-
-
-
 
 ## Audio-reactive Play View
 
@@ -119,19 +95,11 @@ Last recorded sale: $99.00 on 2026-11-16.
 
 <!-- pick:Audio-reactive Play View -->
 
-
-
-
-
 ## Synthesis types
 
 <!-- role:pick -->
 
 <!-- pick:Synthesis types -->
-
-
-
-
 
 ## Filter modes
 
@@ -139,19 +107,11 @@ Last recorded sale: $99.00 on 2026-11-16.
 
 <!-- pick:Filter modes -->
 
-
-
-
-
 ## Effect algorithms
 
 <!-- role:pick -->
 
 <!-- pick:Effect algorithms -->
-
-
-
-
 
 ## Parameter control
 
@@ -159,19 +119,11 @@ Last recorded sale: $99.00 on 2026-11-16.
 
 <!-- pick:Parameter control -->
 
-
-
-
-
 ## Modulation control
 
 <!-- role:pick -->
 
 <!-- pick:Modulation control -->
-
-
-
-
 
 ## Main, FX and Sequencer views
 
@@ -179,19 +131,11 @@ Last recorded sale: $99.00 on 2026-11-16.
 
 <!-- pick:Main, FX and Sequencer views -->
 
-
-
-
-
 ## In-app tutorial
 
 <!-- role:pick -->
 
 <!-- pick:In-app tutorial -->
-
-
-
-
 
 ## Verdict
 

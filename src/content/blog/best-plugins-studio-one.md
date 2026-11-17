@@ -76,8 +76,6 @@ TDR Nova combines a four-band parametric EQ with per-band dynamics processing, m
 
 ---
 
-
-
 ## iZotope Neutron 4
 
 <!-- role:pick -->
@@ -99,8 +97,6 @@ Neutron 4's Track Assistant feature, documented in iZotope's official product ma
 [→ Get iZotope Neutron 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one)
 
 ---
-
-
 
 ## Valhalla VintageVerb
 
@@ -151,8 +147,6 @@ Valhalla documents Supermassive as using a modulated feedback delay network arch
 
 ---
 
-
-
 ## Serum
 
 <!-- role:pick -->
@@ -174,8 +168,6 @@ Serum's developer documentation describes a dual oscillator architecture with an
 [→ Get Serum](https://xferrecords.com/products/serum-2)
 
 ---
-
-
 
 ## Arturia Pigments 7
 
@@ -199,8 +191,6 @@ Arturia's developer documentation for Pigments 7 lists six synthesis types (Moda
 
 ---
 
-
-
 ## u-he Tyrell N6
 
 <!-- role:pick -->
@@ -222,8 +212,6 @@ u-he documents Tyrell N6 as a free plugin developed in collaboration with the Ge
 [→ Download u-he Tyrell N6 Free](https://u-he.com)
 
 ---
-
-
 
 ## iZotope Ozone 12
 
@@ -247,8 +235,6 @@ iZotope's documentation for Ozone 12 describes a modular mastering chain includi
 
 ---
 
-
-
 ## Slate Digital Fresh Air
 
 <!-- role:pick -->
@@ -271,8 +257,6 @@ Slate Digital documents Fresh Air as a transient and high-frequency enhancement 
 
 ---
 
-
-
 ## Soundtoys 5
 
 <!-- role:pick -->
@@ -294,8 +278,6 @@ The Soundtoys 5 bundle, per the developer's documentation, includes over 20 crea
 [→ Get Soundtoys 5 (via Plugin Boutique)](https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15254-Soundtoys-5-5?a_aid=69cb95abe1763&chan=art&data1=best-plugins-studio-one)
 
 ---
-
-
 
 ## Kilohearts Snap Heap
 

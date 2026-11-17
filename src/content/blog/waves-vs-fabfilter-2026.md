@@ -63,7 +63,6 @@ The SSL E-Channel emulates the EQ and dynamics section of the SSL 4000 E console
 
 [View Waves SSL E-Channel (official page)](https://www.waves.com/plugins/ssl-e-channel)
 
-
 ## Waves API 2500
 
 <!-- role:pick -->
@@ -89,7 +88,9 @@ Last recorded sale: $29.99 on 2026-11-14.
 
 <!-- pick:Waves H-Delay -->
 
-Waves H-Delay blends digital-precision timing with an analog-flavored character, giving it a rich, smooth sound while still offering lo-fi options for grittier textures. Delay times run from about 1 millisecond up to 3500 milliseconds, and the delay can be synced to tempo for rhythmic repeats that lock in with a track. Users can pick between four different analog-style characters or a cleaner, contemporary digital sound, depending on the tone they're after. Built-in filtering lets you shape the delay's tone further, carving out highs or lows to fit the mix. A modulation section, also syncable to tempo, adds movement such as chorusing or vibrato to the repeats. Every control supports MIDI Learn, making it easy to map knobs for hands-on tweaking or live performance effects.
+Waves H-Delay blends digital-precision timing with an analog-flavored character, giving it a rich, smooth sound while still offering lo-fi options for grittier textures. Delay times run from about 1 millisecond up to 3500 milliseconds, and the delay can be synced to tempo for rhythmic repeats that lock in with a track. Users can pick between four different analog-style characters or a cleaner, contemporary digital sound, depending on the tone they're after.
+
+Built-in filtering lets you shape the delay's tone further, carving out highs or lows to fit the mix. A modulation section, also syncable to tempo, adds movement such as chorusing or vibrato to the repeats. Every control supports MIDI Learn, making it easy to map knobs for hands-on tweaking or live performance effects.
 
 With its approachable interface and a wide range of presets, H-Delay is built to get a creative delay sound going quickly, which is part of why it has earned a reputation as a go-to, everyday delay plugin. It fits naturally into rhythmic delay sends and vocal slap-back duties, and generally any situation where straightforward digital timing is paired with a touch of vintage warmth.
 
@@ -220,8 +221,6 @@ Waves Creative Access — Full catalog access via subscription
 *Available at Waves.com (no affiliate link available)*
 
 ---
-
-
 
 ## FabFilter Total Bundle
 

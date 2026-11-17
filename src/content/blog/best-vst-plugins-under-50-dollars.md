@@ -75,8 +75,6 @@ Valhalla released Supermassive as a permanent free plugin, and it has become one
 
 ---
 
-
-
 ## Valhalla Delay
 
 <!-- role:pick -->
@@ -130,8 +128,6 @@ OTT is a recreation of Ableton's "Over The Top" multiband compression preset, an
 
 ---
 
-
-
 ## Analog Obsession BUSTERse
 
 <!-- role:pick -->
@@ -153,8 +149,6 @@ Analog Obsession releases analog hardware emulations at no cost, and BUSTERse is
 [→ Download BUSTERse Free](https://analogobsession.com/)
 
 ---
-
-
 
 ## Klanghelm MJUC jr.
 
@@ -180,8 +174,6 @@ MJUC jr. is the free edition of Klanghelm's MJUC variable-mu tube compressor, an
 
 ---
 
-
-
 ## TDR Limiter 6 GE
 
 <!-- role:pick -->
@@ -201,8 +193,6 @@ It gives you mastering-grade output control that used to cost ten times as much.
 **Best for:** Mastering final output, transparent bus limiting, loudness maximization with full LUFS control.
 
 ---
-
-
 
 ## TDR Nova
 
@@ -228,8 +218,6 @@ TDR Nova is a parallel dynamic equalizer with four bands, a broadband dynamics s
 
 ---
 
-
-
 ## Baby Audio Smooth Operator
 
 <!-- role:pick -->
@@ -247,8 +235,6 @@ Smooth Operator uses spectral processing to automatically balance frequency ener
 **Best for:** Mix bus tonal balancing, reducing ear fatigue, fast mastering preparation on dense mixes.
 
 ---
-
-
 
 ## Klanghelm SDRR
 
@@ -299,8 +285,6 @@ Chow Tape Model is a physically modeled, open-source tape machine with controls 
 
 ---
 
-
-
 ## Surge XT
 
 <!-- role:pick -->
@@ -322,8 +306,6 @@ Surge XT is an open-source hybrid synthesizer with multiple oscillator types, ex
 [→ Download Surge XT Free](https://surge-synthesizer.github.io/)
 
 ---
-
-
 
 ## u-he Zebralette
 
@@ -347,8 +329,6 @@ Zebralette is u-he's free, single-oscillator version of their flagship Zebra2 sy
 
 ---
 
-
-
 ## Sitala
 
 <!-- role:pick -->
@@ -368,8 +348,6 @@ Sitala is a 16-pad drum sampler built on a simple, focused principle: drag sampl
 **Best for:** Drum programming, sample-based beatmaking, quick pad assignments for live performance.
 
 ---
-
-
 
 ## Melda MFreeFXBundle
 
@@ -392,8 +370,6 @@ MFreeFXBundle is the most generous free plugin release in the industry — a lar
 [→ Download MFreeFXBundle Free](https://www.meldaproduction.com/MFreeFXBundle)
 
 ---
-
-
 
 ## How to choose
 

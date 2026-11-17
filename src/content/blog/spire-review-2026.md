@@ -18,7 +18,6 @@ This page is based on published specifications and price records. It does not as
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/0rDowVRCubk" title="Spire Synthesizer Review 2026: Is It Worth Buying? — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## Quick Picks at a Glance
 
 | Plugin | Price | Best For | Get It |

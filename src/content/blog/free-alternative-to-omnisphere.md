@@ -54,8 +54,6 @@ What Surge XT does not offer is sample playback, audio granularization of import
 
 ---
 
-
-
 ## Vital
 
 <!-- role:pick -->
@@ -111,8 +109,6 @@ Phase Plant Lite is an honest preview of a paid product. Kilohearts' commercial 
 
 ---
 
-
-
 ## ZynAddSubFX
 
 <!-- role:pick -->
@@ -138,8 +134,6 @@ ZynAddSubFX does not offer granular audio manipulation, sample import, or a mode
 [→ Get ZynAddSubFX](https://zynaddsubfx.sourceforge.io/)
 
 ---
-
-
 
 ## Phase Plant
 
@@ -236,8 +230,6 @@ For producers searching for a free alternative to Omnisphere VST in 2026, **Vita
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
 
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
-
-
 
 ## How to choose
 

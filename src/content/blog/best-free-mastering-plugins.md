@@ -49,8 +49,6 @@ Youlean Loudness Meter 2 displays Integrated LUFS, Short-term LUFS, Momentary LU
 
 ---
 
-
-
 ## SPAN (Voxengo)
 
 <!-- role:pick -->
@@ -72,8 +70,6 @@ SPAN is a real-time FFT spectrum analyzer that Voxengo has kept free across its 
 [→ Download SPAN Free](https://www.voxengo.com/product/span/)
 
 ---
-
-
 
 ## Voxengo Correlometer
 
@@ -99,8 +95,6 @@ The Correlometer is a dedicated stereo phase correlation meter: a single reading
 
 Mastering EQ operates at smaller scales than mixing EQ — subtle shelves, gentle cuts, and dynamic adjustments measured in single dB increments. The tools below are each suited to mastering work but differ significantly in workflow. For a full comparison of free EQ options across mixing and mastering, see our [best free EQ VST plugins guide](/posts/best-free-eq-vst-plugins/).
 
-
-
 ## TDR Nova
 
 <!-- role:pick -->
@@ -123,8 +117,6 @@ TDR Nova is a parallel dynamic equalizer that functions simultaneously as a conv
 
 ---
 
-
-
 ## TDR VOS SlickEQ
 
 <!-- role:pick -->
@@ -146,8 +138,6 @@ TDR VOS SlickEQ is a program-oriented mastering EQ with musically selected frequ
 [Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/)
 
 ---
-
-
 
 ## Voxengo Marvel GEQ
 
@@ -173,8 +163,6 @@ Marvel GEQ is a 16-band graphic equalizer implementing linear-phase processing �
 
 The limiter is the final gate before delivery, and it is the stage where the difference between a professional-sounding master and a clipped or dynamically crushed one is determined. The tools below span from a two-control brickwall to a multi-stage professional chain.
 
-
-
 ## Limiter 6 GE
 
 <!-- role:pick -->
@@ -196,8 +184,6 @@ Limiter 6 GE chains high-frequency limiting, RMS compression, peak clipping, a b
 [→ Download Limiter 6 GE Free](https://www.tokyodawn.net/tdr-limiter6-ge/)
 
 ---
-
-
 
 ## LoudMax
 
@@ -221,8 +207,6 @@ LoudMax is a look-ahead brickwall limiter with exactly two controls: Threshold a
 
 ---
 
-
-
 ## TDR Kotelnikov
 
 <!-- role:pick -->
@@ -244,8 +228,6 @@ TDR Kotelnikov is a program-dependent mastering compressor with a deliberately r
 [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/)
 
 ---
-
-
 
 ## Klanghelm IVGI
 
@@ -271,8 +253,6 @@ IVGI is a harmonic saturation plugin modeled on the soft-knee saturation behavio
 
 The free toolkit above covers a complete mastering chain. These two paid tools become relevant once you've exhausted what free plugins offer — or once the scale and budget of your work justifies the investment.
 
-
-
 ## iZotope Ozone 12
 
 <!-- role:pick -->
@@ -288,8 +268,6 @@ iZotope Ozone 12 — AI-assisted mastering for producers who want guided workflo
 [→ Get iZotope Ozone 12 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-free-mastering-plugins)
 
 ---
-
-
 
 ## FabFilter Pro-L 2
 

@@ -74,8 +74,6 @@ For boom bap producers who want acoustic drum realism without spending hours edi
 
 ---
 
-
-
 ## iZotope Vinyl
 
 <!-- role:pick -->
@@ -97,8 +95,6 @@ iZotope Vinyl simulates vinyl playback artifacts — dust, scratches, record wea
 [→ Download iZotope Vinyl Free](https://www.izotope.com/en/products/vinyl)
 
 ---
-
-
 
 ## LABS by Spitfire Audio
 
@@ -124,8 +120,6 @@ LABS is a free-forever collection of sampled instruments distributed through Spi
 
 Hip-hop's bass culture demands synths that hit hard on subwoofers and translate cleanly to earbuds. Wavetable synthesis handles 808 design better than most alternatives because pitch envelopes and waveform morphing are central to the architecture.
 
-
-
 ## Serum by Xfer Records
 
 <!-- role:pick -->
@@ -147,8 +141,6 @@ Its wavetable editor allows custom waveform import — developer documentation c
 [→ Get Serum on the Official Site](https://xferrecords.com/products/serum-2)
 
 ---
-
-
 
 ## Vital
 
@@ -199,8 +191,6 @@ Its hybrid architecture — combining wavetable, FM, and analog-modeled oscillat
 
 ---
 
-
-
 ## OB-Xd
 
 <!-- role:pick -->
@@ -225,8 +215,6 @@ OB-Xd models the Oberheim OB-X series — synthesizers that appear throughout th
 
 Character effects separate competent hip-hop tracks from memorable ones. This section covers reverb, tape effects, pitch manipulation, and saturation — the tools that make a beat feel lived-in.
 
-
-
 ## Valhalla Supermassive
 
 <!-- role:pick -->
@@ -249,8 +237,6 @@ Its massive, swirling reverb algorithms — named "nebula" and "gemini" modes in
 
 ---
 
-
-
 ## GlitchMachines Hysteresis
 
 <!-- role:pick -->
@@ -272,8 +258,6 @@ Hysteresis models tape degradation artifacts — wow, flutter, saturation, and b
 [→ Download Hysteresis Free](https://glitchmachines.com/products/hysteresis/)
 
 ---
-
-
 
 ## Auburn Sounds Graillon 2
 
@@ -299,8 +283,6 @@ Graillon 2's free tier includes pitch correction, formant shifting, and a distin
 
 Hip-hop mixes are defined by the low-end relationship between kick, 808, and bass. These tools handle bus processing, frequency control, and final loudness shaping.
 
-
-
 ## Waves SSL G-Master Buss Compressor
 
 <!-- role:pick -->
@@ -322,8 +304,6 @@ Waves' developer documentation confirms it models the compression circuit of the
 [→ Get the Waves SSL G-Master Buss Compressor](https://www.waves.com/plugins/ssl-g-master-buss-compressor)
 
 ---
-
-
 
 ## TDR Nova
 
@@ -347,8 +327,6 @@ Developer documentation confirms four dynamic bands plus a wideband compressor s
 
 ---
 
-
-
 ## Klanghelm IVGI
 
 <!-- role:pick -->
@@ -371,8 +349,6 @@ IVGI models vintage tube and tape compression behavior, generating upper harmoni
 
 ---
 
-
-
 ## LoudMax
 
 <!-- role:pick -->
@@ -394,8 +370,6 @@ For hip-hop masters where the 808 creates predictable transient spikes, its look
 [→ Download LoudMax Free](https://loudmax.blogspot.com)
 
 ---
-
-
 
 ## Native Instruments Maschine
 
@@ -461,13 +435,13 @@ A: Every plugin listed here supports VST3 format, which is compatible with both 
 
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
 
-
-
 ## How to choose
 
 <!-- role:choose -->
 
-Battery 4 is a sample-based drum instrument designed for precise per-pad tuning, so a kick and a sub bass can lock together without phase problems. Its library spans acoustic kits, electronic drums, and percussion across styles from boom bap to contemporary trap. Seven sample modes, including classic sampler and groovebox-style emulations, give it a wide range of tonal options, while onboard effects and chainable, sidechain-ready routing across four busses and the master channel support detailed sound design. Instant cell rendering speeds up kit building, and expansions add genre-matched kits of kicks, snares, hi-hats, and percussion for producers who need a specific sound quickly. It works on Apple Silicon and Intel-based Macs, and on Windows 10 and later.
+Battery 4 is a sample-based drum instrument designed for precise per-pad tuning, so a kick and a sub bass can lock together without phase problems. Its library spans acoustic kits, electronic drums, and percussion across styles from boom bap to contemporary trap. Seven sample modes, including classic sampler and groovebox-style emulations, give it a wide range of tonal options, while onboard effects and chainable, sidechain-ready routing across four busses and the master channel support detailed sound design.
+
+Instant cell rendering speeds up kit building, and expansions add genre-matched kits of kicks, snares, hi-hats, and percussion for producers who need a specific sound quickly. It works on Apple Silicon and Intel-based Macs, and on Windows 10 and later.
 
 ## FAQ
 

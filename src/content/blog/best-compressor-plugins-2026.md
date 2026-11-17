@@ -63,8 +63,6 @@ DC8C works convincingly on individual tracks and holds up on bus work when you w
 
 ---
 
-
-
 ## TDR Kotelnikov
 
 <!-- role:pick -->
@@ -88,8 +86,6 @@ Stereo linking options and a crest factor control let you dial in M/S behavior a
 [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/)
 
 ---
-
-
 
 ## Analog Obsession LALA
 
@@ -115,8 +111,6 @@ Analog Obsession releases LALA through a pay-what-you-want Patreon model — the
 
 ---
 
-
-
 ## OTT (Xfer Records)
 
 <!-- role:pick -->
@@ -140,8 +134,6 @@ There is no paid plugin that does exactly what OTT does at any price. It is a si
 [→ Download OTT Free](https://xferrecords.com/freeware)
 
 ---
-
-
 
 ## Rough Rider 3
 
@@ -167,8 +159,6 @@ It does one job and does not pretend otherwise. Given its design, the release ma
 
 ---
 
-
-
 ## Waves SSL G-Master Buss Compressor
 
 <!-- role:pick -->
@@ -184,8 +174,6 @@ Waves SSL G-Master Buss Compressor — The industry reference for mix bus charac
 [→ Get Waves SSL G-Master Buss Compressor](https://www.waves.com/plugins/ssl-g-master-buss-compressor)
 
 ---
-
-
 
 ## Cytomic The Glue
 
@@ -203,15 +191,17 @@ Cytomic The Glue — The SSL 4000G emulation that engineers prefer over the real
 
 ---
 
-
-
 ## Waves API 2500
 
 <!-- role:pick -->
 
 <!-- pick:Waves API 2500 -->
 
-Waves API 2500 brings the classic API console bus-compressor sound into a plugin, built in close collaboration with API to copy the original hardware's behavior. It gives engineers a way to shape punchy, forward-sounding bass and drums using API's proprietary Thrust control, and it's well suited to gluing together instrument groups, drum buses, or an entire stereo mix. A Mix knob is included for straightforward parallel compression, and the compressor can be switched between the vintage feedback circuit design and a more modern feedforward design, depending on the character desired. A new generation of producers working in hip hop, pop/R&B, dance, and rock have picked up the API 2500 for the punchy energy it brings to drums and grooves. It's available for Mac in VST, AU, and AAX formats, and runs on Windows 10 or later.
+Waves API 2500 brings the classic API console bus-compressor sound into a plugin, built in close collaboration with API to copy the original hardware's behavior. It gives engineers a way to shape punchy, forward-sounding bass and drums using API's proprietary Thrust control, and it's well suited to gluing together instrument groups, drum buses, or an entire stereo mix.
+
+A Mix knob is included for straightforward parallel compression, and the compressor can be switched between the vintage feedback circuit design and a more modern feedforward design, depending on the character desired. A new generation of producers working in hip hop, pop/R&B, dance, and rock have picked up the API 2500 for the punchy energy it brings to drums and grooves.
+
+It's available for Mac in VST, AU, and AAX formats, and runs on Windows 10 or later.
 
 | Tracked price | $29.99 |
 |---|---|

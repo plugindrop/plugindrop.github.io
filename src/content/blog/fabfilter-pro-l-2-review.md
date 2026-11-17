@@ -54,8 +54,6 @@ The gain reduction visualisation shows waveform, true peak activity, and gain re
 
 ---
 
-
-
 ## Eight Limiting Algorithms
 
 <!-- role:pick -->
@@ -74,8 +72,6 @@ Switching between algorithms in real time is fast via the selector, and the gain
 
 ---
 
-
-
 ## True Peak Limiting and the Metering Suite
 
 <!-- role:pick -->
@@ -90,8 +86,6 @@ The integrated metering panel displays Short-term LUFS, Momentary LUFS, Integrat
 
 ---
 
-
-
 ## Mid/Side and Stereo Processing Modes
 
 <!-- role:pick -->
@@ -105,8 +99,6 @@ Pro-L 2 operates in three modes: Stereo Linked, Stereo Unlinked, and Mid/Side. T
 Stereo Unlinked mode is useful on bus material where left and right channels have very different dynamics — drum overhead buses being a common example. The flexibility to switch modes per-instance without a separate M/S encoder is a meaningful workflow advantage in a professional session.
 
 ---
-
-
 
 ## CPU Performance and DAW Integration
 
@@ -128,8 +120,6 @@ The price is also a real consideration. For a producer who masters their own mus
 
 ---
 
-
-
 ## iZotope Ozone 12
 
 <!-- role:pick -->
@@ -149,8 +139,6 @@ iZotope Ozone 12 — Full AI-assisted mastering in one suite
 [→ Get iZotope Ozone 12 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-l-2-review)
 
 ---
-
-
 
 ## FabFilter Total Bundle
 

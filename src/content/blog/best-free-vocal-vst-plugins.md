@@ -52,8 +52,6 @@ MAutoPitch handles both natural-sounding correction and hard, locked T-Pain-styl
 
 ---
 
-
-
 ## Graillon 2
 
 <!-- role:pick -->
@@ -77,8 +75,6 @@ Graillon 2 is half vocal processor, half creative playground. The free version i
 [→ Download Graillon 2 Free](https://www.auburnsounds.com/products/Graillon.html)
 
 ---
-
-
 
 ## Analog Obsession CHANNELSTRIP
 
@@ -104,8 +100,6 @@ Analog Obsession's CHANNELSTRIP packs a high-pass filter, EQ, and compressor int
 
 ---
 
-
-
 ## Klanghelm MJUC jr
 
 <!-- role:pick -->
@@ -129,8 +123,6 @@ MJUC jr is a stripped-down version of Klanghelm's acclaimed MJUC vari-mu compres
 [→ Download MJUC jr Free](https://klanghelm.com/contents/products/MJUCjr)
 
 ---
-
-
 
 ## TDR Nova
 
@@ -156,8 +148,6 @@ TDR Nova is a parallel dynamic EQ where each band can respond dynamically to inc
 
 ---
 
-
-
 ## Techivation T-De-Esser Plus
 
 <!-- role:pick -->
@@ -182,8 +172,6 @@ T-De-Esser Plus uses a focused detection algorithm that isolates harsh "s" and "
 
 ---
 
-
-
 ## TDR SlickEQ
 
 <!-- role:pick -->
@@ -207,8 +195,6 @@ TDR SlickEQ is a three-band mixing EQ with a saturation mode that gives it a mus
 [Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/)
 
 ---
-
-
 
 ## TAL-Reverb-4
 
@@ -236,8 +222,6 @@ TAL-Reverb-4 models a vintage plate reverb with pre-delay, a high-pass filter on
 
 ---
 
-
-
 ## Valhalla Supermassive
 
 <!-- role:pick -->
@@ -261,8 +245,6 @@ Valhalla Supermassive delivers the company's signature dense, evolving reverb ta
 [→ Download Valhalla Supermassive Free (valhalladsp.com)](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
 
 ---
-
-
 
 ## Wider (Polyverse)
 
@@ -290,8 +272,6 @@ Wider uses mid-side processing to expand the stereo field without introducing ph
 
 ---
 
-
-
 ## Acon Digital Multiply
 
 <!-- role:pick -->
@@ -315,8 +295,6 @@ Multiply layers up to six independent voices with individually adjustable pitch,
 [→ Download Acon Digital Multiply Free](https://acondigital.com/products/multiply/)
 
 ---
-
-
 
 ## Chow Tape Model
 
@@ -346,13 +324,15 @@ Free plugins cover every individual task in the vocal chain, but at some point a
 
 The detailed breakdown of each paid option follows below.
 
-
-
 ## How to choose
 
 <!-- role:choose -->
 
-Producers choosing among these should match the plugin to what the vocal actually needs. Anyone wanting one plugin to handle the whole chain should start with Analog Obsession CHANNELSTRIP, since it combines a high-pass filter, EQ, and compression in a single well-designed interface and covers most of what a typical vocal requires. Anyone prioritizing transparent pitch correction should begin with MAutoPitch, then step up to Waves Tune Real-Time for lower latency and formant control, or to Auto-Tune Pro for professional Graph Mode editing when the session calls for it. Producers working in pop, hip-hop, or electronic music who want the exaggerated, robotic "effect" autotune sound get more creative flexibility from Graillon 2 than from any other free alternative, because of its dedicated pitch-lock effect. When a vocal sounds harsh or sibilant, TDR Nova works well as a dynamic de-esser that offers surgical control, while T-De-Esser Plus is the better choice for a dedicated, faster setup aimed specifically at sibilance. Vocals that need more space and size benefit from pairing TAL-Reverb-4 on a send for a warm, vintage plate character with Valhalla Supermassive on a second send for larger, more ambient spaces; the two complement each other well within the same session. On a limited CPU or laptop, MAutoPitch, Wider, and the TDR plugins are the lightest options to run, while the more demanding Chow Tape Model is better saved for tracks where its tape character is worth the added processing load.
+Producers choosing among these should match the plugin to what the vocal actually needs. Anyone wanting one plugin to handle the whole chain should start with Analog Obsession CHANNELSTRIP, since it combines a high-pass filter, EQ, and compression in a single well-designed interface and covers most of what a typical vocal requires. Anyone prioritizing transparent pitch correction should begin with MAutoPitch, then step up to Waves Tune Real-Time for lower latency and formant control, or to Auto-Tune Pro for professional Graph Mode editing when the session calls for it.
+
+Producers working in pop, hip-hop, or electronic music who want the exaggerated, robotic "effect" autotune sound get more creative flexibility from Graillon 2 than from any other free alternative, because of its dedicated pitch-lock effect. When a vocal sounds harsh or sibilant, TDR Nova works well as a dynamic de-esser that offers surgical control, while T-De-Esser Plus is the better choice for a dedicated, faster setup aimed specifically at sibilance.
+
+Vocals that need more space and size benefit from pairing TAL-Reverb-4 on a send for a warm, vintage plate character with Valhalla Supermassive on a second send for larger, more ambient spaces; the two complement each other well within the same session. On a limited CPU or laptop, MAutoPitch, Wider, and the TDR plugins are the lightest options to run, while the more demanding Chow Tape Model is better saved for tracks where its tape character is worth the added processing load.
 
 A simple vocal chain built from these tools can start with Analog Obsession CHANNELSTRIP handling the high-pass filter, EQ, and compression, followed by TDR Nova for dynamic de-essing, then Chow Tape Model for a touch of tape warmth, TAL-Reverb-4 placed on a reverb send, and Wider applied gently on the vocal bus. Put together in that order, this forms a complete, professional-grade vocal signal path built entirely from free tools. For producers who want a faster way to reach the same result, iZotope Nectar 4 consolidates this entire chain into a single plugin window.
 

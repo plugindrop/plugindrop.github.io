@@ -19,7 +19,9 @@ iZotope Ozone 12 stands out as a fully featured mastering suite. Its built-in Ma
 
 Mastering is the final step before a mix becomes a finished track ready for release, and in 2026 most independent producers do this work inside the same software they used to mix. iZotope Ozone 12 is the tool most people reach for because it solves the hardest part of mastering on your own: figuring out where to begin.
 
-Ozone's Master Assistant listens to your mix and builds a starting chain of processing modules based on what it hears. This saves time and gives newcomers a sensible foundation to work from, but it is only a starting point — the real skill, and the real value, comes from learning to adjust that chain by hand rather than accepting it as-is. The modules it reaches for typically cover tonal balance, dynamics control, stereo width, and final loudness, and the same overall approach works whether using a lower tier of Ozone or the full version, since the core modules are shared across the product line. Certain advanced tools, such as stem-level rebalancing, are limited to the higher tier and are called out separately where relevant.
+Ozone's Master Assistant listens to your mix and builds a starting chain of processing modules based on what it hears. This saves time and gives newcomers a sensible foundation to work from, but it is only a starting point — the real skill, and the real value, comes from learning to adjust that chain by hand rather than accepting it as-is.
+
+The modules it reaches for typically cover tonal balance, dynamics control, stereo width, and final loudness, and the same overall approach works whether using a lower tier of Ozone or the full version, since the core modules are shared across the product line. Certain advanced tools, such as stem-level rebalancing, are limited to the higher tier and are called out separately where relevant.
 
 This guide walks through that full process in order: starting with the initial analysis Ozone performs on a mix, moving into tonal correction with the equalizer, then dynamics shaping, stereo imaging adjustments, and finally the loudness and limiting settings needed to prepare a track for streaming release.
 
@@ -27,9 +29,11 @@ This guide walks through that full process in order: starting with the initial a
 
 <!-- role:howto -->
 
+**TL;DR:** iZotope Ozone 12 is the most complete mastering suite available — its Master Assistant AI creates a starting point in seconds, but the real value is in learning to refine it manually. This guide covers every step from initial analysis through EQ, dynamics, imaging, and Maximizer settings for streaming delivery. The process applies to all Ozone 12 tiers; Advanced-specific features are noted where they apply. iZotope Ozone 12 is the most widely used tool for in-the-box mastering precisely because it addresses the primary challenge of self-mastering: knowing where to start.
 
+The Master Assistant AI analyzes your mix and generates a starting chain of modules with initial settings in approximately 30 seconds. This starting point is not a finished master — it's a calibrated beginning that identifies the most significant issues in your mix and applies appropriate initial corrections. The value is not in accepting the AI's suggestions without question, but in using them as a diagnostic tool that identifies what the mix needs before you make manual decisions.
 
-**TL;DR:** iZotope Ozone 12 is the most complete mastering suite available — its Master Assistant AI creates a starting point in seconds, but the real value is in learning to refine it manually. This guide covers every step from initial analysis through EQ, dynamics, imaging, and Maximizer settings for streaming delivery. The process applies to all Ozone 12 tiers; Advanced-specific features are noted where they apply. iZotope Ozone 12 is the most widely used tool for in-the-box mastering precisely because it addresses the primary challenge of self-mastering: knowing where to start. The Master Assistant AI analyzes your mix and generates a starting chain of modules with initial settings in approximately 30 seconds. This starting point is not a finished master — it's a calibrated beginning that identifies the most significant issues in your mix and applies appropriate initial corrections. The value is not in accepting the AI's suggestions without question, but in using them as a diagnostic tool that identifies what the mix needs before you make manual decisions. This guide walks through the complete Ozone 12 mastering workflow — from Master Assistant through manual module refinement to export — with specific settings and explanations for every step. The process applies to all Ozone 12 tiers (Elements, Standard, Advanced). Advanced-specific features like Master Rebalance and the Stabilizer module are noted separately where they offer significant advantages over lower tiers. ---
+This guide walks through the complete Ozone 12 mastering workflow — from Master Assistant through manual module refinement to export — with specific settings and explanations for every step. The process applies to all Ozone 12 tiers (Elements, Standard, Advanced). Advanced-specific features like Master Rebalance and the Stabilizer module are noted separately where they offer significant advantages over lower tiers. ---
 
 ## Step 1: Pre-Mastering Preparation — Setting Up the Session
 
@@ -113,7 +117,11 @@ A: Process each track individually first, then compare all tracks together at ma
 
 ## Final Thoughts
 
-iZotope Ozone 12's value is not in automating mastering — it's in giving producers without formal mastering training a systematic, calibrated framework for making mastering decisions. Master Assistant is the best-implemented AI starting point in any mastering plugin; the manual module refinement tools are among the most complete in any price range at the Standard tier. The five-step process in this guide covers the complete mastering chain: preparation, AI-assisted starting point, EQ correction, stereo imaging, and loudness for delivery. Each step requires judgment rather than rote setting application — the specific values will differ for every mix. But the process itself is consistent, and understanding why each step happens makes the variation in settings logical rather than arbitrary. That outcome was not achievable without a professional mastering engineer at any price point five years ago — the tools have genuinely closed the gap. ---
+iZotope Ozone 12's value is not in automating mastering — it's in giving producers without formal mastering training a systematic, calibrated framework for making mastering decisions. Master Assistant is the best-implemented AI starting point in any mastering plugin; the manual module refinement tools are among the most complete in any price range at the Standard tier.
+
+The five-step process in this guide covers the complete mastering chain: preparation, AI-assisted starting point, EQ correction, stereo imaging, and loudness for delivery. Each step requires judgment rather than rote setting application — the specific values will differ for every mix. But the process itself is consistent, and understanding why each step happens makes the variation in settings logical rather than arbitrary.
+
+That outcome was not achievable without a professional mastering engineer at any price point five years ago — the tools have genuinely closed the gap. ---
 
 ## Related Guides
 
@@ -126,16 +134,11 @@ iZotope Ozone 12's value is not in automating mastering — it's in giving produ
 
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources. <!-- pd:method:end -->
 
-
 ## Module
 
 <!-- role:pick -->
 
 <!-- pick:Module -->
-
-
-
-
 
 ## Master Assistant
 
@@ -143,19 +146,11 @@ This guide brings together publicly available product information and prices tra
 
 <!-- pick:Master Assistant -->
 
-
-
-
-
 ## EQ (Vintage/Modern)
 
 <!-- role:pick -->
 
 <!-- pick:EQ (Vintage/Modern) -->
-
-
-
-
 
 ## Dynamic EQ
 
@@ -163,19 +158,11 @@ This guide brings together publicly available product information and prices tra
 
 <!-- pick:Dynamic EQ -->
 
-
-
-
-
 ## Imager
 
 <!-- role:pick -->
 
 <!-- pick:Imager -->
-
-
-
-
 
 ## Maximizer
 
@@ -183,19 +170,11 @@ This guide brings together publicly available product information and prices tra
 
 <!-- pick:Maximizer -->
 
-
-
-
-
 ## Master Rebalance
 
 <!-- role:pick -->
 
 <!-- pick:Master Rebalance -->
-
-
-
-
 
 ## Low End Focus
 
@@ -203,19 +182,11 @@ This guide brings together publicly available product information and prices tra
 
 <!-- pick:Low End Focus -->
 
-
-
-
-
 ## iZotope Ozone 12
 
 <!-- role:pick -->
 
 <!-- pick:iZotope Ozone 12 -->
-
-
-
-
 
 ## FabFilter Pro-L 2
 
@@ -223,7 +194,9 @@ This guide brings together publicly available product information and prices tra
 
 <!-- pick:FabFilter Pro-L 2 -->
 
-FabFilter Pro-L 2 serves as the reference limiter for streaming masters, built around true peak limiting for both Windows and macOS systems. It combines a transparent sound with the ability to push loudness to its maximum, and it includes eight separate limiting algorithms, each with its own character and intended purpose, allowing the limiting style to be matched to the material being mastered or mixed. True peak limiting is paired with up to 32 times linear-phase oversampling for added precision, while metering covers both output level and gain reduction in detail, including true peak readings. An optional DC offset filter rounds out the toolset. As a true peak limiter, it is considered a standard part of the mastering or mixing engineer's toolkit.
+FabFilter Pro-L 2 serves as the reference limiter for streaming masters, built around true peak limiting for both Windows and macOS systems. It combines a transparent sound with the ability to push loudness to its maximum, and it includes eight separate limiting algorithms, each with its own character and intended purpose, allowing the limiting style to be matched to the material being mastered or mixed.
+
+True peak limiting is paired with up to 32 times linear-phase oversampling for added precision, while metering covers both output level and gain reduction in detail, including true peak readings. An optional DC offset filter rounds out the toolset. As a true peak limiter, it is considered a standard part of the mastering or mixing engineer's toolkit.
 
 Used alongside a broader mastering chain, this plugin works well as a secondary, comparison limiter. After a primary limiting pass has been set elsewhere, running this plugin afterward and comparing results at matched output levels brings out differences in limiting character. Its eight algorithms give a range of gain reduction behavior that can suit certain genres better than other limiting approaches, and its metering for loudness and true peak remains clear and straightforward to read throughout the process.
 

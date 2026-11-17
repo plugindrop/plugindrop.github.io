@@ -12,7 +12,9 @@ draft: false
 ---
 <!-- guide:v4 kind=roundup -->
 
-FabFilter Pro-Q 4 is a parametric EQ plug-in supporting up to 24 bands, built for both mixing and mastering work. It handles stereo, surround, and Dolby Atmos sessions, with display range options—3 dB and 6 dB views for fine mastering adjustments, and 12 dB and 30 dB views for broader mixing moves. The standout new addition is Spectral dynamics, which targets problem frequencies with more precision and efficiency than standard EQ moves. Dynamic EQ is also onboard, with Attack and Release controls plus an optional free side-chain filter for shaping how the dynamic processing reacts. Underlying all of this, improved dynamic EQ processing produces less distortion and a cleaner overall sound, consistent across the zero latency, Natural Phase, and linear phase modes. In a techno production chain, this kind of surgical EQ control pairs naturally with compressors and saturation tools to shape individual elements before mixing them into the full track.
+FabFilter Pro-Q 4 is a parametric EQ plug-in supporting up to 24 bands, built for both mixing and mastering work. It handles stereo, surround, and Dolby Atmos sessions, with display range options—3 dB and 6 dB views for fine mastering adjustments, and 12 dB and 30 dB views for broader mixing moves. The standout new addition is Spectral dynamics, which targets problem frequencies with more precision and efficiency than standard EQ moves.
+
+Dynamic EQ is also onboard, with Attack and Release controls plus an optional free side-chain filter for shaping how the dynamic processing reacts. Underlying all of this, improved dynamic EQ processing produces less distortion and a cleaner overall sound, consistent across the zero latency, Natural Phase, and linear phase modes. In a techno production chain, this kind of surgical EQ control pairs naturally with compressors and saturation tools to shape individual elements before mixing them into the full track.
 
 ## Introduction
 
@@ -26,19 +28,11 @@ FabFilter Pro-Q 4 is an equalizer plug-in built for detailed, surgical control o
 
 <!-- pick:Xfer Serum -->
 
-
-
-
-
 ## Arturia Pigments
 
 <!-- role:pick -->
 
 <!-- pick:Arturia Pigments -->
-
-
-
-
 
 ## FabFilter Pro-Q 4
 
@@ -65,7 +59,11 @@ Last recorded sale: $105.00 on 2025-11-22.
 
 <!-- pick:FabFilter Pro-C 3 -->
 
-FabFilter Pro-C 3 is a high-end stereo and surround compressor with fourteen compressor styles organized into Modern, Classic, and Utility categories. Its standout feature is combined upward and downward multiband dynamics processing through FabFilter's TTM technology, letting producers shape loudness and density in ways a standard compressor cannot. The plugin covers an unusually wide range of use cases, from transparent mastering control to punchy mixbus glue, classic opto-style warmth, modern upward dynamics, and aggressive pumping effects. On the character side, modes built around Tube, Diode, and Bright settings add analog-style saturation, coloring, and drift, giving engineers a way to push the sound beyond clean compression when a track calls for more texture. The transparent mastering mode keeps gain reduction tightly focused for situations where control matters more than character, while the punchier and more aggressive modes are suited to drum bus work or full mixes that need extra impact and glue. Overall, the plugin positions itself as flexible enough to handle delicate mastering-stage work and bold, characterful mixing decisions within the same tool.
+FabFilter Pro-C 3 is a high-end stereo and surround compressor with fourteen compressor styles organized into Modern, Classic, and Utility categories. Its standout feature is combined upward and downward multiband dynamics processing through FabFilter's TTM technology, letting producers shape loudness and density in ways a standard compressor cannot. The plugin covers an unusually wide range of use cases, from transparent mastering control to punchy mixbus glue, classic opto-style warmth, modern upward dynamics, and aggressive pumping effects.
+
+On the character side, modes built around Tube, Diode, and Bright settings add analog-style saturation, coloring, and drift, giving engineers a way to push the sound beyond clean compression when a track calls for more texture. The transparent mastering mode keeps gain reduction tightly focused for situations where control matters more than character, while the punchier and more aggressive modes are suited to drum bus work or full mixes that need extra impact and glue.
+
+Overall, the plugin positions itself as flexible enough to handle delicate mastering-stage work and bold, characterful mixing decisions within the same tool.
 
 | Tracked price | $199.00 |
 |---|---|
@@ -82,8 +80,6 @@ Last recorded sale: $149.00 on 2026-10-17.
 
 <!-- pick:Valhalla Room -->
 
-
-
 | Tracked price | $50.00 |
 |---|---|
 
@@ -97,8 +93,6 @@ Last recorded sale: $149.00 on 2026-10-17.
 
 <!-- pick:Valhalla VintageVerb -->
 
-
-
 | Tracked price | $50.00 |
 |---|---|
 
@@ -110,7 +104,9 @@ Last recorded sale: $149.00 on 2026-10-17.
 
 <!-- pick:Soundtoys Decapitator -->
 
-Decapitator is a saturation plugin built for the kind of controlled distortion techno often calls for — not the obvious clipping of a guitar amplifier, but the subtle harmonic coloration that makes synthesizers and drum machines sound as if they were run through real hardware. It models five distinct analog saturation circuits, each drawn from a different piece of classic studio gear, with each one adding its own frequency character. Its Drive control covers a wide range, from a light touch of warmth up to outright distortion, making it capable of anything from giving a subtractive synth the sound of passing through a console channel strip to producing aggressive, industrial-style textures. It's available as a VST3, AU, or AAX plugin for both Windows and macOS, and it suits producers who want adjustable, analog-style saturation and distortion on synth and drum channels, spanning subtle warmth through to harsher, more aggressive coloration.
+Decapitator is a saturation plugin built for the kind of controlled distortion techno often calls for — not the obvious clipping of a guitar amplifier, but the subtle harmonic coloration that makes synthesizers and drum machines sound as if they were run through real hardware. It models five distinct analog saturation circuits, each drawn from a different piece of classic studio gear, with each one adding its own frequency character.
+
+Its Drive control covers a wide range, from a light touch of warmth up to outright distortion, making it capable of anything from giving a subtractive synth the sound of passing through a console channel strip to producing aggressive, industrial-style textures. It's available as a VST3, AU, or AAX plugin for both Windows and macOS, and it suits producers who want adjustable, analog-style saturation and distortion on synth and drum channels, spanning subtle warmth through to harsher, more aggressive coloration.
 
 | Tracked price | $199.00 |
 |---|---|
@@ -144,7 +140,9 @@ Last recorded sale: $119.00 on 2026-09-01.
 
 Producers choosing among these plugins should base the decision on what stage their track is at and what kind of sound they're after. For Berlin-style techno built on acid elements, Serum is the stronger starting synthesizer, since its modulation system and wavetable editing suit acid lines and industrial leads. For long, slowly evolving arrangements, Arturia Pigments is the better pick: its granular and layered synthesis engines are built for textures that hold up across extended club edits.
 
-For mixing aimed at club playback, Pro-Q 4 and Pro-C 3 are the pair most likely to matter at high volume, and are worth prioritizing before adding more synthesizers. Pro-Q 4 offers up to 24 bands along with dynamic EQ, where individual bands respond to the signal's own level rather than applying a constant cut or boost, plus attack and release controls and optional free side-chain filtering, with a choice of zero-latency, natural-phase, or linear-phase processing — making it suited to stereo, surround, or Dolby Atmos sessions in both mixing and mastering. Pro-C 3 spans fourteen compressor styles across modern, classic, and utility categories and combines upward and downward multiband dynamics, so it can deliver transparent mastering control, punchy mixbus glue, classic opto-style warmth, or aggressive pumping, with character modes adding analog-style coloring.
+For mixing aimed at club playback, Pro-Q 4 and Pro-C 3 are the pair most likely to matter at high volume, and are worth prioritizing before adding more synthesizers. Pro-Q 4 offers up to 24 bands along with dynamic EQ, where individual bands respond to the signal's own level rather than applying a constant cut or boost, plus attack and release controls and optional free side-chain filtering, with a choice of zero-latency, natural-phase, or linear-phase processing — making it suited to stereo, surround, or Dolby Atmos sessions in both mixing and mastering.
+
+Pro-C 3 spans fourteen compressor styles across modern, classic, and utility categories and combines upward and downward multiband dynamics, so it can deliver transparent mastering control, punchy mixbus glue, classic opto-style warmth, or aggressive pumping, with character modes adding analog-style coloring.
 
 For reverb, one option leans toward dark, club-style spaces, while the other leans toward industrial and vintage-leaning textures; many producers working seriously in the genre end up using both rather than settling on just one.
 

@@ -12,7 +12,9 @@ draft: false
 ---
 <!-- guide:v4 kind=roundup -->
 
-This guide looks at ten string plugin options, ranging from free foundational tools to professional-grade orchestral libraries used in film and television work. At the top of the list is a complete orchestral strings library with professional-grade recordings, a full set of articulations, and a workflow suited to both film composers and beatmakers; it is a premium product, though its cost is reduced during periodic sales. For anyone working with a tighter budget, a free, reduced version offers the same recording quality with fewer articulations, and remains genuinely usable for paid projects rather than serving only as a demo. Each entry below covers who the plugin suits and whether it makes sense to buy now or wait for a future discount, so the guide is meant to support an actual purchase decision rather than just a comparison of specifications.
+This guide looks at ten string plugin options, ranging from free foundational tools to professional-grade orchestral libraries used in film and television work. At the top of the list is a complete orchestral strings library with professional-grade recordings, a full set of articulations, and a workflow suited to both film composers and beatmakers; it is a premium product, though its cost is reduced during periodic sales.
+
+For anyone working with a tighter budget, a free, reduced version offers the same recording quality with fewer articulations, and remains genuinely usable for paid projects rather than serving only as a demo. Each entry below covers who the plugin suits and whether it makes sense to buy now or wait for a future discount, so the guide is meant to support an actual purchase decision rather than just a comparison of specifications.
 
 ## Introduction
 
@@ -48,8 +50,6 @@ It runs in Spitfire's own BBCSO player (free download), not Kontakt. Installatio
 
 ---
 
-
-
 ## Spitfire LABS Strings
 
 <!-- role:pick -->
@@ -76,8 +76,6 @@ LABS requires registration on the Spitfire site and runs in the free LABS app.
 
 ---
 
-
-
 ## VSCO2 Community Edition
 
 <!-- role:pick -->
@@ -102,8 +100,6 @@ The Versilian Studios Community Orchestra 2 (VSCO2 CE) is a free, open-source or
 
 ---
 
-
-
 ## Cinematic Studio Strings
 
 <!-- role:pick -->
@@ -125,8 +121,6 @@ If legato quality at this budget is your deciding factor, there's little upside 
 🎬 [Watch the official demo](https://www.youtube.com/watch?v=uxmE1SSqGJk)
 
 ---
-
-
 
 ## Session Strings Pro 2
 
@@ -152,8 +146,6 @@ Unless you need it for a session this week, this is one of the clearest "wait fo
 
 ---
 
-
-
 ## 8Dio Adagio Strings
 
 <!-- role:pick -->
@@ -177,8 +169,6 @@ Unless you need it for a session this week, this is one of the clearest "wait fo
 [→ Get 8Dio Adagio Strings](https://8dio.com/products/adagio-agitato)
 
 ---
-
-
 
 ## Spitfire BBC Symphony Orchestra
 
@@ -208,8 +198,6 @@ Check When Does Spitfire BBC Symphony Orchestra Go On Sale? before buying at lis
 
 ---
 
-
-
 ## EastWest Hollywood Strings
 
 <!-- role:pick -->
@@ -236,8 +224,6 @@ EastWest Hollywood Strings was recorded at EastWest Studios in Hollywood, and th
 
 ---
 
-
-
 ## Orchestral Tools Berlin Strings
 
 <!-- role:pick -->
@@ -261,8 +247,6 @@ Orchestral Tools delivers Berlin Strings through their modular SINE player archi
 [→ Get Orchestral Tools Berlin Strings](https://www.orchestraltools.com/berlin-strings)
 
 ---
-
-
 
 ## Cinesamples CineStrings CORE
 
@@ -288,13 +272,15 @@ Cinesamples built CineStrings CORE specifically for film and television scoring 
 
 ---
 
-
-
 ## How to choose
 
 <!-- role:choose -->
 
-Someone with no budget at all should download BBCSO Discover first; its recording quality holds up for professional work, and the only real limitation is a smaller set of playable articulations, not sound quality. Producers working in pop, R&B, or soul styles are generally better served by Session Strings Pro 2, since it runs in the free Kontakt Player and its contemporary character fits modern mixes better than a traditional orchestral library would; it's worth waiting for a sale rather than paying full price right away. For anyone whose main priority is legato performance quality on a moderate budget, Cinematic Studio Strings is the strongest pick at that tier, assuming the full paid version of Kontakt is already owned; because it rarely goes on sale in any meaningful way, there's little reason to delay a purchase in hopes of a markdown. Composers building a full professional scoring template should look to Spitfire BBC Symphony Orchestra Core as the primary full-orchestra library, and it's also the best candidate on this list for timing a purchase around a seasonal sale period. Finally, anyone doing post-production, sync licensing, or stem-delivery work will benefit from EastWest Hollywood Strings' multi-mic recording setup, which gives the kind of flexibility professional pipelines increasingly expect; since it's offered as a subscription rather than a one-time purchase, it can be tried out during a discounted trial period before committing to it long-term.
+Someone with no budget at all should download BBCSO Discover first; its recording quality holds up for professional work, and the only real limitation is a smaller set of playable articulations, not sound quality. Producers working in pop, R&B, or soul styles are generally better served by Session Strings Pro 2, since it runs in the free Kontakt Player and its contemporary character fits modern mixes better than a traditional orchestral library would; it's worth waiting for a sale rather than paying full price right away.
+
+For anyone whose main priority is legato performance quality on a moderate budget, Cinematic Studio Strings is the strongest pick at that tier, assuming the full paid version of Kontakt is already owned; because it rarely goes on sale in any meaningful way, there's little reason to delay a purchase in hopes of a markdown.
+
+Composers building a full professional scoring template should look to Spitfire BBC Symphony Orchestra Core as the primary full-orchestra library, and it's also the best candidate on this list for timing a purchase around a seasonal sale period. Finally, anyone doing post-production, sync licensing, or stem-delivery work will benefit from EastWest Hollywood Strings' multi-mic recording setup, which gives the kind of flexibility professional pipelines increasingly expect; since it's offered as a subscription rather than a one-time purchase, it can be tried out during a discounted trial period before committing to it long-term.
 
 ## FAQ
 

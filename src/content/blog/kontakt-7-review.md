@@ -38,19 +38,11 @@ If you searched for Kontakt 7, note that Native Instruments now sells Kontakt 8 
 
 <!-- pick:Edition -->
 
-
-
-
-
 ## Kontakt 8 Player
 
 <!-- role:pick -->
 
 <!-- pick:Kontakt 8 Player -->
-
-
-
-
 
 ## Kontakt 8
 
@@ -58,19 +50,11 @@ If you searched for Kontakt 7, note that Native Instruments now sells Kontakt 8 
 
 <!-- pick:Kontakt 8 -->
 
-
-
-
-
 ## Kontakt 8 Update
 
 <!-- role:pick -->
 
 <!-- pick:Kontakt 8 Update -->
-
-
-
-
 
 ## Komplete 26
 
@@ -78,19 +62,11 @@ If you searched for Kontakt 7, note that Native Instruments now sells Kontakt 8 
 
 <!-- pick:Komplete 26 -->
 
-
-
-
-
 ## Feature
 
 <!-- role:pick -->
 
 <!-- pick:Feature -->
-
-
-
-
 
 ## Price
 
@@ -98,19 +74,11 @@ If you searched for Kontakt 7, note that Native Instruments now sells Kontakt 8 
 
 <!-- pick:Price -->
 
-
-
-
-
 ## Native Instruments Kontakt instruments
 
 <!-- role:pick -->
 
 <!-- pick:Native Instruments Kontakt instruments -->
-
-
-
-
 
 ## Third-party Kontakt Player instruments
 
@@ -118,19 +86,11 @@ If you searched for Kontakt 7, note that Native Instruments now sells Kontakt 8 
 
 <!-- pick:Third-party Kontakt Player instruments -->
 
-
-
-
-
 ## Non-Player libraries
 
 <!-- role:pick -->
 
 <!-- pick:Non-Player libraries -->
-
-
-
-
 
 ## Leap, Chords Tool, Phrases Tool
 
@@ -138,19 +98,11 @@ If you searched for Kontakt 7, note that Native Instruments now sells Kontakt 8 
 
 <!-- pick:Leap, Chords Tool, Phrases Tool -->
 
-
-
-
-
 ## Conflux hybrid synthesizer
 
 <!-- role:pick -->
 
 <!-- pick:Conflux hybrid synthesizer -->
-
-
-
-
 
 ## Leap Expansions
 
@@ -158,19 +110,11 @@ If you searched for Kontakt 7, note that Native Instruments now sells Kontakt 8 
 
 <!-- pick:Leap Expansions -->
 
-
-
-
-
 ## Included sounds
 
 <!-- role:pick -->
 
 <!-- pick:Included sounds -->
-
-
-
-
 
 ## Extensive instrument editing
 
@@ -178,29 +122,17 @@ If you searched for Kontakt 7, note that Native Instruments now sells Kontakt 8 
 
 <!-- pick:Extensive instrument editing -->
 
-
-
-
-
 ## Integrated sample editor
 
 <!-- role:pick -->
 
 <!-- pick:Integrated sample editor -->
 
-
-
-
-
 ## Creator Tools (standalone application for building instruments)
 
 <!-- role:pick -->
 
 <!-- pick:Creator Tools (standalone application for building instruments) -->
-
-
-
-
 
 ## Verdict
 

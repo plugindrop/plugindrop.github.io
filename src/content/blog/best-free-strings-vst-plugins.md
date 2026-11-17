@@ -46,8 +46,6 @@ LABS is not a single plugin but a growing catalog of free instruments distribute
 
 ---
 
-
-
 ## BBC Symphony Orchestra Discover
 
 <!-- role:pick -->
@@ -75,8 +73,6 @@ BBC Symphony Orchestra Discover is Spitfire's free tier of their flagship BBC Sy
 ---
 
 These libraries prioritize comprehensiveness and open formats over the polished interface of the LABS ecosystem. They are maintained by smaller developers and contributors, and they cover articulation and instrument variety that the LABS tier does not always provide.
-
-
 
 ## VSCO2 Community Edition
 
@@ -106,8 +102,6 @@ VSCO2 Community Edition (Versilian Studios Chamber Orchestra 2) is a sample libr
 
 ---
 
-
-
 ## ProjectSAM Free Orchestra
 
 <!-- role:pick -->
@@ -133,8 +127,6 @@ ProjectSAM, known for the Symphobia series, has made available a Free Orchestra 
 [→ Download ProjectSAM Free Orchestra (Official)](https://projectsam.com/libraries/the-free-orchestra/)
 
 ---
-
-
 
 ## IK Multimedia Miroslav Philharmonik CE
 
@@ -162,8 +154,6 @@ Miroslav Philharmonik is IK Multimedia's orchestral library built on recordings 
 
 ---
 
-
-
 ## Sonatina Symphonic Orchestra
 
 <!-- role:pick -->
@@ -189,8 +179,6 @@ Sonatina Symphonic Orchestra (SSO) is a free orchestral library. It covers the f
 [→ Get Sonatina Symphonic Orchestra Free](https://sfzinstruments.github.io/orchestra/sso/)
 
 ---
-
-
 
 ## VCSL
 
@@ -220,8 +208,6 @@ VCSL (Versilian Community Sample Library) is Versilian Studios' open-source comp
 
 These plugins prioritize fast loading, minimal setup, and ease of use over deep realism. They are the right choice when you need strings in a sketch quickly or when heavier libraries are impractical for your system.
 
-
-
 ## Virtual Playing Orchestra
 
 <!-- role:pick -->
@@ -250,8 +236,6 @@ Virtual Playing Orchestra (VPO) is a free SFZ library designed specifically for 
 
 ---
 
-
-
 ## Orchestral Tools SINE Player
 
 <!-- role:pick -->
@@ -278,8 +262,6 @@ Orchestral Tools, the developers behind the Berlin Series of professional orches
 
 ---
 
-
-
 ## DSK Dynamic Strings
 
 <!-- role:pick -->
@@ -305,8 +287,6 @@ DSK Dynamic Strings is a standalone free VST that delivers basic string tones wi
 [→ Download DSK Dynamic Strings Free (Official)](https://www.dskmusic.com/dsk-strings//)
 
 ---
-
-
 
 ## Decent Sampler
 
@@ -337,8 +317,6 @@ Decent Sampler is a free sample player plugin that opens access to a large catal
 ---
 
 When the free tier runs out — typically when you need more articulations, higher sample density, multi-mic control for final renders, or the solo instruments that free tiers usually exclude — these are two paid options for the first budget. Each is available through Plugin Boutique, where sale pricing appears regularly.
-
-
 
 ## How to choose
 

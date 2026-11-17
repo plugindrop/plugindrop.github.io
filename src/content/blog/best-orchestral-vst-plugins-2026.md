@@ -41,8 +41,6 @@ Recorded in Maida Vale Studios with the BBC Symphony Orchestra, this library cov
 
 [→ Get Spitfire Audio BBC Symphony Orchestra on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-orchestral-vst-plugins-2026)
 
-
-
 ## Sonuscore The Orchestra Complete 2
 
 <!-- role:pick -->
@@ -62,8 +60,6 @@ Sonuscore The Orchestra Complete 2 — built for speed, not deep articulation pr
 - **Best for:** Producers who need a cinematic orchestral idea down fast, without manually keyswitching every section.
 
 [→ Get Sonuscore The Orchestra Complete 2 on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-orchestral-vst-plugins-2026)
-
-
 
 ## EastWest Hollywood Orchestra Opus Edition
 
@@ -114,8 +110,6 @@ Recorded at Teldex Scoring Stage, Berlin Strings has a detailed articulation set
 
 [→ Get Orchestral Tools Berlin Strings on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-orchestral-vst-plugins-2026)
 
-
-
 ## Native Instruments Session Strings Pro 2
 
 <!-- role:pick -->
@@ -135,8 +129,6 @@ Native Instruments Session Strings Pro 2 — fast to load, easy to sit in a mix
 - **Best for:** Pop, R&B, and hip-hop producers layering strings into a mix rather than writing standalone orchestral cues.
 
 [→ Get Native Instruments Session Strings Pro 2 on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-orchestral-vst-plugins-2026)
-
-
 
 ## VSL Synchron Strings Pro
 
@@ -158,8 +150,6 @@ VSL Synchron Strings Pro — the choice for producers who want Vienna's articula
 
 [→ Get VSL Synchron Strings Pro on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-orchestral-vst-plugins-2026)
 
-
-
 ## Cinesamples CineBrass CORE
 
 <!-- role:pick -->
@@ -179,8 +169,6 @@ Cinesamples CineBrass CORE — punchy brass
 - **Best for:** Trailer-style hits and cinematic brass stabs that need to sit forward in a mix.
 
 [→ Get Cinesamples CineBrass CORE on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-orchestral-vst-plugins-2026)
-
-
 
 ## Native Instruments Symphony Series Woodwinds
 
@@ -202,8 +190,6 @@ Native Instruments Symphony Series Woodwinds — a practical, ensemble-focused w
 
 [→ Get Native Instruments Symphony Series Woodwinds on Plugin Boutique](https://www.pluginboutique.com/?a_aid=69cb95abe1763&chan=art&data1=best-orchestral-vst-plugins-2026)
 
-
-
 ## Spitfire Audio LABS
 
 <!-- role:pick -->
@@ -221,8 +207,6 @@ Spitfire Audio LABS — free, rotating instruments from a top-tier developer
 - LABS is Spitfire's ongoing series of free instruments, periodically refreshed with new patches drawn from the same recording sessions used in their paid libraries. It's a low-risk way to hear Spitfire's room sound before committing to BBC Symphony Orchestra.
 
 - **Best for:** Producers who want a taste of premium orchestral texture at zero cost.
-
-
 
 ## ProjectSAM Free Orchestra
 
@@ -289,8 +273,6 @@ For most producers, Spitfire Audio BBC Symphony Orchestra is still the safest si
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
 
 This list brings together publicly available feature information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
-
-
 
 ## How to choose
 

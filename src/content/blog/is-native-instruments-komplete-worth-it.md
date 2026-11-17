@@ -46,8 +46,6 @@ Select works best as an entry tier rather than a long-term production environmen
 
 ---
 
-
-
 ## Komplete 26 Standard
 
 <!-- role:pick -->
@@ -73,8 +71,6 @@ There is a counterargument: FM8 and Absynth 5, both included in Standard, are ol
 [→ Get Komplete 26 Standard](https://www.native-instruments.com/en/products/komplete/bundles/)
 
 ---
-
-
 
 ## Komplete 26 Ultimate
 
@@ -102,8 +98,6 @@ But value-per-plugin only matters if you actually use those plugins.
 
 ---
 
-
-
 ## Komplete 26 Collector's Edition
 
 <!-- role:pick -->
@@ -128,8 +122,6 @@ The Collector's Edition targets professional composers, sound designers, and stu
 
 ---
 
-
-
 ## Native Instruments Komplete
 
 <!-- role:pick -->
@@ -145,8 +137,6 @@ Native Instruments Komplete — The Ecosystem Commitment
 → Get Native Instruments Komplete on Plugin Boutique
 
 ---
-
-
 
 ## Arturia V Collection 11
 

@@ -174,7 +174,6 @@ Both plugins in this comparison are premium tools worth every cent of their $50 
 
 ---
 
-
 ## FAQ
 **Q: Is Valhalla Room or VintageVerb better for beginners?**
 A: Room has a slightly more focused parameter set, which can feel less overwhelming. That said, VintageVerb's presets are arguably more inspiring as starting points for producers still developing their ear. Both share Valhalla's famously approachable interface, so either works well for beginners.

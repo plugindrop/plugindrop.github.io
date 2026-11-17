@@ -20,7 +20,9 @@ For most home producers working in 2026, Arturia Piano V3 offers the strongest m
 
 A common misunderstanding about piano VST plugins is that a bigger sample library automatically means a more realistic sound. Pianoteq 8 pushes back on that idea: it uses no recorded samples at all, generating its piano sound through physical modeling instead, and the whole plugin installs in roughly 80MB — a tiny footprint next to sample-based libraries that can run into many gigabytes. That gap shows that a plugin's size and how convincing it sounds are two different things. No listening tests were carried out for this guide, so the plugins here are not ranked against one another on sound quality.
 
-Piano plugins generally fall into a few broad types. Sample-based libraries record a real piano note by note and play those recordings back. Physical modeling instruments work differently: instead of relying on samples, they calculate the sound of a piano from scratch, which keeps the install size small and lets players adjust details of how the instrument behaves — things like hammer action, string age, unison detuning, stretch tuning, lid position, and the resonance of the soundboard and strings. Mechanical details such as pedal noise, key noise, and hammer noise can often be shaped as well, and many of these instruments offer several microphone positions to change the character of the recorded tone. Beyond modeled and sampled acoustic pianos, other categories cover electric piano and keyboard emulations, along with hybrid instruments that blend recorded samples with modeled resonance and other processing.
+Piano plugins generally fall into a few broad types. Sample-based libraries record a real piano note by note and play those recordings back. Physical modeling instruments work differently: instead of relying on samples, they calculate the sound of a piano from scratch, which keeps the install size small and lets players adjust details of how the instrument behaves — things like hammer action, string age, unison detuning, stretch tuning, lid position, and the resonance of the soundboard and strings.
+
+Mechanical details such as pedal noise, key noise, and hammer noise can often be shaped as well, and many of these instruments offer several microphone positions to change the character of the recorded tone. Beyond modeled and sampled acoustic pianos, other categories cover electric piano and keyboard emulations, along with hybrid instruments that blend recorded samples with modeled resonance and other processing.
 
 ## Piano One (Sound Magic)
 
@@ -44,8 +46,6 @@ Piano One is a multi-velocity-sampled 9-foot concert grand with a clean, uncolor
 
 ---
 
-
-
 ## Spitfire LABS Soft Piano
 
 <!-- role:pick -->
@@ -68,8 +68,6 @@ LABS Soft Piano is a free atmospheric piano. It captures a soft, slightly muffle
 
 ---
 
-
-
 ## Arturia Piano V3
 
 <!-- role:pick -->
@@ -81,7 +79,11 @@ Arturia Piano V3 — historically modeled grand pianos built for expressive play
 - **Platforms:** Windows, macOS
 - **Formats:** VST, AAX, Audio Unit, NKS (64-bit DAWs only)
 
-Arturia Piano V3 runs on an advanced physical modeling engine that generates its piano sounds entirely through calculation rather than relying on recorded samples. The plugin includes twelve distinct piano models, covering American Grand, German Grand, Jazz Upright, Glass Grand, Metal Grand, and Tack Upright types, so one instrument spans multiple piano archetypes and eras instead of requiring separate libraries for each. Because the sound is modeled rather than sampled, players can shape hammer action, string age, unison detuning, stretch tuning, lid position, and soundboard, sympathetic, and duplex resonance directly, along with multiple microphone positions and adjustable pedal, key, and hammer noise. Four macro controls give quick access to broad sound-shaping changes, while a velocity curve editor lets players match the instrument's response to their own keyboard action. MTS-ESP ODDSOUND microtuning support is also built in for players working outside standard tuning. This modeling approach tends to handle soft pedal and sustain behavior more fluidly than fixed-layer sampled instruments, though a modeled piano voicing can sound noticeably different from a heavily sampled concert grand on exposed, unaccompanied passages. The plugin requires a 64-bit system: Windows 10 or later, or macOS 10.13 or later with an Apple Silicon or capable Intel processor, along with at least 4 GB of RAM and 3 GB of free disk space.
+Arturia Piano V3 runs on an advanced physical modeling engine that generates its piano sounds entirely through calculation rather than relying on recorded samples. The plugin includes twelve distinct piano models, covering American Grand, German Grand, Jazz Upright, Glass Grand, Metal Grand, and Tack Upright types, so one instrument spans multiple piano archetypes and eras instead of requiring separate libraries for each.
+
+Because the sound is modeled rather than sampled, players can shape hammer action, string age, unison detuning, stretch tuning, lid position, and soundboard, sympathetic, and duplex resonance directly, along with multiple microphone positions and adjustable pedal, key, and hammer noise. Four macro controls give quick access to broad sound-shaping changes, while a velocity curve editor lets players match the instrument's response to their own keyboard action.
+
+MTS-ESP ODDSOUND microtuning support is also built in for players working outside standard tuning. This modeling approach tends to handle soft pedal and sustain behavior more fluidly than fixed-layer sampled instruments, though a modeled piano voicing can sound noticeably different from a heavily sampled concert grand on exposed, unaccompanied passages. The plugin requires a 64-bit system: Windows 10 or later, or macOS 10.13 or later with an Apple Silicon or capable Intel processor, along with at least 4 GB of RAM and 3 GB of free disk space.
 
 **Best for:** Producers who want one plugin covering multiple piano types and eras without buying separate libraries.
 
@@ -116,8 +118,6 @@ Pianoteq 8 contains no sample recordings. Every note is generated in real time t
 
 ---
 
-
-
 ## Keyscape (Spectrasonics)
 
 <!-- role:pick -->
@@ -141,8 +141,6 @@ Keyscape is Spectrasonics' keyboard collection. Spectrasonics' product documenta
 [spectrasonics.net (official)](https://www.spectrasonics.net/products/omnisphere/)
 
 ---
-
-
 
 ## Native Instruments The Grandeur
 
@@ -168,8 +166,6 @@ The Grandeur is NI's concert grand built on the Kontakt sampling engine, with de
 
 ---
 
-
-
 ## Ravenscroft 275 (VI Labs)
 
 <!-- role:pick -->
@@ -193,8 +189,6 @@ The Ravenscroft 275 is built from an extensively recorded Ravenscroft 275 concer
 [vilabsaudio.com (official)](https://www.vilabsaudio.com/Ravenscroft-By-VI-Labs)
 
 ---
-
-
 
 ## Addictive Keys Modern Upright (XLN Audio)
 
@@ -220,8 +214,6 @@ XLN Audio's Addictive Keys platform separates the player from individual instrum
 
 ---
 
-
-
 ## Lounge Lizard EP-4 (Applied Acoustics Systems)
 
 <!-- role:pick -->
@@ -243,8 +235,6 @@ Lounge Lizard EP-4 uses AAS's physical modeling engine to simulate the mechanica
 [→ Get Lounge Lizard EP-4](https://www.applied-acoustics.com/lounge-lizard-ep-4/)
 
 ---
-
-
 
 ## Scarbee Mark I (Native Instruments)
 
@@ -270,8 +260,6 @@ Scarbee Mark I is sample-based, built from an extensively recorded Fender Rhodes
 
 ---
 
-
-
 ## Spitfire Audio Felt Piano
 
 <!-- role:pick -->
@@ -296,8 +284,6 @@ Spitfire Audio Felt Piano delivers the tonal character of a piano with felt stri
 
 ---
 
-
-
 ## Una Corda (Native Instruments)
 
 <!-- role:pick -->
@@ -321,8 +307,6 @@ Una Corda is NI's one-string-per-note experimental piano, developed in collabora
 [→ Get Una Corda](https://www.native-instruments.com/en/products/komplete/keys/una-corda/)
 
 ---
-
-
 
 ## How to choose
 

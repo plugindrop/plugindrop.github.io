@@ -11,21 +11,35 @@ draft: false
 ---
 <!-- guide:v4 kind=guide -->
 
-FabFilter Pro-Q 4 is an EQ plug-in that gives you up to 24 bands to shape sound, and its standout feature is Spectral Dynamics, which targets and fixes problem frequencies with more precision and less effort than older approaches. It's built for mixing and mastering engineers working on stereo, surround, or Dolby Atmos projects. Mastering engineers can work with tighter 3 dB and 6 dB display ranges for fine detail, while mixing engineers can zoom out to 12 dB and 30 dB ranges for broader adjustments. Spectral Dynamics lets you treat problem frequencies more precisely and efficiently, and Dynamic EQ adds Attack and Release controls along with optional free side-chain filtering. The dynamic EQ processing has also been improved to produce less distortion and a cleaner overall sound, and this holds true whether you're using zero-latency, Natural Phase, or linear-phase modes. For stereo width work specifically, it's well suited to mid/side EQ, letting you shape how different elements sit across the stereo field with surgical precision.
+FabFilter Pro-Q 4 is an EQ plug-in that gives you up to 24 bands to shape sound, and its standout feature is Spectral Dynamics, which targets and fixes problem frequencies with more precision and less effort than older approaches. It's built for mixing and mastering engineers working on stereo, surround, or Dolby Atmos projects.
+
+Mastering engineers can work with tighter 3 dB and 6 dB display ranges for fine detail, while mixing engineers can zoom out to 12 dB and 30 dB ranges for broader adjustments. Spectral Dynamics lets you treat problem frequencies more precisely and efficiently, and Dynamic EQ adds Attack and Release controls along with optional free side-chain filtering.
+
+The dynamic EQ processing has also been improved to produce less distortion and a cleaner overall sound, and this holds true whether you're using zero-latency, Natural Phase, or linear-phase modes. For stereo width work specifically, it's well suited to mid/side EQ, letting you shape how different elements sit across the stereo field with surgical precision.
 
 ## Introduction
 
 <!-- role:intro -->
 
-FabFilter Pro-Q 4 is a parametric equalizer that supports up to 24 bands, giving detailed control over the frequency spectrum. What sets it apart is a feature called Spectral Dynamics, which allows more precise and efficient handling of problem frequencies, letting engineers target narrow trouble spots without disturbing the surrounding sound. The plugin is built to work across stereo, surround, and Dolby Atmos sessions, making it flexible for a range of mixing and mastering environments. It offers display range options at 3 dB and 6 dB for the fine detail work typical of mastering, along with wider 12 dB and 30 dB ranges suited to the broader moves made during mixing. Alongside Spectral Dynamics, it includes a Dynamic EQ mode with adjustable Attack and Release controls and optional free-form side-chain filtering, so specific bands can respond dynamically to the signal rather than applying a static boost or cut. Processing improvements aim to reduce distortion and keep the sound cleaner across its zero-latency, Natural Phase, and linear-phase modes, giving users a choice between speed and phase accuracy depending on the task at hand.
+FabFilter Pro-Q 4 is a parametric equalizer that supports up to 24 bands, giving detailed control over the frequency spectrum. What sets it apart is a feature called Spectral Dynamics, which allows more precise and efficient handling of problem frequencies, letting engineers target narrow trouble spots without disturbing the surrounding sound. The plugin is built to work across stereo, surround, and Dolby Atmos sessions, making it flexible for a range of mixing and mastering environments.
+
+It offers display range options at 3 dB and 6 dB for the fine detail work typical of mastering, along with wider 12 dB and 30 dB ranges suited to the broader moves made during mixing. Alongside Spectral Dynamics, it includes a Dynamic EQ mode with adjustable Attack and Release controls and optional free-form side-chain filtering, so specific bands can respond dynamically to the signal rather than applying a static boost or cut.
+
+Processing improvements aim to reduce distortion and keep the sound cleaner across its zero-latency, Natural Phase, and linear-phase modes, giving users a choice between speed and phase accuracy depending on the task at hand.
 
 ## How to
 
 <!-- role:howto -->
 
+**TL;DR:** Stereo width in mixing is about contrast — elements that are wide feel wider when the low end and key elements are properly mono. Before adding width, check mono compatibility; then use mid/side EQ to shape how elements sit across the stereo field; use imaging plugins like iZotope Ozone Imager (free) for controlled widening; and understand the Haas effect for creative width on pads and synths.
 
+The instinct when a mix sounds narrow is to add width — to apply a stereo widener, increase the side signal, or reach for the Haas effect on key elements. The counterargument is that indiscriminate width addition creates mono compatibility problems, phase issues, and mixes that sound wide on headphones but collapse or lose impact on mono playback systems — which in 2026 includes smart speakers, phone speakers, club systems in mono check mode, and a significant portion of streaming playback scenarios.
 
-**TL;DR:** Stereo width in mixing is about contrast — elements that are wide feel wider when the low end and key elements are properly mono. Before adding width, check mono compatibility; then use mid/side EQ to shape how elements sit across the stereo field; use imaging plugins like iZotope Ozone Imager (free) for controlled widening; and understand the Haas effect for creative width on pads and synths. The instinct when a mix sounds narrow is to add width — to apply a stereo widener, increase the side signal, or reach for the Haas effect on key elements. The counterargument is that indiscriminate width addition creates mono compatibility problems, phase issues, and mixes that sound wide on headphones but collapse or lose impact on mono playback systems — which in 2026 includes smart speakers, phone speakers, club systems in mono check mode, and a significant portion of streaming playback scenarios. Stereo width is most effective as contrast. A mix where the low end is tightly focused in the center, the mid-range is well-defined, and width is applied selectively to high-frequency content, pads, and reverb tails creates an immersive, wide-sounding result precisely because the elements that are wide have a focused center image to contrast against. A mix where everything has been widened sounds wide on headphones and flat everywhere else — the contrast is gone, along with the punchy center image. This guide covers stereo width correctly: starting with mono compatibility verification, moving to mid/side EQ for surgical stereo control, then imaging plugins for intentional widening, and finally the Haas effect as a creative tool with specific caveats about when it's appropriate. The workflow in this guide is aimed at producers who want width that survives mono playback. ---
+Stereo width is most effective as contrast. A mix where the low end is tightly focused in the center, the mid-range is well-defined, and width is applied selectively to high-frequency content, pads, and reverb tails creates an immersive, wide-sounding result precisely because the elements that are wide have a focused center image to contrast against.
+
+A mix where everything has been widened sounds wide on headphones and flat everywhere else — the contrast is gone, along with the punchy center image. This guide covers stereo width correctly: starting with mono compatibility verification, moving to mid/side EQ for surgical stereo control, then imaging plugins for intentional widening, and finally the Haas effect as a creative tool with specific caveats about when it's appropriate.
+
+The workflow in this guide is aimed at producers who want width that survives mono playback. ---
 
 ## Step 1: Mono Compatibility First — Check Before You Widen
 
@@ -38,7 +52,11 @@ Before adding any stereo width to a mix, check mono compatibility. Insert a ster
 - **Platforms:** Windows, macOS
 - **Formats:** VST2, VST3, AU, AAX
 
-Voxengo SPAN is a free real-time FFT spectrum analyzer that includes a stereo correlation meter — a display that shows whether the stereo signal is in phase (correlation approaching +1.0), decorrelated (approaching 0), or out of phase (approaching -1.0). SPAN is a useful first install for a new mix environment because it provides metering information that DAW native meters may not show: frequency spectrum balance, stereo correlation, and peak/RMS level simultaneously. For stereo width work, the correlation meter is the relevant display. A reading consistently below 0.5 on the master bus indicates significant stereo content that may collapse to mono. A reading below 0 on any sustained material indicates phase inversion problems that will cause audible cancellation in mono. **Setup:** Insert SPAN on the master bus in metering mode. Check the correlation display after every width adjustment to ensure you haven't introduced out-of-phase content. ---
+Voxengo SPAN is a free real-time FFT spectrum analyzer that includes a stereo correlation meter — a display that shows whether the stereo signal is in phase (correlation approaching +1.0), decorrelated (approaching 0), or out of phase (approaching -1.0). SPAN is a useful first install for a new mix environment because it provides metering information that DAW native meters may not show: frequency spectrum balance, stereo correlation, and peak/RMS level simultaneously.
+
+For stereo width work, the correlation meter is the relevant display. A reading consistently below 0.5 on the master bus indicates significant stereo content that may collapse to mono. A reading below 0 on any sustained material indicates phase inversion problems that will cause audible cancellation in mono. **Setup:** Insert SPAN on the master bus in metering mode.
+
+Check the correlation display after every width adjustment to ensure you haven't introduced out-of-phase content. ---
 
 ## Step 2: Mid/Side EQ — Surgical Stereo Field Shaping
 
@@ -68,7 +86,11 @@ After establishing mono compatibility and using M/S EQ for surgical shaping, ima
 - **Platforms:** Windows, macOS
 - **Formats:** VST3, AU, AAX
 
-iZotope Ozone Imager is the free standalone version of the Imager module from iZotope Ozone. It provides mid/side-based stereo widening with a Lissajous (vectorscope) display that shows the stereo field shape in real time — a circular shape indicates fully correlated mono, a figure-eight indicates a wide, decorrelated stereo signal, and diagonal shapes indicate out-of-phase problems. The vectorscope makes the stereo field visually intuitive in a way that numerical meters don't. The Width control is a single parameter (0 = full mono, 1.0 = source width, above 1.0 = enhanced width). For mix bus application with verified mono compatibility, a starting width of 1.1–1.3 is a modest range for adding subtle enhancement without introducing visible phase problems in the vectorscope. On reverb returns, 1.5–2.0 is appropriate because reverb content is less sensitive to mono cancellation than dry source signals. **Setting:** Width 1.1–1.3 on mix bus (after M/S EQ has narrowed the low end). Width 1.5–2.0 on reverb returns. Monitor Lissajous display continuously — stop increasing if the figure-eight shape shows diagonal dominance (phase correlation approaching -0.3). ---
+iZotope Ozone Imager is the free standalone version of the Imager module from iZotope Ozone. It provides mid/side-based stereo widening with a Lissajous (vectorscope) display that shows the stereo field shape in real time — a circular shape indicates fully correlated mono, a figure-eight indicates a wide, decorrelated stereo signal, and diagonal shapes indicate out-of-phase problems.
+
+The vectorscope makes the stereo field visually intuitive in a way that numerical meters don't. The Width control is a single parameter (0 = full mono, 1.0 = source width, above 1.0 = enhanced width). For mix bus application with verified mono compatibility, a starting width of 1.1–1.3 is a modest range for adding subtle enhancement without introducing visible phase problems in the vectorscope.
+
+On reverb returns, 1.5–2.0 is appropriate because reverb content is less sensitive to mono cancellation than dry source signals. **Setting:** Width 1.1–1.3 on mix bus (after M/S EQ has narrowed the low end). Width 1.5–2.0 on reverb returns. Monitor Lissajous display continuously — stop increasing if the figure-eight shape shows diagonal dominance (phase correlation approaching -0.3). ---
 
 ## Step 4: The Haas Effect — Creative Width with Phase Caveats
 
@@ -95,7 +117,9 @@ A: It works on any stereo channel. On individual channels, Ozone Imager is usefu
 
 ## Final Thoughts
 
-Effective stereo width in mixing starts with mono compatibility, not with width addition. Check mono first using SPAN's correlation meter, identify and fix any phase or sub-bass side-channel problems, then use M/S EQ (FabFilter Pro-Q 4) to narrow the low end and shape how elements sit in the stereo field. Apply imaging plugins (iZotope Ozone Imager, free) for controlled widening of specific elements and the final mix — always monitoring the correlation meter to stay within mono-safe settings. Use the Haas effect for creative width on ambient and atmospheric elements where mono translation is less critical. The result of this workflow is a mix that sounds genuinely wide on headphones and still punches in mono — a combination that the shortcut of "just apply a stereo widener" consistently fails to produce. [→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-add-stereo-width-mixing)
+Effective stereo width in mixing starts with mono compatibility, not with width addition. Check mono first using SPAN's correlation meter, identify and fix any phase or sub-bass side-channel problems, then use M/S EQ (FabFilter Pro-Q 4) to narrow the low end and shape how elements sit in the stereo field. Apply imaging plugins (iZotope Ozone Imager, free) for controlled widening of specific elements and the final mix — always monitoring the correlation meter to stay within mono-safe settings.
+
+Use the Haas effect for creative width on ambient and atmospheric elements where mono translation is less critical. The result of this workflow is a mix that sounds genuinely wide on headphones and still punches in mono — a combination that the shortcut of "just apply a stereo widener" consistently fails to produce. [→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-add-stereo-width-mixing)
 
 ---
 
@@ -149,8 +173,6 @@ Standard mid/side EQ applications in mixing:
 **Widening the high end:** Gentle side-channel boost on a high shelf (6 kHz and above, +1 to +3 dB) adds air and width to a mix without introducing low-frequency phase problems. This is the subtle widening technique that's often more effective than dedicated imaging plugins for natural-sounding results.
 
 **Narrowing a specific side element:** A notch cut in the side channel at the frequency where a reverb tail or wide pad is causing crowding narrows only that element without touching the rest of the stereo field.
-
-
 
 ## FabFilter Pro-Q 4
 
@@ -274,8 +296,6 @@ This guide brings together publicly available product information and prices tra
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
 
 - [stereo widening plugins](/posts/best-stereo-widener-plugins/)
-
-
 
 ## FAQ
 

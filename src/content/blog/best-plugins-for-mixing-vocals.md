@@ -75,8 +75,6 @@ Developer documentation confirms that its Direct Note Access (DNA) technology en
 
 ---
 
-
-
 ## Waves CLA-2A
 
 <!-- role:pick -->
@@ -85,7 +83,11 @@ Developer documentation confirms that its Direct Note Access (DNA) technology en
 
 Waves CLA-2A — Optical Compression That Flatters Vocal Dynamics
 
-This is the legendary electro-optical tube compressor, modeled directly from Chris Lord-Alge's own personal vintage hardware unit. Waves built it to emulate the original unit's response and sound as closely as possible, so the character people love in the hardware carries over into the plugin. The compression it applies stays natural-sounding even when pushed hard, which is part of why it has become a studio mainstay. Its attack and release times are tuned in a way that suits vocals especially well, fitting expressive vocal performances like a glove while preserving their natural dynamics. The plugin's tube emulation also adds a musical, harmonic kind of saturation, contributing to a warm overall sound. Beyond the standard compressor mode, there's also a limiter mode that can increase the sustain of an instrument. Engineers also reach for it on bass and guitar tracks, not just vocals, since its warm character works across many kinds of sources. It's available in VST, VST3, AU, and AAX formats for Windows and macOS.
+This is the legendary electro-optical tube compressor, modeled directly from Chris Lord-Alge's own personal vintage hardware unit. Waves built it to emulate the original unit's response and sound as closely as possible, so the character people love in the hardware carries over into the plugin. The compression it applies stays natural-sounding even when pushed hard, which is part of why it has become a studio mainstay.
+
+Its attack and release times are tuned in a way that suits vocals especially well, fitting expressive vocal performances like a glove while preserving their natural dynamics. The plugin's tube emulation also adds a musical, harmonic kind of saturation, contributing to a warm overall sound. Beyond the standard compressor mode, there's also a limiter mode that can increase the sustain of an instrument.
+
+Engineers also reach for it on bass and guitar tracks, not just vocals, since its warm character works across many kinds of sources. It's available in VST, VST3, AU, and AAX formats for Windows and macOS.
 
 | Tracked price | $29.99 |
 |---|---|
@@ -140,7 +142,11 @@ Last recorded sale: $105.00 on 2025-11-22.
 
 <!-- pick:Soundtoys Decapitator -->
 
-Soundtoys Decapitator is a saturation plugin from Soundtoys built to bring the character of analog hardware into a digital vocal track. It offers five distinct saturation style modes, each one modeled on a different piece of analog gear and each producing its own particular flavor of harmonic coloration. Alongside these style modes there is a blend control, which lets you mix the saturated signal back in with the untouched original — a parallel-processing approach that adds warmth and grit without burying the natural character of the source. This makes it especially suited to vocal recordings that come out of the digital chain sounding thin, sterile, or overly clean, since the plugin's job is to layer analog-style presence and harmonic richness on top of that kind of recording. It runs on both Windows and macOS and is available in the major plugin formats. Among similar saturation tools on the market, it's often mentioned alongside FabFilter Saturn 2, Slate Digital VTM, and u-he Satin.
+Soundtoys Decapitator is a saturation plugin from Soundtoys built to bring the character of analog hardware into a digital vocal track. It offers five distinct saturation style modes, each one modeled on a different piece of analog gear and each producing its own particular flavor of harmonic coloration. Alongside these style modes there is a blend control, which lets you mix the saturated signal back in with the untouched original — a parallel-processing approach that adds warmth and grit without burying the natural character of the source.
+
+This makes it especially suited to vocal recordings that come out of the digital chain sounding thin, sterile, or overly clean, since the plugin's job is to layer analog-style presence and harmonic richness on top of that kind of recording. It runs on both Windows and macOS and is available in the major plugin formats.
+
+Among similar saturation tools on the market, it's often mentioned alongside FabFilter Saturn 2, Slate Digital VTM, and u-he Satin.
 
 | Tracked price | $199.00 |
 |---|---|
@@ -195,8 +201,6 @@ Waves Doubler 4 creates stereo width and a doubled-vocal feel by generating pitc
 
 ---
 
-
-
 ## Waves Vocal Rider
 
 <!-- role:pick -->
@@ -237,8 +241,6 @@ Developer documentation confirms 24 reverb and delay modes designed for dense, e
 [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
 
 ---
-
-
 
 ## Soundtoys EchoBoy
 
@@ -361,8 +363,6 @@ If you're choosing one starting point, Nectar 4 gives you the fastest path from 
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
 
 Prices reflect recorded checks, not every day of a sale.
-
-
 
 ## How to choose
 

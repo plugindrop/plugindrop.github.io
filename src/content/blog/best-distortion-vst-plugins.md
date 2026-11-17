@@ -21,7 +21,9 @@ draft: false
 
 Saturation, overdrive, and distortion are often treated as interchangeable terms in plugin roundups, but that is a misconception worth clearing up before comparing options. These effects differ mainly in how much harmonic coloration they add and how that coloration is shaped. At the gentle end, saturation can add subtle, warm character similar to tube or tape equipment, which is often used to add depth to a mix or smooth things out during mastering. At the more extreme end, overdrive and distortion push the signal harder, reshaping its tone more aggressively, the kind of effect commonly heard on guitar tracks run through amp-style processing.
 
-Not every plugin handles this the same way. Simpler tools apply one type of drive across the whole signal, while more advanced designs split the audio into multiple frequency bands, sometimes as many as six, so each band can be driven, blended, and shaped on its own. These multiband tools typically add adjustable crossover slopes between bands and separate controls for drive, mix, tone, and output level within each one. Some also include higher-quality processing modes that use heavier oversampling to keep the added harmonics sounding clean even at high drive settings, along with visual displays that show how each band is behaving as the sound plays. Knowing these differences helps in choosing the right tool, since the best choice depends on whether the goal is light warmth, precise multiband shaping, or a heavier, more transformed sound.
+Not every plugin handles this the same way. Simpler tools apply one type of drive across the whole signal, while more advanced designs split the audio into multiple frequency bands, sometimes as many as six, so each band can be driven, blended, and shaped on its own. These multiband tools typically add adjustable crossover slopes between bands and separate controls for drive, mix, tone, and output level within each one.
+
+Some also include higher-quality processing modes that use heavier oversampling to keep the added harmonics sounding clean even at high drive settings, along with visual displays that show how each band is behaving as the sound plays. Knowing these differences helps in choosing the right tool, since the best choice depends on whether the goal is light warmth, precise multiband shaping, or a heavier, more transformed sound.
 
 ## Soundtoys Decapitator
 
@@ -88,8 +90,6 @@ The J37 models the EMI J37 4-track tape machine used at Abbey Road Studios throu
 [→ Get Waves J37 Tape](https://www.waves.com/plugins/j37-tape)
 
 ---
-
-
 
 ## Klanghelm SDRR
 
@@ -217,8 +217,6 @@ The HG-2 models the Black Box Analog Design hardware unit — a two-stage tube a
 
 ---
 
-
-
 ## Chow Tape Model
 
 <!-- role:pick -->
@@ -240,8 +238,6 @@ Chow Tape Model is an open-source physical model of a tape machine, built from p
 [→ Download Chow Tape Model Free](https://chowdsp.com/products.html)
 
 ---
-
-
 
 ## Softube Saturation Knob
 
@@ -265,8 +261,6 @@ Softube's Saturation Knob is a single continuous control with three underlying m
 
 ---
 
-
-
 ## IVGI by Klanghelm
 
 <!-- role:pick -->
@@ -289,8 +283,6 @@ IVGI is a free analog saturation plugin from the same developer as SDRR, offerin
 
 ---
 
-
-
 ## TAL-Saturator V2
 
 <!-- role:pick -->
@@ -312,8 +304,6 @@ TAL-Saturator V2 is a waveshaper with adjustable drive, saturation character, an
 ---
 
 If you have been working with IVGI, Saturation Knob, Chow Tape Model, or TAL-Saturator and want to take the next step — here is what the paid tier actually offers over the free options, and when to actually pull the trigger on the upgrade.
-
-
 
 ## How to choose
 

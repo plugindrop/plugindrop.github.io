@@ -79,8 +79,6 @@ Where Serum rewards producers who want to get to a sound quickly through visual 
 
 ---
 
-
-
 ## Phase Plant Lite
 
 <!-- role:pick -->
@@ -104,8 +102,6 @@ Phase Plant Lite does not map onto Serum's workflow. It is a fundamentally diffe
 **Skip it if:** you specifically want to replicate Serum's layout — Phase Plant Lite is modular/build-your-own and doesn't map onto Serum's workflow, so Vital is the more transferable entry point.
 
 ---
-
-
 
 ## Helm
 
@@ -132,8 +128,6 @@ The honest context: active development on Helm stopped when Tytel shifted focus 
 [tytel.org (official)](https://tytel.org/helm/)
 
 ---
-
-
 
 ## Phase Plant
 
@@ -246,15 +240,17 @@ A: Phase Plant Lite limits which generator and effect modules are available in t
 
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
 
-
-
 ## How to choose
 
 <!-- role:choose -->
 
 Vital, Surge XT, Helm, Phase Plant Lite, and Serum each suit a different kind of producer, so the right pick depends on what matters most to the person choosing.
 
-A producer who wants a direct, no-cost replacement for Serum's workflow should choose Vital: its wavetable engine, modulation matrix, and visual interface are close enough to Serum's own that it serves as the natural first try for most people making this switch. Someone who wants the deepest free synthesizer available, and does not mind extra complexity, should choose Surge XT instead, since its hybrid oscillator architecture reaches synthesis types that Serum does not cover, and the open-source team behind it keeps expanding it. A producer who is new to synthesis and still building foundational knowledge should start with Helm before moving on to Vital, because Helm's simpler layout reduces the mental load of learning while the concepts it teaches carry over directly to Vital's fuller feature set. Anyone drawn to modular, build-your-own synthesis thinking should treat Phase Plant Lite as the right free entry point: its workflow is fundamentally different from Serum's, but it leads somewhere worthwhile for producers who find that design philosophy appealing. Finally, for anyone who specifically needs Serum's commercial preset ecosystem, the honest answer is that no free alternative reproduces it, and renting Serum through a monthly subscription is the practical route when that ecosystem is the actual requirement.
+A producer who wants a direct, no-cost replacement for Serum's workflow should choose Vital: its wavetable engine, modulation matrix, and visual interface are close enough to Serum's own that it serves as the natural first try for most people making this switch. Someone who wants the deepest free synthesizer available, and does not mind extra complexity, should choose Surge XT instead, since its hybrid oscillator architecture reaches synthesis types that Serum does not cover, and the open-source team behind it keeps expanding it.
+
+A producer who is new to synthesis and still building foundational knowledge should start with Helm before moving on to Vital, because Helm's simpler layout reduces the mental load of learning while the concepts it teaches carry over directly to Vital's fuller feature set. Anyone drawn to modular, build-your-own synthesis thinking should treat Phase Plant Lite as the right free entry point: its workflow is fundamentally different from Serum's, but it leads somewhere worthwhile for producers who find that design philosophy appealing.
+
+Finally, for anyone who specifically needs Serum's commercial preset ecosystem, the honest answer is that no free alternative reproduces it, and renting Serum through a monthly subscription is the practical route when that ecosystem is the actual requirement.
 
 ## FAQ
 

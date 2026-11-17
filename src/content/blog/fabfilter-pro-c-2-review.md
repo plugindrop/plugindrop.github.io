@@ -32,10 +32,6 @@ The plug-in is built to cover a broad range of compression needs. It can provide
 
 <!-- pick:Option -->
 
-
-
-
-
 ## FabFilter Pro-C 3
 
 <!-- role:pick -->
@@ -59,19 +55,11 @@ Last recorded sale: $149.00 on 2026-10-17.
 
 <!-- pick:Pro-C 3 free trial -->
 
-
-
-
-
 ## Existing FabFilter customers
 
 <!-- role:pick -->
 
 <!-- pick:Existing FabFilter customers -->
-
-
-
-
 
 ## Style
 
@@ -79,19 +67,11 @@ Last recorded sale: $149.00 on 2026-10-17.
 
 <!-- pick:Style -->
 
-
-
-
-
 ## Versatile
 
 <!-- role:pick -->
 
 <!-- pick:Versatile -->
-
-
-
-
 
 ## Smooth
 
@@ -99,19 +79,11 @@ Last recorded sale: $149.00 on 2026-10-17.
 
 <!-- pick:Smooth -->
 
-
-
-
-
 ## Vari-Mu
 
 <!-- role:pick -->
 
 <!-- pick:Vari-Mu -->
-
-
-
-
 
 ## El-Op / Op-El
 
@@ -119,19 +91,11 @@ Last recorded sale: $149.00 on 2026-10-17.
 
 <!-- pick:El-Op / Op-El -->
 
-
-
-
-
 ## Upward
 
 <!-- role:pick -->
 
 <!-- pick:Upward -->
-
-
-
-
 
 ## TTM
 
@@ -139,19 +103,11 @@ Last recorded sale: $149.00 on 2026-10-17.
 
 <!-- pick:TTM -->
 
-
-
-
-
 ## Feature
 
 <!-- role:pick -->
 
 <!-- pick:Feature -->
-
-
-
-
 
 ## Compression styles
 
@@ -159,19 +115,11 @@ Last recorded sale: $149.00 on 2026-10-17.
 
 <!-- pick:Compression styles -->
 
-
-
-
-
 ## Side chain EQ bands
 
 <!-- role:pick -->
 
 <!-- pick:Side chain EQ bands -->
-
-
-
-
 
 ## Character modes (Tube, Diode, Bright)
 
@@ -179,19 +127,11 @@ Last recorded sale: $149.00 on 2026-10-17.
 
 <!-- pick:Character modes (Tube, Diode, Bright) -->
 
-
-
-
-
 ## Dolby Atmos surround support
 
 <!-- role:pick -->
 
 <!-- pick:Dolby Atmos surround support -->
-
-
-
-
 
 ## Host tempo triggering
 
@@ -199,29 +139,17 @@ Last recorded sale: $149.00 on 2026-10-17.
 
 <!-- pick:Host tempo triggering -->
 
-
-
-
-
 ## Auto Threshold
 
 <!-- role:pick -->
 
 <!-- pick:Auto Threshold -->
 
-
-
-
-
 ## Instance List control from Pro-Q 4
 
 <!-- role:pick -->
 
 <!-- pick:Instance List control from Pro-Q 4 -->
-
-
-
-
 
 ## Verdict
 

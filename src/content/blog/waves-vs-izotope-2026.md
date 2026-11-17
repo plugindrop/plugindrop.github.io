@@ -166,7 +166,6 @@ We have not tested Ozone 12 hands-on.
 
 ---
 
-
 ## FAQ
 **Q: Is Waves or iZotope better for beginners?**
 A: iZotope's Neutron has an AI assistant and Ozone 12 has a Master Assistant, which suggest starting settings. The Waves plugins in this guide are individual hardware-style tools without that guided workflow. We have not tested either hands-on.

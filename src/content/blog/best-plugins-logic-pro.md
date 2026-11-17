@@ -68,8 +68,6 @@ TDR Nova combines a four-band parametric EQ with per-band dynamic compression in
 
 ---
 
-
-
 ## FabFilter Pro-C 3
 
 <!-- role:pick -->
@@ -109,8 +107,6 @@ MJUC jr. is the free limited version of Klanghelm's variable-mu compressor, and 
 
 ---
 
-
-
 ## OTT by Xfer Records
 
 <!-- role:pick -->
@@ -132,8 +128,6 @@ OTT is an extreme upward/downward multiband compressor that Xfer Records release
 [→ Get OTT Free](https://xferrecords.com/freeware)
 
 ---
-
-
 
 ## Valhalla VintageVerb
 
@@ -182,8 +176,6 @@ ValhallaDelay follows the same pricing model and quality floor as VintageVerb bu
 
 ---
 
-
-
 ## Serum
 
 <!-- role:pick -->
@@ -205,8 +197,6 @@ Serum is a wavetable synthesizer. Developer documentation confirms two main osci
 [→ Get Serum](https://xferrecords.com/products/serum-2)
 
 ---
-
-
 
 ## Vital
 
@@ -241,9 +231,15 @@ Vital is a free wavetable synthesizer and an alternative to Serum. Developer doc
 
 <!-- pick:u-he Diva -->
 
-u-he's Diva is an analog synth emulation that recreates, at the circuit level, the oscillator, filter, and envelope designs found in classic instruments such as the Minimoog, the Juno line, and Roland-style synth architectures, bringing that character together into one plugin. The developer's own documentation points to its Zero Delay Feedback filter modeling as central to how it reproduces that analog behavior, and the aim throughout is authentic, unrivaled analog sound rather than a stripped-down approximation. Compared with the previous version, this release runs noticeably lighter on the processor, cutting CPU load by as much as 40 percent, and it adds multithreading support so modern multi-core CPUs can handle more simultaneous voices without bogging down. The preset library has also grown, offering an even larger collection of organic-sounding starting points for sound design. The interface window can now be resized, with additional visual skins planned as a future addition.
+u-he's Diva is an analog synth emulation that recreates, at the circuit level, the oscillator, filter, and envelope designs found in classic instruments such as the Minimoog, the Juno line, and Roland-style synth architectures, bringing that character together into one plugin. The developer's own documentation points to its Zero Delay Feedback filter modeling as central to how it reproduces that analog behavior, and the aim throughout is authentic, unrivaled analog sound rather than a stripped-down approximation.
 
-Even with those efficiency gains, Diva still asks more of a computer than lighter, more modern instruments like Serum or Vital, so it remains comparatively demanding to run. It's built for producers who want genuinely analog-feeling tone for basses, pads, and leads and are willing to trade some convenience and processing headroom for that character, rather than those who prioritize the lowest possible CPU footprint. It runs on both Mac and Windows systems, with macOS support covering OS X 10.9 and newer on both Intel and Apple M1 chips, and Windows support covering Windows 7 and newer in both 32-bit and 64-bit versions, with at least 1GB of RAM recommended. It's distributed in VST, VST3, AU, and AAX plugin formats, making it compatible with the major production hosts on both platforms.
+Compared with the previous version, this release runs noticeably lighter on the processor, cutting CPU load by as much as 40 percent, and it adds multithreading support so modern multi-core CPUs can handle more simultaneous voices without bogging down. The preset library has also grown, offering an even larger collection of organic-sounding starting points for sound design.
+
+The interface window can now be resized, with additional visual skins planned as a future addition.
+
+Even with those efficiency gains, Diva still asks more of a computer than lighter, more modern instruments like Serum or Vital, so it remains comparatively demanding to run. It's built for producers who want genuinely analog-feeling tone for basses, pads, and leads and are willing to trade some convenience and processing headroom for that character, rather than those who prioritize the lowest possible CPU footprint.
+
+It runs on both Mac and Windows systems, with macOS support covering OS X 10.9 and newer on both Intel and Apple M1 chips, and Windows support covering Windows 7 and newer in both 32-bit and 64-bit versions, with at least 1GB of RAM recommended. It's distributed in VST, VST3, AU, and AAX plugin formats, making it compatible with the major production hosts on both platforms.
 
 | Tracked price | $179.00 |
 |---|---|
@@ -274,8 +270,6 @@ Neutron 4's Mix Assistant function listens to your full mix, identifies frequenc
 
 ---
 
-
-
 ## Soothe2 by oeksound
 
 <!-- role:pick -->
@@ -297,8 +291,6 @@ Soothe2 automatically detects and attenuates problematic resonant frequencies in
 [→ Get Soothe2](https://oeksound.com/plugins/soothe2/)
 
 ---
-
-
 
 ## Soundtoys Decapitator
 
@@ -339,15 +331,17 @@ Fresh Air is a two-control high-frequency enhancer — "Air" and "Presence" — 
 
 ---
 
-
-
 ## Soundtoys EchoBoy
 
 <!-- role:pick -->
 
 <!-- pick:Soundtoys EchoBoy -->
 
-EchoBoy is a delay plugin from Soundtoys built around the idea that it can do more than Logic's built-in tape echo. It's modeled on the behavior of real hardware delay units, drawing on the lineage of the Echoplex tape echo through later digital rack delays, and it offers around 30 different delay styles pulled from that history. A standout control lets the user shape the tone of each individual repeat, which changes how the delay trail degrades and colors itself as it repeats — useful for the kind of delay work that's meant to be heard and felt rather than hidden in the background. This makes it a strong fit for dub, hip-hop, ambient, and electronic styles, where delay often functions as a lead creative tool rather than a subtle effect, and it generally brings more character and personality to a delay sound than what Logic's stock Echo provides. It runs only on macOS, which lines up naturally with a Logic Pro workflow, much like other Mac-only tools of its kind. Overall, it's best suited for situations where a creative, characterful delay with the feel of real hardware is the priority over a clean, utilitarian echo.
+EchoBoy is a delay plugin from Soundtoys built around the idea that it can do more than Logic's built-in tape echo. It's modeled on the behavior of real hardware delay units, drawing on the lineage of the Echoplex tape echo through later digital rack delays, and it offers around 30 different delay styles pulled from that history.
+
+A standout control lets the user shape the tone of each individual repeat, which changes how the delay trail degrades and colors itself as it repeats — useful for the kind of delay work that's meant to be heard and felt rather than hidden in the background. This makes it a strong fit for dub, hip-hop, ambient, and electronic styles, where delay often functions as a lead creative tool rather than a subtle effect, and it generally brings more character and personality to a delay sound than what Logic's stock Echo provides.
+
+It runs only on macOS, which lines up naturally with a Logic Pro workflow, much like other Mac-only tools of its kind. Overall, it's best suited for situations where a creative, characterful delay with the feel of real hardware is the priority over a clean, utilitarian echo.
 
 | Tracked price | $199.00 |
 |---|---|

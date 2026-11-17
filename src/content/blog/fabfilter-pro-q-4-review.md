@@ -52,8 +52,6 @@ FabFilter's UI design philosophy is unchanged and still unmatched in its categor
 
 The built-in Piano Roll display maps EQ band positions against musical notes, which is genuinely useful when targeting resonant fundamentals or harmonics by ear. Snap-to-note functionality makes harmonic EQing — increasingly standard in modern production — accessible without referencing frequency charts.
 
-
-
 ## Three Processing Modes for Every Situation
 
 <!-- role:pick -->
@@ -72,8 +70,6 @@ Pro-Q 4 offers three distinct operating modes:
 
 Switching between modes is a single click, the difference is audible on full mixes, and very few competitors offer this level of granularity.
 
-
-
 ## Dynamic EQ: The Feature That Changes the Calculus
 
 <!-- role:pick -->
@@ -84,8 +80,6 @@ Dynamic EQ: The Feature That Changes the Calculus
 
 Each of Pro-Q 4's 24 bands can operate in static or dynamic mode. In dynamic mode, you define a threshold, range, and attack/release — the band becomes a frequency-targeted compressor or expander. A 5 dB cut on a harsh 3 kHz resonance that only engages when a vocal pushes louder is cleaner and more transparent than a static notch sitting there all the time. Dynamic EQ was once the territory of dedicated plugins costing as much as Pro-Q 4 alone. Having it inside your primary EQ — already instantiated on every channel — removes friction and eliminates an extra plugin instance from the chain.
 
-
-
 ## EQ Match and Spectrum Grab
 
 <!-- role:pick -->
@@ -95,8 +89,6 @@ Each of Pro-Q 4's 24 bands can operate in static or dynamic mode. In dynamic mod
 EQ Match and Spectrum Grab
 
 The EQ Match feature analyzes the spectral difference between two audio signals and generates filter bands to match one to the other. It's a practical tool for referencing a mix against a commercial track or matching tonality across multiple microphones on the same source. The results require editorial judgment — it generates a starting point, not a finished curve — but that starting point is often far closer than a blank slate.
-
-
 
 ## Collision Detection Across the Session
 
@@ -120,8 +112,6 @@ Load Pro-Q 4 on multiple channels and enable spectrum display across instances. 
 
 ---
 
-
-
 ## TDR Nova
 
 <!-- role:pick -->
@@ -142,8 +132,6 @@ TDR Nova is genuinely strong for a free plugin and the closest free alternative 
 
 [Free Download](https://www.tokyodawn.net/tdr-nova/)
 
-
-
 ## DMG Audio EQuality
 
 <!-- role:pick -->
@@ -163,8 +151,6 @@ EQuality uses analog-modeled filter curves and has a dedicated following among e
 **Best for:** Engineers who specifically want analog filter character paired with strong CPU performance.
 
 [→ Get DMG Audio EQuality on Plugin Boutique](https://www.pluginboutique.com/search?q=DMG%20Audio%20EQuality&a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-review)
-
-
 
 ## iZotope Neutron
 
@@ -187,8 +173,6 @@ Neutron's EQ module includes AI-generated band suggestions, session-level maskin
 [→ Get iZotope Neutron on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/13502-Neutron-5?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-q-4-review)
 
 ---
-
-
 
 ## FabFilter Total Bundle
 

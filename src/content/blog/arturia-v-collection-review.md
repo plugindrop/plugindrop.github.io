@@ -44,8 +44,6 @@ Analog Lab V is the front-end browser that ties the entire collection together. 
 
 These are the instruments most producers buy the collection for — the emulations of hardware that defined pop, rock, ambient, and film music from the 1970s onward.
 
-
-
 ## Prophet-5 V
 
 <!-- role:pick -->
@@ -67,8 +65,6 @@ Arturia's Prophet-5 V captures both the Rev 3.2 and Rev 3.3 circuit behaviors, i
 [→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review)
 
 ---
-
-
 
 ## CS-80 V
 
@@ -92,8 +88,6 @@ The Yamaha CS-80 is the most sonically complex polysynth ever built, and Arturia
 
 ---
 
-
-
 ## OB-Xa V
 
 <!-- role:pick -->
@@ -115,8 +109,6 @@ The Oberheim OB-Xa's defining characteristic is its chorus — thick, slightly d
 [→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review)
 
 ---
-
-
 
 ## Mini V4
 
@@ -140,8 +132,6 @@ Version 4 of Arturia's Minimoog model added a polyphonic mode and an expanded mo
 
 ---
 
-
-
 ## ARP 2600 V
 
 <!-- role:pick -->
@@ -163,8 +153,6 @@ The ARP 2600 is a semi-modular system with a built-in spring reverb and a signal
 [→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review)
 
 ---
-
-
 
 ## Acid V
 
@@ -188,8 +176,6 @@ Roland's TB-303 has spawned hundreds of emulations but few capture the specific 
 
 ---
 
-
-
 ## Stage-73 V
 
 <!-- role:pick -->
@@ -211,8 +197,6 @@ Arturia models the Rhodes Stage 73 tine behavior with velocity-sensitive bark, s
 [→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review)
 
 ---
-
-
 
 ## B-3 V3
 
@@ -236,8 +220,6 @@ B-3 V3 models the Hammond B-3's tonewheel generator system, including crosstalk,
 
 ---
 
-
-
 ## CMI V
 
 <!-- role:pick -->
@@ -260,8 +242,6 @@ Arturia's CMI V captures its 8-bit sampling character, its Page R sequencer work
 
 ---
 
-
-
 ## DX7 V
 
 <!-- role:pick -->
@@ -283,8 +263,6 @@ The Yamaha DX7's 6-operator FM architecture is notoriously difficult to program 
 [→ Get Arturia V Collection 11 on Plugin Boutique](https://www.pluginboutique.com/search?q=V+Collection+11&a_aid=69cb95abe1763&chan=art&data1=arturia-v-collection-review)
 
 ---
-
-
 
 ## Arturia V Collection 11
 
@@ -377,8 +355,6 @@ Arturia V Collection 11 remains the most comprehensive and musically credible vi
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
 
 This article brings together publicly available product information. We have not tested the product hands-on. Prices come from PluginDrop's tracking. See our [editorial policy](/editorial-policy/) for how we assess sources.
-
-
 
 ## Verdict
 

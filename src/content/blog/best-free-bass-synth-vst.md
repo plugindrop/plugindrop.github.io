@@ -48,8 +48,6 @@ The open-source development model means updates ship faster than most commercial
 
 ---
 
-
-
 ## Vital
 
 <!-- role:pick -->
@@ -103,8 +101,6 @@ If your production touches acid house, techno, or any genre rooted in sequenced 
 
 ---
 
-
-
 ## Helm
 
 <!-- role:pick -->
@@ -126,8 +122,6 @@ Helm is a virtual-analog synthesizer with two oscillators, a dedicated sub-oscil
 [tytel.org (official)](https://tytel.org/helm/)
 
 ---
-
-
 
 ## OB-Xd
 
@@ -151,8 +145,6 @@ OB-Xd is a faithful emulation of the Oberheim OB-X architecture, characterized b
 
 ---
 
-
-
 ## Dexed
 
 <!-- role:pick -->
@@ -174,8 +166,6 @@ Dexed is a six-operator FM synthesizer modeled on the Yamaha DX7 architecture. I
 [→ Download Dexed Free](https://github.com/asb2m10/dexed)
 
 ---
-
-
 
 ## Odin 2
 
@@ -199,8 +189,6 @@ Odin 2 is a semi-modular synthesizer with three oscillator slots supporting mult
 
 ---
 
-
-
 ## ZebraLette 3
 
 <!-- role:pick -->
@@ -220,8 +208,6 @@ ZebraLette 3 is u-he's free single-oscillator spectral synthesizer — a deliber
 **Best for:** Harmonically complex bass, cinematic low-end, and producers who want precise spectral control over bass timbre.
 
 ---
-
-
 
 ## Podolski
 
@@ -245,8 +231,6 @@ Podolski is a single-oscillator monosynth from u-he with a built-in arpeggiator 
 
 ---
 
-
-
 ## Triple Cheese
 
 <!-- role:pick -->
@@ -269,8 +253,6 @@ Triple Cheese uses three comb filters as its primary sound source instead of con
 
 ---
 
-
-
 ## Scaler 2
 
 <!-- role:pick -->
@@ -286,8 +268,6 @@ Scaler 2 — Elevate your bass line composition
 [→ Get Scaler 2 on Plugin Boutique](https://www.pluginboutique.com/product/3-Studio-Tools/70-Utility/6439-Scaler-2?a_aid=69cb95abe1763&chan=art&data1=best-free-bass-synth-vst)
 
 ---
-
-
 
 ## u-he Tyrell N6
 
@@ -360,8 +340,6 @@ Surge XT is the first free bass synth to install in 2026 — work through its os
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
 
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
-
-
 
 ## How to choose
 

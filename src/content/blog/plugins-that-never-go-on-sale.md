@@ -25,7 +25,9 @@ TL;DR: Price history has been tracked across a wide range of plugins and bundles
 
 Price history has been tracked on 254 plugins and bundles across every major store, and about a dozen of them have never shown a documented price cut — no sale turns up anywhere in that history. Anyone with one of these on a wishlist doesn't need to wait for a seasonal sale: the price shown today is likely the same price that will be shown months from now.
 
-A handful of reverb and delay effects sold directly by their maker have never been discounted, by that company's own stated approach, so they can be bought whenever they're needed. A widely used synthesizer plugin shows no promotions anywhere in the tracked record, making it safe to buy at any time. A large orchestral and sound-design instrument library has likewise never shown a promotional sale. A companion keyboard and sound library has been marked down only in a very minor way on rare occasions, so its listed price is effectively the real price. Two compression tools from the same smaller developer have no sales on record at all. A professional pitch-correction and audio-editing tool has never run a time-limited sale either.
+A handful of reverb and delay effects sold directly by their maker have never been discounted, by that company's own stated approach, so they can be bought whenever they're needed. A widely used synthesizer plugin shows no promotions anywhere in the tracked record, making it safe to buy at any time. A large orchestral and sound-design instrument library has likewise never shown a promotional sale.
+
+A companion keyboard and sound library has been marked down only in a very minor way on rare occasions, so its listed price is effectively the real price. Two compression tools from the same smaller developer have no sales on record at all. A professional pitch-correction and audio-editing tool has never run a time-limited sale either.
 
 A popular equalizer plugin was seen marked down once recently at a specific online retailer, but that doesn't appear to be part of any regular or repeating sale pattern, so prices are worth comparing before buying rather than assuming a discount will return. A well-known sampler instrument has no confirmed recurring sale schedule for its full license. A pair of mixing and mastering tools from one developer are sold only directly, with no sales history at all. A tape-emulation plugin shows no sale anywhere in the tracked record. Two plugins from a smaller developer also have no confirmed sale price on record, even though that same developer runs frequent flash sales on its other products.
 
@@ -36,10 +38,6 @@ Full price history and purchase links for each of these plugins can be checked i
 <!-- role:pick -->
 
 <!-- pick:Valhalla DSP -->
-
-
-
-
 
 ## Serum 2
 
@@ -98,8 +96,6 @@ Klanghelm MJUC and DC8C mkII — stable prices, no markdowns
 
 The price has crept up slowly over the years rather than moving through markdowns — MJUC jr, the free sibling of MJUC, is the only "deal" Klanghelm offers.
 
-
-
 ## Celemony Melodyne 5 Studio
 
 <!-- role:pick -->
@@ -142,7 +138,9 @@ Last recorded sale: $105.00 on 2025-11-22.
 
 <!-- pick:Native Instruments Kontakt 8 -->
 
-Native Instruments Kontakt 8 brings a full update to the long-running sampling platform, built around three new creative tools alongside the familiar sample engine. Conflux is the standout addition, blending organic recorded samples with synth-style oscillators—including wavetable, FM, and ring modulation—so you can reshape sounds in real time rather than just trigger fixed samples. Leap works as a loop and sample player with built-in manipulation controls, and it comes paired with twelve genre-specific expansion packs covering styles such as Afrobeats, Latin Trap, Platinum Pop, Progressive Trance, and Soul Gold, making it useful for sound design work as well as material aimed squarely at trap and pop production. Rounding out the toolset, the Chords and Phrases tools generate MIDI melodies and sequences with built-in randomization, giving you a quick way to sketch out musical ideas before committing to a full arrangement.
+Native Instruments Kontakt 8 brings a full update to the long-running sampling platform, built around three new creative tools alongside the familiar sample engine. Conflux is the standout addition, blending organic recorded samples with synth-style oscillators—including wavetable, FM, and ring modulation—so you can reshape sounds in real time rather than just trigger fixed samples.
+
+Leap works as a loop and sample player with built-in manipulation controls, and it comes paired with twelve genre-specific expansion packs covering styles such as Afrobeats, Latin Trap, Platinum Pop, Progressive Trance, and Soul Gold, making it useful for sound design work as well as material aimed squarely at trap and pop production. Rounding out the toolset, the Chords and Phrases tools generate MIDI melodies and sequences with built-in randomization, giving you a quick way to sketch out musical ideas before committing to a full arrangement.
 
 Underpinning all of this is the Kontakt 8 Factory Library 2, which now ships with more than 900 instruments, and the package continues to serve as a platform for the vast ecosystem of third-party sample-based instruments built on Kontakt. Hardware integration remains a core feature, with seamless support for Kontrol keyboards and Maschine controllers, and the instrument-building tools themselves have been improved for anyone creating their own custom instruments within the platform.
 
@@ -164,8 +162,6 @@ On the system side, Mac users need macOS 12, 13, or 14 with the latest update, r
 DMG Audio EQuilibrium and Limitless — no discounting pattern
 
 DMG's general practice is to discount a product briefly during its first month on the market, then hold price — which means by the time most people hear about a DMG plugin, that window has already closed.
-
-
 
 ## Wavesfactory Cassette
 
@@ -215,8 +211,6 @@ A: Not on a recurring basis. Our price history shows only isolated legacy data p
 Check current prices and full history for any plugin at [PluginDrop's price tracker](/plugin-prices/), or see which plugins go the other way — deep, frequent discounts — in [Plugins You Should Never Pay Full Price For](/posts/plugins-never-pay-full-price/).
 
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
-
-
 
 ## How to choose
 

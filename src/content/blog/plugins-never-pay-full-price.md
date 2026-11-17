@@ -36,8 +36,6 @@ A list price only means something if people actually pay it. For the products co
 
 Waves runs sales often enough that "waiting for a sale" barely describes the behavior — it's closer to "waiting a few days."
 
-
-
 ## Plugin Alliance
 
 <!-- role:pick -->
@@ -45,8 +43,6 @@ Waves runs sales often enough that "waiting for a sale" barely describes the beh
 <!-- pick:Plugin Alliance -->
 
 See the bx_console SSL 4000E price history if you want to check whether the promo is live right now.
-
-
 
 ## iZotope
 
@@ -57,8 +53,6 @@ See the bx_console SSL 4000E price history if you want to check whether the prom
 iZotope — 50%+ off is the norm, not the exception
 
 iZotope runs these discounts often enough — summer, fall, and Black Friday — that a full-price purchase usually means bad timing rather than no alternative.
-
-
 
 ## UAD 1176 Classic Limiter Collection
 
@@ -87,8 +81,6 @@ Soundtoys — the flagship bundle and the singles both drop hard
 
 If you only need one or two Soundtoys plugins rather than the whole bundle, the singles discount just as aggressively.
 
-
-
 ## NI Komplete 15 Ultimate
 
 <!-- role:pick -->
@@ -113,8 +105,6 @@ Last recorded sale: $266.00 on 2024-11-28.
 Softube — up to 75% off the premium single plugins
 
 These aren't isolated incidents — Softube runs several named sale events a year ("Releases Rewind," Summer Sale, Black Friday), and the discount depth is consistent across all of them.
-
-
 
 ## Sonnox Oxford Inflator
 
@@ -153,7 +143,11 @@ Last recorded sale: $39.00 on 2026-11-15.
 
 **Waves Platinum and Gold Bundles**
 
-Waves advertises a high list price for the Platinum Bundle, but the amount it actually sells for rarely matches that figure. Across repeated checks spanning several months, the bundle consistently showed up at a steep discount, with only an occasional check landing anywhere close to the stated list price — and even then, not at the full amount. Anyone considering the purchase should check the current live price rather than assume the listed figure is what they'll actually pay. The Gold Bundle follows the same pattern on a smaller scale: its stated price sits well above what flash sales bring it down to, and one particularly low price point has been recorded as its floor. Waves runs promotional sales often enough that waiting for a lower price isn't really waiting for a rare event — it's closer to waiting a short while for the next one to come around.
+Waves advertises a high list price for the Platinum Bundle, but the amount it actually sells for rarely matches that figure. Across repeated checks spanning several months, the bundle consistently showed up at a steep discount, with only an occasional check landing anywhere close to the stated list price — and even then, not at the full amount.
+
+Anyone considering the purchase should check the current live price rather than assume the listed figure is what they'll actually pay. The Gold Bundle follows the same pattern on a smaller scale: its stated price sits well above what flash sales bring it down to, and one particularly low price point has been recorded as its floor.
+
+Waves runs promotional sales often enough that waiting for a lower price isn't really waiting for a rare event — it's closer to waiting a short while for the next one to come around.
 
 **UAD 1176 Classic Limiter Collection**
 

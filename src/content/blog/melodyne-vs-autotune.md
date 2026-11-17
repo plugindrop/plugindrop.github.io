@@ -46,8 +46,6 @@ Melodyne treats audio as a collection of individual note "blobs" that you can se
 
 ---
 
-
-
 ## Auto-Tune Pro
 
 <!-- role:pick -->
@@ -70,8 +68,6 @@ Auto-Tune Pro operates in two modes: Auto mode (real-time, always-on correction 
 
 ---
 
-
-
 ## Transparency and Natural Sound
 
 <!-- role:pick -->
@@ -83,8 +79,6 @@ Transparency and Natural Sound — **Winner: Melodyne**
 When the goal is correction that no one hears, Melodyne's object-based approach gives you more control with fewer artifacts. You're moving individual pitch objects, not processing audio through a continuous detection algorithm. For classical, folk, acoustic guitar, or any genre where "tuned" needs to mean "sounds human," Melodyne's correction is consistently more transparent.
 
 Auto-Tune's Graph mode can achieve clean results too, but its Auto mode — even at fast retune speeds — introduces subtle artifacts on sustained notes and consonants that trained ears catch. For anything where the processing must be invisible, Melodyne is the safer call.
-
-
 
 ## Real-Time Workflow
 
@@ -98,8 +92,6 @@ Auto-Tune runs in your signal chain live. You can monitor pitch correction while
 
 Melodyne with ARA2 is far more streamlined than the old "transfer audio" method, but it is still an editor you open separately from the main timeline view. It's built for post-production editing sessions, not live signal processing. If you need something that just runs — always on, low-friction — Auto-Tune is faster to set up and simpler to maintain.
 
-
-
 ## Polyphonic Audio Editing
 
 <!-- role:pick -->
@@ -112,8 +104,6 @@ This isn't close. Melodyne's DNA technology is one of the most impressive feats 
 
 Auto-Tune works on monophonic signals. It cannot process polyphonic audio in any meaningful way. If your sessions regularly involve acoustic instruments, layered recorded performances, or anything beyond single-note vocals, Melodyne has capabilities that Auto-Tune simply does not have.
 
-
-
 ## The "Auto-Tune Effect"
 
 <!-- role:pick -->
@@ -125,8 +115,6 @@ The "Auto-Tune Effect" — **Winner: Auto-Tune Pro (Melodyne cannot replicate th
 The stepped, quantized vocal sound that defined a generation of pop music is only achievable in Auto-Tune. Setting the retune speed to zero and the scale to a pentatonic or diatonic key gives you the snapping, robotic effect that Cher, T-Pain, and every major pop artist since 2008 have used. This is not a workaround or approximation — it is the original tool that created that sound.
 
 Melodyne can produce pitch effects, but it cannot replicate the real-time, continuous retune artifact that makes Auto-Tune's effect sound the way it does. If that sound is part of your aesthetic, Melodyne is the wrong purchase.
-
-
 
 ## Value and Tiered Entry
 
@@ -141,8 +129,6 @@ Melodyne Essential is sufficient for basic monophonic vocal correction. Editor a
 Auto-Tune Pro is sold as one full-featured product with a perpetual license or subscription. There is no cheaper entry point for the Pro feature set. If you only need basic correction without Graph mode's advanced features, the price point feels steep compared to Melodyne Essential.
 
 ---
-
-
 
 ## Celemony Melodyne 5 (Editor or Studio)
 
@@ -159,8 +145,6 @@ Celemony Melodyne 5 (Editor or Studio) — Full polyphonic editing unlocked
 [Get Celemony Melodyne 5](https://www.pluginboutique.com/search?q=Celemony+Melodyne+5&a_aid=69cb95abe1763&chan=art&data1=melodyne-vs-autotune)
 
 ---
-
-
 
 ## Verdict
 

@@ -17,7 +17,9 @@ Film scoring calls for two different kinds of tools: realistic orchestral sample
 
 <!-- role:intro -->
 
-Film scoring calls for two different kinds of tools working together: realistic orchestral sample libraries for traditional composing, and sound design instruments for the layered, hybrid cinematic textures that modern scores tend to favor. On the orchestral side, Spitfire's BBC Symphony Orchestra and EastWest's Hollywood Orchestra form a solid foundation, each known for detailed, convincing string and brass writing. On the texture and atmosphere side, instruments like Omnisphere and the Native Instruments Komplete bundle, together with Valhalla's reverb plugins, give composers the tools to build space and sonic depth around the orchestral core. Finally, iZotope RX addresses the practical, less glamorous side of film work: cleaning up and repairing dialogue and real-world recordings so they sit properly alongside the score.
+Film scoring calls for two different kinds of tools working together: realistic orchestral sample libraries for traditional composing, and sound design instruments for the layered, hybrid cinematic textures that modern scores tend to favor. On the orchestral side, Spitfire's BBC Symphony Orchestra and EastWest's Hollywood Orchestra form a solid foundation, each known for detailed, convincing string and brass writing.
+
+On the texture and atmosphere side, instruments like Omnisphere and the Native Instruments Komplete bundle, together with Valhalla's reverb plugins, give composers the tools to build space and sonic depth around the orchestral core. Finally, iZotope RX addresses the practical, less glamorous side of film work: cleaning up and repairing dialogue and real-world recordings so they sit properly alongside the score.
 
 ## Spitfire BBC Symphony Orchestra
 
@@ -25,19 +27,11 @@ Film scoring calls for two different kinds of tools working together: realistic 
 
 <!-- pick:Spitfire BBC Symphony Orchestra -->
 
-
-
-
-
 ## EastWest Hollywood Orchestra
 
 <!-- role:pick -->
 
 <!-- pick:EastWest Hollywood Orchestra -->
-
-
-
-
 
 ## Native Instruments Komplete 26 Standard
 
@@ -45,27 +39,17 @@ Film scoring calls for two different kinds of tools working together: realistic 
 
 <!-- pick:Native Instruments Komplete 26 Standard -->
 
-
-
-
-
 ## Omnisphere 2
 
 <!-- role:pick -->
 
 <!-- pick:Omnisphere 2 -->
 
-
-
-
-
 ## Valhalla VintageVerb
 
 <!-- role:pick -->
 
 <!-- pick:Valhalla VintageVerb -->
-
-
 
 | Tracked price | $50.00 |
 |---|---|
@@ -77,8 +61,6 @@ Film scoring calls for two different kinds of tools working together: realistic 
 <!-- role:pick -->
 
 <!-- pick:Valhalla Room -->
-
-
 
 | Tracked price | $50.00 |
 |---|---|
@@ -113,10 +95,6 @@ Last recorded sale: $105.00 on 2025-11-22.
 <!-- role:pick -->
 
 <!-- pick:iZotope RX -->
-
-
-
-
 
 ## How to choose
 

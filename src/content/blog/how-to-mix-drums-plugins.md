@@ -30,9 +30,11 @@ FabFilter Pro-Q 4 is an equalizer plug-in offering up to 24 bands of control. Wh
 
 <!-- role:howto -->
 
+**TL;DR:** For drum mixing in 2026, FabFilter Pro-Q 4 handles the surgical EQ work that defines clarity and punch, while the Waves SSL G-Master Buss Compressor delivers the bus glue that holds a kit together. Start with those two, add Transient Master for punch shaping, and grab OTT free for parallel density in electronic contexts — that chain covers every major drum mixing scenario.
 
+Overcompressed kick drums with clamped transients and boosted mud at 250Hz are a staple of amateur mixes not because producers lack talent, but because the workflow is wrong. The correct sequence — clean, shape, glue, enhance — is the framework professional drum mixing is built on, and knowing which plugins serve each role is more important than any single plugin choice.
 
-**TL;DR:** For drum mixing in 2026, FabFilter Pro-Q 4 handles the surgical EQ work that defines clarity and punch, while the Waves SSL G-Master Buss Compressor delivers the bus glue that holds a kit together. Start with those two, add Transient Master for punch shaping, and grab OTT free for parallel density in electronic contexts — that chain covers every major drum mixing scenario. Overcompressed kick drums with clamped transients and boosted mud at 250Hz are a staple of amateur mixes not because producers lack talent, but because the workflow is wrong. The correct sequence — clean, shape, glue, enhance — is the framework professional drum mixing is built on, and knowing which plugins serve each role is more important than any single plugin choice. This guide covers four tools for mixing drums with VST plugins in 2026, explains where in the signal chain each belongs, and gives you the workflow logic to use them without guessing. This guide is for producers who already understand the basics — you know what a compressor does, you've mixed drums before — but want to understand the *reasoning* behind the tool choices that make drum mixes sound controlled rather than just processed. ---
+This guide covers four tools for mixing drums with VST plugins in 2026, explains where in the signal chain each belongs, and gives you the workflow logic to use them without guessing. This guide is for producers who already understand the basics — you know what a compressor does, you've mixed drums before — but want to understand the *reasoning* behind the tool choices that make drum mixes sound controlled rather than just processed. ---
 
 ## The Drum Mixing Signal Chain
 
@@ -47,7 +49,11 @@ Each plugin in this guide occupies one of these four roles. Using them in this o
 
 ## Step 1: Surgical EQ — Remove Problems Before They Compound
 
-Cutting before boosting is a principle that has survived every trend cycle in music production. On drums, the most damaging frequencies are the ones producers struggle to hear clearly: 200–400Hz mud on kick and snare, buildup in the 1–3kHz range on toms, and resonant peaks in room mics that turn a live-sounding kit into a washy mess. The dynamic EQ capability lets you cut a snare's 2kHz resonance only when it's actually resonating, rather than applying a static cut that kills the snare's character on softer hits. The collision detection displays frequency content from other tracks, making it practical to EQ kick and snare *relative to each other* rather than in isolation. Developer documentation confirms linear phase mode for when phase coherence across a stereo drum bus matters, alongside a zero-latency natural phase mode for tracking or low-latency mixing scenarios. **Best for:** Kick mud removal, snare resonance control, tom high-passing, room mic cleanup
+Cutting before boosting is a principle that has survived every trend cycle in music production. On drums, the most damaging frequencies are the ones producers struggle to hear clearly: 200–400Hz mud on kick and snare, buildup in the 1–3kHz range on toms, and resonant peaks in room mics that turn a live-sounding kit into a washy mess.
+
+The dynamic EQ capability lets you cut a snare's 2kHz resonance only when it's actually resonating, rather than applying a static cut that kills the snare's character on softer hits. The collision detection displays frequency content from other tracks, making it practical to EQ kick and snare *relative to each other* rather than in isolation.
+
+Developer documentation confirms linear phase mode for when phase coherence across a stereo drum bus matters, alongside a zero-latency natural phase mode for tracking or low-latency mixing scenarios. **Best for:** Kick mud removal, snare resonance control, tom high-passing, room mic cleanup
 
 [→ Get FabFilter Pro-Q 4 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=69cb95abe1763&chan=art&data1=how-to-mix-drums-plugins)
 
@@ -55,7 +61,11 @@ Cutting before boosting is a principle that has survived every trend cycle in mu
 
 ## Step 2: Transient Control — Define Punch Before You Compress
 
-Transient shaping belongs *before* bus compression in the drum mixing chain because compression amplifies whatever transient character already exists. Shaping a kick drum's attack and tail before the bus compressor sees it means you're telling the compressor exactly what kind of signal to glue — not hoping compression accidentally creates the punch you wanted. With nothing else to adjust, it makes clear what transient shaping does. Increasing Attack tightens the front edge of a kick or snare hit; decreasing Sustain shortens the tail without the pumping artifacts a fast-releasing compressor introduces. Native Instruments' documentation describes it as operating with an internal parallel architecture, which contributes to why heavy settings don't destroy the natural character of the source. For a standard rock or hip-hop drum mix, one workflow is a mild Attack increase on the kick (+2 to +4) and a Sustain reduction on toms to prevent room bleed from washing into the next beat. **Best for:** Kick click/punch balance, snare snap control, tom ring management
+Transient shaping belongs *before* bus compression in the drum mixing chain because compression amplifies whatever transient character already exists. Shaping a kick drum's attack and tail before the bus compressor sees it means you're telling the compressor exactly what kind of signal to glue — not hoping compression accidentally creates the punch you wanted.
+
+With nothing else to adjust, it makes clear what transient shaping does. Increasing Attack tightens the front edge of a kick or snare hit; decreasing Sustain shortens the tail without the pumping artifacts a fast-releasing compressor introduces. Native Instruments' documentation describes it as operating with an internal parallel architecture, which contributes to why heavy settings don't destroy the natural character of the source.
+
+For a standard rock or hip-hop drum mix, one workflow is a mild Attack increase on the kick (+2 to +4) and a Sustain reduction on toms to prevent room bleed from washing into the next beat. **Best for:** Kick click/punch balance, snare snap control, tom ring management
 
 [→ Get Transient Master](https://www.native-instruments.com/en/products/komplete/effects/transient-master/)
 
@@ -63,7 +73,11 @@ Transient shaping belongs *before* bus compression in the drum mixing chain beca
 
 ## Step 3: Bus Compression — Glue the Kit Into One Object
 
-Once individual elements are cleaned and shaped, the drum bus compressor's job is to make the whole kit feel like one instrument rather than separate tracks playing simultaneously. This "glue" comes from the compressor responding to the loudest elements (usually kick) and subtly reducing the rest of the kit in relation, creating a unified dynamic envelope across the bus. Its Auto release mode adapts to the tempo and density of the material, which can reduce pumping artifacts without requiring manual release time adjustment. The plugin models the SSL 4000 G-series hardware bus compressor. One starting point for drum bus work is a 4:1 ratio, 10–30ms attack to preserve transients, Auto release, and 2–4dB of gain reduction. The Fade switch engages the original hardware fader circuit behavior. **Best for:** Drum bus cohesion, parallel compression, live kit glue
+Once individual elements are cleaned and shaped, the drum bus compressor's job is to make the whole kit feel like one instrument rather than separate tracks playing simultaneously. This "glue" comes from the compressor responding to the loudest elements (usually kick) and subtly reducing the rest of the kit in relation, creating a unified dynamic envelope across the bus.
+
+Its Auto release mode adapts to the tempo and density of the material, which can reduce pumping artifacts without requiring manual release time adjustment. The plugin models the SSL 4000 G-series hardware bus compressor. One starting point for drum bus work is a 4:1 ratio, 10–30ms attack to preserve transients, Auto release, and 2–4dB of gain reduction.
+
+The Fade switch engages the original hardware fader circuit behavior. **Best for:** Drum bus cohesion, parallel compression, live kit glue
 
 [→ Get Waves SSL G-Master Buss Compressor](https://www.waves.com/plugins/ssl-g-master-buss-compressor)
 
@@ -131,7 +145,6 @@ The drum mixing workflow this guide covers — EQ, transient shaping, bus compre
 
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources. <!-- pd:method:end -->
 
-
 ## FabFilter Pro-Q 4
 
 <!-- role:pick -->
@@ -181,8 +194,6 @@ For a standard rock or hip-hop drum mix, one workflow is a mild Attack increase 
 
 Once individual elements are cleaned and shaped, the drum bus compressor's job is to make the whole kit feel like one instrument rather than separate tracks playing simultaneously. This "glue" comes from the compressor responding to the loudest elements (usually kick) and subtly reducing the rest of the kit in relation, creating a unified dynamic envelope across the bus.
 
-
-
 ## Waves SSL G-Master Buss Compressor
 
 <!-- role:pick -->
@@ -209,8 +220,6 @@ One starting point for drum bus work is a 4:1 ratio, 10–30ms attack to preserv
 
 Parallel processing — sending the drum bus to a second chain and blending the processed signal back in — is a technique for when full-chain compression isn't delivering enough density. In electronic music contexts particularly, this step is where a drum mix moves from "clean" to "energetic."
 
-
-
 ## OTT (Xfer Records)
 
 <!-- role:pick -->
@@ -235,8 +244,6 @@ On acoustic drum kits, OTT in this role is less common; saturation is an alterna
 
 ---
 
-
-
 ## Waves SSL 4000 Collection
 
 <!-- role:pick -->
@@ -250,8 +257,6 @@ Waves SSL 4000 Collection — The Full Hardware Console Suite
 - **Why upgrade:** The SSL G-Master Buss Compressor handles drum bus compression, but the SSL 4000 Collection adds the channel strip EQ and dynamics that define the SSL 4000 console sound. This becomes relevant when you want the same harmonic character running per-channel on individual drum tracks as well as the bus.
 
 [→ Get Waves SSL 4000 Collection](https://www.waves.com/plugins/ssl-e-channel)
-
-
 
 ## FabFilter Total Bundle
 

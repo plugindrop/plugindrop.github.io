@@ -44,8 +44,6 @@ It's dense software. Expect a real learning curve, and the interface hasn't had 
 
 [→ Get Omnisphere 2 on Spectrasonics](https://www.spectrasonics.net/products/omnisphere/)
 
-
-
 ## Keyscape
 
 <!-- role:pick -->
@@ -67,8 +65,6 @@ The standout feature for anyone who already owns Omnisphere: Keyscape's raw mult
 **Best for:** Producers who need convincing acoustic piano or electric keys — neo-soul, R&B, singer-songwriter, and film work where a real-sounding keyboard carries the track.
 
 [→ Get Keyscape on Spectrasonics](https://www.spectrasonics.net/products/keyscape/)
-
-
 
 ## Verdict
 

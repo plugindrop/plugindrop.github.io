@@ -78,8 +78,6 @@ Surge XT has a steeper learning curve than Vital. The depth is present, but the 
 
 ---
 
-
-
 ## Odin 2
 
 <!-- role:pick -->
@@ -103,8 +101,6 @@ The filter section offers multiple modes, and a built-in effects chain handles s
 [→ Download Odin 2 Free](https://github.com/TheWaveWarden/odin2)
 
 ---
-
-
 
 ## Zebralette
 
@@ -130,8 +126,6 @@ The one-oscillator limitation is real. Layering complex polyphonic sounds requir
 
 ---
 
-
-
 ## Helm
 
 <!-- role:pick -->
@@ -156,8 +150,6 @@ Development has slowed significantly since Vital launched. The preset library is
 
 ---
 
-
-
 ## Serum
 
 <!-- role:pick -->
@@ -173,8 +165,6 @@ Serum — The Industry Standard
 [→ Get Serum](https://xferrecords.com/products/serum-2)
 
 ---
-
-
 
 ## Phase Plant
 
@@ -200,7 +190,9 @@ Phase Plant — Modular Wavetable Architecture
 
 <!-- pick:u-he Hive 2 -->
 
-u-he Hive 2 builds on Zebralette's single oscillator with a complete two-oscillator wavetable and virtual-analog hybrid instrument, built specifically for fast patch creation in live and studio work. It runs three synth engines spanning wavetable oscillators, standard waveforms, and tunable sub-oscillators, and keeps CPU demands low. Modulation assignment works by simple drag and drop, four user-definable XY pads give hands-on control over several parameters at once, and an eight-step shape sequencer feeds four independent outputs. A built-in arpeggiator and step sequencer support real-time recording, and a scale quantizer with a list of ready-made scales keeps performed parts in key. Seven rearrangeable effects, including distortion, chorus, and reverb, shape the tone further. For anyone already using Zebralette who wants the fuller u-he character in a production-ready instrument without the depth investment of Zebra2, Hive 2 is the natural next step into u-he's catalog.
+u-he Hive 2 builds on Zebralette's single oscillator with a complete two-oscillator wavetable and virtual-analog hybrid instrument, built specifically for fast patch creation in live and studio work. It runs three synth engines spanning wavetable oscillators, standard waveforms, and tunable sub-oscillators, and keeps CPU demands low. Modulation assignment works by simple drag and drop, four user-definable XY pads give hands-on control over several parameters at once, and an eight-step shape sequencer feeds four independent outputs.
+
+A built-in arpeggiator and step sequencer support real-time recording, and a scale quantizer with a list of ready-made scales keeps performed parts in key. Seven rearrangeable effects, including distortion, chorus, and reverb, shape the tone further. For anyone already using Zebralette who wants the fuller u-he character in a production-ready instrument without the depth investment of Zebra2, Hive 2 is the natural next step into u-he's catalog.
 
 | Tracked price | $149.00 |
 |---|---|
@@ -213,7 +205,11 @@ Last recorded sale: $99.00 on 2026-09-01.
 
 <!-- role:choose -->
 
-Choosing among these options comes down to what the workflow actually needs. A producer who wants one free synth that covers everything should start with Vital, since its synthesis engine, modulation system, and effects chain make it a strong default install for any producer at any level. Anyone doing complex, modulation-heavy sound design is better served by Surge XT, whose eight oscillator types and matrix-style modulation routing reach into hybrid and experimental territory that Vital's fixed architecture doesn't cover. For wavetable and FM synthesis combined in a single free instrument, Odin 2 is the better fit, since its multi-paradigm oscillator assignment handles timbral combinations that pure wavetable engines struggle with. Producers who want that particular sonic character at no cost should look at Zebralette, which carries over the spectral oscillator approach behind Zebra2 and works as a direct entry point into that paid catalog. Someone new to synthesis who finds Vital's interface overwhelming would do better starting with Helm, since its two-oscillator signal path keeps modulation routing more transparent while learning. Finally, a workflow built around preset sharing, collaboration, or professional client work points toward Serum — the case for it is its third-party ecosystem, not a synthesis-engine advantage over Vital's free tier.
+Choosing among these options comes down to what the workflow actually needs. A producer who wants one free synth that covers everything should start with Vital, since its synthesis engine, modulation system, and effects chain make it a strong default install for any producer at any level. Anyone doing complex, modulation-heavy sound design is better served by Surge XT, whose eight oscillator types and matrix-style modulation routing reach into hybrid and experimental territory that Vital's fixed architecture doesn't cover.
+
+For wavetable and FM synthesis combined in a single free instrument, Odin 2 is the better fit, since its multi-paradigm oscillator assignment handles timbral combinations that pure wavetable engines struggle with. Producers who want that particular sonic character at no cost should look at Zebralette, which carries over the spectral oscillator approach behind Zebra2 and works as a direct entry point into that paid catalog.
+
+Someone new to synthesis who finds Vital's interface overwhelming would do better starting with Helm, since its two-oscillator signal path keeps modulation routing more transparent while learning. Finally, a workflow built around preset sharing, collaboration, or professional client work points toward Serum — the case for it is its third-party ecosystem, not a synthesis-engine advantage over Vital's free tier.
 
 ## FAQ
 

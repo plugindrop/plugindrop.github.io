@@ -82,8 +82,6 @@ Surge XT packs an almost intimidating feature set into a free open-source packag
 
 ---
 
-
-
 ## TAL-NoiseMaker
 
 <!-- role:pick -->
@@ -110,8 +108,6 @@ TAL-NoiseMaker is the ideal grab-and-play analog synth for producers who don't w
 
 ---
 
-
-
 ## OB-Xd
 
 <!-- role:pick -->
@@ -136,8 +132,6 @@ OB-Xd models the classic Oberheim OB-X architecture and is aimed at synth-wave a
 
 ---
 
-
-
 ## Dexed
 
 <!-- role:pick -->
@@ -161,8 +155,6 @@ Dexed is a faithful DX7 emulation that also loads native DX7 patches (.syx files
 [→ Download Dexed Free](https://github.com/asb2m10/dexed/releases)
 
 ---
-
-
 
 ## Spitfire LABS
 
@@ -189,8 +181,6 @@ Spitfire LABS is a constantly expanding library of free sample-based instruments
 ---
 
 Good mixing starts with great EQ and compression. These four free plugins cover the EQ and compression jobs that paid tools also cover.
-
-
 
 ## TDR Nova
 
@@ -220,8 +210,6 @@ TDR Nova combines a four-band parametric EQ with per-band dynamic EQ capability,
 
 ---
 
-
-
 ## Voxengo SPAN
 
 <!-- role:pick -->
@@ -247,8 +235,6 @@ Voxengo SPAN is a real-time FFT spectrum analyzer. It provides a highly configur
 [→ Download Voxengo SPAN Free](https://www.voxengo.com/product/span/)
 
 ---
-
-
 
 ## Rough Rider 3
 
@@ -276,8 +262,6 @@ Rough Rider 3 is not a transparent compressor — it's a character compressor th
 
 ---
 
-
-
 ## TDR Kotelnikov
 
 <!-- role:pick -->
@@ -303,8 +287,6 @@ TDR Kotelnikov is a free mastering compressor built around a wideband detection 
 [Free Download](https://www.tokyodawn.net/tdr-kotelnikov/)
 
 ---
-
-
 
 ## Valhalla Supermassive
 
@@ -332,8 +314,6 @@ Valhalla Supermassive is a free reverb and delay plugin from Valhalla DSP. With 
 
 ---
 
-
-
 ## Dragonfly Reverb
 
 <!-- role:pick -->
@@ -358,8 +338,6 @@ Dragonfly Reverb is a set of four open-source reverb plugins (Room, Hall, Plate,
 
 ---
 
-
-
 ## Ozone Imager 2
 
 <!-- role:pick -->
@@ -383,8 +361,6 @@ Ozone Imager 2 provides stereo field widening and narrowing with a real-time Lis
 [Ozone Imager 2 (official)](https://www.izotope.com/en/products/ozone-imager.html)
 
 ---
-
-
 
 ## MFreeFXBundle
 
@@ -411,8 +387,6 @@ MFreeFXBundle is a free bundle of 37 fully functional mixing tools including an 
 [→ Download MFreeFXBundle Free](https://www.meldaproduction.com/MFreeFXBundle)
 
 ---
-
-
 
 ## CHOW Tape Model
 
@@ -442,8 +416,6 @@ CHOW Tape Model simulates a reel-to-reel tape machine through physical modeling,
 
 If the free toolkit is serving you well and you're ready to invest, these three paid plugins are the natural next step for FL Studio producers.
 
-
-
 ## Serum 2 (Xfer Records)
 
 <!-- role:pick -->
@@ -460,8 +432,6 @@ Serum 2 (Xfer Records) — Hybrid wavetable synthesizer
 
 ---
 
-
-
 ## Harmor
 
 <!-- role:pick -->
@@ -477,8 +447,6 @@ Harmor — FL Studio's own additive/resynthesis powerhouse
 [→ Get Harmor on Plugin Boutique](https://www.pluginboutique.com/search?q=Harmor&a_aid=69cb95abe1763&chan=art&data1=best-free-plugins-fl-studio)
 
 ---
-
-
 
 ## Sytrus
 
@@ -573,8 +541,6 @@ This guide brings together publicly available product information and prices tra
 - [15 Best Free Reverb VST Plugins 2026 (Room, Hall, Plate)](/posts/best-free-reverb-vst-plugins/)
 
 - [stereo widening plugins](/posts/best-stereo-widener-plugins/)
-
-
 
 ## How to choose
 

@@ -50,8 +50,6 @@ The trade-offs compared to the paid Core tier are real. Discover ships with a si
 
 ---
 
-
-
 ## Spitfire LABS
 
 <!-- role:pick -->
@@ -75,8 +73,6 @@ It is worth checking the current LABS catalog alongside BBC SO Discover rather t
 [→ Download Spitfire LABS Free (Official)](https://labs.spitfireaudio.com/)
 
 ---
-
-
 
 ## Virtual Playing Orchestra
 
@@ -102,8 +98,6 @@ For producers who need woodwind sections that move expressively through a score,
 
 ---
 
-
-
 ## VSCO 2 Community Edition
 
 <!-- role:pick -->
@@ -125,8 +119,6 @@ VSCO 2 CE is a free chamber and orchestral sample library. Like VPO, it requires
 **Best for:** Composers working in chamber or small-ensemble contexts where a full orchestral woodwind section would be inappropriately scaled.
 
 ---
-
-
 
 ## Sonatina Symphonic Orchestra
 
@@ -160,8 +152,6 @@ For producers who specifically need saxophone for jazz, soul, or R&B production,
 
 ---
 
-
-
 ## BBC Symphony Orchestra Core
 
 <!-- role:pick -->
@@ -177,8 +167,6 @@ BBC Symphony Orchestra Core — The Complete BBC Woodwind Experience
 BBC SO Core is available directly from Spitfire Audio. No affiliate link is included here.
 
 ---
-
-
 
 ## Cinesamples CineWoodwinds
 
@@ -253,8 +241,6 @@ BBC Symphony Orchestra Discover is the best free woodwind VST in 2026 by a clear
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
 
 This list brings together publicly available feature information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
-
-
 
 ## How to choose
 

@@ -56,8 +56,6 @@ Dynamic bands apply gain changes only when the signal needs them, which can help
 
 ---
 
-
-
 ## MEqualizer
 
 <!-- role:pick -->
@@ -81,8 +79,6 @@ Compared to Pro-Q 4, MEqualizer is a static parametric EQ, full stop. There is n
 [→ Download MEqualizer Free](https://www.meldaproduction.com/MEqualizer)
 
 ---
-
-
 
 ## Voxengo Marvel GEQ
 
@@ -108,8 +104,6 @@ A typical use case for Marvel GEQ is mastering-style broad tonal moves: adjustin
 
 ---
 
-
-
 ## LP10 (DDMF)
 
 <!-- role:pick -->
@@ -129,8 +123,6 @@ LP10 is not a free plugin, so it is not a like-for-like free alternative. We inc
 [→ LP10 on the DDMF site (buy or demo)](https://ddmf.eu/lp10-linear-phase-equalizer-plugin/)
 
 ---
-
-
 
 ## FabFilter Pro-Q 4
 

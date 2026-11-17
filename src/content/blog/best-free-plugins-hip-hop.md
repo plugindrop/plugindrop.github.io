@@ -47,8 +47,6 @@ TAL-NoiseMaker is a three-oscillator virtual analog synthesizer with integrated 
 
 ---
 
-
-
 ## Vital
 
 <!-- role:pick -->
@@ -98,8 +96,6 @@ Surge XT is a community-maintained open-source synthesizer. Developer documentat
 
 ---
 
-
-
 ## OB-Xd
 
 <!-- role:pick -->
@@ -121,8 +117,6 @@ OB-Xd is discoDSP's free emulation of the Oberheim OB-X, one of the defining syn
 [→ Download OB-Xd Free](https://www.discodsp.com)
 
 ---
-
-
 
 ## MT Power Drum Kit 2
 
@@ -146,8 +140,6 @@ MT Power Drum Kit 2 is a sample-based drum rompler built around professionally r
 
 ---
 
-
-
 ## LABS by Spitfire Audio
 
 <!-- role:pick -->
@@ -169,8 +161,6 @@ LABS is Spitfire Audio's free instrument platform with a rotating library of sam
 [→ Download LABS Free](https://labs.spitfireaudio.com)
 
 ---
-
-
 
 ## Komplete Start
 
@@ -194,8 +184,6 @@ Komplete Start is Native Instruments' free entry-level bundle, which includes Ko
 
 ---
 
-
-
 ## iZotope Vinyl
 
 <!-- role:pick -->
@@ -217,8 +205,6 @@ iZotope Vinyl simulates vinyl record artifacts through independent controls for 
 [→ Download iZotope Vinyl Free](https://www.izotope.com/en/products/vinyl)
 
 ---
-
-
 
 ## Valhalla Supermassive
 
@@ -242,8 +228,6 @@ Valhalla Supermassive spans reverb and delay from subtle room ambience to massiv
 
 ---
 
-
-
 ## Rough Rider 3
 
 <!-- role:pick -->
@@ -265,8 +249,6 @@ Rough Rider 3 is engineered for pumping, colored compression rather than transpa
 [→ Download Rough Rider 3 Free](https://www.audiodamage.com/pages/free-and-legacy)
 
 ---
-
-
 
 ## TDR Nova
 
@@ -290,8 +272,6 @@ TDR Nova is a parallel dynamic equalizer that combines parametric EQ with freque
 
 ---
 
-
-
 ## Graillon 2
 
 <!-- role:pick -->
@@ -314,8 +294,6 @@ Graillon 2 provides real-time pitch correction alongside a pitch-shifting sectio
 
 ---
 
-
-
 ## Serum
 
 <!-- role:pick -->
@@ -331,8 +309,6 @@ Serum — A paid wavetable synth for advanced sound design
 [Xfer Records](https://xferrecords.com/products/serum-2)
 
 ---
-
-
 
 ## Native Instruments Maschine
 
@@ -403,8 +379,6 @@ Vital is the first download for any hip-hop producer building a free kit in 2026
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
 
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
-
-
 
 ## How to choose
 

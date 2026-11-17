@@ -24,7 +24,9 @@ On the sound side, Spectral dynamics lets engineers address specific problem fre
 
 <!-- role:intro -->
 
-FabFilter Pro-Q 4 is an equalizer plug-in offering up to 24 bands, built for mixing and mastering across stereo, surround, and Dolby Atmos sessions. Its standout addition is spectral dynamics, which targets problem frequencies with greater precision and efficiency than conventional dynamic EQ. Alongside this, the dynamic EQ mode provides attack and release controls along with optional free side-chain filtering, and refined processing delivers cleaner sound with less distortion across the zero-latency, natural phase, and linear phase modes. Mastering engineers can work with the narrower 3 dB and 6 dB display ranges, while mixing engineers have access to the wider 12 dB and 30 dB ranges for broader adjustments. Comparable equalizer plug-ins in this space include BALANCE, Eventide SplitEQ, and SSL Native X-EQ 2.
+FabFilter Pro-Q 4 is an equalizer plug-in offering up to 24 bands, built for mixing and mastering across stereo, surround, and Dolby Atmos sessions. Its standout addition is spectral dynamics, which targets problem frequencies with greater precision and efficiency than conventional dynamic EQ. Alongside this, the dynamic EQ mode provides attack and release controls along with optional free side-chain filtering, and refined processing delivers cleaner sound with less distortion across the zero-latency, natural phase, and linear phase modes.
+
+Mastering engineers can work with the narrower 3 dB and 6 dB display ranges, while mixing engineers have access to the wider 12 dB and 30 dB ranges for broader adjustments. Comparable equalizer plug-ins in this space include BALANCE, Eventide SplitEQ, and SSL Native X-EQ 2.
 
 ## FabFilter Pro-Q 4
 
@@ -73,8 +75,6 @@ The honest limitation: four bands go quickly on a busy master, and mid/side is p
 
 ---
 
-
-
 ## TDR VOS SlickEQ GE
 
 <!-- role:pick -->
@@ -98,8 +98,6 @@ The honest limitation: three bands and broad musical curves make it a tone-shapi
 [Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/)
 
 ---
-
-
 
 ## Voxengo Marvel GEQ
 
@@ -125,8 +123,6 @@ The honest limitation: the fixed graphic bands and added latency make it the wro
 
 ---
 
-
-
 ## MEqualizer
 
 <!-- role:pick -->
@@ -150,8 +146,6 @@ The honest limitation: no dynamic EQ and no analog color — it does clean stati
 [→ Download MEqualizer Free](https://www.meldaproduction.com/MEqualizer)
 
 ---
-
-
 
 ## Ignite Amps PTEq-X
 
@@ -177,8 +171,6 @@ The honest limitation: the broad, musical passive curves are for tone, not corre
 
 ---
 
-
-
 ## Slate Digital Fresh Air
 
 <!-- role:pick -->
@@ -203,8 +195,6 @@ The honest limitation: two knobs and a fixed focus mean it's a finishing tool, n
 
 ---
 
-
-
 ## iZotope Neutron
 
 <!-- role:pick -->
@@ -223,8 +213,6 @@ The honest limitation: the AI suggests a starting point, not a finished mix — 
 
 ---
 
-
-
 ## iZotope Ozone 12
 
 <!-- role:pick -->
@@ -242,8 +230,6 @@ The honest limitation: if you only want EQ, this is far more plugin (and cost) t
 [→ Get iZotope Ozone 12 (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=best-eq-plugins-2026)
 
 ---
-
-
 
 ## Waves SSL E-Channel
 

@@ -49,8 +49,6 @@ TDR Nova is a parallel dynamic equalizer with four fully parametric bands, switc
 
 ---
 
-
-
 ## MEqualizer
 
 <!-- role:pick -->
@@ -74,8 +72,6 @@ MEqualizer ships as part of MeldaProduction's free plugin bundle and delivers a 
 [→ Download MEqualizer Free](https://www.meldaproduction.com/MEqualizer) | [→ Get MEqualizer on Plugin Boutique](https://www.pluginboutique.com/search?q=MeldaProduction%20MEqualizer&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins)
 
 ---
-
-
 
 ## Baxter EQ
 
@@ -101,8 +97,6 @@ Analog Obsession has earned a devoted following by releasing console-modeled plu
 
 ---
 
-
-
 ## Blue Cat's Triple EQ
 
 <!-- role:pick -->
@@ -126,8 +120,6 @@ Blue Cat's Triple EQ is a 3-band semi-parametric equalizer built for speed. You 
 [→ Download Blue Cat's Triple EQ Free](https://www.bluecataudio.com/Products/Product_TripleEQ/)
 
 ---
-
-
 
 ## ReaEQ
 
@@ -153,8 +145,6 @@ ReaEQ ships with Reaper and is also available as a standalone free VST download 
 
 ---
 
-
-
 ## Voxengo Marvel GEQ
 
 <!-- role:pick -->
@@ -178,8 +168,6 @@ Voxengo Marvel GEQ is a 16-band linear phase graphic equalizer with the kind of 
 [→ Download Marvel GEQ Free](https://www.voxengo.com/product/marvelgeq/) | [→ Get Marvel GEQ on Plugin Boutique](https://www.pluginboutique.com/search?q=Voxengo%20Marvel%20GEQ&a_aid=69cb95abe1763&chan=art&data1=best-free-eq-vst-plugins)
 
 ---
-
-
 
 ## LP10
 
@@ -205,8 +193,6 @@ LP10 is a commercial plugin from DDMF, so it does not belong on a strictly free 
 
 ---
 
-
-
 ## TDR SlickEQ
 
 <!-- role:pick -->
@@ -230,8 +216,6 @@ From the same team behind TDR Nova, SlickEQ is designed specifically for mix bus
 [Free Download](https://www.tokyodawn.net/tdr-vos-slickeq/)
 
 ---
-
-
 
 ## Ignite Amps PTEq-X
 
@@ -257,8 +241,6 @@ The Pultec EQP-1A is one of the most imitated pieces of hardware in recording hi
 
 ---
 
-
-
 ## Voxengo Overtone GEQ
 
 <!-- role:pick -->
@@ -282,8 +264,6 @@ Voxengo's Overtone GEQ takes a different approach to equalization by working wit
 [→ Download Overtone GEQ Free](https://www.voxengo.com/)
 
 ---
-
-
 
 ## FabFilter Pro-Q 4
 
@@ -412,8 +392,6 @@ The best free EQ VST plugin in 2026 is **TDR Nova** — it is dynamic, transpare
 - [Free Alternative to FabFilter Pro-Q 4](/posts/free-alternative-to-fabfilter-pro-q/)
 
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
-
-
 
 ## How to choose
 

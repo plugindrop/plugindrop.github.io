@@ -51,8 +51,6 @@ The free version covers the vast majority of production and mastering needs, inc
 
 ---
 
-
-
 ## OTT
 
 <!-- role:pick -->
@@ -76,8 +74,6 @@ The interface is deliberately minimal: one depth knob, per-band time controls, a
 [→ Download OTT Free](https://xferrecords.com/freeware/)
 
 ---
-
-
 
 ## MMultiband
 
@@ -103,8 +99,6 @@ The interface demands more initial investment than OTT or TDR Nova, which reflec
 
 ---
 
-
-
 ## Waves C6 Lite
 
 <!-- role:pick -->
@@ -128,8 +122,6 @@ Account registration and Waves' license management software are required. For pr
 [waves.com (official)](https://www.waves.com/plugins/c6-multiband-compressor)
 
 ---
-
-
 
 ## Kilohearts Multiband Compressor
 
@@ -155,8 +147,6 @@ It is a focused tool without deep feature layers, which is either a feature or a
 
 ---
 
-
-
 ## GVST GMulti
 
 <!-- role:pick -->
@@ -180,8 +170,6 @@ The Windows-only limitation is a meaningful constraint in 2026 for cross-platfor
 [→ Download GVST GMulti Free](https://gvst.uk/gmulti.htm)
 
 ---
-
-
 
 ## Calf Multiband Compressor
 
@@ -207,8 +195,6 @@ Windows support through third-party VST builds is functional but less polished t
 
 ---
 
-
-
 ## mda Multiband
 
 <!-- role:pick -->
@@ -232,8 +218,6 @@ Its value in 2026 is as a utility and educational resource: quick three-band glu
 [→ Download mda Multiband Free](https://sourceforge.net/projects/mda-vst/)
 
 ---
-
-
 
 ## FabFilter Pro-MB
 
@@ -349,8 +333,6 @@ TDR Nova is the free multiband compressor to start with for producers who need t
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
 
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
-
-
 
 ## How to choose
 

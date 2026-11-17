@@ -18,7 +18,9 @@ BBC Symphony Orchestra Discover is a free brass plugin available in 2026. It was
 
 <!-- role:intro -->
 
-Most free orchestral sound libraries treat brass as an afterthought: a handful of short trumpet hits and a single French horn patch dropped into the corner of a collection that's really built around strings. That has been the common experience for producers hunting for free brass plugins, which is why strong options have historically been hard to find. BBC Symphony Orchestra Discover breaks from that pattern. Its brass section was recorded at the BBC's Maida Vale Studios using real French horns, trumpets, and trombones, performed by actual orchestra musicians, and the plugin is offered at no cost to users. Comparable commercial brass libraries with similar production quality are generally sold rather than given away, so having a professionally recorded brass section available for free is unusual in this market.
+Most free orchestral sound libraries treat brass as an afterthought: a handful of short trumpet hits and a single French horn patch dropped into the corner of a collection that's really built around strings. That has been the common experience for producers hunting for free brass plugins, which is why strong options have historically been hard to find.
+
+BBC Symphony Orchestra Discover breaks from that pattern. Its brass section was recorded at the BBC's Maida Vale Studios using real French horns, trumpets, and trombones, performed by actual orchestra musicians, and the plugin is offered at no cost to users. Comparable commercial brass libraries with similar production quality are generally sold rather than given away, so having a professionally recorded brass section available for free is unusual in this market.
 
 For home producers working today, convincing brass sounds carry more weight than they did a few years back. The shift toward streaming-driven film and game scoring has raised expectations for how realistic an orchestral mockup needs to sound, putting added pressure on brass quality in particular.
 
@@ -46,8 +48,6 @@ The LABS player offers multiple microphone perspectives including close, tree, a
 
 ---
 
-
-
 ## VSCO2 Community Edition
 
 <!-- role:pick -->
@@ -71,8 +71,6 @@ The SFZ format is a meaningful advantage. It runs cross-platform without proprie
 [→ Download VSCO2 Community Edition Free (Official)](https://versilian-studios.com/vsco-community/)
 
 ---
-
-
 
 ## Virtual Playing Orchestra
 
@@ -98,8 +96,6 @@ VPO is a writing tool, not a solo quality showcase. It is not designed to compet
 
 ---
 
-
-
 ## DSK Brass
 
 <!-- role:pick -->
@@ -121,8 +117,6 @@ The Windows-only format and basic sound design limit its audience, but for PC pr
 **Best for:** Windows producers who need an simple brass plugin for quick mockups and simple arrangement sketches.
 
 ---
-
-
 
 ## Sonatina Symphonic Orchestra
 
@@ -150,8 +144,6 @@ Its sustained relevance comes from format flexibility. SFZ-based orchestral temp
 
 Both paid options below are from Spitfire Audio — the developer behind BBC Symphony Orchestra Discover. Neither has an active affiliate listing at the time of writing. These are included as upgrade options when the free tier starts limiting your work.
 
-
-
 ## BBC Symphony Orchestra Core
 
 <!-- role:pick -->
@@ -163,8 +155,6 @@ BBC Symphony Orchestra Core — Full articulation set for serious brass writing
 - **Developer:** Spitfire Audio
 
 - **Why upgrade:** Discover's brass section omits the articulations that professional brass writing requires — true legato transitions, expanded dynamic layers, spiccato, col legno, and extended techniques are absent. Core unlocks the full performance range of the BBC SO brass section, making it viable for professional-level mockups where note transitions need to sound like real players rather than triggered samples.
-
-
 
 ## Spitfire SYMPHONY ORCHESTRA
 
@@ -238,15 +228,17 @@ BBC Symphony Orchestra Discover is the only recommendation that matters if you a
 
 This list brings together publicly available feature information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
 
-
-
 ## How to choose
 
 <!-- role:choose -->
 
 ## How to Choose
 
-For anyone who wants the best free brass quality available, BBC Symphony Orchestra Discover is the natural place to start, since it offers a free sampled library of orchestral brass recorded in a large hall setting. Anyone who needs the SFZ format for cross-platform compatibility or custom sample mapping will find that in VSCO2 Community Edition, a free brass library built in that format. Producers putting together a complete free orchestral template can pair Virtual Playing Orchestra, which offers broad ensemble coverage, with VSCO2 Community Edition for solo and chamber work, since the two cover different needs without much overlap. Windows users who want something that loads quickly can turn to DSK Brass, a simple sketch tool that does what it's meant to do and shouldn't be judged against sampled libraries. When a free brass library starts holding a project back — particularly when more convincing legato lines, greater dynamic expression, or extended playing techniques are needed — BBC Symphony Orchestra Core is usually the first paid upgrade orchestral composers consider.
+For anyone who wants the best free brass quality available, BBC Symphony Orchestra Discover is the natural place to start, since it offers a free sampled library of orchestral brass recorded in a large hall setting. Anyone who needs the SFZ format for cross-platform compatibility or custom sample mapping will find that in VSCO2 Community Edition, a free brass library built in that format.
+
+Producers putting together a complete free orchestral template can pair Virtual Playing Orchestra, which offers broad ensemble coverage, with VSCO2 Community Edition for solo and chamber work, since the two cover different needs without much overlap. Windows users who want something that loads quickly can turn to DSK Brass, a simple sketch tool that does what it's meant to do and shouldn't be judged against sampled libraries.
+
+When a free brass library starts holding a project back — particularly when more convincing legato lines, greater dynamic expression, or extended playing techniques are needed — BBC Symphony Orchestra Core is usually the first paid upgrade orchestral composers consider.
 
 ## FAQ
 

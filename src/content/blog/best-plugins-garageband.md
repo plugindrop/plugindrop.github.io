@@ -79,8 +79,6 @@ The tradeoff is a dense, information-heavy interface. Surge XT rewards producers
 
 ---
 
-
-
 ## TAL-NoiseMaker
 
 <!-- role:pick -->
@@ -107,8 +105,6 @@ For GarageBand producers who find Vital's interface visually complex or Surge XT
 
 GarageBand's stock effects are serviceable, but third-party AU processors fill specific gaps — particularly in dynamic EQ, atmospheric reverb, and character compression. These three free plugins address each category.
 
-
-
 ## TDR Nova
 
 <!-- role:pick -->
@@ -133,8 +129,6 @@ The free version covers nearly all practical use cases. The Nova GE upgrade adds
 
 ---
 
-
-
 ## Valhalla Supermassive
 
 <!-- role:pick -->
@@ -158,8 +152,6 @@ Valhalla Supermassive is a free reverb. It functions as a textural tool as much 
 [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
 
 ---
-
-
 
 ## Rough Rider 3
 
@@ -186,8 +178,6 @@ For GarageBand producers whose drums and loops feel polished to the point of bei
 ---
 
 Each of these three plugins addresses a specific limitation in the free options.
-
-
 
 ## Serum 2
 
@@ -239,7 +229,9 @@ Last recorded sale: $99.00 on 2025-03-20.
 
 <!-- pick:FabFilter Pro-Q 4 -->
 
-FabFilter Pro-Q 4 is a paid equalizer plug-in, and it's the pick for producers who are serious about mix quality and spend meaningful time making EQ decisions. Compared to a strong free option like TDR Nova, it adds dynamic equalization across an unlimited number of bands, per-band mid/side processing, per-band external sidechain capability, and a real-time spectrum analyzer. One workflow feature stands out in particular: spectrum grab, which lets you click directly on the spectrum analyzer display to create an EQ node at that exact frequency. This speeds up precise, surgical mixing decisions considerably, since you're working directly from what you see in the spectrum rather than hunting for the right frequency by ear or by dragging across the full band range.
+FabFilter Pro-Q 4 is a paid equalizer plug-in, and it's the pick for producers who are serious about mix quality and spend meaningful time making EQ decisions. Compared to a strong free option like TDR Nova, it adds dynamic equalization across an unlimited number of bands, per-band mid/side processing, per-band external sidechain capability, and a real-time spectrum analyzer.
+
+One workflow feature stands out in particular: spectrum grab, which lets you click directly on the spectrum analyzer display to create an EQ node at that exact frequency. This speeds up precise, surgical mixing decisions considerably, since you're working directly from what you see in the spectrum rather than hunting for the right frequency by ear or by dragging across the full band range.
 
 The core advantages over free alternatives come down to workflow speed rather than gatekeeping raw capability. Nova handles most tracking and mixing tasks in GarageBand without meaningful compromise, so it remains an excellent choice for the price of free. But when mixing takes up a significant portion of your working time, the combination of unlimited bands, spectrum grab, per-band mid/side handling, and external sidechain support in this plug-in becomes genuinely valuable, since it removes friction at each step of a session rather than changing what's technically possible.
 

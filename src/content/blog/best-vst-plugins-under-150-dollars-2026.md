@@ -76,8 +76,6 @@ Surge XT combines wavetable, subtractive, FM, and additive synthesis engines wit
 
 ---
 
-
-
 ## Kilohearts Phase Plant
 
 <!-- role:pick -->
@@ -120,8 +118,6 @@ Valhalla Supermassive is a free release from one of the most respected reverb de
 [Valhalla Supermassive (official site)](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
 
 ---
-
-
 
 ## Valhalla Room
 
@@ -181,7 +177,11 @@ Valhalla Delay covers tape-style, digital, diffusion, and pitch-shifting delay m
 
 <!-- pick:Baby Audio Comeback Kid -->
 
-Comeback Kid is a tape-style delay plugin built around a single analogue-flavoured signal chain, combining saturation, modulation, and ducking in one tool rather than needing several separate plugins routed together. BPM-synced straight, dotted, and triplet delay modes sit alongside a free mode running from 0.01 ms to 2500 ms, plus a ping-pong option for stereo bounce. Lo-Cut and Hi-Cut filters, modelled on analogue hardware, tame the tone of the repeats, while flexible attack and sustain controls reshape the transients of each delayed hit. A tape-style saturation stage warms the signal up, a phaser called Swirl adds movement, a light algorithmic reverb called Sauce adds a sense of space, and a widening control spreads the delay across the stereo field through left/right time variations. The plugin suits people who want built-in tape delay character rather than a clean, neutral utility delay. It runs natively on Intel and Apple Silicon Macs on OS X 10.7 or later, in AU, VST, VST3, and AAX formats, and on Windows 7 or later in 32-bit or 64-bit, with VST, VST3, and AAX formats.
+Comeback Kid is a tape-style delay plugin built around a single analogue-flavoured signal chain, combining saturation, modulation, and ducking in one tool rather than needing several separate plugins routed together. BPM-synced straight, dotted, and triplet delay modes sit alongside a free mode running from 0.01 ms to 2500 ms, plus a ping-pong option for stereo bounce.
+
+Lo-Cut and Hi-Cut filters, modelled on analogue hardware, tame the tone of the repeats, while flexible attack and sustain controls reshape the transients of each delayed hit. A tape-style saturation stage warms the signal up, a phaser called Swirl adds movement, a light algorithmic reverb called Sauce adds a sense of space, and a widening control spreads the delay across the stereo field through left/right time variations.
+
+The plugin suits people who want built-in tape delay character rather than a clean, neutral utility delay. It runs natively on Intel and Apple Silicon Macs on OS X 10.7 or later, in AU, VST, VST3, and AAX formats, and on Windows 7 or later in 32-bit or 64-bit, with VST, VST3, and AAX formats.
 
 | Tracked price | $29.00 |
 |---|---|
@@ -212,8 +212,6 @@ TDR Nova provides four-band dynamic EQ with a transparent frequency display. Tok
 
 ---
 
-
-
 ## TDR Kotelnikov
 
 <!-- role:pick -->
@@ -233,8 +231,6 @@ TDR Kotelnikov is built around a wideband compression algorithm that Tokyo Dawn 
 **Best for:** Mix bus compression and mastering-grade dynamic control at zero cost.
 
 ---
-
-
 
 ## OTT
 
@@ -256,8 +252,6 @@ OTT is a free Xfer Records release based on Ableton's OTT preset — a three-ban
 
 ---
 
-
-
 ## Klanghelm MJUC jr
 
 <!-- role:pick -->
@@ -278,8 +272,6 @@ MJUC jr is a stripped version of Klanghelm's MJUC variable-mu compressor with tw
 
 ---
 
-
-
 ## Wavesfactory Trackspacer
 
 <!-- role:pick -->
@@ -290,7 +282,9 @@ Character & Utility
 
 Trackspacer works differently from a typical sidechain compressor. Instead of turning down the overall volume of a track whenever the sidechain source is active, it listens to the frequency content of that sidechain signal and carves out matching space in the main signal's spectrum, applying what amounts to an inverse EQ curve rather than a blanket volume cut. The result is a tool that behaves like a sidechain compressor in setup — a trigger signal shaping how another signal responds — but operates with far more nuance, since it only reduces the frequencies that are actually competing for space rather than ducking the whole track.
 
-In practice this makes it suited to situations where two sounds occupy overlapping frequency ranges and need to coexist without one audibly pumping under the other. A bass part and a kick drum, a lead vocal and a rhythm guitar, or any pair of competing elements can be given room to breathe without the obvious volume dips that come from conventional sidechain compression. Because the effect targets specific bands rather than the whole signal, the processed track keeps more of its natural dynamics and tone intact while still making space for the triggering sound. This frequency-aware approach to mix separation is the plugin's defining trait, setting it apart from ordinary dynamics processors that only react to overall level.
+In practice this makes it suited to situations where two sounds occupy overlapping frequency ranges and need to coexist without one audibly pumping under the other. A bass part and a kick drum, a lead vocal and a rhythm guitar, or any pair of competing elements can be given room to breathe without the obvious volume dips that come from conventional sidechain compression.
+
+Because the effect targets specific bands rather than the whole signal, the processed track keeps more of its natural dynamics and tone intact while still making space for the triggering sound. This frequency-aware approach to mix separation is the plugin's defining trait, setting it apart from ordinary dynamics processors that only react to overall level.
 
 | Tracked price | $29.00 |
 |---|---|
@@ -350,8 +344,6 @@ SPAN offers adjustable averaging, block size, and range controls that most free 
 
 ---
 
-
-
 ## Native Instruments Komplete Start
 
 <!-- role:pick -->
@@ -369,8 +361,6 @@ Komplete Start is NI's free tier of the Komplete bundle, including Kontakt Playe
 **Best for:** Producers who need organic sounds, Kontakt compatibility, and a broad instrument library at zero cost.
 
 ---
-
-
 
 ## FabFilter Pro-Q 4
 
@@ -429,8 +419,6 @@ Soundtoys 5 — Creative effects at a bundle depth that budget tools don't reach
 - **Why upgrade:** Individual free and budget delay and saturation tools cover standard use cases well. Soundtoys 5 includes EchoBoy, Decapitator, PhaseMistress, and additional tools in a bundle where their internal Effect Rack enables routing combinations that simply do not exist in comparable budget options.
 
 ---
-
-
 
 ## Arturia Pigments
 
@@ -504,13 +492,15 @@ This guide brings together publicly available product information and prices tra
 
 Prices reflect recorded checks, not every day of a sale.
 
-
-
 ## How to choose
 
 <!-- role:choose -->
 
-Choosing among these tools comes down to which gap in your setup you're actually trying to fill. Someone starting from nothing and needing a synthesizer first should install Vital. Someone whose current gap is reverb should start with Valhalla Supermassive for ambient, long-tail sounds, then bring in Valhalla Room when more control over room size and early reflections is needed — the two handle different jobs rather than overlapping. A producer who wants a complete EQ and dynamics chain can combine TDR Nova, TDR Kotelnikov, and MJUC jr to cover dynamic EQ, mastering-style compression, and tube character together. Anyone working in EDM, bass music, or hyperpop typically keeps OTT installed as a default, adding Wavesfactory Trackspacer when separation between competing sounds — bass against kick, or vocal against pad — is needed without introducing audible pumping. For someone with more room in their budget, Phase Plant stands out as the synthesis tool with the longest runway, since its modular layout scales with a user's skill in ways that fixed-architecture synthesizers do not.
+Choosing among these tools comes down to which gap in your setup you're actually trying to fill. Someone starting from nothing and needing a synthesizer first should install Vital. Someone whose current gap is reverb should start with Valhalla Supermassive for ambient, long-tail sounds, then bring in Valhalla Room when more control over room size and early reflections is needed — the two handle different jobs rather than overlapping.
+
+A producer who wants a complete EQ and dynamics chain can combine TDR Nova, TDR Kotelnikov, and MJUC jr to cover dynamic EQ, mastering-style compression, and tube character together. Anyone working in EDM, bass music, or hyperpop typically keeps OTT installed as a default, adding Wavesfactory Trackspacer when separation between competing sounds — bass against kick, or vocal against pad — is needed without introducing audible pumping.
+
+For someone with more room in their budget, Phase Plant stands out as the synthesis tool with the longest runway, since its modular layout scales with a user's skill in ways that fixed-architecture synthesizers do not.
 
 ## FAQ
 

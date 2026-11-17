@@ -13,7 +13,6 @@ draft: false
 
 > **Historical record — prices as of 2026-07-31.** This page documents price drops our tracker recorded in August 2026. These are not current prices and the sales listed here may have ended. Check the [Plugin Price Tracker](/plugin-prices/) for today's price.
 
-
 Every entry below comes from our own daily price-tracker checks — not press releases or manufacturer claims. If a plugin isn't listed, we didn't observe a drop for it in this report. This isn't a "look how many deals exist" roundup — it's a record of which of these 20 drops looked worth pulling the trigger on at the time, and which looked better left to get even cheaper.
 
 We track regular and sale prices across 460 plugins and bundles and log every automated check. This report only includes drops confirmed by that automated check — not typical or historical pricing.

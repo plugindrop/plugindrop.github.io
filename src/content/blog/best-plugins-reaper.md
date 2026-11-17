@@ -80,8 +80,6 @@ Developer documentation is detailed: three oscillators per voice with selectable
 
 ---
 
-
-
 ## OB-Xd
 
 <!-- role:pick -->
@@ -103,8 +101,6 @@ OB-Xd emulates the Oberheim OB-X architecture. discoDSP's documentation describe
 [Free Download](https://www.discodsp.com/obxd/)
 
 ---
-
-
 
 ## Dexed
 
@@ -128,8 +124,6 @@ Dexed's core value is hardware accuracy and compatibility: it loads original Yam
 
 ---
 
-
-
 ## TDR Nova
 
 <!-- role:pick -->
@@ -151,8 +145,6 @@ TDR Nova functions simultaneously as a four-band parametric EQ and a dynamic EQ 
 [Free Download](https://www.tokyodawn.net/tdr-nova/)
 
 ---
-
-
 
 ## SPAN
 
@@ -176,8 +168,6 @@ Developer documentation confirms adjustable spectrum resolution, RMS integration
 
 ---
 
-
-
 ## Limiter No6
 
 <!-- role:pick -->
@@ -199,8 +189,6 @@ Limiter No6 provides five independent processing modules in sequence: RMS compre
 [→ Search Limiter No6](https://www.tokyodawn.net/vladg-limiter-n6/)
 
 ---
-
-
 
 ## Valhalla Supermassive
 
@@ -224,8 +212,6 @@ Developer documentation describes 24 unique algorithms covering rooms, plates, h
 
 ---
 
-
-
 ## TAL-Reverb-4
 
 <!-- role:pick -->
@@ -247,8 +233,6 @@ TAL-Reverb-4 offers a minimal control set — room size, pre-delay, high and low
 [Free Download](https://tal-software.com/products/tal-reverb-4)
 
 ---
-
-
 
 ## ReaPlugs
 
@@ -272,8 +256,6 @@ Cockos publishes the Reaper built-in plugin suite as a standalone free download 
 
 ---
 
-
-
 ## Chow Tape Model
 
 <!-- role:pick -->
@@ -296,8 +278,6 @@ Chow Tape Model is a physical model of a reel-to-reel tape machine. Developer do
 
 ---
 
-
-
 ## Melda MFreeFXBundle
 
 <!-- role:pick -->
@@ -319,8 +299,6 @@ MeldaProduction's free bundle is the most comprehensive free plugin package avai
 [meldaproduction.com (official)](https://www.meldaproduction.com/MFreeFXBundle)
 
 ---
-
-
 
 ## FabFilter Pro-Q 4
 
@@ -351,7 +329,9 @@ Last recorded sale: $105.00 on 2025-11-22.
 
 <!-- pick:FabFilter Total Bundle -->
 
-FabFilter's Total Bundle brings together the full lineup of plugins from a single developer into one professional toolkit, going well beyond standalone EQ work by adding a compressor, a limiter, a reverb, a multiband compressor, a multiband saturation and distortion tool, plus a creative pair that includes delay and filter-modulation effects. Several of these tools have recently been updated with new and improved features. A ducking control has been added for cleanly separating dry and wet signals, along with a thickness control that lets users dial in program-dependent density and saturation. An intelligent auto-gate feature has also been introduced, along with new output level meters for better visual feedback. On the improvement side, the decay rate range has been expanded to run from 25 to 400 percent, giving more flexibility in shaping that parameter, and a mid/side option has been added to the post-EQ stage for more targeted tonal shaping.
+FabFilter's Total Bundle brings together the full lineup of plugins from a single developer into one professional toolkit, going well beyond standalone EQ work by adding a compressor, a limiter, a reverb, a multiband compressor, a multiband saturation and distortion tool, plus a creative pair that includes delay and filter-modulation effects. Several of these tools have recently been updated with new and improved features.
+
+A ducking control has been added for cleanly separating dry and wet signals, along with a thickness control that lets users dial in program-dependent density and saturation. An intelligent auto-gate feature has also been introduced, along with new output level meters for better visual feedback. On the improvement side, the decay rate range has been expanded to run from 25 to 400 percent, giving more flexibility in shaping that parameter, and a mid/side option has been added to the post-EQ stage for more targeted tonal shaping.
 
 All of the plugins support high-quality audio processing with 64-bit internal processing applied where needed. They're available in VST, VST3, Audio Units, and AAX Native formats, covering both 64-bit and 32-bit systems, and running natively on both Intel and Apple Silicon processors. On Mac, the bundle requires macOS 10.13 or higher and runs on either Intel or Apple Silicon M1 processors in 64-bit mode, with support for VST2, VST3, AU, and AAX Native formats. On Windows, it runs on Windows 11, 10, 8, 7, or Vista in either 32-bit or 64-bit mode, supporting VST2, VST3, and AAX Native formats.
 

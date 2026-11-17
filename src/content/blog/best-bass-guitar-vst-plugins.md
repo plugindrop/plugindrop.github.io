@@ -50,8 +50,6 @@ The limitation here is intentional. Scarbee Pre-Bass does one thing: it gives yo
 
 ---
 
-
-
 ## MODO Bass 2
 
 <!-- role:pick -->
@@ -78,8 +76,6 @@ Physical modeling involves trade-offs. On isolated, slow sustained passages, sam
 
 ---
 
-
-
 ## Trilian
 
 <!-- role:pick -->
@@ -103,8 +99,6 @@ Trilian's value is breadth: electric, upright, and synth bass in a single instru
 [spectrasonics.net (official)](https://www.spectrasonics.net/products/omnisphere/)
 
 ---
-
-
 
 ## How to choose
 

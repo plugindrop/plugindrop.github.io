@@ -60,7 +60,9 @@ Session Guitarist Strummed Acoustic — Phrase-based design that solves realisti
 
 - **Formats:** VST, VST3, AU, AAX (requires free Kontakt Player — included with purchase)
 
-Session Guitarist Strummed Acoustic takes a fundamentally different approach to acoustic guitar programming than sample-trigger instruments. Rather than asking the producer to manage individual notes and articulations, it ships with a library of professionally recorded strum pattern phrases that you trigger via MIDI. The workflow splits the keyboard into zones: chord input keys on the left hand, pattern-trigger keys on the right. You play a chord voicing with the left hand, select a pattern with the right, and the instrument handles dynamics, timing feel, and string resonance behavior based on what was actually recorded. Native Instruments' documentation describes the chord recognition engine as covering standard guitar voicings including partial chords, barre shapes, and suspended and add9 extensions.
+Session Guitarist Strummed Acoustic takes a fundamentally different approach to acoustic guitar programming than sample-trigger instruments. Rather than asking the producer to manage individual notes and articulations, it ships with a library of professionally recorded strum pattern phrases that you trigger via MIDI. The workflow splits the keyboard into zones: chord input keys on the left hand, pattern-trigger keys on the right.
+
+You play a chord voicing with the left hand, select a pattern with the right, and the instrument handles dynamics, timing feel, and string resonance behavior based on what was actually recorded. Native Instruments' documentation describes the chord recognition engine as covering standard guitar voicings including partial chords, barre shapes, and suspended and add9 extensions.
 
 For producers who need strummed acoustic parts quickly, it is built for that job. The pattern library covers the core strumming feels used across folk, country, pop, and singer-songwriter production — upstrokes, downstrokes, syncopated patterns, ballad feels. For those use cases, the instrument is faster than manually programming strums because the source material is recorded guitar performance.
 
@@ -73,8 +75,6 @@ The Kontakt Player dependency is worth noting for producers unfamiliar with the 
 [→ Get Session Guitarist Strummed Acoustic on Native Instruments](https://www.native-instruments.com/en/products/komplete/guitar/session-guitarist-strummed-acoustic/)
 
 ---
-
-
 
 ## Session Guitarist Strummed Acoustic 2
 
@@ -91,8 +91,6 @@ Session Guitarist Strummed Acoustic 2 — Updated pattern library built for cont
 [→ Get Session Guitarist Strummed Acoustic 2 on Native Instruments](https://www.native-instruments.com/en/products/komplete/guitar/session-guitarist-strummed-acoustic-2/)
 
 ---
-
-
 
 ## Ample Guitar M III
 
@@ -169,8 +167,6 @@ For the majority of producers who need convincing rhythm guitar parts quickly, *
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
 
 This list brings together publicly available feature information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
-
-
 
 ## How to choose
 

@@ -82,8 +82,6 @@ Surge XT is an open-source hybrid synthesizer combining subtractive, FM, wavetab
 
 ---
 
-
-
 ## OB-Xd
 
 <!-- role:pick -->
@@ -105,8 +103,6 @@ OB-Xd is a faithful emulation of the Oberheim OB-X, delivering the warm, fat pol
 [Free Download](https://www.discodsp.com/obxd/)
 
 ---
-
-
 
 ## TDR Nova
 
@@ -132,8 +128,6 @@ TDR Nova is a parallel dynamic equalizer that also functions as a static EQ, mak
 
 ---
 
-
-
 ## Voxengo SPAN
 
 <!-- role:pick -->
@@ -155,8 +149,6 @@ SPAN is a real-time FFT spectrum analyzer that gives you a visual picture of you
 [→ Download Voxengo SPAN Free](https://www.voxengo.com/product/span/)
 
 ---
-
-
 
 ## TDR Kotelnikov
 
@@ -182,8 +174,6 @@ TDR Kotelnikov is a wideband compressor built for transparent bus and mastering 
 
 ---
 
-
-
 ## Rough Rider 3
 
 <!-- role:pick -->
@@ -207,8 +197,6 @@ Rough Rider 3 is the opposite of Kotelnikov — an aggressive, American-flavored
 [→ Get Rough Rider 3 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/8-Compressor/6100-Rough-Rider-3?a_aid=69cb95abe1763&chan=art&data1=best-free-vst-plugins-beginners)
 
 ---
-
-
 
 ## Valhalla Supermassive
 
@@ -234,8 +222,6 @@ Valhalla Supermassive delivers lush reverb and delay with a distinctly cosmic, s
 
 ---
 
-
-
 ## TAL-Reverb-4
 
 <!-- role:pick -->
@@ -260,8 +246,6 @@ TAL-Reverb-4 is a vintage-flavored plate reverb with warm, slightly lo-fi charac
 
 ---
 
-
-
 ## OrilRiver
 
 <!-- role:pick -->
@@ -283,8 +267,6 @@ OrilRiver is a free algorithmic reverb. Wide control over pre-delay, diffusion, 
 [→ Download OrilRiver Free](https://www.kvraudio.com/product/orilriver-by-denis-tihanov)
 
 ---
-
-
 
 ## Valhalla Freq Echo
 
@@ -308,8 +290,6 @@ Valhalla Freq Echo emulates vintage bucket-brigade delay units with built-in fre
 
 ---
 
-
-
 ## TAL-Chorus-LX
 
 <!-- role:pick -->
@@ -331,8 +311,6 @@ TAL-Chorus-LX emulates the Juno-60 chorus. Drop it on any synth or pad track to 
 TAL-Chorus-LX (official TAL page was unreachable when checked 2026-10-03)
 
 ---
-
-
 
 ## Chow Tape Model
 
@@ -356,8 +334,6 @@ Chow Tape Model is a physical model of a reel-to-reel tape machine, adding the s
 
 ---
 
-
-
 ## Softube Saturation Knob
 
 <!-- role:pick -->
@@ -379,8 +355,6 @@ Softube's Saturation Knob does exactly what the name says: one big saturation co
 [→ Download Softube Saturation Knob Free](https://www.softube.com/saturationknob)
 
 ---
-
-
 
 ## MT Power Drum Kit 2
 
@@ -404,8 +378,6 @@ MT Power Drum Kit 2 is a sampled acoustic drum kit with a built-in MIDI groove l
 
 ---
 
-
-
 ## LABS by Spitfire Audio
 
 <!-- role:pick -->
@@ -427,8 +399,6 @@ LABS is a constantly expanding library of free, high-quality sample instruments 
 [→ Download LABS Free](https://labs.spitfireaudio.com/)
 
 ---
-
-
 
 ## Decent Sampler
 
@@ -452,8 +422,6 @@ Decent Sampler is a free sample player that hosts free instrument libraries shar
 
 ---
 
-
-
 ## iZotope Vinyl
 
 <!-- role:pick -->
@@ -475,8 +443,6 @@ iZotope Vinyl simulates the sonic artifacts of vinyl records — mechanical nois
 [→ Download iZotope Vinyl Free](https://www.izotope.com/en/products/vinyl.html)
 
 ---
-
-
 
 ## Melda MFreeFXBundle
 
@@ -500,8 +466,6 @@ MeldaProduction's MFreeFXBundle packages 37 audio plugins covering EQ, compressi
 
 ---
 
-
-
 ## Serum
 
 <!-- role:pick -->
@@ -517,8 +481,6 @@ Serum — The synth that defines modern music production
 [Xfer Records](https://xferrecords.com/products/serum-2)
 
 ---
-
-
 
 ## FabFilter Total Bundle
 
@@ -547,7 +509,9 @@ Last recorded sale: $1069.00 on 2026-11-14.
 
 <!-- role:choose -->
 
-Choosing the right plugins comes down to what you're actually doing. If you're learning synthesis from the ground up, start with Vital — its visual modulation system shows you how a synthesizer works while you're actually using it. If you make electronic music, a minimal but complete setup pairs Vital with Valhalla Supermassive, TDR Nova, and Rough Rider 3, four plugins that between them cover every essential base. If you're a singer-songwriter recording acoustic performances, you can skip the synthesizers entirely and build your core toolkit around LABS, MT Power Drum Kit 2, TDR Nova, and TDR Kotelnikov instead. If CPU efficiency matters to you, whether because of older hardware or large sessions, check each plugin's system requirements before installing. And if you'd rather get your whole toolkit from a single installer, combining the MFreeFXBundle package with Vital and Valhalla Supermassive gives you a complete, production-ready environment from day one.
+Choosing the right plugins comes down to what you're actually doing. If you're learning synthesis from the ground up, start with Vital — its visual modulation system shows you how a synthesizer works while you're actually using it. If you make electronic music, a minimal but complete setup pairs Vital with Valhalla Supermassive, TDR Nova, and Rough Rider 3, four plugins that between them cover every essential base.
+
+If you're a singer-songwriter recording acoustic performances, you can skip the synthesizers entirely and build your core toolkit around LABS, MT Power Drum Kit 2, TDR Nova, and TDR Kotelnikov instead. If CPU efficiency matters to you, whether because of older hardware or large sessions, check each plugin's system requirements before installing. And if you'd rather get your whole toolkit from a single installer, combining the MFreeFXBundle package with Vital and Valhalla Supermassive gives you a complete, production-ready environment from day one.
 
 ## FAQ
 

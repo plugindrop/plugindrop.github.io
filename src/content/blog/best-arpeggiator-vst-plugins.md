@@ -46,8 +46,6 @@ HY-Plugins is a Japanese developer that offers free versions across its plugin l
 
 The paid tier is where arpeggiator VSTs become compositional tools rather than pattern generators. The plugins below are not incremental upgrades over free options — they represent fundamentally different approaches to melody and chord-driven arpeggiation.
 
-
-
 ## Xfer Cthulhu
 
 <!-- role:pick -->
@@ -101,8 +99,6 @@ Riffer has no built-in awareness of key or scale, so producers regularly pair it
 
 ---
 
-
-
 ## Scaler 2
 
 <!-- role:pick -->
@@ -127,8 +123,6 @@ Scaler 2 is a better single-plugin solution than standalone arp tools if you wan
 
 ---
 
-
-
 ## Sugar Bytes Thesys
 
 <!-- role:pick -->
@@ -143,7 +137,9 @@ Sugar Bytes Thesys — Per-Step MIDI Modulation for Advanced Arp Workflows
 
 - **Formats:** VST, VST3, AU, AAX
 
-Sugar Bytes Thesys is a step sequencer and MIDI modulator that functions as a high-powered arpeggiator when applied to melodic contexts. Its architecture is built around a detailed multi-lane step sequencer where each step independently controls pitch, velocity, note length, and MIDI CC values simultaneously. That per-step CC lane is what distinguishes Thesys from every other plugin on this list: it can modulate filter cutoff, pitch bend, or any assignable MIDI CC parameter on your synth at the step level, meaning the arp pattern itself drives the timbral movement in your sound. Thesys suits film scoring, industrial electronic, or complex progressive genres where the arp pattern needs to function as a full compositional statement, not a textural backdrop.
+Sugar Bytes Thesys is a step sequencer and MIDI modulator that functions as a high-powered arpeggiator when applied to melodic contexts. Its architecture is built around a detailed multi-lane step sequencer where each step independently controls pitch, velocity, note length, and MIDI CC values simultaneously. That per-step CC lane is what distinguishes Thesys from every other plugin on this list: it can modulate filter cutoff, pitch bend, or any assignable MIDI CC parameter on your synth at the step level, meaning the arp pattern itself drives the timbral movement in your sound.
+
+Thesys suits film scoring, industrial electronic, or complex progressive genres where the arp pattern needs to function as a full compositional statement, not a textural backdrop.
 
 Thesys has the steepest learning curve of any tool here. It is not the right tool for producers who want an arp running in five minutes. For producers willing to invest time in its step-programming workflow, the level of per-note parameter control is not matched by simpler dedicated arp VSTs.
 
@@ -210,8 +206,6 @@ For most bedroom producers, the best arpeggiator VST plugin in 2026 is Xfer Cthu
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
 
 This list brings together publicly available feature information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
-
-
 
 ## How to choose
 

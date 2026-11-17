@@ -13,7 +13,9 @@ draft: false
 ---
 <!-- guide:v4 kind=guide -->
 
-**TL;DR:** Splice offers two main ways to get music-production tools: an ongoing subscription for sample packs, called Splice Sounds, and a separate pay-as-you-go option for software instruments and effects, called Rent-to-Own. The subscription side comes in a couple of different plans, each allowing a different number of downloads each month — one plan allows for a larger number of monthly downloads, while another allows for a somewhat smaller number but is billed annually rather than monthly. In both cases, any download credits that go unused in a given period carry over rather than expiring, and anything already downloaded remains the subscriber's to keep even if the subscription is later cancelled. This overview reflects only what is published on the company's own plans page, rather than any independent, hands-on evaluation of how the service performs in practice.
+**TL;DR:** Splice offers two main ways to get music-production tools: an ongoing subscription for sample packs, called Splice Sounds, and a separate pay-as-you-go option for software instruments and effects, called Rent-to-Own. The subscription side comes in a couple of different plans, each allowing a different number of downloads each month — one plan allows for a larger number of monthly downloads, while another allows for a somewhat smaller number but is billed annually rather than monthly.
+
+In both cases, any download credits that go unused in a given period carry over rather than expiring, and anything already downloaded remains the subscriber's to keep even if the subscription is later cancelled. This overview reflects only what is published on the company's own plans page, rather than any independent, hands-on evaluation of how the service performs in practice.
 
 ## Introduction
 
@@ -24,7 +26,6 @@ Splice sells two kinds of plans: a monthly sample subscription called Splice Sou
 ## How to
 
 <!-- role:howto -->
-
 
 **TL;DR:** Splice sells a sample subscription (Splice Sounds) and a pay-as-you-go plugin program (Rent-to-Own). Unused credits roll over, and downloads stay yours if you cancel. This page sticks to what Splice publishes; we have not tested the service hands-on. ---
 
@@ -74,7 +75,6 @@ A: We compare the two services in a separate guide, linked below. ---
 
 This article brings together publicly available product information from Splice's own pages (splice.com/plans and splice.com/plugins, checked 2026-09-30). We have not tested the service hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources. <!-- pd:method:end -->
 
-
 ## If you cancel
 
 <!-- role:pick -->
@@ -84,8 +84,6 @@ This article brings together publicly available product information from Splice'
 If you cancel
 
 Per Splice's FAQ, a cancelled plan stays active until the end of the current billing period. Remaining credits expire 28 days after the final billing period ends, and you can put a plan on hold for up to two months instead. After cancelling you can still browse your library and re-download samples that are already in it.
-
-
 
 ## Plugins and DAW support
 
@@ -150,8 +148,6 @@ A: We compare the two services in a separate guide, linked below.
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
 
 This article brings together publicly available product information from Splice's own pages (splice.com/plans and splice.com/plugins, checked 2026-09-30). We have not tested the service hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
-
-
 
 ## FAQ
 

@@ -20,7 +20,11 @@ Ozone 12 is a mastering suite that combines several processing tools into one pl
 
 <!-- role:intro -->
 
-Here is a misconception that costs producers money every year: you do not need to buy a separate plugin for every stage of mastering. A full mastering chain usually means an equalizer, a dynamics processor, a stereo imaging tool, and a limiter, each bought, installed, and set up on its own, with audio routed from one plugin to the next. Ozone 12 brings all of these stages together into a single suite, so a track can move through EQ, dynamics, imaging, and limiting without ever leaving one plugin window. Built into that chain is an AI-powered Master Assistant that listens to a track and builds a usable starting setting in under thirty seconds, taking away much of the guesswork about where to begin a master. For anyone mastering their own music inside a DAW, rather than sending tracks out to a dedicated mastering engineer, a suite built to handle every stage of the process in one place is the kind of tool worth the investment.
+Here is a misconception that costs producers money every year: you do not need to buy a separate plugin for every stage of mastering. A full mastering chain usually means an equalizer, a dynamics processor, a stereo imaging tool, and a limiter, each bought, installed, and set up on its own, with audio routed from one plugin to the next.
+
+Ozone 12 brings all of these stages together into a single suite, so a track can move through EQ, dynamics, imaging, and limiting without ever leaving one plugin window. Built into that chain is an AI-powered Master Assistant that listens to a track and builds a usable starting setting in under thirty seconds, taking away much of the guesswork about where to begin a master.
+
+For anyone mastering their own music inside a DAW, rather than sending tracks out to a dedicated mastering engineer, a suite built to handle every stage of the process in one place is the kind of tool worth the investment.
 
 ## Master Assistant
 
@@ -48,8 +52,6 @@ In practice, Master Assistant gets you to a usable starting point in under 30 se
 
 ---
 
-
-
 ## Ozone EQ
 
 <!-- role:pick -->
@@ -75,8 +77,6 @@ Matching to a reference track is built in via the Match EQ function, which analy
 [→ Get iZotope Ozone 12 on the Official Site (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=izotope-ozone-12-review)
 
 ---
-
-
 
 ## Maximizer
 
@@ -104,8 +104,6 @@ IRC IV handles transient-heavy material (drums, percussion-forward tracks) parti
 
 ---
 
-
-
 ## Imager
 
 <!-- role:pick -->
@@ -131,8 +129,6 @@ The vectorscope and correlation meter built into the module give you real-time f
 [→ Get iZotope Ozone 12 on the Official Site (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=izotope-ozone-12-review)
 
 ---
-
-
 
 ## Dynamics
 
@@ -160,8 +156,6 @@ This module is the most technically demanding part of Ozone to use well. In the 
 
 ---
 
-
-
 ## Vintage Modules
 
 <!-- role:pick -->
@@ -188,8 +182,6 @@ Used at low drive settings, the Vintage modules add character without obvious pr
 
 ---
 
-
-
 ## Stem Focus
 
 <!-- role:pick -->
@@ -215,8 +207,6 @@ The separation is not perfect on every source, and artifacts are audible on heav
 [→ Get iZotope Ozone 12 on the Official Site (via Plugin Boutique)](https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15503-Ozone-12-Advanced?a_aid=69cb95abe1763&chan=art&data1=izotope-ozone-12-review)
 
 ---
-
-
 
 ## FabFilter Pro-L 2
 
@@ -314,7 +304,9 @@ This article brings together publicly available product information. We have not
 
 <!-- role:verdict -->
 
-FabFilter Pro-L 2 is a strong option for anyone who wants a dedicated final limiting stage rather than relying solely on Ozone's built-in limiter. It includes eight separate limiting algorithms, each with its own character and intended use, true peak limiting, and oversampling that can run as high as 32 times for added precision. Its metering is detailed and accurate, covering output level and gain reduction together with true peak readings, and it also includes an optional DC offset filter. The plugin aims for a transparent sound while still allowing maximum loudness, and it is built with mastering and mixing engineers in mind. It runs on Mac systems starting from OS version 10.12, including machines with Apple Silicon processors, and on Windows versions from Vista through Windows 11.
+FabFilter Pro-L 2 is a strong option for anyone who wants a dedicated final limiting stage rather than relying solely on Ozone's built-in limiter. It includes eight separate limiting algorithms, each with its own character and intended use, true peak limiting, and oversampling that can run as high as 32 times for added precision.
+
+Its metering is detailed and accurate, covering output level and gain reduction together with true peak readings, and it also includes an optional DC offset filter. The plugin aims for a transparent sound while still allowing maximum loudness, and it is built with mastering and mixing engineers in mind. It runs on Mac systems starting from OS version 10.12, including machines with Apple Silicon processors, and on Windows versions from Vista through Windows 11.
 
 For producers who want to go beyond mastering on its own, the iZotope Music Production Suite brings Ozone together with the rest of the company's production tools into one combined package, extending the workflow into mixing and audio repair as well as mastering. Detailed specifications for this bundle were not available, so it is best understood simply as a package built for producers who want their mixing and mastering tools working together as a single set, rather than buying each tool on its own.
 

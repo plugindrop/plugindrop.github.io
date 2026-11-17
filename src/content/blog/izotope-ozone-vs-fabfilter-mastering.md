@@ -14,7 +14,11 @@ priceTrack:
 ---
 <!-- guide:v4 kind=vs -->
 
-iZotope Ozone 12 is the better option for anyone who wants an AI-assisted, all-in-one mastering suite that combines EQ, dynamics, stereo imaging, and limiting in a single plugin. FabFilter Pro-L 2 is the stronger pick for someone who already has a mastering chain in place and wants a highly transparent limiter with extensive control. Pro-L 2 is a true peak limiter built for mastering and mixing work, offering eight distinct limiting algorithms, each with its own character and purpose, along with up to 32 times linear-phase oversampling and highly accurate output and gain-reduction metering, including true peak metering, plus an optional DC offset filter. It handles mono, stereo, and surround material, and its external side-chain triggering supports stem mastering. For self-producing artists, Ozone 12 packs more tools into one plugin; for professional mastering engineers, Pro-L 2 remains a go-to, often considered essential at the final stage of the chain.
+iZotope Ozone 12 is the better option for anyone who wants an AI-assisted, all-in-one mastering suite that combines EQ, dynamics, stereo imaging, and limiting in a single plugin. FabFilter Pro-L 2 is the stronger pick for someone who already has a mastering chain in place and wants a highly transparent limiter with extensive control.
+
+Pro-L 2 is a true peak limiter built for mastering and mixing work, offering eight distinct limiting algorithms, each with its own character and purpose, along with up to 32 times linear-phase oversampling and highly accurate output and gain-reduction metering, including true peak metering, plus an optional DC offset filter. It handles mono, stereo, and surround material, and its external side-chain triggering supports stem mastering.
+
+For self-producing artists, Ozone 12 packs more tools into one plugin; for professional mastering engineers, Pro-L 2 remains a go-to, often considered essential at the final stage of the chain.
 
 ## Introduction
 
@@ -51,8 +55,6 @@ The maximizer inside Ozone is genuinely competitive — IRC algorithms (IRC I th
 > 🎬 [Watch the Ozone 12 demo on YouTube](https://www.youtube.com/watch?v=lwIuaD8O61M)
 
 ---
-
-
 
 ## FabFilter Pro-L 2
 
@@ -93,8 +95,6 @@ Pro-L 2 has no AI features at all. That's not a criticism — it's a design phil
 
 ---
 
-
-
 ## Limiting Quality & Transparency
 
 <!-- role:pick -->
@@ -110,8 +110,6 @@ Push harder — deep limiting for club records, high-loudness commercial masters
 **Winner: FabFilter Pro-L 2** — for high-demand limiting where transparency and control are non-negotiable.
 
 ---
-
-
 
 ## Metering & Streaming Compliance
 
@@ -129,8 +127,6 @@ Ozone 12 includes metering, but it's more basic by comparison and primarily orie
 
 ---
 
-
-
 ## Value & Scope
 
 <!-- role:pick -->
@@ -147,17 +143,19 @@ It's worth every dollar for what it does, but it's a finishing tool — you'll s
 
 ---
 
-
-
 ## iZotope Ozone 12 Advanced
 
 <!-- role:pick -->
 
 <!-- pick:iZotope Ozone 12 Advanced -->
 
-Ozone 12 Advanced is a mastering suite built for audio professionals, centered on a new Bass Control module that handles precise low-end shaping and balance. The Advanced tier builds on the Standard version by adding stem mastering, which processes individual elements like drums, bass, and vocals within the master instead of treating the mix as one block. It also adds a codec preview feature for checking how a finished master will sound once converted to formats like MP3 or AAC, along with a Master Rebalance module that lets engineers adjust individual mix elements even at the mastering stage. Together these additions are meant for people mastering on behalf of clients or working on more complex productions, where that extra control matters.
+Ozone 12 Advanced is a mastering suite built for audio professionals, centered on a new Bass Control module that handles precise low-end shaping and balance. The Advanced tier builds on the Standard version by adding stem mastering, which processes individual elements like drums, bass, and vocals within the master instead of treating the mix as one block.
 
-Bass Control itself is built to solve common low-end problems: a weak or thin mix, a kick that needs tightening, or a bass part that needs a bit more weight. It lets the engineer balance low-end energy while adding clarity, punch, and impact, giving the low end a more aggressive edge without making the mix sound muddy. The suite's Unlimiter module addresses a different problem: audio that has been squashed by heavy compression. It works to restore transients and dynamics that compression stripped out, aiming for a result that still sounds natural and transparent rather than artificially pumped up. Other stated use cases for the suite include correcting thin vocals and taming drums that have become overpowered in the mix, as well as general mastering duties where the goal is to go beyond basic limiting and leveling.
+It also adds a codec preview feature for checking how a finished master will sound once converted to formats like MP3 or AAC, along with a Master Rebalance module that lets engineers adjust individual mix elements even at the mastering stage. Together these additions are meant for people mastering on behalf of clients or working on more complex productions, where that extra control matters.
+
+Bass Control itself is built to solve common low-end problems: a weak or thin mix, a kick that needs tightening, or a bass part that needs a bit more weight. It lets the engineer balance low-end energy while adding clarity, punch, and impact, giving the low end a more aggressive edge without making the mix sound muddy.
+
+The suite's Unlimiter module addresses a different problem: audio that has been squashed by heavy compression. It works to restore transients and dynamics that compression stripped out, aiming for a result that still sounds natural and transparent rather than artificially pumped up. Other stated use cases for the suite include correcting thin vocals and taming drums that have become overpowered in the mix, as well as general mastering duties where the goal is to go beyond basic limiting and leveling.
 
 On the technical side, Ozone 12 runs natively on Apple silicon chips for faster processing, and is also compatible via Rosetta on Intel Macs. Supported macOS versions include Ventura (13.7), Sonoma (14.7), and Sequoia (15.4), while on Windows it supports Windows 10 (22H2) and Windows 11 (24H2). Plugin formats are AAX, AU, and VST3, all 64-bit only; the older VST2 format is no longer supported. The full package includes 21 plugins in total: one mothership plugin plus 20 separate component plugins that can be used individually.
 

@@ -48,8 +48,6 @@ Waves runs sitewide and plugin-specific promotions frequently enough that this c
 
 ---
 
-
-
 ## Cytomic The Glue
 
 <!-- role:pick -->
@@ -75,8 +73,6 @@ Cytomic doesn't run the kind of aggressive, recurring discount cycle that Waves 
 Available directly at cytomic.com.
 
 ---
-
-
 
 ## TDR Kotelnikov
 
@@ -104,8 +100,6 @@ Because the base plugin costs nothing, there's no "wait for a sale" calculus her
 
 These compressors go on individual drum channels where the job is shaping how each hit lands — not how the kit holds together.
 
-
-
 ## FabFilter Pro-C 3
 
 <!-- role:pick -->
@@ -131,7 +125,9 @@ Last recorded sale: $149.00 on 2026-10-17.
 
 Waves CLA-76 — FET compressor for snare punch and room character
 
-The CLA-76 emulates the UREI 1176 FET compressor, a classic choice for drum production. Attack and release times track drum dynamics closely, letting the unit follow transients the way the original hardware does. The design includes an exclusive ALL ratio mode (all buttons in) that delivers a notably explosive compression sound, along with modeled preamp distortion that adds an extra-aggressive edge. A super-fast attack time keeps fast transients under control, which suits snare hits and room mics where slower, VCA-style compressors can't catch the initial attack. Two circuit models are included, "Blacky" and "Bluey," each offering a different tonal color so engineers can pick the character that fits the source. For vocals and similar material, the leveling-amp style design gives a more consistent, controlled sound.
+The CLA-76 emulates the UREI 1176 FET compressor, a classic choice for drum production. Attack and release times track drum dynamics closely, letting the unit follow transients the way the original hardware does. The design includes an exclusive ALL ratio mode (all buttons in) that delivers a notably explosive compression sound, along with modeled preamp distortion that adds an extra-aggressive edge.
+
+A super-fast attack time keeps fast transients under control, which suits snare hits and room mics where slower, VCA-style compressors can't catch the initial attack. Two circuit models are included, "Blacky" and "Bluey," each offering a different tonal color so engineers can pick the character that fits the source. For vocals and similar material, the leveling-amp style design gives a more consistent, controlled sound.
 
 Unlike the smooth sound of optical compressors, the CLA-76 is tight and aggressive, with a big, bold character, reflecting the ultra-fast response and tube-like distortion of FET control circuitry.
 
@@ -205,8 +201,6 @@ There's no purchase decision to make here beyond deciding to download it — it'
 
 ---
 
-
-
 ## Klanghelm DC1A
 
 <!-- role:pick -->
@@ -228,8 +222,6 @@ DC1A is a two-knob compressor (Compression and Tone) that Klanghelm built to pri
 Available directly at klanghelm.com.
 
 ---
-
-
 
 ## Native Instruments Supercharger GT
 
@@ -279,8 +271,6 @@ The purchase decision here isn't about this one plugin — it's whether the enti
 Available through slatedigital.com.
 
 ---
-
-
 
 ## How to choose
 

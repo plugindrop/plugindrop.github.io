@@ -47,8 +47,6 @@ Serum's wavetable editor, flexible filter collection, and sub-oscillator routing
 
 ---
 
-
-
 ## Vital
 
 <!-- role:pick -->
@@ -102,8 +100,6 @@ Native Instruments' documentation describes Massive X as a rebuilt architecture 
 
 ---
 
-
-
 ## Sylenth1
 
 <!-- role:pick -->
@@ -127,8 +123,6 @@ Developer documentation confirms Sylenth1 uses four oscillators with four-voice 
 [→ Get Sylenth1](https://www.lennardigital.com/sylenth1/)
 
 ---
-
-
 
 ## Nexus 4
 
@@ -154,8 +148,6 @@ Nexus 4 is a rompler-based synthesizer with an expandable preset library coverin
 
 ---
 
-
-
 ## Surge XT
 
 <!-- role:pick -->
@@ -179,8 +171,6 @@ Surge XT is an open-source hybrid synthesizer with subtractive, wavetable, FM, a
 [→ Download Surge XT Free](https://surge-synthesizer.github.io/)
 
 ---
-
-
 
 ## Odin 2
 
@@ -206,8 +196,6 @@ Developer documentation describes Odin 2 as a hybrid synthesizer supporting wave
 
 ---
 
-
-
 ## Dexed
 
 <!-- role:pick -->
@@ -232,8 +220,6 @@ Dexed is an open-source FM synthesizer built directly on the Yamaha DX7 algorith
 
 ---
 
-
-
 ## OTT
 
 <!-- role:pick -->
@@ -257,8 +243,6 @@ Developer documentation confirms OTT is Xfer's standalone release of the Ableton
 [→ Download OTT Free](https://xferrecords.com/freeware)
 
 ---
-
-
 
 ## TDR Nova
 
@@ -286,8 +270,6 @@ Developer documentation confirms TDR Nova combines parametric EQ and dynamic EQ 
 
 Space defines the texture of electronic music. These three tools cover common EDM spatial use cases — and none of them require a purchase decision at all.
 
-
-
 ## Valhalla Supermassive
 
 <!-- role:pick -->
@@ -311,8 +293,6 @@ Valhalla DSP's documentation describes Supermassive as using delay-based diffusi
 [Free Download](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
 
 ---
-
-
 
 ## TAL-Reverb-4
 
@@ -338,8 +318,6 @@ TAL Software's documentation describes TAL-Reverb-4 as a plate reverb with modul
 
 ---
 
-
-
 ## Valhalla Freq Echo
 
 <!-- role:pick -->
@@ -364,8 +342,6 @@ Developer documentation describes Valhalla Freq Echo as combining frequency shif
 
 ---
 
-
-
 ## LABS
 
 <!-- role:pick -->
@@ -389,8 +365,6 @@ LABS is a continuously expanding free sample library delivered through Spitfire'
 [→ Download LABS Free](https://labs.spitfireaudio.com)
 
 ---
-
-
 
 ## Podolski
 
@@ -417,8 +391,6 @@ u-he's documentation describes Podolski as a deliberately simple synthesizer —
 ---
 
 If you have exhausted the free options or are ready to invest in tools that will anchor your workflow for years, these three paid plugins are the upgrades covered in this guide.
-
-
 
 ## How to choose
 

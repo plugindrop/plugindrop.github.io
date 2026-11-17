@@ -30,8 +30,6 @@ Decent Sampler — Best Overall Free Pick
 
 Free, cross-platform, and it supports NI's `.nki` format for *uninstrumented* libraries — meaning you can load a huge range of community-built and boutique free libraries. Its real strength is the ecosystem: dozens of developers release full orchestral, cinematic, and acoustic libraries as free `.dspreset` downloads specifically because Decent Sampler has no licensing gate.
 
-
-
 ## sforzando
 
 <!-- role:pick -->
@@ -41,8 +39,6 @@ Free, cross-platform, and it supports NI's `.nki` format for *uninstrumented* li
 sforzando — Most Reliable SFZ Player
 
 If a library ships in SFZ format, sforzando is the most technically consistent way to play it back. It's not flashy, but it doesn't introduce the timing or velocity-mapping quirks that some newer players still have.
-
-
 
 ## TX16Wx
 
@@ -54,8 +50,6 @@ TX16Wx — Closest to a DAW-Grade Sampler
 
 TX16Wx is the pick for producers who want to *build* instruments, not just play back libraries — multi-layer mapping, built-in effects, and MPE support. It's the closest free tool gets to Kontakt's own instrument-building side.
 
-
-
 ## HISE
 
 <!-- role:pick -->
@@ -66,8 +60,6 @@ HISE — For Distributing Your Own Instruments
 
 HISE isn't really a player, it's a framework for compiling standalone sampler plugins. If you're a library developer (or want to sell your own instruments later), this is the free tool that gets you there without a Kontakt Creator Tools license.
 
-
-
 ## XT Sampler
 
 <!-- role:pick -->
@@ -77,8 +69,6 @@ HISE isn't really a player, it's a framework for compiling standalone sampler pl
 XT Sampler — Easiest Entry Point
 
 A simplified, modern-UI take on SFZ playback aimed at producers who find TX16Wx or sforzando's interfaces intimidating. Good starting point if you're new to sampling.
-
-
 
 ## Grace
 
@@ -109,8 +99,6 @@ If none of that applies to you, stay free. If you do electronic, hip-hop, or sou
 **Stay free indefinitely if:** your library sources are SFZ, DecentSampler `.dspreset`, or your own recorded multisamples. There's no upgrade path to chase here — Decent Sampler and sforzando aren't "free trials" of anything, they're the permanent tool for that format.
 
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
-
-
 
 ## How to choose
 

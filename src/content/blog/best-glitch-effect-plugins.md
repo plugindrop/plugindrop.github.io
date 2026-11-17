@@ -50,8 +50,6 @@ Its interface is dated by 2026 standards, and aliasing artifacts can be audible 
 
 ---
 
-
-
 ## Glitchmachines Fracture
 
 <!-- role:pick -->
@@ -75,8 +73,6 @@ It isn't a precision tool. It's a texture generator for moments when the goal is
 [→ Download Fracture Free](https://glitchmachines.com/products/fracture/)
 
 ---
-
-
 
 ## Glitchmachines Hysteresis
 
@@ -102,8 +98,6 @@ The two Glitchmachines free plugins address different parts of the glitch spectr
 
 ---
 
-
-
 ## iZotope Stutter Edit 2
 
 <!-- role:pick -->
@@ -127,8 +121,6 @@ iZotope's developer documentation confirms over 400 presets, full AAX support fo
 [→ Get iZotope Stutter Edit 2](https://www.native-instruments.com/products/stutter-edit-2)
 
 ---
-
-
 
 ## Output Portal
 
@@ -171,8 +163,6 @@ Sugar Bytes makes performance-oriented tools, and Buffer Synth fits that profile
 
 ---
 
-
-
 ## Sugar Bytes Effectrix
 
 <!-- role:pick -->
@@ -197,15 +187,15 @@ Its complexity is a genuine tradeoff — Effectrix requires real time investment
 
 ---
 
-
-
 ## Cableguys ShaperBox 3
 
 <!-- role:pick -->
 
 <!-- pick:Cableguys ShaperBox 3 -->
 
-ShaperBox 3 isn't marketed as a glitch tool, but the VolumeShaper module inside the suite can be used to create stutter and gate effects. Drawing custom LFO shapes against the beat gives precise control over where silence falls and for how long, a level of rhythmic exactness that freeform glitch processors can't match. It suits stutter that needs to stay locked to the grid and sound predictable rather than chaotic. The broader suite extends past stutter work with features like Audio Triggering, a Sidechain View built into VolumeShaper, and a PitchShaper module, making it useful for general mixing, sidechain-style shaping, and other musical motion effects as well. It runs on Windows 7, 8, 10, or 11 in 64-bit only, and on Mac systems with an Intel or Apple Silicon processor, either natively or through Rosetta, and is available in VST3, AU, and AAX formats.
+ShaperBox 3 isn't marketed as a glitch tool, but the VolumeShaper module inside the suite can be used to create stutter and gate effects. Drawing custom LFO shapes against the beat gives precise control over where silence falls and for how long, a level of rhythmic exactness that freeform glitch processors can't match. It suits stutter that needs to stay locked to the grid and sound predictable rather than chaotic.
+
+The broader suite extends past stutter work with features like Audio Triggering, a Sidechain View built into VolumeShaper, and a PitchShaper module, making it useful for general mixing, sidechain-style shaping, and other musical motion effects as well. It runs on Windows 7, 8, 10, or 11 in 64-bit only, and on Mac systems with an Intel or Apple Silicon processor, either natively or through Rosetta, and is available in VST3, AU, and AAX formats.
 
 Best for: producers who want tempo-synced, beat-precise stutter and gate effects with custom LFO control, along with broader volume- and sidechain-based mixing tools in the same suite.
 

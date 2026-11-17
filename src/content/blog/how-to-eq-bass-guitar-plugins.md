@@ -25,9 +25,13 @@ The physics behind bass frequency management are specific. The open E string on 
 
 <!-- role:howto -->
 
+**TL;DR:** Bass EQ is the most consequential mix decision for translation on different playback systems — getting the low end wrong makes the mix sound too heavy on subwoofers and inaudible on laptop speakers simultaneously. This guide covers the four key steps: identifying the fundamental and harmonic content, cutting sub-bass mud, sidechaining with the kick for frequency separation, and using saturation to add presence on small speakers.
 
+The most common errors are: boosting low end that adds boom rather than the fundamental of the note; cutting too much below the fundamental and making the bass sound thin; and failing to manage the relationship between the bass and kick drum, causing both to compete in the same frequency range. The physics of bass frequency management are specific.
 
-**TL;DR:** Bass EQ is the most consequential mix decision for translation on different playback systems — getting the low end wrong makes the mix sound too heavy on subwoofers and inaudible on laptop speakers simultaneously. This guide covers the four key steps: identifying the fundamental and harmonic content, cutting sub-bass mud, sidechaining with the kick for frequency separation, and using saturation to add presence on small speakers. The most common errors are: boosting low end that adds boom rather than the fundamental of the note; cutting too much below the fundamental and making the bass sound thin; and failing to manage the relationship between the bass and kick drum, causing both to compete in the same frequency range. The physics of bass frequency management are specific. A bass guitar open E string has a fundamental frequency of approximately 41 Hz — below the range of most studio monitors, which means the fundamental is inaudible during mixing on speakers that don't extend that low. The actual "bass presence" you hear on small speakers is not the fundamental but the second harmonic at 82 Hz and the third harmonic at 123 Hz. EQ decisions made without understanding this distinction produce mixes that are inconsistent across playback systems. This guide approaches bass EQ as a systematic process rather than a collection of settings. Each step addresses a specific aspect of low-end management, with concrete frequency targets and plugin settings for both FabFilter Pro-Q 4 (the professional tool) and TDR Nova (the free alternative that covers the same techniques at no cost). ---
+A bass guitar open E string has a fundamental frequency of approximately 41 Hz — below the range of most studio monitors, which means the fundamental is inaudible during mixing on speakers that don't extend that low. The actual "bass presence" you hear on small speakers is not the fundamental but the second harmonic at 82 Hz and the third harmonic at 123 Hz.
+
+EQ decisions made without understanding this distinction produce mixes that are inconsistent across playback systems. This guide approaches bass EQ as a systematic process rather than a collection of settings. Each step addresses a specific aspect of low-end management, with concrete frequency targets and plugin settings for both FabFilter Pro-Q 4 (the professional tool) and TDR Nova (the free alternative that covers the same techniques at no cost). ---
 
 ## Step 1: Low-End Fundamentals — Understanding What You're Actually Equalizing
 
@@ -106,14 +110,17 @@ Bass EQ is fundamentally about translation — ensuring that the bass instrument
 
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources. <!-- pd:method:end -->
 
-
 ## FabFilter Pro-Q 4
 
 <!-- role:pick -->
 
 <!-- pick:FabFilter Pro-Q 4 -->
 
-FabFilter Pro-Q 4 is an equalizer built for professional bass work, offering up to 24 bands along with dynamic EQ and an external sidechain input. Those features suit the sidechain-kick approach in Step 3, where a dynamic band ducks the bass only at the moment the kick hits, targeted at the kick's fundamental frequency. Its built-in spectrum analyzer helps pinpoint frequencies accurately, both for cutting low-mid mud and for setting up sidechain targeting. The plugin also includes Spectral dynamics, which treats problem frequencies more precisely, and refined dynamic EQ processing that keeps distortion low across its zero latency, Natural Phase, and linear phase modes. It runs on Windows and macOS in VST3, AU, and AAX formats. For engineers who regularly mix bass instruments across many sessions, having dynamic EQ, sidechain support, and spectrum analysis together in a single plugin offers a real workflow advantage over piecing together separate tools.
+FabFilter Pro-Q 4 is an equalizer built for professional bass work, offering up to 24 bands along with dynamic EQ and an external sidechain input. Those features suit the sidechain-kick approach in Step 3, where a dynamic band ducks the bass only at the moment the kick hits, targeted at the kick's fundamental frequency.
+
+Its built-in spectrum analyzer helps pinpoint frequencies accurately, both for cutting low-mid mud and for setting up sidechain targeting. The plugin also includes Spectral dynamics, which treats problem frequencies more precisely, and refined dynamic EQ processing that keeps distortion low across its zero latency, Natural Phase, and linear phase modes. It runs on Windows and macOS in VST3, AU, and AAX formats.
+
+For engineers who regularly mix bass instruments across many sessions, having dynamic EQ, sidechain support, and spectrum analysis together in a single plugin offers a real workflow advantage over piecing together separate tools.
 
 | Tracked price | $199.00 |
 |---|---|
@@ -130,19 +137,11 @@ Last recorded sale: $105.00 on 2025-11-22.
 
 <!-- pick:TDR Nova -->
 
-
-
-
-
 ## Waves RBass
 
 <!-- role:pick -->
 
 <!-- pick:Waves RBass -->
-
-
-
-
 
 ## FAQ
 

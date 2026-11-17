@@ -13,13 +13,19 @@ draft: false
 ---
 <!-- guide:v4 kind=review -->
 
-Phase Plant is a synthesizer built around a fully open, modular design, so instead of following one fixed synthesis method, it lets you combine generators, link modulators to nearly any parameter, and chain effect modules together in whatever order you choose. This open structure means it can be shaped to behave like many different kinds of synthesizers, covering a wide range of sound-design approaches rather than specializing in just one. It is offered in two forms: a free version with a genuinely useful set of core features for people who want to try modular synthesis without committing to a purchase, and a full paid version that unlocks the complete set of generators, modulators, and effects for deeper, more involved sound design work. For anyone focused on detailed, hands-on sound creation, the breadth of what the full version can do stands out among current options.
+Phase Plant is a synthesizer built around a fully open, modular design, so instead of following one fixed synthesis method, it lets you combine generators, link modulators to nearly any parameter, and chain effect modules together in whatever order you choose. This open structure means it can be shaped to behave like many different kinds of synthesizers, covering a wide range of sound-design approaches rather than specializing in just one.
+
+It is offered in two forms: a free version with a genuinely useful set of core features for people who want to try modular synthesis without committing to a purchase, and a full paid version that unlocks the complete set of generators, modulators, and effects for deeper, more involved sound design work. For anyone focused on detailed, hands-on sound creation, the breadth of what the full version can do stands out among current options.
 
 ## Introduction
 
 <!-- role:intro -->
 
-A mistake many producers make when shopping for a new synthesizer is treating synthesis style as a fixed category — wavetable, FM, analog, granular — and picking a plugin based on which of those labels fits. Phase Plant works differently. It is built around generators, modulators, and effects that can be combined in almost any configuration, rather than locking the user into one synthesis method. Wavetable oscillators, FM operators, sample players, and noise sources can all live inside a single patch at the same time. Any of these elements can be used to modulate any other, and the combined result can then be sent through a chain of effect modules, all within one instrument rather than across separate tools. This open, building-block approach is what sets the instrument apart: instead of offering one style of sound generation done well, it offers a flexible framework that can be shaped into many different styles depending on how the pieces are arranged.
+A mistake many producers make when shopping for a new synthesizer is treating synthesis style as a fixed category — wavetable, FM, analog, granular — and picking a plugin based on which of those labels fits. Phase Plant works differently. It is built around generators, modulators, and effects that can be combined in almost any configuration, rather than locking the user into one synthesis method.
+
+Wavetable oscillators, FM operators, sample players, and noise sources can all live inside a single patch at the same time. Any of these elements can be used to modulate any other, and the combined result can then be sent through a chain of effect modules, all within one instrument rather than across separate tools.
+
+This open, building-block approach is what sets the instrument apart: instead of offering one style of sound generation done well, it offers a flexible framework that can be shaped into many different styles depending on how the pieces are arranged.
 
 ## Phase Plant
 
@@ -67,8 +73,6 @@ You can build real sounds, export audio, and decide based on actual usage. Most 
 
 ---
 
-
-
 ## Workflow and Interface
 
 <!-- role:pick -->
@@ -84,8 +88,6 @@ Kilohearts partially addresses this with a strong preset library. The factory pr
 CPU usage scales with patch complexity. A simple two-oscillator patch is light. A six-generator FM patch with multiple audio-rate modulators and a dense Snapin chain will tax your CPU. On modern hardware (M-series Mac, AMD Ryzen 7+) this is a non-issue for most use cases, but low-spec machines should test complex patches before committing to high polyphony counts.
 
 ---
-
-
 
 ## Who Should Buy Phase Plant
 
@@ -109,8 +111,6 @@ It's less ideal for producers who need a fast preset-browser workflow and minima
 
 ---
 
-
-
 ## Serum
 
 <!-- role:pick -->
@@ -126,8 +126,6 @@ Serum — A Dedicated Wavetable Synth
 [→ Get Serum on Official Site](https://xferrecords.com/products/serum-2)
 
 ---
-
-
 
 ## u-he Hive 2
 
@@ -152,7 +150,11 @@ Last recorded sale: $99.00 on 2026-09-01.
 
 <!-- role:verdict -->
 
-u-he Hive 2 is a fast, hybrid synth built for producers who want strong sounds without a lot of menu-diving. It runs three synth engines at once, combining wavetable oscillators, standard waveforms, and tunable sub-oscillators into a flexible, immediately usable voice, and it keeps CPU demands low even when several instances are running in a session. Modulation routing uses simple drag-and-drop assignment, and four user-definable XY control pads let you shape and perform changes in real time rather than digging through menus. The synth also includes a distinctive eight-step shape sequencer with four independent outputs, along with a full arpeggiator and step sequencer that support real-time recording for building rhythmic patterns on the fly. A scale quantizer with a list of predefined scales helps keep melodic and rhythmic ideas locked to key. On the output side, Hive 2 carries seven rearrangeable effects, including distortion, chorus, and reverb, that can be applied and reordered to shape the final tone. Taken together, this combination of a hybrid oscillator engine, hands-on modulation tools, built-in sequencing, and a flexible effects chain is what makes Hive 2 suited to producers who want to move quickly from idea to finished sound rather than build a patch from the ground up.
+u-he Hive 2 is a fast, hybrid synth built for producers who want strong sounds without a lot of menu-diving. It runs three synth engines at once, combining wavetable oscillators, standard waveforms, and tunable sub-oscillators into a flexible, immediately usable voice, and it keeps CPU demands low even when several instances are running in a session.
+
+Modulation routing uses simple drag-and-drop assignment, and four user-definable XY control pads let you shape and perform changes in real time rather than digging through menus. The synth also includes a distinctive eight-step shape sequencer with four independent outputs, along with a full arpeggiator and step sequencer that support real-time recording for building rhythmic patterns on the fly.
+
+A scale quantizer with a list of predefined scales helps keep melodic and rhythmic ideas locked to key. On the output side, Hive 2 carries seven rearrangeable effects, including distortion, chorus, and reverb, that can be applied and reordered to shape the final tone. Taken together, this combination of a hybrid oscillator engine, hands-on modulation tools, built-in sequencing, and a flexible effects chain is what makes Hive 2 suited to producers who want to move quickly from idea to finished sound rather than build a patch from the ground up.
 
 ## FAQ
 

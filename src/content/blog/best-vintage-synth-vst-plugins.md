@@ -47,8 +47,6 @@ OB-Xd models the Oberheim OB-X and OB-Xa — polyphonic synthesizers known for w
 
 ---
 
-
-
 ## Dexed
 
 <!-- role:pick -->
@@ -74,8 +72,6 @@ Dexed models the Yamaha DX7 — the FM synthesizer behind the electric piano, me
 [→ Download Dexed Free](https://asb2m10.github.io/dexed/)
 
 ---
-
-
 
 ## Surge XT
 
@@ -103,8 +99,6 @@ Surge XT includes analog-modeled filter circuits drawn from classic hardware arc
 
 ---
 
-
-
 ## Arturia Mini V3
 
 <!-- role:pick -->
@@ -131,8 +125,6 @@ Mini V3 models the Minimoog Model D using Arturia's TAE (True Analog Emulation) 
 
 ---
 
-
-
 ## Cherry Audio Memorymode 2
 
 <!-- role:pick -->
@@ -141,7 +133,9 @@ Mini V3 models the Minimoog Model D using Arturia's TAE (True Analog Emulation) 
 
 Cherry Audio Memorymode 2, nicknamed the budget poly-Moog, is a virtual instrument built around the Memorymoog, one of the most iconic polyphonic programmable analog synthesizers of the 1980s, essentially six Minimoog-style voices combined into a single polyphonic instrument. It runs on both Windows and macOS, in VST, VST3, AU, and AAX formats, and offers a lower-cost way to bring that Moog ladder-filter warmth to full chords and pads rather than to a single mono voice.
 
-Under the hood it uses a newly optimized dual-layer architecture, giving two complete 16-voice polyphonic synthesizer layers that can be stacked or split within one preset. The ladder filter itself is precisely recreated with selectable 12- and 24-dB-per-octave slopes, and a Modern setting adds beefier low end and more crystalline highs. Each layer carries two tempo-syncable LFOs with seven waveforms and a reset option, and an analog drift control adds subtle pitch and timing variation for a more organic, hardware-like feel. It is available as a standalone instrument as well as a plug-in, with user-adjustable oversampling, and an innovative Touch Animator ties expressive automation to four touch controls. Over 800 presets are included, among them recreations of the 100 factory patches from the original hardware, organized in a redesigned preset browser.
+Under the hood it uses a newly optimized dual-layer architecture, giving two complete 16-voice polyphonic synthesizer layers that can be stacked or split within one preset. The ladder filter itself is precisely recreated with selectable 12- and 24-dB-per-octave slopes, and a Modern setting adds beefier low end and more crystalline highs. Each layer carries two tempo-syncable LFOs with seven waveforms and a reset option, and an analog drift control adds subtle pitch and timing variation for a more organic, hardware-like feel.
+
+It is available as a standalone instrument as well as a plug-in, with user-adjustable oversampling, and an innovative Touch Animator ties expressive automation to four touch controls. Over 800 presets are included, among them recreations of the 100 factory patches from the original hardware, organized in a redesigned preset browser.
 
 This makes it a good fit for producers who want authentic Moog-style character spread across pads and chords, along with layered polyphonic parts, keyboard splits, stacked sounds, arpeggios, and step-sequenced patterns, without reaching for a pricier, more exacting standalone emulation. It is a weaker fit for anyone who specifically wants the raw, snarling single-oscillator bass tone of a true mono Minimoog: Memorymode 2 trades that edge for a smoother, polyphonic voice that shines on pads rather than biting basslines.
 
@@ -177,8 +171,6 @@ The Legend models the Minimoog with a documented zero-delay-feedback filter impl
 
 ---
 
-
-
 ## TAL-U-NO-LX
 
 <!-- role:pick -->
@@ -204,8 +196,6 @@ TAL's U-NO-LX is a Roland Juno-60 emulation. Developer documentation emphasizes 
 [→ Get TAL-U-NO-LX on Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/423-TAL-U-NO-LX-Synth?a_aid=69cb95abe1763&chan=art&data1=best-vintage-synth-vst-plugins)
 
 ---
-
-
 
 ## Arturia Jup-8 V
 
@@ -334,8 +324,6 @@ The ARP 2600 is a semi-modular synthesizer from the early 1970s known for its bu
 
 ---
 
-
-
 ## Arturia CS-80 V
 
 <!-- role:pick -->
@@ -366,15 +354,17 @@ The free tier gets you making music today. But there's a point — usually when 
 
 And if Diva is on your list, buy it the moment u-he posts any sale, because the discounts are shallow and infrequent; it holds its value harder than almost anything else on this table.
 
-
-
 ## How to choose
 
 <!-- role:choose -->
 
 ## How to Choose
 
-If circuit accuracy matters most, u-he Diva stands out as the top option, since it is the only plugin in this guide built on near-sample-accurate circuit simulation rather than behavioral modeling. For producers who want Moog-style bass and lead tones on a tighter budget, Cherry Audio Memorymode 2 offers character comparable to Arturia Mini V3 at a lower cost. Anyone chasing the Roland Juno chorus sound specifically should look at TAL-U-NO-LX, the Juno-60 emulation covered here — there is no meaningful free alternative that reproduces that particular bucket-brigade-device chorus circuit. For those planning to pick up three or more Arturia instruments, the Arturia V Collection 11 bundle is generally the better financial choice compared with buying each one separately at full price, especially when the bundle goes on sale. And for anyone starting out with no budget at all, OB-Xd (modeled on the Oberheim), Dexed (modeled on the Yamaha DX7), and Surge XT (covering several vintage filter styles) together provide three distinct vintage sound palettes at no cost.
+If circuit accuracy matters most, u-he Diva stands out as the top option, since it is the only plugin in this guide built on near-sample-accurate circuit simulation rather than behavioral modeling. For producers who want Moog-style bass and lead tones on a tighter budget, Cherry Audio Memorymode 2 offers character comparable to Arturia Mini V3 at a lower cost.
+
+Anyone chasing the Roland Juno chorus sound specifically should look at TAL-U-NO-LX, the Juno-60 emulation covered here — there is no meaningful free alternative that reproduces that particular bucket-brigade-device chorus circuit. For those planning to pick up three or more Arturia instruments, the Arturia V Collection 11 bundle is generally the better financial choice compared with buying each one separately at full price, especially when the bundle goes on sale.
+
+And for anyone starting out with no budget at all, OB-Xd (modeled on the Oberheim), Dexed (modeled on the Yamaha DX7), and Surge XT (covering several vintage filter styles) together provide three distinct vintage sound palettes at no cost.
 
 ## FAQ
 

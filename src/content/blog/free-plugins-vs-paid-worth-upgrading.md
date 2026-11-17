@@ -21,7 +21,9 @@ Most free EQ plugins can realistically handle the bulk of everyday production wo
 
 <!-- role:intro -->
 
-FabFilter Pro-Q 4 is an equalizer plugin offering up to 24 bands, with its standout addition being Spectral Dynamics for more precise and efficient handling of problem frequencies. It's built for engineers working across stereo, surround, and Dolby Atmos sessions, whether mixing or mastering: the 3 dB and 6 dB display ranges suit detailed mastering work, while the 12 dB and 30 dB ranges are geared toward broader mixing moves. Beyond Spectral Dynamics, the plugin includes Dynamic EQ with Attack and Release controls plus optional free side-chain filtering, letting engineers shape how each band reacts to the material. Processing has also been refined to produce less distortion and a cleaner overall sound, consistent across its zero latency, Natural Phase, and linear phase modes, so the choice of mode is a tradeoff between latency and phase behavior rather than sound quality.
+FabFilter Pro-Q 4 is an equalizer plugin offering up to 24 bands, with its standout addition being Spectral Dynamics for more precise and efficient handling of problem frequencies. It's built for engineers working across stereo, surround, and Dolby Atmos sessions, whether mixing or mastering: the 3 dB and 6 dB display ranges suit detailed mastering work, while the 12 dB and 30 dB ranges are geared toward broader mixing moves.
+
+Beyond Spectral Dynamics, the plugin includes Dynamic EQ with Attack and Release controls plus optional free side-chain filtering, letting engineers shape how each band reacts to the material. Processing has also been refined to produce less distortion and a cleaner overall sound, consistent across its zero latency, Natural Phase, and linear phase modes, so the choice of mode is a tradeoff between latency and phase behavior rather than sound quality.
 
 ## TDR Nova
 
@@ -32,8 +34,6 @@ FabFilter Pro-Q 4 is an equalizer plugin offering up to 24 bands, with its stand
 TDR Nova — Free
 
 Four dynamic EQ bands, each switchable between static and dynamic mode. High-pass and low-pass filters. Spectrum analyzer. Handles surgical EQ work and gentle dynamic correction. [Full article here](/posts/best-free-eq-vst-plugins/).
-
-
 
 ## FabFilter Pro-Q 4
 
@@ -68,8 +68,6 @@ What Paid Gets You
 
 **When to upgrade:** When you regularly need mid/side processing per band, more than 4 dynamic bands simultaneously, or work in surround formats. For standard stereo mixing with 4 or fewer problem frequencies, TDR Nova handles the job.
 
-
-
 ## Valhalla Supermassive
 
 <!-- role:pick -->
@@ -79,8 +77,6 @@ What Paid Gets You
 Valhalla Supermassive — Free
 
 18+ modes focused on massive reverb tails, delays, and experimental warp effects. Infinite decay. Reverb/delay hybrid. [Full breakdown](/posts/best-free-reverb-vst-plugins/).
-
-
 
 ## Valhalla VintageVerb
 
@@ -117,8 +113,6 @@ Three wavetable oscillators, spectral warping, drag-and-drop modulation, visual 
 <!-- pick:Serum -->
 
 Two wavetable oscillators, sub-oscillator, noise oscillator, advanced unison with multiple modes, wavetable editor with formula-based generation, and the largest third-party preset ecosystem of any soft synth.
-
-
 
 ## Verdict
 

@@ -32,8 +32,6 @@ The current version of this audio repair software is RX 12, not RX 11. It comes 
 
 Six plugins: De-click, De-clip, De-hum, De-reverb, Voice De-noise and the Repair Assistant.
 
-
-
 ## RX 12 Standard ($399)
 
 <!-- role:pick -->
@@ -41,8 +39,6 @@ Six plugins: De-click, De-clip, De-hum, De-reverb, Voice De-noise and the Repair
 <!-- pick:RX 12 Standard ($399) -->
 
 Everything in Elements, plus (per the plugin comparison table): Breath Control, Connect, De-bleed, De-crackle, De-ess, De-plosive, Dialogue Isolate, Guitar De-noise, Monitor, Mouth De-click, Music Rebalance, Spectral De-noise and the Spectral Editor (with ARA support for Logic Pro 10.7+ in Rosetta and Studio One 7 / Studio Pro 8). The standalone editor adds modules such as Spectral Repair, Loudness Optimize, Streaming Preview, Loudness Control, Time & Pitch, Dither and Resample.
-
-
 
 ## RX 12 Advanced ($1,399)
 
@@ -113,8 +109,6 @@ A: We do not have vendor information on how long RX 11 remains supported. Check 
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
 
 This article brings together publicly available product information from the vendor's own pages (checked 2026-09-30). We have not tested the product hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
-
-
 
 ## Verdict
 

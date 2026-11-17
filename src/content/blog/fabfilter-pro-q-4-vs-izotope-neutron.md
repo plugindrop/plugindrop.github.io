@@ -29,7 +29,9 @@ FabFilter Pro-Q 4 is an equalizer plug-in that can have up to 24 bands. It inclu
 
 <!-- pick:FabFilter Pro-Q 4 -->
 
-FabFilter Pro-Q 4 is an equalizer plug-in that can have up to 24 bands. It includes a dynamic EQ mode with adjustable attack and release settings, spectral dynamics processing, and three processing modes: zero latency, linear phase, and Natural Phase. It supports mid/side and left/right processing, along with Gentle and Warm character modes. Additional features include an Instance List for managing multiple instances, a built-in spectrum analyzer with Spectrum Grab, EQ Sketch for drawing curves, and EQ Match. It also supports immersive and Dolby Atmos formats up to 9.1.6 and has a GPU-accelerated interface. It is best suited for users who want a single, feature-rich EQ and plan to use other plugins for compression and additional processing.
+FabFilter Pro-Q 4 is an equalizer plug-in that can have up to 24 bands. It includes a dynamic EQ mode with adjustable attack and release settings, spectral dynamics processing, and three processing modes: zero latency, linear phase, and Natural Phase. It supports mid/side and left/right processing, along with Gentle and Warm character modes. Additional features include an Instance List for managing multiple instances, a built-in spectrum analyzer with Spectrum Grab, EQ Sketch for drawing curves, and EQ Match.
+
+It also supports immersive and Dolby Atmos formats up to 9.1.6 and has a GPU-accelerated interface. It is best suited for users who want a single, feature-rich EQ and plan to use other plugins for compression and additional processing.
 
 | Tracked price | $199.00 |
 |---|---|

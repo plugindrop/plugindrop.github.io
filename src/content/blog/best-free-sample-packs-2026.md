@@ -30,10 +30,6 @@ This guide walks through eight sources that have proven reliable, spanning both 
 
 <!-- pick:Source -->
 
-
-
-
-
 ## ADSR Sounds
 
 <!-- role:pick -->
@@ -58,8 +54,6 @@ What separates ADSR from raw community upload sites is the metadata quality. It 
 
 ---
 
-
-
 ## MusicRadar
 
 <!-- role:pick -->
@@ -81,8 +75,6 @@ MusicRadar's free releases suit producers who work across genres and want variet
 **Best for:** Producers who work across multiple genres and want editorially vetted samples without creating an account.
 
 ---
-
-
 
 ## Cymatics
 
@@ -106,8 +98,6 @@ The tradeoff: Cymatics requires an email address to download and markets paid pr
 
 ---
 
-
-
 ## Freesound.org
 
 <!-- role:pick -->
@@ -129,8 +119,6 @@ It is not the right tool for polished, ready-to-drop loops. It is the right tool
 **Best for:** Sound designers and experimental producers — not recommended as a primary source for polished drums or loops.
 
 ---
-
-
 
 ## Looperman
 
@@ -154,8 +142,6 @@ The quality ceiling is lower than curated platforms — this is user-uploaded co
 
 ---
 
-
-
 ## Bedroom Producers Blog
 
 <!-- role:pick -->
@@ -178,8 +164,6 @@ Bedroom Producers Blog (BPB) doesn't host samples directly but functions as one 
 
 The free sources above cover most production needs. These two paid platforms are options for producers ready to invest in their library.
 
-
-
 ## Loopmasters
 
 <!-- role:pick -->
@@ -196,17 +180,11 @@ Loopmasters — The benchmark for professional genre-specific packs
 
 ---
 
-
-
 ## ADSR Sounds Packs
 
 <!-- role:pick -->
 
 <!-- pick:ADSR Sounds Packs -->
-
-
-
-
 
 ## How to choose
 
@@ -214,7 +192,11 @@ Loopmasters — The benchmark for professional genre-specific packs
 
 ## How to Choose
 
-Someone building a sample library from the ground up should start with ADSR Sounds, since its curation and clear metadata make it easier to find and actually use a downloaded sound months later. Producers working in trap, hip-hop, or modern EDM who want contemporary-sounding drums can turn to Cymatics' free packs, which cover 808s and drum one-shots. Anyone who needs unique textures, field recordings, or unusual source material will find few equals to Freesound.org among free options, though the specific Creative Commons license on each file should be checked before it's used in a commercial project. Producers who would rather have someone else filter through new releases can bookmark Bedroom Producers Blog and check its roundups regularly instead of searching multiple sources on their own. Finally, for those ready to invest money and who work mainly in one style, Loopmasters is one option for packs that are professionally produced and focused on a specific genre.
+Someone building a sample library from the ground up should start with ADSR Sounds, since its curation and clear metadata make it easier to find and actually use a downloaded sound months later. Producers working in trap, hip-hop, or modern EDM who want contemporary-sounding drums can turn to Cymatics' free packs, which cover 808s and drum one-shots.
+
+Anyone who needs unique textures, field recordings, or unusual source material will find few equals to Freesound.org among free options, though the specific Creative Commons license on each file should be checked before it's used in a commercial project. Producers who would rather have someone else filter through new releases can bookmark Bedroom Producers Blog and check its roundups regularly instead of searching multiple sources on their own.
+
+Finally, for those ready to invest money and who work mainly in one style, Loopmasters is one option for packs that are professionally produced and focused on a specific genre.
 
 ## FAQ
 

@@ -20,7 +20,9 @@ FabFilter Saturn 2 handles the multiband distortion and saturation duties, split
 
 <!-- role:intro -->
 
-FabFilter Saturn 2 is a multiband distortion and saturation plugin that splits an incoming signal into as many as six bands, each with its own drive, mix, feedback, dynamics, tone, and level controls. The crossovers between bands can be set to slopes of 6, 12, 24, or 48 dB per octave, and an optional linear phase mode keeps those crossovers from shifting phase, which is useful when the plugin is used for mastering. The interface shows modulation sources and targets moving in real time, and an interactive multiband display makes it easy to see and adjust how each band is behaving. Two higher-quality processing modes, labeled Good and Superb, apply 8x and 32x oversampling respectively for cleaner results when settings get more extreme. The tonal range runs from subtle, warm tube- or tape-style saturation all the way to aggressive multiband guitar amp effects, so it can serve either as a gentle shaping tool for mastering or as a heavier processor for guitar sounds.
+FabFilter Saturn 2 is a multiband distortion and saturation plugin that splits an incoming signal into as many as six bands, each with its own drive, mix, feedback, dynamics, tone, and level controls. The crossovers between bands can be set to slopes of 6, 12, 24, or 48 dB per octave, and an optional linear phase mode keeps those crossovers from shifting phase, which is useful when the plugin is used for mastering.
+
+The interface shows modulation sources and targets moving in real time, and an interactive multiband display makes it easy to see and adjust how each band is behaving. Two higher-quality processing modes, labeled Good and Superb, apply 8x and 32x oversampling respectively for cleaner results when settings get more extreme. The tonal range runs from subtle, warm tube- or tape-style saturation all the way to aggressive multiband guitar amp effects, so it can serve either as a gentle shaping tool for mastering or as a heavier processor for guitar sounds.
 
 ## TDR Nova
 
@@ -28,19 +30,11 @@ FabFilter Saturn 2 is a multiband distortion and saturation plugin that splits a
 
 <!-- pick:TDR Nova -->
 
-
-
-
-
 ## Youlean Loudness Meter
 
 <!-- role:pick -->
 
 <!-- pick:Youlean Loudness Meter -->
-
-
-
-
 
 ## FabFilter Saturn 2
 
@@ -133,7 +127,9 @@ Ozone 12 Advanced is a mastering suite built for audio professionals, centered o
 
 Bass Control is suited to fixing a weak mix, tightening a kick, or adding subtle low-end weight, since it lets a user balance low end energy while enhancing clarity, punch, and impact. It gives the low end a focused, energetic drive without muddying the rest of the mix. The Unlimiter module restores transients lost to heavy compression, bringing dynamics back with a transparent, natural sound, which can also help address thin vocals or drums that have become overpowering in a mix.
 
-A chat assistant feature is included only for subscribers, and the suite now supports the BorisFX licensing method. A fix addresses a crash that occurred when running Master Assistant on sessions at a 192k sample rate. Plug-in formats are limited to AAX, AU, and VST3, all 64-bit only, with VST2 no longer supported, so 32-bit hosts fall outside the stated support. On Apple hardware, the suite runs natively on Apple silicon as well as Intel Macs, supporting macOS Ventura, Sonoma, and Sequoia, with native or Rosetta operation on M-series chips; on Windows, support covers Windows 10 (22H2) and Windows 11 (24H2). In an independent comparison, Ozone 12 was tested alongside FASTER MASTER and the LANDR Mastering Plugin PRO as automated mastering options, with the reviewer finding Ozone 12 and FASTER MASTER on a par while LANDR fell behind, and naming FASTER MASTER the strongest of the automated options overall.
+A chat assistant feature is included only for subscribers, and the suite now supports the BorisFX licensing method. A fix addresses a crash that occurred when running Master Assistant on sessions at a 192k sample rate. Plug-in formats are limited to AAX, AU, and VST3, all 64-bit only, with VST2 no longer supported, so 32-bit hosts fall outside the stated support.
+
+On Apple hardware, the suite runs natively on Apple silicon as well as Intel Macs, supporting macOS Ventura, Sonoma, and Sequoia, with native or Rosetta operation on M-series chips; on Windows, support covers Windows 10 (22H2) and Windows 11 (24H2). In an independent comparison, Ozone 12 was tested alongside FASTER MASTER and the LANDR Mastering Plugin PRO as automated mastering options, with the reviewer finding Ozone 12 and FASTER MASTER on a par while LANDR fell behind, and naming FASTER MASTER the strongest of the automated options overall.
 
 | Tracked price | $499.00 |
 |---|---|
@@ -162,7 +158,9 @@ Ozone 12 Advanced is an AI-assisted mastering suite with 20 modules, including S
 
 <!-- role:faq -->
 
-**TL;DR:** TDR Nova is a parallel dynamic equalizer with four dynamic EQ bands plus high-pass and low-pass filter sections, so one plugin covers parametric EQ, dynamic EQ, and wideband dynamics <sup><a href="https://www.tokyodawn.net/tdr-nova/" rel="nofollow noopener" target="_blank">[1]</a></sup><sup><a href="https://www.tokyodawn.net/tdr-nova/" rel="nofollow noopener" target="_blank">[2]</a></sup>. Youlean Loudness Meter is built for analysis only, checking perceived loudness against the ITU-R BS.1770 requirements and exporting measurements as PDF, PNG, or SVG, but it cannot alter the audio loudness <sup><a href="https://youlean.co/youlean-loudness-meter/" rel="nofollow noopener" target="_blank">[3]</a></sup><sup><a href="https://youlean.co/youlean-loudness-meter/" rel="nofollow noopener" target="_blank">[4]</a></sup><sup><a href="https://youlean.co/youlean-loudness-meter/" rel="nofollow noopener" target="_blank">[5]</a></sup>. FabFilter Saturn 2 offers multiband distortion with up to six bands, adjustable crossover slopes, and a linear phase mode for crossover filtering, and for the final stage, FabFilter Pro-L 2 provides true peak limiting with up to 32x oversampling and loudness metering to the EBU R128 standard, while Sonnox Oxford EQ is a 5-band parametric EQ whose Type 4 mode is aimed at mastering <sup><a href="https://www.fabfilter.com/help/saturn" rel="nofollow noopener" target="_blank">[6]</a></sup><sup><a href="https://www.fabfilter.com/help/saturn" rel="nofollow noopener" target="_blank">[7]</a></sup><sup><a href="https://www.fabfilter.com/help/saturn" rel="nofollow noopener" target="_blank">[8]</a></sup><sup><a href="https://www.fabfilter.com/help/pro-l/intro/fabfilterprol" rel="nofollow noopener" target="_blank">[9]</a></sup><sup><a href="https://www.fabfilter.com/help/pro-l/intro/fabfilterprol" rel="nofollow noopener" target="_blank">[10]</a></sup><sup><a href="https://sonnox.com/products/oxford-eq" rel="nofollow noopener" target="_blank">[11]</a></sup><sup><a href="https://sonnox.com/products/oxford-eq" rel="nofollow noopener" target="_blank">[12]</a></sup>.
+**TL;DR:** TDR Nova is a parallel dynamic equalizer with four dynamic EQ bands plus high-pass and low-pass filter sections, so one plugin covers parametric EQ, dynamic EQ, and wideband dynamics <sup><a href="https://www.tokyodawn.net/tdr-nova/" rel="nofollow noopener" target="_blank">[1]</a></sup><sup><a href="https://www.tokyodawn.net/tdr-nova/" rel="nofollow noopener" target="_blank">[2]</a></sup>. Youlean Loudness Meter is built for analysis only, checking perceived loudness against the ITU-R BS.1770 requirements and exporting measurements as PDF, PNG, or SVG, but it cannot alter the audio loudness <sup><a href="https://youlean.co/youlean-loudness-meter/" rel="nofollow noopener" target="_blank">[3]</a></sup><sup><a href="https://youlean.co/youlean-loudness-meter/" rel="nofollow noopener" target="_blank">[4]</a></sup><sup><a href="https://youlean.co/youlean-loudness-meter/" rel="nofollow noopener" target="_blank">[5]</a></sup>.
+
+FabFilter Saturn 2 offers multiband distortion with up to six bands, adjustable crossover slopes, and a linear phase mode for crossover filtering, and for the final stage, FabFilter Pro-L 2 provides true peak limiting with up to 32x oversampling and loudness metering to the EBU R128 standard, while Sonnox Oxford EQ is a 5-band parametric EQ whose Type 4 mode is aimed at mastering <sup><a href="https://www.fabfilter.com/help/saturn" rel="nofollow noopener" target="_blank">[6]</a></sup><sup><a href="https://www.fabfilter.com/help/saturn" rel="nofollow noopener" target="_blank">[7]</a></sup><sup><a href="https://www.fabfilter.com/help/saturn" rel="nofollow noopener" target="_blank">[8]</a></sup><sup><a href="https://www.fabfilter.com/help/pro-l/intro/fabfilterprol" rel="nofollow noopener" target="_blank">[9]</a></sup><sup><a href="https://www.fabfilter.com/help/pro-l/intro/fabfilterprol" rel="nofollow noopener" target="_blank">[10]</a></sup><sup><a href="https://sonnox.com/products/oxford-eq" rel="nofollow noopener" target="_blank">[11]</a></sup><sup><a href="https://sonnox.com/products/oxford-eq" rel="nofollow noopener" target="_blank">[12]</a></sup>.
 
 Research date: 2026-11-04. Reviewed 18 source URLs (forum: 1, interview: 1, press: 10, vendor_docs: 5, video: 1). Each pick has at least one verified official fact, mentions from at least two independent third-party domains, and no verified discontinuation notice. Picks are ordered by independent domain count, then priced check count for paid products, then name. No placement fees were accepted. Price observations are shown only for picks with sufficient tracker history.
 

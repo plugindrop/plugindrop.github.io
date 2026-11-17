@@ -46,8 +46,6 @@ It is free. There's no purchase decision to make here at all — download it tod
 
 ---
 
-
-
 ## iZotope Ozone Imager 2
 
 <!-- role:pick -->
@@ -71,8 +69,6 @@ The mono compatibility checker alone makes this worth installing even if you use
 [→ Get iZotope Ozone Imager 2 on Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/5997-Ozone-Imager-2?a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins)
 
 ---
-
-
 
 ## Voxengo MSED
 
@@ -98,8 +94,6 @@ This is the tool that graduates producers from "turn up the width knob" to genui
 
 ---
 
-
-
 ## MeldaProduction MStereoExpander
 
 <!-- role:pick -->
@@ -123,8 +117,6 @@ For producers who need more than a single width knob but aren't ready to spend o
 [→ Download MStereoExpander Free](https://www.meldaproduction.com/MStereoExpander)
 
 ---
-
-
 
 ## Waves S1 Stereo Imager
 
@@ -150,8 +142,6 @@ At its regular sale price, the S1 is one of the best value-for-money professiona
 
 ---
 
-
-
 ## Brainworx bx_stereomaker
 
 <!-- role:pick -->
@@ -175,8 +165,6 @@ This is the plugin engineers reach for when they receive a mono guitar DI, a mon
 [Get Brainworx bx_stereomaker](https://www.pluginboutique.com/search?q=Brainworx+bx_stereomaker&a_aid=69cb95abe1763&chan=art&data1=best-stereo-widener-plugins)
 
 ---
-
-
 
 ## Soundtoys MicroShift
 
@@ -221,8 +209,6 @@ The Punch parameter, which controls transient behavior independently per channel
 
 ---
 
-
-
 ## Nugen Audio Stereoizer
 
 <!-- role:pick -->
@@ -247,15 +233,17 @@ The price is higher than most options here, and Nugen discounts less aggressivel
 
 ---
 
-
-
 ## Eventide MicroPitch
 
 <!-- role:pick -->
 
 <!-- pick:Eventide MicroPitch -->
 
-MicroPitch pairs a dual-voice pitch shifter with built-in delay, and Eventide designed it specifically to add a bit of life to a mix or to shine in experimental and live-performance settings, whether you're running it on a desktop, a laptop, or an iPad. Each of its two voices can shift from unison out to fifty cents below pitch and fifty cents above, and every voice carries its own delay line that can stretch out to a full two seconds. Because the shifted and delayed copies of the source sit slightly apart from the original, the plug-in opens up a wide, dimensional stereo image rather than a flat, centered signal. Its expanded controls let you push those pitch offsets into deep, swooping dives, build haunting echo trails, or layer on a rich chorusing effect across either voice. A dedicated Ribbon control lets you sweep the character of the delays from dark and warm tones to bright, cutting ones, which is especially handy for turning a subtle sweetening shift into a dramatic delay-throw and back again, giving you smooth transitions between effect states as a track moves along.
+MicroPitch pairs a dual-voice pitch shifter with built-in delay, and Eventide designed it specifically to add a bit of life to a mix or to shine in experimental and live-performance settings, whether you're running it on a desktop, a laptop, or an iPad. Each of its two voices can shift from unison out to fifty cents below pitch and fifty cents above, and every voice carries its own delay line that can stretch out to a full two seconds.
+
+Because the shifted and delayed copies of the source sit slightly apart from the original, the plug-in opens up a wide, dimensional stereo image rather than a flat, centered signal. Its expanded controls let you push those pitch offsets into deep, swooping dives, build haunting echo trails, or layer on a rich chorusing effect across either voice.
+
+A dedicated Ribbon control lets you sweep the character of the delays from dark and warm tones to bright, cutting ones, which is especially handy for turning a subtle sweetening shift into a dramatic delay-throw and back again, giving you smooth transitions between effect states as a track moves along.
 
 Last recorded sale: $49.00 on 2026-09-06.
 
@@ -281,15 +269,17 @@ This is the single biggest "wait for it" recommendation in this guide. Paying fu
 
 ---
 
-
-
 ## Waves Platinum Bundle
 
 <!-- role:pick -->
 
 <!-- pick:Waves Platinum Bundle -->
 
-The Waves Platinum Bundle brings together a wide collection of plugins for music production, mixing, and mastering in a single package. It includes 67 plugins in total: everything found in the Waves Gold bundle plus 22 additional titles, covering compressors, EQs, reverbs, delays, mastering tools, and more. For loudness work, it carries the classic L2 and L3 limiters, along with the entire classic Renaissance series of plugins. Low-end shaping is handled by the Submarine and LoAir processors. The bundle also includes widely used tools such as the C4 multiband compressor, a de-esser, a doubler, the H-Delay, MaxxBass for bass enhancement, MV2 for dynamics, and the Vitamin sonic enhancer, among others. Altogether the collection spans dynamics, EQ, reverb, delay, pitch correction, low-end enhancement, stereo imaging, and mastering, making it a broad option for anyone looking to build out a full mixing and mastering toolkit in one purchase rather than collecting individual plugins separately. On Mac, the plugins run in VST, AU, and AAX formats; on Windows, the system requirement is Windows 10 or later.
+The Waves Platinum Bundle brings together a wide collection of plugins for music production, mixing, and mastering in a single package. It includes 67 plugins in total: everything found in the Waves Gold bundle plus 22 additional titles, covering compressors, EQs, reverbs, delays, mastering tools, and more. For loudness work, it carries the classic L2 and L3 limiters, along with the entire classic Renaissance series of plugins.
+
+Low-end shaping is handled by the Submarine and LoAir processors. The bundle also includes widely used tools such as the C4 multiband compressor, a de-esser, a doubler, the H-Delay, MaxxBass for bass enhancement, MV2 for dynamics, and the Vitamin sonic enhancer, among others. Altogether the collection spans dynamics, EQ, reverb, delay, pitch correction, low-end enhancement, stereo imaging, and mastering, making it a broad option for anyone looking to build out a full mixing and mastering toolkit in one purchase rather than collecting individual plugins separately.
+
+On Mac, the plugins run in VST, AU, and AAX formats; on Windows, the system requirement is Windows 10 or later.
 
 | Tracked price | $129.00 |
 |---|---|

@@ -29,19 +29,11 @@ Beyond static EQ, Pro-Q 4 includes Dynamic EQ with adjustable Attack and Release
 
 <!-- pick:Neural DSP Fortin Nameless -->
 
-
-
-
-
 ## Slate Digital DrumXchanger
 
 <!-- role:pick -->
 
 <!-- pick:Slate Digital DrumXchanger -->
-
-
-
-
 
 ## FabFilter Pro-Q 4
 
@@ -49,7 +41,9 @@ Beyond static EQ, Pro-Q 4 includes Dynamic EQ with adjustable Attack and Release
 
 <!-- pick:FabFilter Pro-Q 4 -->
 
-FabFilter Pro-Q 4 is an equalizer plug-in built for untangling dense guitar arrangements, offering up to twenty-four bands along with a Spectral dynamics feature that targets problem frequencies with more precision and less processing overhead than older approaches. In a metal mix, four to eight guitar tracks often share the same midrange space, and permanent notch cuts can flatten tone even when the problem frequency isn't actually present. The plug-in's dynamic EQ mode addresses this by letting a band engage only when a problematic frequency rises above a set threshold, leaving the full guitar tone untouched the rest of the time and cutting automatically when the issue appears. A side-chain spectrum display lets the frequency content of one track be viewed against another, which is useful for spotting where two guitar layers are colliding when both are playing at the same time.
+FabFilter Pro-Q 4 is an equalizer plug-in built for untangling dense guitar arrangements, offering up to twenty-four bands along with a Spectral dynamics feature that targets problem frequencies with more precision and less processing overhead than older approaches. In a metal mix, four to eight guitar tracks often share the same midrange space, and permanent notch cuts can flatten tone even when the problem frequency isn't actually present.
+
+The plug-in's dynamic EQ mode addresses this by letting a band engage only when a problematic frequency rises above a set threshold, leaving the full guitar tone untouched the rest of the time and cutting automatically when the issue appears. A side-chain spectrum display lets the frequency content of one track be viewed against another, which is useful for spotting where two guitar layers are colliding when both are playing at the same time.
 
 The dynamic EQ bands include adjustable attack and release controls and an optional free side-chain filter, and refined dynamic processing is meant to lower distortion and keep the sound cleaner across the plug-in's zero-latency, Natural Phase, and linear-phase modes. The tool is suited to both mixing and mastering work, including stereo, surround, and Dolby Atmos sessions: narrower display ranges support the finer adjustments mastering calls for, while wider ranges suit the broader moves typical of mixing.
 
@@ -72,7 +66,11 @@ Last recorded sale: $105.00 on 2025-11-22.
 
 FabFilter Pro-C 3 is designed for handling drum bus and parallel compression duties in a dense metal mix. Metal drums need to hit two goals that pull against each other: tight, punchy transients on the attack, and a thick, sustained body that keeps the sound filling the space between hits. A single compressor setting struggles to deliver both at once, which is why parallel compression—blending a heavily squashed version of the signal back in with the untouched dry signal—has become the standard way to approach it.
 
-Pro-C 3 makes that blending process simple by building a Mix control directly into the plugin, so a single instance can apply aggressive compression and then dial back how much of that compressed signal comes through, rather than needing to set up a separate parallel chain. Its gain reduction display and knee visualization give immediate visual feedback on how the punch and sustain are balancing out as settings are adjusted. More broadly, the plugin offers a wide range of compression styles, from transparent control suited to mastering, to punchy glue for a mix bus, to the warmth of a classic opto-style compressor, to upward dynamics processing, to pumping, aggressive compression—letting it adapt to very different tonal goals while keeping its own distinct, musical character. For metal mixing specifically, this flexibility and the built-in parallel workflow make it a strong fit for shaping drum buses and individual drum channels so they come across with the impact and density the genre demands.
+Pro-C 3 makes that blending process simple by building a Mix control directly into the plugin, so a single instance can apply aggressive compression and then dial back how much of that compressed signal comes through, rather than needing to set up a separate parallel chain. Its gain reduction display and knee visualization give immediate visual feedback on how the punch and sustain are balancing out as settings are adjusted.
+
+More broadly, the plugin offers a wide range of compression styles, from transparent control suited to mastering, to punchy glue for a mix bus, to the warmth of a classic opto-style compressor, to upward dynamics processing, to pumping, aggressive compression—letting it adapt to very different tonal goals while keeping its own distinct, musical character.
+
+For metal mixing specifically, this flexibility and the built-in parallel workflow make it a strong fit for shaping drum buses and individual drum channels so they come across with the impact and density the genre demands.
 
 | Tracked price | $199.00 |
 |---|---|
@@ -89,7 +87,11 @@ Last recorded sale: $149.00 on 2026-10-17.
 
 <!-- pick:FabFilter Pro-L 2 -->
 
-FabFilter Pro-L 2 is a true peak limiter built for mastering and mixing engineers, suited to mono, stereo, or surround material. It combines a transparent sound with maximum loudness, and offers eight different limiting algorithms, each with its own character and purpose, so engineers can match the limiting style to the material at hand. True peak limiting keeps inter-sample peaks under control, with up to 32x linear-phase oversampling available for extra accuracy. Output and gain reduction metering, including true peak metering, is highly accurate, giving a clear, reliable read on levels throughout the chain. An optional DC offset filter is also included. External side-chain triggering is supported as well, which makes the plugin useful for stem mastering workflows. Altogether, a true peak limiter like this is considered an essential tool for mastering or mixing engineers working toward loud, clean masters.
+FabFilter Pro-L 2 is a true peak limiter built for mastering and mixing engineers, suited to mono, stereo, or surround material. It combines a transparent sound with maximum loudness, and offers eight different limiting algorithms, each with its own character and purpose, so engineers can match the limiting style to the material at hand.
+
+True peak limiting keeps inter-sample peaks under control, with up to 32x linear-phase oversampling available for extra accuracy. Output and gain reduction metering, including true peak metering, is highly accurate, giving a clear, reliable read on levels throughout the chain. An optional DC offset filter is also included. External side-chain triggering is supported as well, which makes the plugin useful for stem mastering workflows.
+
+Altogether, a true peak limiter like this is considered an essential tool for mastering or mixing engineers working toward loud, clean masters.
 
 | Tracked price | $199.00 |
 |---|---|
@@ -129,25 +131,21 @@ Last recorded sale: $29.99 on 2026-11-13.
 
 <!-- pick:iZotope Ozone 12 -->
 
-
-
-
-
 ## OwnHammer IRs
 
 <!-- role:pick -->
 
 <!-- pick:OwnHammer IRs -->
 
-
-
-
-
 ## How to choose
 
 <!-- role:choose -->
 
-Deciding which of these tools matters most depends on where a mix is weakest. For guitarists who track direct through an amp simulator, Neural DSP Fortin Nameless is the single most important investment, since the quality of the amp simulation sets the foundation for the entire guitar sound, and no amount of later mixing can compensate for a poor amp tone. When drum recordings are inconsistent or lack the definition the genre requires, Slate Digital DrumXchanger addresses the problem at its source, handling drum replacement efficiently and accurately rather than trying to fix things afterward with equalization and compression. For frequency buildup in dense, layered guitar arrangements, FabFilter Pro-Q 4's dynamic EQ mode is the more targeted solution compared with static equalization: a static notch cut reduces a guitar's character permanently, while a dynamic band only engages when the problematic frequency is actually present, leaving the tone untouched the rest of the time. For engineers who want the full mastering chain handled in a single workflow, iZotope Ozone 12 combines automated starting points with manual refinement modules, offering the most efficient route to a competitive metal master without a separate mastering session. When a complete FabFilter suite isn't affordable all at once, equalizer work should come first, since EQ treatment of guitars and drums is where mix quality diverges most sharply between professional and amateur results.
+Deciding which of these tools matters most depends on where a mix is weakest. For guitarists who track direct through an amp simulator, Neural DSP Fortin Nameless is the single most important investment, since the quality of the amp simulation sets the foundation for the entire guitar sound, and no amount of later mixing can compensate for a poor amp tone.
+
+When drum recordings are inconsistent or lack the definition the genre requires, Slate Digital DrumXchanger addresses the problem at its source, handling drum replacement efficiently and accurately rather than trying to fix things afterward with equalization and compression. For frequency buildup in dense, layered guitar arrangements, FabFilter Pro-Q 4's dynamic EQ mode is the more targeted solution compared with static equalization: a static notch cut reduces a guitar's character permanently, while a dynamic band only engages when the problematic frequency is actually present, leaving the tone untouched the rest of the time.
+
+For engineers who want the full mastering chain handled in a single workflow, iZotope Ozone 12 combines automated starting points with manual refinement modules, offering the most efficient route to a competitive metal master without a separate mastering session. When a complete FabFilter suite isn't affordable all at once, equalizer work should come first, since EQ treatment of guitars and drums is where mix quality diverges most sharply between professional and amateur results.
 
 ## FAQ
 

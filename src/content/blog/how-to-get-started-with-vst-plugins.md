@@ -30,7 +30,11 @@ The VST landscape no longer splits cleanly into free, amateur-grade tools on one
 
 <!-- role:howto -->
 
-Pair it with TDR Nova for EQ and Valhalla Supermassive for reverb, and you have a production-ready free toolkit before spending a dollar. Understanding the VST landscape now means recognizing that free and paid no longer map to amateur and professional. The four free plugins in this guide are used in commercial productions — not as workarounds, but as deliberate choices. The paid upgrades in the upsell tier exist because they solve specific workflow problems at professional scale, not because they're required to make music that sounds finished. This guide is structured around the three categories every new producer needs to cover: synthesis, equalization, and reverb. Every plugin listed is real, actively maintained, and confirmed to work across the major DAWs on both Windows and macOS. If you have a DAW installed — Ableton Live, FL Studio, Logic Pro, Studio One, or similar — everything here installs cleanly and works immediately. ---
+Pair it with TDR Nova for EQ and Valhalla Supermassive for reverb, and you have a production-ready free toolkit before spending a dollar. Understanding the VST landscape now means recognizing that free and paid no longer map to amateur and professional. The four free plugins in this guide are used in commercial productions — not as workarounds, but as deliberate choices.
+
+The paid upgrades in the upsell tier exist because they solve specific workflow problems at professional scale, not because they're required to make music that sounds finished. This guide is structured around the three categories every new producer needs to cover: synthesis, equalization, and reverb. Every plugin listed is real, actively maintained, and confirmed to work across the major DAWs on both Windows and macOS.
+
+If you have a DAW installed — Ableton Live, FL Studio, Logic Pro, Studio One, or similar — everything here installs cleanly and works immediately. ---
 
 ## Free Synthesizers
 
@@ -116,7 +120,6 @@ For any producer starting from zero in 2026, the stack is clear and costs nothin
 
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources. <!-- pd:method:end -->
 
-
 ## Vital
 
 <!-- role:pick -->
@@ -168,8 +171,6 @@ Surge XT is a hybrid synthesizer supporting subtractive, FM, wavetable, and addi
 
 A good equalizer is non-negotiable for mixing. TDR Nova is a free EQ with dynamic bands.
 
-
-
 ## TDR Nova
 
 <!-- role:pick -->
@@ -191,8 +192,6 @@ TDR Nova is a parallel dynamic equalizer with four fully parametric bands, a hig
 ---
 
 Reverb is the one effect category where the free options are strong enough that paid alternatives have to justify themselves clearly on specific grounds. Valhalla Supermassive is a free reverb from a developer known for paid reverbs.
-
-
 
 ## Valhalla Supermassive
 
@@ -217,8 +216,6 @@ Valhalla Supermassive is an algorithmic reverb and delay plugin offering 23 dist
 ---
 
 The free stack above covers a complete production workflow. These paid upgrades address specific professional limitations — they are not required to make finished music.
-
-
 
 ## Serum 2
 

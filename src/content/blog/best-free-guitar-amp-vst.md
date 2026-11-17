@@ -46,8 +46,6 @@ Nick Crow Lab 7170 Lead Free (search KVR Audio for the current download; the ori
 
 ---
 
-
-
 ## LePou Amp Sim Suite
 
 <!-- role:pick -->
@@ -70,8 +68,6 @@ The LePou suite is not a single plugin — it is a collection of standalone amp 
 
 ---
 
-
-
 ## Ignite Amps Emissary
 
 <!-- role:pick -->
@@ -93,8 +89,6 @@ It emulates an original high-gain design — not a licensed branded amp — and 
 [→ Download Ignite Amps Emissary Free (Official)](https://www.igniteamps.com/)
 
 ---
-
-
 
 ## TSE Audio X50 v2.4
 
@@ -120,8 +114,6 @@ TSE Audio's documented circuit modeling approach gives it dynamic response that 
 
 High-gain earns the attention, but clean and crunch tone quality is where many free amp sims fall apart. These three options have documented strength in non-distorted territory.
 
-
-
 ## Ignite Amps TPA-1
 
 <!-- role:pick -->
@@ -144,8 +136,6 @@ TPA-1 is a tube preamp simulator rather than a full amp model — a design choic
 
 ---
 
-
-
 ## Simulanalog Guitar Suite
 
 <!-- role:pick -->
@@ -167,8 +157,6 @@ Simulanalog's Guitar Suite is one of the oldest surviving freeware amp sim colle
 [→ Download Simulanalog Guitar Suite Free (Official)](https://www.simulanalog.org/guitarsuite.html)
 
 ---
-
-
 
 ## Voxengo Boogex
 
@@ -196,8 +184,6 @@ Voxengo Boogex takes a different technical approach from most amp sims: it uses 
 
 Some producers want a complete chain — amp, cab, pedals, and effects — in a single interface. These three plugins deliver that at varying levels of completeness.
 
-
-
 ## Guitar Rig 7 Player
 
 <!-- role:pick -->
@@ -222,8 +208,6 @@ Guitar Rig 7 Player is the free tier of NI's Guitar Rig platform. Developer docu
 
 ---
 
-
-
 ## Amplitube Custom Shop
 
 <!-- role:pick -->
@@ -245,8 +229,6 @@ IK Multimedia's Amplitube Custom Shop model is genuinely different from a crippl
 [→ Download Amplitube Custom Shop Free](https://www.ikmultimedia.com/products/amplitube5/)
 
 ---
-
-
 
 ## ML Sound Lab AMPED Roots
 
@@ -270,8 +252,6 @@ ML Sound Lab's AMPED Roots was released as a free standalone amp sim and sits in
 
 ---
 
-
-
 ## Neural DSP Archetype Series
 
 <!-- role:pick -->
@@ -287,8 +267,6 @@ Neural DSP Archetype Series — The Current Paid Benchmark
 [→ Get Neural DSP Archetype](https://neuraldsp.com/plugins)
 
 ---
-
-
 
 ## Bias Amp 2
 
@@ -359,8 +337,6 @@ Start there, pair it with a free IR loader and quality cabinet IRs, and you have
 *This post contains affiliate links. We may earn a small commission at no extra cost to you.*
 
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
-
-
 
 ## How to choose
 

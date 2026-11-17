@@ -38,19 +38,11 @@ This overview sticks to what is documented about the software itself: its editio
 
 <!-- pick:Edition -->
 
-
-
-
-
 ## Neutron 5 Elements
 
 <!-- role:pick -->
 
 <!-- pick:Neutron 5 Elements -->
-
-
-
-
 
 ## Neutron 5
 
@@ -58,19 +50,11 @@ This overview sticks to what is documented about the software itself: its editio
 
 <!-- pick:Neutron 5 -->
 
-
-
-
-
 ## Mix & Master Bundle Advanced
 
 <!-- role:pick -->
 
 <!-- pick:Mix & Master Bundle Advanced -->
-
-
-
-
 
 ## Music Production Suite 9
 
@@ -78,19 +62,11 @@ This overview sticks to what is documented about the software itself: its editio
 
 <!-- pick:Music Production Suite 9 -->
 
-
-
-
-
 ## Module
 
 <!-- role:pick -->
 
 <!-- pick:Module -->
-
-
-
-
 
 ## Clipper
 
@@ -98,19 +74,11 @@ This overview sticks to what is documented about the software itself: its editio
 
 <!-- pick:Clipper -->
 
-
-
-
-
 ## Compressor
 
 <!-- role:pick -->
 
 <!-- pick:Compressor -->
-
-
-
-
 
 ## Density
 
@@ -118,19 +86,11 @@ This overview sticks to what is documented about the software itself: its editio
 
 <!-- pick:Density -->
 
-
-
-
-
 ## Equalizer
 
 <!-- role:pick -->
 
 <!-- pick:Equalizer -->
-
-
-
-
 
 ## Exciter
 
@@ -138,19 +98,11 @@ This overview sticks to what is documented about the software itself: its editio
 
 <!-- pick:Exciter -->
 
-
-
-
-
 ## Gate
 
 <!-- role:pick -->
 
 <!-- pick:Gate -->
-
-
-
-
 
 ## Phase
 
@@ -158,19 +110,11 @@ This overview sticks to what is documented about the software itself: its editio
 
 <!-- pick:Phase -->
 
-
-
-
-
 ## Sculptor
 
 <!-- role:pick -->
 
 <!-- pick:Sculptor -->
-
-
-
-
 
 ## Transient Shaper
 
@@ -178,19 +122,11 @@ This overview sticks to what is documented about the software itself: its editio
 
 <!-- pick:Transient Shaper -->
 
-
-
-
-
 ## Unmask
 
 <!-- role:pick -->
 
 <!-- pick:Unmask -->
-
-
-
-
 
 ## Feature
 
@@ -198,19 +134,11 @@ This overview sticks to what is documented about the software itself: its editio
 
 <!-- pick:Feature -->
 
-
-
-
-
 ## Price
 
 <!-- role:pick -->
 
 <!-- pick:Price -->
-
-
-
-
 
 ## Mix Assistant
 
@@ -218,19 +146,11 @@ This overview sticks to what is documented about the software itself: its editio
 
 <!-- pick:Mix Assistant -->
 
-
-
-
-
 ## Clipper, Density, Phase
 
 <!-- role:pick -->
 
 <!-- pick:Clipper, Density, Phase -->
-
-
-
-
 
 ## Unmask, Sculptor, Transient Shaper
 
@@ -238,29 +158,17 @@ This overview sticks to what is documented about the software itself: its editio
 
 <!-- pick:Unmask, Sculptor, Transient Shaper -->
 
-
-
-
-
 ## Exciter, Gate, Compressor, Equalizer
 
 <!-- role:pick -->
 
 <!-- pick:Exciter, Gate, Compressor, Equalizer -->
 
-
-
-
-
 ## Visual Mixer and Relay
 
 <!-- role:pick -->
 
 <!-- pick:Visual Mixer and Relay -->
-
-
-
-
 
 ## Verdict
 
