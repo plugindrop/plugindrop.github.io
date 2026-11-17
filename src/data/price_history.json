@@ -146628,6 +146628,12 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2025-07-01",
+          "regular": 199.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/amplitube-5.jpg",
@@ -146780,6 +146786,66 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-19"
+        },
+        {
+          "date": "2022-08-29",
+          "regular": 88.26,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-09-02",
+          "regular": 89.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-11-01",
+          "regular": 71.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-12-07",
+          "regular": 119.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-03-15",
+          "regular": 119.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-03-01",
+          "regular": 59.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-11-04",
+          "regular": 71.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-12-01",
+          "regular": 59.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-03-05",
+          "regular": 59.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-05-04",
+          "regular": 70.41,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/phoscyon-2.jpg",
@@ -147699,6 +147765,12 @@
           "store": "plugin_boutique",
           "reg_src": "deal_only",
           "cur": "USD"
+        },
+        {
+          "date": "2025-08-05",
+          "regular": 103.54,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/shade.jpg"
@@ -148032,6 +148104,12 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-12-01"
+        },
+        {
+          "date": "2024-12-01",
+          "regular": 29.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/snapback.jpg",
@@ -148478,6 +148556,12 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-29"
+        },
+        {
+          "date": "2024-09-20",
+          "regular": 75.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/glow.jpg",
@@ -148626,6 +148710,60 @@
           "store": "plugin_boutique",
           "reg_src": "deal_only",
           "cur": "USD"
+        },
+        {
+          "date": "2022-03-01",
+          "regular": 65.57,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-08-14",
+          "regular": 74.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-09-27",
+          "regular": 98.18,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-02-02",
+          "regular": 81.63,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-06-25",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-08-06",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-09-20",
+          "regular": 75.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-01-19",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-04-26",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/subboombass-2.jpg"
@@ -148969,6 +149107,18 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-29"
+        },
+        {
+          "date": "2024-12-05",
+          "regular": 44.85,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-07-02",
+          "regular": 39.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/lines.jpg",
@@ -149168,6 +149318,18 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-26"
+        },
+        {
+          "date": "2024-08-06",
+          "regular": 79.99,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-11-02",
+          "regular": 149.99,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/jura.jpg",
@@ -154861,6 +155023,22 @@
       "pb_url": "https://www.pluginboutique.com/search?q=Waves",
       "history": [],
       "article_slug": "waves-vs-fabfilter-2026-on-sale"
+    },
+    "UAD Cooper Time Cube Delay": {
+      "pb_url": "/product/2-Effects/10-Delay/18213-UAD-Cooper-Time-Cube-Delay",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-11-17",
+      "history": []
+    },
+    "Eventide SplitEQ 2": {
+      "pb_url": "/product/2-Effects/16-EQ/18386-SplitEQ-2",
+      "typical_regular": null,
+      "typical_sale": null,
+      "all_time_low": null,
+      "notes": "Auto-discovered 2026-11-17",
+      "history": []
     }
   }
 }
