@@ -182,6 +182,14 @@ iZotope does run sales, but they're unpredictable in timing and depth. Their Ele
 
 ---
 
+## Plugin Boutique Black Friday 2026: What Is Confirmed
+
+Plugin Boutique had not announced its 2026 Black Friday dates when this guide was updated. Black Friday itself is **November 27, 2026**, and the earlier-year sales we recorded started around November 20-22, so treat any date range as unconfirmed until the store posts it.
+
+Prices differ by store. In our FabFilter Pro-Q 4 record, the lowest Black Friday price (Nov 2025, $105.25) was at Gear4Music rather than Plugin Boutique, so compare the developer's own store and one or two retailers before buying. We have no recorded Black Friday prices for iZotope, Native Instruments, Arturia, Plugin Alliance, Waves, UAD or Melodyne, and Valhalla DSP states its prices stay the same all year, so we quote no target prices for them.
+
+---
+
 ## Price Tracker Integration
 
 The prices in this article come from our daily price tracking across Plugin Boutique. You can watch any product on the tracker and get an email alert the moment it drops below your target price.
