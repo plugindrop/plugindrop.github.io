@@ -131,6 +131,7 @@ export function ownTrackingDays(entry) {
  * @returns {boolean}
  */
 export function isPricePageIndexable(entry) {
+  if (entry?.noindex === true) return false;
   if (typeof entry?.pb_url === 'string' && entry.pb_url.includes('/search?')) return false;
   const comparableEntry = { ...entry, history: comparableHistory(entry) };
   const { observations, saleObservations, priceLevels } = priceSubstance(comparableEntry);

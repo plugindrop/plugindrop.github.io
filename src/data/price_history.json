@@ -55434,7 +55434,8 @@
       ],
       "image": "/images/plugin-prices/knock.jpg",
       "image_lg": "/images/plugin-prices/knock-lg.jpg",
-      "image_lg_width": 625
+      "image_lg_width": 625,
+      "noindex": true
     },
     "KOMPLETE Synthesizer Collection": {
       "pb_url": "/product/81-Bundles/58-Instrument-Bundles/12033-KOMPLETE-Synthesizer-Collection",
@@ -96094,7 +96095,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "noindex": true
     },
     "Sonnox Oxford Limiter": {
       "pb_url": "https://sonnox.com/products/oxford-limiter",
@@ -129578,7 +129580,8 @@
       ],
       "image": "/images/plugin-prices/weiss-mm-1.jpg",
       "image_lg": "/images/plugin-prices/weiss-mm-1-lg.jpg",
-      "image_lg_width": 625
+      "image_lg_width": 625,
+      "noindex": true
     },
     "XLN Audio Addictive Keys": {
       "pb_url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/1191-Addictive-Keys-Studio-Grand",
@@ -130787,7 +130790,8 @@
         }
       ],
       "category": "Effects",
-      "image": "/images/plugin-prices/xln-audio-rc-20-retro-color.jpg"
+      "image": "/images/plugin-prices/xln-audio-rc-20-retro-color.jpg",
+      "noindex": true
     },
     "XLN Audio XO": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/5250-XO",

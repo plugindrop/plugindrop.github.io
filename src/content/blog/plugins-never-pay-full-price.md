@@ -66,7 +66,7 @@ iZotope runs these discounts often enough — summer, fall, and Black Friday —
 
 <!-- pick:UAD 1176 Classic Limiter Collection -->
 
-These UA sales run multiple times a year rather than only at Black Friday, which is worth knowing if you assumed BF was your only shot — see the [Black Friday brand-by-brand breakdown](/posts/is-it-worth-waiting-for-black-friday-plugins/) for the full picture.
+These UA sales run multiple times a year rather than only at Black Friday, which is worth knowing if you assumed BF was your only shot — see the [Black Friday brand-by-brand breakdown](/posts/vst-plugin-black-friday-guide/) for the full picture.
 
 | Tracked price | $149.00 |
 |---|---|
