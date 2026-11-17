@@ -50,8 +50,10 @@ function cardChannel(source) { return { home: ['home', 'homepage', 'home-card'],
 
 const sectionData1 = (name, section) => `${slugify(name)}${section ? `--${section}` : ''}`;
 export function cardTarget(deal, priceData, source = 'home', section, contentData = productContent, rollout = contentRollout) {
-  const pricePage = deal.kind === 'tracker' && isProductNameIndexable(priceData, deal.name);
+  // Never send a card body straight to the affiliate store: every tracked product has its own
+  // on-site price page, so the card always lands on our own content first (CTA button is the PB link).
   const postPage = deal.post && !isPostDealEnded(deal.post, { [deal.name]: deal.entry });
+  const pricePage = deal.kind === 'tracker' && !String(deal.entry?.pb_url ?? '').includes('/search?');
   if (process.env.HOME_CARD_TARGET !== 'post_first' && pricePage && hasContentDepth(deal.name, contentData, rollout)) return `/plugin-prices/${slugify(deal.name)}/`;
   if (postPage) return `/posts/${deal.post.id}/`;
   if (pricePage) return `/plugin-prices/${slugify(deal.name)}/`;

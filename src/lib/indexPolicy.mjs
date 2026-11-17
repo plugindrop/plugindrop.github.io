@@ -1,4 +1,8 @@
 import { OBSERVED_SOURCES, comparableHistory as basisComparableHistory } from './priceBasis.mjs';
+import { hasContentDepth } from './productContent.mjs';
+import priceHistory from '../data/price_history.json' with { type: 'json' };
+import productContent from '../data/product_content.json' with { type: 'json' };
+import contentRollout from '../data/content_rollout.json' with { type: 'json' };
 export { OBSERVED_SOURCES } from './priceBasis.mjs';
 
 export const MIN_TAG_POSTS = 3;
@@ -126,11 +130,17 @@ export function ownTrackingDays(entry) {
   return (Date.parse(dates.at(-1)) - Date.parse(dates[0])) / DAY_MS;
 }
 
+const contentDepthPbUrls = new Set(
+  [...Object.entries(priceHistory.plugins ?? {}), ...Object.entries(priceHistory.bundles ?? {})]
+    .filter(([name, entry]) => typeof entry?.pb_url === 'string' && !entry.pb_url.includes('/search?') && hasContentDepth(name, productContent, contentRollout))
+    .map(([, entry]) => entry.pb_url),
+);
+
 /**
  * @param {{ pb_url?: unknown, all_time_low?: number | null, typical_sale?: number | null, history?: Array<{ date?: string, regular?: unknown, sale?: unknown, source?: string }> } | null | undefined} entry
  * @returns {boolean}
  */
-export function isPricePageIndexable(entry) {
+export function isPricePageIndexableByHistory(entry) {
   if (entry?.noindex === true) return false;
   if (typeof entry?.pb_url === 'string' && entry.pb_url.includes('/search?')) return false;
   const comparableEntry = { ...entry, history: comparableHistory(entry) };
@@ -141,6 +151,20 @@ export function isPricePageIndexable(entry) {
     && saleEpisodeCount(comparableEntry) >= MIN_SALE_EPISODES
     && ownTrackingDays(entry) >= MIN_OWN_TRACKING_DAYS
     && (entry?.all_time_low == null || entry?.typical_sale == null || entry.all_time_low <= entry.typical_sale);
+}
+
+/**
+ * A price page is indexable when it has real substance: either enough tracked price history,
+ * or real product content (overview / sound / uses / before-you-buy / compare). Short price history
+ * alone never makes a content-rich page "thin".
+ * @param {Parameters<typeof isPricePageIndexableByHistory>[0]} entry
+ * @returns {boolean}
+ */
+export function isPricePageIndexable(entry) {
+  if (entry?.noindex === true) return false; // explicit manual noindex (e.g. delisted products) always wins
+  if (typeof entry?.pb_url === 'string' && entry.pb_url.includes('/search?')) return false;
+  if (typeof entry?.pb_url === 'string' && contentDepthPbUrls.has(entry.pb_url)) return true;
+  return isPricePageIndexableByHistory(entry);
 }
 
 /**

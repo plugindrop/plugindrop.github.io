@@ -3,7 +3,7 @@ import test from 'node:test';
 import priceData from '../src/data/price_history.json' with { type: 'json' };
 import { dealScoreNumeric } from '../src/lib/priceUtils.ts';
 import { buildAuditIndex, comparableHistory, lowestSeen, pbPathOf, sourceKindOf } from '../src/lib/priceBasis.mjs';
-import { isPricePageIndexable, priceSubstance, saleEpisodeCount, ownTrackingDays } from '../src/lib/indexPolicy.mjs';
+import { isPricePageIndexable, isPricePageIndexableByHistory, priceSubstance, saleEpisodeCount, ownTrackingDays } from '../src/lib/indexPolicy.mjs';
 import { buildPageFacts, buildDecisionAnswers, buildResearchNote, buildCoverageLine, summarizeVerdict, trackedSales, observedSaleBreaks, archivedPrices, confirmedArchiveSales, validUntil, sameCategoryPeers, listPriceChanges, comparisonPriceFacts } from '../src/lib/priceInsights.mjs';
 
 test('comparison price has no typical sale or wait verdict without a tracked sale', () => {
@@ -117,7 +117,7 @@ test('basis classifies only reviewed evidence and uses evidence date and price',
   assert.equal(sourceKindOf(research, '/product/test', index), 'archive_confirmed');
   assert.deepEqual(comparableHistory(product, index)[0], { date: '2023-11-29', regular: 100, sale: 20, source: 'wayback_confirmed' });
   assert.deepEqual(lowestSeen(product, index), { price: 20, date: '2023-11-29', kind: 'archive_confirmed' });
-  assert.equal(isPricePageIndexable(product), false);
+  assert.equal(isPricePageIndexableByHistory(product), false);
   assert.deepEqual(confirmedArchiveSales(product, index), [{ date: '2023-11-29', price: 20, url: 'https://web.archive.org/example' }]);
   for (const change of [{ ...item, reviewed: false }, { ...item, status: 'no_sale_seen' }, { ...item, evidence: [] }]) {
     const ignored = buildAuditIndex({ items: [change] });
@@ -132,8 +132,8 @@ test('basis classifies only reviewed evidence and uses evidence date and price',
     row('2026-01-20', 179, null),
     row('2026-03-01', 179, null),
   ], { pb_url: '/product/2-Effects/30-Distortion/6423-FabFilter-Saturn-2', typical_sale: 99, all_time_low: 59 });
-  assert.equal(isPricePageIndexable({ ...saturn, history: saturn.history.slice(1) }), false);
-  assert.equal(isPricePageIndexable(saturn), true);
+  assert.equal(isPricePageIndexableByHistory({ ...saturn, history: saturn.history.slice(1) }), false);
+  assert.equal(isPricePageIndexableByHistory(saturn), true);
 });
 
 test('empty audit index only removes pages whose indexability depended on archive history', () => {
