@@ -15,6 +15,8 @@
  */
 import fs from 'node:fs';
 import { isProductNameIndexable, slugifyProduct } from './indexPolicy.mjs';
+import { pbProductId } from './dealRanking.mjs';
+import { staticRedirects } from '../data/plugin_price_redirects.mjs';
 
 const dataUrl = new URL('../data/price_history.json', import.meta.url);
 
@@ -36,13 +38,24 @@ function buildMatcher() {
   // 単語境界: 製品名は空白・記号を含むため \b では不十分。前後が英数字・
   // ハイフンでないことを要求する（"Serum 2000" の "Serum 2" 誤マッチ防止）。
   const re = new RegExp(`(?<![A-Za-z0-9-])(${alternation})(?![A-Za-z0-9-])`);
-  return { re, slugByName };
+  // PB product id -> (name, slug) for products that have an indexable on-site price page.
+  const slugByPbId = new Map();
+  for (const sec of [raw.plugins ?? {}, raw.bundles ?? {}]) {
+    for (const [name, entry] of Object.entries(sec)) {
+      if (!isProductNameIndexable(raw, name)) continue;
+      const slug = slugifyProduct(name);
+      if (`/plugin-prices/${slug}/` in staticRedirects) continue;
+      const id = pbProductId(entry?.pb_url);
+      if (id && !slugByPbId.has(id)) slugByPbId.set(id, { name, slug });
+    }
+  }
+  return { re, slugByName, slugByPbId };
 }
 
 const EXCLUDED_TAGS = new Set(['a', 'code', 'pre', 'script', 'style', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6']);
 
 export default function rehypeProductLinks() {
-  const { re, slugByName } = buildMatcher();
+  const { re, slugByName, slugByPbId } = buildMatcher();
 
   return function transformer(tree) {
     const linkedSlugs = new Set(); // 1記事1製品1回
@@ -101,5 +114,29 @@ export default function rehypeProductLinks() {
     }
 
     walk(tree);
+
+    // A store link must never be the only route to a product that has an on-site price page:
+    // when the text never linked it, add a "price history" link right after the first store link.
+    const isStoreHref = (h) => typeof h === 'string' && /pluginboutique\.com|pbtracking/i.test(h);
+    function addPriceLinks(node) {
+      if (!node.children) return;
+      for (let i = 0; i < node.children.length; i++) {
+        const child = node.children[i];
+        if (child.type === 'element' && child.tagName === 'a' && isStoreHref(child.properties?.href)) {
+          const hit = slugByPbId.get(pbProductId(child.properties.href));
+          if (hit && !linkedSlugs.has(hit.slug)) {
+            linkedSlugs.add(hit.slug);
+            node.children.splice(i + 1, 0,
+              { type: 'text', value: ' (' },
+              { type: 'element', tagName: 'a', properties: { href: `/plugin-prices/${hit.slug}/`, title: `${hit.name} price history & sale tracker`, 'data-auto-price-link': '' }, children: [{ type: 'text', value: `${hit.name} price history` }] },
+              { type: 'text', value: ')' });
+            i += 3;
+          }
+        } else if (child.type === 'element' && !EXCLUDED_TAGS.has(child.tagName)) {
+          addPriceLinks(child);
+        }
+      }
+    }
+    addPriceLinks(tree);
   };
 }
