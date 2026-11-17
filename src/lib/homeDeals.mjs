@@ -11,6 +11,7 @@ import { ownChecks, ownLowBefore, rarityTag, urgencyTag, supportChips } from './
 import { composeHeadline } from './headline.mjs';
 import { taglineForProduct, makerQuoteForProduct } from './dealCopy.mjs';
 import { cardCopyLine } from './cardCopy.mjs';
+import { staticRedirects } from '../data/plugin_price_redirects.mjs';
 import { displayPresetCount, formatsLine } from './pluginFacts.mjs';
 
 export function aboveUsualState(entry, current, now) { const low = ownLowBefore(entry, now); return low ? { above: current > low.low + 0.01, ...low } : null; }
@@ -32,7 +33,10 @@ export function buildDealPool(entries, posts, now) {
   for (const deal of rankLiveDeals(entries, now, { limit: Number.MAX_SAFE_INTEGER, perKeyCap: Number.MAX_SAFE_INTEGER })) {
     if (dealState(deal.entry, now) !== 'live') continue;
     if (everydayPrice(deal.entry, now)) continue;
-    byId.set(pbProductId(deal.entry.pb_url), { ...deal, kind: 'tracker', post: null });
+    const id = pbProductId(deal.entry.pb_url);
+    // A renamed legacy entry (redirect stub page) must not displace its canonical twin as the card for this product.
+    if (`/plugin-prices/${slugify(deal.name)}/` in staticRedirects && byId.has(id)) continue;
+    byId.set(id, { ...deal, kind: 'tracker', post: null });
   }
   for (const post of posts) {
     if (!post?.data?.affiliate || postIsFree(post) || isPostDealEnded(post, entries, now)) continue;
@@ -49,7 +53,17 @@ export function buildDealPool(entries, posts, now) {
 function cardChannel(source) { return { home: ['home', 'homepage', 'home-card'], tracker: ['home', 'homepage', 'home-card'], article: ['art', 'article', 'alternatives'] }[source] ?? ['home', 'homepage', 'home-card']; }
 
 const sectionData1 = (name, section) => `${slugify(name)}${section ? `--${section}` : ''}`;
+// A renamed legacy entry only has a redirect stub page; point the card at its canonical page when that one is indexable.
+function canonicalPricePath(priceData, name) {
+  const target = staticRedirects[`/plugin-prices/${slugify(name)}/`];
+  if (!target) return null;
+  const all = { ...(priceData?.plugins ?? {}), ...(priceData?.bundles ?? {}) };
+  const canonical = Object.keys(all).find((n) => `/plugin-prices/${slugify(n)}/` === target);
+  return canonical && isProductNameIndexable(priceData, canonical) ? target : null;
+}
 export function cardTarget(deal, priceData, source = 'home', section, contentData = productContent, rollout = contentRollout) {
+  const canonicalPath = deal.kind === 'tracker' ? canonicalPricePath(priceData, deal.name) : null;
+  if (canonicalPath) return canonicalPath;
   const pricePage = deal.kind === 'tracker' && isProductNameIndexable(priceData, deal.name);
   const postPage = deal.post && !isPostDealEnded(deal.post, { [deal.name]: deal.entry });
   if (process.env.HOME_CARD_TARGET !== 'post_first' && pricePage && hasContentDepth(deal.name, contentData, rollout)) return `/plugin-prices/${slugify(deal.name)}/`;
