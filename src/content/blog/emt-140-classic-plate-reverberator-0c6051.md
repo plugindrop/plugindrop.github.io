@@ -19,7 +19,10 @@ productKey: "UAD EMT 140 Classic Plate Reverberator"
 
 ## Inside the EMT 140 Plug-In's Damping and Filter Controls
 <!-- role:product -->
-The EMT 140 plug-in's damping and filter controls recreate the settings found on the original plate hardware, while plug-in-only Balance, Width, and Modulation controls go beyond what the physical unit offered. Universal Audio's EMT 140 UAD plug-in is built to give producers the natural warmth and presence that only a plate reverb can provide, modeling the characteristics of the EMT 140 plate unit rather than a generic reverb algorithm. The maker says the plug-in reproduces plate sounds heard on recordings by The Beatles, Pink Floyd, Radiohead, and Adele, a claim tied specifically to the plugin's "Iconic Studio Reverbs" feature. A companion demo video, titled "UAD EMT 140 Plate Reverb," is published alongside the plugin. It runs as a UAD Native plug-in through VST3, AU, or AAX formats inside a supported DAW, and authorization runs through the free UA Connect application; an iLok USB key (2nd generation or higher) is compatible but not required, since a free iLok account covers authorization on its own.
+
+The EMT 140 plug-in's damping and filter controls recreate the settings found on the original plate hardware, while plug-in-only Balance, Width, and Modulation controls go beyond what the physical unit offered. Universal Audio's EMT 140 UAD plug-in is built to give producers the natural warmth and presence that only a plate reverb can provide, modeling the characteristics of the EMT 140 plate unit rather than a generic reverb algorithm.
+
+The maker says the plug-in reproduces plate sounds heard on recordings by The Beatles, Pink Floyd, Radiohead, and Adele, a claim tied specifically to the plugin's "Iconic Studio Reverbs" feature. A companion demo video, titled "UAD EMT 140 Plate Reverb," is published alongside the plugin. It runs as a UAD Native plug-in through VST3, AU, or AAX formats inside a supported DAW, and authorization runs through the free UA Connect application; an iLok USB key (2nd generation or higher) is compatible but not required, since a free iLok account covers authorization on its own.
 
 <!-- deal-context-video:start -->
 <iframe src="https://www.youtube.com/embed/kpri-pUuuQo" title="UAD EMT 140 Plate Reverb" frameborder="0" allowfullscreen></iframe>

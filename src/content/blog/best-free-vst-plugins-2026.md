@@ -13,7 +13,9 @@ evergreen: true
 ---
 <!-- guide:v4 kind=roundup -->
 
-**TL;DR:** If there is only one plugin to install from this roundup, it should be Vital, a free wavetable synth capable of sound design, bass, and pad work on par with paid alternatives like Serum. Beyond that single pick, this guide walks through fifteen plugins that are free without catches, covering synthesizers, effects, mixing tools, and instruments, grouped by category so the right tool for a given gap in a setup is easy to find. Each one is free in a real sense: either free forever, a free tier of a larger paid product, or part of a free starter bundle, with no time-limited trials, no watermarks placed on core features, and no hidden costs that appear later. For every plugin, the file formats it comes in, the operating systems it runs on, and its honest shortcomings are spelled out clearly, so it is possible to know exactly what is being downloaded before committing to it.
+**TL;DR:** If there is only one plugin to install from this roundup, it should be Vital, a free wavetable synth capable of sound design, bass, and pad work on par with paid alternatives like Serum. Beyond that single pick, this guide walks through fifteen plugins that are free without catches, covering synthesizers, effects, mixing tools, and instruments, grouped by category so the right tool for a given gap in a setup is easy to find.
+
+Each one is free in a real sense: either free forever, a free tier of a larger paid product, or part of a free starter bundle, with no time-limited trials, no watermarks placed on core features, and no hidden costs that appear later. For every plugin, the file formats it comes in, the operating systems it runs on, and its honest shortcomings are spelled out clearly, so it is possible to know exactly what is being downloaded before committing to it.
 
 ## Introduction
 

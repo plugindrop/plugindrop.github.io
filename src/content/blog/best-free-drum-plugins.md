@@ -12,7 +12,9 @@ evergreen: true
 ---
 <!-- guide:v4 kind=roundup -->
 
-**TL;DR:** If you only install one drum plugin, make it Steven Slate Drums SSD5.5 FREE. It provides studio-recorded, multi-mic acoustic drum kits at no cost, covering the widest range of real-world production needs, and stands out as the top free choice for realistic acoustic drums. It's available in VST2, VST3, AU, and AAX formats for both Windows and macOS. MT Power Drum Kit 2 is another solid acoustic option, built with its own MIDI groove library included. Sitala is the pick for hip-hop and lo-fi beat-making, thanks to its drag-and-drop pad loading. Hydrogen rounds things out as an open-source, pattern-based drum programming tool that works across Windows, macOS, and Linux. Every plugin on this list is free, with one exception: the current version of Sitala (2.1.2) requires a paid license, though an older release, Sitala 1.0.9, is still offered at no cost. Download links lead straight to each plugin's developer.
+**TL;DR:** If you only install one drum plugin, make it Steven Slate Drums SSD5.5 FREE. It provides studio-recorded, multi-mic acoustic drum kits at no cost, covering the widest range of real-world production needs, and stands out as the top free choice for realistic acoustic drums. It's available in VST2, VST3, AU, and AAX formats for both Windows and macOS.
+
+MT Power Drum Kit 2 is another solid acoustic option, built with its own MIDI groove library included. Sitala is the pick for hip-hop and lo-fi beat-making, thanks to its drag-and-drop pad loading. Hydrogen rounds things out as an open-source, pattern-based drum programming tool that works across Windows, macOS, and Linux. Every plugin on this list is free, with one exception: the current version of Sitala (2.1.2) requires a paid license, though an older release, Sitala 1.0.9, is still offered at no cost. Download links lead straight to each plugin's developer.
 
 ## Introduction
 

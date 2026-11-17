@@ -18,7 +18,12 @@ updatedDate: "2026-11-17"
 
 ## A Single Control for Detail, Clarity, and Loudness
 <!-- role:product -->
-Catalogued under Plugin Boutique's Dynamics Processor category, INTENSITY 2 routes nearly every parameter through one primary control, drawing on three proprietary processing algorithms, mid/side handling, and an optional soft-knee saturating limiter. The product listing frames the approach as conceptually similar to HDR processing in photography: instead of adding gain alone, the plug-in works to reveal detail already present in a recording, add clarity and bite, and raise perceived loudness. Mid/side handling lets the left-right and center information in a stereo signal be processed separately, while the optional limiter sits at the output stage for extra control over peaks. Channel support extends to 16 channels, covering material beyond simple stereo pairs. INTENSITY 2 runs as a 64-bit AAX Native, AU, or VST 3 plug-in, on macOS 10.15 or newer (Intel and Apple Silicon) and Windows 10 or newer. Copy protection runs through PACE, which requires a free iLok.com account; the license can be activated to a computer's hard drive or to an iLok 2 or newer USB dongle, and installation begins with a serial code issued through a Plugin Boutique account.
+
+Catalogued under Plugin Boutique's Dynamics Processor category, INTENSITY 2 routes nearly every parameter through one primary control, drawing on three proprietary processing algorithms, mid/side handling, and an optional soft-knee saturating limiter. The product listing frames the approach as conceptually similar to HDR processing in photography: instead of adding gain alone, the plug-in works to reveal detail already present in a recording, add clarity and bite, and raise perceived loudness.
+
+Mid/side handling lets the left-right and center information in a stereo signal be processed separately, while the optional limiter sits at the output stage for extra control over peaks. Channel support extends to 16 channels, covering material beyond simple stereo pairs. INTENSITY 2 runs as a 64-bit AAX Native, AU, or VST 3 plug-in, on macOS 10.15 or newer (Intel and Apple Silicon) and Windows 10 or newer.
+
+Copy protection runs through PACE, which requires a free iLok.com account; the license can be activated to a computer's hard drive or to an iLok 2 or newer USB dongle, and installation begins with a serial code issued through a Plugin Boutique account.
 
 ## Comparing INTENSITY 2's Single-Control Workflow With Two Peers
 <!-- role:peers -->

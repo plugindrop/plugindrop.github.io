@@ -19,7 +19,12 @@ updatedDate: "2026-11-17"
 
 ## Phoscyon 2 Rebuilds The 303 Signal Path From Scratch
 <!-- role:product -->
-D16 redesigned Phoscyon 2 from its predecessor, Phoscyon 1, rebuilding the plugin's signal path to emulate the Roland TB-303 "silver box" synthesizer with a higher degree of accuracy. A sequencer is built into the interface for programming patterns directly in the plugin. Beyond the synthesis knobs found on the original 303, Phoscyon 2 exposes Calibration Parameters and the service trim pots originally used to calibrate individual hardware units, which let a project replicate the character differences between individual 303 units. The effects chain adds a 4-band parametric EQ, a delay with tempo sync and an in-loop multi-mode filter, a chorus with two delay lines, an algorithmic reverb with independent early and late reflection settings, and a limiter with controllable knee, ratio, threshold and envelope. Over 800 factory presets and patterns ship with the plugin, the GUI is re-sizable across several size options, and MIDI Learn maps on-screen controls to an external MIDI controller. A YouTube demo titled "Phoscyon 2 Acidline by D16 | Demo of all the presets | Roland TB 303 Emulation VST Plugin" runs through the bundled preset library.
+
+D16 redesigned Phoscyon 2 from its predecessor, Phoscyon 1, rebuilding the plugin's signal path to emulate the Roland TB-303 "silver box" synthesizer with a higher degree of accuracy. A sequencer is built into the interface for programming patterns directly in the plugin. Beyond the synthesis knobs found on the original 303, Phoscyon 2 exposes Calibration Parameters and the service trim pots originally used to calibrate individual hardware units, which let a project replicate the character differences between individual 303 units.
+
+The effects chain adds a 4-band parametric EQ, a delay with tempo sync and an in-loop multi-mode filter, a chorus with two delay lines, an algorithmic reverb with independent early and late reflection settings, and a limiter with controllable knee, ratio, threshold and envelope. Over 800 factory presets and patterns ship with the plugin, the GUI is re-sizable across several size options, and MIDI Learn maps on-screen controls to an external MIDI controller.
+
+A YouTube demo titled "Phoscyon 2 Acidline by D16 | Demo of all the presets | Roland TB 303 Emulation VST Plugin" runs through the bundled preset library.
 
 <!-- deal-context-video:start -->
 <iframe src="https://www.youtube.com/embed/wIq2JEUg6bQ" title="Phoscyon 2 Acidline by D16 |  Demo of all the presets | Roland TB 303 Emulation VST Plugin" frameborder="0" allowfullscreen></iframe>

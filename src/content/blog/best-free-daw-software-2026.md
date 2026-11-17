@@ -12,7 +12,11 @@ evergreen: true
 ---
 <!-- guide:v4 kind=roundup -->
 
-**TL;DR:** In short, if only one program can be chosen, Mac users should simply open GarageBand, since it comes already installed, while Windows users should download Cakewalk by BandLab. Together these two cover what most people making music will need; everything else on the list is there for a more specific situation. REAPER can be tried in full, without feature limits or a time cutoff, and afterward can be kept with an affordable one-time license. LMMS is a completely free program that runs on multiple operating systems and is built mainly for beat-making and electronic music. Every program covered here allows finished tracks to be exported without watermarks or length restrictions — the right pick depends first on the operating system in use, then on whether the work involves recording live audio or programming beats. Once a project outgrows the built-in sounds and instruments, a comparison of paid upgrade options further down covers what to consider next.
+**TL;DR:** In short, if only one program can be chosen, Mac users should simply open GarageBand, since it comes already installed, while Windows users should download Cakewalk by BandLab. Together these two cover what most people making music will need; everything else on the list is there for a more specific situation. REAPER can be tried in full, without feature limits or a time cutoff, and afterward can be kept with an affordable one-time license.
+
+LMMS is a completely free program that runs on multiple operating systems and is built mainly for beat-making and electronic music. Every program covered here allows finished tracks to be exported without watermarks or length restrictions — the right pick depends first on the operating system in use, then on whether the work involves recording live audio or programming beats.
+
+Once a project outgrows the built-in sounds and instruments, a comparison of paid upgrade options further down covers what to consider next.
 
 ## Introduction
 

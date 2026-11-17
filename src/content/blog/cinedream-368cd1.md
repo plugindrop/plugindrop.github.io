@@ -18,7 +18,12 @@ updatedDate: "2026-11-17"
 
 ## Inside CINEDREAM's Contour Knob and 30 Guitar Styles
 <!-- role:product -->
-Thirty styles focused on cinematic guitar make up CINEDREAM's core library, with the maker describing the goal as making it "dead easy to create ambient guitar textures for any musical situation." A contour knob sits at the center of the instrument, fading between slow attacks and long sustains so a single style can move from a plucked phrase to a held, swelling texture without switching patches. Five amp models run underneath that control, moving tone from clean shimmer to distorted grit, and two multi-effect engines sit after them, built for pads, pulses, and ambiences rather than for a conventional guitar sound. Together, the style library supplies the source material, the contour knob reshapes its envelope, the amp stage colors its surface, and the multi-effect engines push the result toward score-style backing. CINEDREAM loads as VST2, VST3, AU 2, or AAX, with the AU 2 build limited to Logic Pro X and newer, and all formats run 64-bit only.
+
+Thirty styles focused on cinematic guitar make up CINEDREAM's core library, with the maker describing the goal as making it "dead easy to create ambient guitar textures for any musical situation." A contour knob sits at the center of the instrument, fading between slow attacks and long sustains so a single style can move from a plucked phrase to a held, swelling texture without switching patches.
+
+Five amp models run underneath that control, moving tone from clean shimmer to distorted grit, and two multi-effect engines sit after them, built for pads, pulses, and ambiences rather than for a conventional guitar sound. Together, the style library supplies the source material, the contour knob reshapes its envelope, the amp stage colors its surface, and the multi-effect engines push the result toward score-style backing.
+
+CINEDREAM loads as VST2, VST3, AU 2, or AAX, with the AU 2 build limited to Logic Pro X and newer, and all formats run 64-bit only.
 
 <!-- deal-context-video:start -->
 <iframe src="https://www.youtube.com/embed/rpVwmNglFTM" title="‪@ujamInstruments‬ presents: Virtual Guitarist CINEDREAM | Official Walkthrough" frameborder="0" allowfullscreen></iframe>

@@ -21,7 +21,12 @@ productKey: "Empirical Labs EL8 Distressor Compressor"
 
 ## Seven Ratios and a Nuke Setting Define the Distressor's Range
 <!-- role:product -->
-Eight compression settings sit at the center of the EL8 Distressor: ratios of 1:1, 2:1, 3:1, 4:1, 6:1, 10:1, and 20:1, plus a mode called Nuke. Each one is built to sound distinct rather than simply scaling gain reduction up or down. The 1:1 setting is meant for gently warming up synths or strings without meaningfully reducing their level, while Nuke is built for explosive, heavy-handed treatment of room mics or an entire mix. Dist 2 and Dist 3 modes sit alongside the ratio control, adding even-order or combined even/odd-order harmonic distortion on top of the compression itself. A sidechain control is included to remove unwanted low-frequency pumping, and a Band Emphasis section targets strident vocals or harsh instrument peaks in the "power region." Plug-in-only additions not on the original hardware include a Dry/Wet Mix control for parallel compression and a Headroom setting for customizing operating level. A demo video titled "UAD's Swiss Army Knife | EL8 Distressor Compressor" walks through these controls. Activation runs through a free iLok account, using either iLok Cloud for online systems or a physical iLok USB for offline ones.
+
+Eight compression settings sit at the center of the EL8 Distressor: ratios of 1:1, 2:1, 3:1, 4:1, 6:1, 10:1, and 20:1, plus a mode called Nuke. Each one is built to sound distinct rather than simply scaling gain reduction up or down. The 1:1 setting is meant for gently warming up synths or strings without meaningfully reducing their level, while Nuke is built for explosive, heavy-handed treatment of room mics or an entire mix.
+
+Dist 2 and Dist 3 modes sit alongside the ratio control, adding even-order or combined even/odd-order harmonic distortion on top of the compression itself. A sidechain control is included to remove unwanted low-frequency pumping, and a Band Emphasis section targets strident vocals or harsh instrument peaks in the "power region." Plug-in-only additions not on the original hardware include a Dry/Wet Mix control for parallel compression and a Headroom setting for customizing operating level.
+
+A demo video titled "UAD's Swiss Army Knife | EL8 Distressor Compressor" walks through these controls. Activation runs through a free iLok account, using either iLok Cloud for online systems or a physical iLok USB for offline ones.
 
 <!-- deal-context-video:start -->
 <iframe src="https://www.youtube.com/embed/-pAuHW4qMpI" title="UAD&#x27;s Swiss Army Knife | EL8 Distressor Compressor" frameborder="0" allowfullscreen></iframe>
@@ -31,7 +36,10 @@ Eight compression settings sit at the center of the EL8 Distressor: ratios of 1:
 
 ## The Tone Its Dist 2 and Dist 3 Modes Build
 <!-- role:sound -->
-Warmth is the word tied to the Distressor's gentlest setting: running synths or strings through the 1:1 ratio adds musical harmonics without real gain reduction, shaping tone rather than taming level. Dist 2 and Dist 3 push further into texture, layering harmonic distortion that ranges from delicate thickening through a tape-like burnish to full saturation, depending on how hard the mode is pushed. The maker says comparing other Distressor emulations against "the original hardware's ultra-fast attack time" is where most plug-ins reveal their limits, positioning the EL8 Distressor's speed as central to its character. Between the ratio ladder and the two distortion modes, the same signal can come out barely touched or fully reshaped, depending on which setting carries the load.
+
+Warmth is the word tied to the Distressor's gentlest setting: running synths or strings through the 1:1 ratio adds musical harmonics without real gain reduction, shaping tone rather than taming level. Dist 2 and Dist 3 push further into texture, layering harmonic distortion that ranges from delicate thickening through a tape-like burnish to full saturation, depending on how hard the mode is pushed.
+
+The maker says comparing other Distressor emulations against "the original hardware's ultra-fast attack time" is where most plug-ins reveal their limits, positioning the EL8 Distressor's speed as central to its character. Between the ratio ladder and the two distortion modes, the same signal can come out barely touched or fully reshaped, depending on which setting carries the load.
 
 ## Who Reaches for the Distressor's Sidechain and Ratio Controls
 <!-- role:audience -->
@@ -44,7 +52,10 @@ Four uses are named directly for the EL8 Distressor:
 
 ## How the Distressor's Ratios Set It Apart From Other Compressors
 <!-- role:peers -->
-Eight ratio settings plus Nuke give the EL8 Distressor a wider range of compression character than Baby Audio's IHNY-2, which Plugin Boutique's listing describes mainly through workflow conveniences — on-demand parameter tooltips and a one-click reset to default preset — rather than alternate compression ratios. Bus Processor takes a different path, positioning itself as a bus compressor and saturator built to glue a mix together while moving "from clean to colorful without the loss of clarity," a single blended character rather than the Distressor's discrete ratio-by-ratio choices. Waves markets its API 2500 as an emulation built in close collaboration with API, modeled specifically on that company's own bus compressor — a lineage tied to one hardware source, compared with the Distressor's own ratio and Dist mode combinations.
+
+Eight ratio settings plus Nuke give the EL8 Distressor a wider range of compression character than Baby Audio's IHNY-2, which Plugin Boutique's listing describes mainly through workflow conveniences — on-demand parameter tooltips and a one-click reset to default preset — rather than alternate compression ratios. Bus Processor takes a different path, positioning itself as a bus compressor and saturator built to glue a mix together while moving "from clean to colorful without the loss of clarity," a single blended character rather than the Distressor's discrete ratio-by-ratio choices.
+
+Waves markets its API 2500 as an emulation built in close collaboration with API, modeled specifically on that company's own bus compressor — a lineage tied to one hardware source, compared with the Distressor's own ratio and Dist mode combinations.
 
 ## $39 today, down from $199
 <!-- role:price -->
