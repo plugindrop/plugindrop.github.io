@@ -26,7 +26,11 @@ Within the same product line, the Addictive Drums 2 Custom XL Collection also ru
 ## Addictive Drums 2 Custom XXL Collection's $329.40 Last Sale Against Its $549.00 Regular Price
 <!-- role:price -->
 
-The Custom XXL Collection last sold for $329.40 on 2026-10-04, which matches its tracked low of 329.4 — meaning this sale represents the lowest price recorded for the bundle rather than a mid-range discount. Measured against the regular price of $549.00 (also its typical regular price of 549.0), the $329.40 figure marks the deepest cut seen in its tracked history rather than a partial markdown. No current sale is active and no future sale date has been confirmed, so this is a record of a past price point rather than live pricing. For anyone tracking this bundle going forward, the figure to watch is $329.40 itself: since that price already equals the tracked low, any future markdown would need to match or beat it to count as a new low, while a listing anywhere close to the $549.00 regular price reflects no discount at all.
+The Custom XXL Collection last sold for $329.40 on 2026-10-04, which matches its tracked low of 329.4 — meaning this sale represents the lowest price recorded for the bundle rather than a mid-range discount.
+
+Measured against the regular price of $549.00 (also its typical regular price of 549.0), the $329.40 figure marks the deepest cut seen in its tracked history rather than a partial markdown.
+
+No current sale is active and no future sale date has been confirmed, so this is a record of a past price point rather than live pricing. For anyone tracking this bundle going forward, the figure to watch is $329.40 itself: since that price already equals the tracked low, any future markdown would need to match or beat it to count as a new low, while a listing anywhere close to the $549.00 regular price reflects no discount at all.
 
 <!-- deal-context-formats:start -->
 ## Formats and system requirements
