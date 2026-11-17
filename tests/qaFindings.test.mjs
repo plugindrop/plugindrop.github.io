@@ -5,7 +5,7 @@ import { readFileSync, readdirSync, existsSync } from 'node:fs';
 const source = path => readFileSync(new URL(path, import.meta.url), 'utf8');
 test('rendered facts separate labels from values', () => {
   const html = source('../dist/plugin-prices/arturia-fx-collection-6-pro/index.html');
-  for (const label of ['Formats', 'macOS', 'Windows']) assert.ok(html.includes(label + ':</strong> '));
+  for (const label of ['Formats', 'macOS', 'Windows']) assert.match(html, new RegExp('<dt[^>]*>' + label + '</dt><dd[^>]*>[^<]+</dd>'));
 });
 test('alternatives affiliate channels follow page context', () => {
   for (const [folder, chan] of [['plugin-prices', 'trk'], ['posts', 'art']]) {
@@ -16,7 +16,7 @@ test('alternatives affiliate channels follow page context', () => {
       const html = readFileSync(file, 'utf8');
       const rail = html.match(/<section[^>]*class="[^"]*alternatives-rail[^" ]*"[\s\S]*?<\/section>/)?.[0];
       if (!rail) continue;
-      for (const anchor of rail.matchAll(/<a[^>]*class="card-cta"[^>]*href="([^"]+)/g)) {
+      for (const anchor of rail.matchAll(/<a[^>]*href="(https:\/\/www\.pluginboutique\.com[^"]+)"[^>]*rel="[^"]*sponsored/g)) {
         const url = new URL(anchor[1].replaceAll('&amp;', '&'));
         assert.equal(url.searchParams.get('chan'), chan);
         checked++;

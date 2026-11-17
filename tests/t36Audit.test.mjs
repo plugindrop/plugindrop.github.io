@@ -3,7 +3,7 @@ import { strict as assert } from 'node:assert';
 import { buildDealPool, toCardModel } from '../src/lib/homeDeals.mjs';
 import { dealState, hasTrustedExpiry } from '../src/lib/articleDeal.mjs';
 import { validatedTagline } from '../src/lib/dealCopy.mjs';
-import { readFileSync, readdirSync } from 'node:fs';
+import { readFileSync, readdirSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 
 const now = Date.parse('2026-10-18T17:00:00Z');
@@ -49,11 +49,17 @@ test('render guard drops boilerplate and evaluative copy', () => {
 });
 
 test('built live article has no expired buy box and uses tracker deadline', () => {
-  const html = readFileSync(join('dist', 'posts', 'ssl-native-x-echo-de47c7', 'index.html'), 'utf8');
+  // Pick whichever article is live today, so the test does not expire with one specific sale.
+  const live = readdirSync(join('dist', 'posts')).map(name => join('dist', 'posts', name, 'index.html'))
+    .filter(file => existsSync(file)).map(file => readFileSync(file, 'utf8'))
+    .filter(page => /data-deal-state="live"/.test(page) && /priceValidUntil/.test(page));
+  assert.ok(live.length > 0, 'at least one live article is built');
+  for (const html of live) {
   assert.match(html, /data-deal-state="live"/);
   assert.doesNotMatch(html, /class="deal-cta-box sale-expired/);
   assert.doesNotMatch(html, /Our estimated sale window for this deal has passed/);
   assert.match(html, /priceValidUntil/);
+  }
 });
 
 test('free tag page has its own title and h1, distinct from the free hub', () => {

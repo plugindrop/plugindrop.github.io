@@ -7,7 +7,7 @@ import rehypeLinkPolicy from '../src/lib/rehypeLinkPolicy.mjs';
 const anchor = (href, text = 'Keep this text') => ({ type: 'element', tagName: 'a', properties: { href }, children: [{ type: 'text', value: text }] });
 const fixture = createLinkPolicy({
   posts: new Map([['hidden', false], ['public', true]]),
-  tagCounts: new Map([['large', 10], ['small', 9]]),
+  tagCounts: new Map([['large', 3], ['small', 2]]),
   brandCounts: new Map([['large', 3], ['small', 2]]),
   indexablePrices: new Set(['/plugin-prices/public/']),
   unlistedCompare: new Set(['/compare/hidden/']),

@@ -6,7 +6,7 @@ import realPrices from '../src/data/price_history.json' with { type: 'json' };
 const slug = 'best-free-synth-plugins';
 const map = { [slug]: { free_reference: 'Vital', paid_product_key: 'Paid Synth', category: 'Synth', pb_check: { in_stock: true } } };
 const source = realPrices.plugins['u-he Repro'];
-const entry = { ...source, history: [...source.history, { date: '2026-11-10', regular: 100, sale: 50, source: 'auto_check' }] };
+const entry = { ...source, history: [{ date: '2026-11-10', regular: 100, sale: 50, source: 'auto_check' }] };
 map[slug].paid_product_key = 'Paid Synth';
 const prices = { plugins: { 'Paid Synth': entry } };
 

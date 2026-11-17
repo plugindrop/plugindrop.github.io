@@ -38,7 +38,7 @@ const facts = {
   },
 };
 const map = {
-  'best-eq-plugins-2026': ['vp-fixture-free'],
+  'best-saturation-plugins-2026': ['vp-fixture-free'],
   'best-limiter-plugins-2026': ['vp-fixture-paid'],
   'best-acoustic-guitar-vst-plugins': ['vp-fixture-free', 'vp-fixture-unpriced'],
   'best-bass-guitar-vst-plugins': ['vp-fixture-free', 'vp-fixture-paid'],
@@ -74,7 +74,7 @@ function fixtureSite(directory) {
 }
 
 const post = (directory, slug) => fs.readFileSync(path.join(directory, 'dist', 'posts', slug, 'index.html'), 'utf8');
-const block = (html) => html.match(/<section id="compare-table"[^>]*>[\s\S]*?<\/section>/)?.[0] ?? '';
+const block = (html) => html.match(/<(section|details) id="compare-table"[^>]*>[\s\S]*?<\/\1>/)?.[0] ?? '';
 
 test('empty vendor data preserves every compare-table block', { skip: !process.env.G3_EMPTY_BASELINE, timeout: 180_000 }, () => {
   const directory = fs.mkdtempSync(path.join(os.tmpdir(), 'g3-3-vendor-display-'));
@@ -101,7 +101,7 @@ test('vendor display fixture follows current comparison price columns', { timeou
   try {
     fixtureSite(directory);
     execFileSync(process.execPath, [path.join(directory, 'node_modules', 'astro', 'bin', 'astro.mjs'), 'build'], { cwd: directory, timeout: 150_000, stdio: 'pipe' });
-    const mixed = block(post(directory, 'best-eq-plugins-2026'));
+    const mixed = block(post(directory, 'best-saturation-plugins-2026'));
     assert.match(mixed, /data-facts-table/);
     assert.match(mixed, /Typical regular/);
     assert.match(mixed, /Plugin Boutique/);

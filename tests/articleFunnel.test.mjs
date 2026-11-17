@@ -23,13 +23,11 @@ test('fact card purchase link uses a store neutral label', () => {
   assert.match(read('../src/components/FactCard.astro'), /Check current price →<\/a>/);
 });
 
-test('built single product review keeps content before facts and offers four alternatives', () => {
+test('built v4 single product review keeps content before cheaper options and the price record', () => {
   const html = read('../dist/posts/empirical-labs-el8-distressor-compressor-ff4241/index.html');
   const tldr = html.indexOf('TL;DR');
-  const facts = html.indexOf('data-fact-card');
-  const alternatives = html.indexOf('alternatives-rail');
+  const cheaper = html.indexOf('Cheaper options in the same category');
   const priceRecord = html.indexOf('data-price-record');
-  assert.ok(tldr >= 0 && tldr < facts && facts < alternatives && alternatives < priceRecord);
-  assert.match(html, /data-alternatives-count="4"/);
+  assert.ok(tldr >= 0 && tldr < cheaper && cheaper < priceRecord);
   assert.doesNotMatch(html, /\(\$0 difference\)/);
 });

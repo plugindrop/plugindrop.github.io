@@ -50,7 +50,10 @@ export function buildDealPool(entries, posts, now) {
   return [...byId.values()].sort((a, b) => b.score - a.score || b.off - a.off || a.name.localeCompare(b.name));
 }
 
-function cardChannel(source) { return { home: ['home', 'homepage', 'home-card'], tracker: ['home', 'homepage', 'home-card'], article: ['art', 'article', 'alternatives'] }[source] ?? ['home', 'homepage', 'home-card']; }
+// Some tracker pb_urls carry another page's tags (e.g. chan=art from an article deal). A card must tag its own channel.
+function untagged(url) { try { const u = new URL(url, 'https://www.pluginboutique.com'); if (!/pluginboutique\.com$/i.test(u.hostname)) return url; for (const k of ['chan', 'data1', 'data2', 'utm_source', 'utm_medium', 'utm_campaign']) u.searchParams.delete(k); return url.startsWith('/') ? u.pathname + u.search : u.toString(); } catch { return url; } }
+
+function cardChannel(source) { return { home: ['home', 'homepage', 'home-card'], tracker: ['trk', 'tracker', 'plugin-prices'], article: ['art', 'article', 'alternatives'] }[source] ?? ['home', 'homepage', 'home-card']; }
 
 const sectionData1 = (name, section) => `${slugify(name)}${section ? `--${section}` : ''}`;
 // A renamed legacy entry only has a redirect stub page; point the card at its canonical page when that one is indexable.
@@ -70,7 +73,7 @@ export function cardTarget(deal, priceData, source = 'home', section, contentDat
   if (postPage) return `/posts/${deal.post.id}/`;
   if (pricePage) return `/plugin-prices/${slugify(deal.name)}/`;
   const channel = cardChannel(source);
-  return pbLink(deal.entry.pb_url, `chan=${channel[0]}`, { medium: channel[1], campaign: channel[2], data1: sectionData1(deal.name, section), placement: 'home-card' });
+  return pbLink(untagged(deal.entry.pb_url), `chan=${channel[0]}`, { medium: channel[1], campaign: channel[2], data1: sectionData1(deal.name, section), placement: 'home-card' });
 }
 
 export function toCardModel(deal, { entries, priceData, now, videos = {}, copy = {}, facts = {}, source = 'home', section }) {
@@ -86,7 +89,7 @@ export function toCardModel(deal, { entries, priceData, now, videos = {}, copy =
   const rarity = deal.kind === 'tracker' ? rarityTag(deal.entry, now) : null;
   const image = resolveCardImage({ post: deal.post, entry: deal.entry, siblings });
   const channel = cardChannel(source);
-  const ctaHref = pbLink(deal.entry.pb_url, `chan=${channel[0]}`, { medium: channel[1], campaign: channel[2], data1: sectionData1(deal.name, section), placement: 'home-card' });
+  const ctaHref = pbLink(untagged(deal.entry.pb_url), `chan=${channel[0]}`, { medium: channel[1], campaign: channel[2], data1: sectionData1(deal.name, section), placement: 'home-card' });
   const tagline = taglineForProduct(deal.name, copy);
   const aboveState = aboveUsualState(deal.entry, deal.current, now);
   const aboveUsual = aboveState?.above ?? false;

@@ -11,7 +11,9 @@ test('Phase D directories render product imagery and shared cards', () => {
   for (const route of ['categories', 'brands', 'best', 'plugin-prices']) {
     const page = html(route);
     assert.ok(count(page, /<img\b/g) >= 3, `${route}: product images`);
-    assert.ok(count(page, /data-deal-card\b/g) >= 1, `${route}: shared cards`);
+    // The price index is a table of verdict chips; the other directories reuse the shared deal card.
+    const shared = route === 'plugin-prices' ? /verdict-chip-card\b/g : /data-deal-card\b/g;
+    assert.ok(count(page, shared) >= 1, `${route}: shared cards`);
   }
 });
 
