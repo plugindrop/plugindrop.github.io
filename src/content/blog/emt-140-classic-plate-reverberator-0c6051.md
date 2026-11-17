@@ -1,117 +1,69 @@
 ---
-noindex: true
-title: "EMT 140 Classic Plate Reverberator: Specs and the $79 Sale That Ended Nov 1, 2026"
-description: "EMT 140 Classic Plate Reverberator (UAD Native): three modeled plates. Plugin Boutique listed it at $79 (regular $149, 47% off) until 2026-11-01; that sale has ended, according to PluginDrop tracking."
+title: "UAD EMT 140 Classic Plate Reverberator: 67% off at $49.00"
+description: "UAD EMT 140 Classic Plate Reverberator is $49.00 at Plugin Boutique, down from the $149.00 regular price (67% off). The sale is tracked through 2026-11-30."
 pubDate: "2026-09-02T19:00:18Z"
-updatedDate: "2026-10-04T09:46:10Z"
+updatedDate: "2026-11-17"
 tags: ["sale", "vst-plugin", "effects", "reverb", "music-production"]
 affiliate: "https://www.pluginboutique.com/search?q=EMT+140+Classic+Plate+Reverberator&a_aid=69cb95abe1763&chan=art&data1=emt-140-classic-plate-reverberator-0c6051&utm_source=plugindrop&utm_medium=article&utm_campaign=emt-140-classic-plate-reverberator-0c6051"
 heroImage: "/images/emt-140-classic-plate-reverberator-0c6051.jpg"
 score: 10.00
-dealPrice: "$79.00"
+dealPrice: "$49.00"
 originalPrice: "$149.00"
-discount: "47% OFF"
+discount: "67% OFF"
 draft: false
-saleExpiry: "2026-11-01"
+saleExpiry: "2026-11-30"
 saleExpirySource: "tracker_until"
 productKey: "UAD EMT 140 Classic Plate Reverberator"
 ---
-If you only install one, make it EMT 140 Classic Plate Reverberator if you specifically need a UAD Native plate reverb modeled after three vintage EMT 140 units.
+**TL;DR:** Universal Audio built the EMT 140 Classic Plate Reverberator as a UAD Native plate reverb plugin that recreates the natural warmth and presence of the original hardware plate unit. Its damping and filter controls, plus plug-in-only Balance, Width, and Modulation settings, are built around pushing lead vocals above a dense mix. Plugin Boutique has it at $49, matching the lowest price PluginDrop has tracked — [grab the EMT 140 Classic Plate Reverberator](https://www.pluginboutique.com/search?q=EMT+140+Classic+Plate+Reverberator&a_aid=69cb95abe1763&chan=art&data1=uad-emt-140-classic-plate-reverberator-emt-14&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-emt-140-classic-plate-reverberator-emt-14).
 
-**TL;DR:** Plugin Boutique listed the EMT 140 Classic Plate Reverberator at **$79.00** (regular ~~$149.00~~, a $70 or 47% reduction) until **November 1, 2026**, according to PluginDrop tracking (latest check during the sale: 2026-10-03). That sale has ended. The plug-in is a native plate reverb with three modeled plate variations and controls for damping, filtering, balance, width, and modulation. The price may differ now, so [check the live listing at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/17663-EMT-140-Classic-Plate-Reverberator?a_aid=69cb95abe1763&chan=art&data1=emt-140-classic-plate-reverberator-0c6051&utm_source=plugindrop&utm_medium=article&utm_campaign=emt-140-classic-plate-reverberator-0c6051) before you decide.
+## Inside the EMT 140 Plug-In's Damping and Filter Controls
+<!-- role:product -->
+The EMT 140 plug-in's damping and filter controls recreate the settings found on the original plate hardware, while plug-in-only Balance, Width, and Modulation controls go beyond what the physical unit offered. Universal Audio's EMT 140 UAD plug-in is built to give producers the natural warmth and presence that only a plate reverb can provide, modeling the characteristics of the EMT 140 plate unit rather than a generic reverb algorithm. The maker says the plug-in reproduces plate sounds heard on recordings by The Beatles, Pink Floyd, Radiohead, and Adele, a claim tied specifically to the plugin's "Iconic Studio Reverbs" feature. A companion demo video, titled "UAD EMT 140 Plate Reverb," is published alongside the plugin. It runs as a UAD Native plug-in through VST3, AU, or AAX formats inside a supported DAW, and authorization runs through the free UA Connect application; an iLok USB key (2nd generation or higher) is compatible but not required, since a free iLok account covers authorization on its own.
 
-## Price Context (tracked by PluginDrop)
-- Regular: $149
-- Past sale: $79, ended 2026-11-01 (tracked at Plugin Boutique; the same $79 price had been recorded since 2026-08-11)
+<!-- deal-context-video:start -->
+<iframe src="https://www.youtube.com/embed/kpri-pUuuQo" title="UAD EMT 140 Plate Reverb" frameborder="0" allowfullscreen></iframe>
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/r9ICoJL5jA4" title="47% Off EMT 140 — Classic Plate Reverb ($79) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+*UAD EMT 140 Plate Reverb*
+<!-- deal-context-video:end -->
 
-## What Is EMT 140 Classic Plate Reverberator?
+## The Plate Warmth Behind a Dense Mix
+<!-- role:sound -->
+Universal Audio's "Authentic EMT Tone" feature claim centers on warmth and realism the brief says go "beyond other emulations," tying the plugin's tone to the original plate hardware rather than a generic digital reverb algorithm. That same warmth and presence is framed around vocal work: the "Vocal Masterpiece" design is meant to make lead tracks stand out above a dense mix, rather than function as a general-purpose ambience tool. Because the plug-in reproduces a specific hardware plate rather than modeling an abstract space, its character stays tied to that plate's natural warmth and presence rather than drifting toward the broader or more synthetic settings other reverb plugins can offer.
 
-EMT 140 Classic Plate Reverberator is a Universal Audio UAD Native reverb plug-in based on three original EMT 140 plate units. It is designed to bring classic plate ambience to DAW sessions without requiring Apollo hardware.
+## Where the EMT 140's Plate Character Fits in a Session
+<!-- role:audience -->
+Universal Audio frames the EMT 140's plug-in-only settings around two concrete jobs in a session:
 
-The product page identifies plates A and B as using the original EMT electronics system. Plate C uses serviced Martech electronics and is described as having a fuller-frequency, more open character.
+- **Lead vocal mixing** — the "Vocal Masterpiece" design is built to make lead tracks stand out above a dense mix.
+- **Plate sound design** — damping and filter controls, plus plug-in-only Balance, Width, and Modulation settings, let producers dial in classic plate character on any track.
 
-## Key Features
+## How the EMT 140 Compares to Blackhole and UAD's Own EMT 250
+<!-- role:peers -->
+Eventide's Blackhole ships with over 50 presets, many created by Eventide artists, including Supernatural settings built for abstract spatial effects and drones — a different design target than the EMT 140's recreation of a physical plate unit. UAD's own EMT 250 Classic Electronic Reverb takes a different direction again, adding Six Modulation Effects for vibey '70s delay, phasing, chorus, and echo, which places it closer to a modulation-and-delay tool than the EMT 140's plate-focused damping and filter controls. Against both, the EMT 140 stays narrowly built around one hardware plate's warmth and presence rather than expanding into spatial or modulation effects.
 
-- **Three modeled EMT 140 plates:** The plug-in is modeled after three original vintage EMT 140 units.
+## $49 today, down from $149
+<!-- role:price -->
+At $49, the EMT 140 Classic Plate Reverberator matches the lowest price PluginDrop has tracked since it started monitoring on 2026-08-11 across 19 observations, undercutting the $79 typical sale price and sitting well below the $149 regular price. PluginDrop's verdict calls this a buy-now price, since $49 lands within 5% of the lowest price tracked for this plugin. [Grab the EMT 140 Classic Plate Reverberator at Plugin Boutique](https://www.pluginboutique.com/search?q=EMT+140+Classic+Plate+Reverberator&a_aid=69cb95abe1763&chan=art&data1=uad-emt-140-classic-plate-reverberator-emt-14&utm_source=plugindrop&utm_medium=article&utm_campaign=uad-emt-140-classic-plate-reverberator-emt-14) while it holds at this tracked low.
 
-- **Plate A and Plate B:** These variations use the original EMT electronics system and plates that had not been tuned for some time.
-
-- **Plate C:** This option uses serviced Martech electronics for a more open, fuller-frequency plate response.
-
-- **Damping and filter controls:** These controls allow users to shape the decay and tonal balance of the reverb.
-
-- **Balance, Width, and Modulation:** UAD-specific plug-in controls extend the modeled plate sounds for source-focused adjustments.
-
-- **Native plug-in formats:** The listed formats are VST3, AU, and AAX, for compatible DAWs.
-
-## Who Is It For?
-
-- **Vocal mixers:** The plate format and modulation control are relevant for placing lead vocals in a dense arrangement.
-
-- **Drum producers:** The Balance control is positioned for targeting snare reverb character within a mix.
-
-- **String and arrangement writers:** The Width function can be used when creating a broader stereo reverb field for strings.
-
-- **UAD Native users:** This is a UADx plug-in that can run on supported systems without Apollo hardware.
-
-## Pricing & Deal Details
-
-| Regular Price | Past Sale Price | Discount at the time |
-|---|---:|---:|
-| ~~$149.00~~ | $79.00 | $70.00 (47%) |
-
-This is a single plug-in license, not a bundle, so there is no per-unit calculation to make. The $79.00 figure was the price tracked at Plugin Boutique; our 2026-10-03 check showed the offer running until 2026-11-01, and it has since ended.
-
-Verify current pricing on the product page. [See the current EMT 140 offer](https://www.pluginboutique.com/product/2-Effects/17-Reverb/17663-EMT-140-Classic-Plate-Reverberator?a_aid=69cb95abe1763&chan=art&data1=emt-140-classic-plate-reverberator-0c6051&utm_source=plugindrop&utm_medium=article&utm_campaign=emt-140-classic-plate-reverberator-0c6051).
-
-## Alternatives at a Glance
-
-| Name | Price | Key Difference |
-|---|---:|---|
-| EMT 140 Classic Plate Reverberator | $79.00 during a sale that ended 2026-11-01 | Models three EMT 140 plate variations and includes UAD Native controls. |
-| UAD Pure Plate Reverb | Check the product page for current pricing | A separate UAD plate reverb plug-in with a different modeled plate design. |
-| UAD Lexicon 224 Digital Reverb | Check the product page for current pricing | Models a digital Lexicon reverb rather than an EMT mechanical plate. |
-| UAD AKG BX 20 Spring Reverb | Check the product page for current pricing | Models a spring reverb unit rather than a plate reverb. |
-
-Choose EMT 140 when the target is the EMT-style plate category and its three plate options. Choose a Lexicon-style plug-in for digital reverb algorithms, or a BX 20-style option when a spring reverb character is required.
+<!-- deal-context-formats:start -->
+## Formats and system requirements
+- Formats: VST3, AU, AAX
+- Mac requirements: OS Big Sur 11, Monterey 12, Ventura 13, Sonoma 14, Sequoia 15 and Tahoe 26
+- Windows requirements: 10 or Windows 11 (64-bit editions); Intel, AMD, or Apple silicon processor; Internet connection to download software and authorize UAD Native plug-ins (UADx); Free iLok account
+- Source: pluginboutique.com product page, retrieved 2026-11-16
+<!-- deal-context-formats:end -->
 
 ## FAQ
+<!-- role:faq -->
 
-**Q: Is EMT 140 Classic Plate Reverberator a hardware-only UAD plug-in?**
-A: No. The product page describes it as a UAD Native plug-in and states that it can be used with or without Apollo hardware.
+Q: Does the EMT 140 plug-in require an iLok hardware key?
+A: No separate hardware key is required; a free iLok account covers authorization, and an iLok USB (2nd generation or higher) is compatible but optional.
 
-**Q: Does EMT 140 Classic Plate Reverberator require iLok?**
-A: A free iLok account is listed as required for authorizing UAD Native plug-ins. An iLok USB is compatible but is not required.
+Q: What does the plug-in version add beyond the original plate hardware?
+A: Balance, Width, and Modulation are plug-in-only settings layered on top of the damping and filter controls carried over from the hardware unit.
 
-**Q: Which DAW formats does EMT 140 Classic Plate Reverberator support?**
-A: The listed supported plug-in formats are VST3, AU, and AAX. Check the official site for complete DAW and system compatibility details.
+Q: Is an internet connection needed to use the EMT 140 after installation?
+A: An internet connection is needed to download and authorize the plugin through the free UA Connect application, which manages UAD Native plug-ins.
 
-**Q: Is EMT 140 Classic Plate Reverberator available for Windows and macOS?**
-A: The listed requirements include supported macOS versions and 64-bit Windows 10 or Windows 11.
-
-## Current Price
-
-Plugin Boutique listed **$79.00 instead of ~~$149.00~~** until November 1, 2026 for Universal Audio’s three-plate EMT 140 model; that sale has ended. [See the current EMT 140 price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/17663-EMT-140-Classic-Plate-Reverberator?a_aid=69cb95abe1763&chan=art&data1=emt-140-classic-plate-reverberator-0c6051&utm_source=plugindrop&utm_medium=article&utm_campaign=emt-140-classic-plate-reverberator-0c6051).
-
-## Was the Sale Worth It?
-
-At 47% off, the sale price was a meaningful reduction from the stated $149 regular price for buyers who want this specific UAD Native EMT plate model. We have no verified sale-history frequency or lower historical price for this product, so we cannot say whether a similar offer will return. If the three modeled EMT plates and UADx workflow match an existing need, check the live price, since a similar sale may or may not return; otherwise compare the alternatives above.
-
-## Related Guides
-
-- [15 Best Free Reverb VST Plugins in 2026](/posts/best-free-reverb-vst-plugins/)
-- [Best Plugin Bundle Deals in 2026](/posts/best-plugin-bundle-deals/)
-
----
-
-*This post contains affiliate links. We may earn a small commission at no extra cost to you.*
-
-<!-- pd:method:start -->
-## Sources for this guide
-
-This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
-<!-- pd:method:end -->
+*Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*

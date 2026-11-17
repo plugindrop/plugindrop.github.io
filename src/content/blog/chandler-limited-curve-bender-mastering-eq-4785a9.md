@@ -1,7 +1,6 @@
 ---
-noindex: true
-title: "Chandler Limited Curve Bender Mastering EQ: Features, Pricing & Is It Worth It? (2026)"
-description: "Chandler Limited is a boutique analog hardware manufacturer with a reputation built on high-end studio gear — most. Check current pricing at Plugin Boutique."
+title: "Chandler Limited Curve Bender Mastering EQ: price history and last sale"
+description: "The last recorded sale on Chandler Limited Curve Bender Mastering EQ was $69.00, down from the $299.00 regular price, seen on 2026-10-28. This page tracks its price history at Plugin Boutique."
 pubDate: '2026-04-23T18:27:42Z'
 tags: ["review", "vst-plugin", "effects", "eq", "music-production"]
 affiliate: https://www.pluginboutique.com/product/2-Effects/16-EQ/5618-Chandler-Limited-Curve-Bender-Mastering-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chandler-limited-curve-bender-mastering-eq-4785a9&chan=art&data1=chandler-limited-curve-bender-mastering-eq-4785a9
@@ -9,95 +8,62 @@ heroImage: /images/chandler-limited-curve-bender-mastering-eq-4785a9.jpg
 score: 9.05
 draft: false
 converted: true
+dealPrice: "$69.00"
+originalPrice: "$299.00"
+discount: "77% OFF"
+updatedDate: "2026-11-17"
 ---
+**TL;DR:** Chandler Limited Curve Bender Mastering EQ has a recorded sale history. Its last recorded sale was $69.00 on 2026-10-28; that sale has ended. The recorded regular price was $299.00. The tracked low was $69.00.
 
+## Four Bands and 51 Fixed Filter Points Built From a Console Lineage
+<!-- role:product -->
 
-<div class="video-embed">
-<iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/rw_gOCbLjz8" title="Chandler Limited Curve Bender Mastering EQ: Features, Pricing & Is It Worth It? (2026) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-**Chandler Limited Curve Bender Mastering EQ** is available at Plugin Boutique. [Check the current price here.](https://www.pluginboutique.com/product/2-Effects/16-EQ/5618-Chandler-Limited-Curve-Bender-Mastering-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chandler-limited-curve-bender-mastering-eq-4785a9&chan=art&data1=chandler-limited-curve-bender-mastering-eq-4785a9)
+Chandler Limited turned a piece of analog mastering hardware into a native plugin with the Curve Bender, modeling the original unit's germanium transistors and inductor-based filter stages at the component level. Its circuitry traces back to the EQ sections of the EMI TG12345, the British console design used on sessions such as Pink Floyd's "Dark Side Of The Moon" and The Beatles' "Abbey Road." The hardware console offered two bands; the Curve Bender expands that to four, with 51 fixed filter points chosen by Chandler Limited founder Wade Goeke, compared with just nine on the original circuit. Low and high pass filters were added that the console never had. The native release layers on Mid/Side processing and channel linking, letting one plugin instance handle duties the hardware could only perform in a single signal path, then repeat across instrument groups and the master bus within the same session.
 
----
+## The Tone Carried Over From the TG12345 Circuit
+<!-- role:sound -->
 
-Chandler Limited is a boutique analog hardware manufacturer with a reputation built on high-end studio gear — most famously their Abbey Road-approved designs. The Curve Bender is their mastering EQ, based on the circuit topology of the EMI TG12345 console used at Abbey Road Studios. The plugin version translates that hardware character into the DAW, targeting mastering engineers and mix engineers who want broad, musical EQ moves on full mixes and stems rather than surgical digital precision.
+The Curve Bender's curves are described as gentle and carefully designed, with a silky top end and tight low end that Chandler Limited says make the signal easier to improve without extra tweaking. Its performance is also described as crisp and powerful, built to open up a mix's soundscape. Because the equalizer stages are modeled on the EMI TG12345's germanium and inductor circuits rather than built as fully variable digital filters, the fixed curve shapes carry the character of that original desk design into the plugin, even as the native version adds Mid/Side processing on top of it.
 
----
+## Where the Curve Bender Is Meant to Sit in a Session
+<!-- role:audience -->
 
-## Key Features
+- **Master bus duty** — The plugin is built to run in more than one place in the same mix, across instrument groups and the master bus together.
+- **Mastering chain** — It is positioned among analog mastering-grade equalizers, built for a mastering signal path rather than tracking.
+- **Mixing presets** — Mixing and mastering engineers created presets for the plugin, extending its intended use into mix-bus work.
+- **Rock and pop sessions** — Chandler Limited pitches the EQ at genres spanning rock & roll and pop production.
 
-- **EMI TG12345-Inspired Design**: The EQ circuit draws from the same heritage as the Abbey Road console hardware, giving it a distinct passive-EQ character.
-- **Mastering-Grade Frequency Shaping**: Engineered for wide, gentle tonal moves across the full frequency spectrum — low end, midrange, and high-frequency air.
-- **Passive EQ Topology**: The passive design approach introduces the harmonic character and gentle saturation behavior associated with vintage hardware units.
-- **Full-Mix Processing Focus**: Built to work on program material — mix buses, stems, and mastering chains — rather than individual tracks.
-- **Standard Plugin Formats**: Delivered in common DAW formats; check the product page for the confirmed list of supported formats and OS versions.
+## How the Curve Bender's Band Count Stacks Up Against Oxford EQ and Pro-Q 4
+<!-- role:peers -->
 
----
+Sonnox's Oxford EQ covers five bands with variable-slope high-pass and low-pass filters, spread across four completely different sounding EQ types in one plugin. FabFilter's Pro-Q 4 goes further on raw flexibility, offering up to 24 EQ bands and marketing itself on the highest possible sound quality. The Curve Bender takes the opposite approach: four bands built from 51 fixed filter points modeled on one specific analog circuit lineage, rather than a large or switchable band count. Producers who want the Curve Bender's modeled EMI TG12345 character get fewer, fixed-position bands in exchange for that specific analog path — not the open-ended band totals Oxford EQ or Pro-Q 4 offer.
 
-## Who Is It For?
+## The $69.00 Sale and How It Compares to the Curve Bender's Price History
+<!-- role:price -->
 
-- **Mastering engineers**: Designed specifically for mastering workflows where musical, broad-stroke shaping takes priority over sharp cuts.
-- **Mix engineers working in the box**: A useful mix bus processor for adding analog-style coloration at the final stage before export.
-- **Producers chasing vintage warmth**: The EMI-based character suits rock, pop, soul, and any genre where classic tonal weight matters.
-- **Hardware emulation seekers**: The equivalent hardware unit costs several thousand dollars; the plugin offers access to that circuit character at a dramatically lower price point.
+The last recorded sale on the Curve Bender brought it to $69.00 on 2026-10-28, against a $299.00 regular price. That $69.00 figure also matches the plugin's tracked low, meaning the October sale hit the lowest price recorded for it rather than stopping short of it. The $299.00 regular price is also the typical regular price tracked for the plugin, so there has been no meaningful discount tier between full price and the lowest recorded sale — it has moved between roughly $299.00 and $69.00 rather than settling at intermediate price points. No sale is currently active, and no future sale date is confirmed; the figure to watch for next time is $69.00, since that is the floor this plugin has reached so far. Current listing details are available through [Plugin Boutique](https://www.pluginboutique.com/search?q=Chandler+Limited+Curve+Bender+Mastering+EQ&a_aid=69cb95abe1763&chan=art&data1=chandler-limited-curve-bender-mastering-eq-chandl&utm_source=plugindrop&utm_medium=article&utm_campaign=chandler-limited-curve-bender-mastering-eq-chandl).
 
----
-
-## Current Pricing
-
-Chandler Limited products are premium-positioned — both the hardware and software lines sit at the higher end of their respective markets. A 74% sale is a meaningful departure from typical pricing for this brand. That context matters: if you've been watching this one, this discount is deeper than the usual sale depth.
-
-Verify current pricing on the product page — deals can change without notice.
-
-**[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/5618-Chandler-Limited-Curve-Bender-Mastering-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chandler-limited-curve-bender-mastering-eq-4785a9&chan=art&data1=chandler-limited-curve-bender-mastering-eq-4785a9)**
-
----
-
-## Alternatives at a Glance
-
-| Name | Price | Key Difference |
-|---|---|---|
-| FabFilter Pro-Q 3 | ~$179 | Modern digital EQ with linear phase mode and dynamic EQ bands |
-| Softube Neve 1073 | Varies | Neve console EQ character, typically used for individual track coloring |
-| Brainworx bx_digital V3 | ~$199 | M/S processing focus with dedicated mid-side mastering tools |
-
-The Curve Bender is the clear pick when EMI-style passive coloration across a full mix is the goal. FabFilter Pro-Q 3 is a better fit if you need precise digital control, dynamic EQ, or linear phase processing. For dedicated M/S mastering workflows, Brainworx bx_digital V3 covers different — and complementary — ground.
-
----
+<!-- deal-context-formats:start -->
+## Formats and system requirements
+- Formats: VST3, VST, AU, AAX, RTAS
+- Mac requirements: OS Big Sur 11, Monterey 12, Ventura 13
+- Windows requirements: 10 (64-bit), Windows 11; Softube account; iLok account; Computer with AU, VST, VST3, and/or AAX-compatible DAW host software
+- Source: pluginboutique.com product page, retrieved 2026-11-17
+<!-- deal-context-formats:end -->
 
 ## FAQ
+<!-- role:faq -->
 
-**Q: Does the Chandler Limited Curve Bender require iLok?**
-A: Check the product page on Plugin Boutique for current activation method and licensing requirements before purchasing.
+Q: How many bands does the Curve Bender add compared with the original console circuit?
+A: The plugin has four bands, up from the two bands on the original hardware console the circuit was drawn from.
 
-**Q: What plugin formats are supported?**
-A: Check the official product page for the confirmed list of supported formats (VST, AU, AAX, etc.) and OS compatibility.
+Q: What does the native plugin add that the hardware console didn't have?
+A: Mid/Side processing and channel linking, along with low and high pass filters not present on the original circuit.
 
-**Q: Is $79 a historically low price for this plugin?**
- Chandler Limited plugins don't frequently appear at this discount depth — but always verify the current deal status on the product page.
+Q: Is the $69.00 price still available?
+A: No. It was the last recorded historical sale on 2026-10-28, and no current or upcoming sale is confirmed.
 
-**Q: What is the Chandler Limited Curve Bender hardware?**
-A: The hardware is a mastering EQ built by Chandler Limited, based on the EMI TG12345 circuit design associated with Abbey Road Studios. Hardware units typically sell for several thousand dollars on the used market.
+Q: How does the Curve Bender's band count compare with FabFilter Pro-Q 4?
+A: Pro-Q 4 offers up to 24 EQ bands, far more than the Curve Bender's four fixed-curve bands built from 51 filter points.
 
----
-
-## Where to Buy
-
-$299 down to **$79** — that's $220 back in your pocket for a plugin with genuine analog hardware roots. This kind of discount on Chandler Limited gear doesn't come around constantly.
-
-**[Check current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/5618-Chandler-Limited-Curve-Bender-Mastering-EQ?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=chandler-limited-curve-bender-mastering-eq-4785a9&chan=art&data1=chandler-limited-curve-bender-mastering-eq-4785a9)**
-
----
-
-*This post contains affiliate links. We may earn a small commission at no extra cost to you.*
-
-## Related Guides
-
-- [Best EQ Plugins 2026](/posts/best-eq-plugins-2026/)
-- [Best Free EQ VST Plugins](/posts/best-free-eq-vst-plugins/)
-- [Best Mixing Plugins 2026](/posts/best-mixing-plugins-2026/)
-
-<!-- pd:method:start -->
-## How this article was put together
-
-This article brings together publicly available product information. We have not tested the product hands-on. Prices come from PluginDrop's tracking. See our [editorial policy](/editorial-policy/) for how we assess sources.
-<!-- pd:method:end -->
+*Disclosure: This post contains affiliate links. We may earn a commission at no extra cost to you.*
