@@ -13,6 +13,7 @@ dealPrice: "$599.00"
 originalPrice: "$659.00"
 discount: "9% OFF"
 updatedDate: "2026-11-17"
+allTimeLow: true
 ---
 **TL;DR:** Soundtoys packages 22 named effects plugins — Decapitator, EchoBoy, Crystallizer, Effect Rack, and 18 others — into the 5.5 collection, activated through a single Soundtoys account and iLok license. Producers register the bundle once with a 10-digit code from their purchase and then pull any of the included plugins into a session rather than buying effects one at a time. Plugin Boutique currently lists the bundle at $599, a level PluginDrop's tracked history flags as worth waiting on; the deal and current price are available on [Plugin Boutique](https://www.pluginboutique.com/search?q=Soundtoys+5+5&a_aid=69cb95abe1763&chan=art&data1=soundtoys-5-5-soundt&utm_source=plugindrop&utm_medium=article&utm_campaign=soundtoys-5-5-soundt).
 
