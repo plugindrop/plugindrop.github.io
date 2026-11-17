@@ -42,7 +42,6 @@ The interface shows modulation sources and targets moving in real time, and an i
 
 <!-- pick:FabFilter Saturn 2 -->
 
-## FabFilter Saturn 2
 
 FabFilter Saturn 2 is a multiband distortion and saturation plug-in covering a wide range of styles, from subtle, clean, warm tube or tape saturation through to wild multiband guitar amp effects and bit crushing. Multiband processing handles up to six bands, and each band has its own distortion style along with independent drive, mix, feedback, dynamics, tone, and level controls.
 
@@ -98,7 +97,6 @@ Last recorded sale: $270.00 on 2026-10-25.
 
 <!-- pick:FabFilter Pro-L 2 -->
 
-## FabFilter Pro-L 2
 
 FabFilter Pro-L 2 is a true peak limiter built for mastering and mixing, combining several limiting styles in one plugin and aiming for transparent sound together with maximum loudness. It suits any type of music or audio, including mono, stereo, or surround material, and it is treated as an essential tool for engineers working on both mastering and mixing. External side-chain triggering is also included, which supports stem mastering workflows.
 
@@ -140,7 +138,6 @@ On Apple hardware, the suite runs natively on Apple silicon as well as Intel Mac
 
 <!-- role:choose -->
 
-## How to choose
 
 TDR Nova is a parallel dynamic equalizer with four dynamic EQ bands plus high-pass and low-pass filter sections. Each band can work as a static filter or as a frequency-dependent compressor or expander. Equal loudness functions make it easier to judge a setting without being thrown off by loudness differences. It runs on Windows, Mac OS X, and Linux.
 

@@ -19,9 +19,7 @@ For free delay plugins in 2026, a good starting point is Valhalla Supermassive, 
 
 <!-- role:intro -->
 
----
 
-## Introduction
 
 If you've been paying for delay plugins in 2026, you may have been overlooking the strong options that cost nothing. A handful of free delay tools can cover most of what a musician or producer needs, from simple echo effects to deep, spatial ambience.
 

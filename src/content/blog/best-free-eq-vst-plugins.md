@@ -413,7 +413,6 @@ Once it's time to spend money on an upgrade, FabFilter Pro-Q 4 is the one that m
 
 <!-- role:faq -->
 
-## FAQ
 
 Q: What is the best free EQ VST plugin for beginners?
 A: A good starting point is TDR Nova. Its built-in real-time spectrum analyzer shows exactly what each adjustment is doing as it happens, which shortens the gap between hearing a change and understanding it. Once its interface is familiar, other parametric EQs tend to feel intuitive by comparison.

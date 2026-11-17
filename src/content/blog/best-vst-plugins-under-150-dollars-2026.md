@@ -506,7 +506,6 @@ For someone with more room in their budget, Phase Plant stands out as the synthe
 
 <!-- role:faq -->
 
-## FAQ
 
 Q: Are free VST plugins good enough for professional production in 2026?
 A: For synthesis, equalization, dynamics processing, and reverb work, free plugins are often good enough without reservation. Vital, TDR Nova, and Valhalla Supermassive have each turned up in commercially released mixes. The real distinction in 2026 is not free versus paid, but purpose-built versus generic: a free plugin designed for one specific job frequently outperforms a pricier plugin used outside the task it was built for.

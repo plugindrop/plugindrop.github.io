@@ -85,13 +85,6 @@ OTT is genuinely free with no paid upgrade path for this specific plugin. Xfer R
 
 Because each artist edition is tuned differently, trialing at least two before purchasing is a sensible approach. The Total Bundle includes Pro-C 3, Pro-L 2, Pro-MB, Saturn 2, and FabFilter's full reverb and delay suite — replacing multiple third-party tools with a consistently designed ecosystem. Compare the bundle price against the individual plugin prices before deciding. - **If you're already satisfied with your amp sim's cab simulation**, omit Waves IR-L as a cab loader entirely and only reintroduce it as a room send if the dry signal needs spatial depth. - **If your guitar sits in a dense mix** with competing midrange instruments, FabFilter Pro-Q 4's dynamic EQ feature earns its cost — it cuts resonant guitar frequencies only when they exceed a set threshold, preserving natural tone at lower playing dynamics. - **If you're tracking clean or semi-clean tones** that lose presence in a full arrangement, OTT at 20–30% depth adds mid-range density without additional saturation or limiting. - **If you want a complete production environment** beyond guitar processing, the FabFilter Total Bundle replaces the need for standalone compression, limiting, and mastering plugins across every instrument in your session. ---
 
-## FAQ
-**Q: Do I need a separate cabinet loader if I'm running Neural DSP Archetype?**
-A: Not by default. Neural DSP developer documentation confirms each Archetype edition includes a full cab simulation stage as part of the modeled chain. A separate IR loader is only needed if you want to substitute the native cab section with third-party IRs, or if you explicitly route the amp sim to a "no cab" output where available. **Q: Where in the chain should FabFilter Pro-Q 4 go?**
-A: After the amp sim and cab stage, not before. The amp sim and cab define the core frequency character of the guitar tone — Pro-Q 4's role is shaping that character to fit the mix, not pre-processing the clean DI signal. **Q: Is OTT appropriate for guitar, or is it primarily an EDM tool?**
-A: OTT is genre-agnostic by technical design. It can add density to single-coil tones and tighten rhythm guitar tracks in dense productions. Keeping the Depth knob between 15–40% is a reasonable starting range for guitar material to avoid over-processing. **Q: Should I run this guitar chain in mono or stereo?**
-A: A common approach for rhythm guitars is to track and process in mono, then double-track and hard-pan for stereo width. For lead guitars and single-note lines, a stereo chain with subtle room reverb via Waves IR-L adds natural mix placement. Running a single rhythm guitar in stereo frequently creates phase cancellation issues when the mix is summed to mono. **Q: What is the correct signal order for this chain?**
-A: DI input → Amp Sim (Neural DSP Archetype) → Cabinet IR if substituting native cab (Waves IR-L inline) → EQ (FabFilter Pro-Q 4) → Multiband Dynamics (OTT) → mix bus. If using Waves IR-L for room ambience rather than cab loading, run it as a send/return after the EQ stage for independent wet/dry control. ---
 ## Related Guides
 
 - [10 Best Guitar Amp Simulator VST Plugins 2026 (Paid Options Ranked)](/posts/best-guitar-amp-sim-plugins/)
@@ -241,7 +234,6 @@ Last recorded sale: $1069.00 on 2026-11-14.
 
 <!-- role:faq -->
 
-## FAQ
 
 **Q: Do I need a separate cabinet loader if I'm running an amp simulation plugin?**
 A: Not by default. Each amp simulation edition built around a specific artist's rig typically includes a full cabinet simulation stage as part of its modeled signal chain. A separate impulse-response loader is only needed if you want to swap out the built-in cabinet stage for third-party impulse responses, or if you deliberately route the amp simulator to a "no cabinet" output where that option exists.

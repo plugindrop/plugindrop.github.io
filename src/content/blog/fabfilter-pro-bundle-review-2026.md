@@ -18,16 +18,6 @@ draft: false
 
 Metering is detailed and precise, covering both output level and gain reduction, including true peak metering. An optional DC offset filter is also included. It supports mono, stereo, and surround material, and external side-chain triggering makes it useful for stem mastering as well. Check the product page for current system requirements and pricing, since these details can change over time.
 
-## Introduction
-
-<!-- role:intro -->
-
-FabFilter Pro-L 2 is a true peak limiter built for mastering and mixing engineers, whether they work in mono, stereo, or surround. It pairs clean, transparent sound with the ability to push a mix to maximum loudness, and it does this through eight distinct limiting algorithms, each offering its own character and intended purpose.
-
-The plugin handles true peak limiting with up to 32x linear-phase oversampling, which helps keep playback peaks under control across different formats and systems. Metering is highly accurate, covering both output level and gain reduction, including dedicated true peak metering so engineers can see exactly what's happening to the signal at every stage. An optional DC offset filter is also included for cleaning up low-frequency DC bias before it affects the rest of the signal chain.
-
-External side-chain triggering is supported as well, which makes the plugin useful for stem mastering workflows where separate elements need to be triggered or linked together. Taken together, these tools make Pro-L 2 a practical option for anyone doing final-stage loudness and peak control work, whether that's a full mix or individual mastering stems.
-
 ## How to
 
 <!-- role:howto -->

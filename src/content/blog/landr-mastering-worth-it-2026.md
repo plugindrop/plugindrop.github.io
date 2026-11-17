@@ -104,13 +104,6 @@ In short, the tool handles the initial setup work, and you keep control over the
 
 If you want LANDR's engine inside your DAW, look at its separate Mastering Plugin. ---
 
-## FAQ
-**Q: Is LANDR mastering good enough for professional releases in 2026?**
-A: We cannot answer that from specifications, and we have not tested LANDR. What we can say is that it returns a finished stereo file with limited manual control. Use the free preview on your own track and judge the result yourself before paying. **Q: Can I use LANDR mastering inside my DAW?**
-A: Not with LANDR's online mastering service, which works on uploaded stereo files. LANDR does, however, sell a separate LANDR Mastering Plugin (PRO and SE editions) that runs inside a DAW and, per LANDR, processes in real time in VST3, AU (macOS) and AAX formats; see [LANDR's plugin page](https://www.landr.com/plugins/mastering-plugin), checked 2026-10-03. We could not confirm its price and have not tested it. If you want a DAW plugin, LANDR's plugin and iZotope Ozone 12 are both options to compare. **Q: How does LANDR compare to iZotope Ozone 12 for AI mastering?**
-A: Both tools use AI analysis as a starting point, but the workflows diverge fundamentally. LANDR's online service applies a complete processing chain invisibly and returns a finished file. Ozone 12's Master Assistant proposes a chain and lets you modify every parameter. If you want to adjust the process yourself, a plugin is the fit; if you want to hand it off entirely, a cloud service is. **Q: Does LANDR mastering replace a human mastering engineer?**
-A: No, and LANDR's own developer documentation positions the service as accessible AI mastering, not an engineer replacement. A human mastering engineer can give mix feedback and take responsibility for the result in a way an automated service does not. Whether that is worth the cost depends on the release. **Q: Is the LANDR free tier usable for distributing music?**
-A: No. LANDR says the free preview lets you hear how your track will sound, but downloading a master requires a paid subscription or a one-time purchase. ---
 ## Related Guides
 
 - [10 Best Limiter Plugins for Mastering in 2026 (From Free to Pro)](/posts/best-limiter-plugins-mastering/)

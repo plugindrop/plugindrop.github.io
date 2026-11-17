@@ -55,13 +55,6 @@ Splice INSTRUMENT is a sample-based virtual instrument, available as a plugin (V
 
 - **Want a steady flow of samples and can use about 100 to 200 downloads a month:** compare the Sounds and Creator plans on splice.com/plans. Creator also lists 1,000+ presets and Rare Finds. - **Need a specific plugin now and prefer to spread the cost:** Rent-to-Own is Splice's pay-as-you-go option. Look at the plugin's monthly price and compare it with the one-time price elsewhere. - **Already own a large sample library:** check whether the monthly download allowance matches what you would use before subscribing. ---
 
-## FAQ
-**Q: How do Splice Sounds credits work?**
-A: Splice's FAQ says all samples cost one credit each, and MIDI patterns and presets use up to three credits each. Unused credits roll over to the next month. **Q: Do my downloads expire if I cancel?**
-A: Splice says you keep everything you download, even if you cancel. Remaining credits expire 28 days after your final billing period ends. **Q: Can I put my plan on hold?**
-A: Splice's FAQ says you can put your plan on hold for up to two months if you do not want to lose accrued credits. **Q: Does Splice have Rent-to-Own plugins?**
-A: Yes. **Q: How does Splice compare with ADSR Sounds?**
-A: We compare the two services in a separate guide, linked below. ---
 ## Related Guides
 
 - [ADSR Sounds vs Splice: Which Sample Subscription Is Better in 2026?](/posts/adsr-vs-splice-samples/)

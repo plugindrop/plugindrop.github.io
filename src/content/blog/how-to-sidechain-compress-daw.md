@@ -17,14 +17,6 @@ FabFilter Pro-C 3 is a top-tier compressor built for sidechain work, offering a 
 
 The plugin covers a wide range of sonic territory. It can deliver transparent, precise control suited to mastering work, or add punchy glue to a mixbus. On the character side, it offers classic opto-style warmth, modern upward dynamics, and aggressive pumping effects, all while keeping a distinctive sound. Built-in character modes layer in analog-style saturation, coloring, and drift through Tube, Diode, and Bright options, letting users dial in anything from clean, controlled compression to more colored and textured results.
 
-## Introduction
-
-<!-- role:intro -->
-
-Pro-C 3 is a stereo and surround compressor with fourteen compressor styles split across Modern, Classic, and Utility categories. Its standout feature is dynamics processing that combines upward and downward multiband control through its TTM system, giving it a wide range of behavior in one plug-in.
-
-That range covers everything from transparent mastering control to punchy mixbus glue, classic opto warmth, modern upward dynamics, or aggressive pumping, each delivered with its own distinct character. Beyond the core compression styles, character modes let users dial in analog-style saturation, coloring, and drift using Tube, Diode, and Bright options, adding texture on top of the compression itself while leaving the transparent settings untouched for cleaner mastering work.
-
 ## How to
 
 <!-- role:howto -->
@@ -134,15 +126,6 @@ If you're currently working with a DAW-native compressor for sidechain, these ar
 ## How to Choose
 
 - **If you want the metronomic EDM pump on every beat:** Cableguys VolumeShaper's fixed-curve approach suits this specific result, since the effect doesn't vary with kick dynamics. - **If you want compression that reacts to the actual kick and works across genres:** FabFilter Pro-C 3 is an option. Its visual display is the fastest path to understanding what sidechain compression is actually doing in real time. - **If you're just starting out or learning the concept:** Your DAW's native compressor is fully functional for learning signal flow. Master the routing there before adding a third-party plugin. - **If you want subtle sidechain glue rather than obvious pump:** Low ratio settings with FabFilter Pro-C 3's range parameter limiting maximum depth will deliver more precision and control than most native options. - **If you're building templates for live performance:** VolumeShaper's tempo-locked curve is more predictable in a live context than a dynamic compressor reacting to the actual kick's level in real time. ---
-
-## FAQ
-
-**What is sidechain compression used for in music production?**
-Sidechain compression is most commonly used to create space between a kick drum and a bass line by making the bass duck every time the kick hits. It is also used for subtle mix glue between elements, rhythmic volume effects on pads and synths, and ducking reverb returns to keep transients clear in a busy mix. **Do I need a third-party plugin to sidechain in my DAW?**
-No. Ableton Live, Logic Pro, FL Studio, and most major DAWs include native compressors with functional sidechain inputs. Third-party plugins like FabFilter Pro-C 3 add precision and visual feedback, but the routing concept works with built-in tools. Learning with a native compressor first is a reasonable approach. **What is the difference between sidechain compression and a volume shaper?**
-A sidechain compressor responds dynamically to the level of the trigger signal (typically your kick) and applies gain reduction accordingly — the effect varies with how loud each kick hit is. A volume shaper like VolumeShaper applies a fixed, drawn volume curve that repeats in time with the grid regardless of the kick's actual level. The pump effect can sound similar, but the mechanism and responsiveness are fundamentally different. **What attack and release settings produce the classic pump sound?**
-A common starting point is fast attack (1–5ms), release set to a half-beat or full beat at the track's tempo, ratio between 4:1 and 8:1, and a low enough threshold to catch every kick hit cleanly. These are starting points — the correct settings shift with tempo and how deep the effect needs to be. **Why does my sidechain compression pump at the wrong time?**
-The most common cause is release time that doesn't match the session tempo. If the compressor releases too quickly, the bass recovers too early and the effect sounds rushed. If it releases too slowly, the bass stays ducked across beat boundaries and the mix loses energy. Host tempo sync triggering in FabFilter Pro-C 3 is one way to keep the ducking locked to the session tempo. ---
 
 ## Final Thoughts
 

@@ -19,12 +19,6 @@ Vital and Valhalla Supermassive let Reaper users add a wavetable synth and a rev
 
 ## Introduction
 
-<!-- role:intro -->
-
-Rewriting only the Introduction section in plain, declarative English — no prices, no vendor attribution, no first-person claims, no invented quotes or ratings — while keeping it close to the original length.
-
-## Introduction
-
 Most guides covering the best plugins for Reaper DAW 2026 miss an important point: Reaper users already approach plugin choices differently than producers on more expensive DAWs. Reaper's lower-cost licensing tends to attract a particular kind of producer — one who is analytical, skeptical of marketing claims, and likely to have tried out more plugins than users of other platforms.
 
 The practical reality is that free plugins have improved enough that the gap between free and paid options has mostly closed in several categories. Building a Reaper setup entirely from free tools in 2026 is not a compromise. It is a reasonable, deliberate choice, and it can produce professional-level results.

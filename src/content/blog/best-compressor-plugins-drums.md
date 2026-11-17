@@ -20,7 +20,6 @@ FabFilter Pro-C 3 is the most capable drum compressor for producers who want pre
 
 <!-- role:intro -->
 
-## Introduction
 
 Two compressors built around the same classic VCA bus design lead this category: the SSL-style buss compressor from Waves, and The Glue from Cytomic, created by Andrew Simper, whose design was also licensed by Ableton to build the Glue Compressor that ships inside Live. Because both plugins share the same underlying VCA bus-compression approach, the real decision between them comes down to cost, how the interface feels to work with, and which one suits the way a given drum bus is put together. That choice between two closely related designs ends up shaping the buying decision more than any difference in core sound.
 

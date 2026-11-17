@@ -18,9 +18,7 @@ draft: false
 
 <!-- role:intro -->
 
----
 
-## Introduction
 
 Here is a misconception that wastes hours: a vocoder is not a "robot voice" button you drop on a vocal track. It needs two signals to work — a modulator, which is your voice, and a carrier, which is usually a synthesizer — and the character of that carrier shapes most of what listeners actually hear. Producers who struggle to get convincing vocoder results are almost always fighting a signal routing problem, not a plugin problem. Getting that right matters more than which plugin you choose.
 
