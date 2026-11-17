@@ -46,8 +46,6 @@ Drum samples recorded at professional studios with multiple mic placements. The 
 
 **Skip it if:** you need multiple kits, room mics, or genre expansions — all of that is paywalled in the full SSD5.5 product. For one solid acoustic kit, the free tier is more than enough.
 
-
-
 ## 2. MT Power Drum Kit 2
 
 <!-- role:pick -->
@@ -70,8 +68,6 @@ High-quality acoustic drum samples with multiple velocity layers and round-robin
 
 **Skip it if:** you like to reshape drums deeply at the mixer — MT Power is one fixed kit tuned to sound good out of the box, with no alternate kits and little tonal surgery available.
 
-
-
 ## 3. Sitala by Decomposer
 
 <!-- role:pick -->
@@ -92,8 +88,6 @@ High-quality acoustic drum samples with multiple velocity layers and round-robin
 
 **Skip it if:** you want the plugin itself to sequence patterns — Sitala is a sound source you play from the piano roll or a pad controller, not a standalone groove box.
 
-
-
 ## 4. Hydrogen
 
 <!-- role:pick -->
@@ -113,8 +107,6 @@ Full-featured open-source drum machine with a step sequencer, multiple kits, and
 **Use case:** Sketching a full drum arrangement pattern-by-pattern outside a DAW, or on Linux where plugin-format options are thinner — Hydrogen runs natively and exports stems or MIDI you can pull into any project.
 
 **Skip it if:** you want an instrument track inside your DAW — Hydrogen is a standalone app, so you integrate via MIDI/audio routing or export rather than loading it on a channel.
-
-
 
 ## 5. TX16Wx by CWITEC
 
@@ -138,8 +130,6 @@ Full-featured free software sampler that loads any drum sample. Multi-layer mapp
 
 **Skip it if:** you want drag-drop-play simplicity — TX16Wx is a full sampler with a real learning curve, and a few conveniences (batch import, extra effect slots) sit in the paid Pro version.
 
-
-
 ## 6. BPB Dirty Drums by Instruments for Music
 
 <!-- role:pick -->
@@ -159,8 +149,6 @@ A free drum plugin focused on lo-fi and processed drum sounds. Includes analog-s
 **Use case:** Laying down a lo-fi or bedroom-indie beat where you want the drums to already sound dusty and glued — load a kit and the grit is there without extra tape or bitcrush plugins.
 
 **Skip it if:** you might want those drums clean later — the saturation is baked into the samples, so there's no un-dirtying them for a hi-fi mix.
-
-
 
 ## 7. Drum Pro by StudioLinked
 
@@ -182,8 +170,6 @@ A free drum plugin focused on lo-fi and processed drum sounds. Includes analog-s
 
 **Skip it if:** you need any single genre covered in depth — Drum Pro's 24 kits are broad but shallow, and a dedicated instrument like SSD5.5 beats it inside its own lane.
 
-
-
 ## 8. Drumatic 4 by e-phonic
 
 <!-- role:pick -->
@@ -203,8 +189,6 @@ Six-voice drum synthesizer with analog-modeled oscillators for each component �
 **Use case:** Designing a custom techno or industrial kick and snare — sweep the pitch envelope and decay to tune the boom of a kick precisely to the track's key and tempo.
 
 **Skip it if:** you need acoustic realism — Drumatic 4 is pure synthesis with no samples, so organic rock/pop kits are the wrong assignment for it.
-
-
 
 ## 9. AVL Drumkits
 
@@ -227,8 +211,6 @@ High-quality acoustic drum samples released under open licensing. Multiple kits 
 **Use case:** Building an entirely open-source acoustic drum rig — pair the AVL kits with a free sampler for a fully royalty-clear, no-cost realistic drum sound.
 
 **Skip it if:** you want a self-contained instrument — AVL kits are raw sample libraries, so budget a setup step for an SFZ/DrumGizmo host before you hear a note.
-
-
 
 ## 10. MiniSpillage by AudioSpillage
 
@@ -309,8 +291,6 @@ SSD5.5 FREE and MT Power Drum Kit 2 for acoustic realism, Sitala and TX16Wx for 
 [Browse Drum Plugins on Plugin Boutique](https://www.pluginboutique.com/categories/1-Instruments/10-Drums?a_aid=69cb95abe1763&utm_source=plugindrop&utm_medium=article&utm_campaign=best-free-drum-plugins&chan=art&data1=best-free-drum-plugins)
 
 This list brings together publicly available feature information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources.
-
-
 
 ## How to choose
 

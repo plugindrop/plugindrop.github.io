@@ -23,7 +23,6 @@ draft: false
 </audio>
 </div>
 
-
 ## What you actually get
 
 Outro Eternal Serum Bank is a preset bank for Xfer Serum focused on sounds for track outros and endings. ADSR Sounds lists it as part of its presets catalog, aimed at producers who want to expand their Serum library affordably rather than commit to a full-price flagship pack. The deal context frames it as a budget-friendly way to add a narrower, use-case-specific set of patches rather than an all-purpose bank covering every sound-design category.

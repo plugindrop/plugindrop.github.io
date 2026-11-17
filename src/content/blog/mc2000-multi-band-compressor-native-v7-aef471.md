@@ -20,7 +20,9 @@ updatedDate: "2026-11-17"
 ## Three Compressor Models Built Around Adjustable Crossovers
 <!-- role:product -->
 
-Inside MC2000 sit three separate plug-ins rather than one fixed tool: MC202 for two-band compression, MC303 for three-band compression, and MC404 for four-band compression. Each splits incoming audio using adjustable crossover filters, then compresses the resulting bands independently while multi-band control linking keeps settings coordinated across them when needed. Processing runs on zero latency algorithms with double precision processing, and compression curve modeling plus multiple peak detection circuits shape how each band reacts to transients. Both mono and stereo versions are included, and the plug-ins are optimized for Apple Silicon and the latest Intel processors. The v7 release also carries updated high-definition user interfaces and new presets, so the workflow sits on top of a refreshed GUI rather than the older McDSP look. Having three band-count options in one license means the choice of model, not a single fixed layout, determines how finely a signal gets divided before compression starts.
+Inside MC2000 sit three separate plug-ins rather than one fixed tool: MC202 for two-band compression, MC303 for three-band compression, and MC404 for four-band compression. Each splits incoming audio using adjustable crossover filters, then compresses the resulting bands independently while multi-band control linking keeps settings coordinated across them when needed. Processing runs on zero latency algorithms with double precision processing, and compression curve modeling plus multiple peak detection circuits shape how each band reacts to transients.
+
+Both mono and stereo versions are included, and the plug-ins are optimized for Apple Silicon and the latest Intel processors. The v7 release also carries updated high-definition user interfaces and new presets, so the workflow sits on top of a refreshed GUI rather than the older McDSP look. Having three band-count options in one license means the choice of model, not a single fixed layout, determines how finely a signal gets divided before compression starts.
 
 <!-- deal-context-video:start -->
 <iframe src="https://www.youtube.com/embed/gReVtSMTH5s" title="McDSP Classic Pack- Vintage Overview" frameborder="0" allowfullscreen></iframe>
@@ -42,7 +44,9 @@ Compression curve modeling and analog saturation modeling are the two features d
 ## How MC2000 Compares to Other Bus Compressors
 <!-- role:peers -->
 
-Measured against other compressors sold on Plugin Boutique, MC2000's distinguishing feature is choice of band count rather than a single fixed processing style. UAD's SSL 4000 G Bus Compressor is built to "give power, cohesion, and drive to mixes, buses, or any source" through Side Chain Filtering, Mix, and Headroom controls — a single-band bus tool rather than a multi-band split. Soundtoys' Devil-Loc Deluxe takes a narrower, more extreme route, built as an "extreme compression effect" aimed at "huge drum sounds," with a Mix knob for dialing in grit and ambience rather than independent band control. MC2000's adjustable crossovers and multi-band control linking give it a different job than either: dividing a signal into separate frequency ranges and compressing each on its own terms, instead of processing a source as one block.
+Measured against other compressors sold on Plugin Boutique, MC2000's distinguishing feature is choice of band count rather than a single fixed processing style. UAD's SSL 4000 G Bus Compressor is built to "give power, cohesion, and drive to mixes, buses, or any source" through Side Chain Filtering, Mix, and Headroom controls — a single-band bus tool rather than a multi-band split.
+
+Soundtoys' Devil-Loc Deluxe takes a narrower, more extreme route, built as an "extreme compression effect" aimed at "huge drum sounds," with a Mix knob for dialing in grit and ambience rather than independent band control. MC2000's adjustable crossovers and multi-band control linking give it a different job than either: dividing a signal into separate frequency ranges and compressing each on its own terms, instead of processing a source as one block.
 
 ## $79 today, down from $129
 <!-- role:price -->

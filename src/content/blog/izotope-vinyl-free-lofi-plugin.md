@@ -80,24 +80,17 @@ The original free lo-fi plugin. Over 20 years of service. Still free. Still rele
 
 This guide brings together publicly available product information and prices tracked by PluginDrop. We have not tested these products hands-on. See our [editorial policy](/editorial-policy/) for how we assess sources. <!-- pd:method:end -->
 
-
 ## iZotope Vinyl
 
 <!-- role:pick -->
 
 <!-- pick:iZotope Vinyl -->
 
-
-
-
-
 ## RC-20 Retro Color
 
 <!-- role:pick -->
 
 <!-- pick:RC-20 Retro Color -->
-
-
 
 [Watch RC-20 Retro Color demo](https://www.youtube.com/watch?v=A_DaDhfglE0)
 
@@ -107,19 +100,11 @@ This guide brings together publicly available product information and prices tra
 
 <!-- pick:Aberrant DSP SketchCassette II -->
 
-
-
-
-
 ## Goodhertz Lossy
 
 <!-- role:pick -->
 
 <!-- pick:Goodhertz Lossy -->
-
-
-
-
 
 ## FAQ
 

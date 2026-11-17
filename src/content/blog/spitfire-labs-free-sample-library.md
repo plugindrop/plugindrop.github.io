@@ -12,10 +12,6 @@ score: 1.68
 ---
 
 
-
-
-
-
 ## What Is Spitfire Audio LABS?
 
 LABS is Spitfire Audio's free instrument collection. Spitfire is one of the top orchestral and cinematic sample library developers — their paid products (BBC Symphony Orchestra, Albion, Chamber Strings) are used in film, TV, and game scoring worldwide. LABS gives away curated instruments in a free player. New LABS instruments are added regularly.

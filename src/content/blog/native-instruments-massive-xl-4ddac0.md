@@ -21,7 +21,6 @@ productKey: "Native Instruments Massive XL"
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/XAlSga0m4xQ" title="50% Off Native Instruments Massive XL — Sound Design Synth ($99) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What you actually get
 Massive XL is a synthesizer from Native Instruments, part of the vendor's Massive line of sound design tools. According to the deal context, producers are drawn to it for its sound design capabilities. PluginFox is running it as a 50% off deal, taking the price from $199 down to $99.
 

@@ -21,7 +21,11 @@ updatedDate: "2026-11-16"
 ## Instrument Mode Brings a New Guitar Model to AMBER 2
 <!-- role:product -->
 
-AMBER 2's headline change is a new Instrument mode built around a completely new guitar model and phrase set. The plugin's core is a session player offering more than 30 styles and over 350 phrases, covering strummed and picked steel-string parts without manual chord programming. A new Open Chords feature adds extra voicing variety on top of the standard strumming and picking patterns. Sound shaping happens through a bank of 30 stomp box emulations — compressors, filters, delays, reverbs, and wahs among them — plus 60 Finisher FX modes accessed through a dedicated Finisher knob for building out textures and ambiance. The maker says it searched extensively to find the right guitar for AMBER 2, then paired it with multiple microphones, pickups, and recording setups to widen the instrument's tonal range. The result is a guitar part generator meant to produce usable strumming and picking within seconds of loading a preset, rather than requiring note-by-note programming.
+AMBER 2's headline change is a new Instrument mode built around a completely new guitar model and phrase set. The plugin's core is a session player offering more than 30 styles and over 350 phrases, covering strummed and picked steel-string parts without manual chord programming. A new Open Chords feature adds extra voicing variety on top of the standard strumming and picking patterns.
+
+Sound shaping happens through a bank of 30 stomp box emulations — compressors, filters, delays, reverbs, and wahs among them — plus 60 Finisher FX modes accessed through a dedicated Finisher knob for building out textures and ambiance. The maker says it searched extensively to find the right guitar for AMBER 2, then paired it with multiple microphones, pickups, and recording setups to widen the instrument's tonal range.
+
+The result is a guitar part generator meant to produce usable strumming and picking within seconds of loading a preset, rather than requiring note-by-note programming.
 
 <!-- deal-context-video:start -->
 <iframe src="https://www.youtube.com/embed/lqPnryv4Ikc" title="@ujamInstruments presents: Virtual Guitarist AMBER 2" frameborder="0" allowfullscreen></iframe>
@@ -41,7 +45,9 @@ AMBER 2's phrase library and genre framing point to a narrow but clear set of us
 ## How AMBER 2 Stacks Up Against IRON 2 and SILK 2
 <!-- role:peers -->
 
-Against ujam's IRON 2, the overlap is in processing: IRON 2 is also built around stomp boxes and Finisher FX, so producers already using IRON 2's effects chain will find a familiar signal path in AMBER 2, just applied to an acoustic steel-string source instead of IRON 2's own instrument. Against SILK 2, the shared ground is Instrument mode — both plugins now run on that newer playing engine. Where SILK 2 adds a smart chord engine on top of Instrument mode, AMBER 2's equivalent addition is its Open Chords feature layered onto strumming and picking, rather than a chord-engine approach. The practical difference for a buyer deciding between the three is architecture, not quality: IRON 2 and AMBER 2 share an effects framework, while AMBER 2 and SILK 2 share a playing engine but diverge in how chord variety gets generated.
+Against ujam's IRON 2, the overlap is in processing: IRON 2 is also built around stomp boxes and Finisher FX, so producers already using IRON 2's effects chain will find a familiar signal path in AMBER 2, just applied to an acoustic steel-string source instead of IRON 2's own instrument. Against SILK 2, the shared ground is Instrument mode — both plugins now run on that newer playing engine.
+
+Where SILK 2 adds a smart chord engine on top of Instrument mode, AMBER 2's equivalent addition is its Open Chords feature layered onto strumming and picking, rather than a chord-engine approach. The practical difference for a buyer deciding between the three is architecture, not quality: IRON 2 and AMBER 2 share an effects framework, while AMBER 2 and SILK 2 share a playing engine but diverge in how chord variety gets generated.
 
 ## $29 Ties AMBER 2's Lowest Tracked Price
 <!-- role:price -->

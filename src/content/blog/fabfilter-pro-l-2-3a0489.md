@@ -21,7 +21,6 @@ draft: false
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/oMJeWXtJODc" title="FabFilter Pro-L 2 25% Off — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## What you actually get
 
 FabFilter lists eight different limiting algorithms in Pro L 2, each with its own character and intended use case. That gives you room to pick a gentler algorithm for transparent mastering or a more aggressive one for loudness-focused work.

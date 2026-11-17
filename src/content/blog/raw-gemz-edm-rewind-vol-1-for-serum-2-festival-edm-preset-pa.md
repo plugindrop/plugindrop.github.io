@@ -23,7 +23,6 @@ draft: false
 </audio>
 </div>
 
-
 ## What you actually get
 
 EDM REWIND Vol.1 is a Serum 2 preset bank from Resonance Sound, built around festival-leaning EDM sound design. It's a preset pack rather than a standalone instrument, so you need Xfer Serum 2 installed before any of the patches load. The listing is positioned on ADSR Sounds under the store's presets category, aimed at producers working in mainstage and festival EDM styles rather than general-purpose sound design.

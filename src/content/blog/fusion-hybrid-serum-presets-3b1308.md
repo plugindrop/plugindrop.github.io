@@ -25,7 +25,6 @@ If you already build sounds in Xfer Serum and want more hybrid textures without 
 </audio>
 </div>
 
-
 ## What you actually get
 
 FUSION is a preset bank built for Xfer Serum, combining hybrid synth and sound-design elements into patches you load directly into the plugin. According to the deal context, it's positioned as a versatile, affordable option for producers already working inside Serum. Because it's a preset pack rather than a standalone instrument, you'll need Serum installed before any of these sounds are usable.

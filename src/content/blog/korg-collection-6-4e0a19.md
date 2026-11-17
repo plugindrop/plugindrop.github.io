@@ -21,7 +21,11 @@ allTimeLow: true
 ## Inside the KORG Collection 6 Synthesizer Museum
 <!-- role:product -->
 
-KORG Collection 6 is a suite of software synthesizers built to methodically and accurately recreate the authentic sound and behavior of legendary KORG hardware. The line began with analog instruments — the MS-20, Polysix, and Mono/Poly — before expanding into digital synths such as the microKORG, the M1 and TRITON workstations, and the physical-modeling Prophecy. It also includes the ARP ODYSSEY and ARP 2600, both originally built by ARP and later revived by KORG for modern systems. Digital models ship loaded with their original expansion content: the M1 carries its 34 original expansion cards, the WAVESTATION its 7, the TRITON its 8 expansion boards, and the TRINITY four expansion libraries plus the sounds from the rack-mount TR-Rack — content that was previously sold separately. KORG describes the full set as standing as "a true synthesizer museum across generations," spanning instruments first released between 1971 and 2004. Plugins run as AU, VST, VST3, or AAX, 64-bit only, on Apple Silicon or Intel Core i5-class Macs and Windows 10 PCs with at least 8GB RAM and 16GB of free disk space.
+KORG Collection 6 is a suite of software synthesizers built to methodically and accurately recreate the authentic sound and behavior of legendary KORG hardware. The line began with analog instruments — the MS-20, Polysix, and Mono/Poly — before expanding into digital synths such as the microKORG, the M1 and TRITON workstations, and the physical-modeling Prophecy.
+
+It also includes the ARP ODYSSEY and ARP 2600, both originally built by ARP and later revived by KORG for modern systems. Digital models ship loaded with their original expansion content: the M1 carries its 34 original expansion cards, the WAVESTATION its 7, the TRITON its 8 expansion boards, and the TRINITY four expansion libraries plus the sounds from the rack-mount TR-Rack — content that was previously sold separately.
+
+KORG describes the full set as standing as "a true synthesizer museum across generations," spanning instruments first released between 1971 and 2004. Plugins run as AU, VST, VST3, or AAX, 64-bit only, on Apple Silicon or Intel Core i5-class Macs and Windows 10 PCs with at least 8GB RAM and 16GB of free disk space.
 
 <!-- deal-context-video:start -->
 <iframe src="https://www.youtube.com/embed/-fPucWPCoMM" title="KORG Collection 6 is HERE!" frameborder="0" allowfullscreen></iframe>
@@ -44,7 +48,9 @@ The MS-20 model is built around what KORG's own material calls a "fat, viscous s
 ## Instrument Range Against Two Other Plugin Boutique Bundles
 <!-- role:peers -->
 
-Measured against other Plugin Boutique bundles, KORG Collection 6 is built around whole synthesizer and keyboard emulations rather than effects or preset packs. The Soundbox Instruments Bundle ships as a 3.87GB download with 37 unlocked presets, a preset-focused footprint far smaller than the 16GB of free disk space KORG Collection 6 recommends for its multi-instrument set. The Lifeline Bundle takes a different shape again: five effects modules — Re-amp, Dirt, Format, Width & Space — each also sold as an individual plugin. KORG Collection 6 doesn't split into standalone effects modules; its value sits in bundling complete instrument models, from the MS-20 and ARP 2600 through to the M1, TRITON, and WAVESTATION, each with its original factory expansion content attached rather than sold separately.
+Measured against other Plugin Boutique bundles, KORG Collection 6 is built around whole synthesizer and keyboard emulations rather than effects or preset packs. The Soundbox Instruments Bundle ships as a 3.87GB download with 37 unlocked presets, a preset-focused footprint far smaller than the 16GB of free disk space KORG Collection 6 recommends for its multi-instrument set.
+
+The Lifeline Bundle takes a different shape again: five effects modules — Re-amp, Dirt, Format, Width & Space — each also sold as an individual plugin. KORG Collection 6 doesn't split into standalone effects modules; its value sits in bundling complete instrument models, from the MS-20 and ARP 2600 through to the M1, TRITON, and WAVESTATION, each with its original factory expansion content attached rather than sold separately.
 
 ## Why $199 Matches the Floor PluginDrop Has Tracked
 <!-- role:price -->
