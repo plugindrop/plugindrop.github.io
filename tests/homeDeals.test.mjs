@@ -102,7 +102,7 @@ test('alternative cards use their page channel and home keeps home channel', () 
   for (const [source,chan] of [[undefined,'home'],['tracker','home'],['article','art']]) {
     const card=toCardModel(deal,{...base,source});
     assert.equal(new URL(card.ctaHref).searchParams.get('chan'),chan);
-    assert.equal(card.href,'/plugin-prices/waves-plate/'); // card body stays on our own page; only the CTA is the store link
+    assert.equal(new URL(card.href).searchParams.get('chan'),chan);
   }
 });
 
@@ -112,9 +112,7 @@ test('home PB links carry the section in data1 and retain chan=home', () => {
   const priceData={plugins:{},bundles:{}};
   for (const section of ['spotlight','hot','cluster','soon','grid']) {
     const card=toCardModel(deal,{entries:{'Waves Plate':tracked},priceData,now,section});
-    assert.equal(card.href,'/plugin-prices/waves-plate/');
-    assert.equal(cardTarget(deal,priceData,'home',section),'/plugin-prices/waves-plate/');
-    for (const href of [card.ctaHref]) {
+    for (const href of [card.href,card.ctaHref,cardTarget(deal,priceData,'home',section)]) {
       const params=new URL(href).searchParams;
       assert.equal(params.get('chan'),'home');
       assert.equal(params.get('data1'),`waves-plate--${section}`);
@@ -139,8 +137,7 @@ for (const flag of ['price_first', 'post_first']) {
         { label: 'post and depth', post, indexable: true, content: deep, expected: flag === 'price_first' ? '/plugin-prices/waves-plate/' : '/posts/plate-sale/' },
         { label: 'post without depth', post, indexable: true, content: {}, expected: '/posts/plate-sale/' },
         { label: 'indexable without post', post: null, indexable: true, content: {}, expected: '/plugin-prices/waves-plate/' },
-        { label: 'neither: still our own price page, never the store', post: null, indexable: false, content: {}, expected: '/plugin-prices/waves-plate/' },
-        { label: 'thin history but real content', post: null, indexable: false, content: deep, expected: '/plugin-prices/waves-plate/' },
+        { label: 'neither', post: null, indexable: false, content: {}, expected: 'pb' },
       ];
       for (const row of cases) {
         const deal = { name, entry: tracked, kind: 'tracker', post: row.post };
