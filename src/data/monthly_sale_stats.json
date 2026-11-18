@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17",
+  "generated_at": "2026-11-18",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-11",
       "label": "November 2026",
       "is_current": true,
-      "generated_at": "2026-11-17",
-      "observations": 3899,
-      "products_tracked": 581,
-      "products_on_sale": 351,
-      "on_sale_pct": 60.4,
+      "generated_at": "2026-11-18",
+      "observations": 4373,
+      "products_tracked": 586,
+      "products_on_sale": 359,
+      "on_sale_pct": 61.3,
       "avg_discount_pct": 57.0,
       "median_discount_pct": 51,
       "discount_buckets": {
-        "1-19": 8,
-        "20-39": 50,
-        "40-59": 141,
-        "60+": 152
+        "1-19": 5,
+        "20-39": 55,
+        "40-59": 143,
+        "60+": 156
       },
-      "all_time_low_hits": 298,
+      "all_time_low_hits": 307,
       "deepest_discounts": [
         {
           "name": "Thenatan Full Bundle",
@@ -286,10 +286,10 @@
       "by_category": [
         {
           "category": "Other",
-          "tracked": 436,
-          "on_sale": 266,
-          "on_sale_pct": 61.0,
-          "avg_discount_pct": 58.8
+          "tracked": 438,
+          "on_sale": 271,
+          "on_sale_pct": 61.9,
+          "avg_discount_pct": 58.6
         },
         {
           "category": "Synth",
@@ -303,7 +303,7 @@
           "tracked": 19,
           "on_sale": 10,
           "on_sale_pct": 52.6,
-          "avg_discount_pct": 46.7
+          "avg_discount_pct": 48.1
         },
         {
           "category": "Instrument",
@@ -314,10 +314,10 @@
         },
         {
           "category": "Compressor",
-          "tracked": 14,
-          "on_sale": 12,
-          "on_sale_pct": 85.7,
-          "avg_discount_pct": 57.5
+          "tracked": 15,
+          "on_sale": 13,
+          "on_sale_pct": 86.7,
+          "avg_discount_pct": 58.8
         },
         {
           "category": "Reverb",
@@ -325,6 +325,13 @@
           "on_sale": 9,
           "on_sale_pct": 81.8,
           "avg_discount_pct": 62.8
+        },
+        {
+          "category": "Saturation",
+          "tracked": 11,
+          "on_sale": 7,
+          "on_sale_pct": 63.6,
+          "avg_discount_pct": 52.7
         },
         {
           "category": "EQ",
@@ -339,13 +346,6 @@
           "on_sale": 9,
           "on_sale_pct": 100.0,
           "avg_discount_pct": 42.1
-        },
-        {
-          "category": "Saturation",
-          "tracked": 9,
-          "on_sale": 5,
-          "on_sale_pct": 55.6,
-          "avg_discount_pct": 47.8
         },
         {
           "category": "Vocal",
@@ -373,7 +373,7 @@
           "tracked": 5,
           "on_sale": 3,
           "on_sale_pct": 60.0,
-          "avg_discount_pct": 50
+          "avg_discount_pct": 54.7
         },
         {
           "category": "Drums",
@@ -394,16 +394,16 @@
         {
           "category": "Other",
           "tracked": 225,
-          "on_sale": 159,
-          "on_sale_pct": 70.7,
-          "avg_discount_pct": 58.8
+          "on_sale": 160,
+          "on_sale_pct": 71.1,
+          "avg_discount_pct": 59.0
         },
         {
           "category": "Universal Audio",
-          "tracked": 58,
-          "on_sale": 57,
-          "on_sale_pct": 98.3,
-          "avg_discount_pct": 65.0
+          "tracked": 61,
+          "on_sale": 60,
+          "on_sale_pct": 98.4,
+          "avg_discount_pct": 64.6
         },
         {
           "category": "Cherry Audio",
@@ -414,10 +414,10 @@
         },
         {
           "category": "Eventide",
-          "tracked": 34,
-          "on_sale": 7,
-          "on_sale_pct": 20.6,
-          "avg_discount_pct": 50.6
+          "tracked": 35,
+          "on_sale": 8,
+          "on_sale_pct": 22.9,
+          "avg_discount_pct": 50.5
         },
         {
           "category": "Native Instruments",
@@ -450,9 +450,9 @@
         {
           "category": "FabFilter",
           "tracked": 16,
-          "on_sale": 14,
-          "on_sale_pct": 87.5,
-          "avg_discount_pct": 23.2
+          "on_sale": 16,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 25.8
         },
         {
           "category": "iZotope",
@@ -463,10 +463,10 @@
         },
         {
           "category": "Waves",
-          "tracked": 13,
-          "on_sale": 13,
+          "tracked": 14,
+          "on_sale": 14,
           "on_sale_pct": 100.0,
-          "avg_discount_pct": 79.3
+          "avg_discount_pct": 79.4
         },
         {
           "category": "u-he",
@@ -611,16 +611,16 @@
       ],
       "vs_previous_month": {
         "month": "2026-10",
-        "on_sale_pct_delta": 10.4,
+        "on_sale_pct_delta": 11.3,
         "avg_discount_pct_delta": -0.1,
-        "products_tracked_delta": 55
+        "products_tracked_delta": 60
       }
     },
     {
       "month": "2026-10",
       "label": "October 2026",
       "is_current": false,
-      "generated_at": "2026-11-17",
+      "generated_at": "2026-11-18",
       "observations": 3527,
       "products_tracked": 526,
       "products_on_sale": 263,
@@ -633,7 +633,7 @@
         "40-59": 91,
         "60+": 123
       },
-      "all_time_low_hits": 186,
+      "all_time_low_hits": 182,
       "deepest_discounts": [
         {
           "name": "TOTAL VI MAX 2",
@@ -1230,7 +1230,7 @@
       "month": "2026-09",
       "label": "September 2026",
       "is_current": false,
-      "generated_at": "2026-11-17",
+      "generated_at": "2026-11-18",
       "observations": 3561,
       "products_tracked": 503,
       "products_on_sale": 271,
@@ -1243,7 +1243,7 @@
         "40-59": 86,
         "60+": 132
       },
-      "all_time_low_hits": 201,
+      "all_time_low_hits": 200,
       "deepest_discounts": [
         {
           "name": "TOTAL VI MAX 2",
@@ -1854,7 +1854,7 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-11-17",
+      "generated_at": "2026-11-18",
       "observations": 3583,
       "products_tracked": 420,
       "products_on_sale": 255,
@@ -1867,7 +1867,7 @@
         "40-59": 91,
         "60+": 94
       },
-      "all_time_low_hits": 157,
+      "all_time_low_hits": 155,
       "deepest_discounts": [
         {
           "name": "TOTAL VI MAX 2",
@@ -2443,7 +2443,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-11-17",
+      "generated_at": "2026-11-18",
       "observations": 1964,
       "products_tracked": 286,
       "products_on_sale": 141,
@@ -2456,7 +2456,7 @@
         "40-59": 52,
         "60+": 61
       },
-      "all_time_low_hits": 90,
+      "all_time_low_hits": 89,
       "deepest_discounts": [
         {
           "name": "CARBON",

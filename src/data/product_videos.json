@@ -2166,6 +2166,13 @@
     "source": "pb_page",
     "official": false
   },
+  "Phase Plant": {
+    "video_id": "Y1a67in0JZ4",
+    "title": "Listen to Nasko's killer Phase Plant demo #sounddesign #phaseplant #musicproducer",
+    "channel": "Kilohearts",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Phoscyon 2": {
     "video_id": "wIq2JEUg6bQ",
     "title": "Phoscyon 2 Acidline by D16 |  Demo of all the presets | Roland TB 303 Emulation VST Plugin",
@@ -2741,6 +2748,34 @@
     "source": "pb_page",
     "official": false
   },
+  "Soundtoys Decapitator": {
+    "video_id": "4pvu-mJqr5k",
+    "title": "Soundtoys Decapitator: A Quick-Start Guide",
+    "channel": "soundtoys",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Soundtoys Devil-Loc Deluxe": {
+    "video_id": "tJbQCzfd8mY",
+    "title": "How to Crush It With Soundtoys Devil-Loc Deluxe",
+    "channel": "soundtoys",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Soundtoys EchoBoy": {
+    "video_id": "Zf3bHoQn7pY",
+    "title": "Soundtoys EchoBoy Rhythm Mode: Warp",
+    "channel": "soundtoys",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
+  "Soundtoys Effect Rack": {
+    "video_id": "19bqeQ4mXjA",
+    "title": "Get Started With Soundtoys Effect Rack",
+    "channel": "soundtoys",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
   "Soundtoys FilterFreak": {
     "video_id": "Gu1x0iN7wGM",
     "title": "Give Your Virtual Instruments Some Real Grunt With Soundtoys Filterfreak",
@@ -2748,12 +2783,26 @@
     "source": "pb_page",
     "official": false
   },
+  "Soundtoys Little AlterBoy": {
+    "video_id": "47p8eiwz3uU",
+    "title": "Getting Started With Soundtoys Little AlterBoy",
+    "channel": "soundtoys",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
   "Soundtoys MicroShift": {
     "video_id": "WmtmNQPreQA",
     "title": "Soundtoys MicroShift",
     "channel": "soundtoys",
     "source": "pb_page",
     "official": true
+  },
+  "Soundtoys PhaseMistress": {
+    "video_id": "0kDLMCw03O8",
+    "title": "Hidden Depths: Using Soundtoys PhaseMistress to Create Ear Candy",
+    "channel": "soundtoys",
+    "score": 11,
+    "source": "yt_api_fill"
   },
   "Soundtoys PrimalTap": {
     "video_id": "qgD3kc-clK4",
@@ -2890,6 +2939,13 @@
     "source": "pb_page",
     "official": false
   },
+  "Super-7": {
+    "video_id": "bC5fN8h_36k",
+    "title": "UVI Super 7 Review and Demo 80s inspired by the MKS-7, an 8-voice rackmount synthesizer",
+    "channel": "UDi Audio",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "Synapse Audio Dune 3": {
     "video_id": "7vRjtcjp99o",
     "title": "Synapse Audio DUNE 3 | Presets Sound Demo",
@@ -2897,6 +2953,13 @@
     "score": 8,
     "source": "yt_api_fill",
     "official": false
+  },
+  "Synthesizer V Studio 2 Pro": {
+    "video_id": "W2GN--snDHY",
+    "title": "Synthesizer V Studio 2 Pro: Walkthrough Video",
+    "channel": "Dreamtonics Co., Ltd.",
+    "score": 11,
+    "source": "yt_api_fill"
   },
   "TONEX MAX": {
     "video_id": "OElB1MCc4Pg",
@@ -2911,6 +2974,13 @@
     "channel": "RolandChannel",
     "source": "pb_page",
     "official": false
+  },
+  "TR-909": {
+    "video_id": "GGQtnke_-yQ",
+    "title": "Roland TR-909 Software Rhythm Composer Overview",
+    "channel": "RolandChannel",
+    "score": 12,
+    "source": "yt_api_fill"
   },
   "TRITON / TRITON Extreme": {
     "video_id": "u67Rf3YpgDo",
@@ -3448,6 +3518,13 @@
     "source": "pb_page",
     "official": false
   },
+  "UVI Digital Synsations": {
+    "video_id": "uh_juqHuWfU",
+    "title": "UVI Digital Synsations Vol.1 | Creating a '90s synth intro",
+    "channel": "UVI",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
   "UVI Falcon 3": {
     "video_id": "kIMGFF0VskQ",
     "title": "UVI Falcon 3 - First look Part 1 - Review & Presets",
@@ -3456,12 +3533,68 @@
     "source": "yt_api_fill",
     "official": false
   },
+  "UVI Model D": {
+    "video_id": "kzDeblk8Puc",
+    "title": "UVI Model D | Trailer",
+    "channel": "UVI",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
   "UVI World Suite 3": {
     "video_id": "Z3He4KIQI5Y",
     "title": "UVI World Suite 3 | Overview",
     "channel": "UVI",
     "source": "pb_page",
     "official": false
+  },
+  "Unfiltered Audio BYOME": {
+    "video_id": "oYFwgwBaNRE",
+    "title": "Unfiltered Audio BYOME Demo by Ivo Ivanov",
+    "channel": "Unfiltered Audio",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "Unfiltered Audio LION": {
+    "video_id": "C-qaJWuiKFs",
+    "title": "Unfiltered Audio LION Patchable Synthesizer Sound Demo | SYNTH ANATOMY",
+    "channel": "SYNTH ANATOMY",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Unfiltered Audio Needlepoint": {
+    "video_id": "uy2z2KeCbFM",
+    "title": "Matty Amendola demos the Unfiltered Audio Needlepoint vinyl plugin | Plugin Alliance",
+    "channel": "Plugin Alliance",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Unfiltered Audio SILO": {
+    "video_id": "X3sbjGp3q4w",
+    "title": "Unfiltered Audio - SILO - Demo - Richard Devine | Plugin Alliance",
+    "channel": "Plugin Alliance",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Unfiltered Audio Sandman Pro": {
+    "video_id": "cBP4YE3AAlQ",
+    "title": "Unfiltered Audio Sandman Pro Demo",
+    "channel": "Plug-in Play Audio",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Unfiltered Audio SpecOps": {
+    "video_id": "6x8YCl6PP2Q",
+    "title": "Unfiltered Audio SpecOps Demo",
+    "channel": "Soarer Music",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Unfiltered Audio TRIAD": {
+    "video_id": "9Yl-_HCx98I",
+    "title": "Unfiltered Audio TRIAD - overview of the modular multi-effect plugin",
+    "channel": "Andy Dollerson",
+    "score": 8,
+    "source": "yt_api_fill"
   },
   "United Plugins Mirror": {
     "video_id": "QlNBunhrqzY",
@@ -3821,6 +3954,13 @@
     "source": "yt_api_fill",
     "official": false
   },
+  "Xfer Cthulhu": {
+    "video_id": "AS5IfPzQ__c",
+    "title": "Chord Presets Like You’ve Never Heard Before - Ripchord VST, Scaler, MPC Pad Perform, Xfer Cthulhu",
+    "channel": "Musician Paradise",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "Xpand!2": {
     "video_id": "30mU3641JDk",
     "title": "Xpand!2 Multitimbral Workstation By Air Music Technology - Show & Reveal",
@@ -4011,6 +4151,13 @@
     "source": "pb_page",
     "official": false
   },
+  "oeksound Soothe2": {
+    "video_id": "K-ZK_LAtecE",
+    "title": "oeksound soothe2 - What's new?",
+    "channel": "oeksound",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
   "reFX Nexus 5": {
     "video_id": "lWtzrGcwETg",
     "title": "refx Nexus 5 - new additional 1177 factory presets - walkthrough with Bartek",
@@ -4032,6 +4179,13 @@
     "channel": "u-he",
     "source": "pb_page",
     "official": true
+  },
+  "u-he Colour Copy": {
+    "video_id": "DY-Hv2Cd2Qs",
+    "title": "u-he Colour Copy: Bucket Brigade Delay (Demo & Review)",
+    "channel": "Matt Huber",
+    "score": 8,
+    "source": "yt_api_fill"
   },
   "u-he Diva": {
     "video_id": "DSucjvpY7hs",
@@ -4103,6 +4257,13 @@
     "channel": "u-he",
     "source": "pb_page",
     "official": true
+  },
+  "u-he Zebra Legacy": {
+    "video_id": "DUtyLH3AJdY",
+    "title": "Zebra Motions Bundle - +337 Immersive sounds for U-He Zebra Legacy and Zebra HZ - Preset Showcase 1",
+    "channel": "Ocean Swift / Faxi Nadu",
+    "score": 8,
+    "source": "yt_api_fill"
   },
   "u-he Zebralette 3": {
     "video_id": "kcjZVWkNEA4",
