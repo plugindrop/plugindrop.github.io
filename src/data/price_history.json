@@ -153475,6 +153475,42 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-12-01"
+        },
+        {
+          "date": "2024-04-15",
+          "regular": 599.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-08-19",
+          "regular": 325.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-11-06",
+          "regular": 250.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-02-02",
+          "regular": 179.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-04-01",
+          "regular": 179.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-07-05",
+          "regular": 150.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/revoice-pro-5.jpg"
@@ -153590,6 +153626,36 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-12-01"
+        },
+        {
+          "date": "2024-11-02",
+          "regular": 200.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-01-14",
+          "regular": 299.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-02-02",
+          "regular": 199.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-03-05",
+          "regular": 299.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-09-17",
+          "regular": 299.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/landr-mastering-plugin-pro.jpg"
@@ -154600,6 +154666,18 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-25"
+        },
+        {
+          "date": "2024-04-07",
+          "regular": 59.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-08-10",
+          "regular": 108.09,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/rekraft.jpg",
@@ -159637,6 +159715,11 @@
         }
       ],
       "image": "/images/plugin-prices/eventide-spliteq-2.jpg"
+    },
+    "Dubstep Drums": {
+      "pb_url": "https://www.adsrsounds.com/product/presets/dubstep-drums/",
+      "history": [],
+      "article_slug": "dubstep-drums-04170b"
     }
   }
 }
