@@ -8,13 +8,12 @@ heroImage: "/images/dubstep-drums-04170b.jpg"
 score: 7.58
 rawScore: 7.58
 productKey: "Dubstep Drums"
-priceRecordPending: true
 dealPrice: "$14.5"
 originalPrice: "$29"
 discount: "50% OFF"
 saleExpiry: "2026-12-18"
 saleExpirySource: "fallback"
-draft: true
+draft: false
 ---
 **TL;DR:** ADSR Sounds is running a 50% discount on Dubstep Drums, cutting the regular ~~$29~~ price in half for a limited time. If you build bass music and need raw, genre-specific drum hits without digging through generic sample packs, this is worth a look. [Check the deal at ADSR Sounds](https://www.adsrsounds.com/product/presets/dubstep-drums/?a_aid=plugindrop&data1=dubstep-drums-04170b&utm_source=plugindrop&utm_medium=article&utm_campaign=dubstep-drums-04170b).
 
