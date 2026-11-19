@@ -1094,6 +1094,13 @@
     "score": 12,
     "source": "yt_api_fill"
   },
+  "Eventide SplitEQ 2": {
+    "video_id": "B2pfNIrbks8",
+    "title": "EVENTIDE SplitEQ 2 | MASTER BUS | Sounds Like This (No Talking)",
+    "channel": "Sounds Like This",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Eventide Spring": {
     "video_id": "clSFLe9z8Lo",
     "title": "Eventide Spring Reverb Plug-in Overview for AUv3, VST, AU, AAX",
@@ -3768,6 +3775,13 @@
     "channel": "Klevgrand",
     "source": "pb_page",
     "official": false
+  },
+  "Waves": {
+    "video_id": "_5hboOXnJjo",
+    "title": "Getting Started with Waves SuperRack SoundGrid: In-Depth Tutorial",
+    "channel": "Waves Audio",
+    "score": 12,
+    "source": "yt_api_fill"
   },
   "Waves API 2500": {
     "video_id": "JakA6c8DVqE",
