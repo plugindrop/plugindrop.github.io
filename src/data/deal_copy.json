@@ -13368,5 +13368,80 @@
     "maker_quote": "Thicken vocals, guitars, and keys with short delay effects and instant character.",
     "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/10-Delay/18213-UAD-Cooper-Time-Cube-Delay",
     "maker_quote_retrieved": "2026-11-18"
+  },
+  "Dubstep Drums": {
+    "pbProductId": null,
+    "brand": null,
+    "product": "Dubstep Drums",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.adsrsounds.com/product/presets/dubstep-drums/",
+    "retrieved": "2026-11-20",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.adsrsounds.com/product/presets/dubstep-drums/",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-11-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "JSONDecodeError",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "From the monster sound pack that is Dubstep Superpack, we're bringing out Dubstep Drums.",
+    "maker_quote_source_url": "https://www.adsrsounds.com/product/presets/dubstep-drums/",
+    "maker_quote_retrieved": "2026-11-20"
+  },
+  "Pulsar 8200": {
+    "pbProductId": "10532",
+    "brand": null,
+    "product": "Pulsar 8200",
+    "category": null,
+    "tagline": "Faithful emulation of Massenburg's all-discrete Class-A GML 8200 EQ",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/10532-Pulsar-8200",
+    "retrieved": "2026-11-20",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/10532-Pulsar-8200",
+    "tagline_source_quote": "all-discrete, Class-A analog electronics",
+    "tagline_checked": "2026-11-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": "Pulsar 8200 comes with a complete on-screen curve editor and spectrum analyzer.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/10532-Pulsar-8200",
+    "maker_quote_retrieved": "2026-11-20"
+  },
+  "TDR Limiter 6 GE": {
+    "pbProductId": "4654",
+    "brand": null,
+    "product": "TDR Limiter 6 GE",
+    "category": null,
+    "tagline": "Six-module limiter with true peak and loudness metering for mastering",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/4654-TDR-Limiter-6-GE",
+    "retrieved": "2026-11-20",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/4654-TDR-Limiter-6-GE",
+    "tagline_source_quote": "EBU compliant True Peak and Loudness Meter",
+    "tagline_checked": "2026-11-20",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": null,
+    "maker_quote_source_url": null,
+    "maker_quote_retrieved": null
   }
 }

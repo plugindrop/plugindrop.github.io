@@ -159315,6 +159315,36 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-29"
+        },
+        {
+          "date": "2024-09-18",
+          "regular": 109.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-04-16",
+          "regular": 58.8,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-05-26",
+          "regular": 109.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-06-16",
+          "regular": 58.8,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-08-12",
+          "regular": 58.8,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/instacomposer-2.jpg",
@@ -159426,6 +159456,36 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-30"
+        },
+        {
+          "date": "2023-02-14",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-03-19",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-05-08",
+          "regular": 42.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-09-20",
+          "regular": 89.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-12-11",
+          "regular": 30.74,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "image": "/images/plugin-prices/uad-teletronix-la-2a-leveler-collection.jpg",
