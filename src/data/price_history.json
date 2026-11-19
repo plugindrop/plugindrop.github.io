@@ -131877,6 +131877,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-30"
+        },
+        {
+          "date": "2026-11-19",
+          "sale": 49.0,
+          "regular": 89.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/vision-4x.jpg",
@@ -164541,6 +164550,11 @@
       "pb_url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/4654-TDR-Limiter-6-GE",
       "history": [],
       "article_slug": "tdr-limiter-6-ge-b26a0d"
+    },
+    "Pulsar 8200": {
+      "pb_url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/10532-Pulsar-8200",
+      "history": [],
+      "article_slug": "pulsar-8200-b9c76a"
     }
   }
 }
