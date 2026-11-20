@@ -14,7 +14,7 @@ discount: "67% OFF"
 saleExpiry: "2026-08-02"
 draft: false
 ---
-**TL;DR:** Drumazon 2 is on sale at [Plugin Boutique](https://www.pluginboutique.com/search?q=Drumazon+2&a_aid=69cb95abe1763&chan=art&data1=drumazon-2-e71623&utm_source=plugindrop&utm_medium=article&utm_campaign=drumazon-2-e71623) for $39, down from a ~~$119~~ regular price. PluginDrop has tracked this plugin since 2026-08-02 across 28 observations, and $39 matches the lowest price recorded in that window. The typical sale price sits at $71.4, so this is a meaningfully deeper cut than the usual discount.
+**TL;DR:** Drumazon 2 is on sale at [Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/11175-Drumazon-2?a_aid=69cb95abe1763&chan=art&data1=drumazon-2-e71623&utm_source=plugindrop&utm_medium=article&utm_campaign=drumazon-2-e71623) for $39, down from a ~~$119~~ regular price. PluginDrop has tracked this plugin since 2026-08-02 across 28 observations, and $39 matches the lowest price recorded in that window. The typical sale price sits at $71.4, so this is a meaningfully deeper cut than the usual discount.
 
 <!-- deal-context-sale-windows:start -->
 ## Last three times this went on sale
@@ -39,7 +39,7 @@ A drum machine plugin like this typically sits at the start of a beat-making wor
 
 The current price is $39, which lines up with the lowest price PluginDrop has tracked for Drumazon 2 since it started monitoring on 2026-08-02. Across 28 recorded observations, the typical sale price has been $71.4, and the regular price is $119. That puts this deal well below the normal discount range rather than just a token markdown. Check the product page for current pricing before buying, since sale windows can close without notice.
 
-You can view the current deal through this [Plugin Boutique link](https://www.pluginboutique.com/search?q=Drumazon+2&a_aid=69cb95abe1763&chan=art&data1=drumazon-2-e71623&utm_source=plugindrop&utm_medium=article&utm_campaign=drumazon-2-e71623).
+You can view the current deal through this [Plugin Boutique link](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/11175-Drumazon-2?a_aid=69cb95abe1763&chan=art&data1=drumazon-2-e71623&utm_source=plugindrop&utm_medium=article&utm_campaign=drumazon-2-e71623).
 
 ## Skip it if
 

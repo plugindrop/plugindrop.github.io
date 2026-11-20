@@ -17,7 +17,7 @@ draft: false
 ---
 If you only add one EQ to your plugin folder this month, make it Pulsar 8200 — it is currently 60% off, and the discount is steep enough to justify a closer look even if you already have a go-to EQ.
 
-**TL;DR:** Pulsar 8200 is on sale at [Plugin Boutique](https://www.pluginboutique.com/search?q=Pulsar+8200&a_aid=69cb95abe1763&chan=art&data1=pulsar-8200-b9c76a&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-8200-b9c76a), 60% off its ~~$149~~ regular price. It installs as VST3, VST2, AU, or AAX, so it drops into most modern DAWs on Mac or Windows.
+**TL;DR:** Pulsar 8200 is on sale at [Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/16-EQ/10532-Pulsar-8200?a_aid=69cb95abe1763&chan=art&data1=pulsar-8200-b9c76a&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-8200-b9c76a), 60% off its ~~$149~~ regular price. It installs as VST3, VST2, AU, or AAX, so it drops into most modern DAWs on Mac or Windows.
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/IGWPmKM1GJM" title="60% Off Pulsar 8200 — Console EQ for Mixing and Mastering — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -36,7 +36,7 @@ An EQ at this level typically sits on individual channels during tracking cleanu
 
 The regular price is $149, and the current deal brings that down by 60%. Plugin Boutique is the store running this offer. Check the product page for current pricing before checkout, since discount windows can close without notice.
 
-You can view the deal directly through [this Plugin Boutique link](https://www.pluginboutique.com/search?q=Pulsar+8200&a_aid=69cb95abe1763&chan=art&data1=pulsar-8200-b9c76a&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-8200-b9c76a).
+You can view the deal directly through [this Plugin Boutique link](https://www.pluginboutique.com/product/2-Effects/16-EQ/10532-Pulsar-8200?a_aid=69cb95abe1763&chan=art&data1=pulsar-8200-b9c76a&utm_source=plugindrop&utm_medium=article&utm_campaign=pulsar-8200-b9c76a).
 
 ## Skip it if
 

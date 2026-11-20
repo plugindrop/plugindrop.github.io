@@ -633,11 +633,11 @@
     "official": true
   },
   "Cherry Audio P 10 Synthesizer": {
-    "video_id": "xxSahItqCHM",
-    "title": "Cherry Audio | P-10 Synthesizer",
+    "video_id": "hGLaSdnEouM",
+    "title": "Exponentially Evolved. Coming November 26th from Cherry Audio",
     "channel": "Cherry Audio",
-    "score": 13,
-    "source": "yt_api_fill"
+    "source": "pb_page",
+    "official": true
   },
   "Cherry Audio PS 3300": {
     "video_id": "qK_KyC0atMY",
@@ -889,6 +889,13 @@
     "channel": "EastWest Sounds",
     "score": 9,
     "source": "yt_api_fill"
+  },
+  "Effectrix 2": {
+    "video_id": "4ZR7SxlkUXU",
+    "title": "Effectrix2 Trailer",
+    "channel": "Sugar Bytes",
+    "source": "pb_page",
+    "official": false
   },
   "Empirical Labs EL8 Distressor Compressor": {
     "video_id": "-pAuHW4qMpI",
@@ -2839,6 +2846,13 @@
     "source": "pb_page",
     "official": true
   },
+  "Soundtoys PanMan": {
+    "video_id": "FhmZL0f4MPQ",
+    "title": "PanMan - Dynamic Panning",
+    "channel": "soundtoys",
+    "source": "pb_page",
+    "official": true
+  },
   "Soundtoys PhaseMistress": {
     "video_id": "0kDLMCw03O8",
     "title": "Hidden Depths: Using Soundtoys PhaseMistress to Create Ear Candy",
@@ -2870,6 +2884,13 @@
   "Soundtoys SuperPlate": {
     "video_id": "Tu_r1RhtMaM",
     "title": "Introducing Soundtoys SuperPlate",
+    "channel": "soundtoys",
+    "source": "pb_page",
+    "official": true
+  },
+  "Soundtoys Tremolator": {
+    "video_id": "IZCL5E8IFRE",
+    "title": "Getting Rhythmic with SoundToys Plug-ins",
     "channel": "soundtoys",
     "source": "pb_page",
     "official": true
@@ -2997,11 +3018,11 @@
     "official": false
   },
   "Synthesizer V Studio 2 Pro": {
-    "video_id": "W2GN--snDHY",
-    "title": "Synthesizer V Studio 2 Pro: Walkthrough Video",
-    "channel": "Dreamtonics Co., Ltd.",
-    "score": 11,
-    "source": "yt_api_fill"
+    "video_id": "GFFrcBTNLf8",
+    "title": "Unlimited AI Vocals... No Tokens",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
   },
   "TDR Limiter 6 GE": {
     "video_id": "I4DPPsQAU2A",

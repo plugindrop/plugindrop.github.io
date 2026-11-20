@@ -15,7 +15,7 @@ saleExpiry: "2026-12-19"
 saleExpirySource: "fallback"
 draft: false
 ---
-**TL;DR:** TDR Limiter 6 GE is 52% off its regular ~~$60~~ price at Plugin Boutique right now. It's a limiter plugin built for transparent peak control on a mix bus or master chain, running as VST3, VST, AU, and AAX on Mac and Windows. [Check the current price at Plugin Boutique](https://www.pluginboutique.com/search?q=TDR+Limiter+6+GE&a_aid=69cb95abe1763&chan=art&data1=tdr-limiter-6-ge-b26a0d&utm_source=plugindrop&utm_medium=article&utm_campaign=tdr-limiter-6-ge-b26a0d).
+**TL;DR:** TDR Limiter 6 GE is 52% off its regular ~~$60~~ price at Plugin Boutique right now. It's a limiter plugin built for transparent peak control on a mix bus or master chain, running as VST3, VST, AU, and AAX on Mac and Windows. [Check the current price at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/9-Limiter/4654-TDR-Limiter-6-GE?a_aid=69cb95abe1763&chan=art&data1=tdr-limiter-6-ge-b26a0d&utm_source=plugindrop&utm_medium=article&utm_campaign=tdr-limiter-6-ge-b26a0d).
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/Da_djzbfNPw" title="52% Off TDR Limiter 6 GE — Peak Limiting for Mixes (was $60) — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
