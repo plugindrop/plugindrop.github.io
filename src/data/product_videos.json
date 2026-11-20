@@ -390,6 +390,13 @@
     "source": "pb_page",
     "official": false
   },
+  "Brusfri": {
+    "video_id": "rGnGj0MHzO8",
+    "title": "Brusfri – Noise reducer",
+    "channel": "Klevgrand",
+    "source": "pb_page",
+    "official": false
+  },
   "Bus Processor": {
     "video_id": "cY-CS6XpKzo",
     "title": "Bus Processor Walkthrough – Softube",
@@ -778,11 +785,11 @@
     "official": false
   },
   "DB-30 Drum Butter": {
-    "video_id": "FwTxc6uPvc0",
-    "title": "XLN Audio DB-30 DRUM BUTTER | Classic Acoustic | Sounds Like This (No Talking)",
-    "channel": "Sounds Like This",
-    "score": 8,
-    "source": "yt_api_fill"
+    "video_id": "yPopM-yDZL8",
+    "title": "NEW - XLN Audio DB-30",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
   },
   "DC Snares": {
     "video_id": "p9WMLf854Kw",
@@ -2299,6 +2306,13 @@
     "source": "pb_page",
     "official": false
   },
+  "Pulsar 8200": {
+    "video_id": "IGWPmKM1GJM",
+    "title": "Faithfully Emulated Legendary EQ | Pulsar 8200",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
   "Pure Sub": {
     "video_id": "sKQ2nV0ibE0",
     "title": "Pure SUB | Bass Design Synthesizer | ARTURIA",
@@ -2777,18 +2791,18 @@
     "official": false
   },
   "Soundtoys Decapitator": {
-    "video_id": "4pvu-mJqr5k",
-    "title": "Soundtoys Decapitator: A Quick-Start Guide",
-    "channel": "soundtoys",
-    "score": 11,
-    "source": "yt_api_fill"
+    "video_id": "X-hWRRUKosc",
+    "title": "TMT | Add Punch & Character to Snare Tutorial with Decapitator by Soundtoys",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
   },
   "Soundtoys Devil-Loc Deluxe": {
-    "video_id": "tJbQCzfd8mY",
-    "title": "How to Crush It With Soundtoys Devil-Loc Deluxe",
+    "video_id": "cEWzT_oeZ_M",
+    "title": "Devil-Loc Deluxe - Drum Mixing Techniques",
     "channel": "soundtoys",
-    "score": 11,
-    "source": "yt_api_fill"
+    "source": "pb_page",
+    "official": true
   },
   "Soundtoys EchoBoy": {
     "video_id": "Zf3bHoQn7pY",
@@ -2812,11 +2826,11 @@
     "official": false
   },
   "Soundtoys Little AlterBoy": {
-    "video_id": "47p8eiwz3uU",
-    "title": "Getting Started With Soundtoys Little AlterBoy",
+    "video_id": "yt8pFK6fJk4",
+    "title": "Introducing: Little AlterBoy",
     "channel": "soundtoys",
-    "score": 11,
-    "source": "yt_api_fill"
+    "source": "pb_page",
+    "official": true
   },
   "Soundtoys MicroShift": {
     "video_id": "WmtmNQPreQA",
@@ -2988,6 +3002,13 @@
     "channel": "Dreamtonics Co., Ltd.",
     "score": 11,
     "source": "yt_api_fill"
+  },
+  "TDR Limiter 6 GE": {
+    "video_id": "I4DPPsQAU2A",
+    "title": "Introduction to TDR Limiter 6 GE",
+    "channel": "TokyoDawnRecords",
+    "source": "pb_page",
+    "official": false
   },
   "TONEX MAX": {
     "video_id": "OElB1MCc4Pg",
