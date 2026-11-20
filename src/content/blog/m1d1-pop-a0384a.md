@@ -8,13 +8,12 @@ heroImage: "/images/m1d1-pop-a0384a.jpg"
 score: 7.58
 rawScore: 7.58
 productKey: "m1d1"
-priceRecordPending: true
 dealPrice: "$10"
 originalPrice: "$20"
 discount: "50% OFF"
 saleExpiry: "2026-12-20"
 saleExpirySource: "fallback"
-draft: true
+draft: false
 ---
 At $49.99, m1d1's Pop Raw pack matches the lowest price tracked across 80 observations since October 29, 2023, so this is as good as the deal has gotten.
 

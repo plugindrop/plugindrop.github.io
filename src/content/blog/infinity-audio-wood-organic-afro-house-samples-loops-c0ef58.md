@@ -8,13 +8,12 @@ heroImage: "/images/infinity-audio-wood-organic-afro-house-samples-loops-c0ef58.
 score: 6.83
 rawScore: 6.83
 productKey: "Infinity Audio Wood"
-priceRecordPending: true
 dealPrice: "$10"
 originalPrice: "$19.99"
 discount: "50% OFF"
 saleExpiry: "2026-12-20"
 saleExpirySource: "fallback"
-draft: true
+draft: false
 ---
 **TL;DR:** Infinity Audio Wood is on sale at ADSR Sounds at 50% off its ~~$19.99~~ regular price, for producers building organic Afro House tracks. The discount applies to the full loop and sample pack as listed on the [product page](https://www.adsrsounds.com/product/presets/infinity-audio-wood-organic-afro-house-samples-loops/?a_aid=plugindrop&data1=infinity-audio-wood-organic-afro-house-samples-loops-c0ef58&utm_source=plugindrop&utm_medium=article&utm_campaign=infinity-audio-wood-organic-afro-house-samples-loops-c0ef58). If organic, percussion-driven Afro House textures fit your current project, this is a straightforward way to add them without programming them from scratch.
 

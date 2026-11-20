@@ -8,13 +8,12 @@ heroImage: "/images/soulful-amp-tech-house-vocals-f2ea1e.jpg"
 score: 7.58
 rawScore: 7.58
 productKey: "Soulful &amp; Tech House Vocals"
-priceRecordPending: true
 dealPrice: "$10.48"
 originalPrice: "$20.95"
 discount: "50% OFF"
 saleExpiry: "2026-12-20"
 saleExpirySource: "fallback"
-draft: true
+draft: false
 ---
 **TL;DR:** Soulful & Tech House Vocals is on sale at ADSR Sounds, with PluginDrop tracking showing the price at ~~$112~~ $29. That $29 price matches the lowest and typical sale price recorded across 31 observations since late 2023. [Get Soulful & Tech House Vocals at ADSR Sounds](https://www.adsrsounds.com/product/presets/soulful-tech-house-vocals/?a_aid=plugindrop&data1=soulful-amp-tech-house-vocals-f2ea1e&utm_source=plugindrop&utm_medium=article&utm_campaign=soulful-amp-tech-house-vocals-f2ea1e).
 

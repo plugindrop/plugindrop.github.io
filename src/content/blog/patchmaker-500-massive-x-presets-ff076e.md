@@ -8,13 +8,12 @@ heroImage: "/images/patchmaker-500-massive-x-presets-ff076e.jpg"
 score: 8.70
 rawScore: 8.70
 productKey: "Patchmaker 500 Massive X Presets"
-priceRecordPending: true
 dealPrice: "$9.5"
 originalPrice: "$19"
 discount: "50% OFF"
 saleExpiry: "2026-12-20"
 saleExpirySource: "fallback"
-draft: true
+draft: false
 ---
 If you use Massive X, $15 for a dedicated preset bank is worth a look — it's the lowest price PluginDrop has tracked for this listing.
 

@@ -8,13 +8,12 @@ heroImage: "/images/pulsar-8200-b9c76a.jpg"
 score: 10.00
 rawScore: 12.07
 productKey: "Pulsar 8200"
-priceRecordPending: true
 dealPrice: "$59.00"
 originalPrice: "$149.00"
 discount: "60% OFF"
 saleExpiry: "2026-12-19"
 saleExpirySource: "fallback"
-draft: true
+draft: false
 ---
 If you only add one EQ to your plugin folder this month, make it Pulsar 8200 — it is currently 60% off, and the discount is steep enough to justify a closer look even if you already have a go-to EQ.
 
