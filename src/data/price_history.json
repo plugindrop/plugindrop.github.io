@@ -106377,6 +106377,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-11-21",
+          "sale": 39.0,
+          "regular": 156.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "noindex": true
@@ -108903,6 +108912,15 @@
         },
         {
           "date": "2026-11-20",
+          "sale": 49.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-11-21",
           "sale": 49.0,
           "regular": 199.0,
           "source": "pb_deals_poll",
@@ -170038,6 +170056,24 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2023-04-04",
+          "regular": 119.99,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-09-06",
+          "regular": 119.99,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-08-08",
+          "regular": 99.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "article_slug": "ssl-blitzer-4287ec",
@@ -170435,6 +170471,54 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2022-07-05",
+          "regular": 329.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2022-08-26",
+          "regular": 41.65,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-07-03",
+          "regular": 31.74,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2023-12-10",
+          "regular": 329.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-09-21",
+          "regular": 329.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2024-12-27",
+          "regular": 24.99,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-04-28",
+          "regular": 329.0,
+          "sale": null,
+          "source": "wayback"
+        },
+        {
+          "date": "2025-08-08",
+          "regular": 149.0,
+          "sale": null,
+          "source": "wayback"
         }
       ],
       "article_slug": "ssl-native-bus-compressor-2-50a0ef",

@@ -13543,5 +13543,80 @@
     "maker_quote": null,
     "maker_quote_source_url": null,
     "maker_quote_retrieved": null
+  },
+  "Classic House Vocals": {
+    "pbProductId": null,
+    "brand": null,
+    "product": "Classic House Vocals",
+    "category": null,
+    "tagline": "90s house vocal hooks, shouts, and spoken word loops for your tracks",
+    "source_url": "https://www.adsrsounds.com/product/presets/undergrnd-sounds-classic-house-vocals-samples/",
+    "retrieved": "2026-11-22",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.adsrsounds.com/product/presets/undergrnd-sounds-classic-house-vocals-samples/",
+    "tagline_source_quote": "spoken word loops",
+    "tagline_checked": "2026-11-22",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 2,
+    "maker_quote": "Classic House Vocals is a dedicated vocal sample pack celebrating the timeless sound of true vocal house.",
+    "maker_quote_source_url": "https://www.adsrsounds.com/product/presets/undergrnd-sounds-classic-house-vocals-samples/",
+    "maker_quote_retrieved": "2026-11-22"
+  },
+  "FOCUS": {
+    "pbProductId": null,
+    "brand": null,
+    "product": "FOCUS",
+    "category": null,
+    "tagline": null,
+    "source_url": "https://www.adsrsounds.com/product/presets/datacode-focus-serum-2-deep-melodic-techno/",
+    "retrieved": "2026-11-22",
+    "machine_checks": {
+      "quote_in_source": false,
+      "grounded_noun": false,
+      "lint_pass": false
+    },
+    "tagline_source_url": "https://www.adsrsounds.com/product/presets/datacode-focus-serum-2-deep-melodic-techno/",
+    "tagline_source_quote": null,
+    "tagline_checked": "2026-11-22",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "rejected",
+    "reject_reason": "quote_not_in_source",
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": null,
+    "maker_quote_source_url": null,
+    "maker_quote_retrieved": null
+  },
+  "UFX REVERB Version 2": {
+    "pbProductId": "14101",
+    "brand": null,
+    "product": "UFX REVERB Version 2",
+    "category": null,
+    "tagline": "Reverb plugin adds Dual Mode, Early Reflections and Freeze control",
+    "source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/14101-UFX-REVERB-Version-2",
+    "retrieved": "2026-11-22",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/14101-UFX-REVERB-Version-2",
+    "tagline_source_quote": "a Dual Mode, Early Reflections",
+    "tagline_checked": "2026-11-22",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "UFX Reverb 2 is a significant evolution, based on feedback from ujam's users.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/14101-UFX-REVERB-Version-2",
+    "maker_quote_retrieved": "2026-11-22"
   }
 }

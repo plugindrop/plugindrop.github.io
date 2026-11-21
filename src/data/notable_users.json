@@ -16,8 +16,9 @@
         "product_found": true,
         "quote_found": true
       },
-      "status": "verified",
-      "product": "Soundtoys EchoBoy"
+      "status": "pending",
+      "product": "Soundtoys EchoBoy",
+      "reject_reason": "reverify_failed"
     },
     {
       "person": "Andrew Sarlo",
@@ -35,8 +36,9 @@
         "product_found": true,
         "quote_found": true
       },
-      "status": "verified",
-      "product": "Soundtoys EchoBoy"
+      "status": "pending",
+      "product": "Soundtoys EchoBoy",
+      "reject_reason": "reverify_failed"
     },
     {
       "person": "Noah Georgeson",
@@ -54,8 +56,9 @@
         "product_found": true,
         "quote_found": true
       },
-      "status": "verified",
-      "product": "Soundtoys EchoBoy"
+      "status": "pending",
+      "product": "Soundtoys EchoBoy",
+      "reject_reason": "reverify_failed"
     },
     {
       "person": "Ludwig Göransson",
@@ -73,8 +76,9 @@
         "product_found": true,
         "quote_found": true
       },
-      "status": "verified",
-      "product": "Soundtoys EchoBoy"
+      "status": "pending",
+      "product": "Soundtoys EchoBoy",
+      "reject_reason": "reverify_failed"
     }
   ],
   "1808": [
@@ -94,9 +98,10 @@
         "product_found": true,
         "quote_found": true
       },
-      "status": "verified",
+      "status": "pending",
       "role": "musician, producer and audio engineer",
-      "product": "Soundtoys PhaseMistress"
+      "product": "Soundtoys PhaseMistress",
+      "reject_reason": "reverify_failed"
     }
   ],
   "1807": [
@@ -116,9 +121,10 @@
         "product_found": true,
         "quote_found": true
       },
-      "status": "verified",
+      "status": "pending",
       "role": "music producer",
-      "product": "Soundtoys Little AlterBoy"
+      "product": "Soundtoys Little AlterBoy",
+      "reject_reason": "reverify_failed"
     },
     {
       "person": "Kenneth Blume",
@@ -136,8 +142,9 @@
         "product_found": true,
         "quote_found": true
       },
-      "status": "verified",
-      "product": "Soundtoys Little AlterBoy"
+      "status": "pending",
+      "product": "Soundtoys Little AlterBoy",
+      "reject_reason": "reverify_failed"
     }
   ],
   "6343": [
@@ -157,8 +164,9 @@
         "product_found": true,
         "quote_found": true
       },
-      "status": "verified",
-      "product": "Soundtoys Effect Rack"
+      "status": "pending",
+      "product": "Soundtoys Effect Rack",
+      "reject_reason": "reverify_failed"
     }
   ],
   "1801": [
@@ -178,9 +186,10 @@
         "product_found": true,
         "quote_found": true
       },
-      "status": "verified",
+      "status": "pending",
       "role": "hip-hop producer",
-      "product": "Soundtoys Decapitator"
+      "product": "Soundtoys Decapitator",
+      "reject_reason": "reverify_failed"
     }
   ],
   "1799": [
