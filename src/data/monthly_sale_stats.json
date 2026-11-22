@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21",
+  "generated_at": "2026-11-22",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-11",
       "label": "November 2026",
       "is_current": true,
-      "generated_at": "2026-11-21",
-      "observations": 5629,
-      "products_tracked": 596,
-      "products_on_sale": 442,
-      "on_sale_pct": 74.2,
-      "avg_discount_pct": 56.8,
-      "median_discount_pct": 51.0,
+      "generated_at": "2026-11-22",
+      "observations": 6143,
+      "products_tracked": 597,
+      "products_on_sale": 453,
+      "on_sale_pct": 75.9,
+      "avg_discount_pct": 56.9,
+      "median_discount_pct": 51,
       "discount_buckets": {
-        "1-19": 4,
+        "1-19": 3,
         "20-39": 58,
-        "40-59": 199,
-        "60+": 181
+        "40-59": 209,
+        "60+": 183
       },
-      "all_time_low_hits": 383,
+      "all_time_low_hits": 390,
       "deepest_discounts": [
         {
           "name": "Thenatan Full Bundle",
@@ -286,38 +286,38 @@
       "by_category": [
         {
           "category": "Other",
-          "tracked": 445,
-          "on_sale": 338,
-          "on_sale_pct": 76.0,
-          "avg_discount_pct": 57.5
+          "tracked": 446,
+          "on_sale": 341,
+          "on_sale_pct": 76.5,
+          "avg_discount_pct": 57.6
         },
         {
           "category": "Synth",
           "tracked": 24,
-          "on_sale": 13,
-          "on_sale_pct": 54.2,
-          "avg_discount_pct": 47
+          "on_sale": 16,
+          "on_sale_pct": 66.7,
+          "avg_discount_pct": 47.7
         },
         {
           "category": "Effects",
           "tracked": 19,
-          "on_sale": 14,
-          "on_sale_pct": 73.7,
-          "avg_discount_pct": 56.9
+          "on_sale": 15,
+          "on_sale_pct": 78.9,
+          "avg_discount_pct": 56.3
         },
         {
           "category": "Instrument",
           "tracked": 18,
-          "on_sale": 10,
-          "on_sale_pct": 55.6,
-          "avg_discount_pct": 50.9
+          "on_sale": 11,
+          "on_sale_pct": 61.1,
+          "avg_discount_pct": 50.8
         },
         {
           "category": "Compressor",
           "tracked": 15,
-          "on_sale": 14,
-          "on_sale_pct": 93.3,
-          "avg_discount_pct": 59
+          "on_sale": 15,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 58.3
         },
         {
           "category": "EQ",
@@ -345,7 +345,7 @@
           "tracked": 9,
           "on_sale": 9,
           "on_sale_pct": 100.0,
-          "avg_discount_pct": 42.1
+          "avg_discount_pct": 47.8
         },
         {
           "category": "Vocal",
@@ -371,16 +371,16 @@
         {
           "category": "Delay",
           "tracked": 5,
-          "on_sale": 4,
-          "on_sale_pct": 80.0,
-          "avg_discount_pct": 59.8
+          "on_sale": 5,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 57.6
         },
         {
           "category": "Drums",
           "tracked": 3,
-          "on_sale": 2,
-          "on_sale_pct": 66.7,
-          "avg_discount_pct": 36
+          "on_sale": 3,
+          "on_sale_pct": 100.0,
+          "avg_discount_pct": 40.7
         },
         {
           "category": "Limiter",
@@ -393,10 +393,10 @@
       "by_brand": [
         {
           "category": "Other",
-          "tracked": 232,
-          "on_sale": 187,
-          "on_sale_pct": 80.6,
-          "avg_discount_pct": 57.9
+          "tracked": 233,
+          "on_sale": 188,
+          "on_sale_pct": 80.7,
+          "avg_discount_pct": 58.1
         },
         {
           "category": "Universal Audio",
@@ -422,8 +422,8 @@
         {
           "category": "Native Instruments",
           "tracked": 34,
-          "on_sale": 23,
-          "on_sale_pct": 67.6,
+          "on_sale": 33,
+          "on_sale_pct": 97.1,
           "avg_discount_pct": 50.5
         },
         {
@@ -438,7 +438,7 @@
           "tracked": 17,
           "on_sale": 17,
           "on_sale_pct": 100.0,
-          "avg_discount_pct": 64.6
+          "avg_discount_pct": 67.6
         },
         {
           "category": "Baby Audio",
@@ -611,16 +611,16 @@
       ],
       "vs_previous_month": {
         "month": "2026-10",
-        "on_sale_pct_delta": 24.2,
-        "avg_discount_pct_delta": -0.3,
-        "products_tracked_delta": 70
+        "on_sale_pct_delta": 25.9,
+        "avg_discount_pct_delta": -0.2,
+        "products_tracked_delta": 71
       }
     },
     {
       "month": "2026-10",
       "label": "October 2026",
       "is_current": false,
-      "generated_at": "2026-11-21",
+      "generated_at": "2026-11-22",
       "observations": 3527,
       "products_tracked": 526,
       "products_on_sale": 263,
@@ -1230,7 +1230,7 @@
       "month": "2026-09",
       "label": "September 2026",
       "is_current": false,
-      "generated_at": "2026-11-21",
+      "generated_at": "2026-11-22",
       "observations": 3561,
       "products_tracked": 503,
       "products_on_sale": 271,
@@ -1854,7 +1854,7 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-11-21",
+      "generated_at": "2026-11-22",
       "observations": 3583,
       "products_tracked": 420,
       "products_on_sale": 255,
@@ -2443,7 +2443,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-11-21",
+      "generated_at": "2026-11-22",
       "observations": 1964,
       "products_tracked": 286,
       "products_on_sale": 141,

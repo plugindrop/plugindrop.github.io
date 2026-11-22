@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21",
+  "last_updated": "2026-11-22",
   "bundles": {
     "Arturia FX Collection 6 Pro": {
       "pb_url": "/product/81-Bundles/39-Effects-Bundles/16835-FX-Collection-6-PRO",
@@ -10532,6 +10532,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-12-09"
+        },
+        {
+          "date": "2026-11-22",
+          "sale": 5.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "category": "Reverb",
@@ -17883,6 +17892,15 @@
         },
         {
           "date": "2026-11-21",
+          "sale": 9.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-11-22",
           "sale": 9.0,
           "regular": 129.0,
           "source": "pb_deals_poll",
@@ -32983,6 +33001,15 @@
         },
         {
           "date": "2026-11-21",
+          "sale": 64.5,
+          "regular": 129.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-11-22",
           "sale": 64.5,
           "regular": 129.0,
           "source": "pb_deals_poll",
@@ -52976,6 +53003,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-11-22",
+          "sale": 149.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "category": "EQ",
@@ -65731,7 +65767,9 @@
         }
       ],
       "category": "Synth",
-      "image": "/images/plugin-prices/kilohearts-phase-plant.jpg"
+      "image": "/images/plugin-prices/kilohearts-phase-plant.jpg",
+      "image_lg": "/images/plugin-prices/kilohearts-phase-plant-lg.jpg",
+      "image_lg_width": 625
     },
     "Kilohearts Shaper Table": {
       "pb_url": "/product/2-Effects/30-Distortion/12131-Shaper-Table",
@@ -68906,6 +68944,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-30"
+        },
+        {
+          "date": "2026-11-22",
+          "sale": 49.99,
+          "regular": 99.99,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/m1.jpg",
@@ -78974,7 +79021,9 @@
           "until": "2026-12-31"
         }
       ],
-      "image": "/images/plugin-prices/native-instruments-24k-drums.jpg"
+      "image": "/images/plugin-prices/native-instruments-24k-drums.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-24k-drums-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments 24K Keys": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15856-24K-Keys",
@@ -79201,7 +79250,9 @@
           "until": "2026-12-31"
         }
       ],
-      "image": "/images/plugin-prices/native-instruments-24k-keys.jpg"
+      "image": "/images/plugin-prices/native-instruments-24k-keys.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-24k-keys-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Action Strings 2": {
       "pb_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/16355-Action-Strings-2",
@@ -79367,7 +79418,9 @@
         }
       ],
       "category": "Instrument",
-      "image": "/images/plugin-prices/native-instruments-action-strings-2.jpg"
+      "image": "/images/plugin-prices/native-instruments-action-strings-2.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-action-strings-2-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Battery 4": {
       "pb_url": "/product/1-Instruments/7-Drum-Machine/10990-Battery-4",
@@ -79697,7 +79750,9 @@
           "until": "2026-12-31"
         }
       ],
-      "image": "/images/plugin-prices/native-instruments-battery-4.jpg"
+      "image": "/images/plugin-prices/native-instruments-battery-4.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-battery-4-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Bouquet": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15880-Bouquet",
@@ -79882,7 +79937,9 @@
           "until": "2026-12-31"
         }
       ],
-      "image": "/images/plugin-prices/native-instruments-bouquet.jpg"
+      "image": "/images/plugin-prices/native-instruments-bouquet.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-bouquet-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Discoteca Drums": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15862-Discoteca-Drums",
@@ -80055,7 +80112,9 @@
           "until": "2026-12-31"
         }
       ],
-      "image": "/images/plugin-prices/native-instruments-discoteca-drums.jpg"
+      "image": "/images/plugin-prices/native-instruments-discoteca-drums.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-discoteca-drums-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Discovery Series West Africa": {
       "pb_url": "https://www.pluginboutique.com/search?q=Native%20Instruments%20Discovery%20Series%20West%20Africa",
@@ -80596,7 +80655,10 @@
           "cur": "USD",
           "until": "2026-12-31"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-fm8.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-fm8-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Glaze 2": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15883-Glaze-2",
@@ -80823,7 +80885,9 @@
           "until": "2026-12-31"
         }
       ],
-      "image": "/images/plugin-prices/native-instruments-glaze-2.jpg"
+      "image": "/images/plugin-prices/native-instruments-glaze-2.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-glaze-2-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Guitar Rig 7 Pro": {
       "pb_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/11108-Guitar-Rig-7-Pro",
@@ -81177,7 +81241,9 @@
           "until": "2026-12-31"
         }
       ],
-      "image": "/images/plugin-prices/native-instruments-guitar-rig-7-pro.jpg"
+      "image": "/images/plugin-prices/native-instruments-guitar-rig-7-pro.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-guitar-rig-7-pro-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Halo Vox": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15843-Halo-Vox",
@@ -95950,6 +96016,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-29"
+        },
+        {
+          "date": "2026-11-22",
+          "sale": 15.0,
+          "regular": 79.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/relooper.jpg",
@@ -101252,6 +101327,15 @@
         },
         {
           "date": "2026-11-21",
+          "sale": 69.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-11-22",
           "sale": 69.0,
           "regular": 99.0,
           "source": "pb_deals_poll",
@@ -107835,6 +107919,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-11-22",
+          "sale": 39.0,
+          "regular": 156.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "noindex": true
@@ -110406,6 +110499,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-12-03"
+        },
+        {
+          "date": "2026-11-22",
+          "sale": 49.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/soundtoys-decapitator.jpg"
@@ -118727,6 +118829,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-30"
+        },
+        {
+          "date": "2026-11-22",
+          "sale": 49.99,
+          "regular": 1499.92,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/total-vi-max-2.jpg",
@@ -134227,6 +134338,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-11-22",
+          "sale": 10.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/uad-vibe-analog-machines.jpg",
@@ -144017,6 +144137,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-11-22",
+          "sale": 49.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/wavesfactory-spectre.jpg"
@@ -144518,6 +144647,15 @@
         },
         {
           "date": "2026-11-21",
+          "sale": 29.0,
+          "regular": 59.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-11-22",
           "sale": 29.0,
           "regular": 59.0,
           "source": "pb_deals_poll",
@@ -162280,6 +162418,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-11-22",
+          "sale": 29.99,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/amplitube-5.jpg",
@@ -170250,6 +170397,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-11-22",
+          "sale": 19.0,
+          "regular": 39.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/rc-20-retro-color-v2-upgrade.jpg",
@@ -170489,6 +170645,15 @@
         },
         {
           "date": "2026-11-21",
+          "sale": 59.4,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-11-22",
           "sale": 59.4,
           "regular": 99.0,
           "source": "pb_deals_poll",
@@ -172856,6 +173021,15 @@
           "regular": 149.0,
           "sale": null,
           "source": "wayback"
+        },
+        {
+          "date": "2026-11-22",
+          "sale": 19.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "article_slug": "ssl-native-bus-compressor-2-50a0ef",
@@ -173150,6 +173324,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-12-09"
+        },
+        {
+          "date": "2026-11-22",
+          "sale": 9.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/virtual-pianist-vibe.jpg"
@@ -173281,6 +173464,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-30"
+        },
+        {
+          "date": "2026-11-22",
+          "sale": 19.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/ssl-native-channel-strip-2.jpg"
@@ -174614,7 +174806,8 @@
       ],
       "article_slug": "ufx-reverb-version-2-d5d56b",
       "all_time_low": 5.0,
-      "typical_sale": 5.0
+      "typical_sale": 5.0,
+      "image": "/images/plugin-prices/ufx-reverb-version-2.jpg"
     },
     "FOCUS": {
       "pb_url": "https://www.adsrsounds.com/product/presets/datacode-focus-serum-2-deep-melodic-techno/",
@@ -174625,6 +174818,11 @@
       "pb_url": "https://www.adsrsounds.com/product/presets/undergrnd-sounds-classic-house-vocals-samples/",
       "history": [],
       "article_slug": "classic-house-vocals-timeless-90s-vocal-house-essentials"
+    },
+    "Cycles and Spots Chaos": {
+      "pb_url": "https://www.adsrsounds.com/product/presets/cycles-and-spots-chaos-chiptune-16-bit-melodies/",
+      "history": [],
+      "article_slug": "cycles-and-spots-chaos-chiptune-16-bit-melodies-76b54b"
     }
   }
 }

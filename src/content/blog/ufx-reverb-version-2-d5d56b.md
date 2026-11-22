@@ -15,7 +15,7 @@ saleExpiry: "2026-12-21"
 saleExpirySource: "fallback"
 draft: false
 ---
-**TL;DR:** If you want one reverb plugin that also covers gating, delay-based modulation, and cinematic soundscapes, UFX REVERB Version 2 is worth a look at 90% off its regular ~~$49~~ price at Plugin Boutique. The plugin pairs standard reverb controls with a ducking control, freeze function, multimode filter, and a four-category Finisher section. [Grab UFX REVERB Version 2 at Plugin Boutique](https://www.pluginboutique.com/search?q=UFX+REVERB+Version+2&a_aid=69cb95abe1763&chan=art&data1=ufx-reverb-version-2-d5d56b&utm_source=plugindrop&utm_medium=article&utm_campaign=ufx-reverb-version-2-d5d56b).
+**TL;DR:** If you want one reverb plugin that also covers gating, delay-based modulation, and cinematic soundscapes, UFX REVERB Version 2 is worth a look at 90% off its regular ~~$49~~ price at Plugin Boutique. The plugin pairs standard reverb controls with a ducking control, freeze function, multimode filter, and a four-category Finisher section. [Grab UFX REVERB Version 2 at Plugin Boutique](https://www.pluginboutique.com/product/2-Effects/17-Reverb/14101-UFX-REVERB-Version-2?a_aid=69cb95abe1763&chan=art&data1=ufx-reverb-version-2-d5d56b&utm_source=plugindrop&utm_medium=article&utm_campaign=ufx-reverb-version-2-d5d56b).
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ZkSiDKaETlg" title="90% Off UFX REVERB Version 2 — Reverb Effects for Sound Design — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

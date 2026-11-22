@@ -15,7 +15,7 @@ saleExpiry: "2026-12-17"
 saleExpirySource: "fallback"
 draft: true
 ---
-**TL;DR:** InstaComposer 4 is down from ~~$129~~ to $29.90 at Plugin Boutique, matching the lowest price tracked across 28 observations since 2026-10-14. That's also the typical sale price, so this isn't a one-off dip. [Grab it here](https://www.pluginboutique.com/search?q=InstaComposer+4&a_aid=69cb95abe1763&chan=art&data1=instacomposer-4-edb92a&utm_source=plugindrop&utm_medium=article&utm_campaign=instacomposer-4-edb92a) while the deal price is live.
+**TL;DR:** InstaComposer 4 is down from ~~$129~~ to $29.90 at Plugin Boutique, matching the lowest price tracked across 28 observations since 2026-10-14. That's also the typical sale price, so this isn't a one-off dip. [Grab it here](https://www.pluginboutique.com/product/3-Studio-Tools/93-Music-Theory-Tools/18029-InstaComposer-4?a_aid=69cb95abe1763&chan=art&data1=instacomposer-4-edb92a&utm_source=plugindrop&utm_medium=article&utm_campaign=instacomposer-4-edb92a) while the deal price is live.
 
 <!-- deal-context-sale-windows:start -->
 ## Last three times this went on sale

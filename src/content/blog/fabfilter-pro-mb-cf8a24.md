@@ -15,7 +15,7 @@ saleExpiry: "2026-12-16"
 saleExpirySource: "fallback"
 draft: true
 ---
-**TL;DR:** Save 25% on FabFilter Pro MB — a powerful multiband dynamics processor with flexible crossover settings and zero-latency phase processing. ~~$179~~ now $134 at Plugin Boutique. [Get the deal here](https://www.pluginboutique.com/search?q=FabFilter+Pro+MB&a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-mb-cf8a24&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-mb-cf8a24).
+**TL;DR:** Save 25% on FabFilter Pro MB — a powerful multiband dynamics processor with flexible crossover settings and zero-latency phase processing. ~~$179~~ now $134 at Plugin Boutique. [Get the deal here](https://www.pluginboutique.com/product/2-Effects/8-Compressor/919-FabFilter-Pro-MB?a_aid=69cb95abe1763&chan=art&data1=fabfilter-pro-mb-cf8a24&utm_source=plugindrop&utm_medium=article&utm_campaign=fabfilter-pro-mb-cf8a24).
 
 <div class="video-embed">
 <iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/LNkaGACWuhs" title="FabFilter Pro-MB 25% Off — sound demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
