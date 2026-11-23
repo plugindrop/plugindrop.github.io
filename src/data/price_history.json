@@ -59671,7 +59671,9 @@
           "until": "2026-11-30"
         }
       ],
-      "image": "/images/plugin-prices/intensity-2.jpg"
+      "image": "/images/plugin-prices/intensity-2.jpg",
+      "image_lg": "/images/plugin-prices/intensity-2-lg.jpg",
+      "image_lg_width": 625
     },
     "IRON 2": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/8111-IRON-2",
@@ -70885,7 +70887,9 @@
           "until": "2026-01-01"
         }
       ],
-      "image": "/images/plugin-prices/mautoalign.jpg"
+      "image": "/images/plugin-prices/mautoalign.jpg",
+      "image_lg": "/images/plugin-prices/mautoalign-lg.jpg",
+      "image_lg_width": 625
     },
     "MC2000 Multi Band Compressor Native v7": {
       "pb_url": "/product/2-Effects/8-Compressor/8949-MC2000-Multi-Band-Compressor-Native-v7",
@@ -79923,7 +79927,9 @@
           "until": "2026-11-26"
         }
       ],
-      "image": "/images/plugin-prices/model-80-five-voice-synthesizer.jpg"
+      "image": "/images/plugin-prices/model-80-five-voice-synthesizer.jpg",
+      "image_lg": "/images/plugin-prices/model-80-five-voice-synthesizer-lg.jpg",
+      "image_lg_width": 625
     },
     "Moog Mariana": {
       "pb_url": "/product/1-Instruments/4-Synth/11727-Moog-Mariana",
@@ -83401,7 +83407,9 @@
           "until": "2026-12-31"
         }
       ],
-      "image": "/images/plugin-prices/native-instruments-halo-vox.jpg"
+      "image": "/images/plugin-prices/native-instruments-halo-vox.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-halo-vox-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Hypr": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15869-Hypr",
@@ -83602,7 +83610,9 @@
           "until": "2026-12-31"
         }
       ],
-      "image": "/images/plugin-prices/native-instruments-hypr.jpg"
+      "image": "/images/plugin-prices/native-instruments-hypr.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-hypr-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Kolor": {
       "pb_url": "/product/2-Effects/30-Distortion/16334-Kolor",
@@ -84154,7 +84164,9 @@
         }
       ],
       "category": "Instrument",
-      "image": "/images/plugin-prices/native-instruments-kontakt-8.jpg"
+      "image": "/images/plugin-prices/native-instruments-kontakt-8.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-kontakt-8-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments LCO Producer Strings": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15839-LCO-Producer-Strings",
@@ -84391,7 +84403,9 @@
           "until": "2026-12-31"
         }
       ],
-      "image": "/images/plugin-prices/native-instruments-lco-producer-strings.jpg"
+      "image": "/images/plugin-prices/native-instruments-lco-producer-strings.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-lco-producer-strings-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Luxa": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15867-Luxa",
@@ -84577,7 +84591,9 @@
           "until": "2026-12-31"
         }
       ],
-      "image": "/images/plugin-prices/native-instruments-luxa.jpg"
+      "image": "/images/plugin-prices/native-instruments-luxa.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-luxa-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Marco Polo Drums": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/16858-Marco-Polo-Drums",
@@ -84778,7 +84794,9 @@
           "until": "2026-12-31"
         }
       ],
-      "image": "/images/plugin-prices/native-instruments-marco-polo-drums.jpg"
+      "image": "/images/plugin-prices/native-instruments-marco-polo-drums.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-marco-polo-drums-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Massive": {
       "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7998-MASSIVE",
@@ -85274,7 +85292,9 @@
           "until": "2026-12-31"
         }
       ],
-      "image": "/images/plugin-prices/native-instruments-massive.jpg"
+      "image": "/images/plugin-prices/native-instruments-massive.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-massive-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Massive X": {
       "pb_url": "/product/1-Instruments/4-Synth/10604-MASSIVE-X",
@@ -179626,7 +179646,8 @@
       ],
       "article_slug": "black-octopus-emotional-2-step-garage-vol-2-96db48",
       "all_time_low": 17.48,
-      "typical_sale": 17.48
+      "typical_sale": 17.48,
+      "image": "/images/plugin-prices/black-octopus-emotional-2-step-garage-vol-2.jpg"
     },
     "Melodyne 5 Essential": {
       "pb_url": "https://www.pluginboutique.com/product/3-Studio-Tools/48-Audio-Editor/6446-Melodyne-5-Essential?a_aid=69cb95abe1763&chan=art&data2=deal-article",
@@ -179653,7 +179674,8 @@
       ],
       "article_slug": "melodyne-5-essential-89fd15",
       "all_time_low": 25.0,
-      "typical_sale": 25.0
+      "typical_sale": 25.0,
+      "image": "/images/plugin-prices/melodyne-5-essential.jpg"
     },
     "Melodyne": {
       "pb_url": "https://www.pluginboutique.com/search?q=Melodyne&a_aid=69cb95abe1763&chan=art&data1=melodyne-alternatives-2026-on-sale",
