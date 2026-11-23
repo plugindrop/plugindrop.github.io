@@ -29,6 +29,12 @@ const blog = defineCollection({
 			noindex: z.boolean().optional(),
 			priceTrack: z.array(z.string()).default([]),
 			productKey: z.string().optional(),
+			track: z.literal('traffic').optional(),
+			generator: z.string().optional(),
+			evergreenGate: z.string().optional(),
+			trafficRevenue: z.boolean().optional(),
+			trafficBrand: z.string().optional(),
+			officialUrl: z.string().url().optional(),
 			priceRecordPending: z.boolean().optional(),
 		}),
 });

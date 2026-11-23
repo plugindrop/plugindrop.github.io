@@ -52,6 +52,7 @@ import productVideos from '../data/product_videos.json';
 import productContent from '../data/product_content.json';
 import freePluginFacts from '../data/free_plugin_facts.json';
 import articleAliases from '../data/article_tracker_aliases.json';
+import { detectBrand } from '../lib/brands.mjs';
 import brandAliases from '../data/brand_aliases.json';
 import { comparisonPriceFacts, sameCategoryPeers } from '../lib/priceInsights.mjs';
 import { discountCheck } from '../lib/discountCheck.mjs';
@@ -80,7 +81,7 @@ import {
 
 type Props = CollectionEntry<'blog'>['data'] & { readingTime?: string; rawBody?: string; slug?: string };
 
-const { title, description, pubDate, updatedDate, heroImage, tags = [], affiliate, dealPrice, originalPrice, discount, saleExpiry, saleExpirySource, score, allTimeLow, evergreen, onSaleNow, bundleValue, noindex, priceTrack = [], productKey, readingTime = '3 min read', rawBody = '', slug: currentSlug = '' } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, tags = [], affiliate, dealPrice, originalPrice, discount, saleExpiry, saleExpirySource, score, allTimeLow, evergreen, onSaleNow, bundleValue, noindex, priceTrack = [], productKey, track, trafficRevenue, trafficBrand, officialUrl, readingTime = '3 min read', rawBody = '', slug: currentSlug = '' } = Astro.props;
 const freePaidModel = freeToPaid(currentSlug, freeToPaidMap, priceDataRaw);
 const imageStr = typeof heroImage === 'string' ? heroImage : undefined;
 // PR-8 (2026-09-25): a fallback-guessed saleExpiry is not a real deadline —
@@ -279,8 +280,13 @@ const _v4Rendered = (isV4Article(rawBody) || isGuideV4(rawBody)) ? await Astro.s
 const _v4Parsed = _v4Rendered ? splitV4Article(_v4Rendered) : null;
 const _guideParsed = _v4Rendered && isGuideV4(rawBody) ? splitGuideV4(_v4Rendered, rawBody) : null;
 const _guideData = { priceHistory: priceDataRaw, productContent, videos: productVideos, freeFacts: freePluginFacts, articleAliases, brandAliases };
+const _traffic = track === "traffic";
 const _guidePicks = _guideParsed ? [...new Set([...rawBody.matchAll(/<!-- pick:([^>]+) -->/g)].map(m => m[1].trim()))].map(name => resolvePick(name, _guideData)).filter(Boolean) : [];
 const faqPairs: { q: string; a: string }[] = [];
+const _trafficOfficial = _traffic && (!trafficRevenue || !_guidePicks[0]?.entry);
+const _trafficBrandPage = _trafficOfficial && trafficBrand && Object.entries(_allTrackerEntries)
+	.filter(([name, entry]) => slugifyProduct(detectBrand(name, entry.notes) ?? '') === trafficBrand)
+	.length >= 2 ? trafficBrand : undefined;
 const faqRegex = isV4Article(rawBody) || isGuideV4(rawBody)
   ? /(?:\*\*)?Q:\s*(.+?)(?:\*\*)?\s*\n+\s*A:\s*(.+?)(?=\n\s*(?:\*\*)?Q:|\n\s*##|\s*$)/gs
   : /\*\*Q:\s*(.+?)\*\*\s*\nA:\s*(.+?)(?=\n\s*\*\*Q:|\n\s*##|\s*$)/gs;
@@ -382,7 +388,7 @@ const _computedDiscount = (() => {
 	return `${Math.round((1 - deal / orig) * 100)}% OFF`;
 })();
 const _displayDiscount = _computedDiscount;
-const productLD = (affiliate && dealPrice && !saleExpired && !saleLapsed && !_trackerSaysEnded && !_isFreePrice && _numericPrice && _numericPrice !== '0') ? {
+const productLD = (!_traffic && affiliate && dealPrice && !saleExpired && !saleLapsed && !_trackerSaysEnded && !_isFreePrice && _numericPrice && _numericPrice !== '0') ? {
 	"@context": "https://schema.org",
 	"@type": "Product",
 	"name": productName ?? title,
@@ -1232,9 +1238,9 @@ const showInlineDeals = (rawBody.match(/^## /gm) ?? []).length >= 5 && saleCards
 		<main id="main-content">
 			<article>
 				{_guideParsed ? (
-					<GuideV4Body parsed={_guideParsed} picks={_guidePicks} candidates={_alternativeCandidates} lastUpdated={priceData.last_updated} slug={currentSlug} writtenDate={(updatedDate ?? pubDate).toISOString().slice(0, 10)}>
-						<Fragment slot="header"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span class="sep">/</span><a href="/posts/">Guides</a><span class="sep">/</span><span>{_composedTitle}</span></nav><div class="article-header"><h1>{_composedTitle}</h1><div class="meta"><span class="author-byline">By <a href="/about/" rel="author">SignalDrop</a></span><span class="date"><FormattedDate date={pubDate} /></span><span class="reading-time">{readingTime}</span></div></div>{(_showFactsTable || _showPlanTable || _showLegacyFactCard) && <details id="compare-table" class="quick-facts" open><summary>Quick facts</summary>{_showPlanTable ? <PlanTable vendorProducts={_currentVendorIds} kind={_catalog?.kind as 'comparison' | 'review'} /> : _showLegacyFactCard ? <LegacyFactCard vendorProduct={_legacyId!} /> : _compareModel.mode === 'table' ? <FactsTable model={_compareModel} /> : <VerifiedFactsList model={_compareModel} />}</details>}</Fragment>
-						<Fragment slot="footer"><AuthorBox /><div class="affiliate-disclosure"><p>This post contains affiliate links. We may earn a small commission at no extra cost to you.</p></div></Fragment>
+					<GuideV4Body parsed={_guideParsed} traffic={_traffic} officialOnly={_trafficOfficial} officialUrl={officialUrl} trafficBrand={_trafficBrandPage} picks={_guidePicks} candidates={_alternativeCandidates} lastUpdated={priceData.last_updated} slug={currentSlug} writtenDate={(updatedDate ?? pubDate).toISOString().slice(0, 10)}>
+						<Fragment slot="header"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span class="sep">/</span><a href="/posts/">Guides</a><span class="sep">/</span><span>{_composedTitle}</span></nav><div class="article-header"><h1>{_composedTitle}</h1><div class="meta"><span class="author-byline">By <a href="/about/" rel="author">SignalDrop</a></span><span class="date"><FormattedDate date={pubDate} /></span><span class="reading-time">{readingTime}</span></div></div>{!_traffic && (_showFactsTable || _showPlanTable || _showLegacyFactCard) && <details id="compare-table" class="quick-facts" open><summary>Quick facts</summary>{_showPlanTable ? <PlanTable vendorProducts={_currentVendorIds} kind={_catalog?.kind as 'comparison' | 'review'} /> : _showLegacyFactCard ? <LegacyFactCard vendorProduct={_legacyId!} /> : _compareModel.mode === 'table' ? <FactsTable model={_compareModel} /> : <VerifiedFactsList model={_compareModel} />}</details>}</Fragment>
+						<Fragment slot="footer"><AuthorBox />{!_trafficOfficial && <div class="affiliate-disclosure"><p>This post contains affiliate links. We may earn a small commission at no extra cost to you.</p></div>}</Fragment>
 					</GuideV4Body>
 				) : _v4Parsed && _trackerMatch ? (
 					<V4ArticleBody parsed={_v4Parsed} entry={_trackerMatch.entry} name={_trackerMatch.name} image={imageStr} state={_dealState} href={_ctaHref} pricePath={_fullPriceHistoryName ? `/plugin-prices/${slugifyProduct(_fullPriceHistoryName)}/` : null} expiry={_countdownExpiry} candidates={_alternativeCandidates} lastUpdated={priceData.last_updated} writtenDate={(updatedDate ?? pubDate).toISOString().slice(0, 10)} ctaText={_ctaLabel}>
@@ -1435,7 +1441,7 @@ const showInlineDeals = (rawBody.match(/^## /gm) ?? []).length >= 5 && saleCards
 				)}
 			</article>
 
-			{relatedPosts.length > 0 && (
+			{!_trafficOfficial && relatedPosts.length > 0 && (
 				<section class="related-posts" aria-label="Related deals">
 					<h2 class="related-title">Related Deals</h2>
 					<ul class="related-list">
@@ -1456,7 +1462,7 @@ const showInlineDeals = (rawBody.match(/^## /gm) ?? []).length >= 5 && saleCards
 		</main>
 
 		{/* Sticky CTA bar */}
-		{_showProductCta && affiliate ? (
+		{!_traffic && (_showProductCta && affiliate ? (
 			<div class="sticky-cta" id="sticky-cta">
 				<span class="sticky-title">{_dealState !== 'live' ? _composedTitle : (dealPrice ? `${_isFreePrice ? 'FREE' : dealPrice} — ${_composedTitle}` : _composedTitle)}</span>
 				<a href={_ctaHref} class="deal-cta-btn sticky-cta-link" target="_blank" rel="noopener sponsored" data-slug={currentSlug}>
@@ -1472,7 +1478,7 @@ const showInlineDeals = (rawBody.match(/^## /gm) ?? []).length >= 5 && saleCards
 				</a>
 				<button class="sticky-cta-close" id="sticky-cta-close" aria-label="Dismiss">✕</button>
 			</div>
-		)}
+		))}
 
 		<Footer />
 	</body>
