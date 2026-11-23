@@ -8,13 +8,12 @@ heroImage: "/images/black-octopus-emotional-2-step-garage-vol-2-96db48.jpg"
 score: 7.73
 rawScore: 7.73
 productKey: "Black Octopus Emotional 2 Step Garage Vol 2"
-priceRecordPending: true
 dealPrice: "$17.48"
 originalPrice: "$34.95"
 discount: "50% OFF"
 saleExpiry: "2026-12-23"
 saleExpirySource: "fallback"
-draft: true
+draft: false
 ---
 **TL;DR:** Black Octopus's new Emotional 2 Step Garage Vol 2 pack just landed on ADSR Sounds, and PluginDrop has it tracked at $34 against a ~~$149.99~~ regular price. That $34 price matches both the lowest and the typical sale price recorded across 27 observations since August 2, 2026. [Grab it at ADSR Sounds](https://www.adsrsounds.com/product/presets/black-octopus-emotional-2-step-garage-vol-2/?a_aid=plugindrop&data1=black-octopus-emotional-2-step-garage-vol-2-96db48&utm_source=plugindrop&utm_medium=article&utm_campaign=black-octopus-emotional-2-step-garage-vol-2-96db48) while it's at that floor.
 

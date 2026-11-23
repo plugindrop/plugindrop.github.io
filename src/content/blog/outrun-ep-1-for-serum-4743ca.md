@@ -9,13 +9,12 @@ aiImage: true
 score: 10.00
 rawScore: 13.20
 productKey: "Outrun EP 1"
-priceRecordPending: true
 dealPrice: "$11.5"
 originalPrice: "$23"
 discount: "50% OFF"
 saleExpiry: "2026-12-23"
 saleExpirySource: "fallback"
-draft: true
+draft: false
 ---
 If you only grab one Serum preset pack this week, make it Outrun EP 1 — the 50% discount brings it well off its $23 regular price.
 

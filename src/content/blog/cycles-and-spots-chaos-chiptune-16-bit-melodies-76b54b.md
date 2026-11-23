@@ -8,13 +8,12 @@ heroImage: "/images/cycles-and-spots-chaos-chiptune-16-bit-melodies-76b54b.jpg"
 score: 7.58
 rawScore: 7.58
 productKey: "Cycles and Spots Chaos"
-priceRecordPending: true
 dealPrice: "$10"
 originalPrice: "$19.99"
 discount: "50% OFF"
 saleExpiry: "2026-12-22"
 saleExpirySource: "fallback"
-draft: true
+draft: false
 ---
 **TL;DR:** ADSR Sounds is running Cycles and Spots Chaos Chiptune 16-Bit Melodies at 50% off its regular ~~$19.99~~ price. It's a pack built around 16-bit chiptune-style melodic content for producers chasing a retro synth sound. [Grab it at the discounted price here](https://www.adsrsounds.com/product/presets/cycles-and-spots-chaos-chiptune-16-bit-melodies/?a_aid=plugindrop&data1=cycles-and-spots-chaos-chiptune-16-bit-melodies-76b54b&utm_source=plugindrop&utm_medium=article&utm_campaign=cycles-and-spots-chaos-chiptune-16-bit-melodies-76b54b).
 

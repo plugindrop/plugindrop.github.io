@@ -8,13 +8,12 @@ heroImage: "/images/osaka-sound-love-song-lofi-cuts-jazzy-beats-hip-hop-samples.
 score: 6.83
 rawScore: 6.83
 productKey: "Osaka Sound Love Song"
-priceRecordPending: true
 dealPrice: "$9.98"
 originalPrice: "$19.95"
 discount: "50% OFF"
 saleExpiry: "2026-12-23"
 saleExpirySource: "fallback"
-draft: true
+draft: false
 ---
 **TL;DR:** Osaka Sound's Love Song Lofi Cuts is 50% off at ADSR Sounds, cut down from its regular $19.95 price. It's a sample pack built for jazzy, lofi hip hop production, aimed at producers who want ready-made loops and cuts instead of building a lofi groove from scratch. [Grab it at ADSR Sounds](https://www.adsrsounds.com/product/presets/osaka-sound-love-song-lofi-cuts-jazzy-beats-hip-hop-samples/?a_aid=plugindrop&data1=osaka-sound-love-song-lofi-cuts-jazzy-beats-hip-hop-samples&utm_source=plugindrop&utm_medium=article&utm_campaign=osaka-sound-love-song-lofi-cuts-jazzy-beats-hip-hop-samples) while the discount is live.
 

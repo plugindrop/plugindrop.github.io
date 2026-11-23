@@ -8,13 +8,12 @@ heroImage: "/images/classic-house-vocals-timeless-90s-vocal-house-essentials.jpg
 score: 8.78
 rawScore: 8.78
 productKey: "Classic House Vocals"
-priceRecordPending: true
 dealPrice: "$22.48"
 originalPrice: "$44.95"
 discount: "50% OFF"
 saleExpiry: "2026-12-21"
 saleExpirySource: "fallback"
-draft: true
+draft: false
 ---
 **TL;DR:** Classic House Vocals is on sale at ADSR Sounds, with the price matching the lowest point PluginDrop has tracked since November 2023. Regular price is ~~$112~~, and the current ask lines up with the $29 typical sale price seen across 33 tracked observations. [Grab Classic House Vocals at ADSR Sounds](https://www.adsrsounds.com/product/presets/undergrnd-sounds-classic-house-vocals-samples/?a_aid=plugindrop&data1=classic-house-vocals-timeless-90s-vocal-house-essentials&utm_source=plugindrop&utm_medium=article&utm_campaign=classic-house-vocals-timeless-90s-vocal-house-essentials) while the discount holds.
 

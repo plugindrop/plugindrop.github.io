@@ -8,13 +8,12 @@ heroImage: "/images/focus-serum-2-deep-melodic-techno-premium-serum-2-preset-pac
 score: 10.00
 rawScore: 11.70
 productKey: "FOCUS"
-priceRecordPending: true
 dealPrice: "$12.5"
 originalPrice: "$24.99"
 discount: "50% OFF"
 saleExpiry: "2026-12-21"
 saleExpirySource: "fallback"
-draft: true
+draft: false
 ---
 **TL;DR:** FOCUS: Serum 2 Deep Melodic Techno is marked down to $12.5 at ADSR Sounds, down from a regular ~~$249~~. That price sits close to the $99 low PluginDrop has tracked since March 2025. [Get FOCUS at ADSR Sounds](https://www.adsrsounds.com/product/presets/datacode-focus-serum-2-deep-melodic-techno/?a_aid=plugindrop&data1=focus-serum-2-deep-melodic-techno-premium-serum-2-preset-pac&utm_source=plugindrop&utm_medium=article&utm_campaign=focus-serum-2-deep-melodic-techno-premium-serum-2-preset-pac).
 

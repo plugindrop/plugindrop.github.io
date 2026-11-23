@@ -7,10 +7,31 @@
     "source": "yt_api_fill",
     "official": false
   },
+  "AIR Legends Pack": {
+    "video_id": "30mU3641JDk",
+    "title": "Xpand!2 Multitimbral Workstation By Air Music Technology - Show & Reveal",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
   "AMBER 2": {
     "video_id": "lqPnryv4Ikc",
     "title": "@ujamInstruments presents: Virtual Guitarist AMBER 2",
     "channel": "ujam Instruments",
+    "source": "pb_page",
+    "official": false
+  },
+  "Addictive Drums 2 Custom Collection": {
+    "video_id": "ikaSahd3KFQ",
+    "title": "What's new in Addictive Drums 2 (version 2.5.0)",
+    "channel": "XLN Audio",
+    "source": "pb_page",
+    "official": false
+  },
+  "Ample Sound Ample Guitar M": {
+    "video_id": "JsEqF3907a0",
+    "title": "Ample Guitar v4 Preview",
+    "channel": "Ample Sound",
     "source": "pb_page",
     "official": false
   },
@@ -63,6 +84,13 @@
     "channel": "DKS SYNTH LAB",
     "score": 10,
     "source": "yt_api_fill"
+  },
+  "Arturia FX Collection 6 Pro": {
+    "video_id": "zuS2scnH4Pg",
+    "title": "FX Collection 6 | Reference Effects For Music Makers",
+    "channel": "Arturia",
+    "source": "pb_page",
+    "official": true
   },
   "Arturia Jup-8 V": {
     "video_id": "aKth4B3Qi2A",
@@ -163,6 +191,13 @@
     "channel": "Ed Thorne | Mixing & Mastering",
     "score": 8,
     "source": "yt_api_fill"
+  },
+  "Baby Audio Complete Bundle": {
+    "video_id": "MXoQfRAxocE",
+    "title": "3 Sounds You Wouldn’t Expect from a Granular Synth",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
   },
   "Baby Audio Crystalline": {
     "video_id": "FquRvVSInZc",
@@ -270,6 +305,13 @@
     "score": 11,
     "source": "yt_api_fill"
   },
+  "Bismuth": {
+    "video_id": "m9WeRiTalvI",
+    "title": "Turn Any Sound Into Music",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
   "Black Box Analog Design HG-2": {
     "video_id": "q0m3u4TkYbM",
     "title": "Black Box Analog Design HG-2 - Quick Overview | Plugin Alliance",
@@ -303,6 +345,13 @@
     "video_id": "O1YH7-XgAZ4",
     "title": "Bloom Vocal Aether - Effortless Vocals Plugin - From Excite Audio",
     "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
+  "Brusfri": {
+    "video_id": "rGnGj0MHzO8",
+    "title": "Brusfri – Noise reducer",
+    "channel": "Klevgrand",
     "source": "pb_page",
     "official": false
   },
@@ -344,6 +393,20 @@
   "Cherry Audio Atomika": {
     "video_id": "Hs6qnoiShFg",
     "title": "Cherry Audio | Atomika Synthesizer",
+    "channel": "Cherry Audio",
+    "source": "pb_page",
+    "official": true
+  },
+  "Cherry Audio Blue3 Tonewheel Organ": {
+    "video_id": "3f6DgQLl5Yc",
+    "title": "Cherry Audio | Blue3 Organ",
+    "channel": "Cherry Audio",
+    "source": "pb_page",
+    "official": true
+  },
+  "Cherry Audio CA2600 Synthesizer": {
+    "video_id": "ZZkn9srj-r4",
+    "title": "Cherry Audio | CA2600",
     "channel": "Cherry Audio",
     "source": "pb_page",
     "official": true
@@ -442,11 +505,11 @@
     "official": true
   },
   "Cherry Audio KR 55C Drum Machine": {
-    "video_id": "UVvu1_aFGXQ",
-    "title": "Cherry Audio | KR-55C Drum Machine",
+    "video_id": "URnXLkjiFNk",
+    "title": "A Brand New Beat from Cherry Audio on March 11",
     "channel": "Cherry Audio",
-    "score": 11,
-    "source": "yt_api_fill"
+    "source": "pb_page",
+    "official": true
   },
   "Cherry Audio Lowdown": {
     "video_id": "RgfAmRS0JhU",
@@ -614,6 +677,20 @@
     "source": "pb_page",
     "official": true
   },
+  "Cherry Audio Voltage Modular Core + Electro Drums": {
+    "video_id": "g5yeH3Sc9zA",
+    "title": "Voltage Modular 2 | Updates & Overview",
+    "channel": "Cherry Audio",
+    "source": "pb_page",
+    "official": true
+  },
+  "Cherry Audio Voltage Modular Ignite": {
+    "video_id": "g5yeH3Sc9zA",
+    "title": "Voltage Modular 2 | Updates & Overview",
+    "channel": "Cherry Audio",
+    "source": "pb_page",
+    "official": true
+  },
   "Cherry Audio Wurlybird 140B": {
     "video_id": "gkuUwfeQDKA",
     "title": "Wurlybird 140B Electric Piano | Cherry Audio",
@@ -641,6 +718,13 @@
     "video_id": "JJFSzi1u_AY",
     "title": "Claro by Sonnox | Starter Guide Tutorial & Review of Key Features",
     "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
+  "Continuum": {
+    "video_id": "YChjYgpwVsg",
+    "title": "Continuum: Quick Introduction",
+    "channel": "United Plugins",
     "source": "pb_page",
     "official": false
   },
@@ -736,6 +820,20 @@
     "score": 9,
     "source": "yt_api_fill"
   },
+  "Effectrix 2": {
+    "video_id": "4ZR7SxlkUXU",
+    "title": "Effectrix2 Trailer",
+    "channel": "Sugar Bytes",
+    "source": "pb_page",
+    "official": false
+  },
+  "Empirical Labs EL8 Distressor Compressor": {
+    "video_id": "-pAuHW4qMpI",
+    "title": "UAD's Swiss Army Knife | EL8 Distressor Compressor",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
   "Eventide Blackhole": {
     "video_id": "5dFgkAzFwew",
     "title": "Eventide Blackhole® Immersive Plug-in: Overview & Demo",
@@ -809,6 +907,13 @@
     "channel": "Eventide Audio",
     "score": 10,
     "source": "yt_api_fill",
+    "official": true
+  },
+  "Eventide H3000 Factory Mk II": {
+    "video_id": "eku2xQTvuOQ",
+    "title": "H3000 Factory Mk II Overview & Tutorial",
+    "channel": "Eventide Audio",
+    "source": "pb_page",
     "official": true
   },
   "Eventide H910 Harmonizer": {
@@ -976,12 +1081,40 @@
     "score": 12,
     "source": "yt_api_fill"
   },
+  "Excite Audio Bloom Drum Machine": {
+    "video_id": "6mdE7RresxQ",
+    "title": "Bloom Drum Machine - Vintage Drum Discovery",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
+  "Excite Audio Bundle": {
+    "video_id": "APnJR6VaXYw",
+    "title": "The Sound of the Future | Evolve Elastic",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
+  "Excite Audio Bundle Crossgrade From Any Excite Audio Product": {
+    "video_id": "APnJR6VaXYw",
+    "title": "The Sound of the Future | Evolve Elastic",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
   "FASTER MASTER": {
     "video_id": "c0-4tRja-x8",
     "title": "A new type of Mastering Plugin | Faster Master",
     "channel": "Plugin Boutique",
     "source": "pb_page",
     "official": false
+  },
+  "FabFilter Creative Bundle": {
+    "video_id": "dbMa8g_jV2I",
+    "title": "FabFilter Saturn Distortion / Saturation Tutorial",
+    "channel": "FabFilter",
+    "source": "pb_page",
+    "official": true
   },
   "FabFilter Micro": {
     "video_id": "NiwYtu_KKQM",
@@ -1074,6 +1207,13 @@
     "channel": "FabFilter",
     "source": "pb_page",
     "official": true
+  },
+  "FabFilter Total Bundle": {
+    "video_id": "I5oyKXSkHeI",
+    "title": "Pro-Q 4 by FabFilter - Whats New & Improved",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
   },
   "FabFilter Twin 3": {
     "video_id": "Emclmc_dZWw",
@@ -1190,12 +1330,26 @@
     "source": "yt_api_fill",
     "official": true
   },
+  "Heavyocity Novo Modern Strings": {
+    "video_id": "F4VFMV-rHI0",
+    "title": "NOVO Modern Strings Kontakt Instrument By Heavocity - Show & Reveal",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
   "Hive 2": {
     "video_id": "q1zm41YBKs4",
     "title": "hive 2 expressive suite - MPE preset demos",
     "channel": "Expressive E",
     "score": 8,
     "source": "yt_api_fill",
+    "official": false
+  },
+  "INTENSITY 2": {
+    "video_id": "_whRLEwHx-M",
+    "title": "Zynaptiq INTENSITY Trailer",
+    "channel": "Zynaptiq",
+    "source": "pb_page",
     "official": false
   },
   "IRON 2": {
@@ -1209,6 +1363,13 @@
     "video_id": "yxADGjSR7r0",
     "title": "Introducing: GForce IconDrum",
     "channel": "GForce Software",
+    "source": "pb_page",
+    "official": false
+  },
+  "Infiltrator 2": {
+    "video_id": "j1tPR1_5xyY",
+    "title": "Introducing Infiltrator 2",
+    "channel": "Devious Machines",
     "source": "pb_page",
     "official": false
   },
@@ -1289,6 +1450,13 @@
     "source": "pb_page",
     "official": false
   },
+  "KV331 Audio SynthMaster 3": {
+    "video_id": "UspS97WOfxU",
+    "title": "Introduction to SynthMaster 3 User Interface",
+    "channel": "kv331audio",
+    "source": "pb_page",
+    "official": false
+  },
   "Kilohearts Carve EQ": {
     "video_id": "pEKrVvho7lM",
     "title": "Carve EQ Tutorial | EQ Match Tool In-Depth | 31-Band Graphic EQ by Kilohearts",
@@ -1325,11 +1493,11 @@
     "source": "yt_api_fill"
   },
   "Kilohearts Phase Plant": {
-    "video_id": "yLnIUf63P-8",
-    "title": "Kilohearts Phase Plant Demo Song by Nasko",
-    "channel": "Kilohearts",
-    "score": 12,
-    "source": "yt_api_fill"
+    "video_id": "ebbyTL6lWNg",
+    "title": "Phase Plant by Kilohearts | Review of Key Features | New Modular VST Plugin Synth",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
   },
   "Kilohearts Shaper Table": {
     "video_id": "YWcYRq5NjA4",
@@ -1380,12 +1548,26 @@
     "source": "pb_page",
     "official": false
   },
+  "LX480 Essentials": {
+    "video_id": "PKKLSDG2XEo",
+    "title": "Relab Development - LX480 Reverb - Mixing With Mike Plugin of the Week",
+    "channel": "Mixing With Mike",
+    "source": "pb_page",
+    "official": false
+  },
   "LennarDigital Sylenth1": {
     "video_id": "H4Q4yVx2WBw",
     "title": "LennarDigital Sylenth1 VSTi",
     "channel": "LennarDigital",
     "score": 9,
     "source": "yt_api_fill"
+  },
+  "Lifeline Bundle": {
+    "video_id": "WZC6UlyBH18",
+    "title": "Introducing Lifeline Expanse by Excite Audio | Breathing Life into Audio",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
   },
   "Loop2Kit": {
     "video_id": "unr0bjBRb0Q",
@@ -1401,10 +1583,24 @@
     "source": "pb_page",
     "official": false
   },
+  "M1": {
+    "video_id": "SGy0XvSBJqM",
+    "title": "The KORG M1 Experience",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
   "MAutoAlign": {
     "video_id": "Vvj0zI-rNf4",
     "title": "MAutoAlign, the automatic audio phase alignment solution",
     "channel": "MeldaProduction",
+    "source": "pb_page",
+    "official": false
+  },
+  "MC2000 Multi Band Compressor Native v7": {
+    "video_id": "gReVtSMTH5s",
+    "title": "McDSP Classic Pack- Vintage Overview",
+    "channel": "McDSPTV",
     "source": "pb_page",
     "official": false
   },
@@ -1422,10 +1618,24 @@
     "source": "pb_page",
     "official": false
   },
+  "MODO MAX": {
+    "video_id": "_KFX7jjy9Cc",
+    "title": "MODO DRUM 1.5 - What's New - get realistic, natural and customizable drum tracks",
+    "channel": "ikmultimedia",
+    "source": "pb_page",
+    "official": false
+  },
   "MORPH 3 PRO": {
     "video_id": "Bw8-HuVh2Pk",
     "title": "Zynaptiq MORPH 3 PRO: Transforming Drums Using the MODELER.",
     "channel": "Zynaptiq",
+    "source": "pb_page",
+    "official": false
+  },
+  "MRhythmizer": {
+    "video_id": "7z0UOiLfOUM",
+    "title": "MRythmizer by Melda Production | Automatic & Amazing D&B Drum Fills Tutorial",
+    "channel": "Plugin Boutique",
     "source": "pb_page",
     "official": false
   },
@@ -1435,6 +1645,20 @@
     "channel": "DAW LESSON",
     "score": 9,
     "source": "yt_api_fill"
+  },
+  "Melody Sauce 3 Upgrade from Melody Sauce 1 2": {
+    "video_id": "282Ym24eajI",
+    "title": "Melody Sauce 3.1 Walkthrough — Melodies, Chords & Bass in Your DAW",
+    "channel": "EVAbeat",
+    "source": "pb_page",
+    "official": false
+  },
+  "Melodyne 5 Essential": {
+    "video_id": "YY-cuF2nrr8",
+    "title": "BAD Singer vs. Melodyne",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
   },
   "Minimal Audio Cluster Delay": {
     "video_id": "3ktk_SrJKKs",
@@ -1449,6 +1673,20 @@
     "channel": "beesic",
     "score": 9,
     "source": "yt_api_fill"
+  },
+  "Minimal Audio Flex Chorus": {
+    "video_id": "NZFNDpm4wTU",
+    "title": "Flex Chorus by Minimal Audio",
+    "channel": "Minimal Audio",
+    "source": "pb_page",
+    "official": false
+  },
+  "Minimal Audio Fuse Compressor": {
+    "video_id": "4uh6PT4YIMU",
+    "title": "Fuse Compressor by Minimal Audio",
+    "channel": "Minimal Audio",
+    "source": "pb_page",
+    "official": false
   },
   "Minimal Audio Memory Rites": {
     "video_id": "_8HOHFCbG6Q",
@@ -1478,12 +1716,26 @@
     "score": 9,
     "source": "yt_api_fill"
   },
+  "Minimal Audio Rift Filter Lite": {
+    "video_id": "aZjrqddeml4",
+    "title": "Rift Filter Lite | Next-Gen Morphing Filter",
+    "channel": "Minimal Audio",
+    "source": "pb_page",
+    "official": false
+  },
   "Minimal Audio Ripple Phaser": {
     "video_id": "rXL6sQXHyJY",
     "title": "Ripple Phaser by Minimal Audio",
     "channel": "Minimal Audio",
     "score": 8,
     "source": "yt_api_fill"
+  },
+  "Minimal Audio Swarm Reverb": {
+    "video_id": "jCPQ95Cx2i8",
+    "title": "Swarm Reverb: Walkthrough",
+    "channel": "Minimal Audio",
+    "source": "pb_page",
+    "official": false
   },
   "Minimal Audio Wave Shifter": {
     "video_id": "P3ID1DCoKZw",
@@ -1496,6 +1748,13 @@
     "video_id": "ffD9MRCEppU",
     "title": "Model 80 Five Voice Synthesizer Walkthrough – Softube",
     "channel": "SoftubeStudios",
+    "source": "pb_page",
+    "official": false
+  },
+  "Motion: Fractal": {
+    "video_id": "ivYiUr_H_l4",
+    "title": "Next Level Granular FX Unit",
+    "channel": "Plugin Boutique",
     "source": "pb_page",
     "official": false
   },
@@ -1690,6 +1949,13 @@
     "source": "article_embed",
     "official": true
   },
+  "Native Instruments Super Saw": {
+    "video_id": "OqOnFTwXMnY",
+    "title": "New Native Instruments Synth | Super*Saw",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
   "Native Instruments Supercharger GT": {
     "video_id": "COlY_Qar3b0",
     "title": "SUPERCHARGER GT Walkthrough - KOMPLETE NOW | Native Instruments",
@@ -1704,10 +1970,24 @@
     "source": "pb_page",
     "official": true
   },
+  "Notes": {
+    "video_id": "NSZhwEmA13M",
+    "title": "Chord Ideas To Start Songs | What’s New in Notes",
+    "channel": "Future Audio Workshop",
+    "source": "pb_page",
+    "official": false
+  },
   "Oberheim Matrix-12": {
     "video_id": "Z82CZIRhZ0g",
     "title": "GForce Oberheim Matrix-12 With Alex Ball",
     "channel": "GForce Software",
+    "source": "pb_page",
+    "official": false
+  },
+  "Oberheim OB-X": {
+    "video_id": "cMyZ_6h2y48",
+    "title": "Oberheim OB-X by Gforce - Officially Endorsed Emulation",
+    "channel": "Plugin Boutique",
     "source": "pb_page",
     "official": false
   },
@@ -1781,12 +2061,19 @@
     "source": "pb_page",
     "official": false
   },
+  "PITCHMAP": {
+    "video_id": "9H88eL1NrWI",
+    "title": "PITCHMAP 1.5.0 - Re-Write Mixed Music In Real-Time.",
+    "channel": "Zynaptiq",
+    "source": "pb_page",
+    "official": false
+  },
   "Phase Plant": {
-    "video_id": "Y1a67in0JZ4",
-    "title": "Listen to Nasko's killer Phase Plant demo #sounddesign #phaseplant #musicproducer",
-    "channel": "Kilohearts",
-    "score": 10,
-    "source": "yt_api_fill"
+    "video_id": "ebbyTL6lWNg",
+    "title": "Phase Plant by Kilohearts | Review of Key Features | New Modular VST Plugin Synth",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
   },
   "Phoscyon 2": {
     "video_id": "wIq2JEUg6bQ",
@@ -1901,6 +2188,13 @@
     "source": "yt_api_fill",
     "official": false
   },
+  "REFERENCE 3": {
+    "video_id": "KaHgXUATBSA",
+    "title": "REFERENCE 3 Overview",
+    "channel": "Mastering The Mix",
+    "source": "pb_page",
+    "official": false
+  },
   "RESO": {
     "video_id": "E5C0gkEeO_o",
     "title": "RESO by Mastering the Mix is MAGIC! | Automatic Dynamic Resonance Suppressor",
@@ -1926,6 +2220,34 @@
     "video_id": "QFFSModuO78",
     "title": "Reelight PRO - Promo and Sound Demos",
     "channel": "Tone Empire",
+    "source": "pb_page",
+    "official": false
+  },
+  "Relab Development LX480 Complete": {
+    "video_id": "VNDQzFTPcj8",
+    "title": "Lexicon 480L Reverb vs Relab LX480 | Product Shootout",
+    "channel": "Relab Development",
+    "source": "pb_page",
+    "official": false
+  },
+  "Relooper": {
+    "video_id": "sG0IxNXsnJQ",
+    "title": "Endless Variation",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
+  "Remix": {
+    "video_id": "mQZZLrOH8f0",
+    "title": "Introduction to Acon Digital Remix",
+    "channel": "Acon Digital",
+    "source": "pb_page",
+    "official": false
+  },
+  "Reveal Sound Spire": {
+    "video_id": "P0CwaVdZ1I4",
+    "title": "Spire by Reveal Sound | Review of Key Features Tutorial",
+    "channel": "Plugin Boutique",
     "source": "pb_page",
     "official": false
   },
@@ -1996,11 +2318,11 @@
     "official": true
   },
   "SSL Native Bus Compressor 2": {
-    "video_id": "96CNODa-o9Y",
-    "title": "SSL Native Bus Compressor 2. This Thing Rocks! Super Glue Your Mix",
-    "channel": "The Mix Club — Studio Hang with Rhett James",
-    "score": 9,
-    "source": "yt_api_fill"
+    "video_id": "huPuQz7HFSI",
+    "title": "Why Every Pro Mix Uses the SSL Bus Compressor",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
   },
   "SSL Native X-Comp": {
     "video_id": "tF412FJEBY8",
@@ -2065,6 +2387,13 @@
     "source": "pb_page",
     "official": false
   },
+  "Scaler 3": {
+    "video_id": "8Oku3tbQLhI",
+    "title": "Scaler 3.4 – Discover a New World of Harmony | What's New",
+    "channel": "Scaler Music",
+    "source": "pb_page",
+    "official": false
+  },
   "Serum 2": {
     "video_id": "3gjqON4gTQU",
     "title": "Dubstep Serum 2 Presets Demo",
@@ -2081,12 +2410,26 @@
     "source": "yt_api_fill",
     "official": false
   },
+  "Slate Digital FG-X 2": {
+    "video_id": "J3y-EnaoLjU",
+    "title": "Get Your First Look at FG-X 2 ✨",
+    "channel": "SlateDigitalTV",
+    "source": "pb_page",
+    "official": false
+  },
   "Slate Digital VMR": {
     "video_id": "LlbZxxC4yHE",
     "title": "Slate Digital VMR Demo",
     "channel": "KdW Mixing & Mastering",
     "score": 8,
     "source": "yt_api_fill",
+    "official": false
+  },
+  "Slate Digital VTM": {
+    "video_id": "6pe5cL_wK4M",
+    "title": "Slate Digital Making Of: Virtual Tape Machines VTM",
+    "channel": "SlateDigitalTV",
+    "source": "pb_page",
     "official": false
   },
   "Softube Summit Audio TLA-100A": {
@@ -2111,10 +2454,59 @@
     "source": "pb_page",
     "official": true
   },
+  "Sonible smart:EQ 4": {
+    "video_id": "2qHs-GtVra8",
+    "title": "Mastering Your Mix with smart:EQ 4",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
+  "Sonible smart:comp 3": {
+    "video_id": "Njz1bvcKYcg",
+    "title": "Intelligent Dynamics with smart:comp 3",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
+  "Sonic Bundle": {
+    "video_id": "zO6yG6wWbl4",
+    "title": "Introducing SonicBundle",
+    "channel": "UVI",
+    "source": "pb_page",
+    "official": false
+  },
   "Sonnox Oxford EQ": {
     "video_id": "YE9x2w_pXA8",
     "title": "UAD-2 Sonnox Oxford EQ Plug-In Trailer",
     "channel": "Universal Audio",
+    "source": "pb_page",
+    "official": false
+  },
+  "Sonnox Oxford SuprEsser": {
+    "video_id": "F_gC2Hlw5no",
+    "title": "Oxford SuprEsser tutorial",
+    "channel": "Sonnox Plugins",
+    "source": "pb_page",
+    "official": false
+  },
+  "SoundID Reference for Headphones": {
+    "video_id": "Hs3hU_Pm_Co",
+    "title": "The All-New SoundID Reference from Sonarworks",
+    "channel": "SoundID from Sonarworks",
+    "source": "pb_page",
+    "official": false
+  },
+  "SoundID VoiceAI Perpetual License Key": {
+    "video_id": "WNfxoStBLVc",
+    "title": "🎙️ SoundID VoiceAI – Own a Signature Vocal in Minutes",
+    "channel": "SoundID from Sonarworks",
+    "source": "pb_page",
+    "official": false
+  },
+  "Soundbox Instruments Bundle": {
+    "video_id": "5LOtwT9u-GQ",
+    "title": "Mind-Blown by Synth Sampling: Soundbox’s Secret Weapon!",
+    "channel": "Doctor Mix",
     "source": "pb_page",
     "official": false
   },
@@ -2125,19 +2517,40 @@
     "score": 13,
     "source": "yt_api_fill"
   },
-  "Soundtoys EchoBoy": {
-    "video_id": "Zf3bHoQn7pY",
-    "title": "Soundtoys EchoBoy Rhythm Mode: Warp",
+  "Soundtoys Crystallizer": {
+    "video_id": "r5jF2o3_DNE",
+    "title": "TMT | Crystallizer by Soundtoys | Turn any Synth Patch into an Epic Riser Effect",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
+  "Soundtoys Decapitator": {
+    "video_id": "X-hWRRUKosc",
+    "title": "TMT | Add Punch & Character to Snare Tutorial with Decapitator by Soundtoys",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
+  "Soundtoys Devil-Loc Deluxe": {
+    "video_id": "cEWzT_oeZ_M",
+    "title": "Devil-Loc Deluxe - Drum Mixing Techniques",
     "channel": "soundtoys",
-    "score": 11,
-    "source": "yt_api_fill"
+    "source": "pb_page",
+    "official": true
+  },
+  "Soundtoys EchoBoy": {
+    "video_id": "_UDFXfdMnYc",
+    "title": "EchoBoy - Smooth Vocal Delay",
+    "channel": "soundtoys",
+    "source": "pb_page",
+    "official": true
   },
   "Soundtoys Effect Rack": {
-    "video_id": "19bqeQ4mXjA",
-    "title": "Get Started With Soundtoys Effect Rack",
+    "video_id": "7j-p8xyoLlI",
+    "title": "Crystallizer - Crystalline Guitar Effects",
     "channel": "soundtoys",
-    "score": 11,
-    "source": "yt_api_fill"
+    "source": "pb_page",
+    "official": true
   },
   "Soundtoys FilterFreak": {
     "video_id": "Gu1x0iN7wGM",
@@ -2146,6 +2559,13 @@
     "source": "pb_page",
     "official": false
   },
+  "Soundtoys Little AlterBoy": {
+    "video_id": "yt8pFK6fJk4",
+    "title": "Introducing: Little AlterBoy",
+    "channel": "soundtoys",
+    "source": "pb_page",
+    "official": true
+  },
   "Soundtoys MicroShift": {
     "video_id": "WmtmNQPreQA",
     "title": "Soundtoys MicroShift",
@@ -2153,12 +2573,19 @@
     "source": "pb_page",
     "official": true
   },
-  "Soundtoys PhaseMistress": {
-    "video_id": "0kDLMCw03O8",
-    "title": "Hidden Depths: Using Soundtoys PhaseMistress to Create Ear Candy",
+  "Soundtoys PanMan": {
+    "video_id": "FhmZL0f4MPQ",
+    "title": "PanMan - Dynamic Panning",
     "channel": "soundtoys",
-    "score": 11,
-    "source": "yt_api_fill"
+    "source": "pb_page",
+    "official": true
+  },
+  "Soundtoys PhaseMistress": {
+    "video_id": "fCFMzF6affA",
+    "title": "Understanding, Detecting & Fixing Phase Issues (mono compatibility) | PhaseMistress Tutorial",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
   },
   "Soundtoys PrimalTap": {
     "video_id": "qgD3kc-clK4",
@@ -2166,6 +2593,13 @@
     "channel": "Gearspace Forum",
     "source": "pb_page",
     "official": false
+  },
+  "Soundtoys Radiator": {
+    "video_id": "cJJ5hQwWGY8",
+    "title": "Radiator & Little Radiator: Introduction",
+    "channel": "soundtoys",
+    "source": "pb_page",
+    "official": true
   },
   "Soundtoys Sie Q": {
     "video_id": "7-_8k8BfFy8",
@@ -2184,6 +2618,13 @@
   "Soundtoys SuperPlate": {
     "video_id": "Tu_r1RhtMaM",
     "title": "Introducing Soundtoys SuperPlate",
+    "channel": "soundtoys",
+    "source": "pb_page",
+    "official": true
+  },
+  "Soundtoys Tremolator": {
+    "video_id": "IZCL5E8IFRE",
+    "title": "Getting Rhythmic with SoundToys Plug-ins",
     "channel": "soundtoys",
     "source": "pb_page",
     "official": true
@@ -2267,6 +2708,13 @@
     "source": "yt_api_fill",
     "official": true
   },
+  "StageOne 2": {
+    "video_id": "7xwZ66OHDug",
+    "title": "Introducing StageOne 2",
+    "channel": "Leapwing",
+    "source": "pb_page",
+    "official": false
+  },
   "SubLab XL": {
     "video_id": "spLsQSPi1oQ",
     "title": "Analog Sub-Bass with SubLab XL",
@@ -2282,11 +2730,11 @@
     "official": false
   },
   "Super-7": {
-    "video_id": "bC5fN8h_36k",
-    "title": "UVI Super 7 Review and Demo 80s inspired by the MKS-7, an 8-voice rackmount synthesizer",
-    "channel": "UDi Audio",
-    "score": 8,
-    "source": "yt_api_fill"
+    "video_id": "FNbGmN_sJPM",
+    "title": "UVI Super-7 | Trailer",
+    "channel": "UVI",
+    "source": "pb_page",
+    "official": false
   },
   "Synapse Audio Dune 3": {
     "video_id": "7vRjtcjp99o",
@@ -2294,6 +2742,13 @@
     "channel": "The Sonic Oasis",
     "score": 8,
     "source": "yt_api_fill",
+    "official": false
+  },
+  "Synthesizer V Studio 2 Pro": {
+    "video_id": "GFFrcBTNLf8",
+    "title": "Unlimited AI Vocals... No Tokens",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
     "official": false
   },
   "TDR Limiter 6 GE": {
@@ -2310,12 +2765,26 @@
     "source": "pb_page",
     "official": false
   },
+  "TRITON / TRITON Extreme": {
+    "video_id": "u67Rf3YpgDo",
+    "title": "The KORG TRITON Extreme Experience",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
   "The Orb": {
     "video_id": "wmyQHKgxOQo",
     "title": "The ORB Formant Filter By AudioThing - Show & Reveal",
     "channel": "Plugin Boutique",
     "source": "pb_page",
     "official": false
+  },
+  "Tokyo Dawn Labs TDR Nova GE": {
+    "video_id": "1CHFv4mWQYM",
+    "title": "Introduction to NOVA and NOVA GE",
+    "channel": "TokyoDawnRecords",
+    "source": "pb_page",
+    "official": true
   },
   "Tomofon": {
     "video_id": "KMW_c9v7x_Q",
@@ -2364,6 +2833,13 @@
     "source": "yt_api_fill",
     "official": false
   },
+  "Total Studio 5 MAX": {
+    "video_id": "EjBBfewCqmQ",
+    "title": "Bass Guitar VS Fake Bass? 🎸",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
   "Transit 2": {
     "video_id": "yYNSbjCvxMU",
     "title": "Transit 2 Sound Examples - Modes, Effect Modules and Presets - Baby Audio",
@@ -2400,6 +2876,13 @@
     "source": "pb_page",
     "official": true
   },
+  "UAD Ampex ATR 102 Mastering Tape Recorder": {
+    "video_id": "RKz5FME2fL0",
+    "title": "Turn Your Recordings Into Records | Ampex ATR-102 Mastering Tape Recorder",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
   "UAD Anthem Analog Synthesizer": {
     "video_id": "J3C0vGZGppE",
     "title": "Introducing Anthem Analog Synthesizer | UAD Instruments",
@@ -2410,6 +2893,13 @@
   "UAD Avalon VT 737 Tube Channel Strip": {
     "video_id": "NhuL78RiG8c",
     "title": "Introducing UAD Avalon VT-737 Tube Channel Strip Plug-In",
+    "channel": "Universal Audio",
+    "source": "pb_page",
+    "official": true
+  },
+  "UAD Brigade Chorus Pedal": {
+    "video_id": "mmlKdX6UWp4",
+    "title": "Brigade Chorus Sound Examples | UAD Native & UAD-2",
     "channel": "Universal Audio",
     "source": "pb_page",
     "official": true
@@ -2443,6 +2933,20 @@
     "source": "pb_page",
     "official": false
   },
+  "UAD EMT 140 Classic Plate Reverberator": {
+    "video_id": "kpri-pUuuQo",
+    "title": "UAD EMT 140 Plate Reverb",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
+  "UAD EMT 250 Classic Electronic Reverb": {
+    "video_id": "AthxUJxGwyM",
+    "title": "The Original Digital Reverb",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
   "UAD Electra 88 Vintage Keyboard Studio": {
     "video_id": "rHR57cUDZeY",
     "title": "Electra 88 Vintage Keyboard Studio Sound Examples | UAD Instruments",
@@ -2458,6 +2962,13 @@
     "source": "yt_api_fill",
     "official": true
   },
+  "UAD Fairchild Tube Limiter Collection": {
+    "video_id": "wNjpUhS7mLA",
+    "title": "The Ultimate Tube Compressor & Tone Box for Vocals",
+    "channel": "Universal Audio",
+    "source": "pb_page",
+    "official": true
+  },
   "UAD Galaxy Tape Echo": {
     "video_id": "o_yd4CGhqYo",
     "title": "Galaxy Tape Echo Plug-In Sound Examples | UAD Native & UAD-2",
@@ -2468,6 +2979,13 @@
   "UAD Helios Type 69 Preamp and EQ Collection": {
     "video_id": "iQ8VClkUOi8",
     "title": "UAD Helios Type 69 Preamp & EQ Collection Plug-In",
+    "channel": "Universal Audio",
+    "source": "pb_page",
+    "official": true
+  },
+  "UAD Hitsville EQ Collection": {
+    "video_id": "RlkSL0bfl9M",
+    "title": "Hitsville EQ Plug-In Sound Examples | UAD Native & UAD-2",
     "channel": "Universal Audio",
     "source": "pb_page",
     "official": true
@@ -2486,6 +3004,13 @@
     "source": "pb_page",
     "official": true
   },
+  "UAD LUNA Studio": {
+    "video_id": "Ho7TSD3F4Gk",
+    "title": "Introducing LUNA 3.0 | Stem Separation, Audio-to-MIDI, and More!",
+    "channel": "Universal Audio",
+    "source": "pb_page",
+    "official": true
+  },
   "UAD Lexicon 224 Digital Reverb": {
     "video_id": "D7NV1-_uVKA",
     "title": "Lexicon 224 Digital Reverb Plug-In Trailer | UAD Native & UAD-2",
@@ -2499,6 +3024,13 @@
     "channel": "Plugin Boutique",
     "source": "pb_page",
     "official": false
+  },
+  "UAD Little Labs Voice of God": {
+    "video_id": "KbFb-ukH9DI",
+    "title": "UAD Voice of God: The ULTIMATE Low-End Mixing Plug-in for Bass & Vocals | Native VOG Tutorial",
+    "channel": "Universal Audio",
+    "source": "pb_page",
+    "official": true
   },
   "UAD Manley Massive Passive": {
     "video_id": "OgtUzKH57-A",
@@ -2522,6 +3054,20 @@
     "source": "pb_page",
     "official": true
   },
+  "UAD Manley Vari Mu": {
+    "video_id": "eJf_JoZotAI",
+    "title": "UAD Manley Variable Mu Limiter Compressor Plug-In Trailer",
+    "channel": "Universal Audio",
+    "source": "pb_page",
+    "official": true
+  },
+  "UAD Mix Tape Pro": {
+    "video_id": "kFpoTVweL58",
+    "title": "UAD Mix Tape Pro Bundle | Top 10 Picks",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
   "UAD Moog Minimoog": {
     "video_id": "a8WPzhw5_AY",
     "title": "Moog Minimoog Synthesizer Trailer | UAD Instruments",
@@ -2535,6 +3081,20 @@
     "channel": "Universal Audio",
     "score": 10,
     "source": "yt_api_fill",
+    "official": true
+  },
+  "UAD Ocean Way Studios Deluxe": {
+    "video_id": "-Jk40hC09Wg",
+    "title": "Wish You Had a Live Room?",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
+  "UAD Opal Morphing Synth": {
+    "video_id": "Jx7lQ7N9jYk",
+    "title": "Opal Morphing Synthesizer Trailer | UAD Instruments",
+    "channel": "Universal Audio",
+    "source": "pb_page",
     "official": true
   },
   "UAD Oxide Tape Recorder": {
@@ -2565,6 +3125,27 @@
     "source": "pb_page",
     "official": true
   },
+  "UAD SSL 4000 E Channel Strip": {
+    "video_id": "4b8P4VZgOWk",
+    "title": "Get Hit-Making Analog Sound with the SSL® 4000 E Channel Strip Plug-In",
+    "channel": "Universal Audio",
+    "source": "pb_page",
+    "official": true
+  },
+  "UAD SSL 4000 G Bus Compressor": {
+    "video_id": "iplkap0TxEI",
+    "title": "Glue Your Mix Together with the SSL® 4000 G Bus Compressor Plug-In",
+    "channel": "Universal Audio",
+    "source": "pb_page",
+    "official": true
+  },
+  "UAD Sound City Studios Plugin": {
+    "video_id": "IEzQLkWrsto",
+    "title": "The World's Most Famous Rock & Roll Studio | UAD Sound City Studios",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
   "UAD Spark": {
     "video_id": "NA6jK9DbwLI",
     "title": "How to polish demo vocals with UAD Spark",
@@ -2573,9 +3154,51 @@
     "source": "yt_api_fill",
     "official": true
   },
+  "UAD Studer A800 Tape Recorder": {
+    "video_id": "n2pctesmn5k",
+    "title": "Studer A800 Plug-In Trailer | UAD Native & UAD-2",
+    "channel": "Universal Audio",
+    "source": "pb_page",
+    "official": true
+  },
   "UAD Studio D Chorus": {
     "video_id": "DH1_TIIcg6M",
     "title": "Studio D Chorus Sound Examples | UAD Native & UAD-2",
+    "channel": "Universal Audio",
+    "source": "pb_page",
+    "official": true
+  },
+  "UAD Teletronix LA 2A Leveler Collection": {
+    "video_id": "Id7ckY-5atc",
+    "title": "Teletronix LA-2A Collection Plug-Ins Sound Examples | UAD Native & UAD-2",
+    "channel": "Universal Audio",
+    "source": "pb_page",
+    "official": true
+  },
+  "UAD Teletronix LA 3A Audio Leveler": {
+    "video_id": "EkSJ82XusNU",
+    "title": "Teletronix LA-3A Sound Examples | UAD Native & UAD-2",
+    "channel": "Universal Audio",
+    "source": "pb_page",
+    "official": true
+  },
+  "UAD Topline Vocal Suite": {
+    "video_id": "lYnZ7ac4EtY",
+    "title": "Topline Vocal Suite | Flawless Modern Vocals with Analog Soul",
+    "channel": "Universal Audio",
+    "source": "pb_page",
+    "official": true
+  },
+  "UAD Topline Vocal Tune": {
+    "video_id": "9uiB2TZuEss",
+    "title": "Stacy Epps Tries Topline Vocal Tune for the First Time",
+    "channel": "Universal Audio",
+    "source": "pb_page",
+    "official": true
+  },
+  "UAD UA 175B 176 Tube Compressor Collection": {
+    "video_id": "Qef4G8y5iaM",
+    "title": "Return of the Original - UAD 175B & 176 Tube Compressor Collection",
     "channel": "Universal Audio",
     "source": "pb_page",
     "official": true
@@ -2782,6 +3405,13 @@
     "source": "pb_page",
     "official": true
   },
+  "Waves Gold Bundle": {
+    "video_id": "2s3yU14xpJ8",
+    "title": "Multiband Compression for Vocals with Mixing Engineer Tony Maserati",
+    "channel": "Waves Audio",
+    "source": "pb_page",
+    "official": true
+  },
   "Waves H-Delay": {
     "video_id": "CUAUI7nm5wk",
     "title": "Using Waves H-Delay in Electronic Music Production: Part 1 – Drums",
@@ -2809,6 +3439,13 @@
     "channel": "WavesUniverse",
     "score": 8,
     "source": "yt_api_fill"
+  },
+  "Waves Platinum Bundle": {
+    "video_id": "-XuHbj_63cY",
+    "title": "Producing Rap Vocals: 4 Beginner Tips",
+    "channel": "Waves Audio",
+    "source": "pb_page",
+    "official": true
   },
   "Waves Tune Real-Time": {
     "video_id": "wEYV9FH91Vo",
