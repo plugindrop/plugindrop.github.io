@@ -8,13 +8,12 @@ heroImage: "/images/melodyne-5-essential-89fd15.jpg"
 score: 9.98
 rawScore: 9.98
 productKey: "Melodyne 5 Essential"
-priceRecordPending: true
 dealPrice: "$25.00"
 originalPrice: "$99.00"
 discount: "75% OFF"
 saleExpiry: "2026-12-23"
 saleExpirySource: "fallback"
-draft: true
+draft: false
 ---
 **TL;DR:** Melodyne 5 Essential, Celemony's note-based pitch and timing editor, is marked down 75% off its ~~$99~~ regular price at Plugin Boutique. It's the entry point into Melodyne's editing engine for producers who need vocal or monophonic pitch correction without the full Studio or Editor feature set. [Check current pricing at Plugin Boutique](https://www.pluginboutique.com/search?q=Melodyne+5+Essential&a_aid=69cb95abe1763&chan=art&data1=melodyne-5-essential-89fd15&utm_source=plugindrop&utm_medium=article&utm_campaign=melodyne-5-essential-89fd15).
 

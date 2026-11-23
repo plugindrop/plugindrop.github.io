@@ -177287,8 +177287,20 @@
     },
     "Melodyne 5 Essential": {
       "pb_url": "https://www.pluginboutique.com/product/3-Studio-Tools/48-Audio-Editor/6446-Melodyne-5-Essential?a_aid=69cb95abe1763&chan=art&data2=deal-article",
-      "history": [],
-      "article_slug": "melodyne-5-essential-89fd15"
+      "history": [
+        {
+          "date": "2026-11-23",
+          "sale": 25.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        }
+      ],
+      "article_slug": "melodyne-5-essential-89fd15",
+      "all_time_low": 25.0,
+      "typical_sale": 25.0
     },
     "Melodyne": {
       "pb_url": "https://www.pluginboutique.com/search?q=Melodyne&a_aid=69cb95abe1763&chan=art&data1=melodyne-alternatives-2026-on-sale",
