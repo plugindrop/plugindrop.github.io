@@ -14,6 +14,8 @@ draft: false
 
 **TL;DR:** Plugin Black Friday runs the entire month of November. Our Pro-Q 4 record shows one $105 retailer sale in November 2025; no recurring Pro-Q 4 discount is verified. Arturia and u-he go 50% off in good years. NI calls theirs "Cyber Season" and starts November 1. Spitfire adds 20% extra for email subscribers. Valhalla and Serum show no recorded sales in our tracking. This guide covers what to expect, what the actual prices were in 2023–2024, and how to avoid buying something that will be cheaper in three weeks.
 
+[See the Black Friday plugin price drops we are tracking](/posts/best-plugin-boutique-black-friday-deals-2026/).
+
 ## The Plugin Sale Calendar
 
 Most music producers think of Black Friday as one day. For plugins, it's a six-week event.
