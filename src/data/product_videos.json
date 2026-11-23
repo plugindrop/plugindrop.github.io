@@ -14,6 +14,13 @@
     "source": "pb_page",
     "official": false
   },
+  "AmpliTube 5 MAX v2": {
+    "video_id": "FX6FY6ymGZs",
+    "title": "AmpliTube 5 Max V2 | Factory Sound | IK Multimedia",
+    "channel": "Musical Software Hardware",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
   "Analog Polysynth Collection": {
     "video_id": "fFFxeG6-r7M",
     "title": "Analog Polysynth Collection",
@@ -49,6 +56,13 @@
     "channel": "Arturia",
     "source": "pb_page",
     "official": true
+  },
+  "Arturia CS-80 V4": {
+    "video_id": "ut3uIWrTSVI",
+    "title": "Arturia CS-80 V4 | No Talking |",
+    "channel": "DKS SYNTH LAB",
+    "score": 10,
+    "source": "yt_api_fill"
   },
   "Arturia Jup-8 V": {
     "video_id": "aKth4B3Qi2A",
@@ -93,6 +107,13 @@
     "score": 7,
     "source": "article_embed",
     "official": false
+  },
+  "Arturia V Collection 11 Pro": {
+    "video_id": "Gc8IgOVXCcw",
+    "title": "ARTURIA V COLLECTION 11 PRO DX-7 #demo",
+    "channel": "elz production",
+    "score": 10,
+    "source": "yt_api_fill"
   },
   "Atoms": {
     "video_id": "NP_OUP9nQCo",
@@ -499,6 +520,13 @@
     "source": "yt_api_fill",
     "official": true
   },
+  "Cherry Audio P 10 Synthesizer": {
+    "video_id": "xxSahItqCHM",
+    "title": "Cherry Audio | P-10 Synthesizer",
+    "channel": "Cherry Audio",
+    "score": 13,
+    "source": "yt_api_fill"
+  },
   "Cherry Audio PS 3300": {
     "video_id": "qK_KyC0atMY",
     "title": "Cherry Audio's PS-3300 Teaser: A Giant Monster of a Synth",
@@ -622,6 +650,13 @@
     "channel": "ujam Instruments",
     "source": "pb_page",
     "official": false
+  },
+  "DB-30 Drum Butter": {
+    "video_id": "FwTxc6uPvc0",
+    "title": "XLN Audio DB-30 DRUM BUTTER | Classic Acoustic | Sounds Like This (No Talking)",
+    "channel": "Sounds Like This",
+    "score": 8,
+    "source": "yt_api_fill"
   },
   "DC Snares": {
     "video_id": "p9WMLf854Kw",
@@ -1005,6 +1040,13 @@
     "source": "pb_page",
     "official": true
   },
+  "FabFilter Pro-Q 4": {
+    "video_id": "IXWkViqU2K8",
+    "title": "Introduction to FabFilter Pro-Q 4",
+    "channel": "FabFilter",
+    "score": 13,
+    "source": "yt_api_fill"
+  },
   "FabFilter Pro-R 2": {
     "video_id": "BuIXvKKtVSw",
     "title": "Introduction to FabFilter Pro-R 2",
@@ -1066,6 +1108,13 @@
     "title": "GForce M-Tron Pro IV Mini Demos",
     "channel": "GForce Software",
     "score": 10,
+    "source": "yt_api_fill"
+  },
+  "GForce OB-E": {
+    "video_id": "4c1SaJR8jho",
+    "title": "Dubby OB-E - A demo of GForce's OB-E.",
+    "channel": "GForce Software",
+    "score": 9,
     "source": "yt_api_fill"
   },
   "GForce Oddity3": {
@@ -1212,6 +1261,13 @@
     "source": "pb_page",
     "official": false
   },
+  "JV-1080": {
+    "video_id": "yUh3cqu8qts",
+    "title": "Roland JV-1080 Demo & Review",
+    "channel": "musictrackjp",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "Jura": {
     "video_id": "K8lbbhzvM28",
     "title": "Introducing AIR: Jura The Synth Of 82",
@@ -1303,6 +1359,13 @@
     "score": 8,
     "source": "yt_api_fill"
   },
+  "L4 Ultramaximizer": {
+    "video_id": "agzeEzNJN9w",
+    "title": "Get Started with L4 Ultramaximizer: More Than Just Loud",
+    "channel": "Waves Audio",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
   "LANG PEQ-2": {
     "video_id": "vKTLnsKoIdw",
     "title": "Heritage Audio - Introducing the LANG PEQ-2 Plugin",
@@ -1365,6 +1428,69 @@
     "channel": "Zynaptiq",
     "source": "pb_page",
     "official": false
+  },
+  "Melody Sauce 3": {
+    "video_id": "UZ75QWLOpak",
+    "title": "EVAbeat / Melody Sauce 3 レビュー 最新の作曲支援プラグインの使い方と、実践的な活用法",
+    "channel": "DAW LESSON",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
+  "Minimal Audio Cluster Delay": {
+    "video_id": "3ktk_SrJKKs",
+    "title": "Minimal Audio - Cluster Delay No Talking Demo",
+    "channel": "felice music labs",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Minimal Audio Current 2 0": {
+    "video_id": "aL7cM1vvR44",
+    "title": "シンセ＋サンプラー＋コード/スケール機能＋数万円するエフェクター搭載= minimal audio CURRENT 2 0",
+    "channel": "beesic",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
+  "Minimal Audio Memory Rites": {
+    "video_id": "_8HOHFCbG6Q",
+    "title": "EPROM x Minimal Audio - Memory Rites out now.",
+    "channel": "Minimal Audio",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
+  "Minimal Audio Morph EQ": {
+    "video_id": "J5znU5e689s",
+    "title": "Morph EQ by Minimal Audio - Walkthrough",
+    "channel": "Minimal Audio",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Minimal Audio Poly Flanger": {
+    "video_id": "VyCHQHhxFfs",
+    "title": "Poly Flanger by Minimal Audio",
+    "channel": "Minimal Audio",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Minimal Audio Rift 2.0": {
+    "video_id": "Mcd9NLflwes",
+    "title": "Hands on with Minimal Audio RIFT 2.0!",
+    "channel": "ARTFX",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
+  "Minimal Audio Ripple Phaser": {
+    "video_id": "rXL6sQXHyJY",
+    "title": "Ripple Phaser by Minimal Audio",
+    "channel": "Minimal Audio",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Minimal Audio Wave Shifter": {
+    "video_id": "P3ID1DCoKZw",
+    "title": "Wave Shifter by Minimal Audio",
+    "channel": "Minimal Audio",
+    "score": 8,
+    "source": "yt_api_fill"
   },
   "Model 80 Five Voice Synthesizer": {
     "video_id": "ffD9MRCEppU",
@@ -1634,6 +1760,13 @@
     "source": "pb_page",
     "official": true
   },
+  "Output Thermal": {
+    "video_id": "hlAejcgYSY4",
+    "title": "THERMAL by Output | Interactive Distortion FX Plugin | Quick Overview",
+    "channel": "Output",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
   "PEACH": {
     "video_id": "pDsBchGDziE",
     "title": "PEACH AU/VST/AAX Polymetric Arpeggiator",
@@ -1670,12 +1803,26 @@
     "source": "pb_page",
     "official": false
   },
+  "Pigments 7": {
+    "video_id": "Z2xHGMlAyL4",
+    "title": "Pigments 7 | Sound Design Synthesizer | ARTURIA",
+    "channel": "Arturia",
+    "score": 13,
+    "source": "yt_api_fill"
+  },
   "Pitch 'N Time Pro": {
     "video_id": "IxgKY4NyRis",
     "title": "Serato Pitch 'n Time Pro Overview",
     "channel": "Serato",
     "source": "pb_page",
     "official": false
+  },
+  "Playbeat 4": {
+    "video_id": "OMh-rYZKQhQ",
+    "title": "PLAYBEAT 4 by Audiomodern | Complete Overview",
+    "channel": "Audiomodern",
+    "score": 8,
+    "source": "yt_api_fill"
   },
   "Plugin Alliance Lindell 80 Series": {
     "video_id": "g2Wg-djHTKk",
@@ -2655,6 +2802,13 @@
     "channel": "Waves Audio",
     "source": "pb_page",
     "official": true
+  },
+  "Waves Mercury Bundle": {
+    "video_id": "eCHkyLi9MOU",
+    "title": "Mercury Bundle by Waves",
+    "channel": "WavesUniverse",
+    "score": 8,
+    "source": "yt_api_fill"
   },
   "Waves Tune Real-Time": {
     "video_id": "wEYV9FH91Vo",
