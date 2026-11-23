@@ -6606,7 +6606,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Synth"
+      "category": "Synth",
+      "image": "/images/plugin-prices/arturia-cs-80-v4.jpg"
     },
     "Arturia Jup-8 V": {
       "pb_url": "/product/1-Instruments/4-Synth/7147-Jup-8-V",
@@ -7520,7 +7521,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Instrument"
+      "category": "Instrument",
+      "image": "/images/plugin-prices/arturia-piano-v3.jpg"
     },
     "Arturia Prophet-5 V": {
       "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11232-Prophet-5-V",
@@ -7680,7 +7682,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Synth"
+      "category": "Synth",
+      "image": "/images/plugin-prices/arturia-prophet-5-v.jpg"
     },
     "Atoms": {
       "pb_url": "/product/1-Instruments/4-Synth/11906-Atoms",
@@ -18074,7 +18077,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Effects"
+      "category": "Effects",
+      "image": "/images/plugin-prices/cableguys-curve-2.jpg"
     },
     "Cableguys Kickstart 2": {
       "pb_url": "https://www.pluginboutique.com/search?q=Cableguys%20Kickstart%202",
@@ -42812,7 +42816,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Effects"
+      "category": "Effects",
+      "image": "/images/plugin-prices/eventide-physion-mk-ii.jpg"
     },
     "Eventide Precision Time Align": {
       "pb_url": "/product/2-Effects/10-Delay/3403-Precision-Time-Align",
@@ -88220,7 +88225,8 @@
           "reg_src": "deal_only",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/output-analog-brass-and-winds.jpg"
     },
     "Output Analog Strings": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/3239-ANALOG-STRINGS",
@@ -92065,7 +92071,8 @@
           "reg_src": "deal_only",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/pick-5-bundle-vps-avenger-expansions.jpg"
     },
     "Pigments 7": {
       "pb_url": "/product/1-Instruments/4-Synth/11867-Pigments-7",
@@ -101930,7 +101937,8 @@
           "sale": null,
           "source": "research"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/softube-drawmer-s73.jpg"
     },
     "Softube Model 72": {
       "pb_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/6888-Model-72-Synthesizer-System",
@@ -102073,7 +102081,8 @@
           "reg_src": "deal_only",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/softube-model-72.jpg"
     },
     "Softube Producer Collection Exclusive": {
       "pb_url": "/product/81-Bundles/84-Mix-Master/15255-Softube-Producer-Collection-Exclusive-",
@@ -136153,7 +136162,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Instrument"
+      "category": "Instrument",
+      "image": "/images/plugin-prices/uvi-world-suite-3.jpg"
     },
     "Unfiltered Audio BYOME": {
       "pb_url": "/search?q=Unfiltered%20Audio%20BYOME",
@@ -149401,7 +149411,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Vocal"
+      "category": "Vocal",
+      "image": "/images/plugin-prices/izotope-nectar-4-standard.jpg"
     },
     "iZotope Neutron 5": {
       "pb_url": "/product/2-Effects/21-Channel-Strip/13502-Neutron-5",
@@ -150222,7 +150233,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Mastering"
+      "category": "Mastering",
+      "image": "/images/plugin-prices/izotope-ozone-12-elements.jpg"
     },
     "iZotope Ozone 12 Standard": {
       "pb_url": "https://www.pluginboutique.com/product/2-Effects/52-Mastering-Suite/15507-Ozone-12-Standard",
@@ -150385,7 +150397,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Mastering"
+      "category": "Mastering",
+      "image": "/images/plugin-prices/izotope-ozone-12-standard.jpg"
     },
     "iZotope Ozone EQ": {
       "pb_url": "/product/2-Effects/16-EQ/11504-iZotope-Ozone-EQ",
@@ -150612,7 +150625,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Utility"
+      "category": "Utility",
+      "image": "/images/plugin-prices/izotope-tonal-balance-control-3.jpg"
     },
     "iZotope Trash": {
       "pb_url": "https://www.pluginboutique.com/product/2-Effects/30-Distortion/11987-Trash",
@@ -150817,7 +150831,8 @@
           "cur": "USD"
         }
       ],
-      "category": "Saturation"
+      "category": "Saturation",
+      "image": "/images/plugin-prices/izotope-trash.jpg"
     },
     "iZotope VEA": {
       "pb_url": "/product/2-Effects/54-Vocal-Processing/11847-VEA",
@@ -156799,7 +156814,8 @@
           "reg_src": "deal_only",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/e1.jpg"
     },
     "Skaka": {
       "pb_url": "/product/1-Instruments/7-Drum-Machine/8721-Skaka",
@@ -157882,7 +157898,8 @@
           "reg_src": "deal_only",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/united-plugins-mirror.jpg"
     },
     "Ample Sound Ample Guitar M": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instruments/15078-Ample-Guitar-M",
@@ -158042,7 +158059,8 @@
           "reg_src": "deal_only",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/ample-sound-ample-guitar-m.jpg"
     },
     "Ample Guitar M Lite II": {
       "pb_url": "/product/1-Instruments/64-Virtual-Instrument/4520-Ample-Guitar-M-Lite-II",
@@ -158112,7 +158130,8 @@
           "reg_src": "deal_only",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/ample-guitar-m-lite-ii.jpg"
     },
     "iZotope RX 12 Elements": {
       "pb_url": "/product/3-Studio-Tools/51-Audio-Restoration-/17210-RX-12-Elements",
@@ -158263,7 +158282,8 @@
           "reg_src": "deal_only",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/izotope-rx-12-elements.jpg"
     },
     "iZotope RX 12 Standard": {
       "pb_url": "/product/3-Studio-Tools/51-Audio-Restoration-/17211-RX-12-Standard",
@@ -158414,7 +158434,8 @@
           "reg_src": "deal_only",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/izotope-rx-12-standard.jpg"
     },
     "iZotope RX 12 Advanced": {
       "pb_url": "/product/3-Studio-Tools/51-Audio-Restoration-/17171-RX-12-Advanced",
@@ -158565,7 +158586,8 @@
           "reg_src": "deal_only",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/izotope-rx-12-advanced.jpg"
     },
     "ZENOLOGY PRO": {
       "pb_url": "/product/1-Instruments/4-Synth/15308-ZENOLOGY-PRO",
@@ -162816,7 +162838,8 @@
           "reg_src": "deal_only",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/cherry-audio-pentaphonic.jpg"
     },
     "InstaComposer 4": {
       "pb_url": "/product/3-Studio-Tools/93-Music-Theory-Tools/18029-InstaComposer-4",
@@ -166690,7 +166713,8 @@
           "reg_src": "deal_only",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-scene-magnolia.jpg"
     },
     "IconDrum": {
       "pb_url": "/product/1-Instruments/7-Drum-Machine/14140-IconDrum",
@@ -171515,7 +171539,8 @@
           "reg_src": "page",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/knock-2-upgrade.jpg"
     },
     "Sonic Bundle": {
       "pb_url": "/product/81-Bundles/97-Various-Category/14774-Sonic-Bundle",
@@ -172789,7 +172814,8 @@
           "reg_src": "deal_only",
           "cur": "USD"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/uad-capitol-studios.jpg"
     },
     "SSL Native Bus Compressor 2": {
       "pb_url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/8651-SSL-Native-Bus-Compressor-2",
