@@ -2,7 +2,7 @@
 title: Black Friday 2026 Mixing Effects Deals
 description: Tracked Black Friday price drops for Mixing Effects plugins.
 pubDate: '2026-11-23'
-updatedDate: '2026-11-23T04:56:59.301270+00:00'
+updatedDate: '2026-11-23T22:13:13.533136+00:00'
 tags:
 - black-friday
 - vst
@@ -16,27 +16,25 @@ priceTrack:
 - Waves H-Delay
 - Waves H-Reverb
 - Soundtoys Decapitator
-- Soundtoys EchoBoy
+- Soundtoys Crystallizer
 - Soundtoys FilterFreak
-- Soundtoys SuperPlate
 - Soundtoys PanMan
 - Soundtoys PrimalTap
-- Soundtoys Sie Q
 - UAD EMT 140 Classic Plate Reverberator
-- Soundtoys Effect Rack
 - Sonible smart:EQ 4
 - Soundtoys Devil-Loc Deluxe
 - Soundtoys MicroShift
-- Soundtoys Radiator
-- Soundtoys SpaceBlender
 - Cherry Audio Filtomika
+- Motion Bundle Upgrade from any Motion product
+- BALANCE
+- WORMHOLE
+- Lifeline Bundle
+- Arturia FX Collection 6 Pro
 heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
 
 **TL;DR:** Track temporary price drops for 20 plugins and see [our evergreen comparisons](/best/reverb/) for longer-term research.
-
-UFX REVERB Version 2とWaves CLA-2Aをはじめとする8製品、合計9つのエフェクト／プラグインをまとめたラウンドアップです。コンプレッサー、ディレイ、リバーブ、サチュレーション、フィルター、EQ、ステレオワイズナーなど幅広いカテゴリーの製品を取り上げます。
 
 ## UFX REVERB Version 2
 <!-- role:pick -->
@@ -72,19 +70,13 @@ H-Reverb suits producers and engineers who want both natural-sounding spaces and
 
 Soundtoys Decapitator suits mixers and producers who want to add analog-style saturation character to vocals, drums, and synths without complex routing. Users can select from its five analog saturation models, shape the tone with the modeled tone control, dial in a parallel blend using the mix knob, and push the sound harder with the Punish button for more extreme results.
 
-## Soundtoys EchoBoy
+## Soundtoys Crystallizer
 <!-- role:pick -->
-<!-- pick:Soundtoys EchoBoy -->
-
-Soundtoys EchoBoy suits musicians and mix engineers who want classic echo and delay tones without hunting down vintage hardware, since it packs 30 styles modelled on gear like the Echoplex, Space Echo, Memory Man, DM-2, and TelRay oil can delay into one plugin. They can dial in a tempo-locked note value for quick, accurate delays, then use the Groove, Feel, and Accent controls to add shuffle, swing, and rhythmic push or drag, or switch to Rhythm Echo mode to build custom multi-tap patterns with the Rhythm Editor and Shape control.
+<!-- pick:Soundtoys Crystallizer -->
 
 ## Soundtoys FilterFreak
 <!-- role:pick -->
 <!-- pick:Soundtoys FilterFreak -->
-
-## Soundtoys SuperPlate
-<!-- role:pick -->
-<!-- pick:Soundtoys SuperPlate -->
 
 ## Soundtoys PanMan
 <!-- role:pick -->
@@ -98,23 +90,11 @@ PanMan suits producers and mixers who want rhythmic, tempo-locked panning effect
 
 PrimalTap suits producers and guitarists chasing vintage 80s-style digital delay character, especially those who want to sculpt lo-fi echoes, chorused textures, or shimmering guitar sounds for sound design and mixing work. They can use the Multiply knob to warp delay time and pitch, the VCO section with Rate and Adjust controls to add modulation from subtle chorus to sci-fi warbles, and the Freeze control to sample, loop, and warp incoming audio.
 
-## Soundtoys Sie Q
-<!-- role:pick -->
-<!-- pick:Soundtoys Sie Q -->
-
-Soundtoys Sie-Q suits mixers and vocal/guitar engineers who want an easy-to-use EQ with smooth, airy highs for adding space to vocals, acoustic guitars, cymbals, and master bus work. Users dial in the switched Mid and Low bands for broadcast-style tonal shaping, then push the Drive control when they want to recreate the analog saturation character of the original hardware.
-
 ## UAD EMT 140 Classic Plate Reverberator
 <!-- role:pick -->
 <!-- pick:UAD EMT 140 Classic Plate Reverberator -->
 
 The UAD EMT 140 Classic Plate Reverberator suits producers and mix engineers who want the warmth and presence of a classic plate reverb on vocals or dense mixes, using damping and filter controls alongside plug-in-only Balance, Width, and Modulation settings to shape the sound. It runs as a VST3, AU, or AAX plugin in a supported DAW on recent macOS or Windows 10/11 systems with an Intel, AMD, or Apple silicon processor, authorized via a free iLok account with optional iLok USB hardware.
-
-## Soundtoys Effect Rack
-<!-- role:pick -->
-<!-- pick:Soundtoys Effect Rack -->
-
-Soundtoys Effect Rack suits mixing engineers, musicians, and sound designers who want to build custom effect chains and define a signature sound using 14 built-in Soundtoys effects—EchoBoy and PrimalTap for delay, Decapitator and Radiator for analogue saturation, and Tremolator and FilterFreak for rhythmic modulation and filtering. Users can combine these effects within the single plug-in, lock rhythmic effects to tempo, blend processed and dry signal with the global Mix control, and feed the output back into the input with the Recycle control to create modulated reverbs, extended delays, and other ambience effects that would otherwise require complicated routing in a DAW, then save the finished chain as a preset.
 
 ## Sonible smart:EQ 4
 <!-- role:pick -->
@@ -134,23 +114,31 @@ Soundtoys Devil-Loc Deluxe suits producers and engineers working with drums, roo
 
 MicroShift suits mixing engineers and producers who need to widen background vocals, lead guitars, or synths without a complicated setup, offering three distinct widening flavours modeled on classic hardware pitch shifters. They can use the Delay and Detune controls to shape the amount of time-varying delay and micro pitch shifting, the Focus knob to remove muddy low and mid frequencies, and the included Little MicroShift for a simpler one-knob option when they just want quick width with minimal adjustment.
 
-## Soundtoys Radiator
-<!-- role:pick -->
-<!-- pick:Soundtoys Radiator -->
-
-Soundtoys Radiator suits producers and engineers who want to add analog tube warmth and grit to tracks like bass and keys without hardware. They can dial in the modelled bass and treble controls, use the mix knob for parallel processing, and toggle the original hardware noise on or off to shape the tone.
-
-## Soundtoys SpaceBlender
-<!-- role:pick -->
-<!-- pick:Soundtoys SpaceBlender -->
-
-SpaceBlender suits producers and sound designers working across ambient, cinematic, and lo-fi styles who want to push vocals, guitars, or synths into evolving, nonlinear spatial territory rather than conventional room or hall sounds. They can shape results with the Time, Color, Texture, and Mod controls (plus Freeze for self-feeding loops) while using the Visualizer's X/Y cursor to morph the reverb's envelope in real time.
-
 ## Cherry Audio Filtomika
 <!-- role:pick -->
 <!-- pick:Cherry Audio Filtomika -->
 
 Filtomika suits producers who want to push drums, guitars, synths, or vocals through a wild, unpredictable filter sound, since it recreates the Polivoks synth's distinctive filter character with added Starve, Filter Drive, and Amp Drive controls. They can use its syncable LFO modulator and envelope follower to animate the cutoff dynamically, start from one of its 30-plus presets, and apply it as an insert or bus effect with full MIDI learn and DAW automation support.
+
+## Motion Bundle Upgrade from any Motion product
+<!-- role:pick -->
+<!-- pick:Motion Bundle Upgrade from any Motion product -->
+
+## BALANCE
+<!-- role:pick -->
+<!-- pick:BALANCE -->
+
+## WORMHOLE
+<!-- role:pick -->
+<!-- pick:WORMHOLE -->
+
+## Lifeline Bundle
+<!-- role:pick -->
+<!-- pick:Lifeline Bundle -->
+
+## Arturia FX Collection 6 Pro
+<!-- role:pick -->
+<!-- pick:Arturia FX Collection 6 Pro -->
 
 ## Explore more
 <!-- role:related -->

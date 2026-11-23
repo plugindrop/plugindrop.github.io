@@ -2,7 +2,7 @@
 title: Black Friday 2026 Synths and Drum Machines Deals
 description: Tracked Black Friday price drops for Synths and Drum Machines plugins.
 pubDate: '2026-11-23'
-updatedDate: '2026-11-23T04:56:59.301270+00:00'
+updatedDate: '2026-11-23T22:13:13.533136+00:00'
 tags:
 - black-friday
 - vst
@@ -10,6 +10,8 @@ tags:
 evergreen: false
 draft: false
 priceTrack:
+- UAD Opal Morphing Synth
+- Model 80 Five Voice Synthesizer
 - SubLab XL
 - Drumazon 2
 - Cherry Audio Atomika
@@ -28,15 +30,19 @@ priceTrack:
 - Native Instruments Super Saw
 - Super 8
 - Arturia Analog Lab Pro
-- Kilohearts Phase Plant
-- Native Instruments Battery 4
 heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
 
 **TL;DR:** Track temporary price drops for 20 plugins and see [our evergreen comparisons](/best/synth/) for longer-term research.
 
-This season's drum machines and synths lean heavily into vintage revival, with virtual recreations of classic hardware from Roland, Korg, Ensoniq, ARP, and Crumar sitting alongside purpose-built bass and sub-heavy synths. From faithful circuit modeling to expanded polyphony and modern effects chains, each one updates a distinct piece of synthesizer history for today's producers.
+## UAD Opal Morphing Synth
+<!-- role:pick -->
+<!-- pick:UAD Opal Morphing Synth -->
+
+## Model 80 Five Voice Synthesizer
+<!-- role:pick -->
+<!-- pick:Model 80 Five Voice Synthesizer -->
 
 ## SubLab XL
 <!-- role:pick -->
@@ -139,18 +145,6 @@ Super*Saw suits producers who want dense, stacked-sawtooth sounds (from wide pad
 <!-- pick:Arturia Analog Lab Pro -->
 
 Analog Lab Pro suits producers, performers, sound designers, and vintage synth fans who want quick access to iconic synth and keyboard sounds without hunting through multiple instruments. Users can browse over 2,000 curated presets by type, style, or genre, layer or split sounds across the keyboard using Multis, and shape any patch instantly with four Macro controls.
-
-## Kilohearts Phase Plant
-<!-- role:pick -->
-<!-- pick:Kilohearts Phase Plant -->
-
-Phase Plant suits sound designers and music producers who want to build original patches from scratch rather than tweak presets, since its semi-modular architecture lets them combine any number of generators, modulators, and effects into anything from compact synths to complex evolving sounds. Users work within its intuitive, open-ended workflow to design and refine these patches with precision, inside any DAW that supports VST 2, VST 3, AAX, or Audio Unit.
-
-## Native Instruments Battery 4
-<!-- role:pick -->
-<!-- pick:Native Instruments Battery 4 -->
-
-Battery 4 suits producers who want a fast, clear drum sampling workflow for electronic and urban beat production, with color-coded kits, drag-and-drop MIDI assignment, and seven sample modes for sound design. Users can build kits quickly from the supercharged library or their own samples, shape sounds with the Time Machine Pro time-stretching and waveform editing tools, and route sounds through the inspiring effects and sidechaining for creative beat production.
 
 ## Explore more
 <!-- role:related -->

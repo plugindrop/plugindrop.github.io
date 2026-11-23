@@ -2,7 +2,7 @@
 title: Black Friday 2026 Native Instruments Deals
 description: Tracked Black Friday price drops for Native Instruments plugins.
 pubDate: '2026-11-23'
-updatedDate: '2026-11-23T04:56:59.301270+00:00'
+updatedDate: '2026-11-23T22:13:13.533136+00:00'
 tags:
 - black-friday
 - vst
@@ -10,9 +10,6 @@ tags:
 evergreen: false
 draft: false
 priceTrack:
-- Native Instruments Kolor
-- Native Instruments Psyche Delay
-- Native Instruments Tape Wobble
 - Native Instruments Scene Bloodplant
 - Native Instruments Traktor Play
 - Native Instruments FM8
@@ -23,38 +20,21 @@ priceTrack:
 - Native Instruments Action Strings 2
 - Native Instruments Kontakt 8
 - Native Instruments Scene Lotus
+- Native Instruments Scene Nightshade
 - Native Instruments Scene Saffron
 - Native Instruments Replika XT
 - Native Instruments Supercharger GT
 - Native Instruments 24K Drums
 - Native Instruments 24K Keys
 - Native Instruments Bouquet
+- Native Instruments Discoteca Drums
 - Native Instruments Glaze 2
+- Native Instruments Halo Vox
 heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
 
 **TL;DR:** Track temporary price drops for 20 plugins and see [our evergreen comparisons](/brands/native-instruments/) for longer-term research.
-
-This holiday season's roundup spotlights fifteen Native Instruments tools spanning distortion, delay, and tape emulation effects alongside synths, drum samplers, and Kontakt-based instrument libraries. From FM synthesis and modular sound design to hip hop, R&B, and cinematic scoring instruments, there's a tool here for shaping, sampling, and producing across a wide range of styles.
-
-## Native Instruments Kolor
-<!-- role:pick -->
-<!-- pick:Native Instruments Kolor -->
-
-Native Instruments Kolor suits producers and mix engineers looking to add vintage-style analog distortion character to guitar and lo-fi sounds, offering a range from subtle saturation to aggressive crunch. Users can select from its 10 distinct algorithms to shape and color their sound, choosing the circuit that best captures the vintage gear tone they're after while retaining modern flexibility and control.
-
-## Native Instruments Psyche Delay
-<!-- role:pick -->
-<!-- pick:Native Instruments Psyche Delay -->
-
-Native Instruments Psyche Delay suits producers working on psychedelic or ambient tracks who want to add atmospheric echoes and ethereal, 1960s-style reverse "backwards tape" effects to their mixes. It works well on solos, chord progressions, and vocals, giving them added depth, space, and character.
-
-## Native Instruments Tape Wobble
-<!-- role:pick -->
-<!-- pick:Native Instruments Tape Wobble -->
-
-Native Instruments Tape Wobble suits producers who want to warm up guitar and other tracks with lo-fi character, adding wow and flutter, saturation, and noise for a lush, vintage analog tape feel. It runs as a VST3, AU, or AAX plugin on both macOS and Windows, so users can drop it into their host of choice to dial in the amount of retro warmth and tonal roll-off they want on a given sound.
 
 ## Native Instruments Scene Bloodplant
 <!-- role:pick -->
@@ -112,6 +92,10 @@ Native Instruments Kontakt 8 suits producers and sound designers who want to bui
 
 Native Instruments Scene Lotus suits composers and scoring musicians who want cinematic textures blending traditional Japanese instruments with synth pads and orchestral sounds, all within Kontakt or the free Kontakt Player. Users can shape the sound by blending its 16 hybrid sound layers, effects, and controls via the XY pad, while staying in key using the instrument's extensive selection of scales and modes.
 
+## Native Instruments Scene Nightshade
+<!-- role:pick -->
+<!-- pick:Native Instruments Scene Nightshade -->
+
 ## Native Instruments Scene Saffron
 <!-- role:pick -->
 <!-- pick:Native Instruments Scene Saffron -->
@@ -146,11 +130,19 @@ Native Instruments 24K Drums suits hip hop producers who want an authentic 2000s
 
 Native Instruments Bouquet suits pop and R&B producers looking for soulful melodics and dreamy textures, offering 150 fully-editable presets across analog synths, keys, guitars, basses, organs, and pads. Within the Play Series interface, users can shape sounds in real time and build custom effects chains using the included Kontakt macros to add character and texture to their tracks.
 
+## Native Instruments Discoteca Drums
+<!-- role:pick -->
+<!-- pick:Native Instruments Discoteca Drums -->
+
 ## Native Instruments Glaze 2
 <!-- role:pick -->
 <!-- pick:Native Instruments Glaze 2 -->
 
 Native Instruments Glaze 2 is best suited to pop and hip hop producers who want fast, chord-driven vocal textures without building harmonies by hand. With over 30 custom chord sets and background vocals mapped to keys, plus 150 presets spanning pads, leads, and talkbox-style sounds, users can trigger complex, layered vocal harmonies instantly and shape them further using the instrument's Kontakt effects macros in Native Instruments' Play Series interface.
+
+## Native Instruments Halo Vox
+<!-- role:pick -->
+<!-- pick:Native Instruments Halo Vox -->
 
 ## Explore more
 <!-- role:related -->

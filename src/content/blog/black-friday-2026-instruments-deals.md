@@ -2,7 +2,7 @@
 title: Black Friday 2026 Virtual Instruments Deals
 description: Tracked Black Friday price drops for Virtual Instruments plugins.
 pubDate: '2026-11-23'
-updatedDate: '2026-11-23T04:56:59.301270+00:00'
+updatedDate: '2026-11-23T22:13:13.533136+00:00'
 tags:
 - black-friday
 - vst
@@ -12,6 +12,7 @@ draft: false
 priceTrack:
 - UAD Moog Minimoog
 - Virtual Guitarist Bundle
+- Bloom KSHMR
 - Heavyocity Ascend
 - Cherry Audio Blue3 Tonewheel Organ
 - Native Instruments Scene Bloodplant
@@ -20,23 +21,20 @@ priceTrack:
 - Native Instruments Kontakt 8
 - Arturia V Collection 11 Pro
 - Native Instruments Scene Lotus
+- Native Instruments Scene Nightshade
 - Native Instruments Scene Saffron
+- Output Analog Brass and Winds
+- UVI World Suite 3
 - XLN Audio Addictive Keys
 - XLN Audio XO
 - Native Instruments 24K Drums
 - Native Instruments 24K Keys
 - Native Instruments Bouquet
-- Native Instruments Glaze 2
-- Native Instruments Halo Vox
-- Native Instruments Marco Polo Drums
-- Native Instruments Nacht
 heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
 
 **TL;DR:** Track temporary price drops for 20 plugins and see [our evergreen comparisons](/best/instrument/) for longer-term research.
-
-Ableton Live for Audio Instrument plugins. We present a selection of current virtual instruments spanning analog synth emulation, acoustic and electric keyboards, organ, orchestral strings, guitar, vocal, and genre-focused drum and melodic libraries. The lineup covers tools for cinematic scoring, hip hop and R&B production, techno, and classic rock and blues-inspired sounds, suited to a range of production styles and workflows.
 
 ## UAD Moog Minimoog
 <!-- role:pick -->
@@ -49,6 +47,10 @@ The UAD Moog Minimoog plugin suits keyboard players and producers who want the c
 <!-- pick:Virtual Guitarist Bundle -->
 
 Virtual Guitarist Bundle suits guitarists and producers who want realistic, great-sounding guitar accompaniment without hiring a session player, offering organic, distorted, and processed rhythm guitar tones across more than 30 styles and 350 phrases. Users can play picking and strumming parts (including the new Instrument mode and Open Chords feature), layer up to four guitarists for a fuller sound, and shape the tone further with stomp box emulations and the Finisher multi-effect rack.
+
+## Bloom KSHMR
+<!-- role:pick -->
+<!-- pick:Bloom KSHMR -->
 
 ## Heavyocity Ascend
 <!-- role:pick -->
@@ -98,11 +100,23 @@ Arturia V Collection 11 Pro suits music makers who want a single suite spanning 
 
 Native Instruments Scene Lotus suits composers who want quick access to cinematic textures blending synth pads and orchestral sounds with traditional Japanese instruments, without building a hybrid palette from scratch. They can use the XY pad to blend 16 hybrid sound layers, effects, and controls in real time, and rely on the built-in scales and modes to stay in key while scoring.
 
+## Native Instruments Scene Nightshade
+<!-- role:pick -->
+<!-- pick:Native Instruments Scene Nightshade -->
+
 ## Native Instruments Scene Saffron
 <!-- role:pick -->
 <!-- pick:Native Instruments Scene Saffron -->
 
 Scene Saffron suits composers and sound designers working on media scoring who want fast access to cinematic textures without deep patch-programming, since its streamlined Scene-series design is built for quick, expressive use rather than detailed sound editing. Users can shape orchestral swells, shimmering pads, deep drones, and lush atmospheres by dragging the XY pad to blend 16 hybrid sound sources, effects, and controls, staying in key with built-in scales and modes (including a Legato mode for smoother transitions), and drawing on or randomizing 120 presets for quick inspiration.
+
+## Output Analog Brass and Winds
+<!-- role:pick -->
+<!-- pick:Output Analog Brass and Winds -->
+
+## UVI World Suite 3
+<!-- role:pick -->
+<!-- pick:UVI World Suite 3 -->
 
 ## XLN Audio Addictive Keys
 <!-- role:pick -->
@@ -129,30 +143,6 @@ Native Instruments 24K Drums suits hip hop and trap producers who want golden-er
 ## Native Instruments Bouquet
 <!-- role:pick -->
 <!-- pick:Native Instruments Bouquet -->
-
-## Native Instruments Glaze 2
-<!-- role:pick -->
-<!-- pick:Native Instruments Glaze 2 -->
-
-Native Instruments Glaze 2 suits pop and hip hop producers and vocalists who want ready-made vocal textures without building chords from scratch, especially those already working inside Kontakt or the free Kontakt Player. They can load any of its 150 presets, including the special chord sets for stacked chords, pads, leads, and talkbox sounds, then use the over 30 custom chord sets and background vocals mapped across the keyboard to trigger complex harmonies instantly, shaping the sound further with the included Kontakt effects macros and the Play Series interface's real-time controls.
-
-## Native Instruments Halo Vox
-<!-- role:pick -->
-<!-- pick:Native Instruments Halo Vox -->
-
-Native Instruments Halo Vox is suited to producers and vocal-focused music makers who want ready-made choral and ethereal vocal textures without building vocal sounds from scratch. They can load it in Kontakt Player (or Kontakt 8.1+) and explore its 150 editable presets, shaping pure vowels, layered textures, and processed vocal tones directly through the Play Series' real-time controls.
-
-## Native Instruments Marco Polo Drums
-<!-- role:pick -->
-<!-- pick:Native Instruments Marco Polo Drums -->
-
-Marco Polo Drums suits hip hop producers chasing a raw, dusty, boom bap sound who want kits with real grit rather than clean, modern percussion. They can load one of Marco Polo's curated kits, drag its 16 included groove patterns into their DAW as editable MIDI, and shape the tone further using his custom macro effects.
-
-## Native Instruments Nacht
-<!-- role:pick -->
-<!-- pick:Native Instruments Nacht -->
-
-Native Instruments Nacht suits techno producers who want unforgiving synths and distorted textures for basslines, pads, and leads, plus an intuitive step sequencer for building rhythms and sequences. Users can shape sounds in real time with the macro controls and work from 150 editable presets, running it in Kontakt 7.10.5 or higher or the free Kontakt Player.
 
 ## Explore more
 <!-- role:related -->
