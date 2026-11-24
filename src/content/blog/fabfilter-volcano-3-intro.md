@@ -16,6 +16,11 @@ officialUrl: "https://www.fabfilter.com/"
 
 **TL;DR:** FabFilter Volcano 3 is a creative filter plug-in built around vintage-sounding EQ-type filter shapes, and its standout quality is how flexible the routing is. You get per-channel and mid and side modes, so you can treat the left and right sides of a signal differently or shape the center and the stereo edges on their own terms. The interface can be resized to several sizes or expanded to full screen, which helps when you want a clearer view of what's happening while you work. Modulation targets and sources show up as live visuals, so you can watch movement in the filter as it happens rather than reading numbers alone. There is a High Quality option that pushes internal oversampling up for cleaner results, and a 6 dB per octave slope choice sits alongside the plug-in's other slope settings for gentler filtering when that is what a track calls for. Both stereo and mono versions are available. This plug-in suits producers who want per-channel or mid and side filtering, parallel filter setups, or modulation driven by XLFOs, XY controllers, envelope generators, envelope followers, or MIDI sources, making it a good fit for anyone building filter movement into a mix rather than just applying a static cut or boost.
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/OTQMpDctrHI" title="Volcano 3 - Vintage Filter Plug-In by FabFilter - Super Creative Filtering - iPad Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## Volcano 3: What It Does and How You Shape It
 <!-- role:intro -->
 <!-- pick:FabFilter Volcano 3 -->
