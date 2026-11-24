@@ -12,7 +12,7 @@ relatedPosts:
   - "best-synth-vst-plugins-2026"
   - "phase-plant-review"
   - "arturia-v-collection-review"
-heroImage: '/images/when-does-omnisphere-go-on-sale.jpg'
+heroImage: '/images/does-omnisphere-ever-go-on-sale.jpg'
 ---
 
 ## Does Omnisphere Ever Go On Sale? Quick Answer
