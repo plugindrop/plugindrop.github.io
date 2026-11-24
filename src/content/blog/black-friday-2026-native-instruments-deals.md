@@ -2,7 +2,7 @@
 title: Black Friday 2026 Native Instruments Deals
 description: Tracked Black Friday price drops for Native Instruments plugins.
 pubDate: '2026-11-23'
-updatedDate: '2026-11-24T10:10:10.804907+00:00'
+updatedDate: '2026-11-24T22:24:04.020591+00:00'
 tags:
 - black-friday
 - vst
@@ -12,13 +12,14 @@ draft: false
 priceTrack:
 - Native Instruments Scene Bloodplant
 - Native Instruments Traktor Play
-- Native Instruments Super Saw
+- Native Instruments FM8
+- Native Instruments Massive
+- Native Instruments Battery 4
 - Native Instruments Reaktor 6
 - Native Instruments Action Strings 2
 - Native Instruments Kontakt 8
 - Native Instruments Scene Lotus
 - Native Instruments Scene Nightshade
-- Native Instruments Scene Saffron
 - Native Instruments Replika XT
 - Native Instruments Supercharger GT
 - Native Instruments 24K Drums
@@ -29,7 +30,6 @@ priceTrack:
 - Native Instruments Halo Vox
 - Native Instruments Hypr
 - Native Instruments Luxa
-- Native Instruments Marco Polo Drums
 heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
@@ -48,11 +48,21 @@ Native Instruments Scene Bloodplant suits producers working in dystopian, sci-fi
 
 Native Instruments Traktor Play suits beginner and laptop-only DJs who want core mixing tools without a steep learning curve, since it provides two decks, visualized waveforms, hot cues, pitch fader, and an accurate sync engine, and can be used with just a laptop or with supported controllers like the AlphaTheta DDJ-FLX2 and FLX4. It also fits DJs who want built-in track access and creative extras, as it includes login-free Beatport Previews, two free months of Beatport Streaming Advanced, AutoMix, Flux Mode, loop rolls, stem-based drum removal, and Native Instruments reverb, delay, and gater effects for shaping transitions and sound.
 
-## Native Instruments Super Saw
+## Native Instruments FM8
 <!-- role:pick -->
-<!-- pick:Native Instruments Super Saw -->
+<!-- pick:Native Instruments FM8 -->
 
-Native Instruments Super*Saw suits producers who want dense, stacked sawtooth textures and expressive, real-time sound-shaping without manually layering oscillators—useful for blissed-out harmonies, metallic dissonance, ravey leads, and glides. Users can play it in mono or poly mode, dial in voice offset and glide for motion and stereo depth, and drive the 4-corner Morpher to transition between sound states while using the built-in chord, scale, and quantize tools alongside onboard chorus, delay, and reverb for mix-ready results.
+Native Instruments FM8 suits producers who want an accessible way into FM synthesis, especially those building melodic and percussive sounds like crystalline bells, keys, and bold brass. They can work through its Easy Edit Page for quick, musical tweaks, dig into the detailed operator pages and modulation matrix for deeper sound design, and shape results further with the arpeggiator and sound morphing features.
+
+## Native Instruments Massive
+<!-- role:pick -->
+<!-- pick:Native Instruments Massive -->
+
+## Native Instruments Battery 4
+<!-- role:pick -->
+<!-- pick:Native Instruments Battery 4 -->
+
+Battery 4 suits producers who want to build and audition drum kits quickly, since its color-coded sample loading and drag-and-drop MIDI learn keep workflow fast without breaking creative flow. Users can load factory or their own samples, shape them with the seven sample modes and Time Machine Pro time-stretching via the waveform display, and use instant cell rendering for kit building and sound design.
 
 ## Native Instruments Reaktor 6
 <!-- role:pick -->
@@ -79,12 +89,6 @@ Native Instruments Scene Lotus suits composers and scoring musicians who want ci
 ## Native Instruments Scene Nightshade
 <!-- role:pick -->
 <!-- pick:Native Instruments Scene Nightshade -->
-
-## Native Instruments Scene Saffron
-<!-- role:pick -->
-<!-- pick:Native Instruments Scene Saffron -->
-
-Native Instruments Scene Saffron suits media composers and sound designers who want quick access to cinematic textures like swells, pads, drones, and atmospheres without deep sound-design work. They can use the XY pad to blend its 16 hybrid sound sources, effects, and controls in real time, stay musically in key with its scales, modes, and Legato mode, and draw on the 120 presets (with a randomize function) as a starting point for their own sounds.
 
 ## Native Instruments Replika XT
 <!-- role:pick -->
@@ -135,10 +139,6 @@ Native Instruments Glaze 2 is best suited to pop and hip hop producers who want 
 ## Native Instruments Luxa
 <!-- role:pick -->
 <!-- pick:Native Instruments Luxa -->
-
-## Native Instruments Marco Polo Drums
-<!-- role:pick -->
-<!-- pick:Native Instruments Marco Polo Drums -->
 
 ## Explore more
 <!-- role:related -->

@@ -2,7 +2,7 @@
 title: Black Friday 2026 Virtual Instruments Deals
 description: Tracked Black Friday price drops for Virtual Instruments plugins.
 pubDate: '2026-11-23'
-updatedDate: '2026-11-24T10:10:10.804907+00:00'
+updatedDate: '2026-11-24T22:24:04.020591+00:00'
 tags:
 - black-friday
 - vst
@@ -21,7 +21,6 @@ priceTrack:
 - Native Instruments Kontakt 8
 - Native Instruments Scene Lotus
 - Native Instruments Scene Nightshade
-- Native Instruments Scene Saffron
 - Output Analog Brass and Winds
 - UVI World Suite 3
 - XLN Audio Addictive Keys
@@ -30,6 +29,7 @@ priceTrack:
 - Native Instruments 24K Keys
 - Native Instruments Bouquet
 - Native Instruments Discoteca Drums
+- Native Instruments Glaze 2
 heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
@@ -98,12 +98,6 @@ Native Instruments Scene Lotus suits composers who want quick access to cinemati
 <!-- role:pick -->
 <!-- pick:Native Instruments Scene Nightshade -->
 
-## Native Instruments Scene Saffron
-<!-- role:pick -->
-<!-- pick:Native Instruments Scene Saffron -->
-
-Scene Saffron suits composers and sound designers working on media scoring who want fast access to cinematic textures without deep patch-programming, since its streamlined Scene-series design is built for quick, expressive use rather than detailed sound editing. Users can shape orchestral swells, shimmering pads, deep drones, and lush atmospheres by dragging the XY pad to blend 16 hybrid sound sources, effects, and controls, staying in key with built-in scales and modes (including a Legato mode for smoother transitions), and drawing on or randomizing 120 presets for quick inspiration.
-
 ## Output Analog Brass and Winds
 <!-- role:pick -->
 <!-- pick:Output Analog Brass and Winds -->
@@ -141,6 +135,12 @@ Native Instruments 24K Drums suits hip hop and trap producers who want golden-er
 ## Native Instruments Discoteca Drums
 <!-- role:pick -->
 <!-- pick:Native Instruments Discoteca Drums -->
+
+## Native Instruments Glaze 2
+<!-- role:pick -->
+<!-- pick:Native Instruments Glaze 2 -->
+
+Native Instruments Glaze 2 suits pop and hip hop producers and vocalists who want ready-made vocal textures without building chords from scratch, especially those already working inside Kontakt or the free Kontakt Player. They can load any of its 150 presets, including the special chord sets for stacked chords, pads, leads, and talkbox sounds, then use the over 30 custom chord sets and background vocals mapped across the keyboard to trigger complex harmonies instantly, shaping the sound further with the included Kontakt effects macros and the Play Series interface's real-time controls.
 
 ## Explore more
 <!-- role:related -->
