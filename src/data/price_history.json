@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23",
+  "last_updated": "2026-11-24",
   "bundles": {
     "Arturia FX Collection 6 Pro": {
       "pb_url": "/product/81-Bundles/39-Effects-Bundles/16835-FX-Collection-6-PRO",
@@ -10703,6 +10703,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-12-09"
+        },
+        {
+          "date": "2026-11-24",
+          "sale": 5.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "category": "Reverb",
@@ -18271,6 +18280,15 @@
         },
         {
           "date": "2026-11-23",
+          "sale": 9.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-11-24",
           "sale": 9.0,
           "regular": 129.0,
           "source": "pb_deals_poll",
@@ -33881,6 +33899,15 @@
         },
         {
           "date": "2026-11-23",
+          "sale": 64.5,
+          "regular": 129.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-11-24",
           "sale": 64.5,
           "regular": 129.0,
           "source": "pb_deals_poll",
@@ -54195,6 +54222,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-11-24",
+          "sale": 149.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "category": "EQ",
@@ -70522,6 +70558,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-30"
+        },
+        {
+          "date": "2026-11-24",
+          "sale": 49.99,
+          "regular": 99.99,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/m1.jpg",
@@ -94005,6 +94050,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-11-24",
+          "sale": 49.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/pitchmap.jpg",
@@ -103760,6 +103814,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-11-24",
+          "sale": 69.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/scaler-3.jpg",
@@ -113129,6 +113192,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-11-24",
+          "sale": 49.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/soundtoys-decapitator.jpg"
@@ -113749,6 +113821,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-12-03"
+        },
+        {
+          "date": "2026-11-24",
+          "sale": 49.0,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/soundtoys-echoboy.jpg"
@@ -114980,6 +115061,15 @@
         },
         {
           "date": "2026-11-23",
+          "sale": 39.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-11-24",
           "sale": 39.0,
           "regular": 99.0,
           "source": "pb_deals_poll",
@@ -121686,6 +121776,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-30"
+        },
+        {
+          "date": "2026-11-24",
+          "sale": 49.99,
+          "regular": 1499.92,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/total-vi-max-2.jpg",
@@ -137442,6 +137541,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-11-24",
+          "sale": 10.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/uad-vibe-analog-machines.jpg",
@@ -147472,6 +147580,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-11-24",
+          "sale": 49.0,
+          "regular": 99.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/wavesfactory-spectre.jpg"
@@ -148001,6 +148118,15 @@
         },
         {
           "date": "2026-11-23",
+          "sale": 29.0,
+          "regular": 59.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-11-24",
           "sale": 29.0,
           "regular": 59.0,
           "source": "pb_deals_poll",
@@ -166223,6 +166349,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-11-24",
+          "sale": 29.99,
+          "regular": 199.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/amplitube-5.jpg",
@@ -174626,6 +174761,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-11-24",
+          "sale": 19.0,
+          "regular": 39.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/rc-20-retro-color-v2-upgrade.jpg",
@@ -177439,6 +177583,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-11-30"
+        },
+        {
+          "date": "2026-11-24",
+          "sale": 19.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "article_slug": "ssl-native-bus-compressor-2-50a0ef",
@@ -177760,6 +177913,15 @@
           "store": "plugin_boutique",
           "reg_src": "page",
           "cur": "USD"
+        },
+        {
+          "date": "2026-11-24",
+          "sale": 9.0,
+          "regular": 129.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/virtual-pianist-vibe.jpg"
@@ -177903,6 +178065,15 @@
         },
         {
           "date": "2026-11-23",
+          "sale": 19.0,
+          "regular": 149.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
+        },
+        {
+          "date": "2026-11-24",
           "sale": 19.0,
           "regular": 149.0,
           "source": "pb_deals_poll",
