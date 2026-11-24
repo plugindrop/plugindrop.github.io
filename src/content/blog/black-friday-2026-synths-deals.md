@@ -2,7 +2,7 @@
 title: Black Friday 2026 Synths and Drum Machines Deals
 description: Tracked Black Friday price drops for Synths and Drum Machines plugins.
 pubDate: '2026-11-23'
-updatedDate: '2026-11-23T22:13:13.533136+00:00'
+updatedDate: '2026-11-24T10:10:10.804907+00:00'
 tags:
 - black-friday
 - vst
@@ -13,7 +13,6 @@ priceTrack:
 - UAD Opal Morphing Synth
 - Model 80 Five Voice Synthesizer
 - SubLab XL
-- Drumazon 2
 - Cherry Audio Atomika
 - Cherry Audio KR 55C Drum Machine
 - Cherry Audio Yellowjacket
@@ -25,11 +24,12 @@ priceTrack:
 - Cherry Audio Mercury 8
 - Cherry Audio P 10 Synthesizer
 - Cherry Audio Trident Mk III Synthesizer
-- Native Instruments FM8
-- Native Instruments Massive
 - Native Instruments Super Saw
 - Super 8
-- Arturia Analog Lab Pro
+- Kilohearts Phase Plant
+- Native Instruments Reaktor 6
+- Phase Plant
+- Super-7
 heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
@@ -49,12 +49,6 @@ heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 <!-- pick:SubLab XL -->
 
 SubLab XL suits producers working on macOS (10.12+, Intel or Apple Silicon) or Windows 8 and up who want a bass synth that runs natively in their DAW. It's available as a VST2, VST3, AU, or AAX plugin, so users can load it directly into any host supporting those formats on their platform.
-
-## Drumazon 2
-<!-- role:pick -->
-<!-- pick:Drumazon 2 -->
-
-Drumazon 2 suits producers who want an accurately modeled 909 drum machine with the flexibility to dial in a modern, punchy edge, since it recreates each original instrument individually and layers on per-instrument EQ and compression. Users can build a kit quickly from the included factory presets, shape the sound further with the bitcrusher, distortion, reverb, delay, chorus, and filter options, program rhythms with the velocity, articulation, tap, and randomizer features of its sequencer, and finish the mix using the master section's 3-band compressor and limiter with ready-to-use master presets.
 
 ## Cherry Audio Atomika
 <!-- role:pick -->
@@ -118,18 +112,6 @@ The Cherry Audio P-10 suits players who want the dual-manual, dual-five-voice ch
 
 Cherry Audio Trident Mk III suits producers and vintage synth enthusiasts who want the layered synth, brass, and string sounds of the original 1981-82 Trident hardware with expanded polyphony and modulation. Users can build arrangements with its onboard step sequencer and dual arpeggiators, shape tones using the 17 included effects across four customizable chains, and start quickly from the library of over 370 presets.
 
-## Native Instruments FM8
-<!-- role:pick -->
-<!-- pick:Native Instruments FM8 -->
-
-FM8 suits producers who want an accessible way into FM synthesis, offering an "Easy Edit Page" with simple controls alongside detailed editing pages for building melodic and percussive bell/key sounds, bass lines, and bright, bold brass. Users can shape sounds via the operator matrix and multi-breakpoint amplitude envelopes, add variation with the arpeggiator and sound morphing feature, and shape tone further using the twelve included effects and the library of over 1200 presets.
-
-## Native Instruments Massive
-<!-- role:pick -->
-<!-- pick:Native Instruments Massive -->
-
-Native Instruments Massive suits bass music and electro producers who need powerful, cutting bass and lead sounds without wrestling with complex synthesis. They can dig into its over 1300 presets through the search and filter tools to find a starting sound, then use the eight macro controls to reshape it on the fly—whether tweaking by hand or mapping them to a Komplete Kontrol or Maschine controller for hands-on, real-time sound shaping.
-
 ## Native Instruments Super Saw
 <!-- role:pick -->
 <!-- pick:Native Instruments Super Saw -->
@@ -140,11 +122,23 @@ Super*Saw suits producers who want dense, stacked-sawtooth sounds (from wide pad
 <!-- role:pick -->
 <!-- pick:Super 8 -->
 
-## Arturia Analog Lab Pro
+## Kilohearts Phase Plant
 <!-- role:pick -->
-<!-- pick:Arturia Analog Lab Pro -->
+<!-- pick:Kilohearts Phase Plant -->
 
-Analog Lab Pro suits producers, performers, sound designers, and vintage synth fans who want quick access to iconic synth and keyboard sounds without hunting through multiple instruments. Users can browse over 2,000 curated presets by type, style, or genre, layer or split sounds across the keyboard using Multis, and shape any patch instantly with four Macro controls.
+Phase Plant suits sound designers and music producers who want to build original patches from scratch rather than tweak presets, since its semi-modular architecture lets them combine any number of generators, modulators, and effects into anything from compact synths to complex evolving sounds. Users work within its intuitive, open-ended workflow to design and refine these patches with precision, inside any DAW that supports VST 2, VST 3, AAX, or Audio Unit.
+
+## Native Instruments Reaktor 6
+<!-- role:pick -->
+<!-- pick:Native Instruments Reaktor 6 -->
+
+## Phase Plant
+<!-- role:pick -->
+<!-- pick:Phase Plant -->
+
+## Super-7
+<!-- role:pick -->
+<!-- pick:Super-7 -->
 
 ## Explore more
 <!-- role:related -->

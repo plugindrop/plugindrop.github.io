@@ -2,7 +2,7 @@
 title: Black Friday 2026 Virtual Instruments Deals
 description: Tracked Black Friday price drops for Virtual Instruments plugins.
 pubDate: '2026-11-23'
-updatedDate: '2026-11-23T22:13:13.533136+00:00'
+updatedDate: '2026-11-24T10:10:10.804907+00:00'
 tags:
 - black-friday
 - vst
@@ -19,7 +19,6 @@ priceTrack:
 - Cherry Audio Wurlybird 140B
 - Native Instruments Action Strings 2
 - Native Instruments Kontakt 8
-- Arturia V Collection 11 Pro
 - Native Instruments Scene Lotus
 - Native Instruments Scene Nightshade
 - Native Instruments Scene Saffron
@@ -30,6 +29,7 @@ priceTrack:
 - Native Instruments 24K Drums
 - Native Instruments 24K Keys
 - Native Instruments Bouquet
+- Native Instruments Discoteca Drums
 heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
@@ -88,12 +88,6 @@ Native Instruments Action Strings 2 suits composers and producers working on cin
 
 Native Instruments Kontakt 8 suits producers and sound designers who want a single platform to find, create, and transform sounds, offering smart Chords and Phrases tools, the Leap looping engine with genre-focused expansions, and the Conflux hybrid oscillator for real-time sound manipulation. Users can draw on the Kontakt 8 Factory Library 2's 900+ instruments, build their own instruments by dragging in samples, and pair the software with Kontrol keyboards or Maschine hardware for hands-on browsing, auto-mapping, and parameter control.
 
-## Arturia V Collection 11 Pro
-<!-- role:pick -->
-<!-- pick:Arturia V Collection 11 Pro -->
-
-Arturia V Collection 11 Pro suits music makers who want a single suite spanning vintage-to-futuristic analog, digital, sampler-based, and electro-acoustic instrument sounds for production work. On compatible 64-bit systems (macOS 11+ or Windows 10+), they can use it standalone or load it as a VST, AAX, Audio Unit, or NKS plugin within their DAW, navigating and tweaking sounds through its refined interface and Analog Lab Pro's unified browser.
-
 ## Native Instruments Scene Lotus
 <!-- role:pick -->
 <!-- pick:Native Instruments Scene Lotus -->
@@ -143,6 +137,10 @@ Native Instruments 24K Drums suits hip hop and trap producers who want golden-er
 ## Native Instruments Bouquet
 <!-- role:pick -->
 <!-- pick:Native Instruments Bouquet -->
+
+## Native Instruments Discoteca Drums
+<!-- role:pick -->
+<!-- pick:Native Instruments Discoteca Drums -->
 
 ## Explore more
 <!-- role:related -->

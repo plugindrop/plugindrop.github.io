@@ -2,7 +2,7 @@
 title: 'Black Friday 2026 Plugin Deals: Real Price Drops We Tracked'
 description: Black Friday plugin deals based on price drops we observed.
 pubDate: '2026-06-08T00:00:00Z'
-updatedDate: '2026-11-23T22:13:13.533136+00:00'
+updatedDate: '2026-11-24T10:10:10.804907+00:00'
 tags:
 - guide
 - vst
@@ -13,29 +13,29 @@ evergreen: false
 draft: false
 priceTrack:
 - UFX REVERB Version 2
+- iZotope VocalSynth 2
 - UAD Moog Minimoog
 - UAD Opal Morphing Synth
 - UAD Ampex ATR 102 Mastering Tape Recorder
-- Waves CLA-2A
-- Waves CLA-76
-- Waves H-Delay
-- Waves H-Reverb
 - Model 80 Five Voice Synthesizer
 - Soundtoys Decapitator
 - Soundtoys Crystallizer
 - Soundtoys FilterFreak
 - Virtual Guitarist Bundle
 - Soundtoys PanMan
-- Soundtoys PrimalTap
 - SubLab XL
 - Bloom KSHMR
-- Drumazon 2
 - Heavyocity Ascend
-- UAD EMT 140 Classic Plate Reverberator
-- UAD Manley Vari Mu
 - UNMIX::DRUMS
 - DeNoizzer
 - MAutoAlign
+- 'Motion: Fractal'
+- Decimort 2
+- Devastor 2
+- Sonible smart:EQ 4
+- Cherry Audio Blue3 Tonewheel Organ
+- Soundtoys Little AlterBoy
+- Soundtoys MicroShift
 heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
@@ -46,22 +46,26 @@ heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 <!-- role:overview -->
 
 - UFX REVERB Version 2
+- iZotope VocalSynth 2
 - UAD Moog Minimoog
 - UAD Opal Morphing Synth
-- Waves CLA-2A
-- Waves CLA-76
-- Waves H-Delay
-- Waves H-Reverb
 - Soundtoys PanMan
-- Soundtoys PrimalTap
 - SubLab XL
 - Bloom KSHMR
 - DeNoizzer
 - MAutoAlign
+- Motion: Fractal
+- Decimort 2
+- Devastor 2
+- Cherry Audio Blue3 Tonewheel Organ
 
 ## UFX REVERB Version 2
 <!-- role:pick -->
 <!-- pick:UFX REVERB Version 2 -->
+
+## iZotope VocalSynth 2
+<!-- role:pick -->
+<!-- pick:iZotope VocalSynth 2 -->
 
 ## UAD Moog Minimoog
 <!-- role:pick -->
@@ -76,30 +80,6 @@ heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 <!-- pick:UAD Ampex ATR 102 Mastering Tape Recorder -->
 
 The Ampex ATR-102 plug-in suits producers and mixing/mastering engineers who want to add analog tape character to a mix or master, available for both Apollo Realtime/UAD-2 hardware and as a UAD Native plug-in across Pro Tools, Logic Pro, Ableton Live, Cubase, and Studio One. Users can select between tape types and color settings to shape saturation and harmonics, route the full ATR-102 circuit including its transformers and amplifiers, and use Auto-Gain to keep Repro and Record levels properly staged while adjusting the sound.
-
-## Waves CLA-2A
-<!-- role:pick -->
-<!-- pick:Waves CLA-2A -->
-
-Producers and mix engineers working on vocal, bass, or guitar tracks who want a warm, natural compression sound even under heavy settings will find the Waves CLA-2A suits their needs well. They can use its attack/release behavior and tube emulation for musical, harmonic saturation, reach for the included Limiter mode to boost instrument sustain, dial in parallel compression with the Mix control, and start from the Chris Lord-Alge presets built for vocals, guitar, bass, and drums.
-
-## Waves CLA-76
-<!-- role:pick -->
-<!-- pick:Waves CLA-76 -->
-
-The Waves CLA-76 suits mix engineers and producers who want fast, aggressive FET-style compression—especially on vocals and drums where tight transient control and preamp-driven edge matter. Users can switch between the "Blacky" and "Bluey" character models, apply the exclusive ALL ratio mode for a more explosive compression sound, use the Mix and Trim controls for parallel compression and quick gain staging, and draw on Chris Lord-Alge's included presets as a starting point.
-
-## Waves H-Delay
-<!-- role:pick -->
-<!-- pick:Waves H-Delay -->
-
-Waves H-Delay suits producers and mixers who want a single delay plugin covering everything from classic chorus, flanging, and tape-echo tones to modern digital clarity, since it offers four analog character modes plus a contemporary digital setting alongside tempo-synced delay times from 1 to 3500 ms. Users can shape the repeats with the built-in filtering and tempo-synced modulation for chorus or vibrato effects, assign any control to MIDI Learn for live manipulation, and use the new Dual Mode for added spectral control, with independent left/right phasing for further stereo shaping.
-
-## Waves H-Reverb
-<!-- role:pick -->
-<!-- pick:Waves H-Reverb -->
-
-Waves H-Reverb suits producers and mixing engineers who want to move between clean, natural room/hall reverb and more experimental, non-linear spaces within a single plugin, especially those who like shaping decay with added EQ, compression, and modulation rather than using a basic reverb. They can load it on a track in their DAW (VST/AU/AAX) and start from one of the over 240 presets, then adjust the FIR engine's decay envelope, pre-delay BPM sync, and damping controls to fit the mix, switching between the collapsed basic view and the expanded view for deeper control.
 
 ## Model 80 Five Voice Synthesizer
 <!-- role:pick -->
@@ -131,12 +111,6 @@ The Virtual Guitarist Bundle suits guitarists and producers who want ready-made,
 
 PanMan suits producers and mix engineers who want panning to feel like part of the performance rather than a static placement choice, such as making a sound sweep whenever the snare hits or tying pan movement to a vocal's loudness. They can use its Step or Shape rhythm modes to build tempo-locked patterns, set a trigger threshold so the track's own dynamics drive width, speed, and offset, and dial in one of the seven analog modes for added saturation when pushed harder.
 
-## Soundtoys PrimalTap
-<!-- role:pick -->
-<!-- pick:Soundtoys PrimalTap -->
-
-PrimalTap suits players chasing vintage digital-delay character for guitar work, lo-fi textures, and sound design, especially anyone wanting hands-on, performance-driven tweaking rather than a static effect. They can turn the Multiply knob for lo-fi echoes and pitch jumps, use the VCO section with the Rate and Adjust controls to dial in lush chorus, tape-like flanging, or robotic ring-modulation warbles, and engage the Freeze control to sample, loop, and warp incoming audio.
-
 ## SubLab XL
 <!-- role:pick -->
 <!-- pick:SubLab XL -->
@@ -147,29 +121,11 @@ SubLab XL suits producers working on macOS (10.12+, Intel or Apple Silicon) or W
 <!-- role:pick -->
 <!-- pick:Bloom KSHMR -->
 
-## Drumazon 2
-<!-- role:pick -->
-<!-- pick:Drumazon 2 -->
-
-Drumazon 2 suits producers who want an accurate recreation of the original 909 drum machine with modern mixing tools, since it emulates each instrument's sound in detail and adds per-instrument EQ and compression along with bitcrusher, distortion, reverb, delay, chorus, and filter effects. Users can shape their kit with the included factory presets, build rhythms with the sequencer's velocity, articulation, tap-recording, and randomizer functions, and finish the mix using the master section's 3-band compressor and limiter, with ready-to-use master presets for quick results.
-
 ## Heavyocity Ascend
 <!-- role:pick -->
 <!-- pick:Heavyocity Ascend -->
 
 Heavyocity Ascend: Modern Grand suits cinematic composers who want a deeply sampled, warm and detailed 9-foot concert grand as their primary piano voice for scoring work. They can use it within Kontakt or Kontakt Player (standalone, VST, AU, or AAX), browsing its 110 snapshot presets across categories like Ascended, Core Concert D, Extended, Rhythmic, and Rhythmic Melodic, building rhythmic arpeggios with the ARP feature, and blending its 16 sound sources in real time with the three-point mixer.
-
-## UAD EMT 140 Classic Plate Reverberator
-<!-- role:pick -->
-<!-- pick:UAD EMT 140 Classic Plate Reverberator -->
-
-The UAD EMT 140 Classic Plate Reverberator suits mixers and producers who want the warm, authentic plate reverb sound heard on iconic recordings, particularly for making lead vocal tracks stand out in a dense mix. They can shape that tone using the plug-in's damping and filter controls, along with its Balance, Width, and Modulation settings.
-
-## UAD Manley Vari Mu
-<!-- role:pick -->
-<!-- pick:UAD Manley Vari Mu -->
-
-The UAD Manley Vari Mu suits mixing and mastering engineers who need glue and tonal cohesion across individual tracks, stereo buses, or a full mix. They can use it by linking channels for a matched stereo image, choosing Left/Right or Mid/Side operation to shape stereo imaging, and dialing in the plug-in's Dry/Wet Mix control for parallel compression.
 
 ## UNMIX::DRUMS
 <!-- role:pick -->
@@ -184,6 +140,36 @@ DeNoizzer suits producers and engineers cleaning up imperfect recordings, such a
 ## MAutoAlign
 <!-- role:pick -->
 <!-- pick:MAutoAlign -->
+
+## Motion: Fractal
+<!-- role:pick -->
+<!-- pick:Motion: Fractal -->
+
+## Decimort 2
+<!-- role:pick -->
+<!-- pick:Decimort 2 -->
+
+## Devastor 2
+<!-- role:pick -->
+<!-- pick:Devastor 2 -->
+
+## Sonible smart:EQ 4
+<!-- role:pick -->
+<!-- pick:Sonible smart:EQ 4 -->
+
+Sonible smart:EQ 4 suits producers and mixing engineers who want an AI-assisted approach to spectral balance across vocals, drums, bass, and full mixes rather than manual band-by-band equalizing. They can apply its smart:filter to individual tracks or busses using genre-based Mix Profiles or an imported reference track, and use Group mode to set an unmasking hierarchy across up to ten instances for a top-down approach to mixing.
+
+## Cherry Audio Blue3 Tonewheel Organ
+<!-- role:pick -->
+<!-- pick:Cherry Audio Blue3 Tonewheel Organ -->
+
+## Soundtoys Little AlterBoy
+<!-- role:pick -->
+<!-- pick:Soundtoys Little AlterBoy -->
+
+## Soundtoys MicroShift
+<!-- role:pick -->
+<!-- pick:Soundtoys MicroShift -->
 
 ## Explore more
 <!-- role:related -->

@@ -2,7 +2,7 @@
 title: Black Friday 2026 Soundtoys Deals
 description: Tracked Black Friday price drops for Soundtoys plugins.
 pubDate: '2026-11-23'
-updatedDate: '2026-11-23T22:13:13.533136+00:00'
+updatedDate: '2026-11-24T10:10:10.804907+00:00'
 tags:
 - black-friday
 - vst
@@ -14,8 +14,6 @@ priceTrack:
 - Soundtoys Crystallizer
 - Soundtoys FilterFreak
 - Soundtoys PanMan
-- Soundtoys PrimalTap
-- Soundtoys Devil-Loc Deluxe
 - Soundtoys Little AlterBoy
 - Soundtoys MicroShift
 - Soundtoys Tremolator
@@ -24,7 +22,7 @@ heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
 
-**TL;DR:** Track temporary price drops for 10 plugins and see [our evergreen comparisons](/brands/soundtoys/) for longer-term research.
+**TL;DR:** Track temporary price drops for 8 plugins and see [our evergreen comparisons](/brands/soundtoys/) for longer-term research.
 
 ## Soundtoys Decapitator
 <!-- role:pick -->
@@ -45,18 +43,6 @@ Soundtoys Decapitator suits mixers and producers who want to push vocals, drums,
 <!-- pick:Soundtoys PanMan -->
 
 Soundtoys PanMan suits producers and mix engineers who want to move beyond basic left-right panning into rhythmic, tempo-locked stereo effects, including those who want their track's own dynamics (like a snare hit or vocal loudness) to drive the motion. They can trigger panning manually, via host automation, or by audio threshold, then shape it using Step or Shape rhythm modes, the vintage-inspired trigger divider, and any of the seven analog emulation modes for added tone.
-
-## Soundtoys PrimalTap
-<!-- role:pick -->
-<!-- pick:Soundtoys PrimalTap -->
-
-PrimalTap suits producers and sound designers chasing vintage digital-delay character—especially guitarists wanting shimmering 80s echoes or anyone exploring lush chorus, tape-like flanging, and sci-fi warble textures. Users can shape its sound with the Multiply knob for octave-jump and lo-fi pitch effects, sweep the VCO section via the Rate and Adjust controls for smooth or glitchy modulation, and use the Freeze control to sample, loop, and warp incoming audio.
-
-## Soundtoys Devil-Loc Deluxe
-<!-- role:pick -->
-<!-- pick:Soundtoys Devil-Loc Deluxe -->
-
-Devil-Loc Deluxe suits producers and mixers who want an extreme, gritty limiting effect for making drums and room mics sound huge, or for adding dark, driven character to lo-fi loops, vocals, and acoustic guitar. Use the Darkness control to roll off crunchy highs for a warmer tone, switch between fast and slow release times for different textures, and dial the Mix knob to blend the crushed signal back with the dry source so the effect can be automated without losing the track's core.
 
 ## Soundtoys Little AlterBoy
 <!-- role:pick -->
