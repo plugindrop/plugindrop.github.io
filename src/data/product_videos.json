@@ -35,6 +35,13 @@
     "source": "pb_page",
     "official": false
   },
+  "AmpliTube 5": {
+    "video_id": "PqNCiwh0Mpk",
+    "title": "IK Multimedia Amplitube 5 - Is This The Best Guitar AmpSim?",
+    "channel": "The Studio Rats",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
   "AmpliTube 5 MAX v2": {
     "video_id": "FX6FY6ymGZs",
     "title": "AmpliTube 5 Max V2 | Factory Sound | IK Multimedia",
@@ -2765,6 +2772,13 @@
     "source": "pb_page",
     "official": false
   },
+  "TR-909": {
+    "video_id": "GGQtnke_-yQ",
+    "title": "Roland TR-909 Software Rhythm Composer Overview",
+    "channel": "RolandChannel",
+    "score": 12,
+    "source": "yt_api_fill"
+  },
   "TRITON / TRITON Extreme": {
     "video_id": "u67Rf3YpgDo",
     "title": "The KORG TRITON Extreme Experience",
@@ -3224,6 +3238,13 @@
     "source": "pb_page",
     "official": false
   },
+  "UAD dbx 160 Compressor Limiter": {
+    "video_id": "--FV2XoQ6WU",
+    "title": "Understanding UAD dbx 160 Compressor/Limiter",
+    "channel": "amagrasmusic",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
   "UNMIX::DRUMS": {
     "video_id": "DnPPPKPmcc0",
     "title": "Zynaptiq UNMIX::DRUMS Trailer",
@@ -3306,6 +3327,13 @@
     "video_id": "9Yl-_HCx98I",
     "title": "Unfiltered Audio TRIAD - overview of the modular multi-effect plugin",
     "channel": "Andy Dollerson",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "United Plugins Mirror": {
+    "video_id": "zF7oAUZ6ZFM",
+    "title": "United Plugins - Mirror No Talking  Demo",
+    "channel": "felice music labs",
     "score": 8,
     "source": "yt_api_fill"
   },
@@ -3398,12 +3426,33 @@
     "score": 12,
     "source": "yt_api_fill"
   },
+  "Waves API 2500": {
+    "video_id": "kECueq-GMEI",
+    "title": "Waves API 2500 - Drum Bus",
+    "channel": "3rdStoreyChemist",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
   "Waves Abbey Road Reverb Plates": {
     "video_id": "Uf9mZ9U0s5o",
     "title": "Introducing the Waves Abbey Road Reverb Plates Plugin",
     "channel": "Waves Audio",
     "source": "pb_page",
     "official": true
+  },
+  "Waves CLA-2A": {
+    "video_id": "eKlmyeDTVnw",
+    "title": "Waves cla-2a on Acoustic Guitar (Plugin Demo/Tutorial)",
+    "channel": "Nathan Gold Mixing",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "Waves CLA-76": {
+    "video_id": "2mF7A3J6plU",
+    "title": "Waves CLA-76 Tutorial for Vocals | LV1 Plugin Demo",
+    "channel": "Drew Brashler",
+    "score": 10,
+    "source": "yt_api_fill"
   },
   "Waves Gold Bundle": {
     "video_id": "2s3yU14xpJ8",
@@ -3447,6 +3496,13 @@
     "source": "pb_page",
     "official": true
   },
+  "Waves Renaissance Reverb": {
+    "video_id": "cAd_Qaa4Irk",
+    "title": "Waves Renaissance Reverb overview",
+    "channel": "Czar",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "Waves Tune Real-Time": {
     "video_id": "wEYV9FH91Vo",
     "title": "Waves Tune Real-Time – Plugin Tutorial and Demo with Dave Darlington",
@@ -3462,6 +3518,13 @@
     "source": "pb_page",
     "official": true
   },
+  "Wavesfactory Cassette": {
+    "video_id": "2kNffCjo_W4",
+    "title": "Wavesfactory Cassette plugin demo. Does it sound like a real cassette?",
+    "channel": "Steve Baker - Producer, Musician, Mixer",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "Wavesfactory Spectre": {
     "video_id": "PjaBwQQ8tKA",
     "title": "TMT | Mixing Bass for Small Speakers with Harmonic Saturation Tutorial | WavesFactory Spectre",
@@ -3476,6 +3539,27 @@
     "source": "pb_page",
     "official": false
   },
+  "XLN Audio Addictive Keys": {
+    "video_id": "ASp_M5HQzT0",
+    "title": "XLN Audio - Addictive Keys",
+    "channel": "XLN Audio",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
+  "XLN Audio DS 10 Drum Shaper": {
+    "video_id": "8vv20mJmvNA",
+    "title": "XLN Audio DS 10 Drum Shaper VST/AU plugin in action",
+    "channel": "Computer Music",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
+  "XLN Audio Life": {
+    "video_id": "LEgI6k3mmtU",
+    "title": "XLN Audio LIFE - Create Infinite Beats From Any Sound - Tutorial & Demo - VST, AU, AAX (64-bit)",
+    "channel": "The Sound Test Room",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "XLN Audio RC-20 Retro Color": {
     "video_id": "tba_KPAzDvk",
     "title": "ローファイ・サウンドの決定版 XLN Audio RC-20 Retro Color を1分で解説",
@@ -3483,6 +3567,13 @@
     "score": 7,
     "source": "article_embed",
     "official": false
+  },
+  "XLN Audio XO": {
+    "video_id": "hbxcu7hzKmM",
+    "title": "Generate infinite beats with XO by XLN Audio",
+    "channel": "XLN Audio",
+    "score": 8,
+    "source": "yt_api_fill"
   },
   "XV-5080": {
     "video_id": "qoawaFG6Q_g",
@@ -3499,6 +3590,13 @@
     "score": 8,
     "source": "yt_api_fill"
   },
+  "Xpand!2": {
+    "video_id": "fJ9tJRSCk60",
+    "title": "AIR Music Technology Xpand!2 Overview and Walkthrough",
+    "channel": "AIR Music Tech",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "ZENOLOGY PRO": {
     "video_id": "l5pBmPZsmXQ",
     "title": "Roland Cloud ZENOLOGY Pro v2 Overview",
@@ -3512,6 +3610,20 @@
     "channel": "Erica Synths",
     "source": "pb_page",
     "official": false
+  },
+  "iZotope FXEQ": {
+    "video_id": "MMLKDSc0fQI",
+    "title": "Introducing FXEQ, creative FX done differently | iZotope",
+    "channel": "iZotope, Inc.",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
+  "iZotope Insight 2": {
+    "video_id": "zBjdTQE3630",
+    "title": "How to Use Everything in iZotope Insight 2 | Intelligent Metering Plug-in",
+    "channel": "iZotope, Inc.",
+    "score": 13,
+    "source": "yt_api_fill"
   },
   "iZotope Iris 2": {
     "video_id": "96C-5OifLcM",
@@ -3582,6 +3694,13 @@
     "source": "pb_page",
     "official": true
   },
+  "iZotope Trash": {
+    "video_id": "l1gx7lRXHVE",
+    "title": "Re-introducing iZotope Trash | What's new in our iconic distortion plugin",
+    "channel": "iZotope, Inc.",
+    "score": 11,
+    "source": "yt_api_fill"
+  },
   "iZotope Trash 2": {
     "video_id": "xqzbiTSPhaA",
     "title": "Video de Características | Trash 2 de iZotope",
@@ -3641,6 +3760,20 @@
     "score": 8,
     "source": "yt_api_fill"
   },
+  "u-he Diva": {
+    "video_id": "LeSAuSUayFE",
+    "title": "u-he Diva Virtual Analog Synth Plug-in Demo",
+    "channel": "Sweetwater",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
+  "u-he Hive 2": {
+    "video_id": "BETuhiZGZFE",
+    "title": "U-he | HIVE v2.1.1 | Presets Preview (No Talking)",
+    "channel": "Simon Le Grec",
+    "score": 10,
+    "source": "yt_api_fill"
+  },
   "u-he Presswerk": {
     "video_id": "OwZqKc_j7qA",
     "title": "u-he Presswerk Musikmesse Demo",
@@ -3649,6 +3782,13 @@
     "source": "yt_api_fill",
     "official": true
   },
+  "u-he Repro": {
+    "video_id": "hjcsG9iXx7I",
+    "title": "U-HE REPRO DEMO - Orchestral Manoeuvres In The Dark",
+    "channel": "Woody Piano Shack",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "u-he Satin": {
     "video_id": "jZ_06w0zTu8",
     "title": "u-he Satin Basics, Part 1: Studio",
@@ -3656,11 +3796,25 @@
     "source": "pb_page",
     "official": true
   },
+  "u-he Uhbik 2": {
+    "video_id": "uBmO99l1jE4",
+    "title": "u-he Uhbik 2.0 Creative FX Plug-ins On A Mix",
+    "channel": "sonicstate",
+    "score": 9,
+    "source": "yt_api_fill"
+  },
   "u-he Zebra Legacy": {
     "video_id": "DUtyLH3AJdY",
     "title": "Zebra Motions Bundle - +337 Immersive sounds for U-He Zebra Legacy and Zebra HZ - Preset Showcase 1",
     "channel": "Ocean Swift / Faxi Nadu",
     "score": 8,
+    "source": "yt_api_fill"
+  },
+  "u-he Zebralette 3": {
+    "video_id": "W_J50lR3X1w",
+    "title": "u-he Zebralette 3 (Free) - Demo by Crazik",
+    "channel": "cra zik",
+    "score": 10,
     "source": "yt_api_fill"
   }
 }
