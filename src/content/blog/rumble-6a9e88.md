@@ -15,7 +15,7 @@ saleExpiry: "2026-12-24"
 saleExpirySource: "fallback"
 draft: false
 ---
-**TL;DR:** Rumble is on sale at Plugin Boutique at 50% off its regular ~~$199~~ price. If you've been eyeing a drum plugin known for high-quality drum sounds, this is the kind of markdown that's worth checking out. [Grab Rumble at Plugin Boutique](https://www.pluginboutique.com/search?q=Rumble&a_aid=69cb95abe1763&chan=art&data1=rumble-6a9e88&utm_source=plugindrop&utm_medium=article&utm_campaign=rumble-6a9e88) while the deal is live.
+**TL;DR:** Rumble is on sale at Plugin Boutique at 50% off its regular ~~$199~~ price. If you've been eyeing a drum plugin known for high-quality drum sounds, this is the kind of markdown that's worth checking out. [Grab Rumble at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/17445-Rumble?a_aid=69cb95abe1763&chan=art&data1=rumble-6a9e88&utm_source=plugindrop&utm_medium=article&utm_campaign=rumble-6a9e88) while the deal is live.
 
 <div class="audio-embed">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" title="50% Off Rumble — High-Quality Drum Sounds — audio demo" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A2250794723&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>

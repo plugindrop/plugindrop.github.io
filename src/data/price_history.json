@@ -87802,7 +87802,9 @@
           "until": "2026-12-31"
         }
       ],
-      "image": "/images/plugin-prices/native-instruments-nacht.jpg"
+      "image": "/images/plugin-prices/native-instruments-nacht.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-nacht-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Psyche Delay": {
       "pb_url": "/product/2-Effects/10-Delay/16332-Psyche-Delay",
@@ -88390,7 +88392,9 @@
           "until": "2026-12-31"
         }
       ],
-      "image": "/images/plugin-prices/native-instruments-reaktor-6.jpg"
+      "image": "/images/plugin-prices/native-instruments-reaktor-6.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-reaktor-6-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Replika XT": {
       "pb_url": "/product/2-Effects/10-Delay/10999-Replika-XT",
@@ -88754,7 +88758,9 @@
           "until": "2026-12-31"
         }
       ],
-      "image": "/images/plugin-prices/native-instruments-replika-xt.jpg"
+      "image": "/images/plugin-prices/native-instruments-replika-xt.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-replika-xt-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Roux": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15872-Roux",
@@ -88955,7 +88961,9 @@
           "until": "2026-12-31"
         }
       ],
-      "image": "/images/plugin-prices/native-instruments-roux.jpg"
+      "image": "/images/plugin-prices/native-instruments-roux.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-roux-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Scene Bloodplant": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/16677-Scene-Bloodplant",
@@ -89192,7 +89200,9 @@
           "until": "2026-12-31"
         }
       ],
-      "image": "/images/plugin-prices/native-instruments-scene-bloodplant.jpg"
+      "image": "/images/plugin-prices/native-instruments-scene-bloodplant.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-scene-bloodplant-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Scene Lotus": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15844-Scene-Lotus",
@@ -89429,7 +89439,9 @@
           "until": "2026-12-31"
         }
       ],
-      "image": "/images/plugin-prices/native-instruments-scene-lotus.jpg"
+      "image": "/images/plugin-prices/native-instruments-scene-lotus.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-scene-lotus-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Scene Nightshade": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15845-Scene-Nightshade",
@@ -89666,7 +89678,9 @@
           "until": "2026-12-31"
         }
       ],
-      "image": "/images/plugin-prices/native-instruments-scene-nightshade.jpg"
+      "image": "/images/plugin-prices/native-instruments-scene-nightshade.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-scene-nightshade-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Scene Saffron": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15878-Scene-Saffron",
@@ -89903,7 +89917,9 @@
           "until": "2026-12-31"
         }
       ],
-      "image": "/images/plugin-prices/native-instruments-scene-saffron.jpg"
+      "image": "/images/plugin-prices/native-instruments-scene-saffron.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-scene-saffron-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Session Ukulele": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15885-Session-Ukulele",
@@ -90104,7 +90120,9 @@
           "until": "2026-12-31"
         }
       ],
-      "image": "/images/plugin-prices/native-instruments-session-ukulele.jpg"
+      "image": "/images/plugin-prices/native-instruments-session-ukulele.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-session-ukulele-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Strummed Acoustic 2": {
       "pb_url": "https://www.pluginboutique.com/search?q=Native%20Instruments%20Strummed%20Acoustic%202",
@@ -90357,7 +90375,9 @@
           "until": "2026-12-31"
         }
       ],
-      "image": "/images/plugin-prices/native-instruments-super-saw.jpg"
+      "image": "/images/plugin-prices/native-instruments-super-saw.jpg",
+      "image_lg": "/images/plugin-prices/native-instruments-super-saw-lg.jpg",
+      "image_lg_width": 625
     },
     "Native Instruments Supercharger GT": {
       "pb_url": "/product/2-Effects/8-Compressor/11005-Supercharger-GT",
@@ -184664,7 +184684,8 @@
       ],
       "article_slug": "rumble-6a9e88",
       "all_time_low": 99.5,
-      "typical_sale": 99.5
+      "typical_sale": 99.5,
+      "image": "/images/plugin-prices/rumble.jpg"
     },
     "Native Instruments Cremona Quartet Ensemble": {
       "pb_url": "/product/1-Instruments/55-Kontakt-Instrument/15912-Cremona-Quartet-Ensemble",
@@ -184683,7 +184704,8 @@
           "cur": "USD",
           "until": "2026-12-31"
         }
-      ]
+      ],
+      "image": "/images/plugin-prices/native-instruments-cremona-quartet-ensemble.jpg"
     },
     "Chain Pop Vol 1": {
       "pb_url": "https://www.adsrsounds.com/product/presets/chain-pop-vol-1/",
@@ -184700,7 +184722,8 @@
       ],
       "article_slug": "chain-pop-vol-1-ac4ebe",
       "all_time_low": 20.0,
-      "typical_sale": 20.0
+      "typical_sale": 20.0,
+      "image": "/images/plugin-prices/chain-pop-vol-1.jpg"
     }
   }
 }
