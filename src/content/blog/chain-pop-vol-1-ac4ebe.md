@@ -8,13 +8,12 @@ heroImage: "/images/chain-pop-vol-1-ac4ebe.jpg"
 score: 9.82
 rawScore: 9.82
 productKey: "Chain Pop Vol 1"
-priceRecordPending: true
 dealPrice: "$20"
 originalPrice: "$869"
 discount: "98% OFF"
 saleExpiry: "2026-12-24"
 saleExpirySource: "fallback"
-draft: true
+draft: false
 ---
 **TL;DR:** Chain Pop Vol 1 is now on sale for 98% off at ADSR Sounds — a massive discount on a pop music preset pack normally priced at ~~$869~~. This deal is ideal for producers looking to add catchy, versatile sounds to their workflow. [Get the deal here](https://www.adsrsounds.com/product/presets/chain-pop-vol-1/?a_aid=plugindrop&data1=chain-pop-vol-1-ac4ebe&utm_source=plugindrop&utm_medium=article&utm_campaign=chain-pop-vol-1-ac4ebe).
 

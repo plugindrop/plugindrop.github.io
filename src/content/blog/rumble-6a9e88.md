@@ -8,13 +8,12 @@ heroImage: "/images/rumble-6a9e88.jpg"
 score: 10.00
 rawScore: 12.38
 productKey: "Rumble"
-priceRecordPending: true
 dealPrice: "$99.50"
 originalPrice: "$199.00"
 discount: "50% OFF"
 saleExpiry: "2026-12-24"
 saleExpirySource: "fallback"
-draft: true
+draft: false
 ---
 **TL;DR:** Rumble is on sale at Plugin Boutique at 50% off its regular ~~$199~~ price. If you've been eyeing a drum plugin known for high-quality drum sounds, this is the kind of markdown that's worth checking out. [Grab Rumble at Plugin Boutique](https://www.pluginboutique.com/search?q=Rumble&a_aid=69cb95abe1763&chan=art&data1=rumble-6a9e88&utm_source=plugindrop&utm_medium=article&utm_campaign=rumble-6a9e88) while the deal is live.
 
