@@ -13743,5 +13743,55 @@
     "maker_quote": "Outrun EP.1 is the next level cyberpunk-inspired serum soundset, bringing you Evolving lush cinematic leads.",
     "maker_quote_source_url": "https://www.adsrsounds.com/product/presets/outrun-ep-1-for-serum/",
     "maker_quote_retrieved": "2026-11-24"
+  },
+  "Native Instruments Cremona Quartet Ensemble": {
+    "pbProductId": "15912",
+    "brand": null,
+    "product": "Native Instruments Cremona Quartet Ensemble",
+    "category": null,
+    "tagline": "Four cherished Cremona string instruments dating back to the 1600s",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15912-Cremona-Quartet-Ensemble",
+    "retrieved": "2026-11-25",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15912-Cremona-Quartet-Ensemble",
+    "tagline_source_quote": "cherished string instruments dating back to the 1600s",
+    "tagline_checked": "2026-11-25",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "Known as the birthplace of strings, the Italian city of Cremona has a long and special history.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/15912-Cremona-Quartet-Ensemble",
+    "maker_quote_retrieved": "2026-11-25"
+  },
+  "Rumble": {
+    "pbProductId": "17445",
+    "brand": null,
+    "product": "Rumble",
+    "category": null,
+    "tagline": "Multiband bass synth with vocal-formant synthesis and analog warmth",
+    "source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17445-Rumble",
+    "retrieved": "2026-11-25",
+    "machine_checks": {
+      "quote_in_source": true,
+      "grounded_noun": true,
+      "lint_pass": true
+    },
+    "tagline_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17445-Rumble",
+    "tagline_source_quote": "vocal-formant synthesis, drone textures, percussive transients, cinematic motion, vintage analog warmth",
+    "tagline_checked": "2026-11-25",
+    "tagline_model": "claude-sonnet (cli)",
+    "status": "ok",
+    "reject_reason": null,
+    "validator_version": 2,
+    "attempts": 3,
+    "maker_quote": "To deliver that, Rumble’s architecture treats each frequency band as a full synthesizer engine.",
+    "maker_quote_source_url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17445-Rumble",
+    "maker_quote_retrieved": "2026-11-25"
   }
 }
