@@ -2,7 +2,7 @@
 title: Black Friday 2026 Native Instruments Deals
 description: Tracked Black Friday price drops for Native Instruments plugins.
 pubDate: '2026-11-23'
-updatedDate: '2026-11-24T22:24:04.020591+00:00'
+updatedDate: '2026-11-25T10:10:07.088454+00:00'
 tags:
 - black-friday
 - vst
@@ -10,7 +10,6 @@ tags:
 evergreen: false
 draft: false
 priceTrack:
-- Native Instruments Scene Bloodplant
 - Native Instruments Traktor Play
 - Native Instruments FM8
 - Native Instruments Massive
@@ -30,17 +29,12 @@ priceTrack:
 - Native Instruments Halo Vox
 - Native Instruments Hypr
 - Native Instruments Luxa
+- Native Instruments Nacht
 heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
 
 **TL;DR:** Track temporary price drops for 20 plugins and see [our evergreen comparisons](/brands/native-instruments/) for longer-term research.
-
-## Native Instruments Scene Bloodplant
-<!-- role:pick -->
-<!-- pick:Native Instruments Scene Bloodplant -->
-
-Native Instruments Scene Bloodplant suits producers working in dystopian, sci-fi, or industrial-leaning styles who want distorted guitars, futuristic synths, and warped textures without building sounds from scratch. They can load it in Kontakt or the free Kontakt Player, blend between its 16 hybrid sound layers, effects, and controls to shape a tone, and use its built-in scales and modes to keep performances in key.
 
 ## Native Instruments Traktor Play
 <!-- role:pick -->
@@ -139,6 +133,10 @@ Native Instruments Glaze 2 is best suited to pop and hip hop producers who want 
 ## Native Instruments Luxa
 <!-- role:pick -->
 <!-- pick:Native Instruments Luxa -->
+
+## Native Instruments Nacht
+<!-- role:pick -->
+<!-- pick:Native Instruments Nacht -->
 
 ## Explore more
 <!-- role:related -->

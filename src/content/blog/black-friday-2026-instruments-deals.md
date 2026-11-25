@@ -2,7 +2,7 @@
 title: Black Friday 2026 Virtual Instruments Deals
 description: Tracked Black Friday price drops for Virtual Instruments plugins.
 pubDate: '2026-11-23'
-updatedDate: '2026-11-24T22:24:04.020591+00:00'
+updatedDate: '2026-11-25T10:10:07.088454+00:00'
 tags:
 - black-friday
 - vst
@@ -15,10 +15,10 @@ priceTrack:
 - Bloom KSHMR
 - Heavyocity Ascend
 - Cherry Audio Blue3 Tonewheel Organ
-- Native Instruments Scene Bloodplant
 - Cherry Audio Wurlybird 140B
 - Native Instruments Action Strings 2
 - Native Instruments Kontakt 8
+- Arturia V Collection 11 Pro
 - Native Instruments Scene Lotus
 - Native Instruments Scene Nightshade
 - Output Analog Brass and Winds
@@ -64,12 +64,6 @@ Heavyocity Ascend suits cinematic composers who want a deeply detailed, warm-sou
 
 Cherry Audio Blue3 Tonewheel Organ suits organists and keyboardists working across blues, gospel, rock, and jazz who want authentic tonewheel tones with full polyphony across upper, lower, and pedal manuals. Players can shape their sound using the drawbar utilities, scanner vibrato/chorus, adjustable rotary speaker and microphone settings, and the built-in tape echo, reverb, and seven-band EQ, or start from one of the over 200 included presets.
 
-## Native Instruments Scene Bloodplant
-<!-- role:pick -->
-<!-- pick:Native Instruments Scene Bloodplant -->
-
-Native Instruments Scene Bloodplant suits Kontakt/Kontakt Player users who want dystopian sci-fi textures built from distorted guitars, futuristic synths, and warped sounds for cinematic scoring work. They can blend between its 16 hybrid sound layers, effects, and controls while using its scale and mode options to keep performances in key, running it on a free Kontakt Player (8.7.1+) or full Kontakt on either macOS 13–15 or Windows 10/11.
-
 ## Cherry Audio Wurlybird 140B
 <!-- role:pick -->
 <!-- pick:Cherry Audio Wurlybird 140B -->
@@ -87,6 +81,12 @@ Native Instruments Action Strings 2 suits composers and producers working on cin
 <!-- pick:Native Instruments Kontakt 8 -->
 
 Native Instruments Kontakt 8 suits producers and sound designers who want a single platform to find, create, and transform sounds, offering smart Chords and Phrases tools, the Leap looping engine with genre-focused expansions, and the Conflux hybrid oscillator for real-time sound manipulation. Users can draw on the Kontakt 8 Factory Library 2's 900+ instruments, build their own instruments by dragging in samples, and pair the software with Kontrol keyboards or Maschine hardware for hands-on browsing, auto-mapping, and parameter control.
+
+## Arturia V Collection 11 Pro
+<!-- role:pick -->
+<!-- pick:Arturia V Collection 11 Pro -->
+
+Arturia V Collection 11 Pro suits music makers who want a single suite spanning vintage-to-futuristic analog, digital, sampler-based, and electro-acoustic instrument sounds for production work. On compatible 64-bit systems (macOS 11+ or Windows 10+), they can use it standalone or load it as a VST, AAX, Audio Unit, or NKS plugin within their DAW, navigating and tweaking sounds through its refined interface and Analog Lab Pro's unified browser.
 
 ## Native Instruments Scene Lotus
 <!-- role:pick -->

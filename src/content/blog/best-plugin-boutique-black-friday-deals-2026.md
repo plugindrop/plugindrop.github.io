@@ -2,7 +2,7 @@
 title: 'Black Friday 2026 Plugin Deals: Real Price Drops We Tracked'
 description: Black Friday plugin deals based on price drops we observed.
 pubDate: '2026-06-08T00:00:00Z'
-updatedDate: '2026-11-24T22:24:04.020591+00:00'
+updatedDate: '2026-11-25T10:10:07.088454+00:00'
 tags:
 - guide
 - vst
@@ -22,20 +22,20 @@ priceTrack:
 - Model 80 Five Voice Synthesizer
 - Soundtoys Decapitator
 - Soundtoys Crystallizer
-- Soundtoys FilterFreak
 - Virtual Guitarist Bundle
 - iZotope Trash
-- Soundtoys PanMan
 - SubLab XL
 - Bloom KSHMR
 - Heavyocity Ascend
 - UAD EMT 140 Classic Plate Reverberator
+- UAD Manley Vari Mu
 - UNMIX::DRUMS
 - DeNoizzer
 - MAutoAlign
 - 'Motion: Fractal'
 - Decimort 2
 - Devastor 2
+- Sonible smart:EQ 4
 heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
@@ -52,7 +52,6 @@ heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 - Waves CLA-76
 - Waves H-Reverb
 - iZotope Trash
-- Soundtoys PanMan
 - SubLab XL
 - Bloom KSHMR
 - DeNoizzer
@@ -111,10 +110,6 @@ Soundtoys Decapitator suits mixers who want to add analog-style saturation and c
 <!-- role:pick -->
 <!-- pick:Soundtoys Crystallizer -->
 
-## Soundtoys FilterFreak
-<!-- role:pick -->
-<!-- pick:Soundtoys FilterFreak -->
-
 ## Virtual Guitarist Bundle
 <!-- role:pick -->
 <!-- pick:Virtual Guitarist Bundle -->
@@ -124,12 +119,6 @@ The Virtual Guitarist Bundle suits guitarists and producers who want ready-made,
 ## iZotope Trash
 <!-- role:pick -->
 <!-- pick:iZotope Trash -->
-
-## Soundtoys PanMan
-<!-- role:pick -->
-<!-- pick:Soundtoys PanMan -->
-
-PanMan suits producers and mix engineers who want panning to feel like part of the performance rather than a static placement choice, such as making a sound sweep whenever the snare hits or tying pan movement to a vocal's loudness. They can use its Step or Shape rhythm modes to build tempo-locked patterns, set a trigger threshold so the track's own dynamics drive width, speed, and offset, and dial in one of the seven analog modes for added saturation when pushed harder.
 
 ## SubLab XL
 <!-- role:pick -->
@@ -152,6 +141,12 @@ Heavyocity Ascend: Modern Grand suits cinematic composers who want a deeply samp
 <!-- pick:UAD EMT 140 Classic Plate Reverberator -->
 
 The UAD EMT 140 Classic Plate Reverberator suits mixers and producers who want the warm, authentic plate reverb sound heard on iconic recordings, particularly for making lead vocal tracks stand out in a dense mix. They can shape that tone using the plug-in's damping and filter controls, along with its Balance, Width, and Modulation settings.
+
+## UAD Manley Vari Mu
+<!-- role:pick -->
+<!-- pick:UAD Manley Vari Mu -->
+
+The UAD Manley Vari Mu suits mixing and mastering engineers who need glue and tonal cohesion across individual tracks, stereo buses, or a full mix. They can use it by linking channels for a matched stereo image, choosing Left/Right or Mid/Side operation to shape stereo imaging, and dialing in the plug-in's Dry/Wet Mix control for parallel compression.
 
 ## UNMIX::DRUMS
 <!-- role:pick -->
@@ -179,6 +174,12 @@ DeNoizzer suits producers and engineers cleaning up imperfect recordings, such a
 <!-- role:pick -->
 <!-- pick:Devastor 2 -->
 
+## Sonible smart:EQ 4
+<!-- role:pick -->
+<!-- pick:Sonible smart:EQ 4 -->
+
+Sonible smart:EQ 4 suits producers and mixing engineers who want an AI-assisted approach to spectral balance across vocals, drums, bass, and full mixes rather than manual band-by-band equalizing. They can apply its smart:filter to individual tracks or busses using genre-based Mix Profiles or an imported reference track, and use Group mode to set an unmasking hierarchy across up to ten instances for a top-down approach to mixing.
+
 ## Explore more
 <!-- role:related -->
 
@@ -188,7 +189,6 @@ DeNoizzer suits producers and engineers cleaning up imperfect recordings, such a
 - [Virtual Instruments](/posts/black-friday-2026-instruments-deals/)
 - [Mixing Effects](/posts/black-friday-2026-mixing-effects-deals/)
 - [Native Instruments](/posts/black-friday-2026-native-instruments-deals/)
-- [Soundtoys](/posts/black-friday-2026-soundtoys-deals/)
 - [Synths and Drum Machines](/posts/black-friday-2026-synths-deals/)
 
 [Browse plugin brands](/brands/) · [Browse plugin categories](/best/)

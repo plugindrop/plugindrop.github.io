@@ -2,7 +2,7 @@
 title: Black Friday 2026 Mixing Effects Deals
 description: Tracked Black Friday price drops for Mixing Effects plugins.
 pubDate: '2026-11-23'
-updatedDate: '2026-11-24T22:24:04.020591+00:00'
+updatedDate: '2026-11-25T10:10:07.088454+00:00'
 tags:
 - black-friday
 - vst
@@ -15,12 +15,9 @@ priceTrack:
 - Waves H-Reverb
 - Soundtoys Decapitator
 - Soundtoys Crystallizer
-- Soundtoys FilterFreak
-- Soundtoys PanMan
 - UAD EMT 140 Classic Plate Reverberator
 - Sonible smart:EQ 4
 - Soundtoys Devil-Loc Deluxe
-- Soundtoys MicroShift
 - Cherry Audio Filtomika
 - Motion Bundle Upgrade from any Motion product
 - BALANCE
@@ -30,6 +27,9 @@ priceTrack:
 - Shade
 - Native Instruments Replika XT
 - Native Instruments Supercharger GT
+- dime[ms]
+- iZotope FXEQ
+- LANG PEQ-2
 heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
@@ -64,16 +64,6 @@ Soundtoys Decapitator suits mixers and producers who want to add analog-style sa
 <!-- role:pick -->
 <!-- pick:Soundtoys Crystallizer -->
 
-## Soundtoys FilterFreak
-<!-- role:pick -->
-<!-- pick:Soundtoys FilterFreak -->
-
-## Soundtoys PanMan
-<!-- role:pick -->
-<!-- pick:Soundtoys PanMan -->
-
-PanMan suits producers and mixers who want rhythmic, tempo-locked panning effects beyond simple left-right movement, including those who miss the character of classic hardware panning boxes. They can trigger and shape the panning using Step or Shape rhythm modes synced to their host, let track dynamics (via the threshold control) or frequency-filtered triggers drive the width, speed, and offset, and dial in one of seven analog modes for added saturation and vintage tone.
-
 ## UAD EMT 140 Classic Plate Reverberator
 <!-- role:pick -->
 <!-- pick:UAD EMT 140 Classic Plate Reverberator -->
@@ -91,12 +81,6 @@ smart:EQ 4 suits mixing engineers and producers who want AI-assisted spectral ba
 <!-- pick:Soundtoys Devil-Loc Deluxe -->
 
 Soundtoys Devil-Loc Deluxe suits producers and engineers working with drums, room mics, vocals, acoustic guitar, or lo-fi loops who want an extreme, gritty compression effect capable of making tracks sound huge and dark. They can dial in the amount of grit with the Mix knob, shape tone with the Darkness control, and choose fast or slow release times to fit the source material.
-
-## Soundtoys MicroShift
-<!-- role:pick -->
-<!-- pick:Soundtoys MicroShift -->
-
-MicroShift suits mixing engineers and producers who need to widen background vocals, lead guitars, or synths without a complicated setup, offering three distinct widening flavours modeled on classic hardware pitch shifters. They can use the Delay and Detune controls to shape the amount of time-varying delay and micro pitch shifting, the Focus knob to remove muddy low and mid frequencies, and the included Little MicroShift for a simpler one-knob option when they just want quick width with minimal adjustment.
 
 ## Cherry Audio Filtomika
 <!-- role:pick -->
@@ -135,6 +119,18 @@ Filtomika suits producers who want to push drums, guitars, synths, or vocals thr
 ## Native Instruments Supercharger GT
 <!-- role:pick -->
 <!-- pick:Native Instruments Supercharger GT -->
+
+## dime[ms]
+<!-- role:pick -->
+<!-- pick:dime[ms] -->
+
+## iZotope FXEQ
+<!-- role:pick -->
+<!-- pick:iZotope FXEQ -->
+
+## LANG PEQ-2
+<!-- role:pick -->
+<!-- pick:LANG PEQ-2 -->
 
 ## Explore more
 <!-- role:related -->
