@@ -15,7 +15,7 @@ relatedPosts:
   - "serum-vs-vital-comparison"
   - "best-synth-vst-plugins-2026"
   - "free-alternative-to-serum-vst"
-heroImage: '/images/when-does-serum-go-on-sale.jpg'
+heroImage: '/images/does-serum-ever-go-on-sale.jpg'
 ---
 
 **TL;DR:** Xfer lists the standard Serum 2 perpetual license at **$249.00 USD** (checked 2026-10-01). PluginDrop tracks no confirmed recurring sale on that license. An older $99 introductory-offer row from 2025-03-20 has no verified retailer or license type, so it doesn't count as a sale. Splice offers a Rent-to-Own route at **$9.99/month for 25 months**. Free and discounted alternatives exist if the upfront cost is a barrier.
