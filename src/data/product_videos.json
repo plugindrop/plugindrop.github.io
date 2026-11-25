@@ -820,11 +820,11 @@
     "official": false
   },
   "Devastor 2": {
-    "video_id": "tZkAhFnGE3I",
-    "title": "D16 Devastor 2 Demo: Can You Mix Only Using Saturation?",
-    "channel": "Tobisonics",
-    "score": 8,
-    "source": "yt_api_fill"
+    "video_id": "bsqd9il_P0g",
+    "title": "D16 Group Devastor 2",
+    "channel": "Rekkerd",
+    "source": "pb_page",
+    "official": false
   },
   "Digitalis": {
     "video_id": "kXQvM1YiANI",
@@ -3736,6 +3736,13 @@
     "source": "pb_page",
     "official": false
   },
+  "VPS Avenger 2": {
+    "video_id": "jeb1LepNX0s",
+    "title": "Top 5 New Features - VPS Avenger 2",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
   "VRAC+": {
     "video_id": "ynRCz_9pnFk",
     "title": "VRAC+ Walkthrough with Felid",
@@ -4102,11 +4109,11 @@
     "official": false
   },
   "iZotope FXEQ": {
-    "video_id": "MMLKDSc0fQI",
-    "title": "Introducing FXEQ, creative FX done differently | iZotope",
-    "channel": "iZotope, Inc.",
-    "score": 10,
-    "source": "yt_api_fill"
+    "video_id": "xmMLfwSPytU",
+    "title": "New Unique iZotope FX Plugin",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
   },
   "iZotope Insight 2": {
     "video_id": "yg06Ir385Ck",
@@ -4206,11 +4213,11 @@
     "official": true
   },
   "iZotope Trash": {
-    "video_id": "l1gx7lRXHVE",
-    "title": "Re-introducing iZotope Trash | What's new in our iconic distortion plugin",
-    "channel": "iZotope, Inc.",
-    "score": 11,
-    "source": "yt_api_fill"
+    "video_id": "d_WNn5FfYbg",
+    "title": "It's Finally HERE?!",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
   },
   "iZotope Trash 2": {
     "video_id": "xqzbiTSPhaA",
