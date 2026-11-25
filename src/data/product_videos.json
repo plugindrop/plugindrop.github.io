@@ -425,6 +425,13 @@
     "score": 8,
     "source": "yt_api_fill"
   },
+  "Chain Pop Vol 1": {
+    "video_id": "2Nxc97Dsnws",
+    "title": "Chain-Pop Vol. 1 Preview (Serum presets & more!)",
+    "channel": "Aubit Sound",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "Cherry Audio Atomika": {
     "video_id": "Hs6qnoiShFg",
     "title": "Cherry Audio | Atomika Synthesizer",
@@ -2639,6 +2646,13 @@
     "source": "pb_page",
     "official": false
   },
+  "Serum": {
+    "video_id": "fJTEjZUd2D4",
+    "title": "Serum 2 by Xfer Records - No talking demo",
+    "channel": "ADL-MusicLab",
+    "score": 8,
+    "source": "yt_api_fill"
+  },
   "Serum 2": {
     "video_id": "3gjqON4gTQU",
     "title": "Dubstep Serum 2 Presets Demo",
@@ -3001,6 +3015,13 @@
     "channel": "Leapwing",
     "source": "pb_page",
     "official": false
+  },
+  "SubBoomBass 2": {
+    "video_id": "esOjo0fO1fQ",
+    "title": "SubBoomBass 2 Synthesizer by Rob Papen (No Talking)",
+    "channel": "Elektronick Musick",
+    "score": 8,
+    "source": "yt_api_fill"
   },
   "SubLab XL": {
     "video_id": "spLsQSPi1oQ",
