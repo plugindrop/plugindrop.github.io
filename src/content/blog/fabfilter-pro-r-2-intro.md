@@ -17,6 +17,11 @@ officialUrl: "https://www.fabfilter.com/"
 
 **TL;DR:** FabFilter Pro-R 2 is a reverb plug-in for producers and mixing engineers who want detailed control over room character, including immersive setups up to 9.1.6 Dolby Atmos. Its Decay Rate EQ lets you shape how the reverb decays across the frequency spectrum using parametric EQ bands, and it also offers a set of distinct room types. Space moves from tiny boxes to vast arenas while matching decay time to the room model you pick, Vintage brings long, bright, hyper-real ambience drawn from early digital reverb units, and Plate adds a metallic plate-reverb texture. Thickness adds program-dependent density, saturation, and compression, while Ducking lowers the wet signal whenever the dry signal is present, so the two don't have to compete. Together these options make it a practical choice for drums and vocals that call for plate reverb, and for mixes that need long, bright, hyper-real spatial ambience without digging through a long list of separate settings.
 
+
+<div class="video-embed">
+<iframe width="100%" height="400" loading="lazy" src="https://www.youtube-nocookie.com/embed/YOPtf-3RSo4" title="FabFilter Pro-C 3 - 232 Presets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="aspect-ratio:16/9;max-width:100%;border-radius:8px;margin:0.5rem 0 1rem"></iframe>
+</div>
+
 ## What Pro-R 2 Does And How You Shape It
 <!-- role:intro -->
 <!-- pick:FabFilter Pro-R 2 -->
