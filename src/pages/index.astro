@@ -23,7 +23,7 @@ const now = Date.now();
 const entries = { ...priceData.bundles, ...priceData.plugins };
 const posts = (await getCollection('blog')).filter(p => !p.data.draft && !p.data.noindex && p.data.pubDate.valueOf() <= now);
 const pool = buildDealPool(entries, posts, now);
-const cards = pool.map(deal => toCardModel(deal, { entries, priceData, now, videos, copy, facts })).sort((a, b) => (a.image.kind === 'typographic') - (b.image.kind === 'typographic'));
+const cards = pool.map(deal => toCardModel(deal, { entries, priceData, now, videos, copy, facts })).filter(card => !/^https?:\/\//.test(card.href)).sort((a, b) => (a.image.kind === 'typographic') - (b.image.kind === 'typographic')); // store-direct cards excluded (CI check_card_bodies)
 const spotlight = pickSpotlight(cards);
 const hotCandidates = cards.filter(c => !c.aboveUsual && c.key !== spotlight?.key && c.image.kind !== 'typographic');
 const hot = [...hotCandidates.filter(c => c.tagline?.trim()), ...hotCandidates.filter(c => !c.tagline?.trim())].filter((c, i, a) => !c.brand || a.findIndex(x => x.brand === c.brand) === i).slice(0, 4);

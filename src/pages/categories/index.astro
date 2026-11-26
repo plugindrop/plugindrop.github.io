@@ -66,7 +66,7 @@ const categories = [...categoryCounts.entries()]
 const totalTracked = Object.keys(plugins).length + Object.keys(bundles).length;
 const entries = { ...bundles, ...plugins };
 const now = Date.now();
-const cards = buildDealPool(entries, [], now).map(deal => toCardModel(deal, { entries, priceData, now, videos, copy }));
+const cards = buildDealPool(entries, [], now).map(deal => toCardModel(deal, { entries, priceData, now, videos, copy })).filter(card => !/^https?:\/\//.test(card.href)); // store-direct cards excluded (CI check_card_bodies)
 const cardFor = (name: string) => cards.filter(card => card.category === name && card.image.src).slice(0, 2);
 const stats = siteStats(priceData);
 
