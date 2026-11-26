@@ -214,11 +214,11 @@
     "source": "yt_api_fill"
   },
   "BFD 3.5": {
-    "video_id": "-1l8q0ZXyXE",
-    "title": "BFD 3.5 Virtual Drum Software | Overview",
-    "channel": "bfddrums",
-    "score": 8,
-    "source": "yt_api_fill"
+    "video_id": "BfjYCIJ5fdI",
+    "title": "FXpansion BFD3",
+    "channel": "FXpansion",
+    "source": "pb_page",
+    "official": false
   },
   "Baby Audio Comeback Kid": {
     "video_id": "I7cDWJgrZfw",
@@ -1894,6 +1894,13 @@
   "Motion Bundle Upgrade from any Motion product": {
     "video_id": "T_RSXMuoM1Y",
     "title": "Motion: Harmonic - Quick Start Guide",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
+  "Motion Fractal Upgrade from any Motion Lite": {
+    "video_id": "ivYiUr_H_l4",
+    "title": "Next Level Granular FX Unit",
     "channel": "Plugin Boutique",
     "source": "pb_page",
     "official": false
@@ -4067,11 +4074,11 @@
     "source": "yt_api_fill"
   },
   "Xpand!2": {
-    "video_id": "fJ9tJRSCk60",
-    "title": "AIR Music Technology Xpand!2 Overview and Walkthrough",
-    "channel": "AIR Music Tech",
-    "score": 10,
-    "source": "yt_api_fill"
+    "video_id": "30mU3641JDk",
+    "title": "Xpand!2 Multitimbral Workstation By Air Music Technology - Show & Reveal",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
   },
   "ZENOLOGY PRO": {
     "video_id": "l5pBmPZsmXQ",

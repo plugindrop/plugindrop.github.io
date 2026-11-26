@@ -15,7 +15,7 @@ saleExpiry: "2026-12-26"
 saleExpirySource: "fallback"
 draft: false
 ---
-**TL;DR:** VPS Avenger 2 is currently $149 at Plugin Boutique, down from ~~$249~~. That's a real cut, but PluginDrop's tracking shows the typical sale price sitting at $124, so this isn't the best price this synth has hit. If you need it now, [grab it at Plugin Boutique](https://www.pluginboutique.com/search?q=VPS+Avenger+2&a_aid=69cb95abe1763&chan=art&data1=vps-avenger-2-ee708c&utm_source=plugindrop&utm_medium=article&utm_campaign=vps-avenger-2-ee708c) — otherwise it's worth watching a bit longer.
+**TL;DR:** VPS Avenger 2 is currently $149 at Plugin Boutique, down from ~~$249~~. That's a real cut, but PluginDrop's tracking shows the typical sale price sitting at $124, so this isn't the best price this synth has hit. If you need it now, [grab it at Plugin Boutique](https://www.pluginboutique.com/product/1-Instruments/4-Synth/11545-VPS-Avenger-2?a_aid=69cb95abe1763&chan=art&data1=vps-avenger-2-ee708c&utm_source=plugindrop&utm_medium=article&utm_campaign=vps-avenger-2-ee708c) — otherwise it's worth watching a bit longer.
 
 <!-- deal-context-sale-windows:start -->
 ## Last three times this went on sale
