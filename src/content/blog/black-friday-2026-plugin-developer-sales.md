@@ -2,7 +2,7 @@
 title: Black Friday 2026 Plugin Developer Sales
 description: Developer Black Friday sale announcements, end dates, and official links.
 pubDate: '2026-11-27'
-updatedDate: '2026-11-27T09:29:48.435717+00:00'
+updatedDate: '2026-11-27T22:12:05.860162+00:00'
 tags:
 - black-friday
 - vst
@@ -87,7 +87,7 @@ Announced discount: up to 25%.
 
 ## SoundMorph
 
-[Official site](https://soundmorph.com/) · Announcement checked 2026-11-23.
+[Official site](https://soundmorph.com/) · Announcement checked 2026-11-27.
 
 ## Tracktion
 
@@ -95,9 +95,15 @@ Announced discount: up to 60%.
 
 [Official site](https://www.tracktion.com/) · Announcement checked 2026-11-23.
 
+## UJAM
+
+[Official site](https://www.ujam.com/) · Announcement checked 2026-11-27.
+
+[Our price history for Virtual Guitarist Bundle](/plugin-prices/virtual-guitarist-bundle/)
+
 ## Universal Audio
 
-[Official site](https://www.uaudio.com/) · Announcement checked 2026-11-25.
+[Official site](https://www.uaudio.com/) · Announcement checked 2026-11-27.
 
 [Our price history for UAD 1176 Classic Limiter Collection](/plugin-prices/uad-1176-classic-limiter-collection/)
 
@@ -112,3 +118,9 @@ Announced discount: up to 50%.
 ## Waldorf
 
 [Official site](https://waldorfmusic.com/) · Announcement checked 2026-11-23.
+
+## Waves
+
+[Official site](https://www.waves.com/) · Announcement checked 2026-11-27.
+
+[Our price history for Waves](/plugin-prices/waves/)

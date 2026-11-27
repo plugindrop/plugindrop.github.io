@@ -2,7 +2,7 @@
 title: 'Black Friday & Cyber Monday 2026 Plugin Deals: Real Price Drops We Tracked'
 description: Black Friday and Cyber Monday plugin deals based on price drops we observed.
 pubDate: '2026-06-08T00:00:00Z'
-updatedDate: '2026-11-27T10:10:11.732951+00:00'
+updatedDate: '2026-11-27T22:12:05.860162+00:00'
 tags:
 - guide
 - vst
@@ -19,6 +19,7 @@ priceTrack:
 - 'Motion: Fractal'
 - Cherry Audio Blue3 Tonewheel Organ
 - Motion Bundle Upgrade from any Motion product
+- Excite Audio Bundle
 - Cherry Audio Wurlybird 140B
 - Cherry Audio Crumar Spirit
 - Lifeline Bundle
@@ -66,7 +67,6 @@ priceTrack:
 - Sonible smart:EQ 4
 - Soundtoys Devil-Loc Deluxe
 - Soundtoys Little AlterBoy
-- Excite Audio Bundle
 - Native Instruments Traktor Play
 - iZotope RX 12 Elements
 - Native Instruments FM8
@@ -76,7 +76,6 @@ priceTrack:
 - Addictive Drums 2 Custom Collection
 - Minimal Audio Lucid
 - Native Instruments Scene Nightshade
-- Shade
 - Super-7
 - UVI World Suite 3
 - XLN Audio Addictive Keys
@@ -91,7 +90,6 @@ priceTrack:
 - Native Instruments Luxa
 - Native Instruments Nacht
 - Native Instruments Roux
-- Native Instruments LCO Producer Strings
 - Native Instruments Session Ukulele
 - iZotope FXEQ
 - iZotope Ozone 12 Elements
@@ -110,7 +108,7 @@ heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
 
-**TL;DR:** Compare 94 Black Friday and Cyber Monday plugin deals whose prices fell below their recent tracked levels.
+**TL;DR:** Compare 92 Black Friday and Cyber Monday plugin deals whose prices fell below their recent tracked levels.
 
 ## Ending November 29 and 30
 <!-- role:overview -->
@@ -122,6 +120,7 @@ heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 - Motion: Fractal
 - Cherry Audio Blue3 Tonewheel Organ
 - Motion Bundle Upgrade from any Motion product
+- Excite Audio Bundle
 - Cherry Audio Wurlybird 140B
 - Cherry Audio Crumar Spirit
 - Lifeline Bundle
@@ -239,6 +238,10 @@ Cherry Audio's Blue3 suits organists and keyboardists working across blues, gosp
 
 This plugin suits producers who want to go beyond basic effects and shape sound with distortion, bitcrushing, delays, reverbs, and granular textures across a combined toolset. They can use it by routing audio through its FX sections, mapping macro sliders to parameters, and drawing on its preset library to quickly build layered, evolving sound design.
 
+## Excite Audio Bundle
+<!-- role:pick -->
+<!-- pick:Excite Audio Bundle -->
+
 ## Cherry Audio Wurlybird 140B
 <!-- role:pick -->
 <!-- pick:Cherry Audio Wurlybird 140B -->
@@ -326,8 +329,6 @@ Softube Tape suits computer-based mix engineers and producers who want their dig
 ## UAD EMT 140 Classic Plate Reverberator
 <!-- role:pick -->
 <!-- pick:UAD EMT 140 Classic Plate Reverberator -->
-
-The UAD EMT 140 Classic Plate Reverberator suits mixers and producers who want the warm, authentic plate reverb sound heard on iconic recordings, particularly for making lead vocal tracks stand out in a dense mix. They can shape that tone using the plug-in's damping and filter controls, along with its Balance, Width, and Modulation settings.
 
 ## UAD Manley Vari Mu
 <!-- role:pick -->
@@ -449,10 +450,6 @@ The UAD EMT 140 Classic Plate Reverberator suits mixers and producers who want t
 <!-- role:pick -->
 <!-- pick:Soundtoys Little AlterBoy -->
 
-## Excite Audio Bundle
-<!-- role:pick -->
-<!-- pick:Excite Audio Bundle -->
-
 ## Native Instruments Traktor Play
 <!-- role:pick -->
 <!-- pick:Native Instruments Traktor Play -->
@@ -488,10 +485,6 @@ The UAD EMT 140 Classic Plate Reverberator suits mixers and producers who want t
 ## Native Instruments Scene Nightshade
 <!-- role:pick -->
 <!-- pick:Native Instruments Scene Nightshade -->
-
-## Shade
-<!-- role:pick -->
-<!-- pick:Shade -->
 
 ## Super-7
 <!-- role:pick -->
@@ -548,10 +541,6 @@ The UAD EMT 140 Classic Plate Reverberator suits mixers and producers who want t
 ## Native Instruments Roux
 <!-- role:pick -->
 <!-- pick:Native Instruments Roux -->
-
-## Native Instruments LCO Producer Strings
-<!-- role:pick -->
-<!-- pick:Native Instruments LCO Producer Strings -->
 
 ## Native Instruments Session Ukulele
 <!-- role:pick -->
