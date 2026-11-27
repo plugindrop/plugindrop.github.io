@@ -2,7 +2,7 @@
 title: Black Friday 2026 Virtual Instruments Deals
 description: Tracked Black Friday price drops for Virtual Instruments plugins.
 pubDate: '2026-11-23'
-updatedDate: '2026-11-25T10:10:07.088454+00:00'
+updatedDate: '2026-11-27T07:18:04.110213+00:00'
 tags:
 - black-friday
 - vst
@@ -12,6 +12,7 @@ draft: false
 priceTrack:
 - UAD Moog Minimoog
 - Virtual Guitarist Bundle
+- Xpand!2
 - Bloom KSHMR
 - Heavyocity Ascend
 - Cherry Audio Blue3 Tonewheel Organ
@@ -19,7 +20,6 @@ priceTrack:
 - Native Instruments Action Strings 2
 - Native Instruments Kontakt 8
 - Arturia V Collection 11 Pro
-- Native Instruments Scene Lotus
 - Native Instruments Scene Nightshade
 - Output Analog Brass and Winds
 - UVI World Suite 3
@@ -27,9 +27,9 @@ priceTrack:
 - XLN Audio XO
 - Native Instruments 24K Drums
 - Native Instruments 24K Keys
-- Native Instruments Bouquet
 - Native Instruments Discoteca Drums
 - Native Instruments Glaze 2
+- Native Instruments Halo Vox
 heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
@@ -47,6 +47,10 @@ The UAD Moog Minimoog plugin suits keyboard players and producers who want the c
 <!-- pick:Virtual Guitarist Bundle -->
 
 Virtual Guitarist Bundle suits guitarists and producers who want realistic, great-sounding guitar accompaniment without hiring a session player, offering organic, distorted, and processed rhythm guitar tones across more than 30 styles and 350 phrases. Users can play picking and strumming parts (including the new Instrument mode and Open Chords feature), layer up to four guitarists for a fuller sound, and shape the tone further with stomp box emulations and the Finisher multi-effect rack.
+
+## Xpand!2
+<!-- role:pick -->
+<!-- pick:Xpand!2 -->
 
 ## Bloom KSHMR
 <!-- role:pick -->
@@ -88,12 +92,6 @@ Native Instruments Kontakt 8 suits producers and sound designers who want a sing
 
 Arturia V Collection 11 Pro suits music makers who want a single suite spanning vintage-to-futuristic analog, digital, sampler-based, and electro-acoustic instrument sounds for production work. On compatible 64-bit systems (macOS 11+ or Windows 10+), they can use it standalone or load it as a VST, AAX, Audio Unit, or NKS plugin within their DAW, navigating and tweaking sounds through its refined interface and Analog Lab Pro's unified browser.
 
-## Native Instruments Scene Lotus
-<!-- role:pick -->
-<!-- pick:Native Instruments Scene Lotus -->
-
-Native Instruments Scene Lotus suits composers who want quick access to cinematic textures blending synth pads and orchestral sounds with traditional Japanese instruments, without building a hybrid palette from scratch. They can use the XY pad to blend 16 hybrid sound layers, effects, and controls in real time, and rely on the built-in scales and modes to stay in key while scoring.
-
 ## Native Instruments Scene Nightshade
 <!-- role:pick -->
 <!-- pick:Native Instruments Scene Nightshade -->
@@ -128,10 +126,6 @@ Native Instruments 24K Drums suits hip hop and trap producers who want golden-er
 <!-- role:pick -->
 <!-- pick:Native Instruments 24K Keys -->
 
-## Native Instruments Bouquet
-<!-- role:pick -->
-<!-- pick:Native Instruments Bouquet -->
-
 ## Native Instruments Discoteca Drums
 <!-- role:pick -->
 <!-- pick:Native Instruments Discoteca Drums -->
@@ -141,6 +135,12 @@ Native Instruments 24K Drums suits hip hop and trap producers who want golden-er
 <!-- pick:Native Instruments Glaze 2 -->
 
 Native Instruments Glaze 2 suits pop and hip hop producers and vocalists who want ready-made vocal textures without building chords from scratch, especially those already working inside Kontakt or the free Kontakt Player. They can load any of its 150 presets, including the special chord sets for stacked chords, pads, leads, and talkbox sounds, then use the over 30 custom chord sets and background vocals mapped across the keyboard to trigger complex harmonies instantly, shaping the sound further with the included Kontakt effects macros and the Play Series interface's real-time controls.
+
+## Native Instruments Halo Vox
+<!-- role:pick -->
+<!-- pick:Native Instruments Halo Vox -->
+
+Native Instruments Halo Vox is suited to producers and vocal-focused music makers who want ready-made choral and ethereal vocal textures without building vocal sounds from scratch. They can load it in Kontakt Player (or Kontakt 8.1+) and explore its 150 editable presets, shaping pure vowels, layered textures, and processed vocal tones directly through the Play Series' real-time controls.
 
 ## Explore more
 <!-- role:related -->

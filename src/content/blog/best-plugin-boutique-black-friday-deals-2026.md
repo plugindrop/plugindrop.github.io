@@ -2,7 +2,7 @@
 title: 'Black Friday 2026 Plugin Deals: Real Price Drops We Tracked'
 description: Black Friday plugin deals based on price drops we observed.
 pubDate: '2026-06-08T00:00:00Z'
-updatedDate: '2026-11-25T10:10:07.088454+00:00'
+updatedDate: '2026-11-27T07:18:04.110213+00:00'
 tags:
 - guide
 - vst
@@ -12,30 +12,30 @@ tags:
 evergreen: false
 draft: false
 priceTrack:
+- Waves Tune Real-Time
+- Waves Vocal Rider
+- Waves Abbey Road Reverb Plates
+- Waves API 2500
+- Waves Kramer Master Tape
+- Waves PuigTec EQs
+- Waves SSL E-Channel
 - iZotope VocalSynth 2
+- Waves Renaissance Vox
 - UAD Moog Minimoog
 - UAD Opal Morphing Synth
 - UAD Ampex ATR 102 Mastering Tape Recorder
 - Waves CLA-2A
 - Waves CLA-76
+- Waves H-Delay
 - Waves H-Reverb
+- L4 Ultramaximizer
 - Model 80 Five Voice Synthesizer
+- Softube Tape
 - Soundtoys Decapitator
 - Soundtoys Crystallizer
 - Virtual Guitarist Bundle
 - iZotope Trash
-- SubLab XL
-- Bloom KSHMR
-- Heavyocity Ascend
-- UAD EMT 140 Classic Plate Reverberator
-- UAD Manley Vari Mu
-- UNMIX::DRUMS
-- DeNoizzer
-- MAutoAlign
-- 'Motion: Fractal'
-- Decimort 2
-- Devastor 2
-- Sonible smart:EQ 4
+- Xpand!2
 heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
@@ -45,24 +45,61 @@ heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ## Lower-priced picks
 <!-- role:overview -->
 
+- Waves Tune Real-Time
+- Waves Vocal Rider
+- Waves Abbey Road Reverb Plates
+- Waves API 2500
+- Waves Kramer Master Tape
+- Waves PuigTec EQs
+- Waves SSL E-Channel
 - iZotope VocalSynth 2
+- Waves Renaissance Vox
 - UAD Moog Minimoog
 - UAD Opal Morphing Synth
 - Waves CLA-2A
 - Waves CLA-76
+- Waves H-Delay
 - Waves H-Reverb
+- L4 Ultramaximizer
+- Softube Tape
 - iZotope Trash
-- SubLab XL
-- Bloom KSHMR
-- DeNoizzer
-- MAutoAlign
-- Motion: Fractal
-- Decimort 2
-- Devastor 2
+- Xpand!2
+
+## Waves Tune Real-Time
+<!-- role:pick -->
+<!-- pick:Waves Tune Real-Time -->
+
+## Waves Vocal Rider
+<!-- role:pick -->
+<!-- pick:Waves Vocal Rider -->
+
+## Waves Abbey Road Reverb Plates
+<!-- role:pick -->
+<!-- pick:Waves Abbey Road Reverb Plates -->
+
+## Waves API 2500
+<!-- role:pick -->
+<!-- pick:Waves API 2500 -->
+
+## Waves Kramer Master Tape
+<!-- role:pick -->
+<!-- pick:Waves Kramer Master Tape -->
+
+## Waves PuigTec EQs
+<!-- role:pick -->
+<!-- pick:Waves PuigTec EQs -->
+
+## Waves SSL E-Channel
+<!-- role:pick -->
+<!-- pick:Waves SSL E-Channel -->
 
 ## iZotope VocalSynth 2
 <!-- role:pick -->
 <!-- pick:iZotope VocalSynth 2 -->
+
+## Waves Renaissance Vox
+<!-- role:pick -->
+<!-- pick:Waves Renaissance Vox -->
 
 ## UAD Moog Minimoog
 <!-- role:pick -->
@@ -90,15 +127,29 @@ Producers and mix engineers working on vocal, bass, or guitar tracks who want a 
 
 The Waves CLA-76 suits mix engineers and producers who want fast, aggressive FET-style compression—especially on vocals and drums where tight transient control and preamp-driven edge matter. Users can switch between the "Blacky" and "Bluey" character models, apply the exclusive ALL ratio mode for a more explosive compression sound, use the Mix and Trim controls for parallel compression and quick gain staging, and draw on Chris Lord-Alge's included presets as a starting point.
 
+## Waves H-Delay
+<!-- role:pick -->
+<!-- pick:Waves H-Delay -->
+
+Waves H-Delay suits producers and mixers who want a single delay plugin covering everything from classic chorus, flanging, and tape-echo tones to modern digital clarity, since it offers four analog character modes plus a contemporary digital setting alongside tempo-synced delay times from 1 to 3500 ms. Users can shape the repeats with the built-in filtering and tempo-synced modulation for chorus or vibrato effects, assign any control to MIDI Learn for live manipulation, and use the new Dual Mode for added spectral control, with independent left/right phasing for further stereo shaping.
+
 ## Waves H-Reverb
 <!-- role:pick -->
 <!-- pick:Waves H-Reverb -->
 
 Waves H-Reverb suits producers and mixing engineers who want to move between clean, natural room/hall reverb and more experimental, non-linear spaces within a single plugin, especially those who like shaping decay with added EQ, compression, and modulation rather than using a basic reverb. They can load it on a track in their DAW (VST/AU/AAX) and start from one of the over 240 presets, then adjust the FIR engine's decay envelope, pre-delay BPM sync, and damping controls to fit the mix, switching between the collapsed basic view and the expanded view for deeper control.
 
+## L4 Ultramaximizer
+<!-- role:pick -->
+<!-- pick:L4 Ultramaximizer -->
+
 ## Model 80 Five Voice Synthesizer
 <!-- role:pick -->
 <!-- pick:Model 80 Five Voice Synthesizer -->
+
+## Softube Tape
+<!-- role:pick -->
+<!-- pick:Softube Tape -->
 
 ## Soundtoys Decapitator
 <!-- role:pick -->
@@ -120,65 +171,9 @@ The Virtual Guitarist Bundle suits guitarists and producers who want ready-made,
 <!-- role:pick -->
 <!-- pick:iZotope Trash -->
 
-## SubLab XL
+## Xpand!2
 <!-- role:pick -->
-<!-- pick:SubLab XL -->
-
-SubLab XL suits producers working on macOS (10.12+, Intel or Apple Silicon) or Windows (8 and higher) who want a sub-bass synth with expanded sound-shaping tools like added FX, modulation, and macros. They can use it as a VST2, VST3, AU, or AAX plugin within their existing DAW setup on either platform.
-
-## Bloom KSHMR
-<!-- role:pick -->
-<!-- pick:Bloom KSHMR -->
-
-## Heavyocity Ascend
-<!-- role:pick -->
-<!-- pick:Heavyocity Ascend -->
-
-Heavyocity Ascend: Modern Grand suits cinematic composers who want a deeply sampled, warm and detailed 9-foot concert grand as their primary piano voice for scoring work. They can use it within Kontakt or Kontakt Player (standalone, VST, AU, or AAX), browsing its 110 snapshot presets across categories like Ascended, Core Concert D, Extended, Rhythmic, and Rhythmic Melodic, building rhythmic arpeggios with the ARP feature, and blending its 16 sound sources in real time with the three-point mixer.
-
-## UAD EMT 140 Classic Plate Reverberator
-<!-- role:pick -->
-<!-- pick:UAD EMT 140 Classic Plate Reverberator -->
-
-The UAD EMT 140 Classic Plate Reverberator suits mixers and producers who want the warm, authentic plate reverb sound heard on iconic recordings, particularly for making lead vocal tracks stand out in a dense mix. They can shape that tone using the plug-in's damping and filter controls, along with its Balance, Width, and Modulation settings.
-
-## UAD Manley Vari Mu
-<!-- role:pick -->
-<!-- pick:UAD Manley Vari Mu -->
-
-The UAD Manley Vari Mu suits mixing and mastering engineers who need glue and tonal cohesion across individual tracks, stereo buses, or a full mix. They can use it by linking channels for a matched stereo image, choosing Left/Right or Mid/Side operation to shape stereo imaging, and dialing in the plug-in's Dry/Wet Mix control for parallel compression.
-
-## UNMIX::DRUMS
-<!-- role:pick -->
-<!-- pick:UNMIX::DRUMS -->
-
-## DeNoizzer
-<!-- role:pick -->
-<!-- pick:DeNoizzer -->
-
-DeNoizzer suits producers and engineers cleaning up imperfect recordings, such as removing electronic hum, traffic rumble, or room ambience, without dulling the rest of the mix. They can use the Learn button on an isolated section of the noise for a few seconds to capture its profile, then shape the result with Threshold, Speed, and the High and Low Pass Filters, checking progress on the live spectrum display or by toggling AB comparison.
-
-## MAutoAlign
-<!-- role:pick -->
-<!-- pick:MAutoAlign -->
-
-## Motion: Fractal
-<!-- role:pick -->
-<!-- pick:Motion: Fractal -->
-
-## Decimort 2
-<!-- role:pick -->
-<!-- pick:Decimort 2 -->
-
-## Devastor 2
-<!-- role:pick -->
-<!-- pick:Devastor 2 -->
-
-## Sonible smart:EQ 4
-<!-- role:pick -->
-<!-- pick:Sonible smart:EQ 4 -->
-
-Sonible smart:EQ 4 suits producers and mixing engineers who want an AI-assisted approach to spectral balance across vocals, drums, bass, and full mixes rather than manual band-by-band equalizing. They can apply its smart:filter to individual tracks or busses using genre-based Mix Profiles or an imported reference track, and use Group mode to set an unmasking hierarchy across up to ten instances for a top-down approach to mixing.
+<!-- pick:Xpand!2 -->
 
 ## Explore more
 <!-- role:related -->

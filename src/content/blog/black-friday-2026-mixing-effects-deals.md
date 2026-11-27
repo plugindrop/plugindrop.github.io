@@ -2,7 +2,7 @@
 title: Black Friday 2026 Mixing Effects Deals
 description: Tracked Black Friday price drops for Mixing Effects plugins.
 pubDate: '2026-11-23'
-updatedDate: '2026-11-25T10:10:07.088454+00:00'
+updatedDate: '2026-11-27T07:18:04.110213+00:00'
 tags:
 - black-friday
 - vst
@@ -10,31 +10,47 @@ tags:
 evergreen: false
 draft: false
 priceTrack:
+- Waves Abbey Road Reverb Plates
+- Waves API 2500
+- Waves PuigTec EQs
+- Waves Renaissance Vox
 - Waves CLA-2A
 - Waves CLA-76
+- Waves H-Delay
 - Waves H-Reverb
+- L4 Ultramaximizer
 - Soundtoys Decapitator
 - Soundtoys Crystallizer
 - UAD EMT 140 Classic Plate Reverberator
 - Sonible smart:EQ 4
 - Soundtoys Devil-Loc Deluxe
-- Cherry Audio Filtomika
 - Motion Bundle Upgrade from any Motion product
 - BALANCE
 - WORMHOLE
 - Lifeline Bundle
 - Arturia FX Collection 6 Pro
 - Shade
-- Native Instruments Replika XT
-- Native Instruments Supercharger GT
-- dime[ms]
-- iZotope FXEQ
-- LANG PEQ-2
 heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
 
 **TL;DR:** Track temporary price drops for 20 plugins and see [our evergreen comparisons](/best/reverb/) for longer-term research.
+
+## Waves Abbey Road Reverb Plates
+<!-- role:pick -->
+<!-- pick:Waves Abbey Road Reverb Plates -->
+
+## Waves API 2500
+<!-- role:pick -->
+<!-- pick:Waves API 2500 -->
+
+## Waves PuigTec EQs
+<!-- role:pick -->
+<!-- pick:Waves PuigTec EQs -->
+
+## Waves Renaissance Vox
+<!-- role:pick -->
+<!-- pick:Waves Renaissance Vox -->
 
 ## Waves CLA-2A
 <!-- role:pick -->
@@ -48,11 +64,21 @@ The Waves CLA-2A suits engineers mixing vocal, bass, and guitar tracks who want 
 
 The Waves CLA-76 suits mix engineers and producers who want a fast, aggressive FET-style compressor for tracking transient-heavy sources like drums and vocals, offering a choice between the "Blacky" and "Bluey" tonal characters. Users can apply it with zero added latency in both studio and live mixing contexts, dial in sound using the ALL ratio mode or Chris Lord-Alge's presets, and use the Mix and Trim controls for parallel compression and level matching.
 
+## Waves H-Delay
+<!-- role:pick -->
+<!-- pick:Waves H-Delay -->
+
+Waves H-Delay suits producers and mixers who want one delay plugin covering everything from classic analog-style echo, tape, and slapback to modern digital clarity, chorus, flanging, and self-oscillating feedback effects. They can dial in sounds quickly using its accessible interface, tempo-synced delay times from 1 to 3500 ms, four analog character modes plus a digital mode, built-in filtering and modulation, Dual Mode for spectral control, independent left/right phasing, and MIDI Learn on every control, often starting from one of its many presets.
+
 ## Waves H-Reverb
 <!-- role:pick -->
 <!-- pick:Waves H-Reverb -->
 
 H-Reverb suits producers and engineers who want both natural-sounding spaces and more experimental, time-bending reverb textures, and who range from those wanting quick results to those wanting deep sonic control, since its interface can collapse to basic settings or expand for detailed shaping. Users can start from one of its over 240 presets or build a space from scratch by blending its algorithmic and convolution engines, then shape the result with EQ, compression, ducking, de-essing, modulation, overdrive, resonance, and pre/post delay (with BPM-synced pre-delay for rhythmic effects), in mono, stereo, or 5.0/5.1 surround.
+
+## L4 Ultramaximizer
+<!-- role:pick -->
+<!-- pick:L4 Ultramaximizer -->
 
 ## Soundtoys Decapitator
 <!-- role:pick -->
@@ -82,12 +108,6 @@ smart:EQ 4 suits mixing engineers and producers who want AI-assisted spectral ba
 
 Soundtoys Devil-Loc Deluxe suits producers and engineers working with drums, room mics, vocals, acoustic guitar, or lo-fi loops who want an extreme, gritty compression effect capable of making tracks sound huge and dark. They can dial in the amount of grit with the Mix knob, shape tone with the Darkness control, and choose fast or slow release times to fit the source material.
 
-## Cherry Audio Filtomika
-<!-- role:pick -->
-<!-- pick:Cherry Audio Filtomika -->
-
-Filtomika suits producers who want to push drums, guitars, synths, or vocals through a wild, unpredictable filter sound, since it recreates the Polivoks synth's distinctive filter character with added Starve, Filter Drive, and Amp Drive controls. They can use its syncable LFO modulator and envelope follower to animate the cutoff dynamically, start from one of its 30-plus presets, and apply it as an insert or bus effect with full MIDI learn and DAW automation support.
-
 ## Motion Bundle Upgrade from any Motion product
 <!-- role:pick -->
 <!-- pick:Motion Bundle Upgrade from any Motion product -->
@@ -111,26 +131,6 @@ Filtomika suits producers who want to push drums, guitars, synths, or vocals thr
 ## Shade
 <!-- role:pick -->
 <!-- pick:Shade -->
-
-## Native Instruments Replika XT
-<!-- role:pick -->
-<!-- pick:Native Instruments Replika XT -->
-
-## Native Instruments Supercharger GT
-<!-- role:pick -->
-<!-- pick:Native Instruments Supercharger GT -->
-
-## dime[ms]
-<!-- role:pick -->
-<!-- pick:dime[ms] -->
-
-## iZotope FXEQ
-<!-- role:pick -->
-<!-- pick:iZotope FXEQ -->
-
-## LANG PEQ-2
-<!-- role:pick -->
-<!-- pick:LANG PEQ-2 -->
 
 ## Explore more
 <!-- role:related -->

@@ -2,7 +2,7 @@
 title: Black Friday 2026 Native Instruments Deals
 description: Tracked Black Friday price drops for Native Instruments plugins.
 pubDate: '2026-11-23'
-updatedDate: '2026-11-25T10:10:07.088454+00:00'
+updatedDate: '2026-11-27T07:18:04.110213+00:00'
 tags:
 - black-friday
 - vst
@@ -14,22 +14,22 @@ priceTrack:
 - Native Instruments FM8
 - Native Instruments Massive
 - Native Instruments Battery 4
-- Native Instruments Reaktor 6
 - Native Instruments Action Strings 2
 - Native Instruments Kontakt 8
-- Native Instruments Scene Lotus
 - Native Instruments Scene Nightshade
 - Native Instruments Replika XT
 - Native Instruments Supercharger GT
 - Native Instruments 24K Drums
 - Native Instruments 24K Keys
-- Native Instruments Bouquet
 - Native Instruments Discoteca Drums
 - Native Instruments Glaze 2
 - Native Instruments Halo Vox
 - Native Instruments Hypr
 - Native Instruments Luxa
 - Native Instruments Nacht
+- Native Instruments Roux
+- Native Instruments LCO Producer Strings
+- Native Instruments Session Ukulele
 heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
@@ -58,10 +58,6 @@ Native Instruments FM8 suits producers who want an accessible way into FM synthe
 
 Battery 4 suits producers who want to build and audition drum kits quickly, since its color-coded sample loading and drag-and-drop MIDI learn keep workflow fast without breaking creative flow. Users can load factory or their own samples, shape them with the seven sample modes and Time Machine Pro time-stretching via the waveform display, and use instant cell rendering for kit building and sound design.
 
-## Native Instruments Reaktor 6
-<!-- role:pick -->
-<!-- pick:Native Instruments Reaktor 6 -->
-
 ## Native Instruments Action Strings 2
 <!-- role:pick -->
 <!-- pick:Native Instruments Action Strings 2 -->
@@ -73,12 +69,6 @@ Native Instruments Action Strings 2 suits composers and sound designers working 
 <!-- pick:Native Instruments Kontakt 8 -->
 
 Native Instruments Kontakt 8 suits producers and sound designers who want to build and shape their own virtual instruments, from dragging in a single sample to deep custom instrument design, and who work across genres like trap and pop thanks to the included Leap Expansion packs. They can use its Chords and Phrases Tools to quickly sketch melodies and sequences with any Kontakt instrument, play and manipulate loops in real time with Leap, and sculpt organic-to-synthetic tones with the Conflux hybrid oscillator engine, all while drawing on the Kontakt 8 Factory Library 2's 900-plus instruments and deep NKS integration with Kontrol keyboards and Maschine hardware.
-
-## Native Instruments Scene Lotus
-<!-- role:pick -->
-<!-- pick:Native Instruments Scene Lotus -->
-
-Native Instruments Scene Lotus suits composers and scoring musicians who want cinematic textures blending traditional Japanese instruments with synth pads and orchestral sounds, all within Kontakt or the free Kontakt Player. Users can shape the sound by blending its 16 hybrid sound layers, effects, and controls via the XY pad, while staying in key using the instrument's extensive selection of scales and modes.
 
 ## Native Instruments Scene Nightshade
 <!-- role:pick -->
@@ -106,12 +96,6 @@ Native Instruments 24K Drums suits hip hop producers who want an authentic 2000s
 <!-- role:pick -->
 <!-- pick:Native Instruments 24K Keys -->
 
-## Native Instruments Bouquet
-<!-- role:pick -->
-<!-- pick:Native Instruments Bouquet -->
-
-Native Instruments Bouquet suits pop and R&B producers looking for soulful melodics and dreamy textures, offering 150 fully-editable presets across analog synths, keys, guitars, basses, organs, and pads. Within the Play Series interface, users can shape sounds in real time and build custom effects chains using the included Kontakt macros to add character and texture to their tracks.
-
 ## Native Instruments Discoteca Drums
 <!-- role:pick -->
 <!-- pick:Native Instruments Discoteca Drums -->
@@ -137,6 +121,18 @@ Native Instruments Glaze 2 is best suited to pop and hip hop producers who want 
 ## Native Instruments Nacht
 <!-- role:pick -->
 <!-- pick:Native Instruments Nacht -->
+
+## Native Instruments Roux
+<!-- role:pick -->
+<!-- pick:Native Instruments Roux -->
+
+## Native Instruments LCO Producer Strings
+<!-- role:pick -->
+<!-- pick:Native Instruments LCO Producer Strings -->
+
+## Native Instruments Session Ukulele
+<!-- role:pick -->
+<!-- pick:Native Instruments Session Ukulele -->
 
 ## Explore more
 <!-- role:related -->
