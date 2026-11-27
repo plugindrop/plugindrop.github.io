@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26",
+  "generated_at": "2026-11-27",
   "source": "price_history.json",
   "methodology_url": "/how-we-track-prices/",
   "min_month": "2026-07",
@@ -10,20 +10,20 @@
       "month": "2026-11",
       "label": "November 2026",
       "is_current": true,
-      "generated_at": "2026-11-26",
-      "observations": 7665,
+      "generated_at": "2026-11-27",
+      "observations": 8174,
       "products_tracked": 607,
-      "products_on_sale": 493,
-      "on_sale_pct": 81.2,
+      "products_on_sale": 496,
+      "on_sale_pct": 81.7,
       "avg_discount_pct": 56.4,
-      "median_discount_pct": 51,
+      "median_discount_pct": 51.0,
       "discount_buckets": {
         "1-19": 3,
         "20-39": 66,
         "40-59": 230,
-        "60+": 194
+        "60+": 197
       },
-      "all_time_low_hits": 429,
+      "all_time_low_hits": 432,
       "deepest_discounts": [
         {
           "name": "Thenatan Full Bundle",
@@ -287,8 +287,8 @@
         {
           "category": "Other",
           "tracked": 456,
-          "on_sale": 370,
-          "on_sale_pct": 81.1,
+          "on_sale": 372,
+          "on_sale_pct": 81.6,
           "avg_discount_pct": 57.4
         },
         {
@@ -336,9 +336,9 @@
         {
           "category": "Saturation",
           "tracked": 11,
-          "on_sale": 9,
-          "on_sale_pct": 81.8,
-          "avg_discount_pct": 57.2
+          "on_sale": 10,
+          "on_sale_pct": 90.9,
+          "avg_discount_pct": 59.1
         },
         {
           "category": "Bundle",
@@ -394,8 +394,8 @@
         {
           "category": "Other",
           "tracked": 242,
-          "on_sale": 210,
-          "on_sale_pct": 86.8,
+          "on_sale": 212,
+          "on_sale_pct": 87.6,
           "avg_discount_pct": 58.1
         },
         {
@@ -506,9 +506,9 @@
         {
           "category": "Softube",
           "tracked": 6,
-          "on_sale": 4,
-          "on_sale_pct": 66.7,
-          "avg_discount_pct": 62.5
+          "on_sale": 5,
+          "on_sale_pct": 83.3,
+          "avg_discount_pct": 65.2
         },
         {
           "category": "Sonnox",
@@ -611,7 +611,7 @@
       ],
       "vs_previous_month": {
         "month": "2026-10",
-        "on_sale_pct_delta": 31.2,
+        "on_sale_pct_delta": 31.7,
         "avg_discount_pct_delta": -0.7,
         "products_tracked_delta": 81
       }
@@ -620,7 +620,7 @@
       "month": "2026-10",
       "label": "October 2026",
       "is_current": false,
-      "generated_at": "2026-11-26",
+      "generated_at": "2026-11-27",
       "observations": 3527,
       "products_tracked": 526,
       "products_on_sale": 263,
@@ -633,7 +633,7 @@
         "40-59": 91,
         "60+": 123
       },
-      "all_time_low_hits": 165,
+      "all_time_low_hits": 164,
       "deepest_discounts": [
         {
           "name": "TOTAL VI MAX 2",
@@ -1230,7 +1230,7 @@
       "month": "2026-09",
       "label": "September 2026",
       "is_current": false,
-      "generated_at": "2026-11-26",
+      "generated_at": "2026-11-27",
       "observations": 3561,
       "products_tracked": 503,
       "products_on_sale": 271,
@@ -1854,7 +1854,7 @@
       "month": "2026-08",
       "label": "August 2026",
       "is_current": false,
-      "generated_at": "2026-11-26",
+      "generated_at": "2026-11-27",
       "observations": 3583,
       "products_tracked": 420,
       "products_on_sale": 255,
@@ -2443,7 +2443,7 @@
       "month": "2026-07",
       "label": "July 2026",
       "is_current": false,
-      "generated_at": "2026-11-26",
+      "generated_at": "2026-11-27",
       "observations": 1964,
       "products_tracked": 286,
       "products_on_sale": 141,
