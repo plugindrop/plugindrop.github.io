@@ -2,13 +2,13 @@
 title: Black Friday 2026 iZotope Deals
 description: Tracked Black Friday price drops for iZotope plugins.
 pubDate: '2026-11-27'
-updatedDate: '2026-11-27T09:15:56.898606+00:00'
+updatedDate: '2026-11-27T09:28:47.419546+00:00'
 tags:
 - black-friday
 - vst
 - sale
 evergreen: false
-draft: true
+draft: false
 priceTrack:
 - iZotope VocalSynth 2
 - iZotope Trash
@@ -34,6 +34,8 @@ iZotope's plugin lineup spans vocal processing, audio restoration, mixing, maste
 ## iZotope VocalSynth 2
 <!-- role:pick -->
 <!-- pick:iZotope VocalSynth 2 -->
+
+iZotope VocalSynth 2 suits vocalists and producers who want to reshape a voice with blendable effects like Vocoder, Talkbox, Polyvox, Compuvox, and the vocal-tract-modeled Biovox for smooth, textural treatments. They can work through Auto Mode, MIDI Mode, or Sidechain Mode, reordering the seven stompbox-style effects (including Chorus, Ring Mod, and Shred with sequencer) to shape vocals, and pair it with Neutron 2's Visual Mixer or Tonal Balance Control for a broader view of the mix.
 
 ## iZotope Trash
 <!-- role:pick -->
@@ -81,6 +83,8 @@ Neutron 5 suits mixers who want machine-learning-guided help shaping a mix at an
 <!-- role:pick -->
 <!-- pick:iZotope Insight 2 -->
 
+iZotope Insight 2 suits mixing, mastering, and post-production engineers who need to monitor loudness, levels, phase, and frequency content while checking dialogue intelligibility and broadcast loudness compliance, including on complex multichannel sessions up to Dolby Atmos 7.1.2. Users can route any DAW track into the plug-in, customize which meters are shown with their own targets, and resize the window to fit sessions ranging from simple stereo mixes to the new Intelligibility Meter's dialogue-clarity checks.
+
 ## iZotope Ozone 12 Standard
 <!-- role:pick -->
 <!-- pick:iZotope Ozone 12 Standard -->
@@ -96,6 +100,8 @@ RX 12 Standard suits audio post-production professionals, sound editors, and mus
 ## iZotope Ozone 12 Advanced
 <!-- role:pick -->
 <!-- pick:iZotope Ozone 12 Advanced -->
+
+iZotope Ozone 12 Advanced suits producers and engineers who want a complete mastering workflow in one suite, letting them separately shape vocals, bass, and drums before finalizing a master. The 20-module suite's Bass Control, Stem EQ, and Custom Assistant flow let users dial in low-end punch, fix individual elements without full remixes, and build a mastering chain tailored to a chosen genre or reference.
 
 ## iZotope Tonal Balance Control 3
 <!-- role:pick -->

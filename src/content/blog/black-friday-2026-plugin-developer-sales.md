@@ -2,7 +2,7 @@
 title: Black Friday 2026 Plugin Developer Sales
 description: Developer Black Friday sale announcements, end dates, and official links.
 pubDate: '2026-11-27'
-updatedDate: '2026-11-27T07:25:37.435192+00:00'
+updatedDate: '2026-11-27T09:29:48.435717+00:00'
 tags:
 - black-friday
 - vst
@@ -34,6 +34,10 @@ Announced discount: up to 30%.
 Announced discount: up to 35%.
 
 [Official site](https://goodhertz.com/) · Announcement checked 2026-11-24.
+
+## Harrison Audio
+
+[Official site](https://www.harrisonaudio.com/) · Announcement checked 2026-11-23.
 
 ## Imaginando
 
@@ -80,6 +84,10 @@ Announced discount: up to 75%.
 Announced discount: up to 25%.
 
 [Official site](https://www.soundradix.com/) · Announcement checked 2026-11-24.
+
+## SoundMorph
+
+[Official site](https://soundmorph.com/) · Announcement checked 2026-11-23.
 
 ## Tracktion
 

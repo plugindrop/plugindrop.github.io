@@ -2,7 +2,7 @@
 title: Black Friday 2026 Synths and Drum Machines Deals
 description: Tracked Black Friday price drops for Synths and Drum Machines plugins.
 pubDate: '2026-11-23'
-updatedDate: '2026-11-27T07:18:04.110213+00:00'
+updatedDate: '2026-11-27T09:29:48.435717+00:00'
 tags:
 - black-friday
 - vst
@@ -13,24 +13,20 @@ priceTrack:
 - UAD Opal Morphing Synth
 - Model 80 Five Voice Synthesizer
 - SubLab XL
-- Cherry Audio KR 55C Drum Machine
 - Cherry Audio Crumar Spirit
-- Cherry Audio SH MAX
-- Cherry Audio P 10 Synthesizer
-- Cherry Audio Trident Mk III Synthesizer
 - Native Instruments FM8
 - Native Instruments Massive
-- Super 8
 - Arturia Analog Lab Pro
 - Kilohearts Phase Plant
 - Native Instruments Battery 4
 - Phase Plant
 - Super-7
+- SubBoomBass 2
 heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
 
-**TL;DR:** Track temporary price drops for 16 plugins and see [our evergreen comparisons](/best/synth/) for longer-term research.
+**TL;DR:** Track temporary price drops for 12 plugins and see [our evergreen comparisons](/best/synth/) for longer-term research.
 
 ## UAD Opal Morphing Synth
 <!-- role:pick -->
@@ -46,35 +42,11 @@ heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 
 SubLab XL suits producers working on macOS (10.12+, Intel or Apple Silicon) or Windows 8 and up who want a bass synth that runs natively in their DAW. It's available as a VST2, VST3, AU, or AAX plugin, so users can load it directly into any host supporting those formats on their platform.
 
-## Cherry Audio KR 55C Drum Machine
-<!-- role:pick -->
-<!-- pick:Cherry Audio KR 55C Drum Machine -->
-
-Cherry Audio's KR-55C suits producers and sound designers drawn to post-punk and early-80s drum machine character who want a wider sonic range than the original hardware offered, since it combines all 240 factory patterns from the KR-55A and KR-55B with 200 additional patterns and kits spanning other genres. Users can step-edit or program patterns in real time via the X0X-style 16-button layout, chain up to 99 patterns in song mode, shape each instrument's tone with the EQ and tuning controls, and process sounds individually through the mixer and effects section, which includes overdrive, flanger/chorus, delay, reverb, and a master bus compressor and limiter.
-
 ## Cherry Audio Crumar Spirit
 <!-- role:pick -->
 <!-- pick:Cherry Audio Crumar Spirit -->
 
 Crumar Spirit suits musicians and sound designers who want an analog monosynth with modern flexibility, offering multi-voice modes, extensive modulation, and built-in effects for everything from classic monophonic leads to richer layered textures. Users can play it monophonically or switch into unison, polyphonic (4, 8, or 16 voice), or cycle modes, then shape sounds further with the dual-filter section, Mod X/Shaper Y modulation, the Matrix Z mod matrix, the arpeggiator, and the two independent effects chains, drawing on over 430 included presets as a starting point.
-
-## Cherry Audio SH MAX
-<!-- role:pick -->
-<!-- pick:Cherry Audio SH MAX -->
-
-Cherry Audio SH-MAX suits producers who want one plugin covering vintage SH-5, SH-7, and SH-3A synthesis without hunting down three separate instruments, especially those after raw, cutting bass and lead tones. They can use its dual oscillators, parallel filter sections, ring modulator, and four-channel step sequencer together, routing any of the five sound sources through the dual filters and four independent effects chains to build everything from mono basslines to 16-voice polyphonic chords.
-
-## Cherry Audio P 10 Synthesizer
-<!-- role:pick -->
-<!-- pick:Cherry Audio P 10 Synthesizer -->
-
-The Cherry Audio P-10 suits players who want the dual-manual, dual-five-voice character of the original SCI P5/P10 polysynth but with modern workflow additions, as well as vintage synth enthusiasts drawn to its CEM3340/CEM3320-modeled sound. They can configure it as two independent synths, a single combined synth, or a layered/split patch, then shape sounds using the Mono Mod, Poly Mod, Aux Mod, and Pressure Mod routings alongside the built-in step sequencer and arpeggiator.
-
-## Cherry Audio Trident Mk III Synthesizer
-<!-- role:pick -->
-<!-- pick:Cherry Audio Trident Mk III Synthesizer -->
-
-Cherry Audio Trident Mk III suits producers and vintage synth enthusiasts who want the layered synth, brass, and string sounds of the original 1981-82 Trident hardware with expanded polyphony and modulation. Users can build arrangements with its onboard step sequencer and dual arpeggiators, shape tones using the 17 included effects across four customizable chains, and start quickly from the library of over 370 presets.
 
 ## Native Instruments FM8
 <!-- role:pick -->
@@ -87,10 +59,6 @@ FM8 suits producers who want an accessible way into FM synthesis, offering an "E
 <!-- pick:Native Instruments Massive -->
 
 Native Instruments Massive suits bass music and electro producers who need powerful, cutting bass and lead sounds without wrestling with complex synthesis. They can dig into its over 1300 presets through the search and filter tools to find a starting sound, then use the eight macro controls to reshape it on the fly—whether tweaking by hand or mapping them to a Komplete Kontrol or Maschine controller for hands-on, real-time sound shaping.
-
-## Super 8
-<!-- role:pick -->
-<!-- pick:Super 8 -->
 
 ## Arturia Analog Lab Pro
 <!-- role:pick -->
@@ -117,6 +85,10 @@ Battery 4 suits producers who want a fast, clear drum sampling workflow for elec
 ## Super-7
 <!-- role:pick -->
 <!-- pick:Super-7 -->
+
+## SubBoomBass 2
+<!-- role:pick -->
+<!-- pick:SubBoomBass 2 -->
 
 ## Explore more
 <!-- role:related -->

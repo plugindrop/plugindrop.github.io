@@ -2,13 +2,13 @@
 title: Black Friday 2026 Waves Deals
 description: Tracked Black Friday price drops for Waves plugins.
 pubDate: '2026-11-27'
-updatedDate: '2026-11-27T09:15:56.898606+00:00'
+updatedDate: '2026-11-27T09:28:47.419546+00:00'
 tags:
 - black-friday
 - vst
 - sale
 evergreen: false
-draft: true
+draft: false
 priceTrack:
 - Waves Tune Real-Time
 - Waves Vocal Rider
@@ -49,6 +49,8 @@ Abbey Road Reverb Plates suits mixing and mastering engineers working on pop, fi
 ## Waves API 2500
 <!-- role:pick -->
 <!-- pick:Waves API 2500 -->
+
+Producers working on hip hop, pop/R&B, and rock who want a single compressor that covers drum bus glue through full mix bus duty will find the API 2500's VCA-style flexibility a good fit. They can switch between feedback and feedforward topologies, dial in Thrust for bass shaping, and use the variable L/R linking and knee options to tailor punch and tone to the track.
 
 ## Waves Kramer Master Tape
 <!-- role:pick -->

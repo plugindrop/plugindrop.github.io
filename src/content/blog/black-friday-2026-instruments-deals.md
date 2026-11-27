@@ -2,7 +2,7 @@
 title: Black Friday 2026 Virtual Instruments Deals
 description: Tracked Black Friday price drops for Virtual Instruments plugins.
 pubDate: '2026-11-23'
-updatedDate: '2026-11-27T07:18:04.110213+00:00'
+updatedDate: '2026-11-27T09:29:48.435717+00:00'
 tags:
 - black-friday
 - vst
@@ -11,14 +11,12 @@ evergreen: false
 draft: false
 priceTrack:
 - UAD Moog Minimoog
-- Virtual Guitarist Bundle
 - Xpand!2
 - Bloom KSHMR
 - Heavyocity Ascend
 - Cherry Audio Blue3 Tonewheel Organ
 - Cherry Audio Wurlybird 140B
 - Native Instruments Action Strings 2
-- Native Instruments Kontakt 8
 - Arturia V Collection 11 Pro
 - Native Instruments Scene Nightshade
 - Output Analog Brass and Winds
@@ -30,6 +28,8 @@ priceTrack:
 - Native Instruments Discoteca Drums
 - Native Instruments Glaze 2
 - Native Instruments Halo Vox
+- Native Instruments Hypr
+- Native Instruments Luxa
 heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
@@ -41,12 +41,6 @@ heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 <!-- pick:UAD Moog Minimoog -->
 
 The UAD Moog Minimoog plugin suits keyboard players and producers who want the classic Minimoog Model D sound inside a DAW without hardware, since it reproduces the original's module interactions, ladder-filter growl, and pitch-tracking quirks with near-zero latency. They can load it as an instrument track in supported hosts such as Pro Tools, Logic Pro, Ableton Live, Cubase, or Studio One, and use features like switchable note priority, legato, sample and hold, and the extra LFO to go beyond the original hardware's capabilities.
-
-## Virtual Guitarist Bundle
-<!-- role:pick -->
-<!-- pick:Virtual Guitarist Bundle -->
-
-Virtual Guitarist Bundle suits guitarists and producers who want realistic, great-sounding guitar accompaniment without hiring a session player, offering organic, distorted, and processed rhythm guitar tones across more than 30 styles and 350 phrases. Users can play picking and strumming parts (including the new Instrument mode and Open Chords feature), layer up to four guitarists for a fuller sound, and shape the tone further with stomp box emulations and the Finisher multi-effect rack.
 
 ## Xpand!2
 <!-- role:pick -->
@@ -79,12 +73,6 @@ Wurlybird 140B suits pianists and producers chasing the classic 60s Wurlitzer 14
 <!-- pick:Native Instruments Action Strings 2 -->
 
 Native Instruments Action Strings 2 suits composers and producers working on cinematic soundtracks who need a full orchestral string ensemble sound with dramatic tension. They can compose string parts using a range of articulations captured from multiple mic positions, drawing on over 1,370 dynamic phrases that can be tweaked and blended in limitless combinations, via the free Kontakt Player (version 7.10 or higher).
-
-## Native Instruments Kontakt 8
-<!-- role:pick -->
-<!-- pick:Native Instruments Kontakt 8 -->
-
-Native Instruments Kontakt 8 suits producers and sound designers who want a single platform to find, create, and transform sounds, offering smart Chords and Phrases tools, the Leap looping engine with genre-focused expansions, and the Conflux hybrid oscillator for real-time sound manipulation. Users can draw on the Kontakt 8 Factory Library 2's 900+ instruments, build their own instruments by dragging in samples, and pair the software with Kontrol keyboards or Maschine hardware for hands-on browsing, auto-mapping, and parameter control.
 
 ## Arturia V Collection 11 Pro
 <!-- role:pick -->
@@ -141,6 +129,14 @@ Native Instruments Glaze 2 suits pop and hip hop producers and vocalists who wan
 <!-- pick:Native Instruments Halo Vox -->
 
 Native Instruments Halo Vox is suited to producers and vocal-focused music makers who want ready-made choral and ethereal vocal textures without building vocal sounds from scratch. They can load it in Kontakt Player (or Kontakt 8.1+) and explore its 150 editable presets, shaping pure vowels, layered textures, and processed vocal tones directly through the Play Series' real-time controls.
+
+## Native Instruments Hypr
+<!-- role:pick -->
+<!-- pick:Native Instruments Hypr -->
+
+## Native Instruments Luxa
+<!-- role:pick -->
+<!-- pick:Native Instruments Luxa -->
 
 ## Explore more
 <!-- role:related -->

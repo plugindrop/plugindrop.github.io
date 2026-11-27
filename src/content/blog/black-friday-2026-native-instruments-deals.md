@@ -2,7 +2,7 @@
 title: Black Friday 2026 Native Instruments Deals
 description: Tracked Black Friday price drops for Native Instruments plugins.
 pubDate: '2026-11-23'
-updatedDate: '2026-11-27T09:15:56.898606+00:00'
+updatedDate: '2026-11-27T09:28:47.419546+00:00'
 tags:
 - black-friday
 - vst
@@ -50,6 +50,8 @@ Native Instruments FM8 suits producers who want an accessible way into FM synthe
 ## Native Instruments Massive
 <!-- role:pick -->
 <!-- pick:Native Instruments Massive -->
+
+Native Instruments Massive suits bass, electro, and sound design producers who want punchy, cutting basses and leads alongside deep wavetable synthesis. They can dial in a sound quickly from the over 1300 included presets, then use the eight macro controls to morph and customize it—or build from scratch with the three parallel Wave Scanning oscillators, filters, and effects.
 
 ## Native Instruments Battery 4
 <!-- role:pick -->
@@ -122,6 +124,8 @@ Nacht suits techno producers who want unforgiving synths and distorted textures 
 ## Native Instruments LCO Producer Strings
 <!-- role:pick -->
 <!-- pick:Native Instruments LCO Producer Strings -->
+
+LCO Producer Strings suits film composers, hip hop, electronic, and pop producers who want expressive orchestral textures without juggling separate string and synth libraries, since it pairs recordings of the London Contemporary Orchestra with a hybrid four-layer string-and-synth engine. Producers can start from the curated genre presets for instantly playable arrangements, then shape each layer's volume, tuning, and space, blend in creative techniques like cluster blooms and harmonic flickers, and use the built-in effects and modulation for shimmer and spectral movement, all with real-time hands-on control via NKS-compatible Komplete Kontrol hardware in Kontakt or the free Kontakt Player.
 
 ## Native Instruments Session Ukulele
 <!-- role:pick -->

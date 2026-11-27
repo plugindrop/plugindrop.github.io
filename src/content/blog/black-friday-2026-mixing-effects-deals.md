@@ -2,7 +2,7 @@
 title: Black Friday 2026 Mixing Effects Deals
 description: Tracked Black Friday price drops for Mixing Effects plugins.
 pubDate: '2026-11-23'
-updatedDate: '2026-11-27T07:18:04.110213+00:00'
+updatedDate: '2026-11-27T09:29:48.435717+00:00'
 tags:
 - black-friday
 - vst
@@ -13,10 +13,10 @@ priceTrack:
 - Waves Abbey Road Reverb Plates
 - Waves API 2500
 - Waves PuigTec EQs
+- Waves Renaissance Reverb
 - Waves Renaissance Vox
 - Waves CLA-2A
 - Waves CLA-76
-- Waves H-Delay
 - Waves H-Reverb
 - L4 Ultramaximizer
 - Soundtoys Decapitator
@@ -28,8 +28,8 @@ priceTrack:
 - BALANCE
 - WORMHOLE
 - Lifeline Bundle
-- Arturia FX Collection 6 Pro
 - Shade
+- dime[ms]
 heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
@@ -48,6 +48,10 @@ heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 <!-- role:pick -->
 <!-- pick:Waves PuigTec EQs -->
 
+## Waves Renaissance Reverb
+<!-- role:pick -->
+<!-- pick:Waves Renaissance Reverb -->
+
 ## Waves Renaissance Vox
 <!-- role:pick -->
 <!-- pick:Waves Renaissance Vox -->
@@ -63,12 +67,6 @@ The Waves CLA-2A suits engineers mixing vocal, bass, and guitar tracks who want 
 <!-- pick:Waves CLA-76 -->
 
 The Waves CLA-76 suits mix engineers and producers who want a fast, aggressive FET-style compressor for tracking transient-heavy sources like drums and vocals, offering a choice between the "Blacky" and "Bluey" tonal characters. Users can apply it with zero added latency in both studio and live mixing contexts, dial in sound using the ALL ratio mode or Chris Lord-Alge's presets, and use the Mix and Trim controls for parallel compression and level matching.
-
-## Waves H-Delay
-<!-- role:pick -->
-<!-- pick:Waves H-Delay -->
-
-Waves H-Delay suits producers and mixers who want one delay plugin covering everything from classic analog-style echo, tape, and slapback to modern digital clarity, chorus, flanging, and self-oscillating feedback effects. They can dial in sounds quickly using its accessible interface, tempo-synced delay times from 1 to 3500 ms, four analog character modes plus a digital mode, built-in filtering and modulation, Dual Mode for spectral control, independent left/right phasing, and MIDI Learn on every control, often starting from one of its many presets.
 
 ## Waves H-Reverb
 <!-- role:pick -->
@@ -124,13 +122,13 @@ Soundtoys Devil-Loc Deluxe suits producers and engineers working with drums, roo
 <!-- role:pick -->
 <!-- pick:Lifeline Bundle -->
 
-## Arturia FX Collection 6 Pro
-<!-- role:pick -->
-<!-- pick:Arturia FX Collection 6 Pro -->
-
 ## Shade
 <!-- role:pick -->
 <!-- pick:Shade -->
+
+## dime[ms]
+<!-- role:pick -->
+<!-- pick:dime[ms] -->
 
 ## Explore more
 <!-- role:related -->

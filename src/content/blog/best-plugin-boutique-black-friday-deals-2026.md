@@ -2,7 +2,7 @@
 title: 'Black Friday & Cyber Monday 2026 Plugin Deals: Real Price Drops We Tracked'
 description: Black Friday and Cyber Monday plugin deals based on price drops we observed.
 pubDate: '2026-06-08T00:00:00Z'
-updatedDate: '2026-11-27T09:13:48.558078+00:00'
+updatedDate: '2026-11-27T09:29:48.435717+00:00'
 tags:
 - guide
 - vst
@@ -616,11 +616,12 @@ Orange Vocoder IV suits producers and sound designers who want vocal effects, ro
 
 [Black Friday price history and timing](/posts/vst-plugin-black-friday-guide/).
 
-- [Black Friday 2026 Cherry Audio Deals](/posts/black-friday-2026-cherry-audio-deals/)
-- [Black Friday 2026 Virtual Instruments Deals](/posts/black-friday-2026-instruments-deals/)
-- [Black Friday 2026 Mixing Effects Deals](/posts/black-friday-2026-mixing-effects-deals/)
-- [Black Friday 2026 Native Instruments Deals](/posts/black-friday-2026-native-instruments-deals/)
-- [Black Friday 2026 Synths and Drum Machines Deals](/posts/black-friday-2026-synths-deals/)
+- [Virtual Instruments](/posts/black-friday-2026-instruments-deals/)
+- [iZotope](/posts/black-friday-2026-izotope-deals/)
+- [Mixing Effects](/posts/black-friday-2026-mixing-effects-deals/)
+- [Native Instruments](/posts/black-friday-2026-native-instruments-deals/)
+- [Synths and Drum Machines](/posts/black-friday-2026-synths-deals/)
+- [Waves](/posts/black-friday-2026-waves-deals/)
 
 [Browse plugin brands](/brands/) · [Browse plugin categories](/best/)
 
