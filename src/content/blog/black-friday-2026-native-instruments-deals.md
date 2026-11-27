@@ -2,7 +2,7 @@
 title: Black Friday 2026 Native Instruments Deals
 description: Tracked Black Friday price drops for Native Instruments plugins.
 pubDate: '2026-11-23'
-updatedDate: '2026-11-27T07:18:04.110213+00:00'
+updatedDate: '2026-11-27T09:15:56.898606+00:00'
 tags:
 - black-friday
 - vst
@@ -15,10 +15,7 @@ priceTrack:
 - Native Instruments Massive
 - Native Instruments Battery 4
 - Native Instruments Action Strings 2
-- Native Instruments Kontakt 8
 - Native Instruments Scene Nightshade
-- Native Instruments Replika XT
-- Native Instruments Supercharger GT
 - Native Instruments 24K Drums
 - Native Instruments 24K Keys
 - Native Instruments Discoteca Drums
@@ -34,7 +31,9 @@ heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
 
-**TL;DR:** Track temporary price drops for 20 plugins and see [our evergreen comparisons](/brands/native-instruments/) for longer-term research.
+**TL;DR:** Track temporary price drops for 17 plugins and see [our evergreen comparisons](/brands/native-instruments/) for longer-term research.
+
+This roundup brings together a range of Native Instruments tools, from DJ mixing software and FM or wavetable synthesizers to drum samplers and Kontakt-based instrument libraries covering strings, vocals, ukulele, and genre-focused kits for hip hop, pop, techno, and cinematic scoring. Each one pairs an intuitive, preset-driven interface with real-time macro controls, offering a quick way to dial in a sound without digging through deep menus.
 
 ## Native Instruments Traktor Play
 <!-- role:pick -->
@@ -64,27 +63,11 @@ Battery 4 suits producers who want to build and audition drum kits quickly, sinc
 
 Native Instruments Action Strings 2 suits composers and sound designers working on cinematic and orchestral projects who need a full string ensemble with realistic, dynamic articulations. They can run it in the free Kontakt Player (version 7.10 or higher) and compose string parts by blending and tweaking the library's over 1,370 dynamic phrases across multiple captured mic positions.
 
-## Native Instruments Kontakt 8
-<!-- role:pick -->
-<!-- pick:Native Instruments Kontakt 8 -->
-
-Native Instruments Kontakt 8 suits producers and sound designers who want to build and shape their own virtual instruments, from dragging in a single sample to deep custom instrument design, and who work across genres like trap and pop thanks to the included Leap Expansion packs. They can use its Chords and Phrases Tools to quickly sketch melodies and sequences with any Kontakt instrument, play and manipulate loops in real time with Leap, and sculpt organic-to-synthetic tones with the Conflux hybrid oscillator engine, all while drawing on the Kontakt 8 Factory Library 2's 900-plus instruments and deep NKS integration with Kontrol keyboards and Maschine hardware.
-
 ## Native Instruments Scene Nightshade
 <!-- role:pick -->
 <!-- pick:Native Instruments Scene Nightshade -->
 
-## Native Instruments Replika XT
-<!-- role:pick -->
-<!-- pick:Native Instruments Replika XT -->
-
-Replika XT suits producers and mix engineers who want a flexible, studio-quality delay for shaping intricate rhythmic patterns and mix effects without wrestling with a complicated interface. Thanks to its straightforward interface, users can dial in sounds quickly, running it on macOS 11-13 or Windows 10/11 via VST, VST3, AU, or AAX.
-
-## Native Instruments Supercharger GT
-<!-- role:pick -->
-<!-- pick:Native Instruments Supercharger GT -->
-
-Native Instruments Supercharger GT suits mixing engineers and producers who want a straightforward way to add tube-style compression and extra saturation character to their tracks. They can dial in overall intensity with the Mild, Crisp, or Slam saturation modes, shape tone using the Fat, Warm, or Aggressive character settings, and use mid/side processing with the sidechain-protecting detector high pass to keep their mix controlled and focused.
+Native Instruments Scene Nightshade suits composers and sound designers working on horror soundtracks who want a dedicated dark, cinematic palette rather than a general-purpose instrument. They can load it in Kontakt or the free Kontakt Player and use the XY pad to blend between its 16 hybrid sound layers of eerie synths, droning strings, and haunting choir clusters, while the built-in scales and modes help them stay in key as they compose.
 
 ## Native Instruments 24K Drums
 <!-- role:pick -->
@@ -100,6 +83,8 @@ Native Instruments 24K Drums suits hip hop producers who want an authentic 2000s
 <!-- role:pick -->
 <!-- pick:Native Instruments Discoteca Drums -->
 
+Native Instruments Discoteca Drums suits Italo disco and retro-futuristic dance producers who want kicks, snares, hi-hats, and percussion modeled on classic drum machines without digging through vintage gear. Using the free Kontakt Player (or Kontakt 8.1+), they can pull from 579 sounds across 30 curated kits and apply the included MIDI patterns for quick, customizable grooves in any DAW.
+
 ## Native Instruments Glaze 2
 <!-- role:pick -->
 <!-- pick:Native Instruments Glaze 2 -->
@@ -110,17 +95,25 @@ Native Instruments Glaze 2 is best suited to pop and hip hop producers who want 
 <!-- role:pick -->
 <!-- pick:Native Instruments Halo Vox -->
 
+Native Instruments Halo Vox suits producers and vocalists who want ready-made choral and vocal-texture sounds without deep sound-design work, since it offers 150 editable presets covering pure vowels through processed, futuristic vocal design. They can load it in Kontakt Player or Kontakt (8.1 or higher) and use the Play Series interface's real-time controls to shape layered vocal textures and tones directly into a track.
+
 ## Native Instruments Hypr
 <!-- role:pick -->
 <!-- pick:Native Instruments Hypr -->
+
+Hypr suits producers chasing dark, frenetic hyperpop-style sound design who want glitched synths, bold basses, eerie pads, and rhythmic sequences without programming from scratch. They can dial in a track's energy quickly by browsing its 150 editable presets and tweaking them through the Play Series' intuitive interface with real-time control.
 
 ## Native Instruments Luxa
 <!-- role:pick -->
 <!-- pick:Native Instruments Luxa -->
 
+Luxa suits producers working in pop, R&B, rap, and K-pop who want polished, radio-ready sounds without building patches from scratch. Built on the Play Series, it gives them 150 presets spanning synths, keys, plucks, and basses, each shaped through easy-to-use macros for instant, real-time sound adjustments.
+
 ## Native Instruments Nacht
 <!-- role:pick -->
 <!-- pick:Native Instruments Nacht -->
+
+Nacht suits techno producers who want unforgiving synths and distorted textures covering the full techno spectrum, offered through the Play Series' streamlined interface with 150 editable presets spanning basses, pads, leads, and special effects. Within Kontakt or the free Kontakt Player, they can shape rhythms, arpeggios, and sequences with the intuitive step sequencer and adjust sounds in real time using the macro controls.
 
 ## Native Instruments Roux
 <!-- role:pick -->
@@ -133,6 +126,8 @@ Native Instruments Glaze 2 is best suited to pop and hip hop producers who want 
 ## Native Instruments Session Ukulele
 <!-- role:pick -->
 <!-- pick:Native Instruments Session Ukulele -->
+
+Session Ukulele suits producers who want acoustic ukulele and charango textures without manual strumming programming, since its 385 strumming and picking patterns with natural chord inversions can be dragged straight into a DAW and edited. Users can shape the tone further with the built-in mic options, doubling switch, and onboard effects like delay, reverb, modulation, compression, EQ presets, and lo-fi processing.
 
 ## Explore more
 <!-- role:related -->
