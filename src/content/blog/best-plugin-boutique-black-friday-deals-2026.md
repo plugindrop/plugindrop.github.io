@@ -2,7 +2,7 @@
 title: 'Black Friday & Cyber Monday 2026 Plugin Deals: Real Price Drops We Tracked'
 description: Black Friday and Cyber Monday plugin deals based on price drops we observed.
 pubDate: '2026-06-08T00:00:00Z'
-updatedDate: '2026-11-27T09:29:48.435717+00:00'
+updatedDate: '2026-11-27T10:10:11.732951+00:00'
 tags:
 - guide
 - vst
@@ -25,10 +25,15 @@ priceTrack:
 - Arturia Analog Lab Pro
 - Kilohearts Phase Plant
 - Phase Plant
+- Arturia FX Collection 6 Pro
 - Arturia V Collection 11 Pro
+- SubBoomBass 2
+- Waves Vocal Rider
+- Waves Kramer Master Tape
 - UAD Moog Minimoog
 - UAD Opal Morphing Synth
 - UAD Ampex ATR 102 Mastering Tape Recorder
+- L4 Ultramaximizer
 - Softube Tape
 - UAD EMT 140 Classic Plate Reverberator
 - UAD Manley Vari Mu
@@ -42,10 +47,8 @@ priceTrack:
 - dime[tt]
 - dime[ms]
 - Waves Tune Real-Time
-- Waves Vocal Rider
 - Waves Abbey Road Reverb Plates
 - Waves API 2500
-- Waves Kramer Master Tape
 - Waves PuigTec EQs
 - Waves SSL E-Channel
 - iZotope VocalSynth 2
@@ -54,7 +57,6 @@ priceTrack:
 - Waves CLA-2A
 - Waves CLA-76
 - Waves H-Reverb
-- L4 Ultramaximizer
 - Model 80 Five Voice Synthesizer
 - Soundtoys Decapitator
 - Soundtoys Crystallizer
@@ -94,7 +96,6 @@ priceTrack:
 - iZotope FXEQ
 - iZotope Ozone 12 Elements
 - iZotope Velvet
-- SubBoomBass 2
 - E1
 - iZotope RX 12 Advanced
 - iZotope Neutron 5
@@ -109,9 +110,7 @@ heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
 
-**TL;DR:** Compare 93 Black Friday and Cyber Monday plugin deals whose prices fell below their recent tracked levels.
-
-This roundup gathers virtual instruments, synths, and studio effects spanning sound design, mixing, and mastering. From tonewheel organs and granular textures to vocoders, tape emulation, and precision dynamics processing, there's a tool here for shaping nearly every stage of a production.
+**TL;DR:** Compare 94 Black Friday and Cyber Monday plugin deals whose prices fell below their recent tracked levels.
 
 ## Ending November 29 and 30
 <!-- role:overview -->
@@ -129,10 +128,15 @@ This roundup gathers virtual instruments, synths, and studio effects spanning so
 - Arturia Analog Lab Pro
 - Kilohearts Phase Plant
 - Phase Plant
+- Arturia FX Collection 6 Pro
 - Arturia V Collection 11 Pro
+- SubBoomBass 2
+- Waves Vocal Rider
+- Waves Kramer Master Tape
 - UAD Moog Minimoog
 - UAD Opal Morphing Synth
 - UAD Ampex ATR 102 Mastering Tape Recorder
+- L4 Ultramaximizer
 - Softube Tape
 - UAD EMT 140 Classic Plate Reverberator
 - UAD Manley Vari Mu
@@ -157,16 +161,17 @@ This roundup gathers virtual instruments, synths, and studio effects spanning so
 - Cherry Audio Blue3 Tonewheel Organ
 - Cherry Audio Wurlybird 140B
 - Cherry Audio Crumar Spirit
+- Waves Vocal Rider
+- Waves Kramer Master Tape
 - UAD Moog Minimoog
 - UAD Opal Morphing Synth
+- L4 Ultramaximizer
 - Softube Tape
 - dime[tt]
 - dime[ms]
 - Waves Tune Real-Time
-- Waves Vocal Rider
 - Waves Abbey Road Reverb Plates
 - Waves API 2500
-- Waves Kramer Master Tape
 - Waves PuigTec EQs
 - Waves SSL E-Channel
 - iZotope VocalSynth 2
@@ -175,7 +180,6 @@ This roundup gathers virtual instruments, synths, and studio effects spanning so
 - Waves CLA-2A
 - Waves CLA-76
 - Waves H-Reverb
-- L4 Ultramaximizer
 - iZotope Trash
 - MAutoAlign
 - Native Instruments Traktor Play
@@ -271,9 +275,25 @@ Phase Plant suits sound designers and music producers who want to build original
 
 Phase Plant suits sound designers and music producers who want to build original synth sounds from scratch rather than tweak presets. With its open modular architecture, they can combine any number of generators, modulators, and effects to design patches ranging from simple synths to complex evolving sounds.
 
+## Arturia FX Collection 6 Pro
+<!-- role:pick -->
+<!-- pick:Arturia FX Collection 6 Pro -->
+
 ## Arturia V Collection 11 Pro
 <!-- role:pick -->
 <!-- pick:Arturia V Collection 11 Pro -->
+
+## SubBoomBass 2
+<!-- role:pick -->
+<!-- pick:SubBoomBass 2 -->
+
+## Waves Vocal Rider
+<!-- role:pick -->
+<!-- pick:Waves Vocal Rider -->
+
+## Waves Kramer Master Tape
+<!-- role:pick -->
+<!-- pick:Waves Kramer Master Tape -->
 
 ## UAD Moog Minimoog
 <!-- role:pick -->
@@ -293,6 +313,10 @@ Opal suits producers and sound designers who want big, record-ready analog-meets
 
 The Ampex ATR-102 plug-in suits producers and mixing/mastering engineers who want to add analog tape character to a mix or master, available for both Apollo Realtime/UAD-2 hardware and as a UAD Native plug-in across Pro Tools, Logic Pro, Ableton Live, Cubase, and Studio One. Users can select between tape types and color settings to shape saturation and harmonics, route the full ATR-102 circuit including its transformers and amplifiers, and use Auto-Gain to keep Repro and Record levels properly staged while adjusting the sound.
 
+## L4 Ultramaximizer
+<!-- role:pick -->
+<!-- pick:L4 Ultramaximizer -->
+
 ## Softube Tape
 <!-- role:pick -->
 <!-- pick:Softube Tape -->
@@ -309,31 +333,21 @@ The UAD EMT 140 Classic Plate Reverberator suits mixers and producers who want t
 <!-- role:pick -->
 <!-- pick:UAD Manley Vari Mu -->
 
-The UAD Manley Vari Mu suits mixing and mastering engineers who need glue and tonal cohesion across individual tracks, stereo buses, or a full mix. They can use it by linking channels for a matched stereo image, choosing Left/Right or Mid/Side operation to shape stereo imaging, and dialing in the plug-in's Dry/Wet Mix control for parallel compression.
-
 ## UNMIX::DRUMS
 <!-- role:pick -->
 <!-- pick:UNMIX::DRUMS -->
-
-UNMIX::DRUMS suits producers, mixers, and remixers who need to shape drum presence within an already-mixed track or drum bus rather than working from individual stems. They can boost drums by up to +18dB or pull them down toward near-complete removal using frequency-dependent controls, the sub-bass resynthesizer, and SMOOTH or PUNCHY boost modes to rebalance a full mix for mastering, remixing, or sample-based production.
 
 ## BALANCE
 <!-- role:pick -->
 <!-- pick:BALANCE -->
 
-BALANCE suits mix engineers, sound designers, composers, and producers who want a fast, low-overhead way to adjust overall tonal balance across a session. Users adjust the target curve with the SLOPE, WEIGHTING, BASS, and AIR controls, set the overall EQ amount and wet gain, and apply 12dB/Octave low-cut and high-cut filters, optionally switching to the compact EASY view when they don't need the Metal/Direct 3D accelerated analyzer on screen.
-
 ## INTENSITY 2
 <!-- role:pick -->
 <!-- pick:INTENSITY 2 -->
 
-INTENSITY 2 suits mixing and mastering engineers as well as sound designers who want to add detail, clarity, and perceived loudness without juggling a complex interface. They can use its single main control alongside mid/side processing and an optional soft-knee saturating limiter across up to 16 channels, running as a 64-bit AAX Native, AU, or VST 3 plugin.
-
 ## ORANGE VOCODER IV
 <!-- role:pick -->
 <!-- pick:ORANGE VOCODER IV -->
-
-Orange Vocoder IV suits producers and sound designers who want vocal effects, robotic or creature voices, and mutated grooves, thanks to its 24 vocoding algorithms plus formant shifting, expansion, and stereo operation. They can shape sound further with the rewritten synthesizer section (Unison, Mono Legato, thru-zero linear FM), the new MIDI-controlled pitch quantizer with grain morphing, and the streamlined multi-view UI with module sub-presets and smart randomization, running as AU, AAX Native, VST 2.4, or VST 3 on macOS or Windows.
 
 ## WORMHOLE
 <!-- role:pick -->
@@ -359,10 +373,6 @@ Orange Vocoder IV suits producers and sound designers who want vocal effects, ro
 <!-- role:pick -->
 <!-- pick:Waves Tune Real-Time -->
 
-## Waves Vocal Rider
-<!-- role:pick -->
-<!-- pick:Waves Vocal Rider -->
-
 ## Waves Abbey Road Reverb Plates
 <!-- role:pick -->
 <!-- pick:Waves Abbey Road Reverb Plates -->
@@ -370,10 +380,6 @@ Orange Vocoder IV suits producers and sound designers who want vocal effects, ro
 ## Waves API 2500
 <!-- role:pick -->
 <!-- pick:Waves API 2500 -->
-
-## Waves Kramer Master Tape
-<!-- role:pick -->
-<!-- pick:Waves Kramer Master Tape -->
 
 ## Waves PuigTec EQs
 <!-- role:pick -->
@@ -406,10 +412,6 @@ Orange Vocoder IV suits producers and sound designers who want vocal effects, ro
 ## Waves H-Reverb
 <!-- role:pick -->
 <!-- pick:Waves H-Reverb -->
-
-## L4 Ultramaximizer
-<!-- role:pick -->
-<!-- pick:L4 Ultramaximizer -->
 
 ## Model 80 Five Voice Synthesizer
 <!-- role:pick -->
@@ -566,10 +568,6 @@ Orange Vocoder IV suits producers and sound designers who want vocal effects, ro
 ## iZotope Velvet
 <!-- role:pick -->
 <!-- pick:iZotope Velvet -->
-
-## SubBoomBass 2
-<!-- role:pick -->
-<!-- pick:SubBoomBass 2 -->
 
 ## E1
 <!-- role:pick -->

@@ -2,7 +2,7 @@
 title: Black Friday 2026 Mixing Effects Deals
 description: Tracked Black Friday price drops for Mixing Effects plugins.
 pubDate: '2026-11-23'
-updatedDate: '2026-11-27T09:29:48.435717+00:00'
+updatedDate: '2026-11-27T10:10:11.732951+00:00'
 tags:
 - black-friday
 - vst
@@ -28,8 +28,8 @@ priceTrack:
 - BALANCE
 - WORMHOLE
 - Lifeline Bundle
+- Arturia FX Collection 6 Pro
 - Shade
-- dime[ms]
 heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
@@ -122,13 +122,13 @@ Soundtoys Devil-Loc Deluxe suits producers and engineers working with drums, roo
 <!-- role:pick -->
 <!-- pick:Lifeline Bundle -->
 
+## Arturia FX Collection 6 Pro
+<!-- role:pick -->
+<!-- pick:Arturia FX Collection 6 Pro -->
+
 ## Shade
 <!-- role:pick -->
 <!-- pick:Shade -->
-
-## dime[ms]
-<!-- role:pick -->
-<!-- pick:dime[ms] -->
 
 ## Explore more
 <!-- role:related -->
