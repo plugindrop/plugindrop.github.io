@@ -176045,6 +176045,15 @@
           "reg_src": "page",
           "cur": "USD",
           "until": "2026-12-02"
+        },
+        {
+          "date": "2026-11-27",
+          "sale": 99.0,
+          "regular": 229.0,
+          "source": "pb_deals_poll",
+          "store": "plugin_boutique",
+          "reg_src": "page",
+          "cur": "USD"
         }
       ],
       "image": "/images/plugin-prices/zenology-pro.jpg",
