@@ -2,6 +2,7 @@
 import { SITE_TITLE } from '../consts';
 import HeaderLink from './HeaderLink.astro';
 import priceData from '../data/price_history.json';
+import BfBand from './BfBand.astro';
 ---
 
 <header>
@@ -25,6 +26,7 @@ import priceData from '../data/price_history.json';
 		<form class="header-search" action="/posts/" method="get" role="search"><input type="search" name="q" placeholder="Search plugins and deals" aria-label="Search plugins and deals" /><button type="submit">Search</button></form>
 	</nav>
 </header>
+<BfBand />
 <style>
 	header {
 		position: sticky;

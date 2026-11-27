@@ -1,0 +1,17 @@
+---
+import { bfPhase, BF_HUB_PATH, BF_DEVELOPERS_PATH, BF_WINDOW } from '../lib/bfWindow.mjs';
+const phase = bfPhase(Date.now());
+const label = { bf: 'Black Friday', cm: 'Cyber Monday' };
+---
+{phase && <div class="bf-band" data-bf-band data-bf-start={BF_WINDOW.start} data-bf-cyber={BF_WINDOW.cyber} data-bf-end={BF_WINDOW.end}>
+  <p><strong data-bf-label>{label[phase]}</strong> plugin deals are live: <a href={BF_HUB_PATH}>see the price drops we tracked</a> · <a href={BF_DEVELOPERS_PATH}>sales by developer</a></p>
+</div>}
+<style>
+  .bf-band{background:var(--accent-muted);border-bottom:1px solid var(--border);padding:.4rem 1.5rem;text-align:center;font-size:.82rem;color:var(--text-primary)}
+  .bf-band p{margin:0;max-width:1400px;margin-inline:auto}
+  .bf-band a{color:var(--accent);font-weight:700;text-decoration:underline}
+  @media(max-width:640px){.bf-band{padding:.4rem .8rem;font-size:.76rem;line-height:1.4}}
+</style>
+<script is:inline>
+(function(){var b=document.querySelector('[data-bf-band]');if(!b)return;var d=new Date(Date.now()+9*3600e3).toISOString().slice(0,10),s=b.dataset;if(d<s.bfStart||d>s.bfEnd){b.hidden=true;b.style.display='none';return}var l=b.querySelector('[data-bf-label]');if(l)l.textContent=d>=s.bfCyber?'Cyber Monday':'Black Friday'})();
+</script>
