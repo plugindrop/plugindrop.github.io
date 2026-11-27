@@ -1891,6 +1891,13 @@
     "source": "pb_page",
     "official": false
   },
+  "Moog Mariana": {
+    "video_id": "XQUP8nRwQ3M",
+    "title": "Mariana Bass Synth by Moog in 5 Minutes",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
   "Motion Bundle Upgrade from any Motion product": {
     "video_id": "T_RSXMuoM1Y",
     "title": "Motion: Harmonic - Quick Start Guide",
@@ -2727,6 +2734,13 @@
     "source": "yt_api_fill",
     "official": false
   },
+  "Softube Tape": {
+    "video_id": "2igkxyrtv1s",
+    "title": "TAPE Saturation Plugin By Softube – Show & Reveal With Joshua Casper",
+    "channel": "Plugin Boutique",
+    "source": "pb_page",
+    "official": false
+  },
   "Solid State Logic SSL Fusion Bundle": {
     "video_id": "JeM5q486Uss",
     "title": "How to Get the \"Expensive\" Analog Sound",
@@ -3024,11 +3038,11 @@
     "official": false
   },
   "SubBoomBass 2": {
-    "video_id": "esOjo0fO1fQ",
-    "title": "SubBoomBass 2 Synthesizer by Rob Papen (No Talking)",
-    "channel": "Elektronick Musick",
-    "score": 8,
-    "source": "yt_api_fill"
+    "video_id": "CPsaSE3N3E4",
+    "title": "SubBoomBass2 Introduction",
+    "channel": "Rob Papen",
+    "source": "pb_page",
+    "official": false
   },
   "SubLab XL": {
     "video_id": "spLsQSPi1oQ",
