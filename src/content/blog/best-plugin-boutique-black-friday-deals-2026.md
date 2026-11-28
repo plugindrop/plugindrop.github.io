@@ -2,7 +2,7 @@
 title: 'Black Friday & Cyber Monday 2026 Plugin Deals: Real Price Drops We Tracked'
 description: Black Friday and Cyber Monday plugin deals based on price drops we observed.
 pubDate: '2026-06-08T00:00:00Z'
-updatedDate: '2026-11-27T22:12:05.860162+00:00'
+updatedDate: '2026-11-28T10:10:04.354989+00:00'
 tags:
 - guide
 - vst
@@ -19,28 +19,24 @@ priceTrack:
 - 'Motion: Fractal'
 - Cherry Audio Blue3 Tonewheel Organ
 - Motion Bundle Upgrade from any Motion product
-- Excite Audio Bundle
 - Cherry Audio Wurlybird 140B
 - Cherry Audio Crumar Spirit
 - Lifeline Bundle
 - Arturia Analog Lab Pro
 - Kilohearts Phase Plant
 - Phase Plant
-- Arturia FX Collection 6 Pro
-- Arturia V Collection 11 Pro
 - SubBoomBass 2
 - Waves Vocal Rider
 - Waves Kramer Master Tape
 - UAD Moog Minimoog
-- UAD Opal Morphing Synth
 - UAD Ampex ATR 102 Mastering Tape Recorder
 - L4 Ultramaximizer
+- Model 80 Five Voice Synthesizer
 - Softube Tape
 - UAD EMT 140 Classic Plate Reverberator
 - UAD Manley Vari Mu
 - UNMIX::DRUMS
 - BALANCE
-- INTENSITY 2
 - ORANGE VOCODER IV
 - WORMHOLE
 - Output Analog Brass and Winds
@@ -58,15 +54,12 @@ priceTrack:
 - Waves CLA-2A
 - Waves CLA-76
 - Waves H-Reverb
-- Model 80 Five Voice Synthesizer
-- Soundtoys Decapitator
 - Soundtoys Crystallizer
 - iZotope Trash
-- Heavyocity Ascend
-- MAutoAlign
 - Sonible smart:EQ 4
 - Soundtoys Devil-Loc Deluxe
 - Soundtoys Little AlterBoy
+- Excite Audio Bundle
 - Native Instruments Traktor Play
 - iZotope RX 12 Elements
 - Native Instruments FM8
@@ -93,8 +86,6 @@ priceTrack:
 - Native Instruments Session Ukulele
 - iZotope FXEQ
 - iZotope Ozone 12 Elements
-- iZotope Velvet
-- E1
 - iZotope RX 12 Advanced
 - iZotope Neutron 5
 - FabFilter Pro-MB
@@ -103,12 +94,11 @@ priceTrack:
 - iZotope RX 12 Standard
 - iZotope Ozone 12 Advanced
 - iZotope Tonal Balance Control 3
-- Ample Sound Ample Guitar M
 heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
 
-**TL;DR:** Compare 92 Black Friday and Cyber Monday plugin deals whose prices fell below their recent tracked levels.
+**TL;DR:** Compare 82 Black Friday and Cyber Monday plugin deals whose prices fell below their recent tracked levels.
 
 ## Ending November 29 and 30
 <!-- role:overview -->
@@ -120,28 +110,24 @@ heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 - Motion: Fractal
 - Cherry Audio Blue3 Tonewheel Organ
 - Motion Bundle Upgrade from any Motion product
-- Excite Audio Bundle
 - Cherry Audio Wurlybird 140B
 - Cherry Audio Crumar Spirit
 - Lifeline Bundle
 - Arturia Analog Lab Pro
 - Kilohearts Phase Plant
 - Phase Plant
-- Arturia FX Collection 6 Pro
-- Arturia V Collection 11 Pro
 - SubBoomBass 2
 - Waves Vocal Rider
 - Waves Kramer Master Tape
 - UAD Moog Minimoog
-- UAD Opal Morphing Synth
 - UAD Ampex ATR 102 Mastering Tape Recorder
 - L4 Ultramaximizer
+- Model 80 Five Voice Synthesizer
 - Softube Tape
 - UAD EMT 140 Classic Plate Reverberator
 - UAD Manley Vari Mu
 - UNMIX::DRUMS
 - BALANCE
-- INTENSITY 2
 - ORANGE VOCODER IV
 - WORMHOLE
 - Output Analog Brass and Winds
@@ -163,7 +149,6 @@ heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 - Waves Vocal Rider
 - Waves Kramer Master Tape
 - UAD Moog Minimoog
-- UAD Opal Morphing Synth
 - L4 Ultramaximizer
 - Softube Tape
 - dime[tt]
@@ -180,7 +165,6 @@ heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 - Waves CLA-76
 - Waves H-Reverb
 - iZotope Trash
-- MAutoAlign
 - Native Instruments Traktor Play
 - Native Instruments Scene Nightshade
 - Native Instruments 24K Drums
@@ -194,7 +178,6 @@ heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 - Native Instruments Roux
 - iZotope FXEQ
 - iZotope Ozone 12 Elements
-- iZotope Velvet
 
 ## Xpand!2
 <!-- role:pick -->
@@ -238,10 +221,6 @@ Cherry Audio's Blue3 suits organists and keyboardists working across blues, gosp
 
 This plugin suits producers who want to go beyond basic effects and shape sound with distortion, bitcrushing, delays, reverbs, and granular textures across a combined toolset. They can use it by routing audio through its FX sections, mapping macro sliders to parameters, and drawing on its preset library to quickly build layered, evolving sound design.
 
-## Excite Audio Bundle
-<!-- role:pick -->
-<!-- pick:Excite Audio Bundle -->
-
 ## Cherry Audio Wurlybird 140B
 <!-- role:pick -->
 <!-- pick:Cherry Audio Wurlybird 140B -->
@@ -278,14 +257,6 @@ Phase Plant suits sound designers and music producers who want to build original
 
 Phase Plant suits sound designers and music producers who want to build original synth sounds from scratch rather than tweak presets. With its open modular architecture, they can combine any number of generators, modulators, and effects to design patches ranging from simple synths to complex evolving sounds.
 
-## Arturia FX Collection 6 Pro
-<!-- role:pick -->
-<!-- pick:Arturia FX Collection 6 Pro -->
-
-## Arturia V Collection 11 Pro
-<!-- role:pick -->
-<!-- pick:Arturia V Collection 11 Pro -->
-
 ## SubBoomBass 2
 <!-- role:pick -->
 <!-- pick:SubBoomBass 2 -->
@@ -304,12 +275,6 @@ Phase Plant suits sound designers and music producers who want to build original
 
 This plugin suits performing synth players and producers chasing the classic Minimoog Model D sound who want near-zero-latency, exacting emulation of its oscillators and ladder filter for real-time playing and tracking. They can use it directly inside a supported DAW (Logic Pro, Ableton Live, Studio One, Cubase, Pro Tools, or LUNA) via Audio Units, VST 3, or AAX, exploring its self-oscillation, extreme resonance, and custom mods such as switchable note priority, legato, and the extra LFO to expand on the original hardware's sonic palette.
 
-## UAD Opal Morphing Synth
-<!-- role:pick -->
-<!-- pick:UAD Opal Morphing Synth -->
-
-Opal suits producers and sound designers who want big, record-ready analog-meets-wavetable sounds without getting lost in deep synthesis, thanks to morphing filters, oscillators, LFOs, noise, and curated presets for fast genre-spanning use. They can shape and finish sounds further using the onboard UA effects, including vintage spring reverb, tape delay, modulation, and 1176-style compression.
-
 ## UAD Ampex ATR 102 Mastering Tape Recorder
 <!-- role:pick -->
 <!-- pick:UAD Ampex ATR 102 Mastering Tape Recorder -->
@@ -319,6 +284,10 @@ The Ampex ATR-102 plug-in suits producers and mixing/mastering engineers who wan
 ## L4 Ultramaximizer
 <!-- role:pick -->
 <!-- pick:L4 Ultramaximizer -->
+
+## Model 80 Five Voice Synthesizer
+<!-- role:pick -->
+<!-- pick:Model 80 Five Voice Synthesizer -->
 
 ## Softube Tape
 <!-- role:pick -->
@@ -330,21 +299,23 @@ Softube Tape suits computer-based mix engineers and producers who want their dig
 <!-- role:pick -->
 <!-- pick:UAD EMT 140 Classic Plate Reverberator -->
 
+The UAD EMT 140 Classic Plate Reverberator suits mixers and producers who want the warm, authentic plate reverb sound heard on iconic recordings, particularly for making lead vocal tracks stand out in a dense mix. They can shape that tone using the plug-in's damping and filter controls, along with its Balance, Width, and Modulation settings.
+
 ## UAD Manley Vari Mu
 <!-- role:pick -->
 <!-- pick:UAD Manley Vari Mu -->
+
+The UAD Manley Vari Mu suits mixing and mastering engineers who need glue and tonal cohesion across individual tracks, stereo buses, or a full mix. They can use it by linking channels for a matched stereo image, choosing Left/Right or Mid/Side operation to shape stereo imaging, and dialing in the plug-in's Dry/Wet Mix control for parallel compression.
 
 ## UNMIX::DRUMS
 <!-- role:pick -->
 <!-- pick:UNMIX::DRUMS -->
 
+UNMIX::DRUMS suits producers, mixers, and remixers who need to shape drum presence within an already-mixed track or drum bus rather than working from individual stems. They can boost drums by up to +18dB or pull them down toward near-complete removal using frequency-dependent controls, the sub-bass resynthesizer, and SMOOTH or PUNCHY boost modes to rebalance a full mix for mastering, remixing, or sample-based production.
+
 ## BALANCE
 <!-- role:pick -->
 <!-- pick:BALANCE -->
-
-## INTENSITY 2
-<!-- role:pick -->
-<!-- pick:INTENSITY 2 -->
 
 ## ORANGE VOCODER IV
 <!-- role:pick -->
@@ -414,14 +385,6 @@ Softube Tape suits computer-based mix engineers and producers who want their dig
 <!-- role:pick -->
 <!-- pick:Waves H-Reverb -->
 
-## Model 80 Five Voice Synthesizer
-<!-- role:pick -->
-<!-- pick:Model 80 Five Voice Synthesizer -->
-
-## Soundtoys Decapitator
-<!-- role:pick -->
-<!-- pick:Soundtoys Decapitator -->
-
 ## Soundtoys Crystallizer
 <!-- role:pick -->
 <!-- pick:Soundtoys Crystallizer -->
@@ -429,14 +392,6 @@ Softube Tape suits computer-based mix engineers and producers who want their dig
 ## iZotope Trash
 <!-- role:pick -->
 <!-- pick:iZotope Trash -->
-
-## Heavyocity Ascend
-<!-- role:pick -->
-<!-- pick:Heavyocity Ascend -->
-
-## MAutoAlign
-<!-- role:pick -->
-<!-- pick:MAutoAlign -->
 
 ## Sonible smart:EQ 4
 <!-- role:pick -->
@@ -449,6 +404,10 @@ Softube Tape suits computer-based mix engineers and producers who want their dig
 ## Soundtoys Little AlterBoy
 <!-- role:pick -->
 <!-- pick:Soundtoys Little AlterBoy -->
+
+## Excite Audio Bundle
+<!-- role:pick -->
+<!-- pick:Excite Audio Bundle -->
 
 ## Native Instruments Traktor Play
 <!-- role:pick -->
@@ -554,14 +513,6 @@ Softube Tape suits computer-based mix engineers and producers who want their dig
 <!-- role:pick -->
 <!-- pick:iZotope Ozone 12 Elements -->
 
-## iZotope Velvet
-<!-- role:pick -->
-<!-- pick:iZotope Velvet -->
-
-## E1
-<!-- role:pick -->
-<!-- pick:E1 -->
-
 ## iZotope RX 12 Advanced
 <!-- role:pick -->
 <!-- pick:iZotope RX 12 Advanced -->
@@ -593,10 +544,6 @@ Softube Tape suits computer-based mix engineers and producers who want their dig
 ## iZotope Tonal Balance Control 3
 <!-- role:pick -->
 <!-- pick:iZotope Tonal Balance Control 3 -->
-
-## Ample Sound Ample Guitar M
-<!-- role:pick -->
-<!-- pick:Ample Sound Ample Guitar M -->
 
 ## Explore more
 <!-- role:related -->

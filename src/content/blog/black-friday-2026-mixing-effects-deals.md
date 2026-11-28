@@ -2,7 +2,7 @@
 title: Black Friday 2026 Mixing Effects Deals
 description: Tracked Black Friday price drops for Mixing Effects plugins.
 pubDate: '2026-11-23'
-updatedDate: '2026-11-27T22:12:05.860162+00:00'
+updatedDate: '2026-11-28T10:10:04.354989+00:00'
 tags:
 - black-friday
 - vst
@@ -19,7 +19,6 @@ priceTrack:
 - Waves CLA-76
 - Waves H-Reverb
 - L4 Ultramaximizer
-- Soundtoys Decapitator
 - Soundtoys Crystallizer
 - UAD EMT 140 Classic Plate Reverberator
 - Sonible smart:EQ 4
@@ -28,8 +27,9 @@ priceTrack:
 - BALANCE
 - WORMHOLE
 - Lifeline Bundle
-- Arturia FX Collection 6 Pro
 - dime[ms]
+- iZotope FXEQ
+- FabFilter Pro-MB
 heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
@@ -78,12 +78,6 @@ H-Reverb suits producers and engineers who want both natural-sounding spaces and
 <!-- role:pick -->
 <!-- pick:L4 Ultramaximizer -->
 
-## Soundtoys Decapitator
-<!-- role:pick -->
-<!-- pick:Soundtoys Decapitator -->
-
-Soundtoys Decapitator suits mixers and producers who want to add analog-style saturation character to vocals, drums, and synths without complex routing. Users can select from its five analog saturation models, shape the tone with the modeled tone control, dial in a parallel blend using the mix knob, and push the sound harder with the Punish button for more extreme results.
-
 ## Soundtoys Crystallizer
 <!-- role:pick -->
 <!-- pick:Soundtoys Crystallizer -->
@@ -122,13 +116,17 @@ Soundtoys Devil-Loc Deluxe suits producers and engineers working with drums, roo
 <!-- role:pick -->
 <!-- pick:Lifeline Bundle -->
 
-## Arturia FX Collection 6 Pro
-<!-- role:pick -->
-<!-- pick:Arturia FX Collection 6 Pro -->
-
 ## dime[ms]
 <!-- role:pick -->
 <!-- pick:dime[ms] -->
+
+## iZotope FXEQ
+<!-- role:pick -->
+<!-- pick:iZotope FXEQ -->
+
+## FabFilter Pro-MB
+<!-- role:pick -->
+<!-- pick:FabFilter Pro-MB -->
 
 ## Explore more
 <!-- role:related -->

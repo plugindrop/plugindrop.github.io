@@ -2,7 +2,7 @@
 title: Black Friday 2026 Virtual Instruments Deals
 description: Tracked Black Friday price drops for Virtual Instruments plugins.
 pubDate: '2026-11-23'
-updatedDate: '2026-11-27T09:29:48.435717+00:00'
+updatedDate: '2026-11-28T10:10:04.354989+00:00'
 tags:
 - black-friday
 - vst
@@ -13,11 +13,9 @@ priceTrack:
 - UAD Moog Minimoog
 - Xpand!2
 - Bloom KSHMR
-- Heavyocity Ascend
 - Cherry Audio Blue3 Tonewheel Organ
 - Cherry Audio Wurlybird 140B
 - Native Instruments Action Strings 2
-- Arturia V Collection 11 Pro
 - Native Instruments Scene Nightshade
 - Output Analog Brass and Winds
 - UVI World Suite 3
@@ -30,6 +28,8 @@ priceTrack:
 - Native Instruments Halo Vox
 - Native Instruments Hypr
 - Native Instruments Luxa
+- Native Instruments Nacht
+- Native Instruments Roux
 heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
@@ -50,12 +50,6 @@ The UAD Moog Minimoog plugin suits keyboard players and producers who want the c
 <!-- role:pick -->
 <!-- pick:Bloom KSHMR -->
 
-## Heavyocity Ascend
-<!-- role:pick -->
-<!-- pick:Heavyocity Ascend -->
-
-Heavyocity Ascend suits cinematic composers who want a deeply detailed, warm-sounding grand piano for scoring work, offering 110 snapshot presets across categories like Core Concert D, Ascended, Rhythmic, and Rhythmic Melodic to cover a range of moods. They can browse and layer these presets using the intuitive sample browser, build evolving rhythmic parts with the built-in ARP, and blend the instrument's 16 sound sources in real time with the three-point mixer, running the plugin as a standalone app or VST/AU/AAX instrument within Kontakt Player.
-
 ## Cherry Audio Blue3 Tonewheel Organ
 <!-- role:pick -->
 <!-- pick:Cherry Audio Blue3 Tonewheel Organ -->
@@ -73,12 +67,6 @@ Wurlybird 140B suits pianists and producers chasing the classic 60s Wurlitzer 14
 <!-- pick:Native Instruments Action Strings 2 -->
 
 Native Instruments Action Strings 2 suits composers and producers working on cinematic soundtracks who need a full orchestral string ensemble sound with dramatic tension. They can compose string parts using a range of articulations captured from multiple mic positions, drawing on over 1,370 dynamic phrases that can be tweaked and blended in limitless combinations, via the free Kontakt Player (version 7.10 or higher).
-
-## Arturia V Collection 11 Pro
-<!-- role:pick -->
-<!-- pick:Arturia V Collection 11 Pro -->
-
-Arturia V Collection 11 Pro suits music makers who want a single suite spanning vintage-to-futuristic analog, digital, sampler-based, and electro-acoustic instrument sounds for production work. On compatible 64-bit systems (macOS 11+ or Windows 10+), they can use it standalone or load it as a VST, AAX, Audio Unit, or NKS plugin within their DAW, navigating and tweaking sounds through its refined interface and Analog Lab Pro's unified browser.
 
 ## Native Instruments Scene Nightshade
 <!-- role:pick -->
@@ -137,6 +125,16 @@ Native Instruments Halo Vox is suited to producers and vocal-focused music maker
 ## Native Instruments Luxa
 <!-- role:pick -->
 <!-- pick:Native Instruments Luxa -->
+
+## Native Instruments Nacht
+<!-- role:pick -->
+<!-- pick:Native Instruments Nacht -->
+
+Native Instruments Nacht suits techno producers who want unforgiving synths and distorted textures for basslines, pads, and leads, plus an intuitive step sequencer for building rhythms and sequences. Users can shape sounds in real time with the macro controls and work from 150 editable presets, running it in Kontakt 7.10.5 or higher or the free Kontakt Player.
+
+## Native Instruments Roux
+<!-- role:pick -->
+<!-- pick:Native Instruments Roux -->
 
 ## Explore more
 <!-- role:related -->

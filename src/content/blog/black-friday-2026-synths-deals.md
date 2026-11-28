@@ -2,7 +2,7 @@
 title: Black Friday 2026 Synths and Drum Machines Deals
 description: Tracked Black Friday price drops for Synths and Drum Machines plugins.
 pubDate: '2026-11-23'
-updatedDate: '2026-11-27T09:29:48.435717+00:00'
+updatedDate: '2026-11-28T10:10:04.354989+00:00'
 tags:
 - black-friday
 - vst
@@ -10,7 +10,6 @@ tags:
 evergreen: false
 draft: false
 priceTrack:
-- UAD Opal Morphing Synth
 - Model 80 Five Voice Synthesizer
 - SubLab XL
 - Cherry Audio Crumar Spirit
@@ -26,11 +25,7 @@ heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
 
-**TL;DR:** Track temporary price drops for 12 plugins and see [our evergreen comparisons](/best/synth/) for longer-term research.
-
-## UAD Opal Morphing Synth
-<!-- role:pick -->
-<!-- pick:UAD Opal Morphing Synth -->
+**TL;DR:** Track temporary price drops for 11 plugins and see [our evergreen comparisons](/best/synth/) for longer-term research.
 
 ## Model 80 Five Voice Synthesizer
 <!-- role:pick -->

@@ -2,7 +2,7 @@
 title: Black Friday 2026 iZotope Deals
 description: Tracked Black Friday price drops for iZotope plugins.
 pubDate: '2026-11-27'
-updatedDate: '2026-11-27T09:28:47.419546+00:00'
+updatedDate: '2026-11-28T10:10:04.354989+00:00'
 tags:
 - black-friday
 - vst
@@ -15,7 +15,6 @@ priceTrack:
 - iZotope RX 12 Elements
 - iZotope FXEQ
 - iZotope Ozone 12 Elements
-- iZotope Velvet
 - iZotope RX 12 Advanced
 - iZotope Neutron 5
 - iZotope Insight 2
@@ -27,9 +26,7 @@ heroImage: /images/best-plugin-boutique-black-friday-deals-2026.jpg
 ---
 <!-- guide:v4 kind=roundup -->
 
-**TL;DR:** Track temporary price drops for 13 plugins and see [our evergreen comparisons](/brands/izotope/) for longer-term research.
-
-iZotope's plugin lineup spans vocal processing, audio restoration, mixing, mastering, and metering, giving producers a toolkit for shaping, cleaning, and balancing sound at every stage of a project. From vocoders and de-essers to repair tools and tonal-balance meters, the collection below rounds up its range of audio software.
+**TL;DR:** Track temporary price drops for 12 plugins and see [our evergreen comparisons](/brands/izotope/) for longer-term research.
 
 ## iZotope VocalSynth 2
 <!-- role:pick -->
@@ -60,12 +57,6 @@ FXEQ suits producers and mixers working with bass, drums, synths, vocals, or key
 <!-- pick:iZotope Ozone 12 Elements -->
 
 iZotope Ozone 12 Elements suits anyone doing mastering work who wants guided help shaping a final mix, including vocal-heavy tracks, without having to build a signal chain from scratch. Users can run the Custom Assistant flow to target a genre or reference, pull in specific modules, and hit desired loudness levels, while leaning on the Vocal Checker and Assistive Vocal Balance to keep vocals sitting correctly, and the IRC 5 Maximizer mode for louder, cleaner limiting at the final stage.
-
-## iZotope Velvet
-<!-- role:pick -->
-<!-- pick:iZotope Velvet -->
-
-iZotope Velvet suits vocal mixers and engineers who want to tame harsh, sibilant vocal takes without dulling tone, using its 6-band dynamic EQ and one-click Learn feature to auto-detect problem frequencies. They can further shape the vocal by lifting or taming it toward one of 8 target profiles and clean up pops, clicks, and mouth sounds with a single De-Click fader.
 
 ## iZotope RX 12 Advanced
 <!-- role:pick -->
